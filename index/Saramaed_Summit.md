@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 61828
+revid: 62847
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -47,15 +47,16 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 
  | 
 
--   Knight's Helm
--   Etrean Siege Cuirass
--   Mercenary's Garb
--   Mercenary's Boots
--   Nomad Pendant
--   Red Eye Pendant
--   Sandrunner Scarf
--   Duelist Mask
--   Deepwoken Cloak
+-   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
+-   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
+-   [Mercenary's Garb](<Mercenary's_Garb.md>)
+-   [Mercenary's Boots](<Mercenary's_Boots.md>)
+-   [Nomad Pendant](Nomad_Pendant.md)
+-   [Red Eye Pendant](Red_Eye_Pendant.md)
+-   [Sandrunner Scarf](Sandrunner_Scarf.md)
+-   [Duelist Mask](Duelist_Mask.md)
+-   [Deepwoken Cloak](Deepwoken_Cloak.md)
 -   TBA
 
  | 
@@ -66,6 +67,7 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 -   [Trident Spear](Trident_Spear.md)
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
 -   [Iron Blunderbuss](Iron_Blunderbuss.md)
+-   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
 
  | 
 

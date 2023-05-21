@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 61851
+revid: 62834
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]

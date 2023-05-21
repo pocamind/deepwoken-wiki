@@ -1,9 +1,11 @@
 ---
 title: Ironsing
-revid: 62798
+revid: 62843
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Attunement]
+categories: [Upcoming content, Attunement]
+notices:
+  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
 # Ironsing
@@ -20,7 +22,3 @@ Ironsing is an attunement based around the ability to harness metal, commonly us
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
 -   Ironsinger was apparently an ancient attunement lost to time as stated by the Deepwoken twitter, how it managed to be recovered is unknown for now.
-
-## Notes
-
--   Some people have the ability to test Ironsing, such as the youtuber Agamatsu.

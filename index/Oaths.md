@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62799
+revid: 62854
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -62,7 +62,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 ― Oathsworn badge
 
-**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells,) players can only obtain one Oath per character. Oaths are causes players swear to live by, and as such you cannot take two Oaths because people cannot live by two causes.
+**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Oaths are causes players swear to live by as such you cannot take two Oaths because people cannot live by two causes.
 
 There are currently ten known obtainable Oaths in _Deepwoken._
 
