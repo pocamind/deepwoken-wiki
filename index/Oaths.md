@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62881
+revid: 62898
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -45,7 +45,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Dawnwalker | |
 |---|---|
-| oath_req | 30 Krysan Medallions |
+| oath_req | 30 Kyrsan Medallions |
 | effects | +2 Combat Mantra |
 
 | Oath: Contractor | |
