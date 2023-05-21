@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62899
+revid: 62908
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -141,7 +141,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity)
     -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
 
-### Alchemist (Useless)
+### Alchemist
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
     -   Prerequisites: 10 Intelligence

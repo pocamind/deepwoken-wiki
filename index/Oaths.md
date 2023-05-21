@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62898
+revid: 62904
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -375,9 +375,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
+“ These stars above us are more than constellations. You feel as though you can feel the entire world. A̷͉͌l̴͚͠l̶͎͆ ̶͍͛ȁ̶̫t̵͇́ ̵̦̂ǫ̶͂n̶̫̔c̸̘̎e̵̤͊.̶̊. E̷̖̓V̸͔͝E̷̟̍R̵͕̍Y̵̔͜W̶̱͘H̴̥͘E̸̱͝Ŕ̴̥E̵̼͝.̷̠̂ ”
 
-― Iblis, The Fallen Angel
+― Drinking the Holy Ichor
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
