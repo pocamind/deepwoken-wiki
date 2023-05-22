@@ -1,22 +1,18 @@
 ---
 title: Aratel Island
-revid: 43516
+revid: 62953
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, World, Locations, Eastern Luminant]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [World, Locations, Eastern Luminant]
 ---
 
 # Aratel Island
 
-LocationL Aratel Island LocationR
+## Overview
 
-TERRITORY OF
+Aratel Island is the name given to a large land mass in the Eastern Luminant, due to it existing in the [Aratel Sea](The_Aratel_Sea.md).
 
-  
-
-**Aratel Island** is a location in _Deepwoken_. It is an island that can be found in the [Aratel Sea](The_Aratel_Sea.md).
+Most of its surface is either part of the [Starswept Valley](The_Starswept_Valley.md) or the [Bluster Rift](Bluster_Rift.md).
 
 ## Points of Interest
 
@@ -30,5 +26,5 @@ TERRITORY OF
 
 ## Trivia
 
--   The island may also be called "Hive Island" by other players.
--   Blue objects often fall from the sky and land on Aratel Island. They were speculated to be fragments of the Celestial Civilization, but now it is known that they are fragments of stars. (see [Lore](https://deepwoken.fandom.com/wiki/Lore#Year_1286))
+-   Aratel Island is frequently referred to as "Hive" by other players.
+-   Small, blue meteorites often fall from the sky on the Island. They are likely to be fragments of the Celestials' Cities. (see [Lore](https://deepwoken.fandom.com/wiki/Lore#Year_1286))

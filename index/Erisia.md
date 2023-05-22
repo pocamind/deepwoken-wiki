@@ -1,35 +1,23 @@
 ---
 title: Erisia
-revid: 57936
+revid: 62951
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Islands]
+categories: [Locations, Islands, Etrean Luminant]
 ---
 
 # Erisia
 
-LocationL Erisia LocationR
+## Overview
 
-TERRITORY OF
+Erisia is a large island found in the Etrean Luminant, it was designed to be accessible via sailing straight from both the [Isle of Vigils](Isle_of_Vigils.md) and [Etris Docks](Etris_Docks.md).
 
-A land lost to time, now made a battleground for warriors who know not why they fight.
-
-  
-
-**Erisia** is a location in _Deepwoken_. It is an island that can be found in the [Etrean Sea](The_Etrean_Sea.md).
-
-## Points of Interest
-
--   [Lower Erisia](Lower_Erisia.md)
--   [Upper Erisia](Upper_Erisia.md)
--   [Burning Stone Gardens](Burning_Stone_Gardens.md)
+It is divided into two sections, being [Upper](Upper_Erisia.md) and [Lower Erisia](Lower_Erisia.md).
 
 ## Trivia
 
 -   Erisia is frequently referred to as "Bandit Island" by players.
--   As a whole, Erisia is the second largest landmass in Deepwoken, second to [Aratel Island](Aratel_Island.md).
--   Common ganking spot due to contractor bounties/boosting.
--   It's better to do [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP for later levels.
-    -   However, Upper Erisia is perfect for Strength/Weapon EXP as it has [Rock golems](Rock_Golem.md).
-    -   Trial of One gets you up to lvl 8 with no autodidact faster than farming golems up to lvl 8
-    -   It also has guaranteed [Megalodaunt](Megalodaunt.md) and [Terrapod](Terrapod.md) spawns.
+-   As a whole, Erisia is the second largest landmass in Deepwoken, only behind [Aratel Island](Aratel_Island.md).
+-   Common [ganking](Glossary.md) spot due to contractor bounties/boosting.
+-   It's better to do the [Trial of One](Trial_of_One.md) and then move onto [Starswept Valley](The_Starswept_Valley.md) due to Erisia NPC's giving little to no EXP for later levels.
+    -   However, Upper Erisia is perfect for Strength/Weapon EXP due to the [Megalodaunt](Megalodaunt.md) nest in Upper Erisia and the [Rock Golems](Rock_Golem.md) in the [Burning Stone Gardens](Burning_Stone_Gardens.md).

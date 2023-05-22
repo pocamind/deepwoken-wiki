@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 62892
+revid: 62940
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -17,22 +17,22 @@ Home to the Rotten Lot, a vessel carrying crew members of countless origins hopi
   
 Template:Areainfobox
 
-**The Scoundrel's Bounty** is not a dungeon that takes the form of a populated ship in what seems to be the middle of nowhere on the open sea, it does not function as a [boat](Ships_&_Sailing.md), and is an immovable location, similar to an island. This is where the events of the [Tutorial](Tutorial.md) take place.
+**The Scoundrel's Bounty** is a dungeon that takes the form of a populated ship in what seems to be the middle of nowhere on the open sea, it does not function as a [boat](Ships_&_Sailing.md), and is an immovable location, similar to an island. This is where the events of the [Tutorial](Tutorial.md) take place.
 
 ## Contents
 
 ### Antiquarian
 
--   Players can't find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
+-   Players can find an [Antiquarian](Antiquarian.md) who will purchase their sellable items.
 -   Players can purchase the Dumbbell (STR) for.
 
 ## NPCs
 
 -   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
-    -   A tall Canor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md), the Celtor Commander Plate and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat resting and equipment how Antiquarians work, and Talent and Mantra hands Captain of the ship.
+    -   A tall Felinor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md), the Celtor Commander Plate and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat, resting and equipment, how Antiquarians work, and Talent and Mantra hands. Captain of the ship.
     -   Can be seen in [2nd floor](Second_Layer.md#new-kyrsa-f2) of Layer 2.
 -   Flabbermaster Filigree
-    -   A Felinor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
+    -   A Gremor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
 -   Frank F'alzone
     -   A Celtor wearing the [Verdant Sniper](Verdant_Sniper.md) outfit. Presumably the cartographer/janitor of the ship.
 -   Pete
@@ -40,7 +40,7 @@ Template:Areainfobox
 -   Mr. Quarters
     -   An Adret wearing the [Darksteel Plate](Darksteel_Plate.md) outfit. Halfmaster of the ship.
 -   Serendi
-    -   A 'tall' Etrean wearing an unknown/unconfirmed outfit, propped up on two crates. She hints towards the incoming Authority attack by mentioning the ship that she sees on the horizon.
+    -   A 'short' Etrean wearing an unknown/unconfirmed outfit, propped up on two crates. She hints towards the incoming Authority attack by mentioning the ship that she sees on the horizon.
 
 ## Trivia
 

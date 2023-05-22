@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 62889
+revid: 62943
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Character, Mechanics]
@@ -131,9 +131,10 @@ This allow the user to track down those who stay silent or are trying to hide fr
 
 ## Trivia
 
--   Some murmurs are named after musical terms.
-    -   Tacet, which is translated into 'silent', whereas the murmur completely silences your actions by making you invisible.
-    -   Rhythm, in which the user listens beats emanating from entities.
+-   All Murmurs having links to music.
+    -   Tacet translates to 'silent', while the Murmur completely silences your actions by making you invisible.
+    -   Rhythm, meaning the systematic arrangement of musical sounds, in which the user listens to beats emanating from entities.
+    -   Ardour means great enthusiasm or passion, but is also the name of a [softwar](<https://en.wikipedia.org/wiki/Ardour_(software)>)e that allows for the creation of music.
 -   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring, but was later reintroduced into Verse 2 by said methods.
 -   Murmurs were introduced through the [Mur of Light](Mur_Of_Light.md).
 -   Tacet is the only murmur to have a corresponding mantra.

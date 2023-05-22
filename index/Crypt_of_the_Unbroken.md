@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 60908
+revid: 62941
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzones]
@@ -81,9 +81,14 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
 -   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword.
 -   Gripping an enemy will agro everything in the dungeon, including the Alpha sharko, so burn the enemies or bring them outside before gripping them
--   Good place to farm books, the library has tons of bookshelves
+-   Good place to farm books, the library has tons of bookshelves.
 -   Characters with the Mute [Regalia](Regalia.md) would instead be spared and insulted "INFERIOR" when knocked by them, similar to various guards when you have maximum reputation.
--   If you are inexperienced with farming this dungeon, you can simply lure the Immortal Gaurdians out of the dungeon to avoid going to The Depths because it is a Voidzone
+-   If you are inexperienced with farming this dungeon, you can simply lure the Immortal Guardians out of the dungeon to avoid going to The Depths because it is a Voidzone.
+
+-   Tip: With the assassin talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
+    -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
+    -   If you air dash above them quick enough you can assassinate them before they spot you or not even spotting you.
+    -   Tacet and animal king are heavily recommended the for assassination grind but not essential.
 
 File:Animal King slot getting knocked by immortal guardian and called inferior..png
 

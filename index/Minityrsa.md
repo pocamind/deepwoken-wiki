@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 61301
+revid: 62942
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Etrean Luminant]
@@ -14,15 +14,13 @@ Ocean water freezes against the stone, as if trying to climb onto the shore.
 
   
 
+File:Mini.png
+
 **Minityrsa** is a location in _Deepwoken_. It is an island found in the Etrean Luminant.
 
 ## Overview
 
 Minityrsa is an island perpetually blanketed in snow. It can be found to the right of the Luminant Gates.
-
-File:Mini.png
-
-Minityrsa
 
 ## Points of Interest
 
