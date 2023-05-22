@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 59067
+revid: 62931
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Legion Snipers are Humanoid NPCs who appear to wear a [Legion Centurion](Legion_Centurion.md) outfit along with a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots. They only use a single attack, that being the "[Grand Javelin](Thundercall.md)" mantra. This encounter is exclusive to [Starswept Valley](The_Starswept_Valley.md). Killing one will reward the player with a chest.
 
-According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire, but it's unclear if these are orders or they just feel like killing everyone. The Legion does not appear to care about their death all too much either, killing them does not affect your [Reputation](Reputation.md).
+According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire, but it's unclear if these are orders or they just feel like killing everyone.
 
 ## Moveset
 
@@ -51,7 +51,6 @@ Grand Javelin
 
 ## Tips
 
--   They are always hostile, no matter your Reputation with the Legion, **you will not lose Reputation from killing this one.**
 -   He will let you get 1 hit in before parrying the 2nd, so **just hit it once and prepare to parry his attacks.**
 -   Using Bolt Piercer or [Shard Bow](Shard_Bow.md), or any projectile-based mantras **will make him walk towards you a few steps.**
 -   Grand Javelin can be blocked with high enough posture.

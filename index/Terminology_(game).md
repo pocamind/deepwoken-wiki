@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 60628
+revid: 62925
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
@@ -147,6 +147,8 @@ _verb_
 
 1.  Events that happen usually from players to players, either happening randomly as a chance or requiring certain set-ups
     1.  Ex. Turtle Shell, a shield based talent, negates the proccing of Spine Cutter when the user has their shield on their back.
+
+spin back tell an enemy to wait for you to come back to retry stay here imma spin back
 
 ## Outside Combat
 

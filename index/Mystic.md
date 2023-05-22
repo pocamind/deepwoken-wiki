@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 62909
+revid: 62932
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -27,7 +27,7 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 
 ## Dialogue
 
-Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare talents are not affected by Mystic at all. Here are but a few of the possible prompts: It shows you multiple talents which show by sayings. Which are:
+Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare talents are not affected by Mystic at all. Here are but a few of the possible prompts:
 
 ## Attributes
 

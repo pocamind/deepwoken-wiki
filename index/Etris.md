@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 62744
+revid: 62921
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -104,6 +104,7 @@ The Etris blacksmith house.
 -   Mushroom Omelettes can be purchased on the grill for.
 -   Mushroom Bisque can be purchased for.
 -   Mushroom Omelettes on the table can be purchased for.
+-   Megurgers can be purchased for.
 -   [Flame Worshipper Shield](<Worshipper's_Shield.md>) can be purchased for.
 -   Behind the shop, a schematic for [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for.
 

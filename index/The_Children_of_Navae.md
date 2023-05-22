@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 62794
+revid: 62917
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -35,7 +35,3 @@ notices:
 ## NPCs
 
 -   [Eastern camp master](Cheral.md)
-
-## Trivia
-
--   If you have bad Rep with this faction and you have the Obvious flaw, while passing through to the Etris Docks, one NPC will come after you.

@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 62444
+revid: 62916
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Character, Mechanics]
+categories: [Weapons, Character, Mechanics, Pages with math errors, Pages with math render errors]
 ---
 
 # Weapons
@@ -484,7 +484,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
-  <td><b>Swing Speed</b></td>
+  <td><b>Swing Spee</b></td>
 </tr>
 <tr>
   <td><a href="Sword_(weapon).md">Sword</a></td>
@@ -1697,7 +1697,7 @@ This means that if there are 2 attributes on which the damage scales:
 
 Therefore (the names have been shortened to fit the formula in the page):
 
--   T S D \= { B D × A 1 S c l × A 1 L v l × \[ 1 + ( P f y × 0.05 ) \] } + { B D × A 2 S c l × A 2 L v l × \[ 1 + ( P f y × 0.05 ) \] } {\\displaystyle TSD = \\Bigl \\lbrace BD \\times A1Scl \\times A1Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace + \\Bigl \\lbrace BD \\times A2Scl \\times A2Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace } {\\displaystyle TSD={\\Bigl \\lbrace }BD\\times A1Scl\\times A1Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }+{\\Bigl \\lbrace }BD\\times A2Scl\\times A2Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }}
+-   **Failed to parse (SVG (MathML can be enabled via browser plugin): Invalid response ("Math extension cannot connect to Restbase.") from server "http://mathoid-facade/v1/":): {\\displaystyle TSD = \\Bigl \\lbrace BD \\times A1Scl \\times A1Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace + \\Bigl \\lbrace BD \\times A2Scl \\times A2Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace }**
 
 Which can be simplified as:
 

@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 62402
+revid: 62928
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -23,7 +23,7 @@ categories: [Resonances]
 
 ### _Appearance_
 
-When used, small circles appear around your right arm. Per use, more circles will appear indicating an increase in level.
+When used, small circles appear around your right arm. Per use, more circles will appear indicating an increase in level. The circles can be multiple different colors, such as green or gold.
 
 ## Usage
 
@@ -47,3 +47,4 @@ When obtained, Wind-Up will spend its points on the following stats:
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left
 -   Especially devastating on heavy.
 -   ATTENTION! Does not proc on mantras.
+-   As stated, Wind-up has different colors, though the only two _currently known_ are gold and green.
