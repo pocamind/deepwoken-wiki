@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 62843
+revid: 62984
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Attunement]
@@ -15,6 +15,10 @@ Your ability to harness metal from your surroundings.
 ## Description
 
 Ironsing is an attunement based around the ability to harness metal, commonly used by Blacksmiths around Lumen.
+
+## Training Ironsing
+
+use the giant metal fruit and eat it to train it fucker
 
 ## Trivia
 
