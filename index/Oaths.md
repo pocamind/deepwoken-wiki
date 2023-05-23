@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 62904
+revid: 63186
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -521,6 +521,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   **Radiant Kick ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
         -   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
+
+-   **Radiant Dawn ★★★ - Combat Mantra**
+    -   Description
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 

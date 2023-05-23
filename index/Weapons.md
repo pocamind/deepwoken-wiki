@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 62996
+revid: 63164
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1549,6 +1549,18 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>6</td>
   <td>8</td>
   <td>0.62x</td>
+  <td>No</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher"><font>Ignition Deepcrusher</font></a></td>
+  <td>75 MTL, 60 MED,</td>
+  <td>18</td>
+  <td>15%</td>
+  <td>MTL: 4 MED: 3</td>
+  <td>4</td>
+  <td>8</td>
+  <td>0.79x</td>
   <td>No</td>
   <td>N/A</td>
 </tr>
