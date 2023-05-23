@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 62853
+revid: 63261
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -68,6 +68,10 @@ categories: [Deepwoken]
     -   [Oni](https://rogue-lineage.fandom.com/wiki/Oni) itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.
 -   **Shadow Travel** may be a reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
 -   **Rising Shadow** is a reference to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203), one of Lannis' abilities from _Rogue Lineage_.
+
+### **Ironsing**
+
+-   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura (Better known as Uber Shinobi)](https://rogue-lineage.fandom.com/wiki/Uber_Shinobi?so=search) class.
 
 ### **Attunementless**
 
@@ -221,7 +225,6 @@ categories: [Deepwoken]
 -   **Etrea** is very similar to a mixture of various East Asian countries.
 -   **The Ministry** is possibly a reference to _The Ministry_ from _Fahrenheit 451._
 -   **The Knives of Eylis** is a reference to a faction in _Dishonored_ with a similar concept: a place that only exist within dreams, willingly (or not) joining a group of assassins, a supernatural entity that allow said group to exist.
--   **The Divers** and specially the black divers may be referencing the whistles of made in abyss, having the rank of Black Diver being very similar in design of the armor (Bondrewds) and concept to the White Whistles
 
 ### **Races**
 
@@ -240,12 +243,9 @@ categories: [Deepwoken]
 
 ### **Misc**
 
--   While some might pass this off as a coincidence, Gunsmith Rosen's name may be a slight nod to Eric Rosen, a chess player, as many of the races in Rogue Lineage were named after chess players. (This is a misconception, some Rogue Lineage races have names similar to chess players but they're also some corruption of a word the race revolves around, such as Castellan with Casting and Morvid with Corvid.)
 -   The Drowned Gods are inspired by the gods from the H.P. Lovecraft mythos:
     -   Perceiving them drives you to insanity.
     -   They are too great to interact with the world normally, and must interact with it via shrines, avatars and vessels.
     -   They have to be summoned via rituals.
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
--   The name of **Akira** may be inspired/directly taken from the movie "Akira".
--   **Amorus Pleeksty'**s story is believed to have taken inspiration from [White Whistle Lyza](https://miabyss.fandom.com/wiki/Lyza) from the Anime Made in Abyss, specifically due to the many similarities that the Divers faction has with the Whistles of _Made in Abyss_.
 -   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.

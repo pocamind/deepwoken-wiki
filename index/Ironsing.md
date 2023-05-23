@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63230
+revid: 63263
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,7 +14,7 @@ Your ability to harness and control metal from your surroundings.
 
 Ironsing Icon
 
-"Ironsing" is an attunement based around the ability to harness metal, commonly used by Blacksmiths around the Luminants. The [Spelltrainer](Attunement_Trainers.md) can be found on the second bridge at Ignition Union Base.
+"Ironsing" is an attunement based around the ability to harness metal, commonly used by Blacksmiths around the Luminants. The [Spelltrainer](Attunement_Trainers.md) can be found inside of a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Training Ironsing
 
@@ -43,7 +43,7 @@ Metal Kick
 
 (★☆☆)
 
- | A powerful kick laced with metal | 20 Ether | Rise up before landing swiftly with an axe-kick dealing medium damage and applying knockdown to anyone hit. |
+ | A powerful kick laced with metal | 20 Ether | Rise up before landing swiftly with an axe-kick dealing medium damage and applying knockdown to anyone hit. Can be modified with a spring spark to replace it with a faster, non-jumping variant that doesn't apply knockdown. |
 |  | Metal Rain
 
 (★★☆)
@@ -58,7 +58,7 @@ Metal Kick
 
 (★★☆)
 
- | Summon a blade of metal to swing alongside you. | 20 Ether | Upon use, coat both your body and sword in an ironlike and fluctuating iron-bits. While active, every hit with an interval of 3 seconds will proc a weapon closely in appearence to a Kyrscleave, appearing shortly after the M1 and dealing damage equivalent to your regular M1. Each hit is parriable and doesn't apply any Metal Rods. |
+ | Summon a blade of metal to swing alongside you. | 20 Ether | Upon use, coat both your body and sword in an ironlike and fluctuating iron-bits. While active, every hit with an interval of 3 seconds will proc a weapon closely in appearence to a Kyrscleave, appearing shortly after the M1 and dealing damage equivalent to your regular M1. Each hit is parriable and doesn't apply any Metal Rods. Also applies your current enchant. |
 |  | Firing Line
 
 (★★☆)
@@ -96,7 +96,11 @@ Metal Kick
 |  | Iron Skin (Support)
 (★☆☆)
 
- | Coat your skin with metal to reduce harm. | 20 Ether | As the description implies, upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use. |
+ | Coat your skin with metal to reduce harm. | 20 Ether | As the description implies, upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use.
+
+Almost completely negates fall damage
+
+ |
 
 ## **Talents**
 
@@ -361,5 +365,7 @@ Your weapon M1's have +0.25 range.
 -   First accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
+-   First user of Ironsing element without including specs, was IT0\_FR
 -   Ironsing has 12 mantras and 11 talents.
 -   Ironsinger was apparently an ancient attunement lost to time as stated by the Deepwoken twitter, how it managed to be recovered is unknown for now.
+-   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.

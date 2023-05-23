@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63196
+revid: 63262
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1269,7 +1269,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Mindbreaker
 
--   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
+-   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity) (Possibly broken?)
     -   Prerequisites: 85 Willpower
 
 ### Mountain Climber

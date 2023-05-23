@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 63219
+revid: 63239
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -15,7 +15,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
 | damage | 18 + 5.4 BLD (1H) , 18 (2H) |
 | scaling | Ironsing: 4 Medium: 3 |
 | range | 8 |
-| swing speed | 0.79% |
+| swing speed | 0.79x |
 | penetration | 15% |
 | special effect | 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
 | stances | 2 Handed, 1 Handed |
@@ -25,7 +25,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths: Layer 1/Layer 2 (Floor 1/Floor 2)Duke Erisia |
+| obtainment | The Depths: Layer 1/Layer 2 (Floor 1/Floor 2) |
 
 ## Description
 
@@ -38,10 +38,18 @@ This weapon is both a Club and a Sword, which change depending on the stance use
 
 At 100 MED and 100 MTL, this weapon deal 30.6 damage while in Club form, and 30.6 + 9.18 BLD damage while in Sword form.
 
+## Critical Attack
+
+The user goes in a pride stance with their weapon facing down, and releases a metal eruption surrounding the player.
+
 ## Trivia
 
 -   The Ignition Deepcrusher is the first weapon to be part of "two categories" as it's stances are both Clubs and Blades as you can change them by pressing Y. This is similar to the difference shown by the Curved Blade of Winds, however to a larger extent that it changes the weapon type from Club to Sword (vice versa).
 -   The Sword form (at 100 MED and 100 MTL) is the second most damage sword in the game, beaten by the Razor Cutlass (39.78 VS 40.95)
 -   Meanwhile, the Club form (at 100 MED and 100 MTL) is the second most damaging club in the game, beaten by the Sacred Hammer (30.6 VS 33.15)
--   Probably Based off of the [Kirk Hammer](https://bloodborne.fandom.com/wiki/Kirkhammer?so=search) from bloodborne
+-   Arch has confirmed that the weapon is inspired by the Kirkhammer from Bloodborne
 -   Based off the leftover weapon, it was supposed to be a heavy weapon at one point. (Probably)
+
+  
+
+Proof that the Deepcrusher is inspired by the Kirkhammer

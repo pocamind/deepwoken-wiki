@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 62921
+revid: 63264
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -179,7 +179,7 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 
 -   Make sure you talk to the Royal Guards to tell them that the The Lord Regent is expecting you, making them docile unless provoked.
 
--   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hires you into doing his bidding of obtaining an Artifact (Known as The Forge) in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), in [Erisia](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
+-   Heading upstairs, talk to The Lord Regent **(DO NOT GET TOO CLOSE TO HIS THRONE, SLOWLY WALK TO SEE THE TALK PROMPT APPEAR)**, he will hire you into doing his bidding of obtaining an Artifact (Known as The Forge) in [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>), in [Erisia](Erisia.md). Upon accepting his offer, he hands you the key to the locked iron gate in the Manor.
 -   Traverse through [Erisia,](Erisia.md) go through [Towerstruck Lands](Towerstruck_Lands.md) and into the [Garden Reservoir](The_Garden_Reservoir.md), there, a Teleporter will be seen, which leads to the Manor.
 -   To use the Key to unlock the black iron gate, the Key must be glowing white.
 -   Descend to the Elevators, and fight against a handful of Enemies and Humanoid Constructs.
