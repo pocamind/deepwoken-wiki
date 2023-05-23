@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 60194
+revid: 62989
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -13,7 +13,7 @@ categories: [Weapons, Spears]
 | type | Spear |
 | requirements | 90 MED |
 | damage | 18.5 |
-| scaling | 6 |
+| scaling | 7 |
 | range | 9 |
 | swing speed | 0.72x |
 | penetration | 20% |

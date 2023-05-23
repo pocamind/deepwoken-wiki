@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 58738
+revid: 63088
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -52,7 +52,7 @@ A question from the math textbook
 -   Encyclopedia - Template:Cost / **200 uses**
 -   Math Textbook - Template:Cost / **200 uses**
 
-Located at the bookstores in Etris and the Isle of Vigils.
+Located at the bookstores in Isle of Vigils and the Isle of Vigils.
 
 ### Willpower
 
@@ -78,7 +78,8 @@ Like Attributes, Attunements also have Training Items correlated to them and wil
 -   [Frostdraw](Frostdraw.md) - Hermafrost for Template:Cost with 200 uses
 -   [Flamecharm](Flamecharm.md) - Hearthgem for Template:Cost with 150 uses
 -   [Shadowcast](Shadowcast.md) - Pure Heart for Template:Cost with 200 uses
--   Galebreath - Gale Kata for Template:Cost with 200 uses
+-   Galebreath - Gale Kata for Template:Cost with 100 uses
+-   [Ironsing](Ironsing.md) - Ferrofluid for Template:Cost
 
 ## Trivia
 

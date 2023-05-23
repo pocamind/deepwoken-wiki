@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 62908
+revid: 63069
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -85,6 +85,15 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affects your movement. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
     -   Prerequisites: 10 Agility, 10 Strength
+
+### Adaptive Arsenal
+
+-   Exposed Durability \[Common Talent, Metal\] - Deal 10% more damage to opponents with no armor durability left.
+    -   Prerequisite: 60 Metal
+-   _An Ironsinger's Instinct_ \[Rare Talent, Metal\] Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
+    -   Prerequisite: 75 Metal
+-   _Phantom Edge_ \[Rare Talent, Metal\] Your weapon M1's have +0.25 range.
+    -   Prerequisite: 75 Metal
 
 ### Adept Caster
 
@@ -1032,6 +1041,16 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 -   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement. (Power level doenst count)
 
+### Ironsinger
+
+-   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
+-   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
+    -   Prerequisite: 20 Metal
+-   Expert Ironsinger \[Common Talent\] - You can now obtain 2-star Ironsinger mantras.
+    -   Prerequisite: 30 Metal
+-   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
+    -   Prerequisite: 50 Metal
+
 ### Iron Will
 
 -   Willpower Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your willpower to its fullest.
@@ -1228,6 +1247,13 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Reduces an item's price by about 12%.
     -   Obtained by equipping an [Aristocrat Coat](Aristocrat_Coat.md).
 
+### Metallurgist
+
+-   Ironclad Punishment \[Common Talent\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
+    -   Prerequisites: 45 Metal
+-   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
+    -   Prerequisites: 45 Metal
+
 ### Metamancer
 
 These are just raw stat increases and are beneficial to anyone.
@@ -1390,6 +1416,12 @@ These are just raw stat increases and are beneficial to anyone.
 -   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. (+4 Ether, +4 Elemental Intensity)
     -   Prerequisite: 35 Thundercall
 
+### Rending Needle
+
+-   _Rendering Impact: Impaler_ \[Rare Talent, Metal\] If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
+    -   Prerequisites: Master Ironsinger, 75 Metal
+    -   Ironsing Pull is activated by pressing X.
+
 ### Saboteur
 
 -   _Family Recipe \[Unlockable Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)_
@@ -1432,6 +1464,7 @@ These are just raw stat increases and are beneficial to anyone.
 ### Seeker of Sound
 
 -   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut reduces its cost.
+    -   Reduces the cost of the mantra by 20%.
 
 ### Self-Shocker
 

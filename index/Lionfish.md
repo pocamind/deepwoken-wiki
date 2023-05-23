@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 62420
+revid: 63097
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -73,6 +73,8 @@ This will auto-grip you if hit by it at low health.
 -   You can spawn Lionfish by fishing with a low chance.
 -   The lionfish itself and it's moves may look intimidating but the lionfish is one of the easiest mobs in the game as it has only a few attack patterns and its beam can be easily dodged.
 -   Will usually spawn if you happen to travel to [Voidsea](Voidsea.md) and sail near certain bubble particles. The larger bubbles may also spawn the [Dread Serpent](Dread_Serpent.md) boss.
+-   The regular cero will not damage you if it goes through a solid object before hitting you. The reduced wind-up grip cero can go through walls.(may have been changed as it didn't go through a wall while I was knocked recently but it has in the past)
+-   The fact that the beam cannot go through walls makes it very easy to cheese by simply going on a ledge that is just above the Lionfish.
 
 ## Trivia
 
@@ -81,3 +83,4 @@ This will auto-grip you if hit by it at low health.
 -   The Cero attack is inspired by the [attack of the same name](https://bleach.fandom.com/wiki/Cero) from the _Bleach_ franchise, using the same sfx and with the lionfish's pose before firing it resembling the [Menos Grande](https://bleach.fandom.com/wiki/Hollow#Gillian) that introduced the technique.
 -   The Cero is Galebreathe based.
 -   If you use a sea highway, even a dinghy can outrun them.
+-   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.

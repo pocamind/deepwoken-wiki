@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 62945
+revid: 62996
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -826,9 +826,9 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>0.68x</td>
 </tr>
 <tr>
-  <td><a href="Serrated_Warspear.md">Serrated Warspear</a></td>
+  <td><a href="Serrated_Warspear.md">Serrated Warspear</a> (<b>Bleed</b>)</td>
   <td>65 MED</td>
-  <td>20</td>
+  <td>18</td>
   <td>20%</td>
   <td>N/A</td>
   <td>MED: 6</td>
@@ -875,7 +875,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>18.5</td>
   <td>20%</td>
   <td>40%</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>5</td>
   <td>9</td>
   <td>0.72x</td>
@@ -883,7 +883,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
 <tr>
   <td><a href="Kyrsglaive.md">Kyrsglaive</a> (<b>Bleed</b>)</td>
   <td>90 MED</td>
-  <td>19.5</td>
+  <td>18.5</td>
   <td>20%</td>
   <td>N/A</td>
   <td>MED: 5</td>

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 62452
+revid: 63022
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -346,7 +346,7 @@ _An arc of ice._
 -   Deals heavy damage when it hits an opponent.
 -   Inflicts Chill.
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
--   Can be modified with Cloudstones to form more arcs.
+-   Can be modified with Cloudstones to become wider.
 -   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
     -   Applying a lens will have a chance of nullifying the Cloudstones effect, ex: **3 cloudstones + 3 perfect lenses = 4 arcs**
 
