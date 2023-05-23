@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63186
+revid: 63223
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -678,7 +678,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   Drinking an Attunement potion while in the Dreadstar's dialogue no longer gives you the Attunement
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
--   The Attunementless Trainer cannot be killed for progression despite Attunementless Mantras also using the song.
+-   The Ironsing Trainer and Attunementless Trainer cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song.
 -   A very strong oath, it alters the playstyle of the game however.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
     

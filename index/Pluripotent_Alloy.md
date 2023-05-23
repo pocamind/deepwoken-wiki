@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 61106
+revid: 63226
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -19,6 +19,8 @@ categories: [Items]
 ## Description
 
 The Pluripotent Alloy is an item in Deepwoken that you can apply to midgame weapons. It upgrades the stats of an applicable weapon into that of an endgame-level weapon, on par with the likes of the [Shattered Katana](Shattered_Katana.md), [Krulian Knife](Krulian_Knife.md) and [Pale Morning](Pale_Morning.md).
+
+Though, it can also be used to obtain the attunement known as [Ironsing](Ironsing.md).
 
 ## How to Obtain
 

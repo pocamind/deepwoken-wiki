@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 60856
+revid: 63233
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links, Items]
 ## Description
 
 File:Iron bomb.png
+
+Credit to Attking1234#4691
 
 A ball-shaped explosive used to damage monsters and players. It can be thrown with the keybind 'E'.
 

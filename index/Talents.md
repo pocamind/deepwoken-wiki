@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63175
+revid: 63196
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -416,7 +416,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cold Phantom
 
--   Freezing Wight \[Common Talent, Frostdraw and Galebreathe Exclusive\] - Your Haunted Gale now procs Chilled. (+5 Elemental Intensity)
+-   Freezing Wight \[Common Talent, Dual Attunement\] - Your Haunted Gale now procs Chilled. (+5 Elemental Intensity)
     -   Prerequisites: Haunted Gale, 40 Frostdraw
 
 ### Colossus
@@ -443,7 +443,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cosmic Wind
 
--   Pressure Detonation \[Common Talent, Shadowcast and Galebreathe Exclusive\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
+-   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
 
 ### Critical Specialist
 
@@ -755,7 +755,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Flashfreeze
 
--   Temperature Shock \[Common Talent, Flamecharm and Frostdraw Exclusive\] - Your fire mantras now detonate any stacked crystals.
+-   Temperature Shock \[Common Talent, Dual Attunement\] - Your fire mantras now detonate any stacked crystals.
     -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
 
 ### Freak Of Nature
@@ -910,7 +910,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Heat Column
 
--   Fan the Flames \[Common Talent, Flamecharm and Galebreathe Exclusive\] - Your stored Wind mantras can now empower your Fire mantras.
+-   Fan the Flames \[Common Talent, Dual Attunement\] - Your stored Wind mantras can now empower your Fire mantras.
     -   Prerequisites: Inhale, 40 Flamecharm
 
 ### Heretic
@@ -1169,7 +1169,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Lichtenberg
 
--   Scorched Peak \[Common Talent, Flamecharm and Thundercall Exclusive\] - Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
+-   Scorched Peak \[Common Talent, Dual Attunement\] - Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
     -   Prerequisites: 50 Thundercall, 25 Flamecharm
 
 ### Limitbreaker
@@ -1388,7 +1388,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Puppet Master
 
--   Twisted Puppets \[Common Talent\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
+-   Twisted Puppets \[Common Talent, Dual Attunement\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
     -   Prerequisites: Corpse Explosion, 50 Flamecharm & 70 Shadowcast
 
 ### Pyromancer
@@ -1582,7 +1582,7 @@ Prerequisite: Charisma
 -   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame.
     -   Prerequisite: Discovery of Fire, 1 Flamecharm
 
--   Dark Receiver \[Common Talent, Shadowcast & Thundercall exclusive\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
+-   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Shadowcast
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long. (+8 Reservoir,+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
@@ -1615,7 +1615,7 @@ Prerequisite: Charisma
 
 ### Stormcaller
 
--   Storm Link \[Common Talent, Thundercall and Galebreathe Exclusive\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
+-   Storm Link \[Common Talent, Dual Attunement\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
     -   Prerequisite: Static Link, 60 Thundercall, 50 Galebreathe
 
 ### Sturdy Resolve

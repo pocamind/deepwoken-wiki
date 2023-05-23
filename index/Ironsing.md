@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63195
+revid: 63230
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Attunement]
 Your ability to harness and control metal from your surroundings.
 
 ## Description
-
-File:Ironsingicon.png
 
 Ironsing Icon
 
@@ -32,7 +30,9 @@ To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.
 (☆☆☆)
 
  | A fury of metal spikes. | 40 Ether | The user stomps on the ground, and spawns a fury of metal spikes, similar to Ice Eruption. |
-|  | Needle Barrage
+| 
+
+ | Needle Barrage
 
 (☆☆☆)
 
@@ -98,55 +98,268 @@ Metal Kick
 
  | Coat your skin with metal to reduce harm. | 20 Ether | As the description implies, upon use you coat your skin with a dark-ironlike substance, negating 75% of damage taken during the mantra's use. |
 
-## Talents
+## **Talents**
 
-### Ironsinger
+**Ironsinger:**
 
--   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
--   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
-    -   Prerequisite: 20 Metal
--   Expert Ironsinger \[Common Talent\] - You can now obtain 2-star Ironsinger mantras.
-    -   Prerequisite: 30 Metal
--   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
-    -   Prerequisite: 50 Metal
+These are talents found in "_Ironsinger_" Category.
 
-### Rending Needle
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Ironsingicon.png
 
--   _Rending Needle: Conductor_ \[Rare Talent, Metal\] 5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental mantra, they're dealt their elemental back in turn. (+1 Posture)
-    -   Prerequisites: Master Ironsinger, 75 Metal
+ | 
 
--   _Rending Needle: Impaler_ \[Rare Talent, Metal\] If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
-    -   Prerequisites: Master Ironsinger, 75 Metal
-    -   Ironsing Pull is activated by pressing X.
--   _Rending Needle: Jailer_ \[Rare Talent, Metal\] If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. (+1 Posture)
-    -   Prerequisites: Master Ironsinger, 75 Metal
-    -   Ironsing Pull is activated by pressing X.
+Ironsinger
 
-### Metallurgist
+ | 
 
--   Ironclad Punishment \[Common Talent\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
-    -   Prerequisites: 45 Metal
--   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
-    -   Prerequisites: 45 Metal
+Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
 
-### Adaptive Arsenal
+ | 
 
--   Exposed Durability \[Common Talent, Metal\] - Deal 10% more damage to opponents with no armor durability left.
-    -   Prerequisite: 60 Metal
--   _An Ironsinger's Instinct_ \[Rare Talent, Metal\] Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
-    -   Prerequisite: 75 Metal
--   _Phantom Edge_ \[Rare Talent, Metal\] Your weapon M1's have +0.25 range.
-    -   Prerequisite: 75 Metal
+Press X to pull targets with Metal Rods towards you.
 
-Intuitive Repairs: Your 'Iron Skin' repairs armor while it's active.
+ |
+| 
 
-File:Rending Needle Jailer.png
+File:Ironsingicon.png
+
+ | 
+
+Adept Ironsinger
+
+ | 
+
+You can now obtain 1-star Ironsinger mantras.  
+**Prerequisite: 20 Metal**
+
+ | 
+
+Unlocks 1-star Ironsing Mantras
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+Expert Ironsinger
+
+ | 
+
+You can now obtain 2-star Ironsinger mantras.  
+**Prerequisite: 30 Metal**
+
+ | 
+
+Unlocks 2-star Ironsing Mantras
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+Master Ironsinger
+
+ | 
+
+You can now obtain 3-star Ironsinger mantras.  
+**Prerequisite: 50 Metal**
+
+ | 
+
++5 Health FROM: Ironsinger
+
+ |
+
+**Rending Needle:**
+
+These are talents found in "_Rending Needle_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Ironsingicon.png
+
+ | 
+
+Rending Needle: Conductor
+
+ | 
+
+5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental mantra, they're dealt their elemental back in turn.  
+**Prerequisites: 75 Metal**
+
+ | 
+
++1 Posture FROM: Ironsinger
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+Rending Needle: Impaler
+
+ | 
+
+If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.  
+**Prerequisites: 75 Metal**
+
+ | 
+
++1 Posture FROM: Ironsinger
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+Rending Needle: Jailer
+
+ | 
+
+If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.  
+**Prerequisites: 75 Metal**
+
+ | 
+
++1 Posture FROM: Ironsinger
+
+ |
+
+**Metallurgist:**
+
+These are talents found in "_Metallurgist_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Ironsingicon.png
+
+ | 
+
+Ironclad Punishment
+
+ | 
+
+Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.  
+**Prerequisites: 45 Metal**
+
+ | 
+
+Placeholder
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+Thornmail
+
+ | 
+
+Getting flourished applies a metal rod on your attacker.  
+**Prerequisites: 45 Metal**
+
+ | 
+
+Placeholder
+
+ |
+
+**Adaptive Arsenal:**
+
+These are talents found in "_Adaptive Arsenal_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Ironsingicon.png
+
+ | 
+
+Exposed Durability
+
+ | 
+
+Deal 10% more damage to opponents with no armor durability left.  
+**Prerequisites: 60 Metal**
+
+ | 
+
+Placeholder
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+Intuitive Repairs
+
+ | 
+
+Your 'Iron Skin' repairs armor while it's active.Prerequisites: 25 Metal
+
+ | 
+
+It repairs both your armor and natural armor.
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+An Ironsinger's Instinct
+
+ | 
+
+Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.  
+**Prerequisites: 75 Metal**
+
+ | 
+
+Placeholder
+
+ |
+| 
+
+File:Ironsingicon.png
+
+ | 
+
+Phantom Edge
+
+ | 
+
+Your weapon M1's have +0.25 range.  
+**Prerequisites: 75 Metal**
+
+ | 
+
++0.25 Weapon Range FROM: Ironsinger
+
+ |
 
 ## Trivia
 
 -   First accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
--   First user of Ironsing element without including specs, was V3Nish
 -   Ironsing has 12 mantras and 11 talents.
 -   Ironsinger was apparently an ancient attunement lost to time as stated by the Deepwoken twitter, how it managed to be recovered is unknown for now.
