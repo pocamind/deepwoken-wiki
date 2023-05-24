@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63278
+revid: 63292
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,7 +18,7 @@ Ironsing Icon
 
 ## Training Ironsing
 
-To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). Those ores being **Umbrite, Iron, Gold, Erisore, Irithine, and Astruline.** After you give him these ores, he will give you an **Alloyed Elixir**. Drink the Elixir, and you will unlock Ironsing. The training item for Ironsing is the Ferrofluid.
+To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). Those ores being **Umbrite, Iron, Gold, Erisore, Irithine, and Astruline.** After you give him these ores, he will give you an **Alloyed Elixir**. Drink the Elixir, and you will unlock **Ironsing**. The training item for Ironsing is the Ferrofluid.
 
 ## Mantras
 
@@ -29,7 +29,7 @@ To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.
 |  | Metal Eruption
 (☆☆☆)
 
- | A fury of metal spikes. | 40 Ether | The user stomps on the ground, and spawns a fury of metal spikes, similar to Ice Eruption. |
+ | A fury of metal spikes. | 40 Ether | The user stomps on the ground, and spawns a fury of metal spikes, similar to Ice Eruption. However, you can "turn" this move by facing another way. |
 | 
 
  | Needle Barrage
@@ -63,7 +63,7 @@ Metal Kick
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | The user spawn 5 gun behind them which will start firing at the target immediately. The 5 guns will fire 3 rounds at the target. |
+ | Create a firing line of metal to light up your target. | 40 Ether | The user spawn 5 gun behind them which will start firing at the target immediately. The 5 guns will fire 3 rounds at the target. You can use other Mantras / M1 while this is active. |
 |  | Metal Gatling
 
 (★★★)
@@ -73,7 +73,7 @@ Metal Kick
 
 (★★★)
 
- | Conjure a giant rod of metal and slam it down. | 40 Ether | The user form a Spikey Iron Rod-likes object then slams it down on the opponent in front of them. |
+ | Conjure a giant rod of metal and slam it down. | 40 Ether | The user form a Spikey Iron Rod-likes object then slams it down on the opponent in front of them. Deals heavy damage if not dodged or parried. |
 
 ### **Mobility Mantras**
 
@@ -363,9 +363,8 @@ Your weapon M1's have +0.25 range.
 ## Trivia
 
 -   First accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
-    -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch.
+    -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, and shipped from The Central Luminant.
--   The first user of Ironsing without, including specs, was IT0\_FR
 -   On release, Ironsing has 12 mantras and 11 talents.
 -   Ironsinger was apparently an ancient attunement lost to time as stated by the Deepwoken twitter. How it managed to be recovered is unknown for now.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.

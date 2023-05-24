@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 61662
+revid: 63300
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -28,7 +28,7 @@ Used for crafting Bullets, and certain armors, comes in a grey-brownish tint. Fo
 
 **Gold:**
 
-Used for crafting certain armors, comes in glimmering yellow. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md).
+Used for crafting certain armors, comes in glimmering yellow. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff.
 
 **Erisore:**
 
