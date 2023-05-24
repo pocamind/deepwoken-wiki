@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 62906
+revid: 63306
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -25,7 +25,7 @@ He has a Katana floating behind his back and a Corrupted Bell resting at his hip
 
 The Bell in question allows Akira to instantaneously grip any entity Akira wishes at the cost \[Corrupted Downside\] of his lifespan and power. However, the stronger the target is, the more years of life that he will have to sacrifice to kill them.
 
-Players who have 100 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without sapping a large portion of his strength, and thus retreats to another area.
+Players who have 75 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without sapping a large portion of his strength, and thus retreats to another area.
 
 Despite him lacking in the experience department due to his young age, he's actually one of the strongest Black Divers, surpassing Klaris, Chaser and the strongest players.
 
@@ -39,7 +39,7 @@ You meet him a second time after completing the event and accepting the challeng
 
 This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens them to leave and creating a line of ice with a unique ice-beam spell. The Ignition Union claim that, "This ones sanity must've already crumbled..." before approaching him over the line, they immediately have their heads burst open.
 
-After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, information being obtained still.) Once you talk to him, he asks if you're an another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
+After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 75 required to pass it.) Once you talk to him, he asks if you're an another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
 
 **Dialogue**
 
@@ -71,11 +71,11 @@ After this you are able to talk to Akira, in which he has two different conversa
 > 
 > Akira: As I said, I'm really quite busy with reading right now.
 > 
-> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[Less than 100 Charisma\]
+> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[Less than 75 Charisma\]
 > 
 > Akira: So be it... {He uses his "Top Pop" resonance to kill you, popping your head and giving you the death card: Your own foolishness}
 > 
-> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[With 100 Charisma\]
+> 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[With 75 Charisma\]
 > 
 > Akira: _\*The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira teleporting away using what appears to be Thundercall.) <- (He's not at Castle Light after this)
 > 

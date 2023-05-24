@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 62450
+revid: 63314
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -309,23 +309,26 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
 <tr>
   <th>Charmed</th>
   <td>Represented by hearts on the victim's head.<p><br>
-  <b>If your adversary is charmed, you can deal extra damage and take less damage from them by obtaining talents such as <i>Charismatic Cast</i> and <i>Tough Love.</i></b></p>
+  </p>
   <p><br>
-  <i>You can Charm opponents with various Charisma talents, such as Charismatic Cast and Unnecessary Theatrics, as well as the Sing Mantra.</i></p></td>
+  <b>If your adversary is charmed, you can deal extra damage and take less damage from them by obtaining talents such as <i>Charismatic Cast</i> and <i>Tough Love.</i></b></p>
+  <p><i>You can Charm opponents with various Charisma talents, such as Charismatic Cast and Unnecessary Theatrics, as well as the Sing Mantra.</i></p></td>
 </tr>
 <tr>
   <th>Enraged</th>
   <td>Represented by red glowing sparks emitting from the head of the victim.<p><br>
-  <b>The victim cannot jump. Damage output and intake is increased for both players.</b></p>
+  </p>
   <p><br>
-  <i>The only source is from the Charisma mantra, Taunt.</i></p></td>
+  <b>The victim cannot jump. Damage output and intake is increased for both players.</b></p>
+  <p><i>The only source is from the Charisma mantra, Taunt.</i></p></td>
 </tr>
 <tr>
   <th>Chilled</th>
   <td>Represented by a blue mist engulfing the victim's body.<p><br>
-  <b>Speed is reduced.</b></p>
+  </p>
   <p><br>
-  <i>A common source is being hit by a Frostdraw Mantra, along with being hit by the bubbles of a <a href="Crustaceous_Rex.md">Crustaceous Rex</a>.</i></p></td>
+  <b>Speed is reduced.</b></p>
+  <p><i>A common source is being hit by a Frostdraw Mantra, along with being hit by the bubbles of a <a href="Crustaceous_Rex.md">Crustaceous Rex</a>.</i></p></td>
 </tr>
 <tr>
   <th>Burning</th>
@@ -333,40 +336,50 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
   <b>Take slight damage over time. Can be rolled to the end early, or else it will clear itself after 10 seconds.</b></p>
   <ul>
     <li>If the applier uses a Deepfire Ring, the burn status will become stronger.</li>
-  </ul><p><br>
-  <i>A common source is being hit by a Flamecharm Mantra, along with being hit by one of <a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser's</a> moves.</i></p></td>
+  </ul><p><i>A common source is being hit by a Flamecharm Mantra, along with being hit by one of <a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser's</a> moves.</i></p></td>
 </tr>
 <tr>
   <th>Paralysis</th>
   <td>Represented by yellow sparks engulfing the victim's body.<p><br>
-  <b>Stuns for a slight moment, usually enough to land an extra hit.</b></p>
+  </p>
   <p><br>
-  <i>A common source is being hit by a Thundercall Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
+  <b>Stuns for a slight moment, usually enough to land an extra hit.</b></p>
+  <p><i>A common source is being hit by a Thundercall Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
 </tr>
 <tr>
   <th>Electrified</th>
-  <td>Confusingly, also represented by yellow sparks buzzing around the victim's body.<p><b>All outgoing attacks are converted to Electric/Thunder damage. Caster of this effect tends to pair this with thunder damage reducing equipment/talents to further nullify the victim's damage.</b><i>Common source is being hit by Thundercall Mantras from users with the Thundercall talent Resolve Crusher</i></p></td>
+  <td>Confusingly, also represented by yellow sparks buzzing around the victim's body.<p><b>All outgoing attacks are converted to Electric/Thunder damage. Caster of this effect tends to pair this with thunder damage reducing equipment/talents to further nullify the victim's damage.</b></p>
+  <p><i>Common source is being hit by Thundercall Mantras from users with the Thundercall talent Resolve Crusher</i></p></td>
 </tr>
 <tr>
   <th>Winded</th>
-  <td>No visual representation.<p><br>
-  <b>Attack speed is significantly reduced.</b></p>
-  <p><br>
-  <i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the Drifting Winds talent.</i></p></td>
+  <td>Represented by green particles surrouding the victim's body.<p><b>Attack speed is significantly reduced.</b></p>
+  <p><i>A common source is being hit by a Galebreathe Mantra.</i></p></td>
 </tr>
 <tr>
   <th>Suffocate</th>
-  <td>Represented by crosses spinning around the victim's neck violently.<p><br>
-  <b>While affected, the victim will take slight damage over time and be unable to cast mantras.</b></p>
-  <p><br>
-  <i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the World Without Song talent.</i></p></td>
+  <td>Represented by crosses spinning around the victim's neck violently.<p><b>While affected, the victim will take slight damage over time and be unable to cast mantras.</b></p>
+  <p><i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the World Without Song talent.</i></p></td>
 </tr>
 <tr>
   <th>Dazed</th>
-  <td>Represented by stars above the victim's head.<p><br>
-  <b>Speed greatly reduced. Cannot run or dodge until status wears off.</b></p>
-  <p><br>
-  <i>A common source is being flourished against a wall, being flung and having your head hit a wall, or getting hit by the critical attack of a mace.</i></p></td>
+  <td>Represented by stars above the victim's head.<p><b>Speed greatly reduced. Cannot run or dodge until status wears off.</b></p>
+  <p><i>A common source is being flourished against a wall, being flung and having your head hit a wall, or getting hit by the critical attack of a mace.</i></p></td>
+</tr>
+<tr>
+  <th>Anti-heal</th>
+  <td>Represented by purple mist surrouding the victim's body.<p><b>Every source of healing is disabled. This includes:</b></p>
+  <ul>
+    <li>Passive health regen</li>
+    <li>Health packs from knocks</li>
+    <li>Spit healing</li>
+    <li>Reinforce</li>
+    <li>Bloodless Gem</li>
+    <li>Campfire regeneration</li>
+    <li>Blood Scourge</li>
+    <li>Vampirism</li>
+  </ul><p>Does not proc/work on people in the same guild as yours.<b></b></p>
+  <p><i>The only source is being hit by a player that has the All the Dead Gods talent.</i></p></td>
 </tr>
 </tbody>
 </table>

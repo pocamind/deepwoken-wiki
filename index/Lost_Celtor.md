@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 62912
+revid: 63322
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-A once great kingdom ruling over the Southern [Luminant](Luminants.md), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital.
+A once great kingdom ruling over the [Southern Luminant](Luminants.md), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital.
 
 ## Reputation
 

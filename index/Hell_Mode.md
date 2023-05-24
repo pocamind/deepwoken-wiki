@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 57007
+revid: 63305
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -31,7 +31,7 @@ Once the conditions are met, The Depths (current server) will take on a hellish 
 -   Monster spawn rates are increased by 10x.
 -   Every mob that can spawn corrupted, _will_ be corrupted, with the exception of King Threshers.
 -   The [Enforcer](Enforcer.md) and the [Nautilodaunt](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
-    -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void.
+    -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
     -   King Thresher's burrowing attack is disabled.
 -   [Megalodaunts](Megalodaunt.md) will always spawn as their Alpha version.
     -   Alpha vs. 2 Divers event is able to spawn as well.
