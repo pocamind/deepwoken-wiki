@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 63261
+revid: 63343
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -225,6 +225,7 @@ categories: [Deepwoken]
 -   **Etrea** is very similar to a mixture of various East Asian countries.
 -   **The Ministry** is possibly a reference to _The Ministry_ from _Fahrenheit 451._
 -   **The Knives of Eylis** is a reference to a faction in _Dishonored_ with a similar concept: a place that only exist within dreams, willingly (or not) joining a group of assassins, a supernatural entity that allow said group to exist.
+-   **The Divers** and specially the black divers may be referencing the whistles of made in abyss, having the rank of Black Diver being very similar in design of the armor (Bondrewds) and concept to the White Whistles
 
 ### **Races**
 

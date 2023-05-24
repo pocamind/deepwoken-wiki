@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 63117
+revid: 63375
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -10,7 +10,7 @@ categories: [Enemies, NPCs, Bosses]
 
 “ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
 
-― Duke Erisia, about to fight a Stone Enforcer's Hammer Ardour Scream build, becoming one with the walls
+― Duke Erisia
 
 Template:EnemyInfobox1.0
 
@@ -125,7 +125,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 You also gain [Resonance](Resonance.md) (Bell) progression.
 
-Soloing the duke is the more recommended way to get bell, as doing so 6-8 times will guarantee your bell. (Varies per player, per slot- sometimes as low as 5 dukes will be enough, sometimes you'll need to do 8 even with Resonance Progress. 6 is recommended.)
+Soloing the duke is the more recommended way to get bell, as doing so 6 times will guarantee your bell. (Without **Resonance Progress)**
 
 ## Dialogue
 
