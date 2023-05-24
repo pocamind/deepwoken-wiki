@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 59355
+revid: 63273
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, NPCs]
 
 ## Description
 
-Spelltrainers are NPCs that are hidden around the map that level up spells for money. Each trainer will increase a mantra level by one depending on which element they train. (Ex: Ice trainer will level up ice [mantras](Mantras.md), etc). The cost for levelling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A levelled up mantra's damage is increased obviously.
+Attunement Trainers are NPCs that are hidden around the map that level up mantras for money. Each trainer will increase a mantra level by one depending on which attunement they train. (Ex: frostdraw trainer will level up frostdraw [mantras](Mantras.md), etc). The cost for levelling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A levelled up mantra's damage is increased obviously.
 
 A trainer needs intervals of 20 points in your attunement to upgrade a mantra of the same elemental type as the trainer to upgrade.
 
@@ -21,7 +21,7 @@ For example:
 -   60 = Level 4 mantra
 -   80 = Level 5 mantra
 
-A spell trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)). Unlocking an attunement **permanently** allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
+An attunemnt trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)). Unlocking an attunement **permanently** allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
 
 ## List of Trainers
 
@@ -88,7 +88,8 @@ The best tip for this is to hug the wall (the one opposite of the elevator) unti
 When fought, they use a [Crypt Blade](Crypt_Blade.md).
 
  |
-| File:Screenshot 3.png | [Attunement-less Trainer](Attunement-less.md) | Regek | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) which use [Attunement-less](Attunement-less.md). |
+| File:Screenshot 3.png | [Attunement-less Trainer](Attunement-less.md) | Regek | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
+|  | [Ironsing Trainer](Attunement-less.md) | Adar | [Miner's Landing](<Miner's_Landing.md>) | They can be found inside a lab which can be reached using hidden platforms. | Adar is an [Etrean](Etrean.md) who uses [Attunement-less](Attunement-less.md). |
 
 ## Trivia
 

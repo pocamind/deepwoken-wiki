@@ -1,26 +1,30 @@
 ---
 title: "Pilgrim's Respite"
-revid: 57374
+revid: 63274
 source: https://deepwoken.fandom.com/wiki/Pilgrim's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Layer 2, The Depths]
+categories: [Pages with broken file links, Locations, Layer 2, The Depths]
 ---
 
 # Pilgrim's Respite
 
 LocationL Pilgrim's Respite LocationR
 
-TERRITORY OF The Eternal Gale
+TERRITORY OF
 
 Before continuing on your journey, rest and gather your mind.
 
   
 
+File:Pilgrim's respite.jpg
+
+The **Pilgrim's Respite** is a location in Deepwoken. It is a Landmark of the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md).
+
 ## Overview
 
-Pilgrim's Respite is a place to shield from the harsh weather outside. It is located in [The Eternal Gale](Second_Layer.md) (Layer 2, Floor 1).Template:Areainfobox
+The Pilgrim's Respite is small, well lit corridor within the Ethironal Shrine Sanctuary, its main use comes from the lamps found inside it (see Contents).
 
-## Points of interest
+## Contents
 
 A Lamp in Pilgrim's Respite. Interacting with it will remove each parasitic "snow" clump on you. If you accumulate 5 layers of clumps, parasites will kill you, making this a valuable resource.
 
@@ -30,4 +34,4 @@ A Lamp in Pilgrim's Respite. Interacting with it will remove each parasitic "sno
 
   
 
-A radio in Pilgrim's respite, interacting with it will lead into a dialogue with someone who seems to be lost and alone, he will talk about generators.
+A radio in Pilgrim's respite, interacting with it will lead into a dialogue with members of [The Ignition Union](The_Ignition_Union.md) found in [The Frontier Furnace](The_Frontier_Furnace.md).

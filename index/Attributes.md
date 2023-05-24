@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 60950
+revid: 63290
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -142,6 +142,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Thundercall -> _use the **Self-Conducting Loop**_
 -   Frostdraw -> _use the **Hemafrost**_
 -   Shadowcast -> _use the **Pure Heart**_
+-   Ironsing -> use the **Ferrofluid**
 
 ### Flamecharm
 
@@ -181,6 +182,13 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Shadowcast Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
     -   Increases duration of blindness afflicting abilities.
 -   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras or eating [Umbral Obsidian](Umbral_Obsidian.md).
+-   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
+
+### Ironsing
+
+-   Increases damage scaling of [Ironsing](Ironsing.md) mantras
+    -   Unlocks [Ironsing](Ironsing.md) [Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
+-   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras
 -   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
 
 ## Tips

@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 58551
+revid: 63285
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -24,7 +24,7 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Drops from Ferryman during Winter season |
+| obtainment | Drops from Ferryman's chests regardless of Season or given by the Ferryman during Winter Season. |
 | description | "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding." |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63263
+revid: 63278
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,11 +14,11 @@ Your ability to harness and control metal from your surroundings.
 
 Ironsing Icon
 
-"Ironsing" is an attunement based around the ability to harness metal, commonly used by Blacksmiths around the Luminants. The [Spelltrainer](Attunement_Trainers.md) can be found inside of a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
+"Ironsing" is an attunement based around the ability to harness metal, commonly used by Blacksmiths around the Luminants. The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Training Ironsing
 
-To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). Those ores being **Umbrite, Iron, Gold, Erisore, Irithine and Astruline.** After you give him these ores, he will give you an **Alloyed Elixir**. Drink the Elixir, and you will unlock Ironsing. The training item for Ironsing is the Ferrofluid.
+To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). Those ores being **Umbrite, Iron, Gold, Erisore, Irithine, and Astruline.** After you give him these ores, he will give you an **Alloyed Elixir**. Drink the Elixir, and you will unlock Ironsing. The training item for Ironsing is the Ferrofluid.
 
 ## Mantras
 
@@ -79,7 +79,7 @@ Metal Kick
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
-|  | Metal Rampant
+|  | Metal Rampart
 (☆☆☆)
 
  | Summon a large metal pillar | 50 Ether | Form a medium size pillar at the user location that will send the user upward. |
@@ -364,8 +364,8 @@ Your weapon M1's have +0.25 range.
 
 -   First accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch.
--   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.
--   First user of Ironsing element without including specs, was IT0\_FR
--   Ironsing has 12 mantras and 11 talents.
--   Ironsinger was apparently an ancient attunement lost to time as stated by the Deepwoken twitter, how it managed to be recovered is unknown for now.
+-   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, and shipped from The Central Luminant.
+-   The first user of Ironsing without, including specs, was IT0\_FR
+-   On release, Ironsing has 12 mantras and 11 talents.
+-   Ironsinger was apparently an ancient attunement lost to time as stated by the Deepwoken twitter. How it managed to be recovered is unknown for now.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.

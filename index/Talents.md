@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63262
+revid: 63282
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1719,10 +1719,11 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisite: 65 Flamecharm
     -   Cooldown: 8 Seconds
 
--   _Exploding Mirage Clone_ \[Rare Talent\], Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)
-    -   Greatly extend the range to burn entities.
-    -   Prerequisite: Mirage Clone
-    -   Cooldown: 9 Seconds
+-   ~_Exploding Mirage Clone_ \[Rare Talent\], Flamecharm Exclusive\] - Your mirage clones explode. (+4 Elemental Intensity, +2 Health)~
+    -   ~Greatly extend the range to burn entities.~
+    -   ~Prerequisite: Mirage Clone~
+    -   ~Cooldown: 9 Seconds~
+-   Exploding Mirage Clone deleted, though Mirage Clone now does more damage.
 
 ### The Negotiator
 

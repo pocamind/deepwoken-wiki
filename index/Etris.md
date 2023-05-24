@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 63264
+revid: 63268
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -16,18 +16,20 @@ Highest amongst the peaks of the mountain, a proud fortress of a city stands aga
 
   
 
-Etris is the capital of the Etrean Kingdom, being on top of a tall mountain with amazing views and dangerous falls. It marks the beginning of the adventures of many, as it is one of the two spawn locations new players can choose. It resides on a tall mountain. To get to the docks, you must take a short walk past the Navaen camp and pass the Etrean Wilderness.
-
 File:BBig etris. .png
 
 _The capital of Etrea in all its glory._
 
-## Points of Interest
+## Overview
+
+Etris is the capital of the Etrean Kingdom, being on top of a tall mountain with amazing views and dangerous falls. It marks the beginning of the adventures of many, as it is one of the two spawn locations new players can choose. It resides on a tall mountain. To get to the docks, you must take a short walk past the Navaen camp and pass the Etrean Wilderness.
+
+## Landmarks & Sub locations
 
 -   [Etris Docks](Etris_Docks.md)
 -   [Etrean Wilds](Etrean_Wilds.md)
 
-## Contents
+## Points of interest
 
 #### Inn
 
@@ -114,16 +116,16 @@ The Etris blacksmith house.
 
 #### The Den
 
--   Den Master can be found here. He sells [Cloudstone](Mantra_Modifiers.md), [Amnesic Driftwood](Mantra_Modifiers.md), [Drift Shard](Mantra_Modifiers.md), and [Crystal Lens](Mantra_Modifiers.md), each for 10 Notes.
+-   The Den Master can be found here. He sells [Cloudstones](Mantra_Modifiers.md), [Amnesic Driftwoods](Mantra_Modifiers.md), [Drift Shards](Mantra_Modifiers.md), and [Crystal Lenses](Mantra_Modifiers.md), each for 10 Notes.
 
 #### Alchemist's Lodge
 
--   Nell, a [spelltrainer](Attunement_Trainers.md) that can upgrade [Frostdraw](Frostdraw.md) Mantras, can be found here.
+-   Nell, a [Spelltrainer](Attunement_Trainers.md) that can upgrade [Frostdraw](Frostdraw.md) Mantras can be found here.
 -   A functional cauldron can be found here.
 
 #### Miscellaneous
 
--   [Polis](Polis.md) can be found in the middle of the city, and on first dialogue will give you a Gold Ring.
+-   [Polis](Polis.md) can be found in the middle of the city, and on the first dialogue will give you a Gold Ring.
 
 ## Quests
 
@@ -227,34 +229,13 @@ _"I don't think you're cut out for this. Mudskippers are small fry, and you'll f
 
 ### Etris War Event
 
-This event is an extremely rare event that happens every so often.
+This event is an extremely rare event that can happen on the second to third minute of a new server.
 
-At the beginning of the [Etris War Event](Cinders_of_Etris.md), the Authority will begin to invade Etris, making their way up to the city center. Lesser Etrean Foot-soldiers and Royal Guards will spawn in to aid **Etris**. [Polis](Polis.md) will also fight as a unique enemy.
+NPCs at the [Etris Docks](Etris_Docks.md) will comment on the Authority seeming to have been quiet today, signaling the start of the event.
 
-After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths loot will spawn at the Tree in the center of Etris.
+At the beginning of the [Etris War Event](Cinders_of_Etris.md), the Authority will begin to invade Etris, starting at the docks and making their way up to the city center. Lesser Etrean Foot-soldiers and Royal Guards will spawn in to aid **Etris**. [Polis](Polis.md) will also fight as a unique enemy.
 
-## NPCs
-
--   [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest)
--   [Polis](Polis.md)
--   Theadre
--   [Lord Regent](The_Lord_Regent.md)
--   Innkeeper
--   [Guild Clerk](Guilds.md)
--   [Banker](Artifacts.md)
--   [Antiquarian](Antiquarian.md)
--   Lance Leshi
--   Kennith
--   [Royal Guard](Etrean_Guardsmen.md)
--   [Karliah](Karliah.md)
--   [Joshua](Joshua.md)
--   Frostdrawer Nell
--   [The Den Master](Den_Master.md)
--   Serephina
--   Eastern Camp Master
--   [Barber](Barber.md)
-
-## Side Quests
+After all Authority Guards are defeated, 3 Large chests holding High-Tier Depths loot will spawn at the Tree in the center of Etris. (Note: this is currently the only way in the game to acquire the Justicar armor schematic).
 
 ### Flamecharmer Ploom Quest
 
@@ -282,7 +263,28 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
     -   Knocking a Navaen Nomad in [Summer Isle](Summer_Isle.md), or any other location, and turning them in will not work for this quest.
 -   Upon finding a Navaen tribe member, head back to the camp master and receive your reward.
 -   The reward for this quest is the "[Way of Navae](Fists.md)" fist style and [Talent](Talents.md). In addition, it unlocks a new dialogue option from Polis. It also will prompt "Way of Navae to be a starting style in the start menu.
--   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more difficult if a [Lionfish](Lionfish.md) spawns, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.  
+-   If you know that you want fist style from the beginning, you can easily get it by going to Fort Merit as a freshie and snatching a Nomad due to the guards not attacking you. This is typically much faster in practice, though does become more difficult if a [Lionfish](Lionfish.md) spawns, as the spawn chances for the Nomads seem to be higher than in [Erisia](Erisia.md) as a random encounter.
+
+## NPCs
+
+-   [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest)
+-   [Polis](Polis.md)
+-   Theadre
+-   [Lord Regent](The_Lord_Regent.md)
+-   Innkeeper
+-   [Guild Clerk](Guilds.md)
+-   [Banker](Artifacts.md)
+-   [Antiquarian](Antiquarian.md)
+-   Lance Leshi
+-   Kennith
+-   [Royal Guard](Etrean_Guardsmen.md)
+-   [Karliah](Karliah.md)
+-   [Joshua](Joshua.md)
+-   [Frostdrawer Nell](Attunement_Trainers.md)
+-   [The Den Master](Den_Master.md)
+-   Serephina
+-   [Eastern Camp Master](Cheral.md)
+-   [Barber](Barber.md)  
     
 
 ## Maps
