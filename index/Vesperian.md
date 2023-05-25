@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 63398
+revid: 63416
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,7 +60,6 @@ This fits with our current understanding of the lore and would explain why they 
 
   
 
-cool mask  
 +2 Health  
 +2 Fortitude  
 +2 Willpower  
@@ -97,7 +96,6 @@ A layer of protective armor that regenerates at rest.
     -   However, their name is based off of the Vespa, the largest eusocial hornet.
 -   Vesperians were inspired by the game Hollow Knight.
 -   The Blindseer mask may be a reference to the Sheikah from the Legend of Zelda series.
--   Vesperians don't like black people and are very racist. This can be proof from every ganker that are vesperians targeting Gremors which represent black people.
 -   There are 18 Vesperian masks in total, which is more than facial markings, which only have 13.
 
 File:Similar Last Names.png

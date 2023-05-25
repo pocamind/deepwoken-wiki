@@ -1,6 +1,6 @@
 ---
 title: The Nestmind
-revid: 63187
+revid: 63418
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]
@@ -18,7 +18,7 @@ File:TheNestMind.png
 
 It has an appearance similar to the heads of many [Deep Owls](Deep_Owl.md) within a black void.
 
-The origin of The Nestmind is unknown, but it is the source of the Deep Owls in the Depths.
+The origin of The Nestmind is unknown, but it is most likely the source of the Deep Owls in the Depths.
 
 ## Dialogue
 

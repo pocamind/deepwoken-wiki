@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63410
+revid: 63423
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -895,7 +895,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
--   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment. (+4 Ether, +7 Reservoir)
+-   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
     -   Prerequisites: 30 Intelligence and 20 light/medium weapon, Use a Gun / Rifle
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
             -   The 3rd shot apply your attunement's elemental effect:

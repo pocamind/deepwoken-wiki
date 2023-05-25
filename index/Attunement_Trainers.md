@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 63273
+revid: 63415
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -78,7 +78,7 @@ When fought, he uses a [Hero Blade of Lightning](Hero_Blades.md).
  |
 | 
 
- | [Shadowcast Trainer](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa district](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest, and has yellow-colored rooftops, making it easy to find. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
+ | [Shadowcast Trainer](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa district](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest, and has white-colored rooftops, and is located on the western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
 
   
 The best tip for this is to hug the wall (the one opposite of the elevator) until you find the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. [(See picture)](https://i.gyazo.com/fe9c3bee9f6d52b9d9de27f61663ccc8.png)
@@ -89,13 +89,13 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 
  |
 | File:Screenshot 3.png | [Attunement-less Trainer](Attunement-less.md) | Regek | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
-|  | [Ironsing Trainer](Attunement-less.md) | Adar | [Miner's Landing](<Miner's_Landing.md>) | They can be found inside a lab which can be reached using hidden platforms. | Adar is an [Etrean](Etrean.md) who uses [Attunement-less](Attunement-less.md). |
+|  | [Ironsing Trainer](Ironsing.md) | Adar | [Miner's Landing](<Miner's_Landing.md>) | They can be found inside a lab which can be reached using hidden platforms. | Adar is an [Etrean](Etrean.md) who uses [Ironsing](Ironsing.md). |
 
 ## Trivia
 
 -   The name "Funke" (Thundercall master) means "Spark" in German.
 -   Nostor wears a ministry ouftit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
--   For [Silentheart](Oaths.md) progression, the player must kill all of the Spelltrainers. (Excludes Regek)
+-   For [Silentheart](Oaths.md) progression, the player must kill all of the Spelltrainers. (Excludes Regek and Adar)
     -   Frostdraw trainer Nell wields [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).

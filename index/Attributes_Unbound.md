@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 62467
+revid: 63433
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -82,11 +82,11 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
 
-As an alternative you can also defeat any boss for a weapon uncap.
+\*Alternatively, reaching 75 in any weapon stat and then defeating a [Boss](Bosses.md) can also uncap it.
 
 ## Attunement Unbound
 
-1.  Reach 75 Flamecharm/Frostdraw/Thundercall/Galebreath/Shadowcast
+1.  Reach 75 in an [Attunement](Attunements.md).
 2.  Start Lord Regent's Quest in Etris. Requires a good reputation.
 3.  Talk to Kennith and finish his dialogue.
 4.  Talk to the Bookworm in the book store, ask him about Etris then about the Duke's rise to power.
@@ -96,7 +96,7 @@ As an alternative you can also defeat any boss for a weapon uncap.
 8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
 9.  Complete the dungeon styled area and defeat [The Duke](Duke_Ishamon_Erisia.md) to obtain the according unbound card.
 
-As an Alternative defeating Chaser or Ferryman can also uncap your attunement.
+\*Alternatively, reaching 75 in any Attunement and then defeating Chaser or Ferryman can also uncap it.
 
 ## Notes
 

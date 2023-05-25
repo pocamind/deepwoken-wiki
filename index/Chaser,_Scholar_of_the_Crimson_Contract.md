@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 63158
+revid: 63417
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -113,7 +113,6 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 -   Very high odds of Deep Gems.
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including Ironsinger Heavy Plates, all guaranteed to be at least 1 star quality.
 -   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped by Chaser.
--   He also drops [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
 -   Rarely, enchantment stones.
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
