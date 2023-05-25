@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63293
+revid: 63397
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1740,6 +1740,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing \[R\] again.
     -   ~You can still emote~ Patched :(
+    -   Using Cap artist in the depths makes you have normal gravity
     -   Prerequisite: 25 Agility, 5 Charisma
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)

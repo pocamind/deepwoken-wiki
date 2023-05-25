@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63359
+revid: 63392
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,7 +18,7 @@ Ironsing Icon
 
 ## Training Ironsing
 
-The training item for Ironsing is the Ferrofluid. Much like every other attunements, users can see their Mantras become stronger with enough training:
+The training item for Ironsing is the Ferrofluid. Much like every other attunements, users can see their Mantras become stronger with enough training.
 
 ## Mantras
 
@@ -29,7 +29,7 @@ The training item for Ironsing is the Ferrofluid. Much like every other attuneme
 |  | Metal Eruption
 (☆☆☆)
 
- | A fury of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikesn. By rotating your view, you can reangle the mantra to catch rolls.
+ | A fury of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Indicates a flash that signifies that the mantra is unparryable. By rotating your view, you can reangle the mantra to catch rolls.
 
 Heavily reminiscent to the legacy Frostdraw mantra, Ice Eruption.
 
@@ -70,7 +70,7 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★☆)
 
- | Summon a blade of metal to swing alongside you. | 20 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of a Kyrscleave) appears as you M1 with an interval of 3 seconds, This greatsword deals damage equivalent to your regular M1. Each hit is parriable and doesn't apply any Metal Rods. Also applies your current enchant. |
+ | Summon a blade of metal to swing alongside you. | 20 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of Markor's Inheritor) appears as you M1 with an interval of 3 seconds, This greatsword deals damage equivalent to your regular M1. Each hit is parriable and doesn't apply any Metal Rods. Also applies your current enchant. |
 |  | Firing Line
 
 (★★☆)
@@ -94,7 +94,11 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 |  | Metal Rampart
 (☆☆☆)
 
- | Summon a large metal pillar | 50 Ether | Form a medium size pillar at the user location that sends the user upwards. |
+ | Summon a large metal pillar | 50 Ether | Form apillar bellow the user, which sends them upwards.
+
+The height of the pillar will depend on what is above you.
+
+ |
 |  | Metal Ball
 
 (★★☆)
@@ -344,4 +348,4 @@ Increased weapon range.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, and shipped from The Central Luminant.
 -   On release, Ironsing has 12 mantras and 11 talents.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage
--   Ironsing is the fastest Attunement to obtain a Legendary Weapon, in which case being the Iron Deepcrusher.
+-   Ironsing is the fastest Attunement to obtain a Legendary Weapon, in which case being the [Ignition Deepcrusher](Ignition_Deepcrusher.md).

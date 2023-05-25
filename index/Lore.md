@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 62542
+revid: 63401
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -412,7 +412,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
 -   A full power Ferryman can defeat Akira in the surface. But not the Lord Regent with the throne buff unless its in the Depths as the Ferryman is inhibited by the surface.
 -   Likely resides in an unknown layer of the Depths.
-    -   Krulians are tide to The Depths and are weakened when on the surface.
+    -   Krulians are tied to The Depths and are weakened when on the surface.
     -   Following his dance, he states he must go, as though he is being called back.
 
 ### **Haske Vantage**
@@ -1489,7 +1489,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
             -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.
             -   The second Layer is where the Drowned God Ethiron and its guardian, the Scion of Ethiron are found.
             -   The third Layer is where the physical body of Korilfiend is found.
--   It seems that the effects of ageing are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.
+-   It seems that the effects of aging are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.
     -   Examples of such thing is Gild; an old Celtor who was alive before the city drowned.
 -   In universe, a soul in The Depths can only last a week before they are considered unable to return to their bodies.
 

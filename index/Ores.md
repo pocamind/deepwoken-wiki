@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 63300
+revid: 63381
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -16,31 +16,29 @@ Ores are materials found all around the map, usually in caves. It is used for cr
 
 **Rock:**
 
-Used in crafting Flint, comes in a grayish-blue color or a sandstone color. Found in any cave.
+A grayish-blue or sandstone ore used in crafting Flint and certain armors. Found in any cave.
 
 **Coal:**
 
-Used in crafting Flint, comes in a black color. Found in any cave.
+A black ore used in crafting Flint and bombs. Found in most caves.
 
 **Iron:**
 
-Used for crafting Bullets, and certain armors, comes in a grey-brownish tint. Found in any cave.
+A grey-brownish ore used for crafting Bullets and certain armors. Found in most caves.
 
 **Gold:**
 
-Used for crafting certain armors, comes in glimmering yellow. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff.
+A glimmering, yellow ore used for crafting certain armors. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff.
 
 **Erisore:**
 
-Used for crafting certain armors, comes in a glowing blueish color. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md), the inside of [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and [The Entropy Catalyst](The_Entropy_Catalyst.md).
+A glowing, blue ore used for crafting certain armors. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md), the inside of [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and [The Entropy Catalyst](The_Entropy_Catalyst.md). Erisore can also be dropped by Mechalodaunts at Miner's Landing.
 
 Sells for 15 Notes.
 
-Erisore can also be dropped my mechalodaunts at Miner's Landing
-
 **Irithine:**
 
-Used for crafting certain armor, comes in a green color. Found in the Reservoir Cave under the Burning Stone Gardens.
+A vibrant green ore used for crafting certain armors. Found in [The Garden Reservoir](The_Garden_Reservoir.md) under the [Burning Stone Gardens](Burning_Stone_Gardens.md), and in [Saramaed Summit](Saramaed_Summit.md) within [Miner's Landing](<Miner's_Landing.md>).
 
 Sells for 12 Notes.
 
@@ -50,7 +48,7 @@ A pink ore that comes from meteor deposits. Found in Songseeker Caves or under S
 
 **Umbrite:**
 
-"A powerful metal said to harness the power of shadows." A dark blue neon ore that was found in The Depths.
+"A powerful metal said to harness the power of shadows." A dark blue neon ore found in The Depths, specifically the Varicosa District in City of the Drowned, inside the cave where Nostor, the Shadowcast trainer, is located.
 
 File:Umbrite1.jpg
 
