@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 63407
+revid: 63452
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -29,7 +29,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
 
 ## Description
 
-The Ignition Deepcrusher is a Legendary weapon tied to the Ironsing Attunment.
+The Ignition Deepcrusher is a Legendary weapon tied to the Ironsing Attunement.
 
 This weapon is both a Club and a Sword, which change depending on the stance used:
 
@@ -47,8 +47,8 @@ The user goes in a pride stance with their weapon facing down, and releases a me
 -   The Ignition Deepcrusher is the first weapon to be part of "two categories" as it's stances are both Clubs and Blades as you can change them by pressing Y. This is similar to the difference shown by the Curved Blade of Winds, however to a larger extent that it changes the weapon type from Club to Sword (vice versa).
 -   The Sword form (at 100 MED and 100 MTL) is the second most damage sword in the game, beaten by the Razor Cutlass (39.78 VS 40.95)
 -   Meanwhile, the Club form (at 100 MED and 100 MTL) is the second most damaging club in the game, beaten by the Sacred Hammer (30.6 VS 33.15)
--   Arch has confirmed that the weapon is inspired by the Kirkhammer from Bloodborne.
--   Based off the leftover weapon, it was supposed to be a heavy weapon at one point. (Probably)
+-   The weapon is inspired by the [Kirkhammer](https://bloodborne.wiki.fextralife.com/Kirkhammer) from [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne).
+-   Based on the leftover weapon, it was likely supposed to be a heavy weapon at one point.
 
   
 

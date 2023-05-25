@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63423
+revid: 63453
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1077,7 +1077,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 -   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Jus Karita style](Fists.md).
-    -   Prerequisites: Achieve a Power level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
+    -   Prerequisites: Achieve a Power level of 5 and a Light Weapons attribute of 25, talk with [Polis](Polis.md).
 
 -   Justicar's Prowess \[Common Talent\] - Jus Karita +30% posture damage against other fist styles.
     -   Deal +30% posture damage against Fist of Navae and Legion Kata

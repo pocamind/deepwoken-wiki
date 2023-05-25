@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 63401
+revid: 63454
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -19,7 +19,7 @@ _This page is a collection of Lore in the game, if you are looking for Books, vi
 
 ## Description
 
-The lore of Deepwoken is vast and scattered across the sea. Lore can be found through [dialogue](Dialogue.md) and the landscape, such as the Towerstruck Lands, The City of the Drowned, and much more.
+The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be found through [dialogues](Dialogue.md), books, descriptions, landscapes and places, such as the Towerstruck Lands, The City of the Drowned, and many more.
 
 **DISCLAIMER:** Contributors of this page may input misinformation of Lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is entirely based on the game and the Devs themselves (Arch\_Mage, Naktigonis, Ragoozer etc...)
 

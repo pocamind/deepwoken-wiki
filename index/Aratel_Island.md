@@ -1,6 +1,6 @@
 ---
 title: Aratel Island
-revid: 62983
+revid: 63442
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Locations, Eastern Luminant]
@@ -14,7 +14,7 @@ Aratel Island is the name given to a large land mass found in the Eastern Lumina
 
 Most of its surface is either part of the [Starswept Valley](The_Starswept_Valley.md) or the [Bluster Rift](Bluster_Rift.md).
 
-## Points of Interest
+## Landmarks & Sub-locations
 
 -   [Starswept Valley](The_Starswept_Valley.md)
     -   [Lightkeeper Temple](Lightkeeper_Temple.md)
@@ -26,5 +26,5 @@ Most of its surface is either part of the [Starswept Valley](The_Starswept_Valle
 
 ## Trivia
 
--   Aratel Island is frequently referred to as "Hive" by other players.
+-   Frequently referred to as "Hive" by other players.
 -   Small, blue meteorites often fall from the sky on the Island. They are likely to be fragments of the Celestials' Cities. (see [Lore](https://deepwoken.fandom.com/wiki/Lore#Year_1286))
