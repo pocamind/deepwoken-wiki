@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63397
+revid: 63410
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1805,7 +1805,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly. (+3 Elemental Intensity, +3 Health)
     -   Prerequisite: Lightning Beam
 
--   Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
+-   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
     -   Prerequisite: 30 Agility, 35 Thundercall
 
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
@@ -2344,17 +2344,16 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 Certain talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other talents, or could otherwise break certain builds.
 
 -   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
--   Conditioned Runner \[Advanced Talent, Agility\] Your passive regeneration is now twice as fast while running below 75% hp but half as effective while standing still. (+1 Passive Agility)
--   Everchanging Aegis \[Rare Talent, Intelligence\] - Take more damage from any element. (+4 Elemental Intensity)
--   Return to the Dark Ages \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 20%. (+5 Health)
+-   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
+-   _Fishman_ \[Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
+-   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
+-   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 20%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn. (+4 Elemental Intensity)
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit. (+3 Health, +5 Ether)
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
--   Air Pressure \[Common Talent\] - If you hit their block, immediately follow them up with a wind dash. (+1 Passive Agility, +2 Elemental Intensity)
--   Static Fakeout \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
-    -   Prerequisite: 35 Thundercall, 30 Agility
+-   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
 
 ## Notes/Trivia
 

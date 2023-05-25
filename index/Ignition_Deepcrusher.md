@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 63239
+revid: 63407
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -40,14 +40,14 @@ At 100 MED and 100 MTL, this weapon deal 30.6 damage while in Club form, and 30.
 
 ## Critical Attack
 
-The user goes in a pride stance with their weapon facing down, and releases a metal eruption surrounding the player.
+The user goes in a pride stance with their weapon facing down, and releases a metal eruption of spikes surrounding the player.
 
 ## Trivia
 
 -   The Ignition Deepcrusher is the first weapon to be part of "two categories" as it's stances are both Clubs and Blades as you can change them by pressing Y. This is similar to the difference shown by the Curved Blade of Winds, however to a larger extent that it changes the weapon type from Club to Sword (vice versa).
 -   The Sword form (at 100 MED and 100 MTL) is the second most damage sword in the game, beaten by the Razor Cutlass (39.78 VS 40.95)
 -   Meanwhile, the Club form (at 100 MED and 100 MTL) is the second most damaging club in the game, beaten by the Sacred Hammer (30.6 VS 33.15)
--   Arch has confirmed that the weapon is inspired by the Kirkhammer from Bloodborne
+-   Arch has confirmed that the weapon is inspired by the Kirkhammer from Bloodborne.
 -   Based off the leftover weapon, it was supposed to be a heavy weapon at one point. (Probably)
 
   
