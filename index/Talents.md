@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63453
+revid: 63471
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -88,12 +88,12 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Adaptive Arsenal
 
--   Exposed Durability \[Common Talent, Metal\] - Deal 10% more damage to opponents with no armor durability left.
-    -   Prerequisite: 60 Metal
--   _An Ironsinger's Instinct_ \[Rare Talent, Metal\] Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
-    -   Prerequisite: 75 Metal
--   _Phantom Edge_ \[Rare Talent, Metal\] Your weapon M1's have +0.25 range.
-    -   Prerequisite: 75 Metal
+-   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
+    -   Prerequisite: 60 Ironsing
+-   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
+    -   Prerequisite: 75 Ironsing
+-   _Phantom Edge_ \[Rare Talent, Ironsing Exclusive\] - Your weapon M1's have +0.25 range.
+    -   Prerequisite: 75 Ironsing
 
 ### Adept Caster
 
@@ -597,7 +597,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 35 Willpower
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   Whenever you land a crit, your next light attack gain 100% Chip Damage.
+    -   Despite the description of the talent, it works in a completely different way. Hitting your M3 deals a very small percentage of chip damage
+    -   Use this talent with a weapon without chip damage and with the Engage talent to restore Ether for hitting your opponent's block
     -   Prerequisites: 25 Strength, 15 Agility
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
@@ -626,6 +627,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are Dazed for 2 seconds.
     -   Prerequisites: Flame Blind, 30 Flamecharm and 25 Strength
+
+### Elementalist
+
+-   _Elemental Rebound_ \[Rare Talent\] - Elemental mantras now grant extra tempo upon landing (+3 Elemental Intensity).
+    -   Prerequisites: 60 [Element](Attunements.md)
 
 ### Empath
 
@@ -699,8 +705,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing. (+3 Elemental Intensity)
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
--   _Flaming Rebound_ \[Rare Talent, Flamecharm Exclusive\] - Flamecharm mantras now grant extra tempo upon landing (+3 Elemental Intensity).
-    -   Prerequisites: 60 Flamecharm, [Power](Power.md) 10
 
 -   _Graceful Steps_ \[Rare Talent, Flamecharm Exclusive\] - Your dancing step now give a faster speed boost (+3 Elemental Intensity).
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
@@ -940,8 +944,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Ice Age
 
--   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with shurikens while they are on ice freezes them to the ground. (+5 Elemental Intensity)
-    -   Prerequisite: Ice Forge, 25 Frostdraw.
+-   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
+    -   Prerequisite: 25 Frostdraw.
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity, +2 Health)
     -   Ice Mantras cost 40% less ether if casted while standing on ice.
@@ -1045,11 +1049,11 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
 -   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
-    -   Prerequisite: 20 Metal
+    -   Prerequisite: 20 Ironsing
 -   Expert Ironsinger \[Common Talent\] - You can now obtain 2-star Ironsinger mantras.
-    -   Prerequisite: 30 Metal
+    -   Prerequisite: 30 Ironsing
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
-    -   Prerequisite: 50 Metal
+    -   Prerequisite: 50 Ironsing
 
 ### Iron Will
 
@@ -1250,9 +1254,9 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 ### Metallurgist
 
 -   Ironclad Punishment \[Common Talent\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
-    -   Prerequisites: 45 Metal
+    -   Prerequisites: 45 Ironsing
 -   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
-    -   Prerequisites: 45 Metal
+    -   Prerequisites: 45 Ironsing
 
 ### Metamancer
 
@@ -1418,9 +1422,11 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Rending Needle
 
--   _Rendering Impact: Impaler_ \[Rare Talent, Metal\] If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
-    -   Prerequisites: Master Ironsinger, 75 Metal
+-   _Rendering Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
     -   Ironsing Pull is activated by pressing X.
+    -   Prerequisites: Master Ironsinger, 75 Ironsing
+-   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return. (+1 Posture)
+    -   Prerequisites: Master Ironsinger, 60 Ironsing
 
 ### Saboteur
 

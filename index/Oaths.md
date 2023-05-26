@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63428
+revid: 63469
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -183,6 +183,7 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 -   Other Clues...
     -   _(Lightkeeper Temple's engraved message)_ It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
 -   Having Blind Flaw remove the Blindfold requirement.
+-   Extremely good oath for PvE
     
 
 **Visionshaper:**
@@ -278,6 +279,8 @@ Does not grant any special cosmetic based on race.
 3.  Knock all 4 players
 4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
 5.  Interact with the white orb that appears in the middle.
+
+The only way to obtain each ability is to grip a oath haver, this however does not need to be done with The Entropy Catalyst, You get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain On the Third And finally Parasitic Leech on the forth grip.
 
 ### **Known Abilities**
 
@@ -565,7 +568,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialogue doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you will surprisingly enough NOT be locked out of contractor, and are allowed to go back to him to click the option that says you want to join him.
 
-_Upon obtaining this oath, four black puppet-esque strings will embed themselves into your arms. Additionally, your iris' will become a very dark red, making your expression appear almost empty and devoid of empathy._
+_Upon obtaining this oath, four black marionette-esque strings will embed themselves into your arms. Additionally, your iris' will become a very dark red, making your expression appear almost empty and devoid of empathy._
 
 ### Upgrading
 

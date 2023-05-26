@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 61062
+revid: 63466
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -27,7 +27,7 @@ Currently, there are **2** NPCs that can join your Guild Base (particularly in t
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury-- With each expansion becoming staggeringly high in prices than the previous purchase.
 
-Additionally, buying the Treasurer (and potentially the Barber or Antiquarian) increases the price of the rooms. However, the luxury of not having to hold on to notes- in some cases, the room's price even exceeding the maximum you can hold- is worth the price increase. However, if buying the barber or antiquarian affects the price, you may want to save those NPCs for last, but this still needs testing.
+Additionally, buying the Treasurer (and potentially the Antiquarian, but not the barber) increases the price of the rooms. However, the luxury of not having to hold on to notes -in some cases, the room's price even exceeds the maximum you can hold- is worth the price increase. However, if buying the antiquarian affects the price, you may want to save that NPC for last, but this still needs testing.
 
 The pricing list is as follows: (Assuming you have the Treasurer)
 
