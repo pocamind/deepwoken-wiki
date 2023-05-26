@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 63381
+revid: 63476
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -18,17 +18,25 @@ Ores are materials found all around the map, usually in caves. It is used for cr
 
 A grayish-blue or sandstone ore used in crafting Flint and certain armors. Found in any cave.
 
+Sells for ...
+
 **Coal:**
 
 A black ore used in crafting Flint and bombs. Found in most caves.
+
+Sells for ...
 
 **Iron:**
 
 A grey-brownish ore used for crafting Bullets and certain armors. Found in most caves.
 
+Sells for ...
+
 **Gold:**
 
 A glimmering, yellow ore used for crafting certain armors. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff.
+
+Sells for ...
 
 **Erisore:**
 
@@ -46,9 +54,13 @@ Sells for 12 Notes.
 
 A pink ore that comes from meteor deposits. Found in Songseeker Caves or under Starswept Valley. The drop rate for Pure Astruline is around 15%.
 
+Sells for ...
+
 **Umbrite:**
 
 "A powerful metal said to harness the power of shadows." A dark blue neon ore found in The Depths, specifically the Varicosa District in City of the Drowned, inside the cave where Nostor, the Shadowcast trainer, is located.
+
+Sells For ...
 
 File:Umbrite1.jpg
 

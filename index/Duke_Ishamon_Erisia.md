@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 63375
+revid: 63475
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -105,6 +105,7 @@ In terms of strategy to avoid his attacks as much as possible;
 -   After dealing enough posture damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
 -   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage.
+-   You must STAY ALIVE during the first phase because his Shield not only prevents him from taking damage, but if you are knocked out and he is ready to kill you, you cannot be saved since his Shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 
 ### Phases
 
