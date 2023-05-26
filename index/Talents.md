@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63471
+revid: 63483
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1151,6 +1151,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 -   _Gale Dash_ \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity, +3 Health)
     -   Prerequisites: 25 Agility, 40 Galebreathe
+        -   {(This might now be 'Air Pressure', but the description is different; Needs confirmation.)}
 
 -   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility)
     -   Reduce posture damage taken by 50% (as much as a 2 weight shield) while standing still and using a spear.
