@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 62932
+revid: 63508
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -173,6 +173,10 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am the one who speaks to death. **(Death Speaker) (Note; Cannot give Black Hole)**_
 -   _I control those around me. **(Puppet Master)**_
 -   _I feed on the soul of my enemies. **(Dark Siphon.)**_
+
+### Ironsing
+
+-   _I seek the qualities of Metallurgist.**(Metallurgist)**_
 
 ## Locations
 

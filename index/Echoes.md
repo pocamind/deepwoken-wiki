@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 63477
+revid: 63507
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -245,7 +245,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   Landing a hit with your critical restores 30% of your posture.
 
-**(Power 1)** Glider - _Gain the Glider Recipe at Power 2. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
+**(Power 1)** Glider - _Gain the Glider Recipe at Power 1. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
 
 **(Power 2)** Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 

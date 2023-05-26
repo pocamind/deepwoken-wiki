@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 63304
+revid: 63504
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -272,7 +272,7 @@ Legendary = Gold
 -   When you arrive at the Cathedral, keep your guard up. Many players seem to be unable to engage you without having to camp this area, but this is likely to change at some point.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras), will be very helpful incase one is in trouble and needs to make a quick recovery. You only have one life, and dying here will reset all your progress.
 -   DO NOT fight a Megalodaunt outside of the City as getting kicked by a Megalodaunt there a good chance you may just end up falling into the void.
--   AVOID the Nautilodaunt at all cost. In order to detect one of them, the Nautilodaunt will make loud noises when running. If the Nautilodaunt detects you running away from it, the likelihood that you will survive is very low, so if you can't fight them, AVOID them. They are very tough but also very smart in close combat, and you have a good chance of being wiped by them.
+-   AVOID the Nautilodaunt at all cost. In order to detect one of them, the Nautilodaunt will make loud noises when running. If the Nautilodaunt detects you running away from it, the likelihood that you will survive is very low, so if you can't fight them, AVOID them. They are very tough but also very smart in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log.
 -   Watch where you're going because if you don't pay attention to your surroundings, you run the risk of slipping into the void which you will wipe.
 -   If you are aware that a monster cannot be defeated, avoid engaging it in the first place. Be aware of what you can and cannot kill.
 

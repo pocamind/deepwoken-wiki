@@ -1,9 +1,9 @@
 ---
 title: Equipment
-revid: 62994
+revid: 63510
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Armors]
+categories: [Pages with broken file links, Outfits]
 ---
 
 # Equipment
@@ -14,17 +14,15 @@ Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
 
 ## Overview
 
-An example of an item with rolled stats (in beige) and guaranted stats (in grey)
+An example of an item with rolled stats (in beige) and guaranteed stats (in grey)
 
-Equipment are items that can usually be found in chests. They can be equipped to grant their listed stat bonuses.
+Equipment is a type of item found in chests, exchanged for using an [Artifact](Artifacts.md) or by various other means. They can be equipped to grant their listed stat bonuses.
 
-Equipment can also be randomly obtained by turning in an Artifact to a banker.
+There are 7 different types of equipment: Arms, Legs, Head, Torso, Rings, Ears, and Face.
 
-The player can wear 7 types of equipment: Arms, Legs, Head, Torso, Rings, Ears, and Face.
+Some equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents associated with them (only some Head and Arms items can have these). _These stats and talents are displayed in grey._
 
-Some equipment comes with stats that will always appear, for example: **+1 posture** for Star Dusters or **+8 Health** from Authority Helm. Some can even have talents associated with them (only some Head and Arms items can have these). These stats are displayed in grey.
-
-All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. Random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These pips represent how many bonus stats were obtained and how high their value is. Pips rarity goes from Common, Uncommon, Rare, Legendary and Mythic (Mythic pips are not obtainable so far). Pips gained from stars will be Rare, however, the pip gained from the 3rd star will be Legendary. A simple way to explain the star system is: ★★★
+All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant. All Pips are displayed in order of rarity, which goes Common, Uncommon, Rare, Legendary and (the currently unobtainable) Mythic. Each star an equipment item has will grant 1 Pip as well as 1 Health and will always follow a pattern in which the first two stars grant Rare Pips, while the third star will always grant a Legendary Pip.
 
 <table><caption>Pips</caption>
 <tbody>
@@ -39,17 +37,17 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
   <th>Ring</th>
 </tr>
 <tr>
-  <td>HP</td>
+  <td>Health (HP)</td>
   <td>4 5 6</td>
   <td>4 5 6</td>
   <td>5 6</td>
   <td>5 6</td>
-  <td>NONE</td>
-  <td>NONE</td>
+  <td>N/A</td>
+  <td>N/A</td>
   <td>2 3 4 5</td>
 </tr>
 <tr>
-  <td>Ether</td>
+  <td>Ether (ETH)</td>
   <td>8 10 12</td>
   <td>8 10 12</td>
   <td>10 12</td>
@@ -59,27 +57,27 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
   <td>6 8</td>
 </tr>
 <tr>
-  <td>Sanity</td>
+  <td>Sanity (SAN)</td>
   <td>4 6 8</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
   <td>4 6</td>
   <td>6</td>
   <td>4 6</td>
 </tr>
 <tr>
   <td>Posture</td>
-  <td><p>NONE</p></td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
   <td>1</td>
 </tr>
 <tr>
-  <td>%Monster</td>
+  <td>%Damage vs. Monsters (Monster DMG)</td>
   <td>2 2 5</td>
   <td>2 5</td>
   <td>2 5</td>
@@ -89,34 +87,34 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
   <td>2</td>
 </tr>
 <tr>
-  <td>%Physical</td>
+  <td>%Physical Armor (PHY Armor)</td>
   <td>3 4</td>
   <td>3 4</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
 </tr>
 <tr>
-  <td>%Elemental</td>
+  <td>%Elemental Armor (ELM Armor)</td>
   <td>3 4</td>
   <td>3 4</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td>%Monster Armor</td>
   <td>4</td>
   <td>4</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
-  <td>NONE</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>N/A</td>
 </tr>
 </tbody>
 </table>
