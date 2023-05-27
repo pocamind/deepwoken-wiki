@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63534
+revid: 63552
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -527,11 +527,13 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   **Radiant Dawn ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
+        -   Radiant Dawn seems can't proc any deep gems effect,also it doesn't have the effect of Absolute Radiance after landing the mantra for unknown reason(probably bug).
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
-    -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness.
+    -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.
+        -   Currently,this talent cannot be obtained due to bug.(2023/5/27)
 
 ### Notes
 
