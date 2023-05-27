@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63505
+revid: 63570
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1254,6 +1254,8 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Metallurgist
 
+-   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+    -   Prerequisites: 100 Ironsing
 -   Ironclad Punishment \[Common Talent\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   Prerequisites: 45 Ironsing
 -   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
@@ -1423,11 +1425,16 @@ These are just raw stat increases and are beneficial to anyone.
 
 ### Rending Needle
 
--   _Rendering Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
+-   _Rending Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
     -   Ironsing Pull is activated by pressing X.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
+    -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return. (+1 Posture)
     -   Prerequisites: Master Ironsinger, 60 Ironsing
+    -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
+-   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. (+1 Posture)
+    -   Prerequisites: Master Ironsinger, 75 Ironsing
+    -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Conductor
 
 ### Saboteur
 

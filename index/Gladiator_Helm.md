@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 60759
+revid: 63568
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -17,4 +17,5 @@ The Gladiator Helmet is an item under the _helmet_ category. It can be found in 
 ## Trivia
 
 -   End game Headpiece that many choose.
--   One of the three [Sky Statue](Sky_Statue.md) wears a Gladiator Helmet.
+-   [Blade Instructors](Blade_Instructor.md) wear Gladiator Helmets.
+-   One of the three [Sky Statues](Sky_Statue.md) wear a Gladiator Helmet.

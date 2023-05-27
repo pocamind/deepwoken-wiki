@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 63544
+revid: 63556
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -82,8 +82,8 @@ After this attack he will use his fists for around 30 seconds.
 ### Talents
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white, it will immediately teleport Duke to a random player as soon as the wind up is done, it is unknown if this also increases the damage of the mantra.
--   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well.
+-   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white, it will immediately teleport Duke to a random player as soon as the wind up is done, it is unknown if this also increases the damage of the mantra or if it is just a reskin.
+-   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well. Grip him while you can
 
 ## Finisher
 
@@ -104,8 +104,8 @@ In terms of strategy to avoid his attacks as much as possible;
 -   If Duke does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
 -   After dealing enough posture damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
--   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage.
--   You must STAY ALIVE during the first phase because his Shield not only prevents him from taking damage, but if you are knocked out and he is ready to kill you, you cannot be saved since his Shield blocks and parries every attack and any players who try to save you will have their attacks parried.
+-   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage. But Vampirism makes it safer.
+-   You must STAY ALIVE atleast above 70% during the first phase because his Shield not only prevents him from taking damage, but if you are knocked out and he is ready to kill you, you cannot be saved since his Shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 
 ### Phases
 
@@ -119,14 +119,14 @@ Phases begin in sequence, depending on the Bosses' Max HP.
 Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 -   Rare Items & Equipment
--   Schematics
+-   Rare/Common Schematics
 -   [Rare Weapons](Weapons.md) (Shattered Katana, etc.)
--   [Magic Uncap](Attributes_Unbound.md) (If the requirements are met.)
+-   [Magic Uncap](Attributes_Unbound.md) (If the requirements are met.) Req: 75 Attunement
 -   Legendary rings
 
 You also gain [Resonance](Resonance.md) (Bell) progression.
 
-Soloing the duke is the more recommended way to get bell, as doing so 6 times will guarantee your bell. (Without **Resonance Progress)**
+Soloing the duke is the more recommended way to get bell, as doing so 6 times will guarantee your bell. (Without **Resonance Progress echo)**
 
 ## Dialogue
 
@@ -218,12 +218,12 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
 
 ## Trivia
 
--   The Duke gives the third best monster bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
+-   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   He is escaping The Depths each time he is refought. As such, Arch\_Mage has considered making unique dialogue for his rematches. His lack of rematch dialogue is due to the lack of polishing in some of the earlier introduced fights in the game.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.
--   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious.
+-   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious. (Lethal Percision)
 -   The Duke's room gets sealed off by a barrier upon triggering the fight.
--   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
+-   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   The also both laugh manically following a successful counter
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
@@ -242,4 +242,4 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
 
 ## Bugs
 
--   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account.
+-   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has still been in the game

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 63343
+revid: 63566
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -44,7 +44,7 @@ categories: [Deepwoken]
 -   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer._
     -   It also bears striking resemblance to the spell ["Shock Assault"](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
 -   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.
--   When [Thundercall Songseekers](Songseeker_Thundercaller.md) use **Jolt Grab**, it heavily resembles the animation for [Dragon Sage'](https://rogue-lineage.fandom.com/wiki/Dragon_Sage)s Lightning Elbow. It may be because they use the old animations instead of the new ones.
+-   When [Thundercall Songseekers](Songseeker_Thundercaller.md) use **Jolt Grab**, it heavily resembles the animation for [Dragon Sage'](https://rogue-lineage.fandom.com/wiki/Dragon_Sage)s Lightning Elbow from Rogue Lineage. It may be because they use the old animations instead of the new ones.
 
 ### **Frostdraw**
 
@@ -206,6 +206,9 @@ categories: [Deepwoken]
 -   **The** **Depths** itself was confirmed to have drawn inspiration _Salt and Sanctuary_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological features of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle features a large cavern, while the second feature cold and harsh winds.
+-   The idea of [the Depth](The_Depths.md) is taken from [the Unknown](https://rogue-lineage.fandom.com/wiki/The_Unknown) from Rogue Lineage both having similiar nature and purpose. It was once said by [Arch Mage that the Unknown is the Deep in the sense of the Rogue Tales universe](https://gyazo.com/e245926623205b30fb3fea98f90e5028).
+    -   its the reason why people think Deepwoken and Rogue Lineage is connected, though its already debunked.
+    -   The cycle of world in deepwoken may also take inspiration from [Rogue Lineage](https://gyazo.com/d77249558056420dd89c6a675850bb8d) [world cycle](https://gyazo.com/c6dec0374bf6ebf04c6bcf880915c190).
 
 #### Layer 1 (Scyphozia)
 
@@ -250,3 +253,4 @@ categories: [Deepwoken]
     -   They have to be summoned via rituals.
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
 -   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.
+-   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath
