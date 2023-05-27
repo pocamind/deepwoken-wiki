@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63406
+revid: 63527
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,11 +14,13 @@ Your ability to harness and control metal from your surroundings.
 
 Ironsing Icon
 
-"Ironsing" is an attunement based around the ability to harness metal, commonly used by Blacksmiths around the Luminants. The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). Those ores being **Umbrite, Iron, Gold, Erisore, Irithine, and Astruline.** After you give him these ores, he will give you an **Alloyed Elixir**. Drink the Elixir, and you will unlock **Ironsing**.
+Ironsing is an attunement based around the ability to harness metal. Its [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). These ores are Iron, Gold, Erisore, Irithine, Astruline, and Umbrite respectively. After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
+
+**DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion. This may be changed in a future update.
 
 ## Training Ironsing
 
-The training item for Ironsing is the Ferrofluid. Much like every other attunements, users can see their Mantras become stronger with enough training.
+The training item for Ironsing is the Ferrofluid. Much like every other attunement, users can see their Mantras become stronger with enough training. Gain Ironsing EXP by using it in combat.
 
 ## Mantras
 
@@ -343,10 +345,10 @@ Increased weapon range.
 
 ## Trivia
 
--   First accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
+-   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, and shipped from The Central Luminant.
 -   On release, Ironsing has 12 mantras and 11 talents.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.
--   Ironsing is the fastest Attunement to obtain a Legendary Weapon, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md).
--   Ironsing is called "ElementMetal' in the game's codes.
+-   Ironsing is the fastest Attunement to obtain a Legendary Weapon, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md), released in the exact same update as Ironsing itself.
+-   Ironsing is called "ElementMetal' in the game's code.

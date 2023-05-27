@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 62535
+revid: 63543
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -70,6 +70,7 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
 -   These are known to attack you regardless if you have the "**Animal King**" talent or not, likely due to their nature as inorganic constructs, rather than animals.
 -   [Marcus](Marcus.md) seems to be a related golem, although he doesn't attack you on sight and is infinitely more cool than the Rock Golems as a result.
+-   The uppercut is not unblockable, but you need a high posture.
     
 
 **Golem Prime:**
@@ -126,5 +127,6 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 -   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
 -   These are known to attack you regardless if you have the "**Animal King**" talent or not, likely due to their nature as inorganic constructs, rather than animals.
 -   Golems will target a Megalodaunt or a Terrapod if they get close to it detection range and will target the two instead and not the player.
+-   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
 
  |

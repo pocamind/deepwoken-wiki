@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 60517
+revid: 63533
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]
@@ -80,6 +80,15 @@ Miner's Landing contains a variety of locations containing chests. These chests 
 _Main Page: [Arcwarder Oath](Oaths.md#arcwarder)_
 
 -   After finishing Alpha's questline, talk to Delta to receive the Arcwarder Oath.
+
+#### Ironsing Quest
+
+-   To start, you need to have a Pluripotent Alloy in your inventory.
+-   Speak to the blacksmith. He will mention a friend who is interested in Alloys.
+-   Head up to the bridge overlooking Miner's Landing, go to the second pair of pillars, and go through the window on the left one.
+-   Talk to Adar. He will ask you to bring him the following ores: **Iron, Gold, Erisore, Irithine, Astruline,** and **Umbrite.**
+-   Once you have all these ores, go back to Adar. He will give you an Alloyed Elixir.
+-   Drink the potion to unlock Ironsing.
 
 ## Maps
 

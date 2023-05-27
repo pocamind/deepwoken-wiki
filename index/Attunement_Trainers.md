@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 63463
+revid: 63526
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -21,7 +21,7 @@ For example:
 -   60 = Level 4 mantra
 -   80 = Level 5 mantra
 
-An attunemnt trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)). Unlocking an attunement **permanently** allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
+An attunemnt trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) (not including Ironsing). Unlocking an attunement **permanently** allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
 
 ## List of Trainers
 

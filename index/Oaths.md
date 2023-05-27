@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63469
+revid: 63534
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -740,10 +740,11 @@ Proof of Time Magic's existance and it being an "Oath".
 
 -   Epsi (one of the NPCs you need to talk to if you want to obtain Arcwarder) has an unobtainable gremor variant, the eye colors and skin colors can't be obtained through normal playthrough.
 -   You cant shrine of order with an oath, the only exception being Oathless
--   Currently, the only oaths you can remove are Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
+-   Currently, the only oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   If you do not have an oath, you are considered to be weaker than an opponent with **ANY** oath.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
+-   Unequipping your facial accessory while having Blindseer will automatically give you a cosmetic-only version of the normal Blindfold, which is pale in color.
 -   Visionshaper and Blindseer oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angel's.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.

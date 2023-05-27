@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 62548
+revid: 63541
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -60,7 +60,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light.
     -   Can cook at the oven (not a campfire) in Castle Light on the second floor.
--   **\[CON\]** **You cannot do Trial of One.**
+-   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health
 -   Your starting reputations are:
@@ -73,7 +73,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 ― Flavor Text
 
-**_Obtainment_:** Grip 15 Pathfinders in the Overworld. Afterwards, talk to Eiris- who will reside under the deck of one of the two boats during the Kingdom of Etra VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
+**_Obtainment_:** Grip 15 Pathfinders in the Overworld. Afterwards, talk to Eylis- who will reside under the deck of one of the two boats during the Kingdom of Etra VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
 
 Also all of the kills need to be made on one single character
 
@@ -85,6 +85,7 @@ Also all of the kills need to be made on one single character
 -   Grants the Knives of Eylis talent "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
+        -   You can always teleport through the Voidmother no matter what, even in combat. Use it if you are getting attacked in a fight you can't win, as it is VERY unlikely that you teleport to the same place as your attacker.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events (estimated to be x0.95).
     -   Your starting reputations are:
@@ -92,14 +93,14 @@ Also all of the kills need to be made on one single character
         -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry and The Hundred Legions
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
-    -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you.
+    -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you, along with only being able to teleport from the Voidheart.
     -   **\[PRO/CON\]** If your target runs too far away and is no longer in combat, or likewise if you get away from your target, you are brought back to the [Voidheart](Voidheart.md).
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
         -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting...
         -   **\[CON\]** ...but you will gain a very obvious looking particle effect that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
         -   **\[PRO\]** With the Stealth option, you do not make a sound, do not receive the particle effects until you engage your target and can approach player that are further away from Ferocity's range...
         -   **\[CON\]** ...but you do not gain vision of your target.
--   Grants the Knives of Eylis talent "Voideye"
+-   Grants the Knives of Eylis talent "Voideye".
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability as a 10 minute cooldown. _The cooldown automatically ends when a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
@@ -126,6 +127,6 @@ The following is speculation:
     -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tacky mobs to progress unless you're down to fight an enforcer for 10 minutes in order to leave instead.
     -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
--   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat.
+-   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Mintrysa, you might as well go Stealth unless you can actually see the outline of your target.
 -   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)

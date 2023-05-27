@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 62885
+revid: 63523
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -735,7 +735,7 @@ FROM: Inhale
     
 -   To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI. Like any other wisp in the game.
 -   The _"Wind Step"_ talent can be used by other players for a short period after being placed.
--   The _"Gale Leap"_ talent requires the player to time their slide nearing the end of the animation while being near the edge to activate it.
+-   The _"Gale Leap"_ talent requires cliffs of certain height. Strangely, the talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
 -   The \[Q\] key activates Gale Dash.
 -   Jumping before activating the _"Tempest Wind"_ talent will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:

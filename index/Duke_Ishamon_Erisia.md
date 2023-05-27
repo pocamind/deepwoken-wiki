@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 63475
+revid: 63544
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -55,7 +55,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 
 **This move will insta-grip if it hits you while knocked or at low health**
 
- | ✗ | ✗ | ◯ | (★★★) |
+ | ✗ | ◯ | ◯ | (★★★) |
 | **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down.
 
 \- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
@@ -238,6 +238,7 @@ This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
 -   His first name is unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
+-   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 
 ## Bugs
 
