@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 61149
+revid: 63515
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -27,7 +27,7 @@ When you pick up an Artifact it will make a loud noise and will then stop making
 A Celtor finding the pulsating rings.
 
 -   EXP
--   [Notes](Notes.md)
+-   200 [Notes](Notes.md)
 -   10 Common to Rare Items, including:
     -   [Armor Schematics](https://deepwoken.fandom.com/wiki/Armors?so=search#Outfit_List)
     -   [Weapons](Weapons.md)
