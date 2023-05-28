@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 63322
+revid: 63639
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -21,7 +21,7 @@ A once great kingdom ruling over the [Southern Luminant](Luminants.md), now redu
 
 ## Reputation
 
-They are the only faction which can be found in [The Depths](The_Depths.md) other than [The Divers](The_Divers.md) (which they are neutral towards), meaning their relations with almost all other factions are unknown. Though they will attack [Angels](Hollow_Angel.md) on sight, as well as any monsters which get too close.
+They are the only faction which can be found in [The Depths](The_Depths.md) other than [The Divers](The_Divers.md) (which they are neutral towards), meaning their relations with almost all other factions are unknown. Though they will attack [Angels](Hollow_Angel.md) on sight, and seem to be unbothered by all other monsters.
 
 It is important to note that their is no way to reset your reputation with Lost Celtor. Meaning once you've become enemies with them, there is no going back.
 

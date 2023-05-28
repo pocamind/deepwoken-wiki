@@ -1,21 +1,33 @@
 ---
 title: Grand Authority Plate
-revid: 58121
+revid: 63632
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Arms, Article stubs, Armors]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Equipment, Arms, Plates]
 ---
 
 # Grand Authority Plate
 
-Template:EquipmentStats
+| Grand Authority Plate | |
+|---|---|
+| type | Arms |
+| rarity | Rare (Assumed) |
+| selling price | 25 (Assumed) |
+| requirements | None |
+| weight | 2 |
+| innate stats | 8 Health? Pips |
+| innate talent | Heavy Haul |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:Duke Erisia, The Eternal Gale, Miner's Landing, Primadon |
+| description | ... |
 
 ## Description
 
-The Grand Authority Plate is an accessory under the "Arms" category.
+The Grand Authority Plate is an equipment item in the arms category. Equipping it grants you 8 Health, an unknown number of Pips, and the [Talent](Talents.md) Heavy Haul, which significantly slows down enemies who attempt to carry you. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Eternal Gale](Second_Layer.md), [Miner's Landing](<Miner's_Landing.md>), and [Primadon](Primadon,_Titan_of_the_East.md).
 
-It is part of a set together with the Grand Authority Sabatons.
+## Trivia
 
-This is theorized to be the Armour of "Authority Inquisitors" only spoken of in the [Inquisitors Thorn](<Inquisitor's_Thorn.md>) as "Ill-fated"
+-   The Grand Authority Plate is part of the “Grand Authority” set; with the only other piece being the [Grand Authority Sabatons](Grand_Authority_Sabatons.md).

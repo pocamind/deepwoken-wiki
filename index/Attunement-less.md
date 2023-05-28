@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 63078
+revid: 63619
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -130,7 +130,7 @@ File:No Attunement Revamp.png
     -   Despite not being mentioned in the description, the effect also increases damage dealt by allies.
 -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grand Support'._
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people outside your guild.
--   **UNKNOWN IF UPGRADING MAKES YOUR HEAL AND/OR BUFFS STRONGER, NEEDS TESTING**
+-   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).
 
  |
 | 

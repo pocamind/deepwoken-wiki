@@ -1,6 +1,6 @@
 ---
 title: The Frontier Furnace
-revid: 63378
+revid: 63640
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, Floor 1]
@@ -28,4 +28,5 @@ The Frontier Furnace is the [Ignition Union's](The_Ignition_Union.md) main base 
 
 -   In Diver Journal III, some of the divers in [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) expedition got fed up and assembled an attempt to take shelter inside the furnace, but were most likely killed by him.
 -   You can enter here by breaking through the door with destructive mantras, however you won't be able to pick up the Arcwarder quest, obtain the Union Hook, or call the Deepdrill without the generator.
+-   Attempting to speak with Alpha or Sunway before turning on the generator will prompt the dialogue: "You get that generator working?"
     -   Llevyn has unique dialogue if you entered this way, saying "I know what you are." in a [Yun'shul](<Yun'Shul,_Keeper_of_Hearts.md>) / [Depths Voice](Voices_of_the_Depths.md) font.
