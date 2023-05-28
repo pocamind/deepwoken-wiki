@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 63429
+revid: 63582
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -116,6 +116,14 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Goes well when paired with other elements.
 -   Applies obscured; obscuring the vision of the opponent.
 -   Typically used mid range.
+
+### [Ironsing Mantras](Ironsing.md)
+
+Ironsing provides the widest ranged mantras in the game and the best damage output based on your opponents mistakes and missteps.
+
+-   Offers mantras that favor the user, benefits both short and long distance.
+-   Tunes in well with the metal enchantment, as the metal path gives you benefits depending on how much armor your opponent has.
+-   Applies metal rods, which can be used in different ways by the user who applied it, enabling different strategies and forms of combat.
 
 ### [Physical Mantras](Attunement-less.md)
 

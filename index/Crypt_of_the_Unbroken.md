@@ -1,11 +1,9 @@
 ---
 title: Crypt of the Unbroken
-revid: 62941
+revid: 63594
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, World, Voidzones]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Pages with broken file links, Locations, World, Voidzones]
 ---
 
 # Crypt of the Unbroken
@@ -14,17 +12,18 @@ Template:Location2
 
 Template:Areainfobox
 
-The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found on the top of [Minityrsa](Minityrsa.md)
+The **Crypt of the Unbroken** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) found at the top of [Minityrsa](Minityrsa.md).
 
 ## Overview
 
-The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minityrsa.md). The inside is filled with tall, narrow intersecting halls inhabited by hostile enemies.
+The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minityrsa.md). The inside is filled with tall, narrow intersecting halls inhabited by hostile enemies. Braziers are sparsely placed in the stone halls, and various humanoid statues are around the Crypt.
 
 ## Points of Interest
 
+-   On the 1st floor, there is a massive, library-like room with an Alpha Megalodaunt and four Immortal Guardians in it.
 -   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantra for a hand of whispers.
--   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
--   HellfIire Lotuses and Skyvalor Lotuses can be found around the Crypt. Using 2 Hellfire's will make a strength attribute flask, and using 2 Skyvalor's will make a willpower attribute flasks.
+-   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon, but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
+-   HellfIire Lotuses and Skyvalor Lotuses can be found around the Crypt. Crafting 2 Hellfire Lotuses or 2 Skyvalor Lotuses together at a crafting table will yield a Strength attribute flask or a Willpower attribute flask respectively.
 
 ## Enemies
 
@@ -78,17 +77,17 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Notes & Trivia
 
--   Images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
--   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword.
--   Gripping an enemy will agro everything in the dungeon, including the Alpha sharko, so burn the enemies or bring them outside before gripping them
+-   The majority of images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
+-   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword, but not their special abilities.
+-   Gripping an enemy will aggro a massive amount of the enemies in the dungeon nearby, even on the floor above and including the Alpha Megalodaunt, so if you can't autogrip or burn them, take enemies outside of the Crypt to grip them safely. (This still tends to aggro Carbuncles, but they are a minor threat.)
 -   Good place to farm books, the library has tons of bookshelves.
--   Characters with the Mute [Regalia](Regalia.md) would instead be spared and insulted "INFERIOR" when knocked by them, similar to various guards when you have maximum reputation.
+-   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted "INFERIOR" when knocked by Immortal Guardians, similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the Immortal Guardians out of the dungeon to avoid going to The Depths because it is a Voidzone.
 
 -   Tip: With the assassin talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
     -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
-    -   If you air dash above them quick enough you can assassinate them before they spot you or not even spotting you.
-    -   Tacet and animal king are heavily recommended the for assassination grind but not essential.
+    -   Tacet and/or the Mute Regalia are extremely useful for assassination.
+-   The Crypt of the Unbroken may be the resting place of [Sudaruska](Gran_Sudaruska.md), as her epithet was "the Unbroken," not to mention the fact that Gran Sudaruska can drop in the Crypt.
 
 File:Animal King slot getting knocked by immortal guardian and called inferior..png
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63570
+revid: 63596
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -597,8 +597,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 35 Willpower
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   Despite the description of the talent, it works in a completely different way. Hitting your M3 deals a very small percentage of chip damage
-    -   Use this talent with a weapon without chip damage and with the Engage talent to restore Ether for hitting your opponent's block
+    -   If your critical hits a block, this talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
@@ -1260,6 +1259,8 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: 45 Ironsing
 -   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
     -   Prerequisites: 45 Ironsing
+-   Piercing Metal \[Common Talent\] - Deal additional damage to enemies per metal rod affecting them.
+    -   Prerequisites: 60 Ironsing, Power 13
 
 ### Metamancer
 

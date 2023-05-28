@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 63529
+revid: 63589
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -49,7 +49,7 @@ The user goes in a pride stance with their weapon facing down, and releases a me
 -   Meanwhile, the Club form (at 100 MED and 100 MTL) is the second most damaging club in the game, beaten by the Sacred Hammer (30.6 VS 33.15)
 -   The weapon is inspired by the [Kirkhammer](https://bloodborne.wiki.fextralife.com/Kirkhammer) from [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne).
 -   Based on the leftover weapon, it was likely supposed to be a heavy weapon at one point.
--   Could be inspired by Limbus Company's "Nagel und Hammer" faction, as it applies "nails" (or rods in this case) on the blunt hit, and bleed on the slash hit.
+-   Could be inspired by Limbus Company's "Nagel und Hammer" conglomerate, as it applies "nails" (or rods in this case) on the blunt hit, and bleed on the slash hit.
 
   
 

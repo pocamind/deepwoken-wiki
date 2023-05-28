@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 63433
+revid: 63587
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -87,7 +87,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ## Attunement Unbound
 
 1.  Reach 75 in an [Attunement](Attunements.md).
-2.  Start Lord Regent's Quest in Etris. Requires a good reputation.
+2.  Start Lord Regent's Quest in Etris. Requires a good reputation with [Etrea](Etrea.md)
 3.  Talk to Kennith and finish his dialogue.
 4.  Talk to the Bookworm in the book store, ask him about Etris then about the Duke's rise to power.
 5.  Go above the Navaen Nomad Camp and talk to the Royal Guard next to Kennith's eviscerated body.

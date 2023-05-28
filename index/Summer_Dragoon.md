@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 58339
+revid: 63586
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 ## Armor Stats
 
-This Outfit has 2800 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Wind resistance, and +20% Ether Regen.
+This Outfit has 2800 durability and grants +25% Physical resistance, +30% Elemental resistance, +25% Wind resistance, 15% Ironsing resistance, and +20% Ether Regen.
 
 This Outfit also grants the [Talent Card](Talents.md) _Sunset Ricochet,_ which makes your bullets ricochet to a nearby enemy when hitting an opponent.
 
