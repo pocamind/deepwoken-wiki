@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63562
+revid: 63602
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -539,6 +539,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   Just like Oathless, it has no stat requirements, although it does need you to go to the eternal gale for obtainment.+
     -   This fact essentially makes this a direct upgrade from Oathless.
+        -   Above statement is now somewhat false as Dawnwalker got the HP from its talents removed, and seeing as Radiant Kick is half the reason people went this oath, it may be an actual choice between this and Oathless now.
 -   This Oath is a colorful masterpiece however since its a oath that is locked inside of Layer 2 not to mention its also lacking in talents and mantra's and is a little bit predictable, you have to be semi-skilled at PvE to unlock it. If you lack said skill head over to Jetstriker like the rest of us.
 -   Radiant kick may be inspired by Minos Prime Judgement kick from Ultra kill, having very similar animations.
 -   Although visually similar to Lifeweave, this oath uses radiant magic which is a form of Lightkeeping.
@@ -683,7 +684,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
 -   Drinking an Attunement potion while in the Dreadstar's dialogue no longer gives you the Attunement
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
--   The Ironsing Trainer and Attunementless Trainer cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song.
+-   The Ironsing Trainer, Adar, and the Attunementless Trainer, Regek, cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This is likely due to the fact they they do not "abuse" the song like the other attunement trainers.
 -   A very strong oath, it alters the playstyle of the game however.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
     

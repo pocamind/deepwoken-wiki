@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 63500
+revid: 63597
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -12,7 +12,7 @@ categories: [Equipment, Arms, Cloaks]
 |---|---|
 | type | Arms |
 | rarity | Legendary |
-| selling price | Unknown |
+| selling price | 55 |
 | requirements | None |
 | weight | 2 |
 | innate stats | 5 Health, 1 Posture, 3 Pips (One guaranteed legendary Pip) |
