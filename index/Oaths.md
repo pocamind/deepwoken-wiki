@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63602
+revid: 63613
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -56,7 +56,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 | Oath: Silentheart | |
 |---|---|
 | oath_req | Take the ghost quest, Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
-| effects | +5 Posture, +10 Health, +15% Mantra Resistance |
+| effects | +5 Posture, +10 Health, +15% Mantra Resistance, +10% Extra M1/Critical Damage |
 
 “ Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it. ”
 

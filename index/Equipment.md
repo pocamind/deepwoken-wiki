@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 63535
+revid: 63615
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Outfits]
@@ -54,7 +54,7 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
   <td>10 12</td>
   <td>4 6 8</td>
   <td>4 8</td>
-  <td>6 8</td>
+  <td>6 8 10</td>
 </tr>
 <tr>
   <td>Sanity (SAN)</td>
@@ -64,7 +64,7 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
   <td>N/A</td>
   <td>4 6</td>
   <td>6</td>
-  <td>4 6</td>
+  <td>4 6 8</td>
 </tr>
 <tr>
   <td>Posture</td>
@@ -74,7 +74,7 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>1</td>
+  <td>1 2</td>
 </tr>
 <tr>
   <td>%Damage vs. Monsters (Monster DMG)</td>

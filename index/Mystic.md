@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 63514
+revid: 63606
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -128,7 +128,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames)**_
 -   _I seek the path of the Serpent. **(Lava Serpent)**_
 -   _My unholy blade works for no man. **(The Demon Blade)**_
--   _My blade burns through my foes._ _**(The Emperor's Blade) (Note; Cannot give Mirage Clone, Exploding Mirage Clone)**_
+-   _My blade burns through my foes._ _**(The Emperor's Blade) (Note; Cannot give Mirage Clone)**_
 -   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)**_
 -   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut)**_
 -   _My flame fights for me._ _**(Duelist Flame)**_

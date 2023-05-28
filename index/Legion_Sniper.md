@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 62931
+revid: 63608
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Legion Snipers are Humanoid NPCs who appear to wear a [Legion Centurion](Legion_Centurion.md) outfit along with a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots. They only use a single attack, that being the "[Grand Javelin](Thundercall.md)" mantra. This encounter is exclusive to [Starswept Valley](The_Starswept_Valley.md). Killing one will reward the player with a chest.
 
-According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire, but it's unclear if these are orders or they just feel like killing everyone.
+According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire.
 
 ## Moveset
 
@@ -63,3 +63,4 @@ Grand Javelin
 -   Even if it doesn't change much, they can have different weapons, wielding either a [Ritual Spear](Ritual_Spear.md), [Champion's Sword](<Champion's_Sword.md>) or just plain [Fists](Fists.md) with no Cestus.
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
 -   Despite them being [Thundercall](Thundercall.md) users, they can drop [Gale Stones](Gale_Stone.md).
+-   Legion Snipers are now friendly to people with positive [Legion reputation](The_Hundred_Legions.md)

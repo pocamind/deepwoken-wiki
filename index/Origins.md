@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 63584
+revid: 63612
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -41,7 +41,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 ## Deepbound
 
-> “ Your training is almost complete, though you were born in these halls, you must now venture out into the Wastes to prove your worth. ”
+> “ Your training is almost complete, though you were raised in these halls, you must now venture out into the Wastes to prove your worth. ”
 > 
 > ― Flavor Text
 
