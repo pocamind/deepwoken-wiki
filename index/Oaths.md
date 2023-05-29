@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63657
+revid: 63670
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -445,7 +445,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 “ This oath is cracked! ”
 
-― Cyanic (zenith) after wreckaing an ironsinger with arcwarder
+― Cyanic (zenith) after wrecking an ironsinger with arcwarder
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -554,7 +554,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-{{Quotes |quote=Shadowrush? |author=Ex rouge lineage fans after playing contractor
+{{Quotes |quote=I'm not gonna sugarcoat it... |author=Silentheart after doing half a freshies hp with mani katti
 
 ### Obtainment
 
