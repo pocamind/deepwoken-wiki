@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 63409
+revid: 63672
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,7 +26,7 @@ The Forge of Sin
 
 File:Screenshot 2023-05-24 at 10.28.26 AM.png
 
- | **Rain Spire** - A relic that can be found from Layer 2 (Not known if you can obtain it from Layer 1, needs more testing) that has the ability to summon rain for 180 seconds in a certain radius. At this moment the relic is only consumable once, behaving kind of like [Ardour Manifestation](Ardour_Manifestation.md).
+ | **Rain Spire** - A relic that can be found from Layer 2 and chime that has the ability to summon rain for 180 seconds in a certain radius. At this moment the relic is only consumable once, behaving kind of like [Ardour Manifestation](Ardour_Manifestation.md).
 
 Lore: No real lore right now, but is theorized that it could have been created by the Drowned God of Layer 2, [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>).
 

@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 61810
+revid: 63682
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Cut Content]
@@ -16,17 +16,16 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Isopod is an unused monster that only appears during the [Charisma Unbound](Attributes_Unbound.md) quest.
+The Isopod is an unused monster that only appears during the [Charisma Unbound](Attributes_Unbound.md) quest, or by developer interaction.
 
-Isopods are small, brown creatures with a spike protruding out of its head. They have a hard shell on top, with a mouth underneath, presumably used for slaughtering their foes.
+Isopods are small, brown creatures with a spike protruding out of their head. They have a hard shell on top, with a mouth underneath, presumably used for slaughtering their foes.
 
 ## Moves
 
--   **Swarm** - The Isopods come together and crawl all over their victim's body, greatly lowering their blood overtime, more potent the more Isopods are on the player.
+-   **Leech** - The Isopod latches on to the player, slowly consuming their blood for roughly 10 seconds.
 
 ## Trivia
 
--   They were originally going to be in the game, but were removed due to them being buggy and very dangerous if solo encountered.
--   Only found via a dev spawning them in.
--   Can easily be killed by hitting them once.
--   As for now, they only appear in Karliah's quest when choosing the first option. They however, cannot be damaged nor interacted with and will most likely be there to make you fail the quest...NOICE...
+-   They were originally going to be in the game but were removed due to them being buggy and very dangerous if solo encountered.
+-   As for now, they only appear in Karliah's quest when choosing the first option. They however cannot be damaged nor interacted with.
+-   Despite their name, they resemble Horseshoe Crabs than actual Isopods from real life
