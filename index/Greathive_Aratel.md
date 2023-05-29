@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 62754
+revid: 63658
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -66,7 +66,8 @@ The doors to enter the Lordsgrove.
 
 #### Archive
 
--   Physical Mantra Trainer
+-   Physical Mantra [Trainer](Attunement_Trainers.md)
+-   [Barber](Barber.md)
 
 #### Antiquarian
 

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63613
+revid: 63657
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -76,9 +76,9 @@ Being a Pathfinder doesn't count as an Oath and is merely an indicator of lackin
 
 # **Oath: Oathless**
 
-“ If free will is an illusion, why not make it a convincing one? ”
+“ OATHLESS IS META AGAIN!!! ”
 
-― Oathless description
+― Oathless main after the oath gets a mid buff
 
 **Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
 
@@ -109,9 +109,9 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 # **Oath: Blindseer**
 
-“ The light rearranges into a missive now legible. It details the tenets of an Oath - that we are born with our eyes closed, and we merely choose to open them. ”
+“ Domain expansion... TRUE ICE HELL ”
 
-― Glyphs found in the Temple of the Forgotten Flame
+― TheRealPunchee
 
 **Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
 
@@ -266,9 +266,9 @@ Does not grant any special cosmetic based on race.
 
 # **Oath: Linkstrider**
 
-“ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
+“ I will never financially recover from this... ”
 
-― The Entropy Catalyst
+― Literally anybody after playing linkstrider
 
 **Oath: Linkstrider** is one of the many oaths that got released with Verse 2. This oath has no stat requirements. To obtain its skills, you must grip players with **Oaths** (level does not matter).
 
@@ -321,9 +321,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 # **Oath: Jetstriker**
 
-“ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
+“ YOU'RE TOO SLOW! ”
 
-― Alirian
+― Tiran jetstriker with gale, thunder and 102 agility
 
 **Oath: Jetstriker** is one of the many oaths that got released with Verse 2. To obtain all of the abilities of Jetstriker, you must find 5 orbs around the map.
 
@@ -378,9 +378,9 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 # **Oath: Starkindred**
 
-“ These stars above us are more than constellations. You feel as though you can feel the entire world. A̷͉͌l̴͚͠l̶͎͆ ̶͍͛ȁ̶̫t̵͇́ ̵̦̂ǫ̶͂n̶̫̔c̸̘̎e̵̤͊.̶̊. E̷̖̓V̸͔͝E̷̟̍R̵͕̍Y̵̔͜W̶̱͘H̴̥͘E̸̱͝Ŕ̴̥E̵̼͝.̷̠̂ ”
+“ I'm the biggest birb ”
 
-― Drinking the Holy Ichor
+― Pogbilla
 
 **Oath: Starkindred** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Starkindred, you must kill 3 Greater Angels around the map.
 
@@ -443,9 +443,9 @@ This Oath grants two Combat Mantra slots and eight Health.
 
 # **Oath: Arcwarder**
 
-“ Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite attuned to you yet. Nothing you can't figure out, I'm sure. ”
+“ This oath is cracked! ”
 
-― Delta
+― Cyanic (zenith) after wreckaing an ironsinger with arcwarder
 
 **Oath: Arcwarder** is one of the many oaths that was released with Verse 2. To obtain all the abilities of Arcwarder, you have to beat either of the Layer 2 bosses and escape with the portal [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) opens. It takes 5 complete runs to get every skill. It used to be 8 but was changed.
 
@@ -502,9 +502,9 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 
 # **Oath: Dawnwalker**
 
-“ You shall connect with the light around us, surrounding all of Lumen. ”
+“ JUDGEMENT! ”
 
-― Klaris Llfiend, Mother of the Lights
+― Minos Prime
 
   
 **Oath: Dawnwalker** is one of the many oaths that was released with Verse 2.
@@ -554,9 +554,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 
 # **Oath: Contractor**
 
-“ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
-
-― Duke Erisia to Contractors
+{{Quotes |quote=Shadowrush? |author=Ex rouge lineage fans after playing contractor
 
 ### Obtainment
 
@@ -619,9 +617,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 # **Oath: Silentheart**
 
-“ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
+“ I'm not gonna sugarcoat it... ”
 
-― The Dreadstar
+― Silentheart after doing half a freshies hp with mani katti
 
   
 
@@ -771,3 +769,4 @@ Proof of Time Magic's existance and it being an "Oath".
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
 -   The Dawnwalker talents used to each give 5 extra health.
 -   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, suffocate, piercing will, cheap shot etc. ,which is questionable that Blindseer was better than Silentheart for doing better m1-damage in combat when it's activated.However,during May 16th 2023's patch note,it was found out as bug,so Tranquil Circle is no longer able to activate status-related talents.
+-   Arcwarder armor is similar to Bulats "Incursio" From Akame Ga Kill!

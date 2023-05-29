@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 58815
+revid: 63651
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -18,7 +18,7 @@ Their appearance consists of a Authority Peacekeeper Uniform and an Authority He
 
 ## Moveset
 
-Their arsenal is composed of a [Rifle Spear](Weapons.md) along with the [Flamecharm](Flamecharm.md) attunement:
+Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
