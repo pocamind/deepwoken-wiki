@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63719
+revid: 63731
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,7 +14,7 @@ Your ability to harness and control metal from your surroundings.
 
 Ironsing Icon
 
-"Ironsing" is an attunement based around the ability to harness and create metal, commonly used by Blacksmiths around the Luminants. The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). These ores are Iron, Gold, rine, Irithine, Astruline, and Umbrite respectively. After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
+"Ironsing" is an attunement based around the ability to harness and create metal, commonly used by Blacksmiths around the Luminants. The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). These ores are Iron, Gold, Erisore, Irithine, Astruline, and Umbrite respectively. After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
 
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion. This may be changed in a future update.
 
@@ -73,6 +73,11 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 (★★☆)
 
  | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target. You can use other Mantras / M1 while this is active. |
+|  | Oxidizing Rush
+
+(★★☆)
+
+ | Conjure metal swords and rush forward with them | 50 ether |  |
 |  | Metal Armament
 
 (★★★)
@@ -359,3 +364,4 @@ Increased weapon range.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon on update release, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md), released in the exact same update as Ironsing itself.
 -   Ironsing is called "Element' in the game's code.
+-   Firing Line could be a reference to Oda Nobunaga from the Fate/Series, which her signature move is shooting a line of matchlock rifles towards her enemy.

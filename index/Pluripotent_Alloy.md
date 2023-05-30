@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 63226
+revid: 63723
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -16,7 +16,7 @@ categories: [Items]
 
 ― Item description
 
-## Description
+## [Description](Scion_of_Ethiron.md)
 
 The Pluripotent Alloy is an item in Deepwoken that you can apply to midgame weapons. It upgrades the stats of an applicable weapon into that of an endgame-level weapon, on par with the likes of the [Shattered Katana](Shattered_Katana.md), [Krulian Knife](Krulian_Knife.md) and [Pale Morning](Pale_Morning.md).
 
@@ -38,6 +38,7 @@ Though, it can also be used to obtain the attunement known as [Ironsing](Ironsin
 -   [The Ferryman](The_Ferryman.md)
 -   [Dread Serpent](Dread_Serpent.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (Rarely)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
 
 ## How to Use
 
