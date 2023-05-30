@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 60984
+revid: 63713
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -8,9 +8,9 @@ categories: [Monsters, Layer 2]
 
 # Bounder
 
-“ Even as I'm writing this, I feel eyes watching me. I know one thing for certain: today, I will die. Whether it be by the hands of my 'leader', or by the hands of those who take us for fools, or perhaps the beasts resting above me. ”
+“ Deep gashes creating elegant lines decorate the body. They're beast-like in nature, with an extreme depth to each one. A sense of dread washes over you, almost as if you were in the gaze of a predator. ”
 
-― Diver Apprentice Azel
+― Mauled Diver Corpse Interaction
 
 Template:Creature Info Box v2
 

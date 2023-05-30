@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 62368
+revid: 63701
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mechanics]
 
 # Emotes
 
-Emotes are gestures or poses a player can use. To use an Emote, hold X, hover over your selected Emote, and let go of X.
+Emotes are gestures or poses a player can use. To use an Emote, hold K, hover over your selected Emote, and let go of K. (Keybind was X but has changed since Ironsing being added)
 
 Emotes are for the most part, purely cosmetic, however they can be used for other purposes, such as Emoting at the [Megalodaunt](Megalodaunt.md) Statue in [Etris](Etris.md), to summon [Destroyman III](Destroyman_III.md).
 
@@ -32,3 +32,9 @@ Emote Screen
 |  | Crying | Emote Pack 1 |
 |  | Sway | Emote Pack 1 |
 |  | Headbang | [Metallica Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) |
+|  | Caramelldansen | Emote Pack 2 |
+|  | Grizzly | Emote Pack 2 |
+|  | Shrug | Emote Pack 2 |
+|  | Meditate | Emote Pack 2 |
+| File:Hoss.gif | Hoss | Emote Pack 2 |
+|  | Sturdy | Emote Pack 2 |

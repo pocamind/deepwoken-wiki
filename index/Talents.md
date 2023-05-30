@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63596
+revid: 63710
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -733,7 +733,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. (+3 Health, +2 Elemental Intensity)
     -   Prerequisites: 40 Willpower, 70 Flamecharm
-        -   Azure Flames burn deals 9 damage per second.
+        -   Azure Flames burn deals 8 damage per second.
         -   If you have the lava serpent path, the explosion will have more posture damage and more range with this talent.
 
 -   Expert Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
@@ -1255,6 +1255,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 -   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
     -   Prerequisites: 100 Ironsing
+    -   Less effective with NLK.
 -   Ironclad Punishment \[Common Talent\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   Prerequisites: 45 Ironsing
 -   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
@@ -2024,7 +2025,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 50 agility and beat Alirian in race.
 
 -   Oath: Starkindred - You vow to feel the knowledge of all that is, all at once. You heart heart with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
-    -   Prerequisites: 50 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
+    -   Prerequisites: 40 strength, 1 player grip, talk to Samael in Derelict Church (Songseeker Wilds) and kill Iblis, The Fallen Angel then return to Samael.
 
 -   Oath: Silentheart - You vow to reject the Worlds of the song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost. ( +10 Health, +5 Posture)
     -   Prerequisites: 40 Strength, 40 Agility OR 40 Charisma, 75 Weapon, be attunement-less, get knocked by a mantra from any max attunement user and get gripped by them, start the [Suyuan](Suyuan.md) quest, go to [Beloved Zofia](Beloved_Zofia.md), ~fight the ghosts~ (you dont have to fight the ghosts i got it without fighting them) and talk to [The Dreadstar](The_Dreadstar.md).

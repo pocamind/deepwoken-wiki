@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 63593
+revid: 63702
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -254,3 +254,4 @@ categories: [Deepwoken]
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
 -   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.
 -   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath
+-   "Hoss" emote is a reference to Akuma from Street Fighter, name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.[\[2\]](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search)

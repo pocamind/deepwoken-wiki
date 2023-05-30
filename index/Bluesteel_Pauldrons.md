@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 62632
+revid: 63714
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Bluesteel Pauldrons are an equipment item in the arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Duke_Ishamon_Erisia.md), [Chime of Conflict](Chime_of_Conflict.md), and [Erisia](Erisia.md).
+The Bluesteel Pauldrons are an equipment item in the arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), and [Erisia](Erisia.md).
 
 ## Trivia
 

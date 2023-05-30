@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63681
+revid: 63685
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -35,7 +35,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 50 Strength |
+| oath_req | 40 Strength |
 | effects | +2 Combat Mantra, +8 Health |
 
 | Oath: Arcwarder | |
@@ -386,7 +386,7 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 ### Obtainment
 
-1.  Have 50 Strength and grip any player.
+1.  Have 40 Strength and grip any player.
 
 (Chime of Conflict does not count).
 
