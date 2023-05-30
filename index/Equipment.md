@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 63669
+revid: 63747
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -2606,7 +2606,7 @@ Chests from:
 -   Drop from [Dread Serpent](Dread_Serpent.md)
 
  | Dark, Ochre & White |
-| File:Red justicar defender coat.png | 
+| File:Black Justicar Defender Coat.png | 
 
 Justicar Defender
 
@@ -2653,7 +2653,7 @@ Other sources:
 -   Drop from [Megalodaunts](Megalodaunt.md)
 
  | Red, Purple, Brown, Green, Blue & Peach |
-| File:Ministry Cloak.png | 
+| File:Image of Scarlet Ministry Cloak.png | 
 
 [Ministry Cloak](Ministry_Cloak.md)
 
