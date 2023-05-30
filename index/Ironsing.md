@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63731
+revid: 63768
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -276,6 +276,27 @@ Getting flourished applies a metal rod on your attacker.
 Apply rods on your attacker when **you** are flourished.
 
  |
+| 
+
+File:Alloyblood.jpg
+
+ | 
+
+Alloyblood
+
+ | 
+
+You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+
+  
+**Prerequisites: 100 Metal**  
+(Advanced Talent)
+
+ | 
+
+Bleed damage is halved and blood loss is reduced by 75%.
+
+ |
 
 **Adaptive Arsenal:**
 
@@ -365,3 +386,4 @@ Increased weapon range.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon on update release, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md), released in the exact same update as Ironsing itself.
 -   Ironsing is called "Element' in the game's code.
 -   Firing Line could be a reference to Oda Nobunaga from the Fate/Series, which her signature move is shooting a line of matchlock rifles towards her enemy.
+-   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".

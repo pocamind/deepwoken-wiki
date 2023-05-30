@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 63526
+revid: 63757
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -19,9 +19,9 @@ For example:
 -   20 in an attunement = Level 2 mantra
 -   40 = Level 3 mantra
 -   60 = Level 4 mantra
--   80 = Level 5 mantra
+-   80 = Level 5 mantra (Attunement Unbound)
 
-An attunemnt trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) (not including Ironsing). Unlocking an attunement **permanently** allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
+An Attunement trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different attunements by giving a trainer 5 elemental ingredients of the respected attunement (ex: 5 Spark Glands for [Thundercall](Thundercall.md)) (not including Ironsing). Unlocking an attunement **permanently** allows it to be chosen as your starting element, regardless of which slot it was unlocked on.
 
 ## List of Trainers
 
@@ -95,7 +95,7 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 
 -   The name "Funke" (Thundercall master) means "Spark" in German.
 -   Nostor wears a ministry ouftit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
--   For [Silentheart](Oaths.md) progression, the player must kill all of the Spelltrainers. (Excludes Regek and Adar)
+-   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers. (Excludes Regek and Adar)
     -   Frostdraw trainer Nell wields [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).
