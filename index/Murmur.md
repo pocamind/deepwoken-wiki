@@ -1,16 +1,14 @@
 ---
 title: Murmur
-revid: 63774
+revid: 63801
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Talents, Character, Mechanics]
+categories: [Talents, Character, Mechanics]
 ---
 
 # Murmur
 
-File:Ardour Scream gif.gif
-
-KivC using Wind-up + Ardour Scream Talent in [their video](https://www.youtube.com/watch?v=jy6orzFwGrs).
+Using Ardour Scream.
 
 Murmurs are [Talents](Talents.md) obtained by completing an objective or requirement that allows the user to channel the Song in various ways to gain special buffs or abilities.
 

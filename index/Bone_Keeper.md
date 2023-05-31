@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 63513
+revid: 63798
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,11 @@ categories: [Monsters]
 
 # Bone Keeper
 
-“ Do you want to have a bad time? ”
+“ It's not somewhere one would want to stay for long. In my few ventures in there, I've always heard loud stomping... behind me, almost? I didn't want to stay to find out what was making those noises. ”
 
-― Bone 'Sans the Skeleton' Keeper
+― Sarkale talking about the [Firfire Caverns](Firfire_Caverns.md)
 
-_Also known as Boner_Template:EnemyInfobox1.0
+_Also known as Boner, Bone guy, Bone man, anything that has "Bone" put in front of it._Template:EnemyInfobox1.0
 
 ## Description
 
