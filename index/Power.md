@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 61978
+revid: 63782
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -49,6 +49,7 @@ To keep progressing however, you will need regular EXP, obtained by killing thin
 -   Galebreathe
 -   Thundercall
 -   Shadowcast
+-   Ironsing
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 55291
+revid: 63780
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -109,13 +109,27 @@ _Not what you're looking for? See [Temple of the Blade Quests](Temple_of_the_Bla
 
 -   Ilji's broken sword. Worth telling [his sister](Nanji.md) about it.
 
+### Lost Sibling
+
+###### **\[This Quest requires 75 points in weapon and will unbound it upon completion\]**
+
+-   Talk to the crying [Vigil guard](Attributes_Unbound.md) (Apprentice Kj) on the other side of the library.
+-   He will tell you about his lost brother and will ask you to rescue him.
+-   Go deep into the [Burning Stone Gardens](Burning_Stone_Gardens.md), his brother will be near the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md).
+-   Keep in mind you will require to bring him a Gale Stone.
+-   Hold out the Gale Stone when you talk to him to give it to him.
+-   Go back and talk to Apprentice Kj.
+-   Then go to the the [Maestro](Evengarde_Rest.md) facing the opposite the sparring instructor with the white cloak.
+-   Talk to him to unbound your weapon proficiency by picking your weapon type.
+-   Note that you can also check the [Attributes Unbound](Attributes_Unbound.md) page.
+
 ## Maps
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-travelled than Etris and generally is considered a worse spawn location.
+-   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-travelled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
 -   Safest place for freshies due to the fact that there are barely any gankers in Vigils

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63775
+revid: 63788
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -93,6 +93,11 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 (★★★)
 
  | Conjure a giant rod of metal and slam it down. | 40 Ether | The user forms a large spikey Iron rod and slams it down on the opponent in front of them. Deals heavy damage if not dodged or parried. |
+|  | Iron Hug
+
+(★★★)
+
+ | Crush your opponents bones with an iron infused grab. | 40 Ether | The user has a short windup and grabs the opponent, dealing damage and sets spikes in the afflicted target, then throws them. The spell locks on to targets within close frontal radius. |
 
 ### **Mobility Mantras**
 

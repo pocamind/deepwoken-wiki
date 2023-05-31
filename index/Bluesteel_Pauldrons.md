@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 63770
+revid: 63785
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -11,11 +11,11 @@ categories: [Equipment, Arms, Pauldrons]
 | Bluesteel Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | +3 HP |
+| innate stats | 3 HP? Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Bluesteel Pauldrons are an equipment item in the arms category. The pips gained from equipping them have not been documented. They are found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), and [Erisia](Erisia.md).
+The Bluesteel Pauldrons are an equipment item in the arms category. Equipping them grants 3 Health and an unknown number of Pips. They are rarely found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), the [First Layer](First_Layer.md), and [Erisia](Erisia.md).
 
 ## Trivia
 
