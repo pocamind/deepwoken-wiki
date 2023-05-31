@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 63504
+revid: 63773
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -275,8 +275,7 @@ Legendary = Gold
 -   AVOID the Nautilodaunt at all cost. In order to detect one of them, the Nautilodaunt will make loud noises when running. If the Nautilodaunt detects you running away from it, the likelihood that you will survive is very low, so if you can't fight them, AVOID them. They are very tough but also very smart in close combat, and you have a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log.
 -   Watch where you're going because if you don't pay attention to your surroundings, you run the risk of slipping into the void which you will wipe.
 -   If you are aware that a monster cannot be defeated, avoid engaging it in the first place. Be aware of what you can and cannot kill.
-
-## **Trivia**
+-   Avoid Deep Owls at all costs because they can wipe a player who isn't strong enough to take them on. If you see dark feathers in a path, just avoid it and play it safe.
 
 -   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.

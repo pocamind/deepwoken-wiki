@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63768
+revid: 63775
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -119,7 +119,7 @@ The height of the pillar will depend on what is above you.
 |  | Iron Skin (Support)
 (★☆☆)
 
- | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 75% of damage taken during the mantra's use. During usage, you cannot move nor act.
+ | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
 Can negate the near entirety of fall damage.
 

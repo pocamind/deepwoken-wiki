@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 63714
+revid: 63770
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,18 +15,18 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | Unknown |
 | requirements | None |
 | weight | 2 |
-| innate stats | Unknown |
+| innate stats | +3 HP |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Aratel Island, Chime of Conflict, Erisia |
+| obtainment | Chests from:Aratel Island, First Layer, Chime of Conflict, Erisia |
 | description | ... |
 
 ## Description
 
-The Bluesteel Pauldrons are an equipment item in the arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), and [Erisia](Erisia.md).
+The Bluesteel Pauldrons are an equipment item in the arms category. The pips gained from equipping them have not been documented. They are found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), and [Erisia](Erisia.md).
 
 ## Trivia
 

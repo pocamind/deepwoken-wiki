@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 63639
+revid: 63776
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -27,6 +27,9 @@ It is important to note that their is no way to reset your reputation with Lost 
 
 Their dialogue does not change with reputation.
 
+Once you lose reputation with them, and they start attacking you, angels will also join in on attacking you, even if you have not been seen be a watcher, and there could be as many as 5+ attacking you at once..
+
 ## Trivia
 
 -   To be added.
+-   The celtors seem to either be unable to talk, or are harmed as when you talk to them, it sounds as if they are trying to talk through a "punctured lung"
