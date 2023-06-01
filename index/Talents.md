@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63816
+revid: 63818
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -907,6 +907,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   Thundercall: Your bullets electrify
                 -   Galebreathe Your bullets after cut
                 -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
+                -   Ironsing: Your bullets apply metal rods
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
