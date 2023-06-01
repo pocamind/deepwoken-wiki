@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63710
+revid: 63816
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -828,7 +828,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Legion Kata \[Common Talent\] - Gain the ability to use the [Legion's martial arts](Fists.md).
     -   Allows you to use [Legion Style](Fists.md), one of the 3 fist styles.
-    -   Prerequisites: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory.
+    -   Prerequisites: Talk with [Amara](Amara.md) while having Captain's Recc in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE RECC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
 
 ### Galebreather
 
@@ -2338,12 +2338,12 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
     -   Also available as a common talent.
 
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your Legion Kata attacks now deal 15% more damage. {Conflicting Info; Says 25% on other pages. Can someone confirm?}
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 15% more damage. {Conflicting Info; Says 25% on other pages. Can someone confirm?}
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage
--   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your Jus Karita attacks deal 25% more damage. (+3 Passive Agility)
+-   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your [Jus Karita](Jus_Karita.md) attacks deal 25% more damage. (+3 Passive Agility)
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
--   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your Way of Navae fist style has 25% armor PEN.
+-   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of a significant amount of armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.

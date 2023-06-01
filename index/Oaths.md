@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 63792
+revid: 63813
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -638,8 +638,8 @@ Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Belo
 
 ### Effects
 
--   15% mantra resistance.
--   10% more M1s and Critical damage.
+-   10% mantra resistance.
+-   10% more damage on your weapon.
 -   Entirely lose access to mantras, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.
