@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 63662
+revid: 63842
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -10,32 +10,26 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 **Enchantments** are rare and powerful upgrades for your equipment.
 
-## Acquirement Methods
-
-Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
+## Acquirement
 
 -   You can get an enchanted gear in any chest.
--   Turning in an artifact.
--   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md).
+-   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new one on your desired [weapon](Weapons.md).
 -   Using an equipment enchant for a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
--   Buying a randomized enchant stone for 5 [Krysan Medallions](Kyrsan_Medallions.md).
--   Using an enchantment stone to get a desired enchant.
--   Using the deepshore fossil from [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) to get a desired enchant.
--   Opening the Gales Wax chamber from Layer 2, Floor 1.
+-   Using an enchantment stone to get a desired enchantment that you can get for 5 [Krysan Medallions](Kyrsan_Medallions.md).
 
 ## Mechanics
 
 Enchanted weapons/equipment have special mechanics compared to their regular weapons/equipment.
 
--   Enchanted items cannot be dropped on death.
+-   Enchanted items are not dropped on death
 -   You cannot 'stack' enchantments. i.e. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 100 [Echoes](Echoes.md) per item
 -   Enchanted items appear as light purple in your inventory
--   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these making it somewhat obtainable but very rare to find. Although they can be obtained via trading.
+-   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these, so they can be obtained via trading.
     -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
 -   Weapons can be enchanted by trading in three enchanted items to [Laplace](Laplace.md). The enchantment on the weapon is randomized
--   Legendary weapons **cannot** be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading
+-   Legendary weapons cannot be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading
 
 ## Variants
 
@@ -62,7 +56,7 @@ There are two variants that enchantments come in:
   <font>Blazing<div></div></font></center></td>
   <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire. Damage of the fire scales off of your elemental intensity.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
-  <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
+  <td><div>Weapon is covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -143,8 +137,8 @@ There are two variants that enchantments come in:
   <font>Providence Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deals damage to the attacker.<br>
-  Deal 0.043% x ()userpower in PVP. PVP Base damage is 5, cap is 40.<br>
-  Deal 30% x ()userpower in PVE.<br>
+  Deal 0.043% x ()userpower in PVP.<br>
+  Deal 10% x ()userpower in PVE.<br>
   Damage capped at <b>500</b>.</p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>
@@ -171,7 +165,7 @@ There are two variants that enchantments come in:
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
   Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
-  <td><div>Metal parts are covered in a stone texture.</div></td>
+  <td><div>Metal parts are covered in stone.</div></td>
 </tr>
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
@@ -180,13 +174,13 @@ There are two variants that enchantments come in:
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 10%.</p>
   <p><br>
   </p></div></td>
-  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects.</div></td>
+  <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in a swirly purple effect.</div></td>
 </tr>
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry). Hit damage from crit is the same as that of the M1</p></div></td>
-  <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
+  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry).</p></div></td>
+  <td><div><p>Weapon is covered with the storm enchant and umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
   <td><figure>File:Tears of edenkite.gif<figcaption></figcaption></figure><center><br>
@@ -206,7 +200,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
   <td><div><p>Heal for 15% of damage dealt. Heals blood bar. Heals less when proc on Primadon and Chaser. Heals WAY less when proc on Ethiron</p></div></td>
-  <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
+  <td><div>Weapon glows pink and gives off a slight rose particle effect.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -239,14 +233,13 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the No Life King<div></div></font></center></td>
-  <td><div><p>While held and in combat, gain passive health regen. Every M1 gives 2% insanity.<br>
+  <td><div><p>While held, gain passive health regen. Every M1 gives 2% insanity.<br>
   <br>
   Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the Luminants.<br>
-  When unsheathed in The Depths, -100 sanity. You will immediately die upon using the curse in the Depths if you dont have the sanity to use it.<br>
+  When equipped, -100 sanity. Instantaneous death upon equipping the curse in the Depths. High willpower and sanity do not factor in UNLESS it is a Blindseer.<br>
   <b>Disabled in Arena</b><br>
-  <b>Viscosity is disabled</b><br>
-  <b>Fishman gives reduced healing</b></p></div></td>
+  <b>Viscosity is disabled</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
@@ -263,7 +256,7 @@ There are two variants that enchantments come in:
   <td><div><p>On proc, 5% of your max health adds to your damage.<br>
   Deal bonus damage in PVE.<br>
   <br>
-  Rarely, proc its normal effect but lose 10% HP.<br>
+  Rarely, take self damage equal to 10% of own HP.<br>
   <br>
   Has a 10 second cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>
@@ -307,8 +300,9 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Unstable<div></div></font></center></td>
-  <td><div><p>Every hit have a 10% chance to proc any enchantments. Multiple enchantments can proc from a single m1.<br>
-  <b>Only obtainable via Developer by reporting serious bugs/exploits</b></p></div></td>
+  <td><div><p>Variant 1: Each (LHT: 7, MED: 5, HVY: 3) M1 hits will proc a random enchant.<br>
+  Variant 2: Same with Variant 1 but your weapon will have a random selected weapon animations. <b>Fist doesn't get affected by this variant</b><br>
+  <b>Only obtainable via Developer by reporting serious bugs/exploits or having a big impact in the community</b></p></div></td>
   <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
 </tr>
 </tbody>
@@ -457,13 +451,13 @@ Equipment is covered in a green mist.
 | 
 
   
-Viscosity
+Viscocity
 
  | 
 
 Incoming damage is instead applied over 2.5 seconds. User takes 1/10 of the initial incoming damage every 0.25s 10 times.  
 The user cannot be knocked or executed unless they are hit while at 1% HP.  
-**Disabled if using Curse of the No Life King.**
+**Disabled if using Curse of the No Life King.** **Disabled in 1v1s in arena.**
 
  | 
 
@@ -564,9 +558,7 @@ Curse of Zariffs Absorption
 
  | 
 
-Confirmed to temporarily steal the enchant of the enemy on hit, allowing the user to use the enchant of their enemy. Unknown curse effect.
-
-  
+Currently a placeholder.  
 **Unobtainable**  
 **Confirmed by Yayafino**  
 **Not a Dev Spec.....**
@@ -583,12 +575,12 @@ Static flaming purple.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
 -   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
 -   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
--   **June 27th, 2022** - Enchanted equipment could be now smelted at **[Jarvis](Summer_Isle.md)**.
--   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
--   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
--   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
--   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
--   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
+-   **June 27th, 2022** - Enchanted equipment could be now smelted at **Jarvis**.
+-   **September 12th, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3rd, 2022**)
+-   **September 13th, 2022** - Enchanted weapons and equipment are now at least 1 star by default.
+-   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to Laplace.
+-   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from layer 2.
+-   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from Klaris, by trading in 5 Medalions from layer 2.
 -   **January 16th, 2023** - These enemies and humanoid monsters now have a chance to spawn wielding enchanted weaponry.
 -   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 
@@ -605,17 +597,14 @@ File:Vamparism shield.png
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
-    -   Stormbreaker is most likely based on the mythical Hammer wielded by Thor from _Avengers: Infinity War._
+    -   Stormbreaker is based on the axe wielded by Thor from _Marvel Comics_.
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
     -   The Curse of The Unbidden is likely a reference to the _Unbidden_ from _Stellaris._ A crisis empire that invades through portals.
-    -   Curse of The No Life King is a reference to Enad George "The No Life King" from _Fantasy of Grimgar and Ash_
-        
-        Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
-        
+    -   Curse of The No Life King is likely a reference to _Alucard_ from _Hellsing. (He has been called multiple times a Miserable No-life King, also, his powers and abilities match alot to this enchant (Strong Regeneration.)_
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
--   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shield's capabilities.
+-   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shields capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
     

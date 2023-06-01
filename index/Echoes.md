@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 63812
+revid: 63844
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -27,6 +27,12 @@ A picture of all Echo Upgrades fully unlocked.
 **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 
 The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 157. (344 with all modifiers, including dissonant)
+
+**Ranks** are a way of showing off how the game rated your character.
+
+-   **S Rank** is achieved by basically "beating Deepwoken" aka obtaining all echoes.
+-   **A Rank** is achieved by obtaining 75%-99%(?) of echoes.
+-   **B Rank** is achieved by 50%-74%(?) of echoes.
 
 ### Ways of Obtaining Echoes
 
@@ -249,11 +255,12 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Power 2)** Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
--   Allows you to move quickly when you dodge mid-air.
+-   Allows you to move quickly when you dodge mid-air. It's just an air dash.
 
 **(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
 
 -   You regenerate your armor at campfires.
+    -   Can be done at Power 20 for an extra deck of cards
 
 **(Power 10)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters at Power 10. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
 

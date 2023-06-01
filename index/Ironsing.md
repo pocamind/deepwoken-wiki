@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63809
+revid: 63846
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,7 +20,7 @@ Ironsing Icon
 
 ## Training Ironsing
 
-The training item for Ironsing is the Ferrofluid. Much like every other attunement, can see their Mantras become stronger with enough training. Gain Ironsing EXP by using it in combat.
+The training item for Ironsing is the Ferrofluid. Much like every other attunement, can see their Mantras become stronger with enough training.
 
 ## Mantras
 
@@ -33,7 +33,7 @@ The training item for Ironsing is the Ferrofluid. Much like every other attuneme
 
  | A fury of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Indicates a flash that signifies that the mantra is unparryable. By rotating your view, you can reangle the mantra to catch rolls.
 
-Heavily reminiscent to the legacy Frostdraw mantra, Ice Eruption.
+Deals high posture. Heavily reminiscent to the legacy Frostdraw mantra, Ice Eruption.
 
  |
 | 
@@ -72,12 +72,20 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target. You can use other Mantras / M1 while this is active. |
+ | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target. You can use other Mantras / M1 while this is active.
+
+Drift and Rush Shards do not increase the firing speed or projectile speed.
+
+ |
 |  | Oxidizing Rush
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them | 50 ether |  |
+ | Conjure metal swords and rush forward with them | 50 ether | The user spins 4 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
+
+Similar to Frostdraw's Warden's Blade mantra.
+
+ |
 |  | Metal Armament
 
 (★★★)
@@ -87,7 +95,11 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★★)
 
- | A deadly rush of several metallic rods. | 50 Ether | One of the two Three-Star Ironsing mantras, The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked, applies metal rods dependent on hits. |
+ | A deadly rush of several metallic rods. | 50 Ether | One of the two Three-Star Ironsing mantras, The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked, applies metal rods dependent on hits.
+
+Cannot be modified for whatever reason. (No mantra ingredients work)
+
+ |
 |  | Iron Slam
 
 (★★★)
@@ -126,7 +138,7 @@ The height of the pillar will depend on what is above you.
 
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
-Can negate the near entirety of fall damage.
+Can NOT negate fall damage.
 
 Does not negate deferred or fire damage.
 
@@ -392,3 +404,4 @@ Increased weapon range.
 -   Ironsing is called "Element' in the game's code.
 -   Firing Line could be a reference to Oda Nobunaga from the Fate/Series, which her signature move is shooting a line of matchlock rifles towards her enemy.
 -   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
+    -   Does not share ANY similarities to Mecha Gatling. (Minigun mantra)
