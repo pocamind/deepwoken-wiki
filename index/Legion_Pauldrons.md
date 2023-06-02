@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 63847
+revid: 63862
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -31,5 +31,4 @@ The Khan Pauldrons are an equipment item in the arms category. Equipping them gr
 ## Trivia
 
 -   The Khan Pauldrons are part of the "Khan" set; together with the [Khan Boots](Legion_Boots.md) and [Khan Helmet](Legion_Helmet.md).
--   One of the many reasons why this wiki shouldn't be official.
 -   Both the stats and talent given by them are completely identical to those given by the [Woodland Pauldrons](Woodland_Pauldrons.md).

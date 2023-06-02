@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Cloak"
-revid: 63850
+revid: 63860
 source: https://deepwoken.fandom.com/wiki/Brigand's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -23,10 +23,6 @@ categories: [Equipment, Arms, Cloaks]
 | pass down | Yes |
 | obtainment | Chests from:Duke Erisia, Primadon, Summer Isle, Scyphozia |
 | description | ... |
-
-“ Guys this drip is so underrated! Try it out! Please! Please? Aww… ”
-
-― King Gloomba
 
 ## Description
 

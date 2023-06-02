@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63846
+revid: 63871
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -81,11 +81,7 @@ Drift and Rush Shards do not increase the firing speed or projectile speed.
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them | 50 ether | The user spins 4 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
-
-Similar to Frostdraw's Warden's Blade mantra.
-
- |
+ | Conjure metal swords and rush forward with them | 50 ether | The user spins 4 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible. |
 |  | Metal Armament
 
 (★★★)
@@ -138,7 +134,7 @@ The height of the pillar will depend on what is above you.
 
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
-Can NOT negate fall damage.
+Can negate around 80% of fall damage.
 
 Does not negate deferred or fire damage.
 
@@ -398,10 +394,9 @@ Increased weapon range.
 -   Ironsing was first accidentally leaked in a weekly update, and later confirmed to be an upcoming attunement by Arch\_Mage in a bug report later that day.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, and shipped from The Central Luminant.
--   On release, Ironsing has 12 mantras and 11 talents.
+-   On release, Ironsing had 12 mantras and 11 talents.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon on update release, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md), released in the exact same update as Ironsing itself.
 -   Ironsing is called "Element' in the game's code.
 -   Firing Line could be a reference to Oda Nobunaga from the Fate/Series, which her signature move is shooting a line of matchlock rifles towards her enemy.
 -   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
-    -   Does not share ANY similarities to Mecha Gatling. (Minigun mantra)

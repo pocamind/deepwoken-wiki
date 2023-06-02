@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 59699
+revid: 63857
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **8.0%**
 
 ## Description
 
-One of the most distinct races in the Lumin for their infamous cat ears, Felinors garnered the most attention of all races in Deepwoken. They are a rare race with little social or political influence to their race, mainly varying with the individual themselves. The bonus stats for Felinor are 2 Charisma and 2 Agility including improved stealth as well as multiplied climbing height.
+One of the most distinct races in the Lumen for their infamous cat ears, Felinors garnered the most attention of all races in Deepwoken. They are a rare race with little social or political influence to their race, mainly varying with the individual themselves. The bonus stats for Felinor are 2 Charisma and 2 Agility including improved stealth as well as multiplied climbing height.
 
 ## Racial Traits
 

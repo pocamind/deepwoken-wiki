@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 63773
+revid: 63873
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -276,6 +276,8 @@ Legendary = Gold
 -   Watch where you're going because if you don't pay attention to your surroundings, you run the risk of slipping into the void which you will wipe.
 -   If you are aware that a monster cannot be defeated, avoid engaging it in the first place. Be aware of what you can and cannot kill.
 -   Avoid Deep Owls at all costs because they can wipe a player who isn't strong enough to take them on. If you see dark feathers in a path, just avoid it and play it safe.
+
+## Trivia
 
 -   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
