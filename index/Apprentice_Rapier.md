@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 54984
+revid: 63890
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -26,7 +26,7 @@ categories: [Weapons, Rapiers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Erisia, Minityrsa, Etris Weaponry , The Floating Keep |
-| description | "Your trusty weapon." |
+| description | "Although fragile in appearance, this beginner's blade has been the starting point for many Pathfinders beginning their journey." |
 
 ## Description
 

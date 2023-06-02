@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63818
+revid: 63891
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -628,6 +628,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Flame Blind, 30 Flamecharm and 25 Strength
 
 ### Elementalist
+
+-   _Ether Overdrive_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+    -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
+    -   Note: Does not require any other Elementalist talents despite being an advanced talent.
 
 -   _Elemental Rebound_ \[Rare Talent\] - Elemental mantras now grant extra tempo upon landing (+3 Elemental Intensity).
     -   Prerequisites: 60 [Element](Attunements.md)
