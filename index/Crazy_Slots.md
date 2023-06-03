@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 63843
+revid: 63923
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -75,7 +75,6 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 
 ## Trivia/Notes
 
--   This bell **CANNOT** be activated in chime.
 -   Corrupted Crazy Slots increases the duration of the divine weapons.
 -   Even without decent weapon proficiency (i.e the user is a Hero Blade user), Crazy Slots weapons can still be used for their powerful abilities. They also possess fairly high base stats to begin with.
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons.

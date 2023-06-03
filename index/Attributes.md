@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 63601
+revid: 63919
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -80,6 +80,7 @@ _**NOTE 2: For unexperienced or new players: experimentation is the best way to 
     -   One point in Intelligence gives 2 Ether every point.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
+-   Increases Bomb Damage Scaling
 -   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, and using either the Math Textbook or the Encyclopedia.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 

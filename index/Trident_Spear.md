@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 57628
+revid: 63915
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -28,7 +28,7 @@ categories: [Weapons, Pages with broken file links, Spears]
 
 ## Description
 
-The Trident Spear is a midgame medium weapon. It can be obtained by doing the explosion crate quest at [Summer Isle](Summer_Isle.md) or from [Depths](The_Depths.md) chests.
+The Trident Spear is a midgame medium weapon. It can be obtained by doing the explosion crate quest at [Summer Isle](Summer_Isle.md), chests at [Saramaed Summit](Saramaed_Summit.md), or from [Depths](The_Depths.md) chests.
 
 The weapon itself is really similar to the [Iron Spear](Iron_Spear.md), having the same M1s and criticals, only differing in stats. This weapon can also be [Alloyed](Pluripotent_Alloy.md)  
 

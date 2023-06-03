@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 58730
+revid: 63922
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -27,5 +27,6 @@ This Outfit has 1500 durability and grants +10% Physical resistance and +30% Blu
 This Outfit's Schematic can be found in:
 
 -   [Erisia](Erisia.md)
+-   [Starswept Valley](The_Starswept_Valley.md)
 -   [The Depths](The_Depths.md) (Chest)
 -   [Deep Widow](Deep_Widow.md) (Chest)

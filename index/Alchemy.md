@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 62156
+revid: 63916
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -345,34 +345,43 @@ The best potions for a timed effect (like Grueling or Hastening) either use thre
 
 When brewing potions for an instant effect (like Rejuvenation or Soothing), potions should use three of the strongest ingredient and two of the second strongest ingredient. Sometimes this isn't possible, so the last two ingredients should be used to add a second useful effect.
 
--   **Sanity** (Heartening) - 3 Bluecaps
+-   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
     -   Also deals a small amount of damage and instantly restores reservoir.
-    -   Unknown if spider eggs improve this potion - if they don't, the last two ingredient slots should be used for a second effect. Any positive effect is good here, though invigorating (from goblettos and beeswax) will help restore the small amount of lost health.
--   **Insanity** (Mindbreaker) - 3 Urchin + 2 Spider Egg
+-   **Insanity** (Mindbreaker) - 3 Urchins + 2 Spider Eggs
     -   With the Exterminator talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
     -   This potion reduces sanity over time and doesn't stack - replacing the spider eggs with a second effect (like ether drain) still allows you to drain sanity at the same speed, though you'll need to land more potions to kill someone.
--   **Ether Restoration** (Focus-Enhancing) - 1 (2) Gathered Wheat + 2 (1) Plumfruit + 2 Spider Eggs
+-   **Ether Restoration** (Focus-Enhancing) - 3 Wheat + 2 Spider Eggs
     -   The Focus Enhancing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
--   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Redd
+-   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
     -   Rapidly drains ether and prevents reservoir draw for 15 seconds. Will almost immediately drain target's entire ether bar.
--   **Fast Ether Drain** (Icky Bane) - 1 Calabash + 1 Redd
+-   **Fast Ether Drain** (Icky Bane) - 1 Calabash + 1 Spider Eggs
     -   A cheap alternative of Fast Ether Drain. Works effectively with Exterminator.
--   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Egg
+-   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Eggs
     -   Even a small icky effect is enough to completely prevent ether from being drawn from the reservoir. Compared to Fast Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained, but will keep them empty for much longer.
     -   Particularly fun against gun users, who need ether to use their M1.
--   **Instant Reservoir** (Soothing) - 3 Dentifilo + 2 Bluecap
+-   **Instant Reservoir** (Soothing) - 3 Bluecaps + 2 Dentifilos
     -   Almost a full reservoir restore - deals ~5% of your health in damage.
 -   **Instant Reservoir Drain** (Appalling) - 3 Bamboo Bundle
     -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
 -   **Instant Health** (Rejuvenating) - 3 Redd + 2 Beeswax
     -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or goblettos to restore additional health over time, or wheat can be added to cancel out the ether drain.
--   **Long Regeneration** (Invigorating) - 3 Beeswax + 2 Spider Egg
+    -   Redds help more than normal in healing if the potion is thrown.
+-   **Regeneration** (Invigorating) - 3 Beeswax + 2 Spider Egg
     -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
--   **Fast Regeneration** (Invigorating) - 3 Beeswax + 2 Gobletto
-    -   Heals faster than long regeneration, but less total HP.
+    -   (ONLY IF YOU HAVE SUBSISTENCE TALENT) A better recipe for this would be 3 Goblettos and 2 Beeswax.
 -   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
     -   Instant Damage potions were heavily nerfed before release - there are some circulating videos of high damage potions, but they can't be made now. Currently, this is the best available damage potion, dealing less than 10% to similar strength opponents.
 -   **Long Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
     -   Less pathetic than instant damage, but still pretty bad.
 -   **Fast Poison** (Grueling) - 3 Plumfruit + 2 Bluecap
     -   Subsituting some of the total damage for speed.
+-   **Physical Damage Buff** - 3 Plumfruit + 2 Browncaps
+    -   Buffs your physical damage.
+-   **Physical Damage Debuff** - 3 Crustacean Meat + 2 Wheat
+    -   Debuffs your physical damage.
+-   **Greater Posture Damage** (at a posture defense cost) - 3 Ongos + 2 Spider Eggs
+    -   Increases your posture damage.
+-   **Weaker Posture Damage** - 3 Coral + 2 Spider Eggs
+    -   Decreases your posture damage.
+-   **Speed** - 3 Coral + 2 Pomar
+    -   Increases your speed.

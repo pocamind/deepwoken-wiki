@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 63869
+revid: 63921
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -176,8 +176,8 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
-  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. Boosts damage by 10% in the rain.<br>
-  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 10%.</p>
+  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. Boosts damage by 17.5% in the rain.<br>
+  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 17.5%.</p>
   <p><br>
   </p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects.</div></td>
