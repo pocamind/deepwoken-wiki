@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63891
+revid: 63940
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -617,7 +617,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
 
--   _Tap Dancer_ \[Rare Talent\] - Roll again immediately after a roll cancel. (+1 Passive Agility)
+-   _Tap Dancer_ \[Rare Talent, Agility\] - Roll again immediately after a roll cancel. (+1 Passive Agility)
     -   Your Roll cooldown is refunded when you perform a roll cancel. Does not proc on the subsequent roll cancel.
     -   Prerequisite: 60 Agility
 
@@ -629,7 +629,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Elementalist
 
--   _Ether Overdrive_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+-   _Ether Overdrive_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
     -   Note: Does not require any other Elementalist talents despite being an advanced talent.
 
@@ -638,10 +638,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Empath
 
--   Give and Take \[Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
+-   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
     -   Guildmates or people who are in a Vow of Mastery with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
--   Off Your Game \[common Talent, Charisma Exclusive\] - You now slow Taunted enemies when you hit them.
+    -   Prerequisities: 35 Charisma
+-   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
     -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
 
 ### Escape Artist
@@ -658,7 +659,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 15 Intelligence
 
--   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +5 Reservoir, +3 Health)
+-   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether, +3 Health)
     -   Gain Ether when you parry mantras.
     -   Prerequisites: 20 Agility, 15 Intelligence
 
@@ -894,7 +895,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Gunslinger
 
--   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor. (2+ Ether, +8 Reservoir, +3 Health)
+-   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor. (2+ Ether, +3 Health)
     -   Prerequisites: 30 Intelligence, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
@@ -2323,6 +2324,7 @@ File:Thresherquest1.png
 ### Excavator
 
 -   Turn in 5 Pure Ores into the blacksmith.
+-   This talent lets you mine significantly faster.
     -   Pure Iron, and Pure Gold are not able to be turned to a blacksmith.
 
 ### Heretic's Sutra
@@ -2330,8 +2332,8 @@ File:Thresherquest1.png
 -   A chant that steers you into the state of insanity for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieve the following:
         -   You start benefitting from talent that need you to have insanity to use (namely Lose Your Mind)
-        -   Talent that need you to be losing sanity are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   80 willpower, have HAD tier 1 insanity (Shivering), and talk to Kasen located in layer 2 floor 1.
+        -   Talent that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
+    -   80 willpower, have HAD tier 1 insanity (shivering), and talk to Kasen located in layer 2 floor 1.
 
 ## Outfit Talents
 

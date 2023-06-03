@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 54126
+revid: 63937
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -121,6 +121,6 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 ## Trivia
 
 -   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
--   Ironsinger is the only unreleased [Attunement](Attunements.md) to be a server's noun.
+-   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
 -   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), And [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independant Race.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, and Wind Gem have their first names as server nouns.
