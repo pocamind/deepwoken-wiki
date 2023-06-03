@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 54173
+revid: 63946
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -50,4 +50,5 @@ An Ignition Union Guard executes the player after knocking them:
 
 ## Trivia
 
--   One of the few enemies that have alloyed weaponry.
+-   One of the few enemies that have alloyed weapons.
+-   One of the few enemies to wield heavy weapons.

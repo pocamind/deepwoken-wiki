@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 61832
+revid: 63948
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -42,3 +42,7 @@ You can reset your reputation with Maura, who is standing inside a house on top 
 
 -   [Miner's Landing](<Miner's_Landing.md>) is the only city in-game to be focused around industrialism more than medievalism.
 -   The Ignition Union is one of the four factions who have an oath tied to them.
+
+## Lore
+
+The Summer Company is The Ignition Union main enemy. At both places, you can find a NPC stating that either The Ignition Union or The Summer Company is ruining their plans, For The Summer Company, upon talking to _Scope_, He will state that The Ignition Union is stealing their cargo for somewhat reason. As for The Ignition Union, from a random npc, it will state that the summer company is ruining their project of some sort.

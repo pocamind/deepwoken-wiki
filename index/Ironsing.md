@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 63871
+revid: 63949
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -190,7 +190,7 @@ You can now obtain 3-star Ironsinger mantras.
 
 **Rending Needle:**
 
-These are talents found in "_Rending Needle_" Category.
+These are talents found in "_Rending Needle_" Category. (You can only have one of these talents, taking one prevents the others from appearing.)
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |

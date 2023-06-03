@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 63395
+revid: 63960
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -48,6 +48,7 @@ Check the rest out for yourself
 | Ishan | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. (Obviously.) |
 | Jeremiah | Unaligned | The Depths, Varicosa District | Trades Deep Gems for random loot | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
+| Jim | Unaligned | [Etris](Etris.md) | Asks for [Dying Embers](Dying_Embers.md). |  |
 | Kana | [The Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | None |  |
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
 | Kelsius | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
@@ -87,13 +88,16 @@ Check the rest out for yourself
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
 | Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. I cannot stress this enough; he throws you into the nest pit, and forces you to fight 8-9 bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS PATCHES IN DEEPWOKEN |
 | Raphael | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
+| Regek | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants Starkindred Oath |  |
+| Seren | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |  |
 | Serendi | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
 | Scope | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | The Stranger | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Grants Murmur: Tacet to those with 10 Charisma | Having less than 10 Charisma initiates a fight, extremely buggy and unfinished |
 | Stratos | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a talent to those who meet his requirements |  |
 | Surge | Unaligned | [The Depths](The_Depths.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
+| Suri | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quests. |  |
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | Theadre | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, race and weapon equipped |
 | Trig | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest | Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two [Summer Company Guards](Summer_Company_Guard.md) |
