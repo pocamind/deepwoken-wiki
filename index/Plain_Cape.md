@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 62390
+revid: 63928
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -28,7 +28,7 @@ Brilliant Capes are accessories under the "Torso" category. They can only be obt
 
 ## Trivia
 
-The cape, along with the entire Brilliant set Is a reference to Ike from his appearance in Fire Emblem: Radiant Dawn
+The cape, along with the entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn)
 
 **Dark Owl Cape:**
 

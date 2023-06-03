@@ -1,16 +1,12 @@
 ---
 title: Guilds
-revid: 63852
+revid: 63927
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
 ---
 
 # Guilds
-
-“ Um... Why the whole server is in the same guild and running on me? ”
-
-― Poor guy trying to stay alive while getting chased by 10 lancelot members in the depths
 
 The Guildhouse in Etris
 

@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 54457
+revid: 63931
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -22,4 +22,4 @@ Brilliant Boots are part of the "**Brilliant**" set; with the other armor pieces
 
 ## Trivia
 
--   The full set is a reference to Ike from Fire Emblem: Radiant Dawn
+-   The entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn)

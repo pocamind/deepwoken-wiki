@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 63454
+revid: 63933
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -522,6 +522,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   A frozen Tundra.
 -   Said that the temperatures are so extreme, that it has become very lethal recently due to the temperatures going lower with the pass of time.
 -   Probably home to [Frostdraw](Frostdraw.md).
+-   [Polis](Polis.md) is from here.
 -   Originally inhabited by the Edenkite.
     -   The beheaded corpse of one remains there to this day.
 

@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 62633
+revid: 63930
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -31,3 +31,4 @@ The Brilliant Pauldrons are an equipment item in the arms category. Equipping th
 ## Trivia
 
 -   The Brilliant Pauldrons are part of the "Brilliant" set; together with the [Brilliant Boots](Brilliant_Boots.md) and Brilliant Cape.
+-   The entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn)
