@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Brace"
-revid: 63797
+revid: 64029
 source: https://deepwoken.fandom.com/wiki/Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Braces]
 
 ## Description
 
-The Ranger's Brace is an equipment item in the arms category. Equipping it grants you 3 Health, 1 Posture, and 2 Pips. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Erisia](Erisia.md).
+The Ranger's Brace is an equipment item in the Arms category. Equipping it grants you 3 Health, 1 Posture, and 2 Pips. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Erisia](Erisia.md).
 
 ## Trivia
 

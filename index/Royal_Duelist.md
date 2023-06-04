@@ -1,6 +1,6 @@
 ---
 title: Royal Duelist
-revid: 63986
+revid: 64076
 source: https://deepwoken.fandom.com/wiki/Royal_Duelist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Royal Duelist is an equipment item in the arms category. Equipping it grants you 2 Pips. It is commonly found in chests from [Minityrsa](Minityrsa.md) and [Songseeker](Songseeker_Wilds.md).
+The Royal Duelist is an equipment item in the Arms category. Equipping it grants you 2 Pips. It is commonly found in chests from [Minityrsa](Minityrsa.md) and [Songseeker](Songseeker_Wilds.md).
 
 ## Trivia
 

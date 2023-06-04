@@ -1,6 +1,6 @@
 ---
 title: Steel Pauldrons
-revid: 62712
+revid: 64049
 source: https://deepwoken.fandom.com/wiki/Steel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | 14 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 2 Health, 1 Pip |
+| innate stats | 2 Health1 Pip |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Steel Pauldrons are an equipment item in the arms category. Equipping them grants you 2 Health and 1 Pip. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) ([First Layer](First_Layer.md)), and [Erisia](Erisia.md).
+The Steel Pauldrons are an equipment item in the Arms category. Equipping them grants you 2 Health and 1 Pip. They are commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Depths](The_Depths.md) ([First Layer](First_Layer.md)), and [Erisia](Erisia.md).
 
 ## Trivia
 

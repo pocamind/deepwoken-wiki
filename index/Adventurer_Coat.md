@@ -1,6 +1,6 @@
 ---
 title: Adventurer Coat
-revid: 62730
+revid: 64063
 source: https://deepwoken.fandom.com/wiki/Adventurer_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Coats]
 
 ## Description
 
-The Adventurer Coat is an animated equipment item in the arms category. Equipping it grants you 2 Pips. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Adventurer Coat is an animated equipment item in the Arms category. Equipping it grants you 2 Pips. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 

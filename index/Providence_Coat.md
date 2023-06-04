@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 62740
+revid: 64075
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Coats]
 | selling price | Unknown |
 | requirements | None |
 | weight | 2 |
-| innate stats | 5 Health, 2 Pips |
+| innate stats | 5 Health2 Pips |
 | innate talent | Braced Collapse |
 | bankable | Yes |
 | droppable | Yes |

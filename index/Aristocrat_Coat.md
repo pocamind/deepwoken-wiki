@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 64020
+revid: 64064
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Coats]
 | selling price | Unknown |
 | requirements | Power 13 |
 | weight | 2 |
-| innate stats | 6 Health, 3 Pips |
+| innate stats | 6 Health3 Pips |
 | innate talent | Art of the Deal |
 | bankable | Yes |
 | droppable | Yes |

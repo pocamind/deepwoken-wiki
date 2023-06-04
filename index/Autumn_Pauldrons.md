@@ -1,6 +1,6 @@
 ---
 title: Autumn Pauldrons
-revid: 62630
+revid: 64024
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -11,11 +11,11 @@ categories: [Equipment, Arms, Pauldrons]
 | Autumn Pauldrons | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | Unknown |
+| innate stats | 2 Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Overview
 
-The Autumn Pauldrons are an equipment item in the arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Erisia](Erisia.md).
+The Autumn Pauldrons are an equipment item in the Arms category. Equipping them grants 2 Pips. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Erisia](Erisia.md).
 
 ## Trivia
 

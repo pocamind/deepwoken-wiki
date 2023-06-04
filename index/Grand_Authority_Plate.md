@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 63632
+revid: 64056
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Plates]
 
 ## Description
 
-The Grand Authority Plate is an equipment item in the arms category. Equipping it grants you 8 Health, an unknown number of Pips, and the [Talent](Talents.md) Heavy Haul, which significantly slows down enemies who attempt to carry you. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Eternal Gale](Second_Layer.md), [Miner's Landing](<Miner's_Landing.md>), and [Primadon](Primadon,_Titan_of_the_East.md).
+The Grand Authority Plate is an equipment item in the Arms category. Equipping it grants you 8 Health, an unknown number of Pips, and the [Talent](Talents.md) Heavy Haul, which significantly slows down enemies who attempt to carry you. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Eternal Gale](Second_Layer.md), [Miner's Landing](<Miner's_Landing.md>), and [Primadon](Primadon,_Titan_of_the_East.md).
 
 ## Trivia
 

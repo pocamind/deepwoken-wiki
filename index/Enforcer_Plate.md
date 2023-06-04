@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 63464
+revid: 64055
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Plates]
 
 ## Description
 
-The Enforcer Plate is an equipment item in the arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Berserker, which grants 20% damage resistance for 15 seconds upon knocking an enemy. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
+The Enforcer Plate is an equipment item in the Arms category. Equipping it grants you 2 Pips and the [Talent](Talents.md) Berserker, which grants 20% damage resistance for 15 seconds upon knocking an enemy. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
 
 ## Trivia
 

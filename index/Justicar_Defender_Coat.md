@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 62735
+revid: 64070
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Justicar Defender is an animated equipment item in the arms category. Equipping it grants you 2 Pips. It is rarely found in chests from [King Threshers](Thresher.md), [Aelita](Aelita.md), and [Deep Owls](Deep_Owl.md).
+The Justicar Defender is an animated equipment item in the Arms category. Equipping it grants you 2 Pips. It is rarely found in chests from [King Threshers](Thresher.md), [Aelita](Aelita.md), and [Deep Owls](Deep_Owl.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 63862
+revid: 64044
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Khan Pauldrons are an equipment item in the arms category. Equipping them grants you 3 Health, 1 Pip, and the [Talent](Talents.md) Polite Awakening, which recovers 15% of your max health after getting up from being downed. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Songseeker](Songseeker_Wilds.md).
+The Khan Pauldrons are an equipment item in the Arms category. Equipping them grants you 3 Health, 1 Pip, and the [Talent](Talents.md) Polite Awakening, which recovers 15% of your max health after getting up from being downed. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Songseeker](Songseeker_Wilds.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 63668
+revid: 64065
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Cloaks]
 
 ## Description
 
-The Assassin's Cloak is an animated equipment item in the arms category. Equipping it grants you 6 Health, 3% Stealth, 3 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Now You See Me, which increases stealth while crouching and silences the unsheathing animation. It is rarely found in chests from [Aelita](Aelita.md), [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), [Rogue Constructs](Rogue_Construct.md), and [Scyphozia](First_Layer.md) (Note: Aratel Island, Aelita, and Rogue Constructs' chests can only drop the Pale variant).
+The Assassin's Cloak is an animated equipment item in the Arms category. Equipping it grants you 6 Health, 3% Stealth, 3 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Now You See Me, which increases stealth while crouching and silences the unsheathing animation. It is rarely found in chests from [Aelita](Aelita.md), [Aratel Island](Aratel_Island.md), [Primadon](Primadon,_Titan_of_the_East.md), [Rogue Constructs](Rogue_Construct.md), and [Scyphozia](First_Layer.md) (Note: Aratel Island, Aelita, and Rogue Constructs' chests can only drop the Pale variant).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Leather Pauldrons
-revid: 62591
+revid: 64045
 source: https://deepwoken.fandom.com/wiki/Leather_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Pauldrons]
 | selling price | Unknown |
 | requirements | None |
 | weight | 2 |
-| innate stats | 2 Health, 0 Pips |
+| innate stats | 2 Health0 Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Leather Pauldrons are an equipment item in the arms category. Equipping them grants you 2 Health and 0 Pips. They are commonly found in chests from [Erisia](Erisia.md).
+The Leather Pauldrons are an equipment item in the Arms category. Equipping them grants you 2 Health and 0 Pips. They are commonly found in chests from [Erisia](Erisia.md).
 
 ## Trivia
 

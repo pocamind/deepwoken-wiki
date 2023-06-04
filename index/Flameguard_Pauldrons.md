@@ -1,6 +1,6 @@
 ---
 title: Flameguard Pauldrons
-revid: 62634
+revid: 64037
 source: https://deepwoken.fandom.com/wiki/Flameguard_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Flameguard Pauldrons are an equipment item in the arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Minityrsa](Minityrsa.md).
+The Flameguard Pauldrons are an equipment item in the Arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Minityrsa](Minityrsa.md).
 
 ## Trivia
 
