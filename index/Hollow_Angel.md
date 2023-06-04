@@ -1,16 +1,12 @@
 ---
 title: Hollow Angel
-revid: 60571
+revid: 64011
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
 ---
 
 # Hollow Angel
-
-“ Those watchers... I don't know what their deal is, but they just don't want you to leave this place. Be careful out there, don't stay here and rot for eternity like the rest of us. ”
-
-― A Celtor Inhabitant
 
 **Lesser:**
 

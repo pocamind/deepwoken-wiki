@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 62663
+revid: 64005
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -20,7 +20,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 ### _Armor Stats_
 
-Stranded has infinite durability but grants absolutely no effects to the player.
+Stranded has infinite durability (though is sometimes permanently empty) and grants absolutely no effects to the player.
 
 ## Location
 

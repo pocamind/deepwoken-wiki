@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 48488
+revid: 64012
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Watcher
 
-“ H-How many times am I going to die? Stay away! Stay the hell away from me! ”
+“ Those watchers... I don't know what their deal is, but they just don't want you to leave this place. Be careful out there, don't stay here and rot for eternity like the rest of us. ”
 
-― The "I" in Pixar.
+― A Celtor Inhabitant
 
 ## Description
 

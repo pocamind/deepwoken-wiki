@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 63612
+revid: 63991
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -90,7 +90,7 @@ Also all of the kills need to be made on one single character
     -   **\[CON\]** ...but reduced EXP Gain from events (estimated to be x0.95).
     -   Your starting reputations are:
         -   Friend of The Knives of Eylis and Lost Celtor
-        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry and The Hundred Legions
+        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, The Hive, and The Hundred Legions
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you, along with only being able to teleport from the Voidheart.

@@ -1,6 +1,6 @@
 ---
 title: Repair Kit
-revid: 62155
+revid: 63993
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Armors, Outfits]
@@ -15,7 +15,7 @@ categories: [Items, Armors, Outfits]
 
 ## Overview
 
-A Repair Kit is a deployable tool that can repair an armor's durability. it can be bought at castle light, and it can be obtained via crafting:
+A Repair Kit is a deployable tool that can repair an armor's durability. It can be bought at [Castle Light](Castle_Light.md), or it can be obtained via crafting:
 
 -   (3) Iron
 -   (2) Wood

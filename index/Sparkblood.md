@@ -1,14 +1,16 @@
 ---
 title: Sparkblood
-revid: 36983
+revid: 64015
 source: https://deepwoken.fandom.com/wiki/Sparkblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Utilities, Mechanics, Attunement]
+categories: [Candidates for deletion, Pages with broken file links, Items, Utilities, Mechanics, Attunement]
+notices:
+  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"could merge the blood pages easily\""
 ---
 
 # Sparkblood
 
-## Info
+**Bold**\== Info ==
 
 File:Thundercall Trainer.png
 

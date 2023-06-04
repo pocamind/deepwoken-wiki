@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 53538
+revid: 63998
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Fishing]
@@ -8,12 +8,7 @@ categories: [World, Items, Fishing]
 
 # Chum
 
-“ Say "chum" without the "h". ”
-
-― A Wise Ganymede
-
-  
-You can use chum as bait when [fishing](Fishing.md). It's somewhat useless as just straight Fish Meat can be used for fishing as well, but may increase chances of getting hooks.
+You can use chum as bait when [Fishing](Fishing.md). It's somewhat useless as just straight Fish Meat can be used for fishing as well, but may increase chances of getting hooks.
 
 You can also use 3 chum to craft all three types of Monster Bait.
 
