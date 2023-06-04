@@ -1,6 +1,6 @@
 ---
 title: Royal Duelist
-revid: 63964
+revid: 63986
 source: https://deepwoken.fandom.com/wiki/Royal_Duelist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms]
 | Royal Duelist | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | Unknown |
+| rarity | Uncommon |
+| selling price | 14 |
 | requirements | Power 13 |
 | weight | 2 |
 | innate stats | 2 Pips |

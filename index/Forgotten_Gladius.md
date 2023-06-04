@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 58288
+revid: 63984
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chest from:, Voidwalker, Primadon, Fishing, Other sources:, King Thresher drop |
+| obtainment | Chest from:, Voidwalker, Primadon, Fishing, Other sources:, King Thresher drop, Fishing |
 | description | Often found at the hip of officers on horseback during the Canticlysm, it sadly remained for many years only as a curio for petty nobles to fawn over in the early days after the Tides. Despite its moniker, it was brought back into the vogue by young naval officers of the Central Authority who saw combat value in the trinkets they'd inherited, dragging the blade out from obscurity. |
 
 ## Description

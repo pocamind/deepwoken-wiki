@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 62403
+revid: 63981
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,11 +49,10 @@ When obtained, Teleportation will spend its points on the following stats:
 
 ## Trivia
 
--   You can Teleport entities through the waypoints if they are placed correctly.
--   Monsters can also be teleported by these.
+-   You can Teleport entities if placed correctly. This includes the Deep Widow.
 -   You can place down 1-3 waypoints (or more if corrupted), and if you try to place another then the first waypoint you placed will get removed.
--   This resonance may also be referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named "Minato" in the anime-manga series "Naruto."
--   This resonance can set waypoints in Layer 2 (floor 1), but cant be activated. You're met with the message 'something is interfering with your resonance'
+-   This resonance is occasionally referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named Minato in the anime-manga series "Naruto."
+-   In some circumstances, when attemting to teleport, you're met with the message 'something is interfering with your resonance.' This occurs in dungeons like the Duke's and Layer 2.
     
-    An old practice among users of this bell was to play a waypoint to Lord Regent's manor and then baiting people in. This will cause everybody (except the user) to instantly die due to the insta-kill feature in Lord Regent's Palace. You would not die if you have the active Duke quest. _**(Due to a recent patch, Teleportation users can no longer set waypoints in Lord Regent's Palace )**_
--   Resonance points being put into ring size is quite useless, as almost 99% of usage of this resonance is standing still within the resonance. Questionable as a stat - when it also costs points to have more players within said ring.
+-   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be instakilled if they were not in the Duke quest.
+    -   Prior to the Verse 2 update splitting luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.

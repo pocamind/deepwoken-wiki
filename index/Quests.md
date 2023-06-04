@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 63819
+revid: 63982
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -15,6 +15,8 @@ notices:
 ## Description
 
 **Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential talents, murmurs, oaths and so forth. Quests are categorized into 5 categories for convenience. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC.
+
+Additionally, quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra talent hand will be awarded on power up. If you are power 20, the hand is given immediately.
 
 ## Echo Talent Quests
 
@@ -46,7 +48,7 @@ These quests, when completed, give talents that will be unlocked on every charac
 
 ## Talent Quests
 
-When these quests are completed they give a talent (or mantra in the case of Disguise).
+When these quests are completed they give a talent (or mantra in the case of Disguise). They can sometimes be repeated,
 
 **Treefelling Blow:**
 
@@ -160,17 +162,9 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Reward/s**: Windwaker
 
-## Ordinary Quests
+## One-time Ordinary Quests
 
-These quests have EXP or chests as rewards and are usually repeatable.
-
-**Golden Rats:**
-
-**Quest Location**: Burning Stone Gardens
-
-**Guide**: Kill Golden Rats inside the Rat's Den to get Gold Plates. Turn them into the Golden Rat standing outside.
-
-**Reward/s**: Chest
+These quests usually give XP, Reputation and/or an item.
 
 **Polis' Stories:**
 
@@ -179,14 +173,6 @@ These quests have EXP or chests as rewards and are usually repeatable.
 **Guide**: Talk to Polis standing under the tree in Etris.
 
 **Reward/s**: Gold Ring
-
-**Starswept Bags:**
-
-**Quest Location**: Starswept Valley
-
-**Guide**: Turn in the bags found around Starswept Valley to Mercille near Meteor Isle.
-
-**Reward/s**: Small Hive Chest
 
 **Etrean Guide:**
 
@@ -211,6 +197,74 @@ These quests have EXP or chests as rewards and are usually repeatable.
 **Guide**: Give an NPC in the Isle of Vigils dojo a weapon manual. (It won't take it away)
 
 **Reward/s**: EXP
+
+**Field Report:**
+
+**Quest Location**: Minityrsa
+
+**Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in Outpust Penumbra. Return to him after finding it.
+
+**Reward/s**: 3 Aces, EXP
+
+**Kiley's Promise:**
+
+**Quest Location**: Greathive Aratel
+
+**Guide**: Talk to Suri at Greathive Aratel. He will ask you to place a flower on his brother's grave at Isle of Vigils. You must not take any damage while the flower is in your inventory or you will have to restart.
+
+**Reward/s**: Vibrant Gem
+
+**Soulblooms:**
+
+**Quest Location**: Greathive Aratel
+
+**Guide**: Talk to Regek at Greathive Aratel's archives. He will ask you to find every Soulbloom. They can be found in the Greathive.
+
+**Reward/s**: Upgrade Attunementless mantras at Regek.
+
+**The Guy:**
+
+**Quest Location**: Near Meteor Isle
+
+**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 5 spider eggs.
+
+**Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
+
+**Lars:**
+
+**Quest Location**: Viper's Jaw (Lower, Legion Camp)
+
+**Guide**: Talk to one of the legionaries, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
+
+**Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
+
+**Zana:**
+
+**Quest Location**: Isle of Vigils
+
+**Guide**: Talk to a Vesperian on the Isle of Vigils docks with a weapon with a sheath (katanas?). Fight them and win at various locations.
+
+**Reward/s**: Poser’s Ring
+
+## Repeatable Ordinary Quests
+
+These quests have EXP, chests and/or reputation as rewards and are repeatable.
+
+**Golden Rats:**
+
+**Quest Location**: Burning Stone Gardens
+
+**Guide**: Kill Golden Rats inside the Rat's Den to get Gold Plates. Turn them into the Golden Rat standing outside.
+
+**Reward/s**: Chest
+
+**Starswept Bags:**
+
+**Quest Location**: Starswept Valley
+
+**Guide**: Turn in the bags found around Starswept Valley to Mercille near Meteor Isle.
+
+**Reward/s**: Small Hive Chest
 
 **Summer Isle Supply Boxes:**
 
@@ -244,30 +298,6 @@ These quests have EXP or chests as rewards and are usually repeatable.
 
 **Reward/s**: Chest
 
-**Field Report:**
-
-**Quest Location**: Minityrsa
-
-**Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in Outpust Penumbra. Return to him after finding it.
-
-**Reward/s**: 3 Aces, EXP
-
-**Kiley's Promise:**
-
-**Quest Location**: Greathive Aratel
-
-**Guide**: Talk to Suri at Greathive Aratel. He will ask you to place a flower on his brother's grave at Isle of Vigils. You must not take any damage while the flower is in your inventory or you will have to restart.
-
-**Reward/s**: Vibrant Gem
-
-**Soulblooms:**
-
-**Quest Location**: Greathive Aratel
-
-**Guide**: Talk to Regek at Greathive Aratel's archives. He will ask you to find every Soulbloom. They can be found in the Greathive.
-
-**Reward/s**: Upgrade Attunementless mantras at Regek.
-
 **Ministry Bounty:**
 
 **Quest Location**: Various
@@ -276,21 +306,21 @@ These quests have EXP or chests as rewards and are usually repeatable.
 
 **Reward/s**: Ministry Reputation
 
-**The Guy:**
+**Clean-up:**
 
-**Quest Location**: Near Meteor Isle
+**Quest Location**: Miner's Landing
 
-**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 5 spider eggs.
+**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out Summer Company Guard invading the upper reactor room. Kill ~5 then return to him. Repeatable.
 
-**Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
+**Reward/s**: Reputation, EXP, "Bravery," Door Unlock.
 
-**Lars:**
+**Ku's Shrine:**
 
-**Quest Location**: Viper's Jaw (Lower, Legion Camp)
+**Quest Location**: Songseeker Wilds
 
-**Guide**: Talk to one of the legionaries, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
+**Guide**: Talk to an NPC in [Songseeker Wilds](Songseeker_Wilds.md) who asks you to clear Songseekers from Ku's shrine, which seems to be the [Derelict Highchurch](Derelict_Highchurch.md). Kill some of the Songseekers who spawn there, then return.
 
-**Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
+**Reward/s**: EXP.
 
 **Clean-up:**
 
@@ -299,6 +329,14 @@ These quests have EXP or chests as rewards and are usually repeatable.
 **Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out Summer Company Guard invading the upper reactor room. Kill ~5 then return to him. Repeatable.
 
 **Reward/s**: Reputation, EXP, "Bravery," Door Unlock.
+
+**Monster Hunting:**
+
+**Quest Location**: Starswept Valley
+
+**Guide**: Talk to an NPC on the left side of the gate to the upper level of [The Lordsgrove](The_Lordsgrove.md). They will ask you to kill a monster. Kill one and return.
+
+**Reward/s**: EXP, Hive Reputation
 
 ## Attribute Unbound Quests
 
