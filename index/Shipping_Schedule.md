@@ -1,12 +1,19 @@
 ---
 title: Shipping Schedule
-revid: 58869
+revid: 63979
 source: https://deepwoken.fandom.com/wiki/Shipping_Schedule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
 ---
 
 # Shipping Schedule
+
+| Shipping Schedule | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A categorical list of every incoming Etrean and Gremor prisoner scheduled to be imprisoned at the fort, including the dates they will arrive. |
 
 “ Agrippa, where's my Shipping Schedule? ”
 

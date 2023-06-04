@@ -1,6 +1,6 @@
 ---
 title: Royal Duelist
-revid: 63746
+revid: 63964
 source: https://deepwoken.fandom.com/wiki/Royal_Duelist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -30,4 +30,4 @@ The Royal Duelist is an equipment item in the arms category. Equipping it grants
 
 ## Trivia
 
--   Purple and Stained variants are missing pictures.
+-   Purple variant is missing a picture.

@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 60833
+revid: 63972
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -66,4 +66,4 @@ _"Hrmm... <number of battles won> tourneys won out of <total number of battles> 
 
 ## Trivia
 
--   His favorite drink is grape juice. This is likely in reference to Roblox not allowing references to alcohol, while he was presented as a drunkard. This could also be a reference to the community port of Roblox for Linux also called grapejuice.
+-   According to [Destroyman III](Destroyman_III.md), his favorite drink is grape juice. This is likely in reference to Roblox not allowing references to alcohol, while he was presented as a drunkard. This could also be a reference to the community port of Roblox for Linux also called grapejuice.
