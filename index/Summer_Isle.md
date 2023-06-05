@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 63950
+revid: 64115
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -25,7 +25,7 @@ One of the most eventful populated islands in the Eastern Luminant, having basic
 
 ## Points Of Interest
 
-Summer Isle's points of interest, from highest to lowest priority
+Summer Isle's points of interest, from highest to lowest priority.
 
 ### _**The Castle**_
 

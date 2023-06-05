@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 64086
+revid: 64116
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -19,7 +19,6 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
 | penetration | 15% |
 | special effect | 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
 | stances | 2 Handed, 1 Handed |
-| selling price | (depends on stars) |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
