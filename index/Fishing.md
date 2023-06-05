@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 63370
+revid: 64110
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -22,7 +22,7 @@ To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, 
 
 The next step to fishing is to cast out your Fishing Rod at an area with a general connection to the sea, such as the [Etris Docks](Etris_Docks.md) or the Isle of Vigils Docks. After a while, you will get a bite, and when you get a bite your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
-Another thing about fishing is bait. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Bait is supposed to make fish more attracted to your fishing rod, and possibly give you better rewards but is virtually negligible.
+Another thing about fishing is bait. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
 
 Fishing can also level each attribute given enough time.
 

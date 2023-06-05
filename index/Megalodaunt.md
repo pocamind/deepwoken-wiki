@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 64089
+revid: 64104
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -11,9 +11,9 @@ notices:
 
 # Megalodaunt
 
-“ "How do I fight that thing sir?...JUST BLOCK PARRY DODGE JUST BLOCK PARRY DO-" ”
+“ \[...\] There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? \[...\] ”
 
-― freshie asking a powerful looking player how to kill the sharko
+― Archivist Journal: 'Megalodaunt'
 
 _Commonly referred to as **Sharko**_
 

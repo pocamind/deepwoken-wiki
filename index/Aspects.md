@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 64095
+revid: 64107
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -8,9 +8,7 @@ categories: [Races, Character, Mechanics]
 
 # Aspects
 
-“ The developers surely outdid themselves on these in game races, thei
-
-r designs, and lore are great. Only problem is, some are definitely better than others. By game mechanics I mean, maybe saying it like this is a better way to put it, uh I love all the races of deepwoken except for the bad ones, WAIT DONT CANCEL ME PLEA- ”
+“ The developers surely outdid themselves on these in game races, their designs, and lore are great. Only problem is, some are definitely better than others. By game mechanics I mean, maybe saying it like this is a better way to put it, uh I love all the races of deepwoken except for the bad ones, WAIT DONT CANCEL ME PLEA- ”
 
 ― some deepwoken youtuber starting in game racism
 

@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 60947
+revid: 64106
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -12,7 +12,7 @@ categories: [Deepwoken]
 
 A spec is custom ability often given to mod and/or developers that is unique to the person. For instance, Arch\_Mage has a Soul Stealer ability.
 
-## Spec's
+## Specs
 
 ### Arch\_Mage (Haske Vantage)
 
