@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 63709
+revid: 64090
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,11 @@ categories: [Monsters]
 
 # Nautilodaunt
 
-“ Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. ”
+“ "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-" ”
 
-― Mortus describing his encounter with a Nautliodaunt
+― a freshie getting jumped by a squibbo on the way to escape the depths
 
-_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward and Nautilus_
+_Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Small Angry Mexican Man and Nautilus_
 
 **Nautilodaunt:**
 

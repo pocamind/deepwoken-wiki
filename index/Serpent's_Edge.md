@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 63995
+revid: 64102
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -37,4 +37,4 @@ The Serpent's Edge is an endgame [Medium Weapon](https://deepwoken.fandom.com/wi
 -   Has a unique critical. You do three slashes that move you a good deal forward.
     -   This critical can be used in water as a method of escape, due to the speed boost.
     -   However, do note that the strategy above will not be very effective if your aggressor has a [Mantra](Mantras.md) that can boost their movement speed. (e.g. Gale Lunge, Lightning Assault, etc.)
--   Almost definitely a reference to Obanai Iguro’s sword.
+-   Bears an extreme resemblance to the Flamberge from Dark Souls 1.

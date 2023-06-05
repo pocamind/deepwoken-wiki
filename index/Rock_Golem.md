@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 63543
+revid: 64093
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -106,7 +106,8 @@ In combat, Golem Primes are very hardy having moderately high health, and high s
 
 | Name | Description |
 | --- | --- |
-| Crushing Stomp | }
+| Crushing Stomp | A Golem Prime ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
+
 ## Tips for fighting
 
 Whenever it completes a move, you have enough time to hit it twice, afterwards there is a consistent and safe strat for each move.
@@ -128,5 +129,3 @@ Whenever it completes a move, you have enough time to hit it twice, afterwards t
 -   These are known to attack you regardless if you have the "**Animal King**" talent or not, likely due to their nature as inorganic constructs, rather than animals.
 -   Golems will target a Megalodaunt or a Terrapod if they get close to it detection range and will target the two instead and not the player.
 -   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
-
- |

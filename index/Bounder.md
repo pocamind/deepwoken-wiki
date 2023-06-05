@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 63713
+revid: 64100
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -22,7 +22,7 @@ Bounders are monsters that dwell within the Layer 2 of The Depths. They are infa
 
 Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, is presented in a much more awful form. They feature a significantly hunched posture, elongated limbs, six ringed eyes and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
-Whenever an entity (or in most cases, prey) enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence, though not necessarily their aggression. By default, they will only crawl around in a relatively slow pace, only ever displaying its speed and agility while hunting.
+Whenever an entity (in most cases, prey) enters the territory or hunting grounds of a Bounder, an echoing growl can be heard, signifying their presence, though not necessarily their aggression. By default, they will only crawl around in a relatively slow pace, only ever displaying its speed and agility while hunting.
 
 Bounders are comparatively harder to kill than most other monsters in the world of Deepwoken both thanks for their exceptional lethality and their above average health pool. While they have a relatively discernible pattern of behavior, there is still potential for Bounders to have behavior that is more erratic and unpredictable, amplifying its already impressive lethality in the form of hard hitting moves. An absolutely unforgiving terror that can finish off anyone who isn't accustomed to their behavior within seconds.
 
