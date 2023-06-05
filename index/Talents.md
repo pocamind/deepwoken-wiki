@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 63988
+revid: 64120
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -89,6 +89,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 ### Adaptive Arsenal
 
 -   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
+    -   Also affect players with no outfit (Stranded Outfit)
     -   Prerequisite: 60 Ironsing
 -   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
     -   Prerequisite: 75 Ironsing
@@ -1053,6 +1054,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 ### Ironsinger
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
+    -   Most ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods.
 -   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
     -   Prerequisite: 20 Ironsing
 -   Expert Ironsinger \[Common Talent\] - You can now obtain 2-star Ironsinger mantras.
@@ -1086,7 +1088,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 -   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Jus Karita style](Fists.md).
-    -   Prerequisites: Achieve a Power level of 5 and a Light Weapons attribute of 25, talk with [Polis](Polis.md).
+    -   Prerequisites: Achieve a Power level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
 -   Justicar's Prowess \[Common Talent\] - Jus Karita +30% posture damage against other fist styles.
     -   Deal +30% posture damage against Fist of Navae and Legion Kata
@@ -1260,8 +1262,10 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 ### Metallurgist
 
 -   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+    -   Bleed damage now only deal 15% more damage.
+    -   Blood loss reduction is less effective if using Curse of the No Life King.
+    -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
     -   Prerequisites: 100 Ironsing
-    -   Less effective with NLK.
 -   Ironclad Punishment \[Common Talent\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   Prerequisites: 45 Ironsing
 -   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
@@ -1274,9 +1278,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 These are just raw stat increases and are beneficial to anyone.
 
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
-
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
-
 -   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
     -   Increases the odds of the item with the lowest rate appearing.
     -   This applies to the mob **DROP** and not the chest they spawn.
@@ -1441,6 +1443,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisites: Master Ironsinger, 60 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. (+1 Posture)
+    -   Once restrained, the affected player cannot do anything (even parry). This can lead to true comboes.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Conductor
 

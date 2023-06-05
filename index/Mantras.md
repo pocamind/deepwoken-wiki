@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 63582
+revid: 64138
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -97,7 +97,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Works with most Spike Modifiers.
 -   Has small cooldowns.
 
-### Galebreath Mantras
+### Galebreathe Mantras
 
 Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
