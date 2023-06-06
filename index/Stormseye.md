@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 64174
+revid: 64197
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -33,3 +33,9 @@ categories: [Weapons]
 ## Description
 
 The Stormeye is a legendary weapon that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle. Ragdolls at the end.
+
+## Trivia
+
+-   This weapon is the combination of the lost technology of guns and the lost energy of the kyrsan medalions channeled using thundercall. This effectively makes this weapon a "Lost technology" reincarnated by gunsmith rosen and his protoges at the Summer Company..
+-   This weapon procs all static and electrified talents as well as all thundercall status effects, including static blade and stratoshock buffs. With such buffs makes its damage rival that of most heavy weapons while all these buffs are active
+-   Currently infamous for being the rarest weapon in the game, and given its showcase, (Credit to TheRealPunchee for the showcase) One of the best.

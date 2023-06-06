@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 63720
+revid: 64178
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -533,23 +533,6 @@ Successfully dodging leaves behind a heat mirage that sets enemies that swung at
  | 
 
 When dodging an attack, you leave behind a fire clone that burns the attacking enemy.
-
- |
-| 
-
- | 
-
-Exploding Mirage Clone
-
- | 
-
-Your Mirage Clones explode.
-
-(Rare Talent)
-
- | 
-
-+4 Elemental Intensity FROM: Mirage Clone
 
  |
 

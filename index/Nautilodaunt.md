@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 64090
+revid: 64176
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Nautilodaunt
 
-“ "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-" ”
+“ Can’t press F? ”
 
-― a freshie getting jumped by a squibbo on the way to escape the depths
+― A common motto of the Nautilodaunts, originally thought of by their teacher.
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Small Angry Mexican Man and Nautilus_
 

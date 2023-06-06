@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 63884
+revid: 64195
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -965,9 +965,19 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>20</td>
   <td>25%</td>
   <td>MED: 6</td>
-  <td>5</td>
+  <td>4</td>
   <td>8</td>
   <td>0.73x</td>
+</tr>
+<tr>
+  <td><a href="Summer_Rifle.md">Summer Rifle</a></td>
+  <td>40 MED</td>
+  <td>17</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
 </tr>
 </tbody>
 </table>
@@ -1510,6 +1520,18 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>20</td>
   <td>10%</td>
   <td>SHD: 6.5</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+  <td>No</td>
+  <td>N/A</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
+  <td>75 THD, 25 MED</td>
+  <td>19.5</td>
+  <td>N/A</td>
+  <td>7 THD, 3 MED</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
