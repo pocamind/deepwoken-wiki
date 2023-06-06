@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 64200
+revid: 64234
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons]
@@ -32,3 +32,7 @@ notices:
 ## Description
 
 The Summer Rifle is a weapon that scales from Medium Weapons.
+
+## Trivia
+
+It can drop from chime and summer isle chests.

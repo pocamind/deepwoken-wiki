@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 64055
+revid: 64229
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Plates]
 | Enforcer Plate | |
 |---|---|
 | type | Arms |
-| rarity | Rare(Assumed) |
-| selling price | 25 (Assumed) |
+| rarity | Uncommon |
+| selling price | 14 |
 | requirements | None |
 | weight | 2 |
 | innate stats | 2 Pips |

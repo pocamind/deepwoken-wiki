@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 64087
+revid: 64218
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -91,7 +91,7 @@ Drift and Rush Shards do not increase the firing speed or projectile speed.
 
 (★★★)
 
- | A deadly rush of several metallic rods. | 50 Ether | One of the two Three-Star Ironsing mantras, The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked, applies metal rods dependent on hits.
+ | A deadly rush of several metallic rods. | 50 Ether | The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked, applies metal rods dependent on hits.
 
 Cannot be modified for whatever reason. (No mantra ingredients work)
 

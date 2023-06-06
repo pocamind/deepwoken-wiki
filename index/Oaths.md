@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 64119
+revid: 64231
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -80,7 +80,7 @@ Being a Pathfinder doesn't count as an Oath and is merely an indicator of lackin
 
 ― Oathless description
 
-**Oath: Oathless** requires any [Power Level](Power.md) and no Oath to obtain it through a quest.
+**Oath: Oathless** can be obtained at any time throught a quest.
 
 ### Obtainment
 
@@ -113,18 +113,20 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 ― Glyphs found in the Temple of the Forgotten Flame
 
-**Oath: Blindseer** is an Oath that requires the player to have [Willpower](Attributes.md) 40 and all three Mental Fortress [Talents](Talents.md). This Oath requires minimum [Power Level](Power.md) 3 (or 2 if you started with 10 willpower) to obtain all stated requirements.
+**Oath: Blindseer** is a supportive Oath based around Sanity, allowing one to take away the insanity of others and use it themself while also providing support.
 
 ### Obtainment
 
-Obtaining Blindseer is harder than Oathless (minus the entire not having a level requirement part), and requires a Blindfold for the process.
-
-1.  Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
-2.  Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
-3.  Climb above the temple doors or go through them if they are open and proceed inside the temple.
+-   Meet the following requirements:
+    -   Have 40 Willpower
+    -   Have the 3 talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief**.
+    -   Be blind, either throught the **Blinded** talent from Blindfolds or the Blind Flaw.
+-   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
+-   Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
+-   Climb above the temple doors or go through them if they are open and proceed inside the temple.
     -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you.
-4.  Once inside the temple, proceed through a passage on the left.
-5.  Inside that room, an engraved message can be found. _Interact with this text while wearing a Blindfold to accept Blindseer. (you do not require a blindfold if you have the blind flaw)_
+-   Once inside the temple, proceed through a passage on the left.
+-   Inside that room, an engraved message can be found. Interact with this text while blind (either from the flaw or from a blindfold)
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=CZDpz7rwHTM)._
 
@@ -176,7 +178,7 @@ This Oath grants the player one Support Mantra slot, one Wildcard Mantra Slot, t
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to gaze, glare and flame blind.
 
-Having all the talents, the blindfold, and the oath, you will be able to stay in [The Depths](The_Depths.md) for an entire hour without any signs of scratching. With this oath, farming in the The Depths will be much less of a nuisance considering you will not have to exit the depths occasionally to restore your sanity.
+With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for extensives amount of time in The Depth at no risk.
 
 ### Notes
 
@@ -198,27 +200,25 @@ Having all the talents, the blindfold, and the oath, you will be able to stay in
 
 ### Obtainment
 
-1.  Have 50 [charisma](Attributes.md)
-2.  Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once.
-3.  Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
-4.  Bring him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
-5.  Bring Void Feathers to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills.
+-   Meet the following requirements:
+    -   Have 50 [charisma](Attributes.md)
+    -   Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once
+    -   Have a Dark Feather in your possession
+-   Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
+-   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
+
+To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills. There's also one talent available throught talent hands.
 
 ### Known Abilities
 
-The mantras and passives are obtained by giving Void Feathers to Surge after the Dark Feather required to obtain the oath.
-
-Visionshaper also has one talents obtained via standard level up.
-
 -   **Illusory Servants - Combat Mantra**
     -   Spawns an illusion of yourself that targets the closest enemy.
-        -   Only works on players.
     -   Only they and yourself can see it.
     -   Clones disappear if caster is hit.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage, 3/4 of which is recovered when the duration expires (think of it doing 25% real damage), unless in the **Illusionary Realm**, in which case it will deal real damage.
-    -   It is important to note that summoned clones do cause hitstun, which with the recent parry changes can lead to difficult parry exchanges.
+    -   Clones do apply hitstun, allowing one to trip up enemies and possibly fail parries.
     -   This mantra is similar to lightning clones, although it works slightly different in execution.
 -   **Illusionary Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds 40 if 3 eternal and aeon logstones.
@@ -227,20 +227,16 @@ Visionshaper also has one talents obtained via standard level up.
     -   The realm can be used as a healing space, where you can place campfire, graceful flame or warriors respite.
     -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
         -   Players cannot be knocked in the realm.
-    -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm.
-
+    -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordindly when the realm end).
 -   **Illusionary Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attacks and teleports the attacker behind the user. This can be extended with mantra modifications.
         -   If the attacker has the Disbelief talent, the attacker and and user swap place instead.
     -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
     -   Active frames are larger while in the Illusionary Realm.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
-    -   This mantra can counter fall damage, although the bugginess of this behavior likely means it's not intended. (It's also not good to rely on)
-
 -   **Mirage From the Deep - Passive**
     -   While in the **Illusionary Realm**, press X to leave early. This will cost ?? HP(Tested with 478 hp character, it only cost 4% HP when i had full health) and leave the victim with monsters from The Depths for the remaining duration.
     -   The monster can be any of the monsters that spawn in the Depths
-
 -   **Cheap Trick - Passive**
     -   When dropping below 50% health, turn invisible and summon an Illusionary Servant that follow the same rules as the active one summoned by the mantra **Illusory Servants**.
 
@@ -254,8 +250,6 @@ The following talent is obtained by leveling up after obtaining and maxing out V
 This Oath grants one Support Mantra slot and two Combat Mantra slots
 
 The oath changes the eye color of oath taker to purple and creates a wispy ethereal particle effect which stems from the user's right eye.
-
-Does not grant any special cosmetic based on race.
 
 ### Notes
 
@@ -673,7 +667,7 @@ This can be done in any order, however, the recommended order is Nell, Friid, Am
         -   This turns your Vents Red which is purely cosmetic.
 -   **Mani Katti - Passive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
-        -   Is activated by using ctlr + M2.
+        -   Is activated by using ctrl + M2.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
         -   Damage scales on your weapon, however, light weapon deal increased damage and heavy weapon deal reduced damage.
         -   Does not target allies.

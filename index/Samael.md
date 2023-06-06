@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 62900
+revid: 64220
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -105,7 +105,7 @@ Samael is an NPC that will grant you the [Starkindred](Oaths.md) oath. He is loc
 > 
 > Samael: A pilgrim enters the holy hall, with a head full of _false ideals._ Leave this place of worship, lest you seek an eternity of the unknown.
 > 
-> If spoken to after: Having 50 Strength, completing the Starkindred quest but then using the Shrine of Order, then speaking to him again with under 50 Strength.
+> If spoken to after: Having 40 Strength, completing the Starkindred quest but then using the Shrine of Order, then speaking to him again with under 40 Strength.
 > 
 > Samael: Your dedication is recognized, lamb. However, you no longer have the strength you once did... I cannot make you the offer while you are in this state of weakness. Your body couldn't take it.
 > 

@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 62923
+revid: 64221
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -36,7 +36,7 @@ notices:
 
 Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 3. It does 23.5 base damage and has a swing speed of 0.62x.
 
-This weapon has 3 (or 4 with a talent) passives abilities:
+This weapon has 2 (or 3 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
 -   When killing a player or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
@@ -70,5 +70,4 @@ This weapon has 3 (or 4 with a talent) passives abilities:
     -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
 
 -   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
-
 -   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.

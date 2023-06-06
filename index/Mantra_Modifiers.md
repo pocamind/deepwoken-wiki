@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 63569
+revid: 64224
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -329,7 +329,8 @@ Gem
 #### Cloudstone
 
 -   Causes the projectiles from the "Ice Lasers" mantra to shoot multiple bullets consecutively.
--   Increases the tendrils for "Glacial Arc."
+
+  
 
 #### Glass Stone
 
@@ -422,13 +423,9 @@ Magnet Spark
  | 
 
 -   Flame Blind
-
 -   Jolt Grab
-
 -   Lightning Blade
-
 -   Lightning Stream
-
 -   Spark Swap
 
  | 
@@ -449,7 +446,6 @@ Spark
  | 
 
 -   Fire Gun
-
 -   Ice Eruption
 
  | 
@@ -470,18 +466,13 @@ Spark
  | 
 
 -   Frost Grab
-
 -   Wind Gun
-
 -   Ice Forge
-
 -   Lightning Clones
-
 -   Lightning Stream
-
 -   Shade Devour
-
 -   Shadow Gun
+-   Rising Shadow
 
  | 
 
@@ -499,25 +490,15 @@ Reversal Spark
  | 
 
 -   Flame Leap
-
 -   Lightning Impact
-
 -   Grand Javelin
-
 -   Air Force
-
 -   Gale Punch
-
 -   Tornado
-
 -   Adrenaline Surge
-
 -   Dash
-
 -   Revenge
-
 -   Burning Servants
-
 -   Frozen Servants
 
  | 
@@ -536,13 +517,9 @@ Multiplying Spark
  | 
 
 -   Eclipse Kick
-
 -   Wind Gun
-
 -   Shade Bringer
-
 -   Shade Devour
-
 -   Grand Javelin
 
  | 
@@ -563,11 +540,8 @@ Spark
  | 
 
 -   Ice Laser
-
 -   Crystal Knee
-
 -   Shade Bringer
-
 -   Dash
 
  | 
@@ -586,11 +560,8 @@ Tornado Spark
  | 
 
 -   Fire Blade (Might be or might not be broken as of the 1st of May 2022)
-
 -   Champion's Whirlthrow
-
 -   Storm Blades
-
 -   Dark Blade
 
  | 
@@ -776,7 +747,24 @@ File:Shadow Gun with Blast Spark.gif
 
  | 
 
--   This modifier causes the "Shadow Gun" mantra to hit multiple times.
+-   This modifier causes the "Shadow Gun" mantra to hit multiple times but triples the ether cost.
+
+ |
+| 
+
+Rising Shadow
+
+ | 
+
+File:Rising-Shadow.gif
+
+ | 
+
+File:Rising Shdaow with Blast Spark.gif
+
+ | 
+
+-   This modifier causes Rising Shadow to apply a status effect that massively increase mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra.
 
  |
 
