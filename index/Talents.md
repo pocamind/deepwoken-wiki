@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64216
+revid: 64292
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1197,7 +1197,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
     -   Grant up to 15% extra damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
-    -   Prerequisite: 40 Strength
+    -   Prerequisite: 30 Strength, 30 Fortitude
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
@@ -1919,23 +1919,23 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Commands Given: "Sleep", "Drop", "Eat", "Say (Text)", "Use", "Locate", "Leech"
     -   Prerequisite: 20 Charisma
 
--   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration (+4 Ether, +4 Health)
+-   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration.
     -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Buff speed slightly and major power boost
 
--   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live. (+4 Ether, +3 Health)
+-   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
     -   Prerequisites: 75 Charisma, other Vow of Mastery talents
     -   Effect: Will fully heal your servant
 
--   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side. (+4 Ether, +3 Health)
+-   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side.
     -   Prerequisites: 60 Charisma, Vow of Mastery
     -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediately
 
--   Command: Run \[Common Talent\] - Command your servant to run with all their might. (+4 Ether, +4 Health)
+-   Command: Run \[Common Talent\] - Command your servant to run with all their might.
     -   Prerequisites: 40 Charisma, Vow of Mastery
     -   Effect: Make your subject run very fast, they can't stop running until the duration of effect ends.
 
--   _Command: Sacrifice_ \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own. (+4 Ether, +3 Health)
+-   _Command: Sacrifice_ \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own.
     -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Takes the hp of a servant until you are full hp
 

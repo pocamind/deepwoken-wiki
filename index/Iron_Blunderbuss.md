@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 60524
+revid: 64286
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -38,6 +38,6 @@ The Iron Blunderbuss is a Medium Weapon for the Verse 2 content update. It is am
 -   Unlike the Rosen's Peacemaker, this rifle requires bullets to use its ranged attacks.
 -   Unlike the [Rifle Spear](Rifle_Spear.md), the rifle's critical does not maintain momentum.
 -   The critical's speed is very similar to the regular swingspeed, meaning it can cause some very interesting mixups when combined with the M1 bullet.
--   The maker of both rifles is [Gunsmith Rosen](Lore.md).
+-   The maker of the **Iron blunderbuss** and the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is [Gunsmith Rosen](Lore.md).
     
     File:BlunderbussStats.png

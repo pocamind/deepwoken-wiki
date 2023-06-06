@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 53493
+revid: 64250
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -16,13 +16,13 @@ categories: [Weapons, Fists]
 | scaling | 7.5 |
 | range | 6 |
 | swing speed | 0.86x |
-| selling price | ? |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia Chests , Songseeker Chests , Summer Isle Chests |
+| obtainment | Minityrsa Chests , Songseeker Chests , Summer Isle Chests |
 | description | [REQUIRES A FIST STYLE] |
 
 ## Description

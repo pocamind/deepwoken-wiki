@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 56174
+revid: 64274
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1]
@@ -34,4 +34,5 @@ There is an NPC here that will give you a random item for a deepgem.
 
 ## Trivia/Notes
 
--   Player notes here
+-   In this district there is the Shadow trainer which can give you a nightblood potion for 5 umbral obsidian
+-   In the Shadow trainer cave there is aslo Umbrite which is used to get ironsing

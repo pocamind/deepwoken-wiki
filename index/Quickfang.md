@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 56323
+revid: 64243
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]

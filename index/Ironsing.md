@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 64218
+revid: 64282
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -67,7 +67,7 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Throws 6 caltrops upon use, which stays on the ground for a while even if missed (Much like Gale Trap). Can block break at close range if all hit. Has the potential to apply many iron rods. |
+ | Sharp metal traps. | 50 Ether | Throws 6 caltrops upon use, which stays on the ground for a while even if missed (Much like Gale Trap). Goes through block(**and your character!**) if casted closely to target. May be blocked or even parried of the ground. Has the potential to apply many iron rods. |
 |  | Firing Line
 
 (★★☆)
@@ -129,7 +129,7 @@ The height of the pillar will depend on what is above you.
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
-|  | Iron Skin (Support)
+|  | Iron Skin
 (★☆☆)
 
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
@@ -141,7 +141,7 @@ Does not negate deferred or fire damage.
  |
 |  | Chain Pull
 
-(Support) (★☆☆)
+(★☆☆)
 
  | Manifest chains to brutally pull enemies towards you. | 50 Ether | Pulls enemies towards you. |
 

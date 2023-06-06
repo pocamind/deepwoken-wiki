@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 63677
+revid: 64276
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -59,7 +59,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Intelligence
 
 -   _I think before I fight. **(Tactician) (Note; Cannot give Punishing Blow)**_
--   _I fight from afar. **(Adept Caster) (Note; Cannot give Everchanging Aegis, Overflowing Dam, Perfect Flash)**_
+-   _I fight from afar. **(Adept Caster) (Note; Cannot give Everchanging Aegis, Perfect Flash)**_
 -   _I enjoy mixing potions. **(Alchemist) (Note; Cannot give Placebo Effect, Subsistence)**_
 -   _I am an expert on ether. **(Ether Adept) (Note; Cannot give Eureka)**_
 -   _I am all knowing. **(Omniscient) (Note; Cannot give All Knowing)**_
