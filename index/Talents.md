@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64120
+revid: 64159
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1197,7 +1197,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
     -   Grant up to 15% extra damage when nearing 100% insanity.
     -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
-    -   Prerequisite: 30 Strength, 30 Fortitude
+    -   Prerequisite: 40 Strength
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
@@ -1261,16 +1261,18 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 
 ### Metallurgist
 
--   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+-   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
     -   Bleed damage now only deal 15% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
-    -   Prerequisites: 100 Ironsing
--   Ironclad Punishment \[Common Talent\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
+    -   Prerequisite: 100 Ironsing
+-   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   Prerequisites: 45 Ironsing
--   Thornmail \[Common Talent\] - Getting flourished applies a metal rod on your attacker.
-    -   Prerequisites: 45 Ironsing
--   Piercing Metal \[Common Talent\] - Deal additional damage to enemies per metal rod affecting them.
+-   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
+    -   Prerequisite: Caltrops mantra, 45 Ironsing
+-   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
+    -   Prerequisite: 45 Ironsing
+-   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional damage to enemies per metal rod affecting them.
     -   Prerequisites: 60 Ironsing, Power 13
 
 ### Metamancer

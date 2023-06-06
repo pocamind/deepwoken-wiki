@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 63982
+revid: 64157
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -321,14 +321,6 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 **Guide**: Talk to an NPC in [Songseeker Wilds](Songseeker_Wilds.md) who asks you to clear Songseekers from Ku's shrine, which seems to be the [Derelict Highchurch](Derelict_Highchurch.md). Kill some of the Songseekers who spawn there, then return.
 
 **Reward/s**: EXP.
-
-**Clean-up:**
-
-**Quest Location**: Miner's Landing
-
-**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out Summer Company Guard invading the upper reactor room. Kill ~5 then return to him. Repeatable.
-
-**Reward/s**: Reputation, EXP, "Bravery," Door Unlock.
 
 **Monster Hunting:**
 

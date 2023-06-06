@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 62982
+revid: 64139
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Legendary Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Daggers, Legendary Weapons]
 | Flareblood Kamas | |
 |---|---|
 | type | Dagger |
-| requirements | 60 Light, 45 Intelligence |
+| requirements | 60 Light, 40 Intelligence |
 | damage | 13 + 3.9 BLD |
 | scaling | 8 LHT 2 INT |
 | range | 6.5 |
