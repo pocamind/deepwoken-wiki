@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 64224
+revid: 64360
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -473,6 +473,8 @@ Spark
 -   Shade Devour
 -   Shadow Gun
 -   Rising Shadow
+-   Shoulder Bash
+-   Needle Barrage
 
  | 
 
@@ -543,6 +545,7 @@ Spark
 -   Crystal Knee
 -   Shade Bringer
 -   Dash
+-   Metal Kick
 
  | 
 

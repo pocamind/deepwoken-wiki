@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 62477
+revid: 64365
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -20,7 +20,7 @@ You can wield 2 **guns** the same time, giving you overall incredible range. The
 
 If you have a primary gun equipped your critical will be replaced with a long range shot. This does not blockbreak, but has a lot of range and is quite fast.
 
-The guns currently in game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), and the [Iron Blunderbuss](Iron_Blunderbuss.md)
+The guns currently in game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
@@ -50,6 +50,11 @@ _**Stats:**_
 
 **[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 7 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
 
+[**Summer Rifle:**](Summer_Rifle.md) **17** damage, 8 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
+
+**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (25 MED, 75 Thundercall req)
+
 ### Trivia:
 
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun. However, it is the only [spear](Weapons.md) in the game that has a ranged attack.
+-   The Stormseye is the only legendary rifle in game. It is obtained by killing bosses.

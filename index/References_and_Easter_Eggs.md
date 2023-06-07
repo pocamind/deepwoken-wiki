@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 63702
+revid: 64366
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -8,7 +8,7 @@ categories: [Deepwoken]
 
 # References and Easter Eggs
 
-> CONTAINS SPOILERS FOR MULTIPLE MEDIA!!!  
+> **CONTAINS SPOILERS FOR MULTIPLE MEDIA!!!**  
 
 ## Armors/Equipments
 
@@ -166,6 +166,7 @@ categories: [Deepwoken]
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
 -   A stretch, but **Darksteel Greatsword** may be inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from _Berserk_.
+-   **Stormseye** is inspired by [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
 
 ## Enchantments
 

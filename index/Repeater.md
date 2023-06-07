@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 60433
+revid: 64369
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -29,7 +29,7 @@ categories: [Weapons, Guns]
 
 ## Description
 
-The [Revolver](Repeater.md) is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through chests in [The Depths](The_Depths.md) or Chime. It requires 65 points in Light weapons to be utilized.
+The [Revolver](Repeater.md) is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 200 [Notes](Notes.md) or can be found through chests in [The Depths](The_Depths.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
 
 Because it is in the flintlock family of weapons, the functionality of the weapon is far different than others (refer to Effective Use).
 
@@ -37,7 +37,7 @@ Because it is in the flintlock family of weapons, the functionality of the weapo
 
 In general, each weapon within the flintlock family has its own unique m1 m2 cycle while dual-wielded. The Revolver's specific m1 m2 cycle is much faster than the rest, as a cooldown between shots are much less noticeable than others. Therefore, one must keep in mind their options.
 
-A Revolvers users' cycle can go like this:
+A Revolver’s users' cycle can go like this:
 
 A) M1, M2, Critical, Cycle B, etc.
 
