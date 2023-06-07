@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 63798
+revid: 64354
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Sarkale talking about the [Firfire Caverns](Firfire_Caverns.md)
 
-_Also known as Boner, Bone guy, Bone man, anything that has "Bone" put in front of it._Template:EnemyInfobox1.0
+_Also known as Boner (uhm), Bone guy, Bone man, anything that has "Bone" put in front of it._Template:EnemyInfobox1.0
 
 ## Description
 
@@ -26,7 +26,7 @@ Bone Keepers are incredibly mobile and hard-hitting enemies. They are certainly 
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| Triple Slash into Leap | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended. The arm can be parried, but the leap **cannot be blocked, parried, or dodged.** It has a small hitbox, though, so rolling out of the way or towards the Bonekeeper immediately after parrying its arm slash is sufficient. | ✗ | ✗ | ✗ | (★★☆) |
+| Triple Slash into Leap | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended. The arm can be parried, but the leap **cannot be blocked, parried, or dodged.** It has a small hitbox, though, so rolling out of the way or towards the Bonekeeper immediately after parrying its arm slash is sufficient. **Leap autogrips.** | ✗ | ✗ | ✗ | (★★☆) |
 | Crushing Grab | The Bone Keeper will make an indication of an unparriable attack with a noise cue and eye symbol before swinging its right arm sideways. If this attack lands, the player hit will be grabbed and take **devastating damage**. The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. **Autogrips.** | ✗ | ◯\* | ◯ | (★★★) |
 | Charge | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and blockbreaking. The Bone Keeper skids to a stop and faces you if this is successfully parried. | ◯ | ✗ | ◯ | (★★☆) |
 | Triple

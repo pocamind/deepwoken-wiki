@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 61357
+revid: 64337
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -27,7 +27,7 @@ The Hive was founded by the ancestors of the [Vesperians](Vesperian.md) and [Gan
 
 The Hive uses an unobtainable attunement known as Lifeweaving. It is used to "give life" by creating [Hive Constructs](Hive_Construct.md), possibly teleporting shrines and fixed campfires around [Greathive Aratel](Greathive_Aratel.md). In addition to that, Kaab, the shipwright of **Greathive Aratel** states that he is able to "Lifeweave modifications" onto ship vessels, showing off how technologically advanced this faction is.
 
-They frequently get into battles with [Etrea](Etrea.md), who steal attempt to steal their Lifeweaving artifacts at Lord Regent's request.
+They frequently get into battles with [Etrea](Etrea.md), who attempt to steal their Lifeweaving artifacts at Lord Regent's request.
 
 ## Reputation
 

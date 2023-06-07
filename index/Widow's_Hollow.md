@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 61148
+revid: 64338
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -18,7 +18,7 @@ The **Widow's Hollow** is a location in _Deepwoken_. It is a landmark of the [St
 
 ## Overview
 
-The Widow's hollow is a large cave with its entrance found near the top of the giant mountain in the [Starswept Valley](The_Starswept_Valley.md). It consists of two "floors" eventually opening into a large chamber where the Deep Widow resides as well as an exit which leads to the [Lightkeeper Temple](Lightkeeper_Temple.md).
+The Widow's hollow is a large cave with its entrance found near the top of the giant mountain in the [Starswept Valley](The_Starswept_Valley.md). It consists of two "floors" eventually opening into a large chamber where the [Deep Widow](Deep_Widow.md) resides as well as an exit which leads to the [Lightkeeper Temple](Lightkeeper_Temple.md).
 
 ## Contents:
 

@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 63658
+revid: 64326
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -101,7 +101,7 @@ The doors to enter the Lordsgrove.
 #### Observatory
 
 -   Players can find the Celestial Telescope here.
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND) and a [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD) here for.
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD), and a [Ferrofluid](https://deepwoken.fandom.com/wiki/Training_Items) (MTL) here for.
 
 ## Observatory
 
