@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 62847
+revid: 64299
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -81,3 +81,4 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 ## Notes & Trivia
 
 -   This area has multiple Union Hooks to be used as shortcuts.
+-   You cannot heal in this area with Campfire.

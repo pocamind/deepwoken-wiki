@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 64227
+revid: 64320
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -950,6 +950,16 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td><b>Swing Speed</b></td>
 </tr>
 <tr>
+  <td><a href="Summer_Rifle.md">Summer Rifle</a></td>
+  <td>40 MED</td>
+  <td>17</td>
+  <td>N/A</td>
+  <td>MED: 6</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.75x</td>
+</tr>
+<tr>
   <td><a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a></td>
   <td>75 MED</td>
   <td>18</td>
@@ -968,16 +978,6 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>4</td>
   <td>8</td>
   <td>0.73x</td>
-</tr>
-<tr>
-  <td><a href="Summer_Rifle.md">Summer Rifle</a></td>
-  <td>40 MED</td>
-  <td>17</td>
-  <td>N/A</td>
-  <td>MED: 6</td>
-  <td>5</td>
-  <td>8</td>
-  <td>0.75x</td>
 </tr>
 </tbody>
 </table>
@@ -1539,6 +1539,18 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>N/A</td>
 </tr>
 <tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
+  <td>75 ICE, 30 HVY, LVL 3</td>
+  <td>23.5</td>
+  <td>N/A</td>
+  <td>ICE: 8 HVY: 4</td>
+  <td>6</td>
+  <td>8</td>
+  <td>0.62x</td>
+  <td>No</td>
+  <td>N/A</td>
+</tr>
+<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds"><font>Curved Blade of Winds</font></a></td>
   <td>75 WND, 25 MED, LVL 10</td>
   <td>17.5</td>
@@ -1561,18 +1573,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>0.64x</td>
   <td>No</td>
   <td>0.15s</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
-  <td>75 ICE, 30 HVY, LVL 3</td>
-  <td>23.5</td>
-  <td>N/A</td>
-  <td>ICE: 8 HVY: 4</td>
-  <td>6</td>
-  <td>8</td>
-  <td>0.62x</td>
-  <td>No</td>
-  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher"><font>Ignition Deepcrusher</font></a></td>
@@ -1767,7 +1767,7 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Shattered Katana (100 MED)
     -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
-    -   Penetration: Hallowscleave (35%)
+    -   Penetration: First Light (30%)
     -   Chip damage: Night Axe (60%)
     -   Scaling: Revolver, Divine Flintlock (15)
     -   Weight: Enforcer Hammer (12)

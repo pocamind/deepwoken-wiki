@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 64276
+revid: 64312
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -65,6 +65,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I am all knowing. **(Omniscient) (Note; Cannot give All Knowing)**_
 -   _I sabotage others. **(Saboteur)**_
 -   _I am an artist. **(Artisan)**_
+-   _I seek the qualities of Elementalist. **(Elementalist) (Note; Cannot give Elemental Rebound)**_
 
 ### Willpower
 
@@ -177,7 +178,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Ironsing
 
 -   _I seek the qualities of Metallurgist. **(Metallurgist)**_
--   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal)**_
+-   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal) (Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
 
 ## Locations
 

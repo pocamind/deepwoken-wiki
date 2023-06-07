@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 62248
+revid: 64302
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -24,7 +24,7 @@ This Outfit has 1200 durability and grants no resistances.
 
 This Outfit also grants the [Talent Card](Talents.md) _Merchant's Accord;_ Merchants and Antiquarians will do business with you no matter how poor your reputation is.
 
--   This talent allows you to use the Antiquarian in the depths, even if your origin is not deepbound.
+-   This talent does NOT allow you to use the antiquarian in the depths if you are not deepbound.
 
 ## Location
 

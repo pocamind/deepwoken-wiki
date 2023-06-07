@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 62195
+revid: 64321
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]

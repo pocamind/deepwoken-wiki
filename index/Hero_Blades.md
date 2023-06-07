@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 64252
+revid: 64308
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -92,37 +92,39 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 **The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and Power 11+.
 
+Hero Blades can be obtained by defeating the [Blizzar Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter. Succesfully defeating all of them rewards a chest with multiple hero blades, the elements being random.
+
 Each Heroblade has its own unique critical attack.
 
-**Hero Blades still deal Physical Damage despite scaling off your attunement. It just converts your Elemental Damage to Physical Damage.**
+A common misconception is their damage type. Hero Blade deals **Physical Slash Damage**, like a normal sword. Their critical attack however, deal elemental damage of the relevant type.
 
 **Flame:**
 
-The Hero Blade of Flame is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Flame is unique in that its damage scaling is based on the [Flamecharm](Flamecharm.md) attunement stat.
+The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of the Hero Blades. This weapon features a unique critical attack which summons a brief fire tornado, dealing damage and applying burns to nearby targets.
 
 ## Unique Critical Attack
 
 **Frost:**
 
-The Hero Blade of Frost is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Frost is unique in that its damage scaling is based on the [Frostdraw](Frostdraw.md) attunement stat.
+The Hero Blade of Frost is an elemental weapon and the Frostdraw variation of the Hero Blades. This weapon features a unique critical attack which summons multiple waves of ice around the initial location, dealing damage and apply Frost and Frozen Legs to targets in range. You cannot attack while the crit is active.
 
 ## Unique Critical Attack
 
 **Lightning:**
 
-The Hero Blade of Lightning is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Lightning is unique in that its damage scaling is based on the [Thundercall](Thundercall.md) attunement stat.
+The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon features a unique critical attack which summons a line of thunder in front, dealing damage and applying shock to targets.
 
 ## Unique Critical Attack
 
 **Wind:**
 
-The Hero Blade of Wind is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Wind is unique in that its damage scaling is based on the [Galebreathe](Galebreathe.md) attunement stat.
+he Hero Blade of Lightning is an elemental weapon and the Galebreath variation of the Hero Blades. This weapon features a unique critical attack which summons a strong whirlwind in front, pushing back targets.
 
 ## Unique Critical Attack
 
 **Shadow:**
 
-The Hero Blade of Shadow is an elemental weapon that is obtained by defeating all of the [Blizzard Knights](Stone_Knight.md) that spawn in the [Valley of Heroes](The_Valley_of_Heroes.md). The Hero Blade of Shadow is unique in that its damage scaling is based on the [Shadowcast](Shadowcast.md) attunement stat and it steals ether when using a running attack.
+The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of the Hero Blades. This weapon features a unique critical attack which have the user quickly lunge forward (the lunge distance scaling with speed bonuses), dealing damage and applying blindness on hit.
 
 ## Trivia
 

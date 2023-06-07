@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 64293
+revid: 64300
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -8,9 +8,9 @@ categories: [Races, Character, Mechanics]
 
 # Aspects
 
-“ The developers surely outdid themselves on these in game races, their designs, and lore are great. Only problem is, some are definitely better than others. By game mechanics I mean, maybe saying it like this is a better way to put it, uh I love all the races of deepwoken except for the bad ones, WAIT DONT CANCEL ME PLEA- ”
+“ …Having stated the relevant background information, I posit that the races of Lumen are the result of a Hereditary Vow. Supposing that a Vow was able to bestow upon the Gremor a preternatural ability such as Navae’s guidance, I believe that as a matter of course another Vow made long in the past may have originally bestowed the traits that the races of Lumen exhibit today. ”
 
-― some deepwoken youtuber starting in game racism
+― Vows by the Sea: Inheritance
 
 **Races** are different categorizations of the humans that live in the world of _Deepwoken_, each race having unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created, and can be rerolled for **150**. _Rerolling a race will give you the option between keeping your new current race, or switching back to the previous race. This option is available until you finish creating the character or log off the character creation menu._
 
