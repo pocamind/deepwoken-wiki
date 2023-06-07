@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 57757
+revid: 64377
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -29,3 +29,4 @@ Ethiron's Curseshield is a darkly colored [Shield](Weapons.md), decorated with c
 ## Notes & Trivia
 
 -   Image taken from iwiK's video ([https://youtu.be/5lg1TroE2EE](https://youtu.be/5lg1TroE2EE))
+-   Popular among Shrine of Order users, as shields are not unequipped after using the Shrine of Order and 50 Fortitude is an important milestone for obtaining Reinforce and talents like Turtle Shell and Unfazed.

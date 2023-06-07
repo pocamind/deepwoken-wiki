@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 63921
+revid: 64376
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -41,7 +41,7 @@ Enchanted weapons/equipment have special mechanics compared to their regular wea
 
 There are two variants that enchantments come in:
 
--   **Blessing** - They have an effect and little to no downsides.
+-   **Blessing** - They have an effect with little to no downsides.
 -   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
 
 ## List of Enchantments
@@ -198,7 +198,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Umbralknightgif2.gif<figcaption></figcaption></figure><center><br>
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><br>
-  On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown.<br>
+  On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown of 3 - 4 seconds.<br>
   The slash of Umbral Knight deals 20% damage of the weapon and is parryable.</p></div></td>
   <td><div>Weapon is covered in a black and red mist. Metal parts glow arctic blue.</div></td>
 </tr>
