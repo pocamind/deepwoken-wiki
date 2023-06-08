@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 64394
+revid: 64442
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -31,6 +31,8 @@ Template:Creature Infobox V3
 2.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
 3.  Light the campfires using flint or any other attunement-based method.
 4.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle. Summoning the Ferryman will sometimes bug, and either not spawn him when all 4 campfires are placed, or spawn him upon 2 or 3 campfires being placed.
+
+A decently easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 10-15+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
 
 **Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry. The only way to escape is to either die, or defeat The Ferryman.**
 
@@ -144,10 +146,10 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
 
 -   A chest containing **Amethyst Pendant Earrings** and (Rarely) a **Finisher's Ring, Moon Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
 -   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
--   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter.
+-   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter. Can also appear in the Ferryman's chests during any season.
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md), 1/4 drop from defeating ferryman.
 -   **[Knowledge](Knowledge.md)** - The Ferryman rewards the player with 1 [Knowledge](Knowledge.md) after being defeated during Spring.
--   the **[Stormseye](Stormseye.md)** is an exceedingly rare weapon that drops from the ferryman however it is unknown if it is season-based, or a rare miscellaneous drop.
+-   The **[Stormseye](Stormseye.md)** is an exceedingly rare weapon that can be obtained through the Ferryman's chests.
 
 ## Dialogues
 

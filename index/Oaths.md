@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 64391
+revid: 64449
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -76,9 +76,9 @@ Being a Pathfinder doesn't count as an Oath and is merely an indicator of lackin
 
 # **Oath: Oathless**
 
-“ If free will is an illusion, why not make it a convincing one? ”
+“ Those eyes.. you wish to walk alone too. ”
 
-― Oathless description
+― Disciple of Cerulean
 
 **Oath: Oathless** can be obtained at any time throught a quest.
 

@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 64424
+revid: 64446
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -36,7 +36,7 @@ The Stormseye is a legendary weapon that scales from Medium Weapons and [Thunder
 
 ## Obtainment
 
-The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md) at an equal chance.
+The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md) at a lesser chance **\[Same as a Curved Blade of The Winds or Crypt Blade being on a normal depth chest\].**
 
 ## Trivia
 

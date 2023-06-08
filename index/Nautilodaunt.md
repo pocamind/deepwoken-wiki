@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 64344
+revid: 64448
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Nautilodaunt
 
-“ Can’t press F? ”
+“ Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. ”
 
-― A common motto of the Nautilodaunts, originally thought of by their teacher.
+― Mortus describing his encounter with a Nautliodaunt
 
 _Sometimes referred to as **Squibbo**, Squid Hoss, Squidward, Small Angry Mexican Man and Nautilus_
 
