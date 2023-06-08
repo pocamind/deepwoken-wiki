@@ -1,6 +1,6 @@
 ---
 title: Auroran Gremor
-revid: 62668
+revid: 64430
 source: https://deepwoken.fandom.com/wiki/Auroran_Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive Outfits, Outfits]
@@ -9,6 +9,22 @@ categories: [Exclusive Outfits, Outfits]
 # Auroran Gremor
 
 Template:ArmorInfobox**Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
+
+\-
+
+### _Requirements_
+
+\-
+
+### _Armor Stats_
+
+\-
+
+## Location
+
+\-
 
 ## Trivia
 

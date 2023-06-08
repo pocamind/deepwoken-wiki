@@ -1,16 +1,12 @@
 ---
 title: Star Boots
-revid: 61387
+revid: 64436
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
 ---
 
 # Star Boots
-
-“ Holy crap, what was some random freshie at Songseeker doing with 21 health Star Boots on them?? ”
-
-― Some random Celtor
 
 Template:EquipmentStats
 

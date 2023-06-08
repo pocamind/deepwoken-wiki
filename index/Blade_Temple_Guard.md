@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 53092
+revid: 64439
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -37,3 +37,7 @@ A Blade Temple Guard executes the player after knocking them:
 
 -   Despite being affiliated with Etrea, they are highly inclusive, as well as staying away from their war with The Authority.
 -   Easier to kill than Etrean Guards
+-   Despite having a small health pool, they appear to be extremely resistant to most forms of damage, thus making them formidable enemies even at higher levels.
+-   Their dialogue won't change depending on the player's reputation with Etrea.
+-   Canonically they are known as "Vigils of wind".
+-   Canonically they are Galebreathers(needs confirmation) and are related to the Jetstriker oath, this is noticeable because of the Jetstriker talent named "Vigil's grace" which allows you to execute empowered running attacks.

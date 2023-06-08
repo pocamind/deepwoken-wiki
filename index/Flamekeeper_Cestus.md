@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 64118
+revid: 64440
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -23,12 +23,12 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon The Depths Fort Merit Starswept Valley MinityrsaFirst Layer |
+| obtainment | Primadon The Depths Fort Merit Songseeker Wilds MinityrsaFirst Layer |
 | description | N/A |
 
 ## Description
 
-**Flamekeeper Cestus** is a Light Weapon that needs 65 Light Weapon to use. Despite its namesake, [Flamecharm](Flamecharm.md) has no affect or benefits on this weapon. This cestus can be found in [Primadon](Primadon,_Titan_of_the_East.md), [The Depths](The_Depths.md), [Fort Merit](Fort_Merit.md), [Starswept Valley](The_Starswept_Valley.md), and [Minityrsa](Minityrsa.md).
+**Flamekeeper Cestus** is a Light Weapon that needs 65 Light Weapon to use. Despite its namesake, [Flamecharm](Flamecharm.md) has no affect or benefits on this weapon. This cestus can be found in [Primadon](Primadon,_Titan_of_the_East.md), [The Depths](The_Depths.md), [Fort Merit](Fort_Merit.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Minityrsa](Minityrsa.md).
 
 ## Notes
 
