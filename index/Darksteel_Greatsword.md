@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 64334
+revid: 64415
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]

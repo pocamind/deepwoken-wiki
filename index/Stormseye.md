@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 64407
+revid: 64424
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -36,7 +36,7 @@ The Stormseye is a legendary weapon that scales from Medium Weapons and [Thunder
 
 ## Obtainment
 
-The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md) (electric squibo) and [Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md) both have equal drop chance (from what we know). It is also worth noting that if you are a silentheart you can Mani Kati the Ferryman to death and he will drop double the chests. (Not sure if it’s been patched yet but I don’t think so)
+The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md) at an equal chance.
 
 ## Trivia
 

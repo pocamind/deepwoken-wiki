@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 63357
+revid: 64411
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -39,9 +39,11 @@ Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing Template:Testin
 Template:Testing
 
   
+(Earth is probably just ironsing)
 
   
 
+  
 _These attunements are not currently in the game, but are present within lore and may be obtainable in future updates_
 
 Icons are fan-made and not in-game. Use them at your own volition.

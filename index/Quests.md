@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 64405
+revid: 64422
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -14,7 +14,7 @@ notices:
 
 ## Description
 
-**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential talents, EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [murmurs](Murmur.md) and [oaths](Oaths.md) are on their own pages.
+**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential talents, EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [murmurs](Murmur.md), [oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
 
 Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra talent hand will be awarded on power up. If you are power 20, the hand is given immediately.
 
@@ -246,6 +246,14 @@ These quests usually give XP, Reputation and/or an item.
 
 **Reward/s**: Poser’s Ring
 
+**Ghost Ship:**
+
+**Quest Location**: Isle of Vigils
+
+**Guide**: Talk to Suyuan in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost at the wheel of the ship and return to Suyuan. Tied to Silentheart oath, but can be done without an oath or with another oath.
+
+**Reward/s**: EXP, Curiosity
+
 ## Repeatable Ordinary Quests
 
 These quests have EXP, chests and/or reputation as rewards and are repeatable.
@@ -329,71 +337,3 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 **Guide**: Talk to an NPC on the left side of the gate to the upper level of [The Lordsgrove](The_Lordsgrove.md). They will ask you to kill a monster. Kill one and return.
 
 **Reward/s**: EXP, Hive Reputation
-
-## Attribute Unbound Quests
-
-These quests will unbound one of your attributes when completed.
-
-**Strength:**
-
-**Quest Location**: Tomb of the Nameless Warrior
-
-**Guide**: Read the book in the Tomb of the Nameless Warrior.
-
-**Reward/s**: Strength Unbound
-
-**Fortitude:**
-
-**Quest Location**: Fort Merit
-
-**Guide**: Talk to Brutus in his cell in Fort Merit. He will knock you (not grip you).
-
-**Reward/s**: Fortitude Unbound
-
-**Agility:**
-
-**Quest Location**: Etrean Wilds
-
-**Guide**: Talk to the Windrunner on top of a mountain in the Etrean Wilds.
-
-**Reward/s**: Agility Unbound
-
-**Intelligence:**
-
-**Quest Location**: The Birdcage
-
-**Guide**: Get a Soul Hearthgem from the Burning Stone Gardens. Place the flame correctly in the Birdcage then you will find a trapdoor has opened in some ruins. Go inside and you will find blue mushrooms named Bluecaps. Eat one raw.
-
-**Reward/s**: Intelligence Unbound
-
-**Willpower:**
-
-**Quest Location**: Scyphozia (Layer 1)
-
-**Guide**: Find Akira being threatened by the Ignition Union in the Depths. Talk to Akira and he will explode their heads. Talk to Akira again at Castle Light. You may join the Diver's but saying no will give you the talent too.
-
-**Reward/s**: Willpower Unbound
-
-**Charisma:**
-
-**Quest Location**: Etris
-
-**Guide**: Talk to Karliah at Etris. You will then find her in the entrance to the Viper's Jaw in Erisia near the zipline. Convince her not to go inside or she will get eaten by bugs and die. If you convince her, she will be found at Etris living a normal life. The wrong dialogue option may lead her to killing her neighbors.
-
-**Reward/s**: Charisma Unbound
-
-**Weapon Mastery:**
-
-**Quest Location**: Isle of Vigils
-
-**Guide**: talk to an NPC in Isle of Vigils. He will ask you to save his brother. Go to Burning Stone Gardens and find a hut. Give the man inside a gale stone. Go back to Isle of Vigils and talk to the NPC whose brother you saved, then talk to Maestro Evengarde Rest.
-
-**Reward/s**: Weapon Unbound
-
-**Elemental Mastery:**
-
-**Quest Location**: Etris
-
-**Guide**: Have high reputation with Etrea. Talk to Kennith, who wants to investigate the evil Lord Regent's doings. Talk to Bookkeeper Andros about this topic and you will find Kennith has been killed in the Etrean Wilds. Talk to the Royal Guard next to Kennith's remains and he will tell you that you have an audience with the Lord. Go and talk to Lord Regent, and say you do NOT know why you were summoned. Be very careful when talking to Regent as he will one shot you if you're too close or pick the wrong dialogue. Regent will give you the Manor Key which can be used to open Duke Erisia's manor and fight him. Kill the Duke and your attunement will be unbound.
-
-**Reward/s**: Element unbound

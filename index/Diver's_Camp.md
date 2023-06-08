@@ -1,10 +1,11 @@
 ---
 title: "Diver's Camp"
-revid: 64409
+revid: 64428
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations]
+categories: [Candidates for deletion, Stub pages without reason, StubPages, Locations]
 notices:
+  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"unnamed location\""
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
