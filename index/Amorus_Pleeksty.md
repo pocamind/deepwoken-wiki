@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 64332
+revid: 64385
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 “ The Flame within, and the failure of man... ”
 
-― One of Amorus Pleetksty's books
+― ???
 
 ## Description
 

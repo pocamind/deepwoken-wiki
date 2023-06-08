@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 62621
+revid: 64406
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]

@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 64157
+revid: 64405
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -14,9 +14,9 @@ notices:
 
 ## Description
 
-**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential talents, murmurs, oaths and so forth. Quests are categorized into 5 categories for convenience. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC.
+**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential talents, EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [murmurs](Murmur.md) and [oaths](Oaths.md) are on their own pages.
 
-Additionally, quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra talent hand will be awarded on power up. If you are power 20, the hand is given immediately.
+Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra talent hand will be awarded on power up. If you are power 20, the hand is given immediately.
 
 ## Echo Talent Quests
 

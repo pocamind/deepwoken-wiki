@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 64310
+revid: 64386
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -38,7 +38,7 @@ This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour) and has b
 
 _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release)"_
 
-**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 2x posture damage and 25% more damage. This ability does not scale on Power, therefore, it will always cost ether.
+**Ardour Scream** is a Common [Talent Card](Talents.md) that can be obtained when the user has **Murmur: Ardour**, 15 Strength, and 40 willpower. When activated, affected targets take 2x posture damage and 25% more damage and are forced out of Tacet. This ability does not scale on Power, therefore, it will always cost ether.
 
 ### **Obtainment:**
 
@@ -50,7 +50,7 @@ Template:ImageCaption Infobox _"An application of the song that enables the user
 
 **Murmur: Tacet** is a Murmur that, when active, makes the user completely invisible to anyone not in close proximity of them, it also greatly reduces (or even negate in some scenarios) the aggro range of enemies. Activation is indicated by an inward ring and a fade-out noise, while deactivation with an outward ring and a fade-in noise.
 
-The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrounching, attacking, being hit, or interacting with the world will deactivate Tacet. You cannot use Warrior's Respite with Tacet.
+The only actions a user can perform during Tacet are crouch walking, rolling, vaulting over small obstacles, falling down ledges, and holding items. Uncrounching, attacking, being hit, or interacting with the world will deactivate Tacet.
 
 The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user. The detection range (for PVP) is indicated by a ring around the user.
 
@@ -58,7 +58,7 @@ Obtaining **Murmur: Tacet** will also give you either neutral or positive reputa
 
 Some monsters might still aggro when in tacet if too close in some situations (might be bug needs testing)
 
-Tacet has two different detection radii, one for PVE and PVP:
+Tacet has two different detection radius, one for PVE and PVP:
 
 -   In PVE, the detection radius is effectively 0 at Power 20, the player can avoid any and all monsters or NPCs even when touching them. However, the unaggro range is larger than 0 studs, so the user must make some distance to evade any fight.
 -   In PVP, the detection radius is roughly 40 studs at Power 20. Players who enter the range of Tacet will see the user quickly fade out of its invisibility. If a player goes out of range, they will see an inward ring at the last seen location of a player using Tacet.

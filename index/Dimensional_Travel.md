@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 62399
+revid: 64388
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -41,11 +41,12 @@ When used, this ability will transport the user into a realm known as [The Inter
 
 When obtained, Dimensional Travel will spend its points on the following stats:
 
--   **Use in combat:** If this stat is used, this resonance can be used while in combat, do note this uses a hefty number of points, leaving the Travel Distance as 2:1 or even 1.6:1.
+-   **Use in combat:** If this stat is used, this resonance can be used while in combat. Will deduct a large amount of points.
 -   **Capacity:** A stat that determines the amount of players that can enter the realm before the portal automatically closes.
--   **Travel Speed:** The more points are spent on this stat; the faster players travels while inside the dimension.
-    -   Non-combat version will allow you to travel further distances in a shorter amount of time while in the Distortion Realm.
-    -   Combat version, while allowing you access the Distortion Realm in the midst of a skirmish, will consequently make travel slower while in the Distortion Realm.
+-   **Travel Speed:** The more points are spent on this stat; the faster players travels while inside The Interstice.
+    -   Distance travelled in The Interstice will be multiplied to then place you properly in the overworld.
+        -   The math behind it is complicated, but at its simplest form, these distance multipliers are in 0.33 increments. The minimum and maximum distance multiplers are 1.33x and 5x.
+        -   An explanation (and a way to find your distance multiplier) can be found in the [Deepwoken Info Discord](https://discord.com/channels/883838743172218891/883840765644660736/1096193166169874462).
 
 ## Trivia
 

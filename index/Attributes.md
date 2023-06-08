@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 64211
+revid: 64387
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -150,7 +150,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Increases damage scaling of Flamecharm mantras. To improve further, travel to the respective [Attunement Trainer](Attunement_Trainers.md).
     -   Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
     -   Increases intensity of flames.
--   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras or eating [Dying Embers](Dying_Embers.md).
+-   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using heartgem or eating [Dying Embers](Dying_Embers.md).
 -   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
 
 ### Frostdraw

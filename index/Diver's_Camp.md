@@ -1,6 +1,6 @@
 ---
 title: "Diver's Camp"
-revid: 58909
+revid: 64409
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -18,20 +18,14 @@ Camp found straight and to the left of the District of Commerce Ramp Gate. Here,
 
 Alpha Sharko v. Diver events are common here.
 
-This is the only place in the [Depths](The_Depths.md) that spawns scripted events. The event includes a [Megoladaunt](Megalodaunt.md) And 2-4 Mudskippers, that spawn on a hill right next to the camp. it seems to trigger if you talk to the friendly Mudskipper NPC. this can also cause a glitch where the Megoladaunt and Mudskipper can trigger dialogues with each other. this seems to be caused by the Mudskippers, as Mudkippers in the overworld will also talk with one another.
-
 ## Contents
 
 ### NPCs
 
--   Buzz
+-   Diver Apprentices
 
 ## Missions
 
 Events that spawn in Diver's Camp that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   Divers vs. Monster
-
-## Trivia/Notes
-
--   It seems that the Mudskipper NPC needs you to get in the depths with a soul or is bugged or was removed as it doesnt spawn (i tried this in 5 servers correct this if this info is wrong)

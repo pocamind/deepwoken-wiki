@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 64207
+revid: 64390
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -93,7 +93,7 @@ Also all of the kills need to be made on one single character
         -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, The Hive, and The Hundred Legions
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
-    -   **\[CON\]** ...but is only available if they are higher power than you or at most 6 power less than you, along with only being able to teleport from the Voidheart.
+    -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
     -   **\[PRO/CON\]** If your target runs too far away and is no longer in combat, or likewise if you get away from your target, you are brought back to the [Voidheart](Voidheart.md).
     -   The are two ways of using the Grasp of Eylis that will show before teleporting, the first one is ferocity and the other one is stealth.
         -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting...
