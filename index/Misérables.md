@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 62620
+revid: 64608
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -10,11 +10,11 @@ notices:
 
 # Misérables
 
-Misérables is an NPC on the second floor of the [Eternal Gale](The_Depths.md). They are found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+Misérables is an NPC on the second floor of the [Eternal Gale](The_Depths.md). They are found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), which is in the rightmost corner of the door that opens to the Scion of Ethiron's chamber.
 
-## DO NOT ASK FOR THE SAME THING MORE THAN ONCE IN THE RUN, they will instantly wipe you.
+Misérables appears to take the form of an owl with a similar build to a Deep Owl, without its feathers. On its head, it dons horns that sprout from the sides, and having two sets of light blue eyes that glow. Its body appears to be very muscular, sporting huge pecs as well as a six pack.
 
-Template:NPC name
+Aside from that, it is an intimidating critter that makes deals with the player within New Kyrsa. Do be careful, as making the same deal twice in the same session will _**have it kill you, forcing you to make a new character back from the start again.**_Template:NPC name
 
 ## Dialogue
 

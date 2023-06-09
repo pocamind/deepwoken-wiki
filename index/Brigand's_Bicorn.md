@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 56740
+revid: 64540
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -12,7 +12,7 @@ categories: [Equipment, Helmets]
 |---|---|
 | type | Helmet |
 | rarity | Uncommon |
-| selling price | - |
+| selling price | 14 |
 | requirements | N/A |
 | innate stats | N/A |
 | innate talent | Spare Nails, Emergency Repairs |

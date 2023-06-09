@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 64077
+revid: 64603
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -30,7 +30,7 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Royal Pathfinder is an equipment item in the Arms category. Equipping it grants you 6 Health, 3 Pips, and the [Talent](Talents.md) Ready or Not, which cuts the damage of the first attack that hits you while out of combat in half. It is rarely found in chests from [Starswept Valley](The_Starswept_Valley.md) and [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Royal Pathfinder is an equipment item in the Arms category. Equipping under grants you 6 Health, 3 Pips, and the [Talent](Talents.md) Ready or Not, which cuts the damage of the first attack that hits you while out of combat in half. It is rarely found in chests from [Starswept Valley](The_Starswept_Valley.md) and [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 

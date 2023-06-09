@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 63890
+revid: 64472
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -19,7 +19,6 @@ categories: [Weapons, Rapiers]
 | endlag | None |
 | penetration | None |
 | stances | 1 Handed |
-| selling price | 18 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

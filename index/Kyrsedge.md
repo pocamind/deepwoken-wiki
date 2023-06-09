@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 58007
+revid: 64473
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -20,7 +20,6 @@ categories: [Weapons, Daggers]
 | penetration | 30% |
 | chip damage | ? |
 | special effect | ? |
-| selling price | 55 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

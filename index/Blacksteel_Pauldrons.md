@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 64033
+revid: 64500
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]

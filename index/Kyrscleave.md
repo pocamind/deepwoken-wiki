@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 60445
+revid: 64474
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -19,7 +19,6 @@ categories: [Weapons, Greatswords]
 | endlag | 0.1s |
 | chip damage | 15% |
 | special effect | Bleed |
-| selling price | 70 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |

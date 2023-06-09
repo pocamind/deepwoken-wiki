@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coat
-revid: 64071
+revid: 64599
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -12,7 +12,7 @@ categories: [Equipment, Arms, Coats]
 |---|---|
 | type | Arms |
 | rarity | Common |
-| selling price | Unknown |
+| selling price | 7 |
 | requirements | Power 5 |
 | weight | 2 |
 | innate stats | 5% Damage Vs Monsters2 Pips |
@@ -25,7 +25,7 @@ categories: [Equipment, Arms, Coats]
 
 ## Description
 
-The Megalodaunt Coat is an animated equipment item in the Arms category. Equipping it grants you 5% Damage Vs Monsters and 2 Pips. It can only be obtained as a rare drop from [Megalodaunts](Megalodaunt.md).
+The Megalodaunt Coat is an animated equipment item under the Arms category. Equipping it grants you 5% Damage Vs Monsters and 2 Pips. It can only be obtained as a rare drop from [Megalodaunts](Megalodaunt.md).
 
 ## Trivia
 

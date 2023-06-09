@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 64032
+revid: 64533
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -12,7 +12,7 @@ categories: [Equipment, Arms]
 |---|---|
 | type | Arms |
 | rarity | Common |
-| selling price | Unknown |
+| selling price | 7 |
 | requirements | None |
 | weight | 2 |
 | innate stats | Unknown |

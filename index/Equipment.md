@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 64358
+revid: 64596
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -2239,7 +2239,7 @@ Chests from:
  | N/A |
 | File:Brigand's Cloak.png | 
 
-Brigand Cloak
+Brigand‘s Cloak
 
  | 
 
@@ -2592,7 +2592,7 @@ Other sources:
  | Blue, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | 
 
-\[Gumshoe Longcoat\]\]
+[Gumshoe Longcoat](Gumshoe_Longcoat.md)
 
 (**Series**)
 
@@ -3401,7 +3401,7 @@ Chests from:
  | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
 
-Azure Royal Guards
+[Azure Royal Guard Boots](Azure_Sentinel_Boots.md)
 
  | 
 

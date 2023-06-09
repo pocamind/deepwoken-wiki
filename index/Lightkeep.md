@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 61724
+revid: 64611
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -17,8 +17,6 @@ categories: [Pages with broken file links, Attunement]
 Your ability to call upon Light, enlighten those around you and guide others through the darkness.
 
 ## Description
-
-Lightkeep icon (UNOFFICIAL)
 
 **Lightkeep** grants the user the ability to call upon their own soul to radiate lights outwards. This ability is assumed to be used as support and for harming. The role of a **Lightkeeper** is to guide others through the [Luminants](Luminants.md) and endow [vessels](Ships_&_Sailing.md) with their protection. From this, we can extrapolate that is used for protecting others and healing them. Their ability should also be used to blind and illuminate areas.
 

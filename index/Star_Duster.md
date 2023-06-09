@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 64078
+revid: 64604
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Dusters]
 
 ## Description
 
-The Star Duster is an equipment item in the Arms category. Equipping it grants you 5 Health, 1 Posture, 3 Pips, and the [Talent](Talents.md) Firmly Planted, which reduces the effectiveness of all slowness debuffs by 30%. It is rarely found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md)), [Primadon](Primadon,_Titan_of_the_East.md), and [Fishing](Fishing.md).
+The Star Duster is an equipment item under the Arms category. Equipping it grants you 5 Health, 1 Posture, 3 Pips, and the [Talent](Talents.md) Firmly Planted, which reduces the effectiveness of all slowness debuffs by 30%. It is rarely found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md)), [Primadon](Primadon,_Titan_of_the_East.md), and [Fishing](Fishing.md).
 
 ## Trivia
 

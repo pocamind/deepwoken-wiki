@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 59353
+revid: 64487
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -19,7 +19,6 @@ categories: [Weapons, Rapiers]
 | endlag | None |
 | penetration | 10% |
 | stances | 1 Handed |
-| selling price | 18 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

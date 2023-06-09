@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 64085
+revid: 64541
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -12,7 +12,7 @@ categories: [Equipment, Arms]
 |---|---|
 | type | Arms |
 | rarity | Rare |
-| selling price | 50 |
+| selling price | 25 |
 | requirements | Power 13 |
 | weight | 2 |
 | innate stats | 5% Damage Vs Monsters2 + 1 Pips |
@@ -30,4 +30,4 @@ The Pathfinder Elite is an animated equipment item under the Arms category. Equi
 
 ## Trivia
 
--   Undoubtedly the hardest animated coat to obtain.
+\-

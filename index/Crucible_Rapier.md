@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 60525
+revid: 64517
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -19,7 +19,6 @@ categories: [Weapons, Rapiers]
 | endlag | None |
 | penetration | 20% |
 | stances | 1 Handed |
-| selling price | 18 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

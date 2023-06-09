@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 64440
+revid: 64504
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -17,7 +17,6 @@ categories: [Weapons, Fists]
 | range | 6 |
 | swing speed | 0.88x |
 | penetration | 5% |
-| selling price | 14 notes |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

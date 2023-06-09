@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 64064
+revid: 64498
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -12,7 +12,7 @@ categories: [Equipment, Arms, Coats]
 |---|---|
 | type | Arms |
 | rarity | Common |
-| selling price | Unknown |
+| selling price | 7 |
 | requirements | Power 13 |
 | weight | 2 |
 | innate stats | 6 Health3 Pips |

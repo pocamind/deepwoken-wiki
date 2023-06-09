@@ -1,6 +1,6 @@
 ---
 title: Autumn Pauldrons
-revid: 64024
+revid: 64548
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Overview
 
-The Autumn Pauldrons are an equipment item in the Arms category. Equipping them grants 2 Pips. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Erisia](Erisia.md).
+The Autumn Pauldrons are an equipment item under the Arms category. Equipping them grants 2 Pips. They are commonly found in chests from [Aratel Island](Aratel_Island.md) and [Erisia](Erisia.md).
 
 ## Trivia
 
