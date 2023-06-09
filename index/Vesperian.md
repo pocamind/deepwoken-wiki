@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 64279
+revid: 64728
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -70,7 +70,7 @@ A layer of protective armor that regenerates at rest.
 
 -   Facial accessories are not visible  
     
--   Dichlorvos  
+-   Insecticide  
     
 -   When relying too much of the added protection from the **Chitin** armor, players may feel as other races are weak, or become too defensive in protecting their armor.
     

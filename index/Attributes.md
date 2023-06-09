@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 64387
+revid: 64722
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -8,7 +8,7 @@ categories: [Attributes, Character, Mechanics]
 
 # Attributes
 
-“ You feel your ability in Willpower has potential. With the right equipment, you could draw it out... ”
+“ You feel your ability has potential. With the right equipment, you could draw it out... ”
 
 ― Self
 

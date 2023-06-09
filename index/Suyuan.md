@@ -1,6 +1,6 @@
 ---
 title: Suyuan
-revid: 64444
+revid: 64733
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oaths]
