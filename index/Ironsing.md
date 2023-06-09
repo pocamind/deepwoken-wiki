@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 64282
+revid: 64747
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -86,7 +86,7 @@ Drift and Rush Shards do not increase the firing speed or projectile speed.
 
 (★★★)
 
- | Summon a blade of metal to swing alongside you. | 40 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of Markor's Inheritor) appears as you M1 with an interval of 3 seconds, This greatsword deals damage ~equivalent to your regular M1~ (Not anymore, now it deals a set amount of damange). Each hit is parriable and doesn't apply any Metal Rods. ~Also applies your current enchant~. (No longer procs enchants) |
+ | Summon a blade of metal to swing alongside you. | 40 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of a Kyrscleave) appears as you M1 with an interval of 3 seconds, This greatsword deals damage ~equivalent to your regular M1~ (Not anymore, now it deals a set amount of damange). Each hit is parriable and doesn't apply any Metal Rods. ~Also applies your current enchant~. (No longer procs enchants) |
 |  | Metal Gatling
 
 (★★★)

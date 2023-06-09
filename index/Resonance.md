@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 63374
+revid: 64756
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -229,3 +229,4 @@ Arch Mage confirming both talent cards do not affect resonance progression.
         -   The first one is that you evolve your bell **after** you get it, meaning it will be like an upgrade to your resonance.
         -   The second one will be something that many players want, the bells of Layer 2. In other words, if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you may able to get new bells that is exclusive to layer 2 only. The new layer 2 bell.
 -   Despite Chaser showing that he has multiple Resonances stolen from fellow divers, they fail to operate, as a **Resonance** can only be activated by the original user- even after death.
+-   The higher the level you are, the easier it is to obtain a **Resonance**

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64664
+revid: 64761
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1565,7 +1565,7 @@ Prerequisite: Charisma
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether)
     -   Prerequisite: 40 Charisma
 
--   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you 🤑🤑🤑. (+2 Ether)
+-   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you. (+2 Ether)
     -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
