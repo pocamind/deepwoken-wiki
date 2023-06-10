@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 64376
+revid: 64767
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -627,8 +627,7 @@ File:Vamparism shield.png
     -   Bungee Gum **→** Elastic
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
-    -   (???) - Deferred  
-        Chilling works differently in PvE, every hit of chilling procs nullifying clarity Elemental Damage instead of physical on weapon (NOT TO BE CONFUSED WITH MANTRA DMG)
+    -   (???) - Deferred
 -   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
 -   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.

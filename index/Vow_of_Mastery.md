@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 58260
+revid: 64779
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Talents]
 
 “ Come on, boys. Won't you shake a poor sinners hand? ”
 
-― A man just trying to solo his Linkstrider Oath
+― Celtor trying to solo his Linkstrider Oath
 
 ## Description
 
@@ -41,6 +41,8 @@ As of Verse Two, in the event that the subject's character wipes, and the previo
 
  | None |
 | Locate | No | _"Locate \[Name\]"_ | Highlight the subject throught walls for you to see. | None |
+| Eat | No | "_\[Name\]_, eat _\[food item\]_" | Forces the Subject to eat a desired item. | None |
+| Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop a desired item. Appears to be very selective on what the Subject can drop. |
 | Leech | No | _"Leech \[Name\]"_ | 
 
 File:Leech Talent.png

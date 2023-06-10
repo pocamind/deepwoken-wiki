@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 64691
+revid: 64766
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -98,7 +98,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 ### Notes
 
--   Commonly agreed to be a subpar oath compared to the other non-stat locked oath (Linkstrider/Dawnwalker/Contractor).
+-   Commonly agreed to be a subpar oath compared to the other non-stat locked oaths.(Linkstrider/Dawnwalker/Contractor).
     -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely. The oath mantra resistance and +10 HP comes in handy too.
 -   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   Doesn't give the Oathsworn badge, if that's a concern.
@@ -306,7 +306,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot.
 
 -   Once you put a knocked player in the slot, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
--   Please don't aim for this because of how hard it is to get (as a solo player) I assure you it won't be of help.
 -   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
 -   Parasitic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
