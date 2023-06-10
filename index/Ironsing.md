@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 64786
+revid: 64822
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -112,8 +112,13 @@ Cannot be modified for whatever reason. (No mantra ingredients work)
 (★★★)
 
  | Crush your opponents bones with an iron infused grab. | 40 Ether | The user has a short windup and grabs the opponent, dealing damage and sets spikes in the afflicted target, then throws them. The spell locks on to targets within close frontal radius. |
+|  | Rocket Lance
 
-### **Mobility Mantras**
+(★★★)
+
+ | Create a lance, impale your opponent, and send them flying. | 35 Ether | After a small wind-up, user conjures an iron claw and dashes forward ragdoll's and knockback's the opponent. |
+
+**Mobility Mantras**
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |

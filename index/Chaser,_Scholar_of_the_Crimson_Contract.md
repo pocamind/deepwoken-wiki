@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 64765
+revid: 64810
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -68,7 +68,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 | **Blood Frenzy** | Chaser laughs then use up to 4 attacks in quick succession.
 
 -   Chaser will be highlighted in red while this attack is in use.
--   This attack is only available once their are no (or only a few) jars left.
+-   This attack is only available once there are no (or only a few) jars left.
 
  | N/A | N/A | N/A | (★★☆) |
 

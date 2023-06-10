@@ -1,9 +1,9 @@
 ---
 title: Ingredients
-revid: 64129
+revid: 64819
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Items]
+categories: [Ingredients, Items, Mechanics]
 ---
 
 # Ingredients
@@ -70,5 +70,3 @@ Each 2 lotuses crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of
     -   Found in: Crypt of the Unbroken, Starfield Grove
 -   Miasmic Lotus (Pink) - Charisma Attribute
     -   Found in: Ancient Rotlands
-
-\]

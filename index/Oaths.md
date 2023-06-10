@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 64766
+revid: 64814
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -289,7 +289,7 @@ The only way to obtain each ability is to grip a oath haver, this however does n
             5.  Pallas (On the small bit of land by the miner's landing's gate)
             6.  Fortuna (Above Erisor's Church)
 -   **Symbiotic Link**
-    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally or you're too far from the linked.
+    -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally or you're too far from the linked. This ability lets you activate 1 other ability depending on if the cord is connected to an ally or an enemy.
         -   Blue Cords (Allies) Gain a speed boost.
         -   Red Cords (Enemies) Gain a speed debuff.
     -   **Symbiotic Sustain**

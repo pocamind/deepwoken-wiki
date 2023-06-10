@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64784
+revid: 64815
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1381,7 +1381,7 @@ These are just raw stat increases and are beneficial to anyone.
 -   Celebrity \[Common Talent\] - Your reputation caps out higher.
     -   Prerequisite: 40 Charisma
 
--   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher.
+-   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
     -   Prerequisites For All: Charisma
 
 ### Puppet Master
