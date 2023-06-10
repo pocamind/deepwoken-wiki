@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 64745
+revid: 64840
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -152,7 +152,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
 -   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static)**_
 -   _I weave webs of lightning. **(Static Weaver)**_
--   _My blade conducts the skies wrath. **(Stormblade; Stormcaller Slash, Thunderblade (remove this later, confirmed because didn't have lightningblade yet this option showed up, next roll got me gathering electricity, so this is likely thunderblade mystic dialogue)**_
+-   _My blade conducts the skies wrath. **(Stormblade; Stormcaller Slash)**_
 -   _I speak to lightning. **(Thundercaller)**_
 -   _I electrocute my foes from afar. **(Thunder Caster)**_
 -   _My fists are imbued with lighting. **(Thunder Brawler)**_

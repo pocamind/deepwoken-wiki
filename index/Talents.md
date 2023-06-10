@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64815
+revid: 64847
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -8,7 +8,28 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 # Talents
 
--   -   For example: Picking a mental fortress card will make you more likely to pull another mental fortress talent in your next set of talents.
+**Press Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
+
+-   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
+    -   _(i.e "OrbitaI Ice" to find the description, requirements, and effect for OrbitaI Ice)_
+-   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
+    -   _(i.e "40 Agility" to find talents that you will have access to at 40 Agility)_
+-   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
+    -   _(i.e "Butterfly" to find talents that are within Butterfly)_
+
+Template:DWI Talents
+
+## Overview
+
+There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
+
+A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
+
+-   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
+    -   For example: Overflowing Dam requires 40 INT as a prerequisite.
+
+-   A certain Talent in a certain category.
+    -   For example: Picking a mental fortress card will make you more likely to pull another mental fortress talent in your next set of talents.
 
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
     -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
@@ -1215,7 +1236,7 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 ### Meditative Trance
 
 -   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds increases your health regeneration.
-    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect.
+    -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. (This was not the case a long time ago, and was overpowered)
     -   Prerequisite: 15 Fortitude
 
 ### Mental Fortress

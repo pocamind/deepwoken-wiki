@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 48219
+revid: 64845
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attributes]
@@ -13,7 +13,7 @@ categories: [NPCs, Attributes]
 | name | Brutus |
 | location | Fort Merit |
 
-“ Get out of my cell, you swine. ”
+“ Get out of my cell, swine. ”
 
 ― Brutus
 

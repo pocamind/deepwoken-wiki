@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 63022
+revid: 64841
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -845,6 +845,6 @@ Frost Buster
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   The "Glacial Arc mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
 -   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.
--   Frostdraw has the most mantras with 3 stars on them.
--   Frostdraw has the most mantras out of all attunements.
--   This is by far the easiest attunement to obtain, mainly because everything you need is in etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
+-   Frostdraw has the second-most mantras with 3 stars on them, second to Ironsing.
+-   Frostdraw has the second-most mantras out of all attunements, only second to Ironsing..
+-   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.

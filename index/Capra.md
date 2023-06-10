@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 60974
+revid: 64835
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -27,7 +27,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <td rowspan="3">File:Seaborne.png</td>
   <td><b>Mark of Ku</b> (Capra) (Red)
   <ul>
-    <li>Buffs the "rest" (hp regen) of one person they choose around them as long as they are at a campfire or level 5+</li>
+    <li>While active, user or player affected heals 15% of their total HP over a 30s period. (Level 5+ Needed to activate).</li>
   </ul></td>
 </tr>
 <tr>

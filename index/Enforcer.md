@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 61634
+revid: 64829
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -101,7 +101,7 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 -   The Enforcer can also be found in the Trial of One.
 -   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
 -   You can easily run, or even walk away from it's Whirlwind, easily giving you time to rest or use consumables.
--   The Enforcer can pull you during an emote.
+-   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Pride" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.
 -   The axe has a hitbox for unknown reasoning, allowing for easy hits by outranging The Enforcer during its whirlwind.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 -   It is possible to cheese it by just running away and throwing potions.

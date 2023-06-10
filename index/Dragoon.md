@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 59501
+revid: 64837
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -44,9 +44,3 @@ B) M2, M1, Critical, M2, M1, Critical etc.
 When using a dual-wielded Dragoon, it needs to be known that critical will put an m1 on cooldown, however the vice versa does not occur. Many dual-wielding Dragoon users use this fact to their advantage; however, this can be pretty annoying to remember in a fight. Therefore, the use of [Revolvers](Repeater.md) is recommended for newer players until they can consistently pull off these cycles. These cycles are useful for Dragoon users because of their slower cooldowns, rewarded with higher damage.
 
 Alternatively, this can be used offhand with any other weapon as long as you meet the requirements, where a user only has to use m2 to shoot.
-
-## Trivia
-
--   Purchased guns will not come with stars or enchants.
--   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
--   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main hand is not enchanted, it will not have any effect.

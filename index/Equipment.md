@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 64596
+revid: 64851
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -2344,6 +2344,7 @@ Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md) (Floor 1)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
  | N/A |
 | File:Glassdancer wraps.jpg | 
