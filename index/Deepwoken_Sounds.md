@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 63942
+revid: 64789
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -22,6 +22,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 -   [Spotify](https://open.spotify.com/artist/2wg1HTtnou9pLMFJrMEZ0N?si=2AIt9Vz4Si6uHK6rPupftg)
 -   [Bandcamp](https://naktigonis.bandcamp.com)
 -   [YouTube](https://www.youtube.com/channel/UCsJmKxeGGMEDVvR3-GPO8xw)
+-   [Twitter](https://twitter.com/naktigonis)
 
 ## Primary Soundtracks
 

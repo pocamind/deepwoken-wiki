@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64761
+revid: 64784
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1719,6 +1719,9 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
     -   Prerequisite: Agitating Spark, 75 Flamecharm
 
+-   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity)
+    -   Prerequisite: 65 Flamecharm
+
 ### The Negotiator
 
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether)
@@ -1767,7 +1770,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Thunderblade
 
 -   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load, +4 Elemental Intensity)
-    -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade
+    -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Sword
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity)
     -   Prerequisite: Gathering Electricity

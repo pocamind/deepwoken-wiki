@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 64486
+revid: 64785
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-The Stormseye is a legendary weapon that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle. Ragdolls at the end.
+The Stormseye is a legendary weapon that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle. Ragdolls at the end. Using its aerial teleports you behind the person you hit and stuns them.
 
 ## Obtainment
 
