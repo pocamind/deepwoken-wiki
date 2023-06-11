@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 62440
+revid: 64929
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -38,4 +38,5 @@ Dying to the environment while in Voidsea will send you to [The Depths](The_Dept
 
 -   Patches of bubbles may appear while in the Voidsea. Waiting near one for long enough will cause a [Dread Serpent](Dread_Serpent.md) (bigger bubbles) or a [Lionfish](Lionfish.md) (smaller bubbles) to spawn.
 -   It is rumored that there is a lone island hidden in the vastness of the Voidsea that contains some great secret. The legitimacy of this rumor however is shoddy at most, but most likely refers to [Boatman's Watch](<Boatman's_Watch.md>).
+-   As seen from the book, _Studies on Canticlysm, Vol. IV_, the Voidsea was originally called The World's Edge.
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md).

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 64894
+revid: 64937
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
