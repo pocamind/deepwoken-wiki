@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 61885
+revid: 64890
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -54,7 +54,7 @@ The Falchion is a [Medium Weapon](Weapons.md#medium-weapons) that can be obtaine
 
 Despite its similarity to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) in stats and supposed inferiority, the Alloyed Falchion has the same scaling and does 1 less damage compared to the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md). However, it has 20% PEN, while the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) has none, effectively making it down to preference which one you pick. At that rate, it is a decent weapon when you're grinding for other weapons, Alloyed or not.
 
-It's arguably one of, if not the worst alloyed weapon due to a lack of a unique crit compared to other Alloyed weapons (most notably the [Alloyed Shotel](Shotel.md#alloyed)) and being relatively middling in its stats, again comparable to the Warden Ceremonial Sword, which has a lower weapon requirement compared to it.
+At 100 Med, this weapon deals 24.5 damage, and 27 damage with 6 weapon proficiency.
 
 ## Trivia
 

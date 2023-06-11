@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 64178
+revid: 64898
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -59,7 +59,7 @@ _Slicing blades of flame._
 -   User can walk while casting, giving some sort of mobility
     -   User is slowed while casting.
 -   Breaks certain tiles.
-    -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
+    -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Compatible with Size, Duration and Intensity Buffs.
 -   While having [Starkindred](Oaths.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
 
@@ -112,7 +112,7 @@ _A bullet of flames shot through each hand._
 -   No Cooldown.
 -   Inflicts Burn.
 -   Breaks certain tiles.
-    -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
+    -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Can propel the caster backward if it is cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
 -   Adding a Round Spark causes the bullets to split in 2 after an unknown duration.
@@ -149,8 +149,7 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
 
 -   Blinds nearby targets for 1.5 seconds.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md).
--   Rare Flamcharm mantra.
-    -   Unaffected by ~[Luck](Luck.md)~. (Removed)[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
+-   Rare Flamcharm mantra.[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 -   Buffed the [Concussive Flash](Talents.md) talent, causing all blinded enemies to be dazed.
 -   Not very effective on experienced users because the duration isn't long enough to make a big difference for space to attack. It may even just serve as a mild inconvenience for them.
 
@@ -206,7 +205,7 @@ _Toss a nimble dagger._
 -   Improved by Talent "Hell's Partisan"
 
 -   Breaks certain tiles.
-    -   Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
+    -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 
  |
 |  | 

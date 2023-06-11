@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 64814
+revid: 64897
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -750,6 +750,7 @@ Proof of Time Magic's existance and it being an "Oath".
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Trying to speak to an attunement trainer as a silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
+    -   Speaking with the attunement-less trainer as a silentheart and asking "Can you help me grow stronger" gives the dialogue: "Khimimi... Yes! These books hold many secrets on how to improve your innate abilities..."
 -   Most oaths change your character's eye color.
     -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
     -   Visionshaper gives the user magenta eyes.

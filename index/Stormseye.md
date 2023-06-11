@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 64823
+revid: 64893
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -26,7 +26,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Ferryman, Fury Nautilodaunt, Primadon |
+| obtainment | Ferryman, Fury Nautilodaunt |
 | description | Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
 
 ## Description
@@ -35,7 +35,7 @@ The Stormseye is a legendary weapon that scales from Medium Weapons and [Thunder
 
 ## Obtainment
 
-The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md) at an equal chance.
+The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md).
 
 ## Trivia
 
@@ -43,4 +43,5 @@ The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It c
     -   The object in the middle of the gun has the same model as the [Deepshore Fossil](Deepshore_Fossil.md).
     -   By having this be known, it's easy to assume this was custom made from Diver and Summer Company technology. So why the hell is it the worst type of weapon for PvE? Does Klaris just... have these laying around?
 -   This weapon procs all static and electrified talents as well as all [Thundercall](Thundercall.md) status effects, including static blade and stratoshock buffs. It does a gargantuan amount of damage with all of them procced.
--   If you are a silentheart you can Mani Kati the ferryman to death and you will get double the amount of chests, meaning double the chance of getting a stormseye. (Assuming it hasn’t been patched)
+-   If you are a [silentheart](Oaths.md) you can Mani Kati the ferryman to death and you will get double the amount of chests, meaning double the chance of getting a stormseye. (Assuming it hasn’t been patched)
+-   Content creator Supaa quote-on-quote announced to everybody that the Stormseye dropped from [Primadon](Primadon,_Titan_of_the_East.md), but it was debunked as having Primadon drop a chest that would a mimic chest, and that mimic be a Nautilodaunt that spawns as a Fury [Nautilodaunt](Nautilodaunt.md) that just happens to drop the Stormseye; as such, this would be an absurdly rare occurrence.

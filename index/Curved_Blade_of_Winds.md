@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 64859
+revid: 64892
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -51,7 +51,6 @@ The user propels in a whirlwind of air, gravitating towards their cursor. Applie
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or Voided.
--   While this weapon may be considered as a **downgrade** to the [Forgotten Gladius](Forgotten_Gladius.md), do note that is it still a Medium Weapon, and as such, is one of the better weapons ingame.
 -   When using the weapon one-handed it becomes 2 swords, changing it's animations.
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds has a swing speed of 0.78x when one-handed and 0.8x when two-handed.
