@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 64897
+revid: 64921
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -531,8 +531,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ### Notes
 
 -   Just like Oathless, it has no stat requirements, although it does need you to go to the eternal gale for obtainment.+
-    -   This fact essentially makes this a direct upgrade from Oathless.
-        -   Above statement is now somewhat false as Dawnwalker got the HP from its talents removed, and seeing as Radiant Kick is half the reason people went this oath, it may be an actual choice between this and Oathless now.
 -   This Oath is a colorful masterpiece however since its a oath that is locked inside of Layer 2 not to mention its also lacking in talents and mantra's and is a little bit predictable, you have to be semi-skilled at PvE to unlock it. If you lack said skill head over to Jetstriker like the rest of us.
 -   Radiant kick may be inspired by Minos Prime Judgement kick from Ultra kill, having very similar animations.
 -   Although visually similar to Lifeweave, this oath uses radiant magic which is a form of Lightkeeping.
@@ -750,7 +748,6 @@ Proof of Time Magic's existance and it being an "Oath".
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Trying to speak to an attunement trainer as a silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
-    -   Speaking with the attunement-less trainer as a silentheart and asking "Can you help me grow stronger" gives the dialogue: "Khimimi... Yes! These books hold many secrets on how to improve your innate abilities..."
 -   Most oaths change your character's eye color.
     -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
     -   Visionshaper gives the user magenta eyes.

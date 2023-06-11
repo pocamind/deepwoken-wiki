@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 64822
+revid: 64911
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -20,7 +20,7 @@ Ironsing Icon
 
 The ironsinger possesses many tools to manage the spacing between themselves and their opponent. Similarly to frostdraw, ironsing relies on proper positioning to be effective. However while frostdrawers generally prefer to engage up close to reap the benefits of their passives when standing on ice, ironsingers are just the opposite. Possessing surprisingly high-damage ranged options, and quick methods to disengage from a close-quarters confrontation, ironsing is best at middle to long range. They also benefit from longer engagements, similarly to shadowcasters, as the longer their opponent spends outside of conventional range, the more chances the ironsinger has to strike. Therefore, their slower, almost campy nature may be more familiar to the adept shadowcaster, and this is an attunement best suited for those with patience to spare.
 
-However, for what they have in ranged damage, ironsingers lack the same sustain that shadowcasters do, and even more importantly, they do not possess a quick method of creating overwhelming close-ranged pressure (_see "eclipse kick"_). This makes them **very** susceptible to being rushed down. Therefore, as an ironsinger development of your basic combat is highly recommended for when you're out of ether and options for escape.
+However, for what they have in ranged damage, ironsingers lack the same sustain that shadowcasters do, and even more importantly, they do not possess a quick method of creating overwhelming close-ranged pressure (_see "[eclipse kick](Shadowcast.md)"_). This makes them **very** susceptible to being rushed down. Therefore, as an ironsinger development of your basic combat is highly recommended for when you're out of ether and options for escape.
 
 At the time of writing, it is too early to say exactly what ironsing matchups will look like, as the meta has not yet fully developed. However it can be postulated that galebreathe and thundercall will be particularly lethal against ironsing, due to both being able to easily force a close-ranged engagement.
 

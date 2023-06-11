@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64864
+revid: 64927
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -988,7 +988,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Willpower, Agitating Spark
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
-    -   If you burn to death throught the use of Last Laugh, the healing is reduced to 25%.
+    -   If you burn to death through the use of Last Laugh, the healing is reduced to 25%.
     -   Prerequisites: All Immolator talents
 
 -   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
@@ -1875,7 +1875,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Flame of Denial
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
-    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
+    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame (Possibly
 
 -   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restore sanity and health to those around it. Stacks with sitting next to it.
@@ -2166,7 +2166,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
     -   Prerequisite: 20 Strength
 
 -   Tacet Drop Kick - Turn invisible before appearing above the target, knocking the enemy down if hit.
-    -   Prerequisites: 20 Strength, Murmur: Tacet, Jus Karita
+    -   Prerequisites: 5 Strength, Murmur: Tacet, Jus Karita
 
 #### Strength Mobility
 

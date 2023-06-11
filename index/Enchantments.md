@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 64767
+revid: 64899
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -393,7 +393,7 @@ These stats do not consume stat rolls for equipment.
 
  | 
 
-Equipment is covered in a near invisible particle effect.
+Equipment is covered in a faint particle effect that appears to be dark and ashy.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 64410
+revid: 64916
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -42,4 +42,3 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 -   You can pickpocket the Authority Commander for the Jail Keys but it requires the Pickpocket Talent to do so.
 -   You cannot talk with them, attempting to do so will pickpocket them instead.
 -   Blocking the Strong Left is possible with a Khan Shield or the mantra Rally, that gives you decreased posture gain and makes it so that you can't be posture broken with some exceptions of course.
--   The Authority Commander once used the [Authority Captain Uniform](Authority_Captain_Uniform.md) outfit, but now fittingly has the [Authority Commander](Authority_Commander.md) outfit.

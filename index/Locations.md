@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 61200
+revid: 64910
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -161,6 +161,7 @@ Please add miscellaneous islands or named landmarks here
 
 **Voidsea:**
 
+-   [Beloved Zofia](Beloved_Zofia.md)
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Voidheart](Voidheart.md)
     -   [Dusklit Garden](Dusklit_Garden.md)

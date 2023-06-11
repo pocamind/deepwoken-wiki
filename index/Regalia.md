@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 63675
+revid: 64912
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
