@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 62848
+revid: 64863
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -53,8 +53,8 @@ Shadow Gun
 -   Adding 1 Blast Spark will make your Shadow Gun a barrage.
 -   Adding Lenses will increase the range forward
 -   Adding Cloudstones and Stratus Stones increase the hitbox from left to right up to down.
-
-For anyone confused, Lenses make it go farther forward and cloudstones and stratus stones make it increases the thickness of the range from left and right. add both to make a huge shadow barrage.
+-   For anyone confused, Lenses make it go farther forward and cloudstones and stratus stones make it increases the thickness of the range from left and right. add both to make a huge shadow barrage.
+-   Its animation is identical to the Duelist's M2 from Rogue Lineage.
 
  |
 | 
@@ -200,6 +200,8 @@ Eclipse Kick
 
 Firing shadow gun at this causes it to explode, dealing extra damage
 
+-   A reference to Planetary Devestation from _Naruto Shippuden_.
+
  |
 
 ### **Support**
@@ -219,6 +221,7 @@ Shade Devour
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to perform a bigger shockwave.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
+-   Spine Cutter cannot be used while Shade Devour is active
 
  |
 
@@ -580,13 +583,10 @@ Rare
 ## Trivia
 
 -   In past updates the selection icon for Shadowcast had the same art as Flamecharm, but was oddly tinted white.
--   Shadowcast has a talent which blinds the victim on consecutive shadow stacks, however this blind turns the victim's screen white ironically.
+-   Shadowcast has a talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
 -   Additionally, several Shadowcast moves charge up with a white light.
+    
 -   The Shadowcast trainer is dead and is insane due to their time in the depths. It can be inferred because Lightkeepers are an "authority" within Deepwoken's world, the trainer's death was not accidental.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
-    -   A interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
-    -   Shadow Gun has an identical animation to the Duelist's M2 from Rogue Lineage.
+-   An interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
 -   Like [Galebreathe](Galebreathe.md) and [Frostdraw](Frostdraw.md), Shadowcast has its own legendary weapon called the [Crypt blade](Crypt_Blade.md). It is an elemental greatsword found in the depths, similarly to how you obtain Shadowcast.
--   Shadow Vortex may reference to Planetary Devestation from _Naruto Shippuden_ from the black spherical shape that is launched and any debris or rocks are pulled into the orb locking the victim inside.
-
--   ~Shadow has the least mantras out of all attunements.~ Now Shadowcast has the same number of mantras as galebreath as of (03/04/2023)

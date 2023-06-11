@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 64835
+revid: 64869
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -77,6 +77,11 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the songseeke
   
 
 -   Buffs cannot be applied to oneself alone.
+
+  
+
+  
+
 -   Need friends. :(
     
 

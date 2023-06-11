@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64847
+revid: 64864
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -47,6 +47,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Conditioned Runner_ **or** _Fishman;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
 -   _Singularity_ **or** _Sightless Still._
+-   Million Ton Piercer **or** Ether Overdrive
 
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -632,6 +633,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Ether Overdrive_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
+    -   Mutual Exclusive: Million Ton Piercer
     -   Note: Does not require any other Elementalist talents despite being an advanced talent.
 
 -   _Elemental Rebound_ \[Rare Talent\] - Elemental mantras now grant extra tempo upon landing (+3 Elemental Intensity).
@@ -1429,6 +1431,7 @@ These are just raw stat increases and are beneficial to anyone.
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether)
     -   Prerequisites: 90 Strength, Bulldozer, Unwavering Resolve, Shield Breaker (All Raging Bull Talents)
+    -   Mutual Exclusive: Ether Overdrive
 
 ### Rampant Static
 
@@ -1771,6 +1774,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
     -   If the player you are mugging doesnt have any notes, you will stop mugging unequipped equipment.
     -   Does not take enchanted equipment
+    -   Despite the 10 agility requirement, you need cap artist (25 agility)
 
 ### Thunder Brawler
 
