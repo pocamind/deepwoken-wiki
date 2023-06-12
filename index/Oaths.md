@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 64921
+revid: 64986
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -35,7 +35,7 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 40 Strength |
+| oath_req | 40 Strength and a player kill |
 | effects | +2 Combat Mantra, +8 Health |
 
 | Oath: Arcwarder | |

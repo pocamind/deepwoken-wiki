@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 64964
+revid: 64989
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -61,7 +61,7 @@ Check the rest out for yourself
 | Kujae | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC, in exchange for 350, he will give you something random out of his bag |  |
 | Lake | Unaligned | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
 | Lance's Brother | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
-| Lance Leshi | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI. |
+| Lance Leshi | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI |
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, Contractor Oath obtainment | Kills the player instantly if they are not permitted to enter |
 | Lucien | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | Lucy | Unaligned | [The Depths](The_Depths.md), The City of The Drowned | None |  |

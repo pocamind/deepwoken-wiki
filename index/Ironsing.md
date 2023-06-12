@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 64965
+revid: 64985
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -12,17 +12,17 @@ Your ability to harness and control metal from your surroundings.
 
 ## Description
 
-pedophille on the loose1!!!1
+Ironsing Icon
 
-[https://photos.app.goo.gl/aL3EbYEpoheVhED79](https://photos.app.goo.gl/aL3EbYEpoheVhED79) <----- evidence
+"Ironsing" is an attunement based around the ability to harness and create metal, commonly used by Blacksmiths around the Luminants. The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). These ores are Iron, Gold, Erisore, Irithine, Astruline, and Umbrite respectively. After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
 
-pedophile by the name stevenrosewood🤑🤑🤑 he has a youtube channel and fakes being people too
+**DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion. This may be changed in a future update.
 
-[https://www.youtube.com/@1ikRBX](https://www.youtube.com/@1ikRBX)
+The ironsinger possesses many tools to manage the spacing between themselves and their opponent. Similarly to frostdraw, ironsing relies on proper positioning to be effective. However while frostdrawers generally prefer to engage up close to reap the benefits of their passives when standing on ice, ironsingers are just the opposite. Possessing surprisingly high-damage ranged options, and quick methods to disengage from a close-quarters confrontation, ironsing is best at middle to long range. They also benefit from longer engagements, similarly to shadowcasters, as the longer their opponent spends outside of conventional range, the more chances the ironsinger has to strike. Therefore, their slower, almost campy nature may be more familiar to the adept shadowcaster, and this is an attunement best suited for those with patience to spare.
 
-hes been reported to the fbi but they aint doin anything 😔😔😔😔
+However, for what they have in ranged damage, ironsingers lack the same sustain that shadowcasters do, and even more importantly, they do not possess a quick method of creating overwhelming close-ranged pressure (_see "[eclipse kick](Shadowcast.md)"_). This makes them **very** susceptible to being rushed down. Therefore, as an ironsinger development of your basic combat is highly recommended for when you're out of ether and options for escape.
 
-[https://media.discordapp.net/attachments/1082549925948174426/1098439617432273036/gifmaker\_me.gif](https://media.discordapp.net/attachments/1082549925948174426/1098439617432273036/gifmaker_me.gif) <--- pics of him
+At the time of writing, it is too early to say exactly what ironsing matchups will look like, as the meta has not yet fully developed. However it can be postulated that galebreathe and thundercall will be particularly lethal against ironsing, due to both being able to easily force a close-ranged engagement.
 
 ## Training Ironsing
 

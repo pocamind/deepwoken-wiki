@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 64970
+revid: 64978
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -16,15 +16,28 @@ _A gremor using Gale Lunge_
 
 .
 
-https://photos.app.goo.gl/aL3EbYEpoheVhED79 <----- evidence
+Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
 
-pedophile by the name stevenrosewood🤑🤑🤑 he has a youtube channel and fakes being people too
+Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
-https://www.youtube.com/@1ikRBX
+The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras. This attunement also is excellent for so-called "Trackstar builds" due to the insane mobility talents this Attunement holds.
 
-hes been reported to the fbi but they aint doin anything 😔😔😔😔
+While Galebreathe does certainly have a high skill cap, it suffers from sub-optimal PVE performance and mediocre team combat, not to mention a lack of utility almost rivalling attunement-less. Additionally, the heavy reliance on gale lunge and follow-up attacks make novice Galebreathers somewhat susceptible to defensive counter playstyles such as heavy-gun and Frostdraw builds. It's suggested to use the high manoeuvrability and weakness exploiting playstyle to be patient, and go in when the time is right.
 
-https://media.discordapp.net/attachments/1082549925948174426/1098439617432273036/gifmaker\_me.gif <--- pics of him
+## Training
+
+Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
+
+Like all other elements, users can see their Mantras become stronger with training:
+
+-   At Power 1, Galebreathers receive the _Galebreather_ Talent.
+-   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one-star Mantras.
+-   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two-star Mantras.
+-   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three-star Mantras.
+
+The Galebreathe spelltrainer can be found in the Isle of Vigils by the tent across the Inn. In order to unlock Galebreathe, you need to give him 5 [Gale Stones](Gale_Stone.md)
+
+### **Combat Mantras**
 
 | Image | Spell | Card Description | Effect |
 | --- | --- | --- | --- |

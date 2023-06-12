@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 64967
+revid: 64979
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,15 +14,15 @@ Frostdraw icon
 
 A Hemafrosted Capra casting a beam of ice.
 
-https://photos.app.goo.gl/aL3EbYEpoheVhED79 <----- evidence
+Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-pedophile by the name stevenrosewood🤑🤑🤑 he has a youtube channel and fakes being people too
+Frostdraw is an Attunement that focuses on environment manipulation, area-denial, combos, and massive damage dealing. Frostdraw has many talents giving you the advantage against opponents whether you or your opponent happen to be standing on your ice, highlighting the combo focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow Attunement when compared it's other counterparts, it makes up by having deadly combos.
 
-https://www.youtube.com/@1ikRBX
+Frostdraw is an Attunement to be reckoned with when used by those who understand the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
 
-hes been reported to the fbi but they aint doin anything 😔😔😔😔
+However, it should be noted that Frostdraw's more methodical playstyle oftentimes provides opponents who are quick on their feet an edge in combat. Aerial attacking, bursting, and dodge-heavy builds should always be on a Frostdrawer's radar to ensure they do not get displaced and lose their defensive advantage. Thundercallers are particularly prone to this playstyle, due to their mantras favoring hit-and-run tactics and high mixup potential.
 
-https://media.discordapp.net/attachments/1082549925948174426/1098439617432273036/gifmaker\_me.gif <--- pics of him
+Very powerful in chime due to the limited area to fight on.
 
 ## Training
 
