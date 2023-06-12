@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 64920
+revid: 64955
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -31,15 +31,13 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-The Stormseye is a legendary weapon that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle. Ragdolls at the end. Using its aerial teleports you behind the person you hit and stuns them.
+The Stormseye is a legendary weapon that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end. Using its aerial teleports you behind the person you hit and stuns them.
 
-The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md), but only in the Primadon's Deep Gem chests.
+The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md), but only in the Primadon's Deep Gem chest.
 
 ## Trivia
 
--   This weapon is the combination of the technology of guns and the energy of the [Kyrsan Medallions](Kyrsan_Medallions.md) channeled using Thundercall.
-    -   The object in the middle of the gun has the same model as the [Deepshore Fossil](Deepshore_Fossil.md).
-    -   By having this be known, it's easy to assume this was custom made from Diver and Summer Company technology. So why the hell is it the worst type of weapon for PvE? Does Klaris just... have these laying around?
--   This weapon procs all static and electrified talents as well as all [Thundercall](Thundercall.md) status effects, including static blade and stratoshock buffs. It does a gargantuan amount of damage with all of them procced.
--   This weapon also has an ability where landing an aerial attack with the rifle will teleport you behind the enemy, similar to the talent Static Fakeout.
--   If you are a [silentheart](Oaths.md) you can constantly Mani Kati The Ferryman to death and you will get double the amount of chests, meaning double the chance of getting a Stormseye. (Assuming it hasn’t been patched).
+-   Elaborated on in its description, the Stormseye is the combination of the technology of guns and the energy of [Kyrsan Medallions](Kyrsan_Medallions.md) stolen from the Ignition Union, channeled using Thundercall.
+    -   The object in the middle of the gun has the same model as the [Deepshore Fossil](Deepshore_Fossil.md), furthering its connection to Layer 2.
+-   This weapon procs all static and electrified talents as well as all [Thundercall](Thundercall.md) status effects, including Static Blade and Stratoshock buffs. It does a gargantuan amount of damage with all of them procced.
+-   Landing an aerial attack with the rifle teleporting you behind the enemy is similar to the behavior of the Static Fakeout talent.

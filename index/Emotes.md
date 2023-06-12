@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 63701
+revid: 64961
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -36,5 +36,5 @@ Emote Screen
 |  | Grizzly | Emote Pack 2 |
 |  | Shrug | Emote Pack 2 |
 |  | Meditate | Emote Pack 2 |
-| File:Hoss.gif | Hoss | Emote Pack 2 |
+| File:RukkroF.gif | Hoss | Emote Pack 2 |
 |  | Sturdy | Emote Pack 2 |

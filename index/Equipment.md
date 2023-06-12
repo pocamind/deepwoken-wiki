@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 64851
+revid: 64951
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -1615,6 +1615,7 @@ Grants a random buff.
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 | File:Varicosa Medallion.png | 
@@ -2239,7 +2240,7 @@ Chests from:
  | N/A |
 | File:Brigand's Cloak.png | 
 
-Brigand‘s Cloak
+[Brigand's Cloak](<Brigand's_Cloak.md>)
 
  | 
 
