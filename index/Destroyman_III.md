@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 62472
+revid: 65002
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -99,11 +99,11 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   TIP: Press 'Spacebar' to jump! How many times have you jumped in real life recently? Something to think about.
 -   TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
 -   TIP: Sesame oil is great in stirfries. Remember that.
--   TIP: Support your favourite artists, buy their albums. Streaming services pay .4 cents a play a cup of coffee costs around 1,000 streams.
+-   TIP: Support your favourite artists, buy their albums. Streaming services pay .4 cents a play. A cup of coffee costs around 1,000 streams.
 -   TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought.
 -   TIP: When was the last time you picked up a book? No, weapon manuals don't count.
 -   TIP: Why are you still playing this game? Go outside.
--   TIP: Yamaketzal's favorite drink is grape juice
+-   TIP: Yamaketzal's favorite drink is grape juice.
 -   The path to becoming a firstrater is long and difficult. You are still just a third rater.
 -   There is more to life than videogames. Developing hobbies can bring happiness.
 -   They aren't getting back up, are they?

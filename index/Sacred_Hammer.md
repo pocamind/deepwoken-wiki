@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 63294
+revid: 64991
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Clubs]
@@ -19,7 +19,6 @@ categories: [Weapons, Pages with broken file links, Clubs]
 | endlag | ??? |
 | penetration | 10% |
 | special effect | None |
-| selling price | 75 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

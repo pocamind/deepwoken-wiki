@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 64899
+revid: 64998
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -601,6 +601,7 @@ File:Vamparism shield.png
 "Curse of Umbral Knight" enchant on a Hero's Blade of Shadow
 
 -   A few enchants are based on other series and shows.
+    -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
     -   Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the _Fate_ series.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.

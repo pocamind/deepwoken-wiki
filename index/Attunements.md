@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 64950
+revid: 65006
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -26,7 +26,7 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 ## Attunements
 
-Template:Testing[Flamecharm](Flamecharm.md)Template:TestingTemplate:TestingTemplate:Testing Template:Testing Template:Testing
+Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing Template:Testing Template:Testing
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 64985
+revid: 65007
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -165,8 +165,6 @@ These are talents found in "_Ironsinger_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Ironsingicon.png
-
  | 
 
 Ironsinger
@@ -181,8 +179,6 @@ Press X to pull targets with Metal Rods towards you.
 
  |
 | 
-
-File:Ironsingicon.png
 
  | 
 
@@ -206,8 +202,6 @@ These are talents found in "_Rending Needle_" Category. (You can only have one o
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Ironsingicon.png
-
  | 
 
 Metalsmith: Conductor
@@ -224,8 +218,6 @@ Metalsmith: Conductor
  |
 | 
 
-File:Ironsingicon.png
-
  | 
 
 Metalsmith: Impaler
@@ -241,8 +233,6 @@ If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pull
 
  |
 | 
-
-File:Ironsingicon.png
 
  | 
 
@@ -266,8 +256,6 @@ These are talents found in "_Metallurgist_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Ironsingicon.png
-
  | 
 
 Ironclad Punishment
@@ -283,8 +271,6 @@ The higher durability your enemy has, the more posture damage they take.
 
  |
 | 
-
-File:Ironsingicon.png
 
  | 
 
@@ -329,8 +315,6 @@ These are talents found in "_Adaptive Arsenal_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Ironsingicon.png
-
  | 
 
 Exposed Durability
@@ -346,8 +330,6 @@ Increased damage talent
 
  |
 | 
-
-File:Ironsingicon.png
 
  | 
 
@@ -365,8 +347,6 @@ It repairs both your armor and natural armor.
  |
 | 
 
-File:Ironsingicon.png
-
  | 
 
 An Ironsinger's Instinct
@@ -382,8 +362,6 @@ Upon dodging, reduce the damage taken from the next attack.
 
  |
 | 
-
-File:Ironsingicon.png
 
  | 
 

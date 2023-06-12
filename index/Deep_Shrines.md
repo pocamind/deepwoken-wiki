@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 63436
+revid: 64994
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -176,6 +176,8 @@ Located in The [Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline
     -   However, any mantras obtained after taking Silentheart will not be eligible for trading.
 -   Lets you get 2 talents if you decide that you no longer want to use a mantra.
 -   Heavy cost
+-   Monster Mantras are not eligible to be divided.
+-   You cannot obtain Rare talent cards.
 -   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.
     
 

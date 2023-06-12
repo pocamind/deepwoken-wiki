@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 64853
+revid: 64996
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -90,6 +90,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I create my own vows. **(Vow of Mastery) (Note; Cannot give Command: Return, Command: Sacrifice)**_
 -   _I feel the pain of those around me. **(Empath; Give and Take)**_
 -   _I can talk myself out of any situation. **(The Negotiator)**_
+-   _I seek the qualities of politician. **(Politician; Cult of Personality, Pardon me)**_
 
 ### Weaponry
 
