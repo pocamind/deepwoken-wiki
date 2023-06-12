@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 64773
+revid: 64963
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -118,7 +118,7 @@ The Hero Blade of Lightning is an elemental weapon and the Thundercall variation
 
 **Wind:**
 
-he Hero Blade of Lightning is an elemental weapon and the Galebreath variation of the Hero Blades. This weapon features a unique critical attack which summons a strong whirlwind in front, pushing back targets.
+The Hero Blade of Wind is an elemental weapon and the Galebreath variation of the Hero Blades. This weapon features a unique critical attack which summons a strong whirlwind in front, pushing back targets.
 
 ## Unique Critical Attack
 
