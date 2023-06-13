@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 64974
+revid: 65042
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -20,7 +20,7 @@ _Tools_ _constructed with the intent to harm others, polished to be efficient ki
 
 Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via unbounding your weapon stat (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per level for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
 
-When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which increase damage your stats will contribute. Certain weapons can also scale off of a player's Attunement or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example).
+When obtaining a weapon, it may come with 1-3 stars on it, which adds +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain the max possible stars for the weapon you want in order to maximize effectiveness. However this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md), which incrflease damage your stats will contribute. Certain weapons can also scale off of a player's Attunement or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example).
 
 Enchanted weapons always have at least one star.
 
@@ -188,7 +188,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
-  <td>60 LHT; 40 INT</td>
+  <td>60 LHT; 30 INT</td>
   <td>14</td>
   <td>30%</td>
   <td>INT: 2 LHT: 8</td>
@@ -1742,7 +1742,10 @@ The formula to calculate the total amount of damage, with scaling taken into acc
 
 -   D a m a g e \= 0.75 × ( T o t a l S c a l i n g D a m a g e 1000 ) + B a s e D m g {\\displaystyle Damage = 0.75 \\times \\left ( \\frac { TotalScalingDamage }{ 1000 } \\right ) + BaseDmg } {\\displaystyle Damage=0.75\\times \\left({\\frac {TotalScalingDamage}{1000}}\\right)+BaseDmg}
 
-  
+_[Damage calculator (Single Attribute Scaling weapons)](https://www.desmos.com/calculator/boe1cx95jl)_
+
+_[Damage calculator (Dual-Attribute Scaling weapons)](https://www.desmos.com/calculator/ltegxv7lc2)_
+
 The formula to calculate the damage with multipliers taken into account is:
 
 -   M u l t i p l i e d D a m a g e \= D a m a g e ∗ ( 1 + M u l t i p l i e r s S u m % 100 ) {\\displaystyle MultipliedDamage = Damage \* \\left ( 1 + \\frac{MultipliersSum\\%}{100} \\right) } {\\displaystyle MultipliedDamage=Damage\*\\left(1+{\\frac {MultipliersSum\\%}{100}}\\right)}

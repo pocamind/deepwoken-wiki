@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 64942
+revid: 65040
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -107,6 +107,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
         -   Thundercall: Yellow
         -   Galebreath: Green
         -   Shadowcast: Purple
+        -   Ironsing: Grey
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages
 

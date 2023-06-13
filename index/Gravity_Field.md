@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 62400
+revid: 65039
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -40,6 +40,8 @@ Additionally, you can press C again to deactivate Gravity Field early.
 If someone touches the border of the field, they will be ragdolled and flung back inwards. On top of this, mobility mantras (such as [Dash](Attunement-less.md#agility-mantras)) are not usable.
 
 Combat tags the user when someone enters the field.
+
+If Gravity Field is corrupted, the user gain immunity to the effects of its own Gravity Field but the duration is halved.
 
 ### _Resonance Point Usage_
 

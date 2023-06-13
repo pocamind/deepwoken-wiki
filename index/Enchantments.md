@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 64998
+revid: 65036
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -74,7 +74,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
   <td><div><p>Weapon deals 1.1x damage.<br>
-  Weapon deals damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times.</p></div></td>
+  Weapon deals damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>

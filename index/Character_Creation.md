@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 62539
+revid: 65008
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -88,7 +88,7 @@ Etris is a large set of islands and land formations and is very simply layout. T
 Here is what makes Etris unique:
 
 -   At the central tree island, there is a [Vesperian](Vesperian.md) [Justicar](Polis.md) cleaning his [Greatsword](https://deepwoken.fandom.com/wiki/Darksteel_Greatsword) with a rag, who gives you a [Gold Ring](https://deepwoken.fandom.com/wiki/Armors?so=search#Rings) for talking to him. Most players sell this, meaning you can start with a few extra Notes.
--   The NPC who greats you grants, unlike the NPC in Vigils who only gives.
+-   The NPC who greets you grants, unlike the NPC in Vigils who only gives.
 -   You can do the [Lord Regent Quest](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Lord_Regent_Quest>) in order to get the [Manor Key](<Duke_Erisia's_Manor.md>) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
 -   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the [Etris](Etris.md) blacksmith.
 -   The NPC at the Docks teaches you the Repair Kit recipe, unlike the Vigils variant.

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 64994
+revid: 65045
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -163,7 +163,7 @@ Shrine Of Division
 ― Shrine Of Divison
 
   
-Located in The [Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline, down the hole near the Lordsgrove entrance.
+Located in [The Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline, down the hole near the Lordsgrove entrance.
 
 ## Benefits/Penalties
 
@@ -180,6 +180,24 @@ Located in The [Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline
 -   You cannot obtain Rare talent cards.
 -   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.
     
+
+**Shrine of Unification:**
+
+Shrine Of Unification
+
+“ YOU WILL YIELD TWO FRAGMENTS AND RECEIVE THE WORDS YOU SEEK. ”
+
+― Shrine Of Unification
+
+  
+Located in the [Starfield Veldt](Starfield_Veldt.md) in a cave hidden behind a tree.
+
+## Benefits/Penalties
+
+-   **(BENEFIT)** Trade in 2 cards for a mantra.
+-   **(PENALTY)** Lose 5 Knowledge
+
+## Pros/Cons
 
 * * *
 

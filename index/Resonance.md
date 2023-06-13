@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 64756
+revid: 65030
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -39,7 +39,7 @@ _(From data of 100 rerolls, the calculated chance of getting a normal **Resonanc
 
 ### Corrupted Resonances
 
-**Corrupted Resonances** are a sub-category of **Resonances** which are obtained identically to normal **Resonances**. They are rarer and stronger, yet come with a consequence upon use, and give more points for the point-allocation system of **Resonances**, allowing them to grant stronger benefits and fulfill their purpose in a way that is arguably better than that of a **Normal Resonance**.
+**Corrupted Resonances** are a sub-category of **Resonances** which are obtained identically to normal **Resonances**. They are rarer and stronger, yet come with a consequence upon use, and give more points for the point-allocation system of **Resonances** and even give **extra effects to some**, allowing them to grant stronger benefits and fulfill their purpose in a way that is arguably better than that of a **Normal Resonance**.
 
 Known side-effects include:
 
