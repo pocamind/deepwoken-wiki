@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 61753
+revid: 65077
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -78,3 +78,4 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed. However, you can still backstab the Angels and use burning servants (or flame repulsion, be careful though) to do essentially the same cheese method.
 -   After testing, beating trial with Adret and Autodidact gets you to power 9-10. (Could be a bug.)
 -   Deepbound freshies that somehow make it out of the depths at level one are not able to enter Trial Of One
+-   Going into the trial without an attunement will render your 10 additional points useless, making you power up later than usual.
