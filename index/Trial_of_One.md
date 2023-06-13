@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 65077
+revid: 65085
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
