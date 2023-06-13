@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 63873
+revid: 65055
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -136,7 +136,7 @@ Just some information to keep in mind and remember.
     -   [Blindseer](Oaths.md) most likely doubles or even triples the time you can stay in the Depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also used to grant [Luck](Luck.md) when defeated which is a removed mechanic.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
--   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame, you might want to consider bringing _**healing potions**_.
+-   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the talent undying flame), you might want to consider bringing _**healing potions**_.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ and _**The Thinker**_ are extremely useful talents in The Depths since they allow you to heal/regenerate ether without doing anything. Another good card is _**Conditioned Runner**_, which allows you to heal whilst running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils (needs confirmation, I have been attacked by a Megalodaunt for over 40 seconds and managed to get away after running from it's sight, however when I came back to the monster, it no longer desired to attack.). Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, you will be able to lead them or possibly run into a group of mobs that will aid your escape from unwanted situations. Keep in mind however, that hitting a monster in The Depths even once **will** make them attack you.

@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 62265
+revid: 65072
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -22,10 +22,10 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly swings dagger at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
-| Void Lance | Caster opens a gate allowing a void tentacle to attack at an aimed opponent. | ◯ | ◯ | (★☆☆) |
+| Shadow Arc | Caster conjures an arc of shadow and pierces the opponent. | ◯ | ◯ | (★☆☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### Boons
@@ -41,10 +41,9 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 ## Tips
 
--   Almost at any given time they will try to use their mantras while doing an M1 Combo.
 -   Always watch your blood bar while fighting these enemies, as it can get low very fast.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   It's recommended to farm Ministry scouts as soon as you are done with the trial of one, as they are a valuable and easy source of exp in early-game.
+-   It's recommended to farm Ministry scouts as soon as you are done with the Trial of One, as they are a valuable and easy source of exp in early-game.
 -   Avoid fighting them in servers with high ping, since they can become quite difficult to parry without proper ms.
 -   Their Shadow Assault is heavy damaging and hard to parry or dodge, it also deals an unholy amount of posture damage when blocked so it's suggested to be parried or dodged as soon as the mantra sound is heard (which is the infamous "click" sound of the Shadow Assault mantra of the Shadowcast attunement).
 

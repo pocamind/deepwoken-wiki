@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 62957
+revid: 65069
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]

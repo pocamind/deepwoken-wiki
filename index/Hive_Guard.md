@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 54730
+revid: 65065
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -54,3 +54,4 @@ A Hive Guard executes it's opponent after knocking them:
 ## Trivia
 
 -   Hive Guards should be avoided since it has an extremely high HP Pool, higher than most humanoid NPCs.
+-   Don't underestimate them. Even a Voidwalker can be easily beaten if they try to seek the target in Greathive Aratel. With the number of Hive Guards there, one Voidwalker is guaranteed to be killed by them.

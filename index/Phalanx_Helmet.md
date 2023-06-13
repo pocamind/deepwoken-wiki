@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 60798
+revid: 65070
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -20,7 +20,7 @@ categories: [Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer |
+| obtainment | Second LayerDuke (rare) |
 
 ## Description
 
