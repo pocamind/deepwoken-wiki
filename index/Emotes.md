@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 64961
+revid: 65116
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mechanics]
 
 # Emotes
 
-Emotes are gestures or poses a player can use. To use an Emote, hold K, hover over your selected Emote, and let go of K. (Keybind was X but has changed since Ironsing being added)
+Emotes are gestures or poses a player can use. To use an Emote, hold K, hover over your selected Emote, and let go of K. (Keybind was X but has since been changed since 05/22/2023)
 
 Emotes are for the most part, purely cosmetic, however they can be used for other purposes, such as Emoting at the [Megalodaunt](Megalodaunt.md) Statue in [Etris](Etris.md), to summon [Destroyman III](Destroyman_III.md).
 

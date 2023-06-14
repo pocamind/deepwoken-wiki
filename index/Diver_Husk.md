@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 61103
+revid: 65113
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -8,17 +8,13 @@ categories: [Monsters, Layer 2]
 
 # Diver Husk
 
-“ Help... ”
-
-― The Diver Husk as their head turns into highly processed ketchup by a L2 farm build.
-
 Template:EnemyInfobox1.0
 
 ## Overview
 
 Diver Husks are a enemy Humanoid NPC of Layer 2, unfortunate victims of The Eternal Gale and its parasitic lifeforms.
 
--   Diver Husk numbers can vary; either solo or in a group of three.
+-   Diver Husk numbers can vary; they can be found solo, in a duo or in a group of three.
 
 ## Moveset
 
@@ -42,7 +38,7 @@ Diver Husks has an arsenal of weapons known across the Lumen to equip from, but 
 
 ## Trivia
 
--   Diver Husks still have some humanity in themselves; although the parasites residing in their bodies are controlling them entirely-- leaving those who fight against them a feeling of hopelessness and grief as there is nothing to do for them.
+-   Diver Husks still have some humanity; although the parasites residing in their bodies are controlling them entirely-- leaving those who fight against them with a feeling of hopelessness and grief as there is nothing to do for them.
 -   Diver Husks later transform into [Carbuncles](Carbuncle.md).
     
     A Dive Husk's last words before execution.
