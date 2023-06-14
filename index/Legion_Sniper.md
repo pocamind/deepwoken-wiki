@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 65119
+revid: 65143
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -39,6 +39,7 @@ Grand Javelin
  | User throws a spear made of pure lightning in front of them.
 
 -   This move will insta-grip/execute if it hits you while knocked or at low health.
+-   This move has no-very short cooldown as he can use use every 2.5s (aprox)
 
  | ◯ | ✗ | (★★★) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
@@ -56,6 +57,7 @@ Grand Javelin
 -   Grand Javelin can be blocked with high enough posture.
 -   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health.**
 -   They will parry all of your attacks, so expect to get in a very very long parry trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
+-   Its better to engange in parry trades than fight them at distance so they dont have the chance to spam Grand Javelin, which deals a huge amount damange, pushes you away and last but not less instagrips if you are low.
 
 ## Trivia
 
@@ -65,3 +67,4 @@ Grand Javelin
 -   Despite them being [Thundercall](Thundercall.md) users, they can drop [Gale Stones](Gale_Stone.md).
 -   Legion Snipers are now friendly to people with positive [Legion reputation](The_Hundred_Legions.md)
 -   Legion Snipers were the only Legion Member that used to be very hostile to players even if players had positive reputation with the Legion.
+-   Their Grand Javelin has way less cooldown than a player Grand Javelin since he can use it around every 2.5s
