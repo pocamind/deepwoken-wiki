@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 55858
+revid: 65171
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies]
@@ -49,7 +49,7 @@ Critical
 
 Jolt Grab
 
- | Teleports to the nearest opponent before sending out a shocking AoE. | ? | ◯ | (★★☆) |
+ | Teleports to the nearest opponent before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
 | 
 
 Gale Lunge

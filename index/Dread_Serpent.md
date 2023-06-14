@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 63832
+revid: 65170
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -62,7 +62,7 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
--   When near a campfire, Kaido automatically extinguishes the campfire.
+-   When near a campfire, it automatically extinguishes the campfire.
 
 ## Gallery
 

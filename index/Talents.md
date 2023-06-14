@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65111
+revid: 65147
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1247,7 +1247,8 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 ### Mental Fortress
 
 -   Breathing Exercise \[Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
-    -   When outside of the depths, passive sanity recovery is increased.
+    -   Your passive sanity regen is increased.
+        -   You do not regen sanity when something is actively draining it, like being in The Depths.
     -   Prerequisite: 5 Willpower
 
 -   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+3 Sanity)
@@ -1312,6 +1313,7 @@ These are just raw stat increases and are beneficial to anyone.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
+    -   Entities that are close enough give a constant ping.
     -   Prerequisite: Murmur: Rhythm, 50 Willpower, [Power](Power.md) 16
 
 -   _**Murmur: Ardour** \[Unlockable Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H._

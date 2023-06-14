@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 65071
+revid: 65178
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Blacksteel Pirates can be found in the Etrean Sea Random Encounters. They spawn in groups of 5-6 in the watch tower event. They wear a [Darksteel Plate](Darksteel_Plate.md) and a recolored [Knight's Helm](<Silver_Knight's_Helm.md>).
+Blacksteel Pirates can be found in the Etrean Sea Random Encounters. They spawn in groups of 5-6 in the watch tower event.
 
-  
+They wear a [Darksteel Plate](Darksteel_Plate.md) and a dyed black [Knight's Helm](<Silver_Knight's_Helm.md>).
 
 ## Moves
 
@@ -46,11 +46,14 @@ A Blacksteel pirate executes the player after knocking them:
 
  |
 
+## Tips
+
+-   The Darksteel Greatsword Blacksteel Pirates pose the biggest threat to rookie players; only engage if you know how to parry the critical.
+-   They essentially act as very much high risk reward types for lower level players who want to earn exp and items quickly.
+-   They may be more difficult than bandits as if you don't know how to parry you will get combo'ed.
+
 ## Trivia
 
--   They somehow built multiple towers in the middle of the sea.
--   They may be more difficult than bandits if you don't know how to parry you will get combo'ed.
--   The Tower Event drops 2 chests. First, at the top of the tower and the second can only be obtained when tower sinks. (The second one is blocked by blocks)
+-   Them originating from below the ocean and their usage of [Shadowcast](Shadowcast.md) imply a connection with [The Depths](The_Depths.md) or [The Ministry](The_Ministry.md).
+-   The Tower Event drops 2 chests. First, at the top of the tower and the second can only be obtained when tower sinks as it is blocked by blocks.
 -   They don't actually wear a [Blacksteel Helm](Blacksteel_Helm.md) or [Blacksteel Pauldrons](Blacksteel_Pauldrons.md), despite being able to drop them and sharing their namesake, "Blacksteel".
--   The Darksteel Greatsword Blacksteel Pirates pose the biggest threat to rookie players; only engage if you know how to parry the critical.
--   There are very much high risk reward types for lower level players who want to earn exp and items quickly.
