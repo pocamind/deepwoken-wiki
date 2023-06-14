@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 63608
+revid: 65119
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -64,3 +64,4 @@ Grand Javelin
 -   Using Tacet means you can talk to them, but their name prompt is given as Legion Captain.
 -   Despite them being [Thundercall](Thundercall.md) users, they can drop [Gale Stones](Gale_Stone.md).
 -   Legion Snipers are now friendly to people with positive [Legion reputation](The_Hundred_Legions.md)
+-   Legion Snipers were the only Legion Member that used to be very hostile to players even if players had positive reputation with the Legion.
