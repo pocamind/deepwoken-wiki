@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 65203
+revid: 65220
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -445,7 +445,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 ### Obtainment
 
 -   Go to Layer 2 and Complete Alpha's quest
-    1.  Activate the Generator (You can skip the generator by just destroying the door frame with a move that destroys tiles)
+    1.  Activate the Generator (~You can skip the generator by just destroying the door frame with a move that destroys tiles.~ Patched.)
     2.  Talk to Alpha
     3.  Retrieve injured Epsi (Please choose option 2 when you talk to him; can be done in different runs. If the wrong option is chosen and Epsi perishes due to the parasites,he will always be outside of Firfire Caverns when you repeat floor 1,so you may choose the right option until the questline is completed.)
     4.  Talk to Alpha again

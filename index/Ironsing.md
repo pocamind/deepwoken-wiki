@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 65007
+revid: 65213
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -78,7 +78,7 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target. You can use other Mantras / M1 while this is active.
+ | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target. You cannot use other Mantras during its duration however you can M1 while this is active.
 
 Drift and Rush Shards do not increase the firing speed or projectile speed.
 

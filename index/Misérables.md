@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 64944
+revid: 65226
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -75,7 +75,7 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 
 "Ah. I pity you. You lack the perspective. I pity you, little one. Poor dull little mouse. Is it not the proper thing for me to take mercy on one as pathetic as you? It is."
 
-_**It is not possible to ask for both Power and Clarity in the same run.**_
+_**It is not possible to ask for both Power and Clarity in the same run. (Not true (?), I always do that)**_
 
 ## Trivia
 

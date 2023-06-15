@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 65170
+revid: 65219
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,12 +8,12 @@ categories: [Monsters, Bosses]
 
 # Dread Serpent
 
-“ The devouring of the Drakeheart had not lead to infinite wisdom, but an overwhelming sensation of dread. Countless memories of dark history, strife, tragedy, filled the head of the Steward. In his very place, he began to become a creature most grotesque. And thus, the first Dread Serpent was born, corrupted by the will of a thousand dead eras, a mind drowned with only histories of tragedy. The being was only a shallow imitation of the holy glory of the Edenkite, and fled to the Voidsea. ”
+“ SUMMON THE DANGER NOODLE! ”
 
-― Lumen's Folklore: Volume 'North'
+― Tank Fish
 
   
-_Also referred to as Ardour or Sea Serpent._
+_Also referred to as Ardour, Sea Serpent, Kaido, or the Danger Noodle._
 
 Template:Creature Infobox V3
 

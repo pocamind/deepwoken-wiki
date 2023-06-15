@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 64982
+revid: 65223
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -38,7 +38,7 @@ Dark Blade
 
  | Slicing blades of dark energy. | 20 Ether | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
 
--   Adding 1 Tornado Spark adds a spinning effect after the cuts.
+-   Adding 1 Tornado Spark adds an additional spinning slash at the end of the initial slashes.
 
  |
 | 
@@ -51,9 +51,8 @@ Shadow Gun
  | An awful blast of dark energy. | 20 Ether | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
 
 -   Adding 1 Blast Spark will make your Shadow Gun a barrage.
--   Adding Lenses will increase the range forward
--   Adding Cloudstones and Stratus Stones increase the hitbox from left to right up to down.
--   For anyone confused, Lenses make it go farther forward and cloudstones and stratus stones make it increases the thickness of the range from left and right. add both to make a huge shadow barrage.
+-   Adding Lenses will increase the range of the blast forward
+-   Adding Cloudstones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
 
  |
@@ -64,7 +63,12 @@ Shadow Gun
 Clutching Shadow  
 (☆☆☆)
 
- | A shadowy hand. | 50 Ether | Chokes enemies in a radius, and slams them down. Targeted enemies are marked with a red glow, and when landed the mantra replenish ether equal to the cost. Blockable. |
+ | A shadowy hand. | 50 Ether | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down, dealing a decent amount of damage and refilling about the same amount of ether as the spell cost. the caster and target (?) have iframes during the choke animation. Blockable, multihits and deals little to no posture damage
+
+-   Can be modified with lenses to increase range
+-   Notoriously buggy when used against humanoid npcs, often hitting them and showing the slam effects, but dealing no (?) damage or hstun
+
+ |
 | 
 
  | 
@@ -72,7 +76,12 @@ Clutching Shadow
 Shadow Chains  
 (★☆☆)
 
- | Chains of shadow. | 15 Ether | The user makes a swipe with their right hand before conjuring a portal which launches chains towards the cursor's position. The mantra drains the targets Ether and slows them for ~3 seconds. It fills the user's Ether simultaneously. |
+ | Chains of shadow. | 15 Ether | The user swipes with their right hand before conjuring multiple portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
+
+-   Duration of the chain effect can be increased with Logstones
+-   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
+
+ |
 | 
 
  | 
@@ -112,7 +121,8 @@ Encircle
 
  | Conjure shadows around your enemy before warp-striking to them. | 150 Ether | The user will summon shadows around their target and teleport to them after a short wait.
 
--   Attacks done before teleporting will continue after the teleport. This can be combo'ed with an aerial attack just before the teleport.
+-   Attacks done before teleporting will continue after the teleport. for instance, a mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or mantras, such as Eclipse Kick
+-   will not teleport the user if blocked (?) or parried
 
  |
 | 
@@ -187,7 +197,7 @@ Eclipse Kick
 -   Can also break certain tiles and fell trees.
 -   Auto grips you if you are low.
 -   Shares cooldown with Strong Left (Attunement-less)
--   If a [Multiplying Spark](Mantra_Modifiers.md) is added do more of an upper kick that dramatically decreases the striking power and windup upon casting, as well as applying daze; Hotkey can be pressed again to preform normal Eclipse Kick
+-   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the mantra again shortly after will cast the default eclipse kick with hyper-armor. if whiffed, you will have to wait for the full duration of the cooldown to cast again.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 65210
+revid: 65212
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, NPCs, Quests]
@@ -19,7 +19,7 @@ Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) 
 
 ## Dialogue
 
-Nanji: play catch with me bish
+Nanji: (placeholder for now until someone actually finds the dialogue.
 
 ## Sidequest
 
@@ -27,7 +27,7 @@ File:Image 2022-04-18 224253146.png
 
 An Etrean interacting with the sword
 
-Completing her sidequest will reward you with EXP and positive Etris reputation.
+Completing her sidequest will reward you with EXP, positive Etris reputation, and Compassion.
 
 1.  Go to the [Isle of Vigils](Isle_of_Vigils.md).
 2.  Find the Well Preserved Grave near the attunement training gear shop.

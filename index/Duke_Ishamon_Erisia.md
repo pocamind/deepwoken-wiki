@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 63870
+revid: 65214
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -56,7 +56,7 @@ Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata**
 **This move will insta-grip if it hits you while knocked or at low health**
 
  | ✗ | ◯ | ◯ | (★★★) |
-| **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down.
+| **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
 
 \- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
 
@@ -71,6 +71,7 @@ After this attack he will use his fists for around 30 seconds.
 | **Summon Mindless Servants** | The Duke snaps his fingers, summoning 2-3 mindless servants from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers
+-   If fought solo, they may deem threat as they will combo you while fighting duke if not killed fast enough.
 
  | N/A | N/A | ◯ | (★☆☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away.
