@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 64912
+revid: 65206
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -25,3 +25,5 @@ It seems as if the Guards at [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) w
 -   [Ministry Scouts](Ministry_Scout.md) were once affected by Mute.
 -   [Brainsuckers](Brainsucker.md) encountered in Lord Erisia's Manor are not affected by Mute.
 -   Mute does not apply to any monsters or humanoids encountered in [Layer 2](Second_Layer.md).
+-   [Immortal Guardians](Immortal_Guardian.md) are affected by Mute.
+-   Termite used to be a Regalia, but then became a normal talent. You would obtain it by wiping with the talent "Iron Gut".

@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 61245
+revid: 65210
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, NPCs, Quests]
@@ -19,7 +19,7 @@ Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) 
 
 ## Dialogue
 
-(placeholder)
+Nanji: play catch with me bish
 
 ## Sidequest
 

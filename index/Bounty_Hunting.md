@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunting
-revid: 51927
+revid: 65200
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Luck, Mechanics]
@@ -13,6 +13,8 @@ categories: [Luck, Mechanics]
 ― Bounty Hunter guild
 
 A Bounty Board located in Etris.
+
+## Description
 
 -   Bounty Hunting in Deepwoken is the process of hunting someone with a low reputation in the faction, once they are dead the hunter gets a chest full of loot and EXP. You can choose which player to hunt on Bounty Board. It will tell their name, race and oath. If the player has no oath, it will appear as "Pathfinder".
 -   Stars correspond to just how low the reputation with a given faction is, with higher stars corresponding to lower rep. However, they can be used as a rule of thumb to determine power, as individuals who get particularly low reputation are often those who have been around and have gripped many players/npcs.
@@ -28,7 +30,7 @@ Examples:
 -   Gray Rethige - Pathfinder ★
 -   Aesop Truad - Pathfinder ★★
 -   River Hasteshi - Blindseer ★★★
--   Kaido Etudi - Oathless ★★★★
+-   Mae Vendet - Linkstrider ★★★★
 -   Dawn Zeneki - Scholar ★★★★★
 
 ## Tips and Advice

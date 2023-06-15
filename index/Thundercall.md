@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 64987
+revid: 65191
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -122,7 +122,7 @@ Lightning Impact
 
  | Slam those under you with a lightning empowered kick. | 80 Ether | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
 
--   Can be upgraded with the Rains of Static talent, which makes the user rain down bolts of thunder from the air with the follow-up impact.
+-   Can be upgraded with the Rain of Static talent, which makes the user rain down bolts of thunder from the air with the follow-up impact.
 -   Can light opponents and the player on fire.
 -   Applies knockup. (Floats victims hit by the move into the air in front of you for a brief duration or until you hit them once.
 -   Can destroy surfaces and light flammable terrain on fire like a patch of grass.

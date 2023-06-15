@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 65120
+revid: 65192
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -133,14 +133,14 @@ The Duke
 -   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions be met.
 -   User of Tempest Eye.
 
-### **Akira, The Black**
+### **Akira, The Black Diver**
 
 _"Another one...? You've got to be kidding me." - Akira_
 
 -   Akira is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
 -   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
-    -   The bell is believed to have some connection to Bell Giver, as they both have a similar head-popping power.
+    -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
     -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
     -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that you're too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
@@ -167,7 +167,7 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
     -   A 'chill guy.'
 -   Apparently he has disciples and apprentices, what he teach to his disciples is unkown, but probably he teaches them topics about the philosophy about the covenant of flame, the best use of flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unkown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
 
-### **Chaser, Scholar of the Blood God**
+### **Chaser, Scholar of the Burning Blood**
 
 _"Oh, a human? Far from home are we?" -Chaser._
 
@@ -255,9 +255,9 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
 The one and only... MEAT LORD!
 
-### **Warden Cheeto**
+### **Warden Jericho**
 
-_"I don't know if I will be able to continue my services with in the Authority without breaking my own vows" - Warden Cheeto._
+_"I don't know if I will be able to continue my services with in the Authority without breaking my own vows" - Warden Jericho._
 
 -   High ranking member of the Authority.
 -   In charge of overseeing the current war of the Authority and Etrea, and in charge of all the Authority operations in the Eastern/Etrean Luminant.
@@ -291,17 +291,17 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   ([Arch\_Mage](Wiki_Staff.md)) Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do what whatever they please to them, most likely to ensure they can keep their contract.
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
-### **The Dread Serpent**
+### **The Dreadstar**
 
 -   Located behind Minityrsa with in the lost ship in the Voidsea.
--   Its appearance is similar to the shrine of Bell Giver, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
+-   Its appearance is similar to the shrine of Yun'Shul, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
 -   It has the power to make oaths with the players that meet certain requirements and that shares a hate towards the song.
--   The oath in question makes the Dread Serpent to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
+-   The oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
 -   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the oath, but this is just a small contradiction in the game.
 -   Believed to be a "Void Sea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer)
--   This is possibly because the Dread Serpent is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
--   Apparently when you complete the Dread Serpent revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dread Serpent, making him more powerful technically, though this has been confirmed.
+-   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
+-   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
 
 ### **Alsin**
 
@@ -325,15 +325,15 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Possibly not canon.  
     
 
-### Bell Giver
+### **Yun'shul**
 
-_"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Bell Giver_
+_"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 
--   Bell Giver is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
--   The "being" within the Temple of Hearts in Scyphozia is not Bell Giver themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Bell Giver safely.
+-   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
+-   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
 -   They are not found within Layer One, their true body is likely far deeper.
--   Their title, Keeper of Resonances, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
--   (Arch\_Mage) We are legally obliged not to tell you whether Bell Giver or Demon Step Spammer would win in a fight.
+-   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
+-   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
 -   Shrines identical in appearance to the ones lining the corridor in the Temple of Hearts are scattered throughout the Eastern Luminant.
 -   They are not a former Ministry Prophet.
 
@@ -348,16 +348,16 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
 -   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure. In smaller words, he is reffered as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
--   A being known as the Scone Of Ethiron
+-   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer.
     -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.
     -   The Scion acts as a guardian of sorts.
     -   Probably its formed by a very small piece of Ethiron himself, due to being able to use some of the drowned god powers.
--   Coming closer to the body of Ethiron causes bell to be awoken.
-    -   This explains why Chaser has bell.
-        -   Chaser is also aware of this ability, of course because he used it to get bell.
+-   Coming closer to the body of Ethiron causes a time dilation.
+    -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
+        -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
 -   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   His physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
--   The current status of Ethiron: Asleep.(he is jeepy)
+-   The current status of Ethiron: Asleep.(he is eepy)
 
 ### **Korilfiend**
 
@@ -373,9 +373,9 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 ### **Drowned Gods**
 
-**Lore Sources:** _Lightborn King, Bell Giver, Klaris, Arch\_Mage (Discord), Ragoozer (Discord)_
+**Lore Sources:** _Lightborn King, Yun'Shul, Klaris, Arch\_Mage (Discord), Ragoozer (Discord)_
 
--   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Bell Giver](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   They are not fighters, so much as natural disasters waiting to happen.
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.

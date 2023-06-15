@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 60712
+revid: 65181
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -24,7 +24,7 @@ A Bandit Leader's arsenal consists of a starter weapon, them being a [Battleaxe]
 | --- | --- | --- | --- | --- |
 | Assault | Attacks the opponent repeatedly and flourishes them away with a kick. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon above their head before firmly slamming it down into the ground, breaking the victim's guard.
-\[[Messer](Messer.md)\] Performs a windup before thrusting the blade forward into the enemy's chest, breaking their guard.  
+\[[Messer](Messer.md) & Iron Sword\] Performs a windup before thrusting the blade forward into the enemy's chest, breaking their guard.  
 \[[Gilded Knife](Gilded_Knife.md)\] Winds up before unleashing a quick flurry of three slashes.
 
  | ◯ | ✗ | (★★☆) |
@@ -40,7 +40,7 @@ A Bandit Leader executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Battleaxe](Battleaxe.md), [Messer](Messer.md) & [Gilded Knife](Gilded_Knife.md)\] User pins down the opponent and slices their throat with their blade.
+| Execute | \[[Battleaxe](Battleaxe.md), [Messer](Messer.md), [Gilded Knife](Gilded_Knife.md) & Iron Sword\] User pins down the opponent and slices their throat with their blade.
 \[[Mace](Mace.md)\] User pins down opponent while raising their mace before firmly bashing the opponent's face in.
 
  |

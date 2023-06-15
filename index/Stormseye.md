@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 65133
+revid: 65195
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -41,3 +41,4 @@ The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It c
     -   The object in the middle of the gun has the same model as the [Deepshore Fossil](Deepshore_Fossil.md), furthering its connection to Layer 2.
 -   This weapon procs all static and electrified talents as well as all [Thundercall](Thundercall.md) status effects, including Static Blade and Stratoshock buffs. It does a gargantuan amount of damage with all of them procced.
 -   Landing an aerial attack with the rifle teleporting you behind the enemy is similar to the behavior of the Static Fakeout talent.
+-   [Funke](Funke,_Master_of_Thunder.md), the [Thundercall](Thundercall.md) trainer does not use this weapon. He uses the [Hero Blade of Lightning.](Hero_Blades.md)

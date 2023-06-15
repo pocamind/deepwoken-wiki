@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 59855
+revid: 65187
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -33,30 +33,31 @@ The prices of Chili's items may vary from price to price.
     -   Mushroom Omelette
 
 -   **Weapons:**
-    -   [Whaling Knife](Whaling_Knife.md)
+    -   [Canorian Axe](Canorian_Axe.md)
     -   [Champion's Dagger](<Champion's_Dagger.md>)
+    -   [Darksteel Greatsword](Darksteel_Greatsword.md)
+    -   [Great Maul](Great_Maul.md)
+    -   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>)
+    -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
+    -   [Iron Birch](Iron_Birch.md)
+    -   [Razor Cutlass](Razor_Cutlass.md)
     -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)
-    -   [Razor Cutlass](Razor_Cutlass.md)
-    -   [Iron Birch](Iron_Birch.md)
-    -   [Darksteel Greatsword](Darksteel_Greatsword.md)
-    -   [Inquisitor Straight Sword](<Inquisitor's_Greatsword.md>)
-    -   [Great Maul](Great_Maul.md)
-    -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
+    -   [Whaling Knife](Whaling_Knife.md)
 -   **Armors:**
     -   [Authority Helm](Authority_Helm.md)
-    -   [Khan Helmet](Legion_Helmet.md)
-    -   [Big Alchemist Hat](<Big_Alchemist's_Hat.md>)
-    -   Ruby Drop Earrings
+    -   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
+    -   [Brigand's Cloak](<Brigand's_Cloak.md>)
+    -   [Curseblood Pendant](Curseblood_Pendant.md)
     -   Dawn Scarf
-    -   Curseblood Pendant
-    -   Imperial Pauldrons
-    -   Khan Pauldrons
-    -   Flameguard Pauldrons
-    -   Winter Corps Parka
+    -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
-    -   Hive Siege Cuirass
-    -   Brigand's Cloak
+    -   [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
+    -   [Imperial Pauldrons](Imperial_Pauldrons.md)
+    -   [Khan Helmet](Legion_Helmet.md)
+    -   [Khan Pauldrons](Legion_Pauldrons.md)
+    -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
+    -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
 -   **Lore Books:**
     -   Refer this page instead: [Lore Books](Books.md)
