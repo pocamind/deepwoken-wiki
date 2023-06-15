@@ -1,10 +1,11 @@
 ---
 title: "Chests & Sacks"
-revid: 64009
+revid: 65235
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Mechanics]
+categories: [Candidates for deletion, In progress without reason, InProgressPages, Mechanics]
 notices:
+  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"who even uses this?\""
   - This page is currently being worked on. Some things may be incomplete.
 ---
 

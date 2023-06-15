@@ -1,6 +1,6 @@
 ---
 title: Songseeker Temple
-revid: 54966
+revid: 65234
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -15,6 +15,8 @@ There are those who seek to wield the Song as those of the Old World once did, a
   
 
 The interior of the temple
+
+  
 
 **Songseeker Temple** is a location in _Deepwoken_. It is a landmark found in the [Songseeker Wilds](Songseeker_Wilds.md).
 
