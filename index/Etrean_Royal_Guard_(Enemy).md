@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 64004
+revid: 65255
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies]
@@ -40,3 +40,4 @@ An Etrean Royal Guard executes it's opponent:
 ## Trivia
 
 -   A Palace Guard also shares the same exact weapon with a [Blade Temple Guard](Blade_Temple_Guard.md) on [Isle of Vigils](Isle_of_Vigils.md).
+-   It is often theorized that the minds of these are somehow altered, similarly to the Mindless Servants in Duke’s Manor. This is supported by the dialogue near Kennith’s body, in which the guard simply replies “You have an audience with the Lord Regent.” to anything the player says.
