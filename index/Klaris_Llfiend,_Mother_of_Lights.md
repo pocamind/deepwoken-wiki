@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 64730
+revid: 65363
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -30,6 +30,10 @@ Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chase
 She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers. She also appears rather arrogant, as she banished [Captain Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her.
 
 ## Dialogue
+
+_When talking to her while being bellow power 15:_
+
+"Ugh, I don't have time to train you Apprentices. **SCRAM!**"
 
 _After handing in all Diver Journals to her:_
 

@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 64938
+revid: 65373
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -67,4 +67,4 @@ Template:Creature Infobox V3 These Angels are like no other variants - they are 
 -   If you climbed up to escape Angels, they will not automatically despawn so **DO NOT JUMP DOWN TO THE SPOT WHERE YOU CLIMBED TO ESCAPE**
 -   Fire Blade and Rapid Punches can easily kill the Angel since these mantra stuns the enemy and you can use that stun time to hit the Angel.
 -   Probably a reference to the Angels from the TV show Castlevania: [https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg](https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg)
--   Angels will attack any Depths monsters like [Thresher](Thresher.md), [Lionfish](Lionfish.md), it unknown why they target these monsters. (Testing on what Angels target which monsters.)
+-   Angels will attack any Depths monsters like [Thresher](Thresher.md), [Lionfish](Lionfish.md), [King Gigamed](Gigamed.md) it unknown why they target these monsters. (Testing on what Angels target which monsters.)

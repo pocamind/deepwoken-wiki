@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 58522
+revid: 65370
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -65,9 +65,5 @@ A Legion Captain executes it's opponent after knocking them:
     -   [Champion's Sword](<Champion's_Sword.md>): Will only lose if the Authority Commander also has a sword.
     -   [Ritual Spear](Ritual_Spear.md): Loss.
 -   The Legion Captain, after killing the Authority Commander, instantly aggravates on the nearest enemy NPC, regardless if through a wall, **killing the NPC will most probably make the Captain despawn if it doesn't have anymore targets**, therefore, you will not be able to talk to them.
--   Along with the Javelin Captain, he's one of the strongest NPCs due to all of his mantras and being able to "spam" them.
--   Normally called "Legion Centurion" or just "Khan" by the playerbase.
--   Definitely one of the most Player-like NPCs.
 -   Your starter rep with the legion is actually "negative"/neutral, they use the negative rep text but won't attack you.
--   If you're looking to do the Legion Cosplay, they're optimal NPCs to help, they drop Khan Helmets, Pauldrons, Shields, Champion Swords, Legion Cestuses if they win the encounter.
 -   Almost has the same moveset as [Polis](Polis.md).

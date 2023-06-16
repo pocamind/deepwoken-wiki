@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 65178
+revid: 65369
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -51,6 +51,7 @@ A Blacksteel pirate executes the player after knocking them:
 -   The Darksteel Greatsword Blacksteel Pirates pose the biggest threat to rookie players; only engage if you know how to parry the critical.
 -   They essentially act as very much high risk reward types for lower level players who want to earn exp and items quickly.
 -   They may be more difficult than bandits as if you don't know how to parry you will get combo'ed.
+-   If you grip them close to the wooden tower; the other Blacksteel Pirates will be alerted, and if you are a low level, you will suffer severely. Instead, throw the Blacksteel Pirate's body into the ocean; they will drown and will not alert any other Blacksteel Pirates.
 
 ## Trivia
 
