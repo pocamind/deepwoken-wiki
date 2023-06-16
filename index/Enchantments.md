@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 65310
+revid: 65342
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -589,7 +589,7 @@ Static flaming purple.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
 -   **December 24rd, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
--   **January 16th, 2023** - These enemies and humanoid monsters now have a chance to spawn wielding enchanted weaponry.
+-   **January 16th, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry. (Only Immortal Guardians wield Enchanted Weapons now.)
 -   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 
 ## Trivia

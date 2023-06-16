@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65335
+revid: 65340
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2440,6 +2440,7 @@ _Main Page - [Frostdraw](Frostdraw.md)_
 -   Ice Blade \[1 Star Mantra\] - Summon an ice sword that you dual wield with your current weapon for a 4-hit slash combo.
 -   Ice Smash \[1 Star Mantra\] - Ready a mace made of ice, and smash it onto the ground in front of you.
 -   Ice Lance \[2 Star Mantra\] - Charge in front of you with an ice spear, dealing high damage. Much more range than frost grab.
+-   Ice Fissure \[3 Star Mantra\] - Summons a pillar of ice which emits waves that damage enemies every few seconds
 
 ### Frost Mobility
 
