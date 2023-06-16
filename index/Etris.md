@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 64273
+revid: 65256
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -109,7 +109,7 @@ The Etris blacksmith house.
 -   [Flame Worshipper Shield](<Worshipper's_Shield.md>) can be purchased for.
 -   Behind the shop, a schematic for [Flame Worshipper Armor](Flame_Worshipper_Armor.md) can be purchased for.
 
-#### The Lord Regent's Palace
+#### The Palace
 
 -   The Lord Regent can be found here.
 

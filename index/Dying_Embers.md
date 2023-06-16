@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 61979
+revid: 65279
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -21,11 +21,11 @@ categories: [World, Items]
 
 ## Description
 
-Dying Embers are used to get [Flamecharm](Flamecharm.md), one of the five attunements (elements) which is known for it's solo progression perks.
+Dying Embers are used to get [Flamecharm](Flamecharm.md), one of the six Attunements.
 
 ## Obtainment
 
-Dying embers drop from any NPC or player that uses the [Flamecharm](Flamecharm.md) attunement.
+Dying embers drop from any NPC that uses the [Flamecharm](Flamecharm.md) attunement.
 
 ### NPCs
 

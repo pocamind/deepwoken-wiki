@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 58008
+revid: 65277
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -12,7 +12,7 @@ categories: [Weapons, Greataxes]
 |---|---|
 | type | Heavy Greataxe |
 | requirements | 35 HVY |
-| damage | 23.5 |
+| damage | 24 |
 | scaling | 7 |
 | range | 8 |
 | swing speed | 0.62x |
@@ -46,7 +46,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Canorian Axe is a midgame Heavy Weapon, and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It has 23.5 Base Damage and a scaling of 7, it has lore connecting to the Authority as said Adretian Empire.
+The Canorian Axe is a midgame Heavy Weapon, and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It has 24 Base Damage and a scaling of 7, it has lore connecting to the Authority as said Adretian Empire.
 
 **Alloyed:**
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 65227
+revid: 65269
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -66,7 +66,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I sabotage others. **(Saboteur)**_
 -   _I am an artist. **(Artisan)**_
 -   _I seek the qualities of Elementalist. **(Elementalist) (Note; Cannot give Elemental Rebound)**_
--   I seek the qualities of All-Knowing **(All-Knowing)**
+-   _I seek the qualities of All-Knowing._ **(All-Knowing)**
 
 ### Willpower
 
