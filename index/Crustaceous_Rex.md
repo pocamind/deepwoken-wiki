@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 64508
+revid: 65312
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -69,3 +69,4 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
     -   The Enforcer in Hell Mode, losing its pull ability, can also be ran away from.
 -   The Bubble Beam move may be a reference to the Water-type move from Pokémon with the same name.
 -   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal with.
+-   You can block the crushing claw if you held F during the grab.

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 64366
+revid: 65315
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -165,8 +165,9 @@ categories: [Deepwoken]
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
--   A stretch, but **Darksteel Greatsword** may be inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from _Berserk_.
+-   A stretch, but **Darksteel Greatsword** may be inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from _[Berserk](https://berserk.fandom.com/wiki/Berserk_Wiki)_.
 -   **Stormseye** is inspired by [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
+-   The [Hero Swords](Hero_Blades.md) are inspired by the sword used by [Obsidian](https://steven-universe.fandom.com/wiki/Obsidian) in [Steven Universe](https://steven-universe.fandom.com/wiki/Steven_Universe_Wiki).
 
 ## Enchantments
 
