@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 60853
+revid: 65483
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -34,3 +34,4 @@ Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Se
 ## Trivia
 
 -   The _Petra's Anchor_ is a reference to May from _Guilty Gear_, as the critical is taken directly from her moveset.
+-   Your able to use mantras during the second part of your critical which cancels it its pretty goods for mix ups

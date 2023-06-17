@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 65369
+revid: 65484
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -58,3 +58,4 @@ A Blacksteel pirate executes the player after knocking them:
 -   Them originating from below the ocean and their usage of [Shadowcast](Shadowcast.md) imply a connection with [The Depths](The_Depths.md) or [The Ministry](The_Ministry.md).
 -   The Tower Event drops 2 chests. First, at the top of the tower and the second can only be obtained when tower sinks as it is blocked by blocks.
 -   They don't actually wear a [Blacksteel Helm](Blacksteel_Helm.md) or [Blacksteel Pauldrons](Blacksteel_Pauldrons.md), despite being able to drop them and sharing their namesake, "Blacksteel".
+-   If no one attacks the Wooden Tower, the Blacksteel Pirates will despawn, but the top of the tower will still spawn a chest and the Wooden Tower will sink.

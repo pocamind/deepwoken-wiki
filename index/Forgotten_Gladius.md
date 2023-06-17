@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 65146
+revid: 65482
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -28,7 +28,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md) and [Starswept Valley](The_Starswept_Valley.md). This weapon has a base damage of 18 and has no special effect or passives.
+The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Primadon,_Titan_of_the_East.md), [voidwalker](Origins.md) and [fishing](Fishing.md) chests. This weapon has a base damage of 18 and has no special effect or passives.
 
 ## Notes & Trivia
 
