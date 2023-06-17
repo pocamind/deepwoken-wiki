@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 65372
+revid: 65400
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -8,7 +8,7 @@ categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the City. ”
+“ Aha, the first strike? Not one to mince words are we? ”
 
 ― Chaser
 

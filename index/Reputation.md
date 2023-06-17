@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 63590
+revid: 65401
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -221,6 +221,9 @@ Crate Retrieval
 
 -   Attempting to reset your reputation with the [Fugitive](Boons_and_Flaws.md) flaw will not work. Paying to restore reputation only resets up to the default, low reputation.
 -   If your status drops to 'Villain', you will be unable to pay to reset your reputation.
+-   If your reputation is "Hunted" you will be ambushed by that faction depending on where you are.
+-   There are bounty hunters enemies that will hunt you also around Starswept Valley. (Yes there are bounty hunters enemies around Startswept Valley not sure how they can be triggered or what factions they come from)
+-   All non-[Voidwalkers](Origins.md) start with negative repuation towards the The Ministry, Knives of Eylis, and The Hundreds Legions.
 
 ## Trivia
 
@@ -231,4 +234,3 @@ Crate Retrieval
 -   There are some factions who for, various reasons, players can only get one kind of rep with.
     -   You cannot get good rep with [Celtor](The_City_of_the_Drowned.md), but can lose rep, essentially meaning once you are in the negative you will stay that way.
 -   Spitting on a guard causes them to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
--   The Ministry and the Knives of Eylis are the only Factions that all players start out with negative reputation on spawn.

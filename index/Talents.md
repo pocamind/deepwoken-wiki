@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65340
+revid: 65383
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -16,6 +16,8 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
     -   _(i.e "40 Agility" to find talents that you will have access to at 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find talents that are within Butterfly)_
+-   FIND A MYSTIC PHRASE FOR A TALENT: Below each category of talents, there is the respective speech that can be used to trigger some talents via [mystic](Mystic.md).
+    -   If the phrase is not appearing, it happens that the npc has a specific phrase for some talent (which can be found on their page) or that the card you want is rare, something that is not possible to influence with the help of [mystic](Mystic.md).
 
 Template:DWI Talents
 

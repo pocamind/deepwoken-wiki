@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 61239
+revid: 65405
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -37,6 +37,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 ## Trivia
 
 -   This island was previously cut from the game before initial release, but was since added back in the Verse 2 update.
+    -   It is well known for featuring prominently in the [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70).
 -   [Cestis](Cestis.md), who was previously located in [The Hidden Village](The_Hidden_Village.md) was moved here in the Verse 2 update.
 -   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is entirely a neutral location due to the equilibrium of Hivekin, Etreans and Navaens.
     -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.

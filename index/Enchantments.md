@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 65342
+revid: 65415
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -232,7 +232,8 @@ There are two variants that enchantments come in:
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
   <br>
-  Blood damage is increased.<br>
+  Weapon gains Blood Bar damage, additionally Blood damage scales based on weapon damage.</p>
+  <p><br>
   While above 10% HP, missing an M1 deal 1% of max HP as self damage.</p></div></td>
   <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
 </tr>
