@@ -1,6 +1,6 @@
 ---
 title: Armor
-revid: 65453
+revid: 65454
 source: https://deepwoken.fandom.com/wiki/Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,6 +9,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Equipment](Equipment.md)
+-   Armor (disambiguation)
 
 \]\]

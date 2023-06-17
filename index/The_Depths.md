@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 65207
+revid: 65477
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -51,6 +51,8 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 -   Many whirlpools within the vicinity of [Boatman's Watch](<Boatman's_Watch.md>).
 
 (There are many more than what is noted here)
+
+(Whirlpools can also just spawn in on the edges of highways (rarely))
 
 ## Layers
 
