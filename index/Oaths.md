@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 65355
+revid: 65448
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -559,7 +559,7 @@ The oath changes the eye color of oath takers to white and creates Moon's Eye sy
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
 3.  Complete the Duke questline, while making sure to select the second dialogue option, "What are you doing with the Forge?" when talking to Duke in the dungeon.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
-5.  Go make a **deal** with [Deep Shrines](Deep_Shrines.md). The total cost of the deep shrine deals should be 20 knowledge (needs testing, I was able to do Division, Chance and Temptation and got contractor)
+5.  Go make a deal with the following [Deep Shrines](Deep_Shrines.md): Temptation, Blasphemy, Mastery, Chance. This will cost you 20 Knowledge in total.
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialogue doesn't require/use a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you won't be locked out of obtaining Contractor, but he will kill you if you pick the other dialogue. You are allowed to go back to him to click the option that says you want to join him.
@@ -763,6 +763,6 @@ Proof of Time Magic's existance and it being an "Oath".
     -   It's also said that they had commented that it was canonically the strongest, though the veracity of this statement and it's meaning are unclear.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
 -   The Dawnwalker talents used to each give 5 extra health.
--   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, suffocate, piercing will, cheap shot etc. ,which is questionable that Blindseer was better than Silentheart for doing better m1-damage in combat when it's activated.However,during May 16th 2023's patch note,it was found out as bug,so Tranquil Circle is no longer able to activate status-related talents.
+-   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, suffocate, piercing will, cheap shot etc. ,which is questionable that Blindseer was better than Silentheart for doing better m1-damage in combat when it's activated. However ,during May 16th 2023's patch note, it was found out as bug,so Tranquil Circle is no longer able to activate status-related talents.
 -   Arcwarder armor is similar to Bulats "Incursio" From Akame Ga Kill!
--   Arcwarder's oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Programme.
+-   Arcwarder's oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.

@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 65363
+revid: 65421
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -31,7 +31,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 
 ## Dialogue
 
-_When talking to her while being bellow power 15:_
+_When talking to her while being below power 15:_
 
 "Ugh, I don't have time to train you Apprentices. **SCRAM!**"
 

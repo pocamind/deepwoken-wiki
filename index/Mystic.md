@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 65334
+revid: 65438
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
