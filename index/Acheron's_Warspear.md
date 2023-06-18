@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 57582
+revid: 65499
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -28,10 +28,10 @@ categories: [Weapons, Spears]
 
 ## Description
 
-Acheron's Warspear is a [Medium Weapon](Weapons.md) that can be obtained by defeating a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md) and it's fairly common inside [Layer 2](Second_Layer.md) chests. Despite subpar stats, it deals bleed damage, which means that the spear does more than what's shown.
+**Acheron's Warspear** is a [Medium Weapon](Weapons.md) that can be obtained by defeating a [Corrupted King Thresher](Thresher.md) in [The Depths](The_Depths.md) and is found fairly commonly inside [Layer 2](Second_Layer.md) chests. Despite subpar stats, it deals bleed damage, which means that the spear does more than what's shown.
 
 ## Trivia
 
--   Basically a downgraded Kyrsglaive, Still a very good weapon if your build cant reach 90 med to use the Kyrsglaive.
+-   Basically a downgraded Kyrsglaive, still a very good weapon if your build cant reach 90 Med. to use the Kyrsglaive.
 -   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph’s Spear.
 -   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md).

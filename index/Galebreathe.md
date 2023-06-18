@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 64978
+revid: 65511
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -281,7 +281,7 @@ _A rapid delivery of consecutive attacks._
   <td><center><p><i>A rush of wind</i></p></center></td>
   <td>The user instantly teleports to the position that they are facing, leaving much wind after cuts in the position they left.
   <ul>
-    <li>Can be modified with glass and perfect lens to increase the distance.</li>
+    <li>Can be modified with crystal and perfect lenses to increase the distance.</li>
     <li>Uses the shadow assault sound.</li>
     <li>It's also compatible with logstones, but the effect is unknown. (Needs to be tested)</li>
   </ul></td>
