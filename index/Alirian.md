@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 61165
+revid: 65498
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -24,4 +24,4 @@ Upon reaching 50 [Agility](Attributes.md#agl), Alirian will challenge the player
 
 ## Trivia
 
--   (please add trivia here)
+-   If you beat her in a race while already possessing an oath, she will only say huff
