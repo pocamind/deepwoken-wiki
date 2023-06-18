@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 60446
+revid: 65527
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Serena is a lynx [Felinor](Felinor.md) who wears the unobtainable Veteran Adventurer [Outfit](Outfits.md) and can randomly spawn around [Starswept Valley](The_Starswept_Valley.md). When talked to, she asks for water. If you have a canteen with water, you can give her a sip, from here, two things can happen:
+Serena is a lynx [Felinor](Felinor.md) who wears the unobtainable Veteran Adventurer [Outfit](Outfits.md) and can randomly spawn around [Starswept Valley](The_Starswept_Valley.md). When talked to, she asks for water. If you have a canteen with water, you can give her a sip. From here, two things can happen:
 
 -   She thanks the player and rewards them with a chest.
 -   She attacks the player.
@@ -59,4 +59,4 @@ Serena executes her opponent after knocking them:
 
 -   One of [two enemies](Authority_Captain.md) that utilizes the unobtainable "Glacial Shower" mantra.
 -   One of [four](Eastern_Nomad_Leader.md) [enem](Songseeker_Frostdrawer.md)[ies](Teacher.md) that utilizes the old "Ice Eruption" mantra.
--   She is basically the [Authority Captain](Authority_Captain.md), but she has half the HP of it.
+-   She is basically the [Authority Captain](Authority_Captain.md), but she has half the HP of them.
