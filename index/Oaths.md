@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 65476
+revid: 65487
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -445,7 +445,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 ### Obtainment
 
 -   Go to Layer 2 and Complete Alpha's quest
-    1.  Activate the Generator (~You can skip the generator by just destroying the door frame with a move that destroys tiles.~ Patched.)
+    1.  Activate the Generator
     2.  Talk to Alpha
     3.  Retrieve injured Epsi (Please choose option 2 when you talk to him; can be done in different runs. If the wrong option is chosen and Epsi perishes due to the parasites,he will always be outside of Firfire Caverns when you repeat floor 1,so you may choose the right option until the questline is completed.)
     4.  Talk to Alpha again
@@ -457,6 +457,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ### Known Abilities
 
 -   **Arc Suit - Support Mantra**
+    -   Comes with the oath.
     -   Encases the user in a durable armor for 15 seconds. Can be modified with Logstones to increase duration, the suit starts with no damage reduction can be modifed with vibrant gems.
         -   Cooldown scales with the duration of the suit.
     -   For the suit to last a full minute, use 3 Aeon Longstones and 3 Eternal Longstones.
@@ -464,24 +465,28 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   The suit has iframes on the second half of its windup.
     -   The arc suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a equipment dye. “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
 
--   **Arc Beam - Combat Mantra**
-    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
-
--   **Arc Wave - Combat Mantra**
-    -   Release a wave of energy around you, dealing fire and lightning damage.
-
--   **Arc Module: Leap - Passive**
-    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required)
-
--   **Arc Module: Guard - Passive**
-    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind.
+-   **Arc Module: Dash - Passive**
+    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther.
+    -   Comes with Arc Suit.
 
 -   **Arc Module: Eject - Passive**
     -   When blockbroken with Arc Suit active, eject from the armor.
     -   Immediatly end Arc Suit but prevent the guardbreak and reset your posture.
 
--   **Arc Module: Dash - Passive**
-    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther.
+-   **Arc Module: Guard - Passive**
+    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind.
+
+-   **Arc Wave - Combat Mantra**
+    -   Release a wave of energy around you, dealing fire and lightning damage.
+    -   Unlocks at the same time as Guard.
+
+  
+
+-   **Arc Beam - Combat Mantra**
+    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself
+
+-   **Arc Module: Leap - Passive**
+    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required)
 
 -   **Arc Module: Null - Passive**
     -   When your Arc Suit is active, outgoing and incoming enchant effects are nullified. (+10 Health)
@@ -505,7 +510,12 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slot.
 ### Obtainment
 
 1.  Speak to Klaris Llfiend, Mother of the Lights in Castle Light, and ask to learn the secret of 'radiant magic'. Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md). This gives you the base oath along with Blinding Dawn.
-2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 60 Medallions in total from base to max. 15 Medallions for Radiant Kick and another 15 Medallions for both talents and Radiant Dawn.
+2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:
+
+-   Blinding Dawn upon oath vow
+-   Radiant Kick
+-   Protagonist Syndrome and Radiant Dawn
+-   Absolute Radiance
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
 

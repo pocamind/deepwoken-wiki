@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 63305
+revid: 65489
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -35,6 +35,7 @@ Once the conditions are met, The Depths (current server) will take on a hellish 
     -   King Thresher's burrowing attack is disabled.
 -   [Megalodaunts](Megalodaunt.md) will always spawn as their Alpha version.
     -   Alpha vs. 2 Divers event is able to spawn as well.
+
 -   [King Gigamed](Gigamed.md) is removed from the spawn pool.
 
 These conditions (beside the 10x spawn rate) affects everybody currently in the server, not just the people who interacted with the bell.
@@ -49,7 +50,7 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original 5 players who activated the event all died.
 
-Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the players who activated the event and cannot be interacted with by other players.
+Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell (It will also sometimes spawn for players that didnt ring the bell). These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the players who activated the event and cannot be interacted with by other players.
 
 ## Tips
 
@@ -68,6 +69,8 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 -   **Squibbo has the same health as a Megalodaunt.** A 100 HVY user with 0 proficency can still 3 tap squibbo (2 crits, a m1) if no attacks are parried. Sacred Field can act as a safety net if you start panicking and throwing your parries, or you and some friends can just gank him.
 -   Detonation Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit that procs deto multiple times.
+-   If you are low on health try to kill a weaker monster, such as a [Lionfish](Lionfish.md), [Thresher](Thresher.md), or a [Megalodaunt](Megalodaunt.md).
+-   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack, or getting to a safe place to calm down. Killing them in a group however, is very easy even at power 10, so they shouldnt be an issue with multiple people.
 
 ## Trivia
 
