@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 64375
+revid: 65541
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -18,7 +18,7 @@ categories: [Weapons, Swords]
 | swing speed | 0.73x |
 | penetration | 5 |
 | special effect | Has a unique critical attack consisting of three one-handed heavy slashes, each coming out a little less than a second from the last. Propels the user forward with every slash, making it difficult to land all three slashes. |
-| selling price | ??? |
+| selling price | 25 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
