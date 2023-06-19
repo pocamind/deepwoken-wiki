@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 65405
+revid: 65597
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -25,9 +25,9 @@ Remnants of the stars themselves rain down upon this rocky spire.
 -   Ata, the Celtor - Mantra Spark Vendor
 -   Sekh, Vesperian Hivekin - Meteor Isle Lore
 -   Eres, Etrean Outcast - Etrea Lore
--   Beiruul, the Gremor - Quest Giver
--   Cestis, the Ganymede - Tacet obtainment
--   The Guy - Summer isle cannon quest
+-   [Beiruul](Beiruul.md), the Gremor - Quest Giver
+-   [Cestis](Cestis.md), the Ganymede - Tacet obtainment
+-   [The Guy](The_Guy.md) - Summer isle cannon quest
 
 ## Events
 

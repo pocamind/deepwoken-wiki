@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 65487
+revid: 65591
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -102,6 +102,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
     -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely. The oath mantra resistance and +10 HP comes in handy too.
 -   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   Doesn't give the Oathsworn badge, if that's a concern.
+-   Can use Shrine of Order with this "Oath" on your Character.
 -   Used to be obtainable through getting it in a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first oath.
     
 

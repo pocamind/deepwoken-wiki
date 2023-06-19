@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 65580
+revid: 65592
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -84,4 +84,3 @@ This will auto-grip you if hit by it at low health.
 -   The Cero is Galebreathe based.
 -   If you use a sea highway, even a dinghy can outrun them.
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.
--   The Divers often loses against a Lionfish 100% of the time.

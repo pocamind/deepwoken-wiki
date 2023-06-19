@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 65587
+revid: 65588
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -36,7 +36,7 @@ Certain aspects of the game, such as certain NPCs dialogues or certain quests, r
 | Neutral | 0 | N/A |
 | Enemy | ⁣-149 to 0 | NPCs tied to the relevant faction will attack on sight, including town guards.  
 The player will appear on bounty boards (starting from power 5).  
-The Player loses the ability to talk to certain faction tied NPCs, primarly Blacksmiths and Antiquarians. |
+The Player loses the ability to talk to certain faction tied NPCs, primarily Blacksmiths and Antiquarians. |
 | Hunted | ⁣-299 to -150 | Player can be attacked by randomly spawning NPC Ambushes. |
 | Vilain | ⁣-300 | Player cannot pay the Bribe NPCs to reset their reputation. |
 
@@ -63,7 +63,7 @@ The player can gain reputation with a faction by:
 The player can lose reputation with a faction by:
 
 -   Committing crimes within a faction controlled area, such as towns
-    -   Crimes include Assault, Assassinations and Killing Town Guards or Players
+    -   Crimes include Assault, Assassinations and killing Town Guards or Players
 
 ## Bribe
 

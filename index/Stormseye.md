@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 65392
+revid: 65589
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -42,7 +42,7 @@ The user shoots a bullet, teleporting around the target while shooting in the mi
 ## Trivia
 
 -   Elaborated on in its description, the Stormseye is the combination of the technology of guns and the energy of [Kyrsan Medallions](Kyrsan_Medallions.md) stolen from the Ignition Union, channeled using Thundercall.
-    -   The object in the middle of the gun has the same model as the [Deepshore Fossil](Deepshore_Fossil.md), furthering its connection to Layer 2.
+    -   The object in the middle of the gun has a [Kyrsan Medallion](Kyrsan_Medallions.md), furthering its connection to Layer 2.
 -   This weapon procs all static and electrified talents as well as all [Thundercall](Thundercall.md) status effects, including Static Blade and Stratoshock buffs. It does a gargantuan amount of damage with all of them procced.
 -   Doing a max base damage of 36.1, and 1.5x stun with authority interrogator's talents. This, along with resolve crusher makes for **DEADLY** damage
 -   Landing an aerial attack with the rifle teleporting you behind the enemy is similar to the behavior of the Static Fakeout talent.

@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 53233
+revid: 65596
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -12,11 +12,6 @@ categories: [Weapons, Shields]
 |---|---|
 | type | Shield |
 | requirements | 45 Fortitude |
-| damage | N/A |
-| scaling | N/A |
-| range | N/A |
-| swing speed | N/A |
-| penetration | N/A |
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
 | selling price | 45 notes |
