@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 64281
+revid: 65602
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Voidzones]
@@ -88,7 +88,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
     -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
     -   Tacet and/or the Mute Regalia are extremely useful for assassination.
 -   The Crypt of the Unbroken may be the resting place of [Sudaruska](Gran_Sudaruska.md), as her epithet was "the Unbroken," not to mention the fact that Gran Sudaruska can drop in the Crypt.
--   Inmortal Guardians in the upper floor dont give chests when they are gripped
+-   Inmortal Guardians in the upper floor don’t give chests when they are gripped.
 
 File:Animal King slot getting knocked by immortal guardian and called inferior..png
 

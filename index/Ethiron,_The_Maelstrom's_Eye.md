@@ -1,6 +1,6 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 62719
+revid: 65600
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]

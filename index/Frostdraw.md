@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 64979
+revid: 65605
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -778,7 +778,7 @@ Frozone
 
 -   Requires the "Ice Skates" mantra.
 
-(Rare Talent, image outdated)
+(Rare Talent)
 
  | 
 
