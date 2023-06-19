@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 64707
+revid: 65624
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -51,7 +51,7 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. | 1 |
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
--   Gremor's who are blind see better then others, being blessed by Navae.
+-   Gremor's who are blind see better than others, being blessed by Navae.
 
 Gained from obtaining the Blindseer Oath.
 

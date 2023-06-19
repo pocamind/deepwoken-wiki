@@ -1,9 +1,11 @@
 ---
 title: Horseshoe Crab
-revid: 63684
+revid: 65617
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Cut Content]
+categories: [Cut Content, Monsters]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Horseshoe Crab

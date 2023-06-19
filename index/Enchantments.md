@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 65494
+revid: 65636
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -513,7 +513,7 @@ N/A
 
  | 
 
-**February 13, 2023**  
+**February 13th, 2023**  
 Enchanted Light's Final Tolls were removed.
 
  | 
@@ -528,7 +528,7 @@ Face, Ears, Back accessories Enchants
 
  | 
 
-**February 18, 2022**  
+**February 18th, 2022**  
 Enchanted face, ears, back accessories were removed from the loot pool.
 
  | 
@@ -543,8 +543,12 @@ Curse of the Umbral Knight
 
  | 
 
-Removed on (DATE), On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage **Supposedly** The curse would make the weapon absorb you if you didnt grip someone once every real life day.  
-**Unobtainable**
+**January 4th, 2022**  
+On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage Supposedly the curse would make the weapon absorb you if you didnt grip someone once every real life day.
+
+ | 
+
+Dark clone with red fog surrounding it spawned in a barely visible red circle.
 
  |
 | 
@@ -554,8 +558,12 @@ Removed on (DATE), On proc: Summon the Umbral Knight to slash your enemy from be
 
  | 
 
-Removed on (DATE), On hit: Would steal thirst, essentially a worse version of Gluttony  
-**Unobtainable**
+**August 2nd, 2022**  
+On hit: Would steal thirst, essentially a worse version of Gluttony
+
+ | 
+
+Yellow fog.
 
  |
 | 

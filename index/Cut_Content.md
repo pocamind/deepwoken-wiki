@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 64406
+revid: 65630
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -19,6 +19,10 @@ notices:
 -   **Unknown Mountainous Region (The Seranece Mountains?) -** Naktigonis mentioned the presence of a large mountainous region that was eventually reduced for the final game.
 -   **Etrean Waters -** An area that was present in the very beta of Deepwoken. Most likely an early version of the Etrean Sea, as it had a very similar description and was in the same general area, surrounding the island of Etris.
 -   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md) and [Rat’s Den](<Rat's_Den.md>) could be found here.
+-   **Erebus -** An island containing Duke Erisia's manor, a huge maze and a large stone skull. Reworked into [the Hidden Village](The_Hidden_Village.md).
+    
+    Erebus
+    
 
 ## Quests
 

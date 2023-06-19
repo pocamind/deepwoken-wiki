@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 65597
+revid: 65626
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -22,12 +22,13 @@ Remnants of the stars themselves rain down upon this rocky spire.
 
 ## Points of Interest
 
--   Ata, the Celtor - Mantra Spark Vendor
--   Sekh, Vesperian Hivekin - Meteor Isle Lore
--   Eres, Etrean Outcast - Etrea Lore
+-   [Ata](Ata.md), the Celtor - Mantra Spark Vendor
 -   [Beiruul](Beiruul.md), the Gremor - Quest Giver
 -   [Cestis](Cestis.md), the Ganymede - Tacet obtainment
+-   Eres, Etrean Outcast - Etrea Lore
+-   Exter, Gremor
 -   [The Guy](The_Guy.md) - Summer isle cannon quest
+-   Sekh, Vesperian Hivekin - Meteor Isle Lore
 
 ## Events
 
@@ -38,6 +39,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 
 -   This island was previously cut from the game before initial release, but was since added back in the Verse 2 update.
     -   It is well known for featuring prominently in the [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70).
+        -   This is referenced by Exter, who notes how familiar the area where the direct took place is.
 -   [Cestis](Cestis.md), who was previously located in [The Hidden Village](The_Hidden_Village.md) was moved here in the Verse 2 update.
 -   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is entirely a neutral location due to the equilibrium of Hivekin, Etreans and Navaens.
     -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.

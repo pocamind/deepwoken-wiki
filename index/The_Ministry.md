@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 60816
+revid: 65637
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -34,6 +34,8 @@ Everyone starts with negative reputation towards them, even if you have the [Adr
 To gain reputation, you need to do the Bounty quest (PARTY TRICK) with Emel/Imel or you can assist them in [The Summer Company](The_Summer_Company.md) vs The Ministry event that occur at [Summer Isle](Summer_Isle.md).
 
 Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputation as well, but it also obviously results in you being wiped.
+
+Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you some reputation.
 
 ## NPCs
 

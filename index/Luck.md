@@ -1,9 +1,11 @@
 ---
 title: Luck
-revid: 65236
+revid: 65612
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Luck, Mechanics, Cut Content]
+categories: [Cut Content, Luck, Mechanics]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Luck
@@ -41,7 +43,7 @@ Gripping a player stole their luck (Luck/2), if:
 
 #### Bounties
 
-Bounty Boards will have posters of various players that are seen as criminals in their towns and you'll be able to take up these bounties as jobs. Succesful bounties reward luck.
+Bounty Boards will have posters of various players that are seen as criminals in their towns and you'll be able to take up these bounties as jobs. Successful bounties reward luck.
 
 -   Killing the Voidwalker that's hunting you rewards you with a chest and EXP scaled off of the Voidwalker's level.
     -   You must be the Voidwalker's target to be the one who receives the reward
