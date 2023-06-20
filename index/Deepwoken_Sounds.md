@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 64789
+revid: 65753
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -42,7 +42,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 10 | To Fight, Sanguine | 2:26 | Default Combat Music | File:To Fight, Sanguine.mp3 |
 | 11 | To Shores, Distant | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Aratel](The_Aratel_Sea.md) & [Etrean Sea](The_Etrean_Sea.md) | File:Aratel Sea - Deepwoken OST.mp3 |
 | 12 | The Trappings Of A Lord | 2:30 | [Erisia](Erisia.md) | File:Erisia - Deepwoken OST.mp3 |
-| 13 | Of Labours, Veiled | 2:20 | [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Lord Erisia's Manor - Deepwoken OST.mp3 |
+| 13 | Of Labours, Veiled | 2:20 | [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) | File:Lord Erisia's Manor - Deepwoken OST.mp3 |
 | 14 | The Sun, Gleaming | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
 | 15 | Thrill Of The Hunt | 2:08 | [Songseeker Wilds](Songseeker_Wilds.md) (Combat) | File:Songseeker Wilds (Combat) - Deepwoken OST.mp3 |
 | 16 | Of Smoke And Steel | 2:16 | [Summer Isle](Summer_Isle.md) | File:Summer Isle - Deepwoken OST.mp3 |

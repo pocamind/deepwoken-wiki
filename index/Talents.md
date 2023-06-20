@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65727
+revid: 65730
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -899,7 +899,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
--   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (+2 Passive Agility, +1 Elemental Intensity)
+-   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
     -   Prerequisites: 65 Frostdraw
 
 ### Frozen Warrior
@@ -1550,6 +1550,8 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: Corpse Explosion, 50 Flamecharm & 70 Shadowcast
 
 ### Pyroclast
+
+> _\-I seek the qualities of Pyroclast._
 
 -   _**Volcanic Glass**_ \[Advanced Talent, Flamecharm & Frostdraw Exclusive\] - Detonating crystals causes an eruption soon after. (+5 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, Glass Path: Crystallization

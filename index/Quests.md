@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 65496
+revid: 65840
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -180,7 +180,15 @@ These quests usually give XP, Reputation and/or an item.
 
 **Guide**: Talk to an NPC in Etris / Vigils to get a short introduction to the game.
 
-**Reward/s**: Campfire & Repair Kit recipe.
+**Reward/s**: Campfire & Repair Kit recipe, EXP.
+
+**Ilji and Nanji:**
+
+**Quest Location**: Etris and Vigils
+
+**Guide**: Talk to an NPC Etris near the bridge between Lance Leshi's and the barber, interact with a sword reached through a zipline near the mantra training item shop in Vigils, then talk to the Etris NPC.
+
+**Reward/s**: EXP, Compassion.
 
 **Just a Librarian:**
 
@@ -198,13 +206,53 @@ These quests usually give XP, Reputation and/or an item.
 
 **Reward/s**: EXP
 
+**Zana:**
+
+**Quest Location**: Isle of Vigils
+
+**Guide**: Talk to a Vesperian on the Isle of Vigils docks with a weapon with a sheath (katanas?). Fight them and win at various locations.
+
+**Reward/s**: Poser’s Ring
+
+**Ghost Ship:**
+
+**Quest Location**: Isle of Vigils
+
+**Guide**: Talk to Suyuan in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost on the ship and return to Suyuan. Tied to Silentheart oath, but can be done without an oath or with another oath.
+
+**Reward/s**: EXP, Curiosity
+
+**Lars:**
+
+**Quest Location**: Viper's Jaw (Lower, Legion Camp)
+
+**Guide**: Talk to one of the legionaries, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
+
+**Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
+
 **Field Report:**
 
 **Quest Location**: Minityrsa
 
 **Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in Outpust Penumbra. Return to him after finding it. **Reward/s**: 3 Aces, EXP
 
-(Note: you can actually soflock this quest by donating this book to librarian in guild base)
+(Note: you can actually softlock this quest by donating this book to librarian in guild base)
+
+**The Guy:**
+
+**Quest Location**: Between Meteor Isle and Bluster Rift
+
+**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 5 spider eggs.
+
+**Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
+
+**War Crimes, probably:**
+
+**Quest Location**: Meteor Isle
+
+**Guide**: Talk to [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md), then go to Fort Merit. Event occurs near the lift. Kill some Authority Peacekeepers then return to Meteor Isle.
+
+**Reward/s**: EXP, 2 [Knowledge](Knowledge.md)
 
 **Kiley's Promise:**
 
@@ -222,37 +270,13 @@ These quests usually give XP, Reputation and/or an item.
 
 **Reward/s**: Upgrade Attunementless mantras at Regek.
 
-**The Guy:**
+**Telescope:**
 
-**Quest Location**: Near Meteor Isle
+**Quest Location**: Greathive Aratel
 
-**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 5 spider eggs.
+**Guide**: Adjust a telescope to look at the stars.
 
-**Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
-
-**Lars:**
-
-**Quest Location**: Viper's Jaw (Lower, Legion Camp)
-
-**Guide**: Talk to one of the legionaries, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
-
-**Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
-
-**Zana:**
-
-**Quest Location**: Isle of Vigils
-
-**Guide**: Talk to a Vesperian on the Isle of Vigils docks with a weapon with a sheath (katanas?). Fight them and win at various locations.
-
-**Reward/s**: Poser’s Ring
-
-**Ghost Ship:**
-
-**Quest Location**: Isle of Vigils
-
-**Guide**: Talk to Suyuan in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost at the wheel of the ship and return to Suyuan. Tied to Silentheart oath, but can be done without an oath or with another oath.
-
-**Reward/s**: EXP, Curiosity
+**Reward/s**: EXP
 
 ## Repeatable Ordinary Quests
 
@@ -280,7 +304,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Guide**: Give the supply boxes that can be found all around Summer Isle to Scope at the storage room in Summer Isle.
 
-**Reward/s**: Chest
+**Reward/s**: Chest, Reputation
 
 **Fort Merit Rescue:**
 
@@ -288,7 +312,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Guide**: Save a hostage from Fort Merit and give them to the Etrean Guardmaster outside of the fort on a dinghy.
 
-**Reward/s**: Exclusive Hive Loot
+**Reward/s**: Exclusive Hive Loot, EXP
 
 **Homeless Villagers:**
 

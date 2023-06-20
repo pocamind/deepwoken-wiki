@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 64115
+revid: 65732
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -180,7 +180,7 @@ The Summer Company cannon
 ### _**The Cannon**_
 
 -   An enormous cannon lying on the cliffs on the Summer Isle. If a player has negative reputation, the Summer Company will aim the cannon at them, and fire. It fires a hit-scan projectile, that launches players far away, deals a large amount of damage. A horn will play before firing, alerting the player to their imminent demise. The cannon will NOT fire if the player is already on land, but will if a player is sailing nearby.
--   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to THE GUY in the cave across from [Meteor isle](Meteor_Isle.md) at Hive, and then climb up onto the cannon. Just touching the barrel places you inside, and shoots you over to the Songseeker WIlds.
+-   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then climb up onto the cannon. Just touching the barrel places you inside, and shoots you over to the Songseeker WIlds.
 
 ### _**The Hidden Grove**_
 

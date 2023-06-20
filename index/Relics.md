@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 65658
+revid: 65757
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -24,9 +24,11 @@ The Forge of Sin
 
 File:Screenshot 2023-05-24 at 10.28.26 AM.png
 
- | **Rain Spire** - A relic that can be found from [Layer 2](Second_Layer.md), [Blacksmith Ore Chests](Blacksmith.md), and [Chime](Chime_of_Conflict.md). It has the ability to summon rain for 3 minutes in a certain radius with a cooldown of 40 minutes. Before June 5th, it could only be used once before it was removed from your inventory.
+ | **Rain Spire** - A reusable relic that can be found from [Layer 2](Second_Layer.md), [Blacksmith Ore Chests](Blacksmith.md), and [Chime](Chime_of_Conflict.md). It has the ability to summon rain for 4 minutes in a certain radius with a cooldown of 40 minutes. Before June 5th, it could only be used once before it was removed from your inventory.
 
-Lore: None has been provided, likely because it was added on the suggestion of YouTuber Agamatsu on short notice.
+**Lore**: None has been provided, likely because it was added on the suggestion of YouTuber Agamatsu on short notice.
+
+**Note**: It doesn't always spawn normal rain and it depends of where you are. Ex: You're in minityrsa or it's winter and use it, it's going to make it snow instead. Same applies to acid rain.
 
  |
 | 

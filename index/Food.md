@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 65729
+revid: 65786
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]

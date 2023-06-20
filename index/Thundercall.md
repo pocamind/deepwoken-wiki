@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 65191
+revid: 65779
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -483,7 +483,7 @@ None
 
  | 
 
-Power 15  
+Power 13  
 65 Thundercall
 
  |

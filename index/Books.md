@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 59242
+revid: 65827
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -16,17 +16,9 @@ A lone Adret reading Diver Journal 2
 
 Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Currently, Upon opening a book, player's are given a small sum of intelligence XP. Besides that, books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [intelligence training items](Training_Gear.md#intelligence) and [weapon training items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading.
 
-File:Group reading.png
+  
 
-A group of adventurers reading lore books
-
-## Adding New Books
-
-Put all books in _**alphabetical order**_. When ordering alphabetically, the word 'the' does not count. For example, The Gideshu March would be placed with books beginning with the letter G)
-
-It is recommended to use a text-to-image converter (e.g. [https://www.imagetotext.info](https://www.imagetotext.info)) and using a screenshot program such as Gyazo to take the screenshots.
-
-## All Currently Known Books
+## Books
 
 ### Archivist Journal: 'Megalodaunt'
 

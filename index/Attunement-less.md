@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 65711
+revid: 65828
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -44,12 +44,14 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <th><b>Media</b></th>
   <th><b>Name</b></th>
   <th><b>Card Description</b></th>
+  <th><b>Ether Cost</b></th>
   <th><b>Effect &amp; info</b></th>
 </tr>
 <tr>
   <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
   <td>Strong Left<p>(☆☆☆)</p></td>
   <td><i>Show your foes your strength.</i></td>
+  <td>35 Ether</td>
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
@@ -63,6 +65,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td><figure><figcaption></figcaption></figure></td>
   <td>Rapid Punches<p>(★☆☆)</p></td>
   <td><i>Unleash a barrage of blows against your foes.</i></td>
+  <td>30 Ether</td>
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
@@ -77,6 +80,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td><figure>File:No Attunement Revamp.png<figcaption></figcaption></figure></td>
   <td>Strong Leap<p>(☆☆☆)</p></td>
   <td><i>Kick off of the ground with your strength, sending you into the air.</i></td>
+  <td>70 ether</td>
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>50 Strength,</b></i> <i>Mobility Mantra</i></li>
@@ -90,6 +94,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td><figure><figcaption></figcaption></figure></td>
   <td>Tacet Drop Kick<p>(☆☆☆)</p></td>
   <td><i>Disguise yourself in tacet and drop kick your enemies.</i></td>
+  <td></td>
   <td>
   <ul>
     <li><b><u>Requirements:</u> 20 Strength, Jus Karita, Murmur: Tacet,</b> <i>Combat Mantra</i></li>
@@ -108,12 +113,12 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 
 File:No Attunement Revamp.png
 
-| **Media** | **Name** | **Card Description** | **Effect & Info** |
-| --- | --- | --- | --- |
+| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & Info** |
+| --- | --- | --- | --- | --- |
 |  | Rally
 (☆☆☆)
 
- | _Strike your shield a few times to absorb some of the posture received by your allies._ | 
+ | _Strike your shield a few times to absorb some of the posture received by your allies._ | 70 Ether | 
 
 -   **Requirements:** Fortitude + _**Any Shield**_, _Support Mantra_
 
@@ -124,7 +129,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Buff those around you with extra defense and damage._ | 
+ | _Buff those around you with extra defense and damage._ | 100 Ether | 
 
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
 -   Decreases damage received by allies for the duration of the effect.
@@ -142,7 +147,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Brace yourself against attacks and gain hyperarmour._ | 
+ | _Brace yourself against attacks and gain hyperarmour._ | 60 Ether | 
 
 -   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
 -   User gains hyperarmor, negating hitstun for the duration of the effect.
@@ -156,7 +161,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Rush at your enemies with your full physical force._ | 
+ | _Rush at your enemies with your full physical force._ | 60 Ether | 
 
 -   **Requirements:** _**35 Fortitude**_, _Mobility Mantra_
 -   User quickly charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
@@ -398,12 +403,17 @@ File:No Attunement Revamp.png
 
 File:No Attunement Revamp.png
 
- | Ceaseless Slashes (★★★) | (PLACEHOLDER) | Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4) |
+ | Ceaseless Slashes (★★★) | _Click to reveal yourself and deliver a rapid flurry of slashes that can chain together._ | 
+
+-   **Requirements: 15 Light weapon** _Might be less, needs testing_
+    -   Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4)
+
+ |
 
 ### _**Medium Weapon Mantras**_
 
-| **Media** | **Name** | **Card Description** | **Effect & info** |
-| --- | --- | --- | --- |
+| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
+| --- | --- | --- | --- | --- |
 | 
 File:No Attunement Revamp.png
 
@@ -411,7 +421,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _A powerful slash that chips through block and slashes through armor._ | 
+ | _A powerful slash that chips through block and slashes through armor._ | 45 Ether | 
 
 -   **Requirements:** _**30 Medium Weapon,**_ _Combat Mantra_
     -   A spinning double slice with your sword.
@@ -427,7 +437,7 @@ File:No Attunement Revamp.png
 
 (☆☆☆)
 
- | _Close the distance and deliver a fast slash._ | 
+ | _Close the distance and deliver a fast slash._ | 65 Ether | 
 
 -   **Requirements:** **50 Medium Weapon.** _Combat Mantra_
 -   If in range, locks on to the closest target/player/humanoid enemy
