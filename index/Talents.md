@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65678
+revid: 65727
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -11,11 +11,11 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 **Press Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
-    -   _(i.e "OrbitaI Ice" to find the description, requirements, and effect for OrbitaI Ice)_
+    -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
 -   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
-    -   _(i.e "40 Agility" to find talents that you will have access to at 40 Agility)_
+    -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
 -   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
-    -   _(i.e "Butterfly" to find talents that are within Butterfly)_
+    -   _(i.e "ButterfIy" to find talents that are within ButterfIy)_
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each category of talents, there is the respective speech that can be used to trigger some talents via [mystic](Mystic.md).
     -   If the phrase is not appearing, it happens that the npc has a specific phrase for some talent (which can be found on their page) or that the card you want is rare, something that is not possible to influence with the help of [mystic](Mystic.md).
 
@@ -23,7 +23,7 @@ Template:DWI Talents
 
 ## Overview
 
-There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, Flamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
+There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as ThundercaIIer, FIamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
@@ -31,13 +31,13 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 
 -   A certain Talent in a certain category.
-    -   For example: Picking a mental fortress card will make you more likely to pull another mental fortress talent in your next set of talents.
+    -   For example: Picking a mentaI fortress card will make you more likely to pull another mentaI fortress talent in your next set of talents.
 
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
     -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
 
 -   A high enough Power.
-    -   Thresher Claws requires [Power](Power.md) 13 as a prerequisite.
+    -   Thresher CIaws requires [Power](Power.md) 13 as a prerequisite.
 
 Some talents are **mutually exclusive** with other talents, meaning picking one mutually exclusive talent **will remove the other talent from your talent pool.** However, if you use the Shrine of Chance to remove the mutually exclusive talent that you currently have, the other talent returns to your talent pool so that it may be obtained once again.
 
@@ -2072,7 +2072,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Flame of Denial
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
-    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame (Possibly
+    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
 
 -   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restore sanity and health to those around it. Stacks with sitting next to it.

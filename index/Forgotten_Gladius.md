@@ -1,9 +1,9 @@
 ---
 title: Forgotten Gladius
-revid: 65482
+revid: 65723
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords]
+categories: [Weapons, Pages with broken file links, Swords]
 ---
 
 # Forgotten Gladius
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chest from:, Voidwalker, Primadon, Fishing |
+| obtainment | Chest from:, Voidwalker, Primadon, FishingMerchant Ships |
 | description | Often found at the hip of officers on horseback during the Canticlysm, it sadly remained for many years only as a curio for petty nobles to fawn over in the early days after the Tides. Despite its moniker, it was brought back into the vogue by young naval officers of the Central Authority who saw combat value in the trinkets they'd inherited, dragging the blade out from obscurity. |
 
 ## Description
@@ -35,3 +35,7 @@ The Forgotten Gladius is a midgame to endgame weapon obtained from [Primadon](Pr
 -   generally considered to be a great pvp weapon as it strikes a good balance between damage and swing speed, allowing you to apply good pressure onto your enemies and pairing well with enchants such as Detonation or Grim
 -   After some previous nerfs, the Forgotten Gladius now has 0.02x slower swing speed than the [Falchion](Falchion.md) and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), but makes up for it with slightly more base damage.
     -   at 100 med this weapon deals 27.5 damage, and 30 damage with 6 proficiency
+
+File:Forgotten gladius ship.png
+
+Forgotten Gladius in a Merchant Ship

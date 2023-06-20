@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 65373
+revid: 65728
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -24,9 +24,12 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 
 ## Moveset
 
--   **Light Attack** - Angels use black spears which deal 20-30 damage each hit.
--   **Light Piercer** - Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun.
-    
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Light Attack** | Angels use black spears which deal 20-30 damage each hit. | ◯ | (★☆☆) |
+| **Light Piercer** | Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun. | ◯ | (★☆☆) |
+| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes | ◯ | (★★☆) |
+| **Feint** | Angels are capable of feinting their light attacks | N/A | (★★☆) |
 
 **Regular:**
 

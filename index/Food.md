@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 62223
+revid: 65729
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -29,7 +29,7 @@ _To get food, one must collect ingredients from various Luminants or buy the foo
 
 Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to a immense decrease in thirst and hunger.
 
-_To cook food, one must rest at a campfire._
+_To cook food, one must be near a campfire._
 
 -   By combining ingredients together the player can make various types of foods/drinks.
 -   Usually, 2-3 ingredients are needed to make a certain food recipe. (Mushroom Soup for example, requires two mushrooms of different types)

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 65690
+revid: 65711
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -398,7 +398,7 @@ File:No Attunement Revamp.png
 
 File:No Attunement Revamp.png
 
- | (PLACEHOLDER) | (PLACEHOLDER) | Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4) |
+ | Ceaseless Slashes (★★★) | (PLACEHOLDER) | Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4) |
 
 ### _**Medium Weapon Mantras**_
 
