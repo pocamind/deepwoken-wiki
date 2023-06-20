@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 64951
+revid: 65671
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -1664,7 +1664,25 @@ _+3% Elemental Armor_
 
 Chests from:
 
--   [Second Layer](Second_Layer.md)
+-   [Second Layer](Second_Layer.md) boat event.
+
+ | N/A |
+|  | 
+
+[Whaler Scarf](Whaler_Scarf.md)
+
+ | 
+
+Grants a random buff.
+
+  
+_+3% Elemental Armor_
+
+ | 
+
+Chests from:
+
+-   [The Knives of Eylis](The_Knives_of_Eylis.md) boat event.
 
  | N/A |
 

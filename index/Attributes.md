@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 64722
+revid: 65650
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -35,9 +35,7 @@ You can have a maximum of 327 (+1 for each extra [Attunement](Attunements.md) yo
 -   13 from **character creation**.
 -   1 from **second Attunement** _(not required for all characters, but is set aside)._
 
-_**NOTE: A good tool to help plan out your build: [https://deepwoken.co/builder](https://deepwoken.tools/build). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.**_
-
-_**NOTE 2: For unexperienced or new players: experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works, and learn from your voyages.**_
+[Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75 Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLIES TO WEAPON & ATTUNEMENT.**
 
 ### Strength
 
@@ -80,7 +78,6 @@ _**NOTE 2: For unexperienced or new players: experimentation is the best way to 
     -   One point in Intelligence gives 2 Ether every point.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
--   Increases Bomb Damage Scaling
 -   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, and using either the Math Textbook or the Encyclopedia.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 
@@ -88,7 +85,7 @@ _**NOTE 2: For unexperienced or new players: experimentation is the best way to 
 
 -   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** per point._
     -   One point in Willpower gives +3 sanity and (Likely) +.5 tempo.
--   Unlocks Willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras).
+-   Unlocks Willpower-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Willpower_Mantras), and an attribute scaling weapon, [Light's Final Toll](<Light's_Final_Toll.md>) with requirements of 65 Willpower.
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 
@@ -114,25 +111,28 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
     -   Unlocks heavy weapon related [Talents](Talents.md) and a [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Heavy_Weapon_Mantras).
         -   Some weapon talents are locked to certain weapon types. For example, Greataxe talents differ from Greatsword talents, and cannot be used interchangeably unless states otherwise in the talent card description.
 -   Gain heavy weapons EXP by dealing damage with a heavy weapon or parrying attacks.
--   _**Unbound by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
+-   _**[Unbounded](Attributes_Unbound.md) by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
+-   _**[Unbounded](Attributes_Unbound.md) by killing any [boss](Bosses.md).**_
 
 ### Medium Weapons
 
 -   Increases your character's proficiency with medium weapons -- this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks medium weapon related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Medium_Weapon_Mantras).
-        -   Some weapon talents are locked to certain weapon types. Spears are currently the only Medium in the game with talents-- correct if wrong/outdated.
+        -   Some weapon talents are locked to certain weapon types. For example, Spear talents differ from Rifle talents, and cannot be used interchangeably unless states otherwise in the talent card description.
 -   Gain medium weapons EXP by dealing damage with a medium weapon or parrying attacks.
--   _**Unbound by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ### Light Weapons
 
 -   Increases your character's proficiency with light weapons -- this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks light weapon related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras).
-        -   Some weapon talents are locked to certain weapon types. For example, Dagger talents differ from Fist talents, and cannot be used interchangeably.[\[1\]](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras)
+        -   Some weapon talents are locked to certain weapon types. For example, Dagger talents differ from Fist talents, and cannot be used interchangeably unless states otherwise in the talent card description.[\[1\]](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras)
 -   Gain light weapons EXP by dealing damage with a light weapon or parrying attacks.
--   _**Unbound by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by completing the [Lost Sibling](Temple_of_the_Blade.md#a-lost-sibling-quest) quest and talking to [Maestro Evengarde Rest](Evengarde_Rest.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ## Attunement Attributes
 
@@ -150,50 +150,52 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Increases damage scaling of Flamecharm mantras. To improve further, travel to the respective [Attunement Trainer](Attunement_Trainers.md).
     -   Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
     -   Increases intensity of flames.
--   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using heartgem or eating [Dying Embers](Dying_Embers.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
+-   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using Hearthgem or eating [Dying Embers](Dying_Embers.md).
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ### Frostdraw
 
 -   Increases damage scaling of Frostdraw mantras.
     -   Unlocks [Frostdraw Talents](https://deepwoken.fandom.com/wiki/Frostdraw#Talents).
     -   Increases slow and freeze times of abilities.
--   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras or eating [Frigid Prisms](Frigid_Prism.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
+-   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using Hemafrost or eating [Frigid Prisms](Frigid_Prism.md).
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ### Thundercall
 
 -   Increases damage scaling of Thundercall mantras.
     -   Unlocks [Thundercall Talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
     -   Lengthens the stun caused by attacks.
--   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras or eating [Spark Glands](Spark_Gland.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
+-   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using Self-Conducting Loop or eating [Spark Glands](Spark_Gland.md).
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ### Galebreathe
 
 -   Increases damage scaling of Galebreathe Mantras.
     -   Unlocks [Galebreathe Talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
-    -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate- which comes under specific circumstances._
--   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras or eating [Gale Stones](Gale_Stone.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
+    -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
+-   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using Gale Kata or eating [Gale Stones](Gale_Stone.md).
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ### Shadowcast
 
 -   Increases damage scaling of [Shadowcast](Shadowcast.md) mantras and the amount of ether you steal from enemies.
     -   Unlocks [Shadowcast Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
     -   Increases duration of blindness afflicting abilities.
--   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras or eating [Umbral Obsidian](Umbral_Obsidian.md).
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
+-   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using Pure Heart or eating [Umbral Obsidian](Umbral_Obsidian.md).
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ### Ironsing
 
--   Increases damage scaling of [Ironsing](Ironsing.md) mantras
+-   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing](Ironsing.md) [Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
--   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras
--   _**Unbound by obtaining Lord Regent's quest and killing [The Duke](Duke_Ishamon_Erisia.md).**_
+-   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using Ferrofluid.
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
 ## Tips
 
+-   A good tool to help plan out your build: [https://deepwoken.co/builder](https://deepwoken.co/builder). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.
+-   Experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works, and learn from your voyages.
 -   You may sometimes spend all your investment points yet still not power up. This means you got enough regular EXP to increase a stat, but not enough to level up.
 -   If you lack regular EXP, using training gear will give the message "I've learnt what I can from training right now, I should put it into practice..."
 -   If you lack attribute EXP, using training gear will give the message "I can feel my <attribute> improving...". The attribute will automatically increase once you get enough attribute EXP. You can cancel this by clicking on the grey arrow next to the attribute in the inventory screen.

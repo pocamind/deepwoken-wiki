@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 64990
+revid: 65652
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -14,9 +14,9 @@ notices:
 |---|---|
 | type | Greataxe |
 | requirements | 75 ICE, LVL 3, 30 HVY |
-| damage | 23.5 |
+| damage | 24 |
 | scaling | ICE: 8, HVY: 4 |
-| range | 8 |
+| range | 8.5 |
 | swing speed | 0.62x |
 | special effect | Rain down ice shards after 3 hits, Talks when killing Ministry Scouts or Players, Applies a crystal on hit (requires Glass Path: Crystallization) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -68,6 +68,5 @@ This weapon has 2 (or 3 with a talent) passives abilities:
 -   Unable to be equipped by people with Oath: Contractor.
     -   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry and it would just be... extremely ironic to use it.
     -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
-
 -   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
 -   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.

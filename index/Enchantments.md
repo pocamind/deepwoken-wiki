@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 65636
+revid: 65653
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -41,8 +41,8 @@ Enchanted weapons/equipment have special mechanics compared to their regular wea
 
 There are two variants that enchantments come in:
 
--   **Blessing** - They have an effect with little to no downsides.
--   **Curse** - They have an effect along with a downside with the severity depending on the Curse.
+-   **Blessing -** They have an effect with little to no downsides.
+-   **Curse -** They have an effect along with a downside with the severity depending on the Curse.
 
 ## List of Enchantments
 
@@ -211,7 +211,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
-  <td><div><p>On hit, deal 25% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
+  <td><div><p>On hit, deal 35% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
   M1s to allies deals 50% damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>

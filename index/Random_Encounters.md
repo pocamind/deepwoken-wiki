@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 65385
+revid: 65677
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -248,3 +248,7 @@ The Meat Lord is a merchant NPC that can appear on [Starswept Valley](The_Starsw
 ### **Stranger NPC**
 
 An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so far. A [Dark Mage Cultist, or the Ministyrsa NPC](Ministry_Scout.md) will reveal themselves with a tacet effect, revealed sitting down. If you have an unknown amount of Charisma, you can initiate a dialogue to gain the murmur [Tacet](Murmur.md) without having to go through the 10 grips. If you do not have the requirements, the dialogue will start a fight. Incredibly glitchy, with some who have fought him even reporting that he can't be gripped/executed.
+
+### **The Depths Collapse**
+
+The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through Layer 1 causing meteors to rain from above. Many rocks slam down landing near the player and spawn monsters from each impact. Basically a mini hell mode. Proof: [https://www.youtube.com/watch?v=7tW089OTGK8](https://www.youtube.com/watch?v=7tW089OTGK8)

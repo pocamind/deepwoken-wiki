@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65620
+revid: 65678
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1070,7 +1070,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Saint Jay last for double the duration of Chill
     -   If the user have Glass Path: Crystalization, Saint Jay last for 2 seconds whenever a crystal is applied.
     -   Prerequisite: Frostbite
--   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 50% of the duration. (+5 Elemental Intensity)
+-   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
     -   Prerequisites: 100 Frostdraw
     -   Mutual Exclusive: Glass Path: Crystallization
 
@@ -1549,6 +1549,11 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 -   Twisted Puppets \[Common Talent, Dual Attunement\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
     -   Prerequisites: Corpse Explosion, 50 Flamecharm & 70 Shadowcast
 
+### Pyroclast
+
+-   _**Volcanic Glass**_ \[Advanced Talent, Flamecharm & Frostdraw Exclusive\] - Detonating crystals causes an eruption soon after. (+5 Elemental Intensity)
+    -   Prerequisites: Eruption Path: Lava Serpent, Glass Path: Crystallization
+
 ### Pyromancer
 
 > _\-I am a master of the flame._
@@ -1591,7 +1596,8 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisites: Master Ironsinger, 60 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. (+1 Posture)
-    -   Once restrained, the affected player cannot do anything (even parry). This can lead to true comboes.
+    -   Once restrained, makes the target unable to react in any way.
+    -   Enemies have damage reduced by 30% when Metal Jailed.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Conductor
 

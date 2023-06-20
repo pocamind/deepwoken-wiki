@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 65473
+revid: 65661
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -13,7 +13,7 @@ notices:
 | Mystic | |
 |---|---|
 | name | Mystic |
-| location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils, Guild Bases |
+| location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils, Guild Bases, Meteor Isle |
 
 **You can press "Ctrl + F or G" (Windows)/"Cmd + F"(Mac) to search for prompts!** This is a browser function, but all mainstream browsers should have it.
 

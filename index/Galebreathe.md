@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 65511
+revid: 65679
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -185,7 +185,6 @@ _Grab your opponent and toss them with the power of gale._
 
 -   Deals good-high damage.
 -   Forcible Block Break
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md).
 -   Applies knockback.
     -   Needs more testing.
 -   Hyper-armor
