@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 63814
+revid: 65698
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -92,6 +92,6 @@ N/A
 ## Notes/Trivia
 
 -   Mothwing Dust only procs against people who initiated combat with you **first**. If you instigated it then you will gain no wall hacks.
--   Mothwing Dust lasts 10 seconds _**with a cooldown of ?**_
--   The Hallowtide variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
+-   Mothwing Dust lasts 10 seconds _**with a cooldown of?**_
+-   The [Hallowtide](Hallowtide.md) variant vaguely resembles someone afflicted by the [Infection](https://hollowknight.fandom.com/wiki/Infection) from _Hollow Knight_, which would make sense given that the entity that created the Infection, the Radiance, was worshipped by the Moth Tribe.
     -   Additionally, it'd also continue the trend of the Greathive races having inspiration for their design(s) taken from Hollow Knight.

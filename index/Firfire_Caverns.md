@@ -1,6 +1,6 @@
 ---
 title: Firfire Caverns
-revid: 61202
+revid: 65697
 source: https://deepwoken.fandom.com/wiki/Firfire_Caverns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Locations]
@@ -19,7 +19,9 @@ Template:Areainfobox
 
 The Firfire Caverns is a large cave system found in the [Second Layer](Second_Layer.md), It is extremely dangerous, the celling will often collapse, and it is riddled with [Bounders](Bounder.md) as well as [Diver husks](Diver_Husk.md). Its entrance will be locked if the player does not first activate the generator.
 
-It contains two exits, the first one leads to the [Firfire Village](Firfire.md), and the second is locked until the player talks to the village chief with the Ethiron's gaze [Talent](Talents.md), It leads to [The Maw of Ethiron](The_Maw_of_Ethiron.md).
+It contains two exits, the first one leads to the [Firfire Village](Firfire.md), and the second is locked until the player talks to the village chief with the Ethiron's Gaze [Talent](Talents.md), leading to [The Maw of Ethiron](The_Maw_of_Ethiron.md).
+
+Brief hallucinations of Bounder faces occasionally appear for a split second in the Firfire Caverns. These are only visual and serve to scare players (see [Ghost Bounder](Ghost_Bounder.md)).
 
 ## Contents
 
