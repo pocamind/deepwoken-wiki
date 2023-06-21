@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 65084
+revid: 65878
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -367,7 +367,8 @@ These are talents found in "_Falling Star Guard_" Category.
 | 
  | 
 
-Meteor Impact
+Meteor Impact  
+(FLAME 25)
 
  | 
 
@@ -382,7 +383,8 @@ Aerial moves will follow up into a devastating slam.
 
  | 
 
-Phoenix Impact
+Phoenix Impact  
+(FLAME 40)
 
  | 
 
@@ -397,7 +399,8 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
 
  | 
 
-Thorns of Fire
+Thorns of Fire  
+(Prerequisite: Flame Repulsion)
 
  | 
 
@@ -418,7 +421,8 @@ These talents are found in the "_Flamecharmer_" Category.
 | 
  | 
 
-Produce Spark
+Produce Spark  
+(FLAME 20)
 
  | A masterful production of flame for the use of making campfires.
 
@@ -435,7 +439,8 @@ File:Flame Within.gif
 
  | 
 
-Flame Within
+Flame Within  
+(FLAME 25)
 
  | An Application of Pleetsky's concept of the inner flame, also known as the soul of man. Set your body ablaze to gain extra strength and speed.
 
@@ -450,7 +455,8 @@ Sets the caster ablaze until they die, increasing strength and speed but dealing
 
  | 
 
-Wildfire
+Wildfire  
+(Prerequisites: Fire Palm)
 
  | 
 
@@ -465,7 +471,8 @@ Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F
 
  | 
 
-Unyielding Inferno
+Unyielding Inferno  
+(FLAME 35)
 
  | 
 
@@ -486,7 +493,8 @@ These are talents found in "_Flame Dancer_" Category.
 | 
  | 
 
-Dancing Steps
+Dancing Steps  
+(FLAME 35, POWER 8)
 
  | 
 
@@ -507,7 +515,8 @@ These are talents found in "_The Emperor's Blade_" Category.
 | 
  | 
 
-Emperor Flame
+Emperor Flame  
+(FLAME 75, Agitating Spark)
 
  | 
 
@@ -522,7 +531,8 @@ Absorb fire produced by you, once you reach 5 stacks your next attack will be an
 
  | 
 
-Mirage Clone
+Mirage Clone  
+(FLAME 65)
 
  | 
 
@@ -545,7 +555,8 @@ These talents are found in the "_Undying Ember_" Category.
 | 
  | 
 
-Last Laugh
+Last Laugh  
+(FLAME 30, Flame Within)
 
  | Gain the ability to incinerate your self when down.
 
@@ -560,7 +571,8 @@ Using Flame Within, set your self on fire after being knocked down. This card is
 
  | 
 
-Denial Repulse
+Denial Repulse  
+(Prerequisite: Flame of Denial)
 
  | You now emit a delayed burst of flames after coming close to death.
 
@@ -575,7 +587,8 @@ Denial Repulse
 
  | 
 
-Undying Flame
+Undying Flame  
+(FLAME 40, Willpower 40, Graceful Flame)
 
  | Your flame can be casted in the depths.
 
@@ -590,7 +603,8 @@ Graceful Flame is Able to Be Casted In The Depths
 
  | 
 
-Soundness of Mind
+Soundness of Mind  
+(FLAME 40, Willpower 40, Undying Flame)
 
  | 
 
@@ -613,7 +627,8 @@ These talents are found in the "_Inferno_" Category.
 | 
  | 
 
-Agitating Spark
+Agitating Spark  
+(FLAME 40)
 
  | 
 
@@ -628,7 +643,8 @@ If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Inc
 
  | 
 
-Pleetsky's Faith
+Pleeksty's Faith  
+(Willpower 15, Charisma 15, FLAME 1)
 
  | 
 
@@ -649,7 +665,8 @@ These talents are found in the "_Immolator_" Category.
 | 
  | 
 
-Phoenix Flames
+Phoenix Flames  
+(Prerequisites: All Immolator talents)
 
  | 
 
@@ -666,7 +683,8 @@ When the user is burned to death, the user is instead revived with 50% health. T
 
  | 
 
-Immolation
+Immolation  
+(20 Willpower, Agitating Spark)
 
  | 
 
@@ -710,7 +728,7 @@ These are talents found in "_Uncategorized_" Category.
 
 Azure Flames
 
- | Many of your flames burn blue signifying their increased intensity.
+ | Many of your flames burn blue signifying their increased intensity. (burning deals 8 damage per second/explosion deals more posture damage).
 
 -   Requires 40 Willpower and 70 Flamecharm
 

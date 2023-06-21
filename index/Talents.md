@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65730
+revid: 65887
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -164,7 +164,9 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Alchemist
 
-> _\-I enjoy mixing potions._
+_\-I enjoy mixing potions._
+
+-   you need to have made and drunk at least one potion for the talents to start showing up.
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
     -   Prerequisites: 10 Intelligence
@@ -499,7 +501,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _\-I am a master of creating openings._
 
 -   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 20% more damage with daggers.
--   Crit procs are rolled for each individual target, not per swing.
+    -   Crit procs are rolled for each individual target, not per swing.
     -   Crit procs are indicated by a red visual effect.
     -   Only works on daggers.
     -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
@@ -2042,7 +2044,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Trickster
 
--   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Agility)
+-   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Prerequisite: 65 Agility
 
 ### Tyrant

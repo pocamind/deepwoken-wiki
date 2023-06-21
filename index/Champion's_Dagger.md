@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 58009
+revid: 65859
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,7 +26,7 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley ChestsDepths Chests |
+| obtainment | Starswept Valley Chests, The Depths Chests |
 | description | Your trusty weapon. |
 
 ## Description

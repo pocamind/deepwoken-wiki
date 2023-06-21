@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 65825
+revid: 65899
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races]
@@ -62,19 +62,20 @@ The Chrysid people are a race related to moths, inheriting their compound eyes a
 
   
 
-+2 Agility  
-+2 Charisma  
-free drip  
-
-ESP  
+-   +2 Agility  
+    
+-   +2 Charisma  
+    
+-   When attacked, release a mist that highlights your attacker for 10 seconds.
+    
 
 **Weaknesses:**
 
   
 
-N/A  
-
-  
+-   The ability has a cooldown.
+-   Other than highlighting players, this race has nothing else, and shares the same innate attributes with [Felinor](Felinor.md).
+    
 
 **Surnames:**
 
