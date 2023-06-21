@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 65903
+revid: 65956
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -19,12 +19,6 @@ This Outfit costs and requires five (5) Cloth, five (5) Fiber, two (2) Megalodau
 This Outfit requires [Power Level](Power.md) 10
 
 ### _Armor Stats_
-
--   Talent: Now You see me
--   30% Elemental armor
--   20% Physical armor
--   10% Blunt armor
--   +1000 Durability
 
 This outfit has 1000 durability and grants +20% Physical resistancem +10% Blunt resistance and +30% Elemental Armor.
 

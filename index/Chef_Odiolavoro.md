@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 64114
+revid: 65960
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -117,6 +117,11 @@ The orders are as follows:
   <td>Calamari</td>
   <td>1x Gathered Wheat + 1x Squid</td>
   <td>Yes</td>
+</tr>
+<tr>
+  <td>Kyrsdog</td>
+  <td>1x Bread + 1x Frozen Membrane + 1x Ongo</td>
+  <td>No</td>
 </tr>
 </tbody>
 </table>

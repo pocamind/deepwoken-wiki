@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65923
+revid: 65957
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -901,6 +901,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
+    -   Durability of Orbital Ice is equal to "Frostdraw/4", reaching 25 at 100 Frostdraw.
     -   Prerequisites: 65 Frostdraw
 
 ### Frozen Warrior

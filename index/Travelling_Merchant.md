@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 65925
+revid: 65959
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -35,6 +35,7 @@ The prices of Chili's items may vary from price to price.
 -   **Weapons:**
     -   [Canorian Axe](Canorian_Axe.md)
     -   [Champion's Dagger](<Champion's_Dagger.md>)
+    -   [Crescent Cleaver](Crescent_Cleaver.md)(65 Notes)
     -   [Crucible Rapier](Crucible_Rapier.md)
     -   [Darksteel Greatsword](Darksteel_Greatsword.md)
     -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
@@ -67,6 +68,7 @@ The prices of Chili's items may vary from price to price.
     -   [Mercenary's Boots](<Mercenary's_Boots.md>)
     -   [Redsteel Pauldrons](Redsteel_Pauldrons.md)
     -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
+    -   Ruby Pendant Earrings(47 Notes)
     -   [Silver Sabatons](Silver_Sabatons.md)
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
@@ -79,4 +81,5 @@ Chili's Ship
 
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
--   Chill always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone (considering Deepwoken being Deepwoken)
+-   Chill always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
+-   there is the possibility to re-buy whatever you want using the same notes that were obtained by selling the same product, however the notes obtained by the sale do not equal the purchase price.
