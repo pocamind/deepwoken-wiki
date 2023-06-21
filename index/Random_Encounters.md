@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 65677
+revid: 65916
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -206,6 +206,10 @@ A tower can spawn in the Etrean Sea. Inside the tower are 5-6 [Blacksteel Pirate
 #### **Traveling Merchant**
 
 A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas _(recently discovered in [Aratel](The_Aratel_Sea.md))_, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, and presumably more.
+
+#### **False Merchant Ship**
+
+A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is (to my knowledge) extremely rare, and drops high tier loot. When approached, the boat sets on fire and the player is swarmed by [Cloaked Assassins](Cloaked_Assassin.md).
 
 #### **Divers vs Monster**
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 65679
+revid: 65913
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -139,6 +139,7 @@ _A strike from the heavens._
     -   Turn off shiftlock to do this.
 -   Good mobility.
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
+-   If missed, it results in endlag.
 
  |
 |  | 

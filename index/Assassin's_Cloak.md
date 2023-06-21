@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 64849
+revid: 65918
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Aelita, Aratel Island, Primadon, Rogue Construct, Scyphozia |
+| obtainment | Chests from:Aelita, Aratel Island, Primadon, Rogue Construct, ScyphoziaDrops from: Cloaked Assassin |
 | description | ... |
 
 ## Description

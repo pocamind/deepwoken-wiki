@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 65735
+revid: 65925
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -8,7 +8,7 @@ categories: [NPCs, Vendors]
 
 # Travelling Merchant
 
-“ You want buy? ”
+“ You want to buy? ”
 
 ― Chili to a potential customer
 
@@ -49,6 +49,7 @@ The prices of Chili's items may vary from price to price.
     -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)
     -   [Whaling Knife](Whaling_Knife.md)
+    -   [Krulian Knife](Krulian_Knife.md)
 -   **Armors:**
     -   [Authority Helm](Authority_Helm.md)
     -   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)

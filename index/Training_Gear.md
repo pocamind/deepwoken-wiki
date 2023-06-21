@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 63150
+revid: 65934
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -45,9 +45,9 @@ Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
 ### Intelligence
 
-File:Math textbook.png
+**•** Books - 10-15% chance of getting from any book shelf, can also be obtained from guild librarians, and bought from Merchant ships.
 
-A question from the math textbook
+/ **1 use**
 
 -   Encyclopedia - Template:Cost / **200 uses**
 -   Math Textbook - Template:Cost / **200 uses**

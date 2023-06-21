@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65887
+revid: 65923
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -524,6 +524,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _\-I command the cold._
 
+-   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
+    -   Prerequisite: 60 Frostdraw.
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
@@ -542,9 +544,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cryoni
 
 > _\-My ice protects like a flower growing thorns._
-
--   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
-    -   Prerequisite: 60 Frostdraw.
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
     -   Prerequisite: Fragile Freeze, 20 Fortitude.
