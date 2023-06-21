@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 65380
+revid: 65948
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -51,6 +51,10 @@ A Hive Guard executes it's opponent after knocking them:
 | --- | --- |
 | Execute | Pins down opponent before impaling them through the chest with their spear. |
 
-## Trivia
+## Tips
 
 -   Don't underestimate them. Voidwalkers who entirely ignore them and focus on chasing their target are often quickly overwhelmed by Hive Guards due to their Flame Assault allowing them to quickly catch up with and ragdoll players.
+
+## Trivia
+
+-   In Verse 1, they only consisted of Ganymedes and Vesperians. Chrysids were added to their ranks with the addition of the race to the game.

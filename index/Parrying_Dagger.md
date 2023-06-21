@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 61396
+revid: 65947
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -31,7 +31,7 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-The Parry Dagger is an offhand weapon used for better parry capability. Found in the weapons shop in Etris and can be purchased for 25 notes. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) chests. It requires 10 AGI to equip.
+The Parry Dagger is an offhand weapon used for better parry capability. Found in the weapons shop in Etris and can be purchased for 25 notes. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 AGI to equip.
 
 The Parry Dagger does the following:
 

@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 63032
+revid: 65943
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,7 @@ categories: [Monsters]
 
 # Brainsucker
 
-“ Brainsuckers have been giving us quite the trouble recently, It'd be greatly appreciated if you could get rid of those pests. ”
-
-― A Hive Scout
-
-Template:Creature Infobox V3
+Template:Creature Infobox V3_Also referred to as Harpy, Bat._
 
 ## Description
 
@@ -27,23 +23,16 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 
 ### Finisher
 
--   Scratches you a lot at a fast rate with its legs, killing you.
+-   Scratches your stomach open with its talons, killing you.
 
 ## Notes/Tips
 
--   You can easily kill them by constantly swinging as they are unable to block or dodge attacks.
--   Bite is a posture breaking move they can use. However, it is easy to parry them. (in Starswept Valley and Minityrsa)
--   They can fly quite high when they first spawn on the islands, and as such both the player and the Brainsuckers are unable to hit each other for a short period of time.
--   Brainsuckers are remarkably fragile; don't waste your time running away unless on low health, as you can likely heal by killing one in three hits as a high level.
--   Usually, if you are sailing, they don't notice you when they spawn. You can sail past them with no issue, as long as you are lucky and they spawn somewhat far from the ship. If they do detect you, the ship will be fast enough to make sure both of you are unable to make direct contact. (Provided the ship is moving at maximum speed)
--   If Brainsuckers somehow get stuck on a larger boat, they can cause your boat to somewhat fling, which is practically the only threat these things present to the player.
--   Using a mantra with a [Wayward Gem](Deep_Gems.md) on a Brainsucker can cause you to teleport to a random one around the map.
+-   Their attacks, particularly Bite, have very strange hitboxes, making parrying them difficult. This, combined with its low damage, makes it more worthwhile to simply mash your basic attack until it dies.
+-   Using a mantra with a [Wayward Gem](Deep_Gems.md) on a Brainsucker can cause you to teleport to a random one around the map. (needs testing)
 
 ## Trivia
 
--   The Brainsuckers name may be a reference to the enemy of the same name from [Bloodborne](https://bloodborne.wiki.fextralife.com/Brainsucker).
--   When the Brainsuckers head is turned upside down, the shape of it resembles a squid.
--   The Brainsuckers official name appears to be the "Lesser Brainsucker." It is unknown if a Greater Brainsucker will ever be added.
+-   The Brainsuckers’ name may be a reference to the enemy of the same name from [Bloodborne](https://bloodborne.wiki.fextralife.com/Brainsucker).
 -   Ironically, the Brainsucker does not actually suck brains.
     -   The original concept art depicts them opening their mouths to latch onto human heads, this is likely the derivation of the name. However, this has yet to be implemented.
 
