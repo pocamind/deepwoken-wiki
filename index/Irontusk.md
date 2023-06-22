@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 55073
+revid: 66007
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -22,11 +22,11 @@ categories: [Weapons, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starting Weapon Echoes |
+| obtainment | Advanced Weapons Echoes upgrade |
 | description | "A spear passed down by your ancestors." |
 
 ## Description
 
-The Irontusk is one of the four starter weapons obtained by spending 25 [Echoes](Echoes.md) on the "Starting Weapon Echoes" Upgrade.
+The Irontusk is one of the four starter weapons obtained by getting level 2 (50 echos) on the "Advanced Weapons" [Echoes](Echoes.md) Upgrade.
 
 Deals 16.5 Damage with 3 Medium Weapon scaling, totaling to 21.45 Dmg at 100 MED.

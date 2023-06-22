@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65980
+revid: 65999
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1024,9 +1024,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
-    -   Slowly drain Sanity for 20 Seconds.
-    -   Upon activation, the character yells out in a distorted voice; along with chanting in a distorted text.
-        -   Heretic's Sutra can only be obtained through a quest in Floor 1 of [The Eternal Gale](Second_Layer.md) (requires 80 Willpower).
+    -   Gives a burst of insanity to yourself, which achieve the following:
+        -   You start benefitting from talent that need you to have insanity to use (namely Lose Your Mind)
+        -   Talent that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
+    -   Prerequisite: 80 willpower, have HAD tier 1 insanity (shivering), and talk to Kasen located in layer 2 floor 1.
 
 ### Human Architecture
 

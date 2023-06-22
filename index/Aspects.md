@@ -1,9 +1,9 @@
 ---
 title: Aspects
-revid: 65990
+revid: 65996
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races, Character, Mechanics]
+categories: [Races, Character, Mechanics]
 ---
 
 # Aspects
@@ -65,7 +65,3 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
 -   Khan, Gremor, Adret, Etrean, Canor, Celtor and Krulian are the only races to have an in-game item named after them. Ex. [Krulian Knife](Krulian_Knife.md)
--   There is a secret race in the code known only as "P\*nisman". It appears to have the eyes of a Ganymede and a long phallus with a glowing white tip. It was found by exploiters joining the game before it was fully released. (This is not a grief, stop deleting it)top deletiing it.)
-    -   The Ganymede eyes are likely a placeholder, as they are used for Vesperians too.
-        
-        File:Unused "P\*nisman" race..png
