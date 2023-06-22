@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 65542
+revid: 66028
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -116,3 +116,4 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
 -   The golems have an idle animation similar to the Ninja Animation pack.
 -   Hive Construct are unable to swim, and will instantly drown if they attempt to enter water.
+-   Mostly overrated, as they are fairly easy to fight with proper experience with dodging.

@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 59790
+revid: 66026
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Races, Exclusive Races, Article stubs]
@@ -15,7 +15,7 @@ Not a lot of information known about this race, though it is a unique Gremor var
 Template:Races-Main
 
   
-Chance of obtaining race: **0%**
+Chance of obtaining race: **N/A%**
 
 ## Racial Traits
 

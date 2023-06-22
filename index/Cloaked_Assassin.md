@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 65919
+revid: 66029
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -12,6 +12,10 @@ notices:
 
 Template:EnemyInfobox1.0
 
+## Description
+
+Cloaked Assassins spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat.
+
 ## Moveset
 
 Their arsenal consists of a [Whaling Knife](Whaling_Knife.md) along with the [Frostdraw](Frostdraw.md) and [Shadowcast](Shadowcast.md) attunement:
@@ -21,8 +25,8 @@ Their arsenal consists of a [Whaling Knife](Whaling_Knife.md) along with the [Fr
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Throws spear at opponent and then pulling them in with a white chain. | ◯ | ✗ | (★★☆) |
 | Ice Daggers | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
-| Shadow Assault |  | ◯ | ◯ | (★★☆) |
-| Strong Left |  | ◯ | ✗ |  |
+| Shadow Assault | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
+| Strong Left | the user rears their hand and punches, ragdols | ◯ | ✗ |  |
 
 ### Boons
 
@@ -34,4 +38,4 @@ A Cloaked Assassin executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute |  |
+| Execute | Pins down opponent before slicing their throat with their blade. |

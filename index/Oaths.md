@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 65655
+revid: 66016
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -432,6 +432,7 @@ This Oath grants two Combat Mantra slots and eight Health.
 -   This oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The wings will occassionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, air dash will still behave as if the wings are active until the duration actually ends.
 -   Stratus Stones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
+-   Modifying Fire Blade with a reversal spark will make it always do the non-wings variant.
 
 **Arcwarder:**
 
