@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65999
+revid: 66195
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1020,7 +1020,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal. (+7 Sanity)
     -   Whenever you land an M1, you disable every source of your opponent's healing for 8 seconds.
     -   Does not proc/work on people in the same guild as yours.
-        -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regen, [Blood Scourge](Blood_Scourge.md) and[Vampirism](Enchantments.md).
+        -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
@@ -1833,8 +1833,10 @@ Prerequisite: Charisma
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
     -   Prerequisites: 25 Fortitude, 5 Willpower
 
--   Unfazed \[Common Talent\] - You no longer shiver or panic when your sanity is at stake.
-    -   Negate tier 1 insanity: Shivering.
+-   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
+    -   The effect of insanities are delayed by a full tier.
+        -   You now Shiver at Tier 2 insanity instead of Tier 1
+        -   You now Scratch yourself at Tier 3 insanity instead of Tier 2
     -   Prerequisites: Grasp on Reality, 50 Willpower, 50 Fortitude
 
 ### Survival Instinct

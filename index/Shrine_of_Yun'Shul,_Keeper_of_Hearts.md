@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 65122
+revid: 66051
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -16,18 +16,18 @@ Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shr
 
 ## Description
 
-Bell Giver is the Drowned God of Bells. While they do not appear in the game themselves, their [shrines](Deep_Shrines.md) do. As well as the Deep Shrines scattered throughout the overworld, there is also their main shrine in the [Temple of Hearts](Temple_of_Hearts.md). Bell Giver's shrine is a unique NPC found in The Depths. It allows players to make bells by communicating with Bell Giver.
+Yun'Shul is the Drowned God of Wishes. While they do not appear in the game themselves, their [shrines](Deep_Shrines.md) do. As well as the Deep Shrines scattered throughout the overworld, there is also their main shrine in the [Temple of Hearts](Temple_of_Hearts.md). Yun'Shul's shrine is a unique NPC found in The Depths. It allows players to make wishes by communicating with Yun'Shul.
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.
 
 ## Wishes
 
-The player can interact with Bell Giver's shrine to obtain a bell. Making a bell requires some criteria:
+The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish requires some criteria:
 
--   You need to have a bell. You would have needed this anyway to get past the Bell Door. **If you attempt to speak to Bell Giver without a Bell (such as glitching in or being carried in by another player) the dialogue " screw you " will be given and you will be instantly killed and wipe.**
+-   You need to have a Resonance. You would have needed this anyway to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance (such as glitching in or being carried in by another player) you will be instantly killed and wipe.**
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't really apply on your first wish.
     -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
--   Have a wish available (sometime referred to as Bell Giver bell CD).
+-   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   All players start with a wish (and can only hold 1 at a time). A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérable](Misérables.md) for 15 Knowledge.
     -   Deepwoken updates occasionally reset the cooldown. This is fairly rare, however. (There hasn't been a wish reset since 2022, so it's doubted that it will ever happen again.)
 

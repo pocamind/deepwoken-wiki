@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 64354
+revid: 66155
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Sarkale talking about the [Firfire Caverns](Firfire_Caverns.md)
 
-_Also known as Boner (uhm), Bone guy, Bone man, anything that has "Bone" put in front of it._Template:EnemyInfobox1.0
+Template:EnemyInfobox1.0
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 66004
+revid: 66182
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -364,3 +364,4 @@ A Megalodaunt swimming.
 -   Most of the Megalodaunts are very hostile against Sand Knights and Golems so if you want to get a distraction get one of the Megalodaunt to target one of the main enemies it hates the most.
 -   Megalodaunts are friendly towards [Deep Owl](Deep_Owl.md), [Thresher](Thresher.md) as it is noticeable as they don't attack each other so therefore they can attack the player together.
 -   The Megalodaunt's "Thousand Needles" attack hits everyone, regardless of their hostility to the non-attackers.
+-   The Megalodaunt eating animation was reworked. (Yes it was reworked.)
