@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 65934
+revid: 65974
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -13,6 +13,8 @@ categories: [Pages with broken file links, Items, Attributes, Attunement]
 ## Training
 
 Each Attribute has a Training Item correlated to it. Using these Training Items will allow you to automatically increase the Attribute connected to it.
+
+If you get the message "I've learnt what I can from training right now, I should put it into practice..." when using a training gear it means that you need more XP for you to start investing points.
 
 ### Strength
 
@@ -45,9 +47,9 @@ Located at the antiquarian shop, and in the training room at Isle of Vigils.
 
 ### Intelligence
 
-**•** Books - 10-15% chance of getting from any book shelf, can also be obtained from guild librarians, and bought from Merchant ships.
+**•** [Books](Books.md) - 10-15% chance of getting from any book shelf, can also be obtained from guild librarians, and bought from [Merchant ships](Travelling_Merchant.md).
 
-/ **1 use**
+/ **1 use (For each book)**
 
 -   Encyclopedia - Template:Cost / **200 uses**
 -   Math Textbook - Template:Cost / **200 uses**

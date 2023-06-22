@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 65959
+revid: 65969
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -34,10 +34,12 @@ The prices of Chili's items may vary from price to price.
 
 -   **Weapons:**
     -   [Canorian Axe](Canorian_Axe.md)
+    -   [Markor's Inheritor](<Markor's_Inheritor.md>)
     -   [Champion's Dagger](<Champion's_Dagger.md>)
-    -   [Crescent Cleaver](Crescent_Cleaver.md)(65 Notes)
+    -   [Crescent Cleaver](Crescent_Cleaver.md)
     -   [Crucible Rapier](Crucible_Rapier.md)
     -   [Darksteel Greatsword](Darksteel_Greatsword.md)
+    -   [First Light](First_Light.md)
     -   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
     -   [Forgotten Gladius](Forgotten_Gladius.md)
     -   [Great Maul](Great_Maul.md)
@@ -68,7 +70,7 @@ The prices of Chili's items may vary from price to price.
     -   [Mercenary's Boots](<Mercenary's_Boots.md>)
     -   [Redsteel Pauldrons](Redsteel_Pauldrons.md)
     -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
-    -   Ruby Pendant Earrings(47 Notes)
+    -   Ruby Pendant Earrings
     -   [Silver Sabatons](Silver_Sabatons.md)
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)

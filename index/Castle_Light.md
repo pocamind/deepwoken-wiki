@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 65687
+revid: 65982
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -31,6 +31,7 @@ Castle Light is a safe area within the [First Layer](First_Layer.md) belonging t
 
 -   [Antiquarian](Antiquarian.md)
 -   [Blacksmith](Blacksmith.md)
+-   [Barber](Barber.md)
 -   [Nyanna](Nyanna.md)
 -   [Akira](Akira.md) (if met in a random encounter)
 -   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)

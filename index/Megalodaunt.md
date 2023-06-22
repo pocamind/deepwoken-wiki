@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 64333
+revid: 65978
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -363,3 +363,4 @@ A Megalodaunt swimming.
 -   Running from an Alpha Megalodaunt isn't an option sadly, as his tacet move instantly teleports him towards his target if this one is too far from him. Making him infamous for killing freshie deepbounds with his tacet bite.
 -   Most of the Megalodaunts are very hostile against Sand Knights and Golems so if you want to get a distraction get one of the Megalodaunt to target one of the main enemies it hates the most.
 -   Megalodaunts are friendly towards [Deep Owl](Deep_Owl.md), [Thresher](Thresher.md) as it is noticeable as they don't attack each other so therefore they can attack the player together.
+-   The Megalodaunt's "Thousand Needles" attack hits everyone, regardless of their hostility to the non-attackers.

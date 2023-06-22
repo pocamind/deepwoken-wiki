@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 64910
+revid: 65981
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -120,6 +120,8 @@ Please add miscellaneous islands or named landmarks here
 Please add miscellaneous islands or named landmarks here
 
 -   [The Entropy Catalyst](The_Entropy_Catalyst.md)
+-   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
+-   [Starfield Veldt](Starfield_Veldt.md)
     
 
 **Depths:**
@@ -127,8 +129,10 @@ Please add miscellaneous islands or named landmarks here
 **Schypozia:**
 
 -   [Celtor Wastes](Celtor_Wastes.md)
+    
     -   [Castle Light](Castle_Light.md)
     -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
+    
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
     -   [Varicosa District](Varicosa_District.md)
     -   [District of Commerce](District_of_Commerce.md)
@@ -147,7 +151,7 @@ Please add miscellaneous islands or named landmarks here
 -   [Firfire](Firfire.md)
     -   [Firfire Caverns](Firfire_Caverns.md)
 -   [Sanctuary Gatehouse](Sanctuary_Gatehouse.md)
--   Frontier Furance
+-   [The Frontier Furnace](The_Frontier_Furnace.md)
 -   [The Maw of Ethiron](The_Maw_of_Ethiron.md)
 -   [Pilgrim's Respite](<Pilgrim's_Respite.md>)
     

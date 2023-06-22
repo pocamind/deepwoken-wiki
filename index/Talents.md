@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 65957
+revid: 65980
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1390,6 +1390,9 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
     -   Prerequisite: 100 Ironsing
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   Prerequisites: 45 Ironsing
+-   Intuitive Repairs \[Common Talent, Ironsing Exclusive\] - Your 'Iron Skin' repairs armor while it's active.
+    -   Iron Skin also repairs natural armor from Chitin and Exoskeleton.
+    -   Prerequisite: Iron Skin mantra, 25 Ironsing
 -   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
     -   Prerequisite: Caltrops mantra, 45 Ironsing
 -   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
