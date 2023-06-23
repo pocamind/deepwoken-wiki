@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 63786
+revid: 66211
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -30,3 +30,4 @@ Their dialogue does not change with reputation.
 ## Trivia
 
 -   The Guards seem to either be unable to talk, or are harmed when you talk to them. Their dialogue says that "It sounds as if they are trying to talk through a punctured lung"
+-   When you have bad rep (which cannot be restored) Angels will spawn around certain places for you even if you were not seen by a watcher.

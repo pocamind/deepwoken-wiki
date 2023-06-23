@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 65686
+revid: 66210
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -30,9 +30,11 @@ Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and
 
 The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, it is strongly recommended that you do not intentionally go to the Depths.
 
+There are 3 main places besides The city of drowned, these being: Castle Light, The Chariots Spire, And Marauders Entrance.
+
 ## Whirlpools
 
-Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md). Finding Whirlpools can be found across the world of Lumen; either it be next to a common location such as [Etris](Etris.md) or in the Voidsea.
+Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md), and the Chariots Spire. Finding Whirlpools can be found across the world of Lumen; either it be next to a common location such as [Etris](Etris.md) or in the Voidsea.
 
 ### Whirlpool Locations
 

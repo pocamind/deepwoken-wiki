@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 65370
+revid: 66205
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -44,6 +44,8 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+-   Suffocating Impact - Enemies the user flourishes into walls are Suffocated and Winded for a short duration.
+-   Concussion - Enemies the user flourishes into walls have their vision altered for a short duration and are dazed longer than usual.
 
 ## Finisher
 

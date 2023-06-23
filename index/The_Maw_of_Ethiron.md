@@ -1,6 +1,6 @@
 ---
 title: The Maw of Ethiron
-revid: 62378
+revid: 66203
 source: https://deepwoken.fandom.com/wiki/The_Maw_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -23,6 +23,7 @@ The Maw of Ethiron is a large network of stone towers within the [Second Layer](
 ## Potential Enemies
 
 -   [Bone Keeper](Bone_Keeper.md)
+-   [Carbuncle](Carbuncle.md)
 
 ## Trivia
 
