@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66195
+revid: 66222
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1024,10 +1024,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The anti-heal effect is signified by a purple particle effect on the victim.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
-    -   Gives a burst of insanity to yourself, which achieve the following:
-        -   You start benefitting from talent that need you to have insanity to use (namely Lose Your Mind)
-        -   Talent that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   Prerequisite: 80 willpower, have HAD tier 1 insanity (shivering), and talk to Kasen located in layer 2 floor 1.
+    -   Gives a burst of insanity to yourself, which achieves the following:
+        -   You start benefitting from talents that require insanity to use (namely Lose Your Mind)
+        -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
+    -   Prerequisite: 80 willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
 
 ### Human Architecture
 
@@ -1270,9 +1270,8 @@ Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence whe
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity)
     -   Prerequisites: 30 Agility, 55 Galebreathe, Gale Dash
 
--   _Gale Dash_ \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
-    -   Prerequisites: 25 Agility, 40 Galebreathe
-        -   {(This might now be 'Air Pressure', but the description is different; Needs confirmation.)}
+-   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
+    -   Prerequisites: 25 Agility, 50 Galebreathe
 
 -   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility)
     -   Reduce posture damage taken by 50% (as much as a 2 weight shield) while standing still and using a spear.

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 66210
+revid: 66227
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -30,11 +30,9 @@ Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and
 
 The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, it is strongly recommended that you do not intentionally go to the Depths.
 
-There are 3 main places besides The city of drowned, these being: Castle Light, The Chariots Spire, And Marauders Entrance.
-
 ## Whirlpools
 
-Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md), and the Chariots Spire. Finding Whirlpools can be found across the world of Lumen; either it be next to a common location such as [Etris](Etris.md) or in the Voidsea.
+Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md), and [The Chariot's Spire](<The_Chariot's_Spire.md>). Finding Whirlpools can be found across the world of Lumen; either it be next to a common location such as [Etris](Etris.md) or in the Voidsea.
 
 ### Whirlpool Locations
 
@@ -52,9 +50,7 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 -   In the middle of the sea highway connecting [Miner's Landing](<Miner's_Landing.md>) and [Fort Merit](Fort_Merit.md).
 -   Many whirlpools within the vicinity of [Boatman's Watch](<Boatman's_Watch.md>).
 
-(There are many more than what is noted here)
-
-(Whirlpools can also just spawn in on the edges of highways (rarely))
+Whirlpools can also rarely spawn on the edges of highways and other random locations, such as in the divide between the two main halves of the [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Layers
 
@@ -68,4 +64,4 @@ Please visit their respective pages below by clicking on them for more informati
 
 ## Trivia
 
--   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering **The Depths** at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle). Power 15+ gets a mob to kill.
+-   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering **The Depths** at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely, being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).

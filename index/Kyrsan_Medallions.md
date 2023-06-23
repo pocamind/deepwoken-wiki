@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Medallions
-revid: 65966
+revid: 66215
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 2]
@@ -27,7 +27,7 @@ Kyrsan Medallions can be exchanged for lots of services, crucial for the end-gam
 3.  [Equipment Enchant](Enchantments.md) \[5 Medallions\] - Applies a random enchant to a piece of equipment that you're holding out.
 4.  Equipment Dye \[1 Medallion\] - Gives you an item that allows you to dye one of your armor pieces, your Bell, your Arc Suit or your Hairs. You will also receive a Dye Remover.
 5.  Can you teach me the secret of Radiant magic? \[30 Medallions\] - Grants you the [Oath: Dawnwalker](Oaths.md). Requires additional Medallions in order to unlock talents and mantras.
-6.  \[if you have the Dawnwalker Oath\] Can you enhance my Radiant mastery? \[15 Medallions\] - Gives Dawnwalker users an additional skill. There are three skills in total and the base oath costs 30 medallions to obtain, meaning it costs 60 medallions to max out the oath.
+6.  \[if you have the Dawnwalker Oath\] Can you enhance my Radiant mastery? \[15 Medallions\] - Gives Dawnwalker users an additional skill. There are three skills in total and the base oath costs 30 medallions to obtain, meaning it costs 75 medallions to max out the oath.
 
 Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 

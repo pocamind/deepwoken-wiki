@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 65969
+revid: 66228
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -8,7 +8,7 @@ categories: [NPCs, Vendors]
 
 # Travelling Merchant
 
-“ You want to buy? ”
+“ You want buy? ”
 
 ― Chili to a potential customer
 
@@ -34,7 +34,6 @@ The prices of Chili's items may vary from price to price.
 
 -   **Weapons:**
     -   [Canorian Axe](Canorian_Axe.md)
-    -   [Markor's Inheritor](<Markor's_Inheritor.md>)
     -   [Champion's Dagger](<Champion's_Dagger.md>)
     -   [Crescent Cleaver](Crescent_Cleaver.md)
     -   [Crucible Rapier](Crucible_Rapier.md)
@@ -46,6 +45,7 @@ The prices of Chili's items may vary from price to price.
     -   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>)
     -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
     -   [Iron Birch](Iron_Birch.md)
+    -   [Markor's Inheritor](<Markor's_Inheritor.md>)
     -   [Petra's Anchor](<Petra's_Anchor.md>)
     -   [Razor Cutlass](Razor_Cutlass.md)
     -   [Shattered Katana](Shattered_Katana.md)
@@ -70,7 +70,7 @@ The prices of Chili's items may vary from price to price.
     -   [Mercenary's Boots](<Mercenary's_Boots.md>)
     -   [Redsteel Pauldrons](Redsteel_Pauldrons.md)
     -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
-    -   Ruby Pendant Earrings
+    -   [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
     -   [Silver Sabatons](Silver_Sabatons.md)
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
@@ -84,4 +84,3 @@ Chili's Ship
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
 -   Chill always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
--   there is the possibility to re-buy whatever you want using the same notes that were obtained by selling the same product, however the notes obtained by the sale do not equal the purchase price.
