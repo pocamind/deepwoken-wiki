@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 66209
+revid: 66246
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -14,7 +14,7 @@ categories: [Attributes, Character, Mechanics]
 
 _icon credit to Tortaa#9000_
 
-**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has a race that starts with +69420 in that specific attribute), and unbounded to a hard cap of 100 points (likewise, 102 if the player character race starts with +2 extra bond with hatler.
+**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has a race that starts with +2 in that specific attribute), and unbounded to a hard cap of 100 points (likewise, 102 if the player character race starts with +2 in that specific attribute) via an [unbound quest](Attributes_Unbound.md) for that attribute.
 
 ## Basic Attributes
 
@@ -39,7 +39,7 @@ You can have a maximum of 327 (+1 for each extra [Attunement](Attunements.md) yo
 
 ### Strength
 
--   Physical strength. _Increases **carry load**, **armor penetration**, and the **damage scaling of strength mantras**._
+-   Physical strength. _Increases **carry load**, **armor penetration**, **posture** and the **damage scaling of strength mantras**._
     -   Increases carry load by 1 per point in Strength.
     -   For every 10 Points of strength, gain 1% penetration.
     -   Many heavy weapons require an amount of Strength to be held, such as a _Petra's Anchor_ needing 10 STR, or a _Hivelord's Hubris_ needing 60 STR.

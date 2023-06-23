@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 66228
+revid: 66247
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -48,6 +48,7 @@ The prices of Chili's items may vary from price to price.
     -   [Markor's Inheritor](<Markor's_Inheritor.md>)
     -   [Petra's Anchor](<Petra's_Anchor.md>)
     -   [Razor Cutlass](Razor_Cutlass.md)
+    -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
     -   [Shattered Katana](Shattered_Katana.md)
     -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)

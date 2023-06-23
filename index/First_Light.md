@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 61639
+revid: 66248
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -32,15 +32,15 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 
 File:Image 2023-04-16 125111912.png
 
-The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in the game, obtainable by killing a [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt). Although the drop is very rare, it does have a bit of value. It's apart of one of the weapons possessing unique animations.
+The First Light is one of the many [Heavy Weapons](Weapons.md) you can obtain in the game, obtainable very rarely by killing a [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt). It has unique animations and a unique critical. Due to its rarity, it possesses decent value in trading.
 
 ## Critical Attack
 
 ### Fire Storm
 
-User plummets their sword into the ground, similar to Flame Eruption causing everyone near the user to be burnt. Then it will proceed to rain down flaming swords from the sky, identical to the Crimson Megalodaunt's Pyroclastic Roar.
+The user plunges their sword into the ground, similar to Flame Eruption, causing everyone near the user to be burnt. This is followed up with flaming swords raining from the sky, similar to the Crimson Megalodaunt's Pyroclastic Roar.
 
--   It is mostly used as a distraction more than a damage dealing crit.
+-   It is mostly used as a distraction as opposed to dealing actual damage due to the sheer amount of visuals it creates.
 
 ## Trivia
 
