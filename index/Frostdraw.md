@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 65605
+revid: 66271
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -324,6 +324,39 @@ _Swift bolts of frozen air._
 -   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
 
  |
+
+|-
+
+|width=32%; rowspan="3"; class="mobile-hidden" id="{{{n"|
+
+**{{{n** me}}}
+
+ _{{{desc}}}_
+
+|width=32%; colspan="3"; class="mobileonly" id="{{{n"|
+
+## {{{n me}}}
+
+  
+_{{{desc}}}_
+
+|-style="padding:0px; height:1% !important;"
+
+|
+
+{{{ethercostesc}}}
+
+|
+
+{{{dmgtype}}}
+
+|
+
+{{{reqs}}}
+
+|- |colspan="5"| {{{noeffect}}} |-
+
+  
 
 ### **Mobility**
 

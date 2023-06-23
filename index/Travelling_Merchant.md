@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 66247
+revid: 66275
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -45,15 +45,17 @@ The prices of Chili's items may vary from price to price.
     -   [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>)
     -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
     -   [Iron Birch](Iron_Birch.md)
+    -   [Krulian Knife](Krulian_Knife.md)
     -   [Markor's Inheritor](<Markor's_Inheritor.md>)
+    -   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>)
     -   [Petra's Anchor](<Petra's_Anchor.md>)
     -   [Razor Cutlass](Razor_Cutlass.md)
+    -   [Rifle Spear](Rifle_Spear.md)
     -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
     -   [Shattered Katana](Shattered_Katana.md)
     -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)
     -   [Whaling Knife](Whaling_Knife.md)
-    -   [Krulian Knife](Krulian_Knife.md)
 -   **Armors:**
     -   [Authority Helm](Authority_Helm.md)
     -   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
@@ -73,6 +75,8 @@ The prices of Chili's items may vary from price to price.
     -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
     -   [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
     -   [Silver Sabatons](Silver_Sabatons.md)
+    -   [Star Boots](Star_Boots.md)
+    -   [Star Duster](Star_Duster.md)
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
 -   **Lore Books:**

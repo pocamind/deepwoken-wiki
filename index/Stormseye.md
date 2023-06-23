@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 65649
+revid: 66284
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -26,14 +26,14 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Ferryman, Primadon, Fury Nautilodaunt |
+| obtainment | The Ferryman, Primadon, Fury Nautilodaunt, Fishing (Chest) |
 | description | Pilfered from Union shipments, the Summer Company saw the tremendous energy stored within Kyrsan Medallions and fashioned this uniquely violent prototype. Rosen allegedly burst into raucous laughter when presented with the draft, immediately giving his approval. |
 
 ## Description
 
 The Stormseye is a legendary weapon that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end. Using its aerial teleports you behind the person you hit and stuns them.
 
-The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md) and [Primadon](Primadon,_Titan_of_the_East.md).
+The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md), [Primadon](Primadon,_Titan_of_the_East.md) and is also a drop from [Fishing](Fishing.md) (chest).
 
 ## Critical Attack
 

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 66221
+revid: 66279
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -128,6 +128,7 @@ notices:
 
 ## Other
 
+-   **Set Spawns -** During its testing phase, all spawns were in set locations, with no randomized spawns.[\[1\]](#cite-note-1)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was possibly the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
@@ -145,3 +146,5 @@ notices:
 -   **Stormcaller** **\-** An affiliated NPC in earlier versions would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations on the Roblox Engine.
 -   **Banker -** You used to be able to turn in large crates/chests to a banker. For an unknown amount of notes, he would open these, presumably giving you several items, similarly to [Artifacts](Artifacts.md).
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
