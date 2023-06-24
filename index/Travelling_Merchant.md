@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 66275
+revid: 66311
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -68,6 +68,7 @@ The prices of Chili's items may vary from price to price.
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
     -   [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
     -   [Imperial Pauldrons](Imperial_Pauldrons.md)
+    -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
     -   [Khan Helmet](Legion_Helmet.md)
     -   [Khan Pauldrons](Legion_Pauldrons.md)
     -   [Mercenary's Boots](<Mercenary's_Boots.md>)
@@ -88,4 +89,9 @@ Chili's Ship
 
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
--   Chill always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
+-   Chili always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
+-   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships would cause a large explosion and several Assassins wearing the Bandit Leader outfit and a modified Gold Assassin Cloak will spawn.
+    
+    A merchant ship being raided by Assassins.
+    
+-   These Assassins are equipped with several different knives and may use [Frostdraw](Frostdraw.md) or [Shadowcast](Shadowcast.md) mantras alongside certain [Attunementless mantras](Attunement-less.md), notably Strong Left and Rapid Punches.

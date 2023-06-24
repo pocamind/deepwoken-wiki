@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 66288
+revid: 66307
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Races]
 
 # Gremor
 
-Template:Races-Main
+i love catgirlsTemplate:Races-Main
 
 "_Deer-horned pariahs who lived a  
 peaceful life as nomads before the tides came.  
