@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 65878
+revid: 66296
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -349,7 +349,7 @@ _Undying flame._
     -   Regenerates ~15% of user's health upon receiving lethal damage.
 -   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.
--   Restoress some of the user's sanity.
+-   Restores some of the user's sanity.
 -   Putting _Vibrant Gems_ on it seems to add more keys extends the ritual casting,
     -   Potentially Incompatible with Duration modifiers.
 -   Freezes user in place for a brief moment on a successful cast.

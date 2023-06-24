@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 66271
+revid: 66293
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -253,6 +253,25 @@ _Form an ice spear and lunges forward._
 -   User gains considerable forward momentum on use.
 
  |
+|  | 
+
+Ice Cubes
+
+(★★★)
+
+ | 
+
+_Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cubes._
+
+ | User summons 3 Ice Cubes and throws them to where their cursor is.
+
+-   Compatible with a Multiplying Spark to instead send them one by one.
+-   Deals moderate damage.
+-   Has a good amount of range.
+-   Inflicts Chill.
+-   Not compatible with Stratus Stones or Rush Shards.
+
+ |
 | [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 
 
   
@@ -272,7 +291,7 @@ _Send ice rippling out in a shockwave._
 
 **Crystal:**
 
-These mantras require Glasspath: Crystalization ability (40 Frostdraw) to have them appear in your deck.
+These mantras require Glasspath: Crystallization ability (40 Frostdraw) to have them appear in your deck.
 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 60819
+revid: 66288
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -20,7 +20,7 @@ Chance of obtaining race: **13.3%**
 
 Gremors are a race similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate, as well as boosted reputation with The Children Of Navae.  
 
-## Racial Traits
+## Racist Traits
 
 <table>
 <tbody>
@@ -55,7 +55,7 @@ Gremors are a race similar to deer. They appear with greenish, blue or brown ski
 
 LORE:
 
-The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
+they were enslaved
 
 **Strengths:**
 
