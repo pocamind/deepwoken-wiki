@@ -1,11 +1,10 @@
 ---
 title: "Chests & Sacks"
-revid: 65235
+revid: 66314
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, In progress without reason, InProgressPages, Mechanics]
+categories: [In progress without reason, InProgressPages, Mechanics]
 notices:
-  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"who even uses this?\""
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
@@ -42,7 +41,7 @@ The color of a chest depends on where you got it from, consisting of four variat
 -   [Alpha Megalodaunt](Megalodaunt.md)
 -   [Terrapod](Terrapod.md)
 -   [Thresher](Thresher.md)
--   [Nautilodaunt](Nautilodaunt.md)
+-   [Nautilodaunt](Nautilodaunt.md) (WHY IS HE HERE? WHO LET RAG COOK?)
 
 ## Sacks
 

@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 66311
+revid: 66315
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -48,6 +48,7 @@ The prices of Chili's items may vary from price to price.
     -   [Krulian Knife](Krulian_Knife.md)
     -   [Markor's Inheritor](<Markor's_Inheritor.md>)
     -   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>)
+    -   [Pale Morning](Pale_Morning.md)
     -   [Petra's Anchor](<Petra's_Anchor.md>)
     -   [Razor Cutlass](Razor_Cutlass.md)
     -   [Rifle Spear](Rifle_Spear.md)
@@ -90,8 +91,6 @@ Chili's Ship
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
 -   Chili always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
--   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships would cause a large explosion and several Assassins wearing the Bandit Leader outfit and a modified Gold Assassin Cloak will spawn.
+-   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning several Cloaked Assassins.
     
     A merchant ship being raided by Assassins.
-    
--   These Assassins are equipped with several different knives and may use [Frostdraw](Frostdraw.md) or [Shadowcast](Shadowcast.md) mantras alongside certain [Attunementless mantras](Attunement-less.md), notably Strong Left and Rapid Punches.
