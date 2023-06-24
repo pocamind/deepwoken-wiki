@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66217
+revid: 66301
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -777,5 +777,6 @@ Proof of Time Magic's existance and it being an "Oath".
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.
 -   The Dawnwalker talents used to each give 5 extra health.
 -   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, suffocate, piercing will, cheap shot etc. ,which is questionable that Blindseer was better than Silentheart for doing better m1-damage in combat when it's activated. However ,during May 16th 2023's patch note, it was found out as bug,so Tranquil Circle is no longer able to activate status-related talents.
+-   Silentheart's talent names reference _Fire Emblem_ multiple times. Most notable is Lodestar and Mani Katti, which are both references to the names of unique swords in the Fire Emblem series.
 -   Arcwarder armor is similar to Bulats "Incursio" From Akame Ga Kill!
 -   Arcwarder's oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.

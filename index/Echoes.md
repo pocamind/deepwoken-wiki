@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 65675
+revid: 66300
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Echoes, Character, Mechanics, Creation]
@@ -62,7 +62,6 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Completing [Layer 2](Second_Layer.md) floor 1 without Light Hook, awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
--   Obtaining a [Legendary Resonance](Resonance.md), awarding 15 more echoes.
 
 ## Upgrades and Modifiers
 
