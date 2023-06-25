@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 65177
+revid: 66348
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -22,7 +22,7 @@ They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
 
 ## Moveset
 
-An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md) and have a chance to be enchanted.
+An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [Darksteel Greatsword](Darksteel_Greatsword.md).
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ An Ignition Union Fighter executes the player after knocking them:
 
 ## Tips
 
--   When you're fighting an Ignition Union Fighter, treat them like an [Bandit Captain](Bandit_Leader.md) but with more health.
+-   When you're fighting an Ignition Union Fighter, treat them like a [Bandit Captain](Bandit_Leader.md) but with more health.
 -   Apply standard humanoid fighting tactics.
 -   They don't use mantras. It is easy to escape them when you're getting low.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.

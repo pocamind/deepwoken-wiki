@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 66238
+revid: 66357
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Talents]
@@ -146,7 +146,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My ice protects like a flower growing thorns. **(Cryoni) (Note; Cannot give Preceding Chill)**_
 -   _I speak to the frost. **(Frostdrawer)**_
 -   _Those that step on my ice know they have made a grave error. **(NOT Frozen Warrior, ~likely Frostthorn~. I believe it's Cryoni, as it was the only Frost cards I got from this.)**_
--   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Frozone, Saint Jay, Shatter Spear)**_
+-   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Frozone, Saint Jay)**_
 -   _I am a Glassdancer from the Eastern Steppes. **(Glassdancer)**_
 -   I seek the qualities of FlashFreeze. _**(FlashFreeze)**_
 
