@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 65933
+revid: 66372
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -79,7 +79,7 @@ Murmur: Tacet can be obtained in two ways; one of them being that you don't have
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
-Note: The Stranger NPC exists, but he no longer gives Tacet to players.
+Note: The Stranger NPC exists, but ~he no longer gives Tacet to players.~ (You need a lot of charisma, around 70-80.)
 
   
 

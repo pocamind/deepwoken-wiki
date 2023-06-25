@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 66017
+revid: 66362
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -498,7 +498,6 @@ Reversal Spark
 -   Lightning Impact
 -   Grand Javelin
 -   Air Force
--   Gale Punch
 -   Tornado
 -   Adrenaline Surge
 -   Dash
@@ -1033,23 +1032,6 @@ File:Air Force with Reversal Spark.gif
  | 
 
 -   This modifier reverses the "Air Force" mantra to pull targets in, instead of blasting them away.
-
- |
-| 
-
-Gale Punch
-
-(★)
-
- | 
-
- | 
-
-File:Gale Punch with Reversal Spark.gif
-
- | 
-
-Pulls them in instead of pushing
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66222
+revid: 66369
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2272,7 +2272,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
     -   Create a dark blueish fog around you (simulating blindness).
-    -   In your attempt to escape visions of horror, having the Blinded flaw/talent in The Depths **will completely obscure your vision, you will not be able to see a thing** (unless you have Blindseer Oath).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   The talent grants immunity to the Flame Blind mantra.
 

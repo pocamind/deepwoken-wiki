@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 62697
+revid: 66367
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -70,6 +70,7 @@ Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic fi
 -   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 -   [Miserables](Misérables.md)
 -   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
+-   Kaide, the Drowned Light
 
 ## Lore
 
@@ -77,7 +78,9 @@ Second Floor is the deepest point of the Eternal Gale. You can find here New Kyr
 
   
 
-  
+## Gallery
+
+File:Kaide, The Drowned Light.png
 
 ## Trivia
 
@@ -87,7 +90,7 @@ Second Floor is the deepest point of the Eternal Gale. You can find here New Kyr
     -   The 45 minute time limit is in place because New Kyrsa suffers under time dilation. It's also called Space-time collapse.
     -   It seems like you can find some people who have lost their minds and gone insane from infinite amount of time resets.
 -   Some of Black Divers in New Kyrsa are affected by this "Ethiron's hypnosis", actually named "Mist Presence". Some of them are located near one of five Obelisks. They all wield Markor's Inheritor.
--   Contrary to popular belief, New Kyrsa didn't sink into the Depths. It was actually made inside the Depths by Kyrsgarde. New Kyrsa does not match human standards at all, not to mention the fact that Spellhardt and Naerotiv talks about it. Firfire also has the same technology and the fact entering Firfire makes you quote "seem familiar but very alien". New Kyrsa was made as shrine and bedchamber to Scion of Ethiron.
+-   Contrary to popular belief, New Kyrsa didn't sink into the Depths. It was actually made inside the Depths by Kyrsgarde. New Kyrsa does not match human standards at all, not to mention the fact that Kaide and Naerotiv talks about it. Firfire also has the same technology and the fact entering Firfire makes you quote "seem familiar but very alien". New Kyrsa was made as shrine and bedchamber to Scion of Ethiron.
 -   You do not have to escape Second Floor via defeating the Scion of Ethiron in order to keep your quest progress. Talking to Carrion will still make him appear in Castle Light even if you Lighthook up or die within Lighthook's time frame. (Confirmed)
 -   The Kyrsgarde artillery on the outskirts of the city can be avoided by standing under cover. The spears do not go through objects.
 -   The Kyrsgarde Artillery may be a reference to the chase scene with Undyne in the game _Undertale_.

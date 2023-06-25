@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 64278
+revid: 66363
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Power.md) 10 and [Agility](Attributes.md) 25.
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemental resistance and +10% Wind resistance.
+This Outfit has 1200 durability and grants +30% Physical resistance, +20% Elemental resistance, +10% Wind resistance and 15% Ironsing resistance.
 
 ### _**Armor Talent**_
 

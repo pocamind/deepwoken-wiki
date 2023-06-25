@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 65684
+revid: 66371
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -10,7 +10,7 @@ notices:
 
 # Equipment
 
-Armor is an essential part to Deepwoken, being the primary means of resisting damage from most sources.
+Amour is an essential part to Deepwoken, being the primary means of resisting damage from most sources.
 
 Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
 
@@ -46,7 +46,7 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
   <td>4 5</td>
   <td>N/A</td>
   <td>N/A</td>
-  <td>2 3 4 5</td>
+  <td>2 3 4</td>
 </tr>
 <tr>
   <td>Ether (ETH)</td>
