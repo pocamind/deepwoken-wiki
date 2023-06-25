@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 65958
+revid: 66337
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -182,12 +182,12 @@ Press X to pull targets with Metal Rods towards you.
 
  | 
 
-Master Ironsinger
+Master Ironsinger  
+(METAL 50)
 
  | 
 
-You can now obtain 3-star Ironsinger mantras.  
-**Prerequisite: 50 Metal**
+You can now obtain 3-star Ironsinger mantras.
 
  | 
 
@@ -204,12 +204,12 @@ These are talents found in "_Rending Needle_" Category. (You can only have one o
 | 
  | 
 
-Metalsmith: Conductor
+Metalsmith: Conductor  
+(METAL 75)
 
  | 
 
-5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental mantra, they're dealt their elemental back in turn.  
-**Prerequisites: 75 Metal**
+5 metal rods will combine into a conductor rod. If the enemy uses an non-Ironsing elemental mantra, they're dealt their elemental back in turn.
 
  | 
 
@@ -220,12 +220,12 @@ Metalsmith: Conductor
 
  | 
 
-Metalsmith: Impaler
+Metalsmith: Impaler  
+(METAL 75)
 
  | 
 
 If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.  
-**Prerequisites: 75 Metal**
 
  | 
 
@@ -236,12 +236,12 @@ If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pull
 
  | 
 
-Metalsmith: Jailer
+Metalsmith: Jailer  
+(METAL 75)
 
  | 
 
-If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.  
-**Prerequisites: 75 Metal**
+If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
 
  | 
 
@@ -258,12 +258,12 @@ These are talents found in "_Metallurgist_" Category.
 | 
  | 
 
-Ironclad Punishment
+Ironclad Punishment  
+(METAL 45)
 
  | 
 
-Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.  
-**Prerequisites: 45 Metal**
+Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
 
  | 
 
@@ -274,12 +274,12 @@ The higher durability your enemy has, the more posture damage they take.
 
  | 
 
-Thornmail
+Thornmail  
+(METAL 45)
 
  | 
 
-Getting flourished applies a metal rod on your attacker.  
-**Prerequisites: 45 Metal**
+Getting flourished applies a metal rod on your attacker.
 
  | 
 
@@ -292,14 +292,13 @@ File:Alloyblood.jpg
 
  | 
 
-Alloyblood
+Alloyblood  
+(METAL 100)
 
  | 
 
 You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
 
-  
-**Prerequisites: 100 Metal**  
 (Advanced Talent)
 
  | 
@@ -317,12 +316,12 @@ These are talents found in "_Adaptive Arsenal_" Category.
 | 
  | 
 
-Exposed Durability
+Exposed Durability  
+(METAL 60)
 
  | 
 
-Deal 10% more damage to opponents with no armor durability left.  
-**Prerequisites: 60 Metal**
+Deal 10% more damage to opponents with no armor durability left.
 
  | 
 
@@ -333,12 +332,12 @@ Increased damage talent
 
  | 
 
-Intuitive Repairs
+Intuitive Repairs  
+(METAL 25)
 
  | 
 
-Your 'Iron Skin' repairs armor while it's active.  
-**Prerequisites: 25 Metal**
+Your 'Iron Skin' repairs armor while it's active.
 
  | 
 
@@ -349,12 +348,12 @@ It repairs both your armor and natural armor.
 
  | 
 
-An Ironsinger's Instinct
+An Ironsinger's Instinct  
+(METAL 75)
 
  | 
 
-Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.  
-**Prerequisites: 75 Metal**
+Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken.
 
  | 
 
@@ -365,12 +364,12 @@ Upon dodging, reduce the damage taken from the next attack.
 
  | 
 
-Phantom Edge
+Phantom Edge  
+(METAL 75)
 
  | 
 
-Your weapon M1's have +0.25 range.  
-**Prerequisites: 75 Metal**
+Your weapon M1's have +0.25 range.
 
  | 
 

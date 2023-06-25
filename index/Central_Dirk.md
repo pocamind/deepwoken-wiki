@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 64875
+revid: 66334
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -25,7 +25,7 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare drop from King Thresher, Fishing Chests, Voidwalker's chest |
+| obtainment | Rare drop from King Thresher, Fishing Chests, Voidwalker's chest, Merchant's ship |
 
 ## Description
 

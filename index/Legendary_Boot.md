@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 58634
+revid: 66325
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, NPCs]
@@ -44,7 +44,7 @@ Go past the bandit camp in lower Erisia. Then take a left until you reach the cl
 
 > Legendary Boot: Someone WORTHY.
 
-> 1\. But I'm very powerful, I should be worthy. (Requires power 20)
+> 1\. But I'm very powerful, I should be worthy. (Requires power 8)
 
 > Legendary Boot: Not powerful enough to be WORTHY.
 

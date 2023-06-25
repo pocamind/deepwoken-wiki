@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 65522
+revid: 66336
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -53,6 +53,6 @@ A Bandit Leader executes their opponent after knocking them:
 
 ## Trivia
 
--   The Bandit Officers, especially if they wield the Silver Dagger, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with the speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
+-   The Bandit Leaders, especially if they wield the Silver Dagger, are infamous for being extremely difficult (at lower levels) on higher ping servers due to the AI's immediate input paired with the speed of daggers, as well as sometimes being able to shred through a player's Blood bar and indirectly kill them that way.
 -   Their "Iron Sword" is not seen anywhere else in the game, and cannot be obtained by players.
 -   Used to be called "Bandit Captains".
