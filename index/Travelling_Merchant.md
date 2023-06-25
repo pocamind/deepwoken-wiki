@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 66315
+revid: 66376
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -53,6 +53,7 @@ The prices of Chili's items may vary from price to price.
     -   [Razor Cutlass](Razor_Cutlass.md)
     -   [Rifle Spear](Rifle_Spear.md)
     -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
+    -   [Serpent's Edge](<Serpent's_Edge.md>)
     -   [Shattered Katana](Shattered_Katana.md)
     -   [Tanto](Tanto.md)
     -   [Vigil Longsword](Vigil_Longsword.md)
