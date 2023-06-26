@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 66246
+revid: 66401
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -27,7 +27,7 @@ Attributes can be increased by using a respective [attribute training tool](Trai
 -   Willpower -> _use the **Prayer Beads**_
 -   Charisma -> _recite the_ **How to Make Friends** _book_
 
-You can have a maximum of 327 (+1 for each extra [Attunement](Attunements.md) you have) points on a character at [Power](Power.md) 20:
+You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 for each extra [Attunement](Attunements.md) you have, although if you drink an attunement potion before you've invested all of your points, it will use a point)
 
 -   300 from **levels**.
 -   10 from **attunement** (_Attunement-less characters instead spawn in with an extra 10 investment points to distribute freely.)_

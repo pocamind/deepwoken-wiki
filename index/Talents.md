@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66387
+revid: 66395
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2339,7 +2339,7 @@ _You can find a more detailed list of Physical Mantras [here.](Attunement-less.m
 #### Fortitude Mobility
 
 -   Shoulder Bash - Rush into your enemies with your full physical force.
-    -   Prerequisite: 15 Fortitude
+    -   Prerequisite: 40 Fortitude
 
 #### Agility Combat
 

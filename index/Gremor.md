@@ -1,51 +1,28 @@
 ---
 title: Gremor
-revid: 66335
+revid: 66394
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Races]
 ---
 
 # Gremor
 
 i love catgirlsTemplate:Races-Main
 
-"_Deer-horned pariahs who lived a  
+"_Deer-horned with a big cake pariahs who lived a  
 peaceful life as nomads before the tides came.  
 Tolerant of extremes that many others would avoid._"
 
-Chance of obtaining race: **13.3%**
+Chance of obtaining race: 0**%**
 
 ## Description
 
 Gremors are a race similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate, as well as boosted reputation with The Children Of Navae.  
 
-## Racist Traits
+# Racial Traits
 
-<table>
-<tbody>
-<tr>
-  <td>File:Navae's Guidance.png</td>
-  <td><b>Navae's Guidance</b>
-  <ul>
-    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation.</i>"
-  <ul>
-    <li>Gain a compass at the top of your screen that points South.</li>
-    <li>Reduced hunger loss.</li>
-    <li>If blind, gain a slight range of clear vision around you.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><center><font>+2</font></center></td>
-  <td><b>Attribute Boosts</b>
-  <ul>
-    <li>+2 Strength</li>
-    <li>+2 Fortitude</li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+Navae Guidance gives thugshakers buffed version of "sightless beam" that lets them automatically make a vow with you and give them option to wipe your build or no. You should log as soon as you see one of the thugshakers, or your build will be wiped.
 
   
 
