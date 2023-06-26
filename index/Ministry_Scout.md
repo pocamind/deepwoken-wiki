@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 65799
+revid: 66413
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -54,4 +54,4 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 -   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra, and it's apparently only exclusive to the scouts.
 -   The [Krulian Knife](Krulian_Knife.md) is also rarely referred to the community as a Ben's Knife, due to the fact the model of the knife is a direct 'copy' to a knife in the anime [Hunter X Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter).
 -   It is possible to increase reputation with The Ministry by helping Ministry Scouts in Summer Company vs The Ministry events in Summer Isle. However, your reputation with them is set to negative, so much more grinding is needed to get positive reputation with them compared to other factions.
--   When gripped by a [Gran Sudaruska](Gran_Sudaruska.md), causes it to speak.
+-   When gripped by a [Gran Sudaruska](Gran_Sudaruska.md), the spirit of Sudaruska will speak.

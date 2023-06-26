@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 65974
+revid: 66415
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -36,6 +36,8 @@ A boulder in front of the Antiquarian shop at Etris
 -   Boulder - Template:Cost / **200 uses**
 
 Located at the antiquarian shop, and in the courtyard of [Isle of Vigils](Isle_of_Vigils.md).
+
+Will kill you if you are still holding it at 1% health.
 
 ### Agility
 

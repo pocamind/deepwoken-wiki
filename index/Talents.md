@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66402
+revid: 66411
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2053,7 +2053,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Tyrant
 
--   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 40s cooldown. (+1 Posture)
+-   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.
     -   Makes you immune to Defiant Until the End and Last Second Negotiations when it procs.
     -   Prerequisites: 100 Charisma, 50 Strength
