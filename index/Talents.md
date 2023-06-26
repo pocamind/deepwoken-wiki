@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66395
+revid: 66402
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1120,9 +1120,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Deepfolk \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects
     -   Passive insanity gain from The Depths is reduced. You require 1 less knowledge when making deals with deep shrines.
 
-Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
-
--   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the race variant.
+-   Feathered Glider \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
+    -   Tirans gain Feathered Glider with infinite durability. The glider changes color depending on the race variant.
 
 -   Loyalty \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Guildmates take less damage from you and deal less damage to you.

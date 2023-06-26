@@ -1,28 +1,51 @@
 ---
 title: Gremor
-revid: 66394
+revid: 66403
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Races]
+categories: [Pages with broken file links, Races]
 ---
 
 # Gremor
 
-i love catgirlsTemplate:Races-Main
+Template:Races-Main
 
-"_Deer-horned with a big cake pariahs who lived a  
+"_Deer-horned pariahs who lived a  
 peaceful life as nomads before the tides came.  
 Tolerant of extremes that many others would avoid._"
 
-Chance of obtaining race: 0**%**
+Chance of obtaining race: **13.3%**
 
 ## Description
 
 Gremors are a race similar to deer. They appear with greenish, blue or brown skin, with horns. They have a passive Fortitude and Strength bonus when choosing attributes. Additionally, they get a compass and a lower starvation rate, as well as boosted reputation with The Children Of Navae.  
 
-# Racial Traits
+## Racial Traits
 
-Navae Guidance gives thugshakers buffed version of "sightless beam" that lets them automatically make a vow with you and give them option to wipe your build or no. You should log as soon as you see one of the thugshakers, or your build will be wiped.
+<table>
+<tbody>
+<tr>
+  <td>File:Navae's Guidance.png</td>
+  <td><b>Navae's Guidance</b>
+  <ul>
+    <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation.</i>"
+  <ul>
+    <li>Gain a compass at the top of your screen that points South.</li>
+    <li>Reduced hunger loss.</li>
+    <li>If blind, gain a slight range of clear vision around you.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><center><font>+2</font></center></td>
+  <td><b>Attribute Boosts</b>
+  <ul>
+    <li>+2 Strength</li>
+    <li>+2 Fortitude</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
   
 
@@ -32,7 +55,7 @@ Navae Guidance gives thugshakers buffed version of "sightless beam" that lets th
 
 LORE:
 
-they were enslaved
+The deer folk of the land are among the few that still consider themselves free from authority and subjugation. Gremors seek simple lives away from the conflicts of [The Authority](The_Central_Authority.md), with a majority living in nomadic tribes. The Gremors of the Eastern Luminant are renowned for following a celestial known as "Navae", a Protector of Ice and Shadow. Gremors seem to be the developers of many fist techniques, as their goddess is the namesake of the Way of Navae, as well as the [Fists of Navae](Talents.md#navaen-nomad), which is acquired by wearing the [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
 
 **Strengths:**
 
