@@ -1,6 +1,6 @@
 ---
 title: Armor
-revid: 65454
+revid: 66382
 source: https://deepwoken.fandom.com/wiki/Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -10,5 +10,3 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 Redirect to:
 
 -   Armor (disambiguation)
-
-\]\]

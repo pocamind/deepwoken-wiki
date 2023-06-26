@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66369
+revid: 66387
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -230,11 +230,11 @@ _\-I enjoy mixing potions._
 
 ### Angler
 
--   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+2 Hp)
+-   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+2 Health)
     -   Obtained after fishing 50 times successfully.
     -   Increase the rate of hooking something while fishing.
 
--   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose.
+-   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
     -   Obtained after fishing 25 times successfully.
     -   Reduces the chance of failure while fishing.
 
@@ -664,17 +664,17 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   If your critical hits a block, this talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
 
--   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. (+2 Passive Agility, +6 Carry Load)
+-   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. ( +6 Carry Load, +2 Passive Agility)
     -   Deals true damage.
         -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers, essentially dealing another fresh hit for free.
     -   Can proc from physical mantras
     -   Prerequisites: 20 Strength, 25 Agility
 
--   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+4 Carry Load, +2 Passive Agility, +2 Health)
+-   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
     -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: 15 Strength, 45 Agility.
 
--   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility, +1 Health)
+-   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility)
     -   Reduce posture damage taken by 10% while two handing.
     -   Prerequisites: 30 Strength, 30 Medium Weapon
 
