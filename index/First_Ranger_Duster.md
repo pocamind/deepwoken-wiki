@@ -1,6 +1,6 @@
 ---
 title: First Ranger Duster
-revid: 64536
+revid: 66509
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -27,7 +27,3 @@ categories: [Equipment, Arms, Dusters]
 ## Description
 
 The First Ranger Duster is an animated equipment item in the Arms category. Equipping it grants you 10 Health, 2 Posture, and an unknown number of Pips. It can only be obtained as a rare drop from [King Threshers](Thresher.md).
-
-## Trivia
-
--   Used to be unanimated.

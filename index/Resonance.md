@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 65952
+revid: 66512
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -118,7 +118,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
- | Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths. | Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended. |
+ | **Go to [The Depths](The_Depths.md), and kill Players, [Corrupted Monsters](The_Depths.md), and Monsters unique to The Depths.** | **Fight and kill Players. Doing this via the [Chime Of Conflict](Chime_of_Conflict.md) is recommended.** |
 | **Extra/Important information:** |
 | Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.
 
