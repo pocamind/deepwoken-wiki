@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66417
+revid: 66488
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -24,31 +24,17 @@ It is noteworthy that Mantras can have rarities individual of their stars, and A
 
 Another thing worth nothing is that once an Attunement is obtained (through character creation or quest), it cannot be removed. The only way to "unlearn" an attunement is wiping.
 
-Due to our current knowledge of the lore, the four attunements were created during the Canticlysm while the latter two were created or rediscovered after.
-
-## Canticlysmic Attunements
+## Starting Attunements
 
 Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
-## Post-Canticlysm Attunements
+## Unlockable Attunements
 
 Template:Testing Template:Testing
 
 ## Trivia
 
-Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
-
-File:9D69C2E5-9DC6-48EE-91CE-AD127354560A.png
-
-You can have a maximum of two Attunements, the one you start with and the one you choose to learn. However there has been a variety of evidence to being able to get more than this.
-
--   A way to obtain all 5 Attunements is by starting with Shadowcast (you can start with any, Shadowcast is the easiest) and accepting the quests to obtain the other 4 Attunements but **DO NOT** complete them until you have accepted them all, once that is done THEN you can complete the quests and obtain the Sparkblood, Glassblood, Hearthblood, and Skyblood. After doing all 4 quests, you can drink the potions and then you have all 5 Attunements. (Still works as of 12/02/2023 tested by Draco)
-    
-    File:Three attunements.png
-    
-
--   When you unlock an Attunement after drinking a blood potion, the Attunement will be permanently select-able from the starting menu after you unlock it.
--   You can unlock all Attunements to be select-able from the menu.
+-   Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
 -   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you unlock more of them from their respective [trainers](Attunement_Trainers.md).
 -   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)

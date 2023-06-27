@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 66459
+revid: 66493
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -272,12 +272,11 @@ Pillars of Erisia
 
 _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
 
- | 70 Ether | The user casts several fast, wind-enhanced slashes in a form of a star.
+ | 70 Ether | The user raises their left leg and stomps on the ground, summoning huge pillars of wind.
 
--   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
--   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
--   Can be modified with rush and drift shards to increase the speed of the slashes.
+-   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase the size of the pillars.
+-   Can be modified with _Crystal Lenses_ and _Perfect Lenses_ to increase range of the pillar.
 
  |  |
 

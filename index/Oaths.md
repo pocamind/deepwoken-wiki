@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66448
+revid: 66494
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -91,6 +91,8 @@ To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Lan
 -   One is at Summer Isle, in the house where you set your inn
 
 After talking to all three of their disciples, return to the person in the cave and talk to them to receive Oathless.
+
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=6NQX0V8mmAM)._
 
 ### Effects
 
