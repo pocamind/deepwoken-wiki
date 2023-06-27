@@ -1,17 +1,14 @@
 ---
 title: "Diver's Camp"
-revid: 64428
+revid: 66502
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, Stub pages without reason, StubPages, Locations]
-notices:
-  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"unnamed location\""
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Locations]
 ---
 
 # Diver's Camp
 
-**Diver's Camp** is an unnamed location in _Deepwoken_. It is a landmark in the [Celtor Wastes](Celtor_Wastes.md).
+**Diver's Camp** is an area in [the depths](The_Depths.md). It is a landmark in the [Celtor Wastes](Celtor_Wastes.md).
 
 ## Overview
 
@@ -25,8 +22,14 @@ Alpha Sharko v. Diver events are common here.
 
 -   Diver Apprentices
 
-## Missions
+-   Locker to change [equipment](Equipment.md) and [mantras](Mantras.md)
+
+## Events
 
 Events that spawn in Diver's Camp that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Divers vs. Monster
+-   [divers](The_Divers.md) vs. Monster
+
+-   corrupted [monsters](Monsters.md) (high chance if you rung corrupted bell)
+
+-   [sharko](Megalodaunt.md) with [mudskippers](Mudskipper.md) (when you walk up the hill next to divers camp)

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 66245
+revid: 66506
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -29,6 +29,14 @@ There are multiple layers to the Depths, with as many as three known to exist, l
 Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
 The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, it is strongly recommended that you do not intentionally go to the Depths.
+
+## Depths trial
+
+-   there is a way to escape the depths, so you dont have to wipe (die) and lose your character
+
+-   most people call it the depths [trial](Trial_of_One.md)
+
+-   the depths trial bases off what level you are (all level bases arent figured out yet)
 
 ## Whirlpools
 

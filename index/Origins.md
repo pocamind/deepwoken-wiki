@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 64797
+revid: 66505
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -66,6 +66,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
+    -   **\[PRO\]** You can now gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates The Temple of Hearts and you therefore have access to every Deep Shrine.
 
 ## Voidwalker
 
@@ -127,6 +128,7 @@ The following is speculation:
     -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tacky mobs to progress unless you're down to fight an enforcer for 10 minutes in order to leave instead.
     -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
+    -   As of June 26th 2023, Deepbounds have exclusive access to all shrines from a secret passageway
 -   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Mintrysa, you might as well go Stealth unless you can actually see the outline of your target.
 -   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
