@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 53401
+revid: 66419
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -10,7 +10,7 @@ categories: [Items, Attunement]
 
 ## Description
 
-A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md), in which there is a high chance you will obtain one. A Galestone when used can restore a Galebreath user's reservoir to ~50%, along with this it can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils (Allowing you to go past the lvl 75 limit for Weapon Mastery). You can also use Gale Stones (5) in [Friid's](Friid,_Master_of_Gale.md) quest on the [Isle of Vigils](Isle_of_Vigils.md) in order to learn and unlock the [Galebreathe](Galebreathe.md) attunement for a character (One that has another element).
+A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md), in which there is a high chance you will obtain one. It can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils (Allowing you to go past the lvl 75 limit for Weapon Mastery). You can also use Gale Stones (5) in [Friid's](Friid,_Master_of_Gale.md) quest on the [Isle of Vigils](Isle_of_Vigils.md) in order to learn and unlock the [Galebreathe](Galebreathe.md) attunement for a character (One that has another element).
 
 WARNING: You can eat it by accident.
 

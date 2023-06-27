@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66375
+revid: 66417
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -24,9 +24,15 @@ It is noteworthy that Mantras can have rarities individual of their stars, and A
 
 Another thing worth nothing is that once an Attunement is obtained (through character creation or quest), it cannot be removed. The only way to "unlearn" an attunement is wiping.
 
-## Attunements
+Due to our current knowledge of the lore, the four attunements were created during the Canticlysm while the latter two were created or rediscovered after.
 
-Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing Template:Testing Template:TestingTemplate:Testing
+## Canticlysmic Attunements
+
+Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
+
+## Post-Canticlysm Attunements
+
+Template:Testing Template:Testing
 
 ## Trivia
 

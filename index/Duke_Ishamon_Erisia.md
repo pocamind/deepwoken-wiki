@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 66031
+revid: 66478
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Erisia (also known as Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the ["The Lord Regent" Quest](<https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest>) and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement or 75 Weapon upon executing him, respectively.
+Duke Erisia (also known as Lord Erisia) is a Humanoid [Boss](Bosses.md) the player fights during the ["The Lord Regent" Quest](<https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest>) and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement or 75 Weapon upon executing him, respectively. Defeating him also allows [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
 In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over a black tuxedo vest, along with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -124,6 +124,7 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 -   [Rare Weapons](Weapons.md) (Shattered Katana, etc.)
 -   [Magic Uncap](Attributes_Unbound.md) (If the requirements are met.) Req: 75 Attunement
 -   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.) Req: 75 Weapon
+-   The ability to obtain the [Pillars of Erisia](Galebreathe.md) Mantra in a Whisper hand with sufficient Galebreathe.
 
 You also gain [Resonance](Resonance.md) (Bell) progression.
 

@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 58005
+revid: 66426
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -12,8 +12,8 @@ categories: [Weapons, Daggers]
 |---|---|
 | type | Dagger |
 | requirements | 60 LHT |
-| damage | 10 |
-| scaling | 14 |
+| damage | 11 |
+| scaling | 13 |
 | range | 6.5 |
 | swing speed | 0.98x |
 | endlag | 0.05s |

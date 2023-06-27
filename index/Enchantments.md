@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 66321
+revid: 66472
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -30,7 +30,7 @@ Enchanted weapons/equipment have special mechanics compared to their regular wea
 -   Enchanted items cannot be dropped on death.
 -   You cannot 'stack' enchantments. i.e. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
--   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 100 [Echoes](Echoes.md) per item
+-   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item
 -   Enchanted items appear as light purple in your inventory
 -   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these making it somewhat obtainable but very rare to find. Although they can be obtained via trading.
     -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
@@ -244,7 +244,7 @@ There are two variants that enchantments come in:
   <br>
   Permanently stained health bar while the weapon is equipped. (If you dequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the Luminants.<br>
-  When unsheathed in The Depths, -100 sanity. You will immediately die upon using the curse in the Depths if you dont have the sanity to use it.<br>
+  When unsheathed in The Depths, -100 sanity. You will immediately die upon using the curse in the Depths if you dont have the sanity to use it (Same thing applies in illusionary realm).<br>
   <b>Disabled in Arena</b><br>
   <b>Viscosity is disabled</b><br>
   <b>Fishman gives reduced healing</b></p></div></td>

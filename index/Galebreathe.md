@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 65913
+revid: 66459
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -39,8 +39,8 @@ The Galebreathe spelltrainer can be found in the Isle of Vigils by the tent acro
 
 ### **Combat Mantras**
 
-| Image | Spell | Card Description | Effect |
-| --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect | Stats |
+| --- | --- | --- | --- | --- | --- |
 |  | 
 Wind Blade
 
@@ -48,13 +48,13 @@ Wind Blade
 
 _Slicing blades of wind._
 
- | Launch a wind projectile at cursor's position.
+ |  | Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
 -   Shoots straight if shift lock is enabled.
 
- |
+ |  |
 |  | 
 
 Air Force
@@ -63,7 +63,7 @@ Air Force
 
 _Shoots out an air blast._
 
- | Conjure a strong blast of air from the user's hands in the direction of your mouse that staggers target.
+ |  | Conjure a strong blast of air from the user's hands in the direction of your mouse that staggers target.
 
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
@@ -73,7 +73,7 @@ _Shoots out an air blast._
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
 -   Shoots straight if shift lock is enabled.
 
- |
+ |  |
 | 
 
  | 
@@ -84,12 +84,12 @@ Tornado Kick
 
 _Slicing blades of wind._
 
- | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AOE projectiles if the mantra lands.
+ |  | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AOE projectiles if the mantra lands.
 
 -   Deals moderate-high damage (If the whole move hits).
 -   Projectile is medium-ranged and explodes on impact.
 
- |
+ |  |
 |  | 
 
 Gale Lunge  
@@ -99,13 +99,13 @@ Gale Lunge
 
 _A rush of piercing wind._
 
- | User lunges forward with their weapon coated in wind.
+ |  | User lunges forward with their weapon coated in wind.
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
 -   Has a relatively long hitbox.
 
- |
+ |  |
 | 
 
  | 
@@ -117,12 +117,12 @@ Tornado
 
 _A rushing current of wind._
 
- | Conjure a small vortex around yourself, M1 to cast it forward.
+ |  | Conjure a small vortex around yourself, M1 to cast it forward.
 
 -   Deals light damage and hits multiple times.
 -   Projectile is short-ranged.
 
- |
+ |  |
 |  | 
 
 Heavenly Wind  
@@ -132,7 +132,7 @@ Heavenly Wind
 
 _A strike from the heavens._
 
- | Leap high into the air before diving down, striking any targeted opponent.
+ |  | Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.
@@ -141,7 +141,7 @@ _A strike from the heavens._
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
 
- |
+ |  |
 |  | 
 
 Galetrap  
@@ -151,13 +151,13 @@ Galetrap
 
 _Toss a wind landmine._
 
- | Deploy a small green landmine at the cursor's location.
+ |  | Deploy a small green landmine at the cursor's location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 -   Applies the _"Suffocate"_ status effect.
 
- |
+ |  |
 |  | 
 
 Gale Punch  
@@ -167,12 +167,12 @@ Gale Punch
 
 _Form a punch of wind in your fist and release it._
 
- | Conjure a wind AoE punch that deals damage and knocks opponents away.
+ |  | Conjure a wind AoE punch that deals damage and knocks opponents away.
 
 -   Can break objects.
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
 
- |
+ |  |
 |  | 
 
 Champion's Whirlthrow  
@@ -182,7 +182,7 @@ Champion's Whirlthrow
 
 _Grab your opponent and toss them with the power of gale._
 
- | Caster grabs opponent and proceeds to spin them in 360 degrees before tossing the opponent.
+ |  | Caster grabs opponent and proceeds to spin them in 360 degrees before tossing the opponent.
 
 -   Deals good-high damage.
 -   Forcible Block Break
@@ -190,7 +190,7 @@ _Grab your opponent and toss them with the power of gale._
     -   Needs more testing.
 -   Hyper-armor
 
- |
+ |  |
 |  | 
 
 Rising Wind  
@@ -200,7 +200,7 @@ Rising Wind
 
 _Use wind to uppercut and propel yourself into the air._
 
- | Caster ascends and uppercuts their opponent, rapidly damaging them.
+ |  | Caster ascends and uppercuts their opponent, rapidly damaging them.
 
 -   Blocking sends only the user into the air.
 -   Rapidly deals light damage to the opponent while rising.
@@ -209,7 +209,7 @@ _Use wind to uppercut and propel yourself into the air._
     -   Applies Knockdown frames on proc.
 -   I-Frames
 
- |
+ |  |
 |  | 
 
 Wind Gun  
@@ -219,7 +219,7 @@ Wind Gun
 
 _A powerful wind blast._
 
- | Fires a penetrating bullet of wind.
+ |  | Fires a penetrating bullet of wind.
 
 -   Deals heavy damage and flings opponents.
 -   Applies the _"Suffocate"_ status effect.
@@ -227,7 +227,7 @@ _A powerful wind blast._
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds.
 
- |
+ |  |
 |  | 
 
 Wind Carve  
@@ -237,7 +237,7 @@ Wind Carve
 
 _A quick swirl of sharp winds._
 
- | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+ |  | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
@@ -245,7 +245,7 @@ _A quick swirl of sharp winds._
 -   Pushes opponents hit by the final slash away.
 -   Cannot be canceled once the attack initiates. (so it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent)
 
- |
+ |  |
 |  | 
 
 Astral Wind  
@@ -255,14 +255,31 @@ Astral Wind
 
 _A rapid delivery of consecutive attacks._
 
- | The user casts several fast, wind-enhanced slashes in a form of a star.
+ |  | The user casts several fast, wind-enhanced slashes in a form of a star.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
 -   Can be modified with rush and drift shards to increase the speed of the slashes.
 
- |
+ |  |
+|  | 
+
+Pillars of Erisia  
+(★★★)
+
+ | 
+
+_Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp._
+
+ | 70 Ether | The user casts several fast, wind-enhanced slashes in a form of a star.
+
+-   The user is invincible during casting.
+-   Deals _possibly moderate-heavy_ damage.
+-   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
+-   Can be modified with rush and drift shards to increase the speed of the slashes.
+
+ |  |
 
 ### **Mobility Mantras**
 
@@ -277,8 +294,12 @@ _A rapid delivery of consecutive attacks._
 <tr>
   <td></td>
   <td><center><p>Wind Passage<br>
-  (★★★)</p></center></td>
-  <td><center><p><i>A rush of wind</i></p></center></td>
+  (★★★)</p>
+  <p><br>
+  </p></center></td>
+  <td><center><p><i>A rush of wind</i></p>
+  <p><br>
+  </p></center></td>
   <td>The user instantly teleports to the position that they are facing, leaving much wind after cuts in the position they left.
   <ul>
     <li>Can be modified with crystal and perfect lenses to increase the distance.</li>

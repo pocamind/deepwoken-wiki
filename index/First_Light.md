@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 66368
+revid: 66423
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | damage | 25.5 |
 | scaling | 8 HVY |
 | range | 8.5 |
-| swing speed | 0.61x |
+| swing speed | 0.62x |
 | endlag | 0s |
 | penetration | 30% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |

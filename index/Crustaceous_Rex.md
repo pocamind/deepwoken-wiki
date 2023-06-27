@@ -1,9 +1,9 @@
 ---
 title: Crustaceous Rex
-revid: 65312
+revid: 66465
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Pages with broken file links]
 ---
 
 # Crustaceous Rex
@@ -35,8 +35,8 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
   <td>(★☆☆)</td>
 </tr>
 <tr>
-  <td><b>Crushing Claw</b></td>
-  <td>The Crustaceous Rex raises its <i><b>Right Claw</b></i> and grabs its foe, crushing and dealing medium damage. If the opponent is at low enough health, <b>it will split them in half, auto-gripping.</b></td>
+  <td><b>Crab Crab<sup><a href="#cite-note-crabcrab-1">[1]</a></sup></b></td>
+  <td>The Crustaceous Rex raises its <i><b>Right Claw</b></i> and crabs its foe, crushing and dealing medium damage. If the opponent is at low enough health, <b>it will split them in half, auto-gripping.</b></td>
   <td><font>✗</font></td>
   <td><b>(★★★)</b></td>
 </tr>
@@ -69,4 +69,9 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
     -   The Enforcer in Hell Mode, losing its pull ability, can also be ran away from.
 -   The Bubble Beam move may be a reference to the Water-type move from Pokémon with the same name.
 -   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal with.
--   You can block the crushing claw if you held F during the grab.
+-   You can block the crab crab if you held F during the grab.
+-   The crab's grab is canonically named how it is. It wasn't a spelling mistake. It is not that the developer's intended to say Crab Grab, as all the other moves were referred to as a grab, but instead misspelled grab, thus making it lore to cover up their mistake.[\[1\]](#cite-note-crabcrab-1)
+
+## References
+
+1.  ↑ [1.0](#cite-ref-crabcrab-1-0) [1.1](#cite-ref-crabcrab-1-1) File:ThisTrulyWasACrabCrab.png

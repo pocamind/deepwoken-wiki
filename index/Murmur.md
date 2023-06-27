@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 66372
+revid: 66466
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -65,7 +65,7 @@ Tacet has two different detection radius, one for PVE and PVP:
 
 ### **Obtainment**
 
-Murmur: Tacet can be obtained in two ways; one of them being that you don't have to get Charisma to obtain it.
+Murmur: Tacet can be obtained in three ways; one of them being that you don't have to get Charisma to obtain it.
 
 #### Method One - Fetch Quest
 
@@ -73,13 +73,15 @@ Murmur: Tacet can be obtained in two ways; one of them being that you don't have
 -   Interacting and picking the Charisma Dialogue option (Requiring at least 10 Charisma), you are tasked to hunt and kill a Player that Cestis orders you to find.
 -   Upon completing 5 of his bounties, return back to Cestis and obtain the Murmur.
 
-#### **Method Two- Born Assassin**
+#### **Method Two - Born Assassin**
 
--   By completing 5 Bounty Hunting Contracts, Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. (It doesnt matter if you have neutral/good or negative rep with etris)
+-   By completing 5 Bounty Hunting Contracts, Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. This does not matter if you have neutral/good or negative rep with Etris.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
-Note: The Stranger NPC exists, but ~he no longer gives Tacet to players.~ (You need a lot of charisma, around 70-80.)
+#### Method Three - The Stranger NPC
+
+Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free.
 
   
 
@@ -101,7 +103,7 @@ Entities who do nothing will not emit a pulse and thus, can "hide" from Rhythm.
 
 _"While using Rhythm, you can hear the subtle heartbeat of all living things nearby."_
 
-Heartbeat Sensor is an upgrade to Murmur: Rhythm that can be obtained with 50 Willpower and Power 15 or more.
+Heartbeat Sensor is an upgrade to Murmur: Rhythm that can be obtained with 40 Willpower and Power 15 or more.
 
 With this upgrade, entities in range (shorter than the max range for regular white pings) will emit a constant ping, no matter what they are doing.
 

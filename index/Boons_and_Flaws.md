@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 65624
+revid: 66418
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -106,7 +106,7 @@ Additionally, has a chance of being gained from making a deal with [Yun'Shul](<Y
 (Not an Unlockable Flaw)
 
  | 0 |
-| Wishbound | "Isn't this want you wanted?" | Gain insanity during the night.
+| Wishbound | "Isn't this what you wanted?" | Gain insanity during the night.
 
   
 Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellhardt), a developer for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options.

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 63916
+revid: 66420
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -10,11 +10,7 @@ notices:
 
 # Alchemy
 
-“ It's a cruel and random world, but the chaos is all so beautiful.” “A lesson without pain is meaningless. For you cannot gain anything without sacrificing something else in return, but once you have overcome it and made it your own...you will gain an irreplaceable fullmetal heart. ”
-
-― Edward Talo
-
-  
+## Description
 
 Alchemy is the process of creating potions at a cauldron. Potions can have many different effects depending on the ingredients used and can be drunk or thrown.
 

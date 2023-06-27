@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66411
+revid: 66471
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1242,6 +1242,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Eruption Path: Lava Serpent, 45 Flamecharm
 -   Molten Defense \[Common Talent, Flamecharm & Eruption Exclusive\] - Upon being block broken, you erupt. 30s cooldown. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
+-   Scorched Earth \[Common Talent, Flamecharm & Eruption Exclusive\] - Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
+    -   Prerequisites: Eruption Path: Lava Serpent, 75 Flamecharm
+-   _**The Floor is Lava**_ \[Common Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them.
+    -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
 ### Leader
 
@@ -1438,7 +1442,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
     -   Entities that are close enough give a constant ping.
-    -   Prerequisite: Murmur: Rhythm, 50 Willpower, [Power](Power.md) 16
+    -   Prerequisite: Murmur: Rhythm, 40 Willpower, [Power](Power.md) 16
 
 -   _**Murmur: Ardour** \[Unlockable Talent\] - An application of the Song that enables one to channel the Murmur into raw strength. Press H._
     -   _Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md)._

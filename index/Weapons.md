@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 66404
+revid: 66451
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -173,9 +173,9 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
   <td>60 LHT</td>
-  <td>10</td>
+  <td>11</td>
   <td>30%</td>
-  <td>LHT: 14</td>
+  <td>LHT: 13</td>
   <td>4</td>
   <td>6.5</td>
   <td>0.98x</td>
@@ -218,7 +218,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><a href="https://deepwoken.fandom.com/wiki/Whaling_Knife#Alloyed"><font>Alloyed Whaling Knife</font></a></td>
   <td><font>75</font> LHT</td>
   <td>15</td>
-  <td><font>10%</font></td>
+  <td><font>15%</font></td>
   <td>LHT: <font>8</font></td>
   <td>4</td>
   <td>6.5</td>
@@ -686,7 +686,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>20%</font></td>
   <td>N/A</td>
   <td><font>MED: 7</font></td>
-  <td>4</td>
+  <td>5</td>
   <td>7.5</td>
   <td>0.8x</td>
 </tr>
@@ -826,7 +826,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>18</td>
   <td>20%</td>
   <td>10%</td>
-  <td>MED: 6</td>
+  <td>MED: 6.5</td>
   <td>5</td>
   <td>9</td>
   <td>0.7x</td>
@@ -1111,7 +1111,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><a href="Enforcer's_Axe.md">Enforcer's Axe</a></td>
   <td>75 HVY, LVL 6</td>
   <td>26</td>
-  <td>5%</td>
+  <td>10%</td>
   <td>N/A</td>
   <td>HVY: 10</td>
   <td>8</td>
@@ -1257,7 +1257,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8</td>
   <td>10</td>
   <td>8.5</td>
-  <td>0.61x</td>
+  <td>0.62x</td>
   <td>N/A</td>
 </tr>
 <tr>
@@ -1305,7 +1305,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>HVY: 8.5</td>
   <td>9</td>
   <td>9</td>
-  <td>0.6x</td>
+  <td>0.61x</td>
   <td>0.1s</td>
 </tr>
 <tr>

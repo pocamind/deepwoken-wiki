@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 66399
+revid: 66422
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -15,7 +15,7 @@ categories: [Weapons, Greatswords]
 | damage | 24 |
 | scaling | 8.5 |
 | range | 9 |
-| swing speed | 0.6x |
+| swing speed | 0.61x |
 | endlag | 0.1s |
 | chip damage | 15% |
 | special effect | Bleed |

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66301
+revid: 66448
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -638,7 +638,7 @@ Meet the following requirements:
 -   Be [attunement-less](Attunement-less.md).
 -   Have at least 75 Weapon (uncap is not needed), 40 in Strength and 40 in Agility OR Charisma.
 -   Speak to [Suyuan](Suyuan.md) who is near [Kelsius](Kelsius.md), who are both located at the [Isle of Vigils](Isle_of_Vigils.md), and ask about Ghosts. You do not need to return to Suyuan to complete the quest, you just need to take it. (If The Dreadstar does not appear, try finishing the quest)
--   Die to a player that uses an attunment. Chime of Conflict do not count.
+-   Die to a player that uses an attunment. Chime of Conflict does not count.
 
 Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
