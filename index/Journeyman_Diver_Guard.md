@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 65188
+revid: 66541
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -20,15 +20,18 @@ A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes
 
 ## Moveset
 
-A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with either the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md) and [Flamecharm](Flamecharm.md) attunement:
+A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with either the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md) or [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Critical | \[⁣[Markor's Inheritor](<Markor's_Inheritor.md>)\] User raises their leg before firmly slamming it down, breaking the opponent's guard.  
-\[⁣[Acheron's Warspear](<Acheron's_Warspear.md>)\] Enters a stance before performing a quick swipe, will perform an additional slash if the first hit lands.  
-\[⁣[Tanto](Tanto.md)\] Winds up before unleashing a quick flurry of three slashes.  
+| Critical | \[⁣[Acheron's Warspear](<Acheron's_Warspear.md>)\] Enters a stance before performing a quick swipe, will perform an additional slash if the first hit lands.
+\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>)\] User raises their leg before firmly slamming it down, breaking the opponent's guard.
+
+  
 \[⁣[Crescent Cleaver](Crescent_Cleaver.md)\] Lunges forwards before impaling their opponent, will throw the opponent to the ground if their first strike hits.
+
+\[⁣[Tanto](Tanto.md)\] Winds up before unleashing a quick flurry of three slashes.
 
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |

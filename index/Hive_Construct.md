@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 66218
+revid: 66546
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Hive Construct
 
-_Also known as Hive Mechs, Lifeweaver Golems, Forest Golems, or Obsidian Golems, Transformers, or Senju._
+_Also known as Hive Mechs, Lifeweaver Golems, Forest Golems, Obsidian Golems, Transformers, or Senju._
 
 **Hive Construct:**
 
@@ -49,7 +49,7 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
 
 ### Finishers
 
--   Executing Punch - The construct walks up to it's opponent and firmly punches them, causing them to die immediately.
+-   Executing Punch - The construct walks up to it's opponent and punches them, immediately killing them.
     
 
 **Rogue Construct:**
@@ -92,12 +92,12 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 
 ### Finishers
 
--   Executing Punch - The construct walks up to it's opponent and firmly punches them, causing them to die immediately.
+-   Executing Punch - The construct walks up to it's opponent and punches them, immediately killing them.
     
 
 ## Tips
 
--   Can easily kill you even at level 20 if you're solo and inexperienced.
+-   Can easily kill you even at Power 20 if alone or inexperienced.
 -   Usually not worth fighting head-on. Even if you try, this Construct will obscure your vision with trees all the time.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
 -   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.

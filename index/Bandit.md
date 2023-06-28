@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 61131
+revid: 66542
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -26,7 +26,7 @@ A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe]
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
-\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md) & Broadsword Enters a stance before rushing forward and performing a quick upward strike. \[[Stiletto](Stiletto.md) Unleash a quick flurry attack on opponent.
+\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md) & Broadsword\] Enters a stance before rushing forward and performing a quick upward strike. \[[Stiletto](Stiletto.md)\] Unleash a quick flurry attack on opponent.
 
  | ◯ | ✗ | (★☆☆) |
 

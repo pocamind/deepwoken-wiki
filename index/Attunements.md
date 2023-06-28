@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66534
+revid: 66545
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -18,7 +18,7 @@ There are currently four base Attunements that anyone may select when first crea
 
 While it is possible to learn every or most Mantras of a given attunement, you are limited to the amount you can use. By default, players are given 3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (any type) Mantra slot. Extra Mantras will be stored in the inventory under their name in a pink item category ([Mantra Modifiers](Mantra_Modifiers.md)). Those limits can be broken and increased via [Oaths](Oaths.md) and certain [Talents](Talents.md).
 
-When creating your character, you may choose to start with no Attunement, which will start the player with no Attunements unlocked and 10 additional points to invest into other attributes. Attunements can still be acquired through their respective trainers.
+When creating your character, you may choose to start with no Attunement, which will start the player with no Attunements unlocked and 10 additional points to invest into other attributes. Attunements can still be acquired through their respective trainers. To see [Attunement-less](Attunement-less.md) click here.
 
 It is noteworthy that Mantras can have rarities individual of their stars, and Attunement-based mantras sometimes have requirements of non-Elemental stats (points in agility, strength etc), such as Flamecharm's Ash Slam which requires 30 Strength along with 50 Flamecharm.
 
@@ -26,7 +26,7 @@ Another thing worth nothing is that once an Attunement is obtained (through char
 
 ## Starting Attunements
 
-Template:Testing Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
+Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
 ## Unlockable Attunements
 
