@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 66397
+revid: 66536
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -405,7 +405,7 @@ File:No Attunement Revamp.png
 
  | Ceaseless Slashes (★★★) | _Click to reveal yourself and deliver a rapid flurry of slashes that can chain together._ | 
 
--   **Requirements: 5 Light Weapon, Combat Mantra**
+-   **Requirements: 50 Light Weapon, Combat Mantra**
     -   Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4)
 
  |

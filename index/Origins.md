@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 66525
+revid: 66538
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -45,7 +45,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 > 
 > ― Flavor Text
 
-**_Obtainment_:** Encounter Akira in the Celtor Wastes and inquire to him about joining The Divers. Reunite with him in Castle Light to obtain the Origin.
+**_Obtainment_:** Encounter [Akira](Akira.md) in the Celtor Wastes and inquire to him about joining The Divers. Reunite with him in Castle Light to obtain the Origin.
 
 -   You don't actually need to join the Divers to obtain Deepbound. Just starting a talk with him at Castle Light is fine.
 
