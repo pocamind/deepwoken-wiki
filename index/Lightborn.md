@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 66005
+revid: 66529
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -8,9 +8,6 @@ categories: [Pages with broken file links, Races, Exclusive Races]
 
 # Lightborn
 
-Also called lovenewborn race as of recent events.
-
-  
 Template:Races-Main
 
 _The stars call you back..._

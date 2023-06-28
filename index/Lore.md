@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 66313
+revid: 66530
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1215,7 +1215,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   In recent times, a family of Lightborn known as the Spellhardts have come forth in the Etrean Luminant, though their reputation among the people is questioned due to their unfavorable actions.
 -   Some of the surviving Lightborns live in [The Floating Keep](The_Floating_Keep.md), a moving keep owned by the Spellhardts.
 -   'Falling to the temptations' of a Drowned God will result in being exiled from their community.
--   Visually, they done halo-like circlets around either their heads, necks or wrists.
+-   Visually, they don halo-like circlets around either their heads, necks or wrists.
 
 ### Celestials
 
