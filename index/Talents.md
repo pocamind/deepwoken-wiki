@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66471
+revid: 66520
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1631,8 +1631,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. (+2 Elemental Intensity, +6 Passive Agility)
     -   Prerequisite: Family Recipe
 
--   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged.
-    -   Prerequisite: Hot Potato
+-   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+5 Hp, +1 Elemental Intensity)
+    -   Prerequisite: Family Recipe
     -   Drops two bombs from one bomb.
 
 ### Saint of Blades

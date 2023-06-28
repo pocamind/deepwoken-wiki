@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 66371
+revid: 66513
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -10,7 +10,7 @@ notices:
 
 # Equipment
 
-Amour is an essential part to Deepwoken, being the primary means of resisting damage from most sources.
+Armor is an essential part to Deepwoken, being the primary means of resisting damage from most sources.
 
 Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
 
