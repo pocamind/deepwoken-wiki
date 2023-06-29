@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 65008
+revid: 66558
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -40,11 +40,9 @@ Template:Testing
 
 Template:TestingTemplate:Testing Template:Testing Template:Testing Template:Testingㅤ
 
-### Obtainable Attunements
+### Post-Canticlysm Attunements
 
-Template:Testing
-
-ㅤ
+Template:TestingTemplate:Testingㅤ
 
 _\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 

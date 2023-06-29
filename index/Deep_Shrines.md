@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 66496
+revid: 66561
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -53,7 +53,7 @@ Located at the [Hidden Village](The_Hidden_Village.md) of Erisia, obscured by vi
 ## Benefits/Penalties
 
 -   **(BENEFIT)** Instantly obtain 3 Power Levels, totalling 45 Attribute Points to spend
--   **(PENALTY)** Gain one random Flaw you have unlocked upon accepting the deal, and lose 5 knowledge. You also have to gain 45 Investment Points to reach the next level.
+-   **(PENALTY)** Gain one random Flaw you have unlocked upon accepting the deal (You can choose which flaw it rolls), and lose 5 knowledge. You also have to gain 45 Investment Points to reach the next level.
 
 ## Pros/Cons
 
@@ -62,8 +62,7 @@ Located at the [Hidden Village](The_Hidden_Village.md) of Erisia, obscured by vi
 -   The daunting amount of Attribute Points you need to make up (Usually in the range of 45-60 total Attribute Points to spend) for will be a hassle-- and may pose a problem to Players that rely on Powering up to remain in the Overworld.
 -   Since you are levelling up, you gain 3 knowledge points, so the cost is technically 2.
 -   The Penalty of Blasphemy is a double-edged sword. Having any flaw that won't impact your current run (ie. Obvious, Haemophilia, etc.) negatively is a necessary sacrifice; but those with the Blind Flaw unlocked will have a reasonable sense of worry.
-    -   Those who are going to get Blindseer (Or already are one) won't be so dreadful by this dire penalty.
-        
+    
 
 **Shrine of Mastery:**
 

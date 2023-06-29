@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66537
+revid: 66560
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1982,7 +1982,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _\-My fists are imbued with lighting._
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
-    -   Prerequisite: 20 Light Weapon, 20 Thundercall
+    -   Prerequisite: 20 Light Weapon, 15 Thundercall
 -   Volt Kick \[Common Talent, Thundercall Exclusive\] - After landing a lightning kick, press \[F\] to follow up on your opponent with a less potent kick. (+2 Elemental Intensity)
     -   Prerequisite: 30 Thundercall, Thunder Kick
 

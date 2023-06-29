@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66545
+revid: 66559
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -24,11 +24,11 @@ It is noteworthy that Mantras can have rarities individual of their stars, and A
 
 Another thing worth nothing is that once an Attunement is obtained (through character creation or quest), it cannot be removed. The only way to "unlearn" an attunement is wiping.
 
-## Starting Attunements
+## Intra-Canticlysm Attunements
 
 Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
-## Unlockable Attunements
+## Post-Canticlysm Attunements
 
 Template:Testing Template:Testing
 
