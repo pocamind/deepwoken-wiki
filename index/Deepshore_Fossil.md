@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 61674
+revid: 66604
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Floor 1, Layer 2]
@@ -18,7 +18,7 @@ The Deepshore Fossil is an item that is obtained from Layer 2. It is not droppab
 
 ## Obtainment
 
-It is obtained from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at [Castle Light](Castle_Light.md) in Layer 1 of the Depths. She gives you the Fossil upon telling her information about Layer 2.
+It is obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at [Castle Light](Castle_Light.md) in Layer 1 of the Depths. She gives you the Fossil upon telling her information about Layer 2.
 
 You will be able to tell her this once you meet the following requirements ( do not necessarily have to be all done at the same time) :
 

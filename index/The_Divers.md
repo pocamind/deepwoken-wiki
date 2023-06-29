@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 66535
+revid: 66600
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -63,7 +63,7 @@ You can also complete [Layer 2](Second_Layer.md) floor 1 to get a decent amount 
 
 **Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's caretaker.
 
-**Klaris Llfiend, Mother of Lights:** A Black Diver who resides in Castle Light. She is able to give the player the [Dawnwalker Oath](Oaths.md), and a Light Hook which transports the player to Layer 2. She is one of the strongest of all Divers.
+**[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md):** A Black Diver who resides in Castle Light. She is able to give the player the [Dawnwalker Oath](Oaths.md), and a Light Hook which transports the player to Layer 2. She is one of the strongest of all Divers.
 
 ## Trivia & Guild Information
 

@@ -1,6 +1,6 @@
 ---
 title: Cathedral of Ethiron
-revid: 63894
+revid: 66615
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -23,4 +23,5 @@ The Cathedral of Ethiron is a landmark in [The Maw of Ethiron](The_Maw_of_Ethiro
 
 ## Trivia
 
--   There are numerous corpses belonging to apprentice divers hanging on hooks, presumably killed by Chaser. There is also one Ignition Deepdelver corpse hung on one of the hooks.
+-   There are numerous Apprentice Diver corpses, as well as one of an Ignition Deepdelver, hanging on hooks, presumably killed by Chaser.
+    -   This is likely the reason for the room's red hue, as the air is so polluted by the sheer amount of blood that has been spilled.

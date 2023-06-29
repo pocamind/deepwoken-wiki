@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 66561
+revid: 66612
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -132,6 +132,7 @@ Located in Songseeker Mines, through the passage containing mudskippers.
 -   You can use it to obtain a variety of strong talents and mantras first, then use the shrine to put those points toward important attributes (ex. [weapon attributes](Attributes.md#weapon-attributes)) while keeping the talents and mantras you unlocked. **UPGRADED MANTRAS WILL BE LOWERED TO THE MAXIMUM LEVEL YOU CAN OPTAIN WITH YOUR BALANCED STATS**!
 -   Alternatively, you can obtain extremely powerful advanced talents that require a lot of points (ex. [Brick Wall](Talents.md#human-architecture)) before shrine, then use the shrine to refund those points and keep the talent.
     -   This is almost guaranteed to hit the cap of 25 moved points, but allows you to take advantage of the shrine not putting points into stats you have never leveled up before.
+    -   Keep in mind that the redistribution cap of 25 points does not apply to attunement points.
         
 
 **Shrine of Conceit:**
@@ -204,11 +205,11 @@ Located in the [Starfield Veldt](Starfield_Veldt.md) in a cave hidden behind a t
 
 ## Trivia
 
--   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
+-   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
 -   [Primadon](Primadon,_Titan_of_the_East.md) gives knowledge too. The first time you kill [Primadon](Primadon,_Titan_of_the_East.md) you gain 3 points of knowledge, after the first time you only gain 1 point of knowledge.
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit
 -   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, may be a reference to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
     -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
 -   You do not need to deal with the Shrines of Conceit, Order, Division, or Unification to obtain Contractor.
--   Deep Shrines may have something to do with [Yun'shul](<Yun'Shul,_Keeper_of_Hearts.md>), due to objects resembling them in the [Temple Of Hearts](Temple_of_Hearts.md). Both engage in deals with you. (As of 6/26/23, some shrines can be accessed in Temple of Hearts, providing evidence to this theory)
--   The main 6 Deep Shrines (Order, Blasphemy, Chance, etc.) can be accessed in [Temple of Hearts](Temple_of_Hearts.md) if you have a resonance or start with the Deepbound Origin.
+-   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
+-   The main 6 Deep Shrines (Order, Blasphemy, Chance, etc.) can be accessed in [Temple of Hearts](Temple_of_Hearts.md) if you have a resonance or start with the Deepbound Origin, however, two remain inert, suggesting they may awaken in the future.

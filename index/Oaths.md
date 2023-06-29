@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66576
+revid: 66597
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -206,7 +206,7 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
     -   Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once
     -   Have a Dark Feather in your possession
 -   Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
--   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void or refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
+-   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void will send you to Layer 2, and refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
 
 To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills. There's also one talent available throught talent hands.
 

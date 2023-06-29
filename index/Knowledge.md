@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 66374
+revid: 66611
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,7 +11,7 @@ categories: [Mechanics]
 | Knowledge | |
 |---|---|
 | usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables |
-| obtainment | Purchasing from Klaris, Completing quests and achieving milestones |
+| obtainment | Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones |
 
 “ Do you have the knowledge within you then, my dull friend? ”
 
@@ -55,7 +55,7 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 
 Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more.
 
--   Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division-- read below), uses 5 Knowledge per deal. (4 knowledge for ganymedes)
+-   Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division-- read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes)
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit**, uses 1 Knowledge.
 -   Engaging in a deal with **Shrine of Division**, uses 10 knowledge.
@@ -63,11 +63,13 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
 
 ## **Trivia**
 
--   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage_ and _Tales from the Valley._
+-   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage_ and _Tales from the Valley_, which in turn are references to _[Insight](https://bloodborne.fandom.com/wiki/Insight)_ from _Bloodborne_.
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).
 -   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
--   Ganymedes have a special racial bonus that make [Deep Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
+-   Ganymedes have a special racial bonus that make [Deep\_Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
     -   [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
+    -   Shrine of Order will cost 10 Knowledge.
+    -   Shrine of Conceit will still cost 1 Knowledge.
     -   Shrine of Order will cost 10 Knowledge.
     -   A deal with [Misérables](Misérables.md) will cost 14 Knowledge.
     -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._

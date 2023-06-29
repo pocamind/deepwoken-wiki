@@ -1,26 +1,14 @@
 ---
 title: First Layer
-revid: 66294
+revid: 66601
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Locations, Map]
-notices:
-  - This page has recently been created Some things may be incomplete or broken.
+categories: [Pages with broken file links, Locations, Map]
 ---
 
 # First Layer
 
 Template:Location2
-
-## Prelude
-
-_"I shook and reeled into the sands,_
-
-_as all drowned into cacophony,_
-
-_yet the Song, through its tea-kettle pitch-_
-
-_spoke my name at the zeroth hour."_
 
 ## Overview
 

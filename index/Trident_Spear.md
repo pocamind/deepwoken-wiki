@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 65837
+revid: 66593
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -11,12 +11,12 @@ categories: [Weapons, Pages with broken file links, Spears]
 | Trident Spear | |
 |---|---|
 | type | Medium Weapon |
-| requirements | 50 MED |
+| requirements | 50/85 MED |
 | damage | 19 |
-| scaling | 6 MED |
+| scaling | 6/7 MED |
 | range | 9 |
-| swing speed | 0.68x |
-| penetration | 25% |
+| swing speed | 0.68x/0.69 |
+| penetration | 25%/30% |
 | selling price | 25 |
 | weight | 5 |
 | bankable | Yes |
