@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 66337
+revid: 66588
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -73,7 +73,7 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Throws 6 caltrops upon use, which stays on the ground for a while even if missed (Much like Gale Trap). Goes through block(**and your character!**) if casted closely to target. May be blocked or even parried of the ground. Has the potential to apply many iron rods. |
+ | Sharp metal traps. | 50 Ether | Throws 10 caltrops upon use, which stays on the ground for a while even if missed (Much like Gale Trap). Goes through block(**and your character!**) if casted closely to target. May be blocked or even parried of the ground. Has the potential to apply many iron rods. |
 |  | Firing Line
 
 (★★☆)

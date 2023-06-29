@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 66318
+revid: 66579
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -20,12 +20,12 @@ In order to obtain Flamecharm, you must bring 5 [Dying Embers](Dying_Embers.md) 
 
 ## Moveset
 
-Amashi's uses a [Hero Blade of Fire](Hero_Blades.md) along with the [Flamecharm](Flamecharm.md) attunement:
+Amashi's uses a [Hero Blade of Flame](Hero_Blades.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings sword at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | PLACEHOLDER | ◯ | ✗ | (★★☆) |
+| Critical | Impales blade into the ground, causing a burst of flame while conjuring the avatar of the Hero Blade of Flame. | ◯ | ✗ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★★) |
 | Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ✗ | ◯ | (★★☆) |
 | Flame Assault | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ | (★★☆) |
@@ -45,4 +45,4 @@ Amashi executes his opponent after knocking them:
 
 ## Tips
 
--   Parry trade with him or pin him into the wall and spam crit
+-   Parry trade with him or pin him into the wall and spam crit.

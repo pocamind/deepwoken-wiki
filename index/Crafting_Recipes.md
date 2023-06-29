@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 63244
+revid: 66580
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,6 @@ These are recipes that are not used to produce food or potions.
 -   **Bullets (5x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat/2 Crustacean Meat/1 Pufferfish_
 -   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
--   **Dark Feather** **(3x)**_\- 1 Void Feather_
 
 Picture of a Crafting Bench
 

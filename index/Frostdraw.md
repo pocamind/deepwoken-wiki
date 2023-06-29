@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 66293
+revid: 66587
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -865,7 +865,7 @@ File:Static-assets-upload2550294597928104705.webp
 
 Frost Buster
 
- | Greatsword and Greathammer Crits leave a trail of ice.
+ | Greatsword, Greathammer and Battleaxe Crits leave a trail of ice.
 
 -   Requires a HVY/Heavy weapon.
 

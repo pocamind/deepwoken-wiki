@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 65202
+revid: 66584
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -17,6 +17,26 @@ Template:EnemyInfobox1.0
 Funke is an NPC who acts as both progression for the [Silentheart](Oaths.md) Oath and the [Thundercall](Thundercall.md) trainer.
 
 In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke. Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five oath talents. They are found at the 2nd floor of the [Summer Isle's](Summer_Isle.md) castle inside the alchemy room.
+
+## Moveset
+
+Funke's arsenal consists of a [Hero Blade of Thunder](Hero_Blades.md) along with the [Thundercall](Thundercall.md) attunement:
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
+| Critical | Slams blade into the ground, conjuring a thin volley of lightning strikes forward. | ◯ | ✗ | (★★☆) |
+| Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+| Thunder Kick | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
+| Strong Left | User performs a wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+
+## Finisher
+
+Funke executes his opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before slicing their throat with blade. |
 
 ## Tips
 
