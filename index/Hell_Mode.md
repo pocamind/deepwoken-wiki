@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 65489
+revid: 66570
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -53,8 +53,6 @@ The event will end early if the original 5 players who activated the event all d
 Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell (It will also sometimes spawn for players that didnt ring the bell). These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the players who activated the event and cannot be interacted with by other players.
 
 ## Tips
-
-(In progress, feel free to add)
 
 Although Hell Mode is scary, the rewards are worth the trouble due to both the completion reward and the increased spawn rate of corrupted mobs. Here's a few tips:
 

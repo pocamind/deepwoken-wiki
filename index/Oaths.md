@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66494
+revid: 66576
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -62,15 +62,13 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 ― Oathsworn badge
 
-**Oaths** are a unique variety of [Talent Cards](Talents.md) that players can obtain; and, like [Murmurs](Murmur.md) and [Resonances](Resonance.md) (more commonly known as bells), players can only obtain one Oath per character. Oaths are causes players swear to live by as such you cannot take two Oaths because people cannot live by two causes.
+**Oaths** are viewpoints and beliefs that a character swears to live by until the day they fall.
 
-There are currently ten known obtainable Oaths in _Deepwoken._
+They, like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are unique [Talent Cards](Talents.md) that players can obtain only through meeting certain requirements, and serve to further define the player's character, potential, and story. **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in [Fragments of Self](Fragments_of_Self.md).**
 
-## Pathfinder (No Oath)
+Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
-Initially, all players start as a **Pathfinder**, which does not provide any benefit.
-
-Being a Pathfinder doesn't count as an Oath and is merely an indicator of lacking one.
+_There are currently 10 discovered obtainable Oaths in Deepwoken:_
 
 **Oathless:**
 
@@ -80,11 +78,11 @@ Being a Pathfinder doesn't count as an Oath and is merely an indicator of lackin
 
 ― Disciple of Cerulean
 
-**Oath: Oathless** can be obtained at any time throught a quest.
+**Oath: Oathless** is a rather varied Oath, given that its purpose extends the capabilities of what would be considered a Pathfinder. It can be obtained at any time through a quest as long as the player character is currently a Pathfinder.
 
 ### Obtainment
 
-To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Landing.md>) and go right. Through a log is a cave, talk to the person in there, and they'll tell you to go to their three disciples (in no specific order).
+To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Landing.md>), climb the wall past the log and turn right. Through a log is a cave, talk to the person in there, and they'll tell you to go to their three disciples (in no specific order).
 
 -   One is at Fort Merit, in a house near the elevator
 -   One is at Meteor Isle, in the house with a cauldron
@@ -102,10 +100,10 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 -   Commonly agreed to be a subpar oath compared to the other non-stat locked oaths.(Linkstrider/Dawnwalker/Contractor).
     -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely. The oath mantra resistance and +10 HP comes in handy too.
--   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
+-   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Completing a deal will use up a Wish.
 -   Doesn't give the Oathsworn badge, if that's a concern.
 -   Can use Shrine of Order with this "Oath" on your Character.
--   Used to be obtainable through getting it in a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first oath.
+-   Used to be obtainable through getting it in a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first Oath.
     
 
 **Blindseer:**
@@ -116,7 +114,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 ― Glyphs found in the Temple of the Forgotten Flame
 
-**Oath: Blindseer** is a supportive Oath based around Sanity, allowing one to take away the insanity of others and use it themself while also providing support.
+**Oath: Blindseer** is a utility-based Oath focused around the idea of Sanity. It can serve many useful and potentially life-saving purposes in combat.
 
 ### Obtainment
 

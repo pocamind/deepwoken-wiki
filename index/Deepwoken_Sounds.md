@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 66557
+revid: 66565
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -188,7 +188,7 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 6.0s | Dying in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
 
-## Trivia/Notes
+## Trivia
 
 -   Initially there were meant to be day themes and night themes in the game, but the idea was scrapped due to the workload this would have presented. In addition, due to a change in Deepwoken's gameplay during testing, the mechanic of a peaceful daytime and a dangerous night time was removed from the game.
 -   Naktigonis created many of the early sound effects, but later on his line of work got pushed more towards music.
@@ -202,10 +202,15 @@ Miscellaneous sounds found in _Deepwoken_.
 -   Naktigonis's voice regularly features in the soundtrack: his voice is featured in the choirs in "Oscillation", "Kyrie", and "The Gideshu March", many of the chants in "And Let Slip The Hounds Of War", most of the scream vocals in "INSOMNIA", and in the singing vocals of "Sin-Smelted Scoriae."
     -   He was recovering from [Covid-19](https://en.wikipedia.org/wiki/COVID-19) when recording the vocals for "Sin-Smelted Scoriae," and is unhappy with how they came out, though he plans to leave it as how it is.
 -   "Picking a card" sound is probably from Fallout Shelter.
+
+The "Unparryable attack" sound originates from Sekiro.
+
 -   For earlier tracks in the OST, ambient noises, such as the wildlife from "Solivagant", were not separated from the music, but rather made part of it, due to Roblox's technical limitations.
     -   Naktigonis has stated '​early tracks in the OST tend to be laidback with the melody and let ambience take centre stage; this later changed as the game development progressed and Monad's design philosophy changed. According to him, the OST generally picks up in the second half when area-specific combat themes get introduced.'
--   Nakitgonis felt "Peregrine" ended up being used way less often than he liked. Most of area it was meant for - the Seranece Mountains, - was cut from the game for its release.
+-   Nakitgonis felt "Peregrine" ended up being used way less often than he liked. Most of the area it was meant for - the Seranece Mountains, - was cut from the game for its release.
 -   Early combat themes were intended to be percussion-only, to contrast with the melodic ambience music, though this was obviously changed.
 -   The vocals for "A Light in The Sky" are from a [Kontakt 6 opera singer library](https://www.fluffyaudio.com/shop/simple-opera-singer/), which features the voice of opera singer Ji Min Oh.
+
+## References
 
 1.  [↑](#cite-ref-1) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

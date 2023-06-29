@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66560
+revid: 66574
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 # Talents
 
-**Press Ctrl + F to search talents. Below is an elaboration on how to use the CTRL+F talent finder.**
+**Press _Ctrl + F_ to search talents. Below is an elaboration on how to use _CTRL + F_ for this page.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
     -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
@@ -16,8 +16,9 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
     -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
 -   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
     -   _(i.e "ButterfIy" to find talents that are within ButterfIy)_
--   FIND A MYSTIC PHRASE FOR A TALENT: Below each category of talents, there is the respective speech that can be used to trigger some talents via [mystic](Mystic.md).
-    -   If the phrase is not appearing, it happens that the npc has a specific phrase for some talent (which can be found on their page) or that the card you want is rare, something that is not possible to influence with the help of [mystic](Mystic.md).
+-   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
+    -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
+        -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
 
 Template:DWI Talents
 

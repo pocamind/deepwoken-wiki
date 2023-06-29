@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 66418
+revid: 66566
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -27,7 +27,7 @@ Does not generate points over the total maximum, and instead, takes them away fr
 
  | 1 |
 | Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Survivalist | "You are more resistant to environmental effects." | Grants immunity to environmental hazards, such as Acid Rain, and how quickly you gain Parasites in the Eternal Gale. ~Also give reduced fall damage.~ **Needs testing.** | 1 |
+| Survivalist | "You are more resistant to environmental effects." | Grants immunity to acid rain. Parasites also accumulate on you ~33% slower. | 1 |
 | Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to gain an extra ace. | 1 |
 | Packmule | "You have a much higher max. carry load." | Carry load is increased by 50, item stack limits are increased by 25% (rounded). | 1 |
@@ -45,11 +45,11 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator), but allows you to get the [Herbivore and Iron Gut Talents](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct) at 10 FRD. | 1 |
-| Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a random amount of hunger and thirst when gripping NPCs or other players. | 1 |
+| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator), but allows you to get the [Herbivore and Iron Gut Talents](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct) at 10 FTD. | 1 |
+| Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a tiny amount of hunger (2-3%) when gripping NPCs or other players. | 1 |
 | Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching. | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
-| Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. | 1 |
+| Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. The reduced regeneration is a flat number, meaning this flaw is more damaging at low Tempo and less at high Tempo | 1 |
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
 -   Gremor's who are blind see better than others, being blessed by Navae.
 
@@ -71,8 +71,8 @@ Paying to restore reputation only resets up to the default, low reputation.
 To get this flaw added to the flaw selection screen, grip a reputable member from any factions eg. Etrean guard.
 
  | 1 |
-| Manic | "All sanity gained from attacks is heavily amplified." | All incoming insanity damage is increased. | 1 |
-| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased by an unknown amount. | 1 |
+| Manic | "All sanity gained from attacks is heavily amplified." | All incoming insanity damage is increased greatly. | 1 |
+| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased to ~150-200% | 1 |
 | Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
 
 Count as 2 flaws, cannot be taken with another flaw.
@@ -85,7 +85,7 @@ Given after removing Oath: Oathless at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md
 (Not an Unlockable Flaw)
 
  | 0 |
-| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removal
+| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removed.
 
   
 

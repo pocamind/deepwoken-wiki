@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 66511
+revid: 66571
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -300,7 +300,7 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
   <td>The user instantly teleports to the position that they are facing, leaving much wind after cuts in the position they left.
   <ul>
     <li>Can be modified with crystal and perfect lenses to increase the distance.</li>
-    <li>Uses the shadow assault sound.</li>
+    <li>Uses the shadow assault startup sound.</li>
     <li>It's also compatible with logstones, but the effect is unknown. (Needs to be tested)</li>
   </ul></td>
 </tr>
