@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66626
+revid: 66643
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -209,6 +209,8 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
 -   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void will send you to Layer 2, and refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
 
 To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills. There's also one talent available throught talent hands.
+
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=MXBJfraH_cI)._
 
 ### Known Abilities
 

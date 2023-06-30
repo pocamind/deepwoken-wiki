@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 66586
+revid: 66645
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -37,7 +37,7 @@ Critical
 
 Shadow Assault
 
- | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+ | User performs a wind-up before rushing forward as a shadow orb, hitting anyone in their path while applying darkness. | ◯ | ◯ | (★★☆) |
 | 
 
 Rapid Punches
