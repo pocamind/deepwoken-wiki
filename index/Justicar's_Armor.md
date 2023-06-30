@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 64857
+revid: 66631
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -29,13 +29,14 @@ This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which inc
 This Outfit's Schematic can be found in:
 
 -   Etris War Event \[Super Rare\]
--   Fishing \[unconfirmed, under investigation\]
+-   Fishing \[confirmed but very rare\]
 -   Halloween weapon seller. \[20 Joy, No longer avaliable\]
 -   Lightning Squibbo \[Common in hell mode\]
 
 ## Trivia
 
 -   The only Master Outfit to not be affiliated with a reputable [Faction](Reputation.md).
+-   one of the rarest armor in the game worth a lot in trading but still under every legendary (ps if somebody asking for legendary for one they are overpaying)
 -   This used to have the most physical resistance in the game on release, with a whopping 40%. It did not have ether regen or blunt damage.
     -   This was later nerfed to 35% but given 100% ether regen.
     -   It was then gutted to 30% physical resistance but given an additional 5% blunt armor.

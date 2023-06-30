@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 66538
+revid: 66630
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -62,12 +62,12 @@ _Castaway_ is the default, intended way to play the game, and is available to th
     -   Can cook at the oven (not a campfire) in Castle Light on the second floor.
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
--   **\[CON\]** Probably the worst origin.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
-    -   **\[PRO\]** You can now gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates The Temple of Hearts and you therefore have access to every Deep Shrine.
+-   **\[PRO\]** You can now gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates The Temple of Hearts and you therefore have access to every Deep Shrine.
+-   **\[CON\]** You cannot have access to Yun'Shul until you get a Resonance. This is of usually little matter, however, since not having a Resonance and trying to enter the Temple of Hearts as a non-Deepbound will wipe you.
 
 ## Voidwalker
 

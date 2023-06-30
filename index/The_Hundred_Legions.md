@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 59226
+revid: 66632
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -17,7 +17,7 @@ categories: [Factions]
 
 ― Legion Soldiers
 
-**The Hundred Legions** is a minor faction in Deepwoken.
+**The Hundred Legions** is a faction in Deepwoken.
 
 ## Description
 
