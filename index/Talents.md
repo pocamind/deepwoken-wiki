@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66621
+revid: 66675
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -437,7 +437,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _\-I use the song to charm others._
 
--   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else. (+4 Ether)
+-   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   Prerequisite 55 Charisma
 
 -   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
@@ -447,7 +447,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you.
     -   Prerequisite: 25 Charisma
 
--   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer. (+4 Ether)
+-   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
     -   Prerequisite: 55 Charisma, Charismatic Cast
 
 -   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you.
@@ -533,7 +533,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Spike Traps \[Rare Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
     -   Prerequisite: Ice Spikes
 
--   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether, +2 Elemental intensity)
+-   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)
     -   Significantly reduces thirst drain.
     -   Prerequisites: 20 Intelligence, 15 Frostdraw
 
@@ -601,7 +601,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   If you steal more ether than you can fit in your ether bar, convert it into tempo.
     -   Prerequisites: 40 Shadowcast, Dark God
 
--   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+4 Ether, +1 Health, +7 Reservoir)
+-   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+1 Health, not sure if this still gives health, someone please check.)
     -   Prerequisite: Shadow Eruption
 
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity)
@@ -706,7 +706,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Empath
 
--   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades. (+3 Ether, + 2 Health)
+-   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
     -   Guildmates or people who are in a Vow of Mastery with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
     -   Prerequisities: 35 Charisma
@@ -731,8 +731,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 15 Intelligence
 
--   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. (+2 Ether)
-    -   Gain Ether when you parry mantras.
+-   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
     -   Prerequisites: 20 Agility, 15 Intelligence
 
 -   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s
@@ -989,12 +988,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _\-I always shoot first._
 
--   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor. (+2 Ether)
+-   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor.
     -   Prerequisites: 30 Intelligence, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Intelligence
--   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\]. (+4 Ether, +8 reservoir)
+-   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\].
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
@@ -1107,7 +1106,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
     -   Prerequisites: 60 Flamecharm and Agitating Spark
 
--   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether. (+4 Ether)
+-   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
     -   Prerequisites: 15 Charisma, 1 Flamecharm, 15 Willpower
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
@@ -1178,14 +1177,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Jetstriker
 
--   _Decisive Winds \[Unlockable Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)_
--   _Prevailing Westerlies \[Unlockable Talent, Jetstriker Exclusive\] - You gain maximum momentum faster while running. (+5 Ether, +5 Passive Agility)_
+-   _Decisive Winds \[Unlockable Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown._
+-   _Prevailing Westerlies \[Unlockable Talent, Jetstriker Exclusive\] - You gain maximum momentum faster while running. (+5 Passive Agility)_
 -   _Rush of ancients \[Unlockable Talent, Jetstriker Exclusive\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)_
 -   _Stratos Step \[Unlockable Talent, Jetstriker Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)_
     -   _Consumes Ether per step._
     -   _Stratos Steps will only proc twice before going on a cooldown._
         -   _Said cooldown applies to individual steps._
--   _Vigil's Grace \[Unlockable Talent, Jetstriker Exclusive\] - Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+3 Ether, +2 Posture)_
+-   _Vigil's Grace \[Unlockable Talent, Jetstriker Exclusive\] - Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+2 Posture)_
     -   _Vigil's Grace empowered running m1's deals +10% damage._
 
 ### Justicar
@@ -1586,7 +1585,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 60 Strength
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield
 
--   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits. (+10 Ether)
+-   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 90 Strength, Bulldozer, Unwavering Resolve, Shield Breaker (All Raging Bull Talents)
     -   Mutual Exclusive: Ether Overdrive
 
@@ -1594,7 +1593,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _\-My static is uncontrollable._
 
--   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. (+4 Ether, +4 Elemental Intensity)
+-   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. ( +4 Elemental Intensity)
     -   Prerequisite: 35 Thundercall
 
 ### Rending Needle
@@ -1664,7 +1663,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _\-I am a self-starter._
 
--   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Ether, +4 Elemental Intensity)
+-   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Elemental Intensity)
     -   Prerequisite: 35 Thundercall, Static Withdraw
 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
@@ -1757,13 +1756,13 @@ These Talent are meant to make maintaining your ship easier.
 
 Prerequisite: Charisma
 
--   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay! (+4 Ether)
+-   Friends in High Places \[Common Talent\] - Your connections often let you off the hook when you're in trouble with the law. Nepotism sure does pay!
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
 
--   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown) (+4 Ether)
+-   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
     -   Prerequisite: 40 Charisma
 
--   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you. (+2 Ether)
+-   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you.
     -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
@@ -1792,7 +1791,7 @@ Prerequisite: Charisma
 
 -   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Shadowcast
--   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long. (+8 Reservoir,+4 Elemental Intensity)
+-   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 -   Quick Link \[Common Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
@@ -1803,16 +1802,16 @@ Prerequisite: Charisma
     -   3-4 seconds cooldown between knock preventions.
     -   Prerequisite: Static Link, 40 thundercall, 20 Fortitude
 
--   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+6 Reservoir, +4 Elemental Intensity)
+-   Link Conduction \[Common Talent, Thundercall exclusive\] - While you have active tethers your lightning mantras cost less ether. (+4 Elemental Intensity)
     -   Each active link reduce mantra ether cost by 30%.
     -   Prerequisite: Static Link, 65 Thundercall
 
--   Static Ace \[Common Talent, Thundercall exclusive\] - Using stream core with an active tether link targets your closest active link. (+4 Ether, +4 Reservoir)
+-   Static Ace \[Common Talent, Thundercall exclusive\] - Using stream core with an active tether link targets your closest active link.
     -   Stream core is actually Lightning Stream.
     -   Using Lightning Stream with a tether will instantly grab the target.
     -   Prerequisite: Static Link, 70 Thundercall
 
--   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+1 Ether, +5 Reservoir, +2 Health)
+-   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds. (+2 Health)
     -   Prerequisite: Static Link, 50 Thundercall, 15 Intelligence
 
 ### Stormblade
@@ -1896,10 +1895,10 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
     -   Prerequisites: 20 Intelligence
 
--   _Punishing Blow_ \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon. (+4 Ether)
+-   _Punishing Blow_ \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon.
     -   Prerequisite: 20 Heavy Weapons Mastery
 
--   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free (+4 Ether)
+-   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free.
     -   This effect is signaled by a yellow halo.
     -   Prerequisites: 20 Intelligence
 -   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
@@ -1916,11 +1915,11 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _\-I enjoy a good meal._
 
--   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%. (+3 Elemental Intensity, +4 Ether)
+-   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%.
     -   Increases food nutritional value by 25%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 50 of your own Dishes
 
--   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +20%. (+5 Elemental Intensity, +2 Ether)
+-   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +20%.
     -   Increases food boosts by 30%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 50 of your own Dishes
 
@@ -1948,7 +1947,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _\-I can talk myself out of any situation._
 
--   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you. (+1 Ether)
+-   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you.
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
         -   Does not work in PVE.
     -   Prerequisites: 55 Charisma, all Silvertongue talents
@@ -1959,20 +1958,20 @@ These Talents are designed to let you survive longer against starvation and thir
 
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
--   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+4 Ether, +2 Passive Agility)
+-   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing \[R\] again.
     -   ~You can still emote~ Patched :(
     -   Using Cap artist in the depths makes you have normal gravity
     -   Prerequisite: 25 Agility, 5 Charisma
 
--   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player. (+2 Ether)
+-   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player.
     -   Prerequisites: Pickpocket, 25 Charisma
 
--   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+4 Ether, +2 Passive Agility)
+-   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+2 Passive Agility)
     -   Prerequisites: 5 Agility, 10 Charisma
 
--   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+3 Ether, +2 Passive Agility)
+-   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+2 Passive Agility)
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
     -   If the player you are mugging doesnt have any notes, you will stop mugging unequipped equipment.
     -   Does not take enchanted equipment
@@ -2117,8 +2116,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Visionshaper
 
--   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied. (+10 Ether)
--   Mirage From the Deep \[Common Talent, Visionshaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 10% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 ether)
+-   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied.
+-   Mirage From the Deep \[Common Talent, Visionshaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 10% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep.
     -   Upon pressing X, you will leave Illusionary Realm early, leaving behind 3 creatures: [King Thresher](https://deepwoken.fandom.com/wiki/Thresher?so=search#King_Thresher), [Deep Owl](Deep_Owl.md) or [Nautilodaunt](Nautilodaunt.md)
 
 -   _Vanishing Closure_ \[Rare talent, Visionshaper Exclusive\] - Briefly disappear after knocking an enemy.
@@ -2388,7 +2387,7 @@ File:Thresherquest1.png
 
 Certain talents are given when a specific outfit is worn. Most of these talents are exclusive to that armor set, though some are also available as cards from powering up. Multiple copies of the same talent do not stack.
 
--   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+4 Ether, +7 Reservoir, +2 Health)
+-   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+2 Health)
     -   Also available as a common talent.
 
 -   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
@@ -2422,7 +2421,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 20%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.
 -   Eruption Path: Lava Serpent \[Flamecharm Exclusive\] - Your fire abilities proc an eruption under the enemies feet instead of burn. (+4 Elemental Intensity)
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit. (+5 Ether)
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal more damage to enemies with status effects on them with your basic attacks but remove the effect on hit.
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)

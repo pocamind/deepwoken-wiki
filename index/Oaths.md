@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66643
+revid: 66647
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -62,9 +62,9 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 ― Oathsworn badge
 
-**Oaths** are viewpoints and beliefs that a character swears to live by until the day they fall.
+**Oaths** are viewpoints and beliefs that a character swears to live by until the day they fall, or will they?
 
-They, like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are unique [Talent Cards](Talents.md) that players can obtain only through meeting certain requirements, and serve to further define the player's character, potential, and story. **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in [Fragments of Self](Fragments_of_Self.md).**
+They are like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are unique [Talent Cards](Talents.md) that players can obtain only through meeting certain requirements, and serve to further define the player's character, potential, and story. **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in [Fragments of Self](Fragments_of_Self.md).**
 
 Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 

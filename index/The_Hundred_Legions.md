@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 66632
+revid: 66678
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -10,14 +10,14 @@ categories: [Factions]
 
 | The Hundred Legions | |
 |---|---|
-| territory | Western Luminant , Vipers Jaw Camp, |
+| territory | Western Luminant, Vipers Jaw Camp |
 | goals | Destroy the Authority. |
 
 “ The Empire's wrath will come down on you if you stay on this path... ”
 
 ― Legion Soldiers
 
-**The Hundred Legions** is a faction in Deepwoken.
+**The Hundred Legions** is a minor faction in Deepwoken.
 
 ## Description
 
@@ -44,4 +44,4 @@ The Legion has several war heroes that are depicted by either their ornaments or
 -   From the camp in [The Viper's Jaw](<The_Viper's_Jaw.md>) we can meet a Khan with an unobtainable race variant, meaning that there might be more types of Khans than the ones that have made their way in the East.
 -   While speaking to Gaius, you can learn that being stationed in the East isn't the best if you're looking to become the next Ruler of the Legion as he outright curses, presumably Akilles, who stationed him there.
 -   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say "Let my comrades know, we'll hold a ceremony in his honor."
--   Despite the Legion being extremely vast as they rule an entire luminant, apparently, with an iron fist, it has slightly any lore content to be deemed a relevant faction.
+-   Despite the Legion being extremely vast as they rule an entire Luminant, apparently, with an iron fist, it has too little lore content to be deemed a relevant faction.

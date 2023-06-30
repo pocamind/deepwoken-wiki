@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 64419
+revid: 66669
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -77,7 +77,7 @@ Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pic
 5.  Find a wooden house, located deep within the area (not to be confused with [The Rat's Den](<Rat's_Den.md>))
 6.  Hold the Gale Stone and talk to the NPC bleeding all over.
 7.  Return to Apprentice Kj to finish the quest.
-8.  Head on to the Sparring Arena and talk to Maestro, located to the left when entering, opposite to the sparing instructor.
+8.  Head on to the Sparring Arena and talk to Maestro, located to the left when entering, opposite to the sparring instructor.
 9.  In the dialogue, select the weapon category you are proficient into (75). You will obtain the according Unbound card.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=MPXiUG8j7qA)._
