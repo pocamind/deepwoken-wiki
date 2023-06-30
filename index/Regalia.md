@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 65254
+revid: 66623
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -27,5 +27,3 @@ If you ring the hell bell in depths, the effects are gone. All mobs will aggro y
 -   [Ministry Scouts](Ministry_Scout.md) were once affected by Mute.
 -   [Brainsuckers](Brainsucker.md) encountered in Lord Erisia's Manor are not affected by Mute.
 -   Mute does not apply to any monsters or humanoids encountered in [Layer 2](Second_Layer.md).
--   [Immortal Guardians](Immortal_Guardian.md) are affected by Mute.
--   Termite used to be a Regalia, but then became a normal talent. You would obtain it by wiping with the talent "Iron Gut".
