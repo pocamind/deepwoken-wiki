@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 66690
+revid: 66695
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -60,7 +60,7 @@ Sells for ...
 
 "A powerful metal said to harness the power of shadows." A dark blue neon ore found in The Depths, specifically the Varicosa District in City of the Drowned, inside the cave where Nostor, the Shadowcast trainer, is located.
 
-Sells For ...
+Sells For 45 notes
 
 File:Umbrite1.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66675
+revid: 66697
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1281,7 +1281,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Stacks with shield.
     -   Prerequisites: 15 Fortitude, Using a spear
 
--   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility, +2 Health)
+-   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility)
     -   20 Medium, 30 Strength / 30 Agility, 65 Galebreath, Air Pressure
 
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
@@ -1919,7 +1919,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Increases food nutritional value by 25%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 50 of your own Dishes
 
--   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +20%.
+-   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%.
     -   Increases food boosts by 30%.
     -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 50 of your own Dishes
 

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 66611
+revid: 66698
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -45,6 +45,7 @@ Achieving milestones and completing certain quests will award the player with Kn
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
 -   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge.
     -   Killing [The Ferryman](The_Ferryman.md) in Spring. This rewards 1 Knowledge and can be repeated.
+-   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
 -   _(More advanced methods exist to be found...)_
 
 The limit of on-hand Knowledge a player can have is 99. **The currency is bound to a slot and is lost upon wipe.**

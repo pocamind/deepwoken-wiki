@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 66630
+revid: 66701
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -62,12 +62,12 @@ _Castaway_ is the default, intended way to play the game, and is available to th
     -   Can cook at the oven (not a campfire) in Castle Light on the second floor.
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
--   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health
+-   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
+-   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates The Temple of Hearts and you therefore have access to every Deep Shrine without haaving to go to the surface.
+-   **\[CON\]** You cannot have access to Yun'Shul until you get a Resonance. This is of usually little matter, however, since not having a Resonance and trying to enter the Temple of Hearts as a non-Deepbound will wipe you.
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
--   **\[PRO\]** You can now gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates The Temple of Hearts and you therefore have access to every Deep Shrine.
--   **\[CON\]** You cannot have access to Yun'Shul until you get a Resonance. This is of usually little matter, however, since not having a Resonance and trying to enter the Temple of Hearts as a non-Deepbound will wipe you.
 
 ## Voidwalker
 
@@ -90,9 +90,6 @@ Also all of the kills need to be made on one single character
         -   You can always teleport through the Voidmother no matter what, even in combat. Use it if you are getting attacked in a fight you can't win, as it is VERY unlikely that you teleport to the same place as your attacker.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events (estimated to be x0.95).
-    -   Your starting reputations are:
-        -   Friend of The Knives of Eylis and Lost Celtor
-        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, The Hive, and The Hundred Legions
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
@@ -108,6 +105,9 @@ Also all of the kills need to be made on one single character
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO\]** You spawn with Whaler Initiate Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which connects you to players who have yet to establish a rapport with the Knives.
+    -   Your starting reputations are:
+        -   Friend of The Knives of Eylis and Lost Celtor
+        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, The Hive, and The Hundred Legions.
 
 ## Upcoming Origins
 
