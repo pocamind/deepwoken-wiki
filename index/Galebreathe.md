@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 66571
+revid: 66689
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -16,13 +16,13 @@ _A gremor using Gale Lunge_
 
 .
 
-Galebreathe is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
+"Galebreathe" is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
-The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras. This attunement also is excellent for so-called "Trackstar builds" due to the insane mobility talents this Attunement holds.
+The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind Gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras. This attunement also is excellent for so-called "Trackstar builds" due to the insane mobility talents this Attunement holds.
 
-While Galebreathe does certainly have a high skill cap, it suffers from sub-optimal PVE performance and mediocre team combat, not to mention a lack of utility almost rivalling attunement-less. Additionally, the heavy reliance on gale lunge and follow-up attacks make novice Galebreathers somewhat susceptible to defensive counter playstyles such as heavy-gun and Frostdraw builds. It's suggested to use the high manoeuvrability and weakness exploiting playstyle to be patient, and go in when the time is right.
+While Galebreathe does certainly have a high skill cap, it suffers from sub-optimal PVE performance and mediocre team combat, not to mention a lack of utility almost rivalling attunement-less. Additionally, the heavy reliance on gale lunge and follow-up attacks make novice Galebreathers somewhat susceptible to defensive counter playstyles such as heavy-gun and Frostdraw builds. It's suggested to use the high manoeuvre-ability and weakness exploiting playstyle to be patient, and go in when the time is right.
 
 ## Training
 
@@ -770,5 +770,4 @@ FROM: Inhale
 -   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
 -   The wind phantom from "_Haunted Gale_" mantra appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.
 -   "_Tempest Wind_" is deceptively useful in the fact that it allows a ranged mantra to excel at close range. Although it's not a direct upgrade to uppercut due to how difficult it is to use. Though there is one effective method of using it is simply jumping during your slide before casting it which will propel you forward and easily rush down your opponent. There is another useful but difficult technique to pull off. To do this, you must slide jump and immediately M1 which will keep "_Tempest Wind_" active long enough for you to cast it after the M1. Alternatively you can cast it early in order to feint the M1 but due to the low windup of "_Tempest Wind_" it's very difficult to parry or punish unless it's used by itself. Though letting the arial M1 hit and then casting it is very powerful because it leaves no room for counter-attack after blocking or rolling the M1 but this is negated by parries.
--   _"Haunted Gale_" can actually be a detriment to your builds as it effectively makes your opponent land a parry on it after missing the parry of your actual mantra which pretty much frees them from whatever pressure you were applying on them. That horrendous flaw is not really justified by a pitiful extra damage that it may do, overall an L talent.
 -   Pairing it with the [Jetstriker Oath](Oaths.md) can make it one of the best builds for running, given Galebreathe is the best attunement for mobility and Jetstriker is the best Oath for mobility. [The Old Wind, Gale Step and Aerogliding](Talents.md) talents, along with all of the Jetstriker talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md).
