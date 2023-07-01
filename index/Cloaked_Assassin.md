@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 66683
+revid: 66722
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -14,11 +14,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Cloaked Assassins spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat.
+Cloaked Assassins spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat. They have a chance to drop the weapon they use
 
 ## Moveset
 
-Their arsenal consists of a [Whaling Knife](Whaling_Knife.md) along with the [Frostdraw](Frostdraw.md) and [Shadowcast](Shadowcast.md) attunement:
+Their arsenal consists of a [Whaling Knife](Whaling_Knife.md). [Tanto](Tanto.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Krulian Knife](Krulian_Knife.md), along with the [Frostdraw](Frostdraw.md) and [Shadowcast](Shadowcast.md) attunement. Their moveset consists of:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Their arsenal consists of a [Whaling Knife](Whaling_Knife.md) along with the [Fr
 | Critical | Throws spear at opponent and then pulling them in with a white chain. | ◯ | ✗ | (★★☆) |
 | Ice Daggers | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
 | Shadow Assault | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
-| Strong Left | the user rears their hand and punches, ragdols | ◯ | ✗ |  |
+| Strong Left | the user rears their hand and punches, ragdolls | ◯ | ✗ |  |
 
 ### Boons
 

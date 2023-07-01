@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 66684
+revid: 66724
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -57,15 +57,15 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 **[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer, but would later reveal that he had betrayed The Divers. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was apart of. He then slaughtered the other Divers that were involved in expeditions following that one. Technically Ministry aligned.
 
-**Funke (Thundercall trainer) and Nell (Frostdraw trainer):** They are wearing Black Diver uniforms and are both stationed in overworld. Not a lot is known about those two as there is no dialogue or a way to ask them about it.
+**Funke (Thundercall trainer) and Nell (Frostdraw trainer):** Funke and Nell are wearing Black Diver uniforms and can be found in the Easten Luminant and the Etrean Luminant respectively. Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
 
-[**Gudrin**](Reputation.md): Removes hostilities with Apprentice Divers and Divers.
+[**Gudrin**](Reputation.md): Removes hostilities with the Divers, as mentioned in the article.
 
-**[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion, or also known as Dr. Diver, is a Ganymede Black Diver who is very skilled in terms of Alchemy and science, being able to give people the abilities of certain monsters at the cost of their certain parts. Despite being a Black Diver, he is the leader of the Apothecaries, a group based on the creation and research of potions and some other scientific topics, that was removed from the Divers due to the actions of undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor, and be able to "Transcend" everyone by drinking this potion, Carrion already drank a prototype of the Moonseye Vigor, that lead him to madness and gave him green eyes. He is currently residing in Castle light, also seen in the great library of New Kyrsa, probably researching to create a new Moonseye Vigor. Apparently he doesn't care much for the events of Layer, instead choosing to prioritize his research of the Vigor, rather than preventing the awakening of a drowned god that could destroy Lumen. This event, alongside Klaris’ dialogue about him, tells us that Carrion prioritize his research towards anything, giving little to no care about any major events in the game that doesn't influence his research.
+**[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion, or also known as Dr. Diver, is a Ganymede Black Diver who is very skilled in terms of alchemy and science, being able to give people the abilities of certain monsters at the cost of the corresponding creature’s organs. Despite being a Black Diver, he is the leader of the Apothecary, a group based on the creation and research of potions and some other scientific topics. This branch was later excommunicated from the Divers due to the actions of an undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor, and be able to "transcend" everyone by drinking this potion. Carrion already drank a prototype of the Moonseye Vigor, which drove him to insanity, along with giving him green eyes. He is currently residing in Castle Light, but can also be seen in the Great Library of New Kyrsa, probably researching to create a new Moonseye Vigor. Apparently, he doesn't care much for the events of Layer, instead choosing to prioritize his research of the Vigor rather than preventing the awakening of a drowned god that could destroy Lumen. This event, alongside Klaris’ dialogue about him, tells us that Carrion prioritize his research towards anything, giving little to no care about any major events in the game that doesn't influence his research.
 
 **Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's caretaker.
 
-**[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md):** A Black Diver who resides in Castle Light. She is able to give the player the [Dawnwalker Oath](Oaths.md), and a Light Hook which transports the player to Layer 2. She is one of the strongest of all Divers.
+**[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md):** A Black Diver who resides in Castle Light. She is able to give the player the [Dawnwalker Oath](Oaths.md), and a Light Hook which transports the player to Layer 2. She is one of the strongest Divers.
 
 ## Trivia & Guild Information
 

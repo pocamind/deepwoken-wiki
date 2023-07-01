@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 66701
+revid: 66717
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -63,8 +63,8 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
--   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates The Temple of Hearts and you therefore have access to every Deep Shrine without haaving to go to the surface.
--   **\[CON\]** You cannot have access to Yun'Shul until you get a Resonance. This is of usually little matter, however, since not having a Resonance and trying to enter the Temple of Hearts as a non-Deepbound will wipe you.
+-   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
+-   **\[CON\]** The Shrines in the Temple of Hearts do not count towards Contractor progression for whatever reason, requiring killing the Enforcer to get to the surface.
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions

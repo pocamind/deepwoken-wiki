@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 66695
+revid: 66723
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -42,13 +42,13 @@ Sells for 10 Notes
 
 A glowing, blue ore used for crafting certain armors. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md), the inside of [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and [The Entropy Catalyst](The_Entropy_Catalyst.md). Erisore can also be dropped by Mechalodaunts at Miner's Landing.
 
-Sells for 15 Notes.
+Sells for 15 Notes
 
 **Irithine:**
 
 A vibrant green ore used for crafting certain armors. Found in [The Garden Reservoir](The_Garden_Reservoir.md) under the [Burning Stone Gardens](Burning_Stone_Gardens.md), and in [Saramaed Summit](Saramaed_Summit.md) within [Miner's Landing](<Miner's_Landing.md>).
 
-Sells for 12 Notes.
+Sells for 12 Notes
 
 **Astruline:**
 

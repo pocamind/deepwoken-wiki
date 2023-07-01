@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66697
+revid: 66721
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -236,7 +236,7 @@ _\-I enjoy mixing potions._
     -   Increase the rate of hooking something while fishing.
 
 -   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
-    -   Obtained after fishing 25 times successfully.
+    -   Obtained after fishing 30 times successfully.
     -   Reduces the chance of failure while fishing.
 
 -   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
@@ -1370,12 +1370,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   You do not regen sanity when something is actively draining it, like being in The Depths.
     -   Prerequisite: 5 Willpower
 
--   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. (+3 Sanity)
+-   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. Allies that grip enemies near you recover Sanity (+3 Sanity)
     -   Recover sanity when killing monsters in The Depths.
+    -   Allies that grip a humanoid near you (either a player or a mob) gain sanity.
     -   Prerequisites: 10 Willpower, Breathing Exercise
 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
-    -   Halves the duration of Charms and Illusionary Servant casted against the character, meaning Charmed will only last 3.75 seconds (previously 7.5 seconds) and 7.5 seconds (previously 15 seconds) against Lasting Charisma; doesn't affect their effects.
+    -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
+        -   Charm now last 3.75 seconds (down from 7.5 seconds)
+        -   Lasting Charisma Charm last 7.5 seconds (down from 15 seconds)
     -   Prerequisite: 25 Willpower
 
 ### Merchant

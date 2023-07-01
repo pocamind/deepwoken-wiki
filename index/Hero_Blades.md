@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 66693
+revid: 66708
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -137,4 +137,4 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
 
 -   Before Verse 2 (12/24/2022), the critical of the Hero blades were basic sword critical stabs.
 -   Every critical of the hero blade has a different hero with different race, giving the theory that the spirit in the critical attack is the original wielder/hero of the blade.
--   The Hero of Wind is named Sven Corbet, and appeared in a video prior to the public release of Deepwoken. If this info is true to the lore is unknown.
+    -   The Hero of Wind is named Sven Corbet, and appeared in a video prior to the public release of Deepwoken. Whether or not this is still canon is unknown.

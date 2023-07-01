@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 66562
+revid: 66712
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -16,7 +16,7 @@ Murmurs are [Talents](Talents.md) obtained by completing an objective or require
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You can only obtain a Murmur if your Character is at least [Power](Power.md) 5.
+Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You can only obtain a Murmur if your Character is at least [Power](Power.md) 5. However if the requirement to unlock the Murmur can be completed with the help of someone power 5 or above you can obtain the Murmur at Power one (Mostly notably fighting the Dread Serpent)
 
 ## Murmurs Strengths
 
@@ -81,7 +81,7 @@ A screenshot of the Tacet NPC at Erisia, found by Restative.
 
 #### Method Three - The Stranger NPC
 
-Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free.
+Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The Stranger NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the oath via this method is not recommended.
 
   
 
