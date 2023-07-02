@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66781
+revid: 66825
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -116,7 +116,7 @@ This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 He
 
 ― Glyphs found in the Temple of the Forgotten Flame
 
-**Oath: Blindseer** is a utility-based Oath focused around the idea of Sanity. It can serve many useful and potentially life-saving purposes in combat.
+**Oath: Blindseer** is a utility-based Oath focused around Sanity as its ressource. It can serve many useful and potentially life-saving purposes in combat.
 
 ### Obtainment
 
@@ -140,11 +140,10 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 ### Known Abilities
 
 -   **Mindsoothe - Support Mantra**
-    -   Heal nearby Players at the cost of your Sanity.
-        -   Sanity is only lost if it successfully procs.
+    -   Heal nearby allies for 60 HP at the cost of your Sanity.
+        -   Sanity cost is only induced if someone is healed
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
-    -   Restores allies sanity
-    -   Can be used midair and in water.
+    -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
@@ -153,8 +152,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Adds 10% Monster Armor to players standing in its radius.
     -   While inside the circle, gain total immunity to mantra damage.
     -   About the size of a medium Sacred field roll.
-    -   Can be augmented with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle smaller but makes it follow the user.
-    -   Can be used within land and water.
+    -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle smaller but makes it follow the user.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
@@ -162,11 +160,10 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   The entire beam deals around 260 damage. With extra damage and posture dealt at the start of the beam
     -   Sightless beam can be canceled midway by pressing F
     -   Steals eyesight proccing the blind effect if enough hits land
-    -   Works midair and within water.
     -   Has a HIGH windup
         -   Hard to parry, entirely blockable. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
-        -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advice to get a friend to distract them.
+        -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is adviced to get a friend to distract them.
     -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **All-Seeing Eye - Passive**

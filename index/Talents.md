@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66783
+revid: 66809
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -70,7 +70,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Acrobat
 
-> _\-I once performed in a Circus._
+> _**"I once performed in a Circus."**_
 
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
@@ -95,7 +95,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Adaptive Arsenal
 
-> _\-I seek the qualities of Adaptive Arsenal._
+> _**"I seek the qualities of Adaptive Arsenal."**_
 
 -   Exposed Durability \[Common Talent, Ironsing Exclusive\] - Deal 10% more damage to opponents with no armor durability left.
     -   Also affect players with no outfit (Stranded Outfit)
@@ -107,7 +107,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Adept Caster
 
-> _\-I fight from afar._
+> _**"I fight from afar."**_
 
 -   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
     -   The effect procs when hit by a mantra that is not within the Attunementless category.
@@ -140,7 +140,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Aeromancer
 
-> _\-I am a master of the winds._
+> _**"I am a master of the winds."**_
 
 -   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
@@ -167,7 +167,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 ### Alchemist
 
-_\-I enjoy mixing potions._
+_**"I enjoy mixing potions."**_
 
 -   you need to have made and drunk at least one potion for the talents to start showing up.
 
@@ -196,7 +196,7 @@ _\-I enjoy mixing potions._
 
 ### Alley Cat
 
-> _\-I skulk in alleyways, looking for my next prize._
+> _**"I skulk in alleyways, looking for my next prize."**_
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
@@ -213,14 +213,14 @@ _\-I enjoy mixing potions._
 
 ### All-Knowing
 
-> _\-I seek the qualities of All-Knowing._
+> _**"I seek the qualities of All-Knowing."**_
 
 -   Approaching Singularity \[Common Talent, Intelligence\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
     -   Prerequisites: 80 Intelligence
 
 ### Amoran Seeker
 
-> _\-I seek out Amorus Pleeksty._
+> _**"I seek out Amorus Pleeksty."**_
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
     -   Gain +20% damage and increased movement speed while the fire is active. Can be cancelled by dodging or being in water.
@@ -252,7 +252,7 @@ _\-I enjoy mixing potions._
 
 ### Apex Predator
 
-> _\-My hunt is inescapable._
+> _**"My hunt is inescapable."**_
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
@@ -270,14 +270,14 @@ _\-I enjoy mixing potions._
 
 ### Artisan
 
-> _\-I am an artist._
+> _**"I am an artist."**_
 
 -   Master Craftsman \[Common Talent, Intelligence\] - Your skills alone substitute the need for a Craft Station. (+5 Health)
     -   Prerequisite: 45 Intelligence
 
 ### Assassin
 
-> _\-I prefer to attack unseen._
+> _**"I prefer to attack unseen."**_
 
 -   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
     -   Prerequisites: 85 Agility
@@ -298,7 +298,7 @@ _\-I enjoy mixing potions._
 
 ### Athlete
 
-> _\-I am athletic._
+> _**"I am athletic."**_
 
 -   Triathlete \[Common Talent\] - You swim faster in water. (+2 Passive Agility)
     -   Prerequisite: Power 1
@@ -308,7 +308,7 @@ _\-I enjoy mixing potions._
 
 ### Authority Interrogator
 
-> _\-I work for the Authority._
+> _**"I work for the Authority."**_
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
     -   Prerequisites: Power 10, 60 Thundercall, Thundercaller
@@ -329,7 +329,7 @@ _\-I enjoy mixing potions._
 
 ### Bastion
 
-> _\-I am an everlasting bastion._
+> _**"I am an everlasting bastion."**_
 
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
@@ -361,7 +361,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Beast Slayer
 
-> _\-I am a slayer of beasts._
+> _**"I am a slayer of beasts."**_
 
 -   Giantslayer \[Common Talent\] - Deal more damage to larger foes. (+7 Sanity)
     -   Deal 10% more damage to larger foes.
@@ -370,7 +370,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Brawler
 
-> _\-I do not need a weapon._
+> _**"I do not need a weapon."**_
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
     -   If you have both Way of Navae and Legion Kata, you can press Y to easily swap between them instead of having to use the tool.
@@ -381,7 +381,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Bruiser
 
-> _\-I am a master with my hands._
+> _**"I am a master with my hands."**_
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapons Mastery
@@ -397,7 +397,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 ### Butterfly
 
-> _\-Light on my feet, I sting like a bee._
+> _**"Light on my feet, I sting like a bee."**_
 
 These Talents are designed to improve and/or reward your ability to roll out of danger.
 
@@ -421,7 +421,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Champion
 
-> _\-I have never lost._
+> _**"I have never lost."**_
 
 -   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
     -   Prerequisite: 50 Willpower
@@ -437,7 +437,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Charm Caster
 
-> _\-I use the song to charm others._
+> _**"I use the song to charm others."**_
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   Prerequisite 55 Charisma
@@ -460,7 +460,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cloudwalker
 
-> _\-I walk the skies._
+> _**"I walk the skies."**_
 
 -   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards. (+1 Elemental Mastery, +2 Health)
     -   Prerequisite: 25 Galebreathe
@@ -472,7 +472,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Colossus
 
-> _\-I stand far above others, an insurmountable challenge._
+> _**"I stand far above others, an insurmountable challenge."**_
 
 -   _Destructive Recovery_ \[Rare Talent\] - \[Heavy Weapons\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapons Mastery, Harsh Response, Use a Greatsword.
@@ -501,7 +501,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Critical Specialist
 
-> _\-I am a master of creating openings._
+> _**"I am a master of creating openings."**_
 
 -   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 20% more damage with daggers.
     -   Crit procs are rolled for each individual target, not per swing.
@@ -525,7 +525,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cryomancer
 
-> _\-I command the cold._
+> _**"I command the cold."**_
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw.
@@ -546,7 +546,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cryoni
 
-> _\-My ice protects like a flower growing thorns._
+> _**"My ice protects like a flower growing thorns."**_
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
     -   Prerequisite: Fragile Freeze, 20 Fortitude.
@@ -560,7 +560,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cutthroat
 
-> _\-I am ruthless. A knife for hire._
+> _**"I am ruthless. A knife for hire."**_
 
 -   Assassin \[Common Talent, Agility\] - Assassination damage now scales with level. (+2 Passive Agility, +2 Health)
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
@@ -580,7 +580,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Dark siphon
 
-> \-_I feed on the soul of my enemies._
+> **"_I feed on the soul of my enemies."_**
 
 -   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. (+1 Elemental Intensity)
     -   Prerequisite: 20 Shadowcast
@@ -618,7 +618,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Death Speaker
 
-> _\-I am the one who speaks to death._
+> _**"I am the one who speaks to death."**_
 
 -   _Black Hole_ \[Rare Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity)
     -   Prerequisite: Singularity
@@ -647,7 +647,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Duelist
 
-> _\-I am a competent duelist._
+> _**"I am a competent duelist."**_
 
 -   _Concussion_ \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+8 Carry Load)
     -   Prerequisites: 20 Strength, 15 Fortitude
@@ -690,7 +690,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Duelist Flame
 
-> _\-My flame fights for me._
+> _**"My flame fights for me."**_
 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are Dazed for 2 seconds.
@@ -717,7 +717,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Escape Artist
 
-> _\-I wish to escape._
+> _**"I wish to escape."**_
 
 -   Robber Baron \[Common Talent\] - You hold onto more items when defeated.
     -   Item loss is reduced from 50% to 25%.
@@ -725,7 +725,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Ether Adept
 
-> _\-I am an expert on ether._
+> _**"I am an expert on ether."**_
 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage.
     -   Prerequisites: 20 Willpower, 15 Strength
@@ -754,7 +754,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Falling Star Guard
 
-> _\-I believe in the men who followed Pleeksty before._
+> _**"I believe in the men who followed Pleeksty before."**_
 
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam. (+4 Elemental Intensity)
     -   Prerequisites: Rising Flame, 25 Flamecharm
@@ -777,14 +777,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Flame Brawler
 
-> _\-My flames wrap my fists._
+> _**"My flames wrap my fists."**_
 
 -   Flaming Uppercut \[Common Talent, Flamecharm Exclusive\] - Ignite flames on an enemy when you uppercut them. (+4 Elemental Intensity)
     -   Prerequisite: 35 Flamecharm
 
 ### Flame Dancer
 
-> _\-I dance with the flames._
+> _**"I dance with the flames."**_
 
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing. (+3 Elemental Intensity)
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
@@ -798,7 +798,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Flame Warden
 
-> _\-None will escape my flames._
+> _**"None will escape my flames."**_
 
 -   Cauterized Wounds\[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility, +3 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
@@ -844,14 +844,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Flashfreeze
 
-> _\-I seek the qualities of FlashFreeze._
+> _**"I seek the qualities of FlashFreeze."**_
 
 -   Temperature Shock \[Common Talent, Dual Attunement\] - Your fire mantras now detonate any stacked crystals.
     -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
 
 ### Freak Of Nature
 
-> _\-I'm built different._
+> _**"I'm built different."**_
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Vesperians will only gain 8% armor from this talent, totalling to 13% with their own natural armor.
@@ -897,7 +897,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Frostthorn
 
-> _\-Those that step on my ice know they have made a grave error. ( under testing. )_
+> _**"Those that step on my ice know they have made a grave error."** ( under testing. )_
 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
@@ -972,7 +972,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Glassdancer
 
-> _\-I am a Glassdancer from the Eastern Steppes._
+> _**"I am a Glassdancer from the Eastern Steppes."**_
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
     -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystal make them explode.
@@ -988,7 +988,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Gunslinger
 
-> _\-I always shoot first._
+> _**"I always shoot first."**_
 
 -   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor.
     -   Prerequisites: 30 Intelligence, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
@@ -1033,7 +1033,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Human Architecture
 
-> _\-I seek the qualities of Human Architecture._
+> _**"I seek the qualities of Human Architecture."**_
 
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
@@ -1047,7 +1047,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Ice Age
 
-> _\-I would see this world freeze._
+> _**"I would see this world freeze."**_
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
     -   Prerequisite: 25 Frostdraw.
@@ -1081,7 +1081,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Immolator
 
-> _\-I burn so that I may succeed._
+> _**"I burn so that I may succeed."**_
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm
@@ -1100,7 +1100,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Inferno
 
-> _\-All must burn._
+> _**"All must burn."**_
 
 -   All-Consuming Flame \[Common Talent\] - Your flames will incinerate unconscious Targets much faster.
     -   Prerequisites: Corpse Explosion
@@ -1191,7 +1191,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Justicar
 
-> _\-I fight to preserve my way._
+> _**"I fight to preserve my way."**_
 
 -   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Jus Karita style](Fists.md).
@@ -1216,7 +1216,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Lancer
 
-> _\-I am a master of the spear._
+> _**"I am a master of the spear."**_
 
 -   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
     -   Prerequisites: 30 Medium, Using a spear
@@ -1232,7 +1232,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Lava Serpent
 
-> _\-I seek the path of the Serpent._
+> _**"I seek the path of the Serpent."**_
 
 -   Empowered Eruption \[Common Talent, Flamecharm & Eruption Exclusive\] - Your next Eruption after landing a critical is empowered with increased range and damage. 10s cooldown. (+4 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, 50 Flamecharm
@@ -1251,7 +1251,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Leader
 
-> _\-I seek the qualities of Leader._
+> _**"I seek the qualities of Leader."**_
 
 -   Callout \[Common Talent\] - You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.
     -   Prerequisites: 20 Charisma
@@ -1270,7 +1270,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Legion Shock Trooper
 
-> _\-I fight for the Legion._
+> _**"I fight for the Legion."**_
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity)
     -   Prerequisites: 30 Agility, 55 Galebreathe, Gale Dash
@@ -1293,7 +1293,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Liberator
 
-> _\-I will save my people._
+> _**"I will save my people."**_
 
 -   Savior \[Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
     -   "Saved" being interrupting a grip attempt.
@@ -1306,7 +1306,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Limitbreaker
 
-> _\-I go beyond my limits._
+> _**"I go beyond my limits."**_
 
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)
     -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damage but wont be knocked even at 0%.
@@ -1350,7 +1350,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Master Survivalist
 
-> _\-I am nature's master._
+> _**"I am nature's master."**_
 
 -   Survival Kit \[Common Talent, Charisma\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
@@ -1365,7 +1365,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Mental Fortress
 
-> _\-My mind is indomitable._
+> _**"My mind is indomitable."**_
 
 -   Breathing Exercise \[Common Talent\] - Your sanity recovers more quickly once out of terrifying situations. (+5 Health)
     -   Your passive sanity regen is increased.
@@ -1410,7 +1410,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Metamancer
 
-> _\-I want to WIN._
+> _**"I want to WIN."**_
 
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
@@ -1421,14 +1421,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Mindbreaker
 
-> _\-I dominate the minds of others._
+> _**"I dominate the minds of others."**_
 
 -   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity) (TESTED, it works.)
     -   Prerequisites: 85 Willpower
 
 ### Mountain Climber
 
-> _\-I scale the tallest peaks._
+> _**"I scale the tallest peaks."**_
 
 -   Boulder Climb \[Common Talent\] - Your climb height increases when you slide jump. (+1 Passive Agility)
     -   Prerequisite: 30 Agility
@@ -1439,7 +1439,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### [Murmur](Murmur.md)
 
-> _\-I speak to the Depths._
+> _**"I speak to the Depths."**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture).
     -   Affected targets takes 200% extra posture damage and take 25% more damage.
@@ -1460,7 +1460,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Natural Armor
 
-> _\-I seek the qualities of Natural Armor._
+> _**"I seek the qualities of Natural Armor."**_
 
 -   Padded Armor \[Common Talent\] - You take 5% less damage when your armor is broken. (+1 Passive Agility)
     -   Prerequisites: [Power](Power.md) 8
@@ -1495,7 +1495,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Nimble Blade
 
-> _\-I seek the qualities of Nimble Blade._
+> _**"I seek the qualities of Nimble Blade."**_
 
 -   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
@@ -1505,7 +1505,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Omniscient
 
-> _\-I am all knowing._
+> _**"I am all knowing."**_
 
 -   Intelligence Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Intelligence to its fullest.
     -   Prerequisites: 75 Intelligence
@@ -1527,7 +1527,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Politician
 
-> _\-I seek the qualities of politician._
+> _**"I seek the qualities of politician."**_
 
 -   Cult of Personality \[common Talent, Charisma Exclusive\] - You gain +3% PEN for each person Charmed, capping at +15% PEN.
     -   Prerequisites: 90 Charisma
@@ -1543,7 +1543,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Public Figure
 
-> _\-I am for the people._
+> _**"I am for the people."**_
 
 -   Bodyguard Detail \[Common Talent\] - If you're attacked in an allied territory, your allies will come rushing to your aid. Earpiece not included.
     -   Prerequisites: Friends in High Places, 45 Charisma
@@ -1557,28 +1557,28 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Puppet Master
 
-> _\-I control those around me._
+> _**"I control those around me."**_
 
 -   Twisted Puppets \[Common Talent, Dual Attunement\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
     -   Prerequisites: Corpse Explosion, 50 Flamecharm & 70 Shadowcast
 
 ### Pyroclast
 
-> _\-I seek the qualities of Pyroclast._
+> _**"I seek the qualities of Pyroclast."**_
 
 -   _**Volcanic Glass**_ \[Advanced Talent, Flamecharm & Frostdraw Exclusive\] - Detonating crystals causes an eruption soon after. (+5 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, Glass Path: Crystallization
 
 ### Pyromancer
 
-> _\-I am a master of the flame._
+> _**"I am a master of the flame."**_
 
 -   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra. (+5 Elemental Intensity)
     -   Prerequisites: 30 Flamecharm, 15 Fortitude
 
 ### Raging Bull
 
-> _\-My attack is unstoppable._
+> _**"My attack is unstoppable."**_
 
 -   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact.
     -   Prerequisite: 25 Strength
@@ -1596,7 +1596,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Rampant Static
 
-> _\-My static is uncontrollable._
+> _**"My static is uncontrollable."**_
 
 -   Jolting Current \[Common Talent, Thundercall Exclusive\] - Your lightning attacks in water strike others near them with lightning. ( +4 Elemental Intensity)
     -   Prerequisite: 35 Thundercall
@@ -1618,7 +1618,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Saboteur
 
-> _\-I sabotage others._
+> _**"I sabotage others."**_
 
 -   _Family Recipe \[Unlockable Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)_
 -   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force.
@@ -1659,14 +1659,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Seeker of Sound
 
-> _\-I search for the Song._
+> _**"I search for the Song."**_
 
 -   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut reduces its cost.
     -   Reduces the cost of the mantra by 20%.
 
 ### Self-Shocker
 
-> _\-I am a self-starter._
+> _**"I am a self-starter."**_
 
 -   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Elemental Intensity)
     -   Prerequisite: 35 Thundercall, Static Withdraw
@@ -1681,7 +1681,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Shadowcaster
 
-> _\-I speak to the shadows._
+> _**"I speak to the shadows."**_
 
 -   _Adept Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 1-star Leveled Shadowcaster Mantras._
     -   Prerequisite: 20 Shadowcast
@@ -1720,7 +1720,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Shieldmaster
 
-> _\-My shield is my ally._
+> _**"My shield is my ally."**_
 
 -   Knight's Rally \[Common Talent\] - When using a shield, you ready your block more quickly after taking a hit. (+4 Sanity)
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
@@ -1742,7 +1742,7 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
-> _\-The song shall be silenced._
+> _**"The song shall be silenced."**_
 
 -   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
     -   Prerequisite: 60 Galebreathe
@@ -1757,7 +1757,7 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silvertongue
 
-> _\-I get my way._
+> _**"I get my way."**_
 
 Prerequisite: Charisma
 
@@ -1773,7 +1773,7 @@ Prerequisite: Charisma
 
 ### Showboater
 
-> _\-I seek the qualities of Showboater._
+> _**"I seek the qualities of Showboater."**_
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
     -   Prerequisites: Charismatic Cast, 75 Charisma
@@ -1789,7 +1789,7 @@ Prerequisite: Charisma
 
 ### Static Weaver
 
-> _\-I weave webs of lightning._
+> _**"I weave webs of lightning."**_
 
 -   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame.
     -   Prerequisite: Discovery of Fire, 1 Flamecharm
@@ -1821,7 +1821,7 @@ Prerequisite: Charisma
 
 ### Stormblade
 
-> _\-My blade conducts the skies wrath._
+> _**"My blade conducts the skies wrath."**_
 
 -   Stormcaller Slash \[Common Talent, Thundercall exclusive\] - Call forth the fury of storms by pressing F at the end of your move.
     -   After a performing a Thundercall Combat Mantra, pressing F within a second afterwards delivers extra attacks.
@@ -1834,7 +1834,7 @@ Prerequisite: Charisma
 
 ### Sturdy Resolve
 
-> _\-My will stands strong._
+> _**"My will stands strong."**_
 
 -   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
@@ -1848,7 +1848,7 @@ Prerequisite: Charisma
 
 ### Survival Instinct
 
-> _\-I will not fall to the elements._
+> _**"I will not fall to the elements."**_
 
 These Talents are designed to let you survive longer against starvation and thirst by making living off of Mother Nature easier.
 
@@ -1866,7 +1866,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Survivor
 
-> _\-In nature, I am at home._
+> _**"In nature, I am at home."**_
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
     -   Prerequisite: 5 Fortitude
@@ -1878,7 +1878,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Swiftshade
 
-> _\-I seek the qualities of Swiftshade._
+> _**"I seek the qualities of Swiftshade."**_
 
 -   Pursuit \[Common Talent, Agility Exclusive\] - If you land your Revenge, clear the cooldown immediately. (25s cooldown) (+1 Passive Agility)
     -   Prerequisites: Revenge (Agility Mantra), Shared Demise, 90 Agility
@@ -1895,7 +1895,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Tactician
 
-> _\-I think before I fight._
+> _**"I think before I fight."**_
 
 -   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
     -   Prerequisites: 20 Intelligence
@@ -1918,7 +1918,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Tavernkeep
 
-> _\-I enjoy a good meal._
+> _**"I enjoy a good meal."**_
 
 -   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%.
     -   Increases food nutritional value by 25%.
@@ -1930,7 +1930,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### The Demon Blade
 
-> _\-My unholy blade works for no man._
+> _**"My unholy blade works for no man."**_
 
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast. (+2 Elemental Intensity)
     -   Prerequisite: 45 Flamecharm
@@ -1940,7 +1940,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### The Emperor's Blade
 
-> _\-My blade burns through my foes._
+> _**"My blade burns through my foes."**_
 
 -   Emperor Flame \[Common Talent, Flamecharm Exclusive\] - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
     -   Prerequisite: Agitating Spark, 75 Flamecharm
@@ -1950,7 +1950,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### The Negotiator
 
-> _\-I can talk myself out of any situation._
+> _**"I can talk myself out of any situation."**_
 
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you.
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
@@ -1959,7 +1959,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Thief
 
-> _\-I steal from others._
+> _**"I steal from others."**_
 
 These Talents are meant to reap the reward of your latest hunt or trick your enemies.
 
@@ -1984,7 +1984,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Thunder Brawler
 
-> _\-My fists are imbued with lighting._
+> _**"My fists are imbued with lighting."**_
 
 -   Discharge \[Common Talent, Thundercall Exclusive\] - On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+2 Elemental Intensity)
     -   Prerequisite: 20 Light Weapon, 15 Thundercall
@@ -1993,7 +1993,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Thunder Caster
 
-> _\-I electrocute my foes from afar._
+> _**"I electrocute my foes from afar."**_
 
 -   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 stacks, your next lightning mantra will instantly cast.
     -   Requirement: 30 Thundercall, 30 Intelligence
@@ -2014,7 +2014,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Thundercaller
 
-> _\-I speak to lightning._
+> _**"I speak to lightning."**_
 
 -   Adept Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity)
     -   Prerequisite: 20 Thundercall
@@ -2082,7 +2082,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Undying Ember
 
-> _\-My spirit is forever burning._
+> _**"My spirit is forever burning."**_
 
 -   _Denial Repulse_ \[Rare Talent, Flamecharm Exclusive\] - You now emit a delayed burst of flames after coming close to death. (+1 Elemental Intensity)
     -   When Flame of Denial activates, release an explosion around you.
@@ -2097,7 +2097,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Vigil Swordsman
 
-> _\-I fight for Maestro Evengarde Rest._
+> _**"I fight for Maestro Evengarde Rest."**_
 
 -   Bear Trap \[Common Talent\] - Landing a hit with your critical against an opponent makes them unable to jump for a duration and slows them. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
@@ -2137,7 +2137,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Vow of Mastery
 
-> _\-I create my own vows._
+> _**"I create my own vows."**_
 
 -   Vow of Mastery \[Common Talent\] - The [Vow of Mastery](Vow_of_Mastery.md) grants the Master the power to command their Subject. To initiate a vow you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?"
     -   Players who take the vow are considered allies with their master and others who take the vow.
@@ -2177,7 +2177,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Waterborne
 
-> _\-Water is my home._
+> _**"Water is my home."**_
 
 -   Conditioned Swimmer \[Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 1
@@ -2188,7 +2188,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Weapon Master
 
-> _\-I am a master of all weapons._
+> _**"I am a master of all weapons."**_
 
 -   Aerial Assault \[Common Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
     -   Prerequisite: \[name\] quest at the Pathfinders Respite
@@ -2221,7 +2221,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Whisper
 
-> _\-I hear a whisper in the dark._
+> _**"I hear a whisper in the dark."**_
 
 -   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
     -   Prerequisite: 40 Galebreathe, [Power](Power.md) 8

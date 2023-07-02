@@ -1,9 +1,9 @@
 ---
 title: Battle Royale
-revid: 66773
+revid: 66821
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, StubPages, Game]
+categories: [Candidates for deletion, Pages with broken file links, StubPages, Game]
 notices:
   - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"not accessible by players so there’s not much point, just make pages for the locations anyway\""
 ---
@@ -16,13 +16,14 @@ A game mode currently accessible from the menu by youtubers, during July 1st 202
 
 ## Description
 
-Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Sea in which players spawn as freshies and jump onto the isle from off the [Floating Keep](The_Floating_Keep.md) to gather loot and talents and fight to be the last pair/person? standing.
+Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Sea in which players spawn as freshies and jump onto the isle from off the [Floating Keep](The_Floating_Keep.md) to gather loot and talents and fight to be the last pair/person standing and obtain the most points.
 
 ## Mechanics
 
 -   A zone similar to the one seen in [Chime of Conflict](Chime_of_Conflict.md) is present and functions as such.
 -   Weapons have no requirement scaling presence is unknown.
 -   Loot can be found around the map.
+-   Every kill rewards a point and the final round gives double points, the group with the most points wins.
 
 LocationL KINGMAKER'S ISLE LocationR
 
@@ -33,7 +34,13 @@ TERRITORY OF TERRITORY OF THE HUNDRED LEGIONS
   
 This island serves as the map for Battle Royale.
 
+File:KINGMAKER'S ISLE.png
+
+_A high up view of the Colosseum in Kingmaker's Isle as well as other points of interest._
+
 ## Locations
+
+Template:Areainfobox
 
 ### King's Colosseum
 
@@ -75,7 +82,7 @@ Green orbs emitting gale trap like particles can be found around the map, these 
 
 ### Weapons
 
-Various weapons can be found around the map floating some of the weapons found include
+Various weapons can be found around the map floating, some of the weapons found include
 
 -   Normal medium weapons
 -   Normal light weapons
@@ -96,7 +103,6 @@ Various weapons can be found around the map floating some of the weapons found i
 
 ## Trivia
 
--   Scores are tallied at the end of a match, scores are based off???.
 -   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md).
 -   Battle Royale is separate from the main game, you cannot choose a slot.
 

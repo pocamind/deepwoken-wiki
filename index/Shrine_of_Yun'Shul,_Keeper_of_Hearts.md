@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 66051
+revid: 66810
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -40,6 +40,7 @@ If you meet all the criteria, you are able to make one of five wishes:
     -   Rerolls one of your [flaws](Boons_and_Flaws.md). Has a small chance of replacing it with the [Vacant](Boons_and_Flaws.md#flaws) flaw. Can be used to get rid of the Tarnished flaw.
         -   **You can only make this wish once**, so if you get stuck with something like deficient, you can't get another reroll, though you can make use of Deep Shrines instead.
         -   Essentially useless, due to the [Shrine of Blasphemy](Deep_Shrines.md) which does the exact same thing with less risks (You can't be given the Vacant flaw), and for only 5 knowledge.
+        -   you do not pick which flaw you reroll.
 3.  **"The Vows I made give me much regret, I wish to break."**
     -   Erase all your active vow of masteries, whether they be as a servant or as a master.
 4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."**

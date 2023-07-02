@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 58533
+revid: 66804
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ Smelting is a mechanic that involves combining 2 pieces of equipment to keep the
 
 _Some important things to note before smelting:_
 
--   **It costs 800 notes to smelt equipment.**
+-   **It costs 1000 notes to smelt equipment.**
 -   **The _first piece_ you hold out is the one you _keep the stats of_, while the _second piece_ is the one you _keep the appearance of._**
 -   Items talents can be carried over.
     -   _A Blindfold and a Demon Mask would smelt to make a blinding Demon Mask-- the appearance would be that of a Demon Mask, but would instead carry the properties of the Blindfold- such as blinding the wearer, along with whatever misc. stats the Blindfold had._

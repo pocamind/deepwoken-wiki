@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 66473
+revid: 66808
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -29,10 +29,11 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26, and a 75 HVY and 10 STR to equip. It has a unique critical that makes you lunge forward at your enemies and knock them down. On successful hit, your first M1 changes to hitting the weapon on the ground while you get hyperarmor. Petra's Anchor can be enchanted.
+Petra's anchor is an endgame Greathammer that can be obtained from the [Dread Serpent.](Dread_Serpent.md) This weapon has a base damage of 26, and a 75 HVY and 10 STR to equip. It has a unique critical that makes you lunge forward at your enemies and knock them down. On successful hit, your first M1 changes to hitting the weapon on the ground while you get hyperarmor.
 
 ## Trivia
 
 -   The _Petra's Anchor_ is a reference to May from _Guilty Gear._
 -   Your able to use mantras during the second part of your critical which cancels it its pretty goods for mix ups
 -   Deals 48.9 damage at 100 HVY and 6 proficiency.
+-   Despite having the legendary weapon, it is not considered as a legendary weapon but instead as a Mythical weapon
