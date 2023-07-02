@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 66647
+revid: 66781
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -62,13 +62,15 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 ― Oathsworn badge
 
-**Oaths** are viewpoints and beliefs that a character swears to live by until the day they fall, or will they?
+**Oaths** are viewpoints and beliefs that a character vows to live by until the day they fall.
 
-They are like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are unique [Talent Cards](Talents.md) that players can obtain only through meeting certain requirements, and serve to further define the player's character, potential, and story. **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in [Fragments of Self](Fragments_of_Self.md).**
+They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements.
 
-Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
+-   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in [Fragments of Self](Fragments_of_Self.md).**
 
-_There are currently 10 discovered obtainable Oaths in Deepwoken:_
+Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
+
+_There are currently 10 discovered obtainable Oaths:_
 
 **Oathless:**
 
@@ -185,7 +187,7 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
 
 -   Other Clues...
     -   _(Lightkeeper Temple's engraved message)_ It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many year before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?
--   Having Blind Flaw remove the Blindfold requirement.
+-   Having Blind Flaw removes the Blindfold requirement.
 -   Extremely good oath for PvE
     
 

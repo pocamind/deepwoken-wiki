@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66559
+revid: 66794
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -12,32 +12,47 @@ File:Attunementicon.png
 
 **Attunements** are forms of magic that the player can choose on Character Creation or obtain in the game through [Trainers](Attunement_Trainers.md).
 
-## Description
+**IMPORTANT NOTE:** _For those learning about Shrine of Order,_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. They have no "bottom-limit"- where, for example, a 65 investment in Agility when influenced by Shrine of Order will become a 40 investment instead. They function in a way that, for lack of better wording, is reminiscent to the "old" Shrine of Order._
 
-There are currently four base Attunements that anyone may select when first creating a character. Picking an Attunement (or two) will restrict you from starting with any of the other three Attunements (two if you picked a second one) until you unlock a different one while playing. You can be taught the other Attunements by their respective Trainers. To unlock these, you must collect five of their respective Attunement Ingredient, which're dropped by NPCs that use the Attunement, as well as by certain monsters. These are then mixed with a drop of blood by the trainer, creating a potion. Drinking this potion will damage and ragdoll you, while the effect of the Attunement surges through the player's torso, allowing them to now cast mantras of that Attunement. Alternatively, if you start with an attunement that you do not have through Random, it will be unlocked when you wipe. You can stick to one Attunement or you may have multiple Attunements, but having multiple Attunements will be less effective as a cost. As you increase your Power, you will be able to gain [Mantras](Mantras.md) for your Attunement. Mantras are abilities you learn that vary in their use to the caster.
+## Overview
 
-While it is possible to learn every or most Mantras of a given attunement, you are limited to the amount you can use. By default, players are given 3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (any type) Mantra slot. Extra Mantras will be stored in the inventory under their name in a pink item category ([Mantra Modifiers](Mantra_Modifiers.md)). Those limits can be broken and increased via [Oaths](Oaths.md) and certain [Talents](Talents.md).
+There are currently four base Attunements that anyone may select when first creating a character, with two more being unlockable throughout the world. Within the character creation menu, you may choose up to two attunements to start off with- or [none](Attunement-less.md), preferences considered.
 
-When creating your character, you may choose to start with no Attunement, which will start the player with no Attunements unlocked and 10 additional points to invest into other attributes. Attunements can still be acquired through their respective trainers. To see [Attunement-less](Attunement-less.md) click here.
+-   The more attunements you wield, the more expensive it will become to manage them- because you do not have an infinite amount of points to spend on your character. Choose wisely.
+-   By choosing no attunement, you are provided 10 extra investment points to make up for the loss of attunement. Normally, these 10 points would be auto-invested if you chose an attunement.
 
-It is noteworthy that Mantras can have rarities individual of their stars, and Attunement-based mantras sometimes have requirements of non-Elemental stats (points in agility, strength etc), such as Flamecharm's Ash Slam which requires 30 Strength along with 50 Flamecharm.
+Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 5 of the respective elemental ingredient- aside for Ironsing, which utilizes a more convoluted unlock method.
 
-Another thing worth nothing is that once an Attunement is obtained (through character creation or quest), it cannot be removed. The only way to "unlearn" an attunement is wiping.
+-   Thundercall = Spark Glands
+-   Flamecharm = Dying Embers
+-   Frostdraw = Frigid Prisms
+-   Galebreathe = Gale Stones
+-   Shadowcast = Umbral Obsidian
+-   Ironsing = _1 of every ore excluding Coal, and including a Pluripotent Alloy_
+
+These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that- once consumed- will provide the character with a singular point in that attunement.
+
+-   Alternatively, if you happen to spawn in with an attunement which you do not possess via the Random Attunement function in the character creation menu, it will become available to freely choose upon next-character-basis.
+
+By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 1 Support Mantra slot and 1 Wildcard (freebie) Mantra slot.**_ Extra Mantras will be stored in the inventory with under the pink-colored [Mantra Modifiers](Mantra_Modifiers.md) category. These limitations can be softened via [Oaths](Oaths.md) and the **Neuroplasticity** talent, both of which will help expand your Mantra arsenal.
+
+-   Mantras from an Attunement can sometimes have requirements of non-Attunement stats. Such an example would be Flamecharm's _Ash Slam,_ which requires 30 Strength alongside 50 Flamecharm.
+
+Like with the inability to hand-modify stats, you cannot unlearn attunements once they have been learned by the character. The only way to remove an attunement is by meeting an unfortunate end.
 
 ## Intra-Canticlysm Attunements
 
-Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
+_You may click upon any of these attunements to view their pages._Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
 ## Post-Canticlysm Attunements
 
-Template:Testing Template:Testing
+_You may click upon any of these attunements to view their pages._Template:Testing Template:Testing
 
 ## Trivia
 
--   Though it should not be expected, new Attunements [could be added](https://deepwoken.fandom.com/wiki/File:Arch_wants_earth.png) to _Deepwoken_ in the future.
 -   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you unlock more of them from their respective [trainers](Attunement_Trainers.md).
 -   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
--   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement (Whichever one has +6 points. You can undo your selection by selecting Random or None.)
--   Selecting a new starting Attunement you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots, saving you from having to grind for the blood potions.
--   Water will never become an Attunement available to the public due to specific lore reasons (Only drowned gods have the ability to manipulate water in the lore) stated by Arch\_Mage.
-    -   As an extension, he mentions that those who wield water magic have already lost their humanity.
+-   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement- _whichever one has +6 points._ You can undo your selection by selecting Random or None.
+-   Selecting a new starting Attunement you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
+-   **Water will never become an Attunement available to the public due to specific lore reasons-** only Drowned Gods have the ability to manipulate water, as stated by Arch\_Mage.
+    -   _As an extension, he mentions that those who wield water magic have already lost their humanity._

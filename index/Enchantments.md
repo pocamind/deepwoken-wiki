@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 66685
+revid: 66776
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -67,7 +67,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement. If the user has Crystallization, apply an ice crystal. Per-victim cooldown of 7 seconds.</p></div></td>
+  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown). If the user has Crystallization, apply an ice crystal. (It has no cooldown of proccing crystal)</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>

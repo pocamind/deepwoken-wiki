@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66721
+revid: 66783
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 # Talents
 
-**Press _Ctrl + F or F3_ to search talents. Below is an elaboration on how to use _CTRL + F_ for this page.**
+Template:DWI Talents
+
+## Foreword
+
+**Press \[_Ctrl + F\] or \[F3\]_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
     -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
@@ -20,9 +24,7 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
     -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
 
-Template:DWI Talents
-
-## Description
+## Overview
 
 There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as ThundercaIIer, FIamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
 
@@ -1421,7 +1423,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _\-I dominate the minds of others._
 
--   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity) (Possibly broken?)
+-   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity) (TESTED, it works.)
     -   Prerequisites: 85 Willpower
 
 ### Mountain Climber
