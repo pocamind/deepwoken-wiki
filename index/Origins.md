@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 66717
+revid: 66868
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -107,7 +107,7 @@ Also all of the kills need to be made on one single character
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which connects you to players who have yet to establish a rapport with the Knives.
     -   Your starting reputations are:
         -   Friend of The Knives of Eylis and Lost Celtor
-        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, The Hive, and The Hundred Legions.
+        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, and The Hundred Legions.
 
 ## Upcoming Origins
 

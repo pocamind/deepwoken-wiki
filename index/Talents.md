@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66846
+revid: 66870
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -711,7 +711,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
     -   Guildmates or people who are in a Vow of Mastery with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
-    -   Prerequisities: 35 Charisma
+    -   Prerequisities: 35 Charisma, Friends in High Places
 -   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
     -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
 
@@ -1425,7 +1425,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I dominate the minds of others."**_
 
--   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity) (TESTED, it works.)
+-   Shared Misery \[Common Talent\] - Using a M1/Critical Attack on an enemy while losing sanity causes them to lose sanity. (+5 sanity)
     -   Prerequisites: 85 Willpower
 
 ### Mountain Climber

@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 66722
+revid: 66866
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -14,11 +14,11 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Cloaked Assassins spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat. They have a chance to drop the weapon they use
+Cloaked Assassins spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat.
 
 ## Moveset
 
-Their arsenal consists of a [Whaling Knife](Whaling_Knife.md). [Tanto](Tanto.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Krulian Knife](Krulian_Knife.md), along with the [Frostdraw](Frostdraw.md) and [Shadowcast](Shadowcast.md) attunement. Their moveset consists of:
+Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian Knife](Krulian_Knife.md), [Champion's Dagger](<Champion's_Dagger.md>) or [Tanto](Tanto.md) along with the [Frostdraw](Frostdraw.md) and [Shadowcast](Shadowcast.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

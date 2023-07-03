@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 66646
+revid: 66862
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]
@@ -12,13 +12,13 @@ notices:
 
 Template:NPC name
 
-## Background of Carrion/ Description
+## Description
 
-Carrion, referred to as the Father of Evolution is a Black Diver and Master Alchemist that resides in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He is also the Leader of the Apothecary.
+Carrion, referred to as the Father of Evolution is a Black Diver and master alchemist that resides in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He is also the leader of the Apothecary.
 
-Dr. Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eyes, a result of using himself to test a prototype of the _Moonseye Vigour_ potion, which also drove him insane. He resides in Great Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He can be found at the end of the library puzzle, next to an obelisk. Once you talk with him there, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian. There he can teach you the various monster mantras if you have the materials for them. Despite being a Black Diver, he is more of a scientist than a fighter. His goal is to perfect the Moonseye Vigour which he will use to "_Transcend_" everyone, by force if necessary. He has also attempted to clone himself, and apparently succeeded. Even the Divers are unaware of just how many he has, _**So do you..**_
+Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eyes, a result of using himself to test a prototype of the Moonseye Vigour potion, which also drove him insane. He resides in Great Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He can be found at the end of the library puzzle, next to an obelisk. Once you talk with him there, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian. There he can teach you the various monster mantras if you have the materials for them. Despite being a Black Diver, he is more of a scientist than a fighter. His goal is to perfect the Moonseye Vigour which he will use to 'transcend' everyone, by force if necessary. He has also attempted to clone himself, and apparently succeeded. Even the Divers are unaware of just how many he has.
 
-## List of O.M.M (Obtainable Monster Mantras)
+## List of Obtainable Monster Mantras
 
 | **Name** | **Description** | **Parryable?** | **Blockable?** | **Dodgeable?** | **Danger** | **Required Item** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,6 +34,3 @@ Dr. Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green
 -   Carrion is based on Doc, a player who was one of the first members of the Divers guild. As a result, they have taken up that mantle.
 -   Carrion means the flesh of a dead animal, which is fitting considering that he converts monster drops into mantras.
 -   In the dialogue with Klaris after interacting with Carrion in New Kyrsa: the player will note Carrion describing himself as "Dr. Diver".
--   "If i had to say it in one sentence, He's a black diver who had some cool background." - An Apprentice Diver.
--   "Carrion is kinda crazy from time to time, I just.. dont want him to be here" -A Journeyman Diver.
--   "Oh, Carrion?, He's an alchemist that's what i know about him.. But i also heard about this "_**Transcend**_" thing, Wierd." - Black Diver
