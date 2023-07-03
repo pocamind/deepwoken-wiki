@@ -1,18 +1,16 @@
 ---
 title: Battle Royale
-revid: 66821
+revid: 66841
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Candidates for deletion, Pages with broken file links, StubPages, Game]
-notices:
-  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"not accessible by players so there’s not much point, just make pages for the locations anyway\""
+categories: [Pages with broken file links, StubPages, Game]
 ---
 
 # Battle Royale
 
 > _"This is definitely a GPO copy" -Everyone._
 
-A game mode currently accessible from the menu by youtubers, during July 1st 2023, A possible future gamemode.
+A game mode accessible from the menu by youtubers during July 1st 2023, confirmed to be in testing and possibly released to the public later down the line.
 
 ## Description
 
@@ -27,7 +25,7 @@ Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Se
 
 LocationL KINGMAKER'S ISLE LocationR
 
-TERRITORY OF TERRITORY OF THE HUNDRED LEGIONS
+TERRITORY OF THE HUNDRED LEGIONS
 
 "Far to the west. warriors are forged in the heat of battle."
 
@@ -74,7 +72,8 @@ Please note the island is located in the [Open Sea](Open_Sea.md)
 ### Deep totems
 
 -   regular totems give talents
--   colored totems give mantras?
+-   purple colored totems give mantras
+-   red colored totems give rare talents
 
 ### Healing orbs
 

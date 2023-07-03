@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66794
+revid: 66827
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -40,11 +40,15 @@ By default, players are given _**3 Combat Mantra slots, 1 Mobility Mantra slot, 
 
 Like with the inability to hand-modify stats, you cannot unlearn attunements once they have been learned by the character. The only way to remove an attunement is by meeting an unfortunate end.
 
-## Intra-Canticlysm Attunements
+## Base Attunements
+
+Attunements unlocked on spawn.
 
 _You may click upon any of these attunements to view their pages._Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
-## Post-Canticlysm Attunements
+## Obtainable Attunements
+
+Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
 
 _You may click upon any of these attunements to view their pages._Template:Testing Template:Testing
 
