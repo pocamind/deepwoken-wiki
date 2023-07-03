@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66809
+revid: 66846
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -813,6 +813,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Agility, 30 Flamecharm, Hell's Partisan
 
 ### Flamecharmer
+
+> _**"I speak to the flames."**_
 
 -   Adept Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
     -   Prerequisites: 20 Flamecharm
