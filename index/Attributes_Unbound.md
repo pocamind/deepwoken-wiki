@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 66669
+revid: 66851
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -34,6 +34,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 4.  Talk to Brutus, a large Khan sitting alone in a cell.
 5.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met. (Note: The guards can grip you while you are downed, bring a friend or block up the entrance to avoid this, you can also get good/neutral rep with the Authority so they dont grip, but still be aware of any player nearby.)
 
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=b_0SPxXpe6o)._
+
 ### Agility Unbound
 
 1.  Reach 75 Agility.
@@ -51,6 +53,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
     1.  **If you have carnivore:** ~get 2 Bluecaps and spam click them. You need to eat the second one while vomitting the first one.~ Now you only need to only eat 1 bluecap even if you have carnivore, you will vomit it out losing some hunger and thirst, but still will get the unbounded intelligence talent. (Tested.)
 
 Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pick up some Bluecaps from the hidden library near [Lightkeeper Temple](Lightkeeper_Temple.md) (Requires a mantra that can destroy blocks, needed for gaining access to the room which opens the door to the library)
+
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=9ggkapSThhk)._
 
 ### Willpower Unbound
 
