@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 66885
+revid: 66924
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -111,7 +111,7 @@ There are two variants that enchantments come in:
   <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (1.20x damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)<br>
-  Note: Heroism is currently bugged and does not proc it's damage buff.</p></div></td>
+  </p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
 <tr>

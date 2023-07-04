@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 66848
+revid: 66922
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -181,6 +181,7 @@ Located in [The Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline
 -   Monster Mantras are not eligible to be divided.
 -   You cannot obtain Rare talent cards.
 -   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.
+-   If you do not meet the requirements for 2 or more talents, the shrine will not let you trade.
     
 
 **Shrine of Unification:**

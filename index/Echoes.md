@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 66895
+revid: 66923
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -283,7 +283,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Trivia
 
--   Combining all Modifiers awards a 2.8x increase.
+-   Combining all Modifiers awards a 3.2x increase.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester.
 -   The four Weapons from "Advanced Weapons" are obtained in linear order through purchases listed below:
