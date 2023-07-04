@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 66847
+revid: 66933
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -38,7 +38,7 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 
 #### Etrean Luminant
 
--   remove voildwalker now
+-   At the far right side of [Etris Docks](Etris.md).
     -   To specify, the right of someone going to the docks, not from the docks (away from the gate.)
 -   At the left-hand side of the Sea Highway gate next to the entrance of [Lower Erisia](Lower_Erisia.md).
     -   To specify, the left of someone going OUT of Erisia towards the King statues.
