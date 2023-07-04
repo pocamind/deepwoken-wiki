@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 66689
+revid: 66892
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -275,6 +275,7 @@ _Gaining inspiration from the Duke of Erisia, call forth a malicious gale from y
  | 70 Ether | The user raises their left leg and stomps on the ground, summoning huge pillars of wind.
 
 -   Deals _possibly moderate-heavy_ damage.
+-   You can only get this from whisper rolls, using shrine of temptation does not work.
 
  |  |
 

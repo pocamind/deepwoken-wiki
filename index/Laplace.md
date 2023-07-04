@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 66853
+revid: 66883
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]

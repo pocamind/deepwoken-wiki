@@ -1,11 +1,9 @@
 ---
 title: Echoes
-revid: 66871
+revid: 66895
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Echoes, Character, Mechanics, Creation]
-notices:
-  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
+categories: [Echoes, Character, Mechanics, Creation]
 ---
 
 # Echoes
@@ -24,14 +22,22 @@ notices:
 
 **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 
-The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 157. (344 with all modifiers, including dissonant)
+The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 157. (502 with all Echoes Modifier)
 
-**Ranks** are a way of showing off how the game rated your character.
+**Ranks** are granted to the character upon wiping, based on how much base echoes they have obtained (before multipliers)
 
--   **W Rank** is achieved via an unknown method.
--   **S Rank** is achieved by basically "beating Deepwoken" aka obtaining all echoes.
--   **A Rank** is achieved by obtaining 75%-99%(?) of echoes.
--   **B Rank** is achieved by 50%-74%(?) of echoes.
+Ranks by themself do not do anything, beside rank W, S and A that give a badge.
+
+| Rank | Echoes Amount |
+| --- | --- |
+| S | 140 |
+| A |  |
+| B |  |
+| C |  |
+| D |  |
+| E |  |
+
+There's also a unique W rank, achievable by obtaining S Rank while having enabled all Echoes Modifier.
 
 ### Ways of Obtaining Echoes
 
@@ -47,7 +53,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
--   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes each time.
+-   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes.
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
 -   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Heroblade or Railblade, awarding 5 Echoes.
@@ -192,7 +198,7 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 <tr>
   <td><center><b>Dissonant</b></center></td>
-  <td><center>You cannot learn Resonance.</center></td>
+  <td><center>You cannot use a Resonance.</center></td>
   <td><center><b>+0.3x</b></center></td>
 </tr>
 <tr>
@@ -208,7 +214,7 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 <tr>
   <td><center><b>Dealbreaker</b></center></td>
   <td><center>You sell items for 25% less.</center></td>
-  <td><center><b>+0.1x</b></center></td>
+  <td><center><b>+0.05x</b></center></td>
 </tr>
 <tr>
   <td><center><b>Loose Change</b></center></td>
@@ -223,6 +229,16 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 <tr>
   <td><center><b>Ironwoken</b></center></td>
   <td><center>You cannot receive notes or items from other players.</center></td>
+  <td><center><b>+0.2x</b></center></td>
+</tr>
+<tr>
+  <td><center><b>One Bit</b></center></td>
+  <td><center>You don't know how to swim.</center></td>
+  <td><center><b>+0.2x</b></center></td>
+</tr>
+<tr>
+  <td><center><b>Destined</b></center></td>
+  <td><center>You don't get to choose what you get when your Power increase, Fate picks for you.</center></td>
   <td><center><b>+0.2x</b></center></td>
 </tr>
 </tbody>

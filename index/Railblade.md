@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 62181
+revid: 66877
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -14,7 +14,7 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 | requirements | 80 HVY, PWR 10 |
 | damage | 22 |
 | scaling | HVY: 8.3 |
-| range | 8 |
+| range | 8.5 |
 | swing speed | 0.68x |
 | penetration | 25% |
 | special effect | Sets enemies you hit with the critical on fire. |

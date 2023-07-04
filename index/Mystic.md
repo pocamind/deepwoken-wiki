@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 66617
+revid: 66907
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -86,7 +86,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Charisma
 
 -   _I use the song to charm others. **(Charm Caster)**_
--   I seek the qualities of Showboater. _**(Showboater; Unnecessary Theatrics)**_
+-   _I seek the qualities of Showboater._ _**(Showboater; Unnecessary Theatrics)**_
+-   _I seek the qualities of Toxic Personality. **(Toxic Personality; Manipulator)**_
 -   _I seek the qualities of Leader. **(Leader; Callout)**_
 -   _I am for the people. **(Public Figure; Bodyguard Detail, Celebrity, Under the Radar)**_
 -   _I get my way. **(Silvertongue) (Note; Cannot give Golden Tongue)**_

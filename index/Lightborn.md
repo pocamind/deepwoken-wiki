@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 66832
+revid: 66886
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -81,4 +81,5 @@ Does not have a racial ability.
     -   Yet, obtaining the Lightborn race (even if it can be obtainable one day which will be unlikely) will be **difficult but possible** in terms of lore, due to the Lightborns being hybrids, meaning that creating a Lightborn is possible as long as you have contact with a celestial, being that very difficult.
 -   Lightborn and Vesperian are the first races to receive a cosmetic in the UGC Avatar Shop.
     -   It is listed under the [Deepwoken UGC group](https://www.roblox.com/groups/16769317/Deepwoken-UGC#!/about).
+-   From Supaa's video announcing his custom weapon, titled "My Special Weapon. | Deepwoken", it seems like Lightborns can morph. In this case, Supaa transformed from hallowtide Vespasian to his Lightborn character, it is unknown if this effects their stats or if it is used to transform from the obtainable races to Lightborn.
 -   The runes on the halo roughly translate to "Be the mysterious light the few whom were chosen"

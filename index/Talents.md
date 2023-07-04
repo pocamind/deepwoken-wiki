@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66870
+revid: 66906
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -53,6 +53,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
 -   _Singularity_ **or** _Sightless Still._
 -   Million Ton Piercer **or** Ether Overdrive
+-   Bulldozer **or** Dazing Finisher
 
 Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -1593,7 +1594,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Prerequisites: 90 Strength, Bulldozer, Unwavering Resolve, Shield Breaker (All Raging Bull Talents)
+    -   Prerequisites: 90 Strength, Unwavering Resolve, Shield Breaker
     -   Mutual Exclusive: Ether Overdrive
 
 ### Rampant Static
@@ -1779,6 +1780,13 @@ Prerequisite: Charisma
 
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
     -   Prerequisites: Charismatic Cast, 75 Charisma
+
+### Toxic Personality
+
+> _**"I seek the qualities of Toxic Personality."**_
+
+-   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
+    -   Prerequisites: Charismatic Cast, 60 Charisma
 
 ### Soul Converter
 
@@ -2056,6 +2064,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
     -   Prerequisite: Thundercall with [Power](Power.md) 1 (1 Thundercall) or obtain from Thundercall trainer (Funke)
+
+### Toxic Personality
+
+-   Manipulator \[Common Talent\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
+    -   Prerequisite: Charismatic Cast, 65 Charisma
 
 ### Trickster
 

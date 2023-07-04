@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 62407
+revid: 66908
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -51,6 +51,8 @@ Run it Back has randomized attunements upon obtaining the bell.
 #### _Corrupted_
 
 If **Run It Back** is found to be Corrupted, the duration is greatly amplified.
+
+Both the burning and 10% health loss effects are nullified by run it back.
 
 #### _Tarnished_
 

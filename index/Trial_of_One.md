@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 65561
+revid: 66876
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -35,7 +35,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 ## Challenges
 
 -   Parry Checks
-    -   Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). When the orbs speed up, speed up how much your pressing f; when the orbs come nonstop spam F.
+    -   Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). When the orbs speed up, speed up how much you're pressing f; when the orbs come nonstop, that is when you can spam F.
 -   [Weakened Megalodaunt](Megalodaunt.md)
     -   Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 2. 350 HP. (22 sword hits)
 -   [Weakened Rock Golem](Rock_Golem.md)
