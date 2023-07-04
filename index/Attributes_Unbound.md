@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 66851
+revid: 66949
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -41,6 +41,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 1.  Reach 75 Agility.
 2.  Go to the top of the mountain with the Cave Entrance leading between Etris Docks and Etrean Wilds.
 3.  Talk to the Windrunner.
+
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=BVFbn5LfguU)._
 
 ### Intelligence Unbound
 

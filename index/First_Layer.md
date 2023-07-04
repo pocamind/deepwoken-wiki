@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 66801
+revid: 66934
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -86,8 +86,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 1-3 | Nothing (you are sent up without a fight) |
 | 3.33-6.33 | [Mudskipper Knight](Mudskipper.md) |
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
-| 10-16.33 | [Megalodaunt](Megalodaunt.md) |
-| 16.66+ | [Enforcer](Enforcer.md) |
+| 10-14.33 | [Megalodaunt](Megalodaunt.md) |
+| 15+ | [Enforcer](Enforcer.md) |
 
 -   **There is definitely some RNG involved with the trial. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**

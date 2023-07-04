@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 66918
+revid: 66946
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -242,7 +242,7 @@ Shade Devour
 
 (★★☆)
 
- | Summons a fragile eye that consumes the ether of those who try to cast mantras within its gaze. | ??? Ether | ???. |
+ | Summons a fragile eye that consumes the ether of those who try to cast mantras within its gaze. | 40 Ether | Creates an Eye that steals the ether of anybody that casts a mantra within its gaze |
 
 ### **Mobility**
 

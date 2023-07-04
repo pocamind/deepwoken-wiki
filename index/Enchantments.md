@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 66924
+revid: 66937
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -60,7 +60,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire. Damage of the fire scales off of your elemental intensity.<br>
+  <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire.<br>
   Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
 </tr>

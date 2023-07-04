@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 66605
+revid: 66938
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -82,4 +82,4 @@ He is a Panther felinor
 ## Trivia
 
 -   Despite the dialogue, the version of Orlandeau that appears in the Fragments of Self is not a ghost, rather a memory.
-    -   This is hinted at by the NPC's name being 'The Captain' rather than 'Cap'n Orlandeau.'
+    -   This is hinted at by the NPC's name being 'The Captain' rather than 'Cap'n Orlandeau.' mates a fucin chad

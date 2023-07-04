@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 66892
+revid: 66942
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -138,6 +138,7 @@ _A strike from the heavens._
 -   User moves towards the cursor.
     -   Turn off shiftlock to do this.
 -   Good mobility.
+-   Feinting it leaves the user unable to use mantras for three seconds.
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
 
@@ -746,7 +747,7 @@ FROM: Inhale
 
  |
 
-## **Notes/Trivia**
+## Trivia
 
 -   Primadon is completely immune to suffocation.
 -   Light Green Mudskippers are able to use a buffed version of the _"Air Force"_ mantra, with greater knockback and ragdoll.
@@ -756,6 +757,7 @@ FROM: Inhale
 -   The _"Wind Step"_ talent can be used by other players for a short period after being placed.
 -   The _"Gale Leap"_ talent requires cliffs of certain height. Strangely, the talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
 -   The \[Q\] key activates Gale Dash.
+-   For some bizarre reason, Heavenly Wind has been referred to as Heavenly Strike multiple times in the update logs.
 -   Jumping before activating the _"Tempest Wind"_ talent will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know your doing it right when you hear an inhale sound.

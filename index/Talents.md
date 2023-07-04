@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66906
+revid: 66940
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1076,7 +1076,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity)
     -   Saint Jay last for double the duration of Chill
-    -   If the user have Glass Path: Crystalization, Saint Jay last for 2 seconds whenever a crystal is applied.
+    -   Does not work with Glass Path: Crystallization
     -   Prerequisite: Frostbite
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
     -   Prerequisites: 100 Frostdraw

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 66905
+revid: 66948
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -53,7 +53,7 @@ Achieving milestones and completing certain quests will award the player with Kn
     -   Killing [The Ferryman](The_Ferryman.md) in Spring. This rewards 1 Knowledge and can be repeated.
 
 -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
-    -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealth at least 8750 damage (35% of his HP). This rewards1 Knowledge and can be repeated.
+    -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealth at least 8750 damage (35% of his HP). This rewards 1 Knowledge and can be repeated.
 
   
 (Existing characters will get this Knowledge the next time they kill them)

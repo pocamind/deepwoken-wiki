@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 65917
+revid: 66947
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -297,7 +297,7 @@ File:Ignition Union.png
 
   
 
- | Standing outside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
+ | Standing inside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
 
 ## Factions/Entities
 
