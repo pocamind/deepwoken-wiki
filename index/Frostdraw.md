@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 66587
+revid: 66958
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -882,7 +882,7 @@ Frost Buster
 -   Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning.
     -   Which translates to the fact that the Mantra would fit well to people who has a defensive approach to combat.
 -   Frostdraw mantras afflict a brief Agility penalty when targets are hit, and is the only element so far that can create physical objects that allow you or your opponents can collide with.
--   The Chilling [Enchantment](Enchantments.md) inflicts the same effect that this attunement inflicts.
+-   The Chilling [Enchantment](Enchantments.md) used to inflict the same effect that this attunement has, however this has been changed to work only in PVE.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Commanders in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
 -   The "Ice Fissure" mantra is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
 -   The "Warden's Blades" mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
