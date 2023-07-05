@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66960
+revid: 66969
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1586,16 +1586,22 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact.
     -   Prerequisite: 25 Strength
 
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load)
-    -   Prerequisite: 40 Strength
+  
 
--   Shield Breaker \[Common Talent\] - Blunt damage now deals full posture damage to shields. (+4 Carry Load, +1 Posture)
-    -   Prerequisite: 60 Strength
-    -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield
+### Rampaging Brute
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 90 Strength, Unwavering Resolve, Shield Breaker
     -   Mutual Exclusive: Ether Overdrive
+
+-   Shield Breaker \[Common Talent\] - Blunt damage now deals full posture damage to shields. (+4 Carry Load, +1 Posture)
+    -   Prerequisite: 60 Strength
+    -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
+
+-   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load)
+    -   Prerequisite: 40 Strength
+
+  
 
 ### Rampant Static
 

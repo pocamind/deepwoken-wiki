@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 66963
+revid: 66967
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -74,13 +74,11 @@ Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic fi
 
 ## Lore
 
-The Second Floor is the deepest point of the Eternal Gale. In here, you can find New Kyrsa, the Sleeping City, an ancient city built by the Kyrsgarde race to contain the Scion of Ethiron. The Kyrsgarde race is different from human race. The Kyrsgarde are intelligent creatures, able to talk and consciously think, same as the human race. They built New Kyrsa as a "shrine" and "bed chamber" to the Scion of Ethiron. Long time ago the Kyrsgarde experimented with the Avatar (Scion of Ethiron), but they didn't know where it would lead. It made Ethiron draw even closer, and then a wave of "mist" engulfed the city. The "Mist" is actually hypnotic, created by Ethiron to protect his Avatar. When Ethiron drew even closer to New Kyrsa, he created this mist to get control over every living creature within its scope, and now any creature who got affected by the mist obey Ethiron and lose their actual minds. The Kyrsgarde inside New Kyrsa and some of the Black Divers here are affected by it. Naerotiv and the Kyrsgarde in Firfire were too far from the mist, so they didn't got affected by the mist presence. Naerotiv tells you about New Kyrsa, how they tried to complete "the Ninth Blessing", and if we won't stop the Scion of Ethiron from awakening, Ethiron, the Eye of Calamity will wake up and the world will die. The Scion of Ethiron, or Avatar acts as a shrine. If one of the Avatars wake up, Ethiron will wake up too. Naerotiv tells us that we should complete this ritual and seal the Avatar. New Kyrsa has an artifact with unstable song in it, the big purple sphere. When all 5 obelisks are activated, the artifact releases unstable Song and primary collapses stop. The reason why collapses even exist is that Ethiron causes them by his presence near to New Kyrsa. When we defeat one of his Avatars, he releases compressed unstable gale (pure Song) from his body. The Second Layer becames too charged with the Song, and it destabilizes. Another Space-time collapse happens. After this collapse, the whole Second Layer resets.
+The Second Floor is the deepest point of the Eternal Gale. In here, you can find New Kyrsa, the Sleeping City, an ancient city built by the Kyrsgarde race to contain the Scion of Ethiron. The Kyrsgarde race is different from human race. The Kyrsgarde are intelligent creatures, able to talk and consciously think, same as the human race. They built New Kyrsa as a "shrine" and "bed chamber" to the Scion of Ethiron. A long time ago, the Kyrsgarde experimented with the Avatar (Scion of Ethiron), but they didn't know where it would lead. It made Ethiron draw even closer, and then a wave of "mist" engulfed the city. The "Mist" is actually hypnotic, created by Ethiron to protect his Avatar. When Ethiron drew even closer to New Kyrsa, he created this mist to get control over every living creature within its scope, and now any creature who got affected by the mist obey Ethiron and lose their mind. The Kyrsgarde inside New Kyrsa and some of the Black Divers here are affected by it. Naerotiv and the Kyrsgarde in Firfire were too far from the mist, so they didn't get affected by the mist's presence. Naerotiv tells you about New Kyrsa, how they tried to complete "the Ninth Blessing", and if we won't stop the Scion of Ethiron from awakening, Ethiron, the Eye of Calamity will wake up and the world will die. The Scion of Ethiron, or Avatar acts as a shrine. If one of the Avatars wake up, Ethiron will wake up too. Naerotiv tells us that we should complete this ritual and seal the Avatar. New Kyrsa has an artifact with unstable song in it, the big purple sphere. When all 5 obelisks are activated, the artifact releases unstable Song and primary collapses stop. The reason why collapses even exist is that Ethiron causes them by his presence being near to New Kyrsa. When we defeat one of his Avatars, he releases compressed unstable gale (pure Song) from his body. The Second Layer becomes too charged with the Song, and it destabilizes. Another Space-time collapse happens. After this collapse, the whole Second Layer resets.
 
   
 
 ## Gallery
-
-Kaide, the Drowned Light
 
 File:Kaide, The Drowned Light.png
 

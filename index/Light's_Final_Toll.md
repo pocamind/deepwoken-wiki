@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 65627
+revid: 66976
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -44,7 +44,7 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 -   With its abnormally small base damage of 12, Akira's ring will only provide an extra 1.44 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its effective hotbox.
 -   Can switch between Way of Navae and Legion Kata critical attacks.
--   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
+-   As this weapon is Legendary,it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
 
 ## Gallery
 

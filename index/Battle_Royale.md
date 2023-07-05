@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 66841
+revid: 66973
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Game]
@@ -27,7 +27,7 @@ LocationL KINGMAKER'S ISLE LocationR
 
 TERRITORY OF THE HUNDRED LEGIONS
 
-"Far to the west. warriors are forged in the heat of battle."
+Far to the west. warriors are forged in the heat of battle.
 
   
 This island serves as the map for Battle Royale.
@@ -59,7 +59,7 @@ On the edge of the King's Colosseum
   
 
   
-Please note the island is located in the [Open Sea](Open_Sea.md)
+Please note the island is located in the [Open Sea](Open_Sea.md).
 
 ## Loot
 
@@ -71,17 +71,17 @@ Please note the island is located in the [Open Sea](Open_Sea.md)
 
 ### Deep totems
 
--   regular totems give talents
--   purple colored totems give mantras
--   red colored totems give rare talents
+-   Regular totems give talents
+-   Purple colored totems give mantras
+-   Red colored totems give rare talents
 
 ### Healing orbs
 
-Green orbs emitting gale trap like particles can be found around the map, these will heal ??? hp on use
+Green orbs emitting gale trap like particles can be found around the map, these will heal ??? hp on use.
 
 ### Weapons
 
-Various weapons can be found around the map floating, some of the weapons found include
+Various weapons can be found around the map floating, some of the weapons found include:
 
 -   Normal medium weapons
 -   Normal light weapons
@@ -98,11 +98,12 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   Only one group can win.
 -   Participants are currently known to be grouped in parties of two.
 -   Better loot can be found on the edges of the map, making it only accessible early game due to zone.
--   Upon death you are sent to floating keep and remain there for the remaining duration of the game
+-   Upon death you are sent to floating keep and remain there for the remaining duration of the game.
 
 ## Trivia
 
--   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md).
+-   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
+
 -   Battle Royale is separate from the main game, you cannot choose a slot.
 
 Info tba
