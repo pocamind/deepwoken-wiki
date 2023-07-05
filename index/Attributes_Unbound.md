@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 66949
+revid: 66953
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -65,6 +65,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 3.  Take his first dialogue option then meet him at [Castle Light](Castle_Light.md)
 4.  Make sure that you entered The Depths throught a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the Vacant [flaw](Boons_and_Flaws.md).
 5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join the Divers to unbound Willpower.
+
+_For a visual guide consider watching [this video](https://www.youtube.com/watch?v=VOE_UOd9ivs)._
 
 ### Charisma Unbound
 

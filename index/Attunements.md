@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66915
+revid: 66952
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -54,8 +54,7 @@ _You may click upon any of these attunements to view their pages._Template:Testi
 
 ## Trivia
 
--   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you either unlock more of them from their respective [trainers](Attunement_Trainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping\*.
-    -   _This is most likely a bug._
+-   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you either unlock more of them from their respective [trainers](Attunement_Trainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping.
 -   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement- _whichever one has +6 points._ You can undo your selection by selecting Random or None.
 -   Selecting a new starting Attunement you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
