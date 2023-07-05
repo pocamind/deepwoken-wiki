@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 66952
+revid: 66959
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -28,7 +28,7 @@ Post-creation, the character is able to learn more attunements throughout their 
 -   Frostdraw = Frigid Prisms
 -   Galebreathe = Gale Stones
 -   Shadowcast = Umbral Obsidian
--   Ironsing = _1 of every ore excluding Coal, and including a Pluripotent Alloy_
+-   Ironsing = _1 of every ore excluding Coal, and including a [Pluripotent Alloy](Pluripotent_Alloy.md)_
 
 These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that- once consumed- will provide the character with a singular point in that attunement.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66951
+revid: 66960
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2286,6 +2286,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
     -   Prerequisite: [Power](Power.md) 8
+    -   Does not affect Natural Armor from Exoskeleton and Chitin
 
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   Prerequisite: 35 Fortitude, 30 Strength

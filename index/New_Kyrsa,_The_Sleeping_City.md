@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 66405
+revid: 66963
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -79,6 +79,8 @@ The Second Floor is the deepest point of the Eternal Gale. In here, you can find
   
 
 ## Gallery
+
+Kaide, the Drowned Light
 
 File:Kaide, The Drowned Light.png
 
