@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 59721
+revid: 66997
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -16,6 +16,7 @@ categories: [World, Items]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | An organ responsible for the production of electricity. |
 
 **Spark Glands** are an item in _Deepwoken_.
 

@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 57239
+revid: 67006
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -11,10 +11,12 @@ categories: [Items]
 | Umbral Obsidian | |
 |---|---|
 | value | 10 |
+| weight | 0 |
 | type | Attunement Item |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | While holding it, you can feel the shadows darkening your soul. |
 
 “ While holding it, you can feel the shadows darkening your soul. ”
 

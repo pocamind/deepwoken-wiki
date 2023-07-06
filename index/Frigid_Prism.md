@@ -1,6 +1,6 @@
 ---
 title: Frigid Prism
-revid: 60198
+revid: 67004
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Mantras]
@@ -10,12 +10,13 @@ categories: [World, Items, Mantras]
 
 | Frigid Prism | |
 |---|---|
-| value | ? |
-| weight | ? |
+| value | 2 |
+| weight | 0 |
 | type | Attunement item |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | Cold enough to hurt. |
 
 ## Description
 

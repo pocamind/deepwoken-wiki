@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 65898
+revid: 66985
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -13,7 +13,7 @@ categories: [NPCs]
 | name | Marcus |
 | location | The Hidden Village |
 
-“ Yo. ”
+“ Sup. ”
 
 ― Marcus
 

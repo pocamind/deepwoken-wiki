@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 65279
+revid: 66990
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -16,6 +16,7 @@ categories: [World, Items]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | Warmth still emanates from within. |
 
 **Dying Embers** are an item in _Deepwoken_.
 

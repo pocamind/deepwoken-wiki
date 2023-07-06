@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 63859
+revid: 66988
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -30,7 +30,7 @@ categories: [Weapons, Pages with broken file links, Fists]
 
 ## Description
 
-To obtain it, you will need to achieve a Power level of 5 and a Light Weapons attribute of 40. Then you need to go through a dialogue tree with [Polis](Polis.md), and you'll get the card. After learning Jus Karita, your fist fighting style will take form into a taekwondo-like fighting style that revolves around using your legs instead of your fists.
+To obtain it, you will need to achieve a Power level of 5 and a Light Weapons attribute of 40. Then you need to go through a dialogue tree with [Polis](Polis.md). and you'll get the card. After learning Jus Karita, your fist fighting style will take form into a taekwondo-like fighting style that revolves around using your legs instead of your fists.
 
 Jus Karita is a rather unpopular style, due to its inability to use cestus weapons, effectively locking it out of [Enchants](Enchantments.md). This also gives it a rather subpar damage due to not being able to have a weapon's base damage to scale on.
 

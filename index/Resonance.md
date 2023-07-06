@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 66822
+revid: 66989
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -201,7 +201,7 @@ This very specific and unique **Resonance Door** is within a cave in The Depths,
 
 In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, it is _currently unknown_ how many times a player needs to level up before being granted a "free" wish (most likely 3 or 4 times). However, this is of little matter, since the Layer 2 NPC's [Misérables](Misérables.md) "I seek clarity" option lets the player purchase wishes.
 
-## Unobtainable Resonances
+## List of Unobtainable Resonances
 
 -   **Corrupted** Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)

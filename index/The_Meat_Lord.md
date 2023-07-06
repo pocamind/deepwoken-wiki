@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 65875
+revid: 66987
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -44,7 +44,7 @@ _**(Work in progress, add more locations if you know any and remove this text wh
 
 ## Trivia
 
--   The Meat Lord sells some of the highest tier food, including the Mushroom Bisque, which gives you a quite large amount of hunger and thirst, while also reducing the amount of hunger you lose for a short time.
+-   The Meat Lord sells some of the highest tier food, including the Seafood Boil, which gives you a quite large amount of hunger and thirst, while also reducing the amount of hunger you lose for a short time.
 -   Acting in ways he deems disrespectful will result in him refusing to sell items to you. This includes:
     -   Choosing the "Hey" option when speaking to him.
     -   Trying to buy something from him with not enough money.
