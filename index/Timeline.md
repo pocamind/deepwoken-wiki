@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 63458
+revid: 67038
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -9,6 +9,15 @@ notices:
 ---
 
 # Timeline
+
+“ so weep for ash, and weep for ruin -  
+for embers fade, and swells the sea.  
+hold on to hope, and in so doing  
+beware - the Tide comes too for thee. ”
+
+― To Sleep, Dreaming (Contour 4) Description
+
+  
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 66969
+revid: 67025
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1791,7 +1791,7 @@ Prerequisite: Charisma
 
 > _**"I seek the qualities of Toxic Personality."**_
 
--   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
+-   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact. (Works insanely well with Talent "Unnecessary Theatrics" as it reapplies the charm.)
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
 ### Soul Converter

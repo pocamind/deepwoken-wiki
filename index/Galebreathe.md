@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 66978
+revid: 67039
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -751,7 +751,7 @@ FROM: Inhale
 ## Trivia
 
 -   Primadon is completely immune to suffocation.
--   Light Green Mudskippers are able to use a buffed version of the _"Air Force"_ mantra, with greater knockback and ragdoll.
+-   Light Green Mudskippers are able to use a buffed version of the **Air Force** mantra, with greater knockback and ragdoll.
 -   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
     
 -   To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI. Like any other wisp in the game.
@@ -772,6 +772,7 @@ FROM: Inhale
 -   **Wind Blade** with it's talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
 -   The "_Gale Leap_" talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
 -   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
--   The wind phantom from "_Haunted Gale_" mantra appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.
--   "_Tempest Wind_" is deceptively useful in the fact that it allows a ranged mantra to excel at close range. Although it's not a direct upgrade to uppercut due to how difficult it is to use. Though there is one effective method of using it is simply jumping during your slide before casting it which will propel you forward and easily rush down your opponent. There is another useful but difficult technique to pull off. To do this, you must slide jump and immediately M1 which will keep "_Tempest Wind_" active long enough for you to cast it after the M1. Alternatively you can cast it early in order to feint the M1 but due to the low windup of "_Tempest Wind_" it's very difficult to parry or punish unless it's used by itself. Though letting the arial M1 hit and then casting it is very powerful because it leaves no room for counter-attack after blocking or rolling the M1 but this is negated by parries.
--   Pairing it with the [Jetstriker Oath](Oaths.md) can make it one of the best builds for running, given Galebreathe is the best attunement for mobility and Jetstriker is the best Oath for mobility. [The Old Wind, Gale Step and Aerogliding](Talents.md) talents, along with all of the Jetstriker talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md).
+-   The wind phantom visual from the "_Haunted Gale_" talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.
+-   "_Tempest Wind_" can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
+    -   Alternatively, you could cast it early to feint the M1 but due to it's low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counter-attack after blocking or rolling the M1 but this is negated by parries.
+-   Pairing this attunement along with the [Jetstriker Oath](Oaths.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and Jetstriker's mobility based kit. [The Old Wind, Gale Step and Aerogliding](Talents.md) talents, along with all of the Jetstriker talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md).

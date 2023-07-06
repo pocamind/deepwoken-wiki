@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 66530
+revid: 67040
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -10,9 +10,12 @@ notices:
 
 # Lore
 
-“ Who would've thought, that the sea would forget us so easily? ”
+“ so weep for ash, and weep for ruin -  
+for embers fade, and swells the sea.  
+hold on to hope, and in so doing  
+beware - the Tide comes too for thee. ”
 
-― Voice of the Deep
+― To Sleep, Dreaming (Contour 4) Description
 
   
 _This page is a collection of Lore in the game, if you are looking for Books, visit [this page](Books.md)._  

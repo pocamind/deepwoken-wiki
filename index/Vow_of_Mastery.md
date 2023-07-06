@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 66458
+revid: 67041
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -40,7 +40,8 @@ In addition to using the name of a specific subject, commands can use the names 
  | None |
 | Locate | No | _"Locate \[Name\]"_ | Highlight the subject throught walls for you to see. | None |
 | Eat | No | "_\[Name\]_, eat _\[food item\]_" | Forces the Subject to eat a desired item. | None |
-| Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop a desired item. Appears to be very selective on what the Subject can drop. |
+| Use | No | "_\[Name\], use \[item\]._" | Forces the subject to use a desired item, if the item can't be used the subject will simply hold it in his hand. | None |
+| Drop | No | "_\[Name\]_, drop _\[item\]_" | Forces the Subject to drop a desired item. Appears to be very selective on what the Subject can drop. | None |
 | Leech | No | _"Leech \[Name\]"_ | 
 
 File:Leech Talent.png
@@ -49,7 +50,7 @@ Conjure the ether of your vow into essence and transfer it to yourself. | None |
 | Run | Yes, 35 Charisma | "_\[Name\]_, run" | Forces the Subject to run for around 15 seconds, giving a speed boost.
 
  | 1 Minute |
-| Fight | Yes, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense. | 3 minutes |
+| Fight | Yes, 50 Charisma | "_\[Name\]_, fight" | Gives the Subject a purple aura and a boost in damage and defense. Also seems to increase attack speed. | 3 minutes |
 | Sacrifice | Yes, 50 Charisma, Rare | "_\[Name\]_, sacrifice" | Forces the Subject to give their health to you until you are full.
 
 _Can only be used when your close to the subject you want to sacrifice._
@@ -68,4 +69,12 @@ Charisma, Rare
 -   If a Subject or Master is in a bad situation away from allies, _Live_ and _Run_ or _Sacrifice_ and _Return_ can be used to stall time or win.
 -   As long as you have alts, you may use Vow of Mastery to improve a bossraid. You can hide a bunch of alts in an nearby location and sacrifice them for HP whenever you need it. Alternatively, you can raise one alt to have high Charisma and use it to tell your main to live. The second method is recommended as you will not need to train Charisma on your main, plus "live" counts as a revive.
 -   The Live command is almost definitely a reference to the anime "Code Geass"
--   You can still make the Vow of Mastery in Fragments of Self, however no commands work there
+-   You can still make the Vow of Mastery in Fragments of Self, however no commands work there.
+    -   If the master is in Fragments of Self and his vow isn't however, he can still use commands without a range limit on them.
+
+-   The return command, if used on a knocked person, will make them immediatly get up, however they may still get hit while being returned and be knocked again while the command is active but it won't be cancelled.
+-   Mentioning any other command or name of any other command while using the say command will use the respective command.
+-   Trying to use the say command to force a vow to say "Sorry \[Name\]" or "My bad \[Name\]" won't work.
+    -   Similarly using the say command to force your vow to use a roblox chat command will make them say it, but not use it, for example: "\[Name\] say /e dance" will make the subject say "/e dance" but they won't start dancing.
+-   The use command can only make the subject use an item, that includes: Training items, Mantra Modifiers, Utility Items, Crafting Items, etc. It can't be used to make a subject use: Weapons, Armor and Mantras.
+-   The leech command will always drain the subject of all their ether, no matter if the master has 40%, 50%, 60% or even 99% ether.
