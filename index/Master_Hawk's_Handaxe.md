@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 55135
+revid: 67007
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -33,5 +33,5 @@ Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. 
 
 ## Notes
 
--   With 100 heavy, it reaches 48 damage, a verry good amount together with its chip damage, although its swing speed can make a difference in battles for the worse.
+-   With 100 heavy, it reaches 48 damage, a very good amount together with its chip damage, although its swing speed can make a difference in battles for the worse.
 -   After the update of 10/24/2022, the swing speed of this weapon increased to 0.6, the average swing speed of all heavy weapons. Along with no endlag, this made the Master Hawk's Handaxe an extremely viable weapon, dealing more damage than the enforcer's blade (0.59). Perhaps up on the list of the best PVP heavy weapons to date.

@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 66844
+revid: 67021
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -31,7 +31,7 @@ categories: [Weapons, Greataxes]
 
 The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can be obtained from [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer). It has **60% CHIP DAMAGE** (Capped to 50% Chip DMG), making blocking almost completely useless against it.
 
-## Notes
+## Trivia
 
 -   Deals 32.9 damage with 100 HVY and 6 proficiency.
 -   Has the highest amount of chip damage of any weapon in the entire game.

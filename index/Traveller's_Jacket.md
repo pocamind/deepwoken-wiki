@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 54644
+revid: 67011
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -8,7 +8,7 @@ categories: [Armors, Items, Outfits]
 
 # Traveller's Jacket
 
-Template:ArmorInfobox**Traveller's Jacket** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfoboxThe **Traveller's Jacket** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

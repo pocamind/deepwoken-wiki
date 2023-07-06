@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 66939
+revid: 67023
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -30,7 +30,6 @@ Ranks by themself do nothing, beside rank W, S and A that give a badge and, in t
 
 | Rank | Echoes Amount |
 | --- | --- |
-| W | 441 (140 x 3.2) |
 | S | 140 |
 | A |  |
 | B |  |
@@ -38,7 +37,7 @@ Ranks by themself do nothing, beside rank W, S and A that give a badge and, in t
 | D |  |
 | E |  |
 
-A unique W rank is achievable by obtaining S Rank while having enabled all Echoes Modifier. The W rank gives your name a Green color on the playerlist.
+A unique W rank is achievable by obtaining S Rank while having enabled all Echoes Modifier.
 
 ### Ways of Obtaining Echoes
 

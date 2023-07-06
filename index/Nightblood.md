@@ -1,11 +1,11 @@
 ---
 title: Nightblood
-revid: 64014
+revid: 67014
 source: https://deepwoken.fandom.com/wiki/Nightblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Candidates for deletion, Pages with broken file links, Items, Attunement]
 notices:
-  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"could merge the pages easily\""
+  - "Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.Reason: \"could merge the pages easily, PLEASE either make new pages for the other vials or delete this\""
 ---
 
 # Nightblood
