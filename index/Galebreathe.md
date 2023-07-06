@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 66977
+revid: 66978
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -278,7 +278,6 @@ You can get this mantra by killing duke once and having 50 galebreathe.
  | 70 Ether | The user raises their left leg and stomps on the ground, summoning huge pillars of wind.
 
 -   Deals _possibly moderate-heavy_ damage.
--   You can only get this from whisper rolls, using shrine of temptation does not work.
 
  |  |
 

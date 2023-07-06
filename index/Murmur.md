@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 66803
+revid: 66983
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -75,7 +75,7 @@ Murmur: Tacet can be obtained in three ways; one of them being that you don't ha
 
 #### **Method Two - Born Assassin**
 
--   By completing 5 Bounty Hunting Contracts, Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. This does not matter if you have neutral/good or negative rep with Etris.
+-   By completing 5 Bounty Hunting Contracts, Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method and it does not matter if you have neutral/good or negative rep with Etris.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
