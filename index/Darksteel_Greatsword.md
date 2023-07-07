@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 64438
+revid: 67055
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -61,6 +61,7 @@ The Darkalloy Greatsword is one of the most popular alloyed weapons, just behind
 
 ## Trivia
 
+-   This weapon's critical attack is most likely inspired by the [Black Knight Greatsword](https://darksouls.wiki.fextralife.com/Black+Knight+Greatsword) from _Dark Souls_.
 -   Just like [Enforcer's Axe](<Enforcer's_Axe.md>), the Darksteel Greatsword critical attack gives a full hyperarmor in the duration of the critical attack.
 -   One of the most popular and iconic weapons, even added in the roblox game Allusions(though only the older version where the critical would have been the normal greatsword critical).
 -   The Alloyed version of the Darksteel Greatsword has a glazed purple texture.

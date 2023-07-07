@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 66945
+revid: 67070
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -36,9 +36,3 @@ Friid executes their opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | User pins down opponent and slices their throat with their blade. |
-
-## Trivia
-
-Unpopular opinion, but Friid's name sounds like Friede,which is the name of that one boss from Dark Souls 3
-
-Friid's gender is most likely female, You can tell from looking at her eyelashes.

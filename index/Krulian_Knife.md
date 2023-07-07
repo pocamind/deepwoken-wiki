@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 66926
+revid: 67065
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -18,18 +18,17 @@ categories: [Weapons, Daggers]
 | swing speed | 0.98x |
 | endlag | 0.05s |
 | penetration | 20% |
-| selling price | 150 Notes |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Drops from Ferryman's chests regardless of Season or given by the Ferryman during Winter Season., Chili |
+| obtainment | Drops from Ferryman's chests regardless of Season or given by the Ferryman during Winter Season., Merchant Ships |
 | description | "An exceptionally sharp knife forged by unknown means. Carries an aura of intense foreboding." |
 
 ## Description
 
-The Krulian Knife is a [dagger](Weapons.md) obtained by defeating the [Ferryman](The_Ferryman.md) during the Winter. This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling. The Krulian Knife does 23.625 damage at 75 LHT, and 27.9 damage at 100 LHT.  
+The Krulian Knife is a [dagger](Weapons.md) obtained by defeating the [Ferryman](The_Ferryman.md) during the Winter. This weapon has a base damage of 12.5 and requires 75 Light Weapon to equip. As the endgame weapon of daggers, it boasts a base 20% penetration against armor and extremely high swing speed and scaling. The Krulian Knife does 23.625 damage at 75 LHT, and 27.9 damage at 100 LHT.
 
 ## Trivia
 

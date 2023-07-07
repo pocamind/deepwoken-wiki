@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 67012
+revid: 67069
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -18,7 +18,7 @@ They wear a Vagabond's Bicorn, either a Blindfold or Crimson Blindfold and a [Pr
 
 ## Moveset
 
-Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement.
+Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

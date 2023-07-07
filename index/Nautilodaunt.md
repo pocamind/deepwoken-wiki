@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 64997
+revid: 67079
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,15 +20,15 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It has an exclusively spawn located at the market place in the City of the Drowned, found rummaging through some wares. When killed, it will drop either an Odd Tentacle, or in much rarer cases, an [Elite Pathfinder Cloaks](Pathfinder_Elite.md)
+The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned, found rummaging through some wares. When killed, it will drop either an Odd Tentacle or in much rarer cases, an [Elite Pathfinder Cloak](Pathfinder_Elite.md).
 
-While they are rummaging at the marketplace, they would create a lot of noise that can be easily distinguished, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, and they will simply stand in silence until another player approaches, and is present in it's vicinity.
+While they are rummaging in the marketplace, they would create a lot of noise that can be easily distinguished, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, and they will simply stand in silence until another player approaches and is present in their vicinity.
 
-There are no existing records of research done on Nautilodaunts, and their origins and life cycle is largely unknown. However, it is observed that they are highly intelligent creatures evident by their sheer combat prowess, and their exceptional ability to utilize the motor functions their anatomy would allow to the fullest extent.
+There are no existing records of research done on Nautilodaunts, and their origins and life cycle are largely unknown. However, it is observed that they are highly intelligent creatures, evident by their sheer combat prowess and their exceptional ability to utilize the motor functions their anatomy would allow to the fullest extent.
 
 In addition to their impressive intelligence, it is also observed that they are capable of turning other humans into mudskippers, their preferred way of finishing off prey. In extremely rare cases, they would replicate themselves instead, though whether or not this action should be classified as reproduction or replication, remains unknown.
 
-Their skill and strength is even recognised by the [Voices of the Depths](Voices_of_the_Depths.md), using them as secret weapons against the especially powerful. They are true menaces, the one at the marketplace even yielding Diver reputation.
+Their skill and strength are even recognized by the [Voices of the Depths](Voices_of_the_Depths.md), using them as secret weapons against the especially powerful. They are true menaces, with the one at the marketplace even rewarding positive reputation with the Divers upon defeat.
 
 ## Attack Patterns
 
@@ -92,7 +92,7 @@ Always keep a calm composure when you fight him, panicking will lead to a swift 
 
 On a final side note, Nautilodaunt seems to dodge some attacks, but what makes him dodge seems to be unknown. He will ALWAYS dodge the first few attacks you perform on him while he is digging in his spawn, so don't blow out all your steam trying to sneak attack him.  
 
-## **Trivia**
+## Trivia
 
 -   The Nautilodaunt can spawn several times in the same place during [Hell Mode](Hell_Mode.md).
 -   The Nautilodaunt resembles Cthulhu from the Cthulhu Mythos by H.P Lovecraft.

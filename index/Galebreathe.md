@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 67039
+revid: 67075
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -273,10 +273,9 @@ Pillars of Erisia
 
 _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp."_
 
-You can get this mantra by killing duke once and having 50 galebreathe.
-
  | 70 Ether | The user raises their left leg and stomps on the ground, summoning huge pillars of wind.
 
+-   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Deals _possibly moderate-heavy_ damage.
 
  |  |
