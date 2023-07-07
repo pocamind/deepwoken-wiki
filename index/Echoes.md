@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 67023
+revid: 67054
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -296,3 +296,8 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   Flint and Canteen.
     -   Repair Hammer
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
+-   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)

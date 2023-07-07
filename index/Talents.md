@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 67025
+revid: 67051
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2463,3 +2463,4 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   If you cannot find a talent here, either it has been removed, or it has not been found yet. (<-Only for the new talents)
 -   The Pocket Sand talent, especially its description, is a reference to Rogue Lineage.
     -   Paying [someone](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the talent in this game, and speaking to them afterwards yields the same dialogue as found in the talent description, "So... We're even now, right?"
+-   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest talent.
