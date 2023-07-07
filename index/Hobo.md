@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 67008
+revid: 67087
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -20,10 +20,14 @@ A Hobo only wears a [Stranded](Stranded.md) outfit.
 
 ## Moveset
 
-A Hobo's arsenal only consists of the [Flamecharm](Flamecharm.md) attunement:
+A Hobo's arsenal consists of [Fists](Fists.md) **(Way of Navae)** and the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
+| 
+Assault
+
+ | Firmly pummels at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ✗ | ◯ | (★☆☆) |
 | Rising Flame | User spins and releases a fury of flames that sends both the user and opponent vertically into the air. | ◯ | ◯ | (★★☆) |
 | Flame Assault | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ | (★★★) |
@@ -44,10 +48,11 @@ A Hobo executes it's opponent after knocking them:
 ## Tips
 
 -   The Hobo becomes hostile when you open any of their chests, however they will not aggro until you walk in front of them.
--   Hobos have a very similar AI to [Flamecharmer Monks](Songseeker_Flamecharmer.md), with a faster attack rate. Flourishing them into walls and spamming M1's is a good way to make it an easier fight.
+-   Hobos have a very similar AI to [Songseeker Flamecharmers](Songseeker_Flamecharmer.md), with a faster attack rate. Flourishing them into walls and spamming M1's is a good way to make it an easier fight.
 
 ## Trivia
 
+-   Hobos can spawn in such a way that one of their chests is inside a wall.
 -   The Hobo seems to be someone who escaped from The Depths or from [The Duke](Duke_Ishamon_Erisia.md), and has lost their mind since.
 -   All factions appear to have it out for them, as they all try to attack them.
 -   When you grip a Hobo they will start to laugh like a Madman. Truly a person that has lost their mind completely.

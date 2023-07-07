@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 67007
+revid: 67089
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -18,7 +18,6 @@ categories: [Weapons, Greataxes]
 | swing speed | 0.6x |
 | penetration | 5% |
 | chip damage | 25% |
-| selling price | 25 Notes |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
