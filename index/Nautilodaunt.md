@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 67079
+revid: 67083
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,13 +20,13 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned, found rummaging through some wares. When killed, it will drop either an Odd Tentacle or in much rarer cases, an [Elite Pathfinder Cloak](Pathfinder_Elite.md).
+The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned, rummaging through some wares. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md).
 
-While they are rummaging in the marketplace, they would create a lot of noise that can be easily distinguished, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, and they will simply stand in silence until another player approaches and is present in their vicinity.
+While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted.
 
 There are no existing records of research done on Nautilodaunts, and their origins and life cycle are largely unknown. However, it is observed that they are highly intelligent creatures, evident by their sheer combat prowess and their exceptional ability to utilize the motor functions their anatomy would allow to the fullest extent.
 
-In addition to their impressive intelligence, it is also observed that they are capable of turning other humans into mudskippers, their preferred way of finishing off prey. In extremely rare cases, they would replicate themselves instead, though whether or not this action should be classified as reproduction or replication, remains unknown.
+In addition to their impressive intelligence, it is also observed that they are capable of turning other humans into mudskippers, their preferred way of finishing off prey.
 
 Their skill and strength are even recognized by the [Voices of the Depths](Voices_of_the_Depths.md), using them as secret weapons against the especially powerful. They are true menaces, with the one at the marketplace even rewarding positive reputation with the Divers upon defeat.
 
@@ -46,11 +46,7 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 ## Description
 
-Template:Creature Infobox V3 The Fury Nautilodaunt is a product of a rare genetic mutation that is the result of an unknown phenomena, causing a variety of monsters to take on various different traits, atypical of their biology. In the Fury Nautilodaunt's case, said mutation caused them to become in-tune with Thundercall.
-
-Their skin is noticeably darker with a yellow tint, while their eyes glow of bright yellow, atypical to it's white-eyed original counterparts. Aside from a notable physical change, the Fury Nautilodaunt also gained the ability to electrify their prey with each of their punches, debilitating the prey in the process. To no one's surprise, this amplifies how dangerous they are, on top of what they are already known for.
-
-In addition, it is also observed that they are much more durable than regular Nautilodaunts. Though aside from these observations, their behavior remains the same.
+Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Nautilodaunt, by some ungodly means having learnt and now actively utilizing the [Thundercall](Thundercall.md) Attunement. Their skin is noticeably darker than their regular counterparts, with a yellow tint, while their eyes glow a bright yellow, atypical to it's white-eyed original counterparts. Aside from the change in color, the Fury Nautilodaunt's Thundercall usage has given it the ability to electrify its prey with each and every one of its attacks, debilitating the prey in the process. Finally, it is also observed to be much more durable than a regular Nautilodaunt. All of this combined making it a far more dangerous threat, capable of taking out fully geared PVE builds if underestimated.
 
 ## Attack Patterns
 
