@@ -1,9 +1,9 @@
 ---
 title: Fishing
-revid: 65595
+revid: 67124
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
+categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
 notices:
   - This page is being worked on. The fishing gallery and the Bait section are outdated/require more information.
 ---
@@ -18,19 +18,19 @@ notices:
 
 ## **How to Fish**
 
-To fish, first craft a Fishing Rod at a crafting table. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can also buy a Fishing Rod at the [Etris Docks](Etris_Docks.md) for, or at the house on the island near the beach of Erisia, for the same price.
+To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for from a fishing pond room in a Guild Base.
 
-The next step to fishing is to cast out your Fishing Rod at an area with a general connection to the sea, such as the [Etris Docks](Etris_Docks.md) or the Isle of Vigils Docks. After a while, you will get a bite, and when you get a bite your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
+The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
-Another thing about fishing is bait. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
+Though bait is not required for fishing, it is highly recommend. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
 
-Fishing can also level each attribute given enough time.
+Fishing can also level each physical attribute given enough time. Notably, it provides a large amount of willpower experience in comparison to other stats.
 
-I have no idea how people haven't noted this after a year of the game being out but, after some testing its quite clear that the spot where you fish changes the amount of certain fish you find and removes the chance of finding other fish, as well as changing how often you can find chests and how rare their loot is, like for example fishing at the left most side of the Etris docks will almost entirely never reward any fish while the right side will have highly increased fish rates and even closer to the beach right near the docks will contain high amounts of bass and red snapper, and even some chests
+The frequency and quality of loot from fishing is also heavily based on the location you are fishing in. Even slight angle adjustments in the same spot can lead to significantly better results.
 
 ## **Loot From Fishing**
 
-You can fish up many different kinds of fish with there being a chance of other items. **Fished up objects can very rarely be _golden._** The bigger the fish, the better the loot. The loot you can get from fishing are:
+Many variety of fish can be obtained from fishing, as well as some loot. **Fished up objects can very rarely be _golden._** The bigger the fish, the better the loot. The loot you can get from fishing is:
 
 -   Sea Bass
 -   Red Snapper
@@ -61,7 +61,8 @@ Everything you can get from fishing has its own chat bubble pop-up, as a reactio
 -   If you fish a Treasure Chest: "Woah! A Treasure Chest!"
 
   
-Fishing a Golden Fish doesn't change the chat bubble.
+
+Catching a Golden Fish doesn't change the chat bubble.
 
 Gallery of Fish:
 
@@ -77,7 +78,23 @@ File:Fishing Talents.png
 | Hook, Line, and Sinker | Once something's caught your line, it's much harder for it to get loose. | +4 Carry Load |  |
 | Proficient Baiting | Casting your line excites ocean life, reducing the chances of fishing up trash. | N/A |  |
 
-  
+## Fishing Stats
+
+For consistency, all data should be collected with at least the first two fishing skills. Common fish include sea bass and red snappers. Uncommon fish includes pufferfish, squid, and tuna. Rare fish include swordfish and all golden fish.
+
+**Vigils Pillar Zipline:**
+
+File:VigilsPillarZipline.png
+
+| Bait & Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 100 Dentifilos | 25 | 47 | 16 | 0 | 6 | 5 | 1 |
+| 100 Chum | 18 | 50 | 14 | 0 | 6 | 12 | 0 |
+
+**Etris Docks Right:**
+
+| Bait | Bait Amount | Misses | Common Fish | Uncommon Fish | Rare Fish | Chests | Monsters | Other |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## **Bait**
 

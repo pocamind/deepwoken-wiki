@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 66955
+revid: 67109
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -12,11 +12,13 @@ categories: [Drowned Gods, NPCs, Layer 1]
 
 ― Yun'Shul to the non-worthy
 
-Template:NPC name**Yun'Shul, Keeper of Hearts** is a Drowned God, with their shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). They are also confirmed to be the Drowned God of the First Layer.
+  
+
+_This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see Yun’Shul._ Template:NPC name**The Shrine of Yun'Shul, Keeper of Hearts** is a shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md), dedicated to the Drowned God Yun’shul.
 
 ## Description
 
-Yun'Shul is the Drowned God of Wishes. While they do not appear in the game themselves, their [shrines](Deep_Shrines.md) do. As well as the Deep Shrines scattered throughout the overworld, there is also their main shrine in the [Temple of Hearts](Temple_of_Hearts.md). Yun'Shul's shrine is a unique NPC found in The Depths. It allows players to make wishes by communicating with Yun'Shul.
+The Shrine of Yun’Shul is a unique interactable object found in Scyphozia. It can grant players that wield a [Resonance](Resonance.md) wishes.
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.
 
@@ -24,7 +26,7 @@ The shrine at the Temple of Hearts also acts as the penultimate step of obtainin
 
 The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish requires some criteria:
 
--   You need to have a Resonance. You would have needed this anyway to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance (such as glitching in or being carried in by another player) you will be instantly killed and wipe.**
+-   You need to have a Resonance. You would have needed this anyway to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a Deepbound (such as glitching in or being carried in by another player), you will be instantly killed and wipe.**
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't really apply on your first wish.
     -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
@@ -46,13 +48,11 @@ If you meet all the criteria, you are able to make one of five wishes:
 4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."**
     -   Remove Oathless (and only Oathless), allowing you to take a new [Oath](Oaths.md).
 5.  **"The powers I have been granted displease me, I wish for new gifts."**
-    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling [Sacred Field](Sacred_Field.md) you will get the mantra version.) Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).
+    -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version.) Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).
 
 ## Trivia
 
--   Yun'Shul is referred to by the developers by "they" and "them".
-    -   This trait is also shared with [Ya'alda](https://rogue-lineage.fandom.com/wiki/Ya%27alda) from Rogue Lineage.
--   You are combat tagged immediately upon speaking to Yun'Shul without a Resonance, making it impossible to survive.
+-   You are combat tagged immediately upon speaking to Yun'Shul’s shrine without a Resonance, making it impossible to survive.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
 -   There is an [Enchantment](Enchantments.md) named after Yun'Shul.

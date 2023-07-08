@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 66983
+revid: 67094
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -71,11 +71,11 @@ Murmur: Tacet can be obtained in three ways; one of them being that you don't ha
 
 -   You need a negative reputation with Etrea
 -   Interacting and picking the Charisma Dialogue option (Requiring at least 25 Charisma), you are tasked to hunt and kill a Player that Cestis orders you to find.
--   Upon completing 5 of his bounties, return back to Cestis and obtain the Murmur.
+-   Upon completing 5 of his bounties, return back to [Cestis](Cestis.md) and obtain the Murmur.
 
 #### **Method Two - Born Assassin**
 
--   By completing 5 Bounty Hunting Contracts, Cestis (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method and it does not matter if you have neutral/good or negative rep with Etris.
+-   By completing 5 Bounty Hunting Contracts, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method and it does not matter if you have neutral/good or negative rep with Etris.
 
 A screenshot of the Tacet NPC at Erisia, found by Restative.
 
@@ -111,7 +111,7 @@ This allow the user to track down those who stay silent or are trying to hide fr
 
 ### Obtainment
 
--   In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge). Required to be at least power 6 in order to initiate a conversation.
+-   In the first floor of layer 2, The Eternal Gale, find Kadrivus Entomolius Auditan (located below a broken bridge near the original [Bonekeeper](Bone_Keeper.md) mini-boss fight). Required to be at least power 6 in order to initiate a conversation.
 -   You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly. Repeat this task 3 times and you will be granted the murmur.
 -   Failed attempts will lead to 2-3 Parasites forming into your body.
 
