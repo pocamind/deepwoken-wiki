@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 67088
+revid: 67149
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -188,7 +188,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry). Hit damage from crit is the same as that of the M1</p></div></td>
+  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry). Greatly slows the user down while the weapon is on its way back. Hit damage from crit is the same as that of the M1</p></div></td>
   <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>

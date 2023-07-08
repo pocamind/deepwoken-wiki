@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 67138
+revid: 67157
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -28,6 +28,7 @@ There are different rarities for mantras, similarly to Talents.
 
 -   Lightning Cloak
 -   Ice Fissure
+-   Ice Skate
 
 ### Rare Mantras
 
