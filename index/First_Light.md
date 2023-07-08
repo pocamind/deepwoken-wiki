@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 67148
+revid: 67169
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -20,19 +20,20 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | penetration | 30% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| selling price | TBA |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crimson Megalodaunt |
+| obtainment | Crimson Megalodaunt, Merchant Ships |
 | description | Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend. |
 
 ## Description
 
 File:Image 2023-04-16 125111912.png
 
-The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare drop from slaying a [Crimson Megalodaunt](https://deepwoken.fandom.com/wiki/Megalodaunt#Crimson_Megalodaunt), or by finding it inside a Merchant Ship. It has unique animations and a unique critical. Due to its rarity, it possesses decent value in trading.
+The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare drop from slaying a [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt), or by finding it inside a Merchant Ship. It has unique animations and a unique critical. Due to its rarity, it possesses decent value in trading.
 
 ## Critical Attack
 

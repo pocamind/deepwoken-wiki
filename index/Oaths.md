@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 67091
+revid: 67166
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -781,4 +781,4 @@ Proof of Time Magic's existance and it being an "Oath".
 -   Silentheart's talent names reference _Fire Emblem_ multiple times. Most notable is Lodestar and Mani Katti, which are both references to the names of unique swords in the Fire Emblem series.
 -   Arcwarder armor is similar to Bulats "Incursio" From Akame Ga Kill!
 -   Arcwarder's oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.
--   Visionshaper originaly used to be an attunment during the testing era but was removed for unknown reasons and later added back into the game as an oath after the games release
+-   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons and later added back into the game as an Oath after the game's release.

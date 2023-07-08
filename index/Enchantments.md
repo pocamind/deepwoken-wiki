@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 67149
+revid: 67162
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -243,13 +243,14 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the No Life King<div></div></font></center></td>
-  <td><div><p>While held and in combat, gain passive health regen. Every M1 gives 2% insanity to the opponent.<br>
+  <td><div><p>While held and in combat, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
   <br>
   Permanently stained health bar while the weapon is equipped. (If you unequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the overworld.<br>
   When unsheathed in The Depths, lose 100 sanity. You will immediately die upon using the curse in the Depths if you don't have the sanity to use it (Same thing applies to the illusionary realm).<br>
   <b>Disabled in Arena.</b><br>
   <b>Viscosity is disabled.</b><br>
+  <b>Conditioned runner is disabled.</b><br>
   <b>Fishman gives reduced healing.</b><br>
   <b>Cauterized Wounds and Alloyblood have their effects significantly reduced.</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>

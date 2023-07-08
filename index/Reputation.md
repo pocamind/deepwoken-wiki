@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 66947
+revid: 67170
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -324,5 +324,4 @@ File:Ignition Union.png
 
 -   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
 -   The "Diplomat" charisma talent significantly increases reputation gain.
--   There is a minimum and maximum reputation for each faction, meaning that it may only take a few events to get back in a faction's good favour.
 -   Spitting on a guard causes them to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
