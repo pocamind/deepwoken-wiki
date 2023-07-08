@@ -1,11 +1,11 @@
 ---
-title: Sparkblood
-revid: 67133
-source: https://deepwoken.fandom.com/wiki/Sparkblood
+title: Hearthblood
+revid: 67143
+source: https://deepwoken.fandom.com/wiki/Hearthblood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Sparkblood
+# Hearthblood
 
 Redirect to:
 

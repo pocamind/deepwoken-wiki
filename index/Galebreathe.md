@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 67075
+revid: 67146
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -275,7 +275,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 
  | 70 Ether | The user raises their left leg and stomps on the ground, summoning huge pillars of wind.
 
--   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
+-   Purely luck based, doesn't require the need of killing duke. (Some got it from power up)
 -   Deals _possibly moderate-heavy_ damage.
 
  |  |
@@ -304,6 +304,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
     <li>Can be modified with crystal and perfect lenses to increase the distance.</li>
     <li>Uses the shadow assault startup sound.</li>
     <li>It's also compatible with logstones, but the effect is unknown. (Needs to be tested)</li>
+    <li>Super broken as of right now, as you take no fall dmg, if you used in the air.</li>
   </ul></td>
 </tr>
 </tbody>

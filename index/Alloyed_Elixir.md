@@ -1,11 +1,11 @@
 ---
-title: Sparkblood
-revid: 67133
-source: https://deepwoken.fandom.com/wiki/Sparkblood
+title: Alloyed Elixir
+revid: 67135
+source: https://deepwoken.fandom.com/wiki/Alloyed_Elixir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Sparkblood
+# Alloyed Elixir
 
 Redirect to:
 
