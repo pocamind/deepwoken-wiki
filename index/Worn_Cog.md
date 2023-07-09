@@ -1,6 +1,6 @@
 ---
 title: Worn Cog
-revid: 57450
+revid: 67280
 source: https://deepwoken.fandom.com/wiki/Worn_Cog
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Drops]
@@ -11,7 +11,7 @@ categories: [Ingredients, Drops]
 | Worn Cog | |
 |---|---|
 | value | 15 |
-| weight | - |
+| weight | 0 |
 | type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 67172
+revid: 67281
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -67,6 +67,12 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
 -   Completing [Layer 2](Second_Layer.md) floor 1 without Light Hook, awarding 10 Echoes.
 -   Obtaining a [Resonance](Resonance.md), awarding 15 Echoes.
+
+## Guide For W and S Rank
+
+Checklist made by derathehunter found here
+
+[Guide Here](https://docs.google.com/document/d/1qNaYPvKJPwPD5wsNGvyW5UX6Ek2YpYDJiQY-NO88AGE/edit?usp=sharing)
 
 ## Upgrades and Modifiers
 
@@ -243,8 +249,6 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Echo Talents/Items
 

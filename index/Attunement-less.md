@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 66536
+revid: 67279
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -132,10 +132,10 @@ File:No Attunement Revamp.png
  | _Buff those around you with extra defense and damage._ | 100 Ether | 
 
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
--   Decreases damage received by allies for the duration of the effect.
-    -   Despite not being mentioned in the description, the effect also increases damage dealt by allies.
+-   Decreases damage received by 5% for allies and yourself for the duration of the effect.
+    -   Despite not being mentioned in the description, the effect also increases damage dealt by those affected by 3%.
 -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grand Support'._
--   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people outside your guild.
+-   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people non-allies, including mobs.
 -   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).
 
  |
@@ -476,9 +476,9 @@ File:No Attunement Revamp.png
  | _Absorb damage then return fury upon your foes._ | 
 
 -   **Requirements:** _**50 Heavy Weapon,**_ _Combat Mantra_
-    -   Upon activation, a white circle will appear on the torso, if hit during the circle's animation, it'll turn red. Then proceed to go on a short cooldown.
+    -   Upon activation, a white circle will appear on the torso, if hit during the circle's animation, it'll turn red. Then proceed to go on a short cooldown. If not activated in time the effect will fade away.
     -   After the cooldown of punishment, activating it again will proceed to do a big AOE swing that affects everyone nearby.
-    -   Is parryable.
+    -   Deals low damage, is parryable.
 
  |
 
@@ -514,7 +514,6 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   You can use Summon Cauldron as a portable shelter for campfires.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
 -   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance traveled BUT allows you to use it twice before it goes on cooldown.
--   You can modify Revenge with a [Reversal Spark](Mantra_Modifiers.md), which makes it do _**absolutely nothing.**_
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
 -   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
 -   Some Attunement-less have a lot of utility that you can use to your advantage to help you survive.
