@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 66273
+revid: 67174
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -24,16 +24,17 @@ You are able to get this recipe when you interact with an NPC in [Songseeker Wil
 
 2 Iron + 1 Coal in a Crafting Table.
 
-(Iron can be purchase or mined from a cave while Coal is only obtained through mining)
+(Iron can be purchased or mined from a cave while Coal is only obtained through mining)
 
 ### Uses
 
-Crafted bombs deal true damage when they explode and scale with Intelligence and Songchant along with PvE scaling. You are able to press M1 to place it on the ground directly below you with a timer to explode or you can press E to throw it in the direction of your cursor, with the bomb exploding on impact.
+Crafted bombs deal true damage when they explode and scale with Intelligence along with PvE scaling. You are able to press M1 to place it on the ground directly below you with a timer to explode or you can press E to throw it in the direction of your cursor, with the bomb exploding on impact.
 
 Obtaining the ability to craft bombs will immediately allow you to get talents involving the bombs, which could potentially clog up your card hands with unneeded cards you don't want. Because of this, only get the talent if you _absolutely_ want to get the ability to use bombs.
 
 ### Trivia
 
 -   Bombs deal true damage along with having PvE scaling
--   Bombs scale with Intelligence and Songchant
+-   Bombs scale with Intelligence
+-   Bombs DO NOT scale off of Songchant
 -   [Lumen Bombing Incident](https://www.youtube.com/watch?v=k5ItnvNSn28&t=332s%7CThe)

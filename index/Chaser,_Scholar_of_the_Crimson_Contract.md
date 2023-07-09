@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 66901
+revid: 67176
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -8,7 +8,7 @@ categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
 
 # Chaser, Scholar of the Crimson Contract
 
-“ Aha, the first strike? Not one to mince words are we? ”
+“ Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the City. ”
 
 ― Chaser
 
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md), he is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md). He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).
+Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md). He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
@@ -24,7 +24,7 @@ Appearance wise, he is a young male [Adret](Adret.md) characterized by his uniqu
 
 ## Moveset
 
-Despite being a humanoid boss and his status as a Black Diver, he doesn't perform any physical attacks, instead he uses long-range blood related [mantras](Mantras.md) which are channeled through the jars of blood located around the cathedral.
+Despite being a humanoid boss and his status as a Black Diver, he doesn't perform any physical attacks, instead using long-range blood related [Mantras](Mantras.md) which are channeled through the jars of blood located around the cathedral.
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -52,18 +52,18 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the reminder of the fight. He may attempt to use it again, but it will fail.
 
  | ✗ | ◯\* | ◯ | (★★☆) |
-| **Sanguine Repulsion** | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll, happens a few seconds after he is down.
+| **Sanguine Repulsion** | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.
 
 -   _**The first instance of this does the most damage**_
 
  | ◯ | ◯ | ◯ | (☆☆☆) |
-| **Transfusion** | Chaser heals from the jars of blood, healing 1600 HP.
+| **Transfusion** | Chaser heals from the jars of blood, healing ~1600 HP.
 
 -   Chaser will use this move everytime after he leaves his vulnerable state.
 -   He cannot use this move after all blood jars have been broken.
 
  | N/A | N/A | N/A |  |
-| **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilising all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ◯ | (★★★) |
+| **Last Resort** | Chaser unleashes around 25 localised attacks on the player(s) while utilizing all of his moves in a frenzy. You must stay in the circle just below him to avoid this attack. | ✗ | ✗ | ◯ | (★★★) |
 | **Body Slam** | During his final phase, the blood tendrils that take hold of his body repeatedly slam Chaser onto the floor. As such, they push away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Chaser. | ◯ | ◯ | ◯ | (★★★) |
 | **Blood Frenzy** | Chaser laughs then use up to 4 attacks in quick succession.
 
@@ -104,18 +104,19 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 
 ## Rewards
 
-After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium sized [chest](Chests_&_Sacks.md) is dropped which contains:
+After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium sized [chest](Chests_&_Sacks.md) is spawned which contains:
 
--   Multiple Kyrsan bone weapons.
+-   Many Kyrs-series weapons.
 -   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
 -   Very high odds of Deep Gems.
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including Ironsinger Heavy Plates, all guaranteed to be at least 1 star quality.
 -   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped by Chaser.
 -   Rarely, enchantment stones.
+-   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
 
-~Roughly fourteen chasers solo~ (Requires more testing.) without the Bosses Resonance Progression path will allow you to obtain a Resonance.
+~Roughly fourteen chasers solo~ (Requires more testing) without the Boss Resonance Progression path will allow you to obtain a Resonance.
 
 Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
 
