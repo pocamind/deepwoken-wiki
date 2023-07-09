@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 67188
+revid: 67269
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -16,8 +16,6 @@ categories: [Oaths]
 “ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
 ― Duke Erisia to Contractors
-
-  
 
 ## Description
 

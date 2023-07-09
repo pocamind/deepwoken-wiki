@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 67264
+revid: 67277
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -20,22 +20,22 @@ categories: [Oaths, Character, Talents, Mechanics]
 
 They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements.
 
--   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in [Fragments of Self](Fragments_of_Self.md).**
+-   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in the [Fragments of Self](Fragments_of_Self.md).**
 
 Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
 **There are currently 10 obtainable Oaths in _Deepwoken_:**
 
--   [Arcwarder](Oath%253A_Arcwarder.md)
--   [Blindseer](Oath%253A_Blindseer.md)
--   [Contractor](Oath%253A_Contractor.md)
--   [Dawnwalker](Oath%253A_Dawnwalker.md)
--   [Jetstriker](Oath%253A_Jetstriker.md)
--   [Linkstrider](Oath%253A_Linkstrider.md)
--   [Oathless](Oath%253A_Oathless.md)
--   [Silentheart](Oath%253A_Silentheart.md)
--   [Starkindred](Oath%253A_Starkindred.md)
--   [Visionshaper](Oath%253A_Visionshaper.md)
+-   [Arcwarder](Oath%253A_Arcwarder.md) \[20 Flamecharm, Thundercall, & Fortitude\]
+-   [Blindseer](Oath%253A_Blindseer.md) \[40 Willpower\]
+-   [Contractor](Oath%253A_Contractor.md) \[No stat requirement\]
+-   [Dawnwalker](Oath%253A_Dawnwalker.md) \[No stat requirement\]
+-   [Jetstriker](Oath%253A_Jetstriker.md) \[40 Agility\]
+-   [Linkstrider](Oath%253A_Linkstrider.md) \[No stat requirement\]
+-   [Oathless](Oath%253A_Oathless.md) \[No stat requirement\]
+-   [Silentheart](Oath%253A_Silentheart.md) \[75 Weapon, 40 Strength, 40 Agility/Charisma\]
+-   [Starkindred](Oath%253A_Starkindred.md) \[40 Strength\]
+-   [Visionshaper](Oath%253A_Visionshaper.md) \[50 Charisma\]
 
 ## Lore Oaths
 
