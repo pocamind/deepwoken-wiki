@@ -1,6 +1,6 @@
 ---
 title: Starkindred
-revid: 54206
+revid: 67198
 source: https://deepwoken.fandom.com/wiki/Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oaths](Oaths.md)
+-   [Oath: Starkindred](Oath%253A_Starkindred.md)

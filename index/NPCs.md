@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 66596
+revid: 67213
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -21,9 +21,9 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) | If you choose the second option without 100 charisma you will have your head exploded |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives Glider schematic, gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |
-| [Alirian](Alirian.md) | [The Kingdom of Etrea](Etrea.md) | [Minitrysa](Minityrsa.md) | Gives the player the [Jetstriker](Oaths.md) Oath. | Accepts orbs in exchange for Jetstriker talents |
+| [Alirian](Alirian.md) | [The Kingdom of Etrea](Etrea.md) | [Minitrysa](Minityrsa.md) | Gives the player the [Jetstriker](Oath%253A_Jetstriker.md) [Oath](Oaths.md). | Accepts orbs in exchange for Jetstriker talents |
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), Viper's Jaw | Grants [Legion Kata](Fists.md) fist style | Requires you to help win Legion events in [Aratel Island](Aratel_Island.md) |
-| [Amashi](Attunement_Trainers.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
+| [Amashi](Attunement_Trainers.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, Silentheart [Oath](Oaths.md) progression |  |
 | Andrea | Unaligned | [The Depths](The_Depths.md), The Cathedral of Interstice | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
 | Arthur | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the talents Critical Attack and Engage upon quest completion |
 | Avian | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |
@@ -40,8 +40,8 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 | Ezra | Ku(?)) | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). Repeatable. |  |
 | Flabbermaster Filigree, the First Mate | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | Frank F'alzone | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Friid](Attunement_Trainers.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
-| [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
+| [Friid](Attunement_Trainers.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, Silentheart [Oath](Oaths.md) progression |  |
+| [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, Silentheart [Oath](Oaths.md) progression |  |
 | Gild | Unaligned | The Depths, Varicosa District | None | Talks about the Celtors being forgotten to time |
 | [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
 Check the rest out for yourself
@@ -63,7 +63,7 @@ Check the rest out for yourself
 | Lake | Unaligned | [Upper Erisia](Upper_Erisia.md), bridge to the Temple of the Forgotten Flame | None |  |
 | Lance's Brother | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), Lance's Food | Food Vendor, gives crate delivery quest | After asking his name, your character forgets and his name is then randomized from a pre set group of names |
 | Lance Leshi | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI |
-| [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, Contractor Oath obtainment | Kills the player instantly if they are not permitted to enter |
+| [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | Lucien | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | Lucy | Unaligned | [The Depths](The_Depths.md), The City of The Drowned | None |  |
 | Malte | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
@@ -74,9 +74,9 @@ Check the rest out for yourself
 | [Mime](Mime.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Grants [Disguise](Attunement-less.md#disguise) mantra | After walking away he will spawn mudskippers hidden in barrels as a trick, must defeat them + have high enough [Charisma](Attributes.md#charisma) to get mantra |
 | [Misérables](Misérables.md) | Unaligned(?) | Outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | Can grant a DMG boost for the [Scion of Ethiron](Scion_of_Ethiron.md)/ resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown | Comes with a cost, killing you if paid short, usually ending in a wipe |
 | [Nanji](Nanji.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Grants finding Illji quest | Illji's katana is found on a cliff near the [Isle of Vigils](Isle_of_Vigils.md) |
-| [Nell](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Etris](Etris.md), Alchemist hut | [Frostdraw](Frostdraw.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
+| [Nell](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Etris](Etris.md), Alchemist hut | [Frostdraw](Frostdraw.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [The Nestmind](The_Nestmind.md) | Unaligned |  | Grants [Oath: Visionshaper](Oaths.md) |  |
-| [Nostor](Attunement_Trainers.md) | [The Ministry](The_Ministry.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oaths.md) progression |  |
+| [Nostor](Attunement_Trainers.md) | [The Ministry](The_Ministry.md) | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md), Sewer | [Shadowcast](Shadowcast.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | [Nyanna](Nyanna.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md), [Castle Light](Castle_Light.md) | Equipment Vendor | Stock changes, weapons and armor can be bought enchanted |
 | [Odiolavoro](Chef_Odiolavoro.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Become his "sous-chef" by helping him make meals, gives exp, gives 10 Notes | Meals change |
 | Orion | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Quest to kill 5 Summer Guards. Rep, EXP, Bravery and a door unlock. |  |
@@ -95,7 +95,7 @@ Check the rest out for yourself
 | Raphael | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
 | Regek | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
-| [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants Starkindred Oath |  |
+| [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
 | Seren | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |  |
 | Serendi | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
 | Scope | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |

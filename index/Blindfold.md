@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 59350
+revid: 67241
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Face]
@@ -17,7 +17,7 @@ Template:EquipmentStats
 
 ## Description
 
-The Blindfolds are accessories found in [Erisia](Erisia.md), [Minityrsa](Minityrsa.md), and [Songseeker Wilds](Songseeker_Wilds.md). Equipping this item gives you the [Blinded](Talents.md) talent. A Blindfold is required for the [Blindseer](Oaths.md) oath.
+The Blindfolds are accessories found in [Erisia](Erisia.md), [Minityrsa](Minityrsa.md), and [Songseeker Wilds](Songseeker_Wilds.md). Equipping this item gives you the [Blinded](Talents.md) talent. A Blindfold is required for the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
 
 ## Trivia
 

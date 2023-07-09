@@ -1,6 +1,6 @@
 ---
 title: Visionshaper
-revid: 54204
+revid: 67199
 source: https://deepwoken.fandom.com/wiki/Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oaths](Oaths.md)
+-   [Oath: Visionshaper](Oath%253A_Visionshaper.md)

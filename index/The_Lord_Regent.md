@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 65470
+revid: 67234
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -29,7 +29,7 @@ The throne upon which he sit is an artifact from the [Depths](The_Depths.md), am
 
 He has a particular interest in an object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into the bank gives a hefty reward and it is sent to the Palace.
 
-If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oaths.md#oath-contractor) Oath, before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled if the player acquires negative Etrea rep.
+If given reason to, the Lord Regent can suspend his target in the air, using an attack similar to the "Judgement" mantra from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), before instantly executing them. This attack is only unleashed on players that enter the throne room without permission for entry. It kills you regardless of level or equipment, and is impossible to escape. The attack is disabled when the player is granted an audience, being limited to his immediate surrounding instead (don't get too close). It is re-enabled if the player acquires negative Etrea rep.
 
 Despite his mystique and power, he is still very much a mortal man. He shows signs of aging, being at least old enough to have reached Stage 1 aging. This however may just be a front to make people believe he is weaker than he really is.
 

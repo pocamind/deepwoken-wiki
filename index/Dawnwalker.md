@@ -1,6 +1,6 @@
 ---
 title: Dawnwalker
-revid: 54207
+revid: 67193
 source: https://deepwoken.fandom.com/wiki/Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oaths](Oaths.md)
+-   [Oath: Dawnwalker](Oath%253A_Dawnwalker.md)

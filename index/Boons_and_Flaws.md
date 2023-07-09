@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 66566
+revid: 67207
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -53,7 +53,7 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
 -   Gremor's who are blind see better than others, being blessed by Navae.
 
-Gained from obtaining the Blindseer Oath.
+Gained from obtaining the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
 
  | 1 |
 | Fugitive | "All factions hate you." | Start with low reputation toward all factions.

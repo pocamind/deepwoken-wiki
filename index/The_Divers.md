@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 66739
+revid: 67238
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -43,7 +43,7 @@ You can reset your reputation towards the diver by talking to [Gudrin](Reputatio
 
 Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.
 
-If you took the [Contractor Oath](Oaths.md), your diver reputation will be set to [Hunted](Reputation.md), and it will take roughly seven Nautilodaunt to get your rep set back to normal.
+If you took the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), your diver reputation will be set to [Hunted](Reputation.md), and it will take roughly seven Nautilodaunt to get your rep set back to normal.
 
 You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount of reputation with The Divers, after [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) has been defeated.
 
@@ -65,7 +65,7 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 **Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's caretaker.
 
-**[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md):** A Canorian Black Diver who resides in Castle Light. Apparently, she was trained underneath a Lightkeeper. She is able to give the player the [Dawnwalker Oath](Oaths.md) should they have the requirements. She also gives the player a Light Hook as they are transported to Second Layer. She is one of the strongest Divers.
+**[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md):** A Canorian Black Diver who resides in Castle Light. Apparently, she was trained underneath a Lightkeeper. She is able to give the player the [Dawnwalker](Oath%253A_Dawnwalker.md) [Oath](Oaths.md) should they have the requirements. She also gives the player a Light Hook as they are transported to Second Layer. She is one of the strongest Divers.
 
 ## Trivia & Guild Information
 

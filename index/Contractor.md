@@ -1,6 +1,6 @@
 ---
 title: Contractor
-revid: 54208
+revid: 67192
 source: https://deepwoken.fandom.com/wiki/Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oaths](Oaths.md)
+-   [Oath: Contractor](Oath%253A_Contractor.md)

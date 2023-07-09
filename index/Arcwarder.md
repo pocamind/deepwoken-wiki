@@ -1,6 +1,6 @@
 ---
 title: Arcwarder
-revid: 54201
+revid: 67190
 source: https://deepwoken.fandom.com/wiki/Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oaths](Oaths.md)
+-   [Oath: Arcwarder](Oath%253A_Arcwarder.md)

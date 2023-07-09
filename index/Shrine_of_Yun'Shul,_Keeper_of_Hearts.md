@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 67109
+revid: 67214
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -20,7 +20,7 @@ _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see
 
 The Shrine of Yun’Shul is a unique interactable object found in Scyphozia. It can grant players that wield a [Resonance](Resonance.md) wishes.
 
-The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the oath.
+The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the Oath.
 
 ## Wishes
 
@@ -46,7 +46,7 @@ If you meet all the criteria, you are able to make one of five wishes:
 3.  **"The Vows I made give me much regret, I wish to break."**
     -   Erase all your active vow of masteries, whether they be as a servant or as a master.
 4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."**
-    -   Remove Oathless (and only Oathless), allowing you to take a new [Oath](Oaths.md).
+    -   Removes the [Oathless](Oath%253A_Oathless.md) [Oath](Oaths.md), allowing you to take a new [Oath](Oaths.md).
 5.  **"The powers I have been granted displease me, I wish for new gifts."**
     -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version.) Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).
 

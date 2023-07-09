@@ -1,6 +1,6 @@
 ---
 title: Oathless
-revid: 54202
+revid: 67196
 source: https://deepwoken.fandom.com/wiki/Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oaths](Oaths.md)
+-   [Oath: Oathless](Oath%253A_Oathless.md)

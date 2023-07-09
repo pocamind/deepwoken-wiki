@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 67162
+revid: 67177
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -638,7 +638,7 @@ File:Vamparism shield.png
     
     Azure Flames with the "Blazing" enchant
     
-    -   Curse of the Umbral Knight **→** Umbral Knight
+    -   Curse of the Umbral Knight **→** Umbral Knight, (does not have the down sides of Curse of the Umbral Knight).
     -   Bungee Gum **→** Elastic
     -   Combustion **→** Blazing
     -   Hero **→** Heroism

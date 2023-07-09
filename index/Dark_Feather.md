@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 66283
+revid: 67247
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -45,7 +45,7 @@ The Dark Feather is used in these recipes:
 -   [Authority Captain Uniform](Authority_Captain_Uniform.md)
 -   Authority Commander (Outfit)
 
-It can also be used to obtain the [Visionshaper](Oaths.md) oath.
+It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md).
 
 **Void Feather:**
 

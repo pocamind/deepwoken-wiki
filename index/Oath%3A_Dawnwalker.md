@@ -1,0 +1,66 @@
+---
+title: "Oath: Dawnwalker"
+revid: 67187
+source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Oaths]
+---
+
+# Oath: Dawnwalker
+
+| Oath: Dawnwalker | |
+|---|---|
+| oath_req | 30 Kyrsan Medallions |
+| effects | +2 Combat Mantra |
+
+“ You shall connect with the light around us, surrounding all of Lumen. ”
+
+― Klaris Llfiend, Mother of Lights
+
+## Description
+
+**[Oath](Oaths.md): Dawnwalker** is one of the 10 obtainable Oaths in _Deepwoken_. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), and [Contractor](Oath%253A_Contractor.md), it is one of 4 Oaths that have no direct stat requirements. It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade; this has granted it a reputation as the "exploiter oath".
+
+## Obtainment
+
+1.  Speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) n Castle Light, and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md), and gives you the base Oath along with its Blinding Dawn Mantra.
+2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:
+
+-   Blinding Dawn upon Oath obtainment
+-   Radiant Kick
+-   Protagonist Syndrome and Radiant Dawn
+-   Absolute Radiance
+
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
+
+## Abilities
+
+-   **Blinding Dawn ★★★ - Combat Mantra**
+    -   Dance uncontrollably. No one can withstand the sheer groove of your spin routine.
+
+-   **Radiant Kick ★★★ - Combat Mantra**
+    -   Kick your foes at the speed of light.
+        -   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
+
+-   **Radiant Dawn ★★★ - Combat Mantra**
+    -   Kick your foes at the speed of light.
+        -   Radiant Dawn seems can't proc any deep gems effect,also it doesn't have the effect of Absolute Radiance after landing the mantra for unknown reason(probably bug).
+
+-   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
+
+-   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
+    -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.
+        -   Currently, this talent cannot be obtained due to bug.(2023/5/27)
+
+## Effects
+
+This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Lore.md) symbol above their head, with a disk spinning around its axis.
+
+## Notes
+
+-   Just like Oathless, it has no stat requirements, although it does need you to go to the eternal gale for obtainment.+
+-   This Oath is a colorful masterpiece however srdince its a oath that is locked inside of Layer 2 not to mention its also lacking in talents and mantra's and is a little bit predictable, you have to be semi-skilled at PvE to unlock it. If you lack said skill head over to Jetstriker like the rest of us.
+-   Radiant Kick may be inspired by the boss Minos Prime from _ULTRAKILL_, as it highly resembles his "Judgement!" attack.
+    -   Similarly, Radiant Dawn may be inspired by Minos Prime's "Die!" or "Crush!" attack.
+
+-   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses radiant magic which is a form of [Lightkeeping](Lightkeep.md).

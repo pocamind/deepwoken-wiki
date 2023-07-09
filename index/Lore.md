@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 67040
+revid: 67211
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -47,10 +47,10 @@ _The Lord Regent, sitting atop his throne of coral._
     -   Lord Regent has his power increased by an incredible amount by sitting on his throne. Going from barely beating Akira to being able to beat Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
     -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely immortal.
 -   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
--   The Lord Regent's power is unique and the attunement it's associated with is unknown, assuming it's even associated with an attunement. Some of this power can be gained from the "[Contractor](Oaths.md)" oath.
+-   The Lord Regent's power is unique and the attunement it's associated with is unknown, assuming it's even associated with an attunement. Some of this power can be gained from the "[Contractor](Oaths.md)" Oath.
     -   Though it is not Shadowcast, it is similar in appearance to it and after an individual name Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
-    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are doing the "[Contractor](Oaths.md)" oath.
+    -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This may be of the Canor's history with the Authority, whom they are currently at war with; however, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears to have rather little education.
     -   Also, three Adrets, who form the main bulk of The Ministry and Etrea's greatest enemy are present in Etris, two of whom are Divers, which is an ally of the Authority. Despite this, they are all allowed in Etris, which we can infer means Schnitzel is kept out for other reasons than his race.
@@ -298,9 +298,9 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Located behind Minityrsa with in the lost ship in the Voidsea.
 -   Its appearance is similar to the shrine of Yun'Shul, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
--   It has the power to make oaths with the players that meet certain requirements and that shares a hate towards the song.
--   The oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
--   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the oath, but this is just a small contradiction in the game.
+-   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the song.
+-   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
+-   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the Oath, but this is just a small contradiction in the game.
 -   Believed to be a "Void Sea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer)
 -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
@@ -1202,8 +1202,6 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
 -   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color.
 -   They are far weaker when on the surface than in The Depths.
--   There are some people who assumed [Aelita](Aelita.md) is a Krulian, though it is more likely she took the oath of the [Visionshaper](Oaths.md), something a Krulian cannot do.
-    -   She does still possess abilities like long distance instant teleportation that Visionshapers cannot learn. Her very soul resonates with the chaos of her oath and race, possibly allowing her to shape more than the player can as she is able to experience all of the chaos of the world more quickly, opening her mind to more visions to shape and therefore increasing her power. Her personality and fun little games of her endless chaos and fun sparks life into pathfinders, giving them the "spark" needed for them to become a visionshaper. This is speculation but I decided to write this a lot better than the last person (seriously how did you manage to word 1 sentence poorly and make 2 typos as well CMON DEEPWOKEN WIKI WE'RE OFFICIAL NOW stop making mistakes)
 -   There are higher Krulians and lesser Krulians.
     -   Higher Krulians are more powerful than even Zi'eer or Pleeksty
 -   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
@@ -1322,9 +1320,9 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Lightkeepers are possibly important for nautical travel between luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra' was the only ship that has made the expedition between luminants without any blessing from a Lightkeeper.
 -   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   Klaris, the teacher of the Dawnwalker oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
+-   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
 -   The current Lightkeeper of the Etreean Luminant (Possibly Viqh) was kidnapped by Etrea to prevent the Authority entering the Etrean Luminant, stalemating a losing war.
--   The magic that is utilized by the Dawnwalker oath is an attempt at imitating Lightkeeping through the use of Radiant Tones.
+-   The magic that is utilized by the Dawnwalker Oath is an attempt at imitating Lightkeeping through the use of Radiant Tones.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
     -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.
@@ -1364,14 +1362,14 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 ### Blindseer
 
-People who make an oath to seek the truth of the deepwoken world. Their blindfold grants them immunity to insanity as a way to help them unravel the truth. Though mere humans, their oath allows them to see things that others cannot see, as their mind is stronger and they vow to see the truth rather than what their brain makes things out to be. This oath is directly associated with the fact that humans are weak and so is their minds, being the only life form known to go insane but have massive potential as a drawback and lets them make oaths and choose their own path in the world of deepwoken, being that those who take this oath seek to become more than this and seek the truth, feeling as though their human mind is capable of more than they realize and they just need the willpower to comprehend it. The will to do something is ultimately the source of why willpower grants sanity, it is simply the will to unravel the truth of the world that grants you the immunity to its effects, yet humans are the only creatures without this knowledge granted to them and seek knowledge to explain everything.
+People who make an Oath to seek the truth of the deepwoken world. Their blindfold grants them immunity to insanity as a way to help them unravel the truth. Though mere humans, their Oath allows them to see things that others cannot see, as their mind is stronger and they vow to see the truth rather than what their brain makes things out to be. This Oath is directly associated with the fact that humans are weak and so is their minds, being the only life form known to go insane but have massive potential as a drawback and lets them make Oaths and choose their own path in the world of deepwoken, being that those who take this Oath seek to become more than this and seek the truth, feeling as though their human mind is capable of more than they realize and they just need the willpower to comprehend it. The will to do something is ultimately the source of why willpower grants sanity, it is simply the will to unravel the truth of the world that grants you the immunity to its effects, yet humans are the only creatures without this knowledge granted to them and seek knowledge to explain everything.
 
 ### Visionshaper
 
 -   Counter part to Blindseer, those who vow to create illusions and manipulate reality, creating lies instead of searching for the truth.
 -   Visionshapers made a vow to the Nestmind, the "Mother/father" of all owls.
 -   Despite having great powers of reality bending, all visionshapers are doomed to become food for the Nestmind.
--   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilites, also that you need to interact with her to get the oath.
+-   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilites, also that you need to interact with her to get the Oath.
 
 ### Starkindred
 
@@ -1853,7 +1851,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   The Maestros' was lost for some reason.
 -   Consumption
     -   A common trend in Deepwoken is being able to consume parts of living things to gain their power.
-        -   With Starkindred, you consume the blood of a Celestial to obtain the oath.
+        -   With Starkindred, you consume the blood of a Celestial to obtain the Oath.
         -   Pleeksty consumed a flower in the third layer, giving him a portion of Korilfiend's power.
         -   The First Prophet ate a piece of an unnamed Drowned God.
         -   There are lotuses found in Voidzones that give stat attributes when consumed as a potion.
@@ -1923,6 +1921,6 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   The writing of the Gideshu March is the earliest known event in Deepwoken with a confirmed date, as well as the only event with a confirmed date that took place prior to 1271, the year of the game's release.
 -   Ragoozer likes using anagrams to drop lore hints. An example of this would be Nilsa being an anagram of Alsin.
--   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there were so few oaths at the beginning of the game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
+-   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there were so few Oaths at the beginning of the game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
 
 Talking Mudskippers

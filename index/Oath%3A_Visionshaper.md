@@ -1,0 +1,79 @@
+---
+title: "Oath: Visionshaper"
+revid: 67182
+source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Oaths]
+---
+
+# Oath: Visionshaper
+
+| Oath: Visionshaper | |
+|---|---|
+| oath_req | 50 Charisma, Completing the Aelita event, One Dark Feather |
+| effects | +1 Support Mantra, +2 Combat Mantra |
+
+“ We Owls find man to be capable of... Suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”
+
+― The Nestmind
+
+## Description
+
+**[Oath](Oaths.md): Visionshaper** is one of the 10 obtainable Oaths in _Deepwoken_. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
+
+## Obtainment
+
+-   Meet the following requirements:
+    -   Have 50 [charisma](Attributes.md)
+    -   Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once
+    -   Have a Dark Feather in your possession
+-   Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
+-   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void will send you to Layer 2, and refusing to become the [Nestmind](The_Nestmind.md)'s food will wipe you.
+
+To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills. There's also one talent available throught talent hands.
+
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=MXBJfraH_cI)._
+
+## Abilities
+
+-   **Illusory Servants - Combat Mantra**
+    -   Spawns an illusion of yourself that targets the closest enemy.
+    -   Only they and yourself can see it.
+    -   Clones disappear if caster is hit.
+    -   Duration scale with your progress of the Visionshaper Oath.
+    -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
+    -   The clone deals fake damage, 3/4 of which is recovered when the duration expires (think of it doing 25% real damage), unless in the **Illusionary Realm**, in which case it will deal real damage.
+    -   Clones do apply hitstun, allowing one to trip up enemies and possibly fail parries.
+    -   This mantra is similar to lightning clones, although it works slightly different in execution.
+-   **Illusionary Realm - Support Mantra**
+    -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds 40 if 3 eternal and aeon logstones.
+        -   Cooldown is 2 minutes and 40 seconds.
+    -   Monsters such as crabs, and carbuncles can be stored in the realm.
+    -   The realm can be used as a healing space, where you can place campfire, graceful flame or warriors respite.
+    -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
+        -   Players cannot be knocked in the realm.
+    -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordindly when the realm end).
+-   **Illusionary Counter** **\- Combat Mantra**
+    -   Do a pose. If hit during the pose, negate the attacks and teleports the attacker behind the user. This can be extended with mantra modifications.
+        -   If the attacker has the Disbelief talent, the attacker and and user swap place instead.
+    -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
+    -   Active frames are larger while in the Illusionary Realm.
+    -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
+-   **Mirage From the Deep - Passive**
+    -   While in the **Illusionary Realm**, press X to leave early. This will cost ?? HP(Tested with 478 hp character, it only cost 4% HP when i had full health) and leave the victim with monsters from The Depths for the remaining duration.
+    -   The monster can be any of the monsters that spawn in the Depths
+-   **Cheap Trick - Passive**
+    -   When dropping below 50% health, turn invisible and summon an Illusionary Servant that follow the same rules as the active one summoned by the mantra **Illusory Servants**.
+
+The following talent is obtained by leveling up after obtaining and maxing out Visionshaper.
+
+-   **Vanishing Closure - \[Rare talent, Visionshaper\]**
+    -   Become invisible for 2.5 seconds whenever you knock an enemy. This invisibility grants iframes.
+
+## Effects
+
+This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appearance, it changes the eye color of the Oath taker to purple and creates a wispy ethereal particle effect which stems from the user's right eye.
+
+## Notes
+
+-   The Mental Fortress Talent Disbelief only affects illusionary servants, reducing the amount of time they last dramatically.

@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 63598
+revid: 67229
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]
@@ -28,7 +28,7 @@ It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md).
 
 The Docks is what greets you after the highway. It has a guard and a shipwright.
 
-To the right of the Docks, the NPC for the [Oathless](Oaths.md#oath-oathless) quest is in a cave.
+To the right of the Docks, the NPC for the [Oathless](Oath%253A_Oathless.md) [Oath](Oaths.md) quest is in a cave.
 
 Miner's Landing's Docks.
 
@@ -42,7 +42,7 @@ Mystic in Miner's Landing
 
 The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, Antiquarian, Inn, and an unnamed building containing a Celtor named Parsnip. A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town. There's a bank where you can turn in [artifacts](Artifacts.md) and buy the [Ignition Union Uniform](Ignition_Union_Uniform.md) for 50 notes.
 
-Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder Oath](Oaths.md#oatharcwarder). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
+Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
 
 You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy Cloth, Fiber, an Axe, and Pickaxe.
 
@@ -77,9 +77,9 @@ Miner's Landing contains a variety of locations containing chests. These chests 
 
 #### Alpha's Quest
 
-_Main Page: [Arcwarder Oath](Oaths.md#arcwarder)_
+_Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 
--   After finishing Alpha's questline, talk to Delta to receive the Arcwarder Oath.
+-   After finishing Alpha's questline, talk to Delta to receive the Arcwarder [Oath](Oaths.md).
 
 #### Ironsing Quest
 

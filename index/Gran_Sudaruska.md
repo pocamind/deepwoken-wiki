@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 66406
+revid: 67210
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -34,12 +34,12 @@ notices:
 
 ## Description
 
-Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 3. It does 23.5 base damage and has a swing speed of 0.62x.
+Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 3. It does 23.5 base damage and has a swing speed of 0.62x. It is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
 This weapon has 2 (or 3 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
--   When killing a player with the [Contractor](Oaths.md#contractor) or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
+-   When killing a player with Oath: Contractor or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
 -   If the user have the talent Glass Path: Crystallization, landing a hit will apply a singular crystal. If there's already a crystal present from this ability, then no further crystal will be applied.
 
 ## Trivia
@@ -65,8 +65,9 @@ This weapon has 2 (or 3 with a talent) passives abilities:
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
     -   Probably a reference to Lucy from Don't Starve
 -   The runes on the blade are Elder Furthark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
--   Unable to be equipped by people with Oath: Contractor.
-    -   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry and it would just be... extremely ironic to use it.
-    -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
+
+-   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry and it would just be... extremely ironic to use it.
+-   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
+
 -   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
 -   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.

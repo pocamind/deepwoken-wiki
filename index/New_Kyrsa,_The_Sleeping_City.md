@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 66967
+revid: 67236
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -29,7 +29,7 @@ New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located i
 
 _Escape Guide: [New Kyrsa (F2)](Second_Layer.md#new-kyrsa-f2)_
 
-New Kyrsa contains a lot of pink glowing chests, named Medallion chests. They contain 5-7 **Kyrsan Medallions**, which you can exchange for dyes, Enchantment Stones, [Enchanted armors](Enchantments.md#equipments), **[Knowledge](Knowledge.md)**, or the [Dawnwalker Oath](Oaths.md#dawnwalker). Defeating enemies can grant chests, with loot from Second Layer loot pool.
+New Kyrsa contains a lot of pink glowing chests, named Medallion chests. They contain 5-7 **Kyrsan Medallions**, which you can exchange for dyes, Enchantment Stones, [Enchanted armors](Enchantments.md#equipments), [Knowledge](Knowledge.md), or the [Dawnwalker](Oath%253A_Dawnwalker.md) [Oath](Oaths.md). Defeating enemies can grant chests, with loot from Second Layer loot pool.
 
 In order to escape New Kyrsa, you must activate all 5 Obelisks and defeat [Scion of Ethiron](Scion_of_Ethiron.md). Along with that, you have 45 minutes to activate all Obelisks. On the first and second 15 minute mark, you will be sent to the start with all Obelisks still activated. When the time is up, you die instantly. This timer is tracked by the Old Diver Watch you gain upon entering. After activating all the Obelisks, time will halt and you may freely explore the floor without dying.
 

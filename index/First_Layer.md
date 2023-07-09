@@ -1,14 +1,12 @@
 ---
 title: First Layer
-revid: 67077
+revid: 67205
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
 ---
 
 # First Layer
-
-Template:Location2
 
 ## Overview
 
@@ -144,11 +142,11 @@ Just some information to keep in mind and remember.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (100). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
 
-### **[Visionshaper](Oaths.md)**
+### **[Oath: Visionshaper](Oath%253A_Visionshaper.md)**
 
 Deep down in the Depths, you can find a secret room located near the Deep Widow. Here, there is a man who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
-When initially obtaining this oath, the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
+When initially obtaining this [Oath](Oaths.md), the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level; however, most Visionshaper mantras and abilities scale off of Charisma.

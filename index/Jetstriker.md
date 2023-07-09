@@ -1,6 +1,6 @@
 ---
 title: Jetstriker
-revid: 44200
+revid: 67194
 source: https://deepwoken.fandom.com/wiki/Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oaths#Oath: Jetstriker](Oaths.md#oath-jetstriker)
+-   [Oath: Jetstriker](Oath%253A_Jetstriker.md)

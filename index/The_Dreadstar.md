@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 65712
+revid: 67240
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Oaths]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, NPCs, Oaths]
 
 File:DreadstarAEhfa.png
 
-**The Dreadstar** is a NPC that appears in the [Beloved Zofia](Beloved_Zofia.md). It is one of the main pillars for obtaining the **[Silentheart Oath](Oaths.md#silentheart),** being the main quest giver for it.
+**The Dreadstar** is a NPC that appears in the [Beloved Zofia](Beloved_Zofia.md). It is one of the main pillars for obtaining the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md)**,** being the main quest giver for it.
 
 It has an appearance similar to the shrine of [Yun'Shul, The Keeper Of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>). The Dreadstar displays hatred and disgust for the Song and its usage, being a pivotal part of obtaining Silentheart and inviting others on its path for revenge against Song users.
 

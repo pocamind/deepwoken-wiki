@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 66478
+revid: 67204
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -107,6 +107,7 @@ In terms of strategy to avoid his attacks as much as possible;
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
 -   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage. But Vampirism makes it safer.
 -   You must STAY ALIVE atleast above 70% during the first phase because his Shield not only prevents him from taking damage, but if you are knocked out and he is ready to kill you, you cannot be saved since his Shield blocks and parries every attack and any players who try to save you will have their attacks parried.
+-   If you crouch behind him and pull your weapon, he will start the battle before you talk to him.
 
 ### Phases
 
@@ -216,7 +217,7 @@ Duke: You're right, there's no reasoning with a monster like you. For Lumen's sa
 
 1: \[End Dialogue\]
 
-This dialogue is only obtainable through having the [Contractor](Oaths.md) Oath.
+This dialogue is only obtainable through having the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
 ## Trivia
 

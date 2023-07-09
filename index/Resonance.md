@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 66989
+revid: 67202
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -186,7 +186,7 @@ _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a ge
 
 -   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other (arguably smarter) players would instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md), and is recommended if you wish to preserve the life of your character.** By participating in "bell checking", you effectively tear up and trash this sacred gift for the tradeoff of having your bell earlier. _Will it be worth it?_
 
--   The only time you should logically do bell checking is if your build absolutely requires it, such as striving for the Contractor oath - given that you cannot obtain the oath without having a Resonance.
+-   The only time you should logically do bell checking is if your build absolutely requires it, such as striving for [Oath: Contractor](Oath%253A_Contractor.md) - given that you cannot obtain the [Oath](Oaths.md) without having a Resonance.
 
 File:Image of Card Selection.png
 
