@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 66958
+revid: 67323
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -900,3 +900,4 @@ Frost Buster
 -   Frostdraw has the second-most mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the second-most mantras out of all attunements, only second to Ironsing..
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
+-   The "Ice Eruption" mantra MIGHT be a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.

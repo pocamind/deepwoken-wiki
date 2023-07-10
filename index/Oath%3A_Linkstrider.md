@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 67272
+revid: 67321
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,7 +23,7 @@ categories: [Oaths]
 
 ## Obtainment
 
-1.  Get 4 different players with Oaths (have to be different accounts, only 2 of each oath can be used.)
+1.  Get 4 different players with Oaths
 2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
 3.  Knock all 4 players
 4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
