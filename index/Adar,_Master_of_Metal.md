@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 67067
+revid: 67299
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -19,7 +19,7 @@ notices:
 
 Adar is an NPC who acts as the Ironsing trainer.
 
-In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md). If you have obtained the [Silentheart](Oaths.md) oath, you can't fight Adar. Instead he will say, "Huh? What're you giving me that look for?". They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
+In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md). If you have obtained the [Silentheart](Oath%253A_Silentheart.md) oath, you can't fight Adar. Instead he will say, "Huh? What're you giving me that look for?". They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
@@ -102,6 +102,20 @@ Adar: Ah, do you have need of a little teaching on Ironsing?
 1.  Yes, I do.
 
 _(No Mantras/Fully upgraded)_ Adar: Hmm. you look all good to me. Nothing to improve on right now.
+
+1.  \[End Dialogue\]
+
+(_With Mantras)_ Adar: What did you wanna focus on?
+
+1.  (mantras)
+
+Adar: Oh yeah, I can see room for improvement. If you fund my research a bit I can give you some pointers. How does 100 Notes sound?
+
+1.  Could you give me some pointers?
+
+Adar: That's it. you've nailed it!
+
+1.  \[End Dialogue\]
 
   
 

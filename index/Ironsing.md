@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 66588
+revid: 67305
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -73,12 +73,12 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Throws 10 caltrops upon use, which stays on the ground for a while even if missed (Much like Gale Trap). Goes through block(**and your character!**) if casted closely to target. May be blocked or even parried of the ground. Has the potential to apply many iron rods. |
+ | Sharp metal traps. | 50 Ether | Throws 10 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if casted closely to target. May be blocked or even parried of the ground. Has the potential to apply many iron rods. |
 |  | Firing Line
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target. You cannot use other Mantras during its duration however you can M1 while this is active.
+ | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target, immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target. You cannot use other Mantras during its duration however you can M1 while this is active.
 
 Drift and Rush Shards do not increase the firing speed or projectile speed.
 

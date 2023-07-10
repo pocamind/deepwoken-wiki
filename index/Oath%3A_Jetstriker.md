@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 67282
+revid: 67293
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,7 +24,7 @@ categories: [Oaths]
 ## Obtainment
 
 1.  Have at least 50 Agility.
-2.  Talk to Alirian at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
+2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
@@ -46,7 +46,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         -   A visual indicator representing maximum momentum is represented by a white outline around the character.
 -   **Vigil's Grace - Passive**
     -   Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+3 Ether, +2 Posture)
-        -   When using Vigil's Grace, you become briefly invisible during the start of a running attacks, and they become omnidirectional (you are no longer locked at aiming forward). The resulting running attack will also apply hard knockdown instead of pushing back (like a heavy weapon crit).
+        -   When using Vigil's Grace, you become briefly invisible during the start of a running attacks, and they become omnidirectional (you are no longer locked at aiming forward). The resulting running attack will also apply hard knockdown instead of pushing back (like a heavy weapon crit). When Vigil's Grace is activated, you gain 10% more DMG with running attacks (stacks with Spinning Swordsman).
 
 -   **Stratos Step - Passive**
     -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
