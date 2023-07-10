@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 67205
+revid: 67329
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -91,7 +91,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
--   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist. This can also apply to other mobs in the trial such as the Enforcer.
+-   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
     -   This will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players randomly butting or tagging along in the cathedral's elevator, especially if they have set a trap for you to fight not one but two corrupted Trial monsters.
         -   It is also advised to also know the risks of fighting a corrupted monster in the trial, and there is no turning back (unless you glitch out) once they spawn in. **Fight or wipe.**

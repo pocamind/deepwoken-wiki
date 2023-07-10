@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 67322
+revid: 67328
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -48,7 +48,7 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator), but allows you to get the [Herbivore and Iron Gut Talents](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct) at 10 FTD. | 1 |
 | Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a tiny amount of hunger (2-3%) when gripping NPCs or other players. | 1 |
 | Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching. | 1 |
-| Homophobia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
+| Hemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. The reduced regeneration is a flat number, meaning this flaw is more damaging at low Tempo and less at high Tempo | 1 |
 | Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
 -   Gremor's who are blind see better than others, being blessed by Navae.

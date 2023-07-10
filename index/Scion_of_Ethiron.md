@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 66840
+revid: 67330
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -45,7 +45,7 @@ File:Blinding Gale.gif
 File:Bone Toss.gif
 
  | ◯ | ◯ | ✗ | (★☆☆) |
-| Vehemens Ventus | The Scion of Ethiron will hold its hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses some variants of [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md) still work. Can be consistently parried, or blocked with Hoplite + Paths Defender. | 
+| Vehemens Ventus | The Scion of Ethiron will hold its hands together and charge up a powerful attack for roughly 10 seconds. Once it releases the attack, a large purple gale ball will be thrown in a random player's direction. Deals very high posture damage and very high damage, **enough to kill in 3 seconds**. This attack can be cancelled if you're in a group by m1ing three small gale balls that will be located around the first floor. If you're solo you won't have enough time to cancel it. Bypasses some variants of [Payback](Payback.md), however [Portals](Portals.md) and [Run It Back](Run_It_Back.md), though it will be cancelled after a brief moment due to the amount of hits, will still work. Can be consistently parried, or blocked with Hoplite + Paths Defender. | 
 
 File:Ethi ult.gif
 
