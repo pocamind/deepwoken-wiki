@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 67177
+revid: 67318
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -61,20 +61,20 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
   <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire.<br>
-  Lava Serpent will create an explosion instead of creating a fire - doesn't proc on yourself.</p></div></td>
+  Lava Serpent will create an explosion instead of creating a fire; doesn't proc on yourself.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown). If the user has Crystallization, apply an ice crystal. (It has no cooldown of proccing crystal)</p></div></td>
+  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown). If the user has Crystallization, apply an ice crystal. (It has no cooldown of proccing crystal). In PvE this instead applies a Chill effect. The Chill effect applies a small damage increase even without the usage of any talents. Chilling does not proc Nullifying Clarity.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deals 1.1x damage.<br>
-  Weapon deals damage over time. The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
+  <td><div><p>Weapon deals 1.1x damage over time.<br>
+  The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -83,13 +83,13 @@ There are two variants that enchantments come in:
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
   times they explode, dealing 1.15x weapon damage to them and others around beside the user.<br>
-  <b>Explosion can execute.</b></p></div></td>
+  <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On proc, a pink string connecting the weapon and your target will appear, pulling the target towards you(Doesn't work on bullets).</p></div></td>
+  <td><div><p>On proc, a pink string connecting the weapon and your target will appear, pulling the target towards you (doesn't work with bullets).</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
-  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock. Boosts damage by 17.5% in the rain.<br>
+  <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
   In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 17.5%.</p>
   <p><br>
   </p></div></td>

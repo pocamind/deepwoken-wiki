@@ -1,12 +1,26 @@
 ---
 title: Mantra Modifiers
-revid: 67297
+revid: 67319
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
 ---
 
 # Mantra Modifiers
+
+_**\*\*\*FOREWORD**: **A spreadsheet for Mantras and their compatible Mantra Modifiers can be found [\[here\]](https://docs.google.com/spreadsheets/d/1yOOKJhihxX_1zvihTOwFVrm3XJpGFPnqJ5W53497LeI/edit#gid=0)**_
+
+Note: It’s likely that the spreadsheet is old as many of the modifiers do not work even though it says they do. It’s recommended you get mantra modifier from the deepwoken info discord.
+
+**Mantra Modifiers** are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
+
+There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will not receive the modifier back when an _Amnesiac Driftwood_ is used. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
+
+Heavily modified mantras will require [Note](Notes.md) offerings to be made. To see their prices and scaling, review [Mantra Table](Mantra_Lectern.md).
+
+Glass Stones and Magnifying Stones seem to have vastly different effects on mantras, ex: Glass Stone / Magnifying Stone
+
+Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correctly or as expected even if a Mantra is compatible.
 
 **Regular:**
 
@@ -1263,9 +1277,3 @@ File:Dark Blade with Tornado Spark.gif
 -   Revenge requires Drift/Rush Shards to reach further instead of Lens.
 -   Mantra modifying will not always cost notes.
 -   Longstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun). They will dissolve into black, but the duration will still be modified.
-
-  
-
-## No lol
-
-ads sdaasdwasdww w
