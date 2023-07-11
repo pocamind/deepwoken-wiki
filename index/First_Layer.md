@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 67329
+revid: 67405
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -274,3 +274,4 @@ Legendary = Gold
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   Scyphozia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile Scyphozia's main enemies are [Gigameds](Gigamed.md).
+-   The Meteor Event in the Depths can create any of the Depths monsters, and killing all of the Depths monsters it has spawned will reward you with four chests filled with high valuable loot.

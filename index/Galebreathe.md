@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 67333
+revid: 67394
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -275,7 +275,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 
  | 70 Ether | The user raises their left leg and stomps on the ground, summoning huge pillars of wind.
 
--   Requires you to have beaten duke before. Obtained from mantra hands afterwards.
+-   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Deals _possibly moderate-heavy_ damage.
 
  |  |
