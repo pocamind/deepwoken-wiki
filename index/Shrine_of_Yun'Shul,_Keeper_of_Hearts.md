@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 67214
+revid: 67377
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -10,7 +10,7 @@ categories: [Drowned Gods, NPCs, Layer 1]
 
 “ P̵̟̄̈́̈́̃͆Ḽ̸͔͎̙͚̮̝̉͆̃̅Ù̴͎͎̅͑͂C̸̟̏ͅK̴͚̖̽̓͊͘ ̷̫͈̭͍͚̥̖̈̊Ỏ̸̙͔̮͂̓͛̆̔͑Ù̸̞̙̟̪̂̓̓̂͝T̴̨̼͉̫̤͕̙̋ ̷̡̛̞̑͒̐͗͋Ț̴̥̘̔̐̊̈̀̒͝H̸͇͓̲͂Ī̴̻͉̮̫̖̤̇́N̴̨̳̟̺̈́ͅȨ̸̼͎̰̫̗͍̍ ̴͚̠̮̮͎̯̂̄̍̒͂̒͝É̷̛͍̺͉̜̻̂̑̌Y̸̦̻̏͊Ẽ̵̮̞̖͈̲S̴͇̘͈̐̈́͒;̶̢͔̿̏̒͝ ̸̧̛̭̗̭͎̬̏̾̓͠͝Ţ̶̪͂̑̀͘Ȩ̵͎͇͉͕̀̈́͊ͅĄ̵̻͖͉͖͙̆̑̌͊̋͝R̶̛̫͓̹̝̺̦̈̽́̇͂ ̶͖̗̹͚͓̎̄͘͜O̷͎̳̟̍̍Ȕ̶̧͊̒͋̈́͘Ṱ̴͈̒͂̄̅̇͌ ̷̻̟̙̹͛̀̈́̃̿T̵̢̫̮́̐́̂̕͜͠ͅH̵̪́̿̈I̸̡̝̭͕̥̥̓͘Ņ̷͇̺̤̈̽͊̄̆̀͑Ë̶͖̻́̓̉ ̸͕͚̫́̎̚͝ͅT̷̛̼͎̦̳̦̒͒̈́̏͋͝H̵̡̳̝̥̔̀̈́̍̓̑̆R̶̟̱̫̘̐̏͛̀̈́̍Ơ̶̫̟̪̟̹̞͈̔͌A̴̹͚͍̋̃͗̃͝͠T̴͓̰̭̤̘̻̄̍͝;̸͍̲̝̮̖͍̽͋̄ ̵̨̳̄͐͗́͗L̵̹̗̈́͜Ạ̶͌̾͒Y̴̪̏̀͒ͅ ̷̮͚͖͓̼͝W̵̢͓̆̆̇̂̈́Ä̶̼̺͉͈̩̜̪́̌̄̽̓Ŝ̶̻̯̜̮̭͑̉T̴̙̝̟̬̐̈́̀̍̇̕E̸̡̤̞̟̻̅͜ ̷͓͒̍͛̑̂̚͝Ṫ̶̠̳͕̈́̈́̄̉O̷̺̯̦̜̝̓̓̎̅̽͜͠ ̵̭̭͕̖̞̲̫̑̄̋́̈́̚A̶̙͋͛̀͋͐͑L̷̛̛͔͖͂͊̈́͘L̸̡̧̤̼͎̈́͛̿́̊́ ̵̧̟͈̼̭͈̏͒͂͌͠Ẁ̷̜̾̌͊̚H̸̠̹̒̉́I̵̙̲̰̽͛Ç̸̥̪͕̙̣͛͂̈̌̓͜͝H̸̞̎ ̴̢̢̛͍͍̯̙͆̍̆͗͝Ĭ̵̬͈̎̇̅̏̎̔S̷̝͛̐̈́ ̵̩̍̈́̿͊̓͘S̷̬̭͖̭͇̓̒͒̏͛̊A̷̫̫̱̦̐́̎̎͊́C̵͙̮̟̃R̶͈̥͍͉̃͐Ê̴̗͔̣͓̒͗D̶̢̢̺̤̹̼̪̈́͐͝;̶̨̯̥̱̥̬͒̾ ̴̨̫̥̤̥̦͓͑̌̇̈́̚͠T̴͎͖̊̽̈H̴̡̧͈̣̔͐̆̋͠E̶̮̮̝͛̐ ̶̖̲̜̺̈́M̸̨̲̯̮͋͝Ȏ̴͈̝̦̜̭̹̃O̵̧͆͋͘Ņ̸́̓͗S̵̛̗̘̘̐̇̀̀̉͝E̶̺͗̋̆͑̀Y̷̡̼̜͐͂͋̑̿͋̆Ḙ̷̫̫̐͌̊̓͑̋ ̶̧̰͖͇͛͒͑̋̓̇C̴̛̰̠͓̘̚Õ̵̟̮͔̟Ņ̴̫̱̭̯́͝ͅV̷̝͖̪͉͗̊͐͒̓̓͛ͅE̶̡̩̭͔͝Ř̴̥̋̇̂͆̑͘Ģ̷̢̮̯̖̈́̏̇̕E̴̮͆̃̐̌̑̈S̴̡̟͈̲̐̀̐͐̐́̚ ̵̝͍͇̯̞͐͛̎̄̈̍W̵̪̲̟̪͔͒̉̈́̒̈́͒͝I̵̡̫̒̔͝T̶̢̞̍Ḩ̸̮̳̳̫̮̙̌̓̈͠ ̷̧̡̫̥̞̬̜̏̐̽̆̅͐̋T̶̢̖̎̄̑̍Ḩ̸̘̪͉̩̍̚̕͜A̶͖̘͋͒͋̀̊̎͘T̸͈̦̉̓ ̷̛̼͑B̴̨͙̹̞͇̱̖̀̌͗̿̕E̴͕̦̓̎̊̓Ļ̶͔͉̝̥̹̖̅Ǫ̸̨͔̲̮̂̀̀̐̈͒ͅW̸̗͈͋̋͒.̴̯̱̮̰̥̅̅̒̈́̅̿ ”
 
-― Yun'Shul to the non-worthy
+― Yun'Shul to the unworthy
 
   
 
@@ -18,7 +18,7 @@ _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see
 
 ## Description
 
-The Shrine of Yun’Shul is a unique interactable object found in Scyphozia. It can grant players that wield a [Resonance](Resonance.md) wishes.
+The Shrine of Yun’Shul is a unique interactable shrine found in Scyphozia. It can grant players that wield a [Resonance](Resonance.md) wishes.
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the Oath.
 

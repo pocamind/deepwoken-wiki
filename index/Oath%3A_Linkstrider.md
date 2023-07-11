@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 67321
+revid: 67380
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,11 +23,17 @@ categories: [Oaths]
 
 ## Obtainment
 
-1.  Get 4 different players with Oaths
-2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
-3.  Knock all 4 players
-4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
-5.  Interact with the white orb that appears in the middle.
+1.  Entropy Catalyst Method:
+    1.  Get 4 different players with Oaths
+    2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
+    3.  Knock all 4 players
+    4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
+    5.  Interact with the white orb that appears in the middle.
+2.  Pristine Lotus Method:
+    1.  Collect 4 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
+    2.  Grip 4 different players that have different Oaths. (Further testing required if repeat accounts and Oaths can be used.)
+    3.  Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a Scarlet Lotus.
+    4.  Return 4 Scarlet Lotuses to [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 The only way to obtain each ability is to grip a oath haver, this however does not need to be done with The Entropy Catalyst, You get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain On the Third And finally Parasitic Leech on the forth grip.
 
@@ -42,7 +48,7 @@ The only way to obtain each ability is to grip a oath haver, this however does n
             3.  Ceres (Overlooking the path to the abandoned cabin below Etris, on a black rocky outcrop)
             4.  Europa (Near the Valley of Heroes)
             5.  Pallas (On the small bit of land by the miner's landing's gate)
-            6.  Fortuna (Above Erisor's Church)
+            6.  Fortuna (Above Erisore's Church)
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them, or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally or you're too far from the linked. This ability lets you activate 1 other ability depending on if the cord is connected to an ally or an enemy.
         -   Blue Cords (Allies) Gain a speed boost.
@@ -64,3 +70,4 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for a
 -   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
 -   Parasitic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
+-   A second method of obtainment has been added on the 10th of July's weekly update. Further testing is required.

@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 51026
+revid: 67366
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -28,8 +28,9 @@ You can easily get canteen at power level 1 if you know where to look: [https://
 
 ## **Trivia**
 
+-   You can also use a well to drink or refill your canteen.
+-   you can spawn with a canteen if you have tier 3 "advanced tools"
 -   The canteen is known by many as the red calabash.
--   You can fill the Canteen with ocean water, but don't do this unless if you have a purifying ring. Otherwise, you will throw up.
--   Contrary to popular belief, you do **not** need the Purifying Ring to drink water with the **Carnivore** talent.
--   You can fill three canteen with acid, it makes you vomit when you drink it.
+-   Collecting water from the ocean or acid can cause you to vomit unless you have a purifying ring equipped.
+-   Off topic but you won't really need a **Purifying Ring** if you have the **Carnivore talent** since it will replenish your thirst and hunger.
 -   [Serena](Serena.md) requests water.
