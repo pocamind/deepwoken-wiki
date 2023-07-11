@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 52956
+revid: 67381
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -24,22 +24,27 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 ## Contents
 
-#### [Fishing](Fishing.md) Shop
+### [Fishing](Fishing.md) Shop
 
 -   Players can purchase a Fishing Rod for and [Chum](Chum.md) for here.
 
-#### [Mantra Collector](Mantra_Collector.md)
+### [Mantra Collector](Mantra_Collector.md)
 
 -   Players can find Schnitzel who will purchase their [Mantra Modifiers](Mantra_Modifiers.md).
 
-#### Shipwright
+### Shipwright
 
 -   Players can find a Shipwright who can craft you [boats](Ships_&_Sailing.md) for notes and spawn your crafted boats.
     -   If you have low [Reputation](Reputation.md) with Etrea, he will refuse to craft or spawn your boats.
 
-#### Tools
+### Tools
 
 -   Players can purchase a [Repair Hammer](Repair_Hammer.md) for on the right side of the port.
+
+### Great Megalodaunt Rising Remembrance Shrine
+
+-   "May The Depths be merciful to the souls we lost on that dreadful day"
+    -   Using any Emote next to the shrine will summon [Destroyman III](Destroyman_III.md), he can be unsummoned by Emoting again.
 
 ## Potential Enemies
 

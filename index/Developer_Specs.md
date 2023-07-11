@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 64106
+revid: 67382
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -92,7 +92,7 @@ He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 
 -   Wears [Hive Leader's Garment](<Hive_Leader's_Garment.md>)
 
-They wear custom armor and a custom [outfit](<Hive_Leader's_Garment.md>) that allows them to cosplay as Scaramouche from the action-RPG _Genshin Imapct_, they also have the "[Life Weave](https://deepwoken.fandom.com/wiki/Enchantments#Specs)" enchant on their weapon and are able to conjure enchants. He also owns a [Heliodar](Heliodar.md).
+They wear custom armor and a custom [outfit](<Hive_Leader's_Garment.md>) that allows them to cosplay as Scaramouche from the action-RPG _Genshin Impact_, they also have the "[Life Weave](https://deepwoken.fandom.com/wiki/Enchantments#Specs)" enchant on their weapon and are able to conjure enchants. He also owns a [Heliodar](Heliodar.md).
 
 yayafino's Costume & a [Railblade](Railblade.md) enchanted with Life Weave
 
