@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 66409
+revid: 67354
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -66,6 +66,7 @@ The prices of Chili's items may vary from price to price.
     -   [Brigand's Cloak](<Brigand's_Cloak.md>)
     -   [Curseblood Pendant](Curseblood_Pendant.md)
     -   Dawn Scarf
+    -   [Delver's Duster](<Delver's_Duster.md>)
     -   Duelist's Mask
     -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)

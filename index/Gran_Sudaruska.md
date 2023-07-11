@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 67210
+revid: 67350
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -36,6 +36,8 @@ notices:
 
 Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 3. It does 23.5 base damage and has a swing speed of 0.62x. It is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
+The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it.
+
 This weapon has 2 (or 3 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
@@ -65,9 +67,9 @@ This weapon has 2 (or 3 with a talent) passives abilities:
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
     -   Probably a reference to Lucy from Don't Starve
 -   The runes on the blade are Elder Furthark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
-
+    -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
 -   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry and it would just be... extremely ironic to use it.
--   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
-
+    -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
+-   The critical works with Meteor Impact.
 -   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
 -   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.

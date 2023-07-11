@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 65786
+revid: 67339
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -170,7 +170,7 @@ OR
 
 ### General Trivia
 
-An individual who has crossed paths with The Meat Lord.
+Witherald lifting The Meat Lord
 
 -   Every fruit, more or less, has a real life counterpart.
     -   Redd = Orange

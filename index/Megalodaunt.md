@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 67155
+revid: 67352
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, In progress without reason, InProgressPages, Monsters]
@@ -238,7 +238,6 @@ Tacet Hug
 
  | The Alpha turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
 
--   Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tact drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale.
 -   **Autogrips**
 
  | ✗ | ✗ | ◯ | (★☆☆) |
@@ -246,7 +245,7 @@ Tacet Hug
 
 Tacet Drop Kick
 
- | Having received great training from the mighty god, Squid Hoss. The Alphas are also capable of tacet drop kicking the ever living fuck out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | ? | ? | ◯ | (★☆☆) |
+ | Having received great training from the mighty god, Squid Hoss, the Alphas are also capable of tacet drop kicking the life out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | ? | ? | ◯ | (★☆☆) |
 
 **Mechalodaunt:**
 
