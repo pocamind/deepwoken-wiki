@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 67265
+revid: 67427
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -225,7 +225,7 @@ _**"I enjoy mixing potions."**_
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
     -   Gain +20% damage and increased movement speed while the fire is active. Can be cancelled by dodging or being in water.
-    -   Generally dangerous to use without Pyromaniac.
+    -   Generally dangerous to use without Pyromania.
     -   Prerequisite: 25 Flamecharm
 
 -   Last Laugh \[Common Talent, Flamecharm Exclusive\] - Gain the ability to incinerate yourself. (+5 Elemental Intensity)

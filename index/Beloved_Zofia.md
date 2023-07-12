@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 67235
+revid: 67432
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
