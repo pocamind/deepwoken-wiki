@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 67393
+revid: 67409
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -71,3 +71,4 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for a
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
 -   Parasitic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
 -   A second method of obtainment has been added on the 10th of July's weekly update. Further testing is required.
+-   if you die with the flower you lose all of them even scarlet

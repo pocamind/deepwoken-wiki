@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 67157
+revid: 67415
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -75,7 +75,7 @@ Large and threatening fire based spells. Excels in crowd control and area denial
 -   Can be further upgraded with Azure Flame for even more damage
 -   Decent midrange presence
 -   Good pressure
--   Great at dealing LOT damage
+-   Great at dealing LOTS of damage
 
 ### [Thundercall Mantras](Thundercall.md)
 
@@ -94,7 +94,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
 -   Crystallization can be unlocked at 40 frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
 -   Typically used close/mid range.
--   Has a best mobility mantra "Ice Skate" because of its legendary modifier.
+-   Has a best mobility mantra "Ice Skate" because of its rare modifier.
 -   Works with most Spike Modifiers.
 -   Has small cooldowns.
 
@@ -143,7 +143,7 @@ Mantras you get by turning in monster parts to a NPC in Castle Light. To get the
 -   Enforcer -> Enforcer's Eye -> Enforcer Pull
 -   Mechalodaunt -> Broken Gatling Gun -> Mecha Gatling (Bullet Fury)
 
-All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs chill and will proc crystal if you have the path. This also goes for Mecha Gatling as if procs fire and \*MAY\* proc lava path
+All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs chill and will proc crystal if you have the path. This also goes for Mecha Gatling as it procs fire and will proc lava path if you have the path
 
 ### [Oath Mantras](Oaths.md)
 
