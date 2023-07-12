@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 67430
+revid: 67435
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -118,7 +118,7 @@ Cannot be modified for whatever reason. (No mantra ingredients work)
 
  | Create a lance, impale your opponent, and send them flying. | 35 Ether | After a small wind-up, user conjures an iron claw and dashes forward ragdoll's and knockback's the opponent. |
 
-**Mobility Mantras**
+### **Mobility Mantras**
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
