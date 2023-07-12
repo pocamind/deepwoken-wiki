@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 67435
+revid: 67530
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -389,5 +389,4 @@ Increased weapon range.
 -   Firing Line could be a reference to Oda Nobunaga from the Fate/Series, which her signature move is shooting a line of matchlock rifles towards her enemy.
 -   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore, Gold is the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect using Irithine gives a green particle effect but no boost using Erisore gives a blue particle effect but no boost as well.
--   Oxidizing rush is highly resembles Junker Queen's "Rampage" from Overwatch 2
--   Ironsing is most likely based on the Allomancy magic system from "Mistborn" by Brandon Sanderson
+-   Oxidizing rush highly resembles Junker Queen's "Rampage" from Overwatch 2.

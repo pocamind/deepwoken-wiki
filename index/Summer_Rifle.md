@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 65241
+revid: 67464
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Weapons, Rifles]
@@ -30,7 +30,7 @@ notices:
 
 ## Description
 
-The Summer Rifle is a Medium Weapon, part of the rifle category. It serves as an introduction to rifles, being the one with the lowest requirements (40 MED) and somewhat easy to acquire
+The Summer Rifle is a Medium Weapon, part of the rifle category. It serves as an introduction to rifles, being the one with the lowest requirements (40 MED) and is quite rare.
 
 The Summer Rifle have a base damage of 17 with 6 MED scaling. At 100 MED, it deals 27.2 damage.
 
