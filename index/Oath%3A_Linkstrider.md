@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 67409
+revid: 67531
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -56,8 +56,8 @@ The only way to obtain each ability is to grip a oath haver, this however does n
     -   **Symbiotic Sustain**
         -   If linked to an ally (signified by blue cord), lose 5% of your HP to restore 15% of the target's HP.
     -   **Parasitic Leech**
-        -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move. Different enemies give you different amounts of HP.
-            -   For example, Duke gives more HP than a mindless minion.
+        -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move. The amount of HP you get from Leech is a % of the targets total HP.
+            -   For example, Duke gives more HP than a mindless minion, Due to the Duke having a significantly higher Health Pool.
 
 ## Effects
 

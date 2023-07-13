@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 67350
+revid: 67553
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -73,3 +73,4 @@ This weapon has 2 (or 3 with a talent) passives abilities:
 -   The critical works with Meteor Impact.
 -   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
 -   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.
+-   Gran Sudaruska can be used one handed even if you don't have One Handed Training.

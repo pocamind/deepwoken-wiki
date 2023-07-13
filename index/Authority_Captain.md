@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 57370
+revid: 67555
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -62,3 +62,4 @@ An Authority Captain executes it's opponent after knocking them:
 -   This and the Authority Lieutenant are the only Authority Soldiers with completely unobscured faces.
 -   One of 2 enemies that utilizes the unobtainable "Glacial Shower" mantra.
 -   One of 3 enemies that utilizes the old "Ice Eruption" mantra.
+-   The Authority Captain has no chance of winning if it fights against the Hive Construct.

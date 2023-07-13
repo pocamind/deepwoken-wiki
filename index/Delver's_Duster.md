@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 67411
+revid: 67548
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Arms, Dusters]

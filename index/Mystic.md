@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 66907
+revid: 67552
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -25,7 +25,7 @@ This is a browser function, but all mainstream browsers should have it.
 
 ## Overview
 
-Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For 20 notes, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get cards from the correlating family of talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) talents. This interaction could be repeated infinite amount of times with sufficient amount of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose. Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances. They also cannot give Rare Talent Cards.
+Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For 20 notes, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get cards from the correlating family of talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) talents. This interaction could be repeated infinite amount of times with sufficient amount of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose. Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances. They also cannot give Rare Talent Cards, however they can be used to boost the odds of getting Rare Talent Cards with Shrine of Chance when trading rares.
 
 ## Dialogue
 
