@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 67276
+revid: 67572
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,8 +34,8 @@ categories: [Oaths]
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 
--   **Abaddon, Sinner of Ice,** at Starfield Veldt. (Grants Celestial Assault)
--   **Minos, Sinner of Flame,** right next to the inn at Summer Isle (Grants Sinister Halo)
+-   **Abaddon, Sinner of Ice,** at Starfield Veldt. (Grants Sinister Halo)
+-   **Minos, Sinner of Flame,** right next to the inn at Summer Isle (Grants Celestial Assault)
 -   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions. (Grants Ascension)
 
 You will get a mantra for each kill.
