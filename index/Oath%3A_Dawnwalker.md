@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 67320
+revid: 67588
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -58,8 +58,6 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 ## Notes
 
--   Just like Oathless, it has no stat requirements, although it does need you to go to the eternal gale for obtainment.+
--   This Oath is a colorful masterpiece however srdince its a oath that is locked inside of Layer 2 not to mention its also lacking in talents and mantra's and is a little bit predictable, you have to be semi-skilled at PvE to unlock it. If you lack said skill head over to Jetstriker like the rest of us.
 -   Radiant Kick may be inspired by the boss Minos Prime from _ULTRAKILL_, as it highly resembles his "Judgement!" attack.
     -   Similarly, Radiant Dawn may be inspired by Minos Prime's "Die!" or "Crush!" attack.
 

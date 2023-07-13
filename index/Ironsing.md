@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 67530
+revid: 67591
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -145,7 +145,7 @@ The height of the pillar will depend on what is above you.
 
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
-Can negate around 80% of fall damage.
+Can be upgraded with the "Intuitive Repairs" talent, which causes armor and natural armor to be restored during the mantra's duration. Can negate around 80% of fall damage.
 
 Does not negate deferred or fire damage.
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 67319
+revid: 67590
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -773,6 +773,17 @@ File:Rising Shdaow with Blast Spark.gif
 -   This modifier causes Rising Shadow to apply a status effect that massively increase mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra.
 
  |
+| 
+
+Needle Barrage
+
+ | 
+
+ |  | 
+
+-   This modifier causes the Needle Barrage mantra to fire more needles, but removing the initial jump. This version of the mantra also keeps your momentum.
+
+ |
 
 **Magnet Spark:**
 
@@ -1081,6 +1092,23 @@ File:Revenge with Reversal Spark.gif
  | 
 
 -   This modifier is compatible with the "Revenge" mantra, causing it to deal no damage.
+
+ |
+| 
+
+Fire Blade
+
+ | 
+
+600 × 478
+
+ | 
+
+600 × 428
+
+ | 
+
+-   This modifer disables Starkindred's effect on the Fire Blade mantra.
 
  |
 
