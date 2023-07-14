@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 65853
+revid: 67625
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -13,11 +13,11 @@ Template:Races-Main
 _Never seen without their masks.  
 Poorly understood, but begrudgingly appreciated due to their natural talents._
 
-Chance of obtaining race: **6.0%**
+Chance of obtaining race: **6.2%**
 
 ## Description
 
-Vesperians are described as a beetle themed race with organically grown masks and very dark skin. They are most commonly seen at Greathive Aratel mostly under ranked by fellow Ganymedes. Vesperians always start off with 2 Fortitude and Willpower as well as natural armor that regenerates when you rest.
+Vesperians are described as a beetle themed race with organically grown masks and very dark skin. They are most commonly seen at Greathive Aratel and are mostly under ranked by fellow Ganymedes. Vesperians always start off with 2 Fortitude and Willpower as well as natural armor that regenerates when you rest.
 
 ## Racial Traits
 
