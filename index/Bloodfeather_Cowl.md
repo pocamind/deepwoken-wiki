@@ -1,8 +1,9 @@
 ---
 title: Bloodfeather Cowl
-revid: 67597
+revid: 67601
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Helmets]
 ---
 
 # Bloodfeather Cowl

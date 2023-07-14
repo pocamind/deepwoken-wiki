@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 67418
+revid: 67599
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -52,7 +52,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 **Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
 
 -   Your starting location is in [Castle Light](Castle_Light.md), located in [The Depths](The_Depths.md).
--   **\[PRO\]** Increased EXP Gain while below power 15 in the Depths (Layer 1 and Layer 2 confirmed as of now).
+-   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
 -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
 -   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md), with the possibility of a [Nautilodaunt](Nautilodaunt.md).

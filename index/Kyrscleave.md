@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 66422
+revid: 67598
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -36,5 +36,5 @@ The Kyrscleave is a [Greatsword](Weapons.md) seemingly made of bones, capable of
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), **Kyrscleave**)
 -   Deals roughly 44.4 + 13.32 (BLEED) (For a total of 57.72) Damage at 100 Heavy.
 -   Kryscleave is possibly considered within the same category as Legendary weapons when it comes to matchmaking in Chime.
--   A direct upgrade from a [Cresent Cleaver](Crescent_Cleaver.md).
+-   A direct upgrade from a [Cresent Cleaver](Crescent_Cleaver.md) and a sidegrade to the alloyed version of the aforementioned weapon.
 -   Its critical attack, as well as the Crescent Cleaver, is probably a reference to Shadow Fight 3's Shadow Ability; "Vane" as both share similar animations.
