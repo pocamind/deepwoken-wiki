@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 67427
+revid: 67609
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2070,11 +2070,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
     -   Prerequisite: Thundercall with [Power](Power.md) 1 (1 Thundercall) or obtain from Thundercall trainer (Funke)
-
-### Toxic Personality
-
--   Manipulator \[Common Talent\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
-    -   Prerequisite: Charismatic Cast, 65 Charisma
 
 ### Trickster
 

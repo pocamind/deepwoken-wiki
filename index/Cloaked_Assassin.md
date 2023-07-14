@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 66866
+revid: 67614
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -39,3 +39,9 @@ A Cloaked Assassin executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent before slicing their throat with their blade. |
+
+## Tips
+
+-   If you can't defeat them while they are grouped together, try to take them on one at a time. Cloaked assassins are highly deadly when they are out in numbers.
+-   They are tanky and have a lot of health then the [Knife of Eylis](Knife_of_Eylis.md) (This needs more infomation just to comfirm)
+-   They are very deadly to players that not lvl 10.

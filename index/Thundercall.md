@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 65779
+revid: 67612
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -1093,7 +1093,7 @@ Your lightning attacks in water strike others near them with lightning
 
 ## Trivia/Notes
 
--   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invigorating Salves with 3x gobletto and 1x wheat that make your ether regen skyrocket.
+-   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invigorating Salves with 2-3x wheat that make your ether regen skyrocket.
 -   Thundercall has the longest range out of all the Elements.
 -   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissipating after being hit by friend, foe and self.

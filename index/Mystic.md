@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 67552
+revid: 67622
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -37,7 +37,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   _I stand far above others, an insurmountable challenge. **(Colossus) (Note; Cannot give Destructive Recovery)**_
 -   _I seek the qualities of Annihilator. **(Collapsed Lung)**_
--   _My attack is unstoppable. **(Raging Bull) (Note; Cannot give Bulldozer)**_
+-   _My attack is unstoppable. **(Raging Bull) (Note; Cannot give Bulldozer) (Note; It's literally the only talent in this tree that's bs)**_
 
 ### Fortitude
 

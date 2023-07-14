@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 67405
+revid: 67619
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -263,6 +263,7 @@ Legendary = Gold
 -   If you are aware that a monster cannot be defeated, avoid engaging it in the first place. Be aware of what you can and cannot kill.
 -   Avoid Deep Owls at all costs because they can wipe a player who isn't strong enough to take them on. If you see dark feathers in a path, just avoid it and play it safe.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider while your character is shivering or scratching, you may fall off the Glider.
+-   Corrupt Monsters offer a chance-reward situation. Remember that they have doubled health and damage, so you must fight them at your own risk. If you are unable to fight corrupt monsters, stay away from them.
 
 ## Trivia
 

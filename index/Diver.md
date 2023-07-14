@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 65171
+revid: 67616
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies]
@@ -74,3 +74,5 @@ A Diver executes it's opponent after knocking them:
 ## Trivia
 
 -   Despite being completely identical to [Apprentice Divers](Apprentice_Diver.md) and wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) armor, they are classed as a higher rank.
+-   Depending on what Monsters they will fight if it a [Lionfish](Lionfish.md) they lose 100% of the time.
+-   If they fight against a Alpha [Megalodaunt](Megalodaunt.md) they will lose a lot of the time.

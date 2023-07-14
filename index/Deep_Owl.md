@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 67212
+revid: 67618
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -110,5 +110,6 @@ It is said by The Nestmind that visionshapers in a point of their life tries to 
 -   (Probably) Unintentional, Resemble Owlbears from Dungeons and Dragons
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
 -   Used to be commonly called "Tyrone" in the earlier days of Deepwoken.
+-   Deep Owls are hostile to [Stone Knight](Stone_Knight.md), [Rock Golem](Rock_Golem.md), [Golem Constructs](Hive_Construct.md).
 
 1.  [↑](#cite-ref-1) [\[1\]](https://www.youtube.com/watch?v=J9OIBuv2Tl4)
