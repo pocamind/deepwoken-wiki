@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 67317
+revid: 67658
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -750,13 +750,13 @@ Azure Flames
     -   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
     -   The "Fire Gun" mantra is most likely a nod to "Higan", one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece**.
     -   The "Flame Blind" mantra is most likely a reference to the Valorant character Phoenix's blinding move.
--   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX, but did not push either the enemy or the user into the air.
+-   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "_Meteor Impact"_ on another Flamecharm user who also has the talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
 -   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of Denial" mantra which can restore some sanity upon use, while also allowing you to not die.
     -   The Graceful Flame can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
--   The Flamecharm attunement can be used to burn multiple knocked enemies at once, and is extremely useful in PVE or in Ganks/Guild wars.
--   The "Graceful Flame" mantra does not allow anyone to cook food, regardless of it's Level.
--   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in mid air, but expect fall damage upon use.
+-   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
+-   The "Graceful Flame" mantra does not allow anyone to cook food, regardless of its Level.
+-   The "Flame Leap" mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
 -   Flamecharm is the only attunement that can benefit it's [Hero Blade](Hero_Blades.md) as it has something akin to an insta-grip.
 -   The "Flame Leap" mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
 -   Flamecharm's **Burn** damage scales off Elemental intensity, Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.

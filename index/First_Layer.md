@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 67619
+revid: 67634
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map]
@@ -110,7 +110,7 @@ Scyphozia, being a naturally hostile location, is especially difficult to surviv
 -   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (if you have the Vegetarian flaw, you can't roll this talent at all) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stats you need for this card to show up are **5 Willpower** and **5 Strength**.
 -   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 -   _**Giantslayer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfish and Crabs. Obtained with Willpower, tested with a pure Willpower build.
--   _**[Blindseer Oath](Oaths.md)**_, an Oath obtainable through high Willpower and obtaining all 3 **Mental Fortress** cards, will allow somebody to survive Layer One without killing an enemy for over an hour. The Mental Fortress Talents help significantly in the depths.
+-   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through high Willpower and obtaining all 3 **Mental Fortress** cards, will allow somebody to survive Layer One without killing an enemy for over an hour. The Mental Fortress Talents help significantly in the depths.
 -   **Damage Up** equipment with stat modifiers usually have a form of damage % bonus against monsters will be useful.
 
 ### **Tips and Tricks**
@@ -119,7 +119,7 @@ Just some information to keep in mind and remember.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allow you to stay 30 seconds before losing it. You can last approximately 40 minutes before your character kills themselves. Willpower, talents and certain equipment grant you extra sanity, letting you stay much longer.
     -   Consider being or having a friend using Flamecharm to cast Graceful Flame (requires Undying Flame talent to cast in The Depths). The talent basically allows you to stay forever in First Layer, as sitting near a campfire restores sanity. Do note that Lockers in the [Diver Camp](<Diver's_Camp.md>) and Castle Light do not restore sanity.
-    -   [Blindseer](Oaths.md) most likely doubles or even triples the time you can stay in the Depths.
+    -   [Blindseer](Oath%253A_Blindseer.md) most likely doubles or even triples the time you can stay in the Depths.
 -   _**Corrupted Monsters**_ are the juiciest part of Depths Farming. Identified by the purple haze/mist surrounding them, these mobs act like their regular counterparts but have 3x HP and 2x damage. These grant [Chests](Chests_&_Sacks.md) with even better high tier/endgame loot and also used to grant [Luck](Luck.md) when defeated which is a removed mechanic.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the talent undying flame), you might want to consider bringing _**healing potions**_.

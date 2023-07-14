@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 67616
+revid: 67653
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies]
@@ -70,6 +70,10 @@ A Diver executes it's opponent after knocking them:
 \[[Iron Birch](Iron_Birch.md)\] Raises axe before firmly slamming it down, splitting the opponent's head open.
 
  |
+
+## Tips
+
+-   There's hardly much to say, but if you do fight them, parry first before launching a critical strike.
 
 ## Trivia
 

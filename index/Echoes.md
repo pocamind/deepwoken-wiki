@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 67443
+revid: 67642
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -30,7 +30,8 @@ Ranks by themself do nothing, beside rank W, S and A that give a badge and, in t
 
 | Rank | Echoes Amount |
 | --- | --- |
-| S | 140 |
+| W | All echo tasks + All echo modifiers |
+| S | All echo tasks |
 | A | 100-139 |
 | B | ??-99 |
 | C |  |
@@ -46,7 +47,6 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Gaining [Power](Power.md), awarding 0.75 Echoes (rounded) per Power level.
 -   Crafting a [Food](Food.md) item at a campfire, awarding 1 Echo.
 -   Catching a [Fish](Fishing.md), awarding 1 Echo. (Doesn't actually need to be a Fish, you just have to catch something with a Fishing Rod)
--   Modifying a [Mantra](Mantras.md), awarding 1 Echo. The mantra modification does not have to be successful for this to work; incompatible modifiers still award the echo.
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 67428
+revid: 67661
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -34,7 +34,7 @@ Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Belo
 ## Effects
 
 -   10% mantra resistance.
--   10% more damage on your weapon.
+-   10% more weapon damage.
 -   Entirely lose access to mantras, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
 -   Attunements are unable to be used or obtained.
 -   You gain red veins coursing over your arm and torso.
@@ -42,9 +42,9 @@ Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Belo
 
 ## Upgrading
 
-This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding [Adar](Adar,_Master_of_Metal.md) and Regek).
+This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding [Adar](Adar,_Master_of_Metal.md), Regek, and [Beatra](Beatra.md)).
 
-This can be done in any order, however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md) and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md) and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
 ## Abilities
 
@@ -54,7 +54,7 @@ This can be done in any order, however, the recommended order is [Nell](Nell,_Ma
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
     -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.
-        -   Stacks of dread are represented as an halo that grows from your chest. Each stacks makes the halo larger and raise your elemental resistance.
+        -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your elemental resistance.
         -   Each stack of dread grant ?% mantra resistance and can be stacked up to ? times.
 -   **Lodestar - Passive**
     -   Parrying a Mantra will temporarily silence the caster of that Mantra, disabling them from using Mantras for a short amount of time.
@@ -80,6 +80,6 @@ This can be done in any order, however, the recommended order is [Nell](Nell,_Ma
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed.
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
--   The Ironsing Trainer, Adar, and the Attunementless Trainer, Regek, cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This is likely due to the fact they they do not "abuse" the song like the other attunement trainers.
--   A very strong oath, it alters the playstyle of the game however.
+-   The Ironsing Trainer, Adar, and the Attunementless Trainer, Regek, cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This is likely due to the fact they do not "abuse" the song like the other attunement trainers.
+-   A very strong oath, it alters the playstyle of the game, however.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
