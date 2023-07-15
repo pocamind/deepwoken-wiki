@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 65322
+revid: 67687
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -32,4 +32,4 @@ categories: [Weapons, Fists]
 ## Notes
 
 -   Best cestus for early game.
--   Duke Erisia uses this weapon
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) uses this weapon.

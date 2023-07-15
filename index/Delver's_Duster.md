@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 67548
+revid: 67690
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Arms, Dusters]
@@ -16,7 +16,7 @@ notices:
 | rarity | Mythic |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | 10 Health3 Pips |
+| innate stats | 5 Health3 Pips |
 | innate talent | Braced CollapseGraceful Landing |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,20 +1,21 @@
 ---
 title: Celtor Commander Helm
-revid: 67154
+revid: 67692
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Armors]
+categories: [Armors]
 ---
 
 # Celtor Commander Helm
 
+Template:EquipmentStats
+
 ## Description
 
-**Celtor Helm** is an accessory under the "Helmet" category.
+The Celtor Commander Helm is an item under the _helmet_ category. The talent [Grasp on Reality](Talents.md) reduces insanity damage taken.
 
 ## Trivia
 
--   File:Celtor commander helm.png
+-   Helmet When Dyed White
     
-    Bucket helm
--   Drops from layer 1 (very rare) layer 2 also drops from duke chest extremely rare
+    When this helmet is dyed the interior part of the helmet will glow whichever color it was dyed.

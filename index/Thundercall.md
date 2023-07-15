@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 67612
+revid: 67689
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -1099,7 +1099,7 @@ Your lightning attacks in water strike others near them with lightning
 -   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissipating after being hit by friend, foe and self.
 -   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
 -   Static Fakeout can be used with Spine Cutter.
--   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
+-   The Mantra _**Grand Javelin**_ is very similar to Byakuren Hijiri's move "Virudhaka's Sword" from Touhou 15.5 "Antinomy of Common Flowers", and they share the same sound effects.
 -   In Deepwoken testing, Thundercall used to be blue instead of yellow.
 -   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
