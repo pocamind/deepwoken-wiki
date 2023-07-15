@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 67588
+revid: 67759
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -56,9 +56,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye color of the user to white and creates a [Moonseye](Lore.md) symbol above their head, with a disk spinning around its axis.
 
-## Notes
+## Trivia
 
+-   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   Radiant Kick may be inspired by the boss Minos Prime from _ULTRAKILL_, as it highly resembles his "Judgement!" attack.
     -   Similarly, Radiant Dawn may be inspired by Minos Prime's "Die!" or "Crush!" attack.
-
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses radiant magic which is a form of [Lightkeeping](Lightkeep.md).

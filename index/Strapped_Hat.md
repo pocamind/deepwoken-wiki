@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 67731
+revid: 67734
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -26,7 +26,3 @@ categories: [Helmets, Items]
 ## Description
 
 The Strapped Hat is an Equipment Armor in the Helmet category_._ Equipping this item will give you 3 health, And the innate talent The Exterminator, as well as extra randomized stats based on the amount of pips.
-
-## Notes
-
-(If anybody knows how to set up multiple images in the info box that would be great remove this after that's been done.)

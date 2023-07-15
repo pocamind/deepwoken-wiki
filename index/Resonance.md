@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 67550
+revid: 67752
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -194,7 +194,7 @@ File:Image of Card Selection.png
 
 Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example in the picture below) can be found. **Resonance Doors** are greyish doors with a white sphere in their center that require a **Resonance** to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-This very specific and unique **Resonance Door** is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). **_Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL WIPE YOU_ (not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ Yun'Shul provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and makes it so you cannot make a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove Tarnished from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will cure Tarnished and furthermore allow you to reroll again.
+This very specific and unique **Resonance Door** is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). **_Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL WIPE YOU (Unless you're a Deepbound)_ (not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ Yun'Shul provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and makes it so you cannot make a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove Tarnished from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will cure Tarnished and furthermore allow you to reroll again.
 
 -   One can visit [Yamaketzal](Yamaketzal.md) simply so that they can gain functionality of their bell.
 -   Otherwise, [Misérables](Misérables.md) can help you "truly" remove the _Tarnished_ state so that you can reroll again.

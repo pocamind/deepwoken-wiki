@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 67716
+revid: 67774
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -995,8 +995,9 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
     -   List of mantras that DO get an ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc, Ice Forge, Iceberg, Frozen Servants.
     -   List of mantras that DO NOT get an ether reduction: Ice Eruption & Ice Lance.
     -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Ice Laser, Ice Blade, Ice Chain & Ice Skates.
+-   The "Ice Smash" mantra MIGHT be a reference to one of Cirno's spell cards in Touhou 12.3.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
--   The "Glacial Arc mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
+-   The "Glacial Arc" mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
 -   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.
 -   Frostdraw has the second-most mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the second-most mantras out of all attunements, only second to Ironsing..

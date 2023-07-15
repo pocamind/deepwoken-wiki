@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 66492
+revid: 67764
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -195,7 +195,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 ## Tips
 
 -   A good tool to help plan out your build: [https://deepwoken.co/builder](https://deepwoken.co/builder). Also refer to [Talents](Talents.md), [Mantras](Mantras.md), [Resonance](Resonance.md), [Murmur](Murmur.md), and [Oaths](Oaths.md) to see what you wish to include in your build.
--   Experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works, and learn from your voyages.
+-   Experimentation is the best way to learn what kind of builds you enjoy! There are many creative builds that one can make! See what works and learn from your voyages.
 -   You may sometimes spend all your investment points yet still not power up. This means you got enough regular EXP to increase a stat, but not enough to level up.
 -   If you lack regular EXP, using training gear will give the message "I've learnt what I can from training right now, I should put it into practice..."
 -   If you lack attribute EXP, using training gear will give the message "I can feel my <attribute> improving...". The attribute will automatically increase once you get enough attribute EXP. You can cancel this by clicking on the grey arrow next to the attribute in the inventory screen.

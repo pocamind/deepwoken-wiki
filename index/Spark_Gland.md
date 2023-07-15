@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 66997
+revid: 67778
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -27,6 +27,12 @@ Spark Glands are used to get [Thundercall](Thundercall.md), one of the five Attu
 ## Obtainment
 
 Spark Glands drop from any NPC that uses the [Thundercall](Thundercall.md) attunement.
+
+### NPCs
+
+-   [Authority Officer](Authority_Officer.md)
+-   [Gigamed](Gigamed.md)
+-   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
 
 ## Trivia/Notes
 

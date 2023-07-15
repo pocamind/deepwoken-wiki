@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 67685
+revid: 67770
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -191,62 +191,62 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 <tr>
   <td><center><b>Fragile Heart</b></center></td>
   <td><center>Incoming damage from mobs is doubled.</center></td>
-  <td><center><b>+0.5x</b></center></td>
+  <td><center><b>+50%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Crestfallen</b></center></td>
   <td><center>Armor is permanently broken.</center></td>
-  <td><center><b>+0.1x</b></center></td>
+  <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Deep Champion</b></center></td>
   <td><center>Your Depths trial is always corrupted.</center></td>
-  <td><center><b>+0.2x</b></center></td>
+  <td><center><b>+20%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Dissonant</b></center></td>
   <td><center>You cannot use a Resonance.</center></td>
-  <td><center><b>+0.3x</b></center></td>
+  <td><center><b>+30%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Hollow</b></center></td>
   <td><center>All overworld deaths send you to the Depths.</center></td>
-  <td><center><b>+0.1x</b></center></td>
+  <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Slowburn</b></center></td>
   <td><center>All incoming healing is heavily reduced.</center></td>
-  <td><center><b>+0.1x</b></center></td>
+  <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Dealbreaker</b></center></td>
   <td><center>You sell items for 25% less.</center></td>
-  <td><center><b>+0.05x</b></center></td>
+  <td><center><b>+5%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Loose Change</b></center></td>
   <td><center>All damage received makes you lose notes on hit.</center></td>
-  <td><center><b>+0.2x</b></center></td>
+  <td><center><b>+20%</b></center></td>
 </tr>
 <tr>
   <td><center><b>High Velocity</b></center></td>
   <td><center>All fall damage is heavily amplified.</center></td>
-  <td><center><b>+0.1x</b></center></td>
+  <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Ironwoken</b></center></td>
   <td><center>You cannot receive notes or items from other players.</center></td>
-  <td><center><b>+0.2x</b></center></td>
+  <td><center><b>+20%</b></center></td>
 </tr>
 <tr>
   <td><center><b>One Bit</b></center></td>
   <td><center>You don't know how to swim.</center></td>
-  <td><center><b>+0.2x</b></center></td>
+  <td><center><b>+20%</b></center></td>
 </tr>
 <tr>
   <td><center><b>Destined</b></center></td>
   <td><center>You don't get to choose what you get when your Power increase, Fate picks for you.</center></td>
-  <td><center><b>+0.2x</b></center></td>
+  <td><center><b>+20%</b></center></td>
 </tr>
 </tbody>
 </table>
