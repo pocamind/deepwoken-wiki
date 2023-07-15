@@ -1,6 +1,6 @@
 ---
 title: Gravity Field
-revid: 65039
+revid: 67671
 source: https://deepwoken.fandom.com/wiki/Gravity_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -41,7 +41,7 @@ If someone touches the border of the field, they will be ragdolled and flung bac
 
 Combat tags the user when someone enters the field.
 
-If Gravity Field is corrupted, the user gain immunity to the effects of its own Gravity Field but the duration is halved.
+If Gravity Field is corrupted, the user gain immunity to the effects of its own Gravity Field but the duration is halved. Another downside of this is that it doesn't pull people in anymore with no gravity variant.
 
 ### _Resonance Point Usage_
 

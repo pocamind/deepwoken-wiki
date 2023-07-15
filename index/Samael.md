@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 64220
+revid: 67672
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
