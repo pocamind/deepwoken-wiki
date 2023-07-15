@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 67142
+revid: 67727
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -38,7 +38,7 @@ The only way to acquire an Attunement Potion is to complete a quest given by the
 <tr>
   <td>Nightblood</td>
   <td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td>
-  <td><a href="Nostor,_Master_of_Shadow.md">Nostor</a></td>
+  <td><a href="Nostor,_Master_of_Shadow.md">Nostor</a>, <a href="Beatra.md">Beatra</a></td>
   <td><a href="Shadowcast.md">Shadowcast</a></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 67323
+revid: 67716
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -453,73 +453,7 @@ _Skate freely on paths of ice._
 
   
 
-## Talents
-
-### **Active**
-
-**Cryomancer:**
-
-These talents are found in the _Cryomancer_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
-File:Spike Traps Card.png
-
- | 
-
-Spike Traps
-
- | 
-
-Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
-
- | 
-
-+3 Elemental Intensity  
-+3 Health
-
- |
-
-**Frostforger:**
-
-These talents are found in the _Frostforger_ category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Glacial Mobility
-
- | 
-
-Cast while sliding to perform a running attack with your ice sabers.
-
- | 
-
-+3 Health
-
- |
-| 
-
-File:Glacial Finish Card.webp
-
- | 
-
-Glacial Finish
-
- | 
-
-Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
-
- | 
-
-Placeholder
-
- |
-
-### **Passive**
+## **Talents**
 
 **Cryomancer:**
 
@@ -533,7 +467,7 @@ File:Chilling Flourish.png
  | 
 
 Chilling Flourish  
-ICE 30
+(ICE 30)
 
  | 
 
@@ -546,12 +480,31 @@ When flourishing an enemy, they leave behind a trail of ice in the direction you
  |
 | 
 
+File:New Condensation Drip Stats.png
+
+ | 
+
+Condensation Drip  
+(ICE 15, INTEL 20)
+
+ | 
+
+Passively collect condensation from the air, greatly reducing your thirst. (Approximately 3 times slower)
+
+ | 
+
++4 Ether  
++2 Elemental Intensity
+
+ |
+| 
+
 File:Cool Head.png
 
  | 
 
 Cool Head  
-ICE 30
+(ICE 30)
 
  | 
 
@@ -564,20 +517,18 @@ If set on fire while on ice, immediately put it out and enter a state of chill. 
  |
 | 
 
-File:New Condensation Drip Stats.png
+ | 
+
+Spike Traps  
+(ICE 30, Ice Spikes)
 
  | 
 
-Condensation Drip
+Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
 
  | 
 
-Passively collect condensation from the air, greatly reducing your thirst. (Approximately 3 times slower)
-
- | 
-
-+4 Ether  
-+2 Elemental Intensity
++3 Elemental Intensity
 
  |
 
@@ -588,14 +539,16 @@ These talents are found in the _Cryoni_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
- | 
-
-Fragile Freeze  
-ICE 60
+File:Cryostasis.jpg
 
  | 
 
-Your Ice mantras will freeze opponents upon blockbreaking them.
+Cryostasis  
+(ICE 30, FORT 20, Fragile Freeze)
+
+ | 
+
+When block broken, fragile freeze yourself, negating the damage of the next attack.
 
  | 
 
@@ -608,13 +561,12 @@ File:Preceeding Chill Card.webp
 
  | 
 
-Preceding Chill
+Preceding Chill  
+(ICE 60, Ice Beam)
 
  | 
 
-Enemies hit during the last moments of your ice beam are frozen.(doesn’t freeze with Crystal path, instead adds another Crystal on final hit)
-
-(Rare Talent)
+Enemies hit during the last moments of your ice beam are frozen (doesn’t freeze with Crystal path, instead adds another Crystal on final hit).
 
  | 
 
@@ -623,15 +575,14 @@ Enemies hit during the last moments of your ice beam are frozen.(doesn’t freez
  |
 | 
 
-File:Cryostasis.jpg
+ | 
+
+Rude Awakening  
+(ICE 60, FORT 20, Cryostasis)
 
  | 
 
-Cryostasis
-
- | 
-
-When block broken, fragile freeze yourself, negating the damage of the next attack.
+When in Cryostasis inflict frost damage to the enemy who hit you.
 
  | 
 
@@ -648,15 +599,95 @@ These talents are found in the _Frostdrawer_ category.
 | 
  | 
 
-Glacial Ice
-
- | Your frost is now considerably more intense.
-
--   Requires 20 Willpower
+Frostdrawer  
+(ICE 1)
 
  | 
 
-+3 Health  
+Grants you the ability to command Ice as a Frostdrawer.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Adept Frostdrawer  
+(ICE 20)
+
+ | 
+
+You can now obtain 1-Star Leveled Frostdrawer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Expert Frostdrawer  
+(ICE 30)
+
+ | 
+
+You can now obtain 2-Star Leveled Frostdrawer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Master Frostdrawer  
+(ICE 50)
+
+ | 
+
+You can now obtain 3-Star Leveled Frostdrawer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Cold Front  
+(ICE 25, Cryonis)
+
+ | 
+
+Your Vent is imbued with glacial frost.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Glacial Ice  
+(ICE 60, WILL 20)
+
+ | 
+
+Your frost is now considerably more intense.
+
+ | 
+
 +6 Sanity
 
  |
@@ -668,19 +699,78 @@ These talents are found in the _Frostthorn_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+ | 
+
+Glacial Coasting  
+(ICE 50, AGILITY 25, Orbital Ice)
+
+ | 
+
+Sliding while Orbital Ice is active leaves trails of ice.
+
+ | 
+
++1 Passive Agility  
++3 Elemental Intensity
+
+ |
+| 
+
 File:OrbitalIce.jpg
 
  | 
 
-Orbital Ice
-
- | When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring will break after sustaining a certain amount of damage.
-
--   Requires 20 Agility & 65 Frostdraw
+Orbital Ice  
+(ICE 65)
 
  | 
 
-Placeholder
+When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 25% of the physical damage you take. The ring break after sustaining a certain amount of damage.
+
+ | 
+
++2 Passive Agility  
++1 Elemental Intensity
+
+ |
+
+**Frostforger:**
+
+These talents are found in the _Frostforger_ category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Glacial Mobility  
+(ICE 20, AGILITY 20, Ice Blade)
+
+ | 
+
+Cast while sliding to perform a running attack with your ice sabers.
+
+ | 
+
++3 Health
+
+ |
+| 
+
+File:Glacial Finish Card.webp
+
+ | 
+
+Glacial Finish  
+(ICE 35, Ice Smash)
+
+ | 
+
+Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
+
+ | 
+
+N/A
 
  |
 
@@ -695,18 +785,16 @@ File:Frozenlegs.PNG
 
  | 
 
-Frozen Legs
+Frozen Legs  
+(ICE 60)
 
  | 
 
 Your slow effect prevents your opponents from rolling.
 
-(Rare Talent)
-
  | 
 
-+5 Elemental Intensity  
-+3 Health
++5 Elemental Intensity
 
  |
 
@@ -719,14 +807,28 @@ These talents are found in the _Glassdancer_ category.
 | 
  | 
 
-Glass Path: Crystallization
+Crystal Shrapnel  
+(ICE 85, Glass Path: Crystallization)
+
+ | 
+
+Your Crystal explosions now have an AoE that applies crystals to all hit.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Glass Path: Crystallization  
+(ice 40)
 
  | 
 
 Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
-
--   Requires ~40 Frostdrawer
--   Upon block breaking an opponent with crystals, all crystals will detonate.
 
  | 
 
@@ -741,12 +843,28 @@ These talents are found in the _Ice Age_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+ | 
+
+Bottom Freeze  
+(ICE 25, Ice Forge)
+
+ | 
+
+Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground.
+
+ | 
+
++5 Elemental Intensity
+
+ |
+| 
+
 File:Cryonis.png
 
  | 
 
 Cryonis  
-ICE 40
+(ICE 40)
 
  | 
 
@@ -764,7 +882,7 @@ File:Frostbite.png
  | 
 
 Frostbite  
-ICE 25
+(ICE 25)
 
  | 
 
@@ -779,63 +897,16 @@ Enemies can no longer heal when under the effect of your chill.
 
  | 
 
-Bottom Freeze
-
- | 
-
-Hitting chilled enemies with shurikens while they are on ice freezes them to the ground.
-
- | 
-
-+5 Elemental Intensity  
-+3 Health
-
- |
-| 
-
- | 
-
 Frost Buster  
-HVY 15, ICE 45
+(ICE 45, HEAVY 15, Cryonis)
 
  | 
 
-Greatsword Critical and Greathammer Critical now place Ice underneath the path they carve.
+Greatsword and Greathammer criticals now place Ice underneath the path they carve.
 
  | 
 
 +5 Elemental Intensity
-
- |
-| 
-
-File:Saint Jay.png
-
- | 
-
-Saint Jay
-
- | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. | 
-
-+5 Elemental Intensity
-
- |
-| 
-
- | 
-
-Frozone
-
- | You are no longer required to be over water to use Ice Skate.
-
--   Requires the "Ice Skates" mantra.
-
-(Rare Talent)
-
- | 
-
-+5 Elemental Intensity  
-+3 Health
 
  |
 | 
@@ -844,13 +915,12 @@ File:Frozen pin cushion.png
 
  | 
 
-Frozen Pin-Cushion
+Frozen Pin-Cushion  
+(ICE 60, Ice Daggers)
 
- | Ice Daggers now freeze opponents.(adds another Crystal shard instead of freezing with glass path)
+ | 
 
--   Requires the "Ice Daggers" combat mantra(?)
-
-(Rare Talent)
+Hitting an opponent with your Ice Daggers causes them to freeze.
 
  | 
 
@@ -859,23 +929,54 @@ Frozen Pin-Cushion
  |
 | 
 
-File:Static-assets-upload2550294597928104705.webp
+ | 
+
+Frozone  
+(ICE 70, Ice Skate)
 
  | 
 
-Frost Buster
-
- | Greatsword, Greathammer and Battleaxe Crits leave a trail of ice.
-
--   Requires a HVY/Heavy weapon.
+You are no longer required to be over water to use Ice Skate.
 
  | 
 
-+5 Elemental Intensity +3 Health
++5 Elemental Intensity
 
  |
+| 
 
-  
+ | 
+
+Unyielding Frost  
+(ICE 100)
+
+ | 
+
+Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
+
+ | 
+
+N/A
+
+ |
+| 
+
+File:Saint Jay.png
+
+ | 
+
+Saint Jay  
+(ICE 25, Frostbite)
+
+ | 
+
+When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
+
+ | 
+
++5 Elemental Intensity
+
+ |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Beatra
-revid: 67633
+revid: 67709
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -15,9 +15,9 @@ categories: [Pages with broken file links]
 
 ## Description
 
-Beatra is an NPC who acts as [Shadowcast](Shadowcast.md) trainer for those who don't want to risk wiping in [The Depths](The_Depths.md). They can be found to the left of the [Derelict Highchurch](Derelict_Highchurch.md)
+Beatra is an NPC who acts as [Shadowcast](Shadowcast.md) trainer for those who don't want to risk wiping in [The Depths](The_Depths.md). She can be found to the left of the [Derelict Highchurch](Derelict_Highchurch.md).
 
-In order to obtain [Shadowcast](Shadowcast.md), it is similar as [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md), you must bring 5 [Umbral Obsidian](Umbral_Obsidian.md) to Beatra to unlock [Shadowcast](Shadowcast.md)
+In order to obtain [Shadowcast](Shadowcast.md), you must find [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md). Beatra will not teach you it.
 
 ## Trivia
 

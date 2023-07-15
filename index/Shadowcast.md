@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 67652
+revid: 67710
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Mantras, Attunement]
 
 # Shadowcast
 
-Shadowcast icon
-
 ## Description
+
+Shadowcast icon
 
 Shadowcast is an attunement that the player is required to unlock and cannot start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast, similar to Flamecharm, applies a black flame effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain and AoE.
 
@@ -20,11 +20,16 @@ However, Shadowcast works best with plenty of time to work with, able to fight a
 
 ## Obtainment & Training
 
-Shadowcast can be trained by using the Pure Heart that can be found in the Mantra store at both Etris, Isle of Vigils or Voidheart also obtained while picking shadowcast as your element at start of the game.
+Shadowcast can be with a combination of the Pure Heart and Shadowcast mantras.
+
+Along with all other elements, users can see their Mantras becoming stronger with practice:
+
+-   At Shadowcast level 1, players will receive the _Shadowcaster_ Talent. This allows players to use 0-star Shadowcast mantras
+-   At Shadowcast level 20, players will receive the _Adept Shadowcaster_ Talent. This allows players to use 1-star Shadowcast mantras
+-   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast mantras
+-   Finally, at Shadowcast level 50, players will receive the _Master Shadowcaster_ Talent. This finally allows Shadowcast users to unlock the last category, 3-star Mantras
 
 In order to unlock Shadowcast, the player must bring five [Umbral Obsidian](Umbral_Obsidian.md) to the Depths and talk to the trainer, [Nostor](Attunement_Trainers.md), found in the City of the Drowned. Shadowcast will be obtained upon drinking the Nightblood potion the player receives, similar to other trainers. Shadowcast is unlocked permanently like other elements and can be started with after unlock.
-
-_See [Nightblood](Attunement_Potions.md) for more info._
 
 ## Mantras
 
@@ -258,344 +263,359 @@ Shadow Assault
 
  |
 
-## Talents
+## **Talents**
 
-### **Active**
+**Darksiphon:**
 
-| Image | Name | Category | Rarity | Card Description |
-| --- | --- | --- | --- | --- |
+These are talents found in the **Darksiphon** category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 | 
-File:Shadow travel.png
+ | 
 
- | Shadow Travel | 
-
-> Shadowcaster
+Dark God  
+(SHADOW 20)
 
  | 
 
-> Rare
-
- | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. |
-
-### **Passive**
-
-| Image | Name | Category | Rarity | Card Description |
-| --- | --- | --- | --- | --- |
-| File:Blackout.png | 
-Blackout
+If a shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
 
  | 
 
-Shadowcaster
-
- | 
-
-Common
-
- | Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.
-
-+5 Elemental Intensity
-
-+2 Health
++1 Elemental Intensity
 
  |
 | 
 
-File:Dark God Tempo.png
+ | 
+
+Dark Hours  
+(SHADOW 35)
 
  | 
 
-Dark God
+Your Shadowcast Mantras deal more damage at night.
 
  | 
-
-Darksiphon
-
- | 
-
-Common
-
- | If a shadowcast mantra would drain your opponent's Ether to 0, drain from their tempo instead and increase your own.
-
-+1 Elemental Intensity +3 Health
-
- |
-| 
-
-File:Sightless Still.png
-
- | 
-
-Sightless Still
-
- | 
-
-Shadowcaster
-
- | 
-
-Common
-
- | The more a person is affected by your shadowcast the more you obscure their vision.
-
-+5 Elemental Intensity
-
-+2 Health
-
- |
-| 
-
-File:Dark Hours.png
-
- | 
-
-Dark Hours
-
- | 
-
-Darksiphon
-
- | 
-
-Common
-
- | Your Shadowcast Mantras deal more damage at night.
 
 +4 Elemental Intensity
 
-+3 Health
+ |
+| 
+
+ | 
+
+Dark Synergy  
+(SHADOW 45, Dark God)
+
+ | 
+
+Engulf your enemy in shadows when flourishing them.
+
+ | 
+
++1 Elemental Intensity
 
  |
 | 
 
-File:Devour.png
+ | 
+
+Dark Replenishment  
+(SHADOW 50, INTEL 25, Dark God)
 
  | 
 
-Devour
+Knocking out an enemy in combat restores a portion of your ether.
 
  | 
 
-Darksiphon
+N/A
+
+ |
+| 
 
  | 
 
-Common
+Dark Rift  
+(SHADOW 60, Dark Hours)
 
- | Stealing enough ether to fill your bar now stores the extras in your reserves.
+ | 
+
+Engulf your enemy in shadows when flourishing them.
+
+ | 
+
++1 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Devour  
+(SHADOW 40, Dark God)
+
+ | 
+
+Stealing enough ether to fill your bar now stores the extras in your Tempo.
+
+ | 
 
 +3 Elemental Intensity
 
-+3 Health
+ |
+| 
+
+ | 
+
+Overwhelming Drain  
+(SHADOW 40, Shadow Eruption)
+
+ | 
+
+If multiple enemies are hit by your Shadow Eruption, they are dazed.
+
+ | 
+
+N/A
 
  |
 | 
 
-File:Dark Synergy.png
+ | 
+
+Shadow Overflow  
+(SHADOW 55, Dark God)
 
  | 
 
-Dark Synergy
+Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
 
  | 
 
-Darksiphon
++3 Elemental Intensity
+
+ |
+
+**Death Speaker:**
+
+These are talents found in the **Death Speaker** category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Black Hole  
+(SHADOW 60, POWER 13, Singularity)
 
  | 
 
-Common
+Your singularity pulls everyone nearby in.
 
- | Engulf your enemy in shadows when flourishing them.
+ | 
 
-\+ 1 Elemental Intensity
-
-\+ 1 Health
++1 Elemental Intensity
 
  |
 | 
 
-File:Fear.png
+ | 
+
+Energy Siphon  
+(SHADOW 65, Singularity)
 
  | 
 
-Fear
+Your singularity now pulls ether from the extra players affected.
 
  | 
 
-Shadowcaster
+N/A
+
+ |
+
+**Shadowcaster:**
+
+These are talents found in the **Shadowcaster** category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Shadowcaster  
+(SHADOW 1)
 
  | 
 
-Common
+Harnesss the power of Shadow in your mantra crafting.
 
- | Enemies will briefly hang in place when they run from you.
+ | 
 
-\+ 1 Elemental Intensity
-
-\+ 1 Health
+N/A
 
  |
 | 
 
-File:Dark Rift.png
+ | 
+
+Adept Shadowcaster  
+(SHADOW 20)
 
  | 
 
-Dark Rift
+You can now obtain 1-Star Leveled Shadowcaster Mantras.
 
  | 
 
-Darksiphon
-
- | 
-
-Rare
-
- | Enter a rifted state when you sucessfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
-
-\+ 4 Elemental Intensity
-
-\+ 2 Health
+N/A
 
  |
 | 
 
-File:Lasting Sorrow.png
+ | 
+
+Expert Shadowcaster  
+(SHADOW 30)
 
  | 
 
-Lasting Sorrow
+You can now obtain 2-Star Leveled Shadowcaster Mantras.
 
  | 
 
-Shadowcaster
-
- | 
-
-Common
-
- | Shadows last longer on your opponent.
-
-\+ 4 Elemental Intensity
-
-\+ 1 Health
+N/A
 
  |
 | 
 
-File:Blossoming Darkness.png
+ | 
+
+Master Shadowcaster  
+(SHADOW 50)
 
  | 
 
-Blossoming Darkness
+You can now obtain 3-Star Leveled Shadowcaster Mantras.
 
  | 
 
-Shadowcaster
-
- | 
-
-Common
-
- | Ether drained during Shadow Roar increases the size of it.
-
-\+ 1 Elemental Intensity
-
-\+ 2 Health
++5 Health
 
  |
 | 
 
-File:Shadow Overflow.png
+ | 
+
+Shadow Travel  
+(SHADOW 75, Dark God)
 
  | 
 
-Shadow Overflow
+Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
 
  | 
 
-Darksiphon
-
- | 
-
-Common
-
- | Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
-
-\+ 3 Elemental Intensity
-
-\+ 1 Health
+N/A
 
  |
 | 
 
-File:Overwhelming Drain.png
+ | 
+
+Black Out  
+(SHADOW 30, Sightless Still)
 
  | 
 
-Overwhelming Drain
+Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.
 
  | 
 
-Darksiphon
-
- | 
-
-Common
-
- | If multiple enemies are hit by your Shadow Eruption, they are dazed.
-
-\+ 4 Ether
-
-\+ 1 Health
-
-\+ 7 Resoirvoir
++5 Elemental Intensity
 
  |
 | 
 
-File:S1ngularity.png
+ | 
+
+Blossoming Darkness  
+(SHADOW 30, Shadow Roar)
 
  | 
 
-Singularity
+Ether drained during Shadow Roar increases the size of it.
 
  | 
 
-Shadowcaster
-
- | 
-
-Common
-
- | Enemies will briefly hang in place when hit by a shadow move.
-
-\+ 1 Elemental Intensity
-
-\+ 3 Health
++1 Elemental Intensity
 
  |
 | 
 
-File:Blackhole.png
+ | 
+
+Fear  
+(SHADOW 50)
 
  | 
 
-Blackhole
+Enemies will briefly hang in place when they run from you.
 
  | 
 
-Death Speaker
++4 Elemental Intensity
+
+ |
+| 
 
  | 
 
-Rare
+Lasting Sorrow  
+(SHADOW 50)
 
- | Your singularity pulls everyone nearby in.
+ | 
 
-\+ 1 Elemental Intensity
+Shadow lasts longer on your opponent.
 
-\+ 3 Health
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Sightless Still  
+(SHADOW 30)
+
+ | 
+
+The more a person is affected by your shadowcast the more you obscure their vision.
+
+ | 
+
++5 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Singularity  
+(SHADOW 40)
+
+ | 
+
+Enemies will briefly hang in place when hit by a shadow move.
+
+ | 
+
++1 Elemental Intensity
 
  |
 

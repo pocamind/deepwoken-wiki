@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 67312
+revid: 67708
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -67,7 +67,7 @@ Proof of Time Magic's existance and it being an "Oath"
 
 **Lore Sources:** _Regek (Mentioned), Arch\_Mage (Discord)_
 
--   (Arch\_Mage) Lifeweave is an Oath. Lifeweave has healing capabilities; though it's not shown in-game.
+-   Lifeweave is potentially an Oath described in the game's lore, but could be an Attunement.
 -   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.

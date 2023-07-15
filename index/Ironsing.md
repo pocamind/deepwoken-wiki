@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 67591
+revid: 67713
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -167,7 +167,8 @@ These are talents found in "_Ironsinger_" Category.
 | 
  | 
 
-Ironsinger
+Ironsinger  
+(METAL 1)
 
  | 
 

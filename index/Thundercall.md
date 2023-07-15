@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 67689
+revid: 67711
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -396,10 +396,11 @@ Bellow is a list of every single Thundercall exclusive talent.
 
 These talents are found in the _Authority Interrogator_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Authority Intimidation
+Authority Intimidation  
+(THUNDER 60, POWER 10)
 
  | 
 
@@ -409,15 +410,11 @@ All moves that apply electricity slow the opponent more.
 
 None
 
- | 
-
-Power 10  
-60 Thundercall
-
  |
 |  | 
 
-First Interrogation
+First Interrogation  
+(THUNDER 65, POWER 13)
 
  | 
 
@@ -427,15 +424,11 @@ Electrified attacks do 50% less posture damage to you.
 
 None
 
- | 
-
-Power 13  
-65 Thundercall
-
  |
 |  | 
 
-Second Interrogation
+Second Interrogation  
+(THUNDER 65, POWER 13)
 
  | 
 
@@ -445,15 +438,11 @@ Attacks from opponents who are Electrified will give you ether proportional to t
 
 None
 
- | 
-
-Power 13  
-65 Thundercall
-
  |
 |  | 
 
-Third Interrogation
+Third Interrogation  
+(THUNDER 65, POWER 13)
 
  | 
 
@@ -463,15 +452,11 @@ Electrified attacks do 50% less damage to you.
 
 None
 
- | 
-
-Power 13  
-65 Thundercall
-
  |
 | File:Resolve crusher.png | 
 
-Resolve Crusher
+Resolve Crusher  
+(THUNDER 65, POWER 13)
 
  | 
 
@@ -481,21 +466,17 @@ Lightning moves now have a chance to apply "Electrify", attacks from electrified
 
 None
 
- | 
-
-Power 13  
-65 Thundercall
-
  |
 
 **Javelin Lord:**
 
 These talents are found in the _Javelin Lord_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Grand Skewer
+Grand Skewer  
+(THUNDER 60, Grand Javelin)
 
  | 
 
@@ -508,21 +489,17 @@ Grand Javelin now carries opponents with it through the skies. (Press F while ca
 +3 Elemental Intensity  
 +1 Health
 
- | 
-
-Grand Javelin  
-60 Thundercall
-
  |
 
 **Static Weaver:**
 
 These talents are found in the _Static Weaver_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Agitating Static
+Agitating Static  
+(THUNDER 60, FLAME 5, Discovery of Fire)
 
  | 
 
@@ -533,14 +510,11 @@ Using Discovery of Fire will light nearby downed enemies aflame.
 +4 Ether  
 +7 Reservoir
 
- | 
-
-Discovery of Fire, 60 Thundercall, 5 Flamecharm.
-
  |
 |  | 
 
-Jumper Cables
+Jumper Cables  
+(FORT 20, Static Link)
 
  | 
 
@@ -552,15 +526,11 @@ Getting knocked with an active Static Link allows you to steal health from the l
 +5 Reservoir  
 +2 Health
 
- | 
-
-Static Link  
-20 Fortitude
-
  |
 |  | 
 
-Link Conduction
+Link Conduction  
+(THUNDER 65, Static Link)
 
  | 
 
@@ -571,15 +541,11 @@ While you have active tethers your lightning mantras cost less ether.
 +6 Reservoir  
 +4 Elemental Intensity
 
- | 
-
-Static Link  
-65 Thundercall
-
  |
 |  | 
 
-Quick Link
+Quick Link  
+(THUNDER 40, INTEL 15)
 
  | 
 
@@ -589,15 +555,11 @@ Landing an uppercut adds a static link to your opponent.
 
 +4 Elemental Intensity
 
- | 
-
-40 Thundercall  
-15 Intelligence
-
  |
 | File:Static Ace.png | 
 
-Static Ace
+Static Ace  
+(THUNDER 70, Static Link)
 
  | 
 
@@ -608,15 +570,11 @@ Using stream core with an active Static Link targets your closest active link.
 +4 Ether  
 +7 Reservoir
 
- | 
-
-Static Link  
-70 Thundercall
-
  |
 | File:Static Allure.png | 
 
-Static Allure
+Static Allure  
+(THUNDER 50, Static Link)
 
  | 
 
@@ -629,14 +587,11 @@ Having two active Static Link's will cause the previous linked enemy to be pulle
 +5 Resrvoir  
 +2 Health
 
- | 
-
-Static Link, 50 Thundercall
-
  |
 |  | 
 
-Static Link
+Static Link  
+(THUNDER 40, INTEL 15)
 
  | 
 
@@ -648,21 +603,17 @@ Flourishing an enemy creates a Static Link between you and your enemy, making yo
 +4 Elemental Intensity  
 +1 Health
 
- | 
-
-40 Thundercall  
-15 Intelligence
-
  |
 
 **Self-Shocker:**
 
 These talents are found in the _Self-Shocker_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Jumpstart
+Jumpstart  
+(Static Withdraw)
 
  | 
 
@@ -673,14 +624,11 @@ When not being carried Static Withdraw now increases movement speed, and wall sc
 +4 Ether  
 +4 Elemental Intensity
 
- | 
-
-Static Withdraw
-
  |
 |  | 
 
-Raging Static
+Raging Static  
+(Jumpstart)
 
  | 
 
@@ -690,22 +638,19 @@ Static Withdraw no longer gives the movement buff from Jumpstart, your physical 
 
 None
 
- | 
-
-Jumpstart
-
  |
 
 **Stormblade:**
 
 These talents are found in the _Stormblade_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 | 
  | 
 
-Stormcaller Slash
+Stormcaller Slash  
+(Lightning Blade)
 
  | 
 
@@ -717,20 +662,17 @@ by pressing F at the end of the mantra Lightning Blade.
 
 None
 
- | 
-
-Lightning Blade
-
  |
 
 **Thunder Brawler:**
 
 These talents are found in the _Thunder Brawler_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Discharge
+Discharge  
+(TBA)
 
  | 
 
@@ -740,14 +682,11 @@ Discharge
 
 +2 Elemental Intensity
 
- | 
-
- ???
-
  |
 |  | 
 
-Volt Kick
+Volt Kick  
+(THUNDER 30, Thunder Kick)
 
  | 
 
@@ -757,21 +696,17 @@ After landing a lightning kick press F to followup with a less potent kick. (Act
 
 +2 Elemental Intensity
 
- | 
-
-30 Thundercall  
-Thunder Kick
-
  |
 
 **Thunderblade:**
 
 These talents are found in the _Thunderblade_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Static Blade
+Static Blade  
+(THUNDER 40, MEDIUM 20)
 
  | 
 
@@ -781,15 +716,11 @@ Static Blade
 
 +3 Elemental Intensity
 
- | 
-
-40 Thundercall  
-20 Medium Weapon
-
  |
 |  | 
 
-Overcharge
+Overcharge  
+(Static Blade)
 
  | 
 
@@ -800,14 +731,11 @@ Your next dash after activating Static Blade is enhanced by lightnings.
 +2 Elemental Intensity  
 +3 Health
 
- | 
-
-Static Blade
-
  |
 |  | 
 
-Gathering Electricity
+Gathering Electricity  
+(THUNDER 65, STR/AGILITY 25, Static Blade)
 
  | 
 
@@ -819,22 +747,17 @@ Gathering Electricity
 +1 Passive Agility  
 +2 Health
 
- | 
-
-65 Thundercall  
-25 Strength / 25 Agility  
-Static Blade
-
  |
 
 **Thundercaller:**
 
 These talents are found in the _Thundercaller_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Thundercaller
+Thundercaller  
+(THUNDER 1)
 
  | 
 
@@ -845,14 +768,11 @@ Grants you the ability to command Lightning as a Thundercaller.
 +3 Elemental Intensity  
 +1 Health
 
- | 
-
-N/A
-
  |
 |  | 
 
-Adept Thundercaller
+Adept Thundercaller  
+(THUNDER 20)
 
  | 
 
@@ -862,14 +782,11 @@ You can now obtain 1-star Thundercaller mantras.
 
 +5 Elemental Intensity  
 
- | 
-
-20 Thundercall
-
  |
 |  | 
 
-Expert Thundercaller
+Expert Thundercaller  
+(THUNDER 30)
 
  | 
 
@@ -879,14 +796,11 @@ You can now obtain 2-star Thundercaller mantras.
 
 +4 Elemental Intensity  
 
- | 
-
-30 Thundercall
-
  |
 |  | 
 
-Master Thundercaller
+Master Thundercaller  
+(THUNDER 50)
 
  | 
 
@@ -896,14 +810,11 @@ You can now obtain 3-star Thundercaller mantras.
 
 +4 Elemental Intensity  
 
- | 
-
-50 Thundercall
-
  |
 |  | 
 
-Discovery of Fire
+Discovery of Fire  
+(THUNDER 50)
 
  | 
 
@@ -913,14 +824,11 @@ Light all campfires in a large radius for a little ether.
 
 None
 
- | 
-
-50 Thundercall
-
  |
 |  | 
 
-Shocking Finish
+Shocking Finish  
+(Lightning Beam)
 
  | 
 
@@ -931,14 +839,11 @@ Following a flourish up with a lightning beam causes it to be casted instantly.
 +3 Elemental Intensity  
 +2 Health
 
- | 
-
-Lightning Beam
-
  |
 |  | 
 
-Kickstart
+Kickstart  
+(THUNDER 50)
 
  | 
 
@@ -948,14 +853,11 @@ Use your lightning to resurrect a knocked player, they wake up with about 15% hp
 
 None
 
- | 
-
-50 Thundercall
-
  |
 |  | 
 
-Static Flash Clone
+Static Flash Clone  
+(AGILITY 30, Lightning Clones)
 
  | 
 
@@ -966,14 +868,11 @@ When using lightning clones you disappear leaving behind a static clone for a sh
 +3 Elemental Intensity  
 +1 Health
 
- | 
-
-30 Agility + Lightning Clones
-
  |
 |  | 
 
-Stratoshock
+Stratoshock  
+(THUNDER 35)
 
  | 
 
@@ -984,14 +883,11 @@ You lightning does more damage in the rain.
 +4 Elemental Intensity  
 +3 Health
 
- | 
-
-35 Thundercall
-
  |
 |  | 
 
-Static Withdraw
+Static Withdraw  
+(THUNDER 25)
 
  | 
 
@@ -1002,14 +898,11 @@ when you get knocked, if someone tries to carry you, you can discharge and damag
 +4 Elemental Intensity  
 +3 Health
 
- | 
-
-25 Thundercall
-
  |
 |  | 
 
-Capacitor
+Capacitor  
+(THUNDER 20)
 
  | 
 
@@ -1019,20 +912,17 @@ Bodies of knocked enemies will be charged with electricity which will stun peopl
 
 +4 Elemental Intensity  
 
- | 
-
-20 Thundercall
-
  |
 
 **Thunder Caster:**
 
 These talents are found in the _Thunder Caster_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 | File:Static-assets-upload2268134233810269473.png | 
-Rain of Static
+Rain of Static  
+(Lightning Impact)
 
  | 
 
@@ -1043,14 +933,11 @@ After successfully casting lightning impact, strike down countless thunder at th
 +7 Carry Load  
 +2 Elemental Intensity
 
- | 
-
-Lightning Impact
-
  |
 |  | 
 
-Jolt Cast
+Jolt Cast  
+(THUNDER 30, INTEL 30)
 
  | 
 
@@ -1060,21 +947,17 @@ Every perfect casted Thundercall mantra builds a stack of jolt cast. At 3 stacks
 
 None
 
- | 
-
-30 Thundercall  
-30 Intelligence
-
  |
 
 **Rampant Static:**
 
 These talents are found in the _Rampant Static_ category.
 
-| Media | Talent | Card Description | Effect | Prerequisite |
-| --- | --- | --- | --- | --- |
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
 |  | 
-Jolting Current
+Jolting Current  
+(THUNDER 35)
 
  | 
 
@@ -1084,10 +967,6 @@ Your lightning attacks in water strike others near them with lightning
 
 +4 Ether  
 +4 Elemental Intensity
-
- | 
-
-35 Thundercall
 
  |
 

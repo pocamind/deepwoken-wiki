@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 67394
+revid: 67712
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -336,10 +336,26 @@ _A servant of wind._
 
 These talents are found in the _Aeromancer_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | 
-Aeronade
+|  | 
+Aerogliding  
+(GALE 35, AGILITY 30)
+
+ | 
+
+When falling from a high place, hold spacebar to generate wind currents until you hit the floor
+
+ | 
+
++2 Passive Agility  
++5 Elemental Intensity
+
+ |
+|  | 
+
+Aeronade  
+(GALE 40, Gale Trap)
 
  | 
 
@@ -351,9 +367,10 @@ Your trap automatically detonates on contact with an object
 +5 Elemental Intensity
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Stifled Jump
+Stifled Jump  
+(GALE 35, STR 30, Suffocating Impact)
 
  | 
 
@@ -362,13 +379,13 @@ Enemies who jump while suffocated by you are dazed.
  | 
 
 +2 Passive Agility  
-+5 Elemental Intensity  
-+1 Health
++5 Elemental Intensity
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Suffocating Impact
+Suffocating Impact  
+(GALE 35, STR 30, Drifting Winds)
 
  | 
 
@@ -377,13 +394,13 @@ When flourishing enemies into walls they are suffocated and winded for a short d
  | 
 
 +2 Passive Agility  
-+5 Elemental Intensity  
-+1 Health
++5 Elemental Intensity
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Gale Coil
+Gale Coil  
+(GALE 35, Suffocating Impact)
 
  | 
 
@@ -391,35 +408,13 @@ Your suffocates last twice as long.
 
  | 
 
-+2 Passive Agility  
-+5 Elemental Intensity  
-+1 Health
++4 Elemental Intensity
 
  |
 |  | 
 
-Aerogliding
-
- | 
-
-When falling from a high place, hold spacebar to generate wind currents until you hit the floor
-
- | 
-
-+2 Passive Agility  
-+5 Elemental Intensity  
-+2 Health
-
- |
-
-**Aeromancy:**
-
-These talents are found in the _Aeromancy_ category.
-
-| Media | Talent | Card Description | Bonus Stats |
-| --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | 
-Gale Trap
+Gale Trap  
+(GALE 40)
 
  | 
 
@@ -429,7 +424,19 @@ Knocking a player tags them with a wind trap, causing anyone to pick up that bod
 
 +4 Elemental Intensity
 
-FROM: Wind Step
+ |
+|  | 
+
+Vacuum Punch  
+(GALE 20, Gale Punch)
+
+ | 
+
+Your Gale Punch pulls enemies in before you hit them.
+
+ | 
+
+N/A
 
  |
 
@@ -437,10 +444,11 @@ FROM: Wind Step
 
 These talents are found in the _Cloudwalker_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
-Gale Leap
+Gale Leap  
+(GALE 25)
 
  | 
 
@@ -448,11 +456,7 @@ Jumping while sliding down a slope or off a cliff launches you forward.
 
  | 
 
-+1 Elemental Intensity  
-+2 Health  
-Costs _[Ether](Combat_Mechanics.md)_.
-
-FROM: Galebreather
++1 Elemental Intensity
 
  |
 
@@ -460,10 +464,11 @@ FROM: Galebreather
 
 These talents are found in the _Galebreather_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | 
-Galebreather
+|  | 
+Galebreather  
+(GALE 1)
 
  | 
 
@@ -474,9 +479,10 @@ Grants you the ability to command Wind as a Galebreathe.
 N/A
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Adept Galebreather
+Adept Galebreather  
+(GALE 20)
 
  | 
 
@@ -487,9 +493,10 @@ You can now obtain 1-star Galebreathe mantras.
 N/A
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Expert Galebreather
+Expert Galebreather  
+(GALE 30)
 
  | 
 
@@ -500,9 +507,10 @@ You can now obtain 2-star Galebreathe mantras.
 N/A
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Master Galebreather
+Master Galebreather  
+(GALE 50)
 
  | 
 
@@ -510,12 +518,27 @@ You can now obtain 3-star Galebreathe mantras.
 
  | 
 
-N/A
++5 Health
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-The Old Wind
+Reverse Gale Kick  
+(GALE 30, Rising Wind)
+
+ | 
+
+Pressing \[F\] after hitting an opponent with Rising Wind will cause your follow up kick to impale them to the ground.
+
+ | 
+
++1 Passive Agility
+
+ |
+|  | 
+
+The Old Wind  
+(GALE 55, Gale Leap)
 
  | 
 
@@ -532,10 +555,11 @@ Glide straight with the power of Gales.
 
 These talents are found in the _Gale Duelist_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
-Tempest Wind
+Tempest Wind  
+(GALE 20, Wind Blade)
 
  | 
 
@@ -551,10 +575,25 @@ Sends user and opponent into the air.
 
 These talents are found in the _Galeforce_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | 
-Breathing Impact
+|  | 
+After Cut  
+(GALE 40, Breathing Impact)
+
+ | 
+
+If an attack is physical and wind, it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead.
+
+ | 
+
++2 Elemental Intensity
+
+ |
+|  | 
+
+Breathing Impact  
+(GALE 30)
 
  | 
 
@@ -564,12 +603,11 @@ Knocking enemies into objects with wind spells deals additional blunt damage bas
 
 +5 Elemental Intensity
 
-FROM: Galebreather
-
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Inhale
+Inhale  
+(GALE 50, Breathing Impact)
 
  | 
 
@@ -577,38 +615,33 @@ Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering
 
  | 
 
-+1 Elemental Intensity  
-+2 Health  
-Costs _[Ether](Combat_Mechanics.md)_.
-
-FROM: Breathing Impact
++1 Elemental Intensity
 
  |
 |  | 
 
-After Cut
+Skull Crusher  
+(GALE 50, STR 30, Champion's Whirlthrow)
 
  | 
 
-If an attack is physical and wind, it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead.
+Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time.
 
  | 
 
-+2 Elemental Intensity  
-+2 Health
-
-FROM: Breathing Impact
++6 Carry Load
 
  |
 
 **Legion Shock Trooper:**
 
-These talents require stats in agility.
+These talents are found in the _Legion Shock Trooper_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | 
-Air Pressure
+|  | 
+Air Pressure  
+(GALE 50, AGILITY 20)
 
  | 
 
@@ -616,14 +649,29 @@ If you hit an enemy's block, your next dash will be an empowered wind dash.
 
  | 
 
-+1 Passive Agility +2 Elemental Intensity
-
-FROM: Galebreather
++1 Passive Agility  
++2 Elemental Intensity
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Pressure Break
+Cyclone Blade  
+(GALE 55, AGILITY 30, Air Pressure)
+
+ | 
+
+After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block.
+
+ | 
+
++2 Passive Agility  
++2 Elemental Intensity
+
+ |
+|  | 
+
+Pressure Break  
+(GALE 65, STR/AGILITY 30, MEDIUM 20, Air Pressure)
 
  | 
 
@@ -631,12 +679,14 @@ Breaking an enemy's posture will cause them to take intense wind pressure damage
 
  | 
 
-+8 Carry Load +2 Passive Agility +3 Health FROM: Air Pressure
++8 Carry Load  
++2 Passive Agility
 
  |
 |  | 
 
-Wind Step
+Wind Step  
+(GALE 50)
 
  | 
 
@@ -644,8 +694,7 @@ Create a step of wind below you when jumping in the air.
 
  | 
 
-+4 Elemental Intensity  
-Costs _[Ether](Combat_Mechanics.md)_.
++4 Elemental Intensity
 
  |
 
@@ -653,46 +702,39 @@ Costs _[Ether](Combat_Mechanics.md)_.
 
 These talents are found in the _Silencer_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 | File:A World Without Song.jpg | 
-A World
-
-Without Song
+A World Without Song  
+(GALE 60, POWER 10, All Silencer talents)
 
  | 
 
 All of your wind attacks apply 'Suffocate'.
 
-(Advanced Talent)
-
  | 
 
-+1 Elemental Intensity +2 Health
-
-FROM: Silencer's Edge
++1 Elemental Intensity
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Silencer's Blade
+Silencer's Blade  
+(GALE 60, POWER 10, Silencer's Edge)
 
  | 
 
 Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
 
-(Rare Talent)
-
  | 
 
-+1 Elemental Intensity +3 Health
-
-FROM: Silencer's Edge
++1 Elemental Intensity
 
  |
-| File:Galebreathe Talent Placeholder.png | 
+|  | 
 
-Silencer's Edge
+Silencer's Edge  
+(GALE 60)
 
  | 
 
@@ -700,9 +742,7 @@ Meleeing a 'Suffocated' opponent will grant you a speed boost.
 
  | 
 
-+1 Elemental Intensity +3 Health
-
-FROM: Galebreather
++1 Elemental Intensity
 
  |
 
@@ -710,10 +750,11 @@ FROM: Galebreather
 
 These talents are found in the _Whisper_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | 
-Haunted Gale
+Haunted Gale  
+(GALE 40, POWER 8)
 
  | 
 
@@ -729,10 +770,11 @@ Every 3 hits landed by perfectly casted Galebreathe mantras will cause the targe
 
 These talents are found in the _Vigil of Winds_ category.
 
-| Media | Talent | Card Description | Bonus Stats |
+| Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Galebreathe Talent Placeholder.png | 
-Maestro's Blade
+|  | 
+Maestro's Blade  
+(GALE 60)
 
  | 
 
@@ -740,10 +782,27 @@ Inhaling a spell will cause the wind to be applied to your melee attack.
 
  | 
 
-+4 Elemental Intensity  
-+1 Health
++4 Elemental Intensity
 
-FROM: Inhale
+ |
+
+**Scholar of the Cloud:**
+
+These talents are found in the _Scholar of the Cloud_ category.
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | 
+Windwaker  
+(GALE 50, Quest talent)
+
+ | 
+
+Call upon a gust of wind to propel your boat even faster.
+
+ | 
+
+N/A
 
  |
 

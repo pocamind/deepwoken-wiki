@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 67658
+revid: 67704
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -402,7 +402,7 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
  | 
 
 Thorns of Fire  
-(Prerequisite: Flame Repulsion)
+(Flame Repulsion)
 
  | 
 
@@ -458,7 +458,7 @@ Sets the caster ablaze until they die, increasing strength and speed but dealing
  | 
 
 Wildfire  
-(Prerequisites: Fire Palm)
+(Fire Palm)
 
  | 
 
@@ -574,7 +574,7 @@ Using Flame Within, set your self on fire after being knocked down. This card is
  | 
 
 Denial Repulse  
-(Prerequisite: Flame of Denial)
+(Flame of Denial)
 
  | You now emit a delayed burst of flames after coming close to death.
 
@@ -590,11 +590,11 @@ Denial Repulse
  | 
 
 Undying Flame  
-(FLAME 40, Willpower 40, Graceful Flame)
+(FLAME 40, WILL 40, Graceful Flame)
 
  | Your flame can be casted in the depths.
 
--   Rare card \[Prerequisites: 40 Willpower, **40 Flamecharm**\]
+-   Rare card \[40 Willpower, **40 Flamecharm**\]
 
  | 
 
@@ -606,7 +606,7 @@ Graceful Flame is Able to Be Casted In The Depths
  | 
 
 Soundness of Mind  
-(FLAME 40, Willpower 40, Undying Flame)
+(FLAME 40, WILL 40, Undying Flame)
 
  | 
 
@@ -646,7 +646,7 @@ If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Inc
  | 
 
 Pleeksty's Faith  
-(Willpower 15, Charisma 15, FLAME 1)
+(FLAME 1, WILL 15, CHARISMA 15)
 
  | 
 
@@ -668,7 +668,7 @@ These talents are found in the "_Immolator_" Category.
  | 
 
 Phoenix Flames  
-(Prerequisites: All Immolator talents)
+(All Immolator talents)
 
  | 
 
@@ -686,7 +686,7 @@ When the user is burned to death, the user is instead revived with 50% health. T
  | 
 
 Immolation  
-(20 Willpower, Agitating Spark)
+(WILL 20, Agitating Spark)
 
  | 
 
@@ -707,13 +707,10 @@ These are talents found in "_Lava Serpent_" Category.
 | 
  | 
 
-Eruption Path: Lava Serpent
+Eruption Path: Lava Serpent  
+(FLAME 40)
 
- | Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet. This talent can also be empowered with using Agitated spark, no longer procing burn on the user but procs a second explosion which is VERY useful
-
--   Requires 40 Flamecharm
-
- | 
+ | Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet (this talent can also be empowered with using Agitated spark, no longer procing burn on the user but procs a second explosion which is VERY useful). | 
 
 +4 Elemental Intensity
 
@@ -728,13 +725,10 @@ These are talents found in "_Uncategorized_" Category.
 | 
  | 
 
-Azure Flames
+Azure Flames  
+(FLAME 70, WILL 40)
 
- | Many of your flames burn blue signifying their increased intensity. (burning deals 8 damage per second/explosion deals more posture damage).
-
--   Requires 40 Willpower and 70 Flamecharm
-
- | 
+ | Many of your flames burn blue signifying their increased intensity (burning deals 8 damage per second/explosion deals more posture damage). | 
 
 +5 Health  
 +2 Elemental Intensity

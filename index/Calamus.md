@@ -1,6 +1,6 @@
 ---
 title: Calamus
-revid: 52079
+revid: 67706
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Starswept Valley]
@@ -29,7 +29,7 @@ After completing a certain amount of quests, he will give you a task to set up a
 -   [Deep Widow](Deep_Widow.md)
 -   [Stone Knight](https://deepwoken.fandom.com/wiki/Stone_Knight#Desert_Knight)
 -   [Thresher](Thresher.md)
--   [Authority Commander](Authority_Commander.md)
+-   [Authority Captain](Authority_Captain.md)
 -   [Brainsucker](Brainsucker.md)
 -   [King Thresher](Thresher.md)
 
