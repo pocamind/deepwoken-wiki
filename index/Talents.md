@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 67844
+revid: 67990
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1929,8 +1929,12 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Tamed Flame
 
+"I seek the qualities of Tamed Flame"
+
 -   Controlled Combustion \[Common Talent, Flamecharm Exclusive\] - Your Agitating Spark no longer spreads to your allies.
     -   Prerequisites: Agitating Spark, 40 Charisma
+    -   Note: Your Agitating Spark no longer spread to yourself too. Some places, like Duke's Dungeon, this talent can do not work well, spreading it to your allies if they are too close of the target.
+    -   Hitting a target with some flame mantras will briefly emite a visual effects in yourself and produce a sound of putting out flame. (This is just visual effects, therefore, is not necessary to dodge)
 
 ### Tavernkeep
 
