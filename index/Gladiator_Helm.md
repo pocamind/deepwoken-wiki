@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 63568
+revid: 67900
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -8,11 +8,25 @@ categories: [Helmets, Equipment]
 
 # Gladiator Helm
 
-Template:EquipmentStats
+| Gladiator Helm | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | 15 Fortitude |
+| innate stats | +10 Health+2 Posture |
+| innate talent | Concussive Force |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Aratel Island, Duke Erisia, Deep Widow, First Layer |
+| description | - ... |
 
 ## Description
 
-The Gladiator Helmet is an item under the _helmet_ category. It can be found in the [Starswept Valley.](The_Starswept_Valley.md)
+The Gladiator Helmet is an Equipment Armor in the Helmet category_._ Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the amount of pips.
+
+The talent Concussive Force: Enemies you knock remain downed longer than usual.
 
 ## Trivia
 

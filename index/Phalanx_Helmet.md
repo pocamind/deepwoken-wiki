@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 65070
+revid: 67866
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -10,9 +10,8 @@ categories: [Helmets]
 
 | Phalanx Helm | |
 |---|---|
-| type | Head Piece |
-| rarity | Second Layer |
-| selling price | N/A |
+| type | Helmet |
+| rarity | ??? |
 | requirements | N/A |
 | innate stats | N/A |
 | innate talent | N/A |
@@ -20,8 +19,9 @@ categories: [Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second LayerDuke (rare) |
+| obtainment | Second LayerDuke Erisia |
+| description | - ... |
 
 ## Description
 
-A helm that comes from second layer, part of the Hundred Legion's Phalanx set.
+The Phalanx Helm is an Equipment Armor in the Helmet category_._ Equipping this item will give you randomized stats based on the amount of pips.

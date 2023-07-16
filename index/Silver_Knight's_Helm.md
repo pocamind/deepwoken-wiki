@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 55027
+revid: 67895
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -8,8 +8,20 @@ categories: [Helmets, Items]
 
 # Silver Knight's Helm
 
-Template:EquipmentStats
+| Silver Knight's Helm | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | Fortitude 15 |
+| innate stats | +10 Health |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Aratel Island |
+| description | - ... |
 
 ## Description
 
-The Knight's Helm is a Helmet. Equipping this item will give you random placeholder stats.
+The Knight's Helmet is an Equipment Armor in the Helmet category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of pips.

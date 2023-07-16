@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 67690
+revid: 67859
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Arms, Dusters]
@@ -32,3 +32,4 @@ The Delver's Duster is an equipment item in the Arms category. Equipping it gran
 ## Trivia
 
 -   The only obtainable Mythic equipment item.
+-   This was intended to be part of a set, but l7\_Nano was removed from the team before they could finish it.

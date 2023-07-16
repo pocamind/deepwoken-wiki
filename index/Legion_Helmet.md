@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 50418
+revid: 67896
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -14,7 +14,7 @@ categories: [Helmets]
 | rarity | Uncommon |
 | selling price | 14 |
 | requirements | N/A |
-| innate stats | 10 HP, 3 Posture |
+| innate stats | +10 HP, +3 Posture |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

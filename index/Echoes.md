@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 67770
+revid: 67884
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -18,27 +18,31 @@ categories: [Echoes, Character, Mechanics, Creation]
 
 **Echoes** can be spent on **Upgrades;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echoes** tab can be used to spend **Echoes** on **Upgrades**. In addition, **Modifiers** can be enabled in this menu.
 
-**Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 2.8x modifier to **Echo** gain.
+**Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 3.2x modifier to **Echo** gain.
 
 **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 
-The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 157. (502 with all Echoes Modifier)
+The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 140. (441 with all Echoes Modifier)
 
 **Ranks** are granted to the character upon wiping, based on how much base echoes they have obtained (before multipliers)
 
-Ranks by themself do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list.
+Ranks by themself do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list. The emerald name overrides Silver & Gold names from [Chime of Conflict](Chime_of_Conflict.md).
+
+S Rank is achievable by doing all echoes tasks (listed below).
+
+A unique W Rank is achievable by obtaining S Rank while having enabled all Echoes Modifier.
+
+**What rank your character will receive depends on amount of echoes you collect, without taking modifiers multiplicator into consideration.**
 
 | Rank | Echoes Amount |
 | --- | --- |
-| W | All echo tasks + All echo modifiers |
-| S | All echo tasks |
+| W | 140 (w/ all Echoes Modifiers) |
+| S | 140 |
 | A | 100-139 |
 | B | ??-99 |
 | C |  |
 | D | 30-?? |
 | E | 0-29 |
-
-A unique W rank is achievable by obtaining S Rank while having enabled all Echoes Modifier.
 
 ### Ways of Obtaining Echoes
 
@@ -71,7 +75,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
 ## Guide For W and S Rank
 
-Checklist made by derathehunter found here
+Checklist made by derathehunter found here:
 
 [Guide Here](https://docs.google.com/document/d/1qNaYPvKJPwPD5wsNGvyW5UX6Ek2YpYDJiQY-NO88AGE/edit?usp=sharing)
 

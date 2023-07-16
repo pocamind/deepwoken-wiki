@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 66932
+revid: 67904
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Voidzones]
@@ -41,14 +41,14 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
  | 
 
 -   Duelist Mask
--   Etrean Siege Cuirass
+-   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
 -   Etrean Siege Staboons
--   Hive Scourge Cuirass
--   Ministry Operative Cloak
--   Winter Corps Parka
--   Winter Corps Boots
--   Royal Duelist
--   Mercenary Boots
+-   [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
+-   [Ministry Operative Cloak](Ministry_Operative_Cloak.md)
+-   [Winter Corps Parka](Winter_Corps_Parka.md)
+-   [Winter Corps Boots](Winter_Corps_Boots.md)
+-   [Royal Duelist](Royal_Duelist.md)
+-   [Mercenary Boots](<Mercenary's_Boots.md>)
 
  | 
 

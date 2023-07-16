@@ -1,6 +1,6 @@
 ---
 title: Frigid Prism
-revid: 67004
+revid: 67902
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Mantras]
@@ -12,7 +12,7 @@ categories: [World, Items, Mantras]
 |---|---|
 | value | 2 |
 | weight | 0 |
-| type | Attunement item |
+| type | Elemental Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

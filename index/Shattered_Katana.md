@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 58816
+revid: 67908
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -17,7 +17,6 @@ categories: [Weapons, Swords, Katanas]
 | range | 8 |
 | swing speed | 0.74x |
 | penetration | 30% |
-| selling price | 50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

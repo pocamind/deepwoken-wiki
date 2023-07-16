@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 67732
+revid: 67894
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -555,6 +555,8 @@ Chests from:
  | N/A |
 | 
 
+File:Blacksteel Helm(Better Lighting).png
+
  | 
 
 [Blacksteel Helm](Blacksteel_Helm.md)
@@ -856,7 +858,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Smith Bandana.png | 
+|  | 
 
 Smith Bandana
 

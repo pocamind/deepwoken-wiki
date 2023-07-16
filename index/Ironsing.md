@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 67713
+revid: 67867
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -37,7 +37,7 @@ The training item for Ironsing is the Ferrofluid. Much like every other attuneme
 |  | Metal Eruption
 (☆☆☆)
 
- | A fury of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Indicates a flash that signifies that the mantra is unparryable. By rotating your view, you can reangle the mantra to catch rolls.
+ | A fury of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Give off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls.
 
 Deals high posture. Heavily reminiscent to the legacy Frostdraw mantra, Ice Eruption.
 
@@ -167,8 +167,7 @@ These are talents found in "_Ironsinger_" Category.
 | 
  | 
 
-Ironsinger  
-(METAL 1)
+Ironsinger
 
  | 
 

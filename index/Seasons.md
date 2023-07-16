@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 47188
+revid: 67880
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -23,18 +23,20 @@ The difference between all seasons is the visuals and interactions to Items that
 
 ### Spring
 
+Examples of Spring.
+
 -   Rain is more common.
--   Fruits and wheat will start to spawn
--   Grass and Leave are ??? \[image needed\]
+-   Fruits and wheat will start to spawn.
+-   Grass and Leave are green.
 
 ### Summer
 
 Examples of Summer.
 
 -   Rain is less common.
--   Abundant with fruits and wheat
+-   Abundant with fruits and wheat.
 -   Grass and Leaves are green.
--   Sap will unlikely or not appear
+-   Sap will unlikely or not appear.
 
 ### Autumn
 
