@@ -1,6 +1,6 @@
 ---
 title: "Alchemist's Hat"
-revid: 37765
+revid: 67941
 source: https://deepwoken.fandom.com/wiki/Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -8,7 +8,19 @@ categories: [Helmets]
 
 # Alchemist's Hat
 
-Template:EquipmentStats
+| Alchemist's Hat | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | ApothecaryPitcher |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Aratel Island, First Layer |
+| description | - ... |
 
 ## Description
 

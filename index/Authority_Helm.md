@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 67688
+revid: 67916
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets]
@@ -8,7 +8,19 @@ categories: [Armors, Helmets]
 
 # Authority Helm
 
-Template:EquipmentStats
+| Authority Helm | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | 10 Fortitude |
+| innate stats | +8 Health |
+| innate talent | Strong Hold |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Aratel Island, Authority |
+| description | - ... |
 
 ## Description
 

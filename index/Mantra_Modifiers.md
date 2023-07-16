@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 67590
+revid: 67912
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -356,14 +356,14 @@ Insignia
 
 Gem
 
- | The next Mantra you cast within a short timeframe will have a 50% windup reduction. |
+ | On proc, the next Mantra you cast within a short timeframe will have a 50% windup reduction. |
 | 
 
  | 
 
 Bloodless Gem
 
- | Heals user by 50% of the damage dealt by the mantra. Healing reduced against multiple targets.
+ | Heals user by 50% of the damage dealt by the mantra. Healing reduced on multi hit mantras.
 
 Reduces damage of the mantra by 20%.
 
@@ -376,7 +376,7 @@ Blessed
 
 Gem
 
- | Halves the cooldown of the Mantra. |
+ | On hit halves the cooldown of the Mantra. |
 | 
 
  | 
@@ -394,7 +394,7 @@ File:Screenshot 59.png
 
 Wayward Gem
 
- | You will teleport to the first enemy hit by the mantra. |
+ | After 1 second you will teleport to the first enemy hit by the mantra. |
 |  | 
 
 Wind

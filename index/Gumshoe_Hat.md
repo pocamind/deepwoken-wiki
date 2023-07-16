@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 40810
+revid: 67936
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -8,7 +8,19 @@ categories: [Character, Armors]
 
 # Gumshoe Hat
 
-Template:EquipmentStats
+| Gumshoe Hat | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Fort Merit |
+| description | - ... |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Herbalist's Hat"
-revid: 65685
+revid: 67939
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -8,7 +8,19 @@ categories: [Helmets, Items]
 
 # Herbalist's Hat
 
-Template:EquipmentStats
+| Herbalist's Hat | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | Iron GutHerbivore |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Aratel Island, Second Layer |
+| description | - ... |
 
 ## Description
 

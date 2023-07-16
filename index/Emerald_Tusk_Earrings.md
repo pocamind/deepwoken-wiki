@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 67739
+revid: 67947
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | Random |
+| innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

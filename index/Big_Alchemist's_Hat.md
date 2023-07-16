@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 40753
+revid: 67938
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -8,7 +8,19 @@ categories: [Character, Armors]
 
 # Big Alchemist's Hat
 
-Template:EquipmentStats
+| Big Alchemist's Hat | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | ApothecaryPitcher |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Aratel Island, First Layer |
+| description | - ... |
 
 ## Description
 

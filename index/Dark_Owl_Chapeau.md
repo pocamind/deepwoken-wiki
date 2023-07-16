@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 64488
+revid: 67928
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets]
@@ -13,6 +13,7 @@ categories: [Armors, Helmets]
 | type | Helmet |
 | rarity | Rare |
 | selling price | 25 |
+| requirements | N/A |
 | innate stats | 10% Stealth |
 | innate talent | Giantslayer |
 | bankable | Yes |
@@ -20,6 +21,7 @@ categories: [Armors, Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Second Layer, Miner's Landing, Deep Widow, Duke Erisia |
+| description | - ... |
 
 ## Description
 

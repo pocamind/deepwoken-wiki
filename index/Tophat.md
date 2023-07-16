@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 37946
+revid: 67931
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -8,7 +8,19 @@ categories: [Helmets]
 
 # Tophat
 
-Template:EquipmentStats
+| Tophat | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Summer Isle |
+| description | - While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class. |
 
 ## Description
 

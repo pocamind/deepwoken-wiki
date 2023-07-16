@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 64540
+revid: 67927
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Depths |
-| description | - |
+| description | - ... |
 
 ## Description
 

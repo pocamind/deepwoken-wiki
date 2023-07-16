@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 66524
+revid: 67921
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -8,7 +8,19 @@ categories: [Armors]
 
 # Assassin's Hood
 
-Template:EquipmentStats
+| Assassin's Hood | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | +5% Stealth |
+| innate talent | Assassin |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Aratel Island (Pale), Aelita (Crimson, Gold & Mist) |
+| description | - ... |
 
 ## Description
 

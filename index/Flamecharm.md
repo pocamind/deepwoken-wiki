@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 67704
+revid: 67957
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -39,20 +39,21 @@ Flamecharm can be obtained from the trainer found at [Songseeker Wilds](Songseek
 
 ## Mantras
 
-### **Combat Mantras**
+**Combat:**
 
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
-|  | 
-Fire Blade
+**☆☆☆:**
 
+| Media | Name | Effect |
+| --- | --- | --- |
+| 
  | 
 
-_Slicing blades of flame._
+Fire Blade  
+_Slicing blades of flame_  
+☆☆☆
 
- | User forcefully slams down their blade coated in flames.
+ | Deals moderate damage.
 
--   Deals moderate damage.
 -   Inflicts Burn.
 -   At the end of the attack the user's weapon glows yellow and inflicts burn for a short time.
 -   Deals high posture damage.
@@ -64,13 +65,13 @@ _Slicing blades of flame._
 -   While having [Starkindred](Oaths.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
 
  |
-|  | 
-
-Flame Repulsion
+| 
 
  | 
 
-_An exertion of flames._
+Flame Repulsion  
+_An exertion of flames_  
+☆☆☆
 
  | After a wind-up of ~2 seconds, user releases a burning AoE blast.
 
@@ -82,13 +83,13 @@ _An exertion of flames._
 -   Compatible with Cloud/Stratus Stones.
 
  |
-|  | 
-
-Burning Servants
+| 
 
  | 
 
-_A legion of flames._
+Burning Servants  
+_A legion of flames_  
+☆☆☆
 
  | User summons six blazing warriors armored with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster. Before all striking one final time at the center and dissapearing in flames.
 
@@ -99,13 +100,13 @@ _A legion of flames._
 -   Can be modified with a reversal spark to have the warriors attack outwards and rag doll.
 
  |
-|  | 
-
-Fire Gun
+| 
 
  | 
 
-_A bullet of flames shot through each hand._
+Fire Gun  
+_A bullet of flames shot through each hand_  
+☆☆☆
 
  | Caster draws out and propels bullets of flames from their hands towards the cursor's location.
 
@@ -120,13 +121,13 @@ _A bullet of flames shot through each hand._
 -   Fire bullets can light campfire pits
 
  |
-|  | 
-
-Flame Grab
+| 
 
  | 
 
-_A fiery chokehold._
+Flame Grab  
+_A fiery chokehold_  
+☆☆☆
 
  | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
@@ -137,15 +138,13 @@ _A fiery chokehold._
     -   Might have changed, requires more testing.
 
  |
-|  | 
-
-Flame
-
-Blind
+| 
 
  | 
 
-_Snap your fingers, shooting a projectile that blinds those who dare gaze at it._
+Flame Blind  
+_Snap your fingers, shooting a projectile that blinds those who dare gaze at it._  
+☆☆☆
 
  | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
@@ -157,13 +156,17 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
 -   Like venting, this seemingly does no damage, but can actually knock opponents.[\[1\]](#cite-note-1)
 
  |
-|  | 
 
-Fire Palm (★)
+**★☆☆:**
 
+| Media | Name | Effect |
+| --- | --- | --- |
+| 
  | 
 
-_A blast of flame._
+Fire Palm  
+_A blast of flame_  
+★☆☆
 
  | User releases a burst of flame from the palm in front of them.
 
@@ -173,13 +176,13 @@ _A blast of flame._
 -   Can be upgraded with the [Wildfire](Talents.md) talent.
 
  |
-|  | 
-
-Fire Eruption (★)
+| 
 
  | 
 
-_A pyroclastic eruption._
+Fire Eruption  
+_A pyroclastic eruption_  
+★☆☆
 
  | User slams weapon into the ground below that causes 2 consecutive explosions.
 
@@ -191,33 +194,34 @@ _A pyroclastic eruption._
 -   Medium-Heavy endlag
 
  |
-|  | 
-
-Fire Forge (★)
+| 
 
  | 
 
-_Toss a nimble dagger._
+Fire Forge  
+_Toss a nimble dagger_  
+★☆☆
 
  | User throws 3 quick burning daggers.
 
 -   Deal light damage.
-
 -   Inflicts Burn.
-
 -   Improved by Talent "Hell's Partisan"
-
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 
  |
-|  | 
 
-Rising Flame (★★)
+**★★☆:**
 
+| Media | Name | Effect |
+| --- | --- | --- |
+| 
  | 
 
-_A rising tornado of flames._
+Rising Flame  
+_A rising tornado of flames_  
+★★☆
 
  | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
@@ -231,11 +235,9 @@ _A rising tornado of flames._
 
  | 
 
-Flame Assault (★★)
-
- | 
-
-_Burst forward in flames._
+Flame Assault  
+_Burst forward in flames_  
+★★☆
 
  | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
@@ -247,15 +249,17 @@ _Burst forward in flames._
     -   Can propel the user midair.
 
  |
+
+**★★★:**
+
+| Media | Name | Effect |
+| --- | --- | --- |
 | 
-
  | 
 
-Ash Slam (★★★)
-
- | 
-
-_Strike the ground, turning it to ash._
+Ash Slam  
+_Strike the ground, turning it to ash_  
+★★★
 
  | User imbues their fist with flames that explode on impact with the ground. strikes twice in front of the user and creates an bursting explosion each time.
 
@@ -266,20 +270,18 @@ _Strike the ground, turning it to ash._
 
  |
 
-### **Mobility Mantras**
+**Mobility:**
 
-| **Image** | **Spell** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
-|  | 
-Flame Leap
+**★★☆:**
 
-(★★)
-
-  
-
+| Media | Name | Effect |
+| --- | --- | --- |
+| 
  | 
 
-_Leap up leaving behind a burst of flames._
+Flame Leap  
+_Leap up leaving behind a burst of flames_  
+★★☆
 
  | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
@@ -291,59 +293,18 @@ _Leap up leaving behind a burst of flames._
 
  |
 
-### **Support Mantras**
+**Support:**
 
-| **Image** | **Name** | **Card Description** | **Effect** |
-| --- | --- | --- | --- |
-|  | 
-Flame Wisp
+**☆☆☆:**
 
-(★★)
-
-  
-
+| Media | Name | Effect |
+| --- | --- | --- |
+| 
  | 
 
-_A servant of flames._
-
- | Caster summons a wisp of magma.
-
--   Heals the caster 5% HP over 5 seconds every 10 seconds.
--   Ignites nearby campfire pits if not busy healing you.
--   Ritual casting.
-    -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
--   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses.
--   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
-    -   Heal amount may vary from player to player.
-
- |
-|  | 
-
-Graceful Flame
-
-(★)
-
- | 
-
-_Conjure an undying flame for the caster and their comrades to rest by._
-
- | Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
-
--   Acts as a mobile campfire with restrictions.
--   Lasts one minute without Duration Modifiers.
--   Compatible with Duration, Intensity and Mantra Size modifiers.
--   Ritual casting.
--   Will be put out if it's raining, unless used with the Unyielding Inferno talent.
--   Does not work in The Depths unless used with the Undying Flames talent.
-
- |
-|  | 
-
-Flame of Denial
-
- | 
-
-_Undying flame._
+Flame of Denial  
+_Undying flame_  
+☆☆☆
 
  | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
@@ -358,7 +319,115 @@ _Undying flame._
 
  |
 
+**★☆☆:**
+
+| Media | Name | Effect |
+| --- | --- | --- |
+| 
+ | 
+
+Graceful Flame  
+_Conjure an undying flame for the caster and their comrades to rest by_  
+★☆☆
+
+ | Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
+
+-   Acts as a mobile campfire with restrictions.
+-   Lasts one minute without Duration Modifiers.
+-   Compatible with Duration, Intensity and Mantra Size modifiers.
+-   Ritual casting.
+-   Will be put out if it's raining, unless used with the Unyielding Inferno talent.
+-   Does not work in The Depths unless used with the Undying Flames talent.
+
+ |
+
+**★★☆:**
+
+| Media | Name | Effect |
+| --- | --- | --- |
+| 
+ | 
+
+Flame Wisp  
+_A servant of flames_  
+★★☆
+
+ | Caster summons a wisp of magma.
+
+-   Heals the caster 5% HP over 5 seconds every 10 seconds.
+-   Ignites nearby campfire pits if not busy healing you.
+-   Ritual casting.
+    -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
+-   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses.
+-   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
+    -   Heal amount may vary from player to player.
+
+ |
+
 ## **Talents**
+
+**Amoran Seeker:**
+
+These are talents found in "_Amoran Seeker_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+File:Flame Within.gif
+
+ | 
+
+Flame Within  
+(FLAME 25)
+
+ | 
+
+An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
+
+ | 
+
+Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling.
+
+ |
+| 
+
+ | 
+
+Last Laugh  
+(FLAME 30, Flame Within)
+
+ | 
+
+Gain the ability to incinerate yourself when down.
+
+ | 
+
++5 Elemental Intensity  
+Using Flame Within, set your self on fire after being knocked down.
+
+ |
+
+**Duelist Flame:**
+
+These are talents found in "_Duelist Flame_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Concussive Flash  
+(FLAME 25, STR 25, Flame Blind)
+
+ | 
+
+Your blinding light now concusses foes.
+
+ | 
+
+N/A
+
+ |
 
 **Falling Star Guard:**
 
@@ -370,7 +439,7 @@ These are talents found in "_Falling Star Guard_" Category.
  | 
 
 Meteor Impact  
-(FLAME 25)
+(FLAME 25, Rising Flame)
 
  | 
 
@@ -378,7 +447,7 @@ Aerial moves will follow up into a devastating slam.
 
  | 
 
-+3 Elemental Intensity FROM: Flamecharmer
++4 Elemental Intensity
 
  |
 | 
@@ -394,7 +463,7 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
 
  | 
 
-+3 Elemental Intensity +3 Health FROM: Meteor Impact
++3 Elemental Intensity
 
  |
 | 
@@ -402,7 +471,7 @@ If you Meteor Slam an opponent whilst on Fire, restore some HP and Ether.
  | 
 
 Thorns of Fire  
-(Flame Repulsion)
+(FLAME 10, Flame Repulsion)
 
  | 
 
@@ -410,7 +479,7 @@ Taking damage while using Flame Repulsion reflects the damage back to the attack
 
  | 
 
-+2 Elemental Intensity +3 Health
++2 Elemental Intensity
 
  |
 
@@ -423,12 +492,108 @@ These talents are found in the "_Flamecharmer_" Category.
 | 
  | 
 
+Flamecharmer  
+(FLAME 1)
+
+ | 
+
+Grants you the ability to command Fire as a Flamecharmer.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Adept Flamecharmer  
+(FLAME 20)
+
+ | 
+
+You can now obtain 1-star Flamecharmer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Expert Flamecharmer  
+(FLAME 30)
+
+ | 
+
+You can now obtain 2-star Flamecharmer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Master Flamecharmer  
+(FLAME 50)
+
+ | 
+
+You can now obtain 3-star Flamecharmer Mantras.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Azure Flames  
+(FLAME 70, WILL 40)
+
+ | 
+
+Many of your flames turn blue, signifying their increased intensity (burning deals 8 damage per second/explosion deals more posture damage).
+
+ | 
+
++2 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Intrepid Flame  
+([Flame Worshipper](Flame_Worshipper_Armor.md) outfit)
+
+ | 
+
+Flames wear off twice as fast on you.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
 Produce Spark  
 (FLAME 20)
 
- | A masterful production of flame for the use of making campfires.
+ | 
 
--   Active Ability.
+A simple production of Flame for the use of making Campfires.
 
  | 
 
@@ -437,44 +602,10 @@ Caster uses a small amount of ether to create a small ember in their hands, used
  |
 | 
 
-File:Flame Within.gif
-
- | 
-
-Flame Within  
-(FLAME 25)
-
- | An Application of Pleetsky's concept of the inner flame, also known as the soul of man. Set your body ablaze to gain extra strength and speed.
-
--   Active Ability.
-
- | 
-
-Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling.
-
- |
-| 
-
- | 
-
-Wildfire  
-(Fire Palm)
-
- | 
-
-Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
-
- | 
-
-Increases your Fire Palm's range, and narrows it's hitbox by default. Pressing F before using Fire Palm will revert it back to its original width and range.
-
- |
-| 
-
  | 
 
 Unyielding Inferno  
-(FLAME 35)
+(FLAME 30)
 
  | 
 
@@ -482,7 +613,45 @@ Your flames burn just as strong even in the fiercest of storms.
 
  | 
 
-Graceful Flames and lit campfires will not be extinguished in rain (not in depths).
+Graceful Flames and lit campfires will not be extinguished in rain.
+
+ |
+| 
+
+ | 
+
+Wildfire  
+(FLAME 30, Fire Palm)
+
+ | 
+
+Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
+
+ | 
+
++1 Elemental Intensity
+
+ |
+
+**Flame Brawler:**
+
+These are talents found in "_Flame Brawler_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Flaming Uppercut  
+(FLAME 35)
+
+ | 
+
+Your blinding light now concusses foes.
+
+ | 
+
++4 Elemental Intensity
 
  |
 
@@ -496,7 +665,7 @@ These are talents found in "_Flame Dancer_" Category.
  | 
 
 Dancing Steps  
-(FLAME 35, POWER 8)
+(FLAME 35)
 
  | 
 
@@ -505,6 +674,436 @@ Fire mantras now move you in the direction you're facing.
  | 
 
 +3 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Graceful Steps  
+(FLAME 80, POWER 13)
+
+ | 
+
+Your dancing steps now gives a faster speed boost.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+The Final Act  
+(FLAME 60, POWER 13)
+
+ | 
+
+Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+
+**Flame Warden:**
+
+These are talents found in "_Flame Warden_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Cauterized Wounds  
+(FLAME 40, FORT 5)
+
+ | 
+
+Blood Loss from all sources are reduced.
+
+ | 
+
++1 Passive Agility  
++3 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Flamewalker  
+(FLAME 40, AGILITY 25, Warding Radiance)
+
+ | 
+
+When Warding Radiance is active you leave trails of flame when you slide.
+
+ | 
+
++1 Passive Agility  
++3 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Hell's Partisan  
+(FLAME 35, Fire Forge)
+
+ | 
+
+When Warding Radiance is active you leave trails of flame when you slide.
+
+ | 
+
++4 Sanity  
++1 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Warding Radiance  
+(FLAME 30, AGILITY 20, Hell's Partisan)
+
+ | 
+
+When Warding Radiance is active you leave trails of flame when you slide.
+
+ | 
+
++4 Sanity  
++1 Elemental Intensity
+
+ |
+
+**Immolator:**
+
+These talents are found in the "_Immolator_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Immolation  
+(FLAME 40, WILL 20, Agitating Spark)
+
+ | 
+
+Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage.
+
+ | 
+
++8 Sanity
+
+ |
+| 
+
+ | 
+
+Phoenix Flames  
+(FLAME 40, WILL 20, All Immolator talents)
+
+ | 
+
+Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
+
+ | 
+
++2 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Pyromania  
+(FLAME 40, Agitating Spark)
+
+ | 
+
+Self-inflicted fire damage is reduced.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Agitating Spark  
+(FLAME 40)
+
+ | 
+
+If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
+
+ | 
+
++3 Elemental Intensity
+
+ |
+
+**Inferno:**
+
+These talents are found in the "_Inferno_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+All-Consuming Flame  
+(FLAME 65)
+
+ | 
+
+Your flames will incinerate unconscious Targets much faster.
+
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Corpse Explosion  
+(FLAME 60, Agitating Spark)
+
+ | 
+
+Bodies that you burn to death immediately explode dealing massive damage.
+
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Pleeksty's Will  
+(FLAME 20, Flamecharmer Ploom quest)
+
+ | 
+
+You gain significantly more ether from consuming elemental ingredients.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Pleeksty's Faith  
+(FLAME 1, WILL 15, CHARISMA 15)
+
+ | 
+
+When on fire, automatically quench flames at the cost of some ether.
+
+ | 
+
+N/A
+
+ |
+
+**Lava Serpent:**
+
+These are talents found in "_Lava Serpent_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Eruption Path: Lava Serpent  
+(FLAME 40)
+
+ | 
+
+Your fire abilities no longer proc burn and instead proc on eruption under the enemies feet.
+
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Molten Defence  
+(FLAME 60, Eruption Path: Lava Serpent)
+
+ | 
+
+Upon being guard broken, you erupt. 30s cooldown.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Empowered Eruption  
+(FLAME 50, Eruption Path: Lava Serpent)
+
+ | 
+
+Your next Eruption after landing a critical is empowered with increased range and damage. 10s cooldown.
+
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Flash Point  
+(FLAME 45, Eruption Path: Lava Serpent)
+
+ | 
+
+Block-breaking an enemy with a fire mantra applies Burning.
+
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Scorched Earth  
+(FLAME 75, Eruption Path: Lava Serpent)
+
+ | 
+
+Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
+
+ | 
+
++4 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+The Floor Is LAva  
+(FLAME 100, Eruption Path: Lava Serpent)
+
+ | 
+
+Your eruptions leave lethal pools of lava beneath them.
+
+ | 
+
+N/A
+
+ |
+
+**Pyromancer:**
+
+These are talents found in "_Pyromancer_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Hungry Flames  
+(FLAME 30, FORT 15)
+
+ | 
+
+When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
+
+ | 
+
++5 Elemental Intensity
+
+ |
+
+**Tamed Flame:**
+
+These are talents found in "_Tamed Flame_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Controlled Combustion  
+(FLAME 40, CHARISMA 40, Agitating Spark)
+
+ | 
+
+Your Agitating Spark no longer spreads to your allies.
+
+ | 
+
+N/A
+
+ |
+
+**The Demon Blade:**
+
+These are talents found in "_The Demon Blade_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Explosive Finish  
+(FLAME 45)
+
+ | 
+
+If an enemy is on fire when you flourish, blast them away with a fire blast.
+
+ | 
+
++2 Elemental Intensity
+
+ |
+| 
+
+ | 
+
+Flaming Flourish  
+(FLAME 30)
+
+ | 
+
+Set enemies on fire when you flourish them.
+
+ | 
+
++2 Elemental Intensity
 
  |
 
@@ -526,24 +1125,23 @@ Absorb fire produced by you, once you reach 5 stacks your next attack will be an
 
  | 
 
-+4 Elemental Intensity +3 Health FROM: Flamecharmer
++4 Elemental Intensity
 
  |
 | 
 
  | 
 
-Mirage Clone  
+Mirage Clones  
 (FLAME 65)
 
  | 
 
-Successfully dodging leaves behind a heat mirage that sets enemies that swung at you on fire.
-
-(Rare Talent)
+Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire.
 
  | 
 
++4 Elemental Intensity  
 When dodging an attack, you leave behind a fire clone that burns the attacking enemy.
 
  |
@@ -557,32 +1155,16 @@ These talents are found in the "_Undying Ember_" Category.
 | 
  | 
 
-Last Laugh  
-(FLAME 30, Flame Within)
-
- | Gain the ability to incinerate your self when down.
-
--   Common Talent
-
- | 
-
-Using Flame Within, set your self on fire after being knocked down. This card is typically paired with Phoenix Flames.
-
- |
-| 
-
- | 
-
 Denial Repulse  
-(Flame of Denial)
-
- | You now emit a delayed burst of flames after coming close to death.
-
--   Rare talent
+(FLAME 20, WILL 40, Flame of Denial)
 
  | 
 
- ???
+You now emit a delayed burst of flames after coming close to death.
+
+ | 
+
++1 Elemental Intensity
 
  |
 | 
@@ -592,13 +1174,13 @@ Denial Repulse
 Undying Flame  
 (FLAME 40, WILL 40, Graceful Flame)
 
- | Your flame can be casted in the depths.
+ | 
 
--   Rare card \[40 Willpower, **40 Flamecharm**\]
+Your flame can be casted in the depths.
 
  | 
 
-Graceful Flame is Able to Be Casted In The Depths
++1 Elemental Intensity
 
  |
 | 
@@ -610,130 +1192,15 @@ Soundness of Mind
 
  | 
 
-Standing close to your graceful flame will slowly
-
-restore sanity for others in the area.
+Standing close to your graceful flame will slowly restore sanity for others in the area.
 
  | 
 
- ???
++1 Elemental Intensity
 
  |
 
-**Inferno:**
-
-These talents are found in the "_Inferno_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Agitating Spark  
-(FLAME 40)
-
- | 
-
-If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (This also applies when using Flame Within).
-
- | 
-
-+3 Elemental Intensity FROM: Flamecharmer
-
- |
-| 
-
- | 
-
-Pleeksty's Faith  
-(FLAME 1, WILL 15, CHARISMA 15)
-
- | 
-
-When on fire, automatically quench flames at the cost of some ether.
-
- | 
-
-(Possibility: When on fire it puts out at the cost of ether requires 15 Charisma and Flamecharm maybe less Charisma)
-
- |
-
-**Immolator:**
-
-These talents are found in the "_Immolator_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Phoenix Flames  
-(All Immolator talents)
-
- | 
-
-Any time you would burn to death, you instead rise again with 50% of your health restored.
-
-(Advanced Talent)
-
- | 
-
-When the user is burned to death, the user is instead revived with 50% health. This card is typically paired with Last Laugh. FROM: Immolation
-
- |
-| 
-
- | 
-
-Immolation  
-(WILL 20, Agitating Spark)
-
- | 
-
-Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage.
-
- | 
-
-Reduces the caster's ether cost by 70% while on fire. Hitting an opponent while on fire causes them to be lit on fire.
-
- |
-
-**Lava Serpent:**
-
-These are talents found in "_Lava Serpent_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Eruption Path: Lava Serpent  
-(FLAME 40)
-
- | Your fire abilities no longer proc burn and instead proc an eruption under the enemies feet (this talent can also be empowered with using Agitated spark, no longer procing burn on the user but procs a second explosion which is VERY useful). | 
-
-+4 Elemental Intensity
-
- |
-
-**Uncategorized:**
-
-These are talents found in "_Uncategorized_" Category.
-
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-| 
- | 
-
-Azure Flames  
-(FLAME 70, WILL 40)
-
- | Many of your flames burn blue signifying their increased intensity (burning deals 8 damage per second/explosion deals more posture damage). | 
-
-+5 Health  
-+2 Elemental Intensity
-
- |
+  
 
 ## Trivia
 

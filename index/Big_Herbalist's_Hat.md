@@ -1,6 +1,6 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 57141
+revid: 67940
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -8,7 +8,19 @@ categories: [Helmets, Equipment]
 
 # Big Herbalist's Hat
 
-Template:EquipmentStats
+| Big Herbalist's Hat | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | Iron GutHerbivore |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Aratel Island |
+| description | - ... |
 
 ## Description
 

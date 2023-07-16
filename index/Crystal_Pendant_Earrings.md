@@ -1,6 +1,6 @@
 ---
 title: Crystal Pendant Earrings
-revid: 67748
+revid: 67951
 source: https://deepwoken.fandom.com/wiki/Crystal_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -14,7 +14,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | Random |
+| innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

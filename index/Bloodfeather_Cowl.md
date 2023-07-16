@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Cowl
-revid: 67601
+revid: 67919
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -8,4 +8,22 @@ categories: [Equipment, Helmets]
 
 # Bloodfeather Cowl
 
-The bloodfeather cowl is a piece of equipment part of the bloodfeather set, it can be found in the second layer, merchant ships, or Duke Erisia's chest.
+| Bloodfeather Cowl | |
+|---|---|
+| type | Helmet |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | Bloodletter |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Second Layer |
+| description | - ... |
+
+## Description
+
+The Bloodfeather Cowl is an Equipment Armor in the Helmet category_._ Equipping this item will give you the talent Bloodletter, as well as extra randomized stats based on the amount of pips.
+
+The talent Bloodletter: Hitting opponents on the ground lowers their blood.
