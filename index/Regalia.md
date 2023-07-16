@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 67933
+revid: 67972
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -17,10 +17,6 @@ Currently, there is no functional method to obtain Regalias, nor is there any ev
 Mute, or less formally known as 'Animal King' causes all monster-type mobs to not be able to detect you. All [Monsters](Monsters.md) (with the exceptions of 'Constructs' such as [Golems](Rock_Golem.md), [Blizzard Knights](Stone_Knight.md) and [The Enforcer](Enforcer.md), along with the Guards at [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)) will be unable to see the player and therefore wont attack unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. Most humanoid enemies will still aggro the player on sight. If you wipe with a low enough level, an unknown level under 8, you will get to keep Mute for your next life.[\[1\]](https://www.youtube.com/watch?v=0zHNjRDTsiU)
 
 Activating Hell mode will disable Mute.
-
-## Unbounded Soul
-
-Speculated Regalia, it makes it so you have an unknown amount of "free unbounds" which means, when you get 75 (or 77) of an stats, you automatically unbound it, no need for chaser, no need for anything.
 
 ## Trivia
 

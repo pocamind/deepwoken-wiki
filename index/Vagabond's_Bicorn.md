@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 67930
+revid: 67989
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items, Armors]
@@ -24,4 +24,4 @@ categories: [Helmets, Items, Armors]
 
 ## Description
 
-The Gladiator Helmet is an Equipment Armor in the Helmet category_._ Equipping this item will give you extra randomized stats based on the amount of pips.
+The Vegabond's Bicorn is an Equipment item under the Head category_._ Equipping this item will give you extra randomized stats based on the amount of pips.

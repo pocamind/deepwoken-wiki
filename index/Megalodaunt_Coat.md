@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coat
-revid: 67920
+revid: 67977
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare drop from: Megalodaunts |
+| obtainment | Rare drop from Megalodaunts |
 
 ## Description
 

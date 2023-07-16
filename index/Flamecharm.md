@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 67957
+revid: 67988
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -39,21 +39,20 @@ Flamecharm can be obtained from the trainer found at [Songseeker Wilds](Songseek
 
 ## Mantras
 
-**Combat:**
+### **Combat Mantras**
 
-**☆☆☆:**
+| **Image** | **Name** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | 
+Fire Blade
 
-| Media | Name | Effect |
-| --- | --- | --- |
-| 
  | 
 
-Fire Blade  
-_Slicing blades of flame_  
-☆☆☆
+_Slicing blades of flame._
 
- | Deals moderate damage.
+ | User forcefully slams down their blade coated in flames.
 
+-   Deals moderate damage.
 -   Inflicts Burn.
 -   At the end of the attack the user's weapon glows yellow and inflicts burn for a short time.
 -   Deals high posture damage.
@@ -65,13 +64,13 @@ _Slicing blades of flame_
 -   While having [Starkindred](Oaths.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
 
  |
-| 
+|  | 
+
+Flame Repulsion
 
  | 
 
-Flame Repulsion  
-_An exertion of flames_  
-☆☆☆
+_An exertion of flames._
 
  | After a wind-up of ~2 seconds, user releases a burning AoE blast.
 
@@ -83,13 +82,13 @@ _An exertion of flames_
 -   Compatible with Cloud/Stratus Stones.
 
  |
-| 
+|  | 
+
+Burning Servants
 
  | 
 
-Burning Servants  
-_A legion of flames_  
-☆☆☆
+_A legion of flames._
 
  | User summons six blazing warriors armored with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster. Before all striking one final time at the center and dissapearing in flames.
 
@@ -100,13 +99,13 @@ _A legion of flames_
 -   Can be modified with a reversal spark to have the warriors attack outwards and rag doll.
 
  |
-| 
+|  | 
+
+Fire Gun
 
  | 
 
-Fire Gun  
-_A bullet of flames shot through each hand_  
-☆☆☆
+_A bullet of flames shot through each hand._
 
  | Caster draws out and propels bullets of flames from their hands towards the cursor's location.
 
@@ -121,13 +120,13 @@ _A bullet of flames shot through each hand_
 -   Fire bullets can light campfire pits
 
  |
-| 
+|  | 
+
+Flame Grab
 
  | 
 
-Flame Grab  
-_A fiery chokehold_  
-☆☆☆
+_A fiery chokehold._
 
  | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
@@ -138,13 +137,15 @@ _A fiery chokehold_
     -   Might have changed, requires more testing.
 
  |
-| 
+|  | 
+
+Flame
+
+Blind
 
  | 
 
-Flame Blind  
-_Snap your fingers, shooting a projectile that blinds those who dare gaze at it._  
-☆☆☆
+_Snap your fingers, shooting a projectile that blinds those who dare gaze at it._
 
  | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
@@ -156,17 +157,13 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
 -   Like venting, this seemingly does no damage, but can actually knock opponents.[\[1\]](#cite-note-1)
 
  |
+|  | 
 
-**★☆☆:**
+Fire Palm (★)
 
-| Media | Name | Effect |
-| --- | --- | --- |
-| 
  | 
 
-Fire Palm  
-_A blast of flame_  
-★☆☆
+_A blast of flame._
 
  | User releases a burst of flame from the palm in front of them.
 
@@ -176,13 +173,13 @@ _A blast of flame_
 -   Can be upgraded with the [Wildfire](Talents.md) talent.
 
  |
-| 
+|  | 
+
+Fire Eruption (★)
 
  | 
 
-Fire Eruption  
-_A pyroclastic eruption_  
-★☆☆
+_A pyroclastic eruption._
 
  | User slams weapon into the ground below that causes 2 consecutive explosions.
 
@@ -194,34 +191,33 @@ _A pyroclastic eruption_
 -   Medium-Heavy endlag
 
  |
-| 
+|  | 
+
+Fire Forge (★)
 
  | 
 
-Fire Forge  
-_Toss a nimble dagger_  
-★☆☆
+_Toss a nimble dagger._
 
  | User throws 3 quick burning daggers.
 
 -   Deal light damage.
+
 -   Inflicts Burn.
+
 -   Improved by Talent "Hell's Partisan"
+
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 
  |
+|  | 
 
-**★★☆:**
+Rising Flame (★★)
 
-| Media | Name | Effect |
-| --- | --- | --- |
-| 
  | 
 
-Rising Flame  
-_A rising tornado of flames_  
-★★☆
+_A rising tornado of flames._
 
  | User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
@@ -235,9 +231,11 @@ _A rising tornado of flames_
 
  | 
 
-Flame Assault  
-_Burst forward in flames_  
-★★☆
+Flame Assault (★★)
+
+ | 
+
+_Burst forward in flames._
 
  | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
@@ -249,17 +247,15 @@ _Burst forward in flames_
     -   Can propel the user midair.
 
  |
-
-**★★★:**
-
-| Media | Name | Effect |
-| --- | --- | --- |
 | 
+
  | 
 
-Ash Slam  
-_Strike the ground, turning it to ash_  
-★★★
+Ash Slam (★★★)
+
+ | 
+
+_Strike the ground, turning it to ash._
 
  | User imbues their fist with flames that explode on impact with the ground. strikes twice in front of the user and creates an bursting explosion each time.
 
@@ -270,18 +266,20 @@ _Strike the ground, turning it to ash_
 
  |
 
-**Mobility:**
+### **Mobility Mantras**
 
-**★★☆:**
+| **Image** | **Spell** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | 
+Flame Leap
 
-| Media | Name | Effect |
-| --- | --- | --- |
-| 
+(★★)
+
+  
+
  | 
 
-Flame Leap  
-_Leap up leaving behind a burst of flames_  
-★★☆
+_Leap up leaving behind a burst of flames._
 
  | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
@@ -293,42 +291,41 @@ _Leap up leaving behind a burst of flames_
 
  |
 
-**Support:**
+### **Support Mantras**
 
-**☆☆☆:**
+| **Image** | **Name** | **Card Description** | **Effect** |
+| --- | --- | --- | --- |
+|  | 
+Flame Wisp
 
-| Media | Name | Effect |
-| --- | --- | --- |
-| 
+(★★)
+
+  
+
  | 
 
-Flame of Denial  
-_Undying flame_  
-☆☆☆
+_A servant of flames._
 
- | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
+ | Caster summons a wisp of magma.
 
--   Prevents the user from being knocked for 30 seconds if damage isn't substantial.
-    -   Regenerates ~15% of user's health upon receiving lethal damage.
--   Flame stays in chest for the duration of the mantra.
+-   Heals the caster 5% HP over 5 seconds every 10 seconds.
+-   Ignites nearby campfire pits if not busy healing you.
 -   Ritual casting.
--   Restores some of the user's sanity.
--   Putting _Vibrant Gems_ on it seems to add more keys extends the ritual casting,
-    -   Potentially Incompatible with Duration modifiers.
--   Freezes user in place for a brief moment on a successful cast.
+    -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
+-   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses.
+-   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
+    -   Heal amount may vary from player to player.
 
  |
+|  | 
 
-**★☆☆:**
+Graceful Flame
 
-| Media | Name | Effect |
-| --- | --- | --- |
-| 
+(★)
+
  | 
 
-Graceful Flame  
-_Conjure an undying flame for the caster and their comrades to rest by_  
-★☆☆
+_Conjure an undying flame for the caster and their comrades to rest by._
 
  | Caster holds out their arm while concentrating their flame before conjuring an orb of fire used to imitate a campfire.
 
@@ -340,27 +337,24 @@ _Conjure an undying flame for the caster and their comrades to rest by_
 -   Does not work in The Depths unless used with the Undying Flames talent.
 
  |
+|  | 
 
-**★★☆:**
+Flame of Denial
 
-| Media | Name | Effect |
-| --- | --- | --- |
-| 
  | 
 
-Flame Wisp  
-_A servant of flames_  
-★★☆
+_Undying flame._
 
- | Caster summons a wisp of magma.
+ | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
--   Heals the caster 5% HP over 5 seconds every 10 seconds.
--   Ignites nearby campfire pits if not busy healing you.
+-   Prevents the user from being knocked for 30 seconds if damage isn't substantial.
+    -   Regenerates ~15% of user's health upon receiving lethal damage.
+-   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.
-    -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
--   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses.
--   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
-    -   Heal amount may vary from player to player.
+-   Restores some of the user's sanity.
+-   Putting _Vibrant Gems_ on it seems to add more keys extends the ritual casting,
+    -   Potentially Incompatible with Duration modifiers.
+-   Freezes user in place for a brief moment on a successful cast.
 
  |
 
