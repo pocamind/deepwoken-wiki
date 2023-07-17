@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 66314
+revid: 68000
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -42,6 +42,8 @@ The color of a chest depends on where you got it from, consisting of four variat
 -   [Terrapod](Terrapod.md)
 -   [Thresher](Thresher.md)
 -   [Nautilodaunt](Nautilodaunt.md) (WHY IS HE HERE? WHO LET RAG COOK?)
+
+Chest mimics will not trigger if it is one of the chests near the Trial of One entrance. (What are other instances similar to this?)
 
 ## Sacks
 

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Coat
-revid: 67977
+revid: 67996
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Coats]
 | Megalodaunt Coat | |
 |---|---|
 | type | Arms |
-| rarity | Common |
-| selling price | 7 |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | Power 5 |
 | weight | 2 |
 | innate stats | 5% Damage Vs Monsters2 Pips |

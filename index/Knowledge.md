@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 67579
+revid: 68001
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -13,17 +13,15 @@ categories: [Mechanics]
 | usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables |
 | obtainment | Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones |
 
-“ Do you have the knowledge within you then, my dull friend? ”
+“ Boys go to college to get more knowledge, Girls go to Jupiter to get more stupider. ”
 
-― Misérables
+― Some Felinor
 
 Your Knowledge **grows**...
 
-  
-
 Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build-- aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
 
-With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled [**Misérables**](Misérables.md) so long as they have sufficient _Knowledge._
+With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled [**Misérables**](Misérables.md) so long as they have sufficient _Knowledge._ Not that Deepwoken players have any realistically.
 
 ## Overview
 
@@ -46,7 +44,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing [Crimson Megalodaunt](Megalodaunt.md) for the first time, awarding 1 Knowledge.
 -   Killing [Deep Owl](Deep_Owl.md) for the first time, awarding 1 Knowledge.
 -   Killing [Deep Widow](Deep_Widow.md) for the first time, awarding 1 Knowledge.
--   Killing [Nautilodaunt](Nautilodaunt.md) for the first time, awarding 1 Knowledge.
+-   Killing [Nautilodaunt](Nautilodaunt.md) for the first time, awarding 2 Knowledge.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
 -   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge.
