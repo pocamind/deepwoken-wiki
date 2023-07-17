@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 67991
+revid: 68011
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -79,7 +79,7 @@ There are two variants that enchantments come in:
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing 1.4x weapon damage to them and others around beside the user.<br>
+  times they explode, dealing 1.2x weapon damage to them and others around beside the user.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
