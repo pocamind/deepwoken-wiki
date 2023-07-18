@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 68040
+revid: 68088
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -26,7 +26,7 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
 **Lore** - None has been provided, likely because it was added due to the suggestion of YouTuber Agamatsu on short notice.
 
  |  |
-|  | **Void Spire** - A reusable relic used to send people to the [Depths](The_Depths.md) when they are executed inside the radius of the relic. Players below Power 15 aren't affected at all, and can't summon a Void Spire themselves. Those who are unconscious (knocked) at the time of the Spire being summoned won't be affected by the Spire's effect. Void Spires cannot be summoned in towns. |  |
+|  | **Void Spire** - A reusable relic that can be found in [Layer 2](Second_Layer.md), on use send people to the [Depths](The_Depths.md) when they are executed inside the radius of the relic, since a [Voidzone](Voidzones.md) is placed. Players below Power 15 aren't affected at all, and can't summon a Void Spire themselves. Those who are unconscious (knocked) at the time of the Spire being summoned won't be affected by the Spire's effect. Void Spires cannot be summoned in towns. |  |
 
 ## Lore Relics
 
