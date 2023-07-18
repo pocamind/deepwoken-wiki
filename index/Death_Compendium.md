@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 67763
+revid: 68080
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -38,7 +38,6 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Get sucked clean of your blood by the overgrown magic mosquito that is [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Try to threaten [Akira](Akira.md) and fail to meet the Charisma requirement.
--   Speak to Brutus without 75 Fortitude. (He'll beat you to death.) -> joke he doesnt kill you XD
 -   Get crushed by a [Boulder](Training_Gear.md).
 -   Get dissolved by acid lakes found at [Upper Erisia](Upper_Erisia.md).
 -   Glitch out. (This could mean a number of things, such as being flung by an [Ironclad](Ships_&_Sailing.md) or glitching underneath the map and falling into the Roblox void. In most cases you won't be provided with a death message, and also will sometimes have your life automatically restored upon respawning.)
@@ -49,8 +48,6 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Be torn from eternity by the instakill orbs during said escape sequence.
 -   Find a way to escape the reset timer before it hits zero seconds, _without_ using a combat tag.
 -   Be executed in Layer 2 by hitting the wall of the bridge by being blown into it by the wind while knocked
-
-This list is still being worked on. Feel free to add any deaths you don't see here, as long as you think they should be here.
 
 Death Causes listed by the game:
 

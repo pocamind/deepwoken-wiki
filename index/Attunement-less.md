@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 67620
+revid: 68075
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -517,7 +517,6 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
 -   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
 -   Some Attunement-less have a lot of utility that you can use to your advantage to help you survive.
--   Shoulder Bash you should never take the damage is very weak and it is easily parryble.
 
 ## Trivia
 

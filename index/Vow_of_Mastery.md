@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 67041
+revid: 68073
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -20,8 +20,8 @@ categories: [Pages with broken file links, Talents, Vows]
 
 Confirmation menu when accepting a Vow of Mastery.
 
-To become a master, you must ask a player a question similar to:  
-"Wanna make a vow of mastery?"
+To become a master, you must ask a player:  
+"Wanna make a vow of mastery \[First Name\]?"
 
 The player must respond with "yes". After responding yes, the subject will have a menu appear which warns them and lets them accept or decline the vow. Once accepted, an animation will play and the player will become your subject. You can now use commands on them, by typing them into chat. However, most of the more useful commands must be unlocked through additional [Talents](Talents.md), which require more [Charisma](Attributes.md).
 
