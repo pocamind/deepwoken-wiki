@@ -1,9 +1,9 @@
 ---
 title: Bone Keeper
-revid: 68057
+revid: 68117
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, Layer 2, Floor 1]
 ---
 
 # Bone Keeper
@@ -16,17 +16,17 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the Depths Trial at extremely high drowns, potentially Corrupted.
+The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the Depths Trial at the power 20 trial or at high drowns, potentially Corrupted.
 
-Bone Keepers are giant, humanoid creatures, with inhuman proportions, having extremely short legs and large arms. It has clearly clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothes on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
+Bone Keepers are giant, humanoid creatures, with inhuman proportions, having short legs yet large arms. It has clearly clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothing on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
 
-Bone Keepers are incredibly mobile and hard-hitting enemies. They are certainly a large difficulty step-up from the mobs found in Layer 1, however all of their attacks are well telegraphed and can be avoided with proper experience. They do large damage, so be wary of messing up.
+These monsters are incredibly mobile and hard-hitting enemies. They are certainly a large difficulty step-up from the mobs found in Layer 1, however all of their attacks are well telegraphed and can be avoided with proper experience. They do large damage, so be wary of messing up. _(Especially when corrupted.)_
 
 ## Moveset
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| Triple Slash into Leap | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended. The arm can be parried, but the leap **cannot be blocked, parried, or dodged.** It has a small hitbox, though, so rolling out of the way or towards the Bonekeeper immediately after parrying its arm slash is sufficient. **Leap autogrips.** | ✗ | ✗ | ✗ | (★★☆) |
+| Leap (After Triple Slash) | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended. The arm can be parried, but the leap **cannot be blocked, parried, or dodged.** It has a small hitbox, though, so rolling out of the way or towards the Bonekeeper immediately after parrying its arm slash is sufficient. **Leap autogrips.** | ✗ | ✗ | ✗ | (★★☆) |
 | Crushing Grab | The Bone Keeper will make an indication of an unparriable attack with a noise cue and eye symbol before swinging its right arm sideways. If this attack lands, the player hit will be grabbed and take **devastating damage**. The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. **Autogrips.** | ✗ | ◯\* | ◯ | (★★★) |
 | Charge | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and blockbreaking. The Bone Keeper skids to a stop and faces you if this is successfully parried. | ◯ | ✗ | ◯ | (★★☆) |
 | Triple
@@ -38,5 +38,6 @@ Slash
 
 ## Trivia
 
--   Infernasu in this [clip](https://www.youtube.com/watch?v=AnjsiWxeR6A&t=68s) prior to Verse 2 referred to it as "The Bone One".
+-   Infernasu in this [clip](https://www.youtube.com/watch?v=AnjsiWxeR6A&t=68s) prior to Verse 2 referred to it as "This Fucking Bone One".
+-   Bone Keepers used to heal at a rate of 20 HP per second (60 HP when Corrupted). This made them extremely tedious to defeat at times, locking out lower DPS builds from fighting them. After being made to fight it with [Jus Karita](Jus_Karita.md) and no equipment, which resulted in 70+ deaths, developer Ragoozer had it removed.
 -   Bone Keepers is likely related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance, down to the red hue on parts of its bones. It most closely resembles the Kyrsgarde Brute.

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 67415
+revid: 68110
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
@@ -188,63 +188,7 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 
 ## Elemental Intensity
 
-Elemental Intensity is the ability to affect the environment around you. If a mantra has a high enough intensity, it is able to break certain objects. Other than breaking objects, intensity also increases the damage of some mantras that scale off it. These include:
-
-| Mantras that scale from intensity |
-| --- |
-| 
-[Flamecharm](Flamecharm.md)
-
- | 
-
-[Frostdraw](Frostdraw.md)
-
- | 
-
-[Thundercall](Thundercall.md)
-
- | 
-
-[Galebreathe](Galebreathe.md)
-
- | 
-
-[Physical](Attunement-less.md)
-
- | 
-
-[Shadowcast](Shadowcast.md)
-
- |
-| Flame Grab
-
-Fire Blade
-
- | Glacial Arc
-
-Ice Smash
-
- | Thunder Kick
-
-Lightning Beam
-
-Lightning Blade
-
- | Tornado Kick
-
-(?)
-
- | Strong Left
-
-Rapid Punches
-
- | Eclipse Kick
-
-(?)
-
- |
-
-There are believed to be more mantras that scale from intensity, but they have yet to be identified.
+Elemental Intensity is the ability to affect the environment around you. If a mantra has a high enough intensity, it is able to break certain objects. For example, a more intense Flamecharm mantra will be able to melt metal.
 
 ### Obtaining more Elemental Intensity
 
@@ -258,3 +202,4 @@ Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for
 
 -   Mantras _can_ be levelled beyond the normal limit of 5, but only via developer interaction.
 -   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Songkeeper Temple](Songseeker_Temple.md).
+-   Elemental Intensity once affected the damage of certain mantras, but no longer does.

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 68045
+revid: 68121
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -18,7 +18,7 @@ categories: [Echoes, Character, Mechanics, Creation]
 
 **Echoes** can be spent on **Upgrades;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echoes** tab can be used to spend **Echoes** on **Upgrades**. In addition, **Modifiers** can be enabled in this menu.
 
-**Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 10 Modifiers available, providing a total cumulative 3.2x modifier to **Echo** gain.
+**Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 13 Modifiers available, providing a total cumulative 3.2x modifier to **Echo** gain.
 
 **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 
@@ -36,7 +36,7 @@ A unique W Rank is achievable by obtaining S Rank while having enabled every Ech
 
 | Rank | Echoes Amount |
 | --- | --- |
-| W | 140 (w/ all Echoes Modifiers) |
+| W | 140 (441 w/ all Echoes Modifiers) |
 | S | 140 |
 | A | 100-139 |
 | B | ??-99 |

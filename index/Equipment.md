@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 67894
+revid: 68112
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -2239,6 +2239,29 @@ Grants a random buff.
 Chests from:
 
 -   [Second Layer](Second_Layer.md)
+
+ | N/A |
+| File:DelvingDuster.png | 
+
+[Delver's Duster](<Delver's_Duster.md>)
+
+ | 
+
+Grants a random buff.  
+**Requires Power 10**
+
+  
+_\+ 5 Health_  
+_+Talent: Braced Collapse_  
+_+Talent: Graceful Landing_
+
+ | 
+
+Chests from:
+
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
 
  | N/A |
 |  | 

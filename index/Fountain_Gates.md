@@ -1,12 +1,14 @@
 ---
 title: Fountain Gates
-revid: 51461
+revid: 68122
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Mechanics, Map, Utilities]
 ---
 
 # Fountain Gates
+
+**Not to be confused with [Deep Shrines](Deep_Shrines.md).**
 
 Around the map there are fountains that allow you to teleport through them when interacted with. To gain access to this teleport feature you must wash your face in the Light Keeper fountain located on Aratel Island.
 

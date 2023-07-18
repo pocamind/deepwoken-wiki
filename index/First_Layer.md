@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 68086
+revid: 68118
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -105,7 +105,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
     -   Another example is that if one player is level 10, even if the other player is a lower level than 10 such as being only level 1, 2 megalodaunts will still spawn.
 -   If you are of the Deepbound origin, then you will have to fight either an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md) no matter what your power is.
--   As of 6/26/2023, along with the removal of the "15 Power 20 drowns = Layer 2" rule, to compensate, the trial will start spawning in more difficult mobs depending on your number of drowns, with one of the opponents even being a [Fury Nautilodaunt](https://deepwoken.fandom.com/wiki/Nautilodaunt#Fury_Nautilodaunt).
+-   The trial will start spawning in more difficult mobs depending on your number of drowns, with one of the opponents even being a [Fury Nautilodaunt](https://deepwoken.fandom.com/wiki/Nautilodaunt#Fury_Nautilodaunt).
 
 ## **Farming in First Layer of The Depths**
 

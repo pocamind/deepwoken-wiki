@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 67752
+revid: 68115
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -71,7 +71,7 @@ These function identically to **Corrupted Resonances**, with the same chance of 
 
 _(From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333% (0.111% per card))_
 
-### Tarnished Resonances...
+### Tarnished Resonances
 
 **Tarnished Resonances** are yet another sub/category of **Resonances**. Unlike the other variants, obtaining, and getting rid of a **Tarnished Resonance** is totally in the player's hands. Upon rerolling a **Resonance** (see the 'Rerolling a **Resonance**' heading for specifics), the player's new Resonance will be inflicted with a new flaw called Tarnished. Upon receival of this flaw, **you will not be able to reroll your bell or make any more wishes...** but don't be scared, you can fix this!
 
