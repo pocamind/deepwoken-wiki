@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 62490
+revid: 68032
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances]
@@ -31,6 +31,8 @@ User summons a shimmering-white bow and kicks off of the floor, firing explosive
 
 Both variants have complete penetration (100% PEN), meaning that no armor outfit would reduce the damage from being shot by Shard Bow.
 
+If Shard Bow is corrupted, any hits apply flames. These flames scale with INT, like bomb flames.
+
 ### _Versions_
 
 File:Shard bow.gif
@@ -42,14 +44,6 @@ File:Shard bow.gif
 -   Version 2 allows the user to leap backwards and upwards before firing 3 explosive arrows below you. Each arrow will toss you into the air further. Does ~47 (46.75) damage per shot. _Up to further experimentation, may scale off a stat not displayed._
 
 _**It is also affected by a talent named “Wyvern’s Claw” which gives 10% damage while airborne, greatly increasing the damage.**_
-
-#### _Corrupted_
-
-Leap much higher and further before firing the arrows. Only really useful in a mobility sense, as you will only be gaining additional vertical play.
-
-#### _Tarnished_
-
-Startup of jumping up into the air when shooting is a bit longer.
 
 ## Trivia
 

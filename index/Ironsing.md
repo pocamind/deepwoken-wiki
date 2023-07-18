@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 67867
+revid: 68050
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,11 +18,11 @@ Ironsing Icon
 
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion. This may be changed in a future update.
 
-The ironsinger possesses many tools to manage the spacing between themselves and their opponent. Similarly to frostdraw, ironsing relies on proper positioning to be effective. However while frostdrawers generally prefer to engage up close to reap the benefits of their passives when standing on ice, ironsingers are just the opposite. Possessing surprisingly high-damage ranged options, and quick methods to disengage from a close-quarters confrontation, ironsing is best at middle to long range. They also benefit from longer engagements, similarly to shadowcasters, as the longer their opponent spends outside of conventional range, the more chances the ironsinger has to strike. Therefore, their slower, almost campy nature may be more familiar to the adept shadowcaster, and this is an attunement best suited for those with patience to spare.
+The Ironsinger possesses many tools to manage the spacing between themselves and their opponent. Similarly to Frostdraw, Ironsing relies on proper positioning to be effective. However while Frostdrawers generally prefer to engage up close to reap the benefits of their passives when standing on ice, Ironsingers are just the opposite. Possessing surprisingly high-damage ranged options, and quick methods to disengage from a close-quarters confrontation, Ironsing is best at middle to long range. They also benefit from longer engagements, similarly to Shadowcasters, as the longer their opponent spends outside of conventional range, the more chances the Ironsinger has to strike. Therefore, their slower, almost campy nature may be more familiar to the adept Shadowcaster, and this is an attunement best suited for those with patience to spare.
 
-However, for what they have in ranged damage, ironsingers lack the same sustain that shadowcasters do, and even more importantly, they do not possess a quick method of creating overwhelming close-ranged pressure (_see "[eclipse kick](Shadowcast.md)"_). This makes them **very** susceptible to being rushed down. Therefore, as an ironsinger development of your basic combat is highly recommended for when you're out of ether and options for escape.
+However, for what they have in ranged damage, Ironsingers lack the same sustain that Shadowcasters do, and even more importantly, they do not possess a quick method of creating overwhelming close-ranged pressure (_see "[Eclipse Kick](Shadowcast.md)"_). This makes them **very** susceptible to being rushed down. Therefore, as an Ironsinger development of your basic combat is highly recommended for when you're out of ether and options for escape.
 
-At the time of writing, it is too early to say exactly what ironsing matchups will look like, as the meta has not yet fully developed. However it can be postulated that galebreathe and thundercall will be particularly lethal against ironsing, due to both being able to easily force a close-ranged engagement.
+At the time of writing, it is too early to say exactly what Ironsing matchups will look like, as the meta has not yet fully developed. However it can be postulated that Galebreathe and Thundercall will be particularly lethal against Ironsing, due to both being able to easily force a close-ranged engagement.
 
 ## Training Ironsing
 
@@ -37,7 +37,7 @@ The training item for Ironsing is the Ferrofluid. Much like every other attuneme
 |  | Metal Eruption
 (☆☆☆)
 
- | A fury of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Give off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls.
+ | A flurry of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Give off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls.
 
 Deals high posture. Heavily reminiscent to the legacy Frostdraw mantra, Ice Eruption.
 

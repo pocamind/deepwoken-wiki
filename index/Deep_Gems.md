@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 63955
+revid: 68049
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -20,6 +20,7 @@ Deep Gems can be obtained from:
 -   Randomly bought for 15 Joy at the Floating Keep (limited to the Hallowtide seasonal event)
 -   [Ferryman](The_Ferryman.md) (Rare/uncommon chance)
 -   [Fishing](Fishing.md) (Incredibly rare, highly dependent on the location fished)
+-   [Etris: Siege](Cinders_of_Etris.md) Chests
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 

@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 61385
+revid: 68063
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -55,7 +55,7 @@ There is a crucified Celestial in a secret room inside of the [Derelict Highchur
 ## Trivia
 
 -   Celestials can be seen referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
--   Ku is the only Celestial present in the game (as pictured below.)
+-   Though Arch has stated he has no name for the Celestial in the Derelict Highchurch, it's possible it is still Ku, and the story for the quest was written by a different developer, especially given just how heavily it is implied to be them.
 -   Nilsa, as stated by Ragoozer, was never confirmed and is likely not even canon anymore in the current lore of Deepwoken.
 
 ## Gallery

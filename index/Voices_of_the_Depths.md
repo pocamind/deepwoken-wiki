@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 57534
+revid: 68020
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -43,7 +43,7 @@ _"The state or feeling of being actively opposed or hostile to someone or someth
 _"The power or right to give orders, make decisions, and enforce obedience."_
 
 -   The Voice of Authority only appears after the player successfully completes the trial.
--   It will order the other voices to send the player back up into the Etrean Luminant.
+-   It will order the other voices to send the player back up into the Surface (any luminant the player has been sent down to the depths from ).
 -   Noting it’s title, and dialogue, it seems to have the final say in all decisions.
 
 ### Voice of Solitude

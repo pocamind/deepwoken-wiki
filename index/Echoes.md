@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 67884
+revid: 68045
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -30,7 +30,7 @@ Ranks by themself do nothing, beside rank W, S and A that give a badge and, in t
 
 S Rank is achievable by doing all echoes tasks (listed below).
 
-A unique W Rank is achievable by obtaining S Rank while having enabled all Echoes Modifier.
+A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns.
 
 **What rank your character will receive depends on amount of echoes you collect, without taking modifiers multiplicator into consideration.**
 
@@ -251,6 +251,11 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
   <td><center><b>Destined</b></center></td>
   <td><center>You don't get to choose what you get when your Power increase, Fate picks for you.</center></td>
   <td><center><b>+20%</b></center></td>
+</tr>
+<tr>
+  <td><center><b>Vow of Thorns</b></center></td>
+  <td><center>Enhance your progression and chances for rarer mob loot. However, you are faced with harder trials and every death will send you to the depths.</center></td>
+  <td><center><b>+5%</b></center></td>
 </tr>
 </tbody>
 </table>

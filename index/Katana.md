@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 67906
+revid: 68043
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords, Katanas]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Obtained from chests found in Minityrsa, Songseeker Wilds, and The Depths. |
+| obtainment | Obtained from chests found in Minityrsa, Songseeker Wilds, Merchant ships, and The Depths. |
 | description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
 
 ## Description

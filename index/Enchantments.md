@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 68011
+revid: 68060
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -64,7 +64,10 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown). If the user has Crystallization, apply an ice crystal. (It has no cooldown of proccing crystal). In PvE this instead applies a Chill effect. The Chill effect applies a small damage increase even without the usage of any talents. Chilling does not proc Nullifying Clarity.</p></div></td>
+  <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown).<br>
+  If the user has Crystallization, apply an ice crystal. Can only apply a total of 1 crystal. Cannot apply any more crystals until the crystals break.<br>
+  In PvE this instead applies a Chill effect (when without crystal). The Chill effect applies a small damage increase even without the usage of any talents.<br>
+  Chilling can proc nullifying clarity, albeit not on every hit.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>

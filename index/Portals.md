@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 67954
+revid: 68030
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -30,6 +30,8 @@ Once used, the user summons a white portal in front of them and becomes nearly c
 Pressing C will activate the **Portal** Resonance.
 
 **Portal** grants the user invisibility, increased walk and swim speed and invincibility for 5.5 seconds until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
+
+If Portals is corrupted, it becomes faster and allows the user to pick up objects and players.
 
 ### _Resonance Point usage_
 

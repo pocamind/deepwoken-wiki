@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 67775
+revid: 68071
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -60,7 +60,6 @@ A Journeyman Diver executes it's opponent after knocking them:
 
 -   Maybe don't try to fight at castle light.
 -   Don't try to fight them. They will jump you, and they have little to no cooldown on mantras.
--   Although only having 1150 health, they seem to tank even multiple hits from PvE builds.
 
 ## Trivia
 

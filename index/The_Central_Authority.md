@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 66540
+revid: 68062
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -51,6 +51,7 @@ A large military organization, native to the Central Luminant. They are lead by 
 
 ## Trivia
 
+-   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it my also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except Celtor.
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer (Lord Regent) from causing a great drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
     -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with The Children of Navae also seem to contradict with this mission.

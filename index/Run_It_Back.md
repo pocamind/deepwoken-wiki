@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 66908
+revid: 68035
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -31,6 +31,8 @@ Pressing C will activate the **Run It Back** Resonance.
 
 **Run It Back** will grant the user around five to ten seconds of immunity (randomized upon getting your bell). Once finished, the user will be teleported back to the position where it was first used.
 
+If Run It Back is corrupted, it grant the user 5 second of hyperarmor on use.
+
 ### _Resonance Point usage_
 
 When obtained, Run It Back will spend its points on the following stats:
@@ -47,16 +49,6 @@ Run it Back has randomized attunements upon obtaining the bell.
 -   The [Flamecharm](Flamecharm.md) variant will burn players nearby on use.
 -   The [Thundercall](Thundercall.md) variant shock players nearby on use.
 -   The [Shadowcast](Shadowcast.md) variant will steal ether on use.
-
-#### _Corrupted_
-
-If **Run It Back** is found to be Corrupted, the duration is greatly amplified.
-
-Both the burning and 10% health loss effects are nullified by run it back.
-
-#### _Tarnished_
-
-If the owner of **Run It Back** is Tarnished, this Resonance will be given a one second start-up, during which this can be interrupted.
 
 ## Trivia/Notes
 

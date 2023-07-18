@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 62409
+revid: 68033
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -31,6 +31,8 @@ Pressing C will activate the **Payback** Resonance.
 
 **Payback** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
 
+If Payback is corrupted, it gain lifesteal from the reflected damage.
+
 One of the best combat bells because it's mostly used while getting combo I-frames and free damage.
 
 ### **Variants**
@@ -41,21 +43,7 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 
 -   **Version 1**, the _Mirror_ variant, will instantly reflect any damage/status effects taken within ~2.5 seconds to the user's opponents.
 -   **Version 2** will multiply and reflect all damage taken within ~1.25x seconds and fire the damage through a thin beam towards the user's opponents.
--   **Version 3** will multiply and reflect all damage taken within ~1.5x seconds and will deal damage to the user's opponents at the end of the bell's usage.
-
-#### _Tarnished_
-
-If the owner of this Resonance is Tarnished, **Payback** will be given a one second start-up. During this time, **Payback** can be easily interrupted.
-
-#### _Corrupted_
-
-If **Payback** is found to be Corrupted. The duration for which **Payback** is active will increase, as well as buffs to each of the variants.
-
--   If **Version 1** of this Resonance is found to be Corrupted, **Payback** will multiply the damage reflected to the opponent by ~2.5x.
-
--   If **Version 2** of this Resonance is found to be Corrupted, **Payback's beam** will be shot out with less ticks of damage, giving your opponent less of a chance to parry it mid beam (It does not reduce the damage at all). The damage multiplier for this variant will also be slightly increased.
-
--   ~If this Resonance is found to be corrupted, it also gains a passive ability: whenever an enemy humanoid NPC hits you while you are below ~25% health, the NPC will take damage every hit; this damage _can_ knock the NPC.~ With extensive testing, it has not yet been confirmed whether this is a passive for Corrupted Payback or not. Ancient speculation says that it _could_ just be a charm ability, but this feature only started happening for me when I got Corrupted Payback on my 85 Charisma slot.
+-   **Version 3** will multiply and reflect all damage taken within ~1.5x seconds and will deal damage to the user's opponents at the end of the bell's usage
 
 ## Trivia/Notes
 

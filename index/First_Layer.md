@@ -1,16 +1,18 @@
 ---
 title: First Layer
-revid: 67913
+revid: 68064
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Map]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # First Layer
 
 ## Overview
 
-The **First Layer**, also known as **Scyphozia** is the one of the nine layers of The Depths, embodied with the recently sunken civilizaition of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying in a [voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md) **unless they have 15 drowns at Power 20**, in which case they get sent straight to the [Second Layer.](Second_Layer.md)
+The **First Layer**, also known as **Scyphozia** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying in a [Voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md).
 
 ## **Points of Interest**
 
@@ -31,7 +33,7 @@ Detailed map of the entire Depths First Layer
 
 There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
 
-Note: The Map shows the diver camp being more south that is in fact wrong, i just looked its more north!
+Note: The Map shows the diver camp being in the South, however, it was recently moved to the North.
 
 ## **City Bells**
 
@@ -88,6 +90,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
 | 16.66+ | [Enforcer](Enforcer.md) |
+| 20 | Multiple waves, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**
@@ -102,6 +105,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
     -   Another example is that if one player is level 10, even if the other player is a lower level than 10 such as being only level 1, 2 megalodaunts will still spawn.
 -   If you are of the Deepbound origin, then you will have to fight either an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md) no matter what your power is.
+-   As of 6/26/2023, along with the removal of the "15 Power 20 drowns = Layer 2" rule, to compensate, the trial will start spawning in more difficult mobs depending on your number of drowns, with one of the opponents even being a [Fury Nautilodaunt](https://deepwoken.fandom.com/wiki/Nautilodaunt#Fury_Nautilodaunt).
 
 ## **Farming in First Layer of The Depths**
 
@@ -265,7 +269,6 @@ Legendary = Gold
 -   If you are aware that a monster cannot be defeated, avoid engaging it in the first place. Be aware of what you can and cannot kill.
 -   Avoid Deep Owls at all costs because they can wipe a player who isn't strong enough to take them on. If you see dark feathers in a path, just avoid it and play it safe.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider while your character is shivering or scratching, you may fall off the Glider.
--   Corrupt Monsters offer a chance-reward situation. Remember that they have doubled health and damage, so you must fight them at your own risk. If you are unable to fight corrupt monsters, stay away from them.
 
 ## Trivia
 

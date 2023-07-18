@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 66298
+revid: 68057
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md).
+The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the Depths Trial at extremely high drowns, potentially Corrupted.
 
 Bone Keepers are giant, humanoid creatures, with inhuman proportions, having extremely short legs and large arms. It has clearly clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothes on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
 
@@ -39,4 +39,4 @@ Slash
 ## Trivia
 
 -   Infernasu in this [clip](https://www.youtube.com/watch?v=AnjsiWxeR6A&t=68s) prior to Verse 2 referred to it as "The Bone One".
--   Bone Keepers is likely related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance, down to the red hue on parts of its bones. It closest resembles
+-   Bone Keepers is likely related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance, down to the red hue on parts of its bones. It most closely resembles the Kyrsgarde Brute.
