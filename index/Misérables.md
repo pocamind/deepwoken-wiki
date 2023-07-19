@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 67358
+revid: 68128
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -14,7 +14,7 @@ Misérables is an NPC on the second floor of the [Eternal Gale](The_Depths.md). 
 
 Misérables appears to take the form of an owl with a similar build to a Deep Owl, without its feathers. On its head, it dons horns that sprout from the sides, and having two sets of light blue eyes that glow. Its body appears to be very muscular, sporting huge pecs as well as a six pack.
 
-Aside from that, it is an intimidating critter that makes deals with the player within New Kyrsa. Do be careful, as making the same deal twice in the same session will _**have it kill you, forcing you to make a new character back from the start again.**_Template:NPC name
+Aside from that, it is an intimidating critter that makes deals with the player within New Kyrsa. _**Do be careful, as making the Medallion deal without having enough will kill you.**_Template:NPC name
 
 ## Dialogue
 

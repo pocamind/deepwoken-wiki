@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 68053
+revid: 68138
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -109,7 +109,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   Has a low chance of dropping the Elite Pathfinder Cloak, which is a rare cloak in the game. Additionally, finding the Nautilodaunt can be difficult on its own due to the cloak's high demand, low spawn rate, and lack of servers. In other words, finding it will be as tedious as it is difficult.
 -   When it isn't in combat, it will automatically begin healing going from 250 to full health within a matter of seconds.
 -   If you are very skilled (or you cheese him), you can actually get good [Bell/Resonance progression](Resonance.md) from him, **but be aware**. You are still in the Depths and might get wiped. (Examples being: Players (in a group or solo), Angels, Monsters or even bad ping)
--   Mortus (the monster bait guy) mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.
+-   Mortus mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.
 -   The nickname "Squid Hoss" is a reference to the Rogue Lineage martial artist Big Hoss, who teaches you all 3 stages of the Oni class.
 -   Nautilodaunt are probably inspired by [Dagon from the Jujutsu Kaisen manga](<https://villains.fandom.com/wiki/Dagon_(Jujutsu_Kaisen)>) as they are both squid monsters, have an identical model and are very intellectual in hand to hand combat.
 -   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800.

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 67037
+revid: 68147
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -70,13 +70,13 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 -   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
 -   Dying in Trial of One with the Lone Warrior origin now sends you to [The Depths](The_Depths.md).
--   You can go through the Light gate behind you to return to Minityrsa
+-   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
 -   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
--   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed. However, you can still backstab the Angels and use burning servants (or flame repulsion, be careful though) to do essentially the same cheese method.
--   After testing, beating trial with Adret and Autodidact gets you to power 9-10. (Could be a bug.)
+-   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed.
+-   After testing, beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha sharko, you simply get sent back.
 -   Deepbound freshies that somehow make it out of the depths at level one are not able to enter Trial Of One
--   Going into the trial without an attunement will render your 10 additional points useless, making you power up later than usual.
+-   If you're Attunement-less, the campfire goes down and lets you place the 10 points before starting the trial.

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 68001
+revid: 68140
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -13,15 +13,17 @@ categories: [Mechanics]
 | usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables |
 | obtainment | Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones |
 
-“ Boys go to college to get more knowledge, Girls go to Jupiter to get more stupider. ”
+“ Do you have the knowledge within you then, my dull friend? ”
 
-― Some Felinor
+― Misérables
 
 Your Knowledge **grows**...
 
+  
+
 Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build-- aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
 
-With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled [**Misérables**](Misérables.md) so long as they have sufficient _Knowledge._ Not that Deepwoken players have any realistically.
+With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled [**Misérables**](Misérables.md) so long as they have sufficient _Knowledge._
 
 ## Overview
 
