@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68136
+revid: 68202
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -646,6 +646,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   The Sounds from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
     -   Prerequisite: Power 2.
 
+### Doomsday Engine
+
+-   Frozen Web \[Common Talent\] - Landing a critical with a Static Link on your opponent applies Chilled.
+    -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
+
 ### Duelist
 
 > _**"I am a competent duelist."**_
@@ -695,7 +700,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are Dazed for 2 seconds.
-    -   Prerequisites: Flame Blind, 30 Flamecharm and 25 Strength
+    -   Prerequisites: Flame Blind, 30 Flamecharm,25 Strength
 
 ### Elementalist
 
@@ -893,7 +898,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Frostdraw at Power 1 or obtain through Frostdraw Trainer (Nell)
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+6 Sanity)
     -   Prerequisites: 50 Frostdraw, 20 Willpower
-    -   Believed to increase the size of your floor-placed ice and increase environmental damage.
+    -   Believed to increase the amount of time your opponent is frosted after getting hit with an ice mantra.
 
 -   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
     -   Prerequisites: 50 Frostdraw
