@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 67866
+revid: 68169
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -11,7 +11,8 @@ categories: [Helmets]
 | Phalanx Helm | |
 |---|---|
 | type | Helmet |
-| rarity | ??? |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | N/A |
 | innate stats | N/A |
 | innate talent | N/A |
@@ -24,4 +25,4 @@ categories: [Helmets]
 
 ## Description
 
-The Phalanx Helm is an Equipment Armor in the Helmet category_._ Equipping this item will give you randomized stats based on the amount of pips.
+The Phalanx Helm is an Equipment in the Head category_._ Equipping this item will give you randomized stats based on the amount of pips.

@@ -1,6 +1,6 @@
 ---
 title: Barrel Helm
-revid: 67915
+revid: 68176
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -10,9 +10,11 @@ categories: [Helmets]
 
 | Barrel Helm | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Uncommon |
+| selling price | 14 |
 | requirements | 10 Fortitude |
+| weight | 1 |
 | innate stats | +5 Health |
 | innate talent | N/A |
 | bankable | Yes |
@@ -20,7 +22,7 @@ categories: [Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests frim:, Duke Erisia, First Layer, Second Layer |
-| description | - ... |
+| description | - "A sturdy helmet shaped like a barrel" |
 
 ## Description
 

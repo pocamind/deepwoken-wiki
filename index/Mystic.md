@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 68146
+revid: 68194
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -51,7 +51,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I once performed in a Circus. **(Acrobat)**_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
 -   _I prefer to attack unseen. **(Assassin) (Note; the Assassin category requires roughly 20 assassinations done)**_
--   _Light on my feet, I sting like a bee. **(Butterfly) (Note; Cannot give Risky Moves, Evasive Expert)**_
+-   _Light on my feet, I sting like a bee. **(Butterfly) (Note; Cannot give Risky Moves)**_
 -   _I am ruthless. A knife for hire. **(Cutthroat)**_
 -   _I am a competent duelist. **(Duelist) (Note; Cannot give Concussion, Spine Cutter, Strong Stern, Tap Dancer)**_
 -   _I scale the tallest peaks. **(Mountain Climber; Boulder Climb)**_

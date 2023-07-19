@@ -1,6 +1,6 @@
 ---
 title: Plain Hood
-revid: 67926
+revid: 68177
 source: https://deepwoken.fandom.com/wiki/Plain_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors, Equipment]
@@ -10,17 +10,19 @@ categories: [Character, Armors, Equipment]
 
 | Plain Hood | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Uncommon |
+| selling price | 14 |
 | requirements | N/A |
-| innate stats | +2% Stealth+1 Posture |
+| weight | 1 |
+| innate stats | +4% Stealth+1 Posture |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle, Deep Widow, First Layer |
-| description | - ... |
+| description | - "A sleek black hood." |
 
 ## Description
 

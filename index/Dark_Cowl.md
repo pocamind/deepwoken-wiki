@@ -1,6 +1,6 @@
 ---
 title: Dark Cowl
-revid: 67917
+revid: 68180
 source: https://deepwoken.fandom.com/wiki/Dark_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -10,9 +10,11 @@ categories: [Character, Armors]
 
 | Dark Cowl | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | N/A |
+| weight | 1 |
 | innate stats | +4% Stealth+1 Posture |
 | innate talent | N/A |
 | bankable | Yes |
@@ -24,4 +26,4 @@ categories: [Character, Armors]
 
 ## Description
 
-The Dark Cowl is a _helmet_. Equipping this item will give you the +4% Stealth, along with random placeholder stats.
+The Feathertop Helm is an Equipment in the Head category_._ Equipping this item will give you +1 and +4% Stealth, as well as extra randomized stats based on the amount of pips.

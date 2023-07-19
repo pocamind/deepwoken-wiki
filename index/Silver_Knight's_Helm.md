@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 67895
+revid: 68174
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -10,9 +10,11 @@ categories: [Helmets, Items]
 
 | Silver Knight's Helm | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | Fortitude 15 |
+| weight | 1 |
 | innate stats | +10 Health |
 | innate talent | N/A |
 | bankable | Yes |
@@ -24,4 +26,4 @@ categories: [Helmets, Items]
 
 ## Description
 
-The Knight's Helmet is an Equipment Armor in the Helmet category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of pips.
+The Knight's Helm is an Equipment in the Head category_._ Equipping this item will give you +10 health, as well as extra randomized stats based on the amount of pips.

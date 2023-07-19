@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 68009
+revid: 68185
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -26,7 +26,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Chest, The Depths, Deep Widow Chest, Layer 2, Miner's Landing, Bounty chests, Primadon Chests. |
+| obtainment | Chest's From, Duke Erisia, Deep Widow, First Layer, Second Layer, Miner's Landing, Primadon, Bounties |
 | description | A mastercraft forged by Gunsmith Rosen himself, a revolutionary piece of weaponry that changed the art of combat forever. They carry high value on the market, due to both the historical importance of this firearm, as well as it's effectiveness. |
 
 ## Description

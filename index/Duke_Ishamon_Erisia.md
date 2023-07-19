@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 67391
+revid: 68189
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -242,6 +242,7 @@ This dialogue is only obtainable through having the [Contractor](Oath%253A_Contr
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
+-   His hair ID is 4374334355.
 
 ## Bugs
 

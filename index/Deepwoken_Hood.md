@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 67923
+revid: 68182
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -10,9 +10,11 @@ categories: [Character, Armors]
 
 | Deepwoken Hood | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | N/A |
+| weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |

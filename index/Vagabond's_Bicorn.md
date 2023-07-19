@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 67989
+revid: 68178
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items, Armors]
@@ -10,9 +10,11 @@ categories: [Helmets, Items, Armors]
 
 | Vagabond's Bicorn | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | N/A |
+| weight | 1 |
 | innate stats | +4 Health |
 | innate talent | N/A |
 | bankable | Yes |
@@ -24,4 +26,4 @@ categories: [Helmets, Items, Armors]
 
 ## Description
 
-The Vegabond's Bicorn is an Equipment item under the Head category_._ Equipping this item will give you extra randomized stats based on the amount of pips.
+The Vagabond's Bicorn is an Equipment in the Head category_._ Equipping this item will give you +4 health, as well as extra randomized stats based on the amount of pips.

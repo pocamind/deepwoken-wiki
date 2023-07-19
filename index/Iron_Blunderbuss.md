@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 67249
+revid: 68186
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Rifles]
@@ -26,7 +26,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Saramaed Summit, Duke Chest, Depths Chests |
+| obtainment | Chests from:, Saramaed Summit, Duke Erisia, First Layer |
 | description | Rustic and shabby in design, this application of Rosen's Gunsmith knowledge takes a more aggressive, risky approach in usage. While it's range is lacking, it shows nothing but brutality in close combat encounters as one of Summer... |
 
 ## Description

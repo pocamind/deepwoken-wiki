@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 67898
+revid: 68175
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -10,9 +10,11 @@ categories: [Helmets, Items]
 
 | Goldleaf Helm | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | 10 Fortitude |
+| weight | 1 |
 | innate stats | +5 Health |
 | innate talent | N/A |
 | bankable | Yes |

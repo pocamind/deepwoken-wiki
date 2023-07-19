@@ -1,10 +1,33 @@
 ---
 title: Shrine of Courage
-revid: 68154
+revid: 68188
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Shrine of Courage
 
-The Shrine of Courage is a statue found in the elevator room that leads to the trial to leave the depths, It gives you the prompt to "leave behind your weakness" and if you accept it spawns a king thresher in your trial rather than the mob you're supposed to fight (I don't know if the level affects this but I didn't see anything about it on the wiki so I wanted to atleast warn players about it because I wiped to it, please update this to the wiki format for I do not know it)
+## Description
+
+The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and using the \[Prove yourself\] dialogue significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 1 free Power up when completed in exchange. Testing is needed for more exact information.
+
+## Dialouge
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*A voice calls from a far away place... Beckoning you to leave behind your weakness.*</i></td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialouge]</td>
+  <td colspan="4">[Prove yourself]</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
+  <td colspan="4">YOU SHALL BE TESTED.</td>
+</tr>
+</tbody>
+</table>

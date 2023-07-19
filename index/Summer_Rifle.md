@@ -1,11 +1,9 @@
 ---
 title: Summer Rifle
-revid: 67754
+revid: 68184
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Weapons, Rifles]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Weapons, Rifles]
 ---
 
 # Summer Rifle
@@ -25,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chime of Conflict (Chest), Summer Isle (Chest), The Depths (Chest), Bounty Chest, Primadon (Chest), Deep Widow (Chest), Fishing |
+| obtainment | Chests from:, Chime of Conflict, Summer Isle, The Depths, Bounties, Primadon, Deep Widow, Fishing |
 | description | "A standard issue firearm produced by the Summer Company. A reliable firearm, though somewhat less elegant than their more expensive models." |
 
 ## Description
