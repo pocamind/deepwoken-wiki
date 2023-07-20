@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 67712
+revid: 68234
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -303,7 +303,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
   <ul>
     <li>Can be modified with crystal and perfect lenses to increase the distance.</li>
     <li>Uses the shadow assault startup sound.</li>
-    <li>It's also compatible with logstones, but the effect is unknown. (Needs to be tested)</li>
+    <li>It's also compatible with logstones, but the effect is minimal. (Needs to be tested)</li>
   </ul></td>
 </tr>
 </tbody>
@@ -833,4 +833,4 @@ N/A
 -   The wind phantom visual from the "_Haunted Gale_" talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.
 -   "_Tempest Wind_" can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
     -   Alternatively, you could cast it early to feint the M1 but due to it's low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counter-attack after blocking or rolling the M1 but this is negated by parries.
--   Pairing this attunement along the [Jetstriker](Oath%253A_Jetstriker.md) [Oath](Oaths.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and Jetstriker's mobility based kit. [The Old Wind, Gale Step and Aerogliding](Talents.md) talents, along with all of the Jetstriker talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md).
+-   Pairing this attunement along the [Jetstriker](Oath%253A_Jetstriker.md) [Oath](Oaths.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and Jetstriker's mobility based kit. [The Old Wind, Gale Step and Aerogliding](Talents.md) talents, along with all of the Jetstriker talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
