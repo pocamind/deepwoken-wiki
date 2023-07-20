@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 67628
+revid: 68239
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -66,3 +66,4 @@ This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Pa
 
 -   If you have the talent "Tap-Dancer" You can cancel the Rush of Ancients passive and use it over and over as you would normal dashing. However, bear in mind that these Tap-Dancer dashes will have a shorter travel distance than if you were to dash normally.
 -   The Knockdown for Vigil's Grace doesn't cancel the heavy weapon's knockback, so the enemy would just slip away while on the floor.
+-   vigil's Grace card has another oath name instead of jetstriker, this time being "oath: windrunner"
