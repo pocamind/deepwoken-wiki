@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 52953
+revid: 68236
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map, World]
@@ -25,7 +25,7 @@ The Etrean Wilds is a small forest found before entering [Etris](Etris.md).
 ### Unnamed
 
 -   Navaen Nomad Camp
-    -   A small camp populated by [Novaen Nomads](Navaen_Hostage.md) found before entering Etris.
+    -   A small camp populated by [Navaen Nomads](Navaen_Hostage.md) found before entering Etris.
     -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) schematics can be purchased here.
     -   You can earn the [Way of Navae](Way_of_Navae.md) fist style by turning in a Navaen hostage here.
 -   Ruined House
