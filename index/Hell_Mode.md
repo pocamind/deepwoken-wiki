@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 66709
+revid: 68275
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -24,7 +24,7 @@ A group of powerful adventurers must join forces in this hellish variant to obta
 
 ## Activation Method and Effects
 
-The Hell Mode Bell can be found within the Celtor Wastes. To activate Hell mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15.
+The Hell Mode Bell can be found within the Celtor Wastes. To activate Hell mode, 5 players who are at least power 15 (Actually 16 after preparing 4 power 15 alt and wasn't able ring the bell) must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15.
 
 Once the conditions are met, The Depths (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 

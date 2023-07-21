@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 67206
+revid: 68291
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -20,7 +20,7 @@ Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fou
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
-Appearance wise, he is a young male [Adret](Adret.md) characterized by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them.
+Appearance wise, he is a young male [Adret](Adret.md) characterized by his unique eye colour and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
 
 ## Moveset
 
@@ -162,7 +162,7 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 
 ## Trivia
 
--   Chaser is voiced by YouTuber Demstormz.
+-   Chaser is voiced by YouTuber Demstormz.[\[1\]](#cite-note-1)
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
 -   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
 -   Chaser is seen wielding six Resonances, presumably stolen from divers he betrayed and killed.
@@ -170,9 +170,9 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Prior to the update as of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, finally despawning.
--   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an oath in the future, probably via the Second Prophet, similar to the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) with Lord Regent.
+-   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an Oath in the future, probably via the Second Prophet, similar to the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) with Lord Regent.
 -   It seems **Powerful Blood Appendage** cannot be parried while wearing **[Ignition Deepdelver](Ignition_Deepdelver.md)**. (Someone please test this further for the timings may have been wrong.)
--   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.
+-   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[2\]](#cite-note-2)
 -   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
 -   Chaser does not spawn if the bounders at the nest corridor do not spawn.
 -   If you deal enough damage you can just grip him.
@@ -187,3 +187,8 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 ## Bugs
 
 -   If you are experiencing ping issues, try your best to dodge '**Powerful Blood** **Appendage'** as there is a chance that it may simply fling you out of the cathedral mid-animation during Phase 2 and 3. Also, just try to dodge everything instead of blocking/parrying.
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=VedRxDf8QNs](https://www.youtube.com/watch?v=VedRxDf8QNs)
+2.  [↑](#cite-ref-2)

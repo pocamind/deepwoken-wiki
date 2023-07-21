@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68247
+revid: 68276
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -463,7 +463,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I walk the skies."**_
 
--   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards. (+1 Elemental Mastery, +2 Health)
+-   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards. (+1 Elemental Mastery)
     -   Prerequisite: 25 Galebreathe
 
 ### Cold Phantom
@@ -530,7 +530,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw.
--   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity, +2 Health)
+-   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity)
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
 -   Spike Traps \[Rare Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
@@ -540,7 +540,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Significantly reduces thirst drain.
     -   Prerequisites: 20 Intelligence, 15 Frostdraw
 
--   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity, +2 Health)
+-   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity)
     -   If you were to catch fire while on ice, gain total immunity to the burning status effect.
     -   While the effect is active, the user breathes cold air.
     -   Prerequisite: 30 Frostdraw
@@ -549,10 +549,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"My ice protects like a flower growing thorns."**_
 
--   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity, +1 Health)
+-   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity)
     -   Prerequisite: Fragile Freeze, 20 Fortitude.
 
--   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity, +2 Health)
+-   Rude Awakening \[Common Talent, Frostdraw Exclusive\] - When hit in Cryostasis inflict frost damage to the enemy who hit you. (+3 Elemental Intensity)
     -   Prerequisite: Cryostasis
 
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
@@ -569,7 +569,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
     -   Prerequisite: 45 Agility
--   Deep Wound \[Common Talent, Light\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. (+2 Health)
+-   Deep Wound \[Common Talent, Light\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. ( )
 -   Hidden Blade \[Common Talent, Agility\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility)
     -   Prerequisite: 30 Agility
 
@@ -593,7 +593,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dark Replenishment \[Shadowcast Exclusive\] Knocking out an enemy in combat restores a portion of your ether.
     -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
 
--   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity, +2 Health)
+-   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity)
     -   Prerequisites: 60 Shadowcast, Dark Hours
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 
@@ -604,7 +604,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   If you steal more ether than you can fit in your ether bar, convert it into tempo.
     -   Prerequisites: 40 Shadowcast, Dark God
 
--   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. (+1 Health, not sure if this still gives health, someone please check.)
+-   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. ( )
     -   Prerequisite: Shadow Eruption
 
 -   Shadow Overflow \[Shadowcast Exclusive\] Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby. (+3 Elemental Intensity)
@@ -1060,7 +1060,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
     -   Prerequisite: 25 Frostdraw.
 
--   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity, +2 Health)
+-   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity)
     -   Ice Mantras cost 40% less ether if casted while standing on ice.
     -   Prerequisite: 40 Frostdraw
 
@@ -1068,7 +1068,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
     -   Prerequisite: Cryonis, 15 Heavy, 45 Frostdraw.
 
--   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity, +2 Health)
+-   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity)
     -   Prerequisite: 25 Frostdraw
     -   Works with Crystallization
 
@@ -1650,7 +1650,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. (+2 Elemental Intensity, +6 Passive Agility)
     -   Prerequisite: Family Recipe
 
--   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+5 Hp, +1 Elemental Intensity)
+-   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+5 Health, +1 Elemental Intensity)
     -   Prerequisite: Family Recipe
     -   Drops two bombs from one bomb.
 
@@ -2218,7 +2218,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Aerial Assault \[Common Talent\] - Allows you to move quickly when you dodge mid-air. (+2 Passive Agility)
     -   Prerequisite: \[name\] quest at the Pathfinders Respite
 
--   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. (+1 Health)
+-   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. ( )
     -   Prerequisite: 50 Heavy Weapons Mastery, Greathammer equipped
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
@@ -2248,7 +2248,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I hear a whisper in the dark."**_
 
--   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity, +2 Health)
+-   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity)
     -   Prerequisite: 40 Galebreathe, [Power](Power.md) 8
 
 ### Windrunner
@@ -2261,7 +2261,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   [Oath: Arcwarder](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall. Complete Alpha's quest.
 
--   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots, +15% Oath Resistance, +10 HP)
+-   [Oath: Oathless](Oath%253A_Oathless.md) - You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+2 Wildcard Mantra Slots, +15% Oath Resistance, +10 Health)
     -   Prerequisites: Talk to a Girl in cave near [Miner's Landing](<Miner's_Landing.md>) docks.
 
 -   [Oath: Blindseer](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world to pierce your tightly fashioned blindfold. Everything is simply as we choose to percieve it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot)

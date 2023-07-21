@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 67988
+revid: 68270
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -152,7 +152,7 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
 -   Blinds nearby targets for 1.5 seconds.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md).
 -   Rare Flamecharm mantra.[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
--   Buffed the [Concussive Flash](Talents.md) talent, causing all blinded enemies to be dazed.
+-   Buffed by the [Concussive Flash](Talents.md) talent, causing all blinded enemies to be dazed.
 -   Not very effective on experienced users because the duration isn't long enough to make a big difference for space to attack. It may even just serve as a mild inconvenience for them.
 -   Like venting, this seemingly does no damage, but can actually knock opponents.[\[1\]](#cite-note-1)
 
