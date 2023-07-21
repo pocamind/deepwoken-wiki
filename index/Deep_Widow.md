@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 67216
+revid: 68324
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -76,7 +76,7 @@ This Boss also spawns in [The Depths](The_Depths.md) in a location near one of t
 The Item Pool goes as follows
 
 -   Light Weapons:
-    -   [Legion Cestus](Legion_Cestus.md), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Apprentice Rapier](Apprentice_Rapier.md), [Gilded Knife](Gilded_Knife.md), [Whaling Knife](Whaling_Knife.md), and [Flamekeeper Cestus](Flamekeeper_Cestus.md).
+    -   [Legion Cestus](Legion_Cestus.md), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Apprentice Rapier](Apprentice_Rapier.md), [Gilded Knife](Gilded_Knife.md), [Whaling Knife](Whaling_Knife.md), [Central Dirk](Central_Dirk.md) and [Flamekeeper Cestus](Flamekeeper_Cestus.md).
 -   Medium Weapon:
     -   [Trident Spear](Trident_Spear.md), [Serpent's Edge](<Serpent's_Edge.md>), [Rifle Spear](Rifle_Spear.md), [Vigil Longsword](Vigil_Longsword.md), [Falchion](Falchion.md), [Scimitar](Scimitar.md), [Worshipper Longsword](Worshipper_Longsword.md), [Gremorian Longspear](Gremorian_Longspear.md), [Cavalry Saber](Cavalry_Saber.md), [Shattered Katana](Shattered_Katana.md), [Katana](Katana.md), [Summer Rifle](Summer_Rifle.md), and [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
 -   Heavy Weapons:

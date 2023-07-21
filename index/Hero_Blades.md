@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 66708
+revid: 68321
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -90,13 +90,13 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-**The Hero Blades** are a set of weapons available in Deepwoken. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and Power 11+.
+**The Hero Blades** are a set of weapons available in _Deepwoken_. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and Power 11+.
 
-Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter. Succesfully defeating all of them rewards a chest with multiple hero blades, the elements being random.
+Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter. Successfully defeating all of them rewards a chest with multiple hero blades, the elements being random.
 
 Each Heroblade has its own unique critical attack.
 
-A common misconception is their damage type. Hero Blade deals **Physical Slash Damage**, like a normal sword. Their critical attack however, deal elemental damage of the relevant type.
+A common misconception is their damage type. Hero Blade deals **Physical Slash Damage** like a normal sword. However, their critical attacks deal elemental damage of the relevant type.
 
 **Flame:**
 

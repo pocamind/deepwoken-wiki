@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 68299
+revid: 68314
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -84,7 +84,7 @@ After this attack he will use his fists for around 30 seconds.
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 -   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white, it will immediately teleport Duke to a random player as soon as the wind up is done, it is unknown if this also increases the damage of the mantra or if it is just a reskin.
--   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well. Grip him while you can
+-   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well. Grip him while you can.
 
 ## Finisher
 
@@ -209,6 +209,8 @@ Duke: There's no real point in explaining further, as this is the end of the lin
 
 Contractor Dialogue
 
+This dialogue is only obtainable through having the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
+
 Duke: So you're the one running about tripping my alarms. Care to explain yourself?
 
 1: Let's skip the pleasantries, you know why I'm here.
@@ -217,18 +219,16 @@ Duke: You're right, there's no reasoning with a monster like you. For Lumen's sa
 
 1: \[End Dialogue\]
 
-This dialogue is only obtainable through having the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
-
 ## Trivia
 
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   He is escaping The Depths each time he is refought. As such, Arch\_Mage has considered making unique dialogue for his rematches. His lack of rematch dialogue is due to the lack of polishing in some of the earlier introduced fights in the game.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.
--   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious. (Lethal Percision)
+-   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious. (Lethal Precision)
 -   The Duke's room gets sealed off by a barrier upon triggering the fight.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
-    -   The also both laugh manically following a successful counter
+    -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
 -   The Duke's health scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   It is recommended to fight The Duke with the following:
@@ -246,4 +246,4 @@ This dialogue is only obtainable through having the [Contractor](Oath%253A_Contr
 
 ## Bugs
 
--   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has still been in the game
+-   Killing Duke Erisia while your character has an attunement you've obtained through the respective quest will cause (\[Attunement\] Attained) to appear twice, even if you have the respective attunement unlocked on that account. It won't mean anything if you already uncapped attunement and is just a simple bug that has been in the game.

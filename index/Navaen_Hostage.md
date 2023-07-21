@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 63985
+revid: 68319
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Random Encounters]
@@ -15,7 +15,7 @@ Front view of a Navaen hostage.
   
 _Looking for the [combat style?](Fists.md)_
 
-Most times, you become a target if your holding a hostage so be careful.
+Be careful if you're holding a hostage, as you may become a target.
 
 ## Description
 

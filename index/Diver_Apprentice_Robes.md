@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 54777
+revid: 68322
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -35,5 +35,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia
 
--   Karliah in Etris can be seen wearing this outfit before finishing her quest.
+-   Karliah can be seen wearing this outfit in Etris before finishing her quest.
 -   It is worn by Diver NPCs.
