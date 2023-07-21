@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 66988
+revid: 68251
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -34,7 +34,7 @@ To obtain it, you will need to achieve a Power level of 5 and a Light Weapons at
 
 Jus Karita is a rather unpopular style, due to its inability to use cestus weapons, effectively locking it out of [Enchants](Enchantments.md). This also gives it a rather subpar damage due to not being able to have a weapon's base damage to scale on.
 
-However, it's extremely off-putting animations, deceptive range, and 20% PEN still make it a formidable style. The [Justicar](<Justicar_(Origin).md>) armor also gives it a 15% damage boost.
+However, it's extremely off-putting animations, deceptive range, and 20% PEN still make it a formidable style. The [Justicar](<Justicar_(Origin).md>) armor also gives it a 20% damage boost.
 
 ### Critical
 

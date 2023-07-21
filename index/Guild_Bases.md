@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 64328
+revid: 68259
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -22,9 +22,9 @@ Entering the guild base for the first time, you will be met with a glowing outli
 
 Currently, there are **3** NPCs that can join your Guild Base (particularly in the main room) with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
--   The Mystic, which can be hired after getting 3+ rooms for Notes.
--   The Barber, which can be hired after getting 6+ rooms for Notes.
--   The Antiquarian, which can be hired after getting 9+ rooms for Notes.
+-   The [Mystic](Mystic.md), which can be hired after getting 3+ rooms for Notes.
+-   The [Barber](Barber.md), which can be hired after getting 6+ rooms for Notes.
+-   The [Antiquarian](Antiquarian.md), which can be hired after getting 9+ rooms for Notes.
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase.
 
@@ -57,7 +57,7 @@ A guild base can be increased in size through different rooms. Some provide prac
     -   Artisan - An upgrade to the Trophy Room that costs Notes for hire. For Notes, allows the Player to merge attributes and appearance of an Item through **smelting**.
 -   Quarters (1000) - A room with a campfire, **crafting table**, and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can **spawn** in the room (You cannot cook at the campfire).
 -   Laboratory (1500) - A room that features an **alchemy pot** where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
--   Song Room (2000) - A room that features a **mantra** **table** where you can modify your mantras along with a campfire where you can rest & recall mantras, as well as a Mystic NPC that can be purchased for.
+-   Song Room (2000) - A room that features a **mantra** **table** where you can modify your mantras along with a campfire where you can rest & recall mantras, as well as a [Mystic](Mystic.md) NPC that can be purchased for.
 -   Armory (2500) - A room that features a **blacksmith** (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
 -   Fishing Room (1000) - A room consisting of a small pond in the center which you can fish from. If you drink this water you will throw up.
 -   Library (2000) \[XL\] - A room that features many bookshelves.

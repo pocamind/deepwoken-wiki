@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 68100
+revid: 68253
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Death, The Depths]
@@ -36,13 +36,11 @@ Located to the left handside, beyond a small parkour section. Interacting with i
 
 ### Shrine of the Drowned
 
-Located before Self, a statue that allows you to pay 1.000
-
-to return to the Surface. This can only be used once per character and requires [Power](Power.md) 2.
+Located before Self, a statue that allows you to pay 1000 to return to the Surface. This can only be used once per character and requires [Power](Power.md) 2.
 
 ### Self
 
-Located past the stone archs, a reflection of yourself that will remove your character. The following is the dialogue present with said reflection:
+Located past the stone arches, a reflection of yourself that will remove your character. The following is the dialogue present with said reflection:
 
 <table>
 <tbody>

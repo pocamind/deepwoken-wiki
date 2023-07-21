@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 67661
+revid: 68255
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Belo
 
 ## Effects
 
--   10% mantra resistance.
+-   15% mantra resistance.
 -   10% more weapon damage.
 -   Entirely lose access to mantras, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
 -   Attunements are unable to be used or obtained.

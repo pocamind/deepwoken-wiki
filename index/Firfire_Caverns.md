@@ -1,6 +1,6 @@
 ---
 title: Firfire Caverns
-revid: 66332
+revid: 68246
 source: https://deepwoken.fandom.com/wiki/Firfire_Caverns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Locations]
@@ -17,7 +17,7 @@ Template:Areainfobox
 
 ## Overview
 
-The Firfire Caverns is a large cave system found in the [Second Layer](Second_Layer.md), It is extremely dangerous; the celling will often collapse, and contains every single one of 2nd Layer's monsters. Its entrance will be locked if the player does not first activate the generator.
+The Firfire Caverns is a large cave system found in the [Second Layer](Second_Layer.md), It is extremely dangerous; the celling will often collapse, and contains every single monster found in the 1st Floor of the 2nd Layer. Its entrance will be locked if the player does not first activate the generator.
 
 It contains two exits, the first one leads to the [Firfire Village](Firfire.md), and the second is locked until the player talks to the village chief with the Ethiron's Gaze [Talent](Talents.md), leading to [The Maw of Ethiron](The_Maw_of_Ethiron.md).
 

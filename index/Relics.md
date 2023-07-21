@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 68232
+revid: 68252
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -21,7 +21,7 @@ Relics that can be obtained by players and actively used.
 | 
 File:Screenshot 2023-05-24 at 10.28.26 AM.png
 
- | **Rain Spire** - A reusable relic that can be found in [Layer 2](Second_Layer.md), [Blacksmith Ore Chests](Blacksmith.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Chime](Chime_of_Conflict.md) chests. It has the ability to summon rain for 4 minutes in a certain radius with a cooldown of 40 minutes. It may produce weather other than rain depending on the area, for example making it snow in [Minityrsa](Minityrsa.md).
+ | **Rain Spire** - A reusable relic that can be found in both layers of [The Depths](The_Depths.md), [Blacksmith Ore Chests](Blacksmith.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Chime](Chime_of_Conflict.md) chests. It has the ability to summon rain for 4 minutes in a certain radius with a cooldown of 40 minutes. It may produce weather other than rain depending on the area, for example making it snow in [Minityrsa](Minityrsa.md).
 
 **Lore** - None has been provided, likely because it was added due to the suggestion of YouTuber Agamatsu on short notice.
 
