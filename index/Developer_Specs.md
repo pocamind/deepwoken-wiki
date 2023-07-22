@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 67382
+revid: 68387
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -124,7 +124,7 @@ He also has a [Heliodar](Heliodar.md) slot.
 
 ### Melon\_Sensei/Par
 
-Par has the spec to spawn a cat maid that will execute any downed players/NPCs. Not much is known about this spec at the moment.
+Par has the spec to spawn a ~cat maid~ "servant" that will execute any downed players/NPCs. Not much is known about this spec at the moment.
 
 ## Sources
 
