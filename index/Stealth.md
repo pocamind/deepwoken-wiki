@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 56552
+revid: 68331
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 -   Improving your [Agility](Attributes.md) will improve your Stealth.
 -   The [Talent Card](Talents.md) _Now You See Me_ improves Stealth while crouched.
 -   Equipping specific outfits:
-    -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) grants +50% Stealth.
+    -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
     -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
     -   [Shadow Hunter](Shadow_Hunter.md) grants the [Talent Card](Talents.md) _Now You See Me_.
     -   Authority Peacekeeper Armour grants the [Talent Card](Talents.md) _Now You See Me._

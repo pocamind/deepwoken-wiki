@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 67268
+revid: 68340
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,10 +43,10 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 ## Abilities
 
 -   **Mindsoothe - Support Mantra**
-    -   Heal nearby allies for 60 HP at the cost of your Sanity.
-        -   Sanity cost is only induced if someone is healed
+    -   Heal nearby allies for 60 HP at the cost of your Sanity (naturally the cost is only induced if someone is healed).
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
+    -   Doesn't work on NPCs.
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
 
 -   **Tranquil Circle - Combat Mantra**
@@ -55,18 +55,20 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Adds 10% Monster Armor to players standing in its radius.
     -   While inside the circle, gain total immunity to mantra damage.
     -   About the size of a medium Sacred field roll.
-    -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle smaller but makes it follow the user.
+    -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle much smaller but makes it follow the user.
+    -   Doesn't proc talents like Charged Return or Nullifying Clarity.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
-    -   The entire beam deals around 260 damage. With extra damage and posture dealt at the start of the beam
-    -   Sightless beam can be canceled midway by pressing F
-    -   Steals eyesight proccing the blind effect if enough hits land
-    -   Has a HIGH windup
+    -   The entire beam deals around 260 damage. With extra damage and posture dealt at the start of the beam.
+    -   Sightless beam can be canceled midway by pressing F.
+    -   Steals eyesight proccing the blind effect if enough hits land.
+    -   Has a **high** windup.
         -   Hard to parry, entirely blockable. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is adviced to get a friend to distract them.
+    -   You can walk while using this, but you cannot run.
     -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **All-Seeing Eye - Passive**

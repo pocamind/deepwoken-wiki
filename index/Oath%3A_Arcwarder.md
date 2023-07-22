@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 67267
+revid: 68341
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -73,3 +73,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ## Effects
 
 This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, it overwrites the user's current eye color and grants them orange eyes instead.
+
+## Trivia
+
+-   The Arcwarder suit originally looked far different, but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
