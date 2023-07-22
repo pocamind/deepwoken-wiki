@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 64580
+revid: 68357
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Garbs]
@@ -11,7 +11,7 @@ categories: [Equipment, Arms, Garbs]
 | Mercenary's Garb | |
 |---|---|
 | type | Arms |
-| rarity | Rare(Assumed) |
+| rarity | Rare |
 | selling price | (Assumed) |
 | requirements | None |
 | weight | 2 |

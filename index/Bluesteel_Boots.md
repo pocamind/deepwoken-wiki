@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 65792
+revid: 68371
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors, Equipment]
@@ -8,11 +8,24 @@ categories: [Character, Armors, Equipment]
 
 # Bluesteel Boots
 
+| Bluesteel Boots | |
+|---|---|
+| type | Boots |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | N/A |
+| innate stats | +3 Health |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:Starswept Valley |
+| description | - ... |
+
 “ Hmph, Redsteel Boots? Really? You lack standard. Be like me, choose blue instead. ”
 
 ― A Vesperian insulting a Capra's Redsteel Boots
-
-Template:EquipmentStats
 
 ## Description
 

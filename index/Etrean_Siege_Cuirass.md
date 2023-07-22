@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 64569
+revid: 68356
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Cuirasses]
 | Etrean Siege Cuirass | |
 |---|---|
 | type | Arms |
-| rarity | Rare (Assumed) |
-| selling price | (Assumed) |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 2 |
 | innate stats | 8 Health1 + 1 Pips |

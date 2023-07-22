@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 63931
+revid: 68372
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -8,11 +8,24 @@ categories: [Character, Armors]
 
 # Brilliant Boots
 
+| Brilliant Boots | |
+|---|---|
+| type | Boots |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | N/A |
+| innate stats | N/A |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Erisia, Songseeker Wilds, Minityrsa |
+| description | - ... |
+
 “ Brilliant? These boots aren't brilliant, they're mid. ”
 
 ― Random Guy
-
-Template:EquipmentStats
 
 ## Description
 

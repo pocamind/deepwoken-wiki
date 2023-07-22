@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 68152
+revid: 68362
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,7 +24,7 @@ categories: [Oaths]
 ## Obtainment
 
 -   Meet the following requirements:
-    -   Have 50 [charisma](Attributes.md)
+    -   50 [charisma](Attributes.md)
     -   Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once
     -   Have a Dark Feather in your possession
 -   Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
@@ -48,12 +48,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Clones do apply hitstun, allowing one to trip up enemies and possibly fail parries.
     -   This mantra is similar to lightning clones, although it works slightly different in execution.
 -   **Illusionary Realm - Support Mantra**
-    -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds 40 if 3 eternal and aeon logstones.
+    -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds. (40 seconds with 3 eternal and aeon logstones)
         -   Cooldown is 2 minutes and 40 seconds.
     -   Monsters such as crabs, and carbuncles can be stored in the realm.
     -   The realm can be used as a healing space, where you can place campfire, graceful flame or warriors respite.
     -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
-        -   Players cannot be knocked in the realm.
+        -   **Important Note:** Players cannot be knocked in the realm
     -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordindly when the realm end).
 -   **Illusionary Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attacks and teleports the attacker behind the user. This can be extended with mantra modifications.
@@ -65,12 +65,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   While in the **Illusionary Realm**, press X to leave early. This will cost ?? HP(Tested with 478 hp character, it only cost 4% HP when i had full health) and leave the victim with monsters from The Depths for the remaining duration.
     -   The monster can be any of the monsters that spawn in the Depths
 -   **Cheap Trick - Passive**
-    -   When dropping below 50% health, turn invisible and summon an Illusionary Servant that follow the same rules as the active one summoned by the mantra **Illusory Servants**.
+    -   When below 50% health, turn invisible and summon an Illusionary Servant that follow the same rules as an active one summoned by **Illusory Servants**.
 
-The following talent is obtained by leveling up after obtaining and maxing out Visionshaper.
+The following talent is obtained by leveling up after obtaining and maxing out Visionshaper:
 
 -   **Vanishing Closure - \[Rare talent, Visionshaper\]**
-    -   Become invisible for 2.5 seconds whenever you knock an enemy. This invisibility grants iframes.
+    -   Become invisible for 2.5 seconds whenever you knock an enemy. (grants iframes for the duration of the effect.)
 
 ## Effects
 
