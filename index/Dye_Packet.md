@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 67017
+revid: 68343
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -10,4 +10,4 @@ notices:
 
 # Dye Packet
 
-Obtained from Klaris after handing in Kyrsan Medallions. Can be used to dye equipment or hair into a different colour
+Obtained from Klaris after handing in Kyrsan Medallions. Can be used to dye equipment or hair into a different color
