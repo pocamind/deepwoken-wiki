@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 65513
+revid: 68420
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -90,7 +90,7 @@ This fits with our current understanding of the lore and would explain why they 
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's race name was changed to Hatskipper.
 -   Ganymede is one of the rarest obtainable races in the game, the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
 -   Ganymede is part of the main hive race the other being [Vesperian](Vesperian.md) and [Chrysid](Chrysid.md).
--   Also has a lot of drip potential. They even start with a hat, very drippy.
+-   Ganymede begins with an unobtainable drippy hat by default. It is undyeable & unsmeltable, and will be removed upon wearing any other headgear.
 -   The hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).[\[1\]](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots)
 -   In Greek mythology Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
 -   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
