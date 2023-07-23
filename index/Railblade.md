@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 68385
+revid: 68396
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -49,4 +49,3 @@ Airborne Critical
 -   The criticals are probably based on the forms of Flame Breathing from Demon Slayer
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
 -   Having "Azure Flames" talent with [Flamecharm](Flamecharm.md) makes both of your critical flame visual appear azure while also applying azure flames instead of normal ones
--   The _Railblade_'s model is a reference to [Nagoriyuki's](https://guiltygear.fandom.com/wiki/Nagoriyuki) weapon from _Guilty Gear._

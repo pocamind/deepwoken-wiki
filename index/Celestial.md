@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 68391
+revid: 68398
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -54,11 +54,8 @@ There is a crucified Celestial in a secret room inside of the [Derelict Highchur
 
 ## Trivia
 
--   The most undrippiest race in the game, even their weaker variant lightbornes beat it even though you expect it to be like primal vesperian.
--   The barber did them so bad, that people felt so bad they hunted down all bad barbers.
--   This race is so ugly, a bald etrean vommited at their sight.
 -   Celestials can be seen referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
--   Though Arch has stated he has no name for the Celestial in the Derelict Highchurch, it's possible it is still Ku, and the story for the quest was written by a different developer, especially given just how heavily it is implied to be them.
+-   Ku is the only Celestial present in the game (as pictured below.)
 -   Nilsa, as stated by Ragoozer, was never confirmed and is likely not even canon anymore in the current lore of Deepwoken.
 
 ## Gallery

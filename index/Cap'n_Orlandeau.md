@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 68305
+revid: 68401
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -108,7 +108,7 @@ He is a Panther felinor
 > 
 > 1\. My name is **\[PLAYER\]**. I'm sent by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 > 
-> (**1**) Cap'n Orlandeau: **\[PLAYER\],** huh... I see. And [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), you say? Bah! Funny that, she sends a sorry soul down here to do her dirty work for her. \*He sneers, looking off to the cityscape around him.\* Sorry to say, \[PLAYER\], but you're just a pawn. Live for yourself, not some _higher-up_. Indeed... the _powers_ _that be see_ us as nothin' but worms in a festering sea of corpses. Disposable, so fragile. Do you think she truly cares about you? She cares about HERSELF, pawn. Herself and hear ideals only; you are a worm, just like me! Baha!
+> (**1**) Cap'n Orlandeau: **\[PLAYER\],** huh... I see. And [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), you say? Bah! Funny that, she sends a sorry soul down here to do her dirty work for her. \*He sneers, looking off to the cityscape around him.\* Sorry to say, \[PLAYER\], but you're just a pawn. Live for yourself, not some _higher-up_. Indeed... the _powers_ _that be see_ us as nothin' but worms in a festering sea of corpses. Disposable, so fragile. Do you think she truly cares about you? She cares about HERSELF, pawn. Herself and her ideals only; you are a worm, just like me! Baha!
 > 
 > 1.  I see. And you are? (Skip directly to "1. I see, and you are?" below)
 > 2.  It seems you dislike power.
