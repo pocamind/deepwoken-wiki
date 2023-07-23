@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 68050
+revid: 68447
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -26,7 +26,7 @@ At the time of writing, it is too early to say exactly what Ironsing matchups wi
 
 ## Training Ironsing
 
-The training item for Ironsing is the Ferrofluid. Much like every other attunement, can see their Mantras become stronger with enough training.
+The training item for Ironsing is the Ferrofluid. Much like every other attunement, one can see their Mantras become stronger with enough training.
 
 ## Mantras
 
