@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 68259
+revid: 68423
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -58,7 +58,7 @@ A guild base can be increased in size through different rooms. Some provide prac
 -   Quarters (1000) - A room with a campfire, **crafting table**, and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can **spawn** in the room (You cannot cook at the campfire).
 -   Laboratory (1500) - A room that features an **alchemy pot** where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
 -   Song Room (2000) - A room that features a **mantra** **table** where you can modify your mantras along with a campfire where you can rest & recall mantras, as well as a [Mystic](Mystic.md) NPC that can be purchased for.
--   Armory (2500) - A room that features a **blacksmith** (You have to hire them) where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
+-   Armory (2500) - A room that features a **blacksmith** (You have to hire them, costing )where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
 -   Fishing Room (1000) - A room consisting of a small pond in the center which you can fish from. If you drink this water you will throw up.
 -   Library (2000) \[XL\] - A room that features many bookshelves.
     -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored, and shows the name and surname of each book's first donator.

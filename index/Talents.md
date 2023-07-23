@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68399
+revid: 68421
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2425,7 +2425,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
     -   Also available as a common talent.
 
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 15% more damage. {Conflicting Info; Says 25% on other pages. Can someone confirm?}
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 15% more damage.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your [Jus Karita](Jus_Karita.md) attacks deal 25% more damage. (+3 Passive Agility)

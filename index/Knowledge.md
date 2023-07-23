@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 68197
+revid: 68432
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,7 +40,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete. _One time use._
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long that you have the medallions to afford it. **Klaris will refuse your Medallions (for some reason...) if you are below Power 15.**_
 -   Finishing Mendacia's quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge tho)
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.\\
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.
 -   Killing [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
 -   Killing [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
 -   Killing [Crimson Megalodaunt](Megalodaunt.md) for the first time, awarding 1 Knowledge.
