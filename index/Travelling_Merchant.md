@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 67387
+revid: 68503
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -65,7 +65,7 @@ The prices of Chili's items may vary from price to price.
     -   [Black Parka](Fur_Parka.md)
     -   [Bloodfeather Cowl](Bloodfeather_Cowl.md)
     -   [Brigand's Cloak](<Brigand's_Cloak.md>)
-    -   [Curseblood Pendant](Curseblood_Pendant.md)
+    -   [Curseblood Pendant](Equipment.md)
     -   Dawn Scarf
     -   [Delver's Duster](<Delver's_Duster.md>)
     -   Duelist's Mask

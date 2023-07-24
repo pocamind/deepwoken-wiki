@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 68194
+revid: 68505
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -37,6 +37,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   _I stand far above others, an insurmountable challenge. **(Colossus) (Note; Cannot give Destructive Recovery)**_
 -   _I seek the qualities of Annihilator. **(Collapsed Lung)**_
+-   _I seek the qualities of Rampaging Brute. **(Unwavering Resolve; Shield Breaker; Million Ton Piercer)**_
 -   _My attack is unstoppable. **(Raging Bull) (Note; Cannot give Bulldozer)**_
 
 ### Fortitude
