@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 66205
+revid: 68491
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](The_Starswept_Valley.md) on [Aratel Island](Aratel_Island.md). They have two variants: A neutral one that is always seen fighting an [Authority Captain](Authority_Captain.md) and an aggressive one that attacks anyone on sight, dubbed the [Legion Sniper](Legion_Sniper.md).
 
-A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots with their [race](Aspects.md) varying.
+A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md) with their [race](Aspects.md) varying.
 
 ## Moveset
 
@@ -49,7 +49,7 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 
 ## Finisher
 
-A Legion Captain executes it's opponent after knocking them:
+A Legion Captain executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -66,6 +66,6 @@ A Legion Captain executes it's opponent after knocking them:
     -   [Fists](Fists.md) (**Legion Kata**): Almost always results in victory.
     -   [Champion's Sword](<Champion's_Sword.md>): Will only lose if the Authority Commander also has a sword.
     -   [Ritual Spear](Ritual_Spear.md): Loss.
--   The Legion Captain, after killing the Authority Commander, instantly aggravates on the nearest enemy NPC, regardless if through a wall, **killing the NPC will most probably make the Captain despawn if it doesn't have anymore targets**, therefore, you will not be able to talk to them.
+-   The Legion Captain, after killing the Authority Commander, instantly aggravates on the nearest enemy NPC, regardless of if through a wall, **killing the NPC will most probably make the Captain despawn if it doesn't have any more targets**, therefore, you will not be able to talk to them.
 -   Your starter rep with the legion is actually "negative"/neutral, they use the negative rep text but won't attack you.
 -   Almost has the same moveset as [Polis](Polis.md).

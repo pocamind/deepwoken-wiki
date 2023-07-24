@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 66620
+revid: 68482
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -17,7 +17,6 @@ categories: [Weapons, Pages with broken file links, Spears]
 | range | 9 |
 | swing speed | 0.68x/0.69 |
 | penetration | 25% |
-| selling price | 25 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

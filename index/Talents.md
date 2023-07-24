@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68421
+revid: 68478
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -234,7 +234,7 @@ _**"I enjoy mixing potions."**_
 
 ### Angler
 
--   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly. (+2 Health)
+-   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly.
     -   Obtained after fishing 50 times successfully.
     -   Increase the rate of hooking something while fishing.
 

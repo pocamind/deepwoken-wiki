@@ -1,6 +1,6 @@
 ---
 title: Redsteel Pauldrons
-revid: 64559
+revid: 68498
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -31,3 +31,4 @@ The Redsteel Pauldrons are an equipment item under the Arms category. The stats 
 ## Trivia
 
 -   The Redsteel Pauldrons are part of the “Redsteel” set; with the only other piece being the [Redsteel Boots](Redsteel_Boots.md).
+-   The red counterpart to the [Bluesteel Pauldrons](Bluesteel_Pauldrons.md).

@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Pauldrons
-revid: 64549
+revid: 68497
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -31,3 +31,4 @@ The Bluesteel Pauldrons are an equipment item under the Arms category. Equipping
 ## Trivia
 
 -   The Bluesteel Pauldrons are part of the "Bluesteel" set; with the only other piece being the [Bluesteel Boots](Bluesteel_Boots.md).
+-   The blue counterpart to the [Redsteel Pauldrons](Redsteel_Pauldrons.md).
