@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 68184
+revid: 68467
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles]

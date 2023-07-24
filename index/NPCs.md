@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 67412
+revid: 68477
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -16,14 +16,15 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |
-| ??? | Unaligned | [The Depths](The_Depths.md), [Celtor Wastes](Celtor_Wastes.md) | None | Also referred to as Coral Clump |
+| ??? (Coral Clump) | Unaligned | [The Depths](The_Depths.md), [Celtor Wastes](Celtor_Wastes.md) | None |  |
+| ??? (FlaseMan) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | Acre | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Catapults you into a door that requires a [bell](Resonance.md) to open | Once thrown enough times she will stop throwing you |
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](The_Depths.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) | If you choose the second option without 100 charisma you will have your head exploded |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives Glider schematic, gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |
 | [Alirian](Alirian.md) | [The Kingdom of Etrea](Etrea.md) | [Minitrysa](Minityrsa.md) | Gives the player the [Jetstriker](Oath%253A_Jetstriker.md) [Oath](Oaths.md). | Accepts orbs in exchange for Jetstriker talents |
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), Viper's Jaw | Grants [Legion Kata](Fists.md) fist style | Requires you to help win Legion events in [Aratel Island](Aratel_Island.md) |
-| [Amashi](Attunement_Trainers.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, Silentheart [Oath](Oaths.md) progression |  |
+| [Amashi](Attunement_Trainers.md) | Unaligned | [The Songseeker Wilds](Songseeker_Wilds.md), [Songkeeper Temple](Songseeker_Temple.md) | [Flamecharm](Flamecharm.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | Andrea | Unaligned | [The Depths](The_Depths.md), The Cathedral of Interstice | Reveals information about the Depths Trial | Dialogue changes after completing the trial once |
 | Arthur | [The Kingdom of Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md), entrance in the [Towerstruck Lands](Towerstruck_Lands.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the talents Critical Attack and Engage upon quest completion |
 | Avian | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md), Arena | Gives quest to bring a Weapon Manual | Consumes one usage of the manual upon quest completion |

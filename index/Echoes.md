@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 68121
+revid: 68466
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -38,8 +38,8 @@ A unique W Rank is achievable by obtaining S Rank while having enabled every Ech
 | --- | --- |
 | W | 140 (441 w/ all Echoes Modifiers) |
 | S | 140 |
-| A | 100-139 |
-| B | ??-99 |
+| A | 120-139 |
+| B | ??-120 |
 | C |  |
 | D | 30-?? |
 | E | 0-29 |
