@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68478
+revid: 68522
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -775,7 +775,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Fish
 
 -   _Fishman_ \[Generic Talent,Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
-    -   Health regeneration is increased while swimming bellow 66% Health.
+    -   Health regeneration is increased while swimming below 66% Health.
     -   Hunger drain from swimming is multiplied by an unknown amount.
     -   Reduces the Health Regenerations effects of the [Curse of the No Life King.](Enchantments.md)
     -   Does not activate in the Depths.

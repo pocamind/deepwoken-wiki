@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 68502
+revid: 68512
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -24,3 +24,8 @@ Lance's Brother is an [Etrean](Etrean.md) NPC, located in at the [Isle of Vigils
 
 -   After asking his name, your character forgets, and his name is then randomized from a preset group of names, which end in "(?)".
 -   Lance's Brother wears [Merchant Robes](Merchant_Robes.md).
+-   Lance Leshi denies having a brother.
+
+## Gallery
+
+Lance's Food

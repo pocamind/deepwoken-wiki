@@ -1,6 +1,6 @@
 ---
 title: Dockson
-revid: 51756
+revid: 68510
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -25,9 +25,9 @@ He uses [Summer Company Uniform](Summer_Company_Uniform.md) and cannot be hurt o
 
 ## Prices
 
--   [Dragoon](Dragoon.md) - 500 Notes
--   [Revolver](Repeater.md) - 200 Notes
--   [Flintlock](Flintlock.md) - 100 notes
+-   [Dragoon](Dragoon.md) -
+-   [Revolver](Repeater.md) -
+-   [Flintlock](Flintlock.md) -
 
 ## Trivia
 

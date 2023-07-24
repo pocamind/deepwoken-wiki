@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 65256
+revid: 68508
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -102,7 +102,7 @@ The Etris blacksmith house.
 
 #### Lance's Food
 
--   Lance Leshi and [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest) can be found here.
+-   [Lance Leshi](Lance.md) and [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest) can be found here.
 -   Mushroom Omelettes can be purchased for.
 -   Mushroom Bisque can be purchased for.
 -   Megurgers can be purchased for.
@@ -111,7 +111,7 @@ The Etris blacksmith house.
 
 #### The Palace
 
--   The Lord Regent can be found here.
+-   [The Lord Regent](The_Lord_Regent.md) can be found here.
 
 #### The Den
 

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 67592
+revid: 68511
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -8,7 +8,7 @@ categories: [Ingredients, Items, Mechanics]
 
 # Ingredients
 
-This page is about Ingredients. If you are looking for Food click [here](Food.md).
+This page is about Ingredients. If you are looking for Food, click [here](Food.md).
 
 ## Description
 
@@ -38,7 +38,7 @@ Raw materials harvested from the environment.
 -   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
 -   Redd - Small round, orange fruit. They don't grow during summer.
 -   Plumfruit - It's a plum, what did you expect?
--   Ongo - Red, roundish fruit. Basically an apple.
+-   Ongo - Red, roundish fruit. Basically, an apple.
 -   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   Bluecaps - Found only in a library area coated in blue fog on Erisia.
     -   There are two ways to get into this location; First by an upwards shaft from the cave in [Lower Erisia](Lower_Erisia.md) where one can find gold \[One can only access this location with movement mantras, and clever use of the Cauldron\], secondly \[and the intended way\] is via a puzzle at the [Birdcage](The_Birdcage.md) which you need a Soul Hearthgem for, then take the nearby zipline and head into a hole in the floor of a nearby ruin.
@@ -56,17 +56,17 @@ Lotuses are unique ingredients that are only used to make attribute flasks, whic
 
 Lotuses and attribute flasks cannot be dropped. Lotuses can be added to potions, though they have no effect. Lotuses can be sold for 15 notes each.
 
-Each 2 lotuses crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
+2 of each lotus crafts a flask of an attribute (ex. 2x Brilliant Lotus = Flask of Intelligence).
 
 -   Hellfire Lotus (Red) - Strength Attribute
-    -   Found in: Crypt of the Unbroken, Saramaed Summit
+    -   Found in: [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Saramaed Summit](Saramaed_Summit.md)
 -   Empyrean Lotus (Blue) - Fortitude Attribute
     -   Found in: Deep Thresher Nest
 -   Zephyr Lotus (Green) - Agility Attribute
-    -   Found in: Ancient Rotlands
+    -   Found in: [Ancient Rotlands](Ancient_Rotlands.md)
 -   Brilliant Lotus (Yellow) - Intelligence Attribute
-    -   Found in: Saramaed Summit, Deep Thresher Nest
+    -   Found in: [Saramaed Summit](Saramaed_Summit.md), Deep Thresher Nest
 -   Skyvalor Lotus (White) - Willpower Attribute
-    -   Found in: Crypt of the Unbroken, Starfield Grove
+    -   Found in: Crypt of the Unbroken, [Starfield Grove](Starfield_Grove.md)
 -   Miasmic Lotus (Pink) - Charisma Attribute
     -   Found in: Ancient Rotlands

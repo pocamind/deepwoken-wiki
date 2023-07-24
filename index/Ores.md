@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 66723
+revid: 68513
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -11,8 +11,6 @@ categories: [Pages with broken file links, Items, Harvestables]
 ## Description
 
 Ores are materials found all around the map, usually in caves. It is used for crafting various armor and traded for chests. They can be harvested with a pickaxe by pressing E on them.
-
-## Ores
 
 **Rock:**
 

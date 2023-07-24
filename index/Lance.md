@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 68483
+revid: 68509
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -18,11 +18,17 @@ categories: [NPCs, Vendors]
 
   
 
-## **Info:**
+## **Description**
 
-Lance Leshi is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside a building in front the the General Store. He sells various [food](Food.md) items like Mushroom Bisque, Megurger and Mushroom Omelets, with various prices ranging from 15-25 notes.
+Lance Leshi is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside a building in front the General Store. He sells various [food](Food.md) items.
 
-## Trivia:
+## Prices
+
+-   Mushroom Bisque -
+-   Megurger -
+-   Mushroom Omelets -
+
+## Trivia
 
 -   Lance Leshi has a [brother](<Lance's_Brother.md>) located in the [Isle of Vigils](Isle_of_Vigils.md), but I forgot what his name was...
 -   Lance Leshi's beard ID is 4995497755 and hair ID is 5891039736.
