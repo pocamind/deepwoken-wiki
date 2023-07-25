@@ -1,6 +1,6 @@
 ---
 title: Deep Crucible
-revid: 68576
+revid: 68678
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,6 +20,10 @@ It spawns 3 small chests and one large chest, possibly being better than just tu
 Each chest spawns after 5 enemies have been defeated, with the large chest signifying the end of the event.
 
 The Deep Crucible challenge does NOT scale with level and will spawn a random assortment of the enemies listed above. Rewards potentially scale with level, though needs more testing
+
+## Drops
+
+So far, it has been seen to drop Erisia loot and Deep Gems.
 
 ## Trivia
 

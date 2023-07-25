@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 67904
+revid: 68677
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Voidzones]
@@ -37,6 +37,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 | --- | --- | --- | --- |
 | 
 -   [Cloak of Winds](Cloak_of_Winds.md)
+-   Justicar's Armor
 
  | 
 

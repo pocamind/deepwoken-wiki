@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 68472
+revid: 68669
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -29,7 +29,7 @@ The Hell Mode Bell can be found within the Celtor Wastes. To activate Hell mode,
 Once the conditions are met, The Depths (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
 -   Monster spawn rates are increased by 10x.
--   Every mob that can spawn corrupted, _will_ be corrupted, with the exception of King Threshers.
+-   Every mob that can normally spawn corrupted _will_ be corrupted, with the exception of King Threshers.
 -   The [Enforcer](Enforcer.md) and the [Nautilodaunt](Nautilodaunt.md) are added to the regular spawn pool for the duration of the event.
     -   The Enforcer's Space Pull attack is disabled to prevent people being wiped to Enforcers falling into the void. Existing Enforcers can use the attack again once Hell Mode ends.
     -   King Thresher's burrowing attack is disabled.
@@ -50,7 +50,7 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original 5 players who activated the event all died.
 
-Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell (It will also sometimes spawn for players that didnt ring the bell). These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the players who activated the event and cannot be interacted with by other players.
+Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside.
 
 ## Tips
 
@@ -63,23 +63,19 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   **If you have Blindseer, wear a blindfold.** Hell Mode makes the depths a LOT darker so if you have a hard time seeing in a Hell Mode server, you could try wearing a blindfold. The blueish tint may make it easier to see.
 -   **When fighting monsters in a group, do NOT hit your allies.** This will not put them in player combat, but it can damage them which means they will take damage from the hit. They can still get heals from mobs when killing monsters. Other players that didn't ring the bell will get combat tagged so if you're with someone that didn't ring it, don't hit them.
 -   If you want to **survive** Hell Mode, its better to you have a group of People with Sacred Field Bell, And go to the Temple of Hearts(bell reroll place). Get someone with Undying Flame to regen hp and sanity. The [Kamui](Dimensional_Travel.md) bell (combat tag variation) is awesome in Hell Mode, you can just go into Kamui Dimension and spawn Graceful Flame with no repercussions to you.
--   Be aware of any alchemist people as they can trick you into drinking an **insanity** potion.
 -   The best weapon for hell mode is definitely either the [Kyrscleave](Kyrscleave.md) or [Evanspear Hand Axe](Evanspear_Greataxe.md). Heroism and Providence Thorns are extremely good for Hell Mode, but the undeniably best enchant is Chilling paired with the [Nullifying Clarity](https://deepwoken.fandom.com/wiki/Talents?so=search#Ether_Adept) talent for +15% damage.
 -   If you have Blindseer Oath be sure to use Oath mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 -   **Squibbo has the same health as a Megalodaunt.** A 100 HVY user with 0 proficency can still 3 tap squibbo (2 crits, a m1) if no attacks are parried. Sacred Field can act as a safety net if you start panicking and throwing your parries, or you and some friends can just gank him.
--   Detonation Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit that procs deto multiple times.
+-   Detonation Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit that procs deto multiple times. It is dangerous near other players, however.
 -   If you are low on health try to kill a weaker monster, such as a [Lionfish](Lionfish.md), [Thresher](Thresher.md), or a [Megalodaunt](Megalodaunt.md).
--   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack, or getting to a safe place to calm down. Killing them in a group however, is very easy even at power 10, so they shouldnt be an issue with multiple people.
+-   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack. Nautilodaunts are a lot easier to beat in a team.
 
 ## Trivia
 
 -   If you get trapped in [Castle Light](Castle_Light.md) during the activation of Hell Mode, you won't be granted any reward.
 -   Hell Mode, despite having the red aura, is really dark, so you should turn up your brightness. (This is likely due to the natural blue tint of the Depths clashing with the dark red tint of Hell Mode)
--   Always have someone with you who has Undying Flame as you **will** need to heal.
--   Bring potions that give health and clear insanity as these can be a good alternative to an Undying Flame. Warriors Respite is also a very good choice.
--   The City of The Drowned will be more of a safe place because you can climb the buildings for higher ground.
 -   Servers in Hell Mode will be identifiable in the server browser by a unique red hue.
 -   The initial screen shake and red tint of Hell Mode can be seen in the [Fragments of Self](Fragments_of_Self.md).
 -   You can obtain a [Resonance](Resonance.md), even in Hell Mode.
--   Some servers can bug and retain Hell Mode features, even after the original 20 is up. **Death in this is restorable.**
+-   Some servers can rarely bug and retain Hell Mode features, even after the original 20 minutes is up. **Death in this is restorable.**

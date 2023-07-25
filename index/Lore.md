@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 67211
+revid: 68676
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -886,7 +886,6 @@ An Authority Captain
 -   They are lead by a Hivelord.
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysid residing within the Hive, this is because most of the Chrysid were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysid wanted, most of them decided to leave the Hive, but still some Chrysid believed in the Hive and decided to stay.
-    -   Their previous home was located in Erisia Island, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
 -   Currently at war with Etris, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for Lord Regents own interests.
 -   Apparently the Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.

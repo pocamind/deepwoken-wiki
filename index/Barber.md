@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 66527
+revid: 68675
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -20,6 +20,8 @@ categories: [NPCs]
 The Barber allows customization to your character, no notes needed!
 
 To use some of his features, a hair ID from the catalog is needed.
+
+The Barber's own hair ID is 4735346886. -AMDRadeon
 
 ## Dialogue
 

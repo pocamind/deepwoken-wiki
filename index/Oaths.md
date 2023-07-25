@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 68210
+revid: 68664
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -24,7 +24,7 @@ They chiefly serve to further define the player character's potential, personali
 
 Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
-**There are currently 10 obtainable Oaths in _Deepwoken_:**
+**There are currently 11 obtainable Oaths in _Deepwoken_:**
 
 -   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
@@ -36,6 +36,7 @@ Every character begins as a Pathfinder, otherwise known as one who has yet to sw
 -   [Silentheart](Oath%253A_Silentheart.md): Disables the use of mantras (still tradeable for talents with [Deep Shrines](Deep_Shrines.md)), +10% M1/CRIT DMG, +15% Mantra Resistance, +10 HP, +5 Posture \[75 Weapon, 40 Strength, 40 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP, Modified Fire Blade \[40 Strength\]
 -   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Combat Mantra, +1 Wildcard Mantra \[No Stat Requirements\]
 
 ## Lore Oaths
 
@@ -78,16 +79,6 @@ Proof of Time Magic's existance and it being an "Oath"
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
-
-**Fadetrimmer:**
-
-## Fadetrimmer
-
-**Lore Sources:** _Barbers (Mentioned)_
-
--   All barbers have taken an Oath as a Fadetrimmer, which they describe as a "pretty underground Oath" when talking to them.
--   There have been many jokes about Fadetrimmer and its obtainment method, but it is not (and most likely will never be) obtainable by normal players as Arch\_Mage confirmed it was just a joke.
-    
 
 ## Trivia
 

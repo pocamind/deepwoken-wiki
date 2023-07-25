@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 59349
+revid: 68656
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -28,7 +28,7 @@ categories: [Weapons, Greatswords]
 
 ## Description
 
-The Enforcer's Blade is a Greatsword [Heavy Weapon](Weapons.md). Equipping this requires 80 HVY and 20 STR invested into your character. The Enforcer's Blade is rarely obtained through defeating [The Enforcer](Enforcer.md), only if it wields the blade.
+The Enforcer's Blade is a Greatsword [Heavy Weapon](Weapons.md). Equipping this requires 80 HVY and 25 STR invested into your character. The Enforcer's Blade is rarely obtained through defeating [The Enforcer](Enforcer.md), only if it wields the blade.
 
 ## Trivia/Notes
 

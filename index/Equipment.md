@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 68112
+revid: 68655
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -2834,7 +2834,7 @@ Grants a random buff.
 
 _+Talent: Firmly Planted_
 
-**Requires Power 13**
+**Requires Power 10**
 
  | 
 

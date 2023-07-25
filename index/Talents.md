@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68565
+revid: 68666
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -90,7 +90,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   3 Second cooldown.
     -   Prerequisite: 15 Agility
 
--   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. Ice no longer affects your movement. (+9 Carry Load, +2 Passive Agility)
+-   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
     -   Prerequisites: 10 Agility, 10 Strength
 
