@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 68531
+revid: 68532
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -34,7 +34,7 @@ _\*The man seems moved by your kindness.\*_ "Oh Gods below... Thank you."
 
 If spoken to again (?)'s 'name' will be displayed with a (?) at the end.
 
-If talked to again choosing the same dialogue options. Your responses will change after the second text box.
+If talked to again choosing the same dialogue options. Your responses will change after the 2nd text box.
 
 _\*The man looks like he's been stabbed in the heart.\* "_I... I already told you..."
 

@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 59772
+revid: 68534
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -67,7 +67,6 @@ _Main Page: [Jus Karita](Jus_Karita.md)_
 
 ## Trivia
 
--   Way Of Navae is the only fighting style you can select on character creation, appearing as an option after unlocking it and wiping.
 -   Unlike all other weapons, fist styles make white particles instead of yellow when they hit a blocking enemy.
     -   Kind of makes sense as you're hitting metal with your bare fists.
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling up Light Weapon Scaling anyway.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 67273
+revid: 68597
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Oathless** is one of the 10 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 4 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Oathless** is one of the 11 obtainable Oaths in _Deepwoken._ It is a rather varied oath, given that its purpose is to extend the capabilities of what would be considered a Pathfinder. Together with [Linkstrider](Oath%253A_Linkstrider.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 4 Oaths that have no direct stat requirements.
 
 ## Obtainment
 

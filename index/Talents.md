@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68522
+revid: 68565
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -648,7 +648,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Doomsday Engine
 
--   Frozen Web \[Common Talent\] - Landing a critical with a Static Link on your opponent applies Chilled.
+-   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
 
 ### Duelist
@@ -718,7 +718,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Guildmates or people who are in a Vow of Mastery with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
     -   Prerequisities: 35 Charisma, Friends in High Places
--   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
+-   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies for 5 seconds when you hit them.
     -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
 
 ### Escape Artist
@@ -742,7 +742,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
     -   Prerequisites: 20 Agility, 15 Intelligence
 
--   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s
+-   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s
     -   Prerequisites: 30 Intelligence
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
@@ -1333,7 +1333,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
     -   Prerequisite: 80 Willpower
 
--   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 3 seconds. (30 Second Cooldown) (+10 Sanity)
+-   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 5 seconds. (30 Second Cooldown) (+10 Sanity)
     -   Prerequisite: 35 Willpower
 
 -   Uproar \[Common Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (Hyperarmor Benefit)

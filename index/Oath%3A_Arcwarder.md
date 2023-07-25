@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 68376
+revid: 68591
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Arcwarder** is one of the 10 obtainable Oaths in _Deepwoken_. It heavily focuses on defense. 4 of its passives are defensive, the other 2 are mobility, and Arc Wave, its only Combat [Mantra](Mantras.md) other than Arc Beam is a zoning tool.
+**[Oath](Oaths.md): Arcwarder** is one of the 11 obtainable Oaths in _Deepwoken_. It heavily focuses on defense. 4 of its passives are defensive, the other 2 are mobility, and Arc Wave, its only Combat [Mantra](Mantras.md) other than Arc Beam is a zoning tool.
 
 ## Obtainment
 

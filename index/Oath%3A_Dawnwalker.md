@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 68526
+revid: 68594
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Dawnwalker** is one of the 10 obtainable Oaths in _Deepwoken_. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), and [Contractor](Oath%253A_Contractor.md), it is one of 4 Oaths that have no direct stat requirements. It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade; this has granted it a reputation as the "exploiter oath".
+**[Oath](Oaths.md): Dawnwalker** is one of the 11 obtainable Oaths in _Deepwoken_. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), and [Contractor](Oath%253A_Contractor.md), it is one of 4 Oaths that have no direct stat requirements. It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade; this has granted it a reputation as the "exploiter oath".
 
 ## Obtainment
 

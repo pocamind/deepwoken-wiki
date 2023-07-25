@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 68362
+revid: 68601
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Visionshaper** is one of the 10 obtainable Oaths in _Deepwoken_. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
+**[Oath](Oaths.md): Visionshaper** is one of the 11 obtainable Oaths in _Deepwoken_. It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
 
 ## Obtainment
 

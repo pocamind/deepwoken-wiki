@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 68222
+revid: 68561
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -21,6 +21,8 @@ Artifacts in Deepwoken are valuable pieces of technology or objects that can be 
 Artifacts are generally found around [Lower](Lower_Erisia.md) and [Upper Erisia](Upper_Erisia.md) but can be found on other islands, as well as being able to spawn on rock formations out at sea such as the ones in the vicinity of [Erisia](Erisia.md). They can also be found in the sea. Due to the random nature of where they spawn you may find them guarded by [enemies](Enemies.md) or completely unguarded making it easy to pick up and run off with. You will know an Artifact has spawned near you as a loud pulsating noise can be heard emitting from it and large purple rings can be spotted flying upwards away from the Artifact's vicinity.
 
 When you pick up an Artifact it will make a loud noise and will then stop making further loud pulsating noises as well as losing the purple rings that would appear around it before.
+
+**An artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).**
 
 ## Rewards
 
