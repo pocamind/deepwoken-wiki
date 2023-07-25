@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 68255
+revid: 68523
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -81,5 +81,6 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
 -   This oath is the only oath that does not give any mantra slots.
 -   The Ironsing Trainer, Adar, and the Attunementless Trainer, Regek, cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This is likely due to the fact they do not "abuse" the song like the other attunement trainers.
+-   [Beatra](Beatra.md) also cannot be killed for progression due to her old age.
 -   A very strong oath, it alters the playstyle of the game, however.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.

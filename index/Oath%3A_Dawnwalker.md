@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 67759
+revid: 68526
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -50,7 +50,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.
-        -   Currently, this talent cannot be obtained due to bug.(2023/5/27)
 
 ## Effects
 
