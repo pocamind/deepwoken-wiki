@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 68596
+revid: 68651
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,7 +48,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
             1.  Hygiea (Near Songseeker Wilds)
             2.  Eunomia (Above Sibex)
             3.  Ceres (Overlooking the path to the abandoned cabin below Etris, on a black rocky outcrop)
-            4.  Europa (Near the Valley of Heroes)
+            4.  Europa (On the top part of the rocks overlooking the entrance to valley of heroes, to the right facing valley of heroes.)
             5.  Pallas (On the small bit of land by the miner's landing's gate)
             6.  Fortuna (Above Erisore's Church)
 -   **Symbiotic Link**
