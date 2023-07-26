@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 68716
+revid: 68725
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,6 +29,7 @@ Meet the following requirements and talk to a barber about Fadetrimming:
 
 -   Change your hair 15 times at Barber _(the hairs do not have to be unique and can be same hair id)_
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
+-   talk to the barber and pick the option "How is it your able to do all this stuff?" and continue the dialogue, asking to take the oath
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=znZiNGRjdZ0&ab_channel=TheDeepwokenGuide)._
 

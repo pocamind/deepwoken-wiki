@@ -1,9 +1,9 @@
 ---
 title: Ignition Union Arcwarder
-revid: 68577
+revid: 68737
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Enemies]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

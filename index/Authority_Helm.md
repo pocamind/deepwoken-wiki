@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 67916
+revid: 68721
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets]
@@ -10,9 +10,11 @@ categories: [Armors, Helmets]
 
 | Authority Helm | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | 10 Fortitude |
+| weight | 1 |
 | innate stats | +8 Health |
 | innate talent | Strong Hold |
 | bankable | Yes |

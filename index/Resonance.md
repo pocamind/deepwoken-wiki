@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 68156
+revid: 68723
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -200,7 +200,7 @@ This very specific and unique **Resonance Door** is within a cave in The Depths,
 -   One can visit [Yamaketzal](Yamaketzal.md) simply so that they can gain functionality of their bell.
 -   Otherwise, [Misérables](Misérables.md) can help you "truly" remove the _Tarnished_ state so that you can reroll again.
 
-In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, it is _currently unknown_ how many times a player needs to level up before being granted a "free" wish (most likely 3 or 4 times). However, this is of little matter, since the Layer 2 NPC's [Misérables](Misérables.md) "I seek clarity" option lets the player purchase wishes.
+In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, it is _currently unknown_ how many times a player needs to level up before being granted a "free" wish (most likely 3 or 4 times (3 times, tested. Got bell on power 16, talked with Yun'shul and on power 19 I got another wish)). However, this is of little matter, since the Layer 2 NPC's [Misérables](Misérables.md) "I seek clarity" option lets the player purchase wishes.
 
 ## List of Unobtainable Resonances
 

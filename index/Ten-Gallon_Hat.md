@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 67934
+revid: 68718
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -10,10 +10,12 @@ categories: [Helmets]
 
 | Ten-Gallon Hat | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | N/A |
-| innate stats | +2 Posture |
+| weight | 1 |
+| innate stats | +2 Posture1 Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -24,4 +26,4 @@ categories: [Helmets]
 
 ## Description
 
-The Ten-Gallon Hat is a _helmet. Equipping this item will give you random placeholder stats._
+The Ten-Gallon Hat is an Equipment in the Head category_._ Equipping this item will give you +3 health.

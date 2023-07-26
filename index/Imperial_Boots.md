@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 64437
+revid: 68728
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Equipment]
@@ -8,11 +8,24 @@ categories: [Boots, Equipment]
 
 # Imperial Boots
 
+| Imperial Boots | |
+|---|---|
+| type | Boots |
+| rarity | Uncommon |
+| selling price | 14 |
+| requirements | N/A |
+| innate stats | +5 Health |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Aratel Island |
+| description | - ... |
+
 “ Star Boots this, Star Boots that… ”
 
 ― Imperial Boots enjoyer
-
-Template:EquipmentStats
 
 ## Description
 
