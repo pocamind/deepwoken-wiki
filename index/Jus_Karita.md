@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 68251
+revid: 68686
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -12,16 +12,17 @@ categories: [Weapons, Pages with broken file links, Fists]
 |---|---|
 | type | Light Weapon |
 | requirements | 40 LHT, PWR 5 |
-| damage | 13 |
+| damage | 13.5 |
 | scaling | 9 |
 | range | 7 |
 | swing speed | 0.9x |
+| penetration | 20% |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Step 1: Get 40 LHT Weapons and Power 5.Step 2: Talk to Polis at Etris.or Eastern Tribal Leader. |
+| obtainment | Step 1: Get 40 LHT Weapons and Power 5.Step 2: Talk to Polis at Etris. |
 | description | The traditional martial arts style of the Justicars. |
 
 “ Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether. ”

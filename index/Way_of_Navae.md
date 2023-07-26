@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 62100
+revid: 68685
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -62,7 +62,6 @@ To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Er
 
 ## Notes & Trivia
 
--   **Way Of Navae** is the only fighting style you can select on character creation, appearing as an option after unlocking it and wiping.
 -   Slide jumping with using the **Way of Navae** critical can make it easier to land.
     -   You'll use your sliding momentum to dash forward.
 -   If you have **Way of Navae** and [Legion Kata](Legion_Kata.md) you can switch between them quickly by pressing Y.

@@ -1,8 +1,9 @@
 ---
 title: Deep Crucible
-revid: 68678
+revid: 68681
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Mechanics]
 ---
 
 # Deep Crucible
