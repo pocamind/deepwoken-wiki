@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 68413
+revid: 68715
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]
@@ -18,7 +18,7 @@ The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cat
 
 ## Effects
 
-The Trial will have not only **1** wave, but 2 - 3 waves if you are high enough level. Testing is needed for more exact information. (Note: This feature is currently bugged, you may or may not receive the Power up)
+The Trial will have not only **1** wave, but 2 - 3 waves if you are high enough level. Testing is needed for more exact information. (Note: This feature is currently bugged, you may or may not receive the Power up) (Extra note: You do not actually obtain a power up, you obtain an extra 15 investment points upon completing the trial which can be distributed at a campfire)
 
 The first fight will be a Enforcer at (1-10?) and a [Bonekeeper](Bone_Keeper.md) at level (11-14?) and a chance for a [Nautilodaunt](Nautilodaunt.md) (Thunder and Corrupted Included) and a [King Thresher](Thresher.md) (Can spawn corrupted) (15-20?)
 

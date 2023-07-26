@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 68684
+revid: 68716
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -27,7 +27,7 @@ Meet the following requirements and talk to a barber about Fadetrimming:
 
 -   Power 12
 
--   Change your hair 10 times at Barber _(the hairs do not have to be unique)_
+-   Change your hair 15 times at Barber _(the hairs do not have to be unique and can be same hair id)_
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=znZiNGRjdZ0&ab_channel=TheDeepwokenGuide)._
@@ -68,3 +68,4 @@ This oath is fully upgraded once you get it.
 -   Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash.
 -   Precision cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description is a reference to the "Ginger Fringe Incident" meme.
+-   Revitalizing can be used together with the Frostdraw talent "Saint Jay", which then will heal you for the 10% hp. Instead of the opponent.
