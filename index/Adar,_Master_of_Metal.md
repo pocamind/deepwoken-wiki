@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 68517
+revid: 68709
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -94,6 +94,9 @@ Adar: Now, if I'm right... This shouldn't do you _too_ much harm. Err. No pain n
 Adar: Ahah! Another success, it seems that all the failures last month were corrected! Er. Ahem. If you need any tutoring in this art, let me know. I'd be happy to be your mentor.
 
 1.  \[End Dialogue\]
+
+  
+Adar: Hmm... Oh! If you have need of some Ironsing teaching, I can probably help you. Lot of folks have been coming by lately - feels good to see my work recognised!
 
 **Upgrading mantras**
 

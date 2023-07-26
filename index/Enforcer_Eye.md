@@ -1,6 +1,6 @@
 ---
 title: Enforcer Eye
-revid: 58529
+revid: 68708
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Monster Mantra Ingredients]
@@ -12,7 +12,7 @@ notices:
 
 | Enforcer Eye | |
 |---|---|
-| value | Placeholder |
+| value | Cannot be sold |
 | weight | Placeholder |
 | type | Monster Material |
 | bankable | Yes |

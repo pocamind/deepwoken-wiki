@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 67677
+revid: 68712
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,9 +12,9 @@ _Also known as Hive Mechs, Lifeweaver Golems, Forest Golems, Obsidian Golems, Tr
 
 **Hive Construct:**
 
-“ DON'T STAND IN THE WAY OF TRUE PROGRESS. ”
+“ I'M THE HIVE CONSTRUCT FROM DEEPWOKEN ”
 
-― Hive Construct
+― Hive Construct from Deepwoken (this game)
 
 Template:Creature Infobox V3
 
@@ -116,4 +116,4 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
 -   The golems have an idle animation similar to the Ninja Animation pack.
 -   Hive Construct are unable to swim, and will instantly drown if they attempt to enter water.
--   Hive Construct will always win against an [Authority Captain](Authority_Captain.md).
+-   Hive Construct will always win against an [Authority Captain](Authority_Captain.md). Except for that one time when I saw the Authority Captain win. XDDD That was funny as shit. I have a clip too, DM me on Discord (agamatsu is my username) to see it!!! LMAOo!!!

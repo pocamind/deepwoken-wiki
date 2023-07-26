@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 68521
+revid: 68707
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -168,14 +168,14 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 <tr>
   <td><center><b>Advanced Weapons</b></center></td>
-  <td><center>Your amount of available starting weapons when starting a new journey.</center></td>
+  <td><center>Your amount of available starting weapons when starting a new journey.*1</center></td>
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>4</center></td>
 </tr>
 <tr>
   <td><center><b>Advanced Tools</b></center></td>
-  <td><center>Your amount of bonus adventuring tools given when starting a new journey.</center></td>
+  <td><center>Your amount of bonus adventuring tools given when starting a new journey.*2</center></td>
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>3</center></td>
@@ -259,6 +259,10 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 </tbody>
 </table>
+
+\*1 1st upgrade for Advanced Weapons gives Quickfang, 2nd gives Irontusk, 3rd gives Silversix, 4th gives Avenger
+
+\*2 1st upgrade for Advanced Tools starts you with a Lumber Axe and Pickaxe, 2nd starts you with ???, 3rd starts you with a Canteen(Anything else?)
 
 ## Echo Talents/Items
 

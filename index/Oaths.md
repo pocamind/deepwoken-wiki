@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 68664
+revid: 68700
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -30,13 +30,13 @@ Every character begins as a Pathfinder, otherwise known as one who has yet to sw
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra \[No Stat Requirements\]
 -   [Dawnwalker:](Oath%253A_Dawnwalker.md) +2 Combat Mantra \[No Stat Requirements\]
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra \[50 Agility\]
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
 -   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +15% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
 -   [Silentheart](Oath%253A_Silentheart.md): Disables the use of mantras (still tradeable for talents with [Deep Shrines](Deep_Shrines.md)), +10% M1/CRIT DMG, +15% Mantra Resistance, +10 HP, +5 Posture \[75 Weapon, 40 Strength, 40 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP, Modified Fire Blade \[40 Strength\]
 -   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
--   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Combat Mantra, +1 Wildcard Mantra \[No Stat Requirements\]
 
 ## Lore Oaths
 
