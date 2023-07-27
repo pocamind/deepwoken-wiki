@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 68499
+revid: 68808
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -15,7 +15,7 @@ Chance of obtaining race: **15.2%**
 
 ## Description
 
-Canors are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canors appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. The race of Canors are also heavily favored by the Authority. Canors have three distinct facial markings to choose from.
+Canor are an uncommon race considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. The race of Canor are also heavily favored by the Authority. Canor have three distinct facial markings to choose from.
 
 ## Racial Traits
 
@@ -44,7 +44,7 @@ Canors are an uncommon race considered to have the characteristics of a canine b
 **Lore:**
 
   
-Canors share a strong bond with the Adret race, staying true to the relationship dogs have with humans. Their race description as guards and soldiers of the powerful most notably refers to their common occupations within the Authority but this isn't very noticeable as of now.
+Canor share a strong bond with the Adret race, staying true to the relationship dogs have with humans. Their race description as guards and soldiers of the powerful most notably refers to their common occupations within the Authority but this isn't very noticeable as of now.
 
 **Strengths:**
 
@@ -83,9 +83,9 @@ Loyalty makes combat practice and spars with housemates difficult
 ## Notes/Trivia
 
 -   The surnames of the Canor are noticeably German, or German inspired. (Since they're dog people this means they're german sherperds I guess)
--   Canors also seem to be known for their heavy weaponry, as the [Zweihänder](Zweihander.md) (Which also happens to be a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
+-   Canor also seem to be known for their heavy weaponry, as the [Zweihänder](Zweihander.md) (Which also happens to be a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
 -   As a Canor, if your roblox avatar does not have hair your character will automatically be given a spiky hair
--   Canors are based of mereleona from black clover confirmed by arch\_mage
+-   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
 -   The Lord Regent does not like Canors for an unknown reason (Except for the fact that he is etrean)
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
--   Arch\_Mage has confirmed Canors to be based on both Lions and dogs.
+-   Arch\_Mage has confirmed Canor to be based on both Lions and dogs.

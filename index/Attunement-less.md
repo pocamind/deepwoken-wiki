@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 68075
+revid: 68786
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -74,6 +74,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>The user may cancel the barrage at any point during it.</li>
     <li>The user may "Step" by pressing W2x during the move to restore movement speed.</li>
     <li>Victims struck by the last punch are pushed away.</li>
+    <li>NPCs using Rapid Punches does not give the auto parry frames from the mantra being used by a player.</li>
   </ul></td>
 </tr>
 <tr>

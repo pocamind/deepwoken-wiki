@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 67316
+revid: 68792
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -37,7 +37,7 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 
 -   His throne produces steam.
 -   He appears to be based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, as both are blindfolded with long blonde hair and use shadow powers.
--   If you finish his quest and you defeat The Duke **DO NOT** **GO BACK TO HIM.** He will end up killing you.
+-   If you finish his quest and you defeat The Duke **DO NOT** **GO BACK TO HIM UNLESS GOING FOR [CONTRACTOR](Oath%253A_Contractor.md) AND HAVE THE FIRST STEP COMPLETE.** He will end up killing you after confirming dialogue with him.
     -   Attunement uncaps will however be given immediately after killing [The Duke](Duke_Ishamon_Erisia.md).
 -   It is theorized that his strength comes from [The Depths](The_Depths.md), which he draws in using an unknown source (perhaps by exploring The Depths himself or through some kind of reservoir). This is evident from the fact that his throne is decorated with a variety of corals, he also sends his contractors to kill other in The Depths.
     -   As [stated by Arch\_Mage](https://gyazo.com/c88d7bf4c887e776dd4334887393e916), it is found that he does not in fact use Shadowcast, (unless he is later found using a Shadowcast mantra that players have access to), and rather his "black tendril"/Judgement ability stems from another source.

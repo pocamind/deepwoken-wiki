@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 65593
+revid: 68803
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 315 Fortitude |
+| requirements | PWR 315 FTD |
 | weight | 2 |
 | innate stats | 10 Health2 + 1 Pips |
 | innate talent | Defiant until the End |
