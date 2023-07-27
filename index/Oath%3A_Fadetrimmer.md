@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 68761
+revid: 68772
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -69,6 +69,7 @@ This oath is fully upgraded once you get it.
 -   Barber's Skillset's haircuts will stay on the opponent until they get a haircut from the barber.
 -   This Oath was originally often judged as an alternate Oathless due to others not discovering what other features it has.
 -   Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash.
--   Precision cuts is very similar to Exhaustion Strike, but with more hits.The description is a reference to the "Ginger Fringe Incident" meme.
+-   Precision cuts is very similar to Exhaustion Strike, but with more hits.
+-   The description of this oath is a reference to the "Ginger Fringe Incident" meme.
 -   Revitalizing can be used together with the Frostdraw talent "Saint Jay", which then will heal you for the 10% hp. Instead of the opponent.
 -   Charming can be useful combining it with the Charismatic Cast Talent "Tough Love", This will give you a 10% damage buff.

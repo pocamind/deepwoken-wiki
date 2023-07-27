@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 68599
+revid: 68774
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -50,7 +50,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   Can come in the color of your races hair color.
     -   Some mantras have different properties while the user has their wings out:
-        -   **Fire Blade** now launches the user upward before releasing a large plume of flames.
+    -   **Fire Blade** now launches the user upward before releasing a large plume of flames.
 -   **Ascension - Combat Mantra**
     -   The user rises into the air before swooping in.
     -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
