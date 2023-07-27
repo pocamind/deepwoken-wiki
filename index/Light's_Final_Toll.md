@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 67073
+revid: 68758
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -40,7 +40,7 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   Likely one of the most common legendary weapons, outside of guaranteed drops such as the Hero Blades. That being said, don't expect to find one on every Layer 2 run
--   The only weapon that can gain scaling past 100, as with +2 WLP races, you can get to a "weapon stat" of 102.
+-   One of the only two weapons (with the other being the Flareblood Kamas) that can gain scaling past 100, as with +2 WLP races, you can get to a "weapon stat" of 102.
 -   With its abnormally small base damage of 12, Akira's ring will only provide an extra 1.44 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its effective hotbox.
 -   Can switch between Way of Navae and Legion Kata critical attacks.

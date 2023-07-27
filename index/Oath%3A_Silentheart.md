@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 68733
+revid: 68754
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -28,7 +28,6 @@ Meet the following requirements:
 -   Be [Attunement-less](Attunement-less.md).
 -   Have at least 75 Weapon (uncap is not needed), 40 in Strength and 40 in Agility OR Charisma.
 -   Die to a player that uses an attunement. Chime of Conflict does not count.
--   Talk to Suyuan in the Isle of Vigils library, choosing the second dialogue option.
 
 Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 67774
+revid: 68738
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -230,7 +230,7 @@ _A colossal mace of ice._
  | User performs a wind-up before slamming an ice club into the ground.
 
 -   Deals heavy damage and low knockback.
--   Breaks block.
+-   Breaks block at mantra level 5.
 -   Inflicts Chill.
 -   Can break objects.
 

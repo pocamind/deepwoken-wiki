@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 68707
+revid: 68741
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -262,7 +262,7 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 
 \*1 1st upgrade for Advanced Weapons gives Quickfang, 2nd gives Irontusk, 3rd gives Silversix, 4th gives Avenger
 
-\*2 1st upgrade for Advanced Tools starts you with a Lumber Axe and Pickaxe, 2nd starts you with ???, 3rd starts you with a Canteen(Anything else?)
+\*2 1st upgrade for Advanced Tools starts you with a Lumber Axe and Pickaxe, 2nd starts you with a Canteen and Flint, 3rd starts you with a Repair Hammer
 
 ## Echo Talents/Items
 
