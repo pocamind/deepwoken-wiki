@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 68700
+revid: 68766
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -22,7 +22,7 @@ They chiefly serve to further define the player character's potential, personali
 
 -   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in the [Fragments of Self](Fragments_of_Self.md).**
 
-Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
+Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider. elephant go burrr
 
 **There are currently 11 obtainable Oaths in _Deepwoken_:**
 

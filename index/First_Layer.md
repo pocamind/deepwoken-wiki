@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 68753
+revid: 68762
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -90,7 +90,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
 | 16.66+ | [Enforcer](Enforcer.md) |
-| 20 | Multiple waves, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
+| 20 | If you have over 15 drowns, or have the Vow of Thorns echo modifier, then waves of enemies will spawn, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**

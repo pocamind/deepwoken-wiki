@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 67247
+revid: 68767
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -62,3 +62,5 @@ The Void Feather can be given to [Surge](Surge.md) to obtain moves of the [Visio
   
 
 It can also be used to change it into Dark Feathers via crafting ( 1 Void Feather in crafting = 3 Dark Feather)
+
+(It can be turned into a void feather with 1 Umbral Obsidian and 3 Dark Feathers.)

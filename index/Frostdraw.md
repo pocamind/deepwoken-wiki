@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 68738
+revid: 68770
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -75,6 +75,7 @@ _Fire a beam of ice._
 -   Deals light damage.
 -   Inflicts Chill.
 -   Hits multiple times in a row.
+-   Knocks back
 
  |
 | File:Frostgrab base range.gif | 
@@ -992,9 +993,9 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   The "Frozone" talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
 -   The "Iceberg" talent is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Mei#Overwatch_1) in [Overwatch](https://overwatch.fandom.com/wiki/Overwatch).
 -   The "Cryonis" talent has a faulty description, it only reduced ether of certain moves :
-    -   List of mantras that DO get an ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc, Ice Forge, Iceberg, Frozen Servants.
+    -   List of mantras that DO get an ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc, Ice Forge, Iceberg, Frozen Servants, Frost Grab.
     -   List of mantras that DO NOT get an ether reduction: Ice Eruption & Ice Lance.
-    -   List of mantras currently unchecked: Ice Spikes, Frost Grab, Ice Laser, Ice Blade, Ice Chain & Ice Skates.
+    -   List of mantras currently unchecked: Ice Spikes, Ice Lasers, Ice Blade, Ice Chain & Ice Skates.
 -   The "Ice Smash" mantra MIGHT be a reference to one of Cirno's spell cards in Touhou 12.3.
 -   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   The "Glacial Arc" mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
