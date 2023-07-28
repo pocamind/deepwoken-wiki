@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68666
+revid: 68853
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1292,7 +1292,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 15 Fortitude, Using a spear
 
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility)
-    -   20 Medium, 30 Strength / 30 Agility, 65 Galebreath, Air Pressure
+    -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreath
 
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.

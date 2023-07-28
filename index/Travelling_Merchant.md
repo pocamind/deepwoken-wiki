@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 68503
+revid: 68855
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -71,6 +71,7 @@ The prices of Chili's items may vary from price to price.
     -   Duelist's Mask
     -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
     -   [Glassdancer Wraps](Glassdancer_Wraps.md)
+    -   [Guard's Kabuto](<Guard's_Kabuto.md>)
     -   [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
     -   [Imperial Pauldrons](Imperial_Pauldrons.md)
     -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
@@ -83,6 +84,7 @@ The prices of Chili's items may vary from price to price.
     -   [Silver Sabatons](Silver_Sabatons.md)
     -   [Star Boots](Star_Boots.md)
     -   [Star Duster](Star_Duster.md)
+    -   [Steel Pauldrons](Steel_Pauldrons.md)
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
 -   **Lore Books:**

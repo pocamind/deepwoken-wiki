@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 68562
+revid: 68848
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -117,7 +117,7 @@ This allow the user to track down those who stay silent or are trying to hide fr
 
 ## Trivia
 
--   All Murmurs have links to Music/Song.
+-   All Murmurs have links to music theory.
     -   Tacet translates to 'silent', while the Murmur completely silences your actions by making you invisible.
     -   Rhythm, meaning the systematic arrangement of musical sounds, in which the user listens to beats emanating from entities.
     -   Ardour means great enthusiasm or passion, but is also the name of a [software](<https://en.wikipedia.org/wiki/Ardour_(software)>) that allows for the creation of music.
