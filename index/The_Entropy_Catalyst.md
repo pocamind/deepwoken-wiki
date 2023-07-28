@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 67243
+revid: 68824
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World]
@@ -33,3 +33,4 @@ The Entropy Catalyst.
 ## Trivia
 
 -   The sacrificial process is similar to one in _Rogue Lineage_.
+-   The symbol in the middle of it is the Moons eye put over the Sun.

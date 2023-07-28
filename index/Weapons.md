@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 68525
+revid: 68825
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -319,7 +319,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. If the user has Bullets in their inventory, they will deal 20% PEN.
+Guns are a ranged weapon designed to shoot projectiles. If the user has Bullets in their inventory, they will deal 20% PEN. Bullets fired by guns are able to proc most enchants, excluding Nemesis.
 
 Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M2.
 
@@ -929,7 +929,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
 
 **Rifles:**
 
-Rifles are two-handed guns that use melee attacks and incorporate the firing of the rifle itself. It is able to be able to both be fired and used as a pole-arm.
+Rifles are two-handed guns that use melee attacks and incorporate the firing of the rifle itself. It is able to be able to both be fired and used as a pole-arm. Bullets fired by rifles are able to proc most enchants, excluding Nemesis.
 
 <table>
 <tbody>
