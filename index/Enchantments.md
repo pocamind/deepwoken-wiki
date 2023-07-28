@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 68060
+revid: 68845
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -14,24 +14,21 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
 
--   Any gear you find can be already enchanted. (Except ring, neck and face slot gear. That cannot be enchanted.)
+-   Any gear you find can already be enchanted. (Except ring, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md).
 -   Using an equipment enchant for a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
--   Using an enchantment stone.
--   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired enchantment stone.
+-   Using an Enchantment Stone.
+-   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
 
 ## Mechanics
 
-Enchanted weapons/equipment have special mechanics compared to their regular weapons/equipment.
+Enchanted weapons/equipment have special mechanics compared to their regular counterparts.
 
 -   Enchanted items cannot be dropped on death.
--   You cannot 'stack' enchantments. i.e. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
--   Equipping an enchanted item for the first time will soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
--   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item
--   Enchanted items appear as light purple in your inventory
--   Face/ears/back equipment cannot be enchanted due to an update on 18 February 2022. However, some players still have these making it somewhat obtainable but very rare to find. Although they can be obtained via trading.
-    -   While these can be obtained, you cannot equip more than three equipment enchants at once. Characters that have more than three equipment enchants equipped before the update will have the Arms, Legs, and Head enchants prioritized
--   Weapons can be enchanted by trading in three enchanted items to [Laplace](Laplace.md). The enchantment on the weapon is randomized
+-   You cannot 'stack' enchantments. I.E. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
+-   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
+-   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
+-   Enchanted items appear as light purple in your inventory.
 -   Legendary weapons **cannot** be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading.
 
 ## Variants
@@ -39,7 +36,7 @@ Enchanted weapons/equipment have special mechanics compared to their regular wea
 There are two variants that enchantments come in:
 
 -   **Blessing -** They have an effect with little to no downsides.
--   **Curse -** They have an effect along with a downside with the severity depending on the Curse.
+-   **Curse -** They have an effect along with a downside with the severity depending on the upside.
 
 ## List of Enchantments
 
@@ -615,7 +612,6 @@ File:Vamparism shield.png
 "Curse of Umbral Knight" enchant on a Hero's Blade of Shadow
 
 -   A few enchants are based on other series and shows.
-    -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
     -   Obfuscation and Heroism are a reference to Artoria Pendragon's Excalibur from the _Fate_ series.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
@@ -623,14 +619,14 @@ File:Vamparism shield.png
     -   Stormbreaker is most likely based on the mythical Hammer wielded by Thor from _Avengers: Infinity War._
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
     -   The Curse of The Unbidden is likely a reference to the _Unbidden_ from _Stellaris._ A crisis empire that invades through portals.
-    -   Curse of The No Life King is a reference to Enad George "The No Life King" from _Fantasy of Grimgar and Ash_
+    -   Curse of The No Life King is a reference to Enad George "The No Life King" from _Fantasy of Grimgar and Ash._
         
         Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
         
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
--   Having a shield equipped along with an enchant will transfer the visual effect of said enchant to the shield. Do note that it is **purely** cosmetic and does not affect the shield's capabilities.
+-   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
     
@@ -642,9 +638,10 @@ File:Vamparism shield.png
     -   Bungee Gum **→** Elastic
     -   Combustion **→** Blazing
     -   Hero **→** Heroism
-    -   (???) - Deferred
+    -   (???) **→** Deferred
 -   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
+-   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
 -   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.  
         

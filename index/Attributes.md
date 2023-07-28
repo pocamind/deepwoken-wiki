@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 67764
+revid: 68840
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -143,7 +143,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Thundercall -> _use the **Self-Conducting Loop**_
 -   Frostdraw -> _use the **Hemafrost**_
 -   Shadowcast -> _use the **Pure Heart**_
--   Ironsing -> use the **Ferrofluid**
+-   Ironsing -> use the _**Ferrofluid**_
 
 ### Flamecharm
 

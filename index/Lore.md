@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 68676
+revid: 68847
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -168,7 +168,7 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 -   Apparently, he also writes books, being one and the only known to be "Flame and the failure of man."
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
--   Apparently he has disciples and apprentices, what he teach to his disciples is unkown, but probably he teaches them topics about the philosophy about the covenant of flame, the best use of flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unkown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
+-   Apparently he has disciples and apprentices, what he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
 
 ### **Chaser, Scholar of the Burning Blood**
 
@@ -213,9 +213,9 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 -   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
 -   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
--   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unkown.
+-   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
 -   Despite his constant insanity he is a genious in terms of knowledge of the Depths and in Alchemy.
--   His strength is unkown but is suppoused to be kind of powerfull being able to enter New Kyrsa and escaping it without problems.
+-   His strength is unknown but is suppoused to be kind of powerfull being able to enter New Kyrsa and escaping it without problems.
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
@@ -233,7 +233,7 @@ _"My Burden is Light." -Unknown Lightkeeper._
 
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -Klaris Llfiend._
 
--   Black Diver of an unknown race. Created light hooks.
+-   Black Diver of the canor race. Created light hooks.
 -   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into the Second Layer.
@@ -573,7 +573,7 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 -   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
 -   Many of the layers are created after a great drowning sinks a civilization.
 -   The Depths apparently is more formed by numerous worlds that a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2, But this remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
--   The First Layer is located below the sea, however the rest of the layers are unkown to where they are located, due to being different worlds they are currently in unkown locations, however many especulate that they are located also below the sea.
+-   The First Layer is located below the sea, however the rest of the layers are unknown to where they are located, due to being different worlds they are currently in unknown locations, however many especulate that they are located also below the sea.
 -   Some layers have more influence of a specific drowned god than others, this can be seen through different shrines. For layer 1 we have more influence of Yun'shul, for layer 2 we have more influence of Ethiron, and for the third layer we have more influence of Korilfiend.
 
 #### **Scyphozia, The First Layer**
@@ -762,7 +762,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.
 -   They were responsible for the sinking of Celtor, using it as an offering to Yun'Shul. The Blindseer Glyphs hint at them having used a Contractor, likely Zi'eer, to do it.
 -   They are lead by prophets. There is no limit to how many there can be, but as of Year 1363 there are nine. They are ranked by strength.
--   The leader of the Ministry is the First Prophet, currently his whereabouts are unkown, but he is a Deepwoken and one of the most, if not the, most powerfull mortal being.
+-   The leader of the Ministry is the First Prophet, currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerfull mortal being.
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   Essentially enemies with every major faction in the game until proven otherwise.
@@ -1032,11 +1032,11 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   One of the few faiths from the Cantaclysim that survived the Tides and its still spreading today. (Book Vows by the sea: Inheritance:)
 -   Most of them reside in the West Luminant, but some of them travel to all of Lumen spreading the teachings of Amorus Pleeksty.
 -   Many members of the Covenant of Flame represent Amorus Pleeksty as a "God", but Pleeksty only sees them as a fan club.
--   The relations between Pleeksty and the Covenant of Flame are unkown, but it is known that Pleeksty teached many people the concepts of flamecharm in the Cantaclysism, making these people to spread his teachings and creating the Covenant of Flame.
+-   The relations between Pleeksty and the Covenant of Flame are unknown, but it is known that Pleeksty teached many people the concepts of flamecharm in the Cantaclysism, making these people to spread his teachings and creating the Covenant of Flame.
 -   Their main goal is to save humanity from the Depths, depicting humanity as the "Eternal flame" and the ultimate enemy as the Depths itself.
--   Their rank system is unkown, but they are commonly known as "Flamepriest" or "Flameworshippers".
+-   Their rank system is unknown, but they are commonly known as "Flamepriest" or "Flameworshippers".
 -   This is speculation, but it is said that some members of the Covenant of Flame are residing in the Third Layers of the Depths, looking for Amorus Pleeksty.
--   Their relations with the main factions of Lumen is unkown, but they seem to be neutral with every faction of Lumen due to no one mentioning them.
+-   Their relations with the main factions of Lumen is unknown, but they seem to be neutral with every faction of Lumen due to no one mentioning them.
 -   When talking to the mystic to have the talent card from the tree of "Falling Star Guard", you can see that the dialogue is: "_I believe in the people who followed Pleeksty before"_, meaning that some of the talents of flamecharm where created by the Covenant of Flame.
 
 ### **Kyrsgarde**
@@ -1759,7 +1759,7 @@ Though technically a blank slate of varying races and abilities, even the player
 
 ### Deepbound
 
--   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the Divers main headquarters in the Central Luminant, after being recruited by a Diver of unkown rank named Roy. He gave them basic Diver apprentice training, after they were assigned a post in Castle Light.
+-   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the Divers main headquarters in the Central Luminant, after being recruited by a Diver of unknown rank named Roy. He gave them basic Diver apprentice training, after they were assigned a post in Castle Light.
 
 ### Voidwalker
 
