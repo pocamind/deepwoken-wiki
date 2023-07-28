@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 68047
+revid: 68838
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -49,6 +49,7 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 -   When you see burrow underground to dig after you, it is going to pop up to hit you after 2 red flashes. To avoid this, right as you see the second flash you should roll. If you are standing still, rolling when you see the first flash may be more reliable.
 -   Although difficult to pull off and inconsistent, you can get to a certain range with a spear or guns where you can hit the thresher but the thresher can't hit you.
 -   If you get hit with the tail swipe attack, right click to do a backflip and get back up, this will allow you to parry it's next attack instead of laying on the ground.
+-   Thresher when they first detect a player will always do Burrow so keep that in mind.
 
 ## Trivia
 

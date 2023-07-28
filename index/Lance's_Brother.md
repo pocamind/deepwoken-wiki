@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 68532
+revid: 68834
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -66,7 +66,7 @@ Lance's Brother is an [Etrean](Etrean.md) NPC, located in at the [Isle of Vigils
 
 To accept the quest choose "You need some help around here?" When talking to him.
 
-After accepting the quest, (?) Will spawn a FOOD crate at the back of his shop. To finish the quest, talk to Stratos crate in hand.
+After accepting the quest, (?) Will spawn a FOOD crate at the back of his shop. To finish the quest, talk to [Stratos](Stratos.md) crate in hand.
 
 ## Trivia
 

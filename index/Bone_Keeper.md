@@ -1,14 +1,12 @@
 ---
 title: Bone Keeper
-revid: 68827
+revid: 68828
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
 ---
 
 # Bone Keeper
-
-aka Boner
 
 “ It's not somewhere one would want to stay for long. In my few ventures in there, I've always heard loud stomping... behind me, almost? I didn't want to stay to find out what was making those noises. ”
 

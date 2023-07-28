@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 67068
+revid: 68830
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -32,6 +32,5 @@ The Inquisitor's Straight Sword is a [Greatsword](Weapons.md) with a black handl
 
 ## Notes & Trivia
 
--   It has a somewhat close appearance to the Rebellion Dante wields in the _Devil May Cry series._
 -   It drops from Rogue Constructs in Minityrsa.
 -   With 100 HVY you will deal 42.3 damage.

@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 68002
+revid: 68832
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -48,7 +48,6 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of three greatswords (Others being the enforcer's blade and railblade), that has no endlag on m1s.
--   Also possibly a reference to one of Elesis' claymores of her Empire Sword class from the MMORPG game Elsword.
 -   Deals 37 damage at 75 HVY, and roughly 45 damage at 100 HVY.
 -   The special animations for this sword may be the old Railblade animations because when you spawn in Visionshaper clones, they will utilize the older animations of the First Light.
 -   Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However they have been recently remade.
