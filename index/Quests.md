@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 68777
+revid: 68906
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -260,7 +260,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Guide**: Talk to Suri at Greathive Aratel. He will ask you to place a flower on his brother's grave at Isle of Vigils. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.
 
-**Reward/s**: Vibrant Gem & Hive Reputation
+**Reward/s**: Vibrant Gem, Hive Reputation, & a Talent Hand
 
 **Soulblooms:**
 
