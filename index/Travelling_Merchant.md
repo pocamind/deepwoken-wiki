@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 68855
+revid: 68890
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -30,10 +30,12 @@ The prices of Chili's items may vary from price to price.
     -   Cake
     -   Noodles
     -   Cooked Fish
-    -   Mushroom Omelette
+    -   [Mushroom Omelette](Mushroom_Omelette.md)
 
 -   **Weapons:**
+    -   [Apprentice Rapier](Apprentice_Rapier.md)
     -   [Canorian Axe](Canorian_Axe.md)
+    -   [Central Dirk](Central_Dirk.md)
     -   [Champion's Dagger](<Champion's_Dagger.md>)
     -   [Crescent Cleaver](Crescent_Cleaver.md)
     -   [Crucible Rapier](Crucible_Rapier.md)
@@ -65,7 +67,7 @@ The prices of Chili's items may vary from price to price.
     -   [Black Parka](Fur_Parka.md)
     -   [Bloodfeather Cowl](Bloodfeather_Cowl.md)
     -   [Brigand's Cloak](<Brigand's_Cloak.md>)
-    -   [Curseblood Pendant](Equipment.md)
+    -   [Curseblood Pendant](Curseblood_Pendant.md)
     -   Dawn Scarf
     -   [Delver's Duster](<Delver's_Duster.md>)
     -   Duelist's Mask
@@ -77,14 +79,17 @@ The prices of Chili's items may vary from price to price.
     -   [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
     -   [Khan Helmet](Legion_Helmet.md)
     -   [Khan Pauldrons](Legion_Pauldrons.md)
+    -   [Leather Boots](Leather_Boots.md)
     -   [Mercenary's Boots](<Mercenary's_Boots.md>)
     -   [Redsteel Pauldrons](Redsteel_Pauldrons.md)
     -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
     -   [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
     -   [Silver Sabatons](Silver_Sabatons.md)
+    -   [Smith's Goggles](<Smith's_Goggles.md>)
     -   [Star Boots](Star_Boots.md)
     -   [Star Duster](Star_Duster.md)
     -   [Steel Pauldrons](Steel_Pauldrons.md)
+    -   [Vanguard Brace](Vanguard_Brace.md)
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
 -   **Lore Books:**

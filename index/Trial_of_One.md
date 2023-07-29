@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 68147
+revid: 68861
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -64,7 +64,6 @@ After the completion of each challenge, a glowing orb that functions similar to 
 -   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
--   If you start with the [Lone Warrior Origin](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior) Attunement-less, You can leave the trial, use the 10 points you get then go back in and do the trial.
 
 ## Trivia
 
