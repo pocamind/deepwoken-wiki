@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 67238
+revid: 68902
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -57,7 +57,7 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 **[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer, but would later reveal that he had betrayed The Divers. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was apart of. He then slaughtered the other Divers that were involved in expeditions following that one. The players later encounter him as the first boss of The Second Layer. Technically Ministry aligned.
 
-**Funke (Thundercall trainer) and Nell (Frostdraw trainer):** Funke and Nell are wearing Black Diver uniforms and can be found in the Easten Luminant and the Etrean Luminant respectively. Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
+**Funke (Thundercall trainer) and Nell (Frostdraw trainer):** Funke and Nell are wearing Black Diver uniforms and can be found in the Eastern Luminant and the Etrean Luminant respectively. Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
 
 [**Gudrin**](Reputation.md): Removes hostilities with the Divers, as mentioned in the article.
 

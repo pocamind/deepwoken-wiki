@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 68713
+revid: 68901
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -51,7 +51,7 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the reminder of the fight. He may attempt to use it again, but it will fail.
 
- | ✗ | ◯\* | ◯ | (★★☆) |
+ | ✗ | ◯\* | ◯ | (★★★) |
 | **Sanguine Repulsion** | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.
 
 -   _**The first instance of this does the most damage**_
