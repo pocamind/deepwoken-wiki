@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 68906
+revid: 68922
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -234,7 +234,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Quest Location**: Minityrsa
 
-**Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in Outpust Penumbra. Return to him after finding it. **Reward/s**: 3 Aces, EXP
+**Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in Outpust Penumbra. Return to him after finding it. **Reward/s**: 3 Aces, EXP, Curiosity
 
 (Note: you can actually softlock this quest by donating this book to librarian in guild base)
 
