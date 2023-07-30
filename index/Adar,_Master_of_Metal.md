@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 68709
+revid: 68982
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -19,7 +19,7 @@ notices:
 
 Adar is an NPC who acts as the Ironsing trainer.
 
-In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral(the blacksmith) and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md). If you have obtained the [Silentheart](Oath%253A_Silentheart.md) oath, you can't fight Adar. Instead he will say, "Huh? What're you giving me that look for?". They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
+In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md). If you have obtained the [Silentheart](Oath%253A_Silentheart.md) oath, you can't fight Adar. Instead he will say, "Huh? What're you giving me that look for?". They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
