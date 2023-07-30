@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 68773
+revid: 68920
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -63,7 +63,6 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 ## Notes
 
--   **Do not** try to interact with the lord regent twice after returning back to him without killing 10 oathed players in the depths. This will trigger a dialogue causing the lord regent to say "Looks like you need a little discipline" before instantly killing you. (while the requirement to fully complete the oath is 3 kills, the lord regent is bugged and believes the requirement is still the old one of 10.) (Dialogue for full completion needed.)
 -   Upon obtaining the oath, your reputation with The Divers will be set to Hunted. You can still gain reputation normally (such as completing Layer 2 expeditions) but not pay your rep back.
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards. However, if you are on the Diver guild, you will have max rep with the Divers despite being a contractor.
 -   Since you need to go to the depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.

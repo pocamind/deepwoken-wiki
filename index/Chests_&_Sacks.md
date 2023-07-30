@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 68143
+revid: 68916
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -14,17 +14,17 @@ notices:
 
 An image of an opened chest
 
-Chests are in-game boxes that spawn at the end of every event (excluding faction fights) or after finishing off a monster/NPC in the Etrean Luminant or Depths. They contain loot ranging from general items, [armor pieces](Outfits.md), outfit schematics, and very rarely, enchanted weapons or armors. The chests contents depends solely on the location of the chest (from what we know there is no way of increasing the chances of rare items to occur in chests). For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as the Katana, the Canor Fang or the Glassdancer Wraps. However, chests that have dropped over in Erisia would contain items such as the Legion Cestus or the Pathfinder Arch-Sorcerer schematic.
+Chests are in-game boxes that spawn at the end of (almost) every Event. They contain loot ranging from general items, [armor pieces](Outfits.md), outfit schematics, weapons, mantra modifiers, and very rarely, enchanted gear. Every area has their own lootpool, some items being exclusive to one area, while others being found across several areas. For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as the Katana, the Canor Fang or the Glassdancer Wraps. However, chests that have dropped over in Erisia would contain items such as the Stilleto or the Pathfinder Arch-Sorcerer schematic. Though, you can find a Blindfold in both areas.
 
 Loot inside a chest is shown with different colors depending on their rarity, ranging from common to enchanted:
 
--   General items such as consumables, sellable gems and Attunement-related consumables are listed as grey.
--   Epic Armors, weapons and Outfit Schematics are listed as red.
--   Rare items are listed as a dull gold.
--   Armors or Weapons with a Mythical rarity are listed as a bright violet.
-    -   The only Mythical rarity items so far are Legendary weapons and the Kyrs weapon series.
--   Legendary Armors, Schematics or Rings are listed as a bright cyan.
--   Enchanted items are listed as a white-ish color.
+-   General items such as consumables, sellable gems, mantra modifiers, elemental ingredients, etc. are labelled as gray.
+-   Uncommon items are labelled as pastel yellow.
+-   Rare items are labelled as red. Though despite being rare, they're very common in The Depths and Hive
+-   Legendary Gear, Schematics or Rings are labelled as bright cyan.
+-   Armors or Weapons with a Mythical rarity are labelled as bright violet.
+    -   Mythical Items include: Legendary Weapons, Relics, and Enchant Stones
+-   Enchanted items are labelled as white.
 
 The color of a chest depends on where you got it from, consisting of four variations as of current version.
 
