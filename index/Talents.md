@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 68933
+revid: 68992
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1480,8 +1480,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Navaen Nomad
 
+> _**"I am one with Navae."**_
+
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
-    -   Prerequisites: Trained Fist, Moving fortress
+    -   Prerequisites: Trained Fist, Moving fortress, Shield.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
     -   Prerequisites: Fists, 20 Fortitude

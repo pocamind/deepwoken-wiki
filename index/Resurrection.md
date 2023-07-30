@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 68821
+revid: 68987
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -43,7 +43,7 @@ When obtained, Resurrection will spend its points on the following stats:
 
 -   **Resurrection type:** Decides the type of resurrection that will be used.
     -   Teleporting resurrection teleports the target to the player using resonance after a successful resurrection.
-    -   Resurrect knocked targets is the version of resurrection that has the ability to resurrect targets even if they have been knocked. **(Not mutually exclusive from Teleporting Resurrection, I wouldn't really call these points more like things you can get points into.)**
+    -   Resurrect knocked targets is the version of resurrection that has the ability to resurrect targets even if they have been knocked. **(Not mutually exclusive from Teleporting Resurrection, I wouldn't really call these ''Types'' more like attributes you can get points into.)**
     -   Normal resurrection doesn't have these features but has improved range and duration stats.
 -   **Range:** The more points spent on this stat, the further the resurrection can be activated on the target.
 -   **Duration:** The more points spent on this stat, the longer the resurrection lasts on the target.

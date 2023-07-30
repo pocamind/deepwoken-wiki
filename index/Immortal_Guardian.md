@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 67239
+revid: 68990
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -62,6 +62,7 @@ An Immortal Guardian executes the player after knocking them.
 -   Nightmares will always spawn with a random [Enchant](Enchantments.md) on their weapons, so pay close attention to the visual effect that their weapon will have to see what you're fighting against, as some of these enchants, will punish you far harder than you'd expect from an NPC.
 -   Nightmares have a chance to replace the regular guardians on the first floor, so tread with caution when the guardians on the first floor respawn.
 -   The Divine Greatsword version's criticals are blockable- you don't really even need too much posture. The Divine Greataxe version might be blockable, but you need much more posture.
+-   Once you knock them it's advisable to carry them to the exit as gripping them inside the voidzone would alert nearby NPCS. Worst case scenario you're gonna alert all of them including the Alpha Megalodaunt and the nightmare guardians in the second floor.
 
 ## Trivia
 
