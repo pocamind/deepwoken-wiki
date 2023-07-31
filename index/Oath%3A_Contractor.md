@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 68994
+revid: 69191
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -83,3 +83,4 @@ File:Contractor String.png
 Up close Contractor strings
 
 -   Contractor strings are not actually solid dark red, the string's outside is red, and the interior is black.
+-   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.

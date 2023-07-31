@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 67330
+revid: 69079
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]

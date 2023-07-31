@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 63780
+revid: 69129
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]

@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 64337
+revid: 69113
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]

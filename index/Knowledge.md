@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 68432
+revid: 69187
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

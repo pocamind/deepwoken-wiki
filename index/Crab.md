@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 65616
+revid: 69114
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
