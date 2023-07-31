@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 68764
+revid: 69010
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -10,9 +10,9 @@ categories: [Enemies, NPCs]
 
 Template:EnemyInfobox1.0
 
-## _Overview_
+## Description
 
-The Teacher (listed as " teacher" in-game) is a Pathfinder NPC that effectively grants you a free attribute point by listening to a story. They wear the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) outfit.
+The Teacher is a Pathfinder NPC that effectively grants you a free attribute point by listening to a story. They wear the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) outfit.
 
 -   A story of bravery. (Willpower)
 -   A story of cunning. (Intelligence)
@@ -25,9 +25,8 @@ After a story has been told, you will have to wait until another event spawn to 
 
 The Teacher spawns along with 2 more NPCs sitting next to a campfire with set races and features (one being an Adret, the other unconfirmed), two of which wield powerful modified [Frostdraw](Frostdraw.md) mantras. They seem to be hostile on-sight towards the Authority and Etrean forces.
 
-## _Trivia_
+## Trivia
 
 -   The "great leadership" story makes the player wonder if the Teacher is talking about the past King of Etrea.
 -   The "survival" story may refer to Drallis Ehr.
 -   If you decide to kill him and his camp, they will not drop anything.
--   They have unique conversations with eachother, the one that I remember is them talking about Megalodaunts.

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 68786
+revid: 69007
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -286,8 +286,9 @@ File:No Attunement Revamp.png
  | _Gaze into your opponent's souls._ | 
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   User constantly summons invisible projectiles, inflicting a considerable amount of insanity on an opponent upon collision. **NOTE: the "insanity" inflicted by this move does not count towards the target's actual insanity.(needs testing)**
+    -   User constantly summons invisible projectiles, inflicting a considerable amount of 'insanity' on an opponent upon collision. The "insanity" inflicted by this move does not count towards the target's actual insanity, so does not contribute to any Insanity based talents a target has.
     -   Creates rotating white rings around the user's eyes.
+    -   Can be countered by holding block or wearing a [Blindfold](Blindfold.md).
 
  |
 | 
@@ -369,9 +370,9 @@ File:No Attunement Revamp.png
  | _Take on an unimaginable disguise._ | 
 
 -   **Requirements:** _**21 Charisma** Mantra_
-    -   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers
+    -   Obtained by finding an NPC named [Mime](Mime.md) and killing Barrelskippers.
     -   Disguises the user.
-    -   you can finally play prop hunt with voidwalkers in a way
+    -   You can finally play prop hunt with Voidwalkers in a way.
 
  |
 

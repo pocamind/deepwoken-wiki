@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 68675
+revid: 68999
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -20,8 +20,6 @@ categories: [NPCs]
 The Barber allows customization to your character, no notes needed!
 
 To use some of his features, a hair ID from the catalog is needed.
-
-The Barber's own hair ID is 4735346886. -AMDRadeon
 
 ## Dialogue
 
@@ -48,6 +46,7 @@ The Barber's own hair ID is 4735346886. -AMDRadeon
 
 ## Trivia
 
+-   The Barber's own hair ID is 4735346886.
 -   The Barber is the only NPC that can customize your character in any meaningful way.
 -   Around the beginning of their addition, there were bugs that allowed certain races (Celtor, Adret and Khan) to have otherwise inaccessible faces when asked to reroll their face, such as the dead face and the Mudskipper face from the [Mudwoken](Mudwoken.md) update.
     -   Even though it was completely cosmetic and lasted only for the time you were in the server (and being generally funny to see an Adret walking around with the Mudskipper face,) it was quickly patched in a shadow-update a day later.

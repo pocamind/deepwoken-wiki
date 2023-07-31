@@ -1,14 +1,39 @@
 ---
 title: Pathfinder (NPC)
-revid: 66198
+revid: 69013
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Pathfinder (NPC)
 
-The pathfinder NPC is an enemy that spawns alongside with another pathfinder and a teacher in Upper Erisia.
+Template:EnemyInfobox1.0
 
-He has around 350 hp (theorized after hitting him with lethal precision and comparing him to a darksteel pirate).
+## Description
 
-He uses an arsenal of several frostdraw mantras, but as for now i only remember that he can cast the old ice eruption.
+Pathfinders are NPCs that can appear in [Upper Erisia](Upper_Erisia.md) alongside a [Teacher](Teacher.md).
+
+A Pathfinder wears a [Pathfinder Cloak](Pathfinder_Cloak.md) with their race varying.
+
+## Moveset
+
+A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md):
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★☆☆) |
+
+## Finisher
+
+A Pathfinder executes the player after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent while raising weapon before firmly bashing the opponent's face. |
+
+## Trivia
+
+-   The Pathfinders are hostile towards Etrean and Authority forces.
+-   Their idle dialogue discusses a [Megalodaunt](Megalodaunt.md), with one of them choosing to refer to it by the community nickname 'sharko,' much to the others exasperation.

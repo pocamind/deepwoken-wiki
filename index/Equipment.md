@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 68817
+revid: 69004
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -224,7 +224,7 @@ Chests from:
 -   [Fort Merit](Fort_Merit.md)
 
  | Dark, Grey, Ochre & White |
-| File:Black Strapped Hat.png | 
+| File:DoubleStrappedHat.png | 
 
 [Strapped Hat](Strapped_Hat.md)
 

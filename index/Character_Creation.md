@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 68699
+revid: 69005
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Magic, Map, Origins]
@@ -28,19 +28,15 @@ _\[More information about [races](Aspects.md) can be found on their correspondin
 
 Upon your first character customization, you can either choose an [Attunement](Attunements.md) out of four available ones ([Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md) and [Galebreathe](Galebreathe.md)) or you can choose the option "[None](Attunement-less.md)" to start the game without an Attunement, which grants you non-elemental Mantras. Choosing the option "Random" will randomely select an Attunement for you out of the four already present ones (this option will not save the selected Attunement on your character slot for your next character).
 
-To obtain the [Shadowcast](Shadowcast.md) Attunement, you need to unlock it with a specific [quest](Shadowcast.md#obtainment--training). Once unlocked, it will save on your slot as a permanent progression among all your characters in that specific slot (the same way any other Attunement unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding [Spelltrainers](Attunement_Trainers.md)).
+To obtain the [Shadowcast](Shadowcast.md) Attunement, you need to unlock it with a specific [quest](Shadowcast.md#obtainment--training). Once unlocked, it will save on your slot as a permanent progression among all your characters on that account (the same way any other Attunement unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding [Spelltrainers](Attunement_Trainers.md)).
 
-### Pre-Canticlysm Abilties
+To obtain the [Ironsing](Ironsing.md) Attunement, you need to unlock it with a specific [quest](Ironsing.md#description). Once unlocked, it will save on your slot as a permanent progression among all your characters on that account (the same way any other Attunement unlocks as an option for all of your characters in that slot, once you've learned them from the corresponding [Spelltrainers](Attunement_Trainers.md)).
 
-Template:Testing
+### Starting Attunements
 
-ㅤ
+Template:Testing Template:TestingTemplate:Testing Template:Testing Template:Testing Template:Testingㅤ
 
-### Intra-Canticlysm Attunements
-
-Template:TestingTemplate:Testing Template:Testing Template:Testing Template:Testingㅤ
-
-### Post-Canticlysm Attunements
+### Unlockable Attunements
 
 Template:TestingTemplate:Testingㅤ
 
