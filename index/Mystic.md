@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 69028
+revid: 69197
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -97,6 +97,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I feel the pain of those around me. **(Empath; Give and Take)**_
 -   _I can talk myself out of any situation. **(The Negotiator)**_
 -   _I seek the qualities of politician. **(Politician; Cult of Personality, Pardon me)**_
+-   _I seek the qualities of vocalist. (**Propagandist)**_
 
 ### Weaponry
 
@@ -141,7 +142,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut)**_
 -   _My flame fights for me._ _**(Duelist Flame)**_
 -   My spirit is forever burning. _**(Undying Ember) (Note; Cannot give Denial Repulse, Undying Flame)**_
--   I seek the qualities of Heat Column. **(Heat Column)**
 -   I seek the qualities of Tamed Flame. **(Controlled Combustion)**
 
 ### Frostdraw
@@ -190,7 +190,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ### **Dual Attunement**
 
--   I see the qualities of Lichtenberg. **(Scorched peak)**
+-   _I see the qualities of Lichtenberg. **(Scorched peak)**_
+-   _I seek the qualities of Heat Column. **(Heat Column)**_
 
 ## Locations
 

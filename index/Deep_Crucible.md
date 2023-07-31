@@ -1,6 +1,6 @@
 ---
 title: Deep Crucible
-revid: 68740
+revid: 69207
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,7 +24,7 @@ The Deep Crucible challenge does NOT scale with level and will spawn a random as
 
 ## Drops
 
-So far, it has been seen to drop Erisia loot, Deep Gems, and Armor/Weapon Enchants
+So far, it has been seen to drop Erisia loot and Deep Gems.
 
 ## Trivia
 

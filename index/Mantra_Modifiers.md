@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 67912
+revid: 69205
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -766,7 +766,7 @@ File:Rising-Shadow.gif
 
  | 
 
-File:Rising Shdaow with Blast Spark.gif
+File:Ezgif.com-crop 27.gif
 
  | 
 
@@ -1232,6 +1232,8 @@ File:Dash with Spring Spark.gif
 Fire Blade
 
  | 
+
+File:Fire blade Mantra.gif
 
  | 
 
