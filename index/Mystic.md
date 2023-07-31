@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 68771
+revid: 69028
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -187,6 +187,10 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   _I seek the qualities of Metallurgist. **(Metallurgist)**_
 -   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal) (Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
+
+### **Dual Attunement**
+
+-   I see the qualities of Lichtenberg. **(Scorched peak)**
 
 ## Locations
 

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 69017
+revid: 69018
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -210,7 +210,7 @@ Located in the [Starfield Veldt](Starfield_Veldt.md) in a cave hidden behind a t
 
 -   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
 -   [Primadon](Primadon,_Titan_of_the_East.md) gives knowledge too. The first time you kill [Primadon](Primadon,_Titan_of_the_East.md) you gain 3 points of knowledge, after the first time you only gain 1 point of knowledge.
--   [Gigameds](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit
+-   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit
 -   Deep Shrines, most notably the Shrine of Chance and the Shrine of Order, may be a reference to the roguelite Risk of Rain 2, sharing their names with and functioning similarly to the Shrine of Chance and Shrine of Order from that game.
     -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
 -   You do not need to deal with the Shrines of Conceit, Order, Division, or Unification to obtain Contractor.
