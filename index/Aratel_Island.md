@@ -1,6 +1,6 @@
 ---
 title: Aratel Island
-revid: 63442
+revid: 69232
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Locations, Eastern Luminant]
@@ -26,5 +26,5 @@ Most of its surface is either part of the [Starswept Valley](The_Starswept_Valle
 
 ## Trivia
 
--   Frequently referred to as "Hive" by other players.
+-   Frequently referred to as "Hive" by players.
 -   Small, blue meteorites often fall from the sky on the Island. They are likely to be fragments of the Celestials' Cities. (see [Lore](https://deepwoken.fandom.com/wiki/Lore#Year_1286))

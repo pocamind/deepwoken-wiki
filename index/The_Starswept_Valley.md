@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 64609
+revid: 69235
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -15,8 +15,6 @@ LocationL Starswept Valley LocationR
 Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands.
 
   
-
-Starswept Valley gate
 
 **Starswept Valley** is a location in _Deepwoken_. It is a sub-location of [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
 

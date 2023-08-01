@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 68537
+revid: 69234
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -16,8 +16,6 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
   
 **Fort Merit** is a location in _Deepwoken._ It is a landmark on [Aratel Island](Aratel_Island.md) found in the [Aratel Sea](The_Aratel_Sea.md).
-
-Template:Areainfobox
 
 ## Overview
 
@@ -49,7 +47,7 @@ It is found to the right of Bluster's Rift and has a port that can be docked fro
 -   After your second rescue, the Guardmaster tell you the boat is full. Meaning you have to wait 8 minutes before being able to rescue more hostages.
 -   You can bypass the time limit by killing the Commander and receiving the shipping schedule. Note that this is turned in once per character.
 
-### **[Brutus Quest(Fortitude Uncap)](Attributes_Unbound.md)**
+### **[Brutus Quest (Fortitude Uncap)](Attributes_Unbound.md)**
 
 -   Reach 75 Fortitude.
 
@@ -63,7 +61,7 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 -   Selecting the option "Very well. I can assist in the fight." will start the quest.
 -   With her assistance, you will have to fight 6 [Authority peacekeepers](Authority_Peacekeeper.md).
 -   Gripping at least two signifies that you have completed the quest.
--   Return to Meteor Isle, and gain 2 [knowledge](Knowledge.md).
+-   Return to Meteor Isle and gain 2 [knowledge](Knowledge.md).
 
 ## Rep Resets
 
@@ -73,7 +71,7 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 
 ## NPCs
 
-Bellow is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
+Below is a list of NPCs and their uses (that are known) that you can find thorough Fort Merit.
 
 -   [Brutus](Brutus.md) (Fortitude Uncap)
 -   Innkeeper (Sets spawn)
@@ -115,13 +113,9 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 | Name: |
 | --- |
 | [Authority Commander Coat](Authority_Commander_Coat.md) |
-| Imperial Pauldrons |
-| Sable Adjudicator's Coat |
-| Ash Adjudicator's coat |
-| Tawny Adjudicator's Coat |
-| Pink Adjudicator's Coat |
-| Rural Adjudicator's Coat |
-| Warden Pauldrons |
+| [Imperial Pauldrons](Imperial_Pauldrons.md) |
+| [Adjudicator's Coat](<Adjudicator's_Coat.md>) |
+| [Warden Pauldrons](Warden_Pauldrons.md) |
 
 **Rings:**
 
@@ -167,5 +161,5 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
 -   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authority.
 -   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "When are you gonna learn your lesson?" "Come on."
--   Right now it doesn't have too much importance apart from grinding exp and items from the Etrean guardmaster, but in a future alongside the Authority Origin it may get way more importance that it has now.
+-   Right now, it doesn't have too much importance apart from grinding exp and items from the Etrean guardmaster, but in a future alongside the Authority Origin it may get way more importance that it has now.
 -   Fort Merit can be an excellent place to farm early levels if you have good skills.

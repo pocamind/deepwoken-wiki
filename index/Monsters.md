@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69228
+revid: 69230
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -32,17 +32,21 @@ The majority of non-humanoid monsters you encounter in-game will have hyper armo
 
 Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly 50% more damage and having triple the health of their normal versions.
 
-### Attunement Infused Monsters
+### Attuned Monsters
 
 Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement, and 100% less resistance to opposite attunements.
 
--   Shadow Monster - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
--   Thundercall Monster - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
--   Flamewreathed Monster - Applies Burn on hit, _(Visual: Large Flames)_ **(CAN PROC LAVA SERPENT)**
--   Frostmantle Monster - Applies Chilled on hit, _(Visual, Frost beneath Monster)_
--   Galebreathe Monster - Applies Winded on hit, _(Visual, Wind rushing around Monster)_
+Humanoid NPC's cannot be Attuned, although Mini-Boss class enemies like [Deep Widow](Deep_Widow.md) and [The Enforcer](Enforcer.md) can be Attuned.
 
-  
+-   Shadow - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
+-   Thundercall - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
+-   Flamewreathed - Applies Burn on hit, Has an AoE fire effect around the Monster. _(Visual: Large Flames)_ **(CAN PROC LAVA SERPENT)**
+-   Frostmantle - Applies Chilled on hit, Places Ice beneath hit players, _(Visual, Frost beneath Monster)_
+-   Galeforce - Applies Winded on hit, Deals Extra Knockback, _(Visual, Wind rushing around Monster)_ Certain mobs have their visual effect changed,
+
+-   [Prime Golem](Rock_Golem.md) (Thundercall Variant, Red)
+-   [Gigamed](Gigamed.md) (Thundercall Variant, Blue)  
+    
 
 ## Humanoid Monsters
 

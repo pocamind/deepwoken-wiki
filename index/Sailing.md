@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 68891
+revid: 69243
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -14,7 +14,7 @@ notices:
 
 ## Description
 
-Sailing is a crucial part to Deepwoken as it will be your main means of traveling the seas. You can also swim (assuming you have enough food) or use some mantras such as Ice Skate to travel in the water. The sea has many threats, including Whirlpools, Lionfish, Dread Serpents (commonly referred to as "Kaido's") and the Voidsea.
+Sailing is a crucial part to Deepwoken as it will be your main means of traveling the seas. You can also swim (assuming you have enough food) or use some mantras such as Ice Skate to travel in the water. The sea has many threats, including Whirlpools, [Lionfish](Lionfish.md), [Dread Serpents](Dread_Serpent.md) (commonly referred to as "Kaido's") and the [Voidsea](Voidsea.md).
 
 ## Sailing the High Seas
 
@@ -34,10 +34,10 @@ To summarize how sailing works, it is what people in the gaming world would call
 
 For anyone who has played any seafaring games before, you may realize that the way you turn your boat will be inverted when reversing. This happens since the direction you go in with A & D is proportional to the rudder, not the direction you wish to steer in, thus being inverted.
 
--   Rotate your sails to be perpendicular of the flag/the wind (seen below) increases your speed.
+-   Rotate your sails to be perpendicular of the flag/the wind (see below) increases your speed.
 -   The flag at the top of your boat points the opposite direction of the wind.
 
-If you stop steering your boat, the boat will automatically start to turn to a straight position
+If you stop steering your boat, the boat will automatically start to turn to a straight position.
 
 ## Boat Summarization
 
@@ -45,7 +45,7 @@ Detailed info of individual boats [here](Ships_&_Sailing.md).
 
 ### Dinghy
 
-Usually the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest. Meant for one, but it can fit about three.
+Usually, the first boat you buy from the Shipwright. It's free but is the smallest, weakest and slowest. Meant for one, but it can fit about three.
 
 ### Sloop
 
@@ -53,7 +53,7 @@ Cheapest boat not including the Dinghy. Suitable for groups of 2-3.
 
 ### Schooner
 
-Mid game boat with cannons. A good boat for casual outings despite the weird sail design(not worth it). Suitable for groups of 2-4.
+Mid game boat with cannons. A good boat for casual outings despite the weird sail design (not worth it). Suitable for groups of 2-4.
 
 ### Merchant Schooner
 
@@ -67,7 +67,7 @@ A mid game boat with a decent amount of space, containing cannons. Best for size
 
 ### Ironclad
 
-Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too much notes to spend) Enough for an entire guild. Has 20 cannons, 10000 health.
+Literal tank when it comes to health, fastest and biggest as well. Expensive price gives a recommendation of "Don't buy unless large team" (Or when you have too many notes to spend) Enough for an entire guild. Has 20 cannons, 10000 health.
 
 ## Notes/Trivia
 
@@ -75,6 +75,6 @@ Literal tank when it comes to health, fastest and biggest as well. Expensive pri
 -   You can buy a repair hammer for 30 notes at Etris docks. It costs 1 wood every repair and when you first repair, you'll start to unlock shipwright talents.
     -   Without talents, each repair with the hammer will recover 50 HP to your boat.
 -   Interestingly enough, if the boat "thinks" that no one's on the boat (Either by heavy movement or being the last one to jump off the boat), it will start to slow down to a halt.
-    -   (Assumption) The Ironclad is the only boat to ignore this rule (Since it's steam powered)
--   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is a Ironclad, the side lining would change instead.
+    -   (Assumption) The Ironclad is the only boat to ignore this rule (Since its steam powered)
+-   **YOUR GUILD COLOUR AFFECTS YOUR BOAT'S SAIL COLOR.** If it is an Ironclad, the side lining would change instead.
 -   Celtors have 20% Discount at the shipwright, making it cheaper for them to buy boats. Also, they have extra boat health, which is a 10% increase.

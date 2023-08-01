@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 67006
+revid: 69242
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,7 +12,7 @@ categories: [Items]
 |---|---|
 | value | 10 |
 | weight | 0 |
-| type | Attunement Item |
+| type | Elemental Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -26,10 +26,29 @@ categories: [Items]
 
 ## Description
 
-Umbral Obsidian is a material used to obtain the [Shadowcast](Shadowcast.md) [attunement](Attunements.md) and to spawn [Primadon](Primadon,_Titan_of_the_East.md). It can be obtained by killing creatures such as [Megalodaunts](Megalodaunt.md) and [Lionfishes](Lionfish.md) with a roughly 10% chance, [Threshers](Thresher.md) and [King Threshers](Monsters.md) have a chance aswell alongside the Necromancers in Minityrsa, however it is significantly smaller. There are a few exceptions so don't think you can simply farm [Jellyfish](Gigamed.md) for them.
+Umbral Obsidian is an [Attunement](Attunements.md) item with the primarily used to unlock the [Shadowcast](Shadowcast.md) attunement. Secondary uses include being a crafting ingredient, consumable, and to spawn [Primadon](Primadon,_Titan_of_the_East.md).
 
-By giving (5) Umbral Obsidian to the trainer located in the Celtor Wastes, you will obtain the [Shadowcast](Shadowcast.md) attunement.
+By giving (5) Umbral Obsidian to the trainer located in the [Celtor Wastes](Celtor_Wastes.md), you will obtain the [Shadowcast](Shadowcast.md) attunement.
+
+## Obtainment
+
+Umbral Obsidian can drop from certain monsters, chests, and enemies that use [shadowcast](Shadowcast.md).
+
+### NPCs
+
+-   [Megalodaunt](Megalodaunt.md) (all variants)
+-   [Lionfish](Lionfish.md)
+-   [Thresher](Thresher.md) (all variants)
+-   [Ministry Necromancer](Ministry_Necromancer.md)
+-   [Ministry Scout](Ministry_Scout.md)
+
+### Chests
+
+-   [Primadon](Primadon,_Titan_of_the_East.md) chests
+-   [Ferryman](The_Ferryman.md) chests
+-   [Fishing](Fishing.md) chests
 
 ## Notes
 
--   You can make Umbral Flint that has 150 uses by combining an Umbral Obsidian and a Coal.
+-   Can be used to make an Umbral Flint that has 150 uses by combining an Umbral Obsidian and a Coal.
+-   Roughly 10% chance to drop from Megalodaunts and Lionfishes.

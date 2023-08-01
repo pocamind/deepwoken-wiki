@@ -1,6 +1,6 @@
 ---
 title: Frigid Prism
-revid: 67902
+revid: 69240
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Mantras]
@@ -26,6 +26,14 @@ To unlock Frostdraw, you must give five Frigid Prisms to Nell, the Frostdraw [tr
 
 ## Obtainment
 
-Frigid Prisms have a chance to be dropped by Enemies or NPCs who use Frostdraw when defeated, such as [Eastern Tribe Nomad](Eastern_Nomad.md) and [Songseeker Frostdrawer](Songseeker_Frostdrawer.md).
+Frigid Prisms drop from any NPC that uses the [Frostdraw](Frostdraw.md) attunement.
 
-An easy way to obtain them as a freshie/beginner is to backstab the [Eastern Tribe Nomad](Eastern_Nomad.md) on the cliff, collect the prism, and then rejoin and repeat.
+### NPCS
+
+-   [Eastern Tribe Nomad](Eastern_Nomad.md)
+-   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
+-   [Glacial Lionfish](Lionfish.md)
+
+## Trivia/Notes
+
+-   An easy way to obtain them as a freshie/beginner is to backstab the [Eastern Tribe Nomad](Eastern_Nomad.md) on the cliff, collect the prism, and then rejoin and repeat.

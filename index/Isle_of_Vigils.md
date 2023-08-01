@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 69129
+revid: 69238
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -15,7 +15,6 @@ TERRITORY OF Etrea
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 
   
-Template:Areainfobox
 
 **Isle of Vigils** is a starting location in _Deepwoken_. It is a settlement found in the [Etrean Sea](The_Etrean_Sea.md).
 
@@ -132,4 +131,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-travelled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
--   Safest place for freshies due to the fact that there are barely any gankers in Vigils
+-   Safest place for freshies due to the fact that there are barely any gankers in Vigils.

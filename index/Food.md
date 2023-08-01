@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 67339
+revid: 69239
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -27,18 +27,18 @@ _To get food, one must collect ingredients from various Luminants or buy the foo
 -   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md).
 -   Alternatively, you can turn in specific dishes that you cook to Chef Odiolavoro for some experience.
 
-Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to a immense decrease in thirst and hunger.
+Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to an immense decrease in thirst and hunger.
 
 _To cook food, one must be near a campfire._
 
--   By combining ingredients together the player can make various types of foods/drinks.
+-   By combining ingredients together, the player can make various types of foods/drinks.
 -   Usually, 2-3 ingredients are needed to make a certain food recipe. (Mushroom Soup for example, requires two mushrooms of different types)
 
 _One needs food and drink to live, much like you. Without it, one will die a slow and painful death._
 
--   When both the Thirst and Hunger bar reach zero, the Health bar will slowly drain until it reaches half health. At this point, the Blood bar will be the next to go, and once that is gone, you quickly lose the rest of your health and die.
+-   When both the Thirst and Hunger bar reach zero, the health bar will slowly drain until it reaches half health. At this point, the Blood bar will be the next to go, and once that is gone, you quickly lose the rest of your health and die.
     -   With about 1/8 hunger left, healing from campfires is completely disabled.
-    -   With about 1/8 thirst left, your vision becomes blurry and your swing speed is lowered.
+    -   With about 1/8 thirst left, your vision becomes blurry, and your swing speed is lowered.
 
 ## Food Boosts
 
@@ -46,8 +46,8 @@ File:SlowedStomach.png
 
 Some foods fill a portion of your Hunger bar with a different color, known as Reinforced Hunger.
 
--   Reinforced Hunger grants certain buffs, signified by a specially-colored secondary bar on top of the normal Hunger bar until it's depleted.
--   The type of boost can be identified by hovering over the differently-colored bar.
+-   Reinforced Hunger grants certain buffs, signified by a specially colored secondary bar on top of the normal Hunger bar until it's depleted.
+-   The type of boost can be identified by hovering over the differently colored bar.
 -   Different types of boosts will replace each other. Same types of boosts will stack in duration.
 
 ### Boosts
@@ -172,7 +172,7 @@ OR
 
 Witherald lifting The Meat Lord
 
--   Every fruit, more or less, has a real life counterpart.
+-   Every fruit, more or less, has a real-life counterpart.
     -   Redd = Orange
     -   Ongo = Apple
     -   Calabash = Calabash
