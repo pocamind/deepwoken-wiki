@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 66705
+revid: 69252
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -14,9 +14,7 @@ Template:EnemyInfobox1.0
 
 Bandits can be found in [Erisia](Erisia.md), [Etris](Etris.md), [Isle of Vigils,](Isle_of_Vigils.md) and [Summer Isle](Summer_Isle.md). They spawn in groups of 3 in [Erisia](Erisia.md), spawn in a pair in [Etris](Etris.md) and [Vigils](Isle_of_Vigils.md) and can spawn in groups of 3-7 on [Summer Isle](Summer_Isle.md).
 
-A Bandit wears an [Unknown/Unlisted](Outfits.md) outfit with their [race](Aspects.md) and gender varying.
-
-The outfit was made by Rengi and is called "Sea Adventurer".
+A Bandit wears the unobtainable "Sea Adventurer" outfit with their [race](Aspects.md) and gender varying.
 
 ## Moves
 
@@ -46,3 +44,4 @@ A Bandit executes the player after knocking them:
 
 -   They have turned to a life of crime due to the war in the East, causing jobs to become scarce.
 -   Check your ping before fighting one of them or you could die easily.
+-   "Sea Adventurer" was created by Renji.

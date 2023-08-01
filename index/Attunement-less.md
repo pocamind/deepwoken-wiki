@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 69249
+revid: 69251
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -24,9 +24,9 @@ Attunement-less mantras consist of mantras that are chosen based on your attribu
 
 You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement. While the mantras associated with Attunement-less are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunement-less mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old fashioned way.
+Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement. While the mantras associated with Attunement-less are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunement-less mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old-fashioned way.
 
-In spite of it's shortcomings, the potential of Attunement-less is nothing to scoff at, with it's greatest strength lying in it's raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunement-less Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts unlike the gifted, but with your bare hands alone. Talents you get will focus solely on your natural bearings and physical prowess in the world, maximizing your ability in combat to it's fullest without the limitations of an attunement. There is a very good reason why you see attunement-less mantras in the mantra decks of attunement users.
+In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, with its greatest strength lying in its raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunement-less Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts unlike the gifted, but with your bare hands alone. Talents you get will focus solely on your natural bearings and physical prowess in the world, maximizing your ability in combat to its fullest without the limitations of an attunement. There is a very good reason why you see attunement-less mantras in the mantra decks of attunement users.
 
 ## Attribute Mantras
 
@@ -175,7 +175,7 @@ File:No Attunement Revamp.png
 
 ### _**Agility Mantras**_
 
-Agility mantras are mainly based on making sure your enemy cant escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
+Agility mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with Ankle weights by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -233,7 +233,7 @@ File:No Attunement Revamp.png
 
 ### _**Intelligence Mantras**_
 
-Intelligence mantras act as "wildcards" in the user's arsenal as they compliment well with existing mantras. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
+Intelligence mantras act as "wildcards" in the user's arsenal as they complement well with existing mantras. To increase your intelligence attribute, train your brain with an Encyclopedia or a Math Textbook, discover new locations and recipes, scavenge for natural resources and concoct potions.
 
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
@@ -378,7 +378,7 @@ File:No Attunement Revamp.png
 
 ## Weapon Mantras
 
--   These mantras are based on the amount of weapons points you have, not your attribute or attunement.
+-   These mantras are based on the number of weapons points you have, not your attribute or attunement.
 -   Their damage scales with the amount of weapon points you have.
 -   To increase the damage/level cap, increase your weapon mastery by reading a "Weapon Manual", parry, block and hit enemies with your weapon.
 
@@ -495,7 +495,7 @@ The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_
 
 Once completed, the user can upgrade their attunement-less mantras by speaking to the trainer and paying an increasing sum of notes for each mantra level. NOTE:
 
--   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the amount of points** you have in the **respective attribute!**
+-   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the number of points** you have in the **respective attribute!**
 
 For example:
 
@@ -504,7 +504,7 @@ For example:
 3.  60+ points in Strength => Level 4 Strength Mantra.
 4.  80+ points in Strength => Level 5 Strength Mantra.
 
-In short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that mantras are capped at level 5, and increasing an attribute to 100 will grant you no benefit with its mantras aside from a bit of damage scaling.
+In short: Every 20 points in a specific attribute will unlock the next level for said mantras in that attribute, maybe use this information to wisely diversify your stats more. Keep in mind that mantras are capped at level 5 and increasing an attribute to 100 will grant you no benefit with its mantras aside from a bit of damage scaling.
 
 ## Tips
 
@@ -512,7 +512,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 -   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
 -   **Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
--   You can increase the duration of Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); Doing this with some other mantras like Adrenaline Rush, Brace or Reinforce will not work however.
+-   You can increase the duration of Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); Doing this with some other mantras like Adrenaline Rush, Brace or Reinforce will not work, however.
 -   You can use Summon Cauldron as a portable shelter for campfires.
 -   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
 -   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance traveled BUT allows you to use it twice before it goes on cooldown.
@@ -524,13 +524,13 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 -   The majority of mantra modifiers have gotten their functionality removed from attunement-less mantras, due that they made them too damn overpowered.
     -   Cloud/Stratus stone increased the hitboxes of moves so much most of the time you wouldn't even have to look at the enemy.
-    -   Before Revenge was nerfed, it could become a cheap get-out-of-jail card as you could drastically increase it's range with Drift/Rush shards.
+    -   Before Revenge was nerfed, it could become a cheap get-out-of-jail card as you could drastically increase its range with Drift/Rush shards.
     -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a ~Fortitude~/Charisma mantra, the effect would last so long, longer than the mantra's cooldown.  
-        (Unfortunately it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras.)
+        (Unfortunately, it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras.)
 -   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
 -   Summoning Cauldron was one of the most powerful mantras out there, excluding pre-nerf Strong Left.
 -   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
--   Rapid Punches is the single Attunement-less mantra that has a star.
+-   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 starred respectively.
 -   "Strong Left" may have been inspired by Franky's Strong Right from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).

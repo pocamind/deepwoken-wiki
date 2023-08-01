@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 68851
+revid: 69258
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,7 +20,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of five.
+Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of six.
 
 They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
 
@@ -111,3 +111,4 @@ A Stone Knight executes the player:
 -   It is highly recommended to ragdoll cancel (right click during ragdoll) Terra Eruption and Kick to make sure you don't get hit by a follow up move.
 -   Terra Eruption and Kick can be blocked with enough posture.
 -   Desert Knights and Blizzard Knights are very hostile towards Megalodaunts and will target them.
+-   It is impossible to defeat all six Blizzard Knights at once

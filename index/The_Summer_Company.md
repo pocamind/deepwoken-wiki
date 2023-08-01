@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 63664
+revid: 69256
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -13,7 +13,7 @@ notices:
 | The Summer Company | |
 |---|---|
 | territory | Summer Isle |
-| goals | Profit, no matter who's the customer.Aggresively compete with the Ignition Union. |
+| goals | Profit, no matter who's the customer., Aggresively compete with the Ignition Union. |
 
 “ If you're not here to buy something, then leave. ”
 

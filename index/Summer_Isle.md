@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 65732
+revid: 69255
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -196,14 +196,14 @@ Epic fountain.
 
 Main Faction - [Summer Company](The_Summer_Company.md)
 
--   Ignition Union Fighters
--   Summer Company Guards
--   Summer Company Thugs
+-   [Ignition Union Fighters](Ignition_Union_Fighter.md)
+-   [Summer Company Guards](Summer_Company_Guard.md)
+-   [Summer Goon](Summer_Goon.md)
 -   Nomad Tribe Members
 -   Nomad Tribe Leaders
--   Bandit Captains
--   Ministry Scouts
--   Bandits
+-   [Bandit Captains](Bandit_Leader.md)
+-   [Ministry Scouts](Ministry_Scout.md)
+-   [Bandits](Bandit.md)
 
 ### NPC Relationship
 
