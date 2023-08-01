@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 68903
+revid: 69229
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -26,6 +26,7 @@ The prices of Chili's items may vary from price to price.
     -   Mushroom Bisque
     -   Egg Omelette
     -   Fish Omelette
+    -   Fruit Salad
     -   Seafood Boil
     -   Cake
     -   Noodles

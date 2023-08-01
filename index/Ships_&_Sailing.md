@@ -1,14 +1,17 @@
 ---
 title: "Ships & Sailing"
-revid: 58903
+revid: 69208
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Mechanics]
+categories: [Stub pages without reason, StubPages, Upcoming content, Mechanics]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
 # Ships & Sailing
+
+## Description
 
 Boats and ships are the main method of transportation in Deepwoken which is used to get to different islands throughout the map. There are three seas, The Etrean Sea, [The Aratel Sea](The_Aratel_Sea.md), and [The Voidsea](Voidsea.md). There are currently 6 ships which are:
 
@@ -30,6 +33,10 @@ Once a boat has been purchased and isn't destroyed, you can deploy a boat at any
 Boats can be repaired with the [Repair Hammer](Repair_Hammer.md) which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. Repair hammers can repair the boat at any time, only if you have wood on you. In repairing a boat a certain amount of times you'll get the talents [Emergency Repairs](Talents.md) and [Spare Nails](Talents.md). Though wearing the [Brigand Bicorn](<Brigand's_Bicorn.md>) also grants you those talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the talents prerequisites.
 
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
+
+Boats will have a custom decal that can be placed on the flag.[\[1\]](#cite-note-1)
+
+## Boats
 
 You can respawn on any boat, given that you haven't been sent to The Depths or are within too close of a proximity to it.
 
@@ -85,4 +92,6 @@ Lantern (Rest/Respawn Point)
 
 ### Notes/Trivia
 
--   The Ironclad is the most dangerous boat in Deepwoken. Not to anyone else but rather to the people using it. It is infamous for spazzing out more sporadically and violently than the other boats especially due to its sheer size. More than that, back then in the early days of Deepwokens release. Getting AA-gunned once would result in a permanent ban from the game, thus resulting in an incredible number of false bans due to the seizures Ironclad boats had. To this day, people are falling victim to the violent and reality bending nature of the Ironclad. So much as bumping it into terrain is a gamble on warping your characters well-being. You are 3x more likely to get AA-gunned using an Ironclad recklessly than you are to get AA-gunned using Synapse recklessly. If you plan to use this boat, make sure to have recording software up and running so that in the devastating case of you getting outright banned due to the Ironclad getting you AA-gunned 3 times then you can claim innocence and blame your Ironclad for going rabid on you. Keep your Ironclads on a leash and for the love of god do not use mantras that teleport your character or mantras that unstoppably moves your character in conjunction with steering the boat as you WILL likely fling your cremates into oblivion (Mantras like "Judgement" being used on people steering a boat would for example lift the boat into the air as well due to the player being attached to the boat only for the boat to speed toward the position it's supposed to be at). If your Ironclad is experiencing a sporadic meltdown and you aren't combat tagged then it is EXTREMELY advised to log before it sends you to the backrooms. Alternatively, you can try to emote on the Ironclad which will safely attach your character to the boat but this is a risky option to take. This is a cursed phenomenon that may have served in the removal of boats in Rogue Lineage, especially with fall damage being momentum based. Exploiters could fly with their boats and normal players could use a spell to summon a Sagitta Sol to pilot the boat resulting in catastrophe for anyone on the boat. This boat is a sexy and advanced master craft of engineering but it pushes the laws of physics too far for it to handle. Sadly when this dangerous activity occurs, the boat has little chance of settling down and best case scenario is that it abandons the Lumin without taking you with it. Sail safely, lads.
+-   The Ironclad is the most dangerous boat in Deepwoken. Not to anyone else but rather to the people using it. It is infamous for spazzing out more sporadically and violently than the other boats especially due to its sheer size. More than that, back then in the early days of Deepwokens release. Getting AA-gunned once would result in a permanent ban from the game, thus resulting in an incredible number of false bans due to the seizures Ironclad boats had. To this day, people are falling victim to the violent and reality bending nature of the Ironclad. So much as bumping it into terrain is a gamble on warping your characters well-being. You are 3x more likely to get AA-gunned using an Ironclad recklessly than you are to get AA-gunned using Synapse recklessly. If you plan to use this boat, make sure to have recording software up and running so that in the devastating case of you getting outright banned due to the Ironclad getting you AA-gunned 3 times then you can claim innocence and blame your Ironclad for going rabid on you. Keep your Ironclads on a leash and for the love of god do not use mantras that teleport your character or mantras that unstoppably moves your character in conjunction with steering the boat as you WILL likely fling your cremates into oblivion (Mantras like "Judgement" being used on people steering a boat would for example lift the boat into the air as well due to the player being attached to the boat only for the boat to speed toward the position it's supposed to be at). If your Ironclad is experiencing a sporadic meltdown and you aren't combat tagged then it is EXTREMELY advised to log before it sends you to the backrooms. Alternatively, you can try to emote on the Ironclad which will safely attach your character to the boat but this is a risky option to take. This is a cursed phenomenon that may have served in the removal of boats in Rogue Lineage, especially with fall damage being momentum based. Exploiters could fly with their boats and normal players could use a spell to summon a Sagitta Sol to pilot the boat resulting in catastrophe for anyone on the boat. This boat is a sexy and advanced master craft of engineering but it pushes the laws of physics too far for it to handle. Sadly when this dangerous activity occurs, the boat has little chance of settling down and best case scenario is that it abandons the Lumen without taking you with it. Sail safely, lads.
+
+1.  [↑](#cite-ref-1) [https://twitter.com/Deepwoken/status/1686077678732918790?s=20](https://twitter.com/Deepwoken/status/1686077678732918790?s=20)

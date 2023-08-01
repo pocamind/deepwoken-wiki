@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 68038
+revid: 69228
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -16,7 +16,7 @@ _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enem
 
 One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
 
-While each Monster has unique attacks and patterns, they all share one thing; You can learn them. almost every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn with enough memorization and technique, however, do note that some monsters (e.g Mobs in the depths (Scyphozia, EternalGale), Primadon) have strict time limits, and as such, will require leveling in order to beat.
+While each Monster has unique attacks and patterns, they all share one thing; You can learn them. almost every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn with enough memorization and technique, however, do note that some monsters (e.g Mobs in the depths (Scyphozia, Eternal Gale, Primadon) have strict time limits, and as such, will require leveling in order to beat.
 
 The majority of non-humanoid monsters you encounter in-game will have hyper armor. Meaning any attacks they dish out cannot be stopped through stun.
 
@@ -29,7 +29,18 @@ The majority of non-humanoid monsters you encounter in-game will have hyper armo
 -   Being much more aware, noticing players from further away, or even behind them.
 -   Gaining new behaviors/abilities, such as Lionfish Beam.
 -   Becoming much more persistent in chasing, rarely stopping until the death of them or the player.
--   Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly double the damage and having triple the health of their normal versions.
+
+Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly 50% more damage and having triple the health of their normal versions.
+
+### Attunement Infused Monsters
+
+Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement, and 100% less resistance to opposite attunements.
+
+-   Shadow Monster - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
+-   Thundercall Monster - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
+-   Flamewreathed Monster - Applies Burn on hit, _(Visual: Large Flames)_ **(CAN PROC LAVA SERPENT)**
+-   Frostmantle Monster - Applies Chilled on hit, _(Visual, Frost beneath Monster)_
+-   Galebreathe Monster - Applies Winded on hit, _(Visual, Wind rushing around Monster)_
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Scyphozia
-revid: 38712
+revid: 69220
 source: https://deepwoken.fandom.com/wiki/Scyphozia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [The Depths](The_Depths.md)
+-   [First Layer](First_Layer.md)

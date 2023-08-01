@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 69080
+revid: 69216
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -80,13 +80,13 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
 </tr>
 <tr>
   <td>%Damage vs. Monsters (Monster DMG)</td>
-  <td>2 2 5</td>
-  <td>2 5</td>
-  <td>2 5</td>
-  <td>2 5</td>
-  <td>2</td>
-  <td>2</td>
-  <td>2</td>
+  <td>1 3</td>
+  <td>1 3</td>
+  <td>1 3</td>
+  <td>1 3</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td>
 </tr>
 <tr>
   <td>%Physical Armor (PHY Armor)</td>

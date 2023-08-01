@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69110
+revid: 69226
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1117,7 +1117,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 60 Flamecharm and Agitating Spark
 
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
-    -   Prerequisites: 15 Charisma, 1 Flamecharm, 15 Willpower
+    -   Prerequisites: 25 Flamecharm
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
@@ -1404,6 +1404,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
     -   Prerequisite: 100 Ironsing
+-   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
+    -   Prerequisites: 55 Ironsing
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   Prerequisites: 45 Ironsing
 -   Intuitive Repairs \[Common Talent, Ironsing Exclusive\] - Your 'Iron Skin' repairs armor while it's active.
