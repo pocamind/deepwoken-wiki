@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 67038
+revid: 69317
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -57,7 +57,7 @@ This happened when civilization started using the song too much which angered th
 
 The current world, and the one we play in; Erisia has recently drifted in from the Voidsea in the Etrean Luminant,
 
-### Footnotes
+## Footnotes
 
 1.  [↑](#cite-ref-1) Sourced from Bookkeeper Andros dialogue;
 2.  [↑](#cite-ref-2) More can be found in the book: Studies on Canticlysm, Vol. IV

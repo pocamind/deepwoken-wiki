@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 68330
+revid: 69319
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -44,8 +44,8 @@ _After handing in all Diver Journals to her:_
 -   You don't have to beat Chaser after you unlock the galewax shrine for it to count to the quest.
 -   She is the inventor of Radiant Magic, an Oath that gives access to some Lightkeeping.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
--   Despite her appearance, she's actually a Canor without eyeliner.[\[1\]](#cite-note-1)
+-   Despite her appearance, she's actually a Canor without eyeliner. [\[1\]](#cite-note-1)
 
-## References
+## Footnotes
 
 1.  [↑](#cite-ref-1)

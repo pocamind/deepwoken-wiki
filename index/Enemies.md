@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 65481
+revid: 69300
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -57,6 +57,20 @@ Humanoid Enemies can have **enchanted** weapons, however it's only given to cert
 **The Legion**
 
 **Celtor**
+
+## Ambush Events
+
+**The Ministry File:Eylisiconfactoin.png**
+
+**The Summer Company**
+
+**The Ignition Union**
+
+**Etrea**
+
+**The Central Authority**
+
+**The Legion**
 
 ## Bosses/Unique Enemies
 
