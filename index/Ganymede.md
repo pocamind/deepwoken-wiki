@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 68420
+revid: 69267
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -13,7 +13,7 @@ Template:Races-Main
 _Peculiar folk who are often known for their wisdom and intelligence.  
 Though quite rare, Ganymede science still leads man forward._
 
-Chance of obtaining race: **2.0%**
+Chance of obtaining race: **2.1%**
 
 ## Description
 

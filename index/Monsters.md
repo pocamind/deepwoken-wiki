@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69230
+revid: 69262
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -39,7 +39,7 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 Humanoid NPC's cannot be Attuned, although Mini-Boss class enemies like [Deep Widow](Deep_Widow.md) and [The Enforcer](Enforcer.md) can be Attuned.
 
 -   Shadow - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
--   Thundercall - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
+-   Thunderstruck - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
 -   Flamewreathed - Applies Burn on hit, Has an AoE fire effect around the Monster. _(Visual: Large Flames)_ **(CAN PROC LAVA SERPENT)**
 -   Frostmantle - Applies Chilled on hit, Places Ice beneath hit players, _(Visual, Frost beneath Monster)_
 -   Galeforce - Applies Winded on hit, Deals Extra Knockback, _(Visual, Wind rushing around Monster)_ Certain mobs have their visual effect changed,
