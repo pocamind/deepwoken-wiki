@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 58854
+revid: 69293
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes]
@@ -17,6 +17,7 @@ categories: [Weapons, Greatswords, Echoes]
 | range | 8.5 |
 | swing speed | 0.62x |
 | endlag | 0.1s |
+| penetration | 0% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |
@@ -33,3 +34,4 @@ The **Avenger** is a Greatsword [Heavy Weapon](Weapons.md) obtained by buying th
 ## Trivia
 
 -   The Greataxe is superior in terms of DPS at Power 1, due to it having no endlag.
+-   The Avenger has the lowest penetration in the game, clocking in at 0%. This may be due to a mistype, someone must have forgotten to put 1 before the 0. It's also the only weapon in the game which is 0% pen, while weapons with no pen doesn't have it on the info.

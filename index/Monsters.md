@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69262
+revid: 69285
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -10,7 +10,7 @@ categories: [Monsters, Mechanics]
 
 _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md) For Bosses, see **[Bosses.](Bosses.md)**_
 
-**Monsters** are inhuman hostile NPCs that will attack the player, but are different from human enemies. Most will not utilize strategies like parrying.
+**Monsters** are inhuman hostile NPCs that will attack the player but are different from human enemies. Most will not utilize strategies like parrying.
 
 ## Description
 
@@ -18,7 +18,7 @@ One of Deepwoken's finest, and arguably primary focuses, are the Monsters, anima
 
 While each Monster has unique attacks and patterns, they all share one thing; You can learn them. almost every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn with enough memorization and technique, however, do note that some monsters (e.g Mobs in the depths (Scyphozia, Eternal Gale, Primadon) have strict time limits, and as such, will require leveling in order to beat.
 
-The majority of non-humanoid monsters you encounter in-game will have hyper armor. Meaning any attacks they dish out cannot be stopped through stun.
+The majority of non-humanoid monsters you encounter in-game will have hyper armor. Meaning any attacks, they dish out cannot be stopped through stun.
 
 ### The Depths
 
@@ -36,7 +36,7 @@ Being able to spawn as an Enhanced (commonly known as Corrupted) version, signif
 
 Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement, and 100% less resistance to opposite attunements.
 
-Humanoid NPC's cannot be Attuned, although Mini-Boss class enemies like [Deep Widow](Deep_Widow.md) and [The Enforcer](Enforcer.md) can be Attuned.
+Humanoid NPCs cannot be Attuned, although Mini-Boss class enemies like [Deep Widow](Deep_Widow.md) and [The Enforcer](Enforcer.md) can be Attuned.
 
 -   Shadow - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
 -   Thunderstruck - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
@@ -110,14 +110,14 @@ Humanoid NPC's cannot be Attuned, although Mini-Boss class enemies like [Deep Wi
 
 While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
 
--   **If an attack has a red aura/effect to it, it _CANNOT_ be blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace, or using the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
+-   **If an attack has a red aura/effect to it, it _CANNOT be_ blocked normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to block them is using Hunters Brace or using the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
 -   **Take extreme caution if you decide to run from a monster, especially at low health.** Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long-range barnacle spray. If you absolutely have to run, be smart about it. Abuse buildings and other obstacles to your advantage or defend against such long ranged attacks. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
--   **Practice makes perfect.** Try and fight Monsters in safe situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near-identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
+-   **Practice makes perfect.** Try and fight Monsters in situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:
     -   Potions
     -   Status Effects
     -   Flinging
--   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal posture damage, hitting a monsters fills their posture stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself.
+-   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal posture damage, hitting a monster fills their posture stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself.
 
 ## PVE Scaling
 
@@ -146,5 +146,5 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 -   NOT all attacks can be parried; Buy a Hunter Brace at Summer Isle to be able to.
 -   Some creatures will fight each other; Multiple can fight at the same time. Example [Here](https://youtu.be/01uQchtfUvw), [Also Here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s)
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
--   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap
+-   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap.
     -   Although many may consider Megalodaunts to be a "Giant Monster". The Megalodaunt Hide reveals they are native from the Depths.
