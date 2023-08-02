@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69285
+revid: 69329
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -148,3 +148,4 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
 -   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap.
     -   Although many may consider Megalodaunts to be a "Giant Monster". The Megalodaunt Hide reveals they are native from the Depths.
+-   There is also a mob/monster that can be spawned by a developer or Karliah's Charisma uncap quest called a squiggly
