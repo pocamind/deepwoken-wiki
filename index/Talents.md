@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69341
+revid: 69355
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -611,7 +611,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 55 Shadowcast, Dark God
     -   Deal damage around you whenever you steal ether.
 
-### Dawnwalker
+### [Dawnwalker](Oath%253A_Dawnwalker.md)
 
 -   _Absolute Radiance \[Unlockable Talent, Dawnwalker Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period._
 
@@ -1325,8 +1325,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 20 Willpower
 
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
-    -   Grant up to 15% extra damage when nearing 100% insanity.
-    -   Insanity to damage formula is a curve. You gain more damage per insanity from 0%-75% insanity and gain less damage from 75%-100% insanity.
+    -   Grant 15% extra damage when below 70% insanity.
+    -   Deepbound's sanity gain from killing mobs in the depths is reduced.
     -   Prerequisite: 30 Strength, 30 Fortitude
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
