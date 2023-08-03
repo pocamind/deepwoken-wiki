@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 69273
+revid: 69366
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,7 +38,7 @@ To obtain the mantras, you must kill the 3 Sinners spread around the East Lumina
 -   **Minos, Sinner of Flame,** right next to the inn at Summer Isle (Grants Celestial Assault)
 -   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions. (Grants Ascension)
 
-You will get a mantra for each kill.
+You will get a mantra for each kill, and a chest containing [Songseeker](Songseeker_Wilds.md) loot.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=wdP9-YHXEcs)._
 
@@ -61,11 +61,11 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 -   **Sinister Halo - Combat Mantra**
     -   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
-        -   Similar to [Galebreath's](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+        -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
 
 ## Effects
 
-This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screenshaking, heavily enhanced, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white halo with 3 spikes connected to it will continuously circle around the user's neck.
+This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screenshaking, heavily enhanced, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Notes
 

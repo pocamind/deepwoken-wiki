@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 69016
+revid: 69361
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ categories: [Monsters]
 
 # Thresher
 
-_Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco, Threshie Freshie Ganker XIV, the Deepwoken lizard, Thresher, and many other Lizard names._ Template:Creature Info Box v2
+_Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Lizard names._ Template:Creature Info Box v2
 
 ## Description
 
@@ -67,7 +67,7 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 
 # King Thresher
 
-_Also known as Big Mom, Big Croc, King Croc, Mother/Momma/Mommy Thresher, Fatass Thresher and many other names_ Template:Creature Info Box v2
+_Also known as Big Mom, Big Croc, King Croc, Mother Thresher, and many other names_ Template:Creature Info Box v2
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 69132
+revid: 69365
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Bosses]
@@ -67,7 +67,7 @@ If you were holding block before getting grabbed and during it's full duration y
 
 Automatically used when dropping below 50% health. Signified by a red mist that surrounds Primadon's body.
 
- | **?** | **?** | **?** | (★★★) |
+ | ◯ | ◯ | ◯ | (★★★) |
 
 ### Passives
 
