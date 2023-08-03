@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 69265
+revid: 69337
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -68,6 +68,7 @@ Grand Javelin
 -   Legion Snipers are now friendly to people with positive [Legion reputation](The_Hundred_Legions.md)
     -   Legion Snipers were the only Legion member to be hostile to players even if players had positive reputation with the Legion.
 -   Their Grand Javelin has way less cooldown than a player Grand Javelin since he can use it around every 2.5s
+-   Legion Kata's recommendation can be obtained from them if you talk to them after helping the Legion Captain two times.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 68702
+revid: 69338
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -641,7 +641,7 @@ Flaming Uppercut
 
  | 
 
-Your blinding light now concusses foes.
+Ignite flames on an enemy when you uppercut them.
 
  | 
 

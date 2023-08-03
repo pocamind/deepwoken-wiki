@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 69104
+revid: 69344
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -39,7 +39,7 @@ At 100 MED and 100 MTL, this weapon deals 30.6 damage while in Club form, and 30
 
 ## Critical Attack
 
-The user goes into a pride stance with their weapon facing down and releases a metal eruption of spikes surrounding the player. This is similar to the critical for the [Hero Blade of Flame](Hero_Blades.md) and the [First Light](First_Light.md) (except the sword rain bit).
+The user shove their weapon into the floor and releases a metal eruption of spikes surrounding the player. This is similar to the critical for the [Hero Blade of Flame](Hero_Blades.md) and the [First Light](First_Light.md) (except the sword rain bit).
 
 ## Trivia
 

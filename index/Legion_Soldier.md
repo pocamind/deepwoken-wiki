@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 68488
+revid: 69336
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -49,3 +49,7 @@ A Legion Soldier executes its opponent after knocking them:
 \[[Ritual Spear](Ritual_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
 
  |
+
+## Trivia
+
+They are hostile towards the villagers that you turn over to Alastir.

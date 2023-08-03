@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69261
+revid: 69341
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1485,7 +1485,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am one with Navae."**_
 
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
-    -   Prerequisites: Trained Fist, Moving fortress, Shield.
+    -   Prerequisites: Trained Fist, Moving fortress, Shield, 20 Fortitude, 30 Strength
+        -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
     -   Prerequisites: Fists, 20 Fortitude
@@ -1995,7 +1996,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Cap Artist \[Common Talent, Agility\] - Pressing \[R\] while crouching allows you to fake being dead. (+2 Passive Agility)
     -   Your eyes are still open, your name is still visible and you do not leave a loot bag.
     -   Cancelled by pressing \[R\] again.
-    -   ~You can still emote~ Patched :(
     -   Using Cap artist in the depths makes you have normal gravity
     -   Prerequisite: 25 Agility, 5 Charisma
 
@@ -2003,6 +2003,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Pickpocket, 25 Charisma
 
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing "N". (+2 Passive Agility)
+    -   The target need to be knocked to be able to pickpocket them.
     -   Prerequisites: 5 Agility, 10 Charisma
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+2 Passive Agility)
@@ -2137,7 +2138,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _Speed Demon_ \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus and is not accounted in the damage cap.
-    -   Every other hit will deal bleed damage, and works with critical attacks as well.
+    -   Works with critical attacks as well.
+    -   1 second cooldown.
     -   Prerequisite: 25 Agility
 
 -   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
