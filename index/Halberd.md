@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 66303
+revid: 69404
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -22,7 +22,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia (Chests), The Depths (Chests) |
+| obtainment | Erisia (Chests), The Depths (Chests), Blacksteel Pirate (Chests) |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
 | Halberd | |

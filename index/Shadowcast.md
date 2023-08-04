@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 68880
+revid: 69411
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -57,7 +57,7 @@ Shadow Gun
 
  | An awful blast of dark energy. | 20 Ether | You fire a melee-ranged shot at your mouse cursor. Can be modified to add more shots, or create explosive effects on hits. Blockable.  
 
--   Adding 1 Blast Spark will make your Shadow Gun a barrage.
+-   Adding 1 Blast Spark will make your Shadow Gun a barrage. It will, however, also triple the ether cost from what’s displayed (I.E. a 19% ether cost shadow gun will actually cost 57% of your ether.)
 -   Adding Lenses will increase the range of the blast forward
 -   Adding Cloudstones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
