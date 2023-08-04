@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69376
+revid: 69400
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -36,22 +36,28 @@ Being able to spawn as an Enhanced (commonly known as Corrupted) version, signif
 
 Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement, and 100% less resistance to opposite attunements.
 
-Humanoid NPCs cannot be Attuned, although Mini-Boss class enemies like [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
+-   Monsters with "built in" Attunements should only get their respective attunement, (e.g [Fury Squibbo](Nautilodaunt.md) can only have Thunderstruck, [Crimson Megalodaunt](Megalodaunt.md) can only have Flamewreathed) and should not benefit.
+
+Humanoid NPCs cannot be Attuned, although many Mini-Boss and Boss class enemies like [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
 
 -   Shadow - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
 -   Thunderstruck - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
 -   Flamewreathed - Applies Burn on hit, Has an AoE fire effect around the Monster. _(Visual: Large Flames)_ **(CAN PROC LAVA SERPENT)**
 -   Frostmantle - Applies Chilled on hit, Places Ice beneath hit players, _(Visual, Frost beneath Monster)_
--   Galeforce - Applies Winded on hit, Deals Extra Knockback, _(Visual, Wind rushing around Monster)_ Certain mobs have their visual effect changed,
+-   Galeforce - Applies Winded on hit, Deals Extra Knockback, _(Visual, Wind rushing around Monster)_
 
--   [Prime Golem](Rock_Golem.md) (Thundercall Variant, Red)
--   [Gigamed](Gigamed.md) (Thundercall Variant, Blue)
+Certain mobs have their visual effect changed,
+
+-   [Prime Golem](Rock_Golem.md) (Thunderstruck Variant, Red)
+-   [Gigamed](Gigamed.md), [King Gigamed](Gigamed.md) (Thunderstruck Variant, Blue)
 
 #### Attunement Weaknesses & Strengths
 
--   Flamecharm>Frostdraw
--   Frostdraw>Galebreathe
--   Galebreathe>Flamecharm
+-   Flamecharm, (Weakness, Galebreathe) (Resist, Flamecharm)
+-   Frostdraw (Weakness, Flamecharm) (Resist, Frostdraw)
+-   Galebreathe (Weakness, Frostdraw) (Resist, Galebreathe)
+-   Thundercall (Weakness, Ironsing?) (Resist, Thundercall)
+-   Shadowcast (Weakness, All Attunements) (Resist, Basic Attacks)
 
 Shadowcast mobs take less damage from Basic Attacks, M1, Crits
 

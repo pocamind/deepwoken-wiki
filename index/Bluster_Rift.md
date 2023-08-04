@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 61184
+revid: 69384
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -21,17 +21,6 @@ File:Bluster Rift.png
 ## Overview
 
 The Bluster Rift is a location in _Deepwoken_. It can be found on [Aratel Island](Aratel_Island.md). It is almost identical to the Starswept Valley. The rivers that flow here will pull you downstream, making it quite difficult to traverse.
-
-## Potential Enemies
-
--   [King Thresher](Thresher.md#king-thresher)
--   [Thresher](Thresher.md#king-thresher)
--   [Hive Construct](Hive_Construct.md)
--   [Desert Knight](Stone_Knight.md)
--   Etrean Footsoldier
--   [Hive Guard](Hive_Guard.md)
--   [Legion Captain](Legion_Captain.md)
--   [Legion Sniper](Legion_Sniper.md)
 
 ## Missions
 
@@ -60,44 +49,35 @@ Below is a list of potential items that can spawn in Bluster Rift.
 
 #### Head
 
--   Big Alchemist's Hat
--   Big Herbalist's Hat
--   Authority Helm
--   Blackleaf Helm
+-   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
+-   [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
+-   [Authority Helm](Authority_Helm.md)
+-   [Blackleaf Helm](Blackleaf_Helm.md)
 -   Gladiator Helm
--   Knight's Helm
--   Khan Helmet
--   Pale Assassin's Hood
--   Vigil Hood
+-   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Khan Helmet](Legion_Helmet.md)
+-   [Pale Assassin's Hood](<Assassin's_Hood.md>)
+-   [Vigil Hood](Vigil_Hood.md)
 
 #### Face
 
--   Warrior's Eyepatch
--   Blue Headband
--   Green Headband
--   Red Headband
--   White Headband
+-   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
+-   [Headband (Series)](Headband.md)
 
 #### Ears
 
--   Ruby Drop Earrings
--   Crystal Pendant Earrings
--   Practitioner's Earrings
+-   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
+-   [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
+-   [Practitioner's Earrings](<Practicioner's_Earrings.md>)
 
 #### Back
 
--   Adventurer's Scarf
--   Black Scarf
--   Crimson Scarf
--   Dawn Scarf
--   Forest Scarf
--   Tundra Scarf
--   White Scarf
+-   Scarf (Series)
 
 #### Arms
 
--   Pale Assassins Cloak (Uncommon)
--   Star Duster (Rare)
+-   [Pale Assassins Cloak](<Assassin's_Cloak.md>) (Uncommon)
+-   [Star Duster](Star_Duster.md) (Rare)
 -   Black Parka
 -   Brown Parka
 -   White Parka
@@ -105,13 +85,13 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   White Fur Pauldrons
 -   Khan Pauldrons
 -   Silver Pauldrons
--   Woodland Pauldrons
+-   [Woodland Pauldrons](Woodland_Pauldrons.md)
 
 #### Boots
 
 -   Bluesteel Boots
 -   Flameguard Boots
--   Imperial Boots
+-   [Imperial Boots](Imperial_Boots.md)
 -   Khan Boots
 -   Star Boots
 -   Tracker's Boots
@@ -139,4 +119,4 @@ Below is a list of potential items that can spawn in Bluster Rift.
 
 ## Trivia/Notes
 
--   Player notes go here
+-   Player notes go here.

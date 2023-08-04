@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 68916
+revid: 69402
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -23,7 +23,7 @@ Loot inside a chest is shown with different colors depending on their rarity, ra
 -   Rare items are labelled as red. Though despite being rare, they're very common in The Depths and Hive
 -   Legendary Gear, Schematics or Rings are labelled as bright cyan.
 -   Armors or Weapons with a Mythical rarity are labelled as bright violet.
-    -   Mythical Items include: Legendary Weapons, Relics, and Enchant Stones
+    -   Mythical Items include Legendary Weapons, Relics, and Enchant Stones
 -   Enchanted items are labelled as white.
 
 The color of a chest depends on where you got it from, consisting of four variations as of current version.
@@ -53,4 +53,4 @@ Similar to chests, loot inside the sack will appear in different colors dependin
 
 Mercille
 
-Carriable sacks (similar to the Summer Company's gunpowder boxes) can spawn around [Starswept Valley](The_Starswept_Valley.md). One can turn these in to Mercille, in the Summer outpost nearby [Meteor Isle](Meteor_Isle.md), for a chest containing good tier loot.
+Carriable sacks (similar to the Summer Company's gunpowder boxes) can spawn around [Starswept Valley](The_Starswept_Valley.md). One can turn these into Mercille, in the Summer outpost nearby [Meteor Isle](Meteor_Isle.md), for a chest containing good tier loot.

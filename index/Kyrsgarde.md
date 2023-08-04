@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 66350
+revid: 69401
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
@@ -168,8 +168,6 @@ A Kyrsgarde Brute executes it's opponent:
 
 ## Trivia
 
--   It is highly recommended to watch Raum's video before challenging these mobs.
-    -   [https://www.youtube.com/watch?v=iQe71nCEUpk](https://www.youtube.com/watch?v=iQe71nCEUpk)
 -   Having the brick wall talent, makes the fight with the lancers **A LOT MORE EASIER**, being able to easily kill 4 of them at the same time with no difficulty or risk at all. (Tested)
 -   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that one of the NPC's in layer 2 note how when rumbling was heard from the "roof" (Chaser) they started patrolling.
 -   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" had done something to them using some sort of "mist". Or the fact they built Kyrsa City ontop of Ethirons Bedchamber. However it also could've been the fact that their foolishness lead to a failure related to some sort of ritual to prevent the Scion of Ethiron in someway. Keep in mind this is information was from an Outsider of the Kyrsgarde
