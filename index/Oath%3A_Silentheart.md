@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 69288
+revid: 69370
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -54,11 +54,11 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
     -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.
-        -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your elemental resistance.
+        -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
+        -   Stacks up to ? times and each stacks grant ?% mantra resist.
 -   **Lodestar - Passive**
     -   Parrying a Mantra will temporarily silence the caster of that Mantra, disabling them from using Mantras for a short amount of time.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
-        -   ?% Per stack mantra resistance  ? stacks
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
         -   Damage and speed of the attack scales on your weapon.

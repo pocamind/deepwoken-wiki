@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 69242
+revid: 69383
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -32,7 +32,7 @@ By giving (5) Umbral Obsidian to the trainer located in the [Celtor Wastes](Celt
 
 ## Obtainment
 
-Umbral Obsidian can drop from certain monsters, chests, and enemies that use [shadowcast](Shadowcast.md).
+Umbral Obsidian can drop from certain monsters, chests, and enemies that use the [shadowcast](Shadowcast.md) attunement.
 
 ### NPCs
 

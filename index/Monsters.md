@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69329
+revid: 69376
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -36,7 +36,7 @@ Being able to spawn as an Enhanced (commonly known as Corrupted) version, signif
 
 Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement, and 100% less resistance to opposite attunements.
 
-Humanoid NPCs cannot be Attuned, although Mini-Boss class enemies like [Deep Widow](Deep_Widow.md) and [The Enforcer](Enforcer.md) can be Attuned.
+Humanoid NPCs cannot be Attuned, although Mini-Boss class enemies like [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
 
 -   Shadow - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
 -   Thunderstruck - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
@@ -45,8 +45,15 @@ Humanoid NPCs cannot be Attuned, although Mini-Boss class enemies like [Deep Wid
 -   Galeforce - Applies Winded on hit, Deals Extra Knockback, _(Visual, Wind rushing around Monster)_ Certain mobs have their visual effect changed,
 
 -   [Prime Golem](Rock_Golem.md) (Thundercall Variant, Red)
--   [Gigamed](Gigamed.md) (Thundercall Variant, Blue)  
-    
+-   [Gigamed](Gigamed.md) (Thundercall Variant, Blue)
+
+#### Attunement Weaknesses & Strengths
+
+-   Flamecharm>Frostdraw
+-   Frostdraw>Galebreathe
+-   Galebreathe>Flamecharm
+
+Shadowcast mobs take less damage from Basic Attacks, M1, Crits
 
 ## Humanoid Monsters
 

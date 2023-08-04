@@ -1,6 +1,6 @@
 ---
 title: "Yun'Shul, Keeper of Hearts"
-revid: 67175
+revid: 69369
 source: https://deepwoken.fandom.com/wiki/Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,3 +24,5 @@ Notably, [the avatar](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) that appears be
 ## Trivia
 
 -   The [Enchantment](Enchantments.md) Curse of Yun’Shul is named after them.
+-   It is not entirely known if they are in the First Layer, but it seems highly likely. When close to a Drowned God's body, there are unusual effects happening, such as a rift in time for New Kyrsa because of Ethiron.
+    -   This means that the passive insanity gain may be because of Yun'Shul's body.

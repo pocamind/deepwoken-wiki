@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 69205
+revid: 69379
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -997,6 +997,7 @@ File:Flame Leap with Reversal Spark.gif
 
 -   This modifier reverses the "Flame Leap" mantra causing the caster to slam the ground, throwing those around them into the air.
     -   Beware, this has a very buggy hitbox.
+-   Normal variant of the mantra is done if used in water.
 
  |
 | 
