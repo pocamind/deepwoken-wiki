@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 67360
+revid: 69477
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -117,26 +117,26 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
 
 ## Tips/Trivia
 
--   **Never get Haemophilia.** Vegetarian does not allow you to eat meat which can be problematic but you can still survive on fruits and other meals. Glutton is dangerous for swimming and being sent to the Depths with little rations.
+-   **Never get Haemophilia.** Vegetarian does not allow you to eat meat which can be problematic, but you can still survive on fruits and other meals. Glutton is dangerous for swimming and being sent to the Depths with little rations.
 -   Some flaws are more worth taking than others:
-    -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras and your only main source of damage is your M1s. Generally not worth taking. However,if you decide to go for [Silentheart](Oaths.md), it's a free boon, since you won't able to use any mantras.
+    -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras, and your only main source of damage is your M1s. Generally, not worth taking. However,if you decide to go for [Silentheart](Oaths.md), it's a free boon, since you won't be able to use any mantras.
     -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (like Celtor for example, which is impossible to fix).
     -   Glutton just forces you to handle provisions more smartly, since you will likely need more food for extended sessions.
     -   Manic is basically a free point. The increased insanity gain is minimal, comes from few sources, scratching can be completely avoided if you play properly and can even benefit some builds.
     -   Obvious seems to increase the radius at which enemies will detect you _if you are not crouching._ Be cautious on islands like [Songseeker.](Songseeker_Wilds.md)
-    -   Simple's EXP gain rate decrease is not problematic for the especially patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is one of very few flaws that essentially has no downside at power 20 which makes it somewhat okay.
+    -   Simple's EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is one of very few flaws that essentially has no downside at power 20 which makes it somewhat okay.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.
-    -   Vegetarian’s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items, but picking this card will make it impossible to obtain the Carnivore Talent, which is very useful.
+    -   Vegetarian’s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items but picking this card will make it impossible to obtain the Carnivore Talent, which is very useful.
     -   Blind gives you the Blinded effect. All of the time. If you can live through it and get Blindseer, you can negate the problem the flaw gives.
 
 -   Some boons are more worth taking than others:
     -   Autodidact is useful to help level up certain stat quicker or level up stats that are annoying to do manually. If you die, you can also power up to restore your two lives. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Also becomes useless once you reach power 20. Although this boon stacks with the Adret racial buff.
     -   Gourmet is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. Not worth picking if you're going to choose Carnivore, though.
-    -   Maverick's exp boost is a nice bonus, but is too poor to be viable and is negated by playing with some friends. Also becomes useless once you reach power 20.
-    -   Scrapper give your more control over your build. It can be worth taking if you are ok with omitting a long lasting boon like Survivalist, Gourmet or Steadfast.
+    -   Maverick's exp boost is a nice bonus but is too poor to be viable and is negated by playing with some friends. Also becomes useless once you reach power 20.
+    -   Scrapper give your more control over your build. It can be worth taking if you are ok with omitting a long-lasting boon like Survivalist, Gourmet or Steadfast.
     -   Steadfast is very niche, especially considering _every_ character can get [Thresher Scales](Talents.md) now.
 
--   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armor and race by default, it can prove invaluable for spending time there. It is also reduce incoming fall damage which can save you in certain situation. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. In addition, it decreases the rate at which parasites in the Second Layer kill you. ([This Video Demonstrates this fact.](https://www.youtube.com/watch?v=QK2l_fndlBo))
+-   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armor and race by default, it can prove invaluable for spending time there. It is also reducing incoming fall damage which can save you in certain situations. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. In addition, it decreases the rate at which parasites in the Second Layer kill you. ([This Video Demonstrates this fact.](https://www.youtube.com/watch?v=QK2l_fndlBo))
 
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although can now be obtained as of the 16/08/22, being unlocked after gaining Blindseer.
 -   Deepbound used to be a flaw but was change to an unlockable [origin](Origins.md).

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 68770
+revid: 69475
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -246,9 +246,9 @@ Ice Lance
 
 _Form an ice spear and lunges forward._
 
- | User forms an ice spear and lunges forward towards the opponent.
+ | User forms an ice spear and lunges forward towards the opponent, impaling and detonating it in a few seconds.
 
--   During the windup pressing F will; Impale the spear and detonate it in a few seconds.
+-   During the windup pressing F cancels the impale.
 -   Deals moderate damage.
 -   Does not inflict Chill.
 -   User gains considerable forward momentum on use.

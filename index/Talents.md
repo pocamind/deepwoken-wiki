@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69355
+revid: 69478
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1595,6 +1595,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact.
     -   Prerequisite: 25 Strength
+    -   Mutual Exclusives: Dazing Finisher
 
   
 
