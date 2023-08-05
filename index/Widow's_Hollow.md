@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 69397
+revid: 69416
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -29,11 +29,6 @@ The Widow's hollow is a large cave with its entrance found near the top of the g
 ### Shelter(?)
 
 -   At the lower "floor" of the widow cave, there is a boarded-up door that can be destroyed or opened, behind it there is a small library of sorts containing the [Shrine Of Mastery](Deep_Shrines.md) as well as [Ciea](Ciea.md). For some reason, this place does not count as its own area.
-
-## Potential Enemies
-
--   [Deep Widow](Deep_Widow.md)
--   [Legion Sniper](Legion_Sniper.md)
 
 ## Trivia/Notes
 

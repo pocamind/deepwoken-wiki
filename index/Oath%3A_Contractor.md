@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 69410
+revid: 69413
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Oaths]
 1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire.
     -   You can either get this through Imel, Emel, and Fimel's bounties if you have no morals, but you can help the Ministry out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one Scout, waiting for the nomads to kill the other, and then assassinate them. This is also arguably far more efficient as you do not have to keep running back to NPCs, which at times can be really far away from the kill.
     -   You must help the ministry 5-6 times at Summer Isle for them to not see worth fighting you anymore. (This dialogue grants you neutral reputation.)
-2.  Get positive reputation with [Etrea](Etrea.md), enough to start the Duke questline.
+2.  Get positive reputation with [Etrea](Etrea.md), enough to start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline.
 3.  Complete the Duke questline, while making sure to select the second dialogue option, "What are you doing with the Forge?" when talking to Duke in the dungeon.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
 5.  Go make a deal with the following [Deep Shrines](Deep_Shrines.md): Temptation, Blasphemy, Mastery, Chance. This will cost you 20 Knowledge in total.

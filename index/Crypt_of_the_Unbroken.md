@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 69062
+revid: 69418
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Voidzones]
@@ -21,15 +21,9 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 ## Points of Interest
 
 -   On the 1st floor, there is a massive, library-like room with an Alpha Megalodaunt and four Immortal Guardians in it.
--   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantra for a hand of whispers.
+-   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantras for a hand of whispers.
 -   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon, but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
 -   HellfIire Lotuses and Skyvalor Lotuses can be found around the Crypt. Crafting 2 Hellfire Lotuses or 2 Skyvalor Lotuses together at a crafting table will yield a Strength attribute flask or a Willpower attribute flask respectively.
-
-## Enemies
-
--   [Immortal Guardians](Immortal_Guardian.md)
--   [Carbuncle](Carbuncle.md)
--   [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
 
 ## Loot Table
 

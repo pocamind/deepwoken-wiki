@@ -1,6 +1,6 @@
 ---
 title: Tomb of the Nameless Warrior
-revid: 65642
+revid: 69417
 source: https://deepwoken.fandom.com/wiki/Tomb_of_the_Nameless_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -27,11 +27,7 @@ This location is important to obtaining [Strength Unbound](Attributes_Unbound.md
 
 The entrance can be found on a shore around the rear of [Erisia](Erisia.md).
 
-This locations has an abundance for Erisore. You can make a Navean Nomad Robe easily here.
-
-## Potential Enemies
-
--   [Rotskipper](Mudskipper.md)
+This location has an abundance for Erisore. You can make a Navean Nomad Robe easily here.
 
 ## Maps
 
