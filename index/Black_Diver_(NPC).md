@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 66543
+revid: 69435
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, In progress with reason, InProgressPages, Enemies]
@@ -69,3 +69,4 @@ A Black Diver executes it's opponent after knocking them:
 
 -   They were added to make Castle Light feel more protected, but were replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) due to their presence contradicting the established low number and high power level of actual Black Divers.
 -   They use the Magnet Spark variant of Jolts Grab.
+-   When they were at the game it was believed that they were one of the hardest npc's to fight due to their high stats.

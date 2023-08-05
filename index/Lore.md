@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 68900
+revid: 69443
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -72,6 +72,8 @@ _The Lord Regent, sitting atop his throne of coral._
 -   Surpasses all the world leaders, including the Lord Regent and Drallis Ehr.
 -   On par with even the strongest/higher Krulians.
 -   A Deepwoken, along with Pleeksty.
+-   It is said that the First Prophet created the Ministry since the tides came, suggesting he is as old as Pleeksty or even more.
+-   It is speculated that he lost his humanity.
 
 ### **The Second Prophet**
 
@@ -133,8 +135,8 @@ The Duke
 -   His main weapon type is medium, but he is also a master of the other two.
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
--   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions be met.
--   User of Tempest Eye.
+-   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions be met, being to activate his tempest eye.
+-   User of Tempest Eye. What is known about what the Tempest Eye grants to its user, is that it can parry **any** attack, including ones that shouldnt be able to parry such as a sharko kick.
 
 ### **Akira, The Black Diver**
 
@@ -169,6 +171,7 @@ _"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
 -   Apparently he has disciples and apprentices, what he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
+-   Since he brought flamecharm to the world, it is believed he was alive since the Old world, where all the attunments except shadowcast were discovered.
 
 ### **Chaser, Scholar of the Burning Blood**
 
@@ -177,7 +180,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet..
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
--   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape.
+-   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly diver apprentices so they couldnt cause any trouble for him.
 -   He killed two more expeditions after this, and may have killed even more, such as ignition union members.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
 -   Though he is an Adret, he has a never before seen facial markings for the race.
@@ -276,6 +279,7 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   Possibly he is an attument-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
 -   Genuinely believes in The Central Authority as a force of peace.
 -   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the lighthouse being controled by Etris, being also able to capture Fort Merit with his forces.
+-   Possible member of the Circle of Honor.
 
 ### **Gunsmith Rosen**
 
@@ -1039,6 +1043,23 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   This is speculation, but it is said that some members of the Covenant of Flame are residing in the Third Layers of the Depths, looking for Amorus Pleeksty.
 -   Their relations with the main factions of Lumen is unknown, but they seem to be neutral with every faction of Lumen due to no one mentioning them.
 -   When talking to the mystic to have the talent card from the tree of "Falling Star Guard", you can see that the dialogue is: "_I believe in the people who followed Pleeksty before"_, meaning that some of the talents of flamecharm where created by the Covenant of Flame.
+
+### **The Circle of Honor**
+
+-   **Encountered in:** _Central Luminant(?)_
+-   **Attunements:** _Unkown_
+-   **Alliances:** _The Central Authority(?)_
+-   **Enemies:** _Contractors, The Ministry(?)_
+-   **Lore Sources:** _Ragoozer, Warden Jericho Journal, Windrunner._
+
+-   Creators and source of power of the Warmaster Oath.
+-   High chances of their members being composed of important members of the Authority, but this is unkown.
+-   Are enemies of the Contractor and possibly the ministry due to Warden Jericho and the Windrunner stating that they are against each other.
+-   A possible member of the Circle of Honor is Warden Jericho.
+-   They are known to carry floating blades as warmasters.
+-   Its is speculated that every person who has taken the oath of a Warmaster is a member of the Circle of Honor, but this is unkown.
+-   Their objectives and vows are unkown, but it is speculated that their objective and vow is to save Lumen from the tides and any threat that tries to doom Lumen, thus explaining why they are enemies with the Contractors who seek to drown Lumen, and why Warden Jerico stated that he cant continue to mantain his Oath as a Warmaster due to Authority committing atrocities in the East.
+-   Believed that they have mentail veils that protect them from any mental harm.
 
 ### **Kyrsgarde**
 

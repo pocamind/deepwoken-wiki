@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 65069
+revid: 69424
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -102,9 +102,7 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 
  | 
 
--   Black Headband
--   Orange Headband
--   Yellow Headband
+-   Headband (Series)
 -   Iron Mask
 -   Smith's Goggles
 -   Blindfold
@@ -116,8 +114,7 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 -   Konga's Clutch Ring
 -   Leather Boots
 -   Autumn Boots
--   Black Fur Boots
--   White Fur Boots
+-   Fur Boots (Series)
 
  | 
 

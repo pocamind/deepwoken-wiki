@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 69234
+revid: 69423
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -86,70 +86,47 @@ Below is a list of NPCs and their uses (that are known) that you can find thorou
 
 Below is a list of potential items that can spawn in chests in Fort Merit.
 
-**Outfits:**
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
+-   [Authority Commander Uniform](Authority_Captain_Uniform.md)
 
-  
+ | 
 
-| Name: |
-| --- |
-| [Authority Commander Uniform](Authority_Captain_Uniform.md) |
+-   [Deepwoken Hood](Deepwoken_Hood.md)
+-   White Gumshoe Hat
+-   [Gumshoe Hat](Gumshoe_Hat.md)
+-   [Master Thief's Earrings](Master_Thief_Earrings.md)
+-   [Authority Commander Coat](Authority_Commander_Coat.md)
+-   [Imperial Pauldrons](Imperial_Pauldrons.md)
+-   [Adjudicator's Coat](<Adjudicator's_Coat.md>)
+-   [Warden Pauldrons](Warden_Pauldrons.md)
+-   Akira's Ring
+-   Moon Ring
+-   Finisher's Ring
 
-**Head:**
+ | 
 
-| Name: |
-| --- |
-| [Deepwoken Hood](Deepwoken_Hood.md) |
-| White Gumshoe Hat |
-| [Gumshoe Hat](Gumshoe_Hat.md) |
+-   [Adretian Axe](Adretian_Axe.md)
+-   [Iron Cestus](Iron_Cestus.md)
+-   [Khan Shield](Legion_Shield.md)
+-   [Officer Saber](Officer_Saber.md)
+-   [Rifle Spear](Rifle_Spear.md)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
+-   [Apprentice Rapier](Apprentice_Rapier.md)
+-   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
+-   [Shattered Katana](Shattered_Katana.md)
 
-**Ears:**
+ | 
 
-| Name: |
-| --- |
-| Master Thief's Earrings |
+-   Amethyst
+-   Gold Bar
+-   Sapphire
+-   Ruby
+-   Emerald
 
-**Arms:**
-
-| Name: |
-| --- |
-| [Authority Commander Coat](Authority_Commander_Coat.md) |
-| [Imperial Pauldrons](Imperial_Pauldrons.md) |
-| [Adjudicator's Coat](<Adjudicator's_Coat.md>) |
-| [Warden Pauldrons](Warden_Pauldrons.md) |
-
-**Rings:**
-
-| Name: |
-| --- |
-| Akira's Ring |
-| Moon Ring |
-| Finisher's Ring |
-
-**Weapons:**
-
-| Name: |
-| --- |
-| [Adretian Axe](Adretian_Axe.md) |
-| [Iron Cestus](Iron_Cestus.md) |
-| [Khan Shield](Legion_Shield.md) |
-| [Officer Saber](Officer_Saber.md) |
-| [Rifle Spear](Rifle_Spear.md) |
-| [Flamekeeper Cestus](Flamekeeper_Cestus.md) |
-| [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) |
-| [Officer Saber](Officer_Saber.md) |
-| [Apprentice Rapier](Apprentice_Rapier.md) |
-| [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) |
-| [Shattered Katana](Shattered_Katana.md) |
-
-**Miscellaneous:**
-
-| Name: |
-| --- |
-| Amethyst |
-| Gold Bar |
-| Sapphire |
-| Ruby |
-| Emerald |
+ |
 
 ## Trivia
 

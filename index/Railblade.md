@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 68396
+revid: 69429
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -46,6 +46,5 @@ Airborne Critical
 -   This weapon was modeled by oNoodlez
 -   This weapon's running attack does not deal knockback **(GLITCH)**?
 -   This weapon can only be used one-handed.
--   The criticals are probably based on the forms of Flame Breathing from Demon Slayer
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
 -   Having "Azure Flames" talent with [Flamecharm](Flamecharm.md) makes both of your critical flame visual appear azure while also applying azure flames instead of normal ones

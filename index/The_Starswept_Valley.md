@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 69235
+revid: 69420
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -147,6 +147,6 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
 -   You can climb over the mountains to [The Lordsgrove](The_Lordsgrove.md), but you won't be able to use the teleporter if you haven't washed your face in the Lightkeeper Temple.
 -   It is recommended to be familiar with the game's fighting mechanics and have decent gear in order to travel here, as some NPCs and Monsters can easily take on an unexperienced player or even a group of such.
--   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision can you won't be able to tell when to dodge its 200 damage moves.
+-   Fighting the [Hive Constructs](Hive_Construct.md) is a bad idea. If you get close when they sprout trees, it can cover your vision, so you won't be able to tell when to dodge its 200 damage moves.
 -   Be wary of [Stone Knights](Stone_Knight.md) or [King Threshers](Thresher.md#king-thresher) as they can spawn randomly without warning.
 -   Occasionally, you may find a sack that looks similar to a player's [lootbag](Chests_&_Sacks.md). You can carry this sack to Mercille at the [Summer Company](The_Summer_Company.md) outpost in [Meteor Isle](Meteor_Isle.md) for loot.
