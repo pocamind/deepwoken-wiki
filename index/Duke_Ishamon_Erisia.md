@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 69388
+revid: 69466
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -243,6 +243,7 @@ Duke: You're right, there's no reasoning with a monster like you. For Lumen's sa
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
+-   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
 
 ## Bugs
 

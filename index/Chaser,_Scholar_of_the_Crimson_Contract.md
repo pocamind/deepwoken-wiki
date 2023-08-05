@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 69431
+revid: 69463
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -175,10 +175,10 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 -   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[2\]](#cite-note-2)
 -   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
 -   Chaser does not spawn if the bounders at the nest corridor do not spawn.
--   If you deal enough damage you can just grip him.
+-   If you burn chaser at 1 HP you can grip him.
 -   Used to have the title: Scholar of the Crimson Contract,
--   His hair ID is 77799954
-    -   The beard ID is 4995497755
+-   His hair ID is 77799954 & The beard ID is 4995497755
+-   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 
 ## Gallery
 
@@ -191,6 +191,8 @@ Chaser's Unused Eyes
 ## Bugs
 
 -   If you are experiencing ping issues, try your best to dodge '**Powerful Blood** **Appendage'** as there is a chance that it may simply fling you out of the cathedral mid-animation during Phase 2 and 3. Also, just try to dodge everything instead of blocking/parrying.
+-   Chaser's obby attack won't work if you broke 4 jars while he's up
+-   Chaser sometimes does nothing for a while during his broken ceiling phase, This is him trying to use his Spike Move
 
 ## References
 

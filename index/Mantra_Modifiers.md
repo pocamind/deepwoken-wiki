@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 69405
+revid: 69460
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Magic, Spells, Mantras]
@@ -630,6 +630,8 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 
   
+
+just a note can someone edit the tornado spark fire blade to making say that t makes fireblade swing faster bc im stupid and cant figure out how to edit it ty
 
 **Blast Spark:**
 

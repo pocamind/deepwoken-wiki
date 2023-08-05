@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 68209
+revid: 69468
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -139,3 +139,5 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
 -   Akira's bell is officially called "Top-pop."
 -   Akira's bell flashes purple when he kills the Ignition Union officers.
+-   Akira has an unobtainable necklace, it's hard to see with the current image of him
+-   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace

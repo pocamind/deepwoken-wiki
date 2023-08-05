@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 68809
+revid: 69458
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -172,6 +172,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
         -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
+-   Ferryman Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
 -   The Ferryman takes about 25 minutes to respawn.
     -   Sometimes, he won't spawn even if the timer is off, and all campfires have been lit. In this scenario, you need to destroy and replace all of the campfires, or log and join another server, to solve the issue.
     -   You can easily ignore this time by destroying all campfires, replacing them, and relighting them, but this can stop you from getting rewards if you killed him previously in the same server less than 25 minutes ago. (Bug)
@@ -192,13 +193,21 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
--   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
 -   The Ferryman's clones can drop luck particles which give you an investment point.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
+-   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
 
 File:Yamaketzalferryman.png
 
 Yamaketzal mentioning the Ferryman.
+
+  
+
+  
+
+  
+
+  
 
 ## Bugs
 

@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 68141
+revid: 69451
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -61,3 +61,4 @@ _"The state or situation of being alone."_
 -   The Voices may be referencing the "Shards" in Brandon Sanderson's novels, including _The Stormlight Archive_.
 -   Although not their actual names, these are the definitions and describe how they feel and how the feelings of their words convey.
 -   [The "Voices of the Depths" have sound now (10/25/2022)](https://www.youtube.com/watch?v=5oQ1i9VRVxM)
+-   "Mark of the Lone Warrior" (and subsequently Adept) was removed by the Verse 2 update due to the progression changes.

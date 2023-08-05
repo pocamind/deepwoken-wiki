@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 68792
+revid: 69464
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -56,3 +56,5 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
     -   "Take that stupid thing off."
         -   Note: You do have to go up to directly up to him if you want to get this dialogue, but Lord Regent will not kill you.
             -   Initially he would kill you for attempting it, but that feature was removed.
+            -   Zi'eer (Lord Regent) Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
+            -   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight

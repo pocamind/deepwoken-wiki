@@ -1,6 +1,6 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 61110
+revid: 69455
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -27,4 +27,6 @@ Eylis is the leader of the [Knives of Eylis](The_Knives_of_Eylis.md). Not much i
 
 ## Trivia:
 
--   Her model is near identical to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
+-   Her model is near identical to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md). Ragoozer stated the connections between Eylis & Klaris are like " 2 sides of a coin ".
+-   Like Klaris, Eylis is a Canor without eyeliner.
+-   Eylis Colors: #ffc592 Skin | #323232 Hair | #71dcdd Pupils | #7d5845 Scar Marking
