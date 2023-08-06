@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 68484
+revid: 69500
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -50,7 +50,7 @@ Check the rest out for yourself
  |
 | Imel | [The Ministry](The_Ministry.md) | [Etrean Sea](The_Etrean_Sea.md), Statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | Ishan | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. (Obviously.) |
-| Jeremiah | Unaligned | The Depths, Varicosa District | Trades Deep Gems for random loot | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
+| Jeremiah | Unaligned | The Depths, Varicosa District | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
 | Jim | Unaligned | [Etris](Etris.md) | Asks for [Dying Embers](Dying_Embers.md). |  |
 | Kana | [The Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | None |  |

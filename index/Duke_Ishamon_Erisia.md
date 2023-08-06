@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 69466
+revid: 69499
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -199,7 +199,7 @@ Duke: _\*The Duke eyes you up and down for a moment before bursting into a roari
 
 1: What?
 
-Duke: _\*The Duke smiles.\*_ Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...
+Duke: _\*The Duke smiles.\*_ Etrea has really stoped to hiring the blades of its enemies? That island's prospects are certainly grim...
 
 1: What are you talking about?
 
