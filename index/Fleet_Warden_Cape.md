@@ -1,6 +1,6 @@
 ---
 title: Fleet Warden Cape
-revid: 69498
+revid: 69504
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]

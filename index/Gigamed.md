@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 69115
+revid: 69501
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -33,7 +33,8 @@ Electric Stun Pulse
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
 -   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can still be dazed by knocking them into a wall though.
-    
+
+## Gallery
 
 **King Gigamed:**
 
