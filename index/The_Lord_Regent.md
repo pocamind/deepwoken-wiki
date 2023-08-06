@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 69471
+revid: 69482
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -36,6 +36,7 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
 ## Trivia
 
 -   His throne produces steam.
+-   He canonically has a six-pack, stated by a dev during a podcast with Agamatsu.
 -   He appears to be based on [Zato One](https://guiltygear.fandom.com/wiki/Zato-ONE) from Guilty Gear, as both are blindfolded with long blonde hair and use shadow powers.
 -   If you finish his quest and you defeat The Duke **DO NOT** **GO BACK TO HIM UNLESS GOING FOR [CONTRACTOR](Oath%253A_Contractor.md) AND HAVE THE FIRST STEP COMPLETE.** He will end up killing you after confirming dialogue with him.
     -   Attunement uncaps will however be given immediately after killing [The Duke](Duke_Ishamon_Erisia.md).
@@ -58,4 +59,3 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
             -   Initially he would kill you for attempting it, but that feature was removed.
             -   Zi'eer (Lord Regent) Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
             -   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight.
-                -   The closest we can get to Zi'eer's blindfold is a regular blindfold (Grey) dyed black by dye packets.

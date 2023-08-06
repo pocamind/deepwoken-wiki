@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 69294
+revid: 69486
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1260,7 +1260,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>N/A</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Zweihänder#Alloyed"><font>Alloyed Zweihander</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Zweihander#Alloyed"><font>Alloyed Zweihander</font></a></td>
   <td><font>75 HVY</font>, 10 STR</td>
   <td><font>23</font></td>
   <td><font>10%</font></td>
@@ -1705,8 +1705,6 @@ Offhand weapons are weapons that can be wielded at the same time along with your
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Calculating Damage and Attack Speed
 

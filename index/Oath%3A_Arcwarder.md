@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 69449
+revid: 69493
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
