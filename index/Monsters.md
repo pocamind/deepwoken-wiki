@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69567
+revid: 69587
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -30,7 +30,7 @@ The majority of non-humanoid monsters you encounter in-game will have hyper armo
 -   Gaining new behaviors/abilities, such as Lionfish Beam.
 -   Becoming much more persistent in chasing, rarely stopping until the death of them or the player.
 
-Being able to spawn as an Enhanced (commonly known as Corrupted) version, signified by a purple aura, dealing roughly 50% more damage and having triple the health of their normal versions.
+Being able to spawn as an Enhanced (commonly known as their Corrupted) version, signified by a purple aura, dealing roughly 50% more damage and having triple the health of their normal versions.
 
 ### Attuned Monsters
 
@@ -53,13 +53,13 @@ Certain mobs have their visual effect changed,
 
 #### Attunement Weaknesses & Strengths
 
--   Flamecharm, (Weakness, Galebreathe) (Resist, Flamecharm)
--   Frostdraw (Weakness, Flamecharm) (Resist, Frostdraw)
--   Galebreathe (Weakness, Frostdraw) (Resist, Galebreathe)
--   Thundercall (Weakness, Ironsing?) (Resist, Thundercall)
--   Shadowcast (Weakness, All Attunements) (Resist, Basic Attacks)
+-   Flamewreathed, (Weakness, Galebreathe) (Resist, Flamecharm)
+-   Frostmantle (Weakness, Flamecharm) (Resist, Frostdraw)
+-   Galeforce (Weakness, Frostdraw) (Resist, Galebreathe)
+-   Thunderstruck (Weakness, Ironsing?) (Resist, Thundercall)
+-   Shadowmeld (Weakness, All Attunements) (Resist, Basic Attacks)
 
-Shadowcast mobs take less damage from Basic Attacks, M1, Crits
+Shadowmeld mobs take less damage from Basic Attacks, M1, Crits
 
 ## Humanoid Monsters
 
