@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 69463
+revid: 69543
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -179,10 +179,6 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 -   Used to have the title: Scholar of the Crimson Contract,
 -   His hair ID is 77799954 & The beard ID is 4995497755
 -   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
-
-## Gallery
-
-Chaser's Unused Eyes
 
   
 

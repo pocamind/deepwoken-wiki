@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 67233
+revid: 69562
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -171,9 +171,9 @@ If you open one of their chests don't have to take the loot, they will yell at y
 
 #### **Erisia Merchant**
 
-A bound Etrean with a [Pathfinder Cloak](Pathfinder_Cloak.md) surrounded by a bandit camp can be found in [Lower Erisia](Lower_Erisia.md). Killing the bandits without killing the merchant grants a chest.
+A bound Etrean with a [Pathfinder Cloak](Pathfinder_Cloak.md) surrounded by a bandit camp can be found in [Lower Erisia](Lower_Erisia.md). Killing the bandits without killing the merchant grants a chest
 
-#### **Megalodaunt vs Golem**
+Ape Vs Ape
 
 A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) or two in [Upper Erisia](Upper_Erisia.md). The Golem will usually be victorious.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69520
+revid: 69540
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1600,6 +1600,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
   
 
 ### Rampaging Brute
+
+> _**"I seek the qualities of a Rampaging Brute"**_
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 90 Strength, Unwavering Resolve, Shield Breaker

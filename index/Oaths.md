@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 69342
+revid: 69538
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -34,8 +34,8 @@ Every character begins as a Pathfinder, otherwise known as one who has yet to sw
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra \[50 Agility\]
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
 -   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +15% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
--   [Silentheart](Oath%253A_Silentheart.md): Disables the use of mantras (still tradeable for talents with [Deep Shrines](Deep_Shrines.md)), +10% M1/CRIT DMG, +15% Mantra Resistance, +10 HP, +5 Posture \[75 Weapon, 40 Strength, 40 Agility/Charisma\]
--   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP, Modified Fire Blade \[40 Strength\]
+-   [Silentheart](Oath%253A_Silentheart.md): +10% M1/CRIT DMG, +15% Mantra Resistance, +10 HP, +5 Posture \[75 Weapon, 40 Strength, 40 Agility/Charisma\]
+-   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
 ## Lore Oaths
@@ -99,13 +99,13 @@ Proof of Time Magic's existance and it being an "Oath"
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Trying to speak to an attunement trainer as a silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
 -   Most Oaths change your character's eye color.
-    -   Blindseer changes your eye color to a dull white, being the same as having the blind flaw.
-    -   Visionshaper gives the user magenta eyes.
-    -   Jetstriker gives the user light blue eyes.
-    -   Arcwarder gives the user orange eyes.
-    -   Dawnwalker gives the user white eyes.
-    -   Contractor gives the user dark maroon eyes.
-    -   Silentheart gives a darker and duller shade of the user's current eye color.
+    -   Blindseer changes your eye color to a \[dull white\], being the same as having the blind flaw.
+    -   Visionshaper gives the user \[magenta\] eyes.
+    -   Jetstriker gives the user \[silver\] eyes.
+    -   Arcwarder gives the user \[orange\] eyes.
+    -   Dawnwalker gives the user \[white\] eyes.
+    -   Contractor gives the user \[dark maroon\] eyes.
+    -   Silentheart gives a \[darker\] and \[duller\] shade of the user's current eye color.
 -   The developers have confirmed that Oathless is a "seatwarmer" since their objective is to make many Oaths so Oathless will be basically useless, causing community backlash due to the Oath's obtainment method being more tedious than some Oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
     -   It's also said that they had commented that it was canonically the strongest Oath, though the veracity of this statement and it's meaning are unclear, especially since this was prior to Verse 2.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.

@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 69424
+revid: 69559
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -151,4 +151,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia/Notes
 
 -   Although the island is considered a starter island, high level players still usually come to this island, either just passing by to the higher places (Duke, Upper Erisia/Burning Stone Gardens) or they are here to boost their friend, so be careful.
--   The helpers at Isle and Etris say that Erisia is "crawling with opportunists," which is suggesting that the "opportunists" are players.
+-   The helpers at Isle and Etris say that Erisia is "crawling with opportunists," which refers to how many players (and enemies) roam Erisia looking for loot or opportunities.

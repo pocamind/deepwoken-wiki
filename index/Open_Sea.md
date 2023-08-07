@@ -1,6 +1,6 @@
 ---
 title: Open Sea
-revid: 66750
+revid: 69557
 source: https://deepwoken.fandom.com/wiki/Open_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -10,7 +10,7 @@ categories: [Locations, World]
 
 LocationL Open Sea LocationR
 
-A dread washes over you - what if you were to lose sight of this land forever?
+A dread washes over you - what if you were to lose sight of the land forever?
 
   
 
