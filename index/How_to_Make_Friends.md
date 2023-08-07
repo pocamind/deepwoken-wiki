@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 69523
+revid: 69592
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -28,7 +28,6 @@ In order to successfully use How to Make Friends and level up your Charisma, sel
 -   Sometimes I have really deep thoughts about life and stuff.
 -   Some weather we're having, huh?
 -   You ever been to a Canor restaurant? The food's pretty howlright.
--   Show me magic and i give you sand dorra (jk lmao)
 
 When the lines are said close to an NPC or a player, the receiving player / NPC will say one of these lines depending on the charisma of the player who spoke the line.
 
@@ -78,7 +77,3 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 -   You doing anything next week? Because I'd like to see you Gremor. (Roblox did not approve.)
 
 -   So, you doing anything on the weekend?
-
-trivia
-
-In the early stages of the game the \*Taunt\* mantra made you say "F%#£ YOU!" (jk lmao)

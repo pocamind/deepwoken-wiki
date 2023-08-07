@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 69087
+revid: 69604
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -64,10 +64,11 @@ The player can lose reputation with a faction by:
 
 -   Committing crimes within a faction controlled area, such as towns
     -   Crimes include Assault, Assassinations and killing Town Guards or Players
+-   Killing NPCs from random events that spawn by themselves, without an enemy or opposing faction
 
 ## Bribe
 
-Players can pay specific NPCs up to 300 notes (depending on how much reputation below 0 they have) to set their reputations back at their starting amounts, usually Neutral, at 0.
+Players can pay specific NPCs up to 299 notes (depending on how much reputation below 0 they have) to set their reputations back at their starting amounts, usually Neutral, at 0.
 
 This starting amount can varies with [origins](Origins.md), so bribing will not always grant you protection from a specific faction.
 
