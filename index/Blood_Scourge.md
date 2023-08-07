@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 68114
+revid: 69516
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -37,7 +37,7 @@ If Blood Scourge is corrupted, it can be charged by holding C, which prevent the
 
 When obtained, Blood Scourge will spend its points on the following stats:
 
--   **Thrown:** If this stat is used, the player will launch a projectile ahead that then summon the AOE to grip entities.
+-   **Thrown:** If this stat is used, the player will launch a projectile ahead that then summon the AOE to grip entities. (The thrown version cannot be canceled)
 -   **Range:** The more points are spent on this stat, the further the range of the AOE becomes.
 -   **Healing:** The more points are spent on this stat, the more health is given per grips.
 

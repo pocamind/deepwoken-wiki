@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 69321
+revid: 69531
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -45,8 +45,7 @@ Known side-effects include:
 
 -   **SHORT-CIRCUIT:** On use, player will be set ablaze.
 -   **MEGALOMANIA:** On use, player will fall deeper into insanity.
--   **HEMORRHAGE:** On use, player will have exactly 10% taken from their health.
--   **CHIPPED:** On use, the player loses 10% of their armor's durability
+-   **HEMORRHAGE:** On use, player will have exactly 10% drained from their health.
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 
@@ -75,9 +74,9 @@ _(From data of 100 rerolls, the calculated chance of getting a corrupted Legenda
 
 **Tarnished Resonances** are yet another sub/category of **Resonances**. Unlike the other variants, obtaining, and getting rid of a **Tarnished Resonance** is totally in the player's hands. Upon rerolling a **Resonance** (see the 'Rerolling a **Resonance**' heading for specifics), the player's new Resonance will be inflicted with a new flaw called Tarnished. Upon receival of this flaw, **you will not be able to reroll your bell or make any more wishes...** but don't be scared, you can fix this!
 
-**Tarnished Resonances** act like a sort of reverse **Corrupted Resonance**, having a general debuff, but also a specific debuff depending on what **Resonance** got tarnished. In general, **Tarnished Resonances** have _longer cooldowns, longer windup, and just weaker effects._It's highly recommended to remove Tarnished on a **Tarnished Resonance** as soon as possible. Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, or [Misérables](Misérables.md) and choose Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, whereas going to [Misérables](Misérables.md) will remove your Tarnished status as well as reset your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md).
+Tarnished bells have a 1 second wind-up to being casted after activation.
 
-All **Tarnished Resonance effects** are listed in their corresponding **Resonance** page.
+Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, or [Misérables](Misérables.md) and choose Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, whereas going to [Misérables](Misérables.md) will remove your Tarnished status as well as reset your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md).
 
 ## Obtaining
 
@@ -185,9 +184,7 @@ Once you select your card, using C will activate your **Resonance**.
 
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
--   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other (arguably smarter) players would instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md), and is recommended if you wish to preserve the life of your character.** By participating in "bell checking", you effectively tear up and trash this sacred gift for the tradeoff of having your bell earlier. _Will it be worth it?_
-
--   The only time you should logically do bell checking is if your build absolutely requires it, such as striving for [Oath: Contractor](Oath%253A_Contractor.md) - given that you cannot obtain the [Oath](Oaths.md) without having a Resonance.
+-   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md).**
 
 File:Image of Card Selection.png
 
@@ -195,12 +192,12 @@ File:Image of Card Selection.png
 
 Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example in the picture below) can be found. **Resonance Doors** are greyish doors with a white sphere in their center that require a **Resonance** to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-This very specific and unique **Resonance Door** is within a cave in The Depths, and within it's room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). **_Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL WIPE YOU (Unless you're a Deepbound)_ (not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ Yun'Shul provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and makes it so you cannot make a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove Tarnished from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will cure Tarnished and furthermore allow you to reroll again.
+This very specific and unique **Resonance Door** is within a cave in The Depths, and within its room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). **_Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL WIPE YOU (Unless you're a Deepbound)_ (not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ Yun'Shul provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and makes it so you cannot make a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove Tarnished from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will cure Tarnished and furthermore allow you to reroll again.
 
 -   One can visit [Yamaketzal](Yamaketzal.md) simply so that they can gain functionality of their bell.
 -   Otherwise, [Misérables](Misérables.md) can help you "truly" remove the _Tarnished_ state so that you can reroll again.
 
-In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, it is _currently unknown_ how many times a player needs to level up before being granted a "free" wish (most likely 3 or 4 times (3 times, tested. Got bell on power 16, talked with Yun'shul and on power 19 I got another wish)). However, this is of little matter, since the Layer 2 NPC's [Misérables](Misérables.md) "I seek clarity" option lets the player purchase wishes.
+In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from Yun'Shul every 3 levels.
 
 ## List of Unobtainable Resonances
 

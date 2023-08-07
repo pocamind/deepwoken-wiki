@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 69325
+revid: 69524
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -96,7 +96,6 @@ When using this shrine, please make sure to **check if you burned the card you'r
 
 -   **(BENEFIT)** Receive a hand of 3 talents that you do not already have, talents not rollable from roll 2 will appear here
 -   **(PENALTY)** Lose 5 Knowledge & swap 1 Talent (of your choice)
-    -   Eventually, after some amount of transactions, the shrine will begin to charge you 10 Knowledge regardless if it's a rare, common, or advanced.
 
 ## Pros/Cons
 

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 66420
+revid: 69532
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -250,7 +250,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 <tr>
   <td><b>Mindbreaker</b></td>
   <td>Bane<br>
-  Blight</td>
+  Blight<p>Potion</p></td>
   <td>Urchin</td>
   <td>Gives Insanity,</td>
   <td>Opposite effect to <b>Heartening</b>.<br>

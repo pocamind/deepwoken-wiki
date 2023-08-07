@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69478
+revid: 69520
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1628,7 +1628,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return. (+1 Posture)
-    -   Prerequisites: Master Ironsinger, 60 Ironsing
+    -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. (+1 Posture)
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)

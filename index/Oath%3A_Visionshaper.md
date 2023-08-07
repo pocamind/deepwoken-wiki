@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 69219
+revid: 69528
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -50,7 +50,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   **Illusionary Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones)
         -   Cooldown is 2 minutes and 40 seconds.
-    -   Monsters such as crabs, and carbuncles can be stored in the realm.
+    -   Cannot be used in water or Guildbases.
     -   The realm can be used as a healing space, where you can place campfire, graceful flame or warriors respite.
     -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
         -   **Important Note:** Players cannot be knocked in the realm

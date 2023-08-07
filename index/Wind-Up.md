@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 68016
+revid: 69517
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -46,6 +46,7 @@ When obtained, Wind-Up will spend its points on the following stats:
 -   Possibly a reference to the "Impact" fighting style from the Roblox game "Arcane Adventures", which involved charging up and releasing an extremely powerful blow. ("Impact" is a reference to Elizabello II's "King Punch" from One Piece.)
 -   Corrupted Wind-Up can have a one-charge shot, though it is still questionable as the damage is still quite bad.
 -   You cannot charge while you are in Tacet.
+-   Wind-Up can still proc on crit including on [Flareblood kamas](Flareblood_Kamas.md).
 -   Be very careful when near a cliff, as this has massive knockback, surpassing even Strong Left
 -   Especially devastating on heavy.
 -   ATTENTION! Does not proc on mantras.

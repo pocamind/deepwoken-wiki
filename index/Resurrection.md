@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 69347
+revid: 69526
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -29,11 +29,13 @@ A spinning white circle appears on the back of the player who used resonance. A 
 
 ## Usage
 
-Pressing C will cast the **Resurrection** Resonance on a target. Will be activated for 5-8 seconds(depending on points). Has a 70 second cooldown.
+**Passive:** If a guild-mate's health drops below half, the Resurrection user can see the guild-mates health for the next few minutes.
 
-Activating resonance marks a living being, giving it a minor speed buff. Can tag NPCs, allies, non-allies and self (hold the C button to forcefully cast on self, must already be activated.)
+Pressing C will cast the **Resurrection** Resonance on the player you have your cursor over.
 
-During active resonance, if the target is knocked by damage, they will be lifted into the air and restored to 40% of their health and the resonance will go on cooldown.
+Activating resonance marks a living being, giving it a minor speed buff for the duration of the marker (5-8 seconds, depending on points). Can tag any player. (hold the C button to forcefully cast on self, must already be activated.)
+
+While the marker is on a player, if they are knocked by damage, they will be lifted into the air and restored to 40% of their health and the resonance will go on cooldown.
 
 If not, then the star on the target will fade away and the Resonance has a chance to go on cooldown.
 
@@ -59,5 +61,7 @@ When obtained, Resurrection will spend its points on the following stats:
 -   When someone or something is getting resurrected, they cannot be damaged.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.
 -   A very powerful corrupted resonance, as the fire and damage downsides of resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
--   If an ally's health drops below half, players with Resurrection will be able to see their health.
+
 -   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally.
+
+-   The second bell with a passive ability, the other being [Jar of Souls](Jar_of_Souls.md).
