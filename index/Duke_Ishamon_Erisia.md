@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 69602
+revid: 69637
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -216,6 +216,26 @@ Duke: So you're the one running about tripping my alarms. Care to explain yourse
 1: Let's skip the pleasantries, you know why I'm here.
 
 Duke: You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
+
+1: \[End Dialogue\]
+
+Rematch
+
+Duke: The ruins of that city will **never** cage me. And with what's at stake... I can't stop now.
+
+1: Let's get on with it.
+
+Duke: You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for fools who would deny it.
+
+1: \[End Dialogue\]
+
+Rematch while being a Contractor
+
+Duke: The ruins of that city will **never** cage me. And with what's at stake... I can't stop now.
+
+1: Let's get on with it.
+
+Duke: You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
 
 1: \[End Dialogue\]
 

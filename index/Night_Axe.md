@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 67021
+revid: 69626
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -15,7 +15,7 @@ categories: [Weapons, Greataxes]
 | damage | 22 |
 | scaling | 8 HVY |
 | range | 8.5 |
-| swing speed | 0.54x |
+| swing speed | 0.59x |
 | chip damage | 60% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 50-100 Notes |
@@ -36,3 +36,4 @@ The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can b
 -   Deals 32.9 damage with 100 HVY and 6 proficiency.
 -   Has the highest amount of chip damage of any weapon in the entire game.
     -   Since chip damage is capped at 50%, this weapon is generally useless and remains untouched by the developers.
+        -   It was buffed during the 7/8/23 update. Despite this, the chip damage remains above the cap.

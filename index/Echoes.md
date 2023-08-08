@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 69403
+revid: 69628
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -289,6 +289,10 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 **(Power 2)** Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
 -   Allows you to move quickly when you dodge mid-air. It's just an air dash.
+
+**(Power 2)** Chain of Perfection - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) solo without taking any damage.**_
+
+-   Increases PvE damage the more melee hits you deal without taking hits in return.
 
 **(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
 

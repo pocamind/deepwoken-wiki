@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69540
+revid: 69636
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1422,6 +1422,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I want to WIN."**_
 
+-   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage. (+1 Elemental Intensity)
+    -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
+    -   Requirement: Power 2
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
 -   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
 -   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
@@ -2375,6 +2378,11 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 -   The quest giver is located in Lower Erisia near the glider blueprints giver or at the top of the vipers jaw near mudskipper cave. Formally known as the Pathfinders Respite.
 -   Make your way to the Blindseer oath temple and interact with the middle purple flame in front of Neero.
+-   You will automatically gain this at Power 2 on all new slots.
+
+### Chain of Perfection
+
+-   To obtain, you must defeat any [Bosses](Bosses.md) solo without taking any damage.
 -   You will automatically gain this at Power 2 on all new slots.
 
 ### Thresher Scales
