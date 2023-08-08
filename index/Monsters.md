@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69587
+revid: 69638
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -40,11 +40,11 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 Humanoid NPCs cannot be Attuned, although many Mini-Boss and Boss class enemies like [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
 
--   Flamewreathed - Applies Burn on hit, Has an AoE fire effect around the Monster. _(Visual: Large Flames)_ **(CAN PROC LAVA SERPENT)**
--   Frostmantle - Applies Chilled on hit, Places Ice beneath hit players, _(Visual, Frost beneath Monster)_
--   Galeforce - Applies Winded on hit, Deals Extra Knockback, _(Visual, Wind rushing around Monster)_
--   Thunderstruck - Applies Electrified on hit, _(Visual: Yellow Pulse on center of monster)_
--   Shadowmeld - Steals Ether on hit, _(Visual: Black Hole beneath Monster)_
+-   Flamewreathed - Applies Burn on hit, Has an AoE fire effect around the Monster. **(CAN PROC LAVA SERPENT)**
+-   Frostmantle - Applies Chilled on hit, Places Ice beneath hit players.
+-   Galeforce - Applies Winded on hit, Deals Extra Knockback.
+-   Thunderstruck - Applies Electrified on hit.
+-   Shadowmeld - Steals Ether on hit.
 
 Certain mobs have their visual effect changed,
 
