@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 69618
+revid: 69647
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -33,6 +33,8 @@ Upon defeat, five chests containing **[Kyrsan Medallions](https://deepwoken.fand
 **ACTIVATING THE BOSS FIGHT WILL REMOVE ANY REMAINING LIGHT HOOK IMMEDIATELY.**
 
 ## Attacks
+
+_For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)._
 
 | Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |

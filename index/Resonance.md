@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 69531
+revid: 69659
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -12,12 +12,17 @@ categories: [Pages with broken file links, Resonances, Mechanics]
 
 ― Card selection sample text
 
-  
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
 
 Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) in the Depths, a very helpful NPC that many would deem important in most progressions.
 
 _**NOTE: Resonances cannot be used when doing 1v1s in the [Chime of Conflict.](Chime_of_Conflict.md)**_
+
+## List of Unobtainable Resonances
+
+-   **Corrupted** Top-Pop - [Akira](Akira.md)
+-   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
+-   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
 
 ## Overview
 
@@ -198,12 +203,6 @@ This very specific and unique **Resonance Door** is within a cave in The Depths,
 -   Otherwise, [Misérables](Misérables.md) can help you "truly" remove the _Tarnished_ state so that you can reroll again.
 
 In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from Yun'Shul every 3 levels.
-
-## List of Unobtainable Resonances
-
--   **Corrupted** Top-Pop - [Akira](Akira.md)
--   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
--   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
 
 ## Trivia
 

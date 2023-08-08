@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 69637
+revid: 69642
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -23,6 +23,8 @@ In appearance, the Duke is a Masculine [Celtor](Celtor.md). He wears a [Slate Ar
 ## Moveset
 
 Duke Erisia's arsenal consists of his [Fists](Fists.md) with the **Legion Kata** fighting style along with the [Galebreathe](Galebreathe.md) attunement:
+
+_For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)._
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |

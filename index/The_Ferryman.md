@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 69458
+revid: 69643
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -33,6 +33,8 @@ Template:Creature Infobox V3
 4.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle. Summoning the Ferryman will sometimes bug, and either not spawn him when all 4 campfires are placed, or spawn him upon 2 or 3 campfires being placed.
 
 A decently easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 10-15+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
+
+_For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._
 
 **Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry. The only way to escape is to either die, or defeat The Ferryman.**
 

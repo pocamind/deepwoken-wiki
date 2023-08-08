@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 69616
+revid: 69644
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -43,6 +43,8 @@ It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md), fiv
 </table>
 
 ## Attacks
+
+_For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)._
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |

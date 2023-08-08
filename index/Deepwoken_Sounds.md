@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 68907
+revid: 69657
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -160,6 +160,7 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 1.7s | [Lionfish](Lionfish.md) growl 4 |
 | File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) scream |
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) scream 2 |
+|  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
 
 ### **[Echoes](Echoes.md)**
 

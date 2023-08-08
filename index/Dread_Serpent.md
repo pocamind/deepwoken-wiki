@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 69268
+revid: 69645
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -24,6 +24,8 @@ A once normal steward seeking knowledge but now twisted into a mind of corruptio
 Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's gift.
 
 ## Attacks
+
+_For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)._
 
 | Name | Description | Parry-
 able?
