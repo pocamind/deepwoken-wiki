@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 69338
+revid: 69712
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1006,7 +1006,7 @@ Posture breaking an opponent causes your Eruptions to be Empowered for the next 
 
  | 
 
-The Floor Is LAva  
+The Floor Is Lava  
 (FLAME 100, Eruption Path: Lava Serpent)
 
  | 

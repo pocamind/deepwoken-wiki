@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 69413
+revid: 69714
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -85,3 +85,4 @@ Up close Contractor strings
 -   Contractor strings are not actually solid dark red, the string's outside is red, and the interior is black.
 -   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. However, the damage of the mantras was increased in return.
+-   Whenever you fight duke the dialogue changes.
