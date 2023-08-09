@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 67778
+revid: 69669
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -22,7 +22,7 @@ categories: [World, Items]
 
 ## Description
 
-Spark Glands are used to get [Thundercall](Thundercall.md), one of the five Attunements by giving them to the Thundercall [Trainer](Attunement_Trainers.md). They can also be consumed, though they will barely give any hunger or thirst.
+Spark Glands are used to get [Thundercall](Thundercall.md), one of the six Attunements by giving them to the Thundercall [Trainer](Attunement_Trainers.md). They can also be consumed, though they will barely give any hunger or thirst.
 
 ## Obtainment
 

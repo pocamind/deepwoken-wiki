@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 69657
+revid: 69668
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -196,6 +196,7 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 3.0s | [Duke Erisia](Duke_Ishamon_Erisia.md)'s Laugh |
 |  | 6.0s | Dying in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
+|  | 1.3s | Pressing any button on the Deepwoken start up screen |
 
 ## Trivia
 
