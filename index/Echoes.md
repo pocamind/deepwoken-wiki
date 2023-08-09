@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 69628
+revid: 69719
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -286,11 +286,11 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Power 1)** Glider - _Gain the Glider Recipe at Power 1. **Obtained by asking Elite Pathfinder Alastir at [Pathfinder's Respite](<Pathfinder's_Respite.md>) for the Glider.**_
 
-**(Power 2)** Aerial Asssault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
+**(Power 2)** Aerial Assault - _Gain Aerial Assault at Power 2. **Obtained by completing the quest given by Pathfinder Ivory at [Pathfinder's Respite](<Pathfinder's_Respite.md>).**_
 
 -   Allows you to move quickly when you dodge mid-air. It's just an air dash.
 
-**(Power 2)** Chain of Perfection - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) solo without taking any damage.**_
+**(Power 2)** Chain of Perfection - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) solo without getting hit by one of the boss' attacks.**_
 
 -   Increases PvE damage the more melee hits you deal without taking hits in return.
 

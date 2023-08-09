@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69703
+revid: 69727
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -455,8 +455,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you.
     -   Prerequisite: 25 Charisma, Charismatic Cast
--   _Rizz_ \[Rare Talent, Charisma\] - Charm players with your immaculate looks.
-    -   Prerequisite: 102 Charisma, Tough Love
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prerequisites: All Charm Caster talents
@@ -2245,7 +2243,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
     -   Prerequisite: 20 Strength, 5 Agility
 
--   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
+-   One Handed Training ( ͡° ͜ʖ ͡°) \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   Grants you the ability to equip an offhand while one-handing
     -   Prerequisite: 40 Heavy Weapons Mastery
 

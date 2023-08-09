@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 69690
+revid: 69726
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -301,7 +301,7 @@ Jump
 
 Thousand Needles
 
- | The Megalodaunt bends over and points its tubes towards an opponent, spewing a large and constant bullets at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
+ | The Mechalodaunt bends over and points its tubes towards an opponent, spewing a large and constant bullets at anyone in front of/around it for a second. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Bullet Fury
@@ -315,9 +315,9 @@ Bullet Fury
  | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
-Laser Explosion
+Furnace Explosion
 
- | The Mechalodaunt will form a triangle with its claws, firing a laser in a circle around it, causing a fiery explosion. | ◯ | ✗ | ◯ | (★★★) |
+ | The Mechalodaunt will create a laser from its furnace in a circle, which later creates a fiery explosion. | ◯ | ✗ | ◯ | (★★★) |
 | 
 
 Roar

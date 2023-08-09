@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 69709
+revid: 69716
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -53,7 +53,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Cannot be used in water or Guildbases.
     -   The realm can be used as a healing space, where you can place campfire, graceful flame or warriors respite.
     -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
-        -   **Important Note:** Players cannot be knocked in the realm
+        -   **Important Note:** Players cannot be knocked in the realm, instead, if knocked, they immediately die.
     -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordingly when the realm end).
 -   **Illusionary Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of your previous location. Counter time can be extended with Mantra modifications.
