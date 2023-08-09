@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 69469
+revid: 69687
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -202,7 +202,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Quest Location**: Isle of Vigils
 
-**Guide**: Give an NPC in the Isle of Vigils dojo a weapon manual. (It won't take it away)
+**Guide**: Give an NPC in the Isle of Vigils dojo a weapon manual. (It removes one use but won't take it away)
 
 **Reward/s**: EXP
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 69107
+revid: 69698
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -32,7 +32,7 @@ The Depths is a highly challenging location that should be avoided if possible. 
 
 ## Whirlpools
 
-Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md), and [The Chariot's Spire](<The_Chariot's_Spire.md>). Finding Whirlpools can be found across the world of Lumen; either it be next to a common location such as [Etris](Etris.md) or in the Voidsea.
+Whirlpools are alternative ways to enter The Depths without having to die; going to The Depths this way allows you to enter [Castle Light](Castle_Light.md), and [The Chariot's Spire](<The_Chariot's_Spire.md>). Whirlpools can be found across the world of Lumen, scattered across the sea.
 
 ### Whirlpool Locations
 

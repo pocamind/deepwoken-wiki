@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 69528
+revid: 69709
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -41,12 +41,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 -   **Illusory Servants - Combat Mantra**
     -   Turn invisible with I-frames then spawn an illusion of yourself that targets the closest enemy.
     -   Only they and yourself can see it.
-    -   Clones disappear if caster is takes damage.
+    -   Clones disappear if caster takes any kind of damage.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
     -   The clone deals fake damage, 3/4 of which is recovered when the duration expires (think of it doing 25% real damage), unless in the **Illusionary Realm**, in which case it will deal real damage.
     -   Clones do apply hitstun, allowing one to trip up enemies and possibly fail parries.
-    -   This mantra is similar to lightning clones, although it works slightly different in execution.
+    -   This mantra is similar to lightning clones, although it works slightly different in execution (Lightning clones dissapear after being hit or hitting once) also Lightning clones and Illusory Servants can be used together.
 -   **Illusionary Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones)
         -   Cooldown is 2 minutes and 40 seconds.

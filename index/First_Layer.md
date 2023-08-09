@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 68983
+revid: 69707
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-The **First Layer**, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) modifier, dying with the [Vow of Thorns](Echoes.md) modifier, dying in a [Voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md).
+The **First Layer**, also known as **Schizophrenia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) modifier, dying with the [Vow of Thorns](Echoes.md) modifier, dying in a [Voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md).
 
 ## **Points of Interest**
 
@@ -31,7 +31,7 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 
 Detailed map of the entire Depths First Layer
 
-There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
+There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Schizophrenia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
 
 Note: The Map shows the diver camp being in the South, however, it was recently moved to the North.
 
@@ -45,7 +45,7 @@ _Not to be confused with [Resonances](Resonance.md)._
 
 [The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of Watchers who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
-Once all bells have been rung, a large bell choir will be heard across Scyphozia, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
+Once all bells have been rung, a large bell choir will be heard across Schizophrenia, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
 ### **Climbing the Walls**
 
@@ -90,7 +90,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
 | 16.66+ | [Enforcer](Enforcer.md) |
-| 20 | If you have over 10 drowns, or have the Vow of Thorns echo modifier, then waves of enemies will spawn, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
+| 20 | If you have over 10 drowns, have the Vow of Thorns echo modifier, or have activated the [Shrine of Courage](Shrine_of_Courage.md), then waves of enemies will spawn, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   **NOTE: There is a random chance that the Enforcer in your trial will be replaced with a [Nautilodaunt](Nautilodaunt.md).**
@@ -109,7 +109,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 ## **Farming in First Layer of The Depths**
 
-Scyphozia, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within First Layer for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
+Schizophrenia, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within First Layer for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 
 ### **Talents & Equipment**
 
@@ -279,5 +279,5 @@ Legendary = Gold
 -   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
--   Scyphozia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile Scyphozia's main enemies are [Gigameds](Gigamed.md).
+-   Schizophrenia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile Schizophrenia's main enemies are [Gigameds](Gigamed.md).
 -   The Meteor Event in the Depths can create any of the Depths monsters, and killing all of the Depths monsters it has spawned will reward you with four chests filled with highly valuable loot.

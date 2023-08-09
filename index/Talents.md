@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69636
+revid: 69703
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -455,6 +455,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you.
     -   Prerequisite: 25 Charisma, Charismatic Cast
+-   _Rizz_ \[Rare Talent, Charisma\] - Charm players with your immaculate looks.
+    -   Prerequisite: 102 Charisma, Tough Love
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prerequisites: All Charm Caster talents
@@ -1079,8 +1081,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Frozone_ \[Rare Talent, Frostdraw Exclusive\] - You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   Prerequisite: Ice Skate, 70 Frostdraw.
 
--   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is doubled. (+5 Elemental Intensity)
-    -   Saint Jay last for double the duration of Chill
+-   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
+    -   ~Saint Jay last for double the duration of Chill~ Does not anymore.
     -   Does not work with Glass Path: Crystallization
     -   Prerequisite: Frostbite
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)

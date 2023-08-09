@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 69137
+revid: 69692
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -42,7 +42,9 @@ This weapon has 2 (or 3 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
 -   When killing a player with Oath: Contractor or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
--   If the user have the talent Glass Path: Crystallization, landing a hit will apply a singular crystal. If there's already a crystal present from this ability, then no further crystal will be applied.
+-   Gran Sudaruska m1s do not apply crystal, nor does it apply chill. This is intended.
+-   Gran Sudaruska Critical with crystal will apply crystals.
+-   Gran Sudaruska Critical without crystal will freeze the victim.
 
 ## Trivia
 
