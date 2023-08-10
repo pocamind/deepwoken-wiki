@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 69730
+revid: 69746
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -58,6 +58,7 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 ## Trivia
 
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
+-   The ability Absolute Radiance may be a reference to one of the final bosses of the game [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight), that goes by the same name.
 -   Radiant Kick may be inspired by the boss Minos Prime from _ULTRAKILL_, as it highly resembles his "Judgement!" attack where he _ULTRAKILLS all over the place._.
     -   Similarly, Radiant Dawn may be inspired by Minos Prime's "Die!" or "Crush!" attack.
 -   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses radiant magic which is a form of [Lightkeeping](Lightkeep.md).

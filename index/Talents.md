@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69727
+revid: 69750
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -530,6 +530,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Fragile Freeze \[Common Talent, Frostdraw Exclusive\] - Your ice Mantras will freeze opponents upon blockbreaking them. (+3 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw.
+    -   You can spam F to get out of Freeze
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity)
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
@@ -537,7 +538,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Ice Spikes
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)
-    -   Significantly reduces thirst drain.
+    -   Slows thirst drain by approximately 3 times.
     -   Prerequisites: 20 Intelligence, 15 Frostdraw
 
 -   Cool Head \[Common Talent, Frostdraw Exclusive\] - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire (+2 Elemental Intensity)
@@ -557,7 +558,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Preceding Chill_ \[Rare Talent, Frostdraw Exclusive\] - Enemies hit during the last moments of your ice beam are frozen. (+3 Elemental Intensity)
     -   Prerequisite: Ice Beam, 60 Frostdraw.
-    -   Does not work with Crystallization.
+    -   If the user has Crystallization, this talent no longer freezes but applies another crystal.
 
 ### Cutthroat
 
@@ -882,7 +883,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Ice Smash, 35 Frostdraw
 
 -   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while sliding to perform a running attack with your ice sabers.
-    -   Prerequisites: Ice Blades
+    -   Prerequisites: Ice Blades, 20 Frostdraw, 20 Agility.
 
 ### Frostdrawer
 
@@ -890,6 +891,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Frostdraw
 -   Cold Front \[Common Talent, Frostdraw Exclusive\] - Your vent is imbued with glacial frost.
     -   Prerequisites: Cryonis, 25 Frostdraw
+    -   Venting creates an ice patch on the floor and applies Chill to any enemy hit by it.
 
 -   Expert Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
     -   Prerequisites: 30 Frostdraw
@@ -898,7 +900,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Frostdraw at Power 1 or obtain through Frostdraw Trainer (Nell)
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+6 Sanity)
     -   Prerequisites: 50 Frostdraw, 20 Willpower
-    -   Believed to increase the amount of time your opponent is frosted after getting hit with an ice mantra.
+    -   Increases your Elemental Intensity
 
 -   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
     -   Prerequisites: 50 Frostdraw
@@ -919,6 +921,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Frozen Legs_ \[Rare Talent, Frostdraw Exclusive\] - Your slow effect prevents your opponents from rolling. (+5 Elemental Intensity)
     -   Prerequisite: 60 Frostdraw
     -   Works with Crystallization
+    -   Only works for 1.5 seconds
 
 ### Gale Duelist
 
@@ -1081,7 +1084,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
     -   ~Saint Jay last for double the duration of Chill~ Does not anymore.
-    -   Does not work with Glass Path: Crystallization
+    -   Works with Crystallization but has a shorter duration.
     -   Prerequisite: Frostbite
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
     -   Prerequisites: 100 Frostdraw
@@ -1604,7 +1607,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Rampaging Brute
 
-> _**"I seek the qualities of a Rampaging Brute"**_
+> _**"I seek the qualities of Rampaging Brute"**_
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 90 Strength, Unwavering Resolve, Shield Breaker
@@ -2243,7 +2246,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
     -   Prerequisite: 20 Strength, 5 Agility
 
--   One Handed Training ( ͡° ͜ʖ ͡°) \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
+-   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   Grants you the ability to equip an offhand while one-handing
     -   Prerequisite: 40 Heavy Weapons Mastery
 
