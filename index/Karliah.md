@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 69467
+revid: 69781
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -31,7 +31,7 @@ After the quest, Karliah quits [The Divers](The_Divers.md) and can be found rest
 
 -   Karliah Colors: #96acba Skin | #5D6072 Hair | #daa400 Pupils | #be0000 Facial Marking
 -   Karliah seems to show a romantic interest in your character.
-    -   Due to this, she is considered a love interest by many players. (🤓)
+    -   Due to this, she is considered a love interest by many players.
 -   Karliah is quite inexperienced in combat, and was easily beaten down by [Mudskippers](Mudskipper.md) during her quest.
 -   Karliah wears the [Diver Apprentice](Diver_Apprentice_Robes.md) outfit as a Diver and the [Hired Mercenary](Hired_Mercenary.md) armor after the quest.
 -   You can get +20 notes if you begin Karliah's quest with Charisma

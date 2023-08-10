@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 69719
+revid: 69783
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -66,7 +66,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
 -   Obtaining a [Murmur](Murmur.md), awarding 5 Echoes.
--   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
+-   Defeating the [Dread Serpent](Dread_Serpent.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md), and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) awarding 5 Echoes each.
 -   Obtaining the [Deepshore Fossil](Deepshore_Fossil.md), awarding 5 Echoes.
 -   Defeating [Scion of Ethiron](Scion_of_Ethiron.md), awarding 10 echoes.
 -   Completing [Hell Mode](Hell_Mode.md), awarding 10 Echoes.
