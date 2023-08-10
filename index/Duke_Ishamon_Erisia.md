@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 69711
+revid: 69738
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -8,9 +8,9 @@ categories: [Enemies, NPCs, Bosses]
 
 # Duke Ishamon Erisia
 
-“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
+“ The ruins of that city will **n̴e̵v̷er** cage me. And with what's at stake... I can't stop now. ”
 
-― Duke Erisia
+― Duke Erisia, rematch dialogue
 
 Template:EnemyInfobox1.0
 
@@ -244,7 +244,7 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
 ## Trivia
 
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
--   He is escaping The Depths each time he is refought. As such, Arch\_Mage has considered making unique dialogue for his rematches. His lack of rematch dialogue is due to the lack of polishing in some of the earlier introduced fights in the game.
+-   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/34.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious. (Lethal Precision)
 -   The Duke's room gets sealed off by a barrier upon triggering the fight.

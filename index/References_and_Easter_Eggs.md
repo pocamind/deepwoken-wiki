@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 66342
+revid: 69741
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -17,7 +17,7 @@ categories: [Deepwoken]
 -   The mod spec Outfit **Hive Leader's Garment** along with the companion hat is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from _Genshin Impact_.
 -   The Outfit **Black Diver's** original design was [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki).
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
--   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version may be a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
+-   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its smaller version are a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
 -   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter X Hunter._
 -   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
@@ -71,7 +71,7 @@ categories: [Deepwoken]
 
 ### **Ironsing**
 
--   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura (Better known as Uber Shinobi)](https://rogue-lineage.fandom.com/wiki/Uber_Shinobi?so=search) class.
+-   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura (better known as Uber Shinobi)](https://rogue-lineage.fandom.com/wiki/Uber_Shinobi?so=search) class.
 
 ### **Attunementless**
 
@@ -102,7 +102,7 @@ categories: [Deepwoken]
 
 ## Enemies/Bosses
 
--   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giant](https://bloodborne.wiki.fextralife.com/Shark-Giant) from _Bloodborne_.
+-   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giants/Giant Fishmen](https://bloodborne.fandom.com/wiki/Giant_Fishman) from _Bloodborne_.
 -   **[Terrapods](Terrapod.md)** are almost certainly a reference to [Headcrabs](https://half-life.fandom.com/wiki/Headcrab), from the _Half-Life_ series.
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
 -   **[The Dread Serpent](Dread_Serpent.md)** is inspired by [Kaidou's Beast Form](https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu), from _One Piece_.
@@ -225,11 +225,11 @@ categories: [Deepwoken]
 
 ### **Factions**
 
--   **The Hundred Legions** is possibly referencing the Roman and Greek Empires, due to it having common things like: Centurion and Legionnaires rankings and similar armor, or possibly referencing [Caesar's Legion](https://fallout.fandom.com/wiki/Caesar%27s_Legion) from **Fallout: New Vegas**, because of similarity in their story of origin (possibly)[\[1\]](https://fallout.fandom.com/wiki/Caesar%27s_Legion)
 -   **Etrea** is very similar to a mixture of various East Asian countries.
 -   **The Ministry** is possibly a reference to _The Ministry_ from _Fahrenheit 451._
--   **The Knives of Eylis** is a reference to a faction in _Dishonored_ with a similar concept: a place that only exist within dreams, willingly (or not) joining a group of assassins, a supernatural entity that allow said group to exist.
--   **The Divers** and specially the black divers may be referencing the whistles of made in abyss, having the rank of Black Diver being very similar in design of the armor (Bondrewds) and concept to the White Whistles
+-   **The Knives of Eylis** is a reference to a faction in _Dishonored_ as they can travel to a place that only exists within dreams, are assassins and have a supernatural entity that allow said group to exist.
+
+-   **The Divers**, especially the Black Divers, may be referencing the Whistles of _Made in Abyss_, having the rank of Black Diver being very similar in design of the armor and concept of the White Whistles.
 
 ### **Races**
 
@@ -255,4 +255,4 @@ categories: [Deepwoken]
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
 -   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.
 -   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath
--   "Hoss" emote is a reference to Akuma from Street Fighter, name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.[\[2\]](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search)
+-   "Hoss" emote is a reference to Akuma from Street Fighter, name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
