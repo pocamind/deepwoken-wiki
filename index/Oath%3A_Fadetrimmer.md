@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 69705
+revid: 69837
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -8,7 +8,7 @@ categories: [Oaths]
 
 # Oath: Fadetrimmer
 
-| Oath: Fadetrimmer | |
+| Oath: The Barber | |
 |---|---|
 | oath_req | Power 12, 10 non-unique haircuts |
 | effects | +1 Combat Mantra Slot, +1 Wildcard Mantra Slot |
@@ -23,7 +23,7 @@ categories: [Oaths]
 
 ## Obtainment
 
-Meet the following requirements and talk to a barber about Fadetrimming:
+Meet the following requirements and talk to a barber about Hair Cutting:
 
 -   Power 12
 
@@ -61,16 +61,16 @@ This oath is fully upgraded once you get it.
 
 ## Trivia
 
--   Fadetrimmer oath was mentioned by the Barbers ever since they were added to the game, on August 22 2022. The oath was added to the game on the July 24 2023, almost a year later.
+-   The Fadetrimmer oath was mentioned by the Barbers ever since they were added to the game, on August 22 2022. The oath was added to the game on the July 24 2023, almost a year later.
 
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment, but like most things he says, this didn't age well.
 
 -   Revitalizing can be used on more than one ally, offering a good amount of support, on par with Reinforce.
--   Barber's Skillset's haircuts will stay on the opponent until they get a haircut from the barber.
+-   Fadetrimmer's Skillset's haircuts will stay on the opponent until they get a haircut from the barber.
 -   This Oath was originally often judged as an alternate Oathless due to others not discovering what other features it has.
 -   Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash.
 -   Precision cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description of this oath is a reference to the "Ginger Fringe Incident" meme.
 -   Revitalizing can be used together with the Frostdraw talent "Saint Jay", which then will heal you for the 10% hp. Instead of the opponent.
 -   Charming can be useful combining it with the Charismatic Cast Talent "Tough Love", This will give you a 10% damage buff.
--   Due to Revitalizing, Fadetrimmer is a solid oath choice for a support based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.
+-   Due to Revitalizing, The Barber is a solid oath choice for a support based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.

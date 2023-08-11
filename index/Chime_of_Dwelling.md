@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 58579
+revid: 69840
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Guilds]
@@ -18,7 +18,7 @@ File:GuildDoor.png
 
 The door in question
 
-The Chime of Dwelling is an obtainable item which is grant for being an Officer/Leader in a Guild. It allows you to set your [Guild Base](Guild_Bases.md) in a wall with some exceptions.
+The Chime of Dwelling is an obtainable item which is granted to the Officers/Leader of a Guild. It allows you to set your [Guild Base](Guild_Bases.md) in a wall with some exceptions.
 
 The item demarcates a rectangular area where it generates (through an animation that lasts approximately 3 seconds) an iron door along with the name of the guild above it. When you go through this door, it will teleport you to the base of the guild.
 

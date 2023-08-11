@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 69272
+revid: 69836
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -11,8 +11,6 @@ categories: [Resonances]
 | Sacred Field | |
 |---|---|
 | appearance | Various colored field that spreads around the user. |
-
-sssssssssssssssssssssssssssssssssss
 
 “ Conjure a field of sacred light, protecting you and your allies from harm. ”
 
