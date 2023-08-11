@@ -1,6 +1,6 @@
 ---
 title: Songseeker Temple
-revid: 68326
+revid: 69794
 source: https://deepwoken.fandom.com/wiki/Songseeker_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -33,11 +33,6 @@ Inside the Temple is Amashi, a [spelltrainer](Attunement_Trainers.md).
 -   Players can find Amashi, a [spelltrainer](Attunement_Trainers.md) who can help you acquire [Flamecharm](Flamecharm.md), or upgrade your existing [Flamecharm](Flamecharm.md) [Mantras](Mantras.md).
 -   Just outside the temple, players can find [Yamaketzal](Yamaketzal.md), who can give you [Chime of Conflict](Chime_of_Conflict.md) or remove your [Tarnished](Boons_and_Flaws.md) flaw.
 
-## Potential Enemies
-
--   [Flamecharmer Monk](Songseeker_Flamecharmer.md)
--   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
-
 ## Quests
 
 ### Flamecharm Spelltrainer Quest
@@ -48,4 +43,4 @@ Inside the Temple is Amashi, a [spelltrainer](Attunement_Trainers.md).
 
 ## Trivia/Notes
 
--   It is recommended to sneak past the Monks at the Temple if you can, or alternatively lure one out with a ranged [Mantra](Mantras.md) (e.g. Wind Gun) and fight them one by one.
+-   It is recommended to sneak past the Monks at the Temple if you can, or alternatively lure one out with a ranged [Mantra](Mantras.md) (e.g., Wind Gun) and fight them one by one.

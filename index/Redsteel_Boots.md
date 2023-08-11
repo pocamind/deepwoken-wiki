@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 68486
+revid: 69820
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -8,11 +8,23 @@ categories: [Boots]
 
 # Redsteel Boots
 
+| Redsteel Boots | |
+|---|---|
+| type | Boots |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | +3 Health |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Fort Merit, The Depths, Arena |
+| description | - ... |
+
 “ Really? Why don't we settle this like men, then? Right here, right now. ”
 
 ― A Capra, replying to a Vesperian
-
-Template:EquipmentStats
 
 ## Description
 

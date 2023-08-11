@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 66410
+revid: 69799
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -68,7 +68,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 -   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
 -   [Songseeker Galebreather](Songseeker_Galebreather.md)
 -   [Crimson Megalodaunt](Megalodaunt.md)
--   [Knives of Eylis](The_Knives_of_Eylis.md)
+-   [Knife of Eylis](Knife_of_Eylis.md)
 -   Astaroth, Sinner of Wind (Only appears if you take the quest for the Starkindred Oath)
 
 ## Loot Table
@@ -86,14 +86,14 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   [Blindfold](Blindfold.md)
 -   [Eyeglasses](Eyeglasses.md)
 -   [Polarized Eyeglasses](Eyeglasses.md)
--   Flameguard Pauldrons
+-   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
 -   [Glassdancer Wraps](Glassdancer_Wraps.md)
--   Brilliant Boots
--   Khan Boots
+-   [Brilliant Boots](Brilliant_Boots.md)
+-   [Khan Boots](Legion_Boots.md)
 -   [Ranger's Boots](<Ranger's_Boots.md>)
 -   Crimson Blindfold
 -   Gold and Black Cape
--   Royal Duelist, including varients.
+-   [Royal Duelist (Series)](Royal_Duelist.md)
 
  | 
 

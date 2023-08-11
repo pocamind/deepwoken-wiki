@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 69362
+revid: 69800
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -133,18 +133,18 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
 -   The Hero Blade shines in builds that put a great emphasis in their attunement, going for the cap of 75 or even 100 with Lord Regent's quest usually. This is because, despite them taking the shape of swords, their scaling is based on the user's Attunement level and not their Medium Weapon level.
     -   By omitting the usage of points to level up Medium Weapon, you can save up to 100 points to spend on your other Attributes, such as your core attributes or a second attunement.
     -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
-        -   These runes translate to "jfeondkthz", from the tip of the sword to the guard
+        -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.
 
 -   Before Verse 2 (12/24/2022), the critical of the Hero blades were basic sword critical stabs.
 -   Every critical of the hero blade has a different hero with different race, giving the theory that the spirit in the critical attack is the original wielder/hero of the blade.
-    -   The Hero of Wind is a Tiran
-        -   Identified by the feathers on it's head.
-        -   The Hero of Wind was named Sven Corbet, and appeared in a video prior to the public release of Deepwoken. Whether this is a retcon or they are simply another Hero of Gale is unclear.
-    -   The Hero of Flame is a Khan
-        -   Identified by it's crown.
-    -   The Hero of Frost is a Capra
-        -   Identified by it's horns and mask.
-    -   The Hero of Shadow is a Felinor.
-        -   Identified by it's ears.
-    -   The Hero of Thunder is a Adret
-        -   Identified by it's face markings.
+    -   The Hero of Wind is a [Tiran.](Tiran.md)
+        -   Identified by the feathers on its head.
+        -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken. Whether this is a retcon or they are simply another Hero of Gale is unclear.
+    -   The Hero of Flame is a [Khan.](Khan.md)
+        -   Identified by its crown.
+    -   The Hero of Frost is a [Capra.](Capra.md)
+        -   Identified by its horns and mask.
+    -   The Hero of Shadow is a [Felinor.](Felinor.md)
+        -   Identified by its ears.
+    -   The Hero of Thunder is a [Adret.](Adret.md)
+        -   Identified by its face markings.

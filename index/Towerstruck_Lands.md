@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 61429
+revid: 69795
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -20,8 +20,6 @@ A rich stone quarry, perfect for creating life.
 
 The Towerstruck Lands is a section of [Upper Erisia](Upper_Erisia.md) with sandy mountainous terrain. Ruins of towers lay littered across the surface. The Towerstruck Lands will precipitate acid rain, rather than normal rain.
 
-Towerstruck Lands
-
 ## Points of Interest
 
 #### [The Hidden Village](The_Hidden_Village.md)
@@ -29,15 +27,13 @@ Towerstruck Lands
 -   Players can find [Erisore](https://deepwoken.fandom.com/wiki/Ore#Erisore) here, a substantial part to building an outfit.
 -   Players can find ~[Cestis](Cestis.md)~ (Cestis moved to Meteor Isle in Eastern Luminant) and Nimea here.
 
-## Potential Enemies
+## Missions
 
--   [Legion Soldier](Legion_Soldier.md)
--   [Legion Captain](Legion_Captain.md)
--   Etrean Footsoldier
--   [Rock Golem](Rock_Golem.md)
--   [Megalodaunt](Megalodaunt.md)
--   [Terrapod](Terrapod.md)
+Events that spawn in the Towerstruck Lands that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
+
 -   [Megalodaunt VS Rock Golem](Random_Encounters.md)
+
+  
 
 ## Maps
 

@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 69420
+revid: 69797
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -81,38 +81,39 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 
  | 
 
--   Big Alchemist's Hat
--   Big Herbalist's Hat
--   Authority Helm
--   Black/Goldleaf Helm
+-   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
+-   [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
+-   [Authority Helm](Authority_Helm.md)
+-   [Goldleaf Helm](Goldleaf_Helm.md)
+-   [Blackleaf Helm](Blackleaf_Helm.md)
 -   Gladiator Helm
--   Knight's Helm
--   Khan Helmet
--   Pale Assassin's Hood
--   Vigil Hood
--   Warrior's Eyepatch
--   Headband (Series)
--   Ruby Drop Earrings
+-   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Khan Helmet](Legion_Helmet.md)
+-   [Pale Assassin's Hood](<Assassin's_Hood.md>)
+-   [Vigil Hood](Vigil_Hood.md)
+-   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
+-   [Headband (Series)](Headband.md)
+-   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
 -   Crystal Pendant Earrings
 -   Practitioner's Earrings
 -   Scarf (Series)
--   Pale Assassins Cloak
--   Star Duster
+-   [Pale Assassins Cloak](<Assassin's_Cloak.md>)
+-   [Star Duster](Star_Duster.md)
 -   Black Parka (Series)
--   Royal Pathfinder
--   White Fur Pauldrons
--   Khan Pauldrons
--   Silver Pauldrons
--   Woodland Pauldrons
--   Bluesteel Boots
+-   [Royal Pathfinder](Royal_Pathfinder.md)
+-   [White Fur Pauldrons](Fur_Pauldrons.md)
+-   [Khan Pauldrons](Legion_Pauldrons.md)
+-   [Silver Pauldrons](Silver_Pauldrons.md)
+-   [Woodland Pauldrons](Woodland_Pauldrons.md)
+-   [Bluesteel Boots](Bluesteel_Boots.md)
 -   Flameguard Boots
--   Imperial Boots
--   Khan Boots
--   Star Boots
--   Tracker's Boots
--   Vanguard Boots
--   Woodland Boots
--   Silver Sabatons
+-   [Imperial Boots](Imperial_Boots.md)
+-   [Khan Boots](Legion_Boots.md)
+-   [Star Boots](Star_Boots.md)
+-   [Tracker's Boots](<Tracker's_Boots.md>)
+-   [Vanguard Boots](Vanguard_Boots.md)
+-   [Woodland Boots](Woodland_Boots.md)
+-   [Silver Sabatons](Silver_Sabatons.md)
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 64557
+revid: 69818
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Aratel Island, Songseeker |
+| obtainment | Chests from:, Aratel Island, Songseeker Wilds |
 | description | ... |
 
 ## Description

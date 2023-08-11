@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 68386
+revid: 69814
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -13,9 +13,9 @@ categories: [Equipment, Arms, Dusters]
 | type | Arms |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Unknown |
+| requirements | Power 10 |
 | weight | 2 |
-| innate stats | 5 Health1 Posture, 3 Pips |
+| innate stats | +5 Health+1 Posture, 3 Pips |
 | innate talent | Firmly Planted |
 | bankable | Yes |
 | droppable | Yes |

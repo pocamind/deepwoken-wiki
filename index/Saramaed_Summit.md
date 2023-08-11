@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 64299
+revid: 69793
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -24,14 +24,9 @@ Template:Areainfobox
 
 Saramaed Summit is an area within the upper area of [Miner's Landing](<Miner's_Landing.md>), accessible through hallways past the boiler room's circular vault door. The air is constantly permeated with a thick, misty orange, and many Mechalodaunts are often present throughout the area.
 
-There are multiple entrances that lead to Saramaed Summit. One entrance, located to the right of the boiler room's vault door, requires a [Resonance](Resonance.md) to open. The other entrance is located in a room with an Ignition Union NPC, and does not have a Resonance door.
+There are multiple entrances that lead to Saramaed Summit. One entrance, located to the right of the boiler room's vault door, requires a [Resonance](Resonance.md) to open. The other entrance is located in a room with an Ignition Union NPC and does not have a Resonance door.
 
 Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Depths](The_Depths.md) if you die in it regardless of other influences.
-
-## Potential Enemies
-
--   [Mechalodaunt](Megalodaunt.md#mechalodaunt)
--   [Summer Company Guard](Summer_Company_Guard.md)
 
 ## Harvestables
 
@@ -55,7 +50,7 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 -   [Nomad Pendant](Nomad_Pendant.md)
 -   [Red Eye Pendant](Red_Eye_Pendant.md)
 -   [Sandrunner Scarf](Sandrunner_Scarf.md)
--   [Duelist Mask](Duelist_Mask.md)
+-   Duelist Mask
 -   [Deepwoken Cloak](Deepwoken_Cloak.md)
 -   TBA
 

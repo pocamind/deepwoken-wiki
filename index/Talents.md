@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69753
+revid: 69785
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -405,7 +405,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
     -   Prerequisite: 15 Agility
 
--   _Evasive Expert_ \[Rare Talent\] - Dodging grants a speed boost. (+1 Passive Agility)
+-   _Evasive Expert_ \[Rare Talent\] - Speed boost granted from dodging is increased. (+1 Passive Agility)
     -   Prerequisites: 15 Agility, Swift Rebound
 
 -   _Risky Moves_ \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)

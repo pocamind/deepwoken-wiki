@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 68360
+revid: 69819
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -21,7 +21,7 @@ categories: [Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley |
+| obtainment | Chests from:, Starswept Valley |
 | description | - ... |
 
 ## Description
@@ -29,5 +29,7 @@ categories: [Helmets]
 The Khan Helmet is an accessory under the “Head” category. Equipping it will give you random placeholder stats.
 
 ## Trivia
+
+-   The Khan Helmet is a part of the "Khan" set; together with the [Khan Boots](Legion_Boots.md) and [Khan Pauldrons](Legion_Pauldrons.md).
 
 -   Worn by enemy NPCs affiliated with [the Hundred Legions](The_Hundred_Legions.md).

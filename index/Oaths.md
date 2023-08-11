@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 69538
+revid: 69803
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -86,7 +86,6 @@ Proof of Time Magic's existance and it being an "Oath"
 -   You cant shrine of order with an Oath, the only exception being Oathless
 -   Currently, the only Oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
--   If you do not have an Oath, you are considered to be weaker than an opponent with **ANY** Oath.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   Unequipping your facial accessory while having Blindseer will automatically give you a cosmetic-only version of the normal Blindfold, which is pale in color.
 -   Visionshaper and Blindseer Oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
