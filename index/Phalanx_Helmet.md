@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 68169
+revid: 69821
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -20,7 +20,7 @@ categories: [Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second LayerDuke Erisia |
+| obtainment | Chests from:, Second Layer, Duke Erisia |
 | description | - ... |
 
 ## Description

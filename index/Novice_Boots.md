@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 54886
+revid: 69823
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -8,11 +8,23 @@ categories: [Character, Armors]
 
 # Novice Boots
 
+| Novice Boots | |
+|---|---|
+| type | Boots |
+| rarity | ??? |
+| requirements | N/A |
+| innate stats | +2 Health+1 Posture |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from;, Summer Isle, Fort Merit |
+| description | - ... |
+
 “ At least I have boots, unlike you! ”
 
 ― Eastern Tribal Nomad to Ministry Scout
-
-Template:EquipmentStats
 
 ## Description
 
