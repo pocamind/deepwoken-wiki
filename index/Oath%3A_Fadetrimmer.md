@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 69837
+revid: 69866
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -61,7 +61,7 @@ This oath is fully upgraded once you get it.
 
 ## Trivia
 
--   The Fadetrimmer oath was mentioned by the Barbers ever since they were added to the game, on August 22 2022. The oath was added to the game on the July 24 2023, almost a year later.
+-   The Fadetrimmer oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The oath was added to the game on the July 24, 2023, almost a year later.
 
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment, but like most things he says, this didn't age well.
 
@@ -73,4 +73,4 @@ This oath is fully upgraded once you get it.
 -   The description of this oath is a reference to the "Ginger Fringe Incident" meme.
 -   Revitalizing can be used together with the Frostdraw talent "Saint Jay", which then will heal you for the 10% hp. Instead of the opponent.
 -   Charming can be useful combining it with the Charismatic Cast Talent "Tough Love", This will give you a 10% damage buff.
--   Due to Revitalizing, The Barber is a solid oath choice for a support based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.
+-   Due to Revitalizing, The Barber is a solid oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.

@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 69313
+revid: 69844
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]
@@ -18,7 +18,9 @@ The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cat
 
 ## Effects
 
-The Trial will have not only **1** wave, but 2 - 3 waves if you are high enough level. Testing is needed for more exact information. (Note: This feature is currently bugged, you may or may not receive the Power up)  
+The Trial will have not only **1** wave, but 2 - 3 waves if you are high enough level. Testing is needed for more exact information. (Note: This feature is currently bugged, you may or may not receive the Power up)
+
+The Shrine of Courage can only be used once if you have completed it.  
 
 ## Dialogue
 

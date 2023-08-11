@@ -1,12 +1,16 @@
 ---
 title: Canteen
-revid: 67556
+revid: 69868
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
 ---
 
 # Canteen
+
+| Canteen | |
+|---|---|
+| usage | Holds drinkable water |
 
 ## Description
 

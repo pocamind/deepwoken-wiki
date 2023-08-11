@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 69605
+revid: 69861
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -74,4 +74,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.
 -   Stratus Stones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
 -   Modifying Fire Blade with a reversal spark will make it always do the non-wings variant.
+-   Wing Variant Fire Blade is probably a reference to "Mugetsu" in Bleach.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
