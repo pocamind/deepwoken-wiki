@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 67436
+revid: 69881
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -238,6 +238,7 @@ You can choose your first name from any available, but your choices of last name
 -   Oliver
 -   Oscar
 -   Osric
+-   Orstein
 -   Othniel
 -   Otto
 -   Owen
@@ -290,6 +291,7 @@ You can choose your first name from any available, but your choices of last name
 -   Simon
 -   Sinbad
 -   Sirius
+-   Smough
 -   Socrates
 -   Sophodon
 -   Sothe
@@ -913,6 +915,7 @@ You can choose your first name from any available, but your choices of last name
 
 ## Trivia
 
+-   The names "Smough" and "Orstein" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.wiki.fextralife.com/Ornstein+and+Smough).
 -   Names such as "Kaladin" and "Adolin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Vin" and "Wax" are references to the book series "Mistborn", also by Brandon Sanderson.
 -   Names such as "Zote" and "Quirrel" are references to the indie game "Hollow Knight" by Team Cherry.

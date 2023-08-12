@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 69333
+revid: 69878
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -14,7 +14,7 @@ categories: [Monsters, Layer 2]
 
 Template:Creature Info Box v2
 
-_Also known as 'El Chupacabra'_
+_Also known as 'El Chupacabra' or 'Frank'_
 
 ## Overview
 
