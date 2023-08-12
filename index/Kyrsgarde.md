@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 69401
+revid: 69897
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
@@ -10,9 +10,9 @@ notices:
 
 # Kyrsgarde
 
-“ Sniping's a good job mate. ”
+“ LOL. GG. I had fun! ”
 
-― A Kyrsgarde Lancer performing its infinite ragdoll combo
+― Said by the 2 Kyrslancers and Kyrsbrute that wiped you.
 
   
 

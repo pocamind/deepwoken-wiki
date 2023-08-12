@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 69819
+revid: 69905
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -13,7 +13,7 @@ categories: [Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 1 |
 | innate stats | +10 HP+3 Posture |
 | innate talent | N/A |
@@ -22,11 +22,11 @@ categories: [Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-The Khan Helmet is an accessory under the “Head” category. Equipping it will give you random placeholder stats.
+The Khan Helmet is an accessory under the “_Head_” category. Equipping it will give you random stats based on its pips.
 
 ## Trivia
 

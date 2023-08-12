@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 68718
+revid: 69924
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -13,7 +13,7 @@ categories: [Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 1 |
 | innate stats | +2 Posture1 Pip |
 | innate talent | N/A |
@@ -22,8 +22,8 @@ categories: [Helmets]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-The Ten-Gallon Hat is an Equipment in the Head category_._ Equipping this item will give you +3 health.
+The Ten-Gallon Hat is an Equipment in the "_Head_" category_._ Equipping this item will give you +2 posture.

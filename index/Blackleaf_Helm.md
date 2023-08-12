@@ -1,6 +1,6 @@
 ---
 title: Blackleaf Helm
-revid: 68720
+revid: 69913
 source: https://deepwoken.fandom.com/wiki/Blackleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -22,11 +22,11 @@ categories: [Character, Armors]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | First Layer, Aratel Island, Arena |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-The _Blackleaf Helm_ is a helmet, obviously being a black variant of the [Goldleaf Helm](Goldleaf_Helm.md). Equipping this will give you random stats.
+The _Blackleaf Helm_ is a piece of Equipment in the "Head" category, obviously being a black variant of the [Goldleaf Helm](Goldleaf_Helm.md). Equipping this will give you +5 Health +2 Posture. Along with the talent Concussive Force.
 
 ## Trivia
 

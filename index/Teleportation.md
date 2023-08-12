@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 63981
+revid: 69927
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -31,7 +31,7 @@ Shortly after particles start appearing, all players inside **Teleportation's** 
 
 Pressing "C" will activate the **Teleportation** Resonance.
 
-Using the resonance first places a marker. This marker is only visible to the user, is visible throught walls and at any distance. It will remain here until used, including when changing servers.
+Using the resonance first places a marker. This marker is only visible to the user, is visible through walls and at any distance. It will remain here until used, including when changing servers.
 
 If you place down a marker in a specific place (Etris, etc..) that said marker will now have a name.
 

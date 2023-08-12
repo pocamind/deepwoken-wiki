@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 69889
+revid: 69892
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -15,7 +15,7 @@ categories: [Helmets, Equipment]
 | selling price | 14 |
 | requirements | 15 Fortitude |
 | weight | 1 |
-| innate stats | +10 Health+2 Posture, 1 Pip |
+| innate stats | +10 Health+2 Posture |
 | innate talent | Concussive Force |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Helmets, Equipment]
 
 ## Description
 
-The Gladiator Helmet is an Equipment Armor in the Helmet category_._ Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the amount of pips.
+The Gladiator Helmet is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the amount of pips.
 
 The talent Concussive Force: Enemies you knock remain downed longer than usual.
 

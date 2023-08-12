@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 68182
+revid: 69920
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -13,7 +13,7 @@ categories: [Character, Armors]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
@@ -22,8 +22,8 @@ categories: [Character, Armors]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Fort Merit, First Layer |
-| description | - ... |
+| description | "..." |
 
 ## Deepwoken Hood
 
-A Deepwoken Hood is an accessory under the "Head" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths.](The_Depths.md)
+A Deepwoken Hood is an accessory under the "_Head_" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths.](The_Depths.md)

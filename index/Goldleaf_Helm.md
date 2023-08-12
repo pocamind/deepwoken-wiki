@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 68175
+revid: 69914
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -22,11 +22,11 @@ categories: [Helmets, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Duke Erisia, Golden Warrior, First Layer, Starswept Valley |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-The _Goldleaf Helm_ is a helmet, obviously being a golden variant of the [Blackleaf Helm](Blackleaf_Helm.md). Equipping this will give you random stats.
+The _Goldleaf Helm_ is a piece of Equipment in the "Head" category, obviously being a gold variant of the [Blackleaf Helm](Blackleaf_Helm.md). Equipping this will give you +5 Health.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 68369
+revid: 69919
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets, Items]
@@ -10,22 +10,23 @@ categories: [Armors, Helmets, Items]
 
 | Vigil Hood | |
 |---|---|
-| type | Helmet |
+| type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
+| weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island, First Layer |
-| description | - ... |
+| obtainment | Chests from:, Aratel Island, First Layer |
+| description | "..." |
 
 ## Description
 
-The Vigil Hood is an Equipment item under the Head category. Equipping it grants 2 Pips and (One guaranteed legendary Pip). It can be obtained from [Aratel Island](Aratel_Island.md) and, the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
+The Vigil Hood is an Equipment item under the "_Head_" category. Equipping it grants 2 Pips and (One guaranteed legendary Pip). It can be obtained from [Aratel Island](Aratel_Island.md) and, the [First Layer](First_Layer.md) of [The Depths](The_Depths.md).
 
 ## Notes
 

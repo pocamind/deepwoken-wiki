@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 69854
+revid: 69906
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -35,6 +35,8 @@ categories: [Pages with broken file links, Oaths]
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you won't be locked out of obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
 
 _Upon obtaining this oath, four black marionette-esque strings will embed themselves into your arms. Additionally, your iris' will become a very dark red, making your expression appear almost empty and devoid of empathy._
+
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/ZNPA1u1I-WI)._
 
 ## Upgrading
 

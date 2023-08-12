@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 68482
+revid: 69898
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -38,3 +38,4 @@ An image showing the stats of the Trident Spear
 ## Notes
 
 -   Used by [Celtor Guards](Celtorian_Guard.md), referencing the city's previous fishing based economy.
+-   Alloyed form rivals, if not overtakes, the [Serrated Warspear](Serrated_Warspear.md) in terms of endgame damage if paired with Speed Demon talent at 100 MED stat.

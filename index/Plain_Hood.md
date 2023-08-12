@@ -1,6 +1,6 @@
 ---
 title: Plain Hood
-revid: 68177
+revid: 69921
 source: https://deepwoken.fandom.com/wiki/Plain_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors, Equipment]
@@ -13,7 +13,7 @@ categories: [Character, Armors, Equipment]
 | type | Head |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | N/A |
+| requirements | None |
 | weight | 1 |
 | innate stats | +4% Stealth+1 Posture |
 | innate talent | N/A |
@@ -22,8 +22,8 @@ categories: [Character, Armors, Equipment]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle, Deep Widow, First Layer |
-| description | - "A sleek black hood." |
+| description | "A sleek black hood." |
 
 ## Description
 
-Hoods are accessories under the "Head" category. They can be found through chests in [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md). Also can be found in other chests, not only [Summer Isle](Summer_Isle.md). \[Should be tested.\]
+Hoods are accessories under the "_Head_" category. They can be found through chests in [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md). Also can be found in other chests, not only [Summer Isle](Summer_Isle.md). \[Should be tested.\]
