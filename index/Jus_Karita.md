@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 68686
+revid: 69937
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -53,15 +53,17 @@ To obtain Jus Karita, you must first obtain 40 Light Weapons and Power 5. Then, 
 
 -   **Jus Karita** cannot equip any cestus, including [Light's Final Toll](<Light's_Final_Toll.md>).
 -   If you have two fist styles and try to equip a cestus on **Jus Karita**, the game will forcibly switch you to the [Way of Navae](Way_of_Navae.md) fist style.
+
+## Gallery
+
+-   File:Jus Karita critical.gif
     
-    File:Jus Karita critical.gif
-    
-    _Watch yo tone._
+    Critical Animation (aka, watch yo tone)
     
     File:Jusu Kata idle.gif
     
-    _Jus Karita Idle._
+    Idle Animation
     
     File:Jus Karita m1s.gif
     
-    _Jus Karita m1s._
+    M1 Animation
