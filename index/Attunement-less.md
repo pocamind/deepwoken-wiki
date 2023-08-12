@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 69508
+revid: 69887
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -409,6 +409,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements: 50 Light Weapon, Combat Mantra**
     -   Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4)
+    -   Can be somewhat used as a mobility mantra due to it's compatibility with rush and drift shards.
 
  |
 

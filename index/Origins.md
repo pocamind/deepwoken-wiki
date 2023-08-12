@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 69320
+revid: 69882
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -55,7 +55,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
 -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
--   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md), with the possibility of a [Nautilodaunt](Nautilodaunt.md).
+-   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md), with the possibility of a [Nautilodaunt](Nautilodaunt.md); However the trial will change depending on the amount of drowns your character has.
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light.

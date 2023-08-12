@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 69860
+revid: 69888
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,6 +31,8 @@ Meet the following requirements:
 -   Talk to Suyuan in the Isle of Vigils library and ask about the ship (confirmed requirement).
 
 Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
+
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._
 
 ## Effects
 
