@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 66842
+revid: 69959
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -31,6 +31,7 @@ The Kyrsglaive is a [Medium Weapon](Weapons.md) obtained from Layer 2. It is a s
 
 The Kyrsglaive does 25.4 damage at 100 Medium Weapon and with the addition of bleed damage, it's total damage adds up to 33.1 damage.
 
-## Notes
+## Trivia
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md))
+-   While the stats are inferior to the [Serrated Warspear](Serrated_Warspear.md) and True Seraph's Spear, it is much easier to obtain a Kyrsglaive with 3 stars compared to the other two.

@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 68728
+revid: 69954
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Equipment]
@@ -13,7 +13,7 @@ categories: [Boots, Equipment]
 | type | Boots |
 | rarity | Uncommon |
 | selling price | 14 |
-| requirements | N/A |
+| requirements | None |
 | innate stats | +5 Health |
 | innate talent | N/A |
 | bankable | Yes |
@@ -21,17 +21,13 @@ categories: [Boots, Equipment]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island |
-| description | - ... |
-
-“ Star Boots this, Star Boots that… ”
-
-― Imperial Boots enjoyer
+| description | "..." |
 
 ## Description
 
-Imperial Boots are accessories under the "Boots" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md).
+Imperial Boots are accessories under the "_Boots_" category. They can be found through chests in [Aratel Island](Aratel_Island.md).
 
-Imperial Boots are part of the "**Imperial**" set; with the only other armor piece being the **Imperial Pauldrons**.
+Imperial Boots are part of the "**Imperial**" set; with the only other armor piece being the **[Imperial Pauldrons](Imperial_Pauldrons.md)**.
 
 ## Trivia
 

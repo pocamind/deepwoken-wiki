@@ -1,18 +1,16 @@
 ---
 title: Kyrsgarde
-revid: 69897
+revid: 69962
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Monsters, Floor 2, Layer 2]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Monsters, Floor 2, Layer 2]
 ---
 
 # Kyrsgarde
 
-“ LOL. GG. I had fun! ”
+“ It began with a sound. Ah in the ways of the Song... A Tone. And then the Gale came. Gods above, it deafened us all. And when our hearing returned... They're puppets now, just like him. Eternally bound to guard his shrine... and to allow his arrival. ”
 
-― Said by the 2 Kyrslancers and Kyrsbrute that wiped you.
+― Naerotiv on his fellows
 
   
 

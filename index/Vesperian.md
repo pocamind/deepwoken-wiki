@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 68671
+revid: 69958
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -32,7 +32,6 @@ Vesperians are described as a beetle themed race with organically grown masks an
     <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
     <li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li>
   </ul></li>
-    <li>+2 Health</li>
   </ul></td>
 </tr>
 <tr>
