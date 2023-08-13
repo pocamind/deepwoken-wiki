@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 65856
+revid: 70001
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -21,7 +21,6 @@ categories: [Weapons, Daggers]
 | chip damage | N/A |
 | special effect | N/A |
 | stances | 1 Handed |
-| selling price | ? |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

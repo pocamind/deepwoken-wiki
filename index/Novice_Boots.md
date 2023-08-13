@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 69983
+revid: 70002
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -11,9 +11,10 @@ categories: [Character, Armors]
 | Novice Boots | |
 |---|---|
 | type | Boots |
-| rarity | ??? |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
-| innate stats | +2 Health+1 Posture |
+| innate stats | +3 Health |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

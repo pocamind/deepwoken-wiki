@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 69903
+revid: 70014
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -26,7 +26,7 @@ categories: [Helmets]
 
 ## Description
 
-The Captain's Kabuto is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +8 Health, as well as extra randomized stats based on the amount of pips.
+The Captain's Kabuto is an Equipment item under the Head category_._ Equipping this item will give you +8 Health, as well as extra randomized stats based on the amount of pips.
 
 ## Trivia
 

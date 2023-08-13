@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 64326
+revid: 70015
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -21,7 +21,7 @@ The stirring of life of all kinds fills the air as you enter the shade of the ca
 
 ## Overview
 
-Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement.
+Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement, the Greathive itself.
 
 To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be above Power 10 (You don't need an [Oath](Oaths.md)). Once you meet these requirements, you are able to invoke with the Greathive Fountains in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md).
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 69853
+revid: 70018
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 -   Meet the following requirements:
     -   Have 40 Willpower
-    -   Have the 3 talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief**.
+    -   Have the 3 talents from the Mental Fortress set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from talent rolls, not equipment.
     -   Be blind, either through the **Blinded** talent from Blindfolds or the Blind Flaw.
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 -   Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.

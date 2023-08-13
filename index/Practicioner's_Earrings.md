@@ -1,6 +1,6 @@
 ---
 title: "Practicioner's Earrings"
-revid: 67945
+revid: 70017
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,4 +24,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Practicioner's Earrings are Equipment Armor in the Ears category_._ Equipping this item will give you randomized stats based on the amount of pips it has.
+Practicioner's Earrings is an Equipment item under the Ears category_._ Equipping this item will give you randomized stats based on the amount of pips it has.

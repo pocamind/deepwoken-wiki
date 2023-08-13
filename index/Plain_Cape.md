@@ -1,12 +1,28 @@
 ---
 title: Plain Cape
-revid: 63928
+revid: 70021
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
 ---
 
 # Plain Cape
+
+| Fleet Warden Cape | |
+|---|---|
+| type | Torso |
+| rarity | Uncommon |
+| selling price | 14 |
+| requirements | Power 13 |
+| weight | 0.5 |
+| innate stats | 3% Elemental Armor, 1 Pip |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Chests from:, Fishing, Summer Isle |
+| description | "..." |
 
 **Cape:**
 
@@ -42,8 +58,6 @@ Dark Owl Capes are accessories under the "Torso" category. They can be found thr
 
 **Fleet Warden Cape:**
 
-Template:EquipmentStats
-
 ## Description
 
 Fleet Warden Capes are animated accessories under the "Torso" category. They can be found uncommonly through chests by [Fishing](Fishing.md) and on [Summer Isle](Summer_Isle.md).
@@ -51,8 +65,7 @@ Fleet Warden Capes are animated accessories under the "Torso" category. They can
 ## Trivia
 
 -   1 of 2 animated capes, the other being **Shrouded Capes**.
-
-## Variant Gallery
+    
 
 **Shrouded Cape:**
 

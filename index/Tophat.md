@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 69926
+revid: 70024
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -11,11 +11,12 @@ categories: [Helmets]
 | Tophat | |
 |---|---|
 | type | Head |
-| rarity | ??? |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | N/A |
-| innate talent | N/A |
+| innate stats | +4 Health |
+| innate talent | Give and Take |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
@@ -25,7 +26,7 @@ categories: [Helmets]
 
 ## Description
 
-The Tophat is an accessory found under the "_Head_" category. It can be found in chests on [Summer Isle](Summer_Isle.md).
+The Tophat is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, 2 Pips, And the innate talent Give And Take. **Give and Take** allows you to give and take less damage to and from your allies.
 
 ## Trivia
 
