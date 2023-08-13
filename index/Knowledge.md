@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 69187
+revid: 70036
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -53,7 +53,7 @@ Achieving milestones and completing certain quests will award the player with Kn
     -   Killing [The Ferryman](The_Ferryman.md) in Spring. This rewards 1 Knowledge and can be repeated.
 
 -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
-    -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealth at least 8750 damage (35% of his HP). This rewards 1 Knowledge and can be repeated.
+    -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 8750 damage (35% of his HP). This rewards 1 Knowledge and can be repeated.
 
   
 (Existing characters will get this Knowledge the next time they kill them)
@@ -64,7 +64,7 @@ The limit of on-hand Knowledge a player can have is 99. **The currency is bound 
 
 As stated at the beginning of this page, Knowledge can be used to bargain with powerful objects and beings.
 
--   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more.Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division-- read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes)
+-   Each transaction is conducted via dialogue option, with Knowledge being _consumed instantly_ after the deal is done _**without any warning message or notice.**_ Before making a deal, _it's advised that you are **absolutely ready** to make the desired exchange- and go slowly through the dialogue,_ because most times, there is no going back once the deal is made (such as in the case with Shrine of Order). Your Knowledge will be lost no matter what, leaving you to have to get some more. Engaging in a deal with [Deep Shrines](Deep_Shrines.md) (EXCLUDING Shrine of Order, Shrine of Conceit, and Shrine of Division-- read below), uses 5 Knowledge per deal. (4 knowledge for Ganymedes)
 
 -   Engaging in a deal with **Shrine of Order**, uses 10 Knowledge. _After making a deal with the Shrine of Order, whatever was done to your build **CANNOT** be undone. Make sure you are absolutely ready to make the deal before you commit._
 -   Engaging in a deal with **Shrine of Conceit**, uses 1 Knowledge.
@@ -76,7 +76,7 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 -   Knowledge functions similarly to _[Insight](https://rogue-lineage.fandom.com/wiki/Insight)_, from _Rogue Lineage_ and _Tales from the Valley_, which in turn are references to _[Insight](https://bloodborne.fandom.com/wiki/Insight)_ from _Bloodborne_.
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).
 -   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
--   Ganymedes have a special racial bonus that make [Deep\_Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
+-   Ganymedes have a special racial bonus that make [Deep Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
     -   [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
     -   Shrine of Order will still cost 10 Knowledge(?)
     -   Shrine of Conceit will still cost 1 Knowledge.

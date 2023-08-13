@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 69428
+revid: 70042
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -30,5 +30,4 @@ The Ministry Cloak is an animated equipment item under the Arms category. Equipp
 
 ## Trivia
 
--   With 8 different colors, it has the most variants of any equipment together with the Justicar Defender.
 -   Rose, Peach and Pink variants are missing pictures.

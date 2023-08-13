@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 70003
+revid: 70038
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -1960,6 +1960,25 @@ Grants a random buff.
 Chests from:
 
 -   [First Layer](First_Layer.md)
+
+ | N/A |
+| File:Iron pauldrons.png | 
+
+[Iron Pauldrons](Iron_Pauldrons.md)
+
+ | 
+
+Grants a random buff.
+
+  
+_\+ 3 Health_  
+_\+ 1 Posture_
+
+ | 
+
+Chests from:
+
+-   [Fort Merit](Fort_Merit.md)
 
  | N/A |
 | File:Imperial Pauldrons.png | 

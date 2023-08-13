@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 69803
+revid: 70033
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -11,8 +11,6 @@ categories: [Oaths, Character, Talents, Mechanics]
 “ Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it. ”
 
 ― Oathsworn badge
-
-  
 
 ## Description
 

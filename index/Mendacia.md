@@ -1,6 +1,6 @@
 ---
 title: Mendacia
-revid: 58721
+revid: 70035
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Lore, Layer 2]
@@ -14,9 +14,9 @@ categories: [NPCs, Quests, Lore, Layer 2]
 
 ## Quest
 
-\-After interacting for the first time with her in the 1 floor, near the spawn, you'll need to interact with her in the Firfire caves, between the entrance and the fake floor hole between some spikes of stone. Shell tell you to go to the Cathedral of Ethiron to enter the city of New Kyrsa.
+\-After interacting for the first time with her in the 1st floor, near the spawn, you'll need to interact with her in the Firfire caves, between the entrance and the fake floor hole between some spikes of stone. Shell tell you to go to the Cathedral of Ethiron to enter the city of New Kyrsa.
 
-\-Upon arriving to New Kyrsa she will be in front of the first obelisk near the spawn of Floor 2, she will tell you to activate the 5 Obelisk in New Kyrsa to "free" her from her prision. Upon activating the 5 Obelisk she will be near the entrance to the Scion of Ethiron boss fight (Near the long tunnel) revealing herself and her true intentions calling you "LITTLE GODSEEKER" revealing that she tricked you into awakening the Scion Of Ethiron.
+\-Upon arriving to New Kyrsa she will be in front of the first obelisk near the spawn of Floor 2, she will tell you to activate the 5 Obelisk in New Kyrsa to "free" her from her prison. Upon activating the 5 Obelisk she will be near the entrance to the Scion of Ethiron boss fight (Near the long tunnel) revealing herself and her true intentions calling you "LITTLE GODSEEKER" revealing that she tricked you into awakening the Scion Of Ethiron.
 
   
 The rewards of the quest is 2 Knowledge.

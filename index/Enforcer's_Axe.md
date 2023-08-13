@@ -1,9 +1,9 @@
 ---
 title: "Enforcer's Axe"
-revid: 68082
+revid: 70048
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greataxes]
+categories: [Weapons, Pages with broken file links, Greataxes]
 ---
 
 # Enforcer's Axe
@@ -24,6 +24,10 @@ categories: [Weapons, Greataxes]
 | pass down | Yes |
 | obtainment | Drop from The Enforcer |
 | description | "The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation." |
+
+File:British enforcers axe.png
+
+The Enforcer's Axe but British.
 
 ## Description
 

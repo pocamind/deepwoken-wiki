@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 69092
+revid: 70047
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -35,7 +35,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
 -   13 from **character creation**.
 -   1 from **second Attunement** _(not required for all characters, but is set aside)._
 
-[Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75 Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLIES TO WEAPON & ATTUNEMENT.**
+[Unbounding any Attribute](Attributes_Unbound.md) will unbound it **automatically** for your new characters whenever you get 75 Attribute points. Unbounding a single Attribute will not unbound any other Attribute, this applies only to the Attribute you have unbounded manually. This applies to every slot on your account. **THIS DOES NOT APPLY TO WEAPON & ATTUNEMENT.**
 
 ### Strength
 
