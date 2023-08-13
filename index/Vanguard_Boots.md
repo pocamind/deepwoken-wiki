@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 69809
+revid: 69975
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Armors, Items]
@@ -12,7 +12,7 @@ categories: [Boots, Armors, Items]
 |---|---|
 | type | Boots |
 | rarity | ??? |
-| requirements | N/A |
+| requirements | None |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
@@ -20,7 +20,7 @@ categories: [Boots, Armors, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Starswept Valley |
-| description | - ... |
+| description | "..." |
 
 “ Oh my days bruhhh this is the third Vanguard Boots I've pulled from Lower ”
 
@@ -28,7 +28,7 @@ categories: [Boots, Armors, Items]
 
 ## Description
 
-Vanguard Boots are accessories under the "Boots" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
+Vanguard Boots are accessories under the "_Boots_" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
 
 Vanguard Boots are part of the "**Vanguard**" set; with the only other armor piece being the **[Vanguard Brace](Vanguard_Brace.md)**.
 

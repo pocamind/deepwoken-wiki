@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 69824
+revid: 69984
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -21,11 +21,11 @@ categories: [Equipment]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Miner's Landing |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-Mercenary Boots are an equipment under part of the boots category. This equipment grants +2 health and a Talent named Endurance Runner, which Negates the speed penalty of critical health.
+Mercenary Boots are an equipment under the "_boots_" category. This equipment grants +2 health and a Talent named Endurance Runner, which Negates the speed penalty of critical health.
 
 Mercenary Boot's are part of the "**Mercenary's**" set; with the only other armor piece being the **[Mercenary's Garb](<Mercenary's_Garb.md>)**.
 

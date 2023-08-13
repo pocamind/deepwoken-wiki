@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 69822
+revid: 69982
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Boots]
 | type | Boots |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
@@ -21,12 +21,12 @@ categories: [Equipment, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from;, Second Layer |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-Phalanx Heavy Boots are accessories under the "Boots" category. They can be found through chests in the [Second Layer](Second_Layer.md) of the Depths.
+Phalanx Heavy Boots are accessories under the "_Boots_" category. They can be found through chests in the [Second Layer](Second_Layer.md) of the Depths.
 
 ## Trivia
 
-Phalanx Heavy Boots are part of the "Phalanx" set; with the other armor pieces being the [Legion Phalanx Plate](Legion_Phalanx_Plate.md), Phalanx Helm.
+Phalanx Heavy Boots are part of the "**Phalanx**" set; with the other armor pieces being the [**Legion Phalanx Plate**](Legion_Phalanx_Plate.md), **Phalanx Helm**.

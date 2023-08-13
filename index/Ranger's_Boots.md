@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 68373
+revid: 69981
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -13,7 +13,7 @@ categories: [Boots]
 | type | Boots |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
@@ -21,7 +21,7 @@ categories: [Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, Arena |
-| description | - ... |
+| description | "..." |
 
 “ GO GO POWER RANGERS!! ”
 
@@ -29,9 +29,9 @@ categories: [Boots]
 
 ## Description
 
-Ranger's Boots are accessories under the "Boots" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md) and by winning matches in [Arena](Chime_of_Conflict.md).
+Ranger's Boots are accessories under the "_Boots_" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md) and by winning matches in [Arena](Chime_of_Conflict.md).
 
-Ranger's Boots are part of the "**Ranger's**" set; with the only other armor piece being the **Ranger's Brace**.
+Ranger's Boots are part of the "**Ranger's**" set; with the only other armor piece being the **[Ranger's Brace](<Ranger's_Brace.md>)**.
 
 ## Trivia
 

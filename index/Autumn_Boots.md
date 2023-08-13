@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 40751
+revid: 69971
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -8,7 +8,19 @@ categories: [Character, Armors]
 
 # Autumn Boots
 
-Template:EquipmentStats
+| Autumn Boots | |
+|---|---|
+| type | Boots |
+| rarity | ??? |
+| requirements | None |
+| innate stats | +3 Health |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Chests from:, Erisia |
+| description | "..." |
 
 ## Description
 

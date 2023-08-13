@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 69389
+revid: 69966
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -97,18 +97,17 @@ The voices appear to have some control and/or power over The Enforcer, as they s
 ## Trivia
 
 -   All of The Enforcer's damaging attacks are parryable, and blockable.
--   The Enforcer is one of the only monsters that can be both guard broken and posture stunned (the other being the [Nautilodaunt](Nautilodaunt.md))
+-   The Enforcer is one of the only monsters that can be both guard broken (the other being the [Nautilodaunt](Nautilodaunt.md))
 -   The Enforcer can also be found in the Trial of One.
--   The number of Enforcers can increase rapidly in the Depths. While it's stats do not increase with players, the amount increases exponentially, to a point at which one Enforcer will spawn for every single person (This happens at around above 4-5 people).
--   You can easily run, or even walk away from it's Whirlwind, easily giving you time to rest or use consumables.
--   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Pride" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.
--   The axe has a hitbox for unknown reasoning, allowing for easy hits by outranging The Enforcer during its whirlwind.
+-   You can easily run, or even walk away from its Whirlwind, easily giving you time to rest or use consumables.
+-   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Griddy" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 -   It is possible to cheese it by just running away and throwing potions.
 -   The Enforcer's clothing may be a reference to ''King'' from One Piece.
 -   As of 18/07/2022, The Enforcer cannot use its pull attack when Hell Mode is active, due to too many Enforcers pulling people into the void.
 -   During the weekly update for 21/11/2022, The Enforcer could temporarily spawn as corrupted variants. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many players.
--   The Modifier that allow all Depths Trials to be corrupted applies to the Enforcer.
 -   With the Enforcer's Eye, You are able to gain the Space Pull and use it in combat.
+-   Enforcer's Eye and Giant Femur are the only Monster Mantra Drops to have boosted drop rates out of the other mobs that have one.
+-   Enforcer (Blade Variant) is smaller than Enforcer (Axe Variant), Meanwhile Enforcer (Hammer Variant) is bigger than Enforcer (Axe Variant).
 
 1.  [↑](#cite-ref-1) The Enforcer can easily be beaten with strategy and skill rather than just brute forcing him like most other enemies and monsters.

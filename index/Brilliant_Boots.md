@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 68372
+revid: 69986
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -13,7 +13,7 @@ categories: [Character, Armors]
 | type | Boots |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
@@ -21,7 +21,7 @@ categories: [Character, Armors]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Songseeker Wilds, Minityrsa |
-| description | - ... |
+| description | "..." |
 
 “ Brilliant? These boots aren't brilliant, they're mid. ”
 
@@ -29,9 +29,9 @@ categories: [Character, Armors]
 
 ## Description
 
-Brilliant Boots are accessories under the "Boots" category. They can be found through chests in [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md) & [Minityrsa](Minityrsa.md).
+Brilliant Boots are accessories under the "_Boots_" category. They can be found through chests in [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md) & [Minityrsa](Minityrsa.md).
 
-Brilliant Boots are part of the "**Brilliant**" set; with the other armor pieces being the **Brilliant Pauldron** and the **Brilliant Cape**.
+Brilliant Boots are part of the "**Brilliant**" set; with the other armor pieces being the **[Brilliant Pauldrons](Brilliant_Pauldrons.md)** and the **Brilliant Cape**.
 
 ## Trivia
 

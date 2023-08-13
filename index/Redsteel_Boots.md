@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 69820
+revid: 69980
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -12,7 +12,7 @@ categories: [Boots]
 |---|---|
 | type | Boots |
 | rarity | ??? |
-| requirements | N/A |
+| requirements | None |
 | innate stats | +3 Health |
 | innate talent | N/A |
 | bankable | Yes |
@@ -20,7 +20,7 @@ categories: [Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Fort Merit, The Depths, Arena |
-| description | - ... |
+| description | "..." |
 
 “ Really? Why don't we settle this like men, then? Right here, right now. ”
 
@@ -28,9 +28,9 @@ categories: [Boots]
 
 ## Description
 
-Redsteel Boots are accessories under the "Boots" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md) and by winning matches in [Arena](Chime_of_Conflict.md).
+Redsteel Boots are accessories under the "_Boots_" category. They can be found through chests in [Fort Merit](Fort_Merit.md), [The Depths](The_Depths.md) and by winning matches in [Arena](Chime_of_Conflict.md).
 
 ## Trivia
 
 -   The **Red** counterpart to [Bluesteel Boots](Bluesteel_Boots.md).
--   The Redsteel Pauldrons are part of the “Redsteel” set; with the only other piece being the [Redsteel Pauldrons](Redsteel_Pauldrons.md).
+-   The Redsteel Pauldrons are part of the “**Redsteel**” set; with the only other piece being the [**Redsteel Pauldrons**](Redsteel_Pauldrons.md).

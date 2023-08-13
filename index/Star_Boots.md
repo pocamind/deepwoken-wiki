@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 69813
+revid: 69977
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -21,11 +21,11 @@ categories: [Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Primadon, The Depths, Duke Erisia |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-Star Boots are accessories under the "Boots" category. They can be found through chests in [The Depths](The_Depths.md) and by defeating [Primadon](Primadon,_Titan_of_the_East.md).
+Star Boots are accessories under the "_Boots_" category. They can be found through chests in [The Depths](The_Depths.md) and by defeating [Primadon](Primadon,_Titan_of_the_East.md).
 
 Star Boots are part of the "**Star**" set; with the only other piece being the **[Star Duster](Star_Duster.md)**.
 

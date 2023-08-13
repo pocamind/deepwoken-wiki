@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 69808
+revid: 69973
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Armors, Boots]
@@ -13,7 +13,7 @@ categories: [Equipment, Armors, Boots]
 | type | Boots |
 | rarity | Rare(Assumed) |
 | selling price | (Assumed) |
-| requirements | N/A |
+| requirements | None |
 | innate stats | +3 Health2 Pips |
 | innate talent | N/A |
 | bankable | Yes |
@@ -21,11 +21,11 @@ categories: [Equipment, Armors, Boots]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-The Woodland Pauldrons are an equipment item under the "Boots" category. Equipping them grants you +3 Health, 2 Pips (assumed), They are commonly found in chests from [Aratel Island](Aratel_Island.md).
+The Woodland Pauldrons are an equipment item under the "_Boots_" category. Equipping them grants you +3 Health, 2 Pips (assumed), They are commonly found in chests from [Aratel Island](Aratel_Island.md).
 
 ## Trivia
 
