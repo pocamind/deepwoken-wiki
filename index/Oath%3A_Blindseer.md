@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 70018
+revid: 70159
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,14 +36,14 @@ categories: [Oaths]
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=CZDpz7rwHTM)._
 
-To obtain the Blindseer Mantras, you need to help players with no Oath (AKA Pathfinders) in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. Also get a passive talent after 4 trials.
+To obtain the Blindseer Mantras, you need to help pathfinders, or players with no oaths, in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. Also get a passive talent after 4 trials.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 
 ## Abilities
 
 -   **Mindsoothe - Support Mantra**
-    -   Heal nearby allies for 60 HP at the cost of your Sanity (naturally the cost is only induced if someone is healed).
+    -   Heal nearby allies for 60 HP at the cost of your Sanity (allies also being people in the same guild)(naturally the cost is only induced if someone is healed).
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
@@ -83,7 +83,7 @@ This Oath grants the player 1 Support Mantra slot, 1 Wildcard Mantra Slot, 3 Hea
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to gaze, glare and flame blind.
 
-With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for extensives amount of time in The Depth at no risk.
+With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depth at no risk.
 
 ## Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70074
+revid: 70158
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -20,7 +20,7 @@ Template:DWI Talents
     -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
 -   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
     -   _(i.e "ButterfIy" to find talents that are within ButterfIy)_
--   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
+-   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](https://www.youtube.com/watch?v=dQw4w9WgXcQ) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
 
@@ -30,13 +30,13 @@ There are certain Talents that you receive automatically upon meeting their requ
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
--   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
+-   A high enough [Core Attribute](https://www.youtube.com/watch?v=dQw4w9WgXcQ), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 
 -   A certain Talent in a certain category.
     -   For example: Picking a mentaI fortress card will make you more likely to pull another mentaI fortress talent in your next set of talents.
 
--   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
+-   Doing certain actions that may influence your rolls, such as [Alchemy](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
     -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
 
 -   A high enough Power.

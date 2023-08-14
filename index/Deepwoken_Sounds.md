@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70125
+revid: 70165
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -128,6 +128,7 @@ A large collection of sounds found in _Deepwoken_.
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 1.2s | Picking card |
+|  | 1.8s | Freezing card |
 | File:Audio-card flip.ogg | 0.3s | Card flip |
 |  | 4.5s | Rare draw |
 |  | 4.8s | Legendary draw |
@@ -150,22 +151,30 @@ A large collection of sounds found in _Deepwoken_.
 | File:Block2.ogg | 0.7s | Sword block |
 |  | 0.9s | Alternative parry |
 |  | 2.1s | Guard breaking |
+|  | 2.1s | Windup impact |
 |  | 1.5s | Venting sound effect |
 |  | 1.7s | Ice skate on activation |
+|  | 3.2s | Flame of denial on activation |
 |  | 3.9s | Flame wisp upon restoring HP |
 |  | 0.7s | Gale wisp upon activation |
 |  | 1.1s | Wind Blade upon activation |
 |  | 1.7s | Warding Radiance upon activation |
-|  | 1s | Illusionary clones upon activation |
-|  | 1s | Crystal Impale upon activation |
+|  | 1.0s | Illusionary clones upon activation |
+|  | 1.0s | Crystal Impale upon activation |
 |  | 3.2s | Frozen status |
 |  | 5.1s | Ice fissure loop |
+|  | 2.2s | Lightning beam on hit |
+|  | 1.8s | Shadow gun |
+|  | 2.3s | Tornado kick |
+|  | 4.2s | Sing/Taunt upon acitvation |
+|  | 2.3s | Dawnwalker abilities |
 
 ### [Monsters](Monsters.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) |
+|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) bubble attack loop |
 |  | 2.1s | [Lionfish](Lionfish.md) growl |
 |  | 4.0s | [Lionfish](Lionfish.md) growl 2 |
 |  | 1.9s | [Lionfish](Lionfish.md) growl 3 |
@@ -174,6 +183,8 @@ A large collection of sounds found in _Deepwoken_.
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) scream 2 |
 |  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
 |  | 0.4s | [Bone keeper](Bone_Keeper.md) bone wave loop |
+|  | 1.9s | [Bone Keeper](Bone_Keeper.md) impact on bridge |
+|  | 0.4s | [Deep Owl](Deep_Owl.md) flock of feathers loop |
 
 ### **[Echoes](Echoes.md)**
 
@@ -197,30 +208,36 @@ A large collection of sounds found in _Deepwoken_.
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 3.0s | Changing Area |
+|  | 26s | Tundra Ambience |
 |  | 6.0s | Alternative [powering up](Power.md) |
 |  | 0.3s | Zipline loop |
+|  | 8.0s | Obtaining a [Resonance](Resonance.md) |
 |  | 0.1s | [Resonance](Resonance.md) on activation |
 |  | 0.1s | Legendary Resonance on activation |
 |  | 0.2s | Corrupted Resonance on activation |
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) on activation |
-|  | 0.02s | [Blood scourage](Blood_Scourge.md) on activation |
-|  | 0.01s | Blood scourage after execute |
+|  | 2.4s | [Blood scourge](Blood_Scourge.md) on activation |
+|  | 1.5s | [Blood scourge](Blood_Scourge.md) after execute |
+|  | 2.4s | [Crazy slots](Crazy_Slots.md) when activated and rolling Angel Spears |
 |  | 0.8s | Foraging |
-|  | 8.0s | Obtaining a [Resonance](Resonance.md) |
+|  | 0.6s | Fishing equalizer loop |
+|  | 1.6s | Opening a chest |
+|  | 4.0s | Dexerius Phoenix screech |
 |  | 3.0s | [Duke Erisia](Duke_Ishamon_Erisia.md)'s Laugh |
+|  | 5.2s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Barrier upon activation |
 |  | 6.0s | Dying in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
 |  | 1.3s | Pressing any button on the Deepwoken start up screen |
 |  | 3.6s | [Boat](Ships_&_Sailing.md) cannon sound effect |
-|  | 5.2s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Barrier upon activation |
 |  | 1.8s | Golden Toungue + Prediction Sounds |
 |  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md) Sound Effect, along with Ice Chains, Flame Assault, Shadow Assault Windup + Freeze Ace Selection |
-| 
- | 2.2s | [Entanglement](Enchantments.md) on activation |
+|  | 2.2s | [Entanglement](Enchantments.md) on activation |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) on activation |
 |  | 4.5s | Whirlpools when in close proximity |
+|  | 5.1s | Kyrsan Ambush |
 |  | 7.1s | Aerogliding loop |
-|  | 1.8s | The noise that the boulders make during the depths falling boulder event |
+|  | 1.8s | Depths boulder impact |
+|  | 2.3s | Depths boulder falling loop |
 
 ## Trivia
 

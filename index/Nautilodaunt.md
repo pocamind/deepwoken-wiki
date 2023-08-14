@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 69691
+revid: 70151
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -63,7 +63,7 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 
 ### Finisher
 
--   **"Mudskipperification"** - The Nautilodaunt turns their incapacitated prey into a [Mudskipper](Mudskipper.md).
+-   **"Mudskipperization"** - The Nautilodaunt turns their incapacitated prey into a [Mudskipper](Mudskipper.md).
 
 ## **Combat**
 

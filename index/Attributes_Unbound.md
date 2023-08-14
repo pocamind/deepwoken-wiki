@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 68884
+revid: 70134
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -75,6 +75,8 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 3.  At Erisia, above the mines, save Karliah from the Mudskipper eating her.
 4.  Talk to Karliah and make sure to select the last dialogue option. The first and second option will result in her demise, either by Horseshoe Crabs or by the hands of the player, **thus locking you out of unbounding Charisma.**
 5.  Return to Etris and talk to Karliah again, finish her dialogue to obtain Charisma Unbound.
+
+_For a visual guide consider watching [this video](https://youtu.be/Z5ECG-qpdg0)._
 
 ## Weapon Proficiency Unbound
 
