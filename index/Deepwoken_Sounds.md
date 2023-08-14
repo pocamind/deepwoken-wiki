@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 69864
+revid: 70124
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -119,7 +119,9 @@ Boss Theme
 
 ## Sound Effects
 
-Miscellaneous sounds found in _Deepwoken_.
+A large collection of sounds found in _Deepwoken_.
+
+-   Note that some sounds may be used in more than one aspect of gameplay
 
 ### [Talent/Mantra Cards](Talents.md)
 
@@ -148,6 +150,16 @@ Miscellaneous sounds found in _Deepwoken_.
 | File:Block2.ogg | 0.7s | Sword block |
 |  | 0.9s | Alternative parry |
 |  | 2.1s | Guard breaking |
+|  | 1.5s | Venting sound effect |
+|  | 1.7s | Ice skate on activation |
+|  | 3.9s | Flame wisp upon restoring HP |
+|  | 0.7s | Gale wisp upon activation |
+|  | 1.1s | Wind Blade upon activation |
+|  | 1.7s | Warding Radiance upon activation |
+|  | 1s | Illusionary clones upon activation |
+|  | 1s | Crystal Impale upon activation |
+|  | 3.2s | Frozen status |
+|  | 5.1s | Ice fissure loop |
 
 ### [Monsters](Monsters.md)
 
@@ -161,6 +173,7 @@ Miscellaneous sounds found in _Deepwoken_.
 | File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) scream |
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) scream 2 |
 |  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
+|  | 0.4s | [Bone keeper](Bone_Keeper.md) bone wave loop |
 
 ### **[Echoes](Echoes.md)**
 
@@ -189,6 +202,7 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 0.1s | [Resonance](Resonance.md) on activation |
 |  | 0.1s | Legendary Resonance on activation |
 |  | 0.2s | Corrupted Resonance on activation |
+|  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) on activation |
 |  | 0.02s | [Blood scourage](Blood_Scourge.md) on activation |
 |  | 0.01s | Blood scourage after execute |
 |  | 0.8s | Foraging |
@@ -197,6 +211,16 @@ Miscellaneous sounds found in _Deepwoken_.
 |  | 6.0s | Dying in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
 |  | 1.3s | Pressing any button on the Deepwoken start up screen |
+|  | 3.6s | [Boat](Ships_&_Sailing.md) cannon sound effect |
+|  | 5.2s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Barrier upon activation |
+|  | 1.8s | Golden Tounge upon activation |
+|  | 2.3s | [Vow of mastery](Vow_of_Mastery.md) sound effect |
+| 
+ | 2.2s | [Entanglement](Enchantments.md) on activation |
+|  | 0.1s | [Insignia Gem](Deep_Gems.md) on activation |
+|  | 4.5s | Whirlpools when in close proximity |
+|  | 7.1s | Aerogliding loop |
+|  | 1.8s | The noise that the boulders make during the depths falling boulder event |
 
 ## Trivia
 

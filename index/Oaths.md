@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 70033
+revid: 70079
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -96,10 +96,8 @@ Proof of Time Magic's existance and it being an "Oath"
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Trying to speak to an attunement trainer as a silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
 -   Most Oaths change your character's eye color.
-    -   Blindseer changes your eye color to a \[dull white\], being the same as having the blind flaw.
     -   Visionshaper gives the user \[magenta\] eyes.
     -   Jetstriker gives the user \[silver\] eyes.
-    -   Arcwarder gives the user \[orange\] eyes.
     -   Dawnwalker gives the user \[white\] eyes.
     -   Contractor gives the user \[dark maroon\] eyes.
     -   Silentheart gives a \[darker\] and \[duller\] shade of the user's current eye color.

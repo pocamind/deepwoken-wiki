@@ -1,9 +1,9 @@
 ---
 title: Justicar Defender Coat
-revid: 70044
+revid: 70076
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Pages with broken file links, Equipment, Arms]
 ---
 
 # Justicar Defender Coat
@@ -23,6 +23,10 @@ categories: [Equipment, Arms]
 | pass down | Yes |
 | obtainment | Chests from:Aelita, Deep Owls, King Threshers |
 | description | ... |
+
+File:The new Justicar defender after the update.png
+
+The new Jet Black Justicar defender after the update (looks ugly)
 
 ## Description
 
