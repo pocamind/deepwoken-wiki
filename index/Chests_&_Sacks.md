@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 69576
+revid: 70062
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,6 +33,8 @@ The color of a chest depends on where you got it from, consisting of four variat
 -   A neon pink chest, found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
 **Chest mimics** (more commonly known as **trick chests**) can spawn around the [Eastern Luminant](Luminants.md), and releasing beasts that were even thought to just stay around [the Depths](The_Depths.md). These include:
+
+A Mimic Chest
 
 -   [Megalodaunt](Megalodaunt.md)
 -   [Crimson Megalodaunt](Megalodaunt.md)

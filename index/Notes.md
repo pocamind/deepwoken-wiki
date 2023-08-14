@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 61233
+revid: 70067
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,9 +24,7 @@ Notes can be used in various ways, listed below.
 
 ### Dropping
 
-Upon clicking your Notes on the bottom right, you can choose to drop any amount to maximum of 500.
-
-Players can only drop a maximum of 500 Notes at a time. You are also restricted from taking Notes from another player with more than you.
+Upon clicking your Notes on the bottom right, you can choose to drop any amount to maximum of 1000.
 
 ### Obtaining
 

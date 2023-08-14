@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 69785
+revid: 70074
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -317,7 +317,7 @@ _**"I enjoy mixing potions."**_
 -   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
     -   Prerequisites: Power 13, 65 Thundercall, Resolve Crusher
 
--   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from eletrified opponents are converted into lighting damage, but will deal 10% less damage to you.
+-   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
     -   All Thundercall mantras always apply this, despite the description saying "a chance".
     -   Prerequisites: Power 10, 65 Thundercall, Thundercaller
