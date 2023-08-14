@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 70092
+revid: 70128
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -8,7 +8,7 @@ categories: [Oaths]
 
 # Oath: Fadetrimmer
 
-| Oath: The Barber | |
+| Oath: Fadetrimmer | |
 |---|---|
 | oath_req | Power 12, 10 non-unique haircuts |
 | effects | +1 Combat Mantra Slot, +1 Wildcard Mantra Slot |

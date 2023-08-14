@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 69882
+revid: 70127
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -101,7 +101,7 @@ Also all of the kills need to be made on one single character
         -   **\[CON\]** ...but you do not gain vision of your target.
 -   Grants the Knives of Eylis talent "Voideye".
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
-    -   This ability as a 10 minute cooldown. _The cooldown automatically ends when a bounty is completed._
+    -   This ability has a 10 minute cooldown. _The cooldown automatically ends when a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO\]** You spawn with Whaler Initiate Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which connects you to players who have yet to establish a rapport with the Knives.

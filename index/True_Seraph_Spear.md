@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 69884
+revid: 70126
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -29,7 +29,7 @@ categories: [Weapons, Spears]
 
 ## Description
 
-The True Seraph's Spear is a MED weapon. This spear can be obtained from killing a [Corrupted King Thresher](Thresher.md) or a [Glacial Lionfish](Lionfish.md) in [The Depths](The_Depths.md). It has the joint highest MED requirement out of all spears, alongside the [Kyrsglaive](Kyrsglaive.md), and probably is the most tedious spear to obtain. It's unrivalled in its penetration, chip damage and swing speed. The True Seraph's Spear does 29.6 damage at 100 MED and 28.49 damage at 90 MED (the requirement to use this weapon).
+The True Seraph's Spear is a MED weapon. This spear can be obtained from killing a [Corrupted King Thresher](Thresher.md) or a [Glacial Lionfish](Lionfish.md) in [The Depths](The_Depths.md). It has the joint highest MED requirement out of all spears, alongside the [Kyrsglaive](Kyrsglaive.md), and probably is the most tedious spear to obtain. It's unrivalled in its chip damage. The True Seraph's Spear does 29.6 damage at 100 MED and 28.49 damage at 90 MED (the requirement to use this weapon).
 
 ## Trivia
 

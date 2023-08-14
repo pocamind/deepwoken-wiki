@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70124
+revid: 70125
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -213,8 +213,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.3s | Pressing any button on the Deepwoken start up screen |
 |  | 3.6s | [Boat](Ships_&_Sailing.md) cannon sound effect |
 |  | 5.2s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Barrier upon activation |
-|  | 1.8s | Golden Tounge upon activation |
-|  | 2.3s | [Vow of mastery](Vow_of_Mastery.md) sound effect |
+|  | 1.8s | Golden Toungue + Prediction Sounds |
+|  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md) Sound Effect, along with Ice Chains, Flame Assault, Shadow Assault Windup + Freeze Ace Selection |
 | 
  | 2.2s | [Entanglement](Enchantments.md) on activation |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) on activation |
