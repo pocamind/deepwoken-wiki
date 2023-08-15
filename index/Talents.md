@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70182
+revid: 70258
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1391,6 +1391,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Obtained by equipping an [Aristocrat Coat](Aristocrat_Coat.md).
 
 ### Metallurgist
+
+> _**"I seek the qualities of Metallurgist."**_
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
     -   Bleed damage now only deal 15% more damage.
