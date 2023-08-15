@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 67992
+revid: 70318
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -39,3 +39,7 @@ A Cloaked Assassin executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent before slicing their throat with their blade. |
+
+## Trivia
+
+-   Rarely, Cloaked Assassins can ambush the player rather than being hunted by a faction.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70244
+revid: 70294
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -153,7 +153,6 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.1s | Guard breaking |
 |  | 2.1s | Windup impact |
 |  | 1.5s | Venting sound effect |
-|  | 1.7s | Ice skate on activation |
 |  | 3.2s | Flame of denial on activation |
 |  | 3.9s | Flame wisp on restoring HP |
 |  | 0.7s | Gale wisp on activation |
@@ -167,9 +166,10 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.2s | Lightning beam on hit |
 |  | 1.8s | Shadow gun |
 |  | 2.3s | Tornado kick |
-|  | 4.2s | Sing/Taunt upon acitvation |
+|  | 4.2s | Sing/Taunt/Grasp of elyis upon acitvation |
 |  | 2.3s | Glare on hit |
 |  | 2.3s | Dawnwalker abilities |
+|  | 1.7s | Ice abilities |
 
 ### [Monsters](Monsters.md)
 
@@ -187,8 +187,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) roar |
 |  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
 |  | 0.4s | [Bone keeper](Bone_Keeper.md) bonespikes loop |
-|  | 1.9s | [Bone Keeper](Bone_Keeper.md) impact on bridge |
-|  | 2.8s | [Bounder](Bounder.md) leap |
+|  | 1.9s | Generic impact sound |
+|  | 2.8s | Generic leap sound |
 
 ### **[Echoes](Echoes.md)**
 

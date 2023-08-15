@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 70234
+revid: 70312
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -81,6 +81,8 @@ A screenshot of the Tacet NPC at Erisia, found by Restative.
 
 Passing the Charisma Check, requiring 50 Charisma, of sitting Ministry NPC grants you the Murmur for free. (Note: The Stranger NPC is not a set NPC, he has a rare chance to spawn anywhere at Erisia.) Obtainment of the Murmur via this method is not recommended.
 
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/-nlSAteFox4)._
+
   
 
   
@@ -117,7 +119,6 @@ This also allows the user to see a estimate of entities health(orange for 65%, r
 -   You will need to listen to the audio cues given of by the holes in the wall (indicated by a pulsing marker) and interact with the hole that make a lower pitched sound compared to the other 3. Consider lowering your music volume and raising the audio of your Roblox client to hear more clearly. Repeat this task 3 times and you will be granted the murmur.
 -   Failed attempts will lead to 2-3 Parasites forming into your body.
 
-  
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=z_D3wekcclg&ab_channel=TheDeepwokenGuide)._
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70258
+revid: 70296
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -81,7 +81,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   Despite the wording, the base version of Time To Go still works. You just wont get the extended speed boost on monsters.
     -   Prerequisite: Time To Go
 
--   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
+-   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
     -   Prerequisite: 20 Agility
 
@@ -484,7 +484,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
--   _Grand Support_ \[Rare Talent\] - Everyone you buff heals them slightly.
+-   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed slightly.
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Cosmic Wind
@@ -1727,7 +1727,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - Grants you the ability to command shadows as a Shadowcaster._
     -   Prerequisite: Shadowcast with Power 1 or obtain through Shadowcast trainer (Nostor)
 
--   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. (+5 Elemental Intensity)
+-   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras. (+5 Elemental Intensity)
     -   Prerequisite: 30 Shadowcast
     -   Mutual Exclusive: Singularity
 
@@ -1820,7 +1820,7 @@ Prerequisite: Charisma
 
 -   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Shadowcast
--   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long.
+-   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.

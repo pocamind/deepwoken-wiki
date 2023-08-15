@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 65827
+revid: 70317
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -773,7 +773,7 @@ We work for the Summer Company...
 > 
 > Smolkin, whose father initially trained him to become a luthier, drew on his experience with musical instruments, and combined the properties of the zitherin and lutelen instrument families. Smolkin's luthier training also meant that he was taught to play Old World guitarrons in some middling capacity - and thus, by extension, he could play the canjolin, as it relied on many conventional guitarron practices in construction and tuning.
 > 
-> Thus, to test out his new instrument, he composed the base melody for "Our Fortress". Its iconic opening tune of Z-V-Z-V-B-B|-N|-B|-B-V is a melody that feels very natural to play on the canjolin - no surprise given the its tuning. And although Smolkin's steel wire designs for small arms firing mechanisms did not catch on, his musical instrument innovation did. The canjolin gained widespread popularity among Summer Company employees over the coming years, likely owing it to its ease of tuning, its portability, versatility, and sharp carefree sound.
+> Thus, to test out his new instrument, he composed the base melody for "Our Fortress". Its iconic opening tune of Z-V-Z-V-B-B♭-N♭-B-V is a melody that feels very natural to play on the canjolin - no surprise given the its tuning. And although Smolkin's steel wire designs for small arms firing mechanisms did not catch on, his musical instrument innovation did. The canjolin gained widespread popularity among Summer Company employees over the coming years, likely owing it to its ease of tuning, its portability, versatility, and sharp carefree sound.
 > 
 > And close behind the canjolin, "Our Fortress" followed. Quickly, it became a popular tune for beginners learning to play the instrument, as well as a sort of an identifying anthem of the Company. Future players of the canjolin innovated on its use - some artists prefer to play it horizontally, like a zitherin instrument; and some mantra users incorporate their attunements while playing, with flamecharmers and frostdrawers manipulating tuning mid-play by using heat and frost, and thundercallers spawning a method of play known as 'overdrive' with electrified strings.
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 69639
+revid: 70311
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1759,6 +1759,7 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
 
 -   You can pass down soulbound weapons for 60 echoes each, however the weapon will be automatically soulbound to the next character.
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
+-   Hero Blades scale with **Songchant**, as opposed to **Proficiency**.
 -   The weapon with the highest:
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Shattered Katana (100 MED)

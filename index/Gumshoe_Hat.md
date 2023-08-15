@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 67936
+revid: 70316
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -19,7 +19,7 @@ categories: [Character, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit |
+| obtainment | Fort Merit Primadon |
 | description | - ... |
 
 ## Description

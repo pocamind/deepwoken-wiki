@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 69946
+revid: 70306
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -68,6 +68,8 @@ Shadowmeld mobs take less damage from Basic Attacks, M1, Crits
 **Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
 
 **Exclusive to Trial of One**
+
+**Exclusive to the Eternal Gale**
 
   
 
@@ -158,7 +160,4 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 -   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
 -   NOT all attacks can be parried; Buy a Hunter Brace at Summer Isle to be able to.
 -   Some creatures will fight each other; Multiple can fight at the same time. Example [Here](https://youtu.be/01uQchtfUvw), [Also Here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s)
--   Some variants of some creatures are limited to The Depths, and others are only in The Overworld
--   Monsters can only be in one family at once, even if in a situation where it'd make sense they'd overlap.
-    -   Although many may consider Megalodaunts to be a "Giant Monster". The Megalodaunt Hide reveals they are native from the Depths.
--   There is also a mob/monster that can be spawned by a developer or Karliah's Charisma uncap quest called a squiggly
+-   Some variants of some creatures are limited to The Depths, and others are only in The Overworld.
