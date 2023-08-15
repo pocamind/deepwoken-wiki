@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 64838
+revid: 70242
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -34,4 +34,8 @@ Deals 12 damage with 7 scaling, totaling to 20.4 damage at 100 Light Weapons.
 ## Trivia
 
 -   This is the only Rapier that features a hand guard.
--   Due to it's comparatively low stats, it is generally used to obtain rapier talents early-game rather than for it's stats
+-   Due to its comparatively low stats, it is generally used to obtain rapier talents early-game rather than for its stats.
+
+## Gallery
+
+Icon in Main Menu Selection

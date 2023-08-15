@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70165
+revid: 70244
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -155,25 +155,27 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.5s | Venting sound effect |
 |  | 1.7s | Ice skate on activation |
 |  | 3.2s | Flame of denial on activation |
-|  | 3.9s | Flame wisp upon restoring HP |
-|  | 0.7s | Gale wisp upon activation |
-|  | 1.1s | Wind Blade upon activation |
-|  | 1.7s | Warding Radiance upon activation |
-|  | 1.0s | Illusionary clones upon activation |
-|  | 1.0s | Crystal Impale upon activation |
+|  | 3.9s | Flame wisp on restoring HP |
+|  | 0.7s | Gale wisp on activation |
+|  | 1.1s | Wind Blade on activation |
+|  | 1.1s | Haunted gale on activation |
+|  | 1.7s | Warding Radiance on activation |
+|  | 1.0s | Illusionary clones on activation |
+|  | 1.0s | Crystal Impale on activation |
 |  | 3.2s | Frozen status |
 |  | 5.1s | Ice fissure loop |
 |  | 2.2s | Lightning beam on hit |
 |  | 1.8s | Shadow gun |
 |  | 2.3s | Tornado kick |
 |  | 4.2s | Sing/Taunt upon acitvation |
+|  | 2.3s | Glare on hit |
 |  | 2.3s | Dawnwalker abilities |
 
 ### [Monsters](Monsters.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) |
+|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) ambience |
 |  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) bubble attack loop |
 |  | 2.1s | [Lionfish](Lionfish.md) growl |
 |  | 4.0s | [Lionfish](Lionfish.md) growl 2 |
@@ -181,10 +183,12 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.7s | [Lionfish](Lionfish.md) growl 4 |
 | File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) scream |
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) scream 2 |
-|  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
-|  | 0.4s | [Bone keeper](Bone_Keeper.md) bone wave loop |
-|  | 1.9s | [Bone Keeper](Bone_Keeper.md) impact on bridge |
 |  | 0.4s | [Deep Owl](Deep_Owl.md) flock of feathers loop |
+|  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) roar |
+|  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
+|  | 0.4s | [Bone keeper](Bone_Keeper.md) bonespikes loop |
+|  | 1.9s | [Bone Keeper](Bone_Keeper.md) impact on bridge |
+|  | 2.8s | [Bounder](Bounder.md) leap |
 
 ### **[Echoes](Echoes.md)**
 
@@ -207,18 +211,22 @@ A large collection of sounds found in _Deepwoken_.
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
+|  | 2.7s | [Trial of one](Trial_of_One.md) spawn sound |
 |  | 3.0s | Changing Area |
 |  | 26s | Tundra Ambience |
+|  | 1.1s | [Layer 2](Second_Layer.md) gate opening loop |
 |  | 6.0s | Alternative [powering up](Power.md) |
 |  | 0.3s | Zipline loop |
 |  | 8.0s | Obtaining a [Resonance](Resonance.md) |
 |  | 0.1s | [Resonance](Resonance.md) on activation |
+|  | 1.8s | [Tarnished Resonance](Resonance.md) on activation |
 |  | 0.1s | Legendary Resonance on activation |
 |  | 0.2s | Corrupted Resonance on activation |
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) on activation |
 |  | 2.4s | [Blood scourge](Blood_Scourge.md) on activation |
 |  | 1.5s | [Blood scourge](Blood_Scourge.md) after execute |
 |  | 2.4s | [Crazy slots](Crazy_Slots.md) when activated and rolling Angel Spears |
+|  | 2.0s | [Tacet murmur](Murmur.md) on activation |
 |  | 0.8s | Foraging |
 |  | 0.6s | Fishing equalizer loop |
 |  | 1.6s | Opening a chest |
@@ -234,7 +242,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.2s | [Entanglement](Enchantments.md) on activation |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) on activation |
 |  | 4.5s | Whirlpools when in close proximity |
-|  | 5.1s | Kyrsan Ambush |
+|  | 5.1s | Illusionary Realm loop |
+|  | 5.1s | Kyrsan Ambush event |
 |  | 7.1s | Aerogliding loop |
 |  | 1.8s | Depths boulder impact |
 |  | 2.3s | Depths boulder falling loop |

@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 70066
+revid: 70240
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -76,7 +76,7 @@ The Etris blacksmith house.
     -   Heavy Weapon users can purchase:
         -   [Battleaxe](Battleaxe.md) for.
         -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for.
-        -   Zweihander (requires 20 HVY, 10 STR) for.
+        -   [Zweihander](Zweihander.md) (requires 20 HVY, 10 STR) for.
     -   Players can purchase a [Targe](Targe.md) (requires 10 FTD) for.
     -   Players can purchase a [Parrying Dagger](Parrying_Dagger.md) (requires 10 AGI) for.
     -   On the second floor, players can also purchase the schematic for:

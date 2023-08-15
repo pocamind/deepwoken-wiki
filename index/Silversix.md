@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 68444
+revid: 70239
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -28,9 +28,17 @@ categories: [Weapons, Guns]
 
 ― A proud Canorian father teaching his son.
 
+## Description
+
 The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on Advanced Weapons in [Character Creation](Character_Creation.md). Requiring you to get 75 Echoes.
 
 (You _need_ to unlock [The Quickfang](Quickfang.md) and [Iron Tusk](Irontusk.md) beforehand, each costing 25 Echoes to get.)
 
+## Trivia
+
 -   The Silversix cannot be dropped by the player by being killed.
 -   The critical causes the gun to fire a projectile very far, regardless of the player having a bullet in their inventory or not.
+
+## Gallery
+
+Icon in Main Menu Selection

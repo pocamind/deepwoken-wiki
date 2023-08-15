@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 69271
+revid: 70236
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, NPCs]
 
 ## Description
 
-Attunement Trainers are NPCs that are hidden around the map that level up mantras for money. Each trainer will increase a mantra level by one depending on which Attunement they train. (Ex: [Frostdraw](Frostdraw.md) Spelltrainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for levelling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A levelled up mantra's damage is increased obviously.
+Attunement Trainers are NPCs that are hidden around the map that level up mantras for money. Each trainer will increase a mantra level by one depending on which Attunement they train. (Ex: [Frostdraw](Frostdraw.md) Spelltrainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for levelling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A levelled-up mantra's damage is increased obviously.
 
 A trainer needs intervals of 20 points in your Attunement to upgrade a mantra of the same elemental type as the trainer to upgrade.
 

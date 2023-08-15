@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 70169
+revid: 70235
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -134,7 +134,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
 -   Decreases damage received by 5% for allies and yourself for the duration of the effect.
     -   Despite not being mentioned in the description, the effect also increases damage dealt by those affected by 3%.
--   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord Commander', 'Blood Shadow' and 'Grand Support'._
+-   _Can be upgraded_ with the _Fortitude Talent Cards 'Blood Shadow' and 'Grand Support'._
 -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people non-allies, including mobs.
 -   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).
 
@@ -191,6 +191,7 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
     -   Teleports the user some distance forward upon activation.
     -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
     -   Scales with the user's Power Level and Agility Attribute.
+    -   With the [Pursuit](Talents.md) talent, Revenge can be used twice in a row if the first use hits.
     -   **THIS MOVE NOW APPLIES HITSTUN, WAYWARD DOESNT PROC**
 
  |
@@ -209,7 +210,7 @@ File:Dash Mantra Demonstration.gif
     -   Range significantly decreases as the user loses health.
     -   Canceled by attacking.
     -   Upgrading wont make the dash longer. (Tested)
-    -   Can be upgraded with a Spring Spark to lower travel distance, but increases amount of uses from 1 to 2.
+    -   Can be upgraded with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
 
  |
 | 
