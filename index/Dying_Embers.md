@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 69408
+revid: 70175
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -37,3 +37,7 @@ Dying embers drop from certain monsters, and NPCs that use the [Flamecharm](Flam
 -   [Songseeker Flamecharmer](Songseeker_Flamecharmer.md)
 -   [Stone Knights](Stone_Knight.md)
 -   [Authority Soldier](Authority_Soldier.md)
+
+## Trivia/Notes
+
+-   Before the Verse 2 update, they would give [Reservoir](Reservoir.md) when eaten. This feature was removed, because of Reservoir's removal.

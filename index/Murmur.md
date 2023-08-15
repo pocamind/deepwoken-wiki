@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 69953
+revid: 70176
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -109,7 +109,7 @@ With this upgrade, entities in range (shorter than the max range for regular whi
 
 This allow the user to track down those who stay silent or are trying to hide from them. This even detects players who are using Murmur: Tacet, resulting in a white ping pointing at nothing.
 
-This also allows the user to see a estimate of entities health(orange for half, red for under 20%(not tested extensively))
+This also allows the user to see a estimate of entities health(orange for 65%, red for under 33%(tested))
 
 ### Obtainment
 

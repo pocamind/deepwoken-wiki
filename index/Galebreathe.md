@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 69189
+revid: 70170
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -809,7 +809,7 @@ N/A
 ## Trivia
 
 -   Primadon is completely immune to suffocation.
--   Light Green Mudskippers are able to use a buffed version of the **Air Force** mantra, with greater knockback and ragdoll.
+-   Light Green Mudskippers are able to use a buffed version of the **Air Force** mantra, with greater knockback.
 -   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
     
 -   To cast the _"Gale Wisp"_ mantra, the user must press the key corresponding to what letter appears on the GUI. Like any other wisp in the game.

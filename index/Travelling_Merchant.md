@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 69229
+revid: 70181
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -93,8 +93,9 @@ The prices of Chili's items may vary from price to price.
     -   [Vanguard Brace](Vanguard_Brace.md)
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
--   **Lore Books:**
-    -   Refer this page instead: [Lore Books](Books.md)
+-   **utilities:**
+    -   [Lore Books](Books.md)
+    -   Dye packets
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70158
+revid: 70182
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -81,14 +81,9 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
     -   Despite the wording, the base version of Time To Go still works. You just wont get the extended speed boost on monsters.
     -   Prerequisite: Time To Go
 
--   Graceful Landing \[Common Talent, Agility\] - You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
-    -   Minimum threshold to take fall damage is increased.
-    -   Stacks with other means of fall damage reduction.
-    -   Prerequisite: 25 Agility
-
 -   Kick Off \[Common Talent, Agility\] - Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
-    -   Prerequisite: 15 Agility
+    -   Prerequisite: 20 Agility
 
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
@@ -490,9 +485,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff heals them slightly.
-    -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
-
--   _Lord Commander_ \[Rare Talent\]- Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Cosmic Wind
@@ -1083,8 +1075,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Ice Skate, 70 Frostdraw.
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
-    -   ~Saint Jay last for double the duration of Chill~ Does not anymore.
-    -   Works with Crystallization but has a shorter duration.
     -   Prerequisite: Frostbite
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
     -   Prerequisites: 100 Frostdraw
@@ -1714,9 +1704,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Adept Shadowcaster \[Unlockable Talent, Shadowcast Exclusive\] - You can now obtain 1-star Leveled Shadowcaster Mantras._
     -   Prerequisite: 20 Shadowcast
 
--   Black Out \[Common Talent, Shadowcast Exclusive\] - Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
-    -   Prerequisite: 30 Shadowcast, Sightless Still
-
 -   Blossoming Darkness \[Common Talent, Shadowcast Exclusive\] - The more Ether you drain during Shadow Roar, the bigger it gets. (+1 Elemental Intensity)
     -   Prerequisite: Shadow Roar
 
@@ -1833,9 +1820,6 @@ Prerequisite: Charisma
     -   Prerequisites: Static Link, 60 Thundercall, 50 Shadowcast
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 50% as long.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
-
--   Quick Link \[Common Talent, Thundercall exclusive\] - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
-    -   Prerequisite: 40 Thundercall, 15 Intelligence
 
 -   Jumper Cables \[Common Talent, Thundercall exclusive\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
     -   Whenever you would get knocked but have a tether active, steal HP from the target to survive the hit.

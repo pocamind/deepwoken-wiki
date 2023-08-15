@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 69887
+revid: 70169
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -58,7 +58,6 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>A powerful left jab that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
     <li>Strong Left scales with your Strength attribute.</li>
     <li>Can fell trees With <a href="Talents.md">Treefelling Blow</a> talent, they can gain wood from fallen trees.</li>
-    <li>Main use is to Boop freshies into the void in the depths.</li>
   </ul></td>
 </tr>
 <tr>

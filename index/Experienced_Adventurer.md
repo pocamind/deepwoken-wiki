@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 61128
+revid: 70173
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -22,7 +22,13 @@ This Outfit requires [Power Level](Power.md) 5.
 
 This Outfit grants the user with +10% Physical resistance and +10% Blunt resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Looter_, which gives you extra loot for items you turn in for rewards.
+This Outfit also grants the [Talent Card](Talents.md) _Looter_, which gives you extra loot for items you turn in for rewards.  
+**Events this may affect:**
+
+-   Turning in [Artifacts](Artifacts.md) at a banker,
+-   Handing in pure ore to a blacksmith,
+-   Turning in [Sacks](Chests_&_Sacks.md) to Mercille at the summer company outpost across from [Meteor Isle](Meteor_Isle.md),
+-   Trading in _Explosive Crates_ at [Summer Isle](Summer_Isle.md).
 
 ## Location
 
@@ -33,4 +39,4 @@ This Outfit's schematic can be found in:
 
 ## Trivia
 
--   Player notes go here
+-   Pairs well visually with "Brace" type [Equipment](Equipment.md), due to its off the shoulder nature.

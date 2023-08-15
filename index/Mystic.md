@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 69197
+revid: 70183
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -25,7 +25,11 @@ This is a browser function, but all mainstream browsers should have it.
 
 ## Overview
 
-Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For 20 notes, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get cards from the correlating family of talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) talents. This interaction could be repeated infinite amount of times with sufficient amount of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose. Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances. They also cannot give Rare Talent Cards.
+Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For 20 notes, they will give you many prompts to choose from. Upon picking a prompt, the next time you power up, you will be guaranteed to get mantras or cards from the correlating family of talents. For example, if you tell them, "My mind is indomitable", you will get [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) talents. This interaction could be repeated infinite amount of times with sufficient amount of notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
+
+-   Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.
+-   Cannot give Rare Talent Cards.
+-   Mystic affects mantra rarity (i.e. stars).
 
 ## Dialogue
 
@@ -192,6 +196,13 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 -   _I see the qualities of Lichtenberg. **(Scorched peak)**_
 -   _I seek the qualities of Heat Column. **(Heat Column)**_
+
+## Mantras
+
+-   Sometimes the best option is the simplest. ( **0 star mantra)**
+-   A little experience can go a long way. ( **1 star mantra)**
+-   I could do all this in my sleep. ( **2 star mantra)**
+-   Only the strongest will do. ( **3 star mantra)**
 
 ## Locations
 
