@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 54871
+revid: 70325
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, World, Items]
@@ -10,7 +10,9 @@ notices:
 
 # Materials
 
-Materials are items in Deepwoken that can be used for many different things, mainly [Armors](Outfits.md) or [Quests](Quests.md).
+Materials are items in
+
+[Armor](Outfits.md) or [Quests](Quests.md).
 
 ## Wood
 
