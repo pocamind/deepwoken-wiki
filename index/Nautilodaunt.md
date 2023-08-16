@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 70151
+revid: 70400
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -108,3 +108,4 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   The nickname "Squid Hoss" is a reference to the Rogue Lineage martial artist Big Hoss, who teaches you all 3 stages of the Oni class.
 -   Nautilodaunt are probably inspired by [Dagon from the Jujutsu Kaisen manga](<https://villains.fandom.com/wiki/Dagon_(Jujutsu_Kaisen)>) as they are both squid monsters, have an identical model and are very intellectual in hand to hand combat.
 -   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800.
+-   The vent he uses was the old vent before Deepwoken's release.
