@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70294
+revid: 70380
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken]
@@ -146,8 +146,11 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.4s | Sword attack |
 |  | 0.4s | Alternative sword attack |
 |  | 1.5s | Sword critical attack |
+|  | 1.0s | Spear/Greatsword critical attack |
+|  | 1.9s | Greataxe critical attack |
 |  | 0.8s | Sword execution |
-| File:Punch3.ogg | 0.4s | Punch |
+|  | 0.8s | [Way of Navae](Way_of_Navae.md) activation |
+| File:Punch3.ogg | 0.4s | Punching atatck |
 | File:Block2.ogg | 0.7s | Sword block |
 |  | 0.9s | Alternative parry |
 |  | 2.1s | Guard breaking |
@@ -157,19 +160,26 @@ A large collection of sounds found in _Deepwoken_.
 |  | 3.9s | Flame wisp on restoring HP |
 |  | 0.7s | Gale wisp on activation |
 |  | 1.1s | Wind Blade on activation |
+|  | 1.5s | Heavenley wind impact |
 |  | 1.1s | Haunted gale on activation |
 |  | 1.7s | Warding Radiance on activation |
 |  | 1.0s | Illusionary clones on activation |
 |  | 1.0s | Crystal Impale on activation |
+|  | 1.4s | Gaining the burn status / Mirage clones |
+|  | 0.8s | Burning status when extinguished |
 |  | 3.2s | Frozen status |
 |  | 5.1s | Ice fissure loop |
 |  | 2.2s | Lightning beam on hit |
 |  | 1.8s | Shadow gun |
+|  | 14s | Shadow roar |
 |  | 2.3s | Tornado kick |
 |  | 4.2s | Sing/Taunt/Grasp of elyis upon acitvation |
 |  | 2.3s | Glare on hit |
-|  | 2.3s | Dawnwalker abilities |
-|  | 1.7s | Ice abilities |
+|  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) mantras |
+|  | 1.7s | [Frostdraw](Frostdraw.md) mantras |
+|  | 2.0s | [Thundercall](Thundercall.md) mantras |
+|  | 1.4s | [Flamecharm](Flamecharm.md) mantras |
+|  | 0.8s | [Galebreathe](Galebreathe.md) mantras |
 
 ### [Monsters](Monsters.md)
 
@@ -183,12 +193,16 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.7s | [Lionfish](Lionfish.md) growl 4 |
 | File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) scream |
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) scream 2 |
+|  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) walking |
 |  | 0.4s | [Deep Owl](Deep_Owl.md) flock of feathers loop |
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) roar |
+|  | 4.0s | [Rock Golem](Rock_Golem.md) scream |
+|  | 1.7s | [Rock Golem](Rock_Golem.md) / [Sand Knight](Stone_Knight.md) crumble |
 |  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
 |  | 0.4s | [Bone keeper](Bone_Keeper.md) bonespikes loop |
 |  | 1.9s | Generic impact sound |
 |  | 2.8s | Generic leap sound |
+|  | 2.0s | [Mudskipper m1](Mudskipper.md) / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) blood attacks |
 
 ### **[Echoes](Echoes.md)**
 
@@ -214,39 +228,56 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.7s | [Trial of one](Trial_of_One.md) spawn sound |
 |  | 3.0s | Changing Area |
 |  | 26s | Tundra Ambience |
-|  | 1.1s | [Layer 2](Second_Layer.md) gate opening loop |
+|  | 1.1s | Sea gate opening loop |
+|  | 1.4s | Sea gate closing |
+|  | 1.2s | Door opening |
+|  | 0.9s | Door closing |
+|  | 2.8s | [Knowledge](Knowledge.md) gain |
+|  | 4.1s | [Attribute](Attributes.md) increase |
+|  | 1.7s | Locking [attribute](Attributes.md) sound |
 |  | 6.0s | Alternative [powering up](Power.md) |
+|  | 9.0s | Self-Conducting loop |
 |  | 0.3s | Zipline loop |
 |  | 8.0s | Obtaining a [Resonance](Resonance.md) |
 |  | 0.1s | [Resonance](Resonance.md) on activation |
 |  | 1.8s | [Tarnished Resonance](Resonance.md) on activation |
-|  | 0.1s | Legendary Resonance on activation |
-|  | 0.2s | Corrupted Resonance on activation |
+|  | 1.8s | [Legendary Resonance](Resonance.md) on activation |
+|  | 2.9s | [Corrupted Resonance](Resonance.md) on activation |
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) on activation |
 |  | 2.4s | [Blood scourge](Blood_Scourge.md) on activation |
 |  | 1.5s | [Blood scourge](Blood_Scourge.md) after execute |
 |  | 2.4s | [Crazy slots](Crazy_Slots.md) when activated and rolling Angel Spears |
 |  | 2.0s | [Tacet murmur](Murmur.md) on activation |
+|  | 0.3s | Drinking sound |
 |  | 0.8s | Foraging |
-|  | 0.6s | Fishing equalizer loop |
+|  | 0.6s | [Fishing](Fishing.md) equalizer loop |
+|  | 1.0s | Small splash |
+|  | 1.3s | Big splash |
 |  | 1.6s | Opening a chest |
 |  | 4.0s | Dexerius Phoenix screech |
+|  | 5.2s | Portal that teleports you to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
 |  | 3.0s | [Duke Erisia](Duke_Ishamon_Erisia.md)'s Laugh |
-|  | 5.2s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Barrier upon activation |
+| File:Barriers Silverguard RL 1.mp3 | 2.6s | Silverguard barriers (game location is N/A) |
+|  | 0.7s | [Layer 2](Second_Layer.md) Floor 1 key pickup |
+|  | 5.1s | Ignition Deep Drill hum |
 |  | 6.0s | Dying in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
+|  | 2.2s | Corpse fading away |
 |  | 1.3s | Pressing any button on the Deepwoken start up screen |
+|  | 2.5s | Terrain Freezing |
 |  | 3.6s | [Boat](Ships_&_Sailing.md) cannon sound effect |
 |  | 1.8s | Golden Toungue + Prediction Sounds |
 |  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md) Sound Effect, along with Ice Chains, Flame Assault, Shadow Assault Windup + Freeze Ace Selection |
 |  | 2.2s | [Entanglement](Enchantments.md) on activation |
+|  | 2.4s | [Grim](Enchantments.md) on activation |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) on activation |
 |  | 4.5s | Whirlpools when in close proximity |
 |  | 5.1s | Illusionary Realm loop |
 |  | 5.1s | Kyrsan Ambush event |
 |  | 7.1s | Aerogliding loop |
-|  | 1.8s | Depths boulder impact |
-|  | 2.3s | Depths boulder falling loop |
+|  | 0.4s | Fall Damage |
+|  | 1.8s | [Depths](The_Depths.md) boulder impact |
+|  | 2.3s | [Depths](The_Depths.md) boulder falling loop |
 
 ## Trivia
 

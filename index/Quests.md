@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 70030
+revid: 70381
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -64,7 +64,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Guide**: Talk to the NPC outside the entrance of the Mineskipper mine (near the Voidzone entrance). They will ask you to kill 5 Mineskippers. Do so and return.
 
-**Reward/s**: Family Recipe, Companion
+**Reward/s**: Family Recipe, Bravery
 
 **Harvester:**
 
