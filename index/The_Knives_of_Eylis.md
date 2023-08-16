@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 70013
+revid: 70418
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -11,7 +11,7 @@ categories: [Factions]
 | The Knives of Eylis | |
 |---|---|
 | territory | VoidheartCentral Luminant Sewers |
-| goals | Wealth , Fame , Power |
+| goals | Get the job done no matter what banner they serve under. |
 
 “ Your heart is of empty will, Knife. A soul as vast as the Voidsea itself, yet unchanging in tide. Why are you here? ”
 
@@ -29,3 +29,4 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 
 -   Possibly a reference to the mythological location of Elysium where the heroes and kings would be sent when they died.
 -   The faction's name could be reference to 'The Knife of Dunwall' from Dishonored; a group of assassins which in both games, are also known as [Whalers](https://dishonored.fandom.com/wiki/Whalers).
+-   Though they are paid by the Authority to raid Etrean ships, the Knives may be paid by Etrea to do the same to the Authority.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 70328
+revid: 70405
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -365,7 +365,7 @@ As of the update on 3/12/22, wielding offhand guns with a primary weapon that is
   <td>LHT: 15</td>
   <td>1</td>
   <td>12</td>
-  <td>0.8x</td>
+  <td>1x</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>

@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 64369
+revid: 70404
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -15,7 +15,7 @@ categories: [Weapons, Guns]
 | damage | 14 |
 | scaling | 15 |
 | range | 12 |
-| swing speed | 0.8x |
+| swing speed | 1x |
 | endlag | ? |
 | penetration | None |
 | selling price | ? |

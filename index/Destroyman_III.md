@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 70303
+revid: 70417
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -157,3 +157,4 @@ Remove Quotes
 -   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official.
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
 -   This page has the most trivia of any page on the wiki currently.
+-   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III)
