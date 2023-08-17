@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 70318
+revid: 70438
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -42,4 +42,4 @@ A Cloaked Assassin executes it's opponent after knocking them:
 
 ## Trivia
 
--   Rarely, Cloaked Assassins can ambush the player rather than being hunted by a faction.
+-   Cloaked Assassin's wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.

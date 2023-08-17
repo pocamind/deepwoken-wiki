@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 70423
+revid: 70442
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -23,10 +23,6 @@ categories: [Weapons, Guns]
 | pass down | Yes |
 | obtainment | Upgrade Advanced Weapons |
 | description | A flintlock passed down by your ancestors. |
-
-“ Don't forget to double-tap! ”
-
-― A proud Canorian father teaching his son.
 
 ## Description
 
