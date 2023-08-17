@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 69443
+revid: 70462
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -217,8 +217,8 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 -   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
 -   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
--   Despite his constant insanity he is a genious in terms of knowledge of the Depths and in Alchemy.
--   His strength is unknown but is suppoused to be kind of powerfull being able to enter New Kyrsa and escaping it without problems.
+-   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
+-   His strength is unknown but is supposed to be kind of powerfull being able to enter New Kyrsa and escaping it without problems.
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
