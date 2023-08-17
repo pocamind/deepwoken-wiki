@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 66211
+revid: 70431
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -21,13 +21,13 @@ A once great kingdom ruling over the [Southern Luminant](Luminants.md), now redu
 
 ## Reputation
 
-They are the only faction which can be found in [The Depths](The_Depths.md) other than [The Divers](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md) (which they are neutral towards), meaning their relations with almost all other factions are unknown. Though they will attack [Angels](Hollow_Angel.md) on sight, and seem to be unbothered by all other monsters.
+They are the only faction which can be found in [The Depths](The_Depths.md) other than [The Divers](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md), both of which they are neutral towards, meaning their relations with almost all other factions are unknown. Though they will attack [Angels](Hollow_Angel.md) on sight, they seem to be unbothered by all other monsters.
 
-It is important to note that their is no way to reset your reputation with Lost Celtor. Meaning once you've become enemies with them, there is no going back.
+It is important to note that there is no way to reset your reputation with Lost Celtor, meaning once you've become enemies with them, there is no way to go back.
 
 Their dialogue does not change with reputation.
 
 ## Trivia
 
--   The Guards seem to either be unable to talk, or are harmed when you talk to them. Their dialogue says that "It sounds as if they are trying to talk through a punctured lung"
--   When you have bad rep (which cannot be restored) Angels will spawn around certain places for you even if you were not seen by a watcher.
+-   The Guards seem to either be unable to talk or are harmed when you talk to them. Their dialogue says that "It sounds as if they are trying to talk through a punctured lung"
+-   When you have bad rep, Angels will spawn around certain places for you even if you were not seen by a Watcher.

@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 59108
+revid: 70426
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -27,6 +27,10 @@ categories: [Weapons, Greathammers]
 | pass down | Yes |
 | obtainment | Dropped directly from the Enforcer |
 | description | TBA |
+
+“ Nice Posture you got there, mind if I take it? ”
+
+― Enforcer Hammer users the moment they use Ardour.
 
 ## Description
 

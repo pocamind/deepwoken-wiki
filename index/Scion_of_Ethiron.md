@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 69724
+revid: 70424
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -99,7 +99,8 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 
 ## Trivia
 
--   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow.
+-   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow. However it is often said to be the Avatar of Ethiron, or the form of Ethirons Power as stated by Cap\`n\`Orleand.
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the [Restore Rulebook](https://docs.google.com/document/d/e/2PACX-1vQUwjgPHEqZ_Ok8N9x_cYv9jm27Ln2pcPepOPtuFFXk8rbkuShDlVADoTw_hIjwlNA0itXTa5-6R7Q6/pub).
 -   Vampirism barely works on Layer 2 bosses, however flame wisp can be viable and even with no source of healing there are of course the [Kyrsgarde](Kyrsgarde.md) lancers for HP.
 -   The branches on its head are inspired by dendrites in neuron diagrams.
+-   The developers reffer to the Scion of Ethiron as They/Them, similar to Yun'shul.

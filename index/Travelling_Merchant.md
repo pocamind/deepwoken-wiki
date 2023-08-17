@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 70401
+revid: 70427
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -98,6 +98,7 @@ The prices of Chili's items may vary from price to price.
     -   [Equipment Dye](Dye_Packet.md)
     -   [Pickaxe](Pickaxe.md)
     -   [Canteen](Canteen.md)
+    -   Glider
 
 ## Trivia
 
