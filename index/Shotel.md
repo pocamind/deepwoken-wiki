@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 63994
+revid: 70479
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker WildsMinityrsa |
+| obtainment | Songseeker Wilds,Minityrsa and the Depths. |
 | description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
 
 ## Description

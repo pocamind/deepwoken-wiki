@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 70467
+revid: 70477
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Guns]
@@ -26,7 +26,7 @@ Bullet Casings can be used in combination with some ores, like [Erisore](Ores.md
 
 The Bullet will slow down the target on hit, however at a downside of dealing reduced damage and the speed of the bullet being reduced.
 
-### Umbral Bullet Casing
+### Umbrite Bullet Casing
 
 The Bullet will have increased damage on hit, however at a downside of the firing speed of the gun being reduced.
 

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 70400
+revid: 70474
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -82,7 +82,7 @@ Each of Nautilodaunt's attacks are an entire challenge by themselves, so they wi
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high. Its most dangerous attacks are only used when there is a large distance from him to his target. While they are designed, and commonly used, to catch runners, if it's your only option, then try running into buildings as that'll give you the best chances of escaping.
 -   Flip-Kick and Drop-Kick share many similarities. Normally, Nautilodaunt power-walks towards his targets. But right before he uses these two attacks, he will full-on Naruto run at them at a horrifyingly quick speed. Flip-kick is used when Nautilodaunt gets somewhat close, rapidly closing the gap in the air with a kick. This is INCREDIBLY fast, but also somewhat delayed for when the attack actually lands, being an easy source of whiplash. Alternatively, he will plow right into the player with a sliding Drop-Kick, dealing high damage, and also being rather fast.
 -   In theory, it should be easy to avoid these attacks as he clearly telegraphs them with the sprint, but in practice, both of the attacks have radically different executions, speeds, and delays, basically forcing you to have to react fast enough. If he keeps running towards you after a distance he WOULD HAVE flipped from, its almost certainly a Drop-Kick.
--   Its third attack is used when distance is made, and is the most dangerous attack, Grand Stomp. This is by far its fastest and largest attack, along with being **multiple ranged aoes**. This deals tremendous damage, possibly the most in his moveset. This has little to no windup or telegraph, simply forcing you to respond fast enough.
+-   Its third attack is used when distance is made, and is the most dangerous attack, Grand Stomp. This is by far its fastest and largest attack, along with being **multiple ranged aoes**. This deals tremendous damage, possibly the most in his moveset. This has little to no windup or telegraph, simply forcing you to respond fast enough. Ever since the addition of a sound cue to most unparryable and unblockable monster attacks, it is easier to deal with the stomp as it has a loud and obvious sound-cue although it still has little to no windup, so you have to react as soon as you hear the sound.
 
 Always keep a calm composure when you fight him, panicking will lead to a swift death. Do NOT parry trade with the Nautilodaunt because it has a much higher posture pool than you. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack. Trying to use ranged or slow Mantras against Nautilodaunt is a bad idea, due to his immense speed, and his dangerous attacks being used at a distance. Additionally, he can Vent, being able to ignore a Mantra's effect instantly.
 

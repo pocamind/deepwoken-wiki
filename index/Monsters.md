@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 70306
+revid: 70475
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -44,7 +44,7 @@ Humanoid NPCs cannot be Attuned, although many Mini-Boss and Boss class enemies 
 -   Frostmantle - Applies Chilled on hit, Places Ice beneath hit players.
 -   Galeforce - Applies Winded on hit, Deals Extra Knockback.
 -   Thunderstruck - Applies Electrified on hit.
--   Shadowmeld - Steals Ether on hit.
+-   Shadowmeld - Steals Ether on hit, has 50% resistance against M1s and other physical attacks.
 
 Certain mobs have their visual effect changed,
 

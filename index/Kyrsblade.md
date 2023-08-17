@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 64888
+revid: 70480
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2 Chests, Voidwalker Bounties |
+| obtainment | Layer 2 Chests |
 | description | ... |
 
 ## Description

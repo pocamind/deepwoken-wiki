@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 66973
+revid: 70481
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Game]
@@ -10,11 +10,11 @@ categories: [Pages with broken file links, StubPages, Game]
 
 > _"This is definitely a GPO copy" -Everyone._
 
-A game mode accessible from the menu by youtubers during July 1st 2023, confirmed to be in testing and possibly released to the public later down the line.
+A game mode accessible from the menu by youtubers since July 1st 2023, confirmed to be in testing and possibly released to the public later down the line.
 
 ## Description
 
-Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Sea in which players spawn as freshies and jump onto the isle from off the [Floating Keep](The_Floating_Keep.md) to gather loot and talents and fight to be the last pair/person standing and obtain the most points.
+Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Sea in which players spawn as freshies and jump onto the isle from off the [Floating Keep](The_Floating_Keep.md) to gather loot, talents, mantras, and more and fight to be the last pair/person standing and obtain the most points.
 
 ## Mechanics
 
@@ -77,7 +77,7 @@ Please note the island is located in the [Open Sea](Open_Sea.md).
 
 ### Healing orbs
 
-Green orbs emitting gale trap like particles can be found around the map, these will heal ??? hp on use.
+Green orbs emitting gale trap like particles can be found around the map, these will heal about a bar of hp on use.
 
 ### Weapons
 
@@ -87,18 +87,13 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   Normal light weapons
 -   Normal Heavy weapons
 -   [All hero blade variants](Hero_Blades.md)
--   [Crypt Blade](Crypt_Blade.md)
--   [Ignition Deepcrusher](Ignition_Deepcrusher.md)
--   [Light's Final Toll](<Light's_Final_Toll.md>)
--   TBA
-
-## Notes and Tips
+-   All legendary weapons
 
 -   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Cloth Glider](Gliders.md).
 -   Only one group can win.
 -   Participants are currently known to be grouped in parties of two.
 -   Better loot can be found on the edges of the map, making it only accessible early game due to zone.
--   Upon death you are sent to floating keep and remain there for the remaining duration of the game.
+-   Upon death you are sent to floating keep and remain there for the remaining duration of the round.
 
 ## Trivia
 
