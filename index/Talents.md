@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70505
+revid: 70521
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -30,7 +30,7 @@ There are certain Talents that you receive automatically upon meeting their requ
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
--   A high enough [Attributes](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
+-   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
     -   For example: Overflowing Dam requires 40 INT as a prerequisite.
 
 -   A certain Talent in a certain category.

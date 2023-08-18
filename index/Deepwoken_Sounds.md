@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70514
+revid: 70533
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -89,10 +89,10 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Layer 2](Second_Layer.md) | File:The Storm That Speaks.mp3 |
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
 | 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
-| TBA | Chaser Theme[\[1\]](#cite-note-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
-| TBA | The Hammer's Call[\[2\]](#cite-note-2) | TBA | TBA | TBA |
-| TBA | Scion of Ethiron Theme[\[3\]](#cite-note-3) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
-| TBA | New Kyrsa Combat Theme[\[4\]](#cite-note-4) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
+| TBA | Scion of Ethiron Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
+| TBA | New Kyrsa Combat Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | TBA |
 
 ### Additional Songs
 
@@ -111,7 +111,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 3 | No Time For Paws | 1:26 | Felinor Theme | File:No Time For Paws (Project Deepwoken OST - Felinor Theme).mp3 |
 | 4 | Visions | 2:12 | Deepwoken Direct Theme | File:Visions (Deepwoken Direct Theme).mp3 |
 | 5 | Drownedabout | 0:25 | "Roundabout" by Yes - Cover Sketch | File:Drownedabout (Roundabout by Yes - Cover Sketch).mp3 |
-| 6 | Blood in the Shallows | 1:36 | Kiztatziki[\[5\]](#cite-note-5)
+| 6 | Blood in the Shallows | 1:36 | Kiztatziki[\[2\]](#cite-note-2)
 Boss Theme
 
  | File:Blood in the Shallows (Project Deepwoken - Kiztatziki Boss Theme).mp3 |
@@ -151,6 +151,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.3s | Alternative Slash (Sword) |
 |  | 0.4s | Hit (Sword) |
 |  | 0.4s | Alt. Hit (Sword) |
+|  | 0.8s | Gunshot |
 |  | 1.5s | Critical (Sword) |
 |  | 1.0s | Critical (Greatsword) |
 |  | 0.8s | Execute (Sword) |
@@ -176,10 +177,13 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.8s | Burn Extinguished |
 |  | 3.2s | Chill (Proc) |
 |  | 5.1s | Ice Fissure (Ext.) |
-|  | 1.9s | Warden Blades (shattered) |
+|  | 2.8s | Ice Lance |
+|  | 1.9s | Warden Blades (Shattered) |
 |  | 2.2s | Lightning Beam (Impact) |
+|  | 1.5s | Lightning Stream (Pull) |
 |  | 1.8s | Shadow Gun (Activation) |
 |  | 14s | Shadow Roar |
+|  | 0.8s | Dark Rift (Activation) |
 |  | 2.3s | Tornado Kick (Impact) |
 |  | 4.2s | Sing/Taunt/Grasp of Eylis |
 |  | 2.3s | Glare |
@@ -208,7 +212,10 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.7s | [Rock Golem](Rock_Golem.md)/[Sand Knight](Stone_Knight.md) Death |
 |  | 2.4s | [Rogue Construct](Hive_Construct.md) Meteor Punch |
 |  | 0.4s | [Bone keeper](Bone_Keeper.md) Bone Spikes |
+|  | 3.0s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
 |  | 1.9s | Impact (Environmental) |
+|  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
+|  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit/[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
 
 ### **[Echoes](Echoes.md)**
@@ -255,6 +262,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) Divine Spear |
 |  | 2.0s | [Tacet Murmur](Murmur.md) Activation |
+|  | 2.1s | Rhythm Murmur Activation |
 |  | 0.3s | Drinking Sound |
 |  | 0.8s | Foraging |
 |  | 0.6s | [Fishing](Fishing.md) |
@@ -262,7 +270,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.3s | Big Splash |
 |  | 1.6s | Opening Chest |
 |  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
-|  | 3.0s | [Duke Erisia](Duke_Ishamon_Erisia.md)'s Laugh |
+|  | 3.5s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) when passed through |
 |  | 0.7s | [Layer 2, Floor 1](https://deepwoken.fandom.com/wiki/Second_Layer#The_Eternal_Gale) Key Grab |
 |  | 5.1s | Ignition Deep Drill |
 |  | 6.0s | Wiping in [The Depths](The_Depths.md) |
@@ -283,6 +291,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.4s | Fall Damage |
 |  | 1.8s | [Depths](The_Depths.md) Boulder Landing |
 |  | 2.3s | [Depths](The_Depths.md) Boulder Falling |
+|  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
 
 ## Trivia
 
@@ -309,8 +318,5 @@ The "Unparryable attack" sound originates from Sekiro.
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-2.  [↑](#cite-ref-2) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-3.  [↑](#cite-ref-3) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-4.  [↑](#cite-ref-4) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-5.  [↑](#cite-ref-5) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".
+1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+2.  [↑](#cite-ref-2) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".
