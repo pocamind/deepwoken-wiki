@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 64576
+revid: 70552
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]

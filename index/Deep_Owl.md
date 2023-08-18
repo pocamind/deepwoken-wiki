@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 70470
+revid: 70564
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
+The **Deep Owl** (also referred to simply as "Owl")(ALSO REFFERARED AS "sexy owl") is a relatively uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
 
 Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, This restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
 
@@ -30,35 +30,61 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 ## Attacks
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| 
-**Talon Swipe**
-
- | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat. | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-**Feather Teleport**
-
- | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.  
-Typically used after Talon Swipe. | ◯ | **?** | **?** | (★☆☆) |
-| 
-
-**Owl Dash**
-
- | Kneels on the ground for a moment before performing a spinning assault in the target's direction. | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-**Overhead Grab**
-
- | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
-Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you. | ✗ | ✗ | ◯ | (★★★) |
-| 
-
-**Flock of Feathers**
-
- | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.  
-Overhead Grab/Owl Dash is typically used after this. | ◯ | ◯ | **\-** | (★★☆) |
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Description</th>
+  <th>Parryable?</th>
+  <th>Blockable?</th>
+  <th>Dodgeable?</th>
+  <th>Danger</th>
+</tr>
+<tr>
+  <td><center><b>Talon Swipe</b></center></td>
+  <td>Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td><center><b>Feather Teleport</b></center></td>
+  <td>Turns into a burst of feathers, emerging at the target it is pursuing after a bit.<br>
+  <small>Typically used after Talon Swipe.</small></td>
+  <td><font>◯</font></td>
+  <td><b>Yes</b></td>
+  <td><b>Yes</b></td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td><center><b>Owl Dash</b></center></td>
+  <td>Kneels on the ground for a moment before performing a spinning assault in the target's direction.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td><center><b>Overhead Grab</b></center></td>
+  <td>Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.<br>
+  <small>Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you.</small></td>
+  <td><font>✗</font></td>
+  <td><font>✗</font></td>
+  <td><font>◯</font></td>
+  <td>(★★★)</td>
+</tr>
+<tr>
+  <td><center><b>Flock of Feathers</b></center></td>
+  <td>Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.<br>
+  <small>Overhead Grab/Owl Dash is typically used after this.</small></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td><font><b>-</b></font></td>
+  <td>(★★☆)</td>
+</tr>
+</tbody>
+</table>
 
   
 **Finisher**

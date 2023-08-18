@@ -1,6 +1,6 @@
 ---
 title: "Herbalist's Hat"
-revid: 68417
+revid: 70548
 source: https://deepwoken.fandom.com/wiki/Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -10,9 +10,11 @@ categories: [Helmets, Items]
 
 | Herbalist's Hat | |
 |---|---|
-| type | Helmet |
-| rarity | ??? |
-| requirements | N/A |
+| type | Head |
+| rarity | Uncommon |
+| selling price | 14 |
+| requirements | None |
+| weight | 1 |
 | innate stats | N/A |
 | innate talent | Iron GutHerbivore |
 | bankable | Yes |
@@ -20,11 +22,11 @@ categories: [Helmets, Items]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, Second Layer |
-| description | - ... |
+| description | "..." |
 
 ## Description
 
-The Herbalist's Hat is an Armor Equipment piece in the Helmet category. Equipping it grants you The Iron Gut and [Herbivore](Talents.md) talents, along with randomized stats based on the Pips you get.
+The Herbalist's Hat is an Armor Equipment piece in the "_Head_" category. Equipping it grants you The Iron Gut and [Herbivore](Talents.md) talents, along with randomized stats based on the Pips you get.
 
 ## Trivia
 

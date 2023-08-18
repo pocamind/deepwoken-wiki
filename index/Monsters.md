@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 70475
+revid: 70558
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -30,7 +30,7 @@ The majority of non-humanoid monsters you encounter in-game will have hyper armo
 -   Gaining new behaviors/abilities, such as Lionfish Beam.
 -   Becoming much more persistent in chasing, rarely stopping until the death of them or the player.
 
-Being able to spawn as an Enhanced (commonly known as their Corrupted) version, signified by a purple aura, dealing roughly 50% more damage and having triple the health of their normal versions.
+Being able to spawn as a Corrupted version, signified by a purple aura, dealing roughly 50% more damage and having triple the health of their normal versions.
 
 ### Attuned Monsters
 

@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 69698
+revid: 70566
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -54,7 +54,7 @@ Whirlpools can also rarely spawn on the edges of highways and other random locat
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: The First Layer, aka Scyphozia, and Second Layer, aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where Korilfiend resides, but it is not in the game and will likely not be added due to conflicting with the lore.
+The Depths contains nine layers, though you can reach only two in game: The First Layer, aka Scyphozia, and Second Layer, aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where Korilfiend resides. (**THE NEXT 7 LAYERS ARE FANTASY AND ARE MADE BY THE EDITOR READ FOR ENTERTAINMENT).** Not one, Not two, Not three, But 4. schizophrenia: A purgatory, A void with nothing but a lantern brought all the way from the eternal gale, Here voices constantly repeat in your head and you can go crazy in as little as 20 seconds. Not much is known about this place other then the voices might be from the first layer (Scyphozia)
 
 Please visit their respective pages below by clicking on them for more information:
 

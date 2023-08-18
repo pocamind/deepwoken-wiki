@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70533
+revid: 70562
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -150,12 +150,13 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.3s | Slash (Sword) |
 |  | 0.3s | Alternative Slash (Sword) |
 |  | 0.4s | Hit (Sword) |
-|  | 0.4s | Alt. Hit (Sword) |
+|  | 0.4s | Alternate Hit (Sword) |
 |  | 0.8s | Gunshot |
 |  | 1.5s | Critical (Sword) |
 |  | 1.0s | Critical (Greatsword) |
 |  | 0.8s | Execute (Sword) |
-|  | 1.8s | Execution spin (Gun) |
+|  | 1.0s | Execute (Poser's Ring) |
+|  | 1.8s | Execution Spin (Gun) |
 |  | 2.3s | Execute (Battleaxe) |
 |  | 0.8s | [Way of Navae](Way_of_Navae.md) Activation (Knife Throw) |
 | File:Punch3.ogg | 0.4s | Hit (Fist) |
@@ -176,6 +177,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.4s | Mirage Clone |
 |  | 0.8s | Burn Extinguished |
 |  | 3.2s | Chill (Proc) |
+|  | 1.4s | Winded (Proc) |
 |  | 5.1s | Ice Fissure (Ext.) |
 |  | 2.8s | Ice Lance |
 |  | 1.9s | Warden Blades (Shattered) |
@@ -206,6 +208,7 @@ A large collection of sounds found in _Deepwoken_.
 | File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) Roar (1) |
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) Roar (2) |
 |  | 1.9s | [Megalodaunt](Megalodaunt.md)/[Deep Owl](Deep_Owl.md) Walking |
+|  | 1.0s | [Mechalodaunt](Megalodaunt.md) Windup |
 |  | 0.4s | [Deep Owl](Deep_Owl.md) Flock of Feathers |
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) Roar (Stage 2 Transformation) |
 |  | 4.0s | [Rock Golem](Rock_Golem.md) Roar |
@@ -213,7 +216,9 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.4s | [Rogue Construct](Hive_Construct.md) Meteor Punch |
 |  | 0.4s | [Bone keeper](Bone_Keeper.md) Bone Spikes |
 |  | 3.0s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
+| File:Barriers Silverguard RL 1.mp3 | 2.6s | Silverguard barriers (game location is N/A) |
 |  | 1.9s | Impact (Environmental) |
+|  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit/[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
@@ -261,17 +266,23 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.4s | [Blood Scourge](Blood_Scourge.md) Activation |
 |  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) Divine Spear |
+|  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Soul Capturing |
 |  | 2.0s | [Tacet Murmur](Murmur.md) Activation |
-|  | 2.1s | Rhythm Murmur Activation |
+|  | 1.0s | [Tacet Murmur](Murmur.md) Deactivation |
+|  | 2.1s | [Rhythm Murmur](Murmur.md) Activation |
 |  | 0.3s | Drinking Sound |
+|  | 0.8s | Campfire execute |
 |  | 0.8s | Foraging |
 |  | 0.6s | [Fishing](Fishing.md) |
 |  | 1.0s | Small Splash |
 |  | 1.3s | Big Splash |
 |  | 1.6s | Opening Chest |
 |  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
-|  | 3.5s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) when passed through |
+|  | 3.5s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) (Used) |
+|  | 3.7s | [Castle Light](Castle_Light.md) Elevator |
 |  | 0.7s | [Layer 2, Floor 1](https://deepwoken.fandom.com/wiki/Second_Layer#The_Eternal_Gale) Key Grab |
+|  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Door Opening |
+|  | 15s | [Layer 2](Second_Layer.md) Passageway Opening |
 |  | 5.1s | Ignition Deep Drill |
 |  | 6.0s | Wiping in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
@@ -289,6 +300,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 5.1s | Kyrsan Ambush Event |
 |  | 7.1s | Aerogliding |
 |  | 0.4s | Fall Damage |
+|  | 3.7s | Sliding |
 |  | 1.8s | [Depths](The_Depths.md) Boulder Landing |
 |  | 2.3s | [Depths](The_Depths.md) Boulder Falling |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |

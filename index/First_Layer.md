@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 70080
+revid: 70556
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -109,7 +109,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 ## **Farming in First Layer of The Depths**
 
-Schizophrenia, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within First Layer for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
+Scyphozia, being a naturally hostile location, is especially difficult to survive in. From the monsters and the nutrition drain to the ever so slow death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers lurking within First Layer for players who are willing to grind at the risk of wiping. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 
 ### **Talents & Equipment**
 
