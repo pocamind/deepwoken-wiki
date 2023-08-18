@@ -1,9 +1,11 @@
 ---
 title: Deepwoken Sounds
-revid: 70380
+revid: 70514
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Deepwoken]
+categories: [Upcoming content, Pages with broken file links, Deepwoken]
+notices:
+  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
 # Deepwoken Sounds
@@ -87,6 +89,10 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Layer 2](Second_Layer.md) | File:The Storm That Speaks.mp3 |
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
 | 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
+| TBA | Chaser Theme[\[1\]](#cite-note-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | The Hammer's Call[\[2\]](#cite-note-2) | TBA | TBA | TBA |
+| TBA | Scion of Ethiron Theme[\[3\]](#cite-note-3) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
+| TBA | New Kyrsa Combat Theme[\[4\]](#cite-note-4) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | TBA |
 
 ### Additional Songs
 
@@ -105,7 +111,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 3 | No Time For Paws | 1:26 | Felinor Theme | File:No Time For Paws (Project Deepwoken OST - Felinor Theme).mp3 |
 | 4 | Visions | 2:12 | Deepwoken Direct Theme | File:Visions (Deepwoken Direct Theme).mp3 |
 | 5 | Drownedabout | 0:25 | "Roundabout" by Yes - Cover Sketch | File:Drownedabout (Roundabout by Yes - Cover Sketch).mp3 |
-| 6 | Blood in the Shallows | 1:36 | Kiztatziki[\[1\]](#cite-note-1)
+| 6 | Blood in the Shallows | 1:36 | Kiztatziki[\[5\]](#cite-note-5)
 Boss Theme
 
  | File:Blood in the Shallows (Project Deepwoken - Kiztatziki Boss Theme).mp3 |
@@ -137,72 +143,73 @@ A large collection of sounds found in _Deepwoken_.
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 5.4s | Entering combat (Default) |
-|  | 3.6s | Entering combat ([The Depths](The_Depths.md)) |
+|  | 5.4s | Entering Combat (Default) |
+|  | 3.6s | Entering Combat ([The Depths](The_Depths.md)) |
 | File:Unsheathe2.ogg | 0.9s | Unsheathing |
 | File:Sheathe.ogg | 1.0s | Sheathing |
-|  | 0.3s | Sword slash |
-|  | 0.3s | Alternative sword slash |
-|  | 0.4s | Sword attack |
-|  | 0.4s | Alternative sword attack |
-|  | 1.5s | Sword critical attack |
-|  | 1.0s | Spear/Greatsword critical attack |
-|  | 1.9s | Greataxe critical attack |
-|  | 0.8s | Sword execution |
-|  | 0.8s | [Way of Navae](Way_of_Navae.md) activation |
-| File:Punch3.ogg | 0.4s | Punching atatck |
-| File:Block2.ogg | 0.7s | Sword block |
-|  | 0.9s | Alternative parry |
-|  | 2.1s | Guard breaking |
-|  | 2.1s | Windup impact |
-|  | 1.5s | Venting sound effect |
-|  | 3.2s | Flame of denial on activation |
-|  | 3.9s | Flame wisp on restoring HP |
-|  | 0.7s | Gale wisp on activation |
-|  | 1.1s | Wind Blade on activation |
-|  | 1.5s | Heavenley wind impact |
-|  | 1.1s | Haunted gale on activation |
-|  | 1.7s | Warding Radiance on activation |
-|  | 1.0s | Illusionary clones on activation |
-|  | 1.0s | Crystal Impale on activation |
-|  | 1.4s | Gaining the burn status / Mirage clones |
-|  | 0.8s | Burning status when extinguished |
-|  | 3.2s | Frozen status |
-|  | 5.1s | Ice fissure loop |
-|  | 2.2s | Lightning beam on hit |
-|  | 1.8s | Shadow gun |
-|  | 14s | Shadow roar |
-|  | 2.3s | Tornado kick |
-|  | 4.2s | Sing/Taunt/Grasp of elyis upon acitvation |
-|  | 2.3s | Glare on hit |
-|  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) mantras |
-|  | 1.7s | [Frostdraw](Frostdraw.md) mantras |
-|  | 2.0s | [Thundercall](Thundercall.md) mantras |
-|  | 1.4s | [Flamecharm](Flamecharm.md) mantras |
-|  | 0.8s | [Galebreathe](Galebreathe.md) mantras |
+|  | 0.3s | Slash (Sword) |
+|  | 0.3s | Alternative Slash (Sword) |
+|  | 0.4s | Hit (Sword) |
+|  | 0.4s | Alt. Hit (Sword) |
+|  | 1.5s | Critical (Sword) |
+|  | 1.0s | Critical (Greatsword) |
+|  | 0.8s | Execute (Sword) |
+|  | 1.8s | Execution spin (Gun) |
+|  | 2.3s | Execute (Battleaxe) |
+|  | 0.8s | [Way of Navae](Way_of_Navae.md) Activation (Knife Throw) |
+| File:Punch3.ogg | 0.4s | Hit (Fist) |
+| File:Block2.ogg | 0.7s | Blocked Hit (Sword) |
+|  | 0.9s | Alternative Parry |
+|  | 2.1s | Posture Break |
+|  | 2.1s | Windup Impact |
+|  | 1.5s | Player Vent |
+|  | 3.2s | Flame of Denial (Proc) |
+|  | 3.9s | Flame Wisp (Proc) |
+|  | 0.7s | Gale Wisp (Proc) |
+|  | 1.1s | Wind Blade (Activation) |
+|  | 1.5s | Heavenly Wind (Impact) |
+|  | 1.1s | Haunted Gale (Proc) |
+|  | 1.7s | Warding Radiance (Activation) |
+|  | 1.0s | Illusionary Clones (Spawn) |
+|  | 1.0s | Crystal Impale (Impact) |
+|  | 1.4s | Mirage Clone |
+|  | 0.8s | Burn Extinguished |
+|  | 3.2s | Chill (Proc) |
+|  | 5.1s | Ice Fissure (Ext.) |
+|  | 1.9s | Warden Blades (shattered) |
+|  | 2.2s | Lightning Beam (Impact) |
+|  | 1.8s | Shadow Gun (Activation) |
+|  | 14s | Shadow Roar |
+|  | 2.3s | Tornado Kick (Impact) |
+|  | 4.2s | Sing/Taunt/Grasp of Eylis |
+|  | 2.3s | Glare |
+|  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras |
+|  | 1.7s | [Frostdraw](Frostdraw.md) Trail |
+|  | 2.0s | [Thundercall](Thundercall.md) Mantras |
+|  | 1.4s | [Flamecharm](Flamecharm.md) Mantras |
+|  | 0.8s | [Galebreathe](Galebreathe.md) Mantras, Gale Leap |
 
 ### [Monsters](Monsters.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) ambience |
-|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) bubble attack loop |
-|  | 2.1s | [Lionfish](Lionfish.md) growl |
-|  | 4.0s | [Lionfish](Lionfish.md) growl 2 |
-|  | 1.9s | [Lionfish](Lionfish.md) growl 3 |
-|  | 1.7s | [Lionfish](Lionfish.md) growl 4 |
-| File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) scream |
-| File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) scream 2 |
-|  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) walking |
-|  | 0.4s | [Deep Owl](Deep_Owl.md) flock of feathers loop |
-|  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) roar |
-|  | 4.0s | [Rock Golem](Rock_Golem.md) scream |
-|  | 1.7s | [Rock Golem](Rock_Golem.md) / [Sand Knight](Stone_Knight.md) crumble |
-|  | 2.4s | [Rogue Construct](Hive_Construct.md) meteor punch |
-|  | 0.4s | [Bone keeper](Bone_Keeper.md) bonespikes loop |
-|  | 1.9s | Generic impact sound |
-|  | 2.8s | Generic leap sound |
-|  | 2.0s | [Mudskipper m1](Mudskipper.md) / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) blood attacks |
+|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Ambience |
+|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble |
+|  | 2.1s | [Lionfish](Lionfish.md) Growl (1) |
+|  | 4.0s | [Lionfish](Lionfish.md) Growl (2) |
+|  | 1.9s | [Lionfish](Lionfish.md) Growl (3) |
+|  | 1.7s | [Lionfish](Lionfish.md) Growl (4) |
+| File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) Roar (1) |
+| File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) Roar (2) |
+|  | 1.9s | [Megalodaunt](Megalodaunt.md)/[Deep Owl](Deep_Owl.md) Walking |
+|  | 0.4s | [Deep Owl](Deep_Owl.md) Flock of Feathers |
+|  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) Roar (Stage 2 Transformation) |
+|  | 4.0s | [Rock Golem](Rock_Golem.md) Roar |
+|  | 1.7s | [Rock Golem](Rock_Golem.md)/[Sand Knight](Stone_Knight.md) Death |
+|  | 2.4s | [Rogue Construct](Hive_Construct.md) Meteor Punch |
+|  | 0.4s | [Bone keeper](Bone_Keeper.md) Bone Spikes |
+|  | 1.9s | Impact (Environmental) |
+|  | 2.0s | [Mudskipper](Mudskipper.md) Hit/[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
 
 ### **[Echoes](Echoes.md)**
 
@@ -225,59 +232,57 @@ A large collection of sounds found in _Deepwoken_.
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 2.7s | [Trial of one](Trial_of_One.md) spawn sound |
+|  | 2.7s | [Trial of One](Trial_of_One.md) Spawn |
 |  | 3.0s | Changing Area |
 |  | 26s | Tundra Ambience |
-|  | 1.1s | Sea gate opening loop |
-|  | 1.4s | Sea gate closing |
-|  | 1.2s | Door opening |
-|  | 0.9s | Door closing |
-|  | 2.8s | [Knowledge](Knowledge.md) gain |
-|  | 4.1s | [Attribute](Attributes.md) increase |
-|  | 1.7s | Locking [attribute](Attributes.md) sound |
-|  | 6.0s | Alternative [powering up](Power.md) |
-|  | 9.0s | Self-Conducting loop |
-|  | 0.3s | Zipline loop |
-|  | 8.0s | Obtaining a [Resonance](Resonance.md) |
-|  | 0.1s | [Resonance](Resonance.md) on activation |
-|  | 1.8s | [Tarnished Resonance](Resonance.md) on activation |
-|  | 1.8s | [Legendary Resonance](Resonance.md) on activation |
-|  | 2.9s | [Corrupted Resonance](Resonance.md) on activation |
-|  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) on activation |
-|  | 2.4s | [Blood scourge](Blood_Scourge.md) on activation |
-|  | 1.5s | [Blood scourge](Blood_Scourge.md) after execute |
-|  | 2.4s | [Crazy slots](Crazy_Slots.md) when activated and rolling Angel Spears |
-|  | 2.0s | [Tacet murmur](Murmur.md) on activation |
-|  | 0.3s | Drinking sound |
+|  | 1.1s | Sea Gate Opening |
+|  | 1.4s | Sea Gate Closing |
+|  | 1.2s | Door Opening |
+|  | 0.9s | Door Closing |
+|  | 2.8s | [Knowledge](Knowledge.md) Gained |
+|  | 4.1s | [Attribute](Attributes.md) Increase |
+|  | 1.7s | Locked [Attribute](Attributes.md) |
+|  | 6.0s | Alternative [Power](Power.md) Increase |
+|  | 9.0s | Self-Conducting Loop |
+|  | 0.3s | Zipline |
+|  | 8.0s | Obtaining [Resonance](Resonance.md) |
+|  | 0.1s | [Resonance](Resonance.md) Activation |
+|  | 1.8s | [Tarnished Resonance](Resonance.md) Activation |
+|  | 1.8s | [Legendary Resonance](Resonance.md) Activation |
+|  | 2.9s | [Corrupted Resonance](Resonance.md) Activation |
+|  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) Activation |
+|  | 2.4s | [Blood Scourge](Blood_Scourge.md) Activation |
+|  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution |
+|  | 2.4s | [Crazy Slots](Crazy_Slots.md) Divine Spear |
+|  | 2.0s | [Tacet Murmur](Murmur.md) Activation |
+|  | 0.3s | Drinking Sound |
 |  | 0.8s | Foraging |
-|  | 0.6s | [Fishing](Fishing.md) equalizer loop |
-|  | 1.0s | Small splash |
-|  | 1.3s | Big splash |
-|  | 1.6s | Opening a chest |
-|  | 4.0s | Dexerius Phoenix screech |
-|  | 5.2s | Portal that teleports you to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
+|  | 0.6s | [Fishing](Fishing.md) |
+|  | 1.0s | Small Splash |
+|  | 1.3s | Big Splash |
+|  | 1.6s | Opening Chest |
+|  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
 |  | 3.0s | [Duke Erisia](Duke_Ishamon_Erisia.md)'s Laugh |
-| File:Barriers Silverguard RL 1.mp3 | 2.6s | Silverguard barriers (game location is N/A) |
-|  | 0.7s | [Layer 2](Second_Layer.md) Floor 1 key pickup |
-|  | 5.1s | Ignition Deep Drill hum |
-|  | 6.0s | Dying in [The Depths](The_Depths.md) |
+|  | 0.7s | [Layer 2, Floor 1](https://deepwoken.fandom.com/wiki/Second_Layer#The_Eternal_Gale) Key Grab |
+|  | 5.1s | Ignition Deep Drill |
+|  | 6.0s | Wiping in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
-|  | 2.2s | Corpse fading away |
-|  | 1.3s | Pressing any button on the Deepwoken start up screen |
+|  | 2.2s | Corpse Fading |
+|  | 1.3s | Deepwoken Start-up Screen (Any button) |
 |  | 2.5s | Terrain Freezing |
-|  | 3.6s | [Boat](Ships_&_Sailing.md) cannon sound effect |
-|  | 1.8s | Golden Toungue + Prediction Sounds |
-|  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md) Sound Effect, along with Ice Chains, Flame Assault, Shadow Assault Windup + Freeze Ace Selection |
-|  | 2.2s | [Entanglement](Enchantments.md) on activation |
-|  | 2.4s | [Grim](Enchantments.md) on activation |
-|  | 0.1s | [Insignia Gem](Deep_Gems.md) on activation |
-|  | 4.5s | Whirlpools when in close proximity |
-|  | 5.1s | Illusionary Realm loop |
-|  | 5.1s | Kyrsan Ambush event |
-|  | 7.1s | Aerogliding loop |
+|  | 3.6s | [Boat](Ships_&_Sailing.md) Cannon (Impact) |
+|  | 1.8s | Golden Toungue/Prediction |
+|  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md)/Ice Chains/Flame Assault/Shadow Assault (Activation)/ Freezing a Card |
+|  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
+|  | 2.4s | [Grim](Enchantments.md) (Proc) |
+|  | 0.1s | [Insignia Gem](Deep_Gems.md) (Proc) |
+|  | 4.5s | Whirlpools |
+|  | 5.1s | Illusionary Realm |
+|  | 5.1s | Kyrsan Ambush Event |
+|  | 7.1s | Aerogliding |
 |  | 0.4s | Fall Damage |
-|  | 1.8s | [Depths](The_Depths.md) boulder impact |
-|  | 2.3s | [Depths](The_Depths.md) boulder falling loop |
+|  | 1.8s | [Depths](The_Depths.md) Boulder Landing |
+|  | 2.3s | [Depths](The_Depths.md) Boulder Falling |
 
 ## Trivia
 
@@ -304,4 +309,8 @@ The "Unparryable attack" sound originates from Sekiro.
 
 ## References
 
-1.  [↑](#cite-ref-1) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".
+1.  [↑](#cite-ref-1) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+2.  [↑](#cite-ref-2) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+3.  [↑](#cite-ref-3) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+4.  [↑](#cite-ref-4) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+5.  [↑](#cite-ref-5) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

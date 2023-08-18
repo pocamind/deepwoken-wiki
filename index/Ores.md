@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 68975
+revid: 70494
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -50,7 +50,7 @@ Sells for 12 Notes
 
 **Astruline:**
 
-A pink ore that comes from meteor deposits. Found in Songseeker Caves or under Starswept Valley. The drop rate for Pure Astruline is around 15%.
+A pink ore that comes from meteor deposits. Found in Songseeker Caves, under Starswept Valley, or inside the City of the Drowned in certain locations. The drop rate for Pure Astruline is around 15%.
 
 Sells for ...
 

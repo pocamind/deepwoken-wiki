@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70492
+revid: 70505
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -858,6 +858,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Vesperians will only gain 8% armor from this talent, totalling to 13% with their own natural armor.
     -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
     -   Prerequisite: 40 Fortitude.
+    -   **NOTE:** When talking to Mystic, the prompt "I seek the qualities of Natual Armor" should grant you this talent.
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
     -   Drink potions faster. (~0.5 seconds faster)
