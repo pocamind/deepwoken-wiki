@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 70628
+revid: 70636
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -13,6 +13,8 @@ notices:
 ## Description
 
 NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) or Intelligence stat will unlock special interactions with them.
+
+A full list of all NPCS can be found [Here](https://docs.google.com/spreadsheets/d/14hI7BQMCzl0N1XftfcAVVcXt6ASjil2B7Jf2uGmoaIM/edit?usp=sharing).
 
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |

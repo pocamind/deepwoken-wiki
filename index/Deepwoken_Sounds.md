@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70630
+revid: 70639
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -322,6 +322,7 @@ A large collection of sounds found in _Deepwoken_.
 -   The "A Memory of Tides" song is called "Accordion Vinyl" in-game.
 -   "The Games of War" was heavily inspired by the soundtrack of Medieval 2: Total War, as Naktigonis is a big fan of Jeff van Dyck's work for the early Total War games.
 -   A small part of "The Gideshu March" is used in "And Let Slip The Hounds of War" at 0:48
+-   "The Gideshu March" was never commissioned, rather, Naktigonis made the soundtrack out of his passion for the game.
 -   Naktigonis's voice regularly features in the soundtrack: his voice is featured in the choirs in "Oscillation", "Kyrie", and "The Gideshu March", many of the chants in "And Let Slip The Hounds Of War", most of the scream vocals in "INSOMNIA", and in the singing vocals of "Sin-Smelted Scoriae."
     -   He was recovering from [Covid-19](https://en.wikipedia.org/wiki/COVID-19) when recording the vocals for "Sin-Smelted Scoriae," and is unhappy with how they came out, though he plans to leave it as how it is.
 -   "Picking a card" sound is probably from Fallout Shelter.

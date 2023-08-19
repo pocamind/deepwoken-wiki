@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70605
+revid: 70641
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1532,6 +1532,11 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Strength Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your Strength to its fullest.
     -   Prerequisites: 75 Strength
+
+### Outlaw
+
+-   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
+    -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
 
 ### Politician
 

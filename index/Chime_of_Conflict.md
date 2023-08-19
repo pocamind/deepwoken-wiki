@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 70493
+revid: 70638
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -35,7 +35,7 @@ Afterwards, players will be waiting in the queue and be put in a match with thei
 -   **Power range -** When selecting opponents, the game will match players who are at most 5 Power levels apart from one another.
 -   **One round -** There is only a single round. Killing your opponent means winning the match and returning to the matchmaking lobby.
 -   **Elimination** **\-** Dying removes the player from the round.(3v3 and 2v2 only)
--   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players. If a match takes too long (like 2 minutes or something) the entire arena will be covered in the "circle of death" meaning you take constant damage.
+-   **Death Circle -** Similar to Battle Royale games, a "circle of death" forms around the arena shortly after the match starts. The circle will shrink forcing the players to approach each other. Being outside of the circle will rapidly deplete your HP, and immediately kills knocked players. If a match takes too long (aproximately 2 minutes) the entire arena will be covered in the "circle of death" meaning you take constant damage.
 -   **Resonance limitation -** Resonances are disabled in 1v1 fights to prevent the possible scenario of being matched with an offensive resonance while having a support resonance.
 
 ## Skulls

@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 70632
+revid: 70637
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -50,3 +50,4 @@ Airborne Critical
 -   This weapon can only be used one-handed.
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
 -   Having "Azure Flames" talent with [Flamecharm](Flamecharm.md) makes both of your critical flame visual appear azure while also applying azure flames instead of normal ones
+-   At one point, a Railblade dropping from Chaser was as rare as a Curved Blade of Winds dropping in Layer 1, thankfully, that has been adjusted.

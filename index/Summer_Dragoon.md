@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 70432
+revid: 70640
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -36,3 +36,4 @@ This Outfit's Schematic can be found in:
 
 -   Richocheted bullets do not proc enchants. (Broken atm and it can proc)
 -   At the time its best to server hop the free chests that **arent inside a building or near one**
+-   This Armor is named after the Summer Dragoons, the elite guards of the Summer Company.

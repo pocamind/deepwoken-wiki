@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 69364
+revid: 70634
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -47,5 +47,7 @@ The user shoots a bullet, teleporting around the target while shooting in the mi
 -   Doing a max base damage of 36.1, and 1.5x stun with Authority Interrogator talents. This, along with Resolve Crusher makes for **DEADLY** damage.
 -   Landing an aerial attack with the rifle teleporting you behind the enemy is similar to the behavior of the Static Fakeout talent.
 -   [Funke](Funke,_Master_of_Thunder.md), the [Thundercall](Thundercall.md) trainer does not use this weapon. He uses the [Hero Blade of Lightning.](Hero_Blades.md)
+-   This weapon has the only critical attack in the game that can somewhat be feinted, as holding m2 during the critical allows you to shoot 2 shots and disengage sooner than normal, this allows for deadly mixups.
+-   The Stormseye breaks the trend of double scaling weapons, having more elemental scaling than weapon scaling despite being a medium class Legendary Weapon.
 
 A player flourishing their rifle, letting out a shockwave of thunder.

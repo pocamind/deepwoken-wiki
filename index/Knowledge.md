@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 70161
+revid: 70642
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -46,7 +46,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing [Crimson Megalodaunt](Megalodaunt.md) for the first time, awarding 1 Knowledge.
 -   Killing [Deep Owl](Deep_Owl.md) for the first time, awarding 1 Knowledge.
 -   Killing [Deep Widow](Deep_Widow.md) for the first time, awarding 1 Knowledge.
--   Killing [Nautilodaunt](Nautilodaunt.md) for the first time, awarding 2 Knowledge.
+-   Killing [Nautilodaunt](Nautilodaunt.md) for the first time, awarding 1 Knowledge.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
 -   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge.
