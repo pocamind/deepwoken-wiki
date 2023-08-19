@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 69475
+revid: 70610
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -264,7 +264,7 @@ Ice Cubes
 
 _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cubes._
 
- | User summons 3 Ice Cubes and throws them to where their cursor is.
+ | User summons 3 Ice Cubes and throws them to where their cursor is. Also, homes in on nearby targets.
 
 -   Compatible with a Multiplying Spark to instead send them one by one.
 -   Deals moderate damage.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70606
+revid: 70623
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -156,33 +156,35 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.5s | Critical (Sword) |
 |  | 1.0s | Critical (Greatsword) |
 |  | 0.8s | Execute (Sword) |
-|  | 1.0s | Execute (Poser's Ring) |
+|  | 1.0s | Poser's Ring Activation + Killing Monster (0.8x Speed) |
 |  | 1.8s | Execution Spin (Gun) |
-|  | 2.3s | Execute (Battleaxe) |
+|  | 2.3s | Execute (Heavy Weapon) / Monster Executing |
 |  | 0.8s | [Way of Navae](Way_of_Navae.md) Activation (Knife Throw) |
 | File:Punch3.ogg | 0.4s | Hit (Fist) |
 | File:Block2.ogg | 0.7s | Blocked Hit (Sword) |
-|  | 0.9s | Alternative Parry |
+|  | 0.9s | Alternative Parry (1.5x Speed) |
 |  | 2.1s | Posture Break |
-|  | 2.1s | Windup Impact |
-|  | 1.5s | Player Vent |
+|  | 2.1s | [Wind-Up](Wind-Up.md) Bell Impact |
+|  | 1.5s | Player Venting / [Legion Sniper's](Legion_Sniper.md) Javelin Impact |
 |  | 3.0s | Master's Flourish / Prominence Draw |
-|  | 3.2s | Flame of Denial (Proc) |
-|  | 3.9s | Flame Wisp (Proc) |
+|  | 1.0s | Strong Left / Pressure Blast (Activation) |
+|  | 1.5s | Reinforce |
+|  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion Windup |
+|  | 3.9s | Flame Wisp (Proc) / Flint Usage |
 |  | 0.7s | Gale Wisp (Proc) |
 |  | 1.1s | Wind Blade (Activation) |
 |  | 1.5s | Heavenly Wind (Impact) |
 |  | 1.1s | Haunted Gale (Proc) |
-|  | 1.7s | Warding Radiance (Activation) |
+|  | 1.7s | Warding Radiance (Activation) / Meteor Isle Chain |
 |  | 1.0s | Illusionary Clones (Spawn) |
 |  | 1.0s | Crystal Impale (Impact) |
-|  | 1.4s | Mirage Clone |
 |  | 0.8s | Burn Extinguished |
 |  | 3.2s | Chill (Proc) |
 |  | 1.4s | Winded (Proc) |
-|  | 5.1s | Ice Fissure (Ext.) |
+|  | 0.6s | Electrified (Proc) / Static Withdraw |
+|  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance |
-|  | 1.9s | Ice Daggers (Activation) |
+|  | 1.9s | Ice Daggers (Thrown) |
 |  | 1.9s | Warden Blades (Shattered) |
 |  | 2.2s | Lightning Beam (Impact) |
 |  | 1.9s | Lightning Strikes (Impact) |
@@ -191,40 +193,40 @@ A large collection of sounds found in _Deepwoken_.
 |  | 14s | Shadow Roar |
 |  | 0.8s | Dark Rift (Activation) |
 |  | 2.3s | Tornado Kick (Impact) |
-|  | 4.2s | Sing/Taunt/Grasp of Eylis |
-|  | 2.3s | Glare |
+|  | 4.2s | Taunt Mantra + Grasp of Eylis Loop / Sing Mantra + Capra Racial Buffs (1.5x Speed) / Graceful Flame Loop (2x Speed) |
+|  | 2.3s | Glare, Resurrection Bell |
 |  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras |
 |  | 1.7s | [Frostdraw](Frostdraw.md) Trail |
 |  | 2.0s | [Thundercall](Thundercall.md) Mantras |
-|  | 1.4s | [Flamecharm](Flamecharm.md) Mantras |
+|  | 1.4s | [Flamecharm](Flamecharm.md) Mantras / Mirage Clones |
 |  | 0.8s | [Galebreathe](Galebreathe.md) Mantras, Gale Leap |
 
 ### [Monsters](Monsters.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Ambience |
-|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble |
+|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Attack (1) |
+|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
 |  | 2.1s | [Lionfish](Lionfish.md) Growl (1) |
 |  | 4.0s | [Lionfish](Lionfish.md) Growl (2) |
 |  | 1.9s | [Lionfish](Lionfish.md) Growl (3) |
 |  | 1.7s | [Lionfish](Lionfish.md) Growl (4) |
 | File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) Roar (1) |
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) Roar (2) |
-|  | 1.9s | [Megalodaunt](Megalodaunt.md)/[Deep Owl](Deep_Owl.md) Walking |
-|  | 1.0s | [Mechalodaunt](Megalodaunt.md) Windup |
-|  | 0.4s | [Deep Owl](Deep_Owl.md) Flock of Feathers |
+|  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps, Greataxe Crit / Object Placement (2x Speed) |
+|  | 1.0s | [Mechalodaunt](Megalodaunt.md) Laser Windup |
+|  | 0.4s | [Deep Owl](Deep_Owl.md) Feather Attack (1.5x Speed) |
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) Roar (Stage 2 Transformation) |
 |  | 4.0s | [Rock Golem](Rock_Golem.md) Roar |
-|  | 1.7s | [Rock Golem](Rock_Golem.md)/[Sand Knight](Stone_Knight.md) Death |
-|  | 2.4s | [Rogue Construct](Hive_Construct.md) Meteor Punch |
-|  | 0.4s | [Bone keeper](Bone_Keeper.md) Bone Spikes |
+|  | 1.7s | [Rock Golem](Rock_Golem.md) / [Sand Knight](Stone_Knight.md) Death |
+|  | 2.4s | [Mech's](Hive_Construct.md) Meteor Punch |
+|  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin Windup |
 |  | 3.0s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
-|  | 1.9s | Impact (Environmental) |
-|  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging |
+|  | 1.9s | Bonekeeper Bridge Impact (Environmental) / Bone Javelin Impact |
+|  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
-|  | 2.0s | [Mudskipper](Mudskipper.md) Hit/[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
+|  | 2.0s | [Mudskipper](Mudskipper.md) Hit / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
 |  | 1.9s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap |
 
 ### **[Echoes](Echoes.md)**
@@ -235,58 +237,53 @@ A large collection of sounds found in _Deepwoken_.
 |  | 17.0s | Achieving **Rank B Legacy** |
 |  | 16.0s | Achieving **Rank C Legacy** |
 
-### **[Notes](Notes.md)**
-
-| **File** | **Length** | **Notes** |
-| --- | --- | --- |
-|  | 1.1s | Gaining [Notes](Notes.md) |
-|  | 1.3s | Losing [Notes](Notes.md) |
-
 ### Miscellaneous
 
-  
-
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 2.7s | [Trial of One](Trial_of_One.md) Spawn |
+|  | 2.7s | [Trial of One](Trial_of_One.md) Spawn (1.5x Speed), Applied Shadow Blindness Effect (1.5x Speed) |
+|  | 0.8s | [Destroyman III](Destroyman_III.md) loading sound |
 |  | 3.0s | Changing Area |
+|  | 1.1s | Gaining [Notes](Notes.md) |
+|  | 1.3s | Losing [Notes](Notes.md) |
 |  | 26s | Tundra Ambience |
 |  | 1.1s | Sea Gate Opening |
 |  | 1.4s | Sea Gate Closing |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
-|  | 2.8s | [Knowledge](Knowledge.md) Gained |
+|  | 2.8s | [Knowledge](Knowledge.md) Gained (1.5x Speed) / EXP Gained (~2.5x Speed) / Luck Gain (Verse One) |
 |  | 4.1s | [Attribute](Attributes.md) Increase |
-|  | 1.7s | Locked [Attribute](Attributes.md) |
+|  | 1.7s | Locked [Attribute](Attributes.md) (3x Speed) / Chest Reward |
 |  | 6.0s | Alternative [Power](Power.md) Increase |
 |  | 9.0s | Self-Conducting Loop |
-|  | 0.3s | Zipline |
+|  | 0.3s | Zipline Loop |
 |  | 8.0s | Obtaining [Resonance](Resonance.md) |
 |  | 0.1s | [Resonance](Resonance.md) Activation |
-|  | 1.8s | [Tarnished Resonance](Resonance.md) Activation |
+|  | 1.8s | [Tarnished Resonance](Resonance.md) Activation / Linkstrider Chain Breaks |
 |  | 1.8s | [Legendary Resonance](Resonance.md) Activation |
 |  | 2.9s | [Corrupted Resonance](Resonance.md) Activation |
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) Activation |
 |  | 2.4s | [Blood Scourge](Blood_Scourge.md) Activation |
 |  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution |
-|  | 2.4s | [Crazy Slots](Crazy_Slots.md) Divine Spear |
+|  | 2.4s | [Crazy Slots](Crazy_Slots.md) (some) Ability Windups / [Angel's](Hollow_Angel.md) Divine Spear |
 |  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Soul Capturing |
 |  | 2.0s | [Tacet Murmur](Murmur.md) Activation |
 |  | 1.0s | [Tacet Murmur](Murmur.md) Deactivation |
 |  | 2.1s | [Rhythm Murmur](Murmur.md) Activation |
+|  | 0.2s | Discovery of Fire (Activation)/ Flame Blind (Activation) |
+|  | 0.8s | Campfire Execute / Destroying Terrain |
 |  | 0.3s | Drinking Sound |
-|  | 0.8s | Campfire execute |
 |  | 0.8s | Foraging |
 |  | 3.2s | Falling Tree |
 |  | 1.5s | Stomach Growl |
-|  | 0.6s | [Fishing](Fishing.md) |
+|  | 0.6s | [Fishing](Fishing.md) / Contractor's Equalizer |
 |  | 1.0s | Small Splash |
 |  | 1.3s | Big Splash |
 |  | 1.6s | Opening Chest |
 |  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
-|  | 3.5s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) (Used) |
-|  | 3.7s | [Castle Light](Castle_Light.md) Elevator |
-|  | 0.7s | [Layer 2, Floor 1](https://deepwoken.fandom.com/wiki/Second_Layer#The_Eternal_Gale) Key Grab |
+|  | 3.5s | Passing through Barriers / Aratel Green Jump Pads |
+|  | 3.7s | [Castle Light](Castle_Light.md) L2 Elevator (1.5x Speed) / Forge Piece Loop + Ardour Obtained |
+|  | 0.7s | [Layer 2, Floor 1](Second_Layer.md) Key Grab |
 |  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Door Opening |
 |  | 15s | [Layer 2](Second_Layer.md) Passageway Opening |
 |  | 5.1s | Ignition Deep Drill |
@@ -295,20 +292,22 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.2s | Corpse Fading |
 |  | 1.3s | Deepwoken Start-up Screen (Any button) |
 |  | 2.5s | Terrain Freezing |
-|  | 3.6s | [Boat](Ships_&_Sailing.md) Cannon (Impact) |
-|  | 1.8s | Golden Toungue/Prediction |
-|  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md)/Ice Chains/Flame Assault/Shadow Assault (Activation)/ Freezing a Card |
+|  | 3.6s | Cannonball, Bomb Impacts + Summer Isle Cannon Firing |
+|  | 1.8s | Golden Toungue / Prediction |
+|  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md) / Ice Chains, Flame Assault, Shadow Assault Windups / Freeze Ace |
 |  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
 |  | 2.4s | [Grim](Enchantments.md) (Proc) |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) (Proc) |
-|  | 4.5s | Whirlpools |
+|  | 4.5s | Whirlpools + Sea Monster Bubbles |
 |  | 5.1s | Illusionary Realm |
 |  | 5.1s | Kyrsan Ambush Event |
 |  | 7.1s | Aerogliding |
 |  | 0.4s | Fall Damage |
 |  | 3.7s | Sliding |
+|  | 0.6s | Wall Climbing |
+|  | 3.0s | [Jetstriker](Oath%253A_Jetstriker.md) dash / [Linkstrider](Oath%253A_Linkstrider.md) moves |
 |  | 2.4s | Dashing in [The Depths](The_Depths.md) |
-|  | 1.8s | [Depths](The_Depths.md) Boulder Landing |
+|  | 1.8s | Meteor Falling Loop |
 |  | 2.3s | [Depths](The_Depths.md) Boulder Falling |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
 

@@ -1,9 +1,9 @@
 ---
 title: Dye Packet
-revid: 70459
+revid: 70612
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Pages with broken file links]
 ---
 
 # Dye Packet
@@ -17,4 +17,8 @@ Dye Packet is an endgame item that makes your equipment change its color. It can
 ## Trivia
 
 -   Some equipment are just "tinted" instead of the actual color changing.
--   An update in August 15, 2023 made you able to buy Dye Packets in Merchant Ships, instead of killing the scion of a god to change the color of your hair. As of August 17, 2023 no one has found a singular one with proof being sold in said ships.
+-   File:Dye merchant.png
+    
+    A dye packet being sold in a Merchant Ship.
+    
+    An update in August 15, 2023 made you able to buy Dye Packets in Merchant Ships, instead of killing the scion of a god to change the color of your hair. As of August 17, 2023 no one has found a singular one with proof being sold in said ships. (Fixed as of August 19, 2023)
