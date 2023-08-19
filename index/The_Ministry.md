@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 65637
+revid: 70627
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -42,6 +42,7 @@ Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you 
 -   [Cestis](Cestis.md)
 -   Emel
 -   Imel
+-   Rimil
 -   [The Lord Regent](The_Lord_Regent.md)
 -   The Stranger
 -   [Nostor](Attunement_Trainers.md)

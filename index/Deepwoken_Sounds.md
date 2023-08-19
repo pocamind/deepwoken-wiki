@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70623
+revid: 70630
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -149,7 +149,7 @@ A large collection of sounds found in _Deepwoken_.
 | File:Sheathe.ogg | 1.0s | Sheathing |
 |  | 0.3s | Slash (Sword) |
 |  | 0.3s | Alternative Slash (Sword) |
-|  | 0.4s | Hit (Sword) |
+|  | 0.4s | Hit (Sword & Dagger) / Physical Attack hitting Stone Enemy (~0.75x Speed) |
 |  | 0.6s | Hit (Greathammer) |
 |  | 0.4s | Alternate Hit (Sword) |
 |  | 0.8s | Gunshot |
@@ -168,7 +168,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.5s | Player Venting / [Legion Sniper's](Legion_Sniper.md) Javelin Impact |
 |  | 3.0s | Master's Flourish / Prominence Draw |
 |  | 1.0s | Strong Left / Pressure Blast (Activation) |
-|  | 1.5s | Reinforce |
+|  | 1.5s | Reinforce / Jetstriker Climb (1.5x Speed) |
 |  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion Windup |
 |  | 3.9s | Flame Wisp (Proc) / Flint Usage |
 |  | 0.7s | Gale Wisp (Proc) |
@@ -184,7 +184,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.6s | Electrified (Proc) / Static Withdraw |
 |  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance |
-|  | 1.9s | Ice Daggers (Thrown) |
+|  | 1.9s | Ice Daggers, Fire Eruption, Ash Slam (Windup) / Trial of One Orbs Firing / Ethiron Ultimate Throw |
 |  | 1.9s | Warden Blades (Shattered) |
 |  | 2.2s | Lightning Beam (Impact) |
 |  | 1.9s | Lightning Strikes (Impact) |
@@ -194,7 +194,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.8s | Dark Rift (Activation) |
 |  | 2.3s | Tornado Kick (Impact) |
 |  | 4.2s | Taunt Mantra + Grasp of Eylis Loop / Sing Mantra + Capra Racial Buffs (1.5x Speed) / Graceful Flame Loop (2x Speed) |
-|  | 2.3s | Glare, Resurrection Bell |
+|  | 2.3s | Resurrection Bell / Glare Mantra (1.5x Speed) |
 |  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras |
 |  | 1.7s | [Frostdraw](Frostdraw.md) Trail |
 |  | 2.0s | [Thundercall](Thundercall.md) Mantras |
@@ -305,10 +305,10 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.4s | Fall Damage |
 |  | 3.7s | Sliding |
 |  | 0.6s | Wall Climbing |
-|  | 3.0s | [Jetstriker](Oath%253A_Jetstriker.md) dash / [Linkstrider](Oath%253A_Linkstrider.md) moves |
+|  | 3.0s | [Jetstriker](Oath%253A_Jetstriker.md) dash (2x Speed) / [Linkstrider](Oath%253A_Linkstrider.md) moves (Both 1x and 3x Speed) |
 |  | 2.4s | Dashing in [The Depths](The_Depths.md) |
-|  | 1.8s | Meteor Falling Loop |
-|  | 2.3s | [Depths](The_Depths.md) Boulder Falling |
+|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
+|  | 2.3s | Meteor Falling Loop |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
 
 ## Trivia

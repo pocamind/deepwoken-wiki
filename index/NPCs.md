@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 70441
+revid: 70628
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -97,6 +97,7 @@ Check the rest out for yourself
 | Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. I cannot stress this enough; he throws you into the nest pit, and forces you to fight 8-9 bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS PATCHES IN DEEPWOKEN |
 | Raphael | Unaligned | [The Depths](The_Depths.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
 | Regek | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
+| Rimil | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants quest to kill an enemy in the [Starswept Valley](The_Starswept_Valley.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | Royal Guard | [The Kingdom of Etrea](Etrea.md) | [Etrean Wilds](Etrean_Wilds.md), a hill behind the Nomad Camp | Lord Regent questline, grants access to [Etris Palace](Etris_Palace.md) | Not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>) |
 | [Samael](Samael.md) | Unaligned | Derelict Highchurch | Grants the [Starkindred](Oath%253A_Starkindred.md) [Oath](Oaths.md) |  |
 | Seren | Unalighned | [Starswept Valley](The_Starswept_Valley.md) | Asks for water from a [canteen](Canteen.md). Gives XP and a chest, or attacks you. |  |
