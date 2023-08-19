@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 67404
+revid: 70600
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -39,7 +39,7 @@ The Outfit is the only piece of Armor that loses durability, which can be found 
 
 ### Starter
 
-_Deepwoken_ currently has 11 Starter Outfits that have been discovered.
+_Deepwoken_ currently has 13 Starter Outfits that have been discovered.
 
 ### Adept
 
@@ -62,6 +62,10 @@ _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 ### **Spec/Mod**
 
 _Deepwoken_ currently has 6 Confirmed spec/mod armor that has been discovered.
+
+### **Removed**
+
+_Deepwoken_ currently has 2 Removed armor that has been discovered.
 
 ## Trivia
 

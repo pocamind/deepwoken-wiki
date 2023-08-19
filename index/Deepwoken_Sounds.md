@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70562
+revid: 70606
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -150,6 +150,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.3s | Slash (Sword) |
 |  | 0.3s | Alternative Slash (Sword) |
 |  | 0.4s | Hit (Sword) |
+|  | 0.6s | Hit (Greathammer) |
 |  | 0.4s | Alternate Hit (Sword) |
 |  | 0.8s | Gunshot |
 |  | 1.5s | Critical (Sword) |
@@ -165,6 +166,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.1s | Posture Break |
 |  | 2.1s | Windup Impact |
 |  | 1.5s | Player Vent |
+|  | 3.0s | Master's Flourish / Prominence Draw |
 |  | 3.2s | Flame of Denial (Proc) |
 |  | 3.9s | Flame Wisp (Proc) |
 |  | 0.7s | Gale Wisp (Proc) |
@@ -180,8 +182,10 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.4s | Winded (Proc) |
 |  | 5.1s | Ice Fissure (Ext.) |
 |  | 2.8s | Ice Lance |
+|  | 1.9s | Ice Daggers (Activation) |
 |  | 1.9s | Warden Blades (Shattered) |
 |  | 2.2s | Lightning Beam (Impact) |
+|  | 1.9s | Lightning Strikes (Impact) |
 |  | 1.5s | Lightning Stream (Pull) |
 |  | 1.8s | Shadow Gun (Activation) |
 |  | 14s | Shadow Roar |
@@ -216,12 +220,12 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.4s | [Rogue Construct](Hive_Construct.md) Meteor Punch |
 |  | 0.4s | [Bone keeper](Bone_Keeper.md) Bone Spikes |
 |  | 3.0s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
-| File:Barriers Silverguard RL 1.mp3 | 2.6s | Silverguard barriers (game location is N/A) |
 |  | 1.9s | Impact (Environmental) |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit/[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
+|  | 1.9s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap |
 
 ### **[Echoes](Echoes.md)**
 
@@ -273,6 +277,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.3s | Drinking Sound |
 |  | 0.8s | Campfire execute |
 |  | 0.8s | Foraging |
+|  | 3.2s | Falling Tree |
+|  | 1.5s | Stomach Growl |
 |  | 0.6s | [Fishing](Fishing.md) |
 |  | 1.0s | Small Splash |
 |  | 1.3s | Big Splash |
@@ -284,8 +290,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Door Opening |
 |  | 15s | [Layer 2](Second_Layer.md) Passageway Opening |
 |  | 5.1s | Ignition Deep Drill |
-|  | 6.0s | Wiping in [The Depths](The_Depths.md) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
+|  | 6.0s | Wiping in [The Depths](The_Depths.md) |
 |  | 2.2s | Corpse Fading |
 |  | 1.3s | Deepwoken Start-up Screen (Any button) |
 |  | 2.5s | Terrain Freezing |
@@ -301,6 +307,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 7.1s | Aerogliding |
 |  | 0.4s | Fall Damage |
 |  | 3.7s | Sliding |
+|  | 2.4s | Dashing in [The Depths](The_Depths.md) |
 |  | 1.8s | [Depths](The_Depths.md) Boulder Landing |
 |  | 2.3s | [Depths](The_Depths.md) Boulder Falling |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |

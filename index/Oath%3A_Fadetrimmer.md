@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 70425
+revid: 70603
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -57,7 +57,7 @@ This oath is fully upgraded once you get it.
     -   What's in these things?
         -   Right click to choose between Flammable, Charming, or Revitalizing.
         -   Left click to spray your effect of choice in front of them.
-        -   Revitalizing seems to heal about ~10%
+        -   Revitalizing heals a flat 10% HP of the target.
 
 ## Trivia
 

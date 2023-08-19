@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 65345
+revid: 70586
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -29,18 +29,6 @@ categories: [Weapons, Guns]
 
 ## **Description**
 
-The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip. Because it is in the flintlock family of weapons, the functionality of the weapon is far different than others (refer to Effective Use).
+The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip.
 
-## Effective Use
-
-In general, each weapon within the flintlock family has its own unique m1 m2 cycle while dual-wielded. The Dragoon's specific m1 m2 cycle is much slower than the rest, as a cooldown between shots are much more noticeable than the other. Therefore, one must keep in mind their options.
-
-A Dragoon users' cycle can go like this:
-
-A) M1, M2, Critical, Cycle B, etc.
-
-B) M2, M1, Critical, M2, M1, Critical etc.
-
-When using a dual-wielded Dragoon, it needs to be known that critical will put an m1 on cooldown, however the vice versa does not occur. Many dual-wielding Dragoon users use this fact to their advantage; however, this can be pretty annoying to remember in a fight. Therefore, the use of [Revolvers](Repeater.md) is recommended for newer players until they can consistently pull off these cycles. These cycles are useful for Dragoon users because of their slower cooldowns, rewarded with higher damage.
-
-Alternatively, this can be used offhand with any other weapon as long as you meet the requirements, where a user only has to use m2 to shoot.
+~Because it is in the flintlock family of weapons, the functionality of the weapon is far different than others (refer to Effective Use).~ The effective use section has been removed as these notes are now irrelevant as of July 31st 2023. All dual guns now fire using only m1.

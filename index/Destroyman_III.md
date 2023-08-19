@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 70417
+revid: 70574
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -154,7 +154,7 @@ Remove Quotes
 -   We LOVE Destroyman III.
 -   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to an obscure meme “Getting mugged? Just say no, criminals can't legally steal from you without your consent.”
 -   The tooltip "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" is a reference to the influx of Youtubers having sponsored ad segments following this template in their videos, with some of the most well-known being NordVPN, Raid: Shadow Legends and HelloFresh (probably.)
--   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official.
+-   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official. (The apparent puzzle seems to be a reference to the library puzzle in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md))
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
 -   This page has the most trivia of any page on the wiki currently.
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III)

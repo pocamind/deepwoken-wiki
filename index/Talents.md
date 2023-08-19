@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70521
+revid: 70605
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -73,13 +73,9 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 
 > _**"I once performed in a Circus."**_
 
--   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 5 seconds. (+1 Passive Agility)
+-   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds and 20 if it's a player (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisite: 5 Agility
-
--   Blood Frenzy \[Common Talent\] - Your speed boost from killing is increased and duration is doubled, but will only work on players. (+1 Passive Agility)
-    -   Despite the wording, the base version of Time To Go still works. You just wont get the extended speed boost on monsters.
-    -   Prerequisite: Time To Go
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
@@ -995,10 +991,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I always shoot first."**_
 
 -   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor.
-    -   Prerequisites: 30 Intelligence, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
+    -   Prerequisites: 30 Medium/Light Weapon, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
-    -   Prerequisites: 20 Intelligence
+    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\].
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
