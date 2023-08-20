@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70678
+revid: 70681
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -181,7 +181,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.0s | Crystal Impale (Impact) |
 |  | 0.8s | Burn Extinguished |
 |  | 3.2s | Chill (Proc) |
-|  | 1.4s | Winded (Proc) |
+|  | 1.4s | Winded Status / Wind Gem / Gale Punch, Air Force (Windup) |
 |  | 0.6s | Electrified (Proc) / Static Withdraw |
 |  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance |

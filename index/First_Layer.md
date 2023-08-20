@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 70556
+revid: 70688
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -31,7 +31,7 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 
 Detailed map of the entire Depths First Layer
 
-There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Schizophrenia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
+There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
 
 Note: The Map shows the diver camp being in the South, however, it was recently moved to the North.
 
@@ -45,7 +45,7 @@ _Not to be confused with [Resonances](Resonance.md)._
 
 [The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. 4 of them have a bell and said sections can be identified by the presence of Watchers who will move between walls and buildings. Bells can be found by following a humming/shimmering sound effect. Interacting with one will restore health and make an audible bell noise. Please note that a lack of Seekers does not denote the status of a rung bell; there will be Seekers regardless of whether or not the bell in that area has been rung or not.
 
-Once all bells have been rung, a large bell choir will be heard across Schizophrenia, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
+Once all bells have been rung, a large bell choir will be heard across Scyphozia, signaling the possible salvation of the souls trapped within via the opening of the gate to The Trial.
 
 ### **Climbing the Walls**
 

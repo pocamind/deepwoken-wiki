@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 69815
+revid: 70689
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -16,6 +16,7 @@ A Vigil Swordsman is a type of enemy NPC that can be found in [Erisia](Erisia.md
 
 -   Vigil Swordsmen vs Authority Footsoldiers ([Erisia](Erisia.md))
 -   Vigil Swordsmen vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean ambush event (Anywhere)
 
 ## Moveset
 

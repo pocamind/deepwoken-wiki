@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 70612
+revid: 70682
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -12,7 +12,7 @@ Dye Packet's GUI
 
 ## Description
 
-Dye Packet is an endgame item that makes your equipment change its color. It can be obtained from Klaris by handing in Krysan Medallions or very rarely in Merchant Ships for notes. It also be used to dye hair into a different color. It cannot be dropped but the dyed equipment can be dropped. You can also remove a dyed equipment with the Dye Remover that comes with the Dye Packet when you purchase one.
+Dye Packet is an endgame item that makes your equipment change its color. It can be obtained from Klaris by handing in Krysan Medallions or very rarely in Merchant Ships for notes. It also be used to dye hair into a different color. It cannot be dropped but the dyed equipment can be dropped. You can also remove a dyed equipment with the Dye Remover that comes with the Dye Packet when you purchase one. Maximum dye packets you can get per slot is 10.
 
 ## Trivia
 
