@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 69559
+revid: 70665
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -59,6 +59,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Bloatskipper](Mudskipper.md)
 -   [Thief](Thief.md)
 -   [Terrapods](Terrapod.md) (They could have fallen off [Upper Erisia](Upper_Erisia.md) to **Lower Erisia.**)
+-   Owls (suprisingly common near towerstruck lands)
 
 ## Missions
 

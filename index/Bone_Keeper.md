@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 69014
+revid: 70671
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -42,6 +42,8 @@ Slash
 -   Bone Keepers used to heal at a rate of 20 HP per second (60 HP when Corrupted). This made them extremely tedious to defeat at times, locking out lower DPS builds from fighting them. After being made to fight it with [Jus Karita](Jus_Karita.md) and no equipment, which resulted in 70+ deaths, developer Ragoozer had it removed.[\[1\]](#cite-note-1)
 -   Bone Keepers is likely related to the Kyrsgarde in [Firfire](Firfire.md) and Floor 2 of the Eternal Gale, due to possessing similarities in appearance, down to the red hue on parts of its bones. It most closely resembles the Kyrsgarde Brute.
 -   The Bone Keeper's charge attack is reskinned after the mantra shoulder bash.
+-   The Bone Keeper probably drinks a lot of milk
+-   The Bone Keeper is the only mob in the game with three unparriable attacks, those being the jump, the bone wave, and the grab.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 70320
+revid: 70664
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -45,6 +45,7 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 
 ## Trivia
 
+-   Literally Artorias of the Abyss
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of three greatswords (Others being the enforcer's blade and railblade), that has no endlag on m1s.

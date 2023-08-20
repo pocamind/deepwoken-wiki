@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70639
+revid: 70678
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -99,6 +99,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | ? | Opulent, Imperial | 2:14 | [Voidheart](Voidheart.md) & [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) | File:CorvusManorMain.ogg |
+| ? | [Sibex's](Sibex.md) Gale Wisp Tune (TBA) | 6:16 | [Sibex,](Sibex.md) [The Aratel Sea](The_Aratel_Sea.md) | File:Sibex-Gale-Wisp-Tune-1.mp3 |
 
 ## Alternative Soundtracks
 
@@ -149,7 +150,7 @@ A large collection of sounds found in _Deepwoken_.
 | File:Sheathe.ogg | 1.0s | Sheathing |
 |  | 0.3s | Slash (Sword) |
 |  | 0.3s | Alternative Slash (Sword) |
-|  | 0.4s | Hit (Sword & Dagger) / Physical Attack hitting Stone Enemy (~0.75x Speed) |
+|  | 0.4s | Hit (Sword & Dagger) / Physical Attack against Stone Monster (~0.75x Speed) |
 |  | 0.6s | Hit (Greathammer) |
 |  | 0.4s | Alternate Hit (Sword) |
 |  | 0.8s | Gunshot |
@@ -158,19 +159,19 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.8s | Execute (Sword) |
 |  | 1.0s | Poser's Ring Activation + Killing Monster (0.8x Speed) |
 |  | 1.8s | Execution Spin (Gun) |
-|  | 2.3s | Execute (Heavy Weapon) / Monster Executing |
+|  | 2.3s | Execute (Heavy Weapon) / Monster Execution |
 |  | 0.8s | [Way of Navae](Way_of_Navae.md) Activation (Knife Throw) |
 | File:Punch3.ogg | 0.4s | Hit (Fist) |
 | File:Block2.ogg | 0.7s | Blocked Hit (Sword) |
 |  | 0.9s | Alternative Parry (1.5x Speed) |
 |  | 2.1s | Posture Break |
 |  | 2.1s | [Wind-Up](Wind-Up.md) Bell Impact |
-|  | 1.5s | Player Venting / [Legion Sniper's](Legion_Sniper.md) Javelin Impact |
+|  | 1.5s | Player Venting / [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
 |  | 3.0s | Master's Flourish / Prominence Draw |
 |  | 1.0s | Strong Left / Pressure Blast (Activation) |
-|  | 1.5s | Reinforce / Jetstriker Climb (1.5x Speed) |
+|  | 1.5s | Reinforce / Stratos Step (1.5x Speed) |
 |  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion Windup |
-|  | 3.9s | Flame Wisp (Proc) / Flint Usage |
+|  | 3.9s | Flame Wisp (Proc) (2x Speed) / Flint Usage |
 |  | 0.7s | Gale Wisp (Proc) |
 |  | 1.1s | Wind Blade (Activation) |
 |  | 1.5s | Heavenly Wind (Impact) |
@@ -184,8 +185,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.6s | Electrified (Proc) / Static Withdraw |
 |  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance |
-|  | 1.9s | Ice Daggers, Fire Eruption, Ash Slam (Windup) / Trial of One Orbs Firing / Ethiron Ultimate Throw |
-|  | 1.9s | Warden Blades (Shattered) |
+|  | 1.9s | Ice Daggers, Fire Eruption, Ash Slam (Windup) / Trial of One Parry Test / Scion of Ethiron Ultimate Throw |
+|  | 1.9s | Warden Blades (Shattering) |
 |  | 2.2s | Lightning Beam (Impact) |
 |  | 1.9s | Lightning Strikes (Impact) |
 |  | 1.5s | Lightning Stream (Pull) |
@@ -213,7 +214,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.7s | [Lionfish](Lionfish.md) Growl (4) |
 | File:PROTO sharkoroar1.ogg | 2.1s | [Megalodaunt](Megalodaunt.md) Roar (1) |
 | File:Sharko2.ogg | 2.3s | [Megalodaunt](Megalodaunt.md) Roar (2) |
-|  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps, Greataxe Crit / Object Placement (2x Speed) |
+|  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps, Greataxe Crit (Ground Impact)/ Object Placement (2x Speed) |
 |  | 1.0s | [Mechalodaunt](Megalodaunt.md) Laser Windup |
 |  | 0.4s | [Deep Owl](Deep_Owl.md) Feather Attack (1.5x Speed) |
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) Roar (Stage 2 Transformation) |
@@ -222,7 +223,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.4s | [Mech's](Hive_Construct.md) Meteor Punch |
 |  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin Windup |
 |  | 3.0s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
-|  | 1.9s | Bonekeeper Bridge Impact (Environmental) / Bone Javelin Impact |
+|  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
@@ -242,7 +243,7 @@ A large collection of sounds found in _Deepwoken_.
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 2.7s | [Trial of One](Trial_of_One.md) Spawn (1.5x Speed), Applied Shadow Blindness Effect (1.5x Speed) |
-|  | 0.8s | [Destroyman III](Destroyman_III.md) loading sound |
+|  | 0.8s | [Destroyman III](Destroyman_III.md) |
 |  | 3.0s | Changing Area |
 |  | 1.1s | Gaining [Notes](Notes.md) |
 |  | 1.3s | Losing [Notes](Notes.md) |
@@ -281,7 +282,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.3s | Big Splash |
 |  | 1.6s | Opening Chest |
 |  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) |
-|  | 3.5s | Passing through Barriers / Aratel Green Jump Pads |
+|  | 3.5s | Passing Through Barriers / Aratel's Green Jump Pads |
 |  | 3.7s | [Castle Light](Castle_Light.md) L2 Elevator (1.5x Speed) / Forge Piece Loop + Ardour Obtained |
 |  | 0.7s | [Layer 2, Floor 1](Second_Layer.md) Key Grab |
 |  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Door Opening |
@@ -305,10 +306,11 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.4s | Fall Damage |
 |  | 3.7s | Sliding |
 |  | 0.6s | Wall Climbing |
-|  | 3.0s | [Jetstriker](Oath%253A_Jetstriker.md) dash (2x Speed) / [Linkstrider](Oath%253A_Linkstrider.md) moves (Both 1x and 3x Speed) |
+|  | 3.0s | [Jetstriker](Oath%253A_Jetstriker.md) Dash (2x Speed) / [Linkstrider](Oath%253A_Linkstrider.md) Abilities (Both 1x and 3x Speed) |
 |  | 2.4s | Dashing in [The Depths](The_Depths.md) |
-|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
 |  | 2.3s | Meteor Falling Loop |
+|  | 2.7s | Meteor Impact (1.5x Speed) |
+|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 70462
+revid: 70679
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -341,8 +341,9 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   They are not found within Layer One, their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
 -   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
--   Shrines identical in appearance to the ones lining the corridor in the Temple of Hearts are scattered throughout the Eastern Luminant.
+-   It is known that where his main shrine is there are multiple shrines with similar appereance and different functions. Having even more shrines that do the same function in the Eastern and Etrean Luminant, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who They call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.
+-   Knows about the existance of the Ministry calling them "Godseekers" or "Prophets in Black" and even accepting the sacrfice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind use to do", stating that they still accepted the sacrifice of the Ministry.
 
 File:Yun'Shul.png
 
@@ -365,6 +366,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   His physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
 -   The current status of Ethiron: Asleep.(he is eepy)
+-   An entity known as "The Voice of Ethiron", tries to fool the player into awake the Scion of Ethiron so it can fully awake Ethiron. Suggesting that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake his master.
 
 ### **Korilfiend**
 
@@ -377,6 +379,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   He takes the form of a large fiery serpent.
 -   One of the meteor flowers was eaten by Black Diver Amorus Pleeksty.
 -   (Ragoozer) Confirmed to be male.
+-   It is suggested that Korilfiend uses purple flames simirarly of how Amorus Pleeksty was able to cast purple flames when he ate the essence of Korilfiend.
 
 ### **Drowned Gods**
 
@@ -394,13 +397,14 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
     -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
 -   The name of the game "Deepwoken" is known in the lore as the act of consuming a piece of a drowned god to gain incredible powers, so Deepwoken doesn't mean the awakening of a drowned god, but more like the awakening of a great power of the Depths. Before the game had the name of Deepwoken it was called "Drowned Gods" referencing the Drowned Gods.
+-   The Drowned Gods are able to create Avatars from small pieces of themselves, creating puppets to their will. One example of this its the Scion of Ethiron in Layer 2.
 
 ### **The Nestmind**
 
 **Lore Sources:** _Visionshaper Obtainment Method_
 
 -   The Nestmind is a visual representation of the hivemind that every [Deep Owl](Deep_Owl.md) is a part of.
--   The Nestmind, and Deep Owls as an extension, consume human thought as food.
+-   The Nestmind, and Deep Owls as an extension, consume human thought as food. It is speculated that Miserables is also a more powerfull extension of the Nestmind, similar to Deep Owls.
 -   They see reality in a different way compared to the player.
 -   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
@@ -434,6 +438,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 -   Can fuse Mantras using his Resonance to a higher tier.
 -   Is said to have committed sins so heinous 'the world will never forgive \[him\].'
 -   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes have been confirmed to not be the wielders of the hero blades.
+-   It is said that before he was sealed, he was capable of drowning entire islands on his prime, possibly being the sins that the world will never forgive.
 
 ### **Sudaruska the Undying**
 
@@ -579,6 +584,7 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 -   The Depths apparently is more formed by numerous worlds that a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2, But this remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
 -   The First Layer is located below the sea, however the rest of the layers are unknown to where they are located, due to being different worlds they are currently in unknown locations, however many especulate that they are located also below the sea.
 -   Some layers have more influence of a specific drowned god than others, this can be seen through different shrines. For layer 1 we have more influence of Yun'shul, for layer 2 we have more influence of Ethiron, and for the third layer we have more influence of Korilfiend.
+-   The Depths is also located above, over the Celestial Cities, not just below.
 
 #### **Scyphozia, The First Layer**
 

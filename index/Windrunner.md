@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 62546
+revid: 70663
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -42,6 +42,10 @@ _"Observing. This conflict down below. There is a shadow war being waged. Yes, o
 If you talk to him with 75 agility, he will say:
 
 _"If you value your life, you will run. I can tell you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror."_
+
+If you talk to him with 75 agility and a oath he will say:
+
+You've taken and oath I see.
 
 ## Trivia
 
