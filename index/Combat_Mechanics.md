@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 63314
+revid: 70720
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -20,7 +20,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of the player's health. Players start with 150 Health; stuff like <a href="Attributes.md">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Armors</a>, <a href="Traits.md">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (6 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked out and is at the mercy of anyone around them.
+  <td>A visual representation of the player's health. Players start with 150 Health; stuff like <a href="Attributes.md">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (6 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked out and is at the mercy of anyone around them.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
     <li>Players cannot regenerate Health if their hunger bar is below ~12.5%</li>

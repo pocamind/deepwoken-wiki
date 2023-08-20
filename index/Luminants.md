@@ -1,9 +1,9 @@
 ---
 title: Luminants
-revid: 61625
+revid: 70725
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Map, Mantras, Magic, Locations]
+categories: [Map, Mantras, Locations]
 ---
 
 # Luminants

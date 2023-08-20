@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 70415
+revid: 70724
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -63,6 +63,8 @@ Humanoid Enemies can have **enchanted** weapons, however it's only given to cert
 **The Ministry File:Eylisiconfactoin.png**
 
 **The Summer Company**
+
+[Summer dragoon](<Summer_Dragoon_(NPC).md>)
 
 **The Ignition Union**
 

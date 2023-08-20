@@ -1,6 +1,6 @@
 ---
 title: Royal Pathfinder
-revid: 64603
+revid: 70743
 source: https://deepwoken.fandom.com/wiki/Royal_Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -34,9 +34,4 @@ The Royal Pathfinder is an equipment item in the Arms category. Equipping under 
 
 ## Trivia
 
--   It has gained a reputation as one of the most hated equipment items in the game, due to people who wear it often being Metamancers that attack freshies[\[1\]](#cite-note-1).
--   Awarded "Best page in all of the Deepwoken Wiki" award 2023 by zlaidoomba due to the sheer power of the footnote.
-
-### Footnotes
-
-1.  [↑](#cite-ref-1) Term used to describe new players or freshly made characters.
+-   It has gained a reputation as one of the most hated equipment items in the game, due to people who wear it often being Metamancers that attack Freshies.

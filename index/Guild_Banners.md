@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 70490
+revid: 70707
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,6 +8,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Guild Banners
 
 The building at **[Minityrsa](Minityrsa.md)** with a banner
+
+Banner outside miners landing
 
 Capture these to get money in your Guild Treasury
 

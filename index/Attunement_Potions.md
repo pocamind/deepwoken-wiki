@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 67727
+revid: 70734
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-[Attunement](Attunements.md) Potions are the only way to obtain and permanently unlock further Attunements in [Character Creation](Character_Creation.md). Upon drinking one, you will take a small amount of elemental damage (changing depending on the Attunement) and be ragdolled for a moment. When you stand back up, you will acquire 1 attribute point in that Attunement, and will permanently unlock it in Character Creation.
+Attunement Potions are the only way to obtain and permanently unlock further [Attunements](Attunements.md) in [Character Creation](Character_Creation.md). Upon drinking one, you will take a small amount of elemental damage (changing depending on the Attunement) and be ragdolled for a moment. When you stand back up, you will acquire 1 attribute point in that Attunement, and will permanently unlock it in Character Creation. Attunement Potions cannot be dropped or thrown.
 
 ## Obtainment
 

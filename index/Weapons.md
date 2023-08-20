@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 70685
+revid: 70694
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13,9 +13,6 @@ categories: [Weapons, Character, Mechanics]
 _Tools constructed with the intent to harm others, polished to be efficient killing devices._
 
   
-
-_**MARCUS SUGE PULA SI COAIELE**_
-
   
 Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via unbounding your weapon stat (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per level for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
 
