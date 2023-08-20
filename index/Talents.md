@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70641
+revid: 70651
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Cha
 
 Template:DWI Talents
 
-## Foreword
+## Foreword.
 
 **Press \[_Ctrl + F\] or \[F3\]_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 70372
+revid: 70650
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -56,7 +56,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
     -   Some types of equipment, such as shields, some helmets, and the _Ironsinger Heavy Plate_, have a fortitude requirement to wield.
         -   _These helmets tend to have better stats than those without a fortitude requirement._
 -   Unlocks Fortitude-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
--   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder.
+-   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder (this will train your Strength at the same time).
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md).**_
 
 ### Agility
@@ -78,7 +78,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
     -   One point in Intelligence gives 2 Ether every point.
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
--   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia, and reading lore books for the first time..
+-   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 
 ### Willpower
@@ -95,7 +95,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
     -   One point in Charisma gives 1.5 ether.
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
--   Gain Charisma EXP by selling items, getting good reputation with a faction and using the _How To Make Friends_ book.
+-   Gain Charisma EXP by selling items, getting good reputation with a faction, using the Encyclopedia (this will train your Intelligence at the same time) and using the _How To Make Friends_ book.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to Etris.**_
 
 ## Weapon Attributes
