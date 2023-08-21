@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 70553
+revid: 70764
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -25,7 +25,7 @@ categories: [Weapons, Spears]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Corrupted King Thresher, Glacial Lionfish |
-| description | "-" |
+| description | "..." |
 
 whoever added the previous text is just a noobie - dork
 

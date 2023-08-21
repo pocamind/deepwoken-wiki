@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 61435
+revid: 70789
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -26,15 +26,14 @@ _This is not an entirely different race in and of itself, more so a racial varia
 <tbody>
 <tr>
   <td>File:Chitin.png</td>
-  <td><b>Primal Chitin</b>
+  <td><b>Chitin</b>
   <ul>
     <li>"<i>You have a layer of natural armor that replenishes when you rest.</i>"
   <ul>
     <li>5% damage reduction. Degrades with damage but can be replenished at a campfire</li>
     <li>This buff also stacks with Exoskeleton ( Rare Talent ) albeit is slightly reduced.</li>
-    <li>Note:Exact effects unknown, Described by Nuttoons as acting as regular chitin but granting "extra resistances"</li>
   </ul></li>
-    <li>+2 Health</li>
+    <li>Identical to the base Race</li>
   </ul></td>
 </tr>
 <tr>
@@ -58,7 +57,7 @@ Primal Vesperians do not play a significant role in the lore, though they did ex
 
 Emblem of the Primal Vesperian clan Stag was a part of (Made by Nuttoons)
 
-Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md). They eventually died off as a group leaving one sole surviving member, with this member being Stag Acrossus.
+Primal Vesperians are the remnants of a branch of the [Vesperians](Vesperian.md) who have since faded into obscurity.
 
 <table>
 <tbody>

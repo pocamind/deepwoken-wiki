@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70747
+revid: 70787
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -146,6 +146,7 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 5.4s | Entering Combat (Default) |
 |  | 3.6s | Entering Combat ([The Depths](The_Depths.md)) |
+|  | 1.2s | Switching Areas when Combat Tagged |
 | File:Unsheathe2.ogg | 0.9s | Unsheathing |
 | File:Sheathe.ogg | 1.0s | Sheathing |
 |  | 0.3s | Slash (Sword) |
@@ -153,6 +154,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.4s | Hit (Sword & Dagger) / Physical Attack against Stone Monster (~0.75x Speed) |
 |  | 0.6s | Hit (Greathammer) |
 |  | 0.4s | Alternate Hit (Sword) |
+|  | 0.3s | Gun Lock / Unsheathe |
 |  | 0.8s | Gunshot |
 |  | 1.6s | Critical (Windup) |
 |  | 1.5s | Critical (Sword) |
@@ -167,28 +169,37 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.9s | Alternative Parry (1.5x Speed) |
 |  | 2.1s | Posture Break |
 |  | 1.5s | Player Venting / [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
+|  | 0.8s | Burn Extinguished |
+|  | 0.6s | Electrified (Proc) / Static Withdraw |
+|  | 3.2s | Chill (Proc) |
+
+### [Mantras](Mantras.md)
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
 |  | 3.0s | Master's Flourish / Prominence Draw |
 |  | 1.0s | Strong Left / Pressure Blast (Activation) |
 |  | 1.5s | Reinforce / Stratos Step (1.5x Speed) |
+|  | 1.8s | Dash |
 |  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion Windup |
 |  | 3.9s | Flame Wisp (Proc) (2x Speed) / Flint Usage |
+|  | 1.3s | Fire Gun (Trigger) |
 |  | 0.7s | Gale Wisp (Proc) |
 |  | 1.1s | Wind Blade (Activation) |
 |  | 1.5s | Heavenly Wind (Impact) |
-|  | 1.1s | Haunted Gale (Proc) |
+|  | 1.1s | Haunted Gale (Proc) (1) |
+|  | 0.9s | Haunted Gale (Proc) (2) |
 |  | 0.7s | Wind Gun (Activaton) |
 |  | 1.7s | Warding Radiance (Activation) / Meteor Isle Chain |
 |  | 1.0s | Illusionary Clones (Spawn) |
-|  | 0.8s | Burn Extinguished |
-|  | 3.2s | Chill (Proc) |
 |  | 1.4s | Winded Status / Wind Gem / Gale Punch, Air Force (Windup) |
-|  | 0.6s | Electrified (Proc) / Static Withdraw |
 |  | 1.0s | Crystal Impale (Impact) |
 |  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance |
 |  | 0.4s | Ice Smash (Swing) |
 |  | 1.9s | Ice Daggers, Fire Eruption, Ash Slam (Windup) / Trial of One Parry Test / Scion of Ethiron Ultimate Throw |
 |  | 1.9s | Warden Blades (Shattering) |
+|  | 1.1s | Grand Javelin / Shadow Meteor / Shadow Eruption Windup (0.7x Speed) |
 |  | 2.2s | Lightning Beam (Impact) |
 |  | 1.9s | Lightning Strikes (Impact) |
 |  | 1.5s | Lightning Stream (Pull) |
@@ -222,12 +233,14 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.4s | [Deep Owl](Deep_Owl.md) Feather Attack (1.5x Speed) |
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) Roar (Stage 2 Transformation) |
 |  | 4.0s | [Rock Golem](Rock_Golem.md) Roar |
+|  | 2.6s | [Rock Golem](Rock_Golem.md) Beam Explosion |
 |  | 1.7s | [Rock Golem](Rock_Golem.md) / [Sand Knight](Stone_Knight.md) Death |
 |  | 2.4s | [Rogue Construct's](Hive_Construct.md) Meteor Punch |
 |  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin Windup |
 |  | 3.0s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
 |  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
+|  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
@@ -251,8 +264,10 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.8s | [Legendary Resonance](Resonance.md) Activation |
 |  | 2.9s | [Corrupted Resonance](Resonance.md) Activation |
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) Activation |
+|  | 2.1s | [Dimensional Travel](Dimensional_Travel.md) Rejection (Layer 2 Activation) |
 |  | 2.4s | [Blood Scourge](Blood_Scourge.md) Activation |
 |  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution |
+|  | 2.7s | [Blood Scourge](Blood_Scourge.md) Success |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) (some) Ability Windups / [Angel's](Hollow_Angel.md) Divine Spear |
 |  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Soul Capturing |
 |  | 2.3s | [Resurrection](Resurrection.md) Bell |
@@ -273,9 +288,28 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.1s | Sea Gate Opening |
 |  | 1.4s | Sea Gate Closing |
 |  | 6.9s | Sea Gate Woosh |
+|  | 0.6s | Boat Clunking |
+|  | 11s | Rudder Turning |
+|  | 1.2s | Rudder Stopping |
+|  | 17s | Mast Turning |
+|  | 1.4s | Mast Stopping |
+|  | 30s | Sails Adjusting Sound |
+|  | 1.4s | Sails Unfurled Max |
+|  | 1.2s | Sails Furled Max |
+|  | 18s | Boat Wheel Turning |
+|  | 0.7s | Boat Wheel Stopped |
+|  | 1.9s | Ironclad Engine Starting |
+|  | 3.4s | Ironclad Engine Stopping |
+|  | 2.3s | [Repair Kit](Repair_Kit.md) Usage |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
 |  | 4.0s | [Dexerius Phoenix](Developer_Specs.md) |
+|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
+|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (2) |
+|  | 0.6s | [Mantra Table](Mantra_Lectern.md) Place (3) |
+|  | 3.0s | Mantra Table Buildup |
+|  | 3.0s | Mantra Table Failure |
+|  | 3.1s | [Mantra Table](Mantra_Lectern.md) Success |
 |  | 2.8s | [Knowledge](Knowledge.md) Gained (1.5x Speed) / EXP Gained (~2.5x Speed) / Luck Gain (Verse One) |
 |  | 4.1s | [Attribute](Attributes.md) Increase |
 |  | 1.7s | Locked [Attribute](Attributes.md) (3x Speed) / Chest Reward |
@@ -302,7 +336,11 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Door Opening |
 |  | 15s | [Layer 2](Second_Layer.md) Passageway Opening |
 |  | 5.1s | Ignition Deep Drill |
+|  | 1.9s | [Chime of Conflict](Chime_of_Conflict.md) Activation |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) |
+|  | 2.4s | Dashing in [The Depths](The_Depths.md) |
+|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
+|  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
 |  | 6.0s | Wiping in [The Depths](The_Depths.md) |
 |  | 2.2s | Corpse Fading |
 |  | 1.3s | Deepwoken Start-up Screen (Any button) |
@@ -323,11 +361,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.6s | Wall Climbing |
 |  | 0.4s | Falling Crystals in [The Starswept Valley](The_Starswept_Valley.md) |
 |  | 3.0s | [Jetstriker](Oath%253A_Jetstriker.md) Dash (2x Speed) / [Linkstrider](Oath%253A_Linkstrider.md) Abilities (Both 1x and 3x Speed) |
-|  | 2.4s | Dashing in [The Depths](The_Depths.md) |
 |  | 2.3s | Meteor Falling Loop |
 |  | 2.7s | Meteor Impact (1.5x Speed) |
-|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
-|  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
 
 ## Trivia
 
