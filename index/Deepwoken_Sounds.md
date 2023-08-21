@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70787
+revid: 70797
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -301,14 +301,15 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.9s | Ironclad Engine Starting |
 |  | 3.4s | Ironclad Engine Stopping |
 |  | 2.3s | [Repair Kit](Repair_Kit.md) Usage |
+|  | 1.9s | Placing Utility |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
 |  | 4.0s | [Dexerius Phoenix](Developer_Specs.md) |
 |  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
 |  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (2) |
 |  | 0.6s | [Mantra Table](Mantra_Lectern.md) Place (3) |
-|  | 3.0s | Mantra Table Buildup |
-|  | 3.0s | Mantra Table Failure |
+|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Buildup |
+|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Failure |
 |  | 3.1s | [Mantra Table](Mantra_Lectern.md) Success |
 |  | 2.8s | [Knowledge](Knowledge.md) Gained (1.5x Speed) / EXP Gained (~2.5x Speed) / Luck Gain (Verse One) |
 |  | 4.1s | [Attribute](Attributes.md) Increase |

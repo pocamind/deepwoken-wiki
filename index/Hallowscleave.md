@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 60242
+revid: 70795
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -35,5 +35,5 @@ The Hallowscleave is a MED weapon in the Swords category. It is obtained by gett
 -   Currently unobtainable.
 -   Cannot be dropped (same properties as a Soulbound weapon, but you can still pass it down).
 -   This weapon **MAY** come back this year.
--   Might be a refrence to [Horseman Blade](https://terraria.fandom.com/wiki/The_Horseman%27s_Blade) from Terraria.
+-   Might be a refrence to Horseman's Blade from Terraria.
     -   The blade part itself is a copy paste of the base Rogue Lineage [sword design](https://rogue-lineage.fandom.com/wiki/Basic_Swords).

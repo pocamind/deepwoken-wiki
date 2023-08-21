@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 69664
+revid: 70791
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -276,7 +276,7 @@ Ether
 
 -   Hyper Armor
 -   Short windup and completely safeguards user when landed
--   Cannot be blocked.
+-   Can be blocked.
 -   Applies heavy knock back
 
  | Damage:
