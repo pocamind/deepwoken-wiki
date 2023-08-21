@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 66426
+revid: 70837
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -37,6 +37,6 @@ The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and a
 ## Notes
 
 -   The Nemit's Sickle has the worst damage out of all weapons in Deepwoken
--   This weapon has no other reason to be used besides it's penetration which shouldn't mean it's a good reason as [Kyrstreza](Kyrstreza.md) and [First Light](First_Light.md) has the same penetration + bigger damage
+-   This weapon has no other reason to be used besides it's penetration which shouldn't mean it's a good reason as [Kyrstreza](Kyrstreza.md) has the same penetration + bigger damage
 -   Meeting the requirement of LHT, the damage is (18.4)
 -   At max LHT, the damage is (24)
