@@ -1,12 +1,11 @@
 ---
 title: Terminology (game)
-revid: 62925
+revid: 70814
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages]
+categories: [In progress without reason, InProgressPages]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Terminology (game)
@@ -60,6 +59,18 @@ _noun_
 _verb_
 
 1.  To kill a player, [enemy](Enemies.md) or [monster](Monsters.md) by means other than a Finisher.
+
+### Feint
+
+_verb_
+
+1.  To stop your while swinging, used to bait people to parry. Can be done by pressing M2 right after initiating your M1 attack.
+
+### Flourish
+
+_verb_
+
+1.  To use the fourth attack of your weapon, knocking your opponent back.
 
 ### Guard Break
 
@@ -148,7 +159,42 @@ _verb_
 1.  Events that happen usually from players to players, either happening randomly as a chance or requiring certain set-ups
     1.  Ex. Turtle Shell, a shield based talent, negates the proccing of Spine Cutter when the user has their shield on their back.
 
-spin back tell an enemy to wait for you to come back to retry stay here imma spin back
+### Spin back
+
+_verb_
+
+1.  Tell an enemy to wait for you to come back to retry
+    1.  Ex. Stay here imma spin back.
+
+## Resonance Terms
+
+### Bell
+
+_noun_
+
+1.  Acronym for [Resonance](Resonance.md), used widely by the community.
+
+### Corrupted
+
+_adjective_
+
+1.  A special variant of a resonance which is rare to get, corrupted resonances are stronger than their normal variant but give a debuff apon activation.
+
+### Legendary
+
+_adjective_
+
+1.  A resonance which is significantly more rare than the other resonances, there are currently two legendary resonances in the game, being [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md).
+
+### Reaper
+
+_noun_
+
+1.  Acronym for the the [Blood Scourge](Blood_Scourge.md) resonance, used to instantly execute any downed players, [enemies](Enemies.md) or [monsters](Monsters.md) in a small radius around where it was cast.
+
+### Kamui
+
+1.  Acronym for the legendary [Dimension Travel](Dimensional_Travel.md) resonance.
 
 ## Outside Combat
 
@@ -221,20 +267,18 @@ _noun_
 
 1.  Refers to [Megalodaunts](Megalodaunt.md)
 
-### **GG**
-
-An acronym that stands for many things, toxic and respectful. Usually has these meanings:
-
-1.  On the respectful side: "Good game" "Good go"
-2.  On the toxic side: "Get good"
-3.  Also has certain variants, such as "GL" for "Good Luck", "WP" for "Well Played" and "GLHF" for "Good Luck Have Fun"
-
 ### **DvM**
 
 _noun_
 
 1.  Short form of Damage versus Monsters. An attribute that increases your damage towards PvE by percentage stated.
     1.  Ex. There is a possibility where a player can reach 60% DvM in a build
+
+### CBOW
+
+_noun_
+
+1.  Short form for [Curved Blade of Winds](Curved_Blade_of_Winds.md), a legendary weapon for the [Galebreathe](Galebreathe.md) Attunement
 
 ### **LFT**
 

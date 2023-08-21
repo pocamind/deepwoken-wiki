@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 69666
+revid: 70821
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents]
@@ -10,7 +10,7 @@ categories: [Talents]
 
 ## Obtainment
 
-Currently, there is no functional method to obtain Regalias, nor is there any evidence of there even being one. The most functional method involves wiping until you obtain one. (Note: it has been confirmed by Arch\_Mage that repeatedly wiping at power 1 without doing anything will never grant you a Regalia.)
+Currently, there is no functional method to obtain Regalias, nor is there any evidence of there even being one. The most functional method involves wiping until you obtain one. (Note: it has been confirmed by Arch\_Mage that repeatedly wiping at power 1 without doing anything will never grant you a Regalia.) The chance for Regalia is about 10%, Not Confirmed.
 
 ## Mute
 

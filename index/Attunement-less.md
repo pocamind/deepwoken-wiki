@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 70235
+revid: 70822
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -271,6 +271,10 @@ File:No Attunement Revamp.png
  |
 
 ### _**Willpower Mantras**_
+
+File:Real deepwoken.png
+
+[real](Mantras.md)
 
 Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
 
