@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 69806
+revid: 70886
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters]
@@ -10,7 +10,7 @@ notices:
 
 # Megalodaunt
 
-“ \[...\] There's something marvelous about these creatures, some sort of almost mankind-like understanding between eachother. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? \[...\] ”
+“ \[...\] There's something marvelous about these creatures, some sort of almost mankind-like understanding between each other. Yet, to us, they are simply considered 'monsters.' You all fail to see it's social prowress, without not even a consideration of the possibilities; what if we were able to exploit this hierarchy for our own purpose? \[...\] ”
 
 ― Archivist Journal: 'Megalodaunt'
 
@@ -339,7 +339,7 @@ Roar
 
 A Megalodaunt swimming.
 
--   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount, and will likely block break you in one or two hits as a freshie.
+-   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount, and will likely block break you in one or two hits as a freshspawn.
 -   Megalodaunts have swimming animations, as seen on the right.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md) sink.
     -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.
