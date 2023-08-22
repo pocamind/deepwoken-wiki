@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70842
+revid: 70868
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -149,9 +149,12 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.2s | Switching Areas when Combat Tagged |
 | File:Unsheathe2.ogg | 0.9s | Unsheathing |
 | File:Sheathe.ogg | 1.0s | Sheathing |
+|  | 1.0s | Weapon / Shield Blocked hit |
+|  | 0.6s | Blunt Blocked hit |
 |  | 0.3s | Slash (Sword) |
 |  | 0.3s | Alternative Slash (Sword) |
 |  | 0.4s | Hit (Sword & Dagger) / Physical Attack against Stone Monster (~0.75x Speed) |
+|  | 0.6s | Greathammer Swing |
 |  | 0.6s | Hit (Greathammer) |
 |  | 0.4s | Alternate Hit (Sword) |
 |  | 0.3s | Gun Lock / Unsheathe |
@@ -177,13 +180,17 @@ A large collection of sounds found in _Deepwoken_.
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
+|  | 0.3s | Prominence Draw Windup |
 |  | 3.0s | Master's Flourish / Prominence Draw |
 |  | 1.0s | Strong Left / Pressure Blast (Activation) |
+|  | 1.3s | Rapid Punches Knockback |
 |  | 1.5s | Reinforce / Stratos Step (1.5x Speed) |
 |  | 1.8s | Dash |
+|  | 1.3s | Flame of Denial (Activation) |
 |  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion Windup |
 |  | 3.9s | Flame Wisp (Proc) (2x Speed) / Flint Usage |
 |  | 1.3s | Fire Gun (Activation/Trigger) |
+|  | 2.1s | Fire Eruption (Impact) / Flame Leap |
 |  | 0.7s | Gale Wisp (Proc) |
 |  | 1.1s | Wind Blade (Activation) |
 |  | 1.5s | Heavenly Wind (Impact) |
@@ -209,6 +216,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.3s | Tornado Kick (Impact) |
 |  | 4.2s | Taunt Mantra + Grasp of Eylis Loop / Sing Mantra + Capra Racial Buffs (1.5x Speed) / Graceful Flame Loop (2x Speed) |
 |  | 2.3s | Glare Mantra (1.5x Speed) |
+|  | 2.5s | Arc Beam Windup |
+|  | 1.6s | Sightless Beam Windup |
 |  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras |
 |  | 1.7s | [Frostdraw](Frostdraw.md) Trail |
 |  | 2.0s | [Thundercall](Thundercall.md) Mantras |
@@ -237,14 +246,16 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.7s | [Rock Golem](Rock_Golem.md) / [Sand Knight](Stone_Knight.md) Death |
 |  | 2.4s | [Rogue Construct's](Hive_Construct.md) Meteor Punch |
 |  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin Windup |
-|  | 3.0s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
+|  | 4.9s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
 |  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
 |  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Hit |
+|  | 1.7s | [Kyrsgarde](Kyrsgarde.md) Ice Spear Summon |
 |  | 1.9s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap |
+|  | 9.5s | Mob Corpse Fading |
 
 ### **[Echoes](Echoes.md)**
 
@@ -285,6 +296,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.1s | Gaining [Notes](Notes.md) |
 |  | 1.3s | Losing [Notes](Notes.md) |
 |  | 26s | Tundra Ambience |
+|  | 1.9s | Swimming loop |
+|  | 0.9s | Dashing While Swimming |
 |  | 1.1s | Sea Gate Opening |
 |  | 1.4s | Sea Gate Closing |
 |  | 6.9s | Sea Gate Woosh |
@@ -301,7 +314,6 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.9s | Ironclad Engine Starting |
 |  | 3.4s | Ironclad Engine Stopping |
 |  | 2.3s | [Repair Kit](Repair_Kit.md) Usage |
-|  | 1.9s | Placing Utility |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
 |  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
@@ -319,9 +331,12 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.0s | [Tacet Murmur](Murmur.md) Activation |
 |  | 1.0s | [Tacet Murmur](Murmur.md) Deactivation |
 |  | 2.1s | [Rhythm Murmur](Murmur.md) Activation |
+|  | 1.9s | Placing Utility |
 |  | 0.2s | Discovery of Fire (Activation)/ Flame Blind (Activation) |
+|  | 3.1s | Campfire / Graceful Flame Loop |
 |  | 0.8s | Campfire Execute / Destroying Terrain |
 |  | 0.3s | Drinking Sound |
+|  | 0.8s | Rolling |
 |  | 0.8s | Foraging |
 |  | 3.2s | Falling Tree |
 |  | 1.5s | Stomach Growl |
@@ -344,12 +359,14 @@ A large collection of sounds found in _Deepwoken_.
 |  | 6.0s | Wiping in [The Depths](The_Depths.md) |
 |  | 2.2s | Corpse Fading |
 |  | 1.3s | Deepwoken Start-up Screen (Any button) |
+|  | 2.4s | Ice Raining |
 |  | 2.5s | Terrain Freezing |
 |  | 3.6s | Cannonball, Bomb Impacts + Summer Isle Cannon Firing |
 |  | 1.8s | Golden Toungue / Prediction |
 |  | 2.3s | [Vow of Mastery](Vow_of_Mastery.md) / Ice Chains, Flame Assault, Shadow Assault Windups / Freeze Ace |
 |  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
 |  | 2.4s | [Grim](Enchantments.md) (Proc) |
+|  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) (Proc) |
 |  | 0.6s | Potion Glass Breaking |
 |  | 4.5s | Whirlpools + Sea Monster Bubbles |

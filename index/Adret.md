@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 68500
+revid: 70872
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -31,7 +31,6 @@ Adrets are a common race that have blue skin with orange eyes and face markings.
   <ul>
     <li>Receive 3 free points whenever you Power up.</li>
     <li>Your starting reputation with all factions is higher.</li>
-    <li>+1 Health</li>
   </ul></li>
   </ul></td>
 </tr>

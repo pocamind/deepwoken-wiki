@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 70836
+revid: 70866
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -111,11 +111,13 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 
 Fortitude mantras are mainly based on support during battle, enhancing defense and/or absorbing damage for your guildmates. To increase the level cap, build endurance by taking a beating with a Training Vest, or feel the crushing weight of a Boulder.
 
-File:No Attunement Revamp.png
-
 | **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & Info** |
 | --- | --- | --- | --- | --- |
-|  | Rally
+| 
+File:No Attunement Revamp.png
+
+ | Rally
+
 (☆☆☆)
 
  | _Strike your shield a few times to absorb some of the posture received by your allies._ | 70 Ether | 
@@ -271,10 +273,6 @@ File:No Attunement Revamp.png
  |
 
 ### _**Willpower Mantras**_
-
-File:Real deepwoken.png
-
-[real](Mantras.md)
 
 Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
 

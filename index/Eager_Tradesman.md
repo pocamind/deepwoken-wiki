@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 70801
+revid: 70871
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Outfits]
@@ -30,7 +30,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Knack_, which makes trees
 
 This Outfit's Schematic can be found in:
 
--   [The Depths](First_Layer.md) (Chest)
+-   [The Depths](First_Layer.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 
 ## Trivia
 

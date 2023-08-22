@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 70679
+revid: 70873
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1386,6 +1386,14 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
         -   It's the complete inverse of the Flames that keep Humanity alive - the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
 ## Oath Lore
+
+Oaths are a peculiar topic to discuss in the world of Deepwoken. Fundementally, they differ from any conventional means of deriving power from concepts and objects in the world of Deepwoken, hence why or how Oath magic manifests is largely a mystery with, unfortunately, not a lot of answers to. In mainstream sense, Oaths are described as to being a category of their own, that being 'Oath Magic', which suggests that they fundamentally differ from Mantras or Resonances in terms of how they function, what it is and was.
+
+Oaths, as it is observed, are acquired when one pledges their soul to a certain cause, or a particular ideal, granting them powers that align with achieving said cause and ideals. This process will 'bind' their soul to the cause. Despite technically being a category of it's own, most 'Oath Magic' are still referred to as Mantras, suggesting that perhaps Oath Magic is a mere sub-category of the song, similar to Murmurs and Resonances. A keeper of an Oath would strengthen their powers by a reinforcement of their beliefs in the form of completing tasks relative to the Oath, affirming their role and ideals in the process.
+
+It is unknown how Oath Magic manifests itself - in other words - get created. But it is widely observed that Oaths can be granted through a variety of means, as long as a process of binding one's soul is present. This allow Oaths to be granted through static, and active means. This is evident through the fact that the player is able to acquire Oaths either through an object of power such as Linkstrider or Blindseer, or through someone of the same likeness like Fadetrimmer and Contractor. A universal theme within these examples is that Oaths can only be acquired through something or someone who also posses aspects of said Oath.
+
+Breaking an Oath is a topic that isn't well understand thanks to it's lack of examples in the Deepwoken world, but under certain conditions, this can be granted. Oathless, being an Oath of contradictory value, can be unbound through the assistance of Yun'Shul's communion. Though the fact that one would require otherworldly powers to break off from an Oath highly suggests that an individual would be incapable of breaking off from an Oath without special measures.
 
 ### Blindseer
 
