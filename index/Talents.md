@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70687
+revid: 70841
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -994,7 +994,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I always shoot first."**_
 
--   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's blunt armor.
+-   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's physical armor.
     -   Prerequisites: 30 Medium/Light Weapon, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.

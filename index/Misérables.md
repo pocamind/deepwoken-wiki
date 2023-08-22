@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 68128
+revid: 70838
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs]
@@ -78,3 +78,4 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 ## Trivia
 
 -   Misérables' name may be a reference to 19th century novel _Les Misérables_, a story which touches on the topics of moral philosophy and the nature of human society. The word "Misérables" directly translates to wretched.
+-   Believed to be a way more powerfull version of a Deep Owl. Being able to grip the player with little to no effort.

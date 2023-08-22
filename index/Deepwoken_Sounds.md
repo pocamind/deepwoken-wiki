@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70797
+revid: 70842
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -183,7 +183,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.8s | Dash |
 |  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion Windup |
 |  | 3.9s | Flame Wisp (Proc) (2x Speed) / Flint Usage |
-|  | 1.3s | Fire Gun (Trigger) |
+|  | 1.3s | Fire Gun (Activation/Trigger) |
 |  | 0.7s | Gale Wisp (Proc) |
 |  | 1.1s | Wind Blade (Activation) |
 |  | 1.5s | Heavenly Wind (Impact) |
@@ -221,7 +221,7 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Attack (1) |
 |  | 2.6s | [Crustaceous Rex](Crustaceous_Rex.md) Attack (2) |
-|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
+|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble |
 |  | 2.1s | [Lionfish](Lionfish.md) Growl (1) |
 |  | 4.0s | [Lionfish](Lionfish.md) Growl (2) |
 |  | 1.9s | [Lionfish](Lionfish.md) Growl (3) |
@@ -304,7 +304,6 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.9s | Placing Utility |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
-|  | 4.0s | [Dexerius Phoenix](Developer_Specs.md) |
 |  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
 |  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (2) |
 |  | 0.6s | [Mantra Table](Mantra_Lectern.md) Place (3) |
