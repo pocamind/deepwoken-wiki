@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 70892
+revid: 70949
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -88,6 +88,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Altitude travelled decreases significantly as the user loses health.</li>
     <li>Drops carried players/NPCs when used.</li>
     <li>At Level 1, the user will take no fall damage upon landing, but at Level 5, they will.</li>
+    <li>You can modify Strong Leap with a Magnet Spark, which drags the player towards the nearest ally upon activating.</li>
   </ul></td>
 </tr>
 <tr>
@@ -251,6 +252,7 @@ File:No Attunement Revamp.png
 -   **Requirements:** _**20 Intelligence,**_ _Support Mantra_
     -   Summons a cauldron that can be used to concoct potions.
     -   Despawns when the user moves away from the Cauldron.
+    -   Usable as a portable shelter for campfires.
     -   The Mantra is Ritual Casted.
 
  |
@@ -511,14 +513,9 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 ## Tips
 
-### _**Tips**_
-
 -   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly though. A [Blue Gem](Deep_Gems.md) will help with this though.
 -   **Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
 -   You can increase the duration of Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); Doing this with some other mantras like Adrenaline Rush, Brace or Reinforce will not work, however.
--   You can use Summon Cauldron as a portable shelter for campfires.
--   You can modify Strong Leap with a [Magnet Spark](Mantra_Modifiers.md), which drags the player towards the nearest ally upon activating.
--   You can modify Dash with a [Spring Spark](Mantra_Modifiers.md), which makes halves the distance traveled BUT allows you to use it twice before it goes on cooldown.
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
 -   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
 -   Some Attunement-less have a lot of utility that you can use to your advantage to help you survive.
@@ -537,4 +534,4 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
 -   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 starred respectively.
 -   "Strong Left" may have been inspired by Franky's Strong Right from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).
--   Rapid Slashes is Vergil's move from Devil May Cray series.
+-   Rapid Slashes is Vergil's move from Devil May Cry series.

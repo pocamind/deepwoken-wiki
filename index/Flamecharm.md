@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 69796
+revid: 70950
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -16,7 +16,7 @@ Flamecharm icon
 
 Flamecharm grants the user the ability to create combustion using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
 
-The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to it's huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team, most teams are never complete without at least one flamecharmer for support. The attunement is easy and starter-friendly, most notable of the burn effect. It will automatically grip knocked NPCs, easily allowing you to progress really fast.
+The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to its huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team, most teams are never complete without at least one flamecharmer for support. The attunement is easy and starter-friendly, most notable of the burn effect. It will automatically grip knocked NPCs, easily allowing you to progress really fast.
 
 However, despite its out-of-combat utility and extreme PVE viability, Flamecharm tends to suffer at higher levels of PVP play. It has a relatively telegraphed and predictable moveset making it parriable and dodgable. And an adept opponent will be able to out-time a repetitive wielder's attacks due to people catching onto Flamecharm's repetitive and spammy moveset. This is especially notable in Galebreathe and Thundercall matchups, with tools to take great advantage of a mistake and to control the pacing of a fight respectively. It's suggested to use your mantras as surprise explosive follow-ups to counter this weakness.
 
@@ -31,11 +31,11 @@ Flamecharm can be trained with a combination of the Hearthgem and Flamecharm Man
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
 -   At Power 1, players will receive the _Flamecharmer_ Talent upon picking the Flamecharm Attunement on spawn.
--   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 1-star Flamecharm mantras
--   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras
--   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras
+-   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 1-star Flamecharm mantras.
+-   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras.
+-   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras.
 
-Flamecharm can be obtained from the trainer found at [Songseeker Wilds](Songseeker_Wilds.md) in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md), but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 Flamecharm, level 3 at 40 Flamecharm, etc.) up to a total of level 5. (level 80 Flamecharm, requires uncap)
+Flamecharm can be obtained from the trainer found at [Songseeker Wilds](Songseeker_Wilds.md) in the temple on top of the mountain by bringing him 5 [Dying Embers](Dying_Embers.md). The base cost is 100 [notes](Notes.md) to upgrade a [mantra](Mantras.md)￼ but increases by 100 each time. You can level up a spell once every 20 [attunement](Attunements.md) mastery. (e. g. level 2 at 20 Flamecharm, level 3 at 40 Flamecharm, etc.) up to a total of level 5. (Level 80 Flamecharm, requires uncap)
 
 ## Mantras
 
@@ -45,6 +45,8 @@ Flamecharm can be obtained from the trainer found at [Songseeker Wilds](Songseek
 | --- | --- | --- | --- |
 |  | 
 Fire Blade
+
+(☆☆☆)
 
  | 
 
@@ -68,6 +70,8 @@ _Slicing blades of flame._
 
 Flame Repulsion
 
+(☆☆☆)
+
  | 
 
 _An exertion of flames._
@@ -86,6 +90,8 @@ _An exertion of flames._
 
 Burning Servants
 
+(☆☆☆)
+
  | 
 
 _A legion of flames._
@@ -102,6 +108,8 @@ _A legion of flames._
 |  | 
 
 Fire Gun
+
+(☆☆☆)
 
  | 
 
@@ -124,6 +132,8 @@ _A bullet of flames shot through each hand._
 
 Flame Grab
 
+(☆☆☆)
+
  | 
 
 _A fiery chokehold._
@@ -139,9 +149,9 @@ _A fiery chokehold._
  |
 |  | 
 
-Flame
+Flame Blind
 
-Blind
+(☆☆☆)
 
  | 
 
@@ -159,7 +169,9 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
  |
 |  | 
 
-Fire Palm (★)
+Fire Palm
+
+(★☆☆)
 
  | 
 
@@ -175,7 +187,9 @@ _A blast of flame._
  |
 |  | 
 
-Fire Eruption (★)
+Fire Eruption
+
+(★☆☆)
 
  | 
 
@@ -193,7 +207,9 @@ _A pyroclastic eruption._
  |
 |  | 
 
-Fire Forge (★)
+Fire Forge
+
+(★☆☆)
 
  | 
 
@@ -213,7 +229,9 @@ _Toss a nimble dagger._
  |
 |  | 
 
-Rising Flame (★★)
+Rising Flame
+
+(★★☆)
 
  | 
 
@@ -231,7 +249,9 @@ _A rising tornado of flames._
 
  | 
 
-Flame Assault (★★)
+Flame Assault
+
+(★★☆)
 
  | 
 
@@ -251,7 +271,9 @@ _Burst forward in flames._
 
  | 
 
-Ash Slam (★★★)
+Ash Slam
+
+(★★★)
 
  | 
 
@@ -322,7 +344,7 @@ _A servant of flames._
 
 Graceful Flame
 
-(★)
+(★☆☆)
 
  | 
 
@@ -341,6 +363,8 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 |  | 
 
 Flame of Denial
+
+(☆☆☆)
 
  | 
 

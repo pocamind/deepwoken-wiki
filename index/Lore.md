@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 70873
+revid: 70921
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -106,7 +106,7 @@ _The Lord Regent, sitting atop his throne of coral._
 
 ### **The Duke of Erisia**
 
-_\*The Duke smiles.\* "I'd thought for sure you were an Agent, but you're what— Let me guess, an Etrean Adventurer or something? ...That Island's prospects are certainly grim." - The Duke of Erisia, talking to the Player_
+_"The ruins of that city will **never** cage me. And with what's at stake... I can't stop now." - The Duke of Erisia, talking to the Player_
 
 The Duke
 
@@ -123,7 +123,7 @@ The Duke
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the Soul Jar resonance, leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily. He also may have always been murdering Erisian citizens for their souls, but only stepped up production to protect the Forge.
--   Given he has a bell and does die after each encounter, he is likely manually escaping The Depths each time he is killed. This has been tentatively confirmed by Arch\_Mage.
+-   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.
 -   Nobody knows his real name.
 
 ### **Maestro Evengarde Rest**

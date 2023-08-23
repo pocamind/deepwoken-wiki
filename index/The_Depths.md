@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 70566
+revid: 70925
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -16,7 +16,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
   
 
-**The Depths**, is a location in _Deepwoken_. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by The [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) modifier, dying with [Vow of Thorns](Echoes.md) modifier,dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md).
+**The Depths** is a location in _Deepwoken_. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifiers, dying within a [Voidzone](Voidzones.md), or dying in the [Voidsea](Voidsea.md).
 
 ## Overview
 
@@ -38,7 +38,7 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 
 #### Etrean Luminant
 
--   At the far right side of [Etris Docks](Etris.md).
+-   At the far-right side of [Etris Docks](Etris.md).
     -   To specify, the right of someone going to the docks, not from the docks (away from the gate.)
 -   At the left-hand side of the Sea Highway gate next to the entrance of [Lower Erisia](Lower_Erisia.md).
     -   To specify, the left of someone going OUT of Erisia towards the King statues.
@@ -46,7 +46,7 @@ Whirlpools are alternative ways to enter The Depths without having to die; going
 
 #### Eastern Luminant
 
--   At the right hand side of [Monkey's Paw](<The_Monkey's_Paw.md>).
+-   At the right-hand side of [Monkey's Paw](<The_Monkey's_Paw.md>).
 -   In the middle of the sea highway connecting [Miner's Landing](<Miner's_Landing.md>) and [Fort Merit](Fort_Merit.md).
 -   Many whirlpools within the vicinity of [Boatman's Watch](<Boatman's_Watch.md>).
 
@@ -54,7 +54,7 @@ Whirlpools can also rarely spawn on the edges of highways and other random locat
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: The First Layer, aka Scyphozia, and Second Layer, aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where Korilfiend resides. (**THE NEXT 7 LAYERS ARE FANTASY AND ARE MADE BY THE EDITOR READ FOR ENTERTAINMENT).** Not one, Not two, Not three, But 4. schizophrenia: A purgatory, A void with nothing but a lantern brought all the way from the eternal gale, Here voices constantly repeat in your head and you can go crazy in as little as 20 seconds. Not much is known about this place other then the voices might be from the first layer (Scyphozia)
+The Depths contains nine layers, though you can reach only two in game: The First Layer, aka Scyphozia, and Second Layer, aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where Korilfiend resides. (**THE NEXT 7 LAYERS ARE FANTASY AND ARE MADE BY THE EDITOR READ FOR ENTERTAINMENT).** Not one, not two, not three, But 4. schizophrenia: A purgatory, A void with nothing but a lantern brought all the way from the eternal gale, here voices constantly repeat in your head, and you can go crazy in as little as 20 seconds. Not much is known about this place other than the voices might be from the first layer (Scyphozia)
 
 Please visit their respective pages below by clicking on them for more information:
 
