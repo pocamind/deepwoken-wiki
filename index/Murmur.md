@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 70312
+revid: 70978
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -8,15 +8,20 @@ categories: [Talents, Character, Mechanics]
 
 # Murmur
 
+“ Aye... Eldest mother of our people, Mur of Light... She who descended from the Heavens and brought out the Light of our souls in our darkest days... ”
+
+― Theadre
+
 Using Ardour Scream.
 
-Murmurs are [Talents](Talents.md) obtained by completing an objective or requirement that allows the user to channel the Song in various ways to gain special buffs or abilities.
+  
+**Murmurs** are [Talents](Talents.md) obtained by completing an objective or requirement that allows the user to channel the Song in various ways to gain special buffs or abilities.
 
 ## Overview
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You can only obtain a Murmur if your Character is at least [Power](Power.md) 5. However if the requirement to unlock the Murmur can be completed with the help of someone power 5 or above you can obtain the Murmur at Power one (Mostly notably fighting the Dread Serpent)
+Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You can only obtain a Murmur if your Character is at least [Power](Power.md) 6. However if the requirement to unlock the Murmur can be completed with the help of someone power 6 or above you can obtain the Murmur at Power one (Mostly notably fighting the Dread Serpent)
 
 ## Murmurs Strengths
 

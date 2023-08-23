@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 64128
+revid: 70972
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons, World]
@@ -30,7 +30,7 @@ Template:Areainfobox
 
 -   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
     -   A tall Felinor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md), the Celtor Commander Plate and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat, resting and equipment, how Antiquarians work, and Talent and Mantra hands. Captain of the ship.
-    -   Can be seen in [2nd floor](Second_Layer.md#new-kyrsa-f2) of Layer 2.
+    -   After the events of the tutorial, he drowns and ends up in [New Kyrsa](Second_Layer.md#new-kyrsa-f2).
 -   Flabbermaster Filigree
     -   A Gremor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
 -   Frank F'alzone
