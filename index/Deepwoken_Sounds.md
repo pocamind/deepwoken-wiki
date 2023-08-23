@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 70868
+revid: 70956
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -182,7 +182,8 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 0.3s | Prominence Draw Windup |
 |  | 3.0s | Master's Flourish / Prominence Draw |
-|  | 1.0s | Strong Left / Pressure Blast (Activation) |
+|  | 1.0s | Strong Left (Activation) / Pressure Blast (Activation) |
+|  | 1.1s | Strong Left (Impact) |
 |  | 1.3s | Rapid Punches Knockback |
 |  | 1.5s | Reinforce / Stratos Step (1.5x Speed) |
 |  | 1.8s | Dash |
@@ -249,6 +250,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 4.9s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
 |  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
+|  | 2.6s | [Naulitodaunt](Nautilodaunt.md) vent |
 |  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
