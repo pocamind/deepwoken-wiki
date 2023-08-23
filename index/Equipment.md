@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 70737
+revid: 70965
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -3422,7 +3422,7 @@ Chests from:
  |
 |  | 
 
-[Poser's Ring](<Poser's_Ring.md>)
+Poser’s Ring
 
  | 
 

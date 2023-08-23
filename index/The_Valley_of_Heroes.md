@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 64133
+revid: 70964
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones, World]
@@ -37,4 +37,5 @@ Events that spawn in Valley of Heroes that do not involve combat. For more info,
 
 ## Trivia/Notes
 
--   The end of the valley ends up across a ravine from the [Songkeeper Temple](Songseeker_Temple.md), which can be accessed by riding a zipline across the gap.
+-   The end of the valley ends up across a ravine from the [Songseeker Temple](Songseeker_Temple.md), which can be accessed by riding a zipline across the gap.
+-   If its winter, the teleporter to the [Songseeker Temple](Songseeker_Temple.md) will fling you back like the [Trial of One](Trial_of_One.md) teleporter does if you've failed it or above power 1.
