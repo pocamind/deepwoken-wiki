@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 70965
+revid: 71049
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -2758,7 +2758,7 @@ Chests from:
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
-| File:Elite pathfinder.png | 
+| File:Crimson elite pathfinder.png | 
 
 [Pathfinder Elite](Pathfinder_Elite.md)
 
@@ -2873,7 +2873,7 @@ Rings are unique among the available equipment, as up to 4 can be equipped at on
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
 |  | 
-[Silver Ring](Silver_Ring.md)
+Silver Ring
 
  | 
 
@@ -2891,7 +2891,7 @@ Chests from:
  |
 |  | 
 
-[Gold Ring](Gold_Ring.md)
+Gold Ring
 
  | 
 
@@ -2912,7 +2912,7 @@ Other sources:
  |
 |  | 
 
-[Windmill Ring](Windmill_Ring.md)
+Windmill Ring
 
  | 
 
@@ -2936,7 +2936,7 @@ Chests from:
  |
 |  | 
 
-[Ring of Wisps](Ring_of_Wisps.md)
+Ring of Wisps
 
  | 
 
@@ -2954,7 +2954,7 @@ Chests from:
  |
 |  | 
 
-[Freestyler's Band](<Freestyler's_Band.md>)
+Freestyler's Band
 
  | 
 
@@ -2972,7 +2972,7 @@ Chests from:
  |
 |  | 
 
-[Heavy Hands Ring](Heavy_Hands_Ring.md)
+Heavy Hands Ring
 
  | 
 
@@ -2992,7 +2992,7 @@ Chests from:
  |
 |  | 
 
-[Isshin's Ring](<Isshin's_Ring.md>)
+Isshin's Ring
 
  | 
 
@@ -3011,7 +3011,7 @@ Chests from:
  |
 |  | 
 
-[Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)
+Konga's Clutch Ring
 
  | 
 
@@ -3031,7 +3031,7 @@ Chests from:
  |
 |  | 
 
-[Light Eater Ring](Light_Eater_Ring.md)
+Light Eater Ring
 
  | 
 
@@ -3057,7 +3057,7 @@ Chests from:
  |
 |  | 
 
-[Pariah's Keepsake](<Pariah's_Keepsake.md>)
+Pariah's Keepsake
 
  | Deal more damage to factions that hate you.
 
@@ -3078,7 +3078,7 @@ Chests from:
  |
 |  | 
 
-[Purifying Ring](Purifying_Ring.md)
+Purifying Ring
 
  | 
 
@@ -3115,7 +3115,7 @@ Chests from:
  |
 |  | 
 
-[Ring of Casters](Ring_of_Casters.md)
+Ring of Casters
 
  | 
 
@@ -3135,7 +3135,7 @@ Chests from:
  |
 |  | 
 
-[Ring of Pestilence](Ring_of_Pestilence.md)
+Ring of Pestilence
 
  | 
 
@@ -3151,7 +3151,7 @@ Chests from:
  |
 |  | 
 
-[Bloodiron Ring](Bloodiron_Ring.md)
+Bloodiron Ring
 
  | 
 
@@ -3172,7 +3172,7 @@ Chests from:
  |
 |  | 
 
-[Dazed Band](Dazed_Band.md)
+Dazed Band
 
  | 
 
@@ -3194,7 +3194,7 @@ Chests from:
  |
 |  | 
 
-[Moon Ring](Moon_Ring.md)
+Moon Ring
 
 (Legendary)
 
@@ -3217,7 +3217,7 @@ Chests from:
  |
 |  | 
 
-[Waning Ring](Waning_Ring.md)
+Waning Ring
 
 (Legendary)
 
@@ -3236,7 +3236,7 @@ Chests from:
  |
 |  | 
 
-[Akira's Ring](<Akira's_Ring.md>)
+Akira's Ring
 
 (Legendary)
 
@@ -3266,7 +3266,7 @@ Other sources:
  |
 |  | 
 
-[Rosen's Ring](<Rosen's_Ring.md>)
+Rosen's Ring
 
 (Legendary)
 
@@ -3290,7 +3290,7 @@ Chests from:
  |
 |  | 
 
-[Prophet's Ring](<Prophet's_Ring.md>)
+Prophet's Ring
 
 (Legendary)
 
@@ -3315,7 +3315,7 @@ Other sources:
  |
 |  | 
 
-[Maestro's Ring](<Maestro's_Ring.md>)
+Maestro's Ring
 
 (Legendary)
 
@@ -3341,7 +3341,7 @@ Chests from:
  |
 |  | 
 
-[Dawnfist's Ring](<Dawnfist's_Ring.md>)
+Dawnfist's Ring
 
 (Legendary)
 
@@ -3370,7 +3370,7 @@ Chests from:
  |
 |  | 
 
-[Deepfire Ring](Deepfire_Ring.md)
+Deepfire Ring
 
 (Legendary)
 
@@ -3398,7 +3398,7 @@ Chests from:
  |
 |  | 
 
-[Finisher's Ring](<Finisher's_Ring.md>)
+Finisher's Ring
 
 (Legendary)
 

@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 68808
+revid: 71056
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -86,6 +86,6 @@ Loyalty makes combat practice and spars with housemates difficult
 -   Canor also seem to be known for their heavy weaponry, as the [Zweihänder](Zweihander.md) (Which also happens to be a German weapon), which is known to be used by the Canor Borderwatchers. There is also the [Pale Morning](Pale_Morning.md), which is a replica of a Greathammer wielded by a Canor Warlord, and the [Canorian Axe](Canorian_Axe.md), a Greataxe that is a replica of ones used by the Canor Swornfangs.
 -   As a Canor, if your roblox avatar does not have hair your character will automatically be given a spiky hair
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
--   The Lord Regent does not like Canors for an unknown reason (Except for the fact that he is etrean)
+-   The Lord Regent does not like Canors for an unknown reason.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
 -   Arch\_Mage has confirmed Canor to be based on both Lions and dogs.
