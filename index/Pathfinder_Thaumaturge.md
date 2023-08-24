@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 59411
+revid: 71028
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -33,6 +33,7 @@ This outfit can be found in:
 -   [Erisia](Erisia.md)
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   sold by Nyanna (Castle Light)
 
 ## Trivia/Notes
 

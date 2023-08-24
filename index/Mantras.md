@@ -1,26 +1,22 @@
 ---
 title: Mantras
-revid: 69093
+revid: 71023
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Mantras, Character, Attunement, Mechanics]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Mantras, Character, Attunement, Mechanics]
 ---
 
 # Mantras
 
-“ Whispers from the Deep beckon you… ”
+“ Brady sucks ”
 
-― Card selection sample text
+― L bozo
 
 ## Description
 
 Considered to be the root of Ether's usage- Mantras, sometimes referred to in lore as _images of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these will be the magic abilities that you use in combat to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the [Shrine of Temptation](Deep_Shrines.md) for 5 [Knowledge](Knowledge.md).
-
-## Rarities of Mantras
+Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the
 
 There are different rarities for mantras, similarly to Talents.
 

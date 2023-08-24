@@ -1,11 +1,9 @@
 ---
 title: Deepwoken Sounds
-revid: 70956
+revid: 71022
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Pages with broken file links, Deepwoken]
-notices:
-  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
+categories: [Pages with broken file links, Deepwoken]
 ---
 
 # Deepwoken Sounds
@@ -149,6 +147,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.2s | Switching Areas when Combat Tagged |
 | File:Unsheathe2.ogg | 0.9s | Unsheathing |
 | File:Sheathe.ogg | 1.0s | Sheathing |
+|  | 3.9s | Unparryable attack sound |
 |  | 1.0s | Weapon / Shield Blocked hit |
 |  | 0.6s | Blunt Blocked hit |
 |  | 0.3s | Slash (Sword) |
@@ -172,7 +171,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.9s | Alternative Parry (1.5x Speed) |
 |  | 2.1s | Posture Break |
 |  | 1.5s | Player Venting / [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
-|  | 0.8s | Burn Extinguished |
+|  | 0.8s | Burning (Extinguished) |
 |  | 0.6s | Electrified (Proc) / Static Withdraw |
 |  | 3.2s | Chill (Proc) |
 
@@ -398,9 +397,7 @@ A large collection of sounds found in _Deepwoken_.
 -   Naktigonis's voice regularly features in the soundtrack: his voice is featured in the choirs in "Oscillation", "Kyrie", and "The Gideshu March", many of the chants in "And Let Slip The Hounds Of War", most of the scream vocals in "INSOMNIA", and in the singing vocals of "Sin-Smelted Scoriae."
     -   He was recovering from [Covid-19](https://en.wikipedia.org/wiki/COVID-19) when recording the vocals for "Sin-Smelted Scoriae," and is unhappy with how they came out, though he plans to leave it as how it is.
 -   "Picking a card" sound is probably from Fallout Shelter.
-
-The "Unparryable attack" sound originates from Sekiro.
-
+-   The "Unparryable attack" sound originates from _Sekiro: Shadows Die Twice_.
 -   For earlier tracks in the OST, ambient noises, such as the wildlife from "Solivagant", were not separated from the music, but rather made part of it, due to Roblox's technical limitations.
     -   Naktigonis has stated '​early tracks in the OST tend to be laidback with the melody and let ambience take centre stage; this later changed as the game development progressed and Monad's design philosophy changed. According to him, the OST generally picks up in the second half when area-specific combat themes get introduced.'
 -   Nakitgonis felt "Peregrine" ended up being used way less often than he liked. Most of the area it was meant for - the Seranece Mountains, - was cut from the game for its release.

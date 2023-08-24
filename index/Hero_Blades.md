@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 69800
+revid: 70990
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -146,5 +146,5 @@ The Hero Blade of Shadow is an elemental weapon and the Shadowcast variation of 
         -   Identified by its horns and mask.
     -   The Hero of Shadow is a [Felinor.](Felinor.md)
         -   Identified by its ears.
-    -   The Hero of Thunder is a [Adret.](Adret.md)
+    -   The Hero of Thunder is an [Adret.](Adret.md)
         -   Identified by its face markings.

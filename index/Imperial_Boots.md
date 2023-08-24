@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 69954
+revid: 71001
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Equipment]
@@ -27,8 +27,7 @@ categories: [Boots, Equipment]
 
 Imperial Boots are accessories under the "_Boots_" category. They can be found through chests in [Aratel Island](Aratel_Island.md).
 
-Imperial Boots are part of the "**Imperial**" set; with the only other armor piece being the **[Imperial Pauldrons](Imperial_Pauldrons.md)**.
-
 ## Trivia
 
+-   Imperial Boots are part of the "**Imperial**" set; with the only other armor piece being the **[Imperial Pauldrons.](Imperial_Pauldrons.md)**
 -   Considered the best leg equipment in the game alongside the [Star Boots.](Star_Boots.md)

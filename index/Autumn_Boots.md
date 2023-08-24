@@ -1,6 +1,6 @@
 ---
 title: Autumn Boots
-revid: 69971
+revid: 71003
 source: https://deepwoken.fandom.com/wiki/Autumn_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -26,4 +26,6 @@ categories: [Character, Armors]
 
 Autumn Boots are accessories under the "Boots" category. They can only be found through chests in [Erisia](Erisia.md).
 
-Autumn Boots are part of the "**Autumn**" set; with the only other armor piece being the **Autumn Pauldrons**.
+## Trivia
+
+-   Autumn Boots are part of the "**Autumn**" set; with the only other armor piece being the **Autumn Pauldrons**.
