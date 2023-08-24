@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 70435
+revid: 71088
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,9 +8,9 @@ categories: [Monsters, Bosses]
 
 # Primadon, Titan of the East
 
-“ You shrink like an ant in the face of a true predator. ”
+“ I shall summon HARAMBE! ”
 
-― Summoning Primadon
+― Jonathan Talo
 
   
 Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
