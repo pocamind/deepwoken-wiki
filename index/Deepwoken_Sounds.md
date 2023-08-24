@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 71046
+revid: 71072
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -361,7 +361,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
 |  | 6.0s | Wiping in [The Depths](The_Depths.md) |
 |  | 2.2s | Corpse Fading |
-|  | 1.3s | Deepwoken Start-up Screen (Any button) |
+|  | 1.4s | Deepwoken Menu Select |
 |  | 2.4s | Ice Raining |
 |  | 2.5s | Terrain Freezing |
 |  | 3.6s | Cannonball, Bomb Impacts + Summer Isle Cannon Firing |

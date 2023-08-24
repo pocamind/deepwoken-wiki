@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 68398
+revid: 71064
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -11,6 +11,8 @@ categories: [Pages with broken file links, Races, Exclusive Races]
 Template:Races-Main
 
 _The stars call you back..._
+
+I NEED MORE BULLETS MORE BULLETS PAW PAW
 
 Chance of obtaining race: **0%**
 

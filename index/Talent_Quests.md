@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 52247
+revid: 71082
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -39,11 +39,25 @@ Note that you have to go into the building to access the purple flames, as the p
 
 Thresher scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a King thresher, which can spawn randomly anywhere in [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 10. The NPC's name is [Jessamine](Jessamine.md).
 
+### Chain of Perfection
+
+**Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage
+
+Chain of Perfection is obtained by defeating any boss without taking any damage (getting hit by other stuff including normal enemies and players invalidates you obtaining it.)
+
 ## Other Quests
 
 ### Treefelling Blow
 
 At [Etris](Etris.md), there will be an NPC called Korin at a house near the [Antiquarian](Antiquarian.md). You need the Attunement-less strength mantra Strong Left for this one, as that is how you fell trees with your hands. Upon talking to him you realise its about how you punch them and that you need to punch down 5 more trees to sufficiently research this. After you fell 5 trees, talking to him again will earn you the talent: Treefelling Blow, which allows you to gain wood from punching down trees.
+
+### Excavator
+
+At any blacksmith, you need to turn in 5 pure ores (E.g. Pure Irithine, Pure Erisore, Pure Umbrite, Pure Astruline) and you get the talent.
+
+### Proficient Baiting, Hook, Line, and Sinker, and Fisher's Lure
+
+You need to successfully fish a certain amount of times to get each talent, 10 times for Proficient Baiting, 30 times for Hook, Line, and Sinker, and 50 times for Fisher's Lure. Proficient Baiting Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boot, Hook, Line, and Sinker Reduces the chance of failure while fishing, and Fisher's Lure Increases the rate of hooking something while fishing.
 
 ### Family Recipe
 
