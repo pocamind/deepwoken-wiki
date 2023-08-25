@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 71079
+revid: 71097
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -88,7 +88,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Guide**: Talk to an NPC in layer 2 with 80 Willpower.
 
-**Reward/s**: Heretic's Sutra.
+**Reward/s**: Heretic's Sutra + Crumbled Sanity (New Talent).
 
 **Trained Fist:**
 

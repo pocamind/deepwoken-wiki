@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 68999
+revid: 71108
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -17,7 +17,7 @@ categories: [NPCs]
 
 ― Barber
 
-The Barber allows customization to your character, no notes needed!
+The Barber allows customization to your character, (some) notes needed! (only if you are changing the name of your character)
 
 To use some of his features, a hair ID from the catalog is needed.
 
@@ -29,9 +29,10 @@ To use some of his features, a hair ID from the catalog is needed.
 2.  Restore me to my natural hair. (Changes hairstyle to the one your avatar is currently wearing.)
 3.  Change my eyelashes. (Changes your eyelashes as said.)
 4.  Change my gender representation. (Changes gender to male, female, or neutral.)
-5.  Change my face. (Changes face decal.)
-6.  Change my variant. (Changes racial variant.)
-7.  How are you able to do all of this stuff?
+5.  Change my name. (100 Notes) (Changes the name of your character)
+6.  Change my face. (Changes face decal.)
+7.  Change my variant. (Changes racial variant.)
+8.  How are you able to do all of this stuff?
 
 1 - "All Done! It looks great!" / "Uhh... You gonna ask for anything?" (Canceling/not putting hair ID)
 

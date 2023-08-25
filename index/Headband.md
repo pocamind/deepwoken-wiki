@@ -1,6 +1,6 @@
 ---
 title: Headband
-revid: 70980
+revid: 71096
 source: https://deepwoken.fandom.com/wiki/Headband
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
