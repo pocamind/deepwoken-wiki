@@ -1,6 +1,6 @@
 ---
 title: "Diver's Camp"
-revid: 66502
+revid: 71109
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -14,7 +14,7 @@ categories: [Locations]
 
 Camp found straight and to the left of the District of Commerce Ramp Gate. Here, you can get a campfire menu at the locker inside one of the tents, to check your drowned and equipment stats.
 
-Alpha Sharko v. Diver events are common here.
+[Alpha Sharko](Megalodaunt.md) vs Diver events are common here.
 
 ## Contents
 
@@ -28,8 +28,8 @@ Alpha Sharko v. Diver events are common here.
 
 Events that spawn in Diver's Camp that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [divers](The_Divers.md) vs. Monster
+-   [Divers](The_Divers.md) vs. Monster
 
--   corrupted [monsters](Monsters.md) (high chance if you rung corrupted bell)
+-   Corrupted [Monsters](Monsters.md) (high chance if you rolled corrupted bell)
 
--   [sharko](Megalodaunt.md) with [mudskippers](Mudskipper.md) (when you walk up the hill next to divers camp)
+-   [Sharko](Megalodaunt.md) with [Mudskippers](Mudskipper.md) (when you walk up the hill next to divers camp)

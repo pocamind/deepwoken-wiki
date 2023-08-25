@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 70803
+revid: 71110
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -22,15 +22,15 @@ Also referred to as, "Etris Raid Event", "[Etris](Etris.md) vs Authority Raid Ev
 
 The Etris siege event is a large event in which [Authority NPC's](The_Central_Authority.md) will invade Etris, signified by a large number of flames spouting from various buildings in the area.
 
-At the beginning of the event, various buildings will explode into flames, signified by a very loud explosion, as the flames crawl up towards the center of the city, [Authority guards](Authority_Peacekeeper.md) will rise up from the Etris docks, slowly making their way up to the main town of Etris while fighting off Etrean Guards in rapid succession. As the fight rages on, the clouds will make room for ash, smog, and smoke, darkening the sky until the inevitable end of the war. Etrean guards and footsoldiers are all around Etris, fighting off the Authority.
+At the beginning of the event, various buildings will explode into flames, signified by a very loud explosion, as the flames crawl up towards the center of the city, [Authority guards](Authority_Peacekeeper.md) will rise up from the Etris docks, slowly making their way up to the main town of Etris while fighting off [Etrean Guards](Etrean_Guardsmen.md) in rapid succession. As the fight rages on, the clouds will make room for ash, smog, and smoke, darkening the sky until the inevitable end of the war. Etrean guards and footsoldiers are all around Etris, fighting off the Authority.
 
   
 
-If you or other players decide to help [Etris](Etris.md), and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large chests will spawn at the city center at The Tree, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), and Rare Rings.
+If you or other players decide to help [Etris](Etris.md), and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city center at The Tree, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), and Rare Rings.
 
 [Polis](Polis.md), The [Jus Karita](https://deepwoken.fandom.com/wiki/Fists#Jus_Karita) Trainer will aid in the Event, usually found fighting off the [Authority Commander](<Authority_Commander_(Enemy).md>). He can be found using the [Rapid Punches](Attunement-less.md) mantra. Speaking to him will provide unique dialogue: ''Ah, if it isn't the hero of Etrea. How goes your wary travels?
 
-During the Etris Raid, Lord Regent's [royal guards](<Etrean_Royal_Guard_(Enemy).md>) will assist Etris to fight off the Central Authority.
+During the Etris Raid, Lord Regent's [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will assist Etris to fight off the Central Authority.
 
 ## Trivia
 

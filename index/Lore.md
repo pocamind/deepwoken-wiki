@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 70921
+revid: 71111
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1406,9 +1406,69 @@ People who make an Oath to seek the truth of the deepwoken world. Their blindfol
 -   Despite having great powers of reality bending, all visionshapers are doomed to become food for the Nestmind.
 -   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilites, also that you need to interact with her to get the Oath.
 
+**Oathless**
+
+-   An Oathless is someone who has swore an Oath to himself of never taking an Oath to be able to follow their own goals and ideals.
+-   It is believed that this Oath is a weak Oath due to being a contradiction since they swear to never take an oath when in reality they are making one.
+-   It is the only Oath that the Drowned God Yun'shul is able to remove from a person.
+
+**Jetstrikers.**
+
+-   People who swore an Oath to flow with the Song and being its conductor.
+-   Usually the people who swore upon this Oath are very playfull and being called "Windrunners".
+-   It is suspected that some members of the Vigils swore this Oath, due to one of their abilities having its name while being learned at their temple.
+-   Jetstrikers are granted powers that allowed them to travel huge distances at high speed and being able to reach the highest of peaks.
+
+**Linkstriders**
+
+-   People who have made an Oath to try to "fix" this "fragile world" with their powers becoming the support of their allies.
+-   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their simbiotic powers.
+-   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the Eastern Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Sun,** wich are mark of Celestials.
+
 ### Starkindred
 
 -   The counterpart to Deepwoken, those who have consumed a piece of a Celestial.
+-   It is known that they "Feel all at once", probably feeling the connection they made with the Celestial.
+-   Some Starkindreds are stronger than others depending on the Celestial they consumed a piece of, the case of the Celestial in the Songseeker Church is not a very powerfull one, meaning that the Starkindreds of that Celestials are not as strong as another Starkindred that have consumed a piece of a stronger Celestial such as Navae or Alsin. Meaning their strength is tied with the strengh of the Celestial they consumed a piece of.
+
+### Arcwader
+
+-   Despite being primarly an armor created by the Ignition Union, this Oath has its own terms to be able to "Strengthen" their bond with the armor and thus making it more powerfull.
+-   Arcwaders are people who have swore an Oath with the terms of protecting and saving their comrades from any threat with your shield, being the Arc Suit.
+
+### Dawnwalker
+
+-   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the secrets of the radiant tones and making an Oath with her, being the terms of always looking for the "Radiant Light" in hopes to obtain the same power of the Lightkeepers and use it against the Depths itself.
+
+**Silentheart**
+
+-   Silenthearts are people who have swore an Oath of pure **Hate** with the souls of the Voidsea to seak revenge against the people who abuse the Song for their own gain, primarly targetting the Masters of elements who teachs their usage to the Song across all Lumen.
+-   The Oath that the Silenthearts swore include of looking for "Pure Strength" and "cutting tides with the Song", changing their heart to dont use mantras, however Silenthearts can still use Resonances and Murmurs, wich are applications of the Song.
+
+**Fadetrimmers**
+
+-   People who have swore an Oath to uh..... Become great barbers with their scissors and barber products to not let a "Fringe Accident" happen again. Hey, atleast they have a purpose.
+-   All barbers across Lumen posses this Oath.
+-   Thespite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the Race Variant, gender, and even ornaments of people. Technically they learned this in the Markor Citadel.
+-   It is highly suspected that the Fadetrimmers originate from the Markor Citadel, due to the barbers learning surgery on the Markor Citadel.
+
+**Contractors**
+
+-   Contractors are usually reffered to the people who have swore an Oath to one of the Nine Prophets of the Ministry, with each one granting different Oath powers depending on the Prophet they swore upon, having powers that are ver similar, for example, a Contractor of the 4th Prophet, Zi'eers, gains a very similar, if not the same, power of Tendrils that Zi'eer has.
+-   The Terms of the Oath declare that "Your Heart is now tied with \[Name of the Prophet\], you swore to follow his will no matter the cost", meaning that the terms of the Oath make the Contractors to become faithfull servants of the Prophet they swore upon.
+-   Similar to how Blindseer and Visionshaper are two Oaths that are against each others. Contractors are known to be in a similar way against Warmasters.
+
+**Warmasters.**
+
+-   People who have sworn an Oath to the "Circle of Honor", the terms of the Oath are unkown, however it is suspected that a Warmaster swore to protect whole Lumen to become its beacon of hope.
+-   Most Warmasters are members of the Central Authority, for example Warden Jericho being a Warden of the Authority and a Warmaster.
+-   Their powers are known to have "Floating blades", being very similar to the ones that the Sand Knights /Storm Knights wield, however if they are tied with the Warmasters is unkown.
+
+**Deepwokens**
+
+-   People who consumed a piece of a Drowned God and **Probably** made an Oath upon consuming said piece.
+-   The only known Deepwokens are: Amorus Pleeksty, The First Prophet of the Ministry.
+-   Known to grant the user incredible power from the Drowned God they consumed a piece of. For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.
 
 ## Murmur Lore
 
@@ -1432,11 +1492,14 @@ People who make an Oath to seek the truth of the deepwoken world. Their blindfol
     -   It can be obtained by performing a handful of assassinations for a Ganymede in [The Hidden Village](The_Hidden_Village.md).
 
 -   Ministry Agents or Scouts can utilize this Murmur.
--   Alpha Megalodaunts and Hive Constructs can somehow use its power too.
+-   Alpha Megalodaunts ~and Hive Constructs~ can somehow use its power too. (Hive Constructs are not confirmed to use Tacet.)
+-   Some Kyrsgarde are able to use this Murmur.
+-   Despite suppressing their own Murmur, Blindseers are able to see Tacet users despite suppressing it.
 
 ### Whispers of Rhythm
 
 -   An application of the Song that allows the user to perceive the Murmur emanated by all living things.
+-   A Murmur possed by both Kyrsgarde and Humans.
 
 ## Before the Tides: Before years were invented (Old World)
 
