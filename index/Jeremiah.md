@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 70989
+revid: 71117
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

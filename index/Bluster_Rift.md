@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 69384
+revid: 71116
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -81,23 +81,23 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   Black Parka
 -   Brown Parka
 -   White Parka
--   Royal Pathfinder
--   White Fur Pauldrons
--   Khan Pauldrons
--   Silver Pauldrons
+-   [Royal Pathfinder](Royal_Pathfinder.md)
+-   [White Fur Pauldrons](Fur_Pauldrons.md)
+-   [Khan Pauldrons](Legion_Pauldrons.md)
+-   [Silver Pauldrons](Silver_Pauldrons.md)
 -   [Woodland Pauldrons](Woodland_Pauldrons.md)
 
 #### Boots
 
--   Bluesteel Boots
--   Flameguard Boots
+-   [Bluesteel Boots](Bluesteel_Boots.md)
+-   [Flameguard Boots](Flameguard_Boots.md)
 -   [Imperial Boots](Imperial_Boots.md)
--   Khan Boots
--   Star Boots
--   Tracker's Boots
--   Vanguard Boots
--   Woodland Boots
--   Silver Sabatons
+-   [Khan Boots](Legion_Boots.md)
+-   [Star Boots](Star_Boots.md)
+-   [Tracker's Boots](<Tracker's_Boots.md>)
+-   [Vanguard Boots](Vanguard_Boots.md)
+-   [Woodland Boots](Woodland_Boots.md)
+-   [Silver Sabatons](Silver_Sabatons.md)
 
 ### [Weapons](Weapons.md)
 

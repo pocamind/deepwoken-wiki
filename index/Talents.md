@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 70983
+revid: 71121
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1333,6 +1333,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 35 Fortitude
 
 ### Marauder
+
+_**"I often attack others."**_
 
 -   _Aggressive Posture_ \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
     -   Prerequisites: [Power](Power.md) 13

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 71092
+revid: 71120
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,11 +23,11 @@ categories: [Oaths]
 
 ## Obtainment
 
--   Go to Layer 2 and Complete Alpha's quest
+-   Go to Layer 2 and Complete Alpha's quest.
     1.  Activate the Generator
     2.  Talk to Alpha
-    3.  Retrieve injured Epsi (Please choose option 2 when you talk to him; can be done in different runs. If the wrong option is chosen and Epsi perishes due to the parasites,he will always be outside of Firfire Caverns when you repeat floor 1,so you may choose the right option until the questline is completed.)
-    4.  Talk to Alpha again
+    3.  Retrieve injured Epsi (Please choose option 2 when you talk to him; can be done in different runs. If the wrong option is chosen and Epsi perishes due to the parasites,he will always be outside of Firfire Caverns when you repeat floor 1, so you may choose the right option until the questline is completed.)
+    4.  Talk to Alpha again.
 -   20 Fortitude, 20 Flamecharm and 20 Thundercall.
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town. In order to progress the oath, you must kill any [Layer 2](Second_Layer.md) boss.
 
@@ -80,7 +80,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 
 ## Trivia
 
--   The Arcwarder suit originally looked far different, but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
+-   The Arcwarder suit originally looked far different but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
 
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
 -   The Arcwarder suit is inspired by Bondrewd's suit from Made in Abyss anime. Immortal guardians have exact copy of it, while player has a bit redesigned suit.
