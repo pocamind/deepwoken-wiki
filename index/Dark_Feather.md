@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 68767
+revid: 71226
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -17,9 +17,9 @@ categories: [Items]
 | droppable | Yes |
 | pass down | No |
 
-“ Placeholder ”
+“ Your mind. We Owls find man to be capable of... suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”
 
-― Placeholder
+― Nestmind
 
   
 

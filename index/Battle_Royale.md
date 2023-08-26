@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 71159
+revid: 71225
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Game]
@@ -43,23 +43,32 @@ _A high up view of the Colosseum in Kingmaker's Isle as well as other points of 
 
 Template:Areainfobox
 
-### King's Colosseum
+### **King's Colosseum**
 
-The center point of the map, this is the location the zone encloses on.
+The center point of the map, t~his is the location the zone encloses.~ The zone actually closes in on random spaces, although the area is the center of the island and map.
 
--   **Little to no loot, High risk**
+-   **Little to no loot, High risk, one healing shrine in center**
 
-### Valiant Valley
+### **Valiant Valley**
 
 Contains a small town,
 
 -   **Abundant loot, Possibly High risk**
 
-### Yarix Yard
+### **Yarix Yard**
 
-On the edge of the King's Colosseum
+On the edge of the King's Colosseum, looks like a marketplace.
 
-  
+**Has at least one healing shrine on the outskirts of the marketplace. Has a fair amount of loot and shrines for its small size.**
+
+### **Open Sea (Coastal areas)**
+
+A small dock rests on the coast, closer to sea level.
+
+-   **Pros: Abundant loot, schematics, mantra shrines and talent shrines. Around two armor chests and two weapons.**
+
+-   **Cons: No healing spots, may get swallowed up by storm quickly, in endgame, people may opt for combat in water.**  
+    
 
   
 Please note the island is located in the [Open Sea](Open_Sea.md).
@@ -92,7 +101,7 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   [All hero blade variants](Hero_Blades.md)
 -   All legendary weapons
 
--   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Cloth Glider](Gliders.md).
+-   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Cloth Glider](Gliders.md), called flimsy glider due to it slowing down falling less than a real glider.
 -   Only one group can win.
 -   Participants are currently known to be grouped in parties of two.
 -   Better loot can be found on the edges of the map, making it only accessible early game due to zone.
