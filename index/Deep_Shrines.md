@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 69524
+revid: 71147
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 
 ## Description
 
-**Deep Shrines** are a group of 8 shrines sharing identical appearance, scattered across Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md).
+**Deep Shrines** are a group of 9 shrines sharing identical appearance (excluding Solitude), scattered across Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md).
 
 ## Shrines
 
@@ -203,6 +203,26 @@ Located in the [Starfield Veldt](Starfield_Veldt.md) in a cave hidden behind a t
 
 ## Pros/Cons
 
+**Shrine of Solitude:**
+
+File:Shrine of Solitude from Doomblade101.png
+
+Shrine Of Solitude
+
+“ Won't you share with me your thoughts? Solitude need not be prolonged. ”
+
+― Shrine Of Solitude
+
+  
+Located in [Trial of One](Trial_of_One.md) on the opposite wall of the entrance. This shrine is only available to those with the Lone Warrior origin.
+
+## Benefits/Penalties
+
+-   **(BENEFIT)** Functions as a [Mystic](Mystic.md), but does not require notes.
+-   **(PENALTY)** Unknown.
+
+## Pros/Cons
+
 * * *
 
 ## Trivia
@@ -215,3 +235,6 @@ Located in the [Starfield Veldt](Starfield_Veldt.md) in a cave hidden behind a t
 -   You do not need to deal with the Shrines of Conceit, Order, Division, or Unification to obtain Contractor.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
 -   The main 6 Deep Shrines (Order, Blasphemy, Chance, etc.) can be accessed in [Temple of Hearts](Temple_of_Hearts.md) if you have a resonance or start with the Deepbound Origin, however, two remain inert, suggesting they may awaken in the future.
+-   The Shrine of Solitude is unique in that it
+    -   Is present in a dungeon.
+    -   Has no visible "eyes".

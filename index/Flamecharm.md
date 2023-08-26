@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 70950
+revid: 71141
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -64,6 +64,7 @@ _Slicing blades of flame._
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
 -   Compatible with Size, Duration and Intensity Buffs.
 -   While having [Starkindred](Oaths.md) wings activated, Fire Blade now launches the user upward before releasing a large plume of flames after a long windup.
+-   Insta-Guardbreaks when upgraded to level 5.
 
  |
 |  | 

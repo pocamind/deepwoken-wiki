@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 69973
+revid: 71163
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Armors, Boots]
@@ -20,7 +20,7 @@ categories: [Equipment, Armors, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island |
+| obtainment | Chests from:, Aratel Island, Rogue Construct |
 | description | "..." |
 
 ## Description
@@ -29,6 +29,6 @@ The Woodland Pauldrons are an equipment item under the "_Boots_" category. Equip
 
 ## Trivia
 
-The Woodland Boots and Woodland Pauldrons are worn by [Hive Guards](Hive_Guard.md).
+-   The Woodland Boots and Woodland Pauldrons are worn by [Hive Guards](Hive_Guard.md).
 
-Woodland Boots are part of the "**Woodland**" set; with the only other armor piece being the **[Woodland Pauldrons](Woodland_Pauldrons.md)**.
+-   Woodland Boots are part of the "**Woodland**" set; with the only other armor piece being the **[Woodland Pauldrons](Woodland_Pauldrons.md).**

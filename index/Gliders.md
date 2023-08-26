@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 66796
+revid: 71166
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -29,11 +29,13 @@ The Glider can only be crafted at a [Crafting Station](Crafting_Station.md) or u
 
 The Sharkscale Glider can also only be built at a Crafting Station or with the Master Craftsman Talent, and must be crafted with two Sticks and two Megalodaunt Hides.
 
+The Flimsy Glider can't be crafted, it is only usable in the [Battle Royale](Battle_Royale.md) gamemode.
+
 ## Usage
 
 The Glider can only be used in the air, and cannot be used in Acid Rain (if you do not have the Survivalist Boon). It cannot be used in combat.
 
-There is no difference between the Sharkscale Glider and the normal Glider except for it's amount of uses. The Glider has 15 uses while the Sharkscale Glider has 150 uses.
+There is no difference between the Sharkscale Glider and the normal Glider except for it's amount of uses. The Glider has 15 uses while the Sharkscale Glider has 150 uses, and the Flimsy has only 10, dropping down to 1 when the user touches the ground.
 
 An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtain "The Old Wind" talent, which greatly decreases the rate you descend and greatly increases the distance you can travel with a glider, which is very useful to have. Although, [Galebreathe](Galebreathe.md) users can also obtain the "Aerogliding" talent, which is a substitute for a glider but it goes down much faster and has little to no horizontal distance, but it can be used in danger and is great for escaping a fight by gliding away.
 

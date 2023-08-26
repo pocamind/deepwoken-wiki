@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 68089
+revid: 71170
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Outfits, Armors, Items]
@@ -43,3 +43,4 @@ This Outfit's Schematic can be found in:
     -   Cursed Flame ([King Thresher](Thresher.md))
     -   Powerful Blood Appendage ([Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
     -   Pressure Blast ([Heavy Weapon Mantra](https://deepwoken.fandom.com/wiki/Attunement-less#Heavy_Weapon_Mantras))
+    -   Bonegrow ([Scion of Ethiron](Scion_of_Ethiron.md))

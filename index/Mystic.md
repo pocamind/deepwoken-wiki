@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 70951
+revid: 71158
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -112,6 +112,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I do not need a weapon. **(Brawler)**_
 -   _I always shoot first. **(Gunslinger) (Note; Cannot give True Ether Bullets, Armor Piercing)**_
 -   _I am a master with my hands._ _**(Bruiser)**_
+-   _I seek the qualities of Outlaw. **(Outlaw)**_
 
 ### Miscellaneous
 

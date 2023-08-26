@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 70888
+revid: 71145
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -37,6 +37,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.
+-   **\[PRO\]** Allows use of the Shrine of Solitude.
 -   **\[PRO/CON\]** Dying in the Trial of One with this origin instantly sends you to [The Depths](The_Depths.md).
 
 ## Deepbound

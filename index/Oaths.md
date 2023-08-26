@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 71119
+revid: 71136
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -110,3 +110,4 @@ Proof of Time Magic's existance and it being an "Oath"
 -   Arcwarder armor is similar to Bulats "Incursio" From Akame Ga Kill!
 -   Arcwarder's Oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.
 -   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons and later added back into the game as an Oath after the game's release.
+-   In Battle Royal Gamemode, Oaths can be obtained by collecting Oath Shards from chests, requiring 3 to obtain a random Oath and more shards to progress it.
