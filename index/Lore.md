@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 71111
+revid: 71180
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -74,6 +74,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   A Deepwoken, along with Pleeksty.
 -   It is said that the First Prophet created the Ministry since the tides came, suggesting he is as old as Pleeksty or even more.
 -   It is speculated that he lost his humanity.
+    -   This might possibly mean that they have a water related attunement. As mentioned by the Devs that it's a sign of "Lost Humanity." Probably not likely as the Devs said they wouldn't add water attunements. (Pure Speculation about the attunement, not proven at all)
 
 ### **The Second Prophet**
 

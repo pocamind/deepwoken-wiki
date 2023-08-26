@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 70656
+revid: 71172
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -82,7 +82,7 @@ All of Chaser's moves except Stalactite Fall instantly execute.
 
 ## Combat
 
-Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing him from using the Stalactite Fall attack again for the reminder of the fight. The stalactites on the ground will remain permanently.
+Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing him from using the Stalactite Fall attack again for the reminder of the fight. The stalactites on the ground will remain permanently. This is good as you won't have to worry about this attack again.
 
 ### Phase 1
 
