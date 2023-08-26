@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 68402
+revid: 71193
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -125,6 +125,14 @@ He also has a [Heliodar](Heliodar.md) slot.
 ### Melon\_Sensei/Par
 
 Par has the spec to spawn a ~cat maid~ "servant" that will execute any downed players/NPCs. Not much is known about this spec at the moment.
+
+### Spookeree/Sycne (Asher Eko / Hiroh Palo / Destroyman III)
+
+Spookeree's spec has been extremely rarely documented, but has been seen to be able to pick up knocked players, and teleport them to an unknown location. So far, this teleportation has only been seen to take knocked players outside of [Guild Bases](Guild_Bases.md), and ontop of the baseplate surrounding it.
+
+Also, more notably, Spookeree permanently has the distinct **Coral Fever** face from the 2023 April Fools update, thus having a slot named "[**Destroyman III**](Destroyman_III.md)". All of his slots have this.
+
+Furthermore, it appears that he has a spec that allows him to "spawn in" [Bandits](Bandit.md) at will, even in the Eastern Luminant, where [Bandits](Bandit_Leader.md) do not naturally spawn. Bandits spawned act as normal NPC's, and can grip, be gripped, and give EXP on death.
 
 ## Sources
 

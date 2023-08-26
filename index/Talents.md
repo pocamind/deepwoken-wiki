@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 71151
+revid: 71194
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1075,6 +1075,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Ice Skate, 70 Frostdraw.
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
+    -   The user doesn't steal healing from others if the user was the one that procced the healing (via [Revitalizing Hair Product](Oath%253A_Fadetrimmer.md), Grand Support talent etc.).
     -   Prerequisite: Frostbite
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
     -   Prerequisites: 100 Frostdraw
