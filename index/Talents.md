@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 71272
+revid: 71283
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1278,7 +1278,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 30 Agility, 55 Galebreathe, Gale Dash
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
-    -   Prerequisites: 25 Agility, 50 Galebreathe
+    -   Prerequisites: 20 Agility, 50 Galebreathe
 
 -   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility)
     -   Reduce posture damage taken by 50% (as much as a 2 weight shield) while standing still and using a spear.
