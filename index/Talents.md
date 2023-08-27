@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 71194
+revid: 71265
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -2183,7 +2183,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.
     -   Prerequisites: 75 Charisma, Sing (Charisma Mantra)
 
-### Vow of Mastery
+### Vow of Mastery (UwU)
 
 > _**"I create my own vows."**_
 

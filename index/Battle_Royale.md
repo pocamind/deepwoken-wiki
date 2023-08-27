@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 71227
+revid: 71261
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Game]
@@ -110,7 +110,7 @@ Various weapons can be found around the map floating, some of the weapons found 
 ## Trivia
 
 -   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
-
 -   Battle Royale is separate from the main game, you cannot choose a slot.
+-   You cannot obtain Warrior's Respite from totems.
 
 Info tba
