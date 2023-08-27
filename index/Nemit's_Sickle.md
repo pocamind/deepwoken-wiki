@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 70837
+revid: 71274
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -36,7 +36,8 @@ The Nemit's Sickle is a dagger that boasts a 30% penetration against armor and a
 
 ## Notes
 
--   The Nemit's Sickle has the worst damage out of all weapons in Deepwoken
--   This weapon has no other reason to be used besides it's penetration which shouldn't mean it's a good reason as [Kyrstreza](Kyrstreza.md) has the same penetration + bigger damage
--   Meeting the requirement of LHT, the damage is (18.4)
--   At max LHT, the damage is (24)
+-   ~The Nemit's Sickle has the worst damage out of all weapons in Deepwoken~
+-   ~This weapon has no other reason to be used besides it's penetration which shouldn't mean it's a good reason as [Kyrstreza](Kyrstreza.md) has the same penetration + bigger damage~ No longer true, this weapon serves as an alternate for [Alloyed Tanto](Tanto.md), which is a pseudo Medium weapon.
+-   Meeting the requirement of LHT, the damage is (19.58)
+-   At max LHT, the damage is (25.3), meaning it is now statistically superior than [Kyrsedge](Kyrsedge.md) and [Krulian Knife](Krulian_Knife.md) at 100 LHT, no Proficiency and unstarred.
+-   Nemit's Sickle's first dub in awhile.
