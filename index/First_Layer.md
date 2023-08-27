@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 70738
+revid: 71242
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -19,8 +19,8 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
     -   [District of Commerce](District_of_Commerce.md)
     -   [Varicosa District](Varicosa_District.md)
-    -   The Military District
-    -   The Cathedral of Intersice
+    -   [The Military District](The_Military_District.md)
+    -   [The Cathedral of Interstice](Cathedral_of_the_Interstice.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Castle Light](Castle_Light.md)
 -   [The Chariot's Spire](<The_Chariot's_Spire.md>)

@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 71225
+revid: 71227
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Game]
@@ -22,7 +22,7 @@ Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Se
 -   Weapons have no requirement scaling presence is unknown.
 -   Loot can be found around the map.
 -   Every kill rewards a point and the final round gives double points, the group with the most points wins.
--   You steal all of your opponents talents (Including mantras, and potentially oaths) upon executing them.
+-   You steal all of your opponents talents (Including mantras, and oaths) upon executing them.
 
 _For a visual walkthrough, consider watching [this video](https://www.youtube.com/watch?v=CZDpz7rwHTM&t=1s&ab_channel=TheDeepwokenGuide)._
 

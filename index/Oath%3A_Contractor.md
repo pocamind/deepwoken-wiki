@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 71201
+revid: 71239
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -29,7 +29,7 @@ categories: [Pages with broken file links, Oaths]
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline.
 3.  Complete the Duke questline.
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
-5.  Go make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any will do as long as they are different to eachother.
+5.  Go make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any will do as long as they are different to each other.
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?". Choosing this dialogue does not require a wish.
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you won't be locked out of obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
@@ -54,7 +54,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
     -   If a hidden tendril is on multiple opponents, they are to be pulled together.
 
 -   **Judgement - Combat Mantra**
-    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, the victim also granted i-frames during the animation. This also forms a Hidden Tendril on the target. If victim is low enough the move will insta execute
+    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user is unable to act or move while the Victim is stunned, meaning they cannot attack them, the victim also granted i-frames during the animation. This also forms a Hidden Tendril on the target. If victim is low enough the move will instantly execute
 
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the User and Enemy closer. They are flung in opposite directions, much further than their original positions, being able to Wallbang the Enemy if they collide with a surface. After the pull is over, the Enemy takes more damage and blood loss.
@@ -74,10 +74,11 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   A contractor that is progressing (doesn't have all moves/ talents) will send victims it kills to layer 2 and not the fragments. This ONLY applies while they do not have 3 oath grips.
 -   Keep in mind that you will not be sent to layer 2 if you are gripped during the progression of your oath, instead you will go to fragments, so do not be overconfident when progressing this oath.
 -   IF you are VERY lazy and confident you have a bell, you can glitch into Yun'shul, and being popped will stop you from instantly having your head torn off. Enjoy your max insanity!
--   You MAY be able to talk to Yunshul and then log in before obtaining your resonance and circumventing the instant kill.
+-   You MAY be able to talk to Yun'shul and then log in before obtaining your resonance and circumventing the instant kill.
 -   If you have this oath in the depths, be prepared to run or be protected by your guildmates, since many people in the depths will try to grip you as soon as they see your tendrils, even if you are friendly they will grip you, or run away from you.
 -   If you for some reason do this quest while you already have an oath, instead of giving you contractor he will say, "Then you are a fool" and kill you instantly
 -   Before 25/08/23, 4 specific deep shrines were required for step 5, those being Temptation, Blasphemy, Mastery, and Chance.
+-   (NEEDS TO BE TESTED) You may not be able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 70988
+revid: 71251
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -16,7 +16,7 @@ Template:NPC name
 
 ## Description
 
-Chili is a Crow [Tiran](Tiran.md) that appears in [Merchant Schooners](Ships_&_Sailing.md) spawned around [the Aratel Sea](The_Aratel_Sea.md) and [Etrean Sea](The_Etrean_Sea.md). At the bottom deck, he can sell a [Food](Food.md) item, a [Weapon](Weapons.md) of Uncommon to Common rarity, an [Armor](Equipment.md) piece, a random [Lore](Lore.md) [Book](Books.md), and a random utility.
+Chili is a Crow that appears in [Merchant Schooners](Ships_&_Sailing.md) spawned around [the Aratel Sea](The_Aratel_Sea.md) and [Etrean Sea](The_Etrean_Sea.md). At the bottom deck, he can sell a [Food](Food.md) item, a [Weapon](Weapons.md) of Uncommon to Common rarity, an [Armor](Equipment.md) piece, a random [Lore](Lore.md) [Book](Books.md), and a random utility.
 
 ## Shop Offers
 

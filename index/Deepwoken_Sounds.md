@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 71222
+revid: 71233
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -45,7 +45,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 11 | To Shores, Distant | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Aratel](The_Aratel_Sea.md) & [Etrean Sea](The_Etrean_Sea.md) | File:Aratel Sea - Deepwoken OST.mp3 |
 | 12 | The Trappings Of A Lord | 2:30 | [Erisia](Erisia.md) | File:Erisia - Deepwoken OST.mp3 |
 | 13 | Of Labours, Veiled | 2:20 | [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Voidheart](Voidheart.md) & [The Entropy Catalyst](The_Entropy_Catalyst.md) | File:Lord Erisia's Manor - Deepwoken OST.mp3 |
-| 14 | The Sun, Gleaming | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
+| 14 | The Sun, Gleaming | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md), [Fort merit](Fort_Merit.md) & [The Lord's Grove](The_Starswept_Valley.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
 | 15 | Thrill Of The Hunt | 2:08 | [Songseeker Wilds](Songseeker_Wilds.md) (Combat) | File:Songseeker Wilds (Combat) - Deepwoken OST.mp3 |
 | 16 | Of Smoke And Steel | 2:16 | [Summer Isle](Summer_Isle.md) | File:Summer Isle - Deepwoken OST.mp3 |
 | 17 | One For All, All For Gun | 2:17 | [Summer Isle](Summer_Isle.md) (Combat) | File:Summer Isle (Combat) - Deepwoken OST.mp3 |
@@ -94,6 +94,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
 | TBA | Scion of Ethiron Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
 | TBA | New Kyrsa Combat Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
 
 ### Additional Songs
 

@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Bandana"
-revid: 50729
+revid: 71234
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Face]
