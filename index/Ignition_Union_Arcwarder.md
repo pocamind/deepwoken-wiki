@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 71306
+revid: 71328
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -52,3 +52,8 @@ Their arsenal only uses the Railblade, along with moves related to their oath.
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Their Arc Suit eventually deactivates, which reveals they wear the [Igniton Union Uniform](Ignition_Union_Uniform.md).
+-   They can sometimes have a black dyed suit.

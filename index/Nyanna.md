@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 51280
+revid: 71315
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -31,6 +31,7 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
         -   [Vigil Longsword](Vigil_Longsword.md) (300 )
 -   **Armor Schematic:**
     -   [Mercenary Armor](Hired_Mercenary.md)
+    -   [Eager Tradesman](Eager_Tradesman.md) (200)
     -   [Merchant Robe](Merchant_Robes.md)
     -   Authority Uniform (80 )
     -   [Authority Commander Uniform](Authority_Captain_Uniform.md)

@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 71290
+revid: 71321
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Cloaked Assassins can spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat. They can also be found in groups of 3 during factions ambushes, spawning in place of the factions NPCs or Mercenaries.
+Cloaked Assassins can spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat. They can also be found in groups of 3 during factions ambushes, spawning in place of the factions NPCs or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
 
 ## Moveset
 

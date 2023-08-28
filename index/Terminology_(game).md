@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 70814
+revid: 71319
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -25,6 +25,13 @@ _adjective_
 
 Exclusive to [monsters](Monsters.md) found in [The Depths](The_Depths.md).
 
+### Freshie
+
+_noun_
+
+1.  A newly created character, usually wearing the _[Stranded](Stranded.md)_ outfit. The threshold for the maximum power level for being classified as a freshie differs, but is usually around Power 6.
+    1.  "I saw a freshie get ganked earlier, they didn't stand a chance."
+
 ### Chime
 
 _noun_
@@ -37,6 +44,13 @@ _adjective_
 
 1.  A name typically given to players that typically get powerful/enchanted items to use by friends, and tend to act like assholes towards other players despite their usually lower than average skill level.
     1.  "I just killed some boosted trash when they tried to gank me earlier"
+
+### Permafreshie
+
+_noun_
+
+1.  A derogatory term that refers to someone who appears powerful, yet displays the skill of a new player. Similar to Boosted, however _Permafreshies_ are usually not as confrontational as someone who has been Boosted.
+    1.  "Just ganked some permafreshie, he had some good loot."
 
 ## Combat Terms
 
@@ -265,7 +279,7 @@ _adjective_
 
 _noun_
 
-1.  Refers to [Megalodaunts](Megalodaunt.md)
+1.  Refers to [Megalodaunts](Megalodaunt.md), originates from the Pathfinder Gathering event's unique NPC-NPC conversation.
 
 ### **DvM**
 
