@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 70925
+revid: 71338
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -24,7 +24,7 @@ The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotte
 
 Despite being a resting place for souls, The Depths is a physical location in the World of Deepwoken. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to The Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as Megalodaunts becoming better runners and jumpers but sacrificing their ability to swim well.
 
-There are multiple layers to the Depths, with as many as three known to exist, likely getting even harder as it goes down.
+There are multiple layers to the Depths, with as many as three known to exist, likely getting even harder as it goes down (like me).
 
 Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.
 
