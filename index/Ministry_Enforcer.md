@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 71334
+revid: 71342
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-These weaker Ministry Enforcers are identical to [Ministry Scouts](Ministry_Scout.md), except they can only be found in [Faction Ambushes](Faction_Ambushes.md). They spawn in groups of 3 during [Ministry](The_Ministry.md) ambushes for lower-leveled players and/or players with a very low reputation.
+These weaker Ministry Enforcers are identical to [Ministry Scouts](Ministry_Scout.md), except they can only be found in [Faction Ambushes](Faction_Ambushes.md). They spawn in groups of 3 during [Ministry](The_Ministry.md) ambushes for lower-leveled players and/or players with a low reputation.
 
 A Ministry Enforcer's appearance consists of a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit with their [race](Aspects.md) varying.
 
@@ -68,26 +68,26 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 <tr>
   <td>Assault</td>
   <td>Firmly pummels opponent before finishing up the combo by kicking them.</td>
-  <td>◯</td>
-  <td>◯</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
 </tr>
 <tr>
   <td>Critical</td>
   <td>Raises right leg before firmly slamming it down into the ground below.</td>
-  <td>◯</td>
-  <td>✗</td>
+  <td><font>◯</font></td>
+  <td><font>✗</font></td>
 </tr>
 <tr>
   <td>Shadow Arc</td>
   <td>Caster conjures an arc of shadow and pierces the opponent.</td>
-  <td>◯</td>
-  <td>◯</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
 </tr>
 <tr>
   <td>Shadow Assault</td>
   <td>Windup before turning invisible and dashing forward, dealing medium damage to anyone in front of caster while applying darkness.</td>
-  <td>◯</td>
-  <td>◯</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
 </tr>
 </tbody>
 </table>
