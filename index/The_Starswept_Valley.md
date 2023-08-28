@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 69797
+revid: 71348
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -29,26 +29,11 @@ These gates will open as soon as you interact with the fountain at the [Lightkee
 -   [Lightkeeper Temple](Lightkeeper_Temple.md)
 -   [Widow's Hollow](<Widow's_Hollow.md>)
 
-## Potential Enemies
-
--   [King Thresher](Thresher.md#king-thresher)
--   [Thresher](Thresher.md)
--   [Hive Construct](Hive_Construct.md)
--   [Deep Widow](Deep_Widow.md)
--   [Desert Knight](Stone_Knight.md)
--   Etrean Footsoldier
--   [Hive Footsoldier](Hive_Guard.md)
--   [Legion Captain](Legion_Captain.md)
--   [Legion Sniper](Legion_Sniper.md)
--   [Brainsuckers](Brainsucker.md)
--   [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt)
--   [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
-
 ## Missions
 
 Events that spawn in Starswept Valley that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Etrean Footsoldiers Etreaiconfaction vs [Hive Guards](Hive_Guard.md) Hiveiconfaction
+-   [Vigil Swordsman](Vigil_Swordsman.md)Etreaiconfaction vs [Hive Guards](Hive_Guard.md) Hiveiconfaction
 -   [Legion Captain](Legion_Captain.md) vs [Authority Captain](Authority_Captain.md) Authorityiconfaction
 -   [Hive Construct](Hive_Construct.md) Hiveiconfaction vs [Authority Captain](Authority_Captain.md) Authorityiconfaction
 -   [Desert Knight](Stone_Knight.md) vs [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt)/[Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)
@@ -106,7 +91,7 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Silver Pauldrons](Silver_Pauldrons.md)
 -   [Woodland Pauldrons](Woodland_Pauldrons.md)
 -   [Bluesteel Boots](Bluesteel_Boots.md)
--   Flameguard Boots
+-   [Flameguard Boots](Flameguard_Boots.md)
 -   [Imperial Boots](Imperial_Boots.md)
 -   [Khan Boots](Legion_Boots.md)
 -   [Star Boots](Star_Boots.md)

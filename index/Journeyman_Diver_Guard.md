@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 70085
+revid: 71343
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -60,6 +60,7 @@ A Journeyman Diver executes it's opponent after knocking them:
 
 -   Maybe don't try to fight at castle light.
 -   Don't try to fight them. They will jump you, and they have little to no cooldown on mantras.
+-   If they aren't dangerous enough as is, they also now have a very high chance (if not, guaranteed) to spawn in with an enchant. So unless you have a death wish, just don't fight them at all.
 
 ## Trivia
 

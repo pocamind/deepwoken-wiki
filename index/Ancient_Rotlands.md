@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 65100
+revid: 71347
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones]
@@ -28,11 +28,6 @@ The Ancient Rotlands is a **Voidzone**, meaning you will be sent to [The Depths]
         -   This area is generally considered as dangerous to farm in due to its Voidzone status, with the potential insanity damage you may receive being the equivalent of a bomb that can explode any second.
         -   For ease of farming, it is encouraged that you lure whatever's inside the area out to the Songseeker Wilds to avoid both any insanity damage, and avoid getting sent to the Depths on death.
 -   The Angel Pit, hidden in a small cave, containing 4 [Deep Angels](Hollow_Angel.md). Defeating them spawns a chest with guaranteed rare rings.
-
-## Potential Enemies
-
--   [Nightmare Threshers](Thresher.md#nightmare-thresher)
--   [Deep Angels](Hollow_Angel.md#deep)
 
 ## Harvestables
 
