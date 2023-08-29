@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 69783
+revid: 71363
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -83,7 +83,7 @@ Checklist made by derathehunter found here:
 
 There are 12 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1800 echoes.
 
-Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 60 echoes per item. This is not renewable.
+[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 60 echoes per item even if they're Soulbounded. This is not renewable.
 
 **Upgrades:**
 
@@ -168,14 +168,14 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tr>
 <tr>
   <td><center><b>Advanced Weapons</b></center></td>
-  <td><center>Your amount of available starting weapons when starting a new journey.*1</center></td>
+  <td><center>Your amount of available starting weapons when starting a new journey.</center></td>
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>4</center></td>
 </tr>
 <tr>
   <td><center><b>Advanced Tools</b></center></td>
-  <td><center>Your amount of bonus adventuring tools given when starting a new journey.*2</center></td>
+  <td><center>Your amount of bonus adventuring tools given when starting a new journey.</center></td>
   <td><center>25 Echoes</center></td>
   <td><center>1</center></td>
   <td><center>3</center></td>
@@ -260,9 +260,7 @@ Enchants and legendary weaponry can be passed down using the [Hippocampal Pool](
 </tbody>
 </table>
 
-\*1 1st upgrade for Advanced Weapons gives Quickfang, 2nd gives Irontusk, 3rd gives Silversix, 4th gives Avenger
-
-\*2 1st upgrade for Advanced Tools starts you with a Lumber Axe and Pickaxe, 2nd starts you with a Canteen and Flint, 3rd starts you with a Repair Hammer
+The list of Advanced Weapons and Advanced Tools is available in the Trivia section.
 
 ## Echo Talents/Items
 
@@ -320,7 +318,6 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   Repair Hammer
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   Kelsius' mantra hand doesnt get autopicked with destined so you can abuse this to look for a mantra with more comfort (this may also happen with deep shrines needs testing).
-
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1)
 
 ## References

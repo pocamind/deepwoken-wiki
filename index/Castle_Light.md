@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 69696
+revid: 71367
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -44,6 +44,7 @@ Castle Light is a safe area within the [First Layer](First_Layer.md) belonging t
 -   How to Make Friends
 -   Self-Conducting Loop
 -   Pure Heart
+-   Ferrofluid
 -   Hemafrost
 -   Gale Kata
 -   Hearthgem

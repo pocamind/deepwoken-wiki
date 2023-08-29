@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 71256
+revid: 71372
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -30,6 +30,7 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 -   Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.
 -   Cannot give Rare Talent Cards.
 -   Mystic affects mantra rarity (i.e., stars).
+-   If a category is comprised entirely of Rare Talent Cards, it will not appear as an option. (EX: Frozen Warrior)
 
 ## Dialogue
 
@@ -152,9 +153,9 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Frostdraw
 
 -   _I command the cold. **(Cryomancer)**_
--   _My ice protects like a flower growing thorns. **(Cryoni) (Note; Cannot give Preceding Chill)**_
+-   _My ice protects like a flower growing thorns. **(Frostthorn)**_
 -   _I speak to the frost. **(Frostdrawer)**_
--   _Those that step on my ice know they have made a grave error. **(NOT Frozen Warrior, ~likely Frostthorn~. I believe it's Cryoni, as it was the only Frost cards I got from this.)**_
+-   _Those that step on my ice know they have made a grave error. **(Cryoni) (Note; Cannot give Preceding Chill)**_
 -   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Frozone, Saint Jay)**_
 -   _I seek the elegance of a glassdancer. **(Glassdancer)**_
 -   I seek the qualities of FlashFreeze. _**(FlashFreeze)**_

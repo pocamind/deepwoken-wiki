@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 70133
+revid: 71366
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -114,7 +114,7 @@ The Shipwright is located on the rocky beach within a castle like structure.
 
 #### _**Trig \[QUEST\]**_
 
-Trig is an NPC at the entrance of the Inn. His quest sends you to find Asius, a merchant who hasn't been paying his dues to the Summer Company.
+Trig is an NPC at the entrance of the Guildhall/Inn (if you have interest points on its marked as guildhall). His quest sends you to find Asius, a merchant who hasn't been paying his dues to the Summer Company.
 
 File:RobloxScreenShot20211227 094500945.png
 
@@ -126,7 +126,7 @@ You will be given two quest dialogue options after answering why you're meeting 
 2.  No you bottom-feeder, hand over the money now or you'll be sinking to the 3rd layer.
 3.  \[ End Dialogue \]
 
-1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will net you negative Summer Company reputation, and zero EXP if you don't kill the guards.
+1.  Answering with the first dialogue option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation, and zero EXP if you don't kill the guards.
 2.  Answering the second dialogue option will have Asius reluctantly hand you an invisible stack of ship documents, his vessel sunken at sea and the documents the final few things to show for it. Returning to Trig will have him reward you with not only positive Summer Company reputation and EXP, but will also unlock **a rare talent called "Armor Piercing" that can be obtained when leveling up.** (obviously, it affects only guns)
 
 -   Trig could be a pun about the word "trigger" based on the Summer Company's association with ballistics.
@@ -259,6 +259,7 @@ Items and equipment that can be directly bought with currency.
 -   Hermafrost
 -   Gale Kata
 -   Hearthgem
+-   Ferrofluid
 -   Prayer Beads
 -   Ankle Weights
 -   Training Vest

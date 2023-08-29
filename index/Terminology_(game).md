@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 71319
+revid: 71371
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -173,7 +173,7 @@ _verb_
 1.  Events that happen usually from players to players, either happening randomly as a chance or requiring certain set-ups
     1.  Ex. Turtle Shell, a shield based talent, negates the proccing of Spine Cutter when the user has their shield on their back.
 
-### Spin back
+### Spin back/Spinback
 
 _verb_
 
@@ -305,6 +305,15 @@ _noun_
 _noun_
 
 1.  Short form for [Shattered Katana](Shattered_Katana.md), an upgraded version of the Katana that requires 100 MED to be used
+
+### BMing
+
+_adjective_
+
+1.  **B**lack-**M**arket**ing**, it is the action of trading in-game items for out-of game (Real life counts too).
+    1.  Ex. Yo, gimme a curved (**CBOW** or **C**urved **B**lade **O**f **W**inds) and ama give you 1200 Robux.
+
+BMing or black-marketing is a very strictly prohibited thing, do not risk your account for something you can get yourself or earn for (In-game).
 
 ## For Editors
 
