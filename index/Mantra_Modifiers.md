@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 71400
+revid: 71441
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -12,9 +12,9 @@ _**\*\*\*FOREWORD**: **A spreadsheet for Mantras and their compatible Mantra Mod
 
 Note: It’s likely that the spreadsheet is old as many of the modifiers do not work even though it says they do. It’s recommended you get mantra modifier from the deepwoken info discord.
 
-uh funny deep gems
+**Mantra Modifiers** are items that can be used to expand the potential of the player's [Mantras](Mantras.md). Each modifier has an effect that it can positively/negatively attribute to the player's Mantra. These can easily be found by killing most [enemies](Enemies.md), and can also be found in [Erisia](Erisia.md) [Chests](Chests_&_Sacks.md). In order to add Mantra Modifiers, a [Mantra Table](Mantra_Lectern.md) is required.
 
-There are currently three types of mantra modifiers;croco modifiers, sharko modifiers, and kyrsgarde modifiers
+There are currently three types of mantra modifiers; Regular, Deep Gems, and Sparks. Regular and Spark modifiers are used at a Mantra Table and are consumables. The player will not receive the modifier back when an _Amnesiac Driftwood_ is used. Deep Gems can be equipped at a Campfire in its insignia slot. Recalling a mantra with a Deep Gem will return the Deep Gem to your inventory.
 
 Heavily modified mantras will require [Note](Notes.md) offerings to be made. To see their prices and scaling, review [Mantra Table](Mantra_Lectern.md).
 
@@ -24,7 +24,9 @@ Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correc
 
 **Regular:**
 
-\==idkGlass Stones _and_ Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat._
+## Regular Modifiers
+
+Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesic Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stones_ and _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
 A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md)) times. Adding mods increase the ether cost of mantras by 10 and 20 Ether for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 20%, down to 8 and 16 Ether.
 

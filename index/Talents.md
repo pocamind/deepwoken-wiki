@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 71402
+revid: 71451
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -16,15 +16,22 @@ File:DeepwokenThumbnail.png
 
 ## Foreword.
 
-**Press \[_alt + f4\] or \[ctrl ald deltete\]_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
+**Press \[_Ctrl + F\] or F3_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
--   eugh useless infooo ind talents pertaining to that tree/category.
-    
+-   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
+    -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
+-   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
+    -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
+-   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
     -   _(i.e "ButterfIy" to find talents that are within ButterfIy)_
-    
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
+-   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
+    -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
+        -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
+
+  
 
 ## Overview
 
@@ -62,12 +69,12 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 ### **Card Terminology**
 
 -   Common
--   common actually
--   literally more common than commons
--   bro oaths have their own page gtfo out of here if u want those fucking oath shits
--   magic
--   its a mnystery, a secret
--   just spare ur time and go 6 erection 6 prof if ur attument or 6 vit 6 prof if ur no attunement.
+-   Rare
+-   Advanced
+-   Oath
+-   Mantra
+-   Mystery
+-   Trait
 
 ## Talents
 
@@ -115,11 +122,12 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
         -   Ironsing: Grey
     -   Prerequisite: 25 Intelligence
     -   Mutual Exclusive: Return to the Dark Ages
-
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 1.5 seconds or more grants an aura to your attacks that grant them 15% more damage.
     -   "Max ether" means having more than 95% ether.
     -   Prerequisite: 40 Intelligence
     -   (Mainly for Pve or Silentheart)
+
+  
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
