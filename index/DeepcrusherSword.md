@@ -1,6 +1,6 @@
 ---
 title: DeepcrusherSword
-revid: 67636
+revid: 71378
 source: https://deepwoken.fandom.com/wiki/DeepcrusherSword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Greathammers]
@@ -37,4 +37,4 @@ Given its name, appearance and stats, it was likely the placeholder model for th
 ## Trivia
 
 -   Despite being very obviously a sword, it is classed as a Greathammer.
--   It is a reskinned [Forge Greathammer](Forge_Greathammer.md)
+-   It is a reskinned [Forge Greathammer](Forge_Greathammer.md).

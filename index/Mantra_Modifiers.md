@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 70726
+revid: 71388
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -631,8 +631,6 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
   
 
-just a note can someone edit the tornado spark fire blade to making say that t makes fireblade swing faster bc im stupid and cant figure out how to edit it ty
-
 **Blast Spark:**
 
 ## Specific Effects of Sparks
@@ -768,7 +766,7 @@ File:Rising-Shadow.gif
 
  | 
 
-File:Ezgif.com-crop 27.gif
+File:Rising Shdaow with Blast Spark.gif
 
  | 
 

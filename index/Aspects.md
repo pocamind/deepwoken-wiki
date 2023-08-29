@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 71206
+revid: 71377
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -16,7 +16,7 @@ categories: [Races, Character, Mechanics]
 
 **Races** are different categorizations of the humans that live in the world of _Deepwoken_, each race having unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling a race will give you the option between keeping your new current race or switching back to the previous race. This option is available until you finish creating the character or log off the character creation menu._
 
-All 12 races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
+All 12 rollable races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
 
 -   While +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this +2 into a given stat may be the key to making that build attainable.
 
@@ -59,11 +59,10 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
 -   Huthering
 -   Ruther
 
-## Notes
+## Trivia
 
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat- or otherwise having positive rep will overwrite the NPC's aggression towards the player. Many of the factions in _Deepwoken_ are inherently xenophobic/racist to other races.
 -   Race rarity does not make the race inherently better- it only means that there's less of your kind in a typical server.
 -   Players can come across other players tagged with familial relations if they are of the same race, such as being one's sibling, cousin, twin, parent, or any of the like.
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
--   Khan, Gremor, Adret, Etrean, Canor, Celtor and Krulian are the only races to have an in-game item named after them. Ex. [Krulian Knife](Krulian_Knife.md)

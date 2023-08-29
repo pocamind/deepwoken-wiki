@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 71180
+revid: 71385
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -957,9 +957,9 @@ An Authority Captain
 -   **Territory:** _The Rat's Den_
 -   **Encountered In:** _Erisia_
 -   **Attunements:** _Galebreathe_
--   **Alliances:** _N/A_
+-   **Alliances:** _The Hundred Legions_
 -   **Enemies:** _N/A_
--   **Lore Sources:**
+-   **Lore Sources:** [Champion's Dagger](<Champion's_Dagger.md>), [Champion's Sword](<Champion's_Sword.md>), random 100 legions encounters
 
 -   The Golden Rats are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
 -   In encounters, the Golden Rat politely asks the player to only fight him to the death in a 1v1 and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
@@ -1019,9 +1019,9 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Encountered In:** _Anywhere_
 -   **Attunements:** _Any_
--   **Alliances:** _???_
+-   **Alliances:** _The Justicar_
 -   **Enemies:** N/A
--   **Lore Sources:** _Neero (Mentioned), Arch\_Mage (Edits), Bookworm Andros (Mentioned)_
+-   **Lore Sources:** _Neero (Mentioned), Arch\_Mage (Edits), Bookworm Andros (Mentioned), Polis (Mention of Alsin), Pathfinder random event (Mention of Alsin)_
 
 -   A label applicable to anyone who adventures for their own personal goals, including but not limited to historians, treasure hunters, warriors, etc. The title of Pathfinder varies dependent the individual; either focused more on combat or exploration.
     -   (Neero) The Pathfinders consist of Historians, Scavengers, Bounty Hunters, and Explorers.
@@ -1070,11 +1070,11 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### **Kyrsgarde**
 
--   **Encountered In:** _Firfire, New Kyrsa_
+-   **Encountered In:** _Firfire, New Kyrsa, Kyrsian Wilds_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Ethiron (against their will tho)_
 -   **Enemies:** _Ethiron(?)_
--   **Lore Sources:**
+-   **Lore Sources:** _Naerotiv, Erosius Amaltus Urivertus Alistus Casius Walistoshus, Aeroaseluniris Oricalum Forentus_
 
 -   A race of people that live within the Eternal Gale.
 -   They worship Ethiron, and have built a shrine on the first floor of the Eternal Gale.

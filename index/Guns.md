@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 70233
+revid: 71389
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -60,5 +60,5 @@ _**Stats:**_
 
 ### Trivia:
 
--   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun. However, it is the only [spear](Weapons.md) in the game that has a ranged attack.
+-   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   The Stormseye is the only legendary rifle in game. It is obtained by killing bosses.
