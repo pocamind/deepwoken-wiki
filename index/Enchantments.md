@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 71236
+revid: 71403
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -253,7 +253,7 @@ There are two variants that enchantments come in:
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
 <tr>
-  <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
+  <td><figure>File:Curse of the no meta.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>Drains the target ether on hit. This scales with your damage and the target's Max Ether.<br>
   Critical attack is replaced with a counter. Succesful counters grants you hyperarmor along with being able to act first.<br>

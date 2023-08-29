@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 71283
+revid: 71402
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -16,14 +16,12 @@ File:DeepwokenThumbnail.png
 
 ## Foreword.
 
-**Press \[_Ctrl + F\] or \[F3\]_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
+**Press \[_alt + f4\] or \[ctrl ald deltete\]_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
--   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
-    -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
--   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
-    -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
--   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
+-   eugh useless infooo ind talents pertaining to that tree/category.
+    
     -   _(i.e "ButterfIy" to find talents that are within ButterfIy)_
+    
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
@@ -64,12 +62,12 @@ Certain cards lie in "Priority Talents" - the type of talents that game weights 
 ### **Card Terminology**
 
 -   Common
--   Rare
--   Advanced
--   Oath
--   Mantra
--   Mystery
--   Trait
+-   common actually
+-   literally more common than commons
+-   bro oaths have their own page gtfo out of here if u want those fucking oath shits
+-   magic
+-   its a mnystery, a secret
+-   just spare ur time and go 6 erection 6 prof if ur attument or 6 vit 6 prof if ur no attunement.
 
 ## Talents
 

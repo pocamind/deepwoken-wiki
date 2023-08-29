@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 71385
+revid: 71426
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1070,7 +1070,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### **Kyrsgarde**
 
--   **Encountered In:** _Firfire, New Kyrsa, Kyrsian Wilds_
+-   **Encountered In:** _Firfire, New Kyrsa, Kyrsan Wilds_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Ethiron (against their will tho)_
 -   **Enemies:** _Ethiron(?)_
