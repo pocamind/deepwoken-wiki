@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 71261
+revid: 71511
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Game]
@@ -23,6 +23,7 @@ Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Se
 -   Loot can be found around the map.
 -   Every kill rewards a point and the final round gives double points, the group with the most points wins.
 -   You steal all of your opponents talents (Including mantras, and oaths) upon executing them.
+-   Every once in a a while a purple/pink meteor will fall that will grant a bell to you if you interact with them similar to the totems or healing shrines, it takes a while for the action to take in effect **(BE WARNED THAT YOU ARE HIGHLY VULNERABLE WHILE DOING THIS ACTION)**
 
 _For a visual walkthrough, consider watching [this video](https://www.youtube.com/watch?v=CZDpz7rwHTM&t=1s&ab_channel=TheDeepwokenGuide)._
 
@@ -79,7 +80,7 @@ Please note the island is located in the [Open Sea](Open_Sea.md).
 
 -   Gray chests contain expert outfits
 -   Orange chests contain master outfits
--   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls)
+-   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random oath and random talent/mantra of that oath
 
 ### Deep totems
 
