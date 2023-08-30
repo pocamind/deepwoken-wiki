@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 71439
+revid: 71489
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Enemies]
 
 # Enemies
 
-_This page is for humanoid enemies. For Monster enemies, see [Monsters](Monsters.md). For bosses, see [Bosses](Bosses.md)._
+_This page is for monster enemies, For bosses, see [Bosses](Bosses.md)._
 
 **Enemies** in _Deepwoken_ are neutral-hostile NPCs that will attack the player, but are different than monster enemies.
 

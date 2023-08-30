@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 70603
+revid: 71453
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -73,5 +73,5 @@ This oath is fully upgraded once you get it.
 -   The description of this oath is a reference to the "Ginger Fringe Incident" meme.
 -   Revitalizing can be used together with the Frostdraw talent "Saint Jay", which then will heal you for the 10% hp. Instead of the opponent.
 -   Charming can be useful combining it with the Charismatic Cast Talent "Tough Love", This will give you a 10% damage buff.
--   Due to Revitalizing, The Barber is a solid oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.
+-   Due to Revitalizing, Fadetrimmer is a solid oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.
 -   It is said this Oath took little time to make, being made primarly as a Joke more than a dedicated Oath like the rest of the game.
