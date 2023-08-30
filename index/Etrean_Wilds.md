@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 68236
+revid: 71499
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map, World]
@@ -42,4 +42,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 
--   Player notes here
+-   The music for this area is [Solivagant](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
