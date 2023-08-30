@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 68685
+revid: 71506
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -65,3 +65,4 @@ To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Er
 -   Slide jumping with using the **Way of Navae** critical can make it easier to land.
     -   You'll use your sliding momentum to dash forward.
 -   If you have **Way of Navae** and [Legion Kata](Legion_Kata.md) you can switch between them quickly by pressing Y.
+-   Say F to honor the great Jonathan Talo.
