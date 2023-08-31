@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 70131
+revid: 71523
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -10,7 +10,7 @@ categories: [World, Items]
 
 ## Overview
 
-How to Make Friends is Training Gear used to increase your **charisma**. It can be found in bookstores, and costs Template:Cost In order to train your Charisma, you must recite the provided phrase that appears at the top of your screen.
+How to Make Friends is Training Gear used to increase your **charisma**. It can be found in bookstores, and costs Template:CostIn order to train your Charisma, you must recite the provided phrase that appears at the top of your screen.
 
 At around 10-20 points of Charisma, you may start getting Charisma talents. Starting at 20 Charisma, you can get Vow of Mastery. At 15 Charisma and beyond, you can get Charisma mantras, such as Sing or Taunt.
 

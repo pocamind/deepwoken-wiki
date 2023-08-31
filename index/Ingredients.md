@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 68511
+revid: 71533
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -30,7 +30,7 @@ Raw materials harvested from the environment.
 
 (Not completed)
 
--   Gobletto - A mushroom that is white and has a tube-like stalk.
+-   [Gobletto](Gobletto.md) - A mushroom that is white and has a tube-like stalk.
 -   Browncap - A brown mushroom with a white stalk.
 -   Dentifilo - Smallest mushroom with a dotted cap.
 -   Gathered Wheat - Self-explanatory.

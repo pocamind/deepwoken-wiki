@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 71342
+revid: 71535
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -49,7 +49,7 @@ Template:EnemyInfobox1.0
 
   
 
-### Description
+## Description
 
 Ministry Enforcers are elite members of [the Ministry](The_Ministry.md) that use the [Way of Navae](Way_of_Navae.md) fist style, they appear in Ministry [ambushes](Faction_Ambushes.md) once your reputation has reached Villain.
 

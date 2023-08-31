@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 71511
+revid: 71528
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, StubPages, Game]
@@ -102,7 +102,7 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   [All hero blade variants](Hero_Blades.md)
 -   All legendary weapons
 
--   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Cloth Glider](Gliders.md), called flimsy glider due to it slowing down falling less than a real glider.
+-   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Cloth Glider](Gliders.md), called flimsy glider due to it being unable to be used 10 times despite its number of uses description. It also sort of falls more than glides.
 -   Only one group can win.
 -   Participants are currently known to be grouped in parties of two.
 -   Better loot can be found on the edges of the map, making it only accessible early game due to zone.
@@ -113,5 +113,6 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
 -   Battle Royale is separate from the main game, you cannot choose a slot.
 -   You cannot obtain Warrior's Respite from totems.
+-   As of August 29th 2023, Battle Royale is closed for more maintinence on the gamemode itself and squad/duos updates.
 
 Info tba
