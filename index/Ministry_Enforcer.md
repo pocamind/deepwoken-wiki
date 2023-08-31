@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 71535
+revid: 71644
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -30,7 +30,7 @@ A Ministry Enforcer's arsenal consists of a [Krulian Knife](Krulian_Knife.md) an
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing medium damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
 | Shadow Arc | Caster conjures an arc of shadow and pierces the opponent. | ◯ | ◯ | (★☆☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 

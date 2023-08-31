@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 71337
+revid: 71643
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -22,7 +22,10 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 | --- | --- | --- |
 | Any | 3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>) | ??? |
 | Any | 3 [Cloaked Assassins](Cloaked_Assassin.md) | "There they are!" |
-| [Etrea](Etrea.md) | 3 [Vigil Swordsmen](Vigil_Swordsman.md) | "Under decree of the Lord Regent your life is forfeit" |
+| [Etrea](Etrea.md) | 3 [Vigil Swordsmen](Vigil_Swordsman.md) | "Under decree of the Lord Regent your life is forfeit"
+"You won't get away with what you've done!"
+
+ |
 | [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md) | "Target sighted. Commencing operation." |
 | [Authority](The_Central_Authority.md) | 1 [Authority Commander](<Authority_Commander_(Enemy).md>) | "Commencing mission." |
 | [Ignition Union](The_Ignition_Union.md) | 1 [Mechaloduant](Megalodaunt.md#mechalodaunt) | None |
