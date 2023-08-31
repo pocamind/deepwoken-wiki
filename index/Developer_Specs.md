@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 71647
+revid: 71702
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]

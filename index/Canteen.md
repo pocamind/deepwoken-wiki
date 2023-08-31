@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 69868
+revid: 71679
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -25,6 +25,8 @@ Used to hold water on the go. You can spawn with a Canteen if you have Tier 3 "A
 ### Uses
 
 The Canteen can be filled by holding it out and pressing M1 at a well or any source of freshwater (the rivers around Starswept Valley, Merit's Reach, Greathive Aratel, Minitrysia, and Songseeker Wilds all count as freshwater sources) storing 5 uses before it must be refilled again.
+
+The lake near the New Kyrsa also holds clean water, making it come in a clutch when neeeded.
 
 ### Video Guide
 
