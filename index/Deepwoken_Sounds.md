@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 71233
+revid: 71562
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -45,7 +45,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 11 | To Shores, Distant | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Aratel](The_Aratel_Sea.md) & [Etrean Sea](The_Etrean_Sea.md) | File:Aratel Sea - Deepwoken OST.mp3 |
 | 12 | The Trappings Of A Lord | 2:30 | [Erisia](Erisia.md) | File:Erisia - Deepwoken OST.mp3 |
 | 13 | Of Labours, Veiled | 2:20 | [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Voidheart](Voidheart.md) & [The Entropy Catalyst](The_Entropy_Catalyst.md) | File:Lord Erisia's Manor - Deepwoken OST.mp3 |
-| 14 | The Sun, Gleaming | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md), [Fort merit](Fort_Merit.md) & [The Lord's Grove](The_Starswept_Valley.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
+| 14 | The Sun, Gleaming | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md), [Fort merit](Fort_Merit.md) & [The Lordsgrove](The_Lordsgrove.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
 | 15 | Thrill Of The Hunt | 2:08 | [Songseeker Wilds](Songseeker_Wilds.md) (Combat) | File:Songseeker Wilds (Combat) - Deepwoken OST.mp3 |
 | 16 | Of Smoke And Steel | 2:16 | [Summer Isle](Summer_Isle.md) | File:Summer Isle - Deepwoken OST.mp3 |
 | 17 | One For All, All For Gun | 2:17 | [Summer Isle](Summer_Isle.md) (Combat) | File:Summer Isle (Combat) - Deepwoken OST.mp3 |
@@ -78,18 +78,18 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war?in=naktigonis/sets/deepwoken-ost-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | 2:48 | Arena | File:The Games Of War.mp3 |
+| 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war?in=naktigonis/sets/deepwoken-ost-2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | 2:48 | [Arena](Chime_of_Conflict.md) | File:The Games Of War.mp3 |
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) | File:Catwhisker.mp3 |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
 | 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris](Etris.md) Authority Raid | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
 | 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [Ethironal Shrine Sanctuary](Second_Layer.md) | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
-| 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | Tutorial | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
+| 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | [Tutorial](Tutorial.md) | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
 | 8 | [INSOMNIA](https://soundcloud.com/naktigonis/insomnia) | 3:31 | [Layer 2 Combat](Second_Layer.md) | File:INSOMNIA.mp3 |
 | 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Layer 2](Second_Layer.md) | File:The Storm That Speaks.mp3 |
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
 | 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
-| 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | Battle Royale Gamemode | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
+| 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) Gamemode | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
 | TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
 | TBA | Scion of Ethiron Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |

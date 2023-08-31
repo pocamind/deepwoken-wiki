@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 69780
+revid: 71570
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -27,3 +27,7 @@ If you travel past Erosius and take a left, you will encounter a [Kyrsgarde](Kyr
 ## Quests
 
 You can find a spear in the Firfire Caverns to obtain the Ethiron's Gaze talent from Erosius. The talent persists permanently on a slot after this; you merely have to speak to Erosius in the future instead of finding the spear to progress.
+
+## Trivia/Notes
+
+-   The music for this area is [Whisperwind](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)

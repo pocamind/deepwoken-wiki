@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 69423
+revid: 71547
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -130,6 +130,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 
 ## Trivia
 
+-   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   Not a great location to set your spawn point at.
 -   A great location to farm EXP and items.
 -   Considering that there is a guaranteed Nomad hostage here. Getting [Way Of Navae](Way_of_Navae.md) by picking up the hostage from here and bringing it the whole way back to the [Eastern Tribal Leaders](Eastern_Nomad_Leader.md) in Summer Isle is possible.

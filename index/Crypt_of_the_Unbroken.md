@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 69802
+revid: 71543
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Voidzones]
@@ -72,6 +72,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Notes & Trivia
 
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   The majority of images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
 -   Immortal Guardians use the [Crazy Slots](Crazy_Slots.md) Battleaxe and Greatsword, but not their special abilities.
 -   Gripping an enemy will aggro a massive amount of the enemies in the dungeon nearby, even on the floor above and including the Alpha Megalodaunt, so if you can't autogrip or burn them, take enemies outside of the Crypt to grip them safely. (This still tends to aggro Carbuncles, but they are a minor threat.)

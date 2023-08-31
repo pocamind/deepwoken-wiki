@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 71249
+revid: 71575
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -243,6 +243,7 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
 
 ## Trivia
 
+-   The music for this area is [Sin-Smelted Scoriae](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/34.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.

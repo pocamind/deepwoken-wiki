@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 69387
+revid: 71542
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons, World]
@@ -30,6 +30,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 
+-   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   Not advised to do with a too big of a group due to health scaling.
 -   Recommended to enter only if you are level 15+ and have 75 Attunement or Weapon Scaling (for unbounding purposes).
 -   If the key to the manor is not glowing it means that someone else already initiated a raid and as such the area is locked away until a certain amount of time passes, either wait that timeframe out or switch servers to progress.

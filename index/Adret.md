@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 71073
+revid: 71561
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -96,7 +96,7 @@ The Adrets are a historically recently-arrived race of spiritually adept individ
     -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However without the keepers of the Lighthouse it becomes impossible to traverse the Voidsea, stalemating a losing war.
 -   There is a fourth variant which is a slightly lighter toned version of the third variant shown.
 
--   Archmage did confirm that the Adret are **not** fish.
+-   Archmage did confirm that the Adret are **not** fish because they are stupid and cant swim.
     
 -   According to Archmage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.
     

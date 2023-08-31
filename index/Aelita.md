@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 69461
+revid: 71564
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -60,8 +60,9 @@ WARNING: DO NOT CLICK 1 TO END DIALOGUE OR ELSE YOU FAIL, JUST CAST A MANTRA WHE
 -   Gold Assassin Hood (Extremely rare)
 -   Crimson Assassin Hood (Extremely rare)
 
-## Trivia
+## Trivia/Notes
 
+-   When Talking to Aelita, the song [Catwhisker](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) starts playing
 -   Aelita is a [Felinor](Felinor.md).
     -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not make [oaths](Oaths.md).
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.

@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 57387
+revid: 71537
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -113,6 +113,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 
+-   The music for this area is [Dancing Steps Of War](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   Before doing the "The Librarian" Quest, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.
 -   Depending on your Power Level, the cost of Notes required increases when choosing to level up through Kelsius. For each Power level after Power 1, increases the cost of leveling up by 50 Notes. (1,000 Notes at Power Level 20 and 1,350 Notes at Power Level 27)
 -   Lance's Brother will say that his own mother doesn't know his name and if you talk to Lance on Etris he will, confused, say he doesn't have a brother.

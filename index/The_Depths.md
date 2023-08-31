@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 71338
+revid: 71557
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -54,7 +54,7 @@ Whirlpools can also rarely spawn on the edges of highways and other random locat
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: The First Layer, aka Scyphozia, and Second Layer, aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where Korilfiend resides. (**THE NEXT 7 LAYERS ARE FANTASY AND ARE MADE BY THE EDITOR READ FOR ENTERTAINMENT).** Not one, not two, not three, But 4. schizophrenia: A purgatory, A void with nothing but a lantern brought all the way from the eternal gale, here voices constantly repeat in your head, and you can go crazy in as little as 20 seconds. Not much is known about this place other than the voices might be from the first layer (Scyphozia)
+The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [Second Layer](Second_Layer.md), aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) resides, but it is not in the game and likely will not be added due to conflicting with the lore.
 
 Please visit their respective pages below by clicking on them for more information:
 
@@ -64,4 +64,5 @@ Please visit their respective pages below by clicking on them for more informati
 
 ## Trivia
 
+-   The music for this area is [Oscillation](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering **The Depths** at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely, being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).
