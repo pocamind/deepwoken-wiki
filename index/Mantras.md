@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 71023
+revid: 71731
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -18,7 +18,7 @@ Considered to be the root of Ether's usage- Mantras, sometimes referred to in lo
 
 Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the
 
-There are different rarities for mantras, similarly to Talents.
+There are different rarities for mantras, similarly to i am a baddie and want a raise daddy
 
 ### Legendary Mantras
 

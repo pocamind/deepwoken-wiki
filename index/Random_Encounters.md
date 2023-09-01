@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 71086
+revid: 71818
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -256,3 +256,5 @@ An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so f
 ### **The Depths Collapse**
 
 The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through Layer 1 causing meteors to rain from above. Many rocks slam down landing near the player and spawn monsters from each impact. Basically a mini hell mode. Proof: [https://www.youtube.com/watch?v=7tW089OTGK8](https://www.youtube.com/watch?v=7tW089OTGK8)
+
+(May turn screen red haven't proved it yet though)

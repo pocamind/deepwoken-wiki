@@ -1,6 +1,6 @@
 ---
 title: Mushroom Soup
-revid: 54862
+revid: 71795
 source: https://deepwoken.fandom.com/wiki/Mushroom_Soup
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Items]
@@ -16,7 +16,7 @@ Template:Food Template V1Mushroom Soup is a [Food Item](Food.md#campfire-recipes
 
 Mushroom Soup is crafted with any combo of two different mushrooms at a campfire.
 
-**Example:** _[Dentifilo](Ingredients.md) + [Gobletto](Ingredients.md) **OR** [Dentifillo](Ingredients.md) + [Browncap](Ingredients.md) **OR** [Browncap](Ingredients.md) + [Gobletto](Ingredients.md)_
+**Example:** _[Dentifilo](Dentifilo.md) + [Gobletto](Gobletto.md) **OR** [Dentifillo](Dentifilo.md) + [Browncap](Ingredients.md) **OR** [Browncap](Ingredients.md) + [Gobletto](Gobletto.md)_
 
 ## Gallery
 

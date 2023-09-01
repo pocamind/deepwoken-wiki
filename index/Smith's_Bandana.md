@@ -1,6 +1,6 @@
 ---
 title: "Smith's Bandana"
-revid: 69900
+revid: 71811
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets, Items]
@@ -26,4 +26,9 @@ categories: [Armors, Helmets, Items]
 
 ## Description
 
-The Smith's Bandana is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, Equipping this item will give you extra randomized stats based on the amount of pips.
+The Smith's Bandana is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, equipping this item will give you extra randomized stats based on the number of pips.
+
+## Trivia
+
+-   The Smith's Bandana is part of the "Smith" set, along with the [Smith's Gloves](<Smith's_Gloves.md>) and [Smith's Goggles](<Smith's_Goggles.md>).
+-   Worn by all Blacksmith NPCs, alongside the rest of the set.

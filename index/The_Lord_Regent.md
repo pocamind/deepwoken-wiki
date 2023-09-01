@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 69542
+revid: 71819
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -17,7 +17,7 @@ categories: [NPCs, Quests]
 
 ― The Lord Regent
 
-## Description
+Description
 
 Zi'eer, more commonly known as Lord Regent or by his title, the fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of where he originates, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as taboo and only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
 
@@ -59,3 +59,4 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
             -   Initially he would kill you for attempting it, but that feature was removed.
 -   Zi'eer (Lord Regent) Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
 -   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight.
+-   The book "God in the Machine" contains info on his throne (theory, feel free to correct me if Im wrong)

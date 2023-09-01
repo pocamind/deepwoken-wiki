@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 71557
+revid: 71778
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -65,4 +65,5 @@ Please visit their respective pages below by clicking on them for more informati
 ## Trivia
 
 -   The music for this area is [Oscillation](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The combat music for this area is [Lacrimose Dies Illa](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering **The Depths** at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely, being The Seranece Mountains), Spring (Ironfist Island, in the cave under the [Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (on surface of the Summer Isle near [Summer Company](The_Summer_Company.md)'s castle).

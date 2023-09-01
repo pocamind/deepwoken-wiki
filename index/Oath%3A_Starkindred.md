@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 71507
+revid: 71708
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 50 Strength and a player kill |
+| oath_req | 40 Strength and a player kill |
 | effects | +2 Combat Mantra, +8 Health, Modified Fire Blade |
 
 “ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”

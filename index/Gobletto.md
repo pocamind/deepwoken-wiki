@@ -1,6 +1,6 @@
 ---
 title: Gobletto
-revid: 71534
+revid: 71804
 source: https://deepwoken.fandom.com/wiki/Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,3 +24,4 @@ A consumable mushroom that that is white and has a tube-like stalk. It can commo
 -   With the [Disguise](Mime.md) mantra, you can turn into a gobletto. This requires it to be modified with 1 Reversal spark, and 1 Tornado spark.
     -   This is the only Ingredient that you can transform into.
 -   If used in [Alchemy](Alchemy.md), the primary affect applied is **Invigorating**. Secondary effect is unknown, theorized to be **Decelerate**.
+-   One of 4 mushroom types, along with the [Browncap](Browncap.md), [Dentifilo](Dentifilo.md), and Bluecap.

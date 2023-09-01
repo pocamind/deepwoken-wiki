@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 69892
+revid: 71813
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -26,12 +26,11 @@ categories: [Helmets, Equipment]
 
 ## Description
 
-The Gladiator Helmet is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the amount of pips.
+The Gladiator Helmet is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the number of pips.
 
 The talent Concussive Force: Enemies you knock remain downed longer than usual.
 
 ## Trivia
 
 -   End game Headpiece that many choose.
--   [Blade Instructors](Blade_Instructor.md) wear Gladiator Helmets.
--   One of the three [Sky Statues](Sky_Statue.md) wear a Gladiator Helmet.
+-   Worn by [Blade Instructors](Blade_Instructor.md), as well as one of the three [Sky Statues](Sky_Statue.md).

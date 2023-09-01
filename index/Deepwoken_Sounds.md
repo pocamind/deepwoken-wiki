@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 71700
+revid: 71807
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Deepwoken Sounds
+
+ash slam
 
 _If you are interested about the descriptions of the songs, see [here](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)._
 
@@ -91,9 +93,11 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
 | 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) Gamemode | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
 | TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | Miner's Landing Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
 | TBA | Scion of Ethiron Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
 | TBA | New Kyrsa Combat Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | Sunken Railways Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md) | TBA |
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
 
 ### Additional Songs
@@ -131,6 +135,7 @@ Boss Theme
 A large collection of sounds found in _Deepwoken_.
 
 -   Note that some sounds may be used in more than one aspect of gameplay
+-   Credits to Witherald & Idrante for adding most of the sounds
 
 ### [Talent/Mantra Cards](Talents.md)
 
@@ -138,7 +143,12 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 1.2s | Picking card |
 |  | 1.8s | Freezing card |
-| File:Audio-card flip.ogg | 0.3s | Card flip |
+|  | 0.3s | Card Flip (1) |
+|  | 0.4s | Card Flip (2) |
+|  | 0.3s | Card Flip (3) |
+|  | 0.4s | Card Flip (4) |
+|  | 0.3s | Card Flip (5) |
+|  | 8.6s | Burning Card Sounds |
 |  | 4.5s | Rare draw |
 |  | 4.8s | Legendary draw |
 
@@ -149,33 +159,49 @@ A large collection of sounds found in _Deepwoken_.
 |  | 5.4s | Entering Combat (Default) |
 |  | 3.6s | Entering Combat ([The Depths](The_Depths.md)) |
 |  | 2.6s | Switching Areas when Combat Tagged |
-| File:Unsheathe2.ogg | 0.9s | Unsheathing |
-| File:Sheathe.ogg | 1.0s | Sheathing |
-|  | 3.9s | Unparryable attack sound |
+|  | 0.9s | Unsheathing |
+|  | 1.0s | Sheathing |
+|  | 1.5s | Unsheathing (Heavy) |
+|  | 1.6s | Sheathing (Heavy) |
+|  | 3.9s | Unparryable Attack |
 |  | 1.0s | Weapon / Shield Blocked hit |
 |  | 0.6s | Blunt Blocked hit |
 |  | 0.3s | Swing |
 |  | 0.3s | Alternative Swing |
-|  | 0.4s | Hit |
 |  | 0.6s | Heavy Swing |
+|  | 0.5s | Spear Swing |
+|  | 0.4s | Hit |
 |  | 0.6s | Hit (Greathammer & Blunt) |
 |  | 0.4s | Alternate Hit (Sword) |
-|  | 0.3s | Gun Lock / Unsheathe |
+|  | 0.4s | Gun Cork |
+|  | 0.6s | Gun Sheathe |
 |  | 0.8s | Gunshot |
 |  | 1.6s | Critical (Windup) |
+|  | 1.0s | Critical (Lightning Hero Blade) |
 |  | 1.5s | Critical (Sword) |
 |  | 1.0s | Critical (Greatsword) |
 |  | 2.4s | Critical (Greataxe, Ground Impact) |
 |  | 0.8s | Execute (Sword) |
-|  | 1.0s | Poser's Ring Activation + Killing Monster (0.8x Speed) |
+|  | 1.3s | Poser's Ring Activation + Killing Monster |
+|  | 1.3s | Killing Monster (Alternate) |
 |  | 1.8s | Execution Spin (Gun) |
 |  | 2.3s | Execute (Heavy Weapon) / Monster Execution |
 |  | 0.8s | [Way of Navae](Way_of_Navae.md) Activation (Knife Throw) |
-| File:Punch3.ogg | 0.4s | Hit (Fist) |
-| File:Block2.ogg | 0.7s | Blocked Hit (Sword) |
-|  | 0.9s | Alternative Parry (1.5x Speed) |
-|  | 2.1s | Posture Break |
-|  | 1.5s | Player Venting / [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
+|  | 0.9s | Hit (Fist) |
+| File:Punch3.ogg | 0.4s | Alternate Hit (Fist) |
+| File:Block2.ogg | 0.7s | Ugly Block |
+|  | 0.5s | Block Attempt |
+|  | 1.3s | Parry (1) |
+|  | 1.5s | Parry (2) |
+|  | 1.2s | Parry (3) |
+|  | 1.2s | Alternative Parry |
+|  | 1.0s | Ugly Parry |
+|  | 2.1s | Posture Break (Unedited) |
+|  | 1.7s | Posture Break (1) |
+|  | 1.5s | Posture Break (2) |
+|  | 2.1s | Posture Break (3) |
+|  | 1.9s | [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
+|  | 1.7s | Player [Venting](Combat_Mechanics.md) |
 |  | 0.8s | Burning (Extinguished) |
 |  | 0.6s | Electrified (Proc) / Static Withdraw |
 |  | 3.2s | Chill (Proc) |
@@ -188,43 +214,61 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.3s | Prominence Draw Windup |
 |  | 3.0s | Master's Flourish |
 |  | 1.6s | Prominence Draw |
-|  | 1.0s | Strong Left (Activation) / Pressure Blast (Activation) |
-|  | 1.1s | Strong Left (Impact) |
+|  | 1.0s | Strong Left + Pressure Blast (Windup) |
+|  | 1.2s | Alternative Strong Left (Impact) |
 |  | 1.3s | Rapid Punches Knockback |
-|  | 1.5s | Reinforce / Stratos Step (1.5x Speed) |
-|  | 2.3s | Ice Chains, Flame Assault, Shadow Assault Windups |
+|  | 2.0s | Adrenaline Surge (Activation) |
+|  | 1.5s | Reinforce |
+|  | 1.0s | Stratos Step |
+|  | 2.3s | Ice Chains, Flame Assault, Shadow Assault (Windup) |
 |  | 1.8s | Dash |
 |  | 1.3s | Flame of Denial (Activation) |
 |  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion Windup |
-|  | 3.9s | Flame Wisp (Proc) (2x Speed) / Flint Usage |
+|  | 3.9s | Flint Usage |
+|  | 2.0s | Flame Wisp (Proc) |
 |  | 1.3s | Fire Gun (Activation/Trigger) |
 |  | 2.1s | Fire Eruption (Impact) / Flame Leap |
+|  | 2.5s | Strong Leap / Ash Slam, Rising Thunder (Impact) |
+|  | 2.2s | Air Force / Meteor Slam |
 |  | 0.7s | Gale Wisp (Proc) |
-|  | 1.1s | Wind Blade (Activation) |
+|  | 1.1s | Wind Blade (Windup) |
 |  | 1.5s | Heavenly Wind (Impact) |
 |  | 1.1s | Haunted Gale (Proc) (1) |
 |  | 0.9s | Haunted Gale (Proc) (2) |
-|  | 0.7s | Wind Gun (Activaton) |
+|  | 0.7s | Wind Gun (Windup) / Gravity Field (Return) |
 |  | 1.7s | Warding Radiance (Activation) / Meteor Isle Chain |
-|  | 1.0s | Illusionary Clones (Spawn) |
-|  | 1.4s | Winded Status / Wind Gem / Gale Punch, Air Force (Windup) |
+|  | 1.0s | Illusionary Clones (Activation) |
+|  | 1.4s | Winded Status / Gale Punch, Air Force (Windup) |
+|  | 0.9s | Tornado Mantra |
+|  | 0.7s | Wind Gem (Proc) |
 |  | 1.0s | Crystal Impale (Impact) |
 |  | 5.1s | Ice Fissure Loop |
-|  | 2.8s | Ice Lance |
+|  | 2.8s | Ice Lance / Kyrsan Spear Impact |
 |  | 0.4s | Ice Smash (Swing) |
-|  | 1.9s | Ice Daggers, Fire Eruption, Ash Slam (Windup) / Trial of One Parry Test / Scion of Ethiron Ultimate Throw |
+|  | 1.9s | Ice Daggers, Fire Eruption (Windup) / Trial of One Parry Test |
+|  | 1.4s | Ash Slam (Windup) / Gravity Field (Bounce) |
+|  | 1.0s | Wind Passage (Windup) |
+|  | 2.5s | Scion of Ethiron, Ultimate Attack Launch (Edited by Witherald) |
 |  | 1.9s | Warden Blades (Shattering) |
-|  | 1.1s | Grand Javelin / Shadow Meteor / Shadow Eruption Windup (0.7x Speed) |
+|  | 1.4s | Grand Javelin, Shadow Meteor (Windup) |
 |  | 2.2s | Lightning Beam (Impact) |
-|  | 1.9s | Lightning Strikes (Impact) |
-|  | 1.5s | Lightning Stream (Pull) |
-|  | 1.8s | Shadow Gun (Activation) |
+|  | 1.9s | Lightning Strikes |
+|  | 1.5s | Lightning Streams |
+|  | 5.1s | Volt Crash |
+|  | 4.7s | Lightning Bolt |
+|  | 1.8s | Shadow Gun (Unedited) |
+|  | 4.1s | Shadow Gun 1 (Edited by Witherald) |
+|  | 4.1s | Shadow Gun 2 (Edited by Witherald) |
 |  | 14s | Shadow Roar |
 |  | 0.8s | Dark Rift (Activation) |
+|  | 2.0s | Shadow Eruption |
 |  | 2.3s | Tornado Kick (Impact) |
-|  | 4.2s | Taunt Mantra + Grasp of Eylis Loop / Sing Mantra + Capra Racial Buffs (1.5x Speed) / Graceful Flame Loop (2x Speed) |
-|  | 2.3s | Glare Mantra (1.5x Speed) |
+|  | 4.2s | Grasp of Eylis + Voideye Loop |
+|  | 2.8s | Sing Mantra + Capra Racial Buffs Loop |
+|  | 2.1s | Graceful Flame Loop |
+|  | 3.2s | Taunt Mantra |
 |  | 2.5s | Arc Beam Windup |
+|  | 0.9s | Arc Beam Impact |
 |  | 1.6s | Sightless Beam Windup |
 |  | 1.9s | Tranquil Circle |
 |  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras |
@@ -233,7 +277,16 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.4s | [Flamecharm](Flamecharm.md) Mantras / Mirage Clones |
 |  | 0.8s | [Galebreathe](Galebreathe.md) Mantras, Gale Leap |
 |  | 1.6s | Glare Mantra |
-|  | 2.3s | Vow Command: Live |
+|  | 0.9s | Rapid Punches Thrust |
+|  | 2.1s | Strong Left (Full) |
+|  | 1.6s | Strong Left (Impact) |
+|  | 3.6s | Dread Breath (Full Mantra) |
+|  | 1.1s | Mecha Gatling Feint |
+|  | 6.7s | Mecha Gatling (Full Mantra) |
+|  | 2.1s | Z-Cast |
+|  | 2.2s | X-Cast |
+|  | 2.6s | C-Cast |
+|  | 1.9s | V-Cast |
 
 ### [Monsters](Monsters.md)
 
@@ -241,7 +294,7 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Attack (1) |
 |  | 2.6s | [Crustaceous Rex](Crustaceous_Rex.md) Attack (2) |
-|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble |
+|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
 |  | 2.1s | [Lionfish](Lionfish.md) Growl (1) |
 |  | 4.0s | [Lionfish](Lionfish.md) Growl (2) |
 |  | 1.9s | [Lionfish](Lionfish.md) Growl (3) |
@@ -261,14 +314,16 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.0s | [Mechalodaunt](Megalodaunt.md) Laser Windup |
 |  | 0.4s | [Deep Owl](Deep_Owl.md) Feather Attack |
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) Roar (Stage 2 Transformation) |
+|  | 0.8s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Slash Damaged |
 |  | 3.0s | [Rock Golem](Rock_Golem.md) Unedited Roar (Hilarious) |
 |  | 4.0s | [Rock Golem](Rock_Golem.md) Roar |
 |  | 2.6s | [Rock Golem](Rock_Golem.md) Beam Explosion |
-|  | 1.7s | [Rock Golem](Rock_Golem.md) + [Sand Knight](Stone_Knight.md) Death |
+|  | 1.7s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Death |
 |  | 2.4s | [Rogue Construct's](Hive_Construct.md) Meteor Punch |
 |  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin Windup |
+|  | 0.8s | [Bonekeeper](Bone_Keeper.md) / [Kyrsgarde Brute](Kyrsgarde.md) Stomp |
 |  | 4.9s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
-|  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact |
+|  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact / Shard Bow Impact |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
 |  | 2.6s | [Naulitodaunt](Nautilodaunt.md) vent |
 |  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
@@ -279,12 +334,14 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.9s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap |
 |  | 2.2s | Corpse Fading |
 |  | 9.5s | Corpse Fading (Extended) |
+|  | 1.1s | Alternative [Monster](Monsters.md) Stomp (1) |
+|  | 0.8s | Alternative [Monster](Monsters.md) Stomp (2) |
 
 ### **[Echoes](Echoes.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 9s | Achieving **Rank W Rank** |
+|  | 9s | Achieving **W Rank / S Rank** |
 |  | 15.0s | Achieving **Rank A Legacy** |
 |  | 15.0s | Achieving **Rank B Legacy** |
 |  | 15.0s | Achieving **Rank C Legacy** |
@@ -301,11 +358,12 @@ A large collection of sounds found in _Deepwoken_.
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) Activation |
 |  | 1.1s | [Dimensional Travel](Dimensional_Travel.md) Rejection (Layer 2) |
 |  | 2.4s | [Blood Scourge](Blood_Scourge.md) Activation |
-|  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution |
+|  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution (Unedited) |
 |  | 2.7s | [Blood Scourge](Blood_Scourge.md) Success |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) Ability Windups / [Angel's](Hollow_Angel.md) Divine Spear |
 |  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Soul Capturing |
 |  | 2.1s | [Wind-Up](Wind-Up.md) Bell Impact |
+|  | 0.8s | Gravity Field (Enter) |
 |  | 2.4s | [Resurrection](Resurrection.md) Bell Activation |
 |  | 2.5s | [Resurrection](Resurrection.md) Bell Revive |
 |  | 1.1s | [Resurrection](Resurrection.md) Bell Rise |
@@ -324,6 +382,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 26s | Tundra Ambience |
 |  | 1.9s | Swimming loop |
 |  | 0.9s | Dashing While Swimming |
+|  | 2.3s | Vow Command: Live |
 |  | 1.1s | Sea Gate Opening |
 |  | 1.4s | Sea Gate Closing |
 |  | 6.9s | Sea Gate Woosh |
@@ -356,6 +415,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.6s | Locked [Attribute](Attributes.md) |
 |  | 6.0s | [Power](Power.md) Increase |
 |  | 9.0s | Self-Conducting Loop |
+|  | 1.9s | Hearthgem (Activation) |
 |  | 0.3s | Zipline Loop |
 |  | 2.0s | [Tacet Murmur](Murmur.md) Activation |
 |  | 1.0s | [Tacet Murmur](Murmur.md) Deactivation |
@@ -396,7 +456,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.8s | Golden Toungue / Prediction |
 |  | 1.5s | [Vow of Mastery](Vow_of_Mastery.md) / Selecting Freeze Ace |
 |  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
-|  | 2.0s | [Grim](Enchantments.md) (Proc) |
+|  | 2.0s | [Grim](Enchantments.md) (Proc) (Edited by Witherald) |
 |  | 2.4s | Alternative [Grim](Enchantments.md) (Proc) |
 |  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) (Proc) |
@@ -413,7 +473,8 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.4s | [Linkstrider](Oath%253A_Linkstrider.md) Abilities (2nd Sound) |
 |  | 2.3s | Meteor Falling Loop |
 |  | 1.8s | Meteor Impact |
-|  | 1.0s | Barrel Placedown |
+|  | 1.6s | Encyclopedia Page Flip |
+|  | 1.0s | Barrel Placement |
 
 ## Trivia
 
@@ -436,9 +497,9 @@ A large collection of sounds found in _Deepwoken_.
 -   Nakitgonis felt "Peregrine" ended up being used way less often than he liked. Most of the area it was meant for - the Seranece Mountains, - was cut from the game for its release.
 -   Early combat themes were intended to be percussion-only, to contrast with the melodic ambience music, though this was obviously changed.
 -   The vocals for "A Light in The Sky" are from a [Kontakt 6 opera singer library](https://www.fluffyaudio.com/shop/simple-opera-singer/), which features the voice of opera singer Ji Min Oh.
--   In the "Blood and Thunder", a leitmotif can be heard at 2:55 as it references a popular American military song "When Johnny comes marching home" from the American Civil War.
+-   In the "Blood and Thunder", a leitmotif can be heard at 2:55, Naktigonis has stated that this is a reference to Johnny I Hardly Knew Ye by The Irish Rovers, and the piece is inspiried by Celtic folk music.
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
+1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4) [1.5](#cite-ref-naktimessage-1-5) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
 2.  [↑](#cite-ref-2) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

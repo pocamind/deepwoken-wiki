@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 71539
+revid: 71783
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant]
@@ -49,3 +49,4 @@ The Aratel Sea is much more violent than the [Etrean Sea](The_Etrean_Sea.md), wi
 ## Trivia/Notes
 
 -   The music for this area is [To Shores, Distant](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The combat music for this area is [To Fight, Sanguine](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
