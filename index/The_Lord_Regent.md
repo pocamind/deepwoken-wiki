@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 71822
+revid: 71857
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -58,4 +58,4 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
         -   Note: You do have to go up to directly up to him if you want to get this dialogue, but Lord Regent will not kill you.
             -   Initially he would kill you for attempting it, but that feature was removed.
 -   Zi'eer (Lord Regent) Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
--   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight.
+-   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight. You can however try to dye the default blindfold into black instead of getting the actual black variant of the blindfold to replicate his.
