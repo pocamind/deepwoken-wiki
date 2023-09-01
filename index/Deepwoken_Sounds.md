@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 71807
+revid: 71852
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -9,8 +9,6 @@ notices:
 ---
 
 # Deepwoken Sounds
-
-ash slam
 
 _If you are interested about the descriptions of the songs, see [here](https://deepwoken.fandom.com/wiki/File:Deepwoken-Song-Descriptions.pdf)._
 

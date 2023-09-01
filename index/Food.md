@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 69872
+revid: 71843
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Food, Mechanics]
 
 # Food
 
-“ WHERE'S THE POMAR SAUCE?! ”
+“ I guess the moral of the story is: Raw food is... it's... uh... You should cook sometime. ”
 
-― Celtorian Master Chef to the poor Artisan Chef
+― Jaleel Nephidra
 
 ## Description
 

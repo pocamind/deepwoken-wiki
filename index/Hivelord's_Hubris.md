@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 66219
+revid: 71844
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]
@@ -12,12 +12,12 @@ categories: [Weapons, Pages with broken file links, Greathammers]
 |---|---|
 | type | Heavy Greathammer |
 | requirements | 100 HVY, 60 STR |
-| damage | 30 |
-| scaling | 10 |
-| range | 10 |
+| damage | 3 |
+| scaling | 1 |
+| range | 1 |
 | swing speed | 0.45x |
 | penetration | 5% |
-| weight | 8 |
+| weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
