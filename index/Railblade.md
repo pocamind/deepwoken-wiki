@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 70637
+revid: 71860
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -23,7 +23,7 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 2 |
+| obtainment | Layer 2 (F1/F2) |
 | description | "A now legendary blade devised by the Ignition Union to exterminate the terrifying foes lurking deeper within the Depths. Said to constantly generate a warding heat that protects the wearer against the insidious chill of the Eternal Gale." |
 
 ## Description
