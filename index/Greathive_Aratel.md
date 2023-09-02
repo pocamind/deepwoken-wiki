@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 71774
+revid: 71969
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -23,9 +23,9 @@ The stirring of life of all kinds fills the air as you enter the shade of the ca
 
 Greathive Aratel is a small island with a massive tree flooded on top of it. Inside this tree is a large settlement, the Greathive itself.
 
-To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be above Power 10 (You don't need an [Oath](Oaths.md)). Once you meet these requirements, you are able to invoke with the Greathive Fountains in [The Lordsgrove](The_Lordsgrove.md), [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md).
+To enter Greathive Aratel, you must wash your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) and be above Power 10 (You don't need an [Oath](Oaths.md)). Once you meet these requirements, you should invoke specifically from the Greathive Fountain found in [The Lordsgrove](The_Lordsgrove.md) in order to enable the alternative of invoking from all the other Greathive fountains found in [The Hidden Village](The_Hidden_Village.md), or behind The King's Palace in [Etris](Etris.md). (If you washed your face in the lightkeeper temple, you won't be able to instantly use the fountains found in the hidden village or in the king's palace until you invoke from the Greathive fountain in The Lordsgrove)
 
-Alternatively, you can [sail](Ships_&_Sailing.md) to it, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players.
+Alternatively, you can [sail](Ships_&_Sailing.md) to the Greathive aratel, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players.
 
 ## Contents
 
@@ -47,9 +47,9 @@ The doors to enter the Lordsgrove.
 
 #### Shipyard
 
--   The player can find a Shipwright who will spawn, craft and recall your [ships](Ships_&_Sailing.md).
+-   In the entrance floor of the Greathive aratel and to the left, the player can find a Shipyard fountain that will spawn the player down to the shipyard area, In the shipyard the player can spawn, craft and recall their [ships](Ships_&_Sailing.md).
     -   If the player is famous with The Hive, the Shipwright will bring up ship modification, or Lifeweaving, which could be a upcoming or undiscovered feature.
-    -   The Shipwright is un-interactable until the player reaches maximum reputation with The Hive.
+    -   The Shipwright NPC will not spawn, repair or recall a player's ship until the player reaches maximum reputation with The Hive.
 
 #### Library
 

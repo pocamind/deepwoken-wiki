@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 71426
+revid: 71968
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -310,6 +310,39 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer)
 -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
+
+### **Ku, The Mother**
+
+-   A Celestial.
+-   A religious figure worshipped by some Capras. (Ku Variant)
+-   Granted the ability to the Capras who woshipped her to aid people in their wounds. (Capra race ability for Ku variant)
+-   A church where Ku is worshipped is located in the Songseeker wilds (Derelict Highchurch), whoever the Songseekers apparently took over the church kicking out Ezra, the one in charge of the church and forcing him to leave to a small tower nearby.
+-   It is **Suspected** that the Celestial that is located in the Derelict Highchurch is actually Mother Ku, due to the church originally made to worshipp said Celestial.
+-   **Suspected** to be in a permant state of unconsciousness and torture.
+-   Compared to other Celestials such as Navae or Alsin, Ku is not a very strong Celestial.
+-   It is suspected that the reason of why she is in eternal torture is because of the war that happened between the Depths and the Celestials, probably trying to flee the Celestial Cities but being punished by the Depths before doing so.
+-   It is unkown if this Celestial is related to Jurik and Nemit, the other Celestials that aid the Capras.
+
+### **Jurik, the Moonseye**
+
+-   A Celestial.
+-   A religious figure worshipped by some Capras. (Jurik Variant)
+-   **It is Highly suspected but not confirmed,** that this Celestial created the Moonseye, due to the Moonseye being a Celestial mark.
+-   Granted the ability to the Capras that worshipped him, the ability to make someones mind will greatly stronger for a short duration. (Capra insanity mark buff)
+-   The state and location of this Celestial is unkown, however it is suspected to be alive due to the Jurik Capras still having his mark.
+-   His relation to Ku and Nemit is unkown.
+-   The strength of this Celestial is unkown, however if this Celestial created the moonseye, it is suspected that he may be a strong Celestial.
+-   Suspected to have powers related to Sanity/Insanity.
+
+### **Nemit, the Beast**
+
+-   A Celestial.
+-   A religious figure worshipped by some Capras. (Nemit Variant)
+-   A Celestial that is suspected to be worshipped in terms of farming and food, since its ability granted to the Capras aids in food and water, and also the weapon known as the **Nemit's Sickle,** is basically a farming tool.
+-   Granted the ability to the Capras that worshipped him, the ability to makes someones stomach more full of water and food. (Capras mark food buff)
+-   His location and state is unkown, but suspected to be alive due to the Nemit Capras still having his mark.
+-   His relation to Jurik and Ku is unkown.
+-   Suspected to have powers related to food and farming.
 
 ### **Alsin**
 

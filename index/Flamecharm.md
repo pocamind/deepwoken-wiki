@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 71141
+revid: 71967
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -144,7 +144,7 @@ _A fiery chokehold._
 -   Inflicts light damage.
 -   Inflicts Burn.
 -   The Flamecharm counterpart to [Frostdraw's Frost Grab](Frostdraw.md).
--   Can **NOT** be modified with Drift/Rush Shards or Crystal/Perfect Lens.
+-   Can be modified with Drift/Rush Shards or Crystal/Perfect Lens to increase the duration.
     -   Might have changed, requires more testing.
 
  |
