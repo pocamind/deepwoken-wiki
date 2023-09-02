@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 71962
+revid: 71981
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -28,11 +28,14 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
  | **Smith's Alloy** - "A cruder form of the famed Pluripotent Alloy able to increase the Quality of your held weapon, or to reroll the buff on a 3-star weapon." | Dropped from killing bosses like a pluripotent alloy |
 | 
 
- | **Idol of Yun'Shul** - "A ritual idol that can be used to redeem 1 wish from Yun'Shul wherever you are and without any cooldown. A resonance is not required to commune with Yun'Shul in this way, using the idol without a wish will still grant you the wish but will destroy the idol you cannot reroll your bell this way."
+ | **Idol of Yun'Shul** - "A ritual idol that can be used to redeem 1 wish from Yun'Shul wherever you are and without any cooldown. A resonance is not required to commune with Yun'Shul in this way, using the idol without a wish will still grant you the wish but will destroy the idol."
 
 (Not Droppable)
 
- | Drops in chest from [The Ferryman](The_Ferryman.md) and [Duke Erisia](Duke_Ishamon_Erisia.md). |
+-   This idol gives you a wish and lets you use it on the spot.
+-   Note that to reroll your bell using the Idol of Yun'Shul, you must not have the [tarnished](Boons_and_Flaws.md) flaw.
+
+ | Drops in chest from [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [Depths](First_Layer.md) |
 
 ## Lore Relics
 

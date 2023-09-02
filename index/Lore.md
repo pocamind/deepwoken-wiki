@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 71968
+revid: 71976
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -413,7 +413,6 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   He takes the form of a large fiery serpent.
 -   One of the meteor flowers was eaten by Black Diver Amorus Pleeksty.
 -   (Ragoozer) Confirmed to be male.
--   It is suggested that Korilfiend uses purple flames simirarly of how Amorus Pleeksty was able to cast purple flames when he ate the essence of Korilfiend.
 
 ### **Drowned Gods**
 
@@ -612,13 +611,11 @@ Glittering towers of ivory that hang over Lumen's seas.
 
 The Depths consists of multiple layers. Those who were condemned by combat or drown in the Voidsea wake up in the First Layer.
 
--   It is unknown how many Layers are there, but thanks to the dialogue of intimidating an Adret Sailor, there are at least three Layers of The Depths. Ragoozer has hinted at the possibility of there being five.
+-   There are nine layers to The Depths.
 -   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
--   Many of the layers are created after a great drowning sinks a civilization.
+-   Klaris implies The Depths has some form of sentience, almost as if
 -   The Depths apparently is more formed by numerous worlds that a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2, But this remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
--   The First Layer is located below the sea, however the rest of the layers are unknown to where they are located, due to being different worlds they are currently in unknown locations, however many especulate that they are located also below the sea.
--   Some layers have more influence of a specific drowned god than others, this can be seen through different shrines. For layer 1 we have more influence of Yun'shul, for layer 2 we have more influence of Ethiron, and for the third layer we have more influence of Korilfiend.
--   The Depths is also located above, over the Celestial Cities, not just below.
+-   The First Layer is located below the sea, however this is not the case for the others.
 
 #### **Scyphozia, The First Layer**
 
@@ -951,6 +948,7 @@ An Authority Captain
 -   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), Klaris (Dialogue). Dr Carrion (Dialogue), Divers Outfit Schematics (Description)._
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light". However this is just a FOB, not the headquarters who are located in the Markor Citadel.
+-   (Arch\_Mage) They were founded shortly after the Tides.
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
@@ -992,7 +990,7 @@ An Authority Captain
 -   **Attunements:** _Galebreathe_
 -   **Alliances:** _The Hundred Legions_
 -   **Enemies:** _N/A_
--   **Lore Sources:** [Champion's Dagger](<Champion's_Dagger.md>), [Champion's Sword](<Champion's_Sword.md>), random 100 legions encounters
+-   **Lore Sources:** [Champion's Dagger](<Champion's_Dagger.md>), [Champion's Sword](<Champion's_Sword.md>), [Legion Captain](Legion_Captain.md)
 
 -   The Golden Rats are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
 -   In encounters, the Golden Rat politely asks the player to only fight him to the death in a 1v1 and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
