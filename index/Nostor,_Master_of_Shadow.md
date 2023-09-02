@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 71927
+revid: 71951
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -58,7 +58,7 @@ Nostor executes their opponent after knocking them:
 
 ## Trivia
 
--   Nostor, along with Regek, are non-binary.[\[1\]](#cite-note-1)
+-   Nostor, along with [Regek](Attunement_Trainers.md), are non-binary.[\[1\]](#cite-note-1)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 71892
+revid: 71953
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2]
@@ -29,6 +29,4 @@ There are multiple ways to obtain an Enchant Stone, most of them involving divin
 
 ## Trivia
 
--   Each enchant stone has it's own design of choice, with most of them glowing the color of their related enchantment.
-    -   Some of them like, Nemesis Enchant Stone have a gradient dull look.
--   Upon arrival in the [Verse 2](Verse_2.md) update, they became the first guaranteed way of obtaining an enchant on your weapon.
+-   Each enchant stone has it's own design of choice, with most of them glowing the color of their related enchantment, while some of them, like Nemesis, have a dull gradient look.

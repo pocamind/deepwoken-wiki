@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 71889
+revid: 71959
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -442,8 +442,11 @@ _Skate freely on paths of ice._
   <p><br>
   </p></center></td>
   <td><center><i>A servant of ice.</i></center></td>
-  <td>Summons a wisp that travels around you placing ice.<p><br>
-  </p></td>
+  <td>Summons a wisp that travels around you placing ice.
+  <ul>
+    <li>Can be modified with Drift Shards or Rush Shards to increase the size of the ice that the wisp places.<br>
+  </li>
+  </ul></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure></center></td>

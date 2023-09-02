@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 71422
+revid: 71957
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -14,7 +14,7 @@ categories: [Races, Character, Mechanics]
 
   
 
-**Races** racism in _Deepwoken_, each race having unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling a race will give you the option between keeping your new current race or switching back to the previous race. This option is available until you finish creating the character or log off the character creation menu._
+**Races in** _Deepwoken_ each have unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150**. _Rerolling a race will give you the option between keeping your new current race or switching back to the previous race. This option is available until you finish creating the character or log off the character creation menu._
 
 All 12 rollable races have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
 

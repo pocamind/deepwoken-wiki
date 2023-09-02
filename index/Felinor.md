@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 64452
+revid: 71954
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -60,7 +60,7 @@ Known to be prominent in Markor in the Central Luminant. Previously there used t
 +2 Charisma  
 Climbs faster and higher, especially against wood surfaces including trees.  
 
-Partically not affected by "Obvious" Flaw.  
+Practically not affected by "Obvious" Flaw.  
 
 **Weaknesses:**
 
