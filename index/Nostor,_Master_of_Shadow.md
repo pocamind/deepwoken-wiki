@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 67255
+revid: 71927
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -51,3 +51,15 @@ Nostor executes their opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | **Execute** | User pins down opponent and slices their throat with their blade. |
+
+## Tips
+
+-   Be wary of other players, as Nostor is located in a prime place for farming [Umbrite](Ores.md).
+
+## Trivia
+
+-   Nostor, along with Regek, are non-binary.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

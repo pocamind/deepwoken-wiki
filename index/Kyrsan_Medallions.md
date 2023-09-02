@@ -1,24 +1,31 @@
 ---
 title: Kyrsan Medallions
-revid: 69521
+revid: 71917
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Medallions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Layer 2, Floor 2]
+categories: [In progress without reason, InProgressPages, Items, Layer 2, Floor 2]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Kyrsan Medallions
 
-## Description
+| Kyrsan Medallions | |
+|---|---|
+| usage | Obtainment of end-game items. Unlocking and progressing the Oath: Dawnwalker |
+| obtainment | Chests located in New Kyrsa, The Sleeping CityKilling all the Kyrsans in the building that prevents you from entering. |
 
-Kyrsan Medallions are an end-game currency that can be found in the Second Floor of the [Second Layer](Second_Layer.md) of the Depths. In order to keep any Kyrsan Medallions that you find on Floor 2, you must successfully defeat the [Scion of Ethiron](Scion_of_Ethiron.md) and escape. They are UNDROPPABLE. They can be exchanged at Castle Light (specifically, [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md)) for [Knowledge](Knowledge.md), Equipment Dye, Enchant Stones, random [Armor Enchants](Enchantments.md), and the [Dawnwalker](Oath%253A_Dawnwalker.md) [Oath](Oaths.md).
-
-Based on their coloring and usage in the [Stormseye](Stormseye.md), it can be inferred they are related to [Thundercall](Thundercall.md) in some way.
+**Kyrsan Medallions** are an end-game currency that can be obtained in [New Kyrsa](Second_Layer/New_Kyrsa.md) inside [Second Layer](Second_Layer.md). They can be exchanged at [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) for Enchant Stones, armor enchantment or [Knowledge](Knowledge.md). They are also essential to obtaining and progressing the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath.
 
 ## Obtainment
 
-After entering Floor 2 you can find large pink [chests](Chests_&_Sacks.md) in random locations. These chests are increasingly common in New Kyrsa. There is a faint pink beam that indicates where these chests are (this isn't always visible). Each chest contains 4-7 medallions, and each chest will respawn in the same location after defeating the Floor 2 Boss: [Scion of Ethiron](Scion_of_Ethiron.md). Six chests spawn when you enter the second floor and another six respawn after defeating the boss. You must successfully defeat the boss and **escape from the collapsing layer 2 via the Light Hook in the City** in order to keep any of the Medallions you find.
+Currently, New Kyrsa is the only location where the medallions can be found. There are two primary ways of obtainment:
 
-Kyrsan Medallions are soft-capped at 99.
+-   They can be found in pink chests around the city, containing 4-7 Kyrsan Medallions.
+    -   These chests spawn only at static locations around the location and their location and content resets after player spawning in [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md) or defeating the [Scion of Ethiron](Scion_of_Ethiron.md).
+-   They can be obtained via summon event inside the trap buildings. Activting the event via a button will result in 2 waves of [Kyrsgarde](Kyrsgarde.md) spawning. After defeating the enemies, multiple Kyrsan Medallions will spawn at the central point of the building.
+
+**Using the light hook or dying while in Second Layer, will result in collected Medallions being lost.** The only way to keep the currency is escaping via Klaris light hook after defeating the Scion of Ethiron. Once obtained, these medallions cannot be dropped or lost upon death.
 
 ## Usage
 
@@ -39,3 +46,4 @@ Medallions can also be spent at [Misérables](Misérables.md) for a unique deal:
 
 -   There has been proof of obtaining them from Fishing in the past, whether or not this has been shadow patched is unclear.
 -   Dyes cannot be dropped, but this can easily be bypassed by dying a piece of armor and then dropping that armor piece to whoever needs it.
+-   The medallions used to be kept as physical item after leaving the Second Layer. That has been changed after the rework in order to fight exploiters abusing the system.

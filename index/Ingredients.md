@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 71803
+revid: 71883
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -37,7 +37,7 @@ Raw materials harvested from the environment.
 -   Bamboo Bundle - Bamboo sticks, growing mostly on beaches and shores.
 -   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
 -   Redd - Small round, orange fruit. They don't grow during summer.
--   Plumfruit - It's a plum, what did you expect?
+-   [Plumfruit](Plumfruit.md) - It's a plum, what did you expect?
 -   Ongo - Red, roundish fruit. Basically, an apple.
 -   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   Bluecaps - Found only in a library area coated in blue fog on Erisia.

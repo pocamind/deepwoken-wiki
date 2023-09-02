@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 70642
+revid: 71866
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,11 +40,17 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete. _One time use._
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long that you have the medallions to afford it. **Klaris will refuse your Medallions (for some reason...) if you are below Power 15.**_
 -   Finishing Mendacia's quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though)
+-   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
 -   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.
 -   Killing [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
 -   Killing [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
 -   Killing [Crimson Megalodaunt](Megalodaunt.md) for the first time, awarding 1 Knowledge.
 -   Killing [Deep Owl](Deep_Owl.md) for the first time, awarding 1 Knowledge.
+-   Killing [Bone Keeper](Bone_Keeper.md) for the first time, awarding 1 Knowledge.
+-   Killing [The Enforcer](Enforcer.md) for the first time, awarding 1 Knowledge.
+-   Killing [King Thresher](Thresher.md) for the first time, awarding 1 Knowledge.
+-   Killing [Blizard Knight](Stone_Knight.md) for the first time, awarding 1 Knowledge.
+-   Killing [Mechalodaunt](Megalodaunt.md) for the first time, awarding 1 Knowledge.
 -   Killing [Deep Widow](Deep_Widow.md) for the first time, awarding 1 Knowledge.
 -   Killing [Nautilodaunt](Nautilodaunt.md) for the first time, awarding 1 Knowledge.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
@@ -54,6 +60,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 
 -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
     -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 8750 damage (35% of his HP). This rewards 1 Knowledge and can be repeated.
+-   Killing [Corrupted Monster](Monsters.md) for the first time, awarding 1 Knowledge.
 
   
 (Existing characters will get this Knowledge the next time they kill them)

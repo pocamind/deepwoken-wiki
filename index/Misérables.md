@@ -1,20 +1,31 @@
 ---
 title: Misérables
-revid: 70838
+revid: 71903
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, NPCs]
-notices:
-  - This page is currently being worked on. Please check back later.
+categories: [NPCs, Layer 2]
 ---
 
 # Misérables
 
-Misérables is an NPC on the second floor of the [Eternal Gale](The_Depths.md). They are found near the outskirts of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), which is in the rightmost corner of the door that opens to the Scion of Ethiron's chamber.
+“ Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse. ”
 
-Misérables appears to take the form of an owl with a similar build to a Deep Owl, without its feathers. On its head, it dons horns that sprout from the sides, and having two sets of light blue eyes that glow. Its body appears to be very muscular, sporting huge pecs as well as a six pack.
+― Misérables
 
-Aside from that, it is an intimidating critter that makes deals with the player within New Kyrsa. _**Do be careful, as making the Medallion deal without having enough will kill you.**_Template:NPC name
+Template:NPC name
+
+**Misérables** is an enigmatic entity located at the outskirts of [New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md), found in a valley behind a fence near large shrine-activated door. It holds a close resemblance and connection to [Deep Owls](Deep_Owl.md).
+
+## Description
+
+Upon interaction with the player, Misérables has the ability to grant wishes to the player, similarly to [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) inside [Scyphozia](First_Layer.md), indicated by two dialogue options:
+
+-   **I seek power in my upcoming battles.**
+    -   Grants additional 30% damage boost towards [Scion of Ethiron](Scion_of_Ethiron.md) for the duration of the exploration, at the cost of 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
+-   **I seek clarity.**
+    -   Grants a Yun'Shul wish and removes [Tarnished](Resonance.md) flaw from the player, at the cost of 15 [Knowledge](Knowledge.md).
+
+**Players can only choose one wish per exploration, as attempts to take both will result in instant death.**
 
 ## Dialogue
 
@@ -39,7 +50,7 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 1.  I seek power in my upcoming battles.
 2.  I seek clarity.
 
-### _Power:_
+_**Power:**_
 
 "Power, you say? I can only offer it toward a great foe, one much larger then yourself. For the price of, hm, let's say, **5 Kyrsan Medallions**."
 
@@ -55,9 +66,9 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 1.  Nevermind, maybe later.
 2.  Here are the coins. (**5 Kyrsan Medallions**)
 
-"Wise friend... Cleanse their bones with this strength." _(Gives 30% boost damage against [Scion of Ethiron](Scion_of_Ethiron.md))_
+"Wise friend... Cleanse their bones with this strength."
 
-### _Clarity:_
+_**Clarity:**_
 
 "Ah... Clarity. Yes. The most selfish of desires... To reorder all within your perspective. Very well.. perhaps for a splinter of that perspective, I can resolve the conflict in your soul. Perhaps then your deepest desires will be clear to you once more?"
 
@@ -65,13 +76,13 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 
 "Do you have the knowledge within you then, my dull friend? Fifteen shards will do. My kin grow hungry..."
 
-1.  Take it. _(**15 Knowledge**, resets [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish cooldown and removes the Tarnished flaw if you have it)_
+1.  Take it.
 
-#### _If enough knowledge:_
+_**If enough knowledge:**_
 
 "Now... Good. The veil is placed over your eyes once more. You will see things as you wish. Perhaps with a clearer mind, you might again request deals with those beyond you..."
 
-#### _If not enough knowledge:_
+_**If not enough knowledge:**_
 
 "Ah. I pity you. You lack the perspective. I pity you, little one. Poor dull little mouse. Is it not the proper thing for me to take mercy on one as pathetic as you? It is."
 

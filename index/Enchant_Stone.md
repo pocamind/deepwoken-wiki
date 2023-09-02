@@ -1,35 +1,34 @@
 ---
 title: Enchant Stone
-revid: 71084
+revid: 71892
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items]
+categories: [Items, Layer 2]
 ---
 
 # Enchant Stone
 
-The Enchantment Stone is an item that can only be obtained from the Second Layer. You can put these enchant stones on any weapon of your choice (as long as it isn't a legendary), and you can also use them on already enchanted weapons and the enchantment that is on the stone will be applied to the weapon.
+| Enchant Stone | |
+|---|---|
+| type | Item |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | "A shard of enchantment, it can apply its given Enchant to your currently equiped weapon" |
+
+The **Enchant Stone** is an item that can be use to apply the a [enchantment](Enchantments.md) to your currently used weapon. Each stone is imbued with one random enchant or a curse. After usage, an animation will play and the item will disappear from the inventory. The currently used weapon will receive the chosen enhancement or it will change into a new one if it was previously enchanted. It can be obtained from multiple sources, mainly [Second Layer](Second_Layer.md).
 
 ## Obtainment
 
-The [Kyrsan Medallion](https://deepwoken.fandom.com/wiki/Kyrsan_Medallions) method:
+There are multiple ways to obtain an Enchant Stone, most of them involving diving into the Second Layer. The ways of obtainment are as follows:
 
-1.  Get at least 5 Kyrsan Medallions from Floor 2 which can be found in chests in random buildings. (Be careful as you can get ambushed by mobs in the buildings.)
-2.  Kill the [Scion of Ethiron](Scion_of_Ethiron.md), escape using the light hook so you keep your Kyrsan Medallions
-3.  Talk to Klaris Llfiend, and choose the option for an Enchantment Stone.
+-   Completing the [Galewax Quest](Second_Layer.md) unlocks access to 4 chest, which may contain a random enchant stone.
+-   Rare drop from any Layer 2 chest, including [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) loot chest.
+-   Exchanging 5 [Kyrsan Medallions](Kyrsan_Medallions.md) at [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for random enchant stone.
+-   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant a one-time enchant stone of choice.
 
-The Galewax Method: (25% rolled 3 times)
+## Trivia
 
-1.  Get at least 4 galewax which can be found around the map in Floor 1.
-2.  Return to the start where harsh winds take place, and instead of taking the straight path, take the right-way path.
-3.  There's a pillar surrounded by 4 candles and you have to interact with each candle using the galewax you've gathered.
-4.  After all candles are lit, the pillar will reveal an underground secret room. Inside are 3 chests. There's a 25% chance per chest that you'll get a random Enchantment Stone. Otherwise, it's a random Kyrsweapon.
-5.  Escape Layer 2 by killing Chaser so you can keep your Enchantment Stone(s).
-
-The RNG method:
-
-1.  Just find one in any Layer 2 chest, lol
-
-File:Enchantment Stone.png
-
-Curse of the No-Life King enchantment stone.
+-   Each enchant stone has it's own design of choice, with most of them glowing the color of their related enchantment.
+    -   Some of them like, Nemesis Enchant Stone have a gradient dull look.
+-   Upon arrival in the [Verse 2](Verse_2.md) update, they became the first guaranteed way of obtaining an enchant on your weapon.

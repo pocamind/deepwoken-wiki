@@ -1,6 +1,6 @@
 ---
 title: "New Kyrsa, The Sleeping City"
-revid: 71571
+revid: 71893
 source: https://deepwoken.fandom.com/wiki/New_Kyrsa%2C_The_Sleeping_City
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, The Depths, Layer 2, Floor 2]
@@ -22,6 +22,7 @@ New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located i
 ## Points of Interest
 
 -   Grand Library of New Kyrsa
+-   [The Sunken Railway](The_Sunken_Railways.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Miserables](Misérables.md)
 

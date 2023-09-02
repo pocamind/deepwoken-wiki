@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 71016
+revid: 71889
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -435,6 +435,15 @@ _Skate freely on paths of ice._
   <th>Name</th>
   <th>Card Description</th>
   <th>Effect</th>
+</tr>
+<tr>
+  <td><center>File:Frost wisp.png</center></td>
+  <td><center>Ice Wisp<p>(★★)</p>
+  <p><br>
+  </p></center></td>
+  <td><center><i>A servant of ice.</i></center></td>
+  <td>Summons a wisp that travels around you placing ice.<p><br>
+  </p></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure></center></td>

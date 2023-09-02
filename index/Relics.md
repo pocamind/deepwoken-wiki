@@ -1,9 +1,9 @@
 ---
 title: Relics
-revid: 68829
+revid: 71919
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Items]
 ---
 
 # Relics
@@ -16,17 +16,21 @@ categories: [Pages with broken file links]
 
 Relics that can be obtained by players and actively used.
 
-| Media | Description |
-| --- | --- |
+| Media | Description | Obtainment |
+| --- | --- | --- |
 | 
 File:Screenshot 2023-05-24 at 10.28.26 AM.png
 
- | **Rain Spire** - A reusable relic that can be found in both layers of [The Depths](The_Depths.md), [Blacksmith Ore Chests](Blacksmith.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Chime](Chime_of_Conflict.md) chests. It has the ability to summon rain for 4 minutes in a certain radius with a cooldown of 40 minutes. It may produce weather other than rain depending on the area, for example making it snow in [Minityrsa](Minityrsa.md).
+ | **Rain Spire** - A reusable relic with the ability to summon rain for 4 minutes in a certain radius with a cooldown of 40 minutes. It may produce weather other than rain depending on the area, for example making it snow in [Minityrsa](Minityrsa.md). | Uncommon drop in chests obtained from [The Depths](The_Depths.md), [Layer 2](Second_Layer.md) (including [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Scion of Ethiron](Scion_of_Ethiron.md)), Blacksmith Ore Chests, [Primadon](Primadon,_Titan_of_the_East.md), [Chime of Conflict](Chime_of_Conflict.md). |
+|  | **Void Spire** - A reusable relic used to summon a [Voidzone](Voidzones.md) at the player's location. On use send people to the [Depths](The_Depths.md) when they are executed inside the radius of the relic. Players below Power 15 aren't affected at all, and can't summon a Void Spire themselves. Those who are unconscious (knocked) at the time of the Spire being summoned won't be affected by the Spire's effect. Void Spires cannot be summoned in towns. | Rare drop in chests obtained from [The Depths,](The_Depths.md) [Layer 2](Second_Layer.md) (including [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Scion of Ethiron](Scion_of_Ethiron.md)), Blacksmith Ores, [Primadon](Primadon,_Titan_of_the_East.md), [Chime of Conflict](Chime_of_Conflict.md), [Fishing](Fishing.md). |
+|  | **Smith's Alloy** - "A cruder form of the famed Pluripotent Alloy able to increase the Quality of your held weapon, or to reroll the buff on a 3-star weapon." |  |
+| 
 
-**Lore** - None has been provided, likely because it was added due to the suggestion of YouTuber Agamatsu on short notice.
+ | **Idol of Yun'Shul** - "A ritual idol that can be used to redeem 1 wish from Yun'Shul wherever you are and without any cooldown. A resonance is not required to commune with Yun'Shul in this way."
 
- |  |
-|  | **Void Spire** - A reusable relic that can be found in [Layer 2](Second_Layer.md), [Blacksmith Ore Chests](Blacksmith.md), [Primadon](Primadon,_Titan_of_the_East.md), [Chime](Chime_of_Conflict.md) chests, and [Fishing](https://deepwoken.fandom.com/wiki/Fishing#Loot_From_Fishing) chests. On use send people to the [Depths](The_Depths.md) when they are executed inside the radius of the relic, since a [Voidzone](Voidzones.md) is placed. Players below Power 15 aren't affected at all, and can't summon a Void Spire themselves. Those who are unconscious (knocked) at the time of the Spire being summoned won't be affected by the Spire's effect. Void Spires cannot be summoned in towns. |  |
+(Not Droppable)
+
+ | Drops in chest from [The Ferryman](The_Ferryman.md) and [Duke Erisia](Duke_Ishamon_Erisia.md). |
 
 ## Lore Relics
 
