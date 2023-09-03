@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 71145
+revid: 72026
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -33,7 +33,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 **_Obtainment_:** Enter the [Trial of One](Trial_of_One.md) at [Minityrsa](Minityrsa.md), and successfully defeat the pre-halfway point of the trial- the [Thresher](Thresher.md).
 
-**Lone Warrior** give players a convenient way to access Trial of One from the get go, allowing them to kickstart their progression.
+**Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
 
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.
@@ -56,11 +56,11 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
 -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
--   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md), with the possibility of a [Nautilodaunt](Nautilodaunt.md); However the trial will change depending on the amount of drowns your character has.
+-   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md), with the possibility of a [Nautilodaunt](Nautilodaunt.md); However, the trial will change depending on the amount of drowns your character has.
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light.
-    -   Have access to the campfire on the second floor(used to just be for cooking, but was changed to apply healing as well in a recent update)
+    -   Have access to the campfire on the second floor (used to just be for cooking, but was changed to apply healing as well in a recent update)
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
@@ -69,6 +69,8 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
+-   Grants the Deepbound Contract talent "Call of the Deep"
+    -   Plays a short animation of the player sinking into the ground before teleporting them into [The Depths](The_Depths.md).
 
 ## Voidwalker
 
@@ -76,14 +78,14 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 ― Flavor Text
 
-**_Obtainment_:** Grip 15 Pathfinders in the Overworld. Afterwards, talk to Eiris- who will reside under the deck of one of the two boats during the Kingdom of Etra VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
+**_Obtainment_:** Grip 15 Pathfinders in the Overworld. Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
 
-Also all of the kills need to be made on one single character
+Also, all of the kills need to be made on one single character.
 
 -   Pathfinders are those who have yet to swear under an [Oath](Oaths.md). This is different from being Oathless.
 -   Chime of Conflict does not affect the amount of progress towards this Origin.
 
-**Voidwalker** grants players a PVP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PVE for EXP as well, but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate talent, which solidifies your connection to Eylis.
+**Voidwalker** grants players a PVP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PVE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate talent, which solidifies your connection to Eylis.
 
 -   Grants the Knives of Eylis talent "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
@@ -102,7 +104,7 @@ Also all of the kills need to be made on one single character
         -   **\[CON\]** ...but you do not gain vision of your target.
 -   Grants the Knives of Eylis talent "Voideye".
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
-    -   This ability has a 10 minute cooldown. _The cooldown automatically ends when a bounty is completed._
+    -   This ability has a 10-minute cooldown. _The cooldown automatically ends when a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO\]** You spawn with Whaler Initiate Armor.
 -   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which connects you to players who have yet to establish a rapport with the Knives.
@@ -114,7 +116,7 @@ Also all of the kills need to be made on one single character
 
 ### **Authority Origin**
 
--   An Authority based origin. Not much is known about it other than you being able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
+-   An Authority based origin. Not much is known about it other than you are being able to rise the ranks of the Authority with it. (Confirmed by Ragoozer and many devs)
 
 The following is speculation:
 
@@ -122,7 +124,7 @@ The following is speculation:
 -   Similar to how Voidwalker may have its own origin oath in a future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base. (In case the origin becomes before the Central Luminant)
 -   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae.
--   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with npcs, having the adret race (and possibly canor due to being a big part of the authority in the past.) being more liked by Authority NPC's, but this will likely doesnt matter if you rank up to Commander.
+-   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with npcs, having the adret race (and possibly canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely doesnt matter if you rank up to Commander.
 
 ## Trivia
 
@@ -130,7 +132,7 @@ The following is speculation:
     -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tacky mobs to progress unless you're down to fight an enforcer for 10 minutes in order to leave instead.
     -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
-    -   As of June 26th 2023, Deepbounds have exclusive access to all shrines from a secret passageway
+    -   As of June 26th, 2023, Deepbounds have exclusive access to all shrines from a secret passageway.
 -   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Mintrysa, you might as well go Stealth unless you can actually see the outline of your target.
 -   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)

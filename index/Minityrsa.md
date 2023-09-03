@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 71551
+revid: 72027
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Etrean Luminant]
@@ -62,11 +62,11 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   Eyeglasses
 -   Polarized Eyeglasses
 -   Golden Cape
--   Flameguard Pauldrons
--   Glassdancer Wraps
--   Brilliant Boots
--   Khan Boots
--   Ranger's Boots
+-   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
+-   [Glassdancer Wraps](Glassdancer_Wraps.md)
+-   [Brilliant Boots](Brilliant_Boots.md)
+-   [Khan Boots](Legion_Boots.md)
+-   [Ranger's Boots](<Ranger's_Boots.md>)
 
  | • [Vigil Longsword](Vigil_Longsword.md) (Uncommon)
 

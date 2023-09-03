@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 71959
+revid: 72014
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -401,7 +401,7 @@ _An arc of ice._
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to become wider.
 -   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
-    -   Applying a lens will have a chance of nullifying the Cloudstones effect, ex: **3 cloudstones + 3 perfect lenses = 4 arcs**
+    -   ̶A̶p̶p̶l̶y̶i̶n̶g̶ ̶a̶ ̶l̶e̶n̶s̶ ̶w̶i̶l̶l̶ ̶h̶a̶v̶e̶ ̶a̶ ̶c̶h̶a̶n̶c̶e̶ ̶o̶f̶ ̶n̶u̶l̶l̶i̶f̶y̶i̶n̶g̶ ̶t̶h̶e̶ ̶C̶l̶o̶u̶d̶s̶t̶o̶n̶e̶s̶ ̶e̶f̶f̶e̶c̶t̶,̶ ̶e̶x̶:̶ ̶3̶ ̶c̶l̶o̶u̶d̶s̶t̶o̶n̶e̶s̶ ̶+̶ ̶3̶ ̶p̶e̶r̶f̶e̶c̶t̶ ̶l̶e̶n̶s̶e̶s̶ ̶=̶ ̶4̶ ̶a̶r̶c̶s̶ (Cloudstones no longer increase arc amount)
 
  |
 | [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 

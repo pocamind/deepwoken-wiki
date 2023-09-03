@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 71852
+revid: 72032
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -441,7 +441,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 5.1s | Ignition Deep Drill Loop |
 |  | 2.1s | Wind Noise |
 |  | 1.9s | [Chime of Conflict](Chime_of_Conflict.md) Activation |
-|  | 11.0s | Drowning to [The Depths](The_Depths.md) |
+|  | 11.0s | Drowning to [The Depths](The_Depths.md) / Call of the Deep |
 |  | 1.7s | Dashing in [The Depths](The_Depths.md) |
 |  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
