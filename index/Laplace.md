@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 69398
+revid: 71987
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -13,7 +13,7 @@ categories: [World, NPCs]
 ― Enchant traders on 9/19/22
 
   
-Laplace Diri is a Ganymede located in [Greathive Aratel](Greathive_Aratel.md) in the R&D section.
+Laplace Diri is a Ganymede located in [Greathive Aratel](Greathive_Aratel.md) in the R&D section (2nd floor, on the right).
 
 Template:Areainfobox
 

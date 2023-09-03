@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 71865
+revid: 71986
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -320,11 +320,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. If the user has Bullets in their inventory, they will deal 20% PEN. Bullets fired by guns are able to proc most enchants, excluding Nemesis.
-
-Each gun has a Main Hand and Off Hand version. To use your off-hand gun, press M2.
-
-As of the update on 3/12/22, wielding offhand guns with a primary weapon that isn't a gun will reduce the offhand damage by 20%. Guns used to consume bullets and Ether bullets before the 24th of October 2022, where the consumption was removed along with their associated Talents (Ether Bullets, Concentrated Reload).
+Guns are a ranged weapon designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using 1 gun, giving you a pistol whip and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots with each guns. Guns can shoot bullets if the user have Bullets in the inventory, which can add ranged capabilities as well as giving a +20% PEN bonus. Guns can also be used by themself in your off hand slot to complement your main hand weapon. However, doing this with a non Light weapon in your main hand incur a -20% damage penalty.
 
 <table>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: "Yun'Shul, Keeper of Hearts"
-revid: 69369
+revid: 71988
 source: https://deepwoken.fandom.com/wiki/Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 71267
+revid: 71997
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -37,6 +37,7 @@ A Celtor at the guild banner near Imel
     -   Near the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), closer to the entrance of [Lower Erisia](Lower_Erisia.md).
     -   Right outside the [Birdcage](Oath%253A_Jetstriker.md).
     -   Atop one of the towers at [Towerstruck](Towerstruck_Lands.md).
+    -   Right next to a statue at Statue Isle ([The Etrean Sea](The_Etrean_Sea.md))
 
 -   A banner outside [The Birdcage](The_Birdcage.md)
     

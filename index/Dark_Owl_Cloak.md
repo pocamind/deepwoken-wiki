@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 69772
+revid: 71990
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -24,4 +24,8 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Dark Owl CLoak is an Equipment Armor in the Arms category_._ Equipping this item will give you the talent Disbelief, as well as extra randomized stats based on the amount of pips. It can only be obtained as a rare drop from [Deep Owls](Deep_Owl.md)
+The Dark Owl Cloak is an Equipment Armor in the Arms category_._ Equipping this item will give you the talent Disbelief, as well as extra randomized stats based on the amount of pips. It can only be obtained as a rare drop from [Deep Owls](Deep_Owl.md)
+
+## Trivia
+
+This item is part of the Dark Owl series consisting of the [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and the [Dark Owl Cape](https://deepwoken.fandom.com/wiki/Capes?so=search#Dark_Owl_Cape_)

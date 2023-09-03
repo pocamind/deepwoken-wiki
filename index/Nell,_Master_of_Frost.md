@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 67252
+revid: 71994
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -51,3 +51,53 @@ Nell executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent while raising weapon before firmly bashing the opponent's face. |
+
+## Dialogue
+
+**\[Without Frostdraw, First Encounter\]**
+
+**"Can you really protect anything that you hold dear as you are now?"**
+
+**\[1\] -** What do you mean?
+
+**"You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?"**
+
+**\[1\] -** Yes, what would you have me do?
+
+**"Bring me 5 Frigid Prisms, Then we can continue"**
+
+End of Dialogue
+
+**\[Without Frostdraw, Second Encounter\]**
+
+**"Have you done what I asked?"**
+
+**\[1\] (Consumes 5 Frigid Prisms) -** Here.
+
+**\*They take the crystals and crush each of them into a glass vial, glittering dust falling in.\***
+
+**\[1\] -** What is that you're doing?
+
+**"The vial I gave you. You must drink it."**
+
+(These dialogues are unfinished)
+
+**\[With Frostdraw\]**
+
+**\*"Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?"**
+
+**\[1\] -** Yes, I have.
+
+**\[No Upgradeable mantras\]**
+
+**"The fire spits embers, content to burn..."**
+
+End of Dialogue
+
+(These dialogues are also unfinished)
+
+## Trivia
+
+-   She is one of the two Black Divers NPC in the overworld, the other being [Funke](Funke,_Master_of_Thunder.md).
+-   Her eyes are unique, having a dark blue sclera.
+-   She is the only Black Diver with [wrinkles](Age.md).
