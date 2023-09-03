@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 71251
+revid: 72045
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -16,7 +16,7 @@ Template:NPC name
 
 ## Description
 
-Chili is a Crow that appears in [Merchant Schooners](Ships_&_Sailing.md) spawned around [the Aratel Sea](The_Aratel_Sea.md) and [Etrean Sea](The_Etrean_Sea.md). At the bottom deck, he can sell a [Food](Food.md) item, a [Weapon](Weapons.md) of Uncommon to Common rarity, an [Armor](Equipment.md) piece, a random [Lore](Lore.md) [Book](Books.md), and a random utility.
+Chili is a [Tiran](Tiran.md) that appears in [Merchant Schooners](Ships_&_Sailing.md) spawned around [the Aratel Sea](The_Aratel_Sea.md) and [Etrean Sea](The_Etrean_Sea.md). At the bottom deck, he can sell a [Food](Food.md) item, a [Weapon](Weapons.md) of Uncommon to Common rarity, an [Armor](Equipment.md) piece, a random [Lore](Lore.md) [Book](Books.md), and a random utility.
 
 ## Shop Offers
 
@@ -49,6 +49,7 @@ The prices of Chili's items may vary from price to price.
     -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
     -   [Iron Birch](Iron_Birch.md)
     -   [Krulian Knife](Krulian_Knife.md)
+    -   [Katana](Katana.md)
     -   [Markor's Inheritor](<Markor's_Inheritor.md>)
     -   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>)
     -   [Pale Morning](Pale_Morning.md)
