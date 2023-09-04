@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 72045
+revid: 72054
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -70,7 +70,6 @@ The prices of Chili's items may vary from price to price.
     -   [Bloodfeather Cowl](Bloodfeather_Cowl.md)
     -   [Brigand's Cloak](<Brigand's_Cloak.md>)
     -   Curseblood Pendant
-    -   Scarf
     -   [Delver's Duster](<Delver's_Duster.md>)
     -   Duelist's Mask
     -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
@@ -86,6 +85,7 @@ The prices of Chili's items may vary from price to price.
     -   [Redsteel Pauldrons](Redsteel_Pauldrons.md)
     -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
     -   [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
+    -   Scarf
     -   [Silver Sabatons](Silver_Sabatons.md)
     -   [Smith's Goggles](<Smith's_Goggles.md>)
     -   [Star Boots](Star_Boots.md)
@@ -110,5 +110,6 @@ Chili's Ship
 -   It is possible for there to not be any Armor.
 -   Chili always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
 -   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning several Cloaked Assassins.
-    
-    A merchant ship being raided by Assassins.
+    -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have Chili present.
+        
+        A merchant ship being raided by Assassins.

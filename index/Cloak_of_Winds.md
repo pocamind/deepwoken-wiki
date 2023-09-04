@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 59404
+revid: 72074
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -40,3 +40,4 @@ This Outfit's Schematic can be found in:
 -   This outfit is usable as an essential factor of a katana build, allowing the Katana to deal 30 damage with 75 Medium which is only 2 points of damage off from Shattered Katana. This leaves you with 25 stat points that you can spend on other attributes you see fit. The main downside of doing this is that Cloak of Winds provides mediocre resistance and Katana is still a weak weapon against higher level players especially without the 30% penetration that [Shattered Katana](Shattered_Katana.md) has. This effectively makes the Cloak of Winds great mid-game but very limited end-game as your character will be pretty weak in high level PVP without compensating well or upgrading their weapon and outfit.
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md).
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
+-   The old Cloak of Winds design appears to be a reference to the [White Church Hunter set](https://bloodborne.wiki.fextralife.com/White+Church+Set) from Bloodborne.

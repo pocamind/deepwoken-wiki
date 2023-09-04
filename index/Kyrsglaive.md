@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 70684
+revid: 72069
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -36,4 +36,3 @@ Has a 360° hitbox
 ## Trivia
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md))
--   While the stats are inferior to the [Serrated Warspear](Serrated_Warspear.md) and True Seraph's Spear, it is much easier to obtain a Kyrsglaive with 3 stars compared to the other two.

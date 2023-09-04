@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 71937
+revid: 72086
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -63,8 +63,8 @@ There are two variants that enchantments come in:
   <font>Chilling<div></div></font></center></td>
   <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown).<br>
   If the user has Crystallization, apply an ice crystal. Can only apply a total of 1 crystal. Cannot apply any more crystals until the crystals break.<br>
-  In PvE this instead applies a Chill effect (when without crystal). The Chill effect applies a small damage increase even without the usage of any talents.<br>
-  Chilling procs nullifying clarity on every other hit.</p></div></td>
+  In PvE this instead applies a Chill effect (only without crystal). This causes a second hit to happen, the hit does 5% the PvE scaled damage, but is then scaled with PvE again.<br>
+  In PvE Nullifying Clarity procs every hit.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
@@ -80,6 +80,7 @@ There are two variants that enchantments come in:
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
   times they explode, dealing 1.2x weapon damage to them and others around beside the user.<br>
+  The Detonation does not scale with PvE.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
@@ -108,6 +109,7 @@ There are two variants that enchantments come in:
   <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (1.20x damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)<br>
+  Heroism does not scale with PvE.<br>
   </p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>
@@ -551,23 +553,6 @@ On proc: Summon the Umbral Knight to slash your enemy from behind, dealing addit
  | 
 
 Dark clone with red fog surrounding it spawned in a barely visible red circle.
-
- |
-| 
-
-File:Old sear .png
-
-  
-(OLD) Sear
-
- | 
-
-**August 2nd, 2022**  
-On hit: Would steal thirst, essentially a worse version of Gluttony
-
- | 
-
-Yellow fog.
 
  |
 | 

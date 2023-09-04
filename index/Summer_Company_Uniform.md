@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 66515
+revid: 72070
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits]
@@ -37,3 +37,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Innate talent is very nice if you aren't looking to waste a Talent hand on Armor Piercing, but is mostly overshadowed by the October 17, 2022 update that adds 20% PEN to your guns if you have bullets in your inventory.
+-   The Summer Company Uniform is a clear reference to the [Crowfeather Garb](https://bloodborne.wiki.fextralife.com/Crowfeather+Garb) from Bloodborne, albeit without the black cloak.
