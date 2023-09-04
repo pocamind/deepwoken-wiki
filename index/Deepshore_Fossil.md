@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 71940
+revid: 72129
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Floor 1, Layer 2]
@@ -22,7 +22,11 @@ It is obtained from [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of
 
 You will be able to tell her this once you meet the following requirements ( do not necessarily have to be all done at the same time) :
 
--   Have found the three diver journals spread across the map: The first in the left wall of the Nest Corridor, the second on a rock surrounded by Carbuncles somewhat near the Union Hook to Pilgrim's Respite, and the third on the body of a deceased Diver immediately off the bridge and to the left once entering the Ethironal Shrine Sanctuary. **Must Find the Journals yourself**
+-   Have obtained Diver Journal 1, 2 and 3 from the corpses in layer 2:
+    -   The first in the left wall of the Nest Corridor
+    -   The second on a rock surrounded by Carbuncles somewhat near the Union Hook to Pilgrim's Respite
+    -   The third on the body of a deceased Diver immediately off the bridge and to the left once entering the Ethironal Shrine Sanctuary.
+        -   Note that the journal items themself are not necessary, what matters is if you picked them up from the corpse.
 -   Have done the "galewax quest", which gives you entry to an unnamed place that has 3 chests that offer L2-exclusive weapons and [enchanted stones](Enchant_Stone.md);
 -   Had beaten chaser at least once.
 -   Have 2 specific talents obtained exclusively on layer 2;

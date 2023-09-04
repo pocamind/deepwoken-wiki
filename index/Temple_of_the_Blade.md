@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 72118
+revid: 72133
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -61,7 +61,6 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 -   Players can find Ankle Weights (AGI), Dumbbell (STR), Training Vest (FTD) and Prayer Beads (WLP) here for each
 
 -   A shortcut to the Training hall and Blacksmith Area can be found on the stairway leading to the Temple of the Blade.
-    
 
 ## Quests
 

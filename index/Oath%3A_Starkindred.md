@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 72123
+revid: 72125
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -77,3 +77,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   Modifying Fire Blade with a reversal spark will make it always do the non-wings variant.
 -   Wing Variant Fire Blade is probably a reference to "Mugetsu" in Bleach.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
+-   Dyeing your hair as a Starkindred will also dye your wings to the same colour.
+    -   Dyeing your hair with your wings active will not change their colour until they disappear and are reactivated.
