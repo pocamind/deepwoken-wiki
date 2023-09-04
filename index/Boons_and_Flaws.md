@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 70644
+revid: 72093
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -30,7 +30,7 @@ Does not generate points over the total maximum, and instead, takes them away fr
 | Survivalist | "You are more resistant to environmental effects." | Grants immunity to acid rain. Parasites also accumulate on you ~33% slower. | 1 |
 | Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
 | Scrapper | "You gain an extra card burn every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to gain an extra ace. | 1 |
-| Packmule | "You have a much higher max. carry load." | Carry load is increased by 50, item stack limits are increased by 25% (rounded). | 1 |
+| Packmule | "You have a much higher max. carry load." | Carry load is increased by 50, item stack limits are increased by 25% (rounded), and food max quantity is slightly increased. | 1 |
 | Sly | "You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes." | Reduces amount of negative rep gained.
 
 Unlocked from paying off your negative reputation with any faction.
@@ -71,7 +71,7 @@ Paying to restore reputation only resets up to the default, low reputation.
 To get this flaw added to the flaw selection screen, grip a reputable member from any factions eg. Etrean guard.
 
  | 1 |
-| Manic | "All sanity gained from attacks is heavily amplified." | All incoming insanity damage is increased greatly. | 1 |
+| Manic | "All sanity gained from attacks is heavily amplified." | All incoming insanity and insanity damage is increased greatly. | 1 |
 | Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased to ~150-200% | 1 |
 | Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
 

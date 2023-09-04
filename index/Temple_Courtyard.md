@@ -1,6 +1,6 @@
 ---
 title: Temple Courtyard
-revid: 52976
+revid: 72100
 source: https://deepwoken.fandom.com/wiki/Temple_Courtyard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -16,7 +16,9 @@ LocationL Temple Courtyard LocationR
 
 ## Overview
 
-File:TempleCourt.png
+File:Temple Courtyard.jpg
+
+_**Temple Courtyard guarded by an ever so vigilant watcher.**_
 
 The Temple Courtyard is a small courtyard that leads up to the Temple Of The Forgotten Flame. It is located above the Bandit Camp. The area is similar to that of the ruins.
 
