@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 69383
+revid: 72121
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -51,4 +51,5 @@ Umbral Obsidian can drop from certain monsters, chests, and enemies that use the
 ## Notes
 
 -   Can be used to make an Umbral Flint that has 150 uses by combining an Umbral Obsidian and a Coal.
+-   Can be consumed so be careful when holding it.
 -   Roughly 10% chance to drop from Megalodaunts and Lionfishes.

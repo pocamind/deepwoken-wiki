@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 72102
+revid: 72120
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -714,7 +714,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Empath
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
-    -   Guildmates or people who are in a Vow of Mastery with you take less damage from you and deal less damage to you.
+    -   Guildmates, people who are in a Vow of Mastery or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
     -   Prerequisities: 35 Charisma, Friends in High Places
 -   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies for 5 seconds when you hit them.

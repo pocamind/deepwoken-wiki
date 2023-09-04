@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 71577
+revid: 72116
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -193,10 +193,11 @@ _Grab your opponent and toss them with the power of gale._
  |  | Caster grabs opponent and proceeds to spin them in 360 degrees before tossing the opponent.
 
 -   Deals good-high damage.
--   Forcible Block Break
+-   Forcible Block Break (Only When Upgraded To Level 5)
 -   Applies knockback.
     -   Needs more testing.
 -   Hyper-armor
+-   Can be upgraded with the "_Skull Crusher_" Talent
 
  |  |
 |  | 

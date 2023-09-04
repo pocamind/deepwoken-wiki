@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 71500
+revid: 72115
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -15,6 +15,8 @@ TERRITORY OF Etrea
 A solemn sanctuary carved in stone, where warriors hone the dancing steps of war.
 
   
+
+File:Isle of vigils mainland.jpg
 
 **Isle of Vigils** is a starting location in _Deepwoken_. It is a settlement found in the [Etrean Sea](The_Etrean_Sea.md).
 

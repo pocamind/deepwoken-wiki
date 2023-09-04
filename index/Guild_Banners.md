@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 71997
+revid: 72124
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,7 +33,6 @@ A Celtor at the guild banner near Imel
     -   There is one outside of [Erisor's Church](<Erisor's_Church.md>) in [Erisia](Erisia.md).
     -   One in the ruins next to the Ministry bandit camp above [Outpost Antumbra](Outpost_Antumbra.md).
     -   One at the top of the ice waterfall in [Minityrsa](Minityrsa.md), near the [Rogue Construct](Hive_Construct.md) and the [Jetstriker orb.](Oath%253A_Jetstriker.md)
-    -   One near Imel (the Ministry NPC by the statues in the highway).
     -   Near the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), closer to the entrance of [Lower Erisia](Lower_Erisia.md).
     -   Right outside the [Birdcage](Oath%253A_Jetstriker.md).
     -   Atop one of the towers at [Towerstruck](Towerstruck_Lands.md).
