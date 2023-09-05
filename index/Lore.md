@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 71976
+revid: 72169
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -315,22 +315,17 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   A Celestial.
 -   A religious figure worshipped by some Capras. (Ku Variant)
--   Granted the ability to the Capras who woshipped her to aid people in their wounds. (Capra race ability for Ku variant)
+-   Perhaps granted the ability to the Capras who woshipped her to aid people in their wounds. (Capra race ability for Ku variant)
 -   A church where Ku is worshipped is located in the Songseeker wilds (Derelict Highchurch), whoever the Songseekers apparently took over the church kicking out Ezra, the one in charge of the church and forcing him to leave to a small tower nearby.
--   It is **Suspected** that the Celestial that is located in the Derelict Highchurch is actually Mother Ku, due to the church originally made to worshipp said Celestial.
--   **Suspected** to be in a permant state of unconsciousness and torture.
--   Compared to other Celestials such as Navae or Alsin, Ku is not a very strong Celestial.
--   It is suspected that the reason of why she is in eternal torture is because of the war that happened between the Depths and the Celestials, probably trying to flee the Celestial Cities but being punished by the Depths before doing so.
--   It is unkown if this Celestial is related to Jurik and Nemit, the other Celestials that aid the Capras.
+-   It is unknown if this Celestial is related to Jurik and Nemit, the other Celestials that aid the Capras.
 
 ### **Jurik, the Moonseye**
 
 -   A Celestial.
 -   A religious figure worshipped by some Capras. (Jurik Variant)
 -   **It is Highly suspected but not confirmed,** that this Celestial created the Moonseye, due to the Moonseye being a Celestial mark.
--   Granted the ability to the Capras that worshipped him, the ability to make someones mind will greatly stronger for a short duration. (Capra insanity mark buff)
--   The state and location of this Celestial is unkown, however it is suspected to be alive due to the Jurik Capras still having his mark.
--   His relation to Ku and Nemit is unkown.
+-   Perhaps granted the ability to the Capras that worshipped him, the ability to make someones mind will greatly stronger for a short duration. (Capra insanity mark buff)
+-   The state and location of this Celestial is unknown, however it is suspected to be alive due to the Jurik Capras still having his mark.
 -   The strength of this Celestial is unkown, however if this Celestial created the moonseye, it is suspected that he may be a strong Celestial.
 -   Suspected to have powers related to Sanity/Insanity.
 
@@ -339,16 +334,14 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   A Celestial.
 -   A religious figure worshipped by some Capras. (Nemit Variant)
 -   A Celestial that is suspected to be worshipped in terms of farming and food, since its ability granted to the Capras aids in food and water, and also the weapon known as the **Nemit's Sickle,** is basically a farming tool.
--   Granted the ability to the Capras that worshipped him, the ability to makes someones stomach more full of water and food. (Capras mark food buff)
--   His location and state is unkown, but suspected to be alive due to the Nemit Capras still having his mark.
--   His relation to Jurik and Ku is unkown.
+-   Perhaps granted the ability to the Capras that worshipped him, the ability to makes someones stomach more full of water and food. (Capras mark food buff)
+-   His location and state is unknown, but suspected to be alive due to the Nemit Capras still having his mark.
 -   Suspected to have powers related to food and farming.
 
 ### **Alsin**
 
 -   Religious figure and Celestial.
 -   Worshiped by Polis, Alastir and Pathfinders around the world.
--   A fragment became Nilsa.
 
 ### **Navae**
 
@@ -356,14 +349,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Worshiped by the Navaen Nomads.
 -   Pioneer of Frostdraw.
 -   Possibly a more eldritch being.
--   Exists on an island moving through the world, independent of the Voidsea.
--   One of the few Celestials that didnt fleed during the fight against the Depths.
-
-### **Nilsa**
-
--   Celestial
--   Fragment of Alsin.
--   Possibly not canon.  
+-   Exists on an island moving through the world, independent of the Voidsea.  
     
 
 ### **Yun'shul**
@@ -423,7 +409,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   Were the drowned gods to fully even gain consciousness, existence would end.
 -   Becoming one is the ultimate goal of the Ministry.
--   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the Lightborn King in layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborn lost when the Celestials fled.
+-   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the Lightborn King in Layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborn lost when the Celestials fled.
 -   It is most likely that they have a great relation with Krulians, similar to how Celestials are to Lightborns.
 -   There is not a Drowned God for each attunement.
 -   Two theories to what they are have been remarked as 'close:'
@@ -629,7 +615,7 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 ##### The City of the Drowned (The Depths, First Layer)
 
-**Lore Sources:** _Area descriptions, Gild, Andrea, Arch\_Mage (Discord)_
+**Lore Sources:** _Area descriptions, Gild, Andrea_
 
 _"The sunken remnants of a lost civilization give little respite to the transitory beings that pass through." - City of the Drowned Flavour Text_
 
@@ -1255,7 +1241,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 
 ### [Krulians](Krulian.md)
 
-**Lore Sources:** _Ferryman, Arch\_Mage, Ragoozer_
+**Lore Sources:** _Ferryman_
 
 -   Krulians are shapeshifters, created from amalgamations of souls, and are servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
 -   The [Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
@@ -1281,19 +1267,18 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 
 _"The stars call you back..."_
 
-**Lore Sources:** _Celestial Telescope (Greathive Aratel)_
+**Lore Sources:** _Celestial Telescope (Greathive Aratel), Kaide_
 
 -   The People of the Stars, so to speak. They are not to be confused with Lightborns, their descendants.
 -   Celestials came to the Luminants from the stars when the Canticlysm descended upon the land of the Old World.
     -   Some people misinterpreted "Drawn from the Heavens by the Song", referring this quote to the Canticlysm; but it was actually the Celestials that was being referred to.
--   The City of Celestials hang above a black sea, presumably space. The ivory and pearl structures hang over like chains.
--   Their civilization has undergone a crisis of ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
+-   The Celestial cities hang below a black sea, likened to the night sky. The ivory and pearl structures hang over like chains.
+-   Their civilization has fallen to ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
 -   Known Celestials include Navae and Alsin, who have become religious figures in modern times.
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
--   Some are as powerful as Drowned Gods, but they are for the most part eclipsed by them.
 -   Eating parts of them turns you into a Starkindred.
--   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features, while Nilsa is entirely humanoid with a cracked face and blonde hair.
+-   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features.
 
 ### Primal Vesperians
 

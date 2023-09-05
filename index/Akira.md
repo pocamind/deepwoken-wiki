@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 69468
+revid: 72160
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -25,7 +25,7 @@ He has a Katana behind his back and a [Corrupted Bell](Resonance.md#corrupted-re
 
 His [Bell](Resonance.md) (Corrupted Top-Pop) allows him to instantaneously grip any entity he wishes at the cost of his lifespan and power. However, the stronger the target is, the more power and lifespan he will have to sacrifice to kill them.
 
-Players who have 100 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large reprocussions, and thus retreats to another area.
+Players who have 100 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.
 
 Despite him lacking in the experience department due to his young age, he's one of the strongest Black Divers, surpassing Klaris, Chaser and the strongest players.
 
@@ -133,7 +133,8 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 ## Trivia
 
 -   His [bell](Resonance.md) is corrupted.
--   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons something that could be called an Ice Wisp above him, before it fires a laser across the ground in front of him, creating a line.
+-   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons a laser across the ground in front of him, creating a line of frost.
+    -   This is similar in function to the mantra Frost Wisp, but neither a wisp is generated, nor does it function the same way, firing an aimable laser, rather than one straight down.
 -   His sword is the only instance of a Katana being strapped to the back rather than sheathed.
 -   Akiras hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
@@ -141,3 +142,4 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   Akira's bell flashes purple when he kills the Ignition Union officers.
 -   Akira has an unobtainable necklace, it's hard to see with the current image of him
 -   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace
+-   If you are a Deepbound, Akira will still talk about you wanting to join The Divers.

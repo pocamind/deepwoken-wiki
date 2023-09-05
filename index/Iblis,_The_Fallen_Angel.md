@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 72051
+revid: 72174
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,11 +12,8 @@ categories: [Monsters]
 
 ― Iblis
 
-Template:Creature Info Box v2
-
-Iblis, The Fallen Angel, is a powerful angel located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md). It is used to obtain [Starkindred](Oath%253A_Starkindred.md), uses an alternate [Divine Longspear](Crazy_Slots.md), and is an elemental angel of fire. It bears a red [Hivelord Mask](Hivelord_Mask.md).
+Template:Creature Info Box v2 Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md), uses an alternate [Divine Longspear](Crazy_Slots.md), and is a Flamecharmer. He bears a red [Hivelord Mask](Hivelord_Mask.md).
 
 ## Trivia
 
 -   In Islam, Iblis was a Djinn (basically a spirit) that was ascended to the rank of an angel for his good deeds. Later on, for believing he was superior to Adam and refusing to accept Adam as Allah's new creation due to his superiority complex, he was cast out of the heavens and vowed to bring all of mankind to hell.
--   Iblis respawns shortly after dying.
