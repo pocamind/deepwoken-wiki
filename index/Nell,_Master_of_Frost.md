@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 71994
+revid: 72144
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -98,6 +98,6 @@ End of Dialogue
 
 ## Trivia
 
--   She is one of the two Black Divers NPC in the overworld, the other being [Funke](Funke,_Master_of_Thunder.md).
+-   Both she and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). This implies they could be Black Divers, though they could just be wearing the outfit, much like other players.
+    -   If they are indeed Divers, this would make she and Funke the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
 -   Her eyes are unique, having a dark blue sclera.
--   She is the only Black Diver with [wrinkles](Age.md).

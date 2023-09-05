@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 70943
+revid: 72150
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -48,7 +48,7 @@ Afterwards, once you obtain the commendation, you must go to [The Viper's Jaw](<
 
   
 
-## Notes & Trivia
+## Trivia
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) uses this fist style in his boss fight.
 -   If you have [Way of Navae](Way_of_Navae.md) and **Legion Kata** you can switch between them quickly by pressing Y.

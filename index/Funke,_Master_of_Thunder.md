@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 67254
+revid: 72145
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -49,5 +49,8 @@ Funke executes his opponent after knocking them:
 
 ## Trivia
 
+-   Both he and [Nell](Nell,_Master_of_Frost.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). This implies they could be Black Divers, though they could just be wearing the outfit, much like other players.
+    -   If they are indeed Divers, this would make he and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
 -   Funke is the German work for "spark".
 -   He does not wield the [Stormseye](Stormseye.md), despite both being at Summer Isle and it being a Thundercall based weapon.
+    -   This is most likely due to the laziness of the Developers, as the Stormseye was added after his Enemy variant was.

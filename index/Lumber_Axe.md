@@ -1,6 +1,6 @@
 ---
 title: Lumber Axe
-revid: 69871
+revid: 72146
 source: https://deepwoken.fandom.com/wiki/Lumber_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities, Items]
@@ -16,9 +16,9 @@ categories: [Utilities, Items]
 
 The Lumber Axe is useful to obtain Wood. Wood is often used for Campfire Pits.
 
-There are many ways to obtain the axe.
+There are many ways to obtain the axe:
 
--   By talking to [an NPC who is either in Etris and Isle of Vigils.](https://deepwoken.fandom.com/wiki/Quests#Coexisting_Quests%7C)
+-   By talking to [an NPC who is either in Etris and Isle of Vigils](https://deepwoken.fandom.com/wiki/Quests#Coexisting_Quests%7C).
 -   Buying it for 3 Notes at:
     -   Etris' General Store
     -   [Etris Docks](Etris_Docks.md)
@@ -28,3 +28,4 @@ There are many ways to obtain the axe.
 
 -   Buying it for 3 notes at the Bandit Village
 -   Crafting it using 2 Logs and 2 Iron at a crafting table.
+-   Purchasing one from [Chili](Travelling_Merchant.md).
