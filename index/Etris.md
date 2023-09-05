@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 72098
+revid: 72193
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -120,7 +120,7 @@ The Etris blacksmith house.
 #### Alchemist's Lodge
 
 -   Nell, a [Spelltrainer](Attunement_Trainers.md) that can upgrade [Frostdraw](Frostdraw.md) Mantras can be found here.
--   A functional cauldron can be found here.
+-   A functional [cauldron](Cauldron.md) can be found here.
 
 #### Miscellaneous
 

@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 72166
+revid: 72197
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -65,4 +65,4 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
 -   Race rarity does not make the race inherently better- it only means that there's less of your kind in a typical server.
 -   Players can come across other players tagged with familial relations if they are of the same race, such as being one's sibling, cousin, twin, parent, or any of the like.
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
--   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.
+-   During the _HEAVY FISHLIFTING_ update, every player was turned into a FISHLIFTER, each race was given their own HEAVY FISHLIFTING YEAAAAAAAAAAA version but still kept some characteristics.

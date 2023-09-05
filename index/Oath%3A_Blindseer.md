@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 70933
+revid: 72194
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -43,7 +43,9 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 ## Abilities
 
 -   **Mindsoothe - Support Mantra**
-    -   Heal nearby allies for 60 HP at the cost of your Sanity (allies also being people in the same guild)(naturally the cost is only induced if someone is healed).
+    -   Heal nearby allies for 60 HP at the cost of your Sanity
+        -   Allies include Guildmates, and those with whom you share a Vow of Mastery or Vow of Allegience.
+        -   The sanity cost is only deducted on a succesful heal.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
@@ -52,11 +54,11 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **Tranquil Circle - Combat Mantra**
     -   Disables mantras from being used in its radius.
         -   This affects everybody, including the caster and their allies.
-    -   Adds 10% Monster Armor to players standing in its radius.
+        -   Bosses are immune to the silencing aspect.
     -   While inside the circle, gain total immunity to mantra damage.
+    -   Adds 10% Monster Armor to players standing in its radius.
     -   About the size of a medium Sacred field roll.
     -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle much smaller but makes it follow the user.
-    -   Doesn't proc talents like Charged Return or Nullifying Clarity.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
@@ -74,6 +76,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **All-Seeing Eye - Passive**
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
+        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusionary Servant's casting, Beast Burrow and Portal.
     -   Doesn't work on the [Tacet Murmur](https://deepwoken.fandom.com/wiki/Murmur).
     -   Obtaining: 4 Pathfinders helped in the Depth Trial (must be alive)
 
