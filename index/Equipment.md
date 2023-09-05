@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 71049
+revid: 72176
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -1647,6 +1647,7 @@ Grants a random buff.
 Chests from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Canticlysm Pendant.png | 

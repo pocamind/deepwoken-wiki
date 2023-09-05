@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 72130
+revid: 72175
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1382,9 +1382,9 @@ _**"I often attack others."**_
         -   You do not regen sanity when something is actively draining it, like being in The Depths.
     -   Prerequisite: 5 Willpower
 
--   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. Allies that grip enemies near you recover Sanity (+3 Sanity)
+-   Conquer your Fears \[Common Talent\] - Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity. (+3 Sanity)
     -   Recover sanity when killing monsters in The Depths.
-    -   Allies that grip a humanoid near you (either a player or a mob) gain sanity.
+    -   You regain Sanity when Allies grip a humanoid near you (either a player or a mob).
     -   Prerequisites: 10 Willpower, Breathing Exercise
 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
