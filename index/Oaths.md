@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 72199
+revid: 72237
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -24,17 +24,17 @@ Every character begins as a Pathfinder, otherwise known as one who has yet to sw
 
 **There are currently 11 obtainable Oaths in _Deepwoken_:**
 
--   [Fishwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
--   [Fishseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
+-   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
+-   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra \[No Stat Requirements\]
--   [Fishwalker:](Oath%253A_Dawnwalker.md) +2 Combat Mantra \[No Stat Requirements\]
--   [Fishtrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
--   [Fishstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra \[50 Agility\]
--   [Fishstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
--   [Fishlifter](Fishing.md): +2 Wildcard Mantra, +15% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
--   [Fishheart](Oath%253A_Silentheart.md): +10% Weapon Damage, +15% Mantra Resistance, +10 HP, +5 Posture \[Attunement-less, 75 Weapon, 40 Strength, 40 Agility/Charisma\]
--   [Fishkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
--   [Fishshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
+-   [Dawnwalker:](Oath%253A_Dawnwalker.md) +2 Combat Mantra \[No Stat Requirements\]
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
+-   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra \[50 Agility\]
+-   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
+-   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +15% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
+-   [Silentheart](Oath%253A_Silentheart.md): +10% Weapon Damage, +15% Mantra Resistance, +10 HP, +5 Posture \[Attunement-less, 75 Weapon, 40 Strength, 40 Agility/Charisma\]
+-   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
+-   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
 ## Lore Oaths
 

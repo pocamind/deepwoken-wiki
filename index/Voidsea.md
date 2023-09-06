@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 71556
+revid: 72224
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -13,6 +13,8 @@ LocationL Voidsea LocationR
 Here, the dying light collects like dregs at the precipice of a waterfall. The ultimate fate of all things becomes apparent.
 
   
+
+Warning: Entering ecological dead zone. Adding report to databank.
 
 **The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Luminants](Luminants.md).
 

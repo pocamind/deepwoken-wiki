@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 72104
+revid: 72230
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -105,7 +105,7 @@ There are 12 upgrades to purchase, and each can be purchased a maximum of 2 to 5
 </tr>
 <tr>
   <td><center><b>Resonance Rarity</b></center></td>
-  <td><center>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>.</center></td>
+  <td><center>Your increased chance to obtain Legendary or Corrupted <a href="Resonance.md">Resonance</a>. At Max, your chances are doubled.</center></td>
   <td><center>50 Echoes</center></td>
   <td><center>2</center></td>
   <td><center>10</center></td>

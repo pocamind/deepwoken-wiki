@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 70978
+revid: 72236
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -47,7 +47,9 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 ### **Obtainment:**
 
-**Murmur: Ardour** can be obtained by slaying the [Dread Serpent](Dread_Serpent.md). After killing the Dread Serpent, a purple orb will fly into you right before getting it.
+**Murmur: Ardour** can be obtained by defeating the [Dread Serpent](Dread_Serpent.md).
+
+After killing the [Dread Serpent](Dread_Serpent.md), a purple orb will fly into you right before getting it.
 
 ## Murmur: Tacet
 

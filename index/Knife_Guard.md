@@ -1,6 +1,6 @@
 ---
 title: Knife Guard
-revid: 67047
+revid: 72232
 source: https://deepwoken.fandom.com/wiki/Knife_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies]
@@ -38,3 +38,7 @@ A Knife Guard executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | Pins down opponent before slicing their throat with their blade. |
+
+## Trivia
+
+-   Due to them teleporting in, one could abuse this to spawn numerous guards at once, causing the server to crash.

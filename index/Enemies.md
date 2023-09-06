@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 71489
+revid: 72231
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -89,3 +89,8 @@ _Main Article - [Faction Ambushes](Faction_Ambushes.md)_
 **Attunement Trainers**
 
 **Miscellaneous**
+
+## Trivia
+
+-   All enemies are affected by their racial passives, though this doesn't really affect how they fight at all.
+    -   In contrast, they do not gain any passives from their [Outfits](Outfits.md) or [Equipment](Equipment.md).

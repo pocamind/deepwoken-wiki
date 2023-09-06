@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 72196
+revid: 72215
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -51,7 +51,7 @@ Ganymedes are a snail based race in Deepwoken that appear with black skin, abnor
 
   
 
-Aeons ago, a long Extinct species faced a cultural schizm in response to the rising tides, those talented few blessed with the art of LifeWeaving vowed to turn their backs to the tides and grow Great living hives above the ocean deep becoming what we in the modern world know as Vesperians. With the minor few embracing those coming waves, sinking to the deep and settling in as it's latest drowned inhabitants. these adventurous folk becoming our modern ganymedes. This specie is known due to their love for the heavy fishlifting culture.
+Aeons ago, a long Extinct species faced a cultural schizm in response to the rising tides, those talented few blessed with the art of LifeWeaving vowed to turn their backs to the tides and grow Great living hives above the ocean deep becoming what we in the modern world know as Vesperians. With the minor few embracing those coming waves, sinking to the deep and settling in as it's latest drowned inhabitants. these adventurous folk becoming our modern ganymedes.
 
 This fits with our current understanding of the lore and would explain why they are able to be cousins. Along with this, Vesperians possess Ganymede-like eyes under their masks. (For more, read [Ancestors of Ganymedes & Vesperians](Lore.md#ancestors-of-ganymedes-26-vesperians))
 
