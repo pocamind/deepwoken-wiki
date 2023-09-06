@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 72260
+revid: 72272
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -354,18 +354,18 @@ A Megalodaunt swimming.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree (on a slope that keeps the Sharko standing above your elevation) and let the sharko stand on top, which will make the sharko miss all it's attacks. It's very risky but it is profitable.
 -   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting Roblox matchmaking do its thing.
--   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioural similarities.
--   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have simillar attacks and characteristics, Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
+-   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
+-   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have similar attacks and characteristics Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
 -   In the Winter of 1291, an event (didn't) transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players (not) spamming this item and (not) spawning an unforeseen amount of Megalodaunts, which (never) proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
--   Some mantras that need to mark a person/object to be able to cast, such as Ice daggers or Shadow seekers, dont work on Megalodaunts for some unkown reason, so dont waste ether if it doesnt cast a mantra against a sharko.
+-   Some mantras that need to mark a person/object to be able to cast, such as Ice Daggers or Shadow Seekers, don't work on Megalodaunts for some unknown reason, so don't waste ether.
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
 -   According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met his fate being devoured by one of these specimens while studying them.
--   Running from an Alpha Megalodaunt isn't an option sadly, as his tacet move instantly teleports him towards his target if this one is too far from him. Making him infamous for killing freshie deepbounds with his tacet bite.
+-   Running from an Alpha Megalodaunt isn't an option sadly, as his tacet move instantly teleports him towards his target if this one is too far from him, making them infamous for killing freshie Deepbounds with their tacet bite.
 -   Most of the Megalodaunts are very hostile against Sand Knights and Golems so if you want to get a distraction get one of the Megalodaunt to target one of the main enemies it hates the most.
--   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
+-   Megalodaunt are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
 -   They probably inherited their swimming genes as they are most likely the descendants or evolution of a shark, which would explain it's name and it's diet and ability to swim, unlike most other monsters in the game.
--   Megalodaunts are friendly towards [Deep Owl](Deep_Owl.md), [Thresher](Thresher.md) as it is noticeable as they don't attack each other so therefore they can attack the player together.
+-   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md).
 -   The Megalodaunt's "Thousand Needles" attack hits everyone, regardless of their hostility to the non-attackers.
 -   Megalodaunts are likely carnivores, as seen from their teeth. They have claws to grab and rip into their prey. What contrasts this is that usually large predators don't use their legs for combat. Along with this, they also have eyes on the side of their heads. which could potentially be a sign that they are prey animals to something much bigger.
--   Megalodaunts supposedly live in packs, which is why they have an "Alpha" and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing within them.
+-   Megalodaunts supposedly live in packs, which is why they have an "Alpha" and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing among them.

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 72234
+revid: 72270
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -67,7 +67,7 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 | **Stomp** | Primadon raises its **right** foot and stomps once. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Trample** | Primadon performs 3 quick stomps with its **left** foot. | ◯ | ◯ | **\-** | (★★☆) |
 | **Punch** | Primadon winds up its **left** arm to deliver a powerful punch. Only used against players that are in front of him but not near his legs. | ◯ | ◯ | ◯ | (★☆☆) |
-| **watch your tongue mf** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting the player into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, Daze upon impact. | ✗ | ✗ | ◯ | (★★☆) |
+| **Kick** | Primadon winds back its **right** leg in order to deliver a devastating kick that is capable of _punting the player into the atmosphere_, inflicting strong damage, with a large chance of being followed up with fall damage. If close enough to a wall, Daze upon impact. | ✗ | ✗ | ◯ | (★★☆) |
 | **Grab** | Primadon crouches down, winds up its **right** arm, and grab a player in front of it to hurl it into the air. Deals 100~ damage.
 Only used if the player is in front of Primadon and not near his legs.
 

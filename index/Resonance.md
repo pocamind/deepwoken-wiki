@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 72177
+revid: 72268
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -67,7 +67,7 @@ _(From data of 100 rerolls, the calculated chance of getting a **Corrupted Reson
 
 **Legendary Resonances** are another category of **Resonances** which are _also_ obtained identically to **Normal Resonances** but are massively rarer than both **Normal** and **Corrupted Resonances**. The only **Legendary** **Resonances** in the game currently are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). **Legendary Resonances** can overlap with **Corrupted Resonances** to become a godlike _**Drowned Resonance**_, but this is one of the rarest occurrences possible.
 
-_(From data of 101 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card))_
+_(From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card))_
 
 ### Drowned Resonances
 

@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 71357
+revid: 72278
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -27,6 +27,8 @@ A Bounty Hunter arsenal consists of a either a [Trident Spear](Trident_Spear.md)
 \[[Trident Spear](Trident_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
  | ◯ | ✗ | (★☆☆) |
+| Rapid Punches | User unleashes a barrage of blows at their opponent. | ◯ | ◯ | (★★☆) |
+| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
 
 ## Finisher
 
