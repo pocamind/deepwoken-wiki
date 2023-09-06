@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 72169
+revid: 72265
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -150,6 +150,7 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
     -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that you're too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
+-   Akira stated that "Most of my field work doesnt concern this layer", possibly meaning that despite residing in the first layer for now, he travelled and worked in the Second Layer and maybe even deeper.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
 -   Despite being rude most of the time showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
@@ -158,7 +159,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Amorus Pleeksty**
 
-_"The Flame within, and the failure of man..." -One of Amorus Pleeksty books._
+_"The Eternal Flame, and the failure of man..." -One of Amorus Pleeksty books._
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.
 -   He and the First Prophet are the only known Deepwoken.
@@ -706,13 +707,13 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Territory:** _N/A, Meteor Isle_
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
--   **Alliances:** _Unknown/None_
+-   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, The Knives of Eylis, The Central Authority, The Kingdom of Etrea_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
     -   (Arch\_Mage) Navae is personified as a female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
         -   In the Etrean Luminant (East), The Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
-        -   Assumed to be a Celestial.
+        -   A Celestial.
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
 -   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight.
@@ -721,6 +722,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
 -   They have no clue what quarrel the Ministry holds with them, seeing them as just more marauders and bandits.
 -   They are the only people with a dedicated religion and hold a few qualities relating them to other religions in the real world.
+-   On Meteor Isle they are currently negotiating with the Hive of Aratel to get mutual benefit, the Hive getting the life of the Island while probably the Children of Navae get protection of the Hive from the Authority.
     
     Master of the way of Navae
     
@@ -740,6 +742,8 @@ An Etrean Guard, part of the Nation of Etrea
 -   They appear to have once been allies with [the Authority](The_Central_Authority.md), but some treaty was broken between them and are now at war.
 -   Inventors of the fist style 'Legion Kata.'
 -   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar.
+-   The 11th Legion came to the Eastern/Etrean Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
+-   The 11th Legion is suspected to be commanded by someone named Akilles, probably a centurion and leader of the 11th Legion (The 11th, not the hundred) due to him bringing the Legion to the East.
 
 Amara, a Member of The Legion.
 
@@ -763,12 +767,15 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of [Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." is he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
+    -   However with the recent creation of the Stormseye with Kyrsan Medallions wich were discovered by the player, it is stated that Rosen is alive and still creating new types of guns.
 -   [Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for Firearms in exchange for goods and the likings.
     -   (Arch\_Mage) Despite the fact that the Rifle Spear's description say that [Summer Company](The_Summer_Company.md) secrets are being stolen by [Authority](The_Central_Authority.md) they are still in business with them.
         -   Explained by Arch\_Mage, [Summer Company](The_Summer_Company.md) overlooked the [Authority](The_Central_Authority.md)'s actions under their noses and ignored them; presumably to avoid ruining their business relationship with them.
         -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legion.
 -   Although guns are sold in the Etrean Luminant, they are also obtainable from The Depths, which is an interesting implication as they can either be a clue to the whereabouts of Rosen or a consequence of the mass-manufacturing of the guns produced by Summer Company.
+-   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.
+-   They are technically "bussines rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant being Miners Landing.
 
 A Summer Company Member.
 
@@ -782,7 +789,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md)_
 -   **Alliances:** _[The Contractors](Oaths.md) (Neutral)_
--   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children of Navae, [The Summer Company](The_Summer_Company.md)_
+-   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children of Navae, [The Summer Company](The_Summer_Company.md), The Central Authority._
 -   **Lore Sources:**
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
@@ -810,7 +817,7 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Etris_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _The Ministry (Neutral) File:Eylisiconfactoin.png_
--   **Enemies:** _Unknown_
+-   **Enemies:** _The Central Authority, The Warmasters._
 -   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, Ragoozer (Discord)_
 
 -   The Contractors are a group of individuals that have taken an Oath, attaching puppet strings to their souls that tie them to Zi'eer.
@@ -854,7 +861,7 @@ A Dark Mage, located in Minityrsa.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the first and second layers of the depths.
     -   With their base in the second layer, they hope to find a way to help humanity thrive even with the tides.
--   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers.
+-   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there still strong Deepdelvers such as Colonel Hoffa.
 -   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote _"_
 
   
@@ -1278,7 +1285,6 @@ _"The stars call you back..."_
     -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
         -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   Eating parts of them turns you into a Starkindred.
--   Their appearances vary wildly, with the crucified Celestial being a large, mannequin-like figure with six arms and no features.
 
 ### Primal Vesperians
 

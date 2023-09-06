@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 71568
+revid: 72260
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -359,10 +359,13 @@ A Megalodaunt swimming.
 -   In the Winter of 1291, an event (didn't) transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players (not) spamming this item and (not) spawning an unforeseen amount of Megalodaunts, which (never) proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
 -   Some mantras that need to mark a person/object to be able to cast, such as Ice daggers or Shadow seekers, dont work on Megalodaunts for some unkown reason, so dont waste ether if it doesnt cast a mantra against a sharko.
--   Megalodaunts have eyes on the side of their heads, this could, potentially, be a sign that they are prey animals (high chance that i'm wrong though)
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
 -   According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met his fate being devoured by one of these specimens while studying them.
 -   Running from an Alpha Megalodaunt isn't an option sadly, as his tacet move instantly teleports him towards his target if this one is too far from him. Making him infamous for killing freshie deepbounds with his tacet bite.
 -   Most of the Megalodaunts are very hostile against Sand Knights and Golems so if you want to get a distraction get one of the Megalodaunt to target one of the main enemies it hates the most.
+-   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
+-   They probably inherited their swimming genes as they are most likely the descendants or evolution of a shark, which would explain it's name and it's diet and ability to swim, unlike most other monsters in the game.
 -   Megalodaunts are friendly towards [Deep Owl](Deep_Owl.md), [Thresher](Thresher.md) as it is noticeable as they don't attack each other so therefore they can attack the player together.
 -   The Megalodaunt's "Thousand Needles" attack hits everyone, regardless of their hostility to the non-attackers.
+-   Megalodaunts are likely carnivores, as seen from their teeth. They have claws to grab and rip into their prey. What contrasts this is that usually large predators don't use their legs for combat. Along with this, they also have eyes on the side of their heads. which could potentially be a sign that they are prey animals to something much bigger.
+-   Megalodaunts supposedly live in packs, which is why they have an "Alpha" and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing within them.
