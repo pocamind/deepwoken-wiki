@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 70574
+revid: 72254
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -116,6 +116,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Y'know I'm real good friends with The Guy. Bet your jealous.
 -   Yaaawn... Can you like, do something interesting?
 -   Yikes?
+-   You don't have to do anything anymore. Ever. Never Ever.
 -   You know I'm really good friends with The Guy right? I bet you're jealous.
 -   You want some congratulations?
 -   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
@@ -158,3 +159,4 @@ Remove Quotes
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
 -   This page has the most trivia of any page on the wiki currently.
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III)
+-   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.

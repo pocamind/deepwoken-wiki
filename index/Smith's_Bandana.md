@@ -1,6 +1,6 @@
 ---
 title: "Smith's Bandana"
-revid: 71811
+revid: 72255
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets, Items]
@@ -31,4 +31,4 @@ The Smith's Bandana is an Equipment in the "_Head_" category_._ Equipping this i
 ## Trivia
 
 -   The Smith's Bandana is part of the "Smith" set, along with the [Smith's Gloves](<Smith's_Gloves.md>) and [Smith's Goggles](<Smith's_Goggles.md>).
--   Worn by all Blacksmith NPCs, alongside the rest of the set.
+-   Worn by most Blacksmith NPCs, alongside the rest of the set.

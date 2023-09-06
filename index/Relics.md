@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 72088
+revid: 72250
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -25,7 +25,7 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
 |  | **Void Spire** - A reusable relic used to summon a [Voidzone](Voidzones.md) at the player's location. On use send people to the [Depths](The_Depths.md) when they are executed inside the radius of the relic. Players below Power 15 aren't affected at all, and can't summon a Void Spire themselves. Those who are unconscious (knocked) at the time of the Spire being summoned won't be affected by the Spire's effect. Void Spires cannot be summoned in towns. | Rare drop in chests obtained from [The Depths,](The_Depths.md) [Layer 2](Second_Layer.md) (including [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Scion of Ethiron](Scion_of_Ethiron.md)), Blacksmith Ores, [Primadon](Primadon,_Titan_of_the_East.md), [Chime of Conflict](Chime_of_Conflict.md), [Fishing](Fishing.md). |
 | 
 
- | **Smith's Alloy** - "A cruder form of the famed Pluripotent Alloy able to increase the Quality of your held weapon, or to reroll the buff on a 3-star weapon." | Dropped from killing bosses like a pluripotent alloy |
+ | **Smith's Alloy** - A cruder form of the famed Pluripotent Alloy able to increase the Quality of your held weapon, or to reroll the buff on a 3-star weapon. Adds a star to your weapon. | Found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), and |
 | 
 
  | **Idol of Yun'Shul** - "A ritual idol that can be used to redeem 1 wish from Yun'Shul wherever you are and without any cooldown. A resonance is not required to commune with Yun'Shul in this way, using the idol without a wish will still grant you the wish but will destroy the idol."
@@ -35,7 +35,7 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
 -   This idol gives you a wish and lets you use it on the spot.
 -   Note that to reroll your bell using the Idol of Yun'Shul, you must not have the [tarnished](Boons_and_Flaws.md) flaw.
 
- | Drops in chest from [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [Depths](First_Layer.md) |
+ | Drops in chest from [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) and [Depths](First_Layer.md) |
 
 ## Lore Relics
 
@@ -44,11 +44,9 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | Media | Description |
 | --- | --- |
 | 
-The Forge of Sin
-
  | **The Forge of Sin** - An undying purple flame of mysterious origin. Note that this is NOT to be confused with the Piece of the Forge of Sin, found around the map, which is an artifact and NOT a relic.
 
-**Lore** - A relic created by the Drowned God [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Lore.md) 11.4)
+**Lore** - A relic created by the Drowned God [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), and was originally kept within The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). and sought after by Etris' temporary king, The [Lord Regent](The_Lord_Regent.md). It is currently in the possession of [Duke Erisia](Duke_Ishamon_Erisia.md) and is theorized to have been used by the Ministry for the Great Drowning. (Read [Lore](Lore.md) 11.4)
 
  |
 | 

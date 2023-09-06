@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 70871
+revid: 72251
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Outfits]
@@ -36,4 +36,4 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   This outfit was introduced in the 8/18/23 update, alongside the [Scholar](Scholar.md) outfit.
--   Known for being worn by [Duke Erisia](Duke_Ishamon_Erisia.md).
+-   Known for being worn by [Duke Erisia](Duke_Ishamon_Erisia.md) and [Barbers](Barber.md).
