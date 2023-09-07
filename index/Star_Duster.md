@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 69814
+revid: 72361
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -30,4 +30,4 @@ The Star Duster is an equipment item under the Arms category. Equipping it grant
 
 ## Trivia
 
--   The Star Duster is part of the "Star" set; with the only other piece being the [Star Boots](Star_Boots.md).
+-   The Star Duster is one of 2 parts of the "Star" set, with the only other piece being the [Star Boots](Star_Boots.md).
