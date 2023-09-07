@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 69292
+revid: 72309
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -84,9 +84,10 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Astral
 
 \* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture
 
-### **Boons**
+### Passives
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights
 
 ## **Finisher**
 

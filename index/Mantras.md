@@ -1,16 +1,12 @@
 ---
 title: Mantras
-revid: 72239
+revid: 72332
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
 ---
 
 # Mantras
-
-“ Brady sucks ”
-
-― L bozo
 
 ## Description
 

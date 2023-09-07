@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 70993
+revid: 72357
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -55,9 +55,13 @@ This Boss also spawns in [The Depths](The_Depths.md) in a location near one of t
 
  | (★☆☆) |
 
-**Finisher**
+### Finisher
 
 -   **Fatal Poison -** The Deep Widow sinks her fangs into a downed player and liquefies them with a lethal dose of deep venom.
+
+### **Passives**
+
+-   **Monster Resistance** - Physical attacks deal ??? less damage to the Deep Widow.
 
 ## **Notes/Tips**
 

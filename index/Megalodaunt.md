@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 72272
+revid: 72313
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -334,6 +334,10 @@ Roar
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 | Incineration (Crimson Variant only) | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
+
+### Passives
+
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Megalodaunts.
 
 ## **Trivia**
 

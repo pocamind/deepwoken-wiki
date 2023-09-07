@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 70236
+revid: 72297
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -78,7 +78,7 @@ When fought, he uses a [Hero Blade of Lightning](Hero_Blades.md).
  |
 | 
 
- | [Shadowcast](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa district](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest, and has white-colored rooftops, and is located on the western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
+ | [Shadowcast](Shadowcast.md) | [Nostor](Nostor,_Master_of_Shadow.md) | [Varicosa district](Varicosa_District.md) | To find them you will have to enter the City of the Drowned. The district is a little more empty than the rest and has light-teal-colored rooftops, it is located on the north-western side of the city. From there you will also have to watch out for Watchers, as they can be a nuisance especially this far into the journey.
 
   
 The best tip for this is to hug the wall (the one opposite of the elevator) until you find the entrance to the [Shadowtrainers](Attunement_Trainers.md) cave. [(See picture)](https://i.gyazo.com/fe9c3bee9f6d52b9d9de27f61663ccc8.png)

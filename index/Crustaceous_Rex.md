@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 70985
+revid: 72321
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Pages with broken file links]
@@ -60,6 +60,10 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 </tr>
 </tbody>
 </table>
+
+### **Passives**
+
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Crustaceous Rex.
 
   
 

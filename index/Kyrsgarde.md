@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 69962
+revid: 72353
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -16,7 +16,7 @@ categories: [Monsters, Floor 2, Layer 2]
 
 ## **Description**
 
-Also known as Kyrsans, the Kyrsgarde is an intelligent form of species unlike the [Humans](Aspects.md) (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol to their society. Not all Kyrsgarde are friendly unlike the ones in [Firfire](Firfire.md) towards Fringewalkers, and will protect Ethirion from such threats with pure loyalty.
+Also known as Kyrsans, the Kyrsgarde is an intelligent form of species unlike the [Humans](Aspects.md) (or by their view, Fringewalkers) that are native to [The Eternal Gale](The_Depths.md) and follow Ethiron as both their leader and idol to their society. Not all Kyrsgarde are friendly unlike the ones in [Firfire](Firfire.md) towards Fringewalkers, and will protect Ethiron from such threats with pure loyalty.
 
 **Kyrsgarde Lancer:**
 
@@ -166,11 +166,12 @@ A Kyrsgarde Brute executes it's opponent:
 
 ## Trivia
 
--   Having the brick wall talent, makes the fight with the lancers **A LOT MORE EASIER**, being able to easily kill 4 of them at the same time with no difficulty or risk at all. (Tested)
--   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that one of the NPC's in layer 2 note how when rumbling was heard from the "roof" (Chaser) they started patrolling.
+-   Having the Brick Wall talent, makes the fight with the lancers **A LOT MORE EASIER**, being able to easily kill 4 of them at the same time with no difficulty or risk at all.
+-   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that one of the NPC's in Layer 2 note how when rumbling was heard from the "roof" as Chaser killed himself, they started patrolling.
 -   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" had done something to them using some sort of "mist". Or the fact they built Kyrsa City ontop of Ethirons Bedchamber. However it also could've been the fact that their foolishness lead to a failure related to some sort of ritual to prevent the Scion of Ethiron in someway. Keep in mind this is information was from an Outsider of the Kyrsgarde
--   The Kyrsans in Firfire are not hostile, due to how far they are from the Ethiron's mist presence. They are actually quite funny as when you pick the dialogue option of giving them a dumb name, they will albeit no hard feelings retaliate by when interacting the leader, they will give you a name similiar to themselves, which will happen to depend on the player's name (unknown if it's the same throughout all slots).
--   Technically when you think about it they aren't monsters atleast to them as they are their own species and so are we, we call them monsters, they call us Fringewalkers, or frintwalkers(?).
+-   The Kyrsans in Firfire are not hostile, due to how far they are from the Ethiron's mist presence. They are actually quite funny as when you pick the dialogue option of giving them a dumb name, they will albeit no hard feelings retaliate by when interacting the leader, they will give you a name similar to themselves, which will happen to depend on the player's name (unknown if it's the same throughout all slots).
+-   Technically when you think about it they aren't monsters at least to them as they are their own species and so are we, we call them monsters, they call us Fringewalkers, or frintwalkers(?).
 -   Have quite a strong resemblance to the infamous Bone Keeper, its possible the Bone Keeper is possibly a Kyrsan gone rogue, was affected by the parasites, have lost their mind, most likely changed from a drowned gods influence, a mutation, you get the deal there's alotta theories, its possible they are Kyrsan brutes by how they are built and how they make a noise everytime they walk, albeit seem a bit shorter.
 -   Ironically, despite the fact that the crawlers crawl around the floor, in their idle and in general they have functioning legs and can even stand up. It is unknown why they crawl, they also make the exact same noise as Figure from DOORS.
--   Sneaking behind the Kyrsgarde and attempting to talk with it prompts in special dialogue: "Waheit... Yaere fraeum aboeave!", which can be translated as "Wait... You're from above!". In dialogue box the Kyrsgarde is named as New Kyrsa Guardian.
+-   Sneaking behind the Kyrsgarde and attempting to talk with it prompts in special dialogue: "Waheit... Yaere fraeum aboeave!", which can be translated as "Wait... You're from above!".
+    -   In the dialogue box the Kyrsgarde, is named as New Kyrsa Guardian.

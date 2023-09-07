@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 70731
+revid: 72316
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -49,6 +49,10 @@ Notably enough, it's the only other way to obtain the extremely rare True Seraph
 This will auto-grip you if hit by it at low health.
 
  | ✗ | (★★☆) |
+
+### **Passives**
+
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Lionfish.
 
 ## Located
 

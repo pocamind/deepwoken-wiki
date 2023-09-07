@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 71460
+revid: 72356
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -29,12 +29,12 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 
 -   Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.
 -   Cannot give Rare Talent Cards.
--   Mystic affects mantra rarity (i.e., stars).
+-   Mystics affects mantra rarity (i.e., stars).
 -   If a category is comprised entirely of Rare Talent Cards, it will not appear as an option. (EX: Frozen Warrior)
 
 ## Dialogue
 
-Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare talents are not affected by Mystic at all unless you use Shrine of Chance. Here are but a few of the possible prompts:
+Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare talents are not affected by Mystics at all unless you use Shrine of Chance. Here are but a few of the possible prompts:
 
 ## Attributes
 
@@ -140,7 +140,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _None will escape my flames. **(Flame Warden) (Note; Cannot give Warding Radiance)**_
 -   _I am a master of the flame._ _**(Pyromancer)**_
 -   _All must burn. **(Inferno)**_
--   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames)**_
+-   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames, Pyromania)**_
 -   _I seek the path of the Serpent. **(Lava Serpent)**_
 -   _My unholy blade works for no man. **(The Demon Blade)**_
 -   _My blade burns through my foes._ _**(The Emperor's Blade) (Note; Cannot give Mirage Clone)**_

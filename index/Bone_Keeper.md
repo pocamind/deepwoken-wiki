@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 70671
+revid: 72326
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the Depths Trial at the power 20 trial or at high drowns, potentially Corrupted.
+The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the Depths Trial at the power 20 trial with high drowns, potentially Corrupted.
 
 Bone Keepers are giant, humanoid creatures, with inhuman proportions, having short legs yet large arms. It has clearly clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothing on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
 
@@ -35,6 +35,10 @@ Slash
  | The Bone Keeper will wind up its right arm, then thrust forward with a triple-slash attack with its arm spinning. | ◯ | ◯ | ◯ | (★☆☆) |
 | Bone Spikes | The Bone Keeper will stomp the ground, emitting a long carpet of spikes in front of it. (You don't normally dodge this, instead jump over them.) | ✗ | ✗ | \- | (★★☆) |
 | Femur Throw | The Bone Keeper will dig into the ground with its right arm before pulling out a femur which it will then throw towards the target at absurd speeds. It is important to know this femur behaves as a projectile and therefore can hit walls and other objects. The timing to parry this is difficult, but it does much less damage than its other attacks. | ◯ | ✗ | ◯ | (★★☆) |
+
+### **Passives**
+
+-   **Monster Resistance** - Physical attacks deal ??? less damage to the Bone Keeper.
 
 ## Trivia
 

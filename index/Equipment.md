@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72176
+revid: 72349
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -22,7 +22,12 @@ There are 7 different types of equipment: Arms, Legs, Head, Torso, Rings, Ears, 
 
 Some equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents associated with them (only some Head, Legs and Arms items can have these). _These stats and talents are displayed in grey._
 
-All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant. All Pips are displayed in order of rarity, which goes Common, Uncommon, Rare, Legendary and Mythic. Each star an equipment item has will grant 1 Pip as well as 1 Health and will always follow a pattern in which the first two stars grant Rare Pips, while the third star will always grant a Legendary Pip.
+All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant. All Pips are displayed in order of rarity, which goes Common, Uncommon, Rare, Legendary and Mythic.
+
+Every equipment item you come across has a chance to be starred. Stars on an equipment item will grant it a set amount of Pips, depending on how many Stars the equipment item has:  
+★ = +1 Rare Pip  
+★★ = +2 Rare Pips  
+★★★ = +2 Rare Pips +1 Legendary Pip
 
 <table><caption>Pips</caption>
 <tbody>
@@ -278,7 +283,7 @@ Chests from:
 -   [Aratel Island](Aratel_Island.md)
 
  | N/A |
-| File:Tophat.png | 
+| File:Slate Tophat.png | 
 
 [Tophat](Tophat.md)
 
@@ -668,7 +673,7 @@ Gladiator Helmet
 Grants a random buff.
 
 _+Talent: Concussive Force_  
-_\+ 2 Posture_  
+_+2 Posture_  
 _+10 Health_
 
 **Requires Fortitude 15**
@@ -1819,6 +1824,25 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
+| File:Black Fur Pauldrons.png | 
+
+Black Fur Pauldrons
+
+ | 
+
+Grants a random buff.
+
+  
+_+3 Health_
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | Black & White |
 | File:Blacksteel Pauldron.png | 
 
 [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
@@ -1857,7 +1881,7 @@ Chests from:
  | N/A |
 | File:Brilliant Pauldrons.png | 
 
-[Brilliant Pauldrons](Brilliant_Pauldrons.md)
+[Brilliant Pauldron](Brilliant_Pauldrons.md)
 
  | 
 
@@ -1872,7 +1896,7 @@ Chests from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [First Layer](First_Layer.md)
+-   [First Layer](First_Layer.md) (**Common through Gem Gacha**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
@@ -1891,34 +1915,12 @@ Chests from:
 -   [Erisia](Erisia.md)
 
  | N/A |
-| File:Black Fur Pauldrons.png | 
-
-[Fur Pauldrons](Fur_Pauldrons.md) (**Series**)
-
- | 
-
-Grants a random buff.
-
-  
-_+3 Health_
-
- | 
-
-Chests from:
-
--   [Erisia](Erisia.md)
--   [Aratel Island](Aratel_Island.md)
-
- | Black & White |
 |  | 
 
 [Gladiator Pauldrons](Gladiator_Pauldrons.md)
 
  | 
 
-Grants a random buff.
-
-  
 _+2 Health_  
 _+1 Posture_
 
@@ -1954,7 +1956,8 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+2 Health_  
+_+1 Posture_
 
  | 
 
@@ -2062,9 +2065,8 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
-  
 _+3 Health_
 
  | 
@@ -2128,6 +2130,25 @@ Chests from:
 -   [Fort Merit](Fort_Merit.md)
 
  | N/A |
+| File:Whitefurpauldrons.png | 
+
+White Fur Pauldrons
+
+ | 
+
+Grants a random buff.
+
+  
+_+3 Health_
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | Black & White |
 |  | 
 
 [Woodland Pauldrons](Woodland_Pauldrons.md)
@@ -2247,10 +2268,12 @@ Chests from:
 
 [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
 
+(Legendary)
+
  | 
 
 Grants a random buff.  
-**Requires Power 3, Fortitude 10**
+**Requires Power 3, Fortitude 15**
 
  | 
 
@@ -2262,6 +2285,8 @@ Chests from:
 | File:DelvingDuster.png | 
 
 [Delver's Duster](<Delver's_Duster.md>)
+
+(Mythical)
 
  | 
 
@@ -2339,16 +2364,14 @@ Chests from:
  | N/A |
 | File:Brown Overcoat.png | 
 
-[Overcoat](Trimmed_Overcoat.md)
+Brown Overcoat
 
 (**Series**)
 
  | 
 
-Grants a random buff.
+_+2 Health_
 
-  
-_+2 Health_  
 _+1 Posture_
 
  | 
@@ -2359,18 +2382,41 @@ Chests from:
 -   [Summer Isle](Summer_Isle.md)
 
  | Brown & White |
-| File:White Parka.png | 
+| File:White Overcoat.png | 
 
-[Parka](Fur_Parka.md)
+White Overcoat
 
 (**Series**)
 
  | 
 
-Grants a random buff.
++1 Uncommon Pip
 
-  
-_+2 Health_ _+Talent: Steady Footing_
+_+2 Health_
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Summer Isle](Summer_Isle.md)
+
+ | Brown & White |
+| File:Black Parka.png | 
+
+Black Parka
+
+(**Series**)
+
+ | 
+
++1 Rare Pip
+
+_+2 Health_
+
+_+1 Posture_
+
+_+Talent: Steady Footing_
 
  | 
 
@@ -2381,9 +2427,71 @@ Chests from:
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
 
+Other Sources:
+
+-   Black Variant: Drop from [Authority Captain](Authority_Captain.md)
+
+ | Black, Brown & White |
+| File:White Parka.png | 
+
+Brown Parka
+
+(**Series**)
+
+ | 
+
++1 Rare Pip
+
+_+2 Health_
+
+_+1 Posture_
+
+_+Talent: Steady Footing_
+
+ | 
+
 Chests from:
 
--   Drop from [Authority Captain](Authority_Captain.md)
+-   [Erisia](Erisia.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Aratel Island](Aratel_Island.md)
+
+Other Sources:
+
+-   Black Variant: Drop from [Authority Captain](Authority_Captain.md)
+
+ | Black, Brown & White |
+| File:White Parka.png | 
+
+White Parka
+
+(**Series**)
+
+ | 
+
++1 Uncommon Pip
+
++1 Rare Pip
+
+_+2 Health_
+
+_+1 Posture_
+
+_+Talent: Steady Footing_
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Aratel Island](Aratel_Island.md)
+
+Other Sources:
+
+-   Black Variant: Drop from [Authority Captain](Authority_Captain.md)
 
  | Black, Brown & White |
 |  | 
@@ -2503,7 +2611,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -2558,7 +2666,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | Crimson, Gold, Mist & Pale |
-| File:Royal Auth Commander.png | 
+| File:Ruby Authority Commander Coat.png | 
 
 [Authority Commander Coat](Authority_Commander_Coat.md)
 
@@ -2566,8 +2674,10 @@ Chests from:
 
  | 
 
-Grants a random buff.  
-_\+ 10 Health_
++2 Rare Pips
+
+  
+_+10 Health_
 
 **Requires Power 13**
 
@@ -2579,8 +2689,6 @@ _\+ 10 Health_
 |  | 
 
 [Dark Owl Cloak](Dark_Owl_Cloak.md)
-
-(**Series**)
 
  | 
 
@@ -2603,7 +2711,9 @@ Chests from:
 
  | 
 
-Placeholder
++2 Rare Pips
+
++1 Legendary Pip
 
 _+Talent: Blade Dancer_
 
@@ -2623,7 +2733,7 @@ Chests from:
 
  | 
 
-3 Pips
++3 Legendary Pips
 
 _+Talent: Conquer Your Fears_
 
@@ -2631,10 +2741,10 @@ _+Talent: Conquer Your Fears_
 
 Other sources:
 
--   Drop from Monsters in the [First Layer](First_Layer.md) (Hell Mode)
+-   Automatically obtained when winning [Hell Mode](Hell_Mode.md) (Repeatable)
 
  | N/A |
-| File:Cloud First Ranger Duster.png | 
+| File:Lavender First Ranger Duster.png | 
 
 [First Ranger Duster](First_Ranger_Duster.md)
 
@@ -2642,9 +2752,11 @@ Other sources:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
-**Requires Power 13**
+  
+_+10 Health_  
+_+2 Posture_ **Requires Power 13**
 
  | 
 
@@ -2652,7 +2764,7 @@ Other sources:
 
 -   Drop from [King Thresher](King_Thresher.md)
 
- | Blue, Cloud, Jade, Lavender & Umber |
+ | Azure, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | 
 
 [Gumshoe Longcoat](Gumshoe_Longcoat.md)
@@ -2661,7 +2773,7 @@ Other sources:
 
  | 
 
-Grants a random buff.
++1 Rare Pip
 
  | 
 
@@ -2673,7 +2785,7 @@ Chests from:
 
 -   Drop from [Dread Serpent](Dread_Serpent.md)
 
- | Dark, Ochre & White |
+ | Dark, Ochre, Grey & White |
 | File:Black Justicar Defender Coat.png | 
 
 Justicar Defender
@@ -2707,12 +2819,11 @@ Other sources:
 
  | 
 
-Grant a random buff.
++2 Rare Pips
 
-  
-_\+ 5% Damage VS Monster_
+_\+ 5% Damage VS Monsters_
 
-**Requires Power 15**
+**Requires Power 5**
 
  | 
 
@@ -2742,7 +2853,7 @@ Chests from:
 -   [Aelita](Aelita.md)
 -   [Minityrsa](Minityrsa.md) (Valley of Heroes)
 
- | Onyx, Peach, Scarlet, Rose & Smoke |
+ | Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
 |  | 
 
 [Ministry Operative Cloak](Ministry_Operative_Cloak.md)
@@ -2777,7 +2888,7 @@ Other sources:
 
 -   Drop from [Nautilodaunt](Nautilodaunt.md) (**Very Rare**)
 
- | Ash, Black, Crimson & Magenta |
+ | Ash, Black, Crimson, Sage & Magenta |
 |  | 
 
 [Providence Coat](Providence_Coat.md)
@@ -2825,12 +2936,12 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
-_+Talent: Ready or Not_  
-_+6 Health_
++1 Legendary Pip
 
-**Requires Power 13**
+  
+_+6 Health_ _+Talent: Ready or Not_ **Requires Power 10**
 
  | 
 
@@ -2848,7 +2959,12 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
+
++1 Legendary Pip
+
+_+5 Health_  
+_+1 Posture_
 
 _+Talent: Firmly Planted_
 
@@ -3478,6 +3594,26 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
+| File:Black Fur Boots.png | 
+
+Black Fur Boots
+
+ | 
+
+Grants a random buff.
+
+  
+_+3 Health_
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | N/A |
 |  | 
 
 [Bluesteel Boots](Bluesteel_Boots.md)
@@ -3542,6 +3678,7 @@ Grants a random buff.
 Chests from:
 
 -   [First Layer](First_Layer.md)
+-   Duke of Erisia
 
  | N/A |
 | File:Etrean Siege Sabatons.png | 
@@ -3560,28 +3697,25 @@ _+4 Health_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [First Layer](First_Layer.md)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
-| File:Black fur boots 1.png | 
+| File:Flameguard Boots.png | 
 
-[Fur Boots](Fur_Boots.md)
+[Flameguard Boots](Flameguard_Boots.md)
 
  | 
 
 Grants a random buff.
 
-  
-_+3 Health_
-
  | 
 
 Chests from:
 
--   [Erisia](Erisia.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
+-   idk where lol
 
- | Black & White |
+ | N/A |
 | File:Grand Authority Sabatons.png | 
 
 [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
@@ -3645,6 +3779,26 @@ Chests from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
+
+ | N/A |
+| File:Khanboots.png | 
+
+[Khan Boots](Legion_Boots.md)
+
+ | 
+
+Grants a random buff.
+
+  
+_+3 Health_
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Deep Widow](Deep_Widow.md)
 
  | N/A |
 | File:Leather boots.png | 
@@ -3757,26 +3911,6 @@ Chests from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
-| File:Khanboots.png | 
-
-[Khan Boots](Legion_Boots.md)
-
- | 
-
-Grants a random buff.
-
-  
-_+3 Health_
-
- | 
-
-Chests from:
-
--   [Erisia](Erisia.md)
--   [Aratel Island](Aratel_Island.md)
--   [Deep Widow](Deep_Widow.md)
-
- | N/A |
 | File:Silver Sabatons.png | 
 
 [Silver Sabatons](Silver_Sabatons.md)
@@ -3845,6 +3979,26 @@ Chests from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
+| File:White fur boots.png | 
+
+White Fur Boots
+
+ | 
+
+Grants a random buff.
+
+  
+_+3 Health_
+
+ | 
+
+Chests from:
+
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 
  | N/A |
 |  | 
