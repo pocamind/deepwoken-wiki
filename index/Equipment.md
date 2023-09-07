@@ -1,11 +1,11 @@
 ---
 title: Equipment
-revid: 72349
+revid: 72385
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
 notices:
-  - This page is currently being worked on. Some things may be incomplete or incorrect.
+  - "This page is currently being worked on. Some things may be incomplete or incorrect. If you can help with images or stats, that'd be appreciated!"
 ---
 
 # Equipment
@@ -128,19 +128,17 @@ Every equipment item you come across has a chance to be starred. Stars on an equ
 
 **Head:**
 
-| Image | Armor | Common Effects | Primary Source | Variants |
+| Image | Armor | Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 | File:Herbalist's Hat.png | 
 [Herbalist's Hat](<Herbalist's_Hat.md>)
 
  | 
 
-Grants a random buff.
++1 Uncommon Pip
 
-  
-_\+ Talent:_  
-Iron Gut  
-_\+ Talent: Herbivore_
+_\+ Talent: Herbivore_  
+_\+ Talent: Iron Gut_
 
  | 
 
@@ -149,19 +147,17 @@ Chests from:
 -   [Aratel Island](Aratel_Island.md)
 -   [Second Layer](Second_Layer.md)
 
- | N/A |
+ | Normal & Big |
 | File:Big Herbalist's Hat.png | 
 
 [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
 
  | 
 
-Grants a random buff.
++1 Rare Pip
 
-  
-_\+ Talent:_  
-Iron Gut  
-_\+ Talent: Herbivore_
+_\+ Talent: Herbivore_  
+_\+ Talent: Iron Gut_
 
  | 
 
@@ -169,7 +165,7 @@ Chests from:
 
 -   [Aratel Island](Aratel_Island.md)
 
- | N/A |
+ | Normal & Big |
 | File:Alchemist Hat.png | 
 
 [Alchemist's Hat](<Alchemist's_Hat.md>)
@@ -189,7 +185,7 @@ Chests from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | Normal & Big |
 | File:AlchemistHat.png | 
 
 [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
@@ -209,7 +205,7 @@ Chests from:
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | Normal & Big |
 | File:GreyGumshoeHat.png | 
 
 [Gumshoe Hat](Gumshoe_Hat.md)
@@ -254,9 +250,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+4 Health_  
 
-_+Talent: Diplomat_
++1 Uncommon Pip  
+
++1 Rare Pip
+
+_+Talent: Give and Take_
 
  | 
 
@@ -291,7 +291,13 @@ Chests from:
 
  | 
 
-Cosmetic
+_+4 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+_+Talent: Give and Take_
 
  | 
 
@@ -306,16 +312,20 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+10% Stealth_  
+_+5% Shadow Armor_  
 
-_\+ Talent: Giantslayer_  
-_\+ 10% Stealth_
++1 Rare Pip  
+
++1 Legendary Pip
+
+_\+ Talent: Giantslayer_
 
  | 
 
 Chests from:
 
--   [Layer 2](Second_Layer.md) (Floor 1)
+-   [Layer 2](Second_Layer.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 
  |
@@ -344,10 +354,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-  
 _+4 Health_
+
++1 Uncommon Pip
 
  | 
 
@@ -371,11 +380,8 @@ Hood
 
  | 
 
-Grants a random buff.
-
-  
-_\+ 2% Stealth_  
-_\+ 1 Posture_
+_+1 Posture_  
+_+4% Stealth_
 
  | 
 
@@ -385,7 +391,7 @@ Chests from:
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 
- | Black & Brown |
+ | Black, Brown, & Deepwoken |
 | File:Deepwoken hood.jpg | 
 
 [Deepwoken Hood](Deepwoken_Hood.md)
@@ -401,7 +407,7 @@ Chests from:
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | Black, Brown, & Deepwoken |
 | File:VigilHood.png | 
 
 [Assassin's Hood](<Assassin's_Hood.md>)
@@ -445,9 +451,12 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5% Shadow Armor_  
+_+6% Stealth_
 
-_+Talent: Bloodletter'_
++2 Rare Pips
+
+_+Talent: Bloodletter_
 
  | 
 
@@ -487,10 +496,9 @@ Other sources:
 
  | 
 
-Grants a random buff.
-
+Grants a random buff.  
 _+Talent: Strong Hold_  
-_\+ 8 Health_
+_+8 Health_
 
 **Requires Fortitude 10**
 
@@ -511,12 +519,11 @@ Other sources:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
+
++1 Uncommon Pip
 
 **Requires Fortitude 10**
-
-  
-_+5 Health_
 
  | 
 
@@ -566,12 +573,13 @@ File:Blacksteel Helm(Better Lighting).png
 
  | 
 
-Grants a random buff.
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
 
 **Requires Fortitude 15**
-
-  
-_+10 Health_
 
  | 
 
@@ -589,10 +597,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-_+Talent: Strong Hold_  
-_+3 Health_
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Strong Hold_
 
  | 
 
@@ -625,14 +636,17 @@ Chests from:
  | N/A |
 |  | 
 
-[Celtor Helm](Celtor_Commander_Helm.md)
+[Celtor Commander Helm](Celtor_Commander_Helm.md)
 
  | 
 
-Grants a random buff.
-
-_+Talent: Grasp On Reality_  
 _+5 Health_
+
++1 Rare Pip
+
++1 Legendary Pip
+
+_+Talent: Grasp On Reality_
 
  | 
 
@@ -670,11 +684,12 @@ Gladiator Helmet
 
  | 
 
-Grants a random buff.
-
-_+Talent: Concussive Force_  
+_+10 Health_  
 _+2 Posture_  
-_+10 Health_
+
++1 Rare Pip
+
+_+Talent: Concussive Force_
 
 **Requires Fortitude 15**
 
@@ -807,13 +822,10 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-**Requires Fortitude 5**
-
-  
 _+5 Health_  
 _+1 Posture_
+
+**Requires Fortitude 5**
 
  | 
 
@@ -830,7 +842,13 @@ Phalanx Helm
 
  | 
 
-Grants a random buff.
+_+3 Health_
+
++1 Rare Pip
+
++1 Legendary Pip
+
+_+Talent: Precise Swing_
 
  | 
 
@@ -867,10 +885,9 @@ Smith Bandana
 
  | 
 
-Cosmetic
+_+4 Health_  
 
-  
-_+4 Health_
++1 Uncommon Pip
 
  | 
 
@@ -927,7 +944,11 @@ Sources:
 
  | 
 
-Grants a random buff.
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
 
  | 
 
@@ -939,7 +960,7 @@ Sources:
 
 **Face:**
 
-| Image | Armor | Common Effects | Primary Source | Variants |
+| Image | Armor | Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
 [Blindfold](Blindfold.md)
@@ -978,7 +999,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Common Pip
 
 _\+ Talent: Blinded_
 
@@ -1062,7 +1083,7 @@ Chests from:
  | N/A |
 |  | 
 
-Aristocrat Glasses
+Aristocrat Eyeglasses
 
  | 
 
@@ -1078,11 +1099,11 @@ Chests from:
  | Default, Red & White |
 |  | 
 
-[Polarized Eyeglasses](Eyeglasses.md)
+[Polarized Sunglasses](Eyeglasses.md)
 
  | 
 
-Grants a random buff.
++1 Common Pip
 
  | 
 
@@ -1146,7 +1167,7 @@ Hivelord Mask
 
  | 
 
-Cosmetic
++2 Rare Pips
 
  | 
 
@@ -1227,7 +1248,7 @@ Chests from:
 
 **Ears:**
 
-| Image | Armor | Common Effects | Primary Source | Variants |
+| Image | Armor | Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
 [Pendant Earrings](Pendant_Earrings.md)
@@ -1406,7 +1427,7 @@ Chests from:
 
 **Torso:**
 
-| Image | Armor | Common Effects | Primary Source | Variants |
+| Image | Armor | Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 | File:Brilliant Cape.png | 
 Brilliant Cape
@@ -1694,7 +1715,7 @@ Chests from:
 
 **Arms:**
 
-| Image | Armor | Common Effects | Primary Source | Variants |
+| Image | Armor | Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
 |  | 
 [Hunter's Brace](<Hunter's_Brace.md>)
@@ -2620,7 +2641,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | Black, Brown, Green, White (Work in progress) |
-| File:Beige Aristocrat Coat.png | 
+| File:Slate Aristocrat Coat.png | 
 
 [Aristocrat Coat](Aristocrat_Coat.md)
 
@@ -2641,7 +2662,7 @@ Chests from:
 -   [Summer Isle](Summer_Isle.md)
 
  | Beige, Burgundy & Slate |
-| File:Pale.jpg | 
+| File:Pale Assassin Cloak.png | 
 
 [Assassin's Cloak](<Assassin's_Cloak.md>)
 
@@ -3000,8 +3021,7 @@ Grants a random buff.
 
 Chests from:
 
--   [Mudskipper](Mudskipper.md)
-    -   (Mudskipper Cave, [Lower Erisia](Lower_Erisia.md))
+-   Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 
@@ -3018,9 +3038,9 @@ Grants a random buff.
 
 Chests from:
 
--   [Mudskipper](Mudskipper.md)
-    -   (Mudskipper Cave, [Lower Erisia](Lower_Erisia.md))
+-   Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
 
 Other sources:
 

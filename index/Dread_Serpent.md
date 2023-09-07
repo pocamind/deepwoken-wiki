@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 69645
+revid: 72371
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -32,7 +32,7 @@ able?
 
  | Danger |
 | --- | --- | --- | --- |
-| Dread Breath | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boat. | ✗ | (★★★) |
+| Dread Breath | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. | ✗ | (★★★) |
 | Claw Swipe | Swipes two times in quick succession
 
 Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe.
