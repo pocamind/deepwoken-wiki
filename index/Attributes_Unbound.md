@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 70134
+revid: 72452
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -47,12 +47,11 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ### Intelligence Unbound
 
 1.  Reach 75 Intelligence.
-2.  Enter the Garden Reservoir and obtain a Soul Hearthgem. They are located inside a small cave with acid that must be ran throught, not far from the Megalodaunt in the area.
+2.  Enter the Garden Reservoir and obtain a Soul Hearthgem. They are located inside a small cave with acid that must be ran through, not far from the Megalodaunt in the area.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brassier in the correct order with the Soul Hearthgem (when entering, the correct order is Left, Back, Forward, Right)
 4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps
 6.  Eat a Bluecap raw. If the requirements are met, you will black out and wake up, obtaining Intelligence Unbound
-    1.  **If you have carnivore:** ~get 2 Bluecaps and spam click them. You need to eat the second one while vomitting the first one.~ Now you only need to only eat 1 bluecap even if you have carnivore, you will vomit it out losing some hunger and thirst, but still will get the unbounded intelligence talent. (Tested.)
 
 Alternatively, you can go to [Starswept Valley](The_Starswept_Valley.md) and pick up some Bluecaps from the hidden library near [Lightkeeper Temple](Lightkeeper_Temple.md) (Requires a mantra that can destroy blocks, needed for gaining access to the room which opens the door to the library)
 

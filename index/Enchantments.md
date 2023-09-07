@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 72086
+revid: 72442
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -172,7 +172,7 @@ There are two variants that enchantments come in:
   <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
-  Scales inversely with weapon damage, from 2x to 1.25x.</p></div></td>
+  Scales linearly with weapon damage.<sup><a href="#cite-note-1">[1]</a></sup></p></div></td>
   <td><div>Metal parts are covered in a stone texture.</div></td>
 </tr>
 <tr>
@@ -634,3 +634,8 @@ File:Vamparism shield.png
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.  
         
         Old visual of the "Sear" enchant before the update
+        
+
+## References
+
+1.  [↑](#cite-ref-1) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))

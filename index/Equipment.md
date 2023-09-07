@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72385
+revid: 72489
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -10,7 +10,9 @@ notices:
 
 # Equipment
 
-Armor is an essential part to Deepwoken, being the primary means of resisting damage from most sources. Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
+Armor is an essential part to Deepwoken, being the primary means of resisting damage from most sources.
+
+Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
 
 ## Overview
 
@@ -20,14 +22,15 @@ Equipment is a type of item found in chests, exchanged for using an [Artifact](A
 
 There are 7 different types of equipment: Arms, Legs, Head, Torso, Rings, Ears, and Face.
 
-Some equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents associated with them (only some Head, Legs and Arms items can have these). _These stats and talents are displayed in grey._
+Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents associated with them (only some Head, Legs and Arms items can have these). _These stats and talents are displayed in grey._
 
 All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Buff Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant. All Pips are displayed in order of rarity, which goes Common, Uncommon, Rare, Legendary and Mythic.
 
-Every equipment item you come across has a chance to be starred. Stars on an equipment item will grant it a set amount of Pips, depending on how many Stars the equipment item has:  
+Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pip  
 ★★ = +2 Rare Pips  
-★★★ = +2 Rare Pips +1 Legendary Pip
+★★★ = +2 Rare Pips +1 Legendary Pip  
+"Grants a Random Buff." = Innate Stats/Pips need confirming
 
 <table><caption>Pips</caption>
 <tbody>
@@ -172,9 +175,8 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Uncommon Pip
 
-  
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
@@ -192,9 +194,8 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Rare Pip
 
-  
 _\+ Talent: Apothecary_  
 _\+ Talent: Pitcher_
 
@@ -214,7 +215,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Rare Pip
 
  | 
 
@@ -335,9 +336,12 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_
 
-_+Talent: Spare Nails, Emergency Repairs_
++2 Rare Pips  
+_\+ Talent: Emergency Repairs_
+
+_\+ Talent: Spare Nails_
 
  | 
 
@@ -354,7 +358,7 @@ Chests from:
 
  | 
 
-_+4 Health_
+_+4 Health_  
 
 +1 Uncommon Pip
 
@@ -392,13 +396,35 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | Black, Brown, & Deepwoken |
-| File:Deepwoken hood.jpg | 
+| File:Brown Hood.png | 
+
+Hood
+
+(**Series**)
+
+ | 
+
+_+1 Posture_  
+_+4% Stealth_
+
+ | 
+
+Chests from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | Black, Brown, & Deepwoken |
+| File:Deepwoken Hood1.png | 
 
 [Deepwoken Hood](Deepwoken_Hood.md)
 
  | 
 
-Grants a random buff.
++2 Rare Pips  
+
++1 Legendary Pip
 
  | 
 
@@ -452,7 +478,7 @@ Chests from:
  | 
 
 _+5% Shadow Armor_  
-_+6% Stealth_
+_+6% Stealth_  
 
 +2 Rare Pips
 
@@ -622,10 +648,9 @@ File:Captainskabuto.png
 
  | 
 
-Grants a random buff.
+_+8 Health_  
 
-  
-_+8 Health_
++1 Rare Pip
 
  | 
 
@@ -644,9 +669,9 @@ _+5 Health_
 
 +1 Rare Pip
 
-+1 Legendary Pip
++1 Legendary Pip _+Talent: Grasp On Reality_
 
-_+Talent: Grasp On Reality_
+**Requires Fortitude 15**
 
  | 
 
@@ -661,10 +686,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++1 Uncommon Pip
 
  | 
 
@@ -687,9 +711,8 @@ Gladiator Helmet
 _+10 Health_  
 _+2 Posture_  
 
-+1 Rare Pip
-
-_+Talent: Concussive Force_
++1 Rare Pip  
+_+Talent: Concussive Force_  
 
 **Requires Fortitude 15**
 
@@ -709,12 +732,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
+
++1 Rare Pip
 
 **Requires Fortitude 10**
-
-  
-_+5 Health_
 
  | 
 
@@ -803,9 +825,11 @@ File:KnightHelm.png
 
  | 
 
-Grants a random buff.
+_+10 Health_  
 
-_\+ 10 Health_
++1 Uncommon Pip  
+
++1 Rare Pip
 
 **Requires Fortitude 15**
 
@@ -842,9 +866,9 @@ Phalanx Helm
 
  | 
 
-_+3 Health_
+_+3 Health_  
 
-+1 Rare Pip
++1 Rare Pip  
 
 +1 Legendary Pip
 
@@ -982,6 +1006,8 @@ Chests from:
 
  | 
 
++1 Common Pip
+
 _\+ Talent: Blinded_
 
  | 
@@ -1011,7 +1037,7 @@ Chests from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
  | N/A |
-| File:Hairband.jpg | 
+| File:Red Headband.png | 
 
 [Headband](Headband.md)
 
@@ -1119,7 +1145,9 @@ Bloodfeather Mask
 
  | 
 
-Grants a random buff.
+_+5% Shadow Armor_  
+
++1 Rare Pip
 
  | 
 
@@ -1270,7 +1298,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Common Pip  
+
++1 Rare Pip
 
  | 
 
@@ -1332,7 +1362,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Common Pip  
+
++1 Rare Pip
 
  | 
 
@@ -1396,7 +1428,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5 Ether_  
+
++2 Rare Pips
 
  | 
 
@@ -1411,10 +1445,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+2 Health_  
 
-  
-_+2 Health_
++2 Rare Pips
 
  | 
 
@@ -1429,21 +1462,38 @@ Chests from:
 
 | Image | Armor | Effects | Primary Source | Variants |
 | --- | --- | --- | --- | --- |
+| File:Black Cape.png | 
+Black Cape
+
+ | 
+
+_+3% Physical Armor_  
+
++1 Legendary Pip
+
+ | 
+
+Chests from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | Black & Golden |
 | File:Brilliant Cape.png | 
+
 Brilliant Cape
 
  | 
 
-Grants a random buff.
+_+3% Elemental Armor_  
 
-  
-_\+ 3% Elemental Armor_
++1 Legendary Pip
 
  | 
 
 Other sources:
 
--   Drop from [Dread Serpent](Dread_Serpent.md)
+-   Mob Drop from [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
 |  | 
@@ -1467,16 +1517,13 @@ Chests from:
  | N/A |
 | File:Golden Cape.png | 
 
-Cape
-
-(**Series**)
+Golden Cape
 
  | 
 
-Grants a random buff.
+_+3% Physical Armor_  
 
-  
-_\+ 3% Physical Armour_
++1 Legendary Pip
 
  | 
 
@@ -1494,11 +1541,10 @@ Fleet Warden Cape
 
  | 
 
-Grants a random buff.
+_+3% Elemental Armor_  
 
-  
-_\+ 3% Elemental Armour_  
-  
++1 Legendary Pip
+
 **Requires Power 13**
 
  | 
@@ -1517,10 +1563,9 @@ Shrouded Cape
 
  | 
 
-Grants a random buff.
+_+5% Stealth_  
 
-  
-_\+ 5% Stealth_
++1 Legendary Pip
 
  | 
 
@@ -1536,7 +1581,11 @@ Sandrunner Scarf
 
  | 
 
-Grants a random buff.
+_+3 Fire Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
 
  | 
 
@@ -1553,10 +1602,11 @@ Scarf
 
  | 
 
-Grants a random buff.
+_+3% Attunement Armor, changes depending on Scarf Variant_  
 
-  
-_\+ 3% Atunement Armour, Depending on color_
++1 Rare Pip  
+
++1 Legendary Pip
 
  | 
 
@@ -1567,11 +1617,13 @@ Chests from:
  | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
 |  | 
 
-Bloodcurse Pendant
+[Curseblood Pendant](Curseblood_Pendant.md)
 
  | 
 
-Grants a random buff.
+_+3% Elemental Armor_  
+
++1 Legendary Pip
 
  | 
 
@@ -1650,7 +1702,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3% Shadow Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
 
  | 
 
@@ -1666,7 +1722,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3% Physical Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
 
  | 
 
@@ -1682,10 +1742,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3% Elemental Armor_  
 
-  
-_+3% Elemental Armor_
++1 Rare Pip  
+
++1 Legendary Pip
 
  | 
 
@@ -1700,10 +1761,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3% Elemental Armor_  
 
-  
-_+3% Elemental Armor_
++1 Legendary Pip
 
  | 
 
@@ -1741,11 +1801,10 @@ Other sources:
 
  | 
 
-Grants a random buff.
-
-  
 _+2 Health_  
-_+1 Posture_
+_+1 Posture_  
+
++1 Rare Pip
 
  | 
 
@@ -1779,11 +1838,10 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-  
 _+3 Health_  
-_+1 Posture_
+_+1 Posture_  
+
++2 Rare Pips
 
  | 
 
@@ -1798,11 +1856,12 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-_+Talent: Replenishing Knockout_  
 _+3 Health_  
-_+1 Posture_
+_+1 Posture_  
+
++2 Rare Pips
+
+_+Talent: Replenishing Knockout_
 
  | 
 
@@ -1821,7 +1880,7 @@ Other sources:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -1836,7 +1895,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -1870,11 +1929,10 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-  
 _+3 Health_  
-_+1 Posture_
+_+1 Posture_  
+
++1 Rare Pip
 
  | 
 
@@ -1906,10 +1964,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
 
-  
-_+5 Health_
++2 Rare Pips  
+
++1 Legendary Pip
 
  | 
 
@@ -1993,11 +2052,10 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+_+1 Posture_  
 
-  
-_\+ 3 Health_  
-_\+ 1 Posture_
++2 Rare Pips
 
  | 
 
@@ -2012,11 +2070,10 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+_+1 Posture_  
 
-  
-_\+ 3 Health_  
-_\+ 1 Posture_
++2 Rare Pips
 
  | 
 
@@ -2031,10 +2088,10 @@ Chests from:
 
  | 
 
-Grants a random buff.  
-
-  
 _+3 Health_  
+
++2 Rare Pips
+
 _+Talent: Polite Awakening_
 
  | 
@@ -2157,10 +2214,9 @@ White Fur Pauldrons
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -2193,10 +2249,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+8 Health_  
 
-_+Talent: Battle Tendency_  
-_+8 Health_
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Battle Tendency_
 
  | 
 
@@ -2234,10 +2293,13 @@ Other sources:
 
  | 
 
-Grants a random buff.
+_+8 Health_  
 
-_+Talent: Breathing Exercise_  
-_+8 Health_
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Breathing Exercise_
 
  | 
 
@@ -2254,7 +2316,7 @@ Chests from:
 
  | 
 
-Grants a random buff
++2 Rare Pips
 
 _+Talent: Berserker_
 
@@ -2275,7 +2337,13 @@ File:Gauthority.png
 
  | 
 
-Grants a random buff.
+_+8 Health_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Heavy Haul_
 
  | 
 
@@ -2293,7 +2361,13 @@ Chests from:
 
  | 
 
-Grants a random buff.  
+_+10 Health_  
+_+5% Ironsing Armor_  
+
++1 Rare Pip  
+
++2 Legendary Pips _+Talent: Defiant until the End_  
+
 **Requires Power 3, Fortitude 15**
 
  | 
@@ -2311,13 +2385,15 @@ Chests from:
 
  | 
 
-Grants a random buff.  
-**Requires Power 10**
+_+5 Health_  
 
-  
-_\+ 5 Health_  
-_+Talent: Braced Collapse_  
-_+Talent: Graceful Landing_
++3 Legendary Pips
+
+_+Talent: Braced Collapse_
+
+_+Talent: Kick Off_  
+
+**Requires Power 10**
 
  | 
 
@@ -2334,7 +2410,12 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+6 Health_  
+_+2 Posture_  
+
++1 Rare Pip  
+
++1 Legendary Pip
 
 _+Talent: Hoplite_
 
@@ -2351,10 +2432,9 @@ Chests from:
 
  | 
 
-Grants a random buff.  
+_+3 Health_  
 
-  
-_\+ 3 Health_
++2 Rare Pips
 
  | 
 
@@ -2371,10 +2451,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+6% Stealth_  
 
-_+Talent: Kick Off_  
-_\+ 6% Stealth_
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Kick Off_
 
  | 
 
@@ -2431,11 +2514,11 @@ Black Parka
 
  | 
 
-+1 Rare Pip
-
 _+2 Health_
 
 _+1 Posture_
+
++1 Rare Pip
 
 _+Talent: Steady Footing_
 
@@ -2461,11 +2544,11 @@ Brown Parka
 
  | 
 
-+1 Rare Pip
-
 _+2 Health_
 
 _+1 Posture_
+
++1 Rare Pip
 
 _+Talent: Steady Footing_
 
@@ -2477,10 +2560,6 @@ Chests from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
-
-Other Sources:
-
--   Black Variant: Drop from [Authority Captain](Authority_Captain.md)
 
  | Black, Brown & White |
 | File:White Parka.png | 
@@ -2491,13 +2570,11 @@ White Parka
 
  | 
 
-+1 Uncommon Pip
+_+2 Health_  
+
++1 Uncommon Pip  
 
 +1 Rare Pip
-
-_+2 Health_
-
-_+1 Posture_
 
 _+Talent: Steady Footing_
 
@@ -2510,10 +2587,6 @@ Chests from:
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
 
-Other Sources:
-
--   Black Variant: Drop from [Authority Captain](Authority_Captain.md)
-
  | Black, Brown & White |
 |  | 
 
@@ -2521,13 +2594,14 @@ Other Sources:
 
  | 
 
-Grants a random buff.
-
-_+Talent: Winter's Protection_  
 _+6 Health_  
 _+2 Posture_  
+_+5% Ice Armor_  
 _+5% Wind Armor_  
-_+5% Ice Armor_
+
++2 Rare Pips
+
+_+Talent: Winter's Protection_
 
  | 
 
@@ -2538,17 +2612,18 @@ Chests from:
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
  | N/A |
-| File:Glassdancer wraps.jpg | 
+|  | 
 
 [Glassdancer Wraps](Glassdancer_Wraps.md)
 
  | 
 
-Grants a random buff.
-
-_+Talent: Lightweight_  
 _+7 Health_  
-_+3 Posture_
+_+3 Posture_  
+
++1 Rare Pip
+
+_+Talent: Lightweight_
 
  | 
 
@@ -2568,12 +2643,15 @@ Other sources:
 
  | 
 
-Grants a random buff.
+_+6 Health_  
+_+4% Stealth_  
+_+8% Fire Armor_  
 
-_+Talent: Graceful Landing_  
-_\+ 6 Health_  
-_\+ 4% Stealth_  
-_\+ 8% Fire Armor_
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Kick Off_
 
  | 
 
@@ -2588,7 +2666,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
+
++2 Rare Pips
 
  | 
 
@@ -2609,9 +2689,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-_+Talent: Hardened Nerves_
++2 Rare Pips _+Talent: Hardened Nerves_  
 
 **Requires Power 13**
 
@@ -2640,7 +2718,7 @@ Chests from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
- | Black, Brown, Green, White (Work in progress) |
+ | Black, Brown, Green, White |
 | File:Slate Aristocrat Coat.png | 
 
 [Aristocrat Coat](Aristocrat_Coat.md)
@@ -2649,9 +2727,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+6 Health_  
 
-_+Talent: Art of the Deal_
++2 Rare Pips  
+
++1 Legendary Pip _+Talent: Art of the Deal_  
 
 **Requires Power 13**
 
@@ -2670,11 +2750,14 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+6 Health_  
+_+3% Stealth_  
 
-_+Talent: Now You See Me_
++2 Rare Pips  
 
-**Requires Power 13**
++1 Legendary Pip _+Talent: Now You See Me_  
+
+**(Pale) Requires Power 10**
 
  | 
 
@@ -2695,10 +2778,9 @@ Chests from:
 
  | 
 
-+2 Rare Pips
+_+10 Health_  
 
-  
-_+10 Health_
++2 Rare Pips
 
 **Requires Power 13**
 
@@ -2724,7 +2806,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Deepwoken Cloak.png | 
+| File:Black Deepwoken Cloak.png | 
 
 [Deepwoken Cloak](Deepwoken_Cloak.md)
 
@@ -2732,7 +2814,10 @@ Chests from:
 
  | 
 
-+2 Rare Pips
+_+5 Health_  
+_+1 Posture_  
+
++2 Rare Pips  
 
 +1 Legendary Pip
 
@@ -2773,11 +2858,12 @@ Other sources:
 
  | 
 
+_+10 Health_  
+_+2 Posture_  
+
 +2 Rare Pips
 
-  
-_+10 Health_  
-_+2 Posture_ **Requires Power 13**
+**Requires Power 13**
 
  | 
 
@@ -2815,7 +2901,7 @@ Justicar Defender
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
 **Requires Power 13**
 
@@ -2840,9 +2926,9 @@ Other sources:
 
  | 
 
-+2 Rare Pips
+_+5% Damage vs. Monsters_  
 
-_\+ 5% Damage VS Monsters_
++2 Rare Pips
 
 **Requires Power 5**
 
@@ -2853,7 +2939,7 @@ Other sources:
 -   Drop from [Megalodaunts](Megalodaunt.md)
 
  | Red, Purple, Brown, Green, Blue & Peach |
-| File:Image of Scarlet Ministry Cloak.png | 
+| File:Smoke ministry cloak.PNG | 
 
 [Ministry Cloak](Ministry_Cloak.md)
 
@@ -2861,11 +2947,14 @@ Other sources:
 
  | 
 
-Grants a random buff.
-
-**Requires Power 13**  
 _+5 Health_  
-_+10 Ether_
+_+10 Ether_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+**Requires Power 13**
 
  | 
 
@@ -2881,7 +2970,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+6% Stealth_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Ether Conduit_
 
  | 
 
@@ -2895,11 +2990,15 @@ Chests from:
 
 [Pathfinder Elite](Pathfinder_Elite.md)
 
-(**Series**)
+(**Legendary Series**)
 
  | 
 
-Grants a random buff.
+_+5% Damage vs. Monsters_  
+
++1 Rare Pip  
+
++1 Legendary Pip
 
 **Requires Power 13**
 
@@ -2918,10 +3017,11 @@ Other sources:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
 
-_+Talent: Braced Collapse_  
-_+5 Health_
++2 Rare Pips
+
+_+Talent: Braced Collapse_
 
  | 
 
@@ -2957,12 +3057,15 @@ Chests from:
 
  | 
 
-+2 Rare Pips
+_+6 Health_  
+
++2 Rare Pips  
 
 +1 Legendary Pip
 
-  
-_+6 Health_ _+Talent: Ready or Not_ **Requires Power 10**
+_+Talent: Ready or Not_
+
+**Requires Power 10**
 
  | 
 
@@ -2980,12 +3083,12 @@ Chests from:
 
  | 
 
-+2 Rare Pips
+_+5 Health_  
+_+1 Posture_  
+
++2 Rare Pips  
 
 +1 Legendary Pip
-
-_+5 Health_  
-_+1 Posture_
 
 _+Talent: Firmly Planted_
 
@@ -3053,15 +3156,16 @@ Windmill Ring
 
  | 
 
-Taking damage from ice or wind will cause you to regenerate ether.
-
-Grants one random buff.
-
-**Requires Power 3**
+Taking damage from ice or wind mantras will cause you to regenerate ether.
 
   
 _+2% Ice Armor_  
+
 _+2% Wind Armor_
+
++1 Uncommon Pip
+
+**Requires Power 3**
 
  | 
 
@@ -3077,7 +3181,10 @@ Ring of Wisps
 
  | 
 
-Double the amount of charges of wisps.
+Double the amount of charges of Attunement Wisps.
+
+  
++1 Uncommon Pip
 
  | 
 
@@ -3097,6 +3204,7 @@ Freestyler's Band
 
 Gives the user a massive increase in swimming speed while out of combat.
 
+  
 **Requires Power 3**
 
  | 
@@ -3116,8 +3224,10 @@ Heavy Hands Ring
 Makes your "M1" attack slower but do more posture damage.
 
   
-_\+ 30% posture damage_  
-_\- 15% swing speed_
+_+30% posture damage_  
+_\-15% swing speed_  
+
++1 Uncommon Pip
 
  | 
 
@@ -3135,6 +3245,7 @@ Isshin's Ring
 
 Take 1.25x damage and deal 1.2x damage.
 
+  
 **Requires Power 5**
 
  | 
@@ -3152,8 +3263,9 @@ Konga's Clutch Ring
 
  | 
 
-Allows the user to slide without delay.
+Allows the user to slide with little delay.
 
+  
 **Requires Power 3**
 
  | 
@@ -3172,15 +3284,16 @@ Light Eater Ring
 
  | 
 
-Getting hit by a Lightning or Fire mantra recovers ether.
-
-Grants one random buff.
-
-**Requires Power 3**
+Taking damage from fire or lightning mantras will cause you to regenerate ether.
 
   
 _+2% Fire Armor_  
+
 _+2% Lightning Armor_
+
++1 Uncommon Pip
+
+**Requires Power 3**
 
  | 
 
@@ -3196,11 +3309,12 @@ Chests from:
 
 Pariah's Keepsake
 
- | Deal more damage to factions that hate you.
+ | 
 
+Deal more damage to factions that hate you.
+
+  
 **Requires Power 3**
-
--   Deal more damage to faction members that you have bad reputation with, ex. Etrea, The Central Authority.
 
  | 
 
@@ -3219,7 +3333,10 @@ Purifying Ring
 
  | 
 
-Allows wearer to drink seawater and acid with no side effects.
+Allows wearer to drink sea-water and acid without vomiting.
+
+  
++1 Uncommon Pip
 
  | 
 
@@ -3237,6 +3354,7 @@ Ring Of Curses
 
 This ring runs the random event check more frequently and partially ignores anti-event stacking.
 
+  
 **Requires Power 10**
 
  | 
@@ -3256,8 +3374,9 @@ Ring of Casters
 
  | 
 
-Mantra damage increased by 10% but reduces melee damage by 10%
+Mantra damage increased by 10%, but reduces melee damage by 10%.
 
+  
 **Requires Power 13**
 
  | 
@@ -3292,11 +3411,10 @@ Bloodiron Ring
 
  | 
 
-Grants the ability to recover 2% of Armor durability per kill.
+Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloodirion Spirit)
 
-(Stacks with Bloodiron Spirit)
-
-Grants one random buff.
+  
++1 Uncommon Pip
 
  | 
 
@@ -3314,6 +3432,9 @@ Dazed Band
  | 
 
 Flourishing an opponent has a 50% chance to stun them.
+
+  
++1 Uncommon Pip
 
 **Requires Power 3**
 
@@ -3339,6 +3460,9 @@ Moon Ring
 
 Conceal your age, appearing as if you were younger than 40.
 
+  
++2 Rare Pips
+
  | 
 
 Chests from:
@@ -3362,6 +3486,9 @@ Waning Ring
 
 Conceal your youth, appearing as if you were older than 40.
 
+  
++2 Rare Pips
+
  | 
 
 Chests from:
@@ -3380,6 +3507,9 @@ Akira's Ring
  | 
 
 Gives every weapon 1.2 Willpower scaling when equipped.
+
+  
++1 Legendary Pip
 
 **Requires Power 6**
 
@@ -3411,6 +3541,9 @@ Rosen's Ring
 
 Gives every weapon 1.2 intelligence scaling when equipped.
 
+  
++1 Legendary Pip
+
 **Requires Power 6**
 
  | 
@@ -3434,6 +3567,9 @@ Prophet's Ring
  | 
 
 Gives every weapon 1.2 charisma scaling when equipped.
+
+  
++1 Legendary Pip
 
 **Requires Power 6**
 
@@ -3460,6 +3596,9 @@ Maestro's Ring
 
 Gives every weapon 1.2 agility scaling when equipped.
 
+  
++1 Legendary Pip
+
 **Requires Power 6**
 
  | 
@@ -3485,6 +3624,9 @@ Dawnfist's Ring
  | 
 
 Gives every weapon 1.2 strength scaling when equipped.
+
+  
++1 Legendary Pip
 
 **Requires Power 6**
 
@@ -3514,9 +3656,9 @@ Deepfire Ring
  | 
 
 Flames burn 1.5x faster but goes out 1.5x faster.  
-
 If using Explosion Path: Lava Serpent, explosion delay is reduced.
 
+  
 **Requires Power 5**
 
  | 
@@ -3543,6 +3685,7 @@ Finisher's Ring
 
 Extra PEN on your attacks that flourish opponents.
 
+  
 **Requires Power 13**
 
  | 
@@ -3563,9 +3706,9 @@ Poser’s Ring
 
  | 
 
-Damage done with a Katana isn't received until the user sheathes their weapon\*.
+Damage dealt with a Katana isn't received until the user sheathes their weapon.  
 
-(\*Makes your M1s with a Katana deal direct no damage, instead stacking all of it until you put away your weapon.)
+Stuns the opponent upon a successful damaging sheathe.
 
  | 
 
@@ -3586,10 +3729,9 @@ Quest from [Zana](Zana.md)
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -3604,7 +3746,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -3620,10 +3762,9 @@ Black Fur Boots
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -3640,10 +3781,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -3676,7 +3816,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+4 Health_  
+
++2 Rare Pips
 
  | 
 
@@ -3698,7 +3840,7 @@ Grants a random buff.
 Chests from:
 
 -   [First Layer](First_Layer.md)
--   Duke of Erisia
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Etrean Siege Sabatons.png | 
@@ -3707,10 +3849,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+4 Health_  
 
-  
-_+4 Health_
++2 Rare Pips
 
  | 
 
@@ -3773,10 +3914,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
 
-  
-_+5 Health_
++2 Rare Pips  
+
++1 Legendary Pip
 
  | 
 
@@ -3807,10 +3949,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -3846,10 +3987,12 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-  
 _+2 Health_  
+
++2 Rare Pips  
+
++1 Legendary Pip
+
 _+Talent: Endurance Runner_
 
  | 
@@ -3884,7 +4027,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips  
+
++1 Legendary Pip
 
  | 
 
@@ -3917,10 +4062,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -3955,10 +4099,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
 
-  
-_+5 Health_ **Requires Power 10**
++2 Rare Pips  
+
++1 Legendary Pip
+
+**Requires Power 10**
 
  | 
 
@@ -4027,7 +4174,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+
++2 Rare Pips
 
  | 
 
