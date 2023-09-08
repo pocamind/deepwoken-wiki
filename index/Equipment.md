@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72607
+revid: 72661
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -168,6 +168,7 @@ Chests from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | Normal & Big |
 | File:Alchemist Hat.png | 
@@ -206,9 +207,10 @@ Chests from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | Normal & Big |
-| File:GreyGumshoeHat.png | 
+| File:Dark Gumshoe Hat1.png | 
 
 [Gumshoe Hat](Gumshoe_Hat.md)
 
@@ -225,16 +227,17 @@ Chests from:
 -   [Fort Merit](Fort_Merit.md)
 
  | Dark, Grey, Ochre & White |
-| File:DoubleStrappedHat.png | 
+| File:Black Strapped Hat.png | 
 
 [Black Strapped Hat](Strapped_Hat.md)
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-_+Talent: The Exterminator_  
-_+3 Health_
++2 Rare Pips
+
+_+Talent: The Exterminator_
 
  | 
 
@@ -242,6 +245,7 @@ Chests from:
 
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | Black & Double |
 | File:DoubleStrappedHat.png | 
@@ -250,10 +254,11 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-_+Talent: The Exterminator_  
-_+3 Health_
++2 Rare Pips
+
+_+Talent: The Exterminator_
 
  | 
 
@@ -261,6 +266,7 @@ Chests from:
 
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | Black & Double |
 | File:Investigator's Hat.png | 
@@ -346,7 +352,7 @@ Chests from:
 
 -   [Layer 2](Second_Layer.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   \[\[Hell Mode\]
+-   [Hell Mode](Hell_Mode.md)
 
  |
 | File:Static-assets-upload12843990363310254802.png | 
@@ -453,6 +459,7 @@ Chests from:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
  | Black, Brown, & Deepwoken |
 | File:VigilHood.png | 
@@ -665,6 +672,7 @@ _+Talent: Strong Hold_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | 
@@ -1081,6 +1089,7 @@ Chests from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | Black, Blue, Green, Orange, Red & Yellow |
 | File:Rabel Bandana.png | 
@@ -1153,6 +1162,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
 
  | Default (Black), Red & White |
 |  | 
@@ -1172,6 +1182,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
 
  | Default (Black), Red & White |
 |  | 
@@ -1191,6 +1202,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
 
  | Default (Black), Red & White |
 |  | 
@@ -1419,13 +1431,17 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Common Pip  
+
++1 Rare Pip
 
  | 
 
 Chests from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -1469,16 +1485,16 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3% Stealth_  
 
-  
-_+3% Stealth_
++2 Rare Pips
 
  | 
 
 Chests from:
 
 -   [Fort Merit](Fort_Merit.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | File:Prac.JPG | 
@@ -1528,7 +1544,6 @@ _+2 Health_
 Chests from:
 
 -   [Second Layer](Second_Layer.md)
--   [First Layer](First_Layer.md)
 
  | N/A |
 
@@ -1735,7 +1750,9 @@ Chests from:
 
 Chests from:
 
--   [Miner's Landing](<Miner's_Landing.md>)
+-   [Miner's Landing](<Miner's_Landing.md>) (Rarely)
+-   [Hell Mode](Hell_Mode.md)
+-   [Second Layer](Second_Layer.md) (Rarely)
 
  | N/A |
 |  | 
@@ -1744,10 +1761,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3% Elemental Armor_  
 
-  
-_+3% Elemental Armor_
++1 Legendary Pip
 
  | 
 
@@ -1909,6 +1925,7 @@ _+1 Posture_
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -2306,7 +2323,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+
++2 Rare Pips
 
 _+Talent: Polite Awakening_
 
@@ -2540,8 +2559,28 @@ _+Talent: Kick Off_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
+| File:Brown Overcoat.png | 
+
+Black Overcoat
+
+(**Series**)
+
+ | 
+
+_+3 Health_  
+
++1 Rare Pip
+
+ | 
+
+Chests from:
+
+-   [Hell Mode](Hell_Mode.md)
+
+ | Brown & White |
 | File:Brown Overcoat.png | 
 
 Brown Overcoat
@@ -2550,7 +2589,7 @@ Brown Overcoat
 
  | 
 
-_+2 Health_
+_+2 Health_  
 
 _+1 Posture_
 
@@ -2570,9 +2609,9 @@ White Overcoat
 
  | 
 
-+1 Uncommon Pip
+_+2 Health_  
 
-_+2 Health_
++1 Uncommon Pip
 
  | 
 
@@ -2590,9 +2629,9 @@ Black Parka
 
  | 
 
-_+2 Health_
+_+2 Health_  
 
-_+1 Posture_
+_+1 Posture_  
 
 +1 Rare Pip
 
@@ -2620,9 +2659,9 @@ Brown Parka
 
  | 
 
-_+2 Health_
+_+2 Health_  
 
-_+1 Posture_
+_+1 Posture_  
 
 +1 Rare Pip
 
@@ -2684,8 +2723,8 @@ _+Talent: Winter's Protection_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md) (Floor 1)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
+-   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
 |  | 
@@ -2921,12 +2960,12 @@ Chests from:
  | 
 
 _+10 Health_  
-_+1 Posture'  
-_
+_+1 Posture_  
 
-_+3 Legendary Pips_
++3 Legendary Pips  
+_+Talent: Conquer Your Fears_  
 
-_+Talent: Conquer Your Fears_
+**Requires Power 10, Fortitude 5**
 
  | 
 
@@ -3281,6 +3320,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  |
 |  | 
@@ -3322,6 +3362,8 @@ Chests from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
+-   [Second Layer](Second_Layer.md)
 
  |
 |  | 
@@ -3359,10 +3401,10 @@ Allows the user to slide with little delay.
 
 Chests from:
 
--   [Mudskipper](Mudskipper.md)
-    -   (Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
+-   Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  |
 |  | 
@@ -3390,6 +3432,7 @@ Chests from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Nell, Master of Frost](Nell,_Master_of_Frost.md)
+-   [Hell Mode](Hell_Mode.md)
 
  |
 |  | 
@@ -3861,6 +3904,7 @@ Chests from:
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -3989,7 +4033,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -4201,7 +4245,7 @@ _+5 Health_
 
 Chests from:
 
--   [Deep Widow](Deep_Widow.md)
+-   [Deep Widow](Deep_Widow.md) (The Depths)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 

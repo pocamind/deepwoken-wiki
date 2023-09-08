@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 72293
+revid: 72654
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -11,8 +11,8 @@ categories: [Equipment, Arms, Plates]
 | Diver's Light Plate | |
 |---|---|
 | type | Arms |
-| rarity | Legendary |
-| selling price | 50 |
+| rarity | Mythical |
+| selling price | 100 |
 | requirements | Power 105 Fortitude |
 | weight | 2 |
 | innate stats | 10 Health1 Posture, 3 Pips |

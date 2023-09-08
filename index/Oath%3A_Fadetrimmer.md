@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 72057
+revid: 72618
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -71,7 +71,6 @@ This oath is fully upgraded once you get it.
 -   Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash.
 -   Precision cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description of this oath is a reference to the "Ginger Fringe Incident" meme.
--   ~Revitalizing can be used together with the Frostdraw talent "Saint Jay", which then will heal you for the 10% hp. Instead of the opponent.~ This has been removed in a recent update
 -   Charming can be useful combining it with the Charismatic Cast Talent "Tough Love", This will give you a 10% damage buff.
 -   Due to Revitalizing, Fadetrimmer is a solid oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.
 -   Flammable can proc Lava Serpent, however, I don't know if it can proc other flame talents.

@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 72379
+revid: 72653
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Cloaks]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | Power 13 |
+| requirements | Power 10 |
 | weight | 2 |
 | innate stats | 6 Health3% Stealth, 2 + 1 Pips |
 | innate talent | Now You See Me |
