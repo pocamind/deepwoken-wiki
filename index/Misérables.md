@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 72113
+revid: 72671
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -25,7 +25,7 @@ Upon interaction with the player, Misérables has the ability to grant wishes to
 -   **I seek clarity.**
     -   Grants a Yun'Shul wish and removes [Tarnished](Resonance.md) flaw from the player, at the cost of 15 [Knowledge](Knowledge.md).
 
-**Players can only choose one of each wish per exploration, as attempts to stack either will result in instant death.**
+**Players can only choose one of each wish per exploration, as attempts to get multiple of either will result in instant death.**
 
 ## Dialogue
 

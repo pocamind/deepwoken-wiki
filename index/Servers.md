@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 63937
+revid: 72670
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -20,7 +20,8 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 
 ## Adjectives and Nouns
 
-**Adjectives:**
+-   **Adjectives:**
+    
 
 ### List of Adjectives
 
@@ -33,10 +34,11 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Cheery
 -   Chilled
 -   Clever
--   Crimson
 -   Conniving
+-   Crimson
 -   Cool
 -   Crying
+-   Cunning
 -   Drowned
 -   Dumb
 -   Foolhardy
@@ -47,6 +49,8 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Fashionable
 -   Flaming
 -   Furious
+-   Genius
+-   Goated
 -   Golden
 -   Impudent
 -   Incompetent
@@ -55,13 +59,16 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Laughing
 -   Mischievous
 -   Platinum
+-   Prideful
 -   Prudent
 -   Quick
 -   Running
 -   Screaming
 -   Shocking
 -   Slothful
+-   Smart
 -   Snarky
+-   Spirited
 -   Spritely
 -   Steadfast
 -   Stupid
@@ -71,8 +78,6 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Wayward
     
 
-**Nouns:**
-
 ### List of Nouns
 
 -   Adret
@@ -81,6 +86,7 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Castle
 -   Celestial
 -   Celtor
+-   Church
 -   Crab
 -   Demon
 -   Etrean
@@ -94,6 +100,8 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Ganymede
 -   God
 -   Gremor
+-   Guard
+-   Gunslinger
 -   Hangman
 -   Horror
 -   House
@@ -104,6 +112,8 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Lightborn
 -   Magician
 -   Megalodaunt
+-   Mountain
+-   Mudskipper
 -   Ocean
 -   Rogue
 -   Ruffian
@@ -114,8 +124,10 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Thundercaller
 -   Tree
 -   Thief
+-   Vagabond
 -   Vesperian
 -   Warrior
+-   Wizard
     
 
 ## Trivia
