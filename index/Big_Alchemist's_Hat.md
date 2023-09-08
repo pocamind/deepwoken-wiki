@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 70315
+revid: 72554
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors, Helmets]
@@ -31,4 +31,4 @@ The Big Alchemist's Hat is an Equipment in the "_Head_" category. Equipping this
 ## Trivia
 
 -   The Alchemist's Hat and Big Alchemist's Hat, are stat wise, the same, and only differ in appearance.
--   The Big Alchemist Hat is often used by light users to hide their animations.
+-   The Big Alchemist Hat was notorious for being used by light users to hide their animations. Eventually, its appearance was changed to be more sloped, making it harder to do so.

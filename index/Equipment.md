@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72489
+revid: 72607
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -28,7 +28,7 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pip  
-★★ = +2 Rare Pips  
+★★ = +2 Rare Pips (Max Stars for Face, Ears, Torso, and Rings)  
 ★★★ = +2 Rare Pips +1 Legendary Pip  
 "Grants a Random Buff." = Innate Stats/Pips need confirming
 
@@ -167,6 +167,7 @@ _\+ Talent: Iron Gut_
 Chests from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | Normal & Big |
 | File:Alchemist Hat.png | 
@@ -226,9 +227,26 @@ Chests from:
  | Dark, Grey, Ochre & White |
 | File:DoubleStrappedHat.png | 
 
-[Strapped Hat](Strapped_Hat.md)
+[Black Strapped Hat](Strapped_Hat.md)
 
-(**Series**)
+ | 
+
+Grants a random buff.
+
+_+Talent: The Exterminator_  
+_+3 Health_
+
+ | 
+
+Chests from:
+
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | Black & Double |
+| File:DoubleStrappedHat.png | 
+
+[Double Strapped Hat](Strapped_Hat.md)
 
  | 
 
@@ -328,6 +346,7 @@ Chests from:
 
 -   [Layer 2](Second_Layer.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   \[\[Hell Mode\]
 
  |
 | File:Static-assets-upload12843990363310254802.png | 
@@ -378,7 +397,7 @@ Other sources:
  | N/A |
 | File:Black Hood.png | 
 
-Hood
+Black Hood
 
 (**Series**)
 
@@ -398,7 +417,7 @@ Chests from:
  | Black, Brown, & Deepwoken |
 | File:Brown Hood.png | 
 
-Hood
+Brown Hood
 
 (**Series**)
 
@@ -420,6 +439,8 @@ Chests from:
 
 [Deepwoken Hood](Deepwoken_Hood.md)
 
+(**Series**)
+
  | 
 
 +2 Rare Pips  
@@ -438,12 +459,15 @@ Chests from:
 
 [Assassin's Hood](<Assassin's_Hood.md>)
 
+(**Series**)
+
  | 
 
-Grants a random buff.
+_+5% Stealth_  
 
-_+Talent: Assassin_  
-_+5% Stealth_
++2 Rare Pips
+
+_+Talent: Assassin_
 
  | 
 
@@ -461,7 +485,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips  
+
++1 Legendary Pip
 
  | 
 
@@ -522,9 +548,12 @@ Other sources:
 
  | 
 
-Grants a random buff.  
-_+Talent: Strong Hold_  
-_+8 Health_
+_+8 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip  
+_+Talent: Strong Hold_
 
 **Requires Fortitude 10**
 
@@ -758,11 +787,10 @@ Guardian Helm
 
  | 
 
-Grants a random buff.
-
-  
 _+5 Health_  
 _+1 Posture_
+
+**Requires Fortitude 10**
 
  | 
 
@@ -790,6 +818,7 @@ Grants a random buff.
 Chests from:
 
 -   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | 
@@ -891,10 +920,9 @@ File:Royal Guard's Kabuto.png
 
  | 
 
-Grants a random buff.
+_+8 Health_  
 
-  
-_+8 Health_
++1 Rare Pip
 
  | 
 
@@ -1052,6 +1080,7 @@ Cosmetic
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | Black, Blue, Green, Orange, Red & Yellow |
 | File:Rabel Bandana.png | 
@@ -1097,7 +1126,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Common Pip
 
  | 
 
@@ -1109,20 +1138,61 @@ Chests from:
  | N/A |
 |  | 
 
-Aristocrat Eyeglasses
+[Aristocrat Eyeglasses](Eyeglasses.md)
+
+(**Series**)
 
  | 
 
-Grants a random buff.
++1 Rare Pip
 
  | 
 
 Chests from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 
- | Default, Red & White |
+ | Default (Black), Red & White |
+|  | 
+
+[Red Aristocrat Eyeglasses](Eyeglasses.md)
+
+(**Series**)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | Default (Black), Red & White |
+|  | 
+
+[White Aristocrat Eyeglasses](Eyeglasses.md)
+
+(**Series**)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Chests from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | Default (Black), Red & White |
 |  | 
 
 [Polarized Sunglasses](Eyeglasses.md)
@@ -1165,7 +1235,7 @@ Demon Mask
 
  | 
 
-Grants a random buff.
+Cosmetic
 
  | 
 
@@ -1221,6 +1291,7 @@ Cosmetic
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Songseekermask.png | 
@@ -1229,7 +1300,7 @@ Chests from:
 
  | 
 
-Cosmetic
+Grants a random Buff.
 
  | 
 
@@ -1290,6 +1361,7 @@ Grants a random buff.
 Chests from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 |  | 
@@ -1379,7 +1451,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Common Pip  
+
++1 Rare Pip
 
  | 
 
@@ -1413,7 +1487,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -1502,11 +1576,10 @@ Dark Owl Cape
 
  | 
 
-Grants a random buff.
+_+2% Stealth_  
+_+5% Shadow Armor_  
 
-  
-_2% Stealth_  
-_\+ 5% Shadow Armor_
++1 Legendary Pip
 
  | 
 
@@ -1581,7 +1654,7 @@ Sandrunner Scarf
 
  | 
 
-_+3 Fire Armor_  
+_+3% Fire Armor_  
 
 +1 Rare Pip  
 
@@ -1594,7 +1667,7 @@ Chests from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 
  | N/A |
-| File:Crimson Scarf.png | 
+| File:Dawn Scarf.png | 
 
 Scarf
 
@@ -1630,6 +1703,7 @@ _+3% Elemental Armor_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 |  | 
@@ -1653,7 +1727,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Rare Pip  
+
++1 Legendary Pip
 
  | 
 
@@ -1686,7 +1762,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Legendary Pip
 
  | 
 
@@ -1734,6 +1810,7 @@ Chests from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | File:Canticlysm Pendant.png | 
@@ -1752,7 +1829,8 @@ _+3% Elemental Armor_
 
 Chests from:
 
--   [Second Layer](Second_Layer.md) boat event.
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -1811,6 +1889,7 @@ _+1 Posture_
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -1910,10 +1989,9 @@ Black Fur Pauldrons
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -1949,7 +2027,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+
++2 Rare Pips
 
  | 
 
@@ -2052,9 +2132,6 @@ Chests from:
 
  | 
 
-_+3 Health_  
-_+1 Posture_  
-
 +2 Rare Pips
 
  | 
@@ -2107,9 +2184,6 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-  
 _+2 Health_
 
  | 
@@ -2177,29 +2251,29 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+2 Health_  
 
-  
-_+2 Health_
++1 Uncommon Pip
 
  | 
 
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
-| File:Warden pauldrons.jpg | 
+|  | 
 
 [Warden Pauldrons](Warden_Pauldrons.md)
 
  | 
 
-Grants a random buff.  
-
 _+10 Health_  
 
-_+2 Posture_
+_+2 Posture_  
+
++1 Legendary Pip
 
  | 
 
@@ -2262,6 +2336,8 @@ _+Talent: Battle Tendency_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
 |  | 
@@ -2366,7 +2442,8 @@ _+5% Ironsing Armor_
 
 +1 Rare Pip  
 
-+2 Legendary Pips _+Talent: Defiant until the End_  
++2 Legendary Pips  
+_+Talent: Defiant until the End_  
 
 **Requires Power 3, Fortitude 15**
 
@@ -2387,10 +2464,8 @@ Chests from:
 
 _+5 Health_  
 
-+3 Legendary Pips
-
-_+Talent: Braced Collapse_
-
++3 Legendary Pips  
+_+Talent: Braced Collapse_  
 _+Talent: Kick Off_  
 
 **Requires Power 10**
@@ -2424,6 +2499,7 @@ _+Talent: Hoplite_
 Chests from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | File:Brigand's Cloak.png | 
@@ -2681,7 +2757,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Grayjusticarcoat.png | 
+| File:Sable Adjudicator's.png | 
 
 [Adjudicator's Coat](<Adjudicator's_Coat.md>)
 
@@ -2795,7 +2871,12 @@ _+10 Health_
 
  | 
 
-Grants a random buff.
+_+6% Stealth_  
+_+8% Shadow Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
 
 _+Talent: Disbelief_
 
@@ -2835,11 +2916,15 @@ Chests from:
 
 [Diver's Light Plate](<Diver's_Light_Plate.md>)
 
-(Legendary)
+(Mythical)
 
  | 
 
-+3 Legendary Pips
+_+10 Health_  
+_+1 Posture'  
+_
+
+_+3 Legendary Pips_
 
 _+Talent: Conquer Your Fears_
 
@@ -2893,7 +2978,7 @@ Chests from:
 -   Drop from [Dread Serpent](Dread_Serpent.md)
 
  | Dark, Ochre, Grey & White |
-| File:Black Justicar Defender Coat.png | 
+| File:Faded Justicar Coat.png | 
 
 Justicar Defender
 
@@ -3031,7 +3116,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Dark Royal Duelist.png | 
+| File:Faded Royal Duelist.png | 
 
 [Royal Duelist](Royal_Duelist.md)
 
@@ -3039,7 +3124,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
 **Requires Power 13**
 
@@ -3109,7 +3194,7 @@ Chests from:
 
 **Rings:**
 
-Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple copy of the same ring (with the exception of the silver ring and gold ring). Beside the Silver,Gold and Moon Ring, rings cannot normally have stats: they will need a star rating to be able to do so.
+Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple of the same Ring Type (excluding Silver Rings & Gold Rings).
 
 | Image | Armor | Effects | Primary Source |
 | --- | --- | --- | --- |
@@ -3118,7 +3203,7 @@ Silver Ring
 
  | 
 
-Grants a random buff.
++1 Common Pip
 
  | 
 
@@ -3135,7 +3220,7 @@ Gold Ring
 
  | 
 
-Grants a random buff.
++1 Uncommon Pip
 
  | 
 
@@ -3144,6 +3229,7 @@ Chests from:
 -   Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
 Other sources:
 
@@ -3173,6 +3259,7 @@ Chests from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Hell Mode](Hell_Mode.md)
 
  |
 |  | 
@@ -3403,6 +3490,7 @@ Chests from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  |
 |  | 
@@ -3833,7 +3921,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -3841,6 +3929,7 @@ Chests from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | File:Etrean Siege Sabatons.png | 
@@ -3868,7 +3957,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+
++2 Rare Pips
 
  | 
 
@@ -3933,7 +4024,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -3960,6 +4051,7 @@ Chests from:
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Deep Widow](Deep_Widow.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Leather boots.png | 
@@ -3968,9 +4060,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-_\+ 2 Health_
++1 Common Pip
 
  | 
 
@@ -4122,7 +4212,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+
++2 Rare Pips
 
  | 
 
@@ -4138,7 +4230,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
+
++2 Rare Pips
 
  | 
 

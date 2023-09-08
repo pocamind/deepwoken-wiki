@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 72332
+revid: 72604
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -14,7 +14,7 @@ Considered to be the root of Ether's usage- Mantras, sometimes referred to in lo
 
 Mantras are obtained by receiving a [Whisper](Talents.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Temple_of_the_Blade.md) in the Isle of Vigils. If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the
 
-There are different rarities for mantras, similarly to i am a baddie and want a raise daddy
+There are different rarities for mantras.
 
 ### Legendary Mantras
 
@@ -48,36 +48,36 @@ Mantras are a key aspect of combat, and it is incredibly important to master the
 
 ### Perfect Casting
 
-Perfect Casting a mantra removes the wind-up from it, and will instantly cast it. To perfect cast a mantra, you simply need to click as soon as you select the mantra that you used. There are also various talents that require you to perfect cast in order to make use of them, like Eureka, Jolt Cast, Haunted Gale etc. It will do you well to master this mechanic.
+Perfect Casting a mantra removes the wind-up from it and will instantly cast it. To perfect cast a mantra, you simply need to click as soon as you select the mantra that you used. There are also various talents that require you to perfect cast in order to make use of them, like Eureka, Jolt Cast, Haunted Gale etc. It will do you well to master this mechanic.
 
 ### Mantra Cancelling
 
-Mantra Cancelling is exactly what it sounds. You cancel a mantra, which essentially feints the mantra you used. Cancelling a mantra will not put it in cooldown, but will still take the Ether required to cast it. To cancel a mantra, you need to click M2 as soon as you cast it. Some mantras require you to perfect cast it before you are able to mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed mantra cancel can lead to some crazy mix-ups. Some talents even grant the user certain advantages when cancelling mantras, such as Galebreathe users being able to Inhale their mantras for buffs.
+Mantra Cancelling is exactly what it sounds. You cancel a mantra, which essentially feints the mantra you used. Cancelling a mantra will not put it in cooldown but will still take the Ether required to cast it. To cancel a mantra, you need to click M2 as soon as you cast it. Some mantras require you to perfect cast it before you are able to mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed mantra cancel can lead to some crazy mix-ups. Some talents even grant the user certain advantages when cancelling mantras, such as Galebreathe users being able to Inhale their mantras for buffs.
 
 ## Types of Mantras
 
-A player's mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding mantra. Similarly to weapons and armor, mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
+A player's mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding mantra. Similarly, to weapons and armor, mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
 
 ### [Flamecharm Mantras](Flamecharm.md)
 
-Large and threatening fire based spells. Excels in crowd control and area denial as many spells have large range.
+Large and threatening fire-based spells. Excels in crowd control and area denial as many spells have large range.
 
 -   Very good at close range
 -   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any mantra for the removal of burn.
--   Can be further upgraded with Azure Flame for even more damage
+-   Can be further upgraded with Azure Flame for even more damage.
 -   Decent midrange presence
 -   Good pressure
--   Great at dealing LOTS of damage
+-   Great at dealing LOTS of damage.
 
 ### [Thundercall Mantras](Thundercall.md)
 
-Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with somewhat small start up for closing distance, or keeping a opponent on edge.
+Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with somewhat small start-up for closing distance or keeping an opponent on edge.
 
 -   Lightning has a wide variety of useful spells for PvE and exploring the world.
 -   Typically used mid/long range.
 -   Great pressure.
 -   A lot of fight control and escape mantras.
--   Most thundercall mantras work with blast spark
+-   Most thundercall mantras work with blast spark.
 
 ### [Frostdraw Mantras](Frostdraw.md)
 
@@ -85,7 +85,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
 -   Crystallization can be unlocked at 40 frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
--   Typically used close/mid range.
+-   Typically used close/mid-range.
 -   Has a best mobility mantra "Ice Skate" because of its rare modifier.
 -   Works with most Spike Modifiers.
 -   Has small cooldowns.
@@ -98,21 +98,21 @@ Wind utilizes the best all-rounder kit amongst the elements for movement, defens
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.
--   Applies suffocate; negating mantras of the opponent. Happens when using wind gun, gale trap or using world without song.
+-   Applies suffocate, negating mantras of the opponent. Happens when using wind gun, gale trap or using world without song.
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
 Uses dark energy to siphon Ether from others into the user's own Ether.
 
--   Excels in keep the opponent locked down and under pressure
+-   Excels in keep the opponent locked down and under pressure.
 -   Has its niche in keeping the Ether bar up and making sure others can't use Ether.
 -   Goes well when paired with other elements.
--   Applies obscured; obscuring the vision of the opponent.
--   Typically used mid range.
+-   Applies obscured, obscuring the vision of the opponent.
+-   Typically used mid-range.
 
 ### [Ironsing Mantras](Ironsing.md)
 
-Ironsing provides the widest ranged mantras in the game and the best damage output based on your opponents mistakes and missteps.
+Ironsing provides the widest ranged mantras in the game and the best damage output based on your opponent's mistakes and missteps.
 
 -   Offers mantras that favor the user, benefits both short and long distance.
 -   Tunes in well with the metal enchantment, as the metal path gives you benefits depending on how much armor your opponent has.
@@ -135,7 +135,7 @@ Mantras you get by turning in monster parts to a NPC in Castle Light. To get the
 -   Enforcer -> Enforcer's Eye -> Enforcer Pull
 -   Mechalodaunt -> Broken Gatling Gun -> Mecha Gatling (Bullet Fury)
 
-All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs chill and will proc crystal if you have the path. This also goes for Mecha Gatling as it procs fire and will proc lava path if you have the path
+All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs chill and will proc crystal if you have the path. This also goes for Mecha Gatling as it procs fire and will proc lava path if you have the path.
 
 ### [Oath Mantras](Oaths.md)
 

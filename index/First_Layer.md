@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 71242
+revid: 72498
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -272,12 +272,13 @@ Legendary = Gold
 
 ## Trivia
 
+-   Scyphozia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile Scyphozia's main enemies are [Gigameds](Gigamed.md).
+-   The ability for monsters to spawn corrupted appears to be intrinsic to the First Layer rather than the monsters themselves, as monsters from the Second Layer can be corrupted if spawned in the First Layer, but for those not naturally encountered, like a [Carbuncle](Carbuncle.md) or [Bounder](Bounder.md), will usually have their AI broken as a result.
 -   Players can also be sent to The Depths if they combat log (closing the game in the middle of combat), as it serves as a punishment for combat logging.
 -   [Resonances](Resonance.md) can be unlocked by becoming knocked in the Depths, while having enough of the hidden progress bar filled. Read the page for more information.
--   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. This permanently unlocks [Shadow Magic](Shadowcast.md) for future lives.
+-   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. This permanently unlocks [Shadowcast](Shadowcast.md) for future lives.
 -   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyes out and die.
 -   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
--   Scyphozia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile Scyphozia's main enemies are [Gigameds](Gigamed.md).
 -   The Meteor Event in the Depths can create any of the Depths monsters, and killing all of the Depths monsters it has spawned will reward you with four chests filled with highly valuable loot.

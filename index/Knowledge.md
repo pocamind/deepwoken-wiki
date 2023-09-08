@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 71982
+revid: 72496
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,7 +20,6 @@ categories: [Mechanics]
 Your Knowledge **grows**...
 
   
-
 Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build-- aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
 
 With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled [**Misérables**](Misérables.md) so long as they have sufficient _Knowledge._
@@ -33,37 +32,27 @@ Knowledge is a special in-game currency that can be used to engage in a deals wi
 
 ### Ways of Obtaining Knowledge
 
-Achieving milestones and completing certain quests will award the player with Knowledge. Below are some common ways to obtain knowledge, with more advanced ways being hidden for discovery.
+Achieving milestones and completing certain quests will award the player with Knowledge.
 
 -   Purchasing Starting Knowledge ([Echo Upgrade](Echoes.md)), awarding 1 Knowledge per Upgrade level, with the maximum being 5 Knowledge. _The currency is granted to every slot upon **creation of a new character**. It won't be given to already-existing characters._
 -   Gaining [Power](Power.md), awarding 1 Knowledge per Power level, with the maximum being 19 Knowledge.
--   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete. _One time use._
+-   Finishing [Beiruul's](Beiruul.md) quest on [Meteor Isle](Meteor_Isle.md), awarding 2 Knowledge when returning to her after the quest is complete.
 -   Collecting [Kyrsan Medallions](Kyrsan_Medallions.md) and handing them into [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 Medallions for 5 Knowledge after beating [Scion of Ethiron](Scion_of_Ethiron.md) and escaping [New Kyrsa](Second_Layer/New_Kyrsa.md). _This can be repeated as long that you have the medallions to afford it. **Klaris will refuse your Medallions (for some reason...) if you are below Power 15.**_
 -   Finishing Mendacia's quest in Layer 2 Floor 1, awarding 2 Knowledge after talking to her in Layer 2 Floor 2 (Denying quest also give you knowledge though)
 -   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
--   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.
--   Killing [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
--   Killing [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
--   Killing [Crimson Megalodaunt](Megalodaunt.md) for the first time, awarding 1 Knowledge.
--   Killing [Deep Owl](Deep_Owl.md) for the first time, awarding 1 Knowledge.
--   Killing [Bone Keeper](Bone_Keeper.md) for the first time, awarding 1 Knowledge.
--   Killing [The Enforcer](Enforcer.md) for the first time, awarding 1 Knowledge.
--   Killing [King Thresher](Thresher.md) for the first time, awarding 1 Knowledge.
--   Killing [Blizard Knight](Stone_Knight.md) for the first time, awarding 1 Knowledge.
--   Killing [Mechalodaunt](Megalodaunt.md) for the first time, awarding 1 Knowledge.
--   Killing [Deep Widow](Deep_Widow.md) for the first time, awarding 1 Knowledge.
--   Killing [Nautilodaunt](Nautilodaunt.md) for the first time, awarding 1 Knowledge.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
 -   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge.
     -   Killing [The Ferryman](The_Ferryman.md) in Spring. This rewards 1 Knowledge and can be repeated.
-
 -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
-    -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 8750 damage (35% of his HP). This rewards 1 Knowledge and can be repeated.
--   Killing [Corrupted Monster](Monsters.md) for the first time, awarding 1 Knowledge.
+    -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 35% of his HP. This rewards 1 Knowledge and can be repeated.
+-   Killing the [Duke of Erisia](Duke_Ishamon_Erisia.md) for the first time, awarding 2 Knowledge once teleported out of the dungeon.
+-   Killing [Scion of Ethiron](Scion_of_Ethiron.md) for the first time, awarding 2 Knowledge.
+-   Killing [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
+-   Killing the following monsters for the first time, awarding 1 Knowledge each:
+    -   [Crimson Megalodaunt,](Megalodaunt.md) [Mechalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md), [Deep Owl](Deep_Owl.md), [King Thresher](Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md), [The Enforcer](Enforcer.md), [Bonekeeper](Bone_Keeper.md), [Corrupted Monster](Monsters.md).
 
-  
-(Existing characters will get this Knowledge the next time they kill them)
+Assuming no repeatable methods (No Klaris and repeatable bosses knowledge only done once), the maximum obtainable knowledge is 58.
 
 The limit of on-hand Knowledge a player can have is 99. **The currency is bound to a slot and is lost upon wipe.**
 

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 72093
+revid: 72603
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -12,11 +12,11 @@ categories: [Mechanics, Character, Creation]
 
 They are modifiers that effect gameplay in various ways, including vital core mechanics such as ether, hunger, and reputation, for the better, or worse.
 
-## Boons
+Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
 
-Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The amount of Boons able to be picked is dependent on the amount of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
+**Boons:**
 
-### List of Boons
+Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
@@ -37,11 +37,9 @@ Unlocked from paying off your negative reputation with any faction.
 
  | 1 |
 
-## Flaws
+**Flaws:**
 
 Flaws are negative and harmful effects. They usually have more of an impact than Boons. Picking more Flaws allows more Boons to be picked.
-
-### List of Flaws
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |

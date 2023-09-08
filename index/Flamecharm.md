@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 71967
+revid: 72491
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -777,7 +777,7 @@ Hell's Partisan
 
  | 
 
-When Warding Radiance is active you leave trails of flame when you slide.
+After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above
 
  | 
 
@@ -794,7 +794,7 @@ Warding Radiance
 
  | 
 
-When Warding Radiance is active you leave trails of flame when you slide.
+Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
 
  | 
 
