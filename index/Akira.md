@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 72160
+revid: 72687
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -135,7 +135,7 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   His [bell](Resonance.md) is corrupted.
 -   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons a laser across the ground in front of him, creating a line of frost.
     -   This is similar in function to the mantra Frost Wisp, but neither a wisp is generated, nor does it function the same way, firing an aimable laser, rather than one straight down.
--   His sword is the only instance of a Katana being strapped to the back rather than sheathed.
+-   His sword is the only instance of a Katana being strapped to the back rather than sheathed. (It is confirmed to be actually floating behind him, rather than being strapped to his back.)
 -   Akiras hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
 -   Akira's bell is officially called "Top-pop."

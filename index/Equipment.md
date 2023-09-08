@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72661
+revid: 72698
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -4348,9 +4348,10 @@ Chests from:
 ## Trivia/Notes
 
 -   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
+-   No torso equipment can be found in Erisia, it is recommended to go to Minityrsa or the Eastern Luminant, as torso equipment is very common there.
 -   Some Equipment such as [Star Dusters](Star_Duster.md), [Royal Duelists](Royal_Duelist.md) and the [Megalodaunt Coats](Megalodaunt_Coat.md) require you to be at a certain Power level to use.
 -   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
 -   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
--   The Providence Coat might be a reference to the coat Dante wore in the game Devil May Cry 5, but this has not yet been confirmed.
+-   The Providence Coat might be a reference to the coat [Dante](https://devilmaycry.fandom.com/wiki/Dante) wore in the game [Devil May Cry 5](https://devilmaycry.fandom.com/wiki/Devil_May_Cry_5), but this has not yet been confirmed.
 -   Poser's Ring cannot be dropped as it will be soulbounded to your character.
 -   There is a secret location in the [Ancient Rotlands](Ancient_Rotlands.md) near the 2nd spawn of [Nightmare Threshers](https://deepwoken.fandom.com/wiki/Thresher#Nightmare_Thresher) where deep [Angels](Hollow_Angel.md) spawn, and killing them give you a chest with full legendary rings.

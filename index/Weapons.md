@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 72499
+revid: 72706
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -14,11 +14,11 @@ _Tools constructed with the intent to harm others, polished to be efficient kill
 
   
   
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a Weapon Manual in order to allocate your investment points to your Weapon Stat. Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via unbounding your weapon stat (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per level for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a [Weapon Manual](Training_Gear.md) in order to allocate your investment points to your [Weapon Stat](Attributes.md). Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via [unbounding your weapon stat](Attributes_Unbound.md) (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per level for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
 
-When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md). Certain weapons can also scale off of a player's Attunement ([Hero Blades](Hero_Blades.md), for example), or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example).
+When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an [enchant or a curse](Enchantments.md). Certain weapons can also scale off of a player's [Attunement](Attunements.md) ([Hero Blades](Hero_Blades.md), for example), or just another attribute altogether ([Light's Final Toll](<Light's_Final_Toll.md>), for example).
 
-Enchanted weapons always have at least one star.
+[Enchanted](Enchantments.md) weapons always have at least one star.
 
 **There are 92 weapons in Deepwoken.** (Excluding alloyed variations and offhand weapons.)
 
@@ -27,9 +27,9 @@ Enchanted weapons always have at least one star.
 Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
 
 -   **Light Weapons** are locked to One Handed stance.
-    -   **Fists** are able to switch between Way of Navae and Legion Kata.
+    -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
 -   All **Medium Weapons** can freely switch between One Handed and Two Handed stance. (except for rifles)
--   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the talent One Handed Training (40 HVY Req, Located in the Weapons Master category) allows the usage of One Handed stance with them.
+-   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the [talent](Talents.md) One Handed Training (40 HVY Req, Located in the Weapons Master category) allows the usage of One Handed stance with them.
 
 ### One-Handed
 
@@ -44,11 +44,11 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 ## Key Terminology
 
--   **Requirements:** How much of the attribute(s) you need to wield that weapon.
+-   **Requirements:** How much of the [attribute(s)](Attributes.md) you need to wield that weapon.
 -   **Damage:** How much harm a weapon inflicts onto the opponent.
--   **Penetration:** Runs by percentage (%). Determines how much of your damage ignores armor.
+-   **Penetration:** Runs by percentage (%). Determines how much of your damage ignores [armor](Outfits.md).
 -   **Chip Damage:** Damage that bypasses blocking.
--   **Scaling:** Additional damage your weapon will deal based on how many points you invest into the attribute.
+-   **Scaling:** Additional damage your weapon will deal based on how many points you invest into the [attribute](Attributes.md).
 -   **Weight:** How much posture damage is dealt when hitting an opponent who's blocking.
 -   **Range:** How far your weapon can reach. (Does not calculate by stud.)
 -   **Swing Speed:** How fast your weapon can strike per M1.
@@ -57,7 +57,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 -   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total; causes more blood loss.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
 -   **Legendary:** Powerful and rare weapons that cannot be enchanted and are soulbound upon equipping them. (not to be confused with Legendary Rarity weapons.)
--   **Level:** The level required to use the weapon
+-   **Level:** The [level](Power.md) required to use the weapon
 
 ## Types of Weapons
 
@@ -1754,9 +1754,9 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
 
 ## Trivia
 
--   You can pass down soulbound weapons for 60 echoes each, however the weapon will be automatically soulbound to the next character.
+-   You can pass down soulbound weapons for 60 [echoes](Echoes.md) each, however the weapon will be automatically soulbound to the next character.
 -   Changing stances, contrary to popular belief, does NOT affect swing speed.[\[1\]](#cite-note-1)
--   Hero Blades scale with **Proficiency**, as opposed to **Songchant**.
+-   [Hero Blades](Hero_Blades.md) scale with **Proficiency**, as opposed to **Songchant**.
 -   The weapon with the highest:
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Shattered Katana (100 MED)

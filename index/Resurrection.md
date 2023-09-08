@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 69526
+revid: 72696
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,7 +52,16 @@ When obtained, Resurrection will spend its points on the following stats:
 
 ### _Corrupted_
 
-**Corrupted Resurrection** has more points which means it has improved stats compared to normal resurrection.
+**Corrupted Resurrection** has more points which means it has improved stats compared to normal resurrection. With the new corrupted bell reworks, resurrection has been seen used to revive multiple people at once. While this case in point has been confirmed, the limitations of this ability have yet to be confirmed. The known effects are:
+
+-   Resurrecting multiple people at the same time
+-   Resurrecting downed allies being a base ability (Like corrupted kamui's combat ability)
+-   Resurrecting with more health
+
+The speculated effects are:
+
+-   Decreased cooldown in turn for full HP revival (Similar to the second wind from bells)
+-   Hyperarmor on revive similar to Run it Back
 
 ## Trivia
 
@@ -65,3 +74,4 @@ When obtained, Resurrection will spend its points on the following stats:
 -   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally.
 
 -   The second bell with a passive ability, the other being [Jar of Souls](Jar_of_Souls.md).
+-   The unfinished version of this bell used to be the third Legendary Resonance, displaying a gold visual upon bell obtainment, but doing nothing upon bell activation, the bell was eventually reworked and downgraded to a common resonance, and all previous resurrection bell users had their bells replaced by another random Legendary Resonance.

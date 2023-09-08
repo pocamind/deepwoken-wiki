@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 72491
+revid: 72708
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -15,14 +15,6 @@ Your ability to call upon Fire, Magma, and Ash. Burn all around you.
 Flamecharm icon
 
 Flamecharm grants the user the ability to create combustion using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
-
-The playstyle of this element is a jack of all trades and combat mobility. Flamecharm is surprisingly good at many of the things it is able to do, and sometimes even exceeds the capabilities of other elements in what they should be good at. Flamecharm is an incredibly diverse attunement compared to the others with talents ranging from allowing you to move forward a little bit after casting a mantra all the way to being able to summon a clone made of fire to damage your opponent upon dodging. This element is able to fit just about any playstyle due to its huge arsenal of talents and mantras, but most matches someone who likes to play a support role in the team, most teams are never complete without at least one flamecharmer for support. The attunement is easy and starter-friendly, most notable of the burn effect. It will automatically grip knocked NPCs, easily allowing you to progress really fast.
-
-However, despite its out-of-combat utility and extreme PVE viability, Flamecharm tends to suffer at higher levels of PVP play. It has a relatively telegraphed and predictable moveset making it parriable and dodgable. And an adept opponent will be able to out-time a repetitive wielder's attacks due to people catching onto Flamecharm's repetitive and spammy moveset. This is especially notable in Galebreathe and Thundercall matchups, with tools to take great advantage of a mistake and to control the pacing of a fight respectively. It's suggested to use your mantras as surprise explosive follow-ups to counter this weakness.
-
-Flamecharm excels defensively alike Frostdraw especially with Mirage Clone (which should honestly be a legendary at this point.). Flamecharm applies immense pressure on opponents that attack you and leave opponents in pressure constantly, in skilled hands, Flamecharm can be very powerful. Flamecharm moves are also quite difficult to parry, some moves come out very quick, there's Fire Blade which may knock off opponents who are speeding up their thought process to counteract your pressure and there's the aerial moves which mechanically make victims limited to parrying in very tight timing. Most Flamecharm mantras are also very visually disorientating with eruptions, fires, and blasts engulfing your opponent's screen and the only ones who have to worry about it are your victims. With all of this pressure and visual info being crammed into your opponent's head, it's more than likely to overwhelm your opponents. Then, coupled with your ability to slow down the pacing of your assault, you may truly out-play some people. This is unlikely on level-headed users though, even using Flame Blind could potentially be useless since they won't be confused by visual effects, will still be able to see your name tag and can act according to sound (e.g them attacking you after parrying).
-
-Flamecharm can be extremely powerful in PVP combat in the hands of experienced users. It's capable of applying pressure not exhibited by even the Frostdraw crystal path combos. Washing your opponent's screen in particle effects that obscures their ability to gain proper visual info with stuff like _Mirage Clone_ literally acting as a smoke screen. This attunement also applies fire damage that obligates them to roll it off or serves to increase the damage output of Flamecharm assaults by a ton. Great AOE mantras and a good selection of quick or slow mantras that help experienced Flamecharm enjoyers synergies exceptional mantra decks. Flamecharm has two great mobile moves, Flame Leap and Flame Assault. Overall, Flamecharm is a very powerful attunement. It's only stated above that it suffers in PVP because it's rather difficult to master and construct Flamecharm builds to excel at PVP like other attunements do but depending on the people using it and how they use it. It can be devastating to deal with. One thing to note is that it's moves suffer in PVP **by themselves** the way Thundercall moves or Galebreath moves do. So, going back to what's stated above about synergy? That's something you HAVE to do well. This is why sometimes instead of worrying about your opponents in-game posture, you should be more focused on their mental posture. To guard break your adversary not mechanically but mentally is often exponentially more effective since they will have the tools to retaliate but won't be able to use them.
 
 ## Training Flamecharm
 
@@ -77,7 +69,7 @@ Flame Repulsion
 
 _An exertion of flames._
 
- | After a wind-up of ~2 seconds, user releases a burning AoE blast.
+ | After a wind-up of 0.5 seconds, user releases a burning AoE blast.
 
 -   Unable to move during wind-up.
 -   Deals moderate damage.
@@ -220,9 +212,8 @@ _Toss a nimble dagger._
 
 -   Deal light damage.
 
--   Inflicts Burn.
-
--   Improved by Talent "Hell's Partisan"
+-   Does not inflict Burn.
+-   Improved by Talent "Hell's Partisan," allowing it to inflict Burn.
 
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
@@ -373,8 +364,8 @@ _Undying flame._
 
  | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
--   Prevents the user from being knocked for 30 seconds if damage isn't substantial.
-    -   Regenerates ~15% of user's health upon receiving lethal damage.
+-   Prevents the user from being knocked for 30 seconds, doubled to 60 seconds if Azure Flames has been unlocked, if damage isn't substantial.
+    -   Regenerates ~15% of the user's health, doubles if Azure Flames has been unlocked, upon receiving lethal damage.
 -   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.
 -   Restores some of the user's sanity.
