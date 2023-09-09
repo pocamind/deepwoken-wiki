@@ -1,11 +1,11 @@
 ---
 title: Equipment
-revid: 72775
+revid: 72849
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
 notices:
-  - "This page is currently being worked on. Some things may be incomplete or incorrect. If you can help with images or stats, that'd be appreciated!"
+  - This page is currently being worked on. Some things may be incomplete or incorrect.
 ---
 
 # Equipment
@@ -128,6 +128,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 </table>
 
   
+_If you see an ugly image / "Grants a Random Buff" text, that means the equipment info is incomplete, DM Witherald if you have the corresponding items so he can update them_
 
 **Head:**
 
@@ -350,11 +351,11 @@ _\+ Talent: Giantslayer_
 
 Chests from:
 
--   [Layer 2](Second_Layer.md)
+-   [Second Layer](Second_Layer.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Hell Mode](Hell_Mode.md)
 
- |
+ | N/A |
 | File:Static-assets-upload12843990363310254802.png | 
 
 [Brigand's Bicorn](<Brigand's_Bicorn.md>)
@@ -430,7 +431,7 @@ Brown Hood
  | 
 
 _+1 Posture_  
-_+4% Stealth_
+_+2% Stealth_
 
  | 
 
@@ -608,13 +609,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+5 Health_  
+_+2 Posture_  
+
++2 Rare Pips  
+_+Talent: Concussive Force_  
 
 **Requires Fortitude 20**
-
-  
-_+5 health_  
-_+2 posture_
 
  | 
 
@@ -683,6 +684,8 @@ File:Captainskabuto.png
 
 [Captain's Kabuto](<Captain's_Kabuto.md>)
 
+(**Series**)
+
  | 
 
 _+8 Health_  
@@ -695,7 +698,7 @@ Chests from:
 
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | Guard's, Royal Guard's, Captain's |
 |  | 
 
 [Celtor Commander Helm](Celtor_Commander_Helm.md)
@@ -817,6 +820,8 @@ Other sources:
 
 [Guard's Kabuto](<Guard's_Kabuto.md>)
 
+(**Series**)
+
  | 
 
 Grants a random buff.
@@ -828,7 +833,7 @@ Chests from:
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
- | N/A |
+ | Guard's, Royal Guard's, Captain's |
 | 
 
 File:Khan Helmet.png
@@ -839,11 +844,12 @@ File:Khan Helmet.png
 
  | 
 
-Grants a random buff.
+_+10 Health_  
+_+2 Posture_  
 
-  
-_\+ 10 Health_  
-_\+ 2 Posture_
++1 Uncommon Pip
+
+**Requires Fortitude 15**
 
  | 
 
@@ -926,6 +932,8 @@ File:Royal Guard's Kabuto.png
 
 [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)
 
+(**Series**)
+
  | 
 
 _+8 Health_  
@@ -938,7 +946,7 @@ Chests from:
 
 -   [First Layer](First_Layer.md)
 
- | N/A |
+ | Guard's, Royal Guard's, Captain's |
 |  | 
 
 Smith Bandana
@@ -1035,7 +1043,7 @@ Chests from:
 
 -   [Erisia](Erisia.md)
 
- | White |
+ | N/A |
 |  | 
 
 [Black Blindfold](Blindfold.md)
@@ -1054,7 +1062,7 @@ Chests from:
 -   [Blacksmith Reward](Blacksmith.md)
 -   [Fishing](Fishing.md)
 
- | Default |
+ | Black & Crimson |
 |  | 
 
 [Crimson Blindfold](Blindfold.md)
@@ -1072,7 +1080,7 @@ Chests from:
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
- | N/A |
+ | Black & Crimson |
 | File:Red Headband.png | 
 
 [Headband](Headband.md)
@@ -1306,13 +1314,15 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
-| File:Songseekermask.png | 
+|  | 
 
 [Royal Guard](Aspirant_Mask.md)
 
  | 
 
-Grants a random Buff.
++1 Uncommon Pip  
+
++1 Rare Pip
 
  | 
 
@@ -1366,7 +1376,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -1400,7 +1410,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -1621,7 +1631,7 @@ Chests from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
  | Black & Golden |
-| File:Onepiececape.png | 
+| File:Onyx Fleet Warden Cape.png | 
 
 Fleet Warden Cape
 
@@ -1750,9 +1760,9 @@ Chests from:
 
 Chests from:
 
--   [Miner's Landing](<Miner's_Landing.md>) (Rarely)
+-   [Miner's Landing](<Miner's_Landing.md>) ^(Rarely)
 -   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md) (Rarely)
+-   [Second Layer](Second_Layer.md) ^(Rarely)
 
  | N/A |
 |  | 
@@ -1914,11 +1924,10 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-  
 _+3 Health_  
-_+1 Posture_
+_+1 Posture_  
+
++2 Rare Pips
 
  | 
 
@@ -2002,7 +2011,9 @@ Chests from:
  | N/A |
 | File:Black Fur Pauldrons.png | 
 
-Black Fur Pauldrons
+[Fur Pauldrons](Fur_Pauldrons.md)
+
+(**Series**)
 
  | 
 
@@ -2083,7 +2094,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Rare Pip
 
  | 
 
@@ -2299,24 +2310,6 @@ Chests from:
 -   [Fort Merit](Fort_Merit.md)
 
  | N/A |
-| File:Whitefurpauldrons.png | 
-
-White Fur Pauldrons
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
- | 
-
-Chests from:
-
--   [Erisia](Erisia.md)
--   [Aratel Island](Aratel_Island.md)
-
- | Black & White |
 |  | 
 
 [Woodland Pauldrons](Woodland_Pauldrons.md)
@@ -2365,11 +2358,14 @@ Chests from:
 
  | 
 
-Grants a random buff.
-
-_+Talent: Lowstride_  
 _+5 Health_  
-_+2 Posture_
+_+2 Posture_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Lowstride_
 
  | 
 
@@ -2563,7 +2559,7 @@ Chests from:
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
-| File:Brown Overcoat.png | 
+| File:Black Overcoat.png | 
 
 Black Overcoat
 
@@ -2581,7 +2577,7 @@ Chests from:
 
 -   [Hell Mode](Hell_Mode.md)
 
- | Brown & White |
+ | Black, Brown, & White |
 | File:Brown Overcoat.png | 
 
 Brown Overcoat
@@ -2601,7 +2597,7 @@ Chests from:
 -   [Erisia](Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 
- | Brown & White |
+ | Black, Brown, & White |
 | File:White Overcoat.png | 
 
 White Overcoat
@@ -2621,7 +2617,7 @@ Chests from:
 -   [Erisia](Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
 
- | Brown & White |
+ | Black, Brown, & White |
 | File:Black Parka.png | 
 
 Black Parka
@@ -2815,7 +2811,7 @@ Chests from:
 
 -   [Fort Merit](Fort_Merit.md)
 
- | Ash, Beige, Pink, Rural, Sable & Tawny |
+ | Ash, Pink, Rural, Sable & Tawny |
 | 
 
  | 
@@ -2925,6 +2921,7 @@ _+Talent: Disbelief_
 Chests from:
 
 -   [First Layer](First_Layer.md)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 | File:Black Deepwoken Cloak.png | 
@@ -3012,6 +3009,7 @@ Other sources:
 Chests from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
 
 Chests from:
 
@@ -3042,7 +3040,7 @@ Other sources:
 
 -   Drop from [Corrupted King Threshers](King_Thresher.md)
 
- | Red, Black, Faded, Black, Orange & Purple |
+ | Red, Black, Faded, Jet Black, Orange & Purple |
 | File:Sharko coat.png | 
 
 [Megalodaunt Coat](Megalodaunt_Coat.md)
@@ -3085,8 +3083,7 @@ _+10 Ether_
 
 Chests from:
 
--   [Aelita](Aelita.md)
--   [Minityrsa](Minityrsa.md) (Valley of Heroes)
+-   [Minityrsa](Minityrsa.md) (Valley of Heroes, Hero Blade Event)
 
  | Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
 |  | 
@@ -3932,7 +3929,7 @@ Chests from:
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -4019,7 +4016,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+4 Health_  
+
++2 Rare Pips
 
  | 
 
@@ -4143,10 +4142,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 
@@ -4216,10 +4214,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 

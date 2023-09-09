@@ -1,6 +1,6 @@
 ---
 title: Plain Hood
-revid: 70982
+revid: 72797
 source: https://deepwoken.fandom.com/wiki/Plain_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors, Equipment]

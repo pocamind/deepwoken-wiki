@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 70031
+revid: 72800
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Coats]
 
 ## Description
 
-Aristocrat Coat is an equipment item under the Arms category. Equipping it grants you 6 Health, 2 Pips, 1 Legendary Pip, and the [Talent](Talents.md) Art of the Deal, which greatly increases the selling price of items. It is commonly found in chests from [Summer Isle](Summer_Isle.md).
+Aristocrat Coat is an equipment item under the Arms category. Equipping it grants you 6 Health, 2 Pips, 1 Legendary Pip, and the [Talent](Talents.md) Art of the Deal, which reduces item costs by 12%. It is commonly found in chests from [Summer Isle](Summer_Isle.md).
 
 ## Trivia
 

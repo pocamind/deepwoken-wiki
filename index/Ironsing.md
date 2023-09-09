@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 72719
+revid: 72779
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -26,7 +26,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Ironsing level 1, players will receive the _Ironsinger_ Talent. This allows players to use 0-star Ironsing mantras.
 -   At Ironsing level 20, players will receive the _Adept Ironsinger_ Talent. This allows players to use 1-star Ironsing mantras.
 -   At Ironsing level 30, players will receive the _Expert Ironsinger_ Talent. This allows players to unlock 2-star Ironsing mantras.
--   Finally, at Ironsingt level 50, players will receive the _Master Ironsinger_ Talent. This finally allows Ironsing users to unlock the last category, 3-star Mantras.
+-   Finally, at Ironsing level 50, players will receive the _Master Ironsinger_ Talent. This finally allows Ironsing users to unlock the last category, 3-star Mantras.
 
 The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). These ores are Iron, Gold, Erisore, Irithine, Astruline, and Umbrite respectively. After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
 

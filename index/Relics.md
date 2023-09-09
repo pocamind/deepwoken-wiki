@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 72771
+revid: 72852
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -36,11 +36,17 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
 -   Note that to reroll your bell using the Idol of Yun'Shul, you must not have the [tarnished](Boons_and_Flaws.md) flaw.
 
  | Drops in chest from [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) and [Depths](First_Layer.md) |
-| Sinner's Ash | corrupts your bell
+| 
 
-no more no less
+File:Sinner's Ash.png
 
- | Drops in chest from Duke erisia |
+ | **Sinner's Ash**
+
+-   corrupts your bell
+
+-   no more no less
+
+ | Drops in chest from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) |
 
 ## Lore Relics
 

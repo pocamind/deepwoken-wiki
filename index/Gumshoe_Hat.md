@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 72652
+revid: 72833
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -20,11 +20,11 @@ categories: [Character, Armors]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Fort Merit Primadon |
+| obtainment | Fort Merit |
 | description | - "..." |
 
 ## Description
 
 "..."
 
--   Findable in Songseeker Wilds / Minitrysa
+-   Mostly findable in Fort Merit

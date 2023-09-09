@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 72752
+revid: 72782
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -23,7 +23,7 @@ notices:
 
 Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the end of Castle Light. She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
-She is a young Canor who sports curly bangs that end onto her shoulders. Her pupils are much more pale as well as having unique facial markings down to her cheeks, and a floating orb that resembles the Moonseye, as a result of being the inventor of Radiant Magic. She wears the standard [coat of the Black Divers](Black_Diver.md).
+She is a young Adret, who sports curly bangs that end onto her shoulders. Her pupils are much more pale as well as having unique facial markings down to her cheeks, and a floating orb that resembles the Moonseye, as a result of being the inventor of Radiant Magic. She wears the standard [coat of the Black Divers](Black_Diver.md). Apperiance of Klaris has changed due to usage of radiant tones, someone put here that she is a Canor.
 
 Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
