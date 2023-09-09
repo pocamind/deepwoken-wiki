@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 72639
+revid: 72741
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -64,13 +64,13 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   Million Ton Piercer **or** Ether Overdrive
 -   Bulldozer **or** Dazing Finisher
 
-Certain cards lie in "Priority Talents" - the type of talents that game weights very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
+Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
 ### **Card Terminology**
 
 -   Common
 -   Rare
--   Advanced
+-   Legendary
 -   Oath
 -   Mantra
 -   Mystery

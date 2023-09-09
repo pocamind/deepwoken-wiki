@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 72334
+revid: 72726
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -20,22 +20,26 @@ _A gremor using Gale Lunge_
 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
-The playstyle for this attunement is one of combos and burst damage. With this attunement, the "_Gale Lunge"_, "_Wind Gun"_, and "_Astral Wind"_ mantra will be your best friends, along with a mantra to inhale to reap the benefits of your talents that reward cancelling your mantras. This attunement grants quite a few passives that Galebreathers will make use of on a regular basis. This attunement would most likely fit players who like combos or players that rely on their weapon more than their mantras. This attunement also is excellent for so-called "Trackstar builds" due to the insane mobility talents this Attunement holds.
-
-While Galebreathe does certainly have a high skill cap, it suffers from sub-optimal PVE performance and mediocre team combat, not to mention a lack of utility almost rivalling attunement-less. Additionally, the heavy reliance on gale lunge and follow-up attacks make novice Galebreathers somewhat susceptible to defensive counter playstyles such as heavy-gun and Frostdraw builds. It's suggested to use the high manoeuvre-ability and weakness exploiting playstyle to be patient, and go in when the time is right.
-
 ## Training
 
-Can be trained by using a combination of Gale Kata and usage of the user's Galebreathe mantra.
+Galebreathe can be trained by using a combination of Gale Kata and Galebreathe Mantras.
 
 Like all other elements, users can see their Mantras become stronger with training:
 
--   At Power 1, Galebreathers receive the _Galebreather_ Talent.
--   At Galebreathe 20, players receive the _Adept Galebreather_ Talent, and can now learn one-star Mantras.
--   At Galebreathe 30, players receive the _Expert Galebreather_ Talent, and can now learn two-star Mantras.
--   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent, and can now learn three-star Mantras.
+-   At Galebreathe level 1, Galebreathers receive the _Galebreather_ Talent. This allows players to use 0-star Galebreathe mantras.
+-   At Galebreathe level 20, players receive the _Adept Galebreather_ Talent. This allows players to use 1-star Galebreathe mantras.
+-   At Galebreathe level 30, players receive the _Expert Galebreather_ Talent. This allows players to use 2-star Galebreathe mantras.
+-   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent. This finally allows Galebreathe users to unlock the last category, 3-star Mantras.
 
-The Galebreathe spelltrainer can be found in the Isle of Vigils by the tent across the Inn. In order to unlock Galebreathe, you need to give him 5 [Gale Stones](Gale_Stone.md)
+  
+The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained at the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using five [Gale Stones](Gale_Stone.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+
+-   To upgrade a Galebreathe Mantra from level 1 to level 2 costs.
+-   To upgrade a Galebreathe Mantra from level 2 to level 3 costs.
+-   To upgrade a Galebreathe Mantra from level 3 to level 4 costs.
+-   To upgrade a Galebreathe Mantra from level 4 to level 5 costs.
+
+## Mantras
 
 ### **Combat Mantras**
 

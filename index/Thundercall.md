@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 72138
+revid: 72753
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -18,22 +18,23 @@ The Attunement "Thundercall" grants the user the ability to control, conjure and
 
 Thundercall makes use of a highly unpredictable nature due to it's speed and high slow/stun potential.
 
-The playstyle of this attunement is unpredictability, creativity, and speed. Most overlook it's combat capabilities, but don't be fooled, as this element allows for a lot of switch-up potential. The switch-up potential comes in it's talents that modify mantras, giving you a choice to switch things up. This ranges from having a slash after your lightning blade, all the way to insta-casting mantras after meeting certain requirements. With these talents giving you the option of instant casting to make it difficult to impossible for your opponent to react, you will be given the upper-hand forcing them to predict your next move. This attunement would most likely fit players who rely on their creativity rather than combos and brute force. It also has some talents which make this almost like a beatdown attunement, with some talents creating "stacks" upon doing certain things, or some mantras that apply buffs to the user (Most notably the lightning cloak), making the fight increasingly more difficult for the opponent as it goes on.
-
-It should be noted, however, for all Thundercall's speed that the corresponding ether drain is a difficult challenge to overcome. It's recommended to invest in high regen armor or consumable items to help make up the difference. An adept player may attempt to play defensively until the Thundercaller's ether runs out, or worse, manage to read the Thundercaller's often highly initiative mid-range playstyle and counter with a well timed flamecharm blast or galebreathe combo. Especially dangerous to novices are shadowcasters, who can outlast and outsustain a mantra-reliant Thundercaller. It's recommended to use Thundercall's mixup potential to counter with good dodges and excellent pace control.
-
 ## Training
 
-Can be trained by using a combination of the [Self-Conducting Loop](https://deepwoken.fandom.com/wiki/Self-Conducting_Loop?so=search) and Thundercall Mantras.
+Thundercall can be trained by using a combination of the Self-Conducting Loop and Thundercall Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
--   At Power 1, players receive the _Thundercaller_ Talent.
--   At Thundercall level 20, players receive the _Adept Thundercaller_ Talent, allowing the player to now get 1-star Thundercaller mantras.
--   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercaller mantras.
--   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent allowing the player to now get 3-star Thundercaller mantras.
+-   At Thundercall level 1, players receive the _Thundercaller_ Talent.
+-   At Thundercall level 20, players receive the _Adept Thundercaller_ Talent, allowing the player to now get 1-star Thundercall mantras.
+-   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercall mantras.
+-   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent. This finally allows Thundercall users to unlock the last category, 3-star Mantras.
 
-The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) ([5 Spark Glands](Spark_Gland.md)), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) using five [Spark Glands](Spark_Gland.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+
+-   To upgrade a Thundercall Mantra from level 1 to level 2 costs.
+-   To upgrade a Thundercall Mantra from level 2 to level 3 costs.
+-   To upgrade a Thundercall Mantra from level 3 to level 4 costs.
+-   To upgrade a Thundercall Mantra from level 4 to level 5 costs.
 
 ## Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 72014
+revid: 72736
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -16,26 +16,23 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
-Frostdraw is an Attunement that focuses on environment manipulation, area-denial, combos, and massive damage dealing. Frostdraw has many talents giving you the advantage against opponents whether you or your opponent happen to be standing on your ice, highlighting the combo focus of the Attunement. Although the beginning mantras of Frostdraw are generally considered as weak, the true potential of Frostdraw exponentially grows with later, higher level Mantras that are drastically more powerful than beginner ones. Despite being a slow Attunement when compared it's other counterparts, it makes up by having deadly combos.
-
-Frostdraw is an Attunement to be reckoned with when used by those who understand the value of environmental advantage, and those who seek to exploit it, striking fear into those who stands in their way.
-
-However, it should be noted that Frostdraw's more methodical playstyle oftentimes provides opponents who are quick on their feet an edge in combat. Aerial attacking, bursting, and dodge-heavy builds should always be on a Frostdrawer's radar to ensure they do not get displaced and lose their defensive advantage. Thundercallers are particularly prone to this playstyle, due to their mantras favoring hit-and-run tactics and high mixup potential.
-
-Very powerful in chime due to the limited area to fight on.
-
 ## Training
 
-Frostdraw can be trained by conventional methods, via using a the [Hemafrost](Training_Gear.md#attunement-training-gears) to freeze their blood to attune more with the Frost, and by using Frostdraw Mantras.
+Frostdraw can be trained by using a combination of the Hemafrost and Frostdraw Mantras.
 
-Much like every other attunements, users can see their Mantras become stronger with enough training:
+Along with all other elements, users can see their Mantras becoming stronger with training:
 
--   At Power 1 or upon drinking the Glassblood, players receive the _Frostdrawer_ Talent.
--   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent.
--   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent.
--   At Frostdraw level 50, players receive the _Master Frostdrawer_ Talent.
+-   At Frostdraw level 1, players receive the _Frostdrawer_ Talent.
+-   At Frostdraw level 20, players receive the _Adept Frostdrawer_ Talent, allowing the player to now get 1-star Frostdraw mantras.
+-   At Frostdraw level 30, players receive the _Expert Frostdrawer_ Talent allowing the player to now get 2-star Frostdraw mantras.
+-   Finally, at Frostdraw level 50, players receive the _Master Frostdrawer_ Talent. This finally allows Frostdraw users to unlock the last category, 3-star Mantras.
 
-The spelltrainer can be found in [Etris](Etris.md) in the brewing hut. She requires you to provide her with 5 [Frigid Prisms](Frigid_Prism.md) in order to unlock Frostdraw.
+The [Attunement](Attunements.md) can be unlocked by using a [Glassblood potion](Attunement_Potions.md) obtained at [Etris](Etris.md), inside a hut on the edge of town, using five [Frigid Prisms](Frigid_Prism.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+
+-   To upgrade a Frostdraw Mantra from level 1 to level 2 costs.
+-   To upgrade a Frostdraw Mantra from level 2 to level 3 costs.
+-   To upgrade a Frostdraw Mantra from level 3 to level 4 costs.
+-   To upgrade a Frostdraw Mantra from level 4 to level 5 costs.
 
 ## Mantras
 

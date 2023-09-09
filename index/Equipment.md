@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72698
+revid: 72740
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -2538,6 +2538,7 @@ Chests from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+-   [Knives of Eylis](The_Knives_of_Eylis.md) (Sea Event)
 
  | N/A |
 |  | 

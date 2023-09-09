@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 71087
+revid: 72712
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -24,9 +24,9 @@ Attunement-less mantras consist of mantras that are chosen based on your attribu
 
 You don't have an attunement, instead relying on your physical and mental abilities to give yourself an edge in battle.
 
-Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement. While the mantras associated with Attunement-less are on par with those that are associated with Attunements, very few enjoy passive benefits from associated talent cards. Not to mention most Attunement-less mantras doesn't provide any utility to speak off outside of combat, making it so that users without an Attunement must approach everything the old-fashioned way.
+Most of your mantras focuses on your physical and mental capabilities instead of a specific element, allowing you to achieve incredible feats by your utilizing body alone, whether if it's utilizing your raw strength to punch down trees and enemies alike, moving at a faster rate than usual or predicting attacks with your intelligence alone, just to name a few. Although Attunement-less sounds horrible on paper, it is, in reality, just as viable and completely usable as having an Attunement.
 
-In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, with its greatest strength lying in its raw simplicity in usage. Not a lot goes through in setting up a situation favorable for any Attunement-less Mantra, and all it takes is simply using the right mantra at the right moment, and you best believe that by the end of the day, they get the job done. Triumph over all with your body alone, and may you lift the highest of mountains, and cross the greatest of oceans not with tricks and shortcuts unlike the gifted, but with your bare hands alone. Talents you get will focus solely on your natural bearings and physical prowess in the world, maximizing your ability in combat to its fullest without the limitations of an attunement. There is a very good reason why you see attunement-less mantras in the mantra decks of attunement users.
+In spite of its shortcomings, the potential of Attunement-less is nothing to scoff at, as stat points normally allocated to Attunements can instead be used to obtain Talents, as well making obtaining high investment Talents more worthwhile should a powerful combat mantra scale off the same points.
 
 ## Attribute Mantras
 

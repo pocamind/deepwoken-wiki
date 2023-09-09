@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 72083
+revid: 72719
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,19 +14,24 @@ Your ability to harness and control metal from your surroundings.
 
 Ironsing Icon
 
-"Ironsing" is an attunement based around the ability to harness and create metal, commonly used by Blacksmiths around the Luminants. The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). These ores are Iron, Gold, Erisore, Irithine, Astruline, and Umbrite respectively. After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
+"Ironsing" is an attunement based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
 
-**DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion. This may be changed in a future update.
+## Obtainment & Training
 
-The Ironsinger possesses many tools to manage the spacing between themselves and their opponent. Similarly to Frostdraw, Ironsing relies on proper positioning to be effective. However while Frostdrawers generally prefer to engage up close to reap the benefits of their passives when standing on ice, Ironsingers are just the opposite. Possessing surprisingly high-damage ranged options, and quick methods to disengage from a close-quarters confrontation, Ironsing is best at middle to long range. They also benefit from longer engagements, similarly to Shadowcasters, as the longer their opponent spends outside of conventional range, the more chances the Ironsinger has to strike. Therefore, their slower, almost campy nature may be more familiar to the adept Shadowcaster, and this is an attunement best suited for those with patience to spare.
+Ironsing can be trained with a combination of Ferrofluid and Ironsing mantras.
 
-However, for what they have in ranged damage, Ironsingers lack the same sustain that Shadowcasters do, and even more importantly, they do not possess a quick method of creating overwhelming close-ranged pressure (_see "[Eclipse Kick](Shadowcast.md)"_). This makes them **very** susceptible to being rushed down. Therefore, as an Ironsinger development of your basic combat is highly recommended for when you're out of ether and options for escape.
+  
+Along with all other elements, users can see their Mantras becoming stronger with practice:
 
-At the time of writing, it is too early to say exactly what Ironsing matchups will look like, as the meta has not yet fully developed. However it can be postulated that Galebreathe and Thundercall will be particularly lethal against Ironsing, due to both being able to easily force a close-ranged engagement.
+-   At Ironsing level 1, players will receive the _Ironsinger_ Talent. This allows players to use 0-star Ironsing mantras.
+-   At Ironsing level 20, players will receive the _Adept Ironsinger_ Talent. This allows players to use 1-star Ironsing mantras.
+-   At Ironsing level 30, players will receive the _Expert Ironsinger_ Talent. This allows players to unlock 2-star Ironsing mantras.
+-   Finally, at Ironsingt level 50, players will receive the _Master Ironsinger_ Talent. This finally allows Ironsing users to unlock the last category, 3-star Mantras.
 
-## Training Ironsing
+The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md). These ores are Iron, Gold, Erisore, Irithine, Astruline, and Umbrite respectively. After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
 
-The training item for Ironsing is the Ferrofluid. Much like every other attunement, one can see their Mantras become stronger with enough training.
+  
+**DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
 
 ## Mantras
 
