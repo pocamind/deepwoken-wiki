@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 72193
+revid: 72758
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -16,7 +16,7 @@ Highest amongst the peaks of the mountains, a proud fortress of a city stands ag
 
   
 
-File:Etris good photo i think.jpg
+File:Etris spring222.jpg
 
 _The capital of Etrea in all its glory._
 

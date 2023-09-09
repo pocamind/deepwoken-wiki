@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 66838
+revid: 72774
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits, Items, Exclusive Outfits]
@@ -28,4 +28,4 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 
 This Outfit's Schematic can be found in:
 
--   Unobtainable
+-   Battle Royale

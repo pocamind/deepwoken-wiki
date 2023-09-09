@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 72110
+revid: 72761
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, World]
@@ -13,7 +13,8 @@ LocationL Etrean Wilds LocationR
 The sounds of the forest comfort your sea-weary soul, if briefly.
 
   
-File:Etrean Wilds.jpg
+
+File:Etrean wilds spring.jpg
 
 **Etrean Wilds** is a location in _Deepwoken_. It is a sub-location of [Etris](Etris.md) found in the [Etrean Sea](The_Etrean_Sea.md).
 

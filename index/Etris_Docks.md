@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 72112
+revid: 72766
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World]
@@ -16,7 +16,7 @@ There are those who think of ports as a gateway between two worlds; that of the 
 
   
 
-File:Etris Docks.jpg
+File:Etris docks srping.jpg
 
 **Etris Docks** is a location in _Deepwoken_. It is a landmark in [Etris](Etris.md) found in the [Etrean Sea](The_Etrean_Sea.md).
 
