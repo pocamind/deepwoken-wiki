@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 72754
+revid: 72866
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -27,10 +27,10 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), using five [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after unlock. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
--   To upgrade a Galebreathe Mantra from level 1 to level 2 costs.
--   To upgrade a Galebreathe Mantra from level 2 to level 3 costs.
--   To upgrade a Galebreathe Mantra from level 3 to level 4 costs.
--   To upgrade a Galebreathe Mantra from level 4 to level 5 costs.
+-   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
+-   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
+-   To upgrade a Shadowcast Mantra from level 3 to level 4 costs.
+-   To upgrade a Shadowcast Mantra from level 4 to level 5 costs.
 
 ## Mantras
 

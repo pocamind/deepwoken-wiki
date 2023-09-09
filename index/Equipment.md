@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72849
+revid: 72894
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -297,10 +297,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_\+ 2 Posture_  
 
-  
-_\+ 2 Posture_
++1 Rare Pip
 
  | 
 
@@ -529,15 +528,9 @@ Chests from:
 
 [Dark Cowl](Dark_Cowl.md)
 
- | 
-
-Grants a random buff.
-
-  
+ |   
 _\+ 4% Stealth_  
-_+1 Posture_
-
- | 
+_+1 Posture_ | 
 
 Chests from:
 
@@ -1270,9 +1263,9 @@ Duelist's Mask
 
  | 
 
-Grants a random buff.
+_+6% Stealth_  
 
- | 
++1 Rare Pip
 
 Chests from:
 
@@ -1314,7 +1307,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
-|  | 
+| File:Blue.PNG | 
 
 [Royal Guard](Aspirant_Mask.md)
 
@@ -1537,6 +1530,7 @@ _+5 Ether_
 Chests from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 |  | 
@@ -1554,6 +1548,7 @@ _+2 Health_
 Chests from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 
@@ -1637,6 +1632,8 @@ Fleet Warden Cape
 
 (**Series**)
 
+(**Animated**)
+
  | 
 
 _+3% Elemental Armor_  
@@ -1658,6 +1655,8 @@ Chests from:
 Shrouded Cape
 
 (**Series**)
+
+(**Animated**)
 
  | 
 
@@ -1697,6 +1696,8 @@ Chests from:
 Scarf
 
 (**Series**)
+
+(**Animated**)
 
  | 
 
@@ -2372,6 +2373,7 @@ _+Talent: Lowstride_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
 
 Other sources:
 
@@ -2442,6 +2444,7 @@ Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 |  | 
@@ -2466,6 +2469,8 @@ _+Talent: Defiant until the End_
 
 Chests from:
 
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
@@ -2799,6 +2804,8 @@ Chests from:
 
 (**Series**)
 
+(**Animated**)
+
  | 
 
 +2 Rare Pips _+Talent: Hardened Nerves_  
@@ -2819,6 +2826,8 @@ Chests from:
 [Adventurer Coat](Adventurer_Coat.md)
 
 (**Series**)
+
+(**Animated**)
 
  | 
 
@@ -2860,6 +2869,8 @@ Chests from:
 
 (**Series**)
 
+(**Animated**)
+
  | 
 
 _+6 Health_  
@@ -2887,6 +2898,8 @@ Chests from:
 [Authority Commander Coat](Authority_Commander_Coat.md)
 
 (**Series**)
+
+(**Animated**)
 
  | 
 
@@ -2978,6 +2991,8 @@ Other sources:
 
 (**Series**)
 
+(**Animated**)
+
  | 
 
 _+10 Health_  
@@ -3022,6 +3037,8 @@ Justicar Defender
 
 (**Series**)
 
+(**Animated**)
+
  | 
 
 +2 Rare Pips
@@ -3047,6 +3064,8 @@ Other sources:
 
 (**Series**)
 
+(**Animated**)
+
  | 
 
 _+5% Damage vs. Monsters_  
@@ -3067,6 +3086,8 @@ Other sources:
 [Ministry Cloak](Ministry_Cloak.md)
 
 (**Series**)
+
+(**Animated**)
 
  | 
 
@@ -3114,6 +3135,8 @@ Chests from:
 
 (**Legendary Series**)
 
+(**Animated**)
+
  | 
 
 _+5% Damage vs. Monsters_  
@@ -3159,6 +3182,8 @@ Chests from:
 
 (**Series**)
 
+(**Animated**)
+
  | 
 
 +2 Rare Pips
@@ -3176,6 +3201,8 @@ Chests from:
 |  | 
 
 [Royal Pathfinder](Royal_Pathfinder.md)
+
+(**Animated**)
 
  | 
 
@@ -4025,6 +4052,7 @@ _+4 Health_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 | File:Grand Boots.png | 
@@ -4134,6 +4162,7 @@ _+Talent: Endurance Runner_
 Chests from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 |  | 
@@ -4175,9 +4204,9 @@ Chests from:
 
 [Ranger's Boots](<Ranger's_Boots.md>)
 
- | 
+ |   
 
-Grants a random buff.
++1 Rare Pip
 
  | 
 
@@ -4328,10 +4357,9 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3 Health_  
 
-  
-_+3 Health_
++2 Rare Pips
 
  | 
 

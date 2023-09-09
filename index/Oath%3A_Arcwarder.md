@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 72819
+revid: 72897
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -81,6 +81,5 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 ## Trivia
 
 -   The Arcwarder suit originally looked far different but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
-
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
 -   The Arcwarder suit is inspired by Bondrewd's suit from Made in Abyss anime. Immortal guardians have exact copy of it, while player has a bit redesigned suit.

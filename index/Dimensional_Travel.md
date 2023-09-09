@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 68822
+revid: 72882
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,6 +36,7 @@ When used, this ability will transport the user into a realm known as [The Inter
     -   After 3~ seconds the players camera goes back to their character in the Distortion Realm. (Moving is restricted during this.)
     -   If any players inside the Distortion Realm jump into the void through the cracks in the floor, they will be teleported to the equivalent overworld position.
 -   If Dimensional Travel is used during the visual indicator (Pressing C again), all players that go through the portal will be transported back to the overworld.
+-   When downed you will be sent to the location outside of Dimensional Travel you would’ve been downed at.
 
 ### Resonance Points
 
@@ -58,5 +59,6 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Similar to Minecraft's Nether Travel, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   There used to be a bug where buildings were been found in the Distortion Realm.
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance.
+-   Despite looking like a good place to 1v1, it is _**EXTREMELY DANGEROUS**_ to attempt to 1v1 in Kamui while being in the Depths. As you can be downed and you will be teleported to where you would be in conjunction to Kamui. This has lead to people wiping in the past.
 -   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in a random direction while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”

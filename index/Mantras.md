@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 72823
+revid: 72898
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -12,7 +12,7 @@ categories: [Mantras, Character, Attunement, Mechanics]
 
 Considered to be the root of Ether's usage- Mantras, sometimes referred to in lore as _images of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these will be the magic abilities that you use in combat to fend off your adversaries or assist yourself in achieving specific goals.
 
-Mantras are obtained by receiving a [Whisper](Duke_Ishamon_Erisia.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Duke_Ishamon_Erisia.md) in the [Isle of Vigils](Duke_Ishamon_Erisia.md). If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the
+Mantras are obtained by receiving a [Whisper](Whisper_Draw.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md). If you are unsatisfied with your current selection of Mantras, they can be rerolled via one of the
 
 There are different rarities for mantras.
 
@@ -40,7 +40,7 @@ Mantras are divided into various categories based on their general application. 
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 
-It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Duke_Ishamon_Erisia.md), or by getting [Neuroplasticity](Duke_Ishamon_Erisia.md) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra.
+It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra.
 
 ## Combat Usage
 
@@ -54,11 +54,17 @@ Perfect Casting a mantra removes the wind-up from it and will instantly cast it.
 
 Mantra Cancelling is exactly what it sounds. You cancel a mantra, which essentially feints the mantra you used. Cancelling a mantra will not put it in cooldown but will still take the Ether required to cast it. To cancel a mantra, you need to click M2 as soon as you cast it. Some mantras require you to perfect cast it before you are able to mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed mantra cancel can lead to some crazy mix-ups. Some talents even grant the user certain advantages when cancelling mantras, such as Galebreathe users being able to Inhale their mantras for buffs.
 
+### Ranged Mantra
+
+Ranged Mantra Resistance; Standing from the center of the green circle, their is no scaling while red is where ranged resistance scaling starts and ends, past that, full resistance is applied.
+
+Ranged mantras are any mantra that can deal damage from 30 studs away, these mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like [Scion](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Mobs such as the [bandit leader](Bandit_Leader.md), can roll and block ranged attacks, this does not apply to mobs like the Megalodaunts that cannot block and cannot roll.
+
 ## Types of Mantras
 
 A player's mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding mantra. Similarly, to weapons and armor, mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
 
-### [Flamecharm Mantras](Duke_Ishamon_Erisia.md)
+### [Flamecharm Mantras](Flamecharm.md)
 
 Large and threatening fire-based spells. Excels in crowd control and area denial as many spells have large range.
 
@@ -69,7 +75,7 @@ Large and threatening fire-based spells. Excels in crowd control and area denial
 -   Good pressure
 -   Great at dealing LOTS of damage.
 
-### [Thundercall Mantras](Duke_Ishamon_Erisia.md)
+### [Thundercall Mantras](Thundercall.md)
 
 Lightning utilizes fast and quickly regenerating spells to take a fight at any desired pace. Has spells with somewhat small start-up for closing distance or keeping an opponent on edge.
 
@@ -90,7 +96,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Works with most Spike Modifiers.
 -   Has small cooldowns.
 
-### [Galebreathe Mantras](Duke_Ishamon_Erisia.md)
+### [Galebreathe Mantras](Galebreathe.md)
 
 Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
@@ -110,7 +116,7 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Applies obscured, obscuring the vision of the opponent.
 -   Typically used mid-range.
 
-### [Ironsing Mantras](Duke_Ishamon_Erisia.md)
+### [Ironsing Mantras](Ironsing.md)
 
 Ironsing provides the widest ranged mantras in the game and the best damage output based on your opponent's mistakes and missteps.
 
@@ -124,7 +130,7 @@ There are Mantras that are based off of Core Attributes, rather than your Attune
 
 A mantra's type generally corresponds to its respective stat. Weapon mantras and Strength mantras tend to have more offensive capabilities, while Charisma and Fortitude are more defensive and supportive. Intelligence, Agility, and Willpower mantras are more or less split between the two roles.
 
-### [Monster Mantras](Oath%253A_Contractor.md)
+### [Monster Mantras](Monster_Mantras.md)
 
 Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the talent and what is the talent based off of.
 
@@ -137,7 +143,7 @@ Mantras you get by turning in monster parts to a NPC in Castle Light. To get the
 
 All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs chill and will proc crystal if you have the path. This also goes for Mecha Gatling as it procs fire and will proc lava path if you have the path.
 
-### [Oath Mantras](Mindless_Servant.md)
+### [Oath Mantras](Oaths.md)
 
 Mantras you obtained through your Oath. Although it lacks the trainers to help level your Oath's Mantras, its exclusive abilities and uniqueness makes up for it.
 
@@ -153,7 +159,7 @@ Add more if you find them.
 
 ## Modifying Mantras
 
-_Main Article - [Mantra Modifiers](Duke_Ishamon_Erisia.md)_
+_Main Article - [Mantra Modifiers](Mantra_Modifiers.md)_
 
 To modify a mantra, the mantra must be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere which can be placed on a mantra table, located within populated islands.
 
@@ -166,7 +172,7 @@ To modify a mantra, the mantra must be recalled at a campfire into the player's 
 
 ## Upgrading Mantras
 
-_Main Article - [Spelltrainers](https://ready2die.fandom.com/wiki/Ticker)_
+_Main Article - [Spelltrainers](Attunement_Trainers.md)_
 
 All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your mantra(s).
 

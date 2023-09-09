@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 72741
+revid: 72874
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -56,7 +56,7 @@ Some talents are **mutually exclusive** with other talents, meaning picking one 
 _When it comes to mutually exclusive talents, you can have either:_
 
 -   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
--   _Risky Moves_ **or** _Safety Dance/Observation; Dark Rift will lock you out of Risky Moves_
+-   _Risky Moves_ **or** _Safety Dance/Observation; ~Dark Rift will lock you out of Risky Moves~_
 -   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
 -   _Conditioned Runner_ **or** _Fishman;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_

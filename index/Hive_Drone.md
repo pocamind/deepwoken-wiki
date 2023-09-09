@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 59091
+revid: 72891
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -25,7 +25,7 @@ This Outfit requires [Power Level](Power.md) 10.
 
 ### _Armor Stats_
 
-This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance and +5% Blunt resistance.
+This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemental resistance, +5% Blunt Armor and +5% Wind Armor
 
 This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your stealth while crouching.
 

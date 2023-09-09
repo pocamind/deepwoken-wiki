@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 72726
+revid: 72895
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -771,7 +771,7 @@ Haunted Gale
 
  | 
 
-Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (2 if done with gale wisp)
+Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (2 if done with gale wisp). 2 second cooldown.
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 72618
+revid: 72879
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,7 +29,7 @@ Meet the following requirements and talk to a barber about Hair Cutting:
 
 -   Change your hair 10 times at Barber _(the hairs do not have to be unique, restoring to your natural hair 10 times will work also)._
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
--   Talk to the barber and pick the option "How is it you're able to do all this stuff?" and continue the dialogue, asking to take the Oath.
+-   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=znZiNGRjdZ0&ab_channel=TheDeepwokenGuide)._
 
@@ -63,10 +63,10 @@ This oath is fully upgraded once you get it.
 
 -   The Fadetrimmer oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The oath was added to the game on the July 24, 2023, almost a year later.
 
--   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment, but like most things he says, this didn't age well.
+-   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment, like most things he says, this didn't age well.
 
 -   Revitalizing can be used on more than one ally, offering a good amount of support, on par with Reinforce.
--   Fadetrimmer's Skillset's haircuts will stay on the opponent until they get a haircut from the barber.
+-   Fadetrimmer's Skillset's haircuts will stay on the opponent for 10 minutes, or when you leave the server.
 -   This Oath was originally often judged as an alternate Oathless due to others not discovering what other features it has.
 -   Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash.
 -   Precision cuts is very similar to Exhaustion Strike, but with more hits.
