@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 70926
+revid: 73130
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
@@ -8,7 +8,7 @@ categories: [World, Sailing, Locations, Map, Fishing, Deepwoken]
 
 # Maps
 
-Navigation in _Deepwoken_ can be confusing at first.
+Navigation in _Deepwoken_ can be confusing at first, especially if you are a new player to the game. However, don't worry, as the Deepwoken wiki got you covered.
 
 ## Interactive Maps
 

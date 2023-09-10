@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 73120
+revid: 73133
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -77,7 +77,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I seek the qualities of Elementalist. **(Elementalist) (Note; Cannot give Elemental Rebound)**_
 -   _I seek the qualities of All-Knowing._ **(All-Knowing)**
 
-### Willpower
+### [Willpower](https://deepwoken.fandom.com/wiki/Attributes#Willpower)
 
 -   _I am a slayer of beasts. **(Beast Slayer; Giantslayer)**_
 -   _I have never lost. **(Champion) (Note; Cannot give Champion's Regalia, Defiance)**_
@@ -89,7 +89,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
 -   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
 
-### Charisma
+### [Charisma](Status_Effects.md#charm)
 
 -   _I use the song to charm others. **(Charm Caster)**_
 -   _I seek the qualities of Showboater._ _**(Showboater; Unnecessary Theatrics)**_

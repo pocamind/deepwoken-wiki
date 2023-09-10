@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 65981
+revid: 73162
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -129,10 +129,8 @@ Please add miscellaneous islands or named landmarks here
 **Schypozia:**
 
 -   [Celtor Wastes](Celtor_Wastes.md)
-    
     -   [Castle Light](Castle_Light.md)
     -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
-    
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
     -   [Varicosa District](Varicosa_District.md)
     -   [District of Commerce](District_of_Commerce.md)

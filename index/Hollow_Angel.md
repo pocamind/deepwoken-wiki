@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 71019
+revid: 73165
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -28,38 +28,38 @@ A single Angel can also be summoned as a Trial when attempting to escape the Dep
 | --- | --- | --- | --- |
 | **Light Attack** | Angels use black spears which deal 20-30 damage each hit. | ◯ | (★☆☆) |
 | **Light Piercer** | Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun. | ◯ | (★☆☆) |
-| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes | ◯ | (★★☆) |
-| **Feint** | Angels are capable of feinting their light attacks | N/A | (★★☆) |
+| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will perform additional 2 slashes. | ◯ | (★★☆) |
+| **Feint** | Angels are capable of feinting their light attacks. | N/A | (★★☆) |
 
 **Regular:**
 
 Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
 
-## Moveset
-
--   **Light Attack** - Angels use their Divine Spears dealing ~35 damage each hit. (they can feint)
--   **Light Piercer** - Rise into the air and shoot ~5 bullets of light that explode, deal 15 damage, and stun.
--   **Critical** - Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes
-
 ## Passive
 
 -   **Bear Trap** - Getting hit with Angel's critical will disable your jumps and slow you down for a duration
-    
+
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Light Attack** | Angels use black spears which deal 20-30 damage each hit. | ◯ | (★☆☆) |
+| **Light Piercer** | Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun. | ◯ | (★☆☆) |
+| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes. | ◯ | (★★☆) |
+| **Feint** | Angels are capable of feinting their light attacks. | N/A | (★★☆) |
 
 **Deep:**
 
 Template:Creature Infobox V3 These Angels are like no other variants - they are black in contrary to other variants, and glow bright magenta. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Deep Angels spawns in the Ancient Rotlands, and drops a chest when you kill them. The chests they drop will contain high tier loot, having more than two legendary rings in one chest.
 
-## Moveset
-
--   **Light Attack** - Angels use their Divine Spears dealing ~35 damage each hit. (they can feint)
--   **Light Piercer** - Rise into the air and shoot ~5 bullets of light that explode, deal 15 damage, and stun.
--   **Critical** - Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes
-
 ## Passive
 
 -   **Bear Trap** - Getting hit with Angel's critical will disable your jumps and slow you down for a duration
-    
+
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Light Attack** | Angels use black spears which deal 20-30 damage each hit. | ◯ | (★☆☆) |
+| **Light Piercer** | Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun. | ◯ | (★☆☆) |
+| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes | ◯ | (★★☆) |
+| **Feint** | Angels are capable of feinting their light attacks. | N/A | (★★☆) |
 
 ## Trivia
 
@@ -68,6 +68,6 @@ Template:Creature Infobox V3 These Angels are like no other variants - they are 
 -   It is extremely easy to run away from Angels in [The Depths](The_Depths.md), as their climbing ability is not on par with the Player's.
 -   Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or talents that will bypass this. In other words, like all enemies who are capable of blocking your attacks: You cannot damage these things whatsoever without an absurd amount of PDPS (Posture Damage Per Second).
 -   If you climbed up to escape Angels, they will not automatically despawn so **DO NOT JUMP DOWN TO THE SPOT WHERE YOU CLIMBED TO ESCAPE**
--   Fire Blade and Rapid Punches can easily kill the Angel since these mantra stuns the enemy and you can use that stun time to hit the Angel.
+-   Fire Blade and Rapid Punches can easily kill the Angel since these mantra stuns the enemy, and you can use that stun time to hit the Angel.
 -   Probably a reference to the Angels from the TV show Castlevania: [https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg](https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg)
 -   Angels will attack any Depths monsters like [Threshers](Thresher.md), [Lionfish](Lionfish.md) and [King Gigamed](Gigamed.md). It's unknown why they attack the Depths monsters.

@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 72027
+revid: 73160
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Etrean Luminant]
@@ -34,15 +34,6 @@ Minityrsa is an island perpetually blanketed in snow. It can be found to the rig
     -   A stronghold inhabited and guarded by [Ministry Scouts](Ministry_Scout.md).
     -   The [Trial of One](Trial_of_One.md)'s entrance can be found here underneath the back right hatch.
 
-## Potential Enemies
-
--   [Ministry Scouts](Ministry_Scout.md)
--   [Ministry Necromancers](Ministry_Necromancer.md)
--   [Rogue Constructs](Hive_Construct.md)
--   [Snow Knights](Stone_Knight.md) (During [winter](Seasons.md))
--   [Brainsuckers](Brainsucker.md)
--   [Songseeker Frostdrawer](Songseeker_Frostdrawer.md)
-
 ## Loot Table
 
 Below is a list of potential items that can spawn in chests in Minityrsa.
@@ -56,11 +47,11 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
  | 
 
--   Blindfold
--   Crimson Blindfold
--   Ten-Gallon Bandana
--   Eyeglasses
--   Polarized Eyeglasses
+-   [Blindfold](Blindfold.md)
+-   [Crimson Blindfold](Blindfold.md)
+-   [Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
+-   [Eyeglasses](Eyeglasses.md)
+-   [Polarized Eyeglasses](Eyeglasses.md)
 -   Golden Cape
 -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
 -   [Glassdancer Wraps](Glassdancer_Wraps.md)

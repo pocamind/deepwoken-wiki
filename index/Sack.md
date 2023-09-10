@@ -1,6 +1,6 @@
 ---
 title: Sack
-revid: 39579
+revid: 73166
 source: https://deepwoken.fandom.com/wiki/Sack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,7 +9,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Cut Features](Cut_Features%253Fredirect=no.md)
+-   [Cut Content](Cut_Content.md)
 
 This increases your inventory space (the numbers on the bottom of your inventory)
 

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 72498
+revid: 73157
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-The **First Layer**, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) modifier, dying with the [Vow of Thorns](Echoes.md) modifier, dying in a [Voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md).
+The **First Layer**, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, dying in a [Voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md).
 
 ## **Points of Interest**
 
@@ -25,7 +25,7 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 -   [Castle Light](Castle_Light.md)
 -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
     -   Ignition Union Deepdriller
--   Marauders' Entrance
+-   [Marauder's Entrance](<Marauder's_Entrance.md>)
 
 ## **Escaping First Layer**
 

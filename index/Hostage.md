@@ -1,6 +1,6 @@
 ---
 title: Hostage
-revid: 20147
+revid: 73171
 source: https://deepwoken.fandom.com/wiki/Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Navaen Hostage (Way of Navae)
+-   [Navaen Hostage](Navaen_Hostage.md)

@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 65215
+revid: 73151
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1]
@@ -20,19 +20,11 @@ It's sometimes mused that the greed, excess and petty politics of those in this 
 
 ## Overview
 
-The Varicosa District is a section of The City of the Drowned distinguished by its rocky yellow-topped buildings. Here, you can find the Shadow trainer and common places to barrel-up to enter the Cathedral of Interstice from above.
+The Varicosa District is a section of The City of the Drowned distinguished by its rocky, yellow-topped buildings. Here, you can find the Shadow trainer and common places to barrel-up to enter the Cathedral of Interstice from above.
 
-There is an NPC here that will give you a random item for a deepgem.
-
-## Potential Enemies
-
--   [Crustaceous Rex](Crustaceous_Rex.md)
--   [Alpha Megalodaunt](Megalodaunt.md)
--   [King Gigamed](Gigamed.md)
--   [Lionfish](Lionfish.md)
--   [Megalodaunt](Megalodaunt.md)
+[Jeremiah](Jeremiah.md), an NPC that you can trade deep gems for items, can be found here.
 
 ## Trivia/Notes
 
--   In this district there is the Shadow trainer which can give you a nightblood potion for 5 umbral obsidian
--   In the Shadow trainer cave there is aslo Umbrite which is used to get ironsing
+-   In this district there is the Shadow trainer which can give you a nightblood potion for 5 umbral obsidians.
+-   Umbrite can be found in the cave where [Nostor](Nostor,_Master_of_Shadow.md) resides, which can be used to obtain Ironsing.

@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 72278
+revid: 73148
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
