@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 72670
+revid: 73018
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-As of September 4th, 2022, There are new server names. These include Executioner, Fence, Squire, and Vainglorious.
+As of September 4th, 2022, there are new server names. These include Executioner, Fence, Squire, and Vainglorious.
 
 Servers are the way to join Deepwoken. They are comprised of a random adjective and a random noun from the list below. Servers can usually only have a limit of 20 players in a single server, with the limit being reduced to 16 in a [Depths](The_Depths.md) server.
 
@@ -20,10 +20,7 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 
 ## Adjectives and Nouns
 
--   **Adjectives:**
-    
-
-### List of Adjectives
+**Adjectives:**
 
 -   Angry
 -   Awful
@@ -76,9 +73,8 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Vainglorious
 -   Warm
 -   Wayward
-    
 
-### List of Nouns
+**Nouns:**
 
 -   Adret
 -   Canor
@@ -128,11 +124,10 @@ Servers in [The Depths](The_Depths.md) will look different if Hell Mode is curre
 -   Vesperian
 -   Warrior
 -   Wizard
-    
 
 ## Trivia
 
 -   Rogue might be a reference to [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage), another game made by Arch\_mage and Ragoozer, similarly to Deepwoken.
 -   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
--   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), And [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independant Race.
+-   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independant Race.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, and Wind Gem have their first names as server nouns.

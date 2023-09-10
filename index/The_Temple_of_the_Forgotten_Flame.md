@@ -1,6 +1,6 @@
 ---
 title: The Temple of the Forgotten Flame
-revid: 69939
+revid: 72937
 source: https://deepwoken.fandom.com/wiki/The_Temple_of_the_Forgotten_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, World, Etrean Luminant]
@@ -27,7 +27,7 @@ To enter the Temple, you must either:
 -   Climb around the walls and enter through the rear garden.
 -   Use a fountain found in [Greathive Aratel](Greathive_Aratel.md), that will teleport you to the rear garden.
 
-Inside the temple, Neero, a Pathfinder, can be found in the entrance. Mysterious glyphs can be found on the wall in the room to the left as well. These glyphs play an important part in obtaining [Oath: Blindseer](Oaths.md#oath-blindseer).
+Inside the temple, [Neero](Neero.md), a Pathfinder, can be found in the entrance. Mysterious glyphs can be found on the wall in the room to the left as well. These glyphs play an important part in obtaining [Oath: Blindseer](Oaths.md#oath-blindseer).
 
 ## Contents
 

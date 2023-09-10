@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72894
+revid: 72903
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -29,8 +29,7 @@ All equipment (with few exceptions), when obtained, will roll for random stats. 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pip  
 ★★ = +2 Rare Pips (Max Stars for Face, Ears, Torso, and Rings)  
-★★★ = +2 Rare Pips +1 Legendary Pip  
-"Grants a Random Buff." = Innate Stats/Pips need confirming
+★★★ = +2 Rare Pips +1 Legendary Pip
 
 <table><caption>Pips</caption>
 <tbody>

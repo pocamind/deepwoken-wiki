@@ -1,17 +1,12 @@
 ---
 title: "Oath: Linkstrider"
-revid: 72000
+revid: 73029
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
 ---
 
 # Oath: Linkstrider
-
-| Oath: Linkstrider | |
-|---|---|
-| oath_req | Sacrifice 4 players with oaths in the Entropy Catalyst. |
-| effects | +2 Support Mantra, +1 Wildcard Mantra |
 
 “ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
 
@@ -43,7 +38,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 -   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
-    -   You can carry objects and people during teleportation. If you are carrying a player, they can die after teleporting.
+    -   ~You can carry objects and people during teleportation. If you are carrying a player, they can die after teleporting.~ Carrying people does not work within Etrean Luminant, more testing is needed.
         -   Current known locations are...
             1.  Hygiea (Near Songseeker Wilds)
             2.  Eunomia (Above Sibex)

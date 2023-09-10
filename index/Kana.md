@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 65621
+revid: 72978
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs]

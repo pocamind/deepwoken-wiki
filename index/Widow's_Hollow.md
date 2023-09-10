@@ -1,6 +1,6 @@
 ---
 title: "Widow's Hollow"
-revid: 69416
+revid: 73021
 source: https://deepwoken.fandom.com/wiki/Widow's_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

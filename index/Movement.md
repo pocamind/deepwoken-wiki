@@ -1,6 +1,6 @@
 ---
 title: Movement
-revid: 50713
+revid: 73014
 source: https://deepwoken.fandom.com/wiki/Movement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -15,8 +15,6 @@ A common movement technique people use to go faster than usual is to utilize Jum
 To do this, do the following.
 
 Gain **Momentum** > Slide > Jump > Slide > Jump > Dash (repeat ⟳)
-
-A more In-Depth guide: [https://www.youtube.com/watch?v=oP-azXZwH6Q](https://www.youtube.com/watch?v=oP-azXZwH6Q)
 
 ## Momentum
 

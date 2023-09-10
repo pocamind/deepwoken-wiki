@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 72032
+revid: 72973
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -341,8 +341,8 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 9s | Achieving **W Rank / S Rank** |
 |  | 15.0s | Achieving **Rank A Legacy** |
-|  | 15.0s | Achieving **Rank B Legacy** |
-|  | 15.0s | Achieving **Rank C Legacy** |
+|  | 15.0s | Achieving **B Rank / C Rank** |
+|  | 15.0s | Achieving **D Rank / E Rank** |
 
 ### [Resonances](Resonance.md)
 

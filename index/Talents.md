@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 72874
+revid: 72909
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1004,7 +1004,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude
--   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging \[not necessary on dual guns\].
+-   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun
 -   _True Ether Bullets_ \[Rare Talent\] - \[Guns\] Using Ether Bullets applies elemental damage of your highest investment.
@@ -1560,7 +1560,7 @@ _**"I often attack others."**_
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Sleight of Hands \[Common Talent\] - \[1H Guns\] When you flourish an opponent you instantly load a bullet.
     -   Prerequisites: 50 Light Weapon, using a Gun
--   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast.
+-   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast. (Play Ultrakill)
     -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Gun
 
 ### Politician
@@ -2492,14 +2492,16 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
 
-## Notes/Trivia
+## Trivia
 
 -   A Fold can be used if you are not satisfied with your current hand of cards, giving you an additional hand of cards on your next power increase.
+-   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
+-   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
+    -   Ironically, it then proceeds to write the name of the game incorrectly, as ULTRAKILL is meant to be written in all capitals.
 -   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
 -   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
--   If you cannot find a talent here, either it has been removed, or it has not been found yet. (<-Only for the new talents)
 -   The Pocket Sand talent, especially its description, is a reference to Rogue Lineage.
     -   Paying [someone](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the talent in this game, and speaking to them afterwards yields the same dialogue as found in the talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest talent.
