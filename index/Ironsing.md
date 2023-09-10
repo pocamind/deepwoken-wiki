@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 72779
+revid: 73127
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -42,7 +42,7 @@ The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on 
 |  | Metal Eruption
 (☆☆☆)
 
- | A flurry of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Give off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls.
+ | A flurry of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Give off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls. Can be modified with Stratus Stones and Cloudstones to increase the size of the eruption.
 
 Deals high posture. Heavily reminiscent to the legacy Frostdraw mantra, Ice Eruption.
 

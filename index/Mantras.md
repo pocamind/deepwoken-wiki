@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 72898
+revid: 73124
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -21,13 +21,13 @@ There are different rarities for mantras.
 -   Lightning Cloak
 -   Ice Fissure
 -   Ice Skate
+-   Bolt Piercer
 
 ### Rare Mantras
 
--   Bolt Piercer (Speculated)
--   Ice Daggers (Speculated)
--   Flame Blind (Speculated)
--   Flame of Denial (Speculated)
+-   Ice Daggers
+-   Flame Blind
+-   Flame of Denial
 
 The only confirmed mantra to have a different rarity is Lightning Cloak and Ice Fissure. The rest of these mantras are classified based on general consensus by the community in terms of how unlikely it is to obtain these mantras or encounter someone who possesses them.
 

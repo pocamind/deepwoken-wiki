@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 72903
+revid: 73128
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -816,7 +816,9 @@ Other sources:
 
  | 
 
-Grants a random buff.
+_+8 Health_  
+
++1 Rare Pip
 
  | 
 
@@ -824,6 +826,10 @@ Chests from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+Other sources:
+
+-   [Artifact Turn-ins](Artifacts.md)
 
  | Guard's, Royal Guard's, Captain's |
 | 
@@ -4318,18 +4324,22 @@ White Fur Boots
 
  | 
 
-Grants a random buff.
-
   
-_+3 Health_
+_+3 Health_  
+
++2 Rare Pips
 
  | 
 
-Chests from:
+Chests from
 
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+
+Other sources:
+
+-   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 |  | 

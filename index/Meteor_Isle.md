@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 72137
+revid: 73116
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -38,6 +38,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 
 ## Trivia
 
+-   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   This island was previously cut from the game before initial release, but was since added back in the Verse 2 update.
     -   It is well known for featuring prominently in the [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70).
         -   This is referenced by Exter, who notes how familiar the area where the direct took place is.
