@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 72223
+revid: 73089
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -84,19 +84,19 @@ All of Chaser's moves except Stalactite Fall instantly execute.
 
 Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing him from using the Stalactite Fall attack again for the reminder of the fight. The stalactites on the ground will remain permanently. This is good as you won't have to worry about this attack again.
 
-### Phase 1
+**Phase 1:**
 
 -   Chaser uses his regular attacks randomly. This will be his moveset until their are no blood jars left.
     -   The player is required to break the blood jars around the arena to progress the fight. Jars that can be broken can be identified by a trail between them and Chaser or the light they give. Only a few jars can be broken per cycle.
     -   Whenever all the jars of the current cycle are broken, Chaser will be incapacitated and fall to the floor, allowing the player to attack him. After this period of vulnerability, Chaser will heal himself, restoring 1600 HP and the cycle repeats.
 
-### Phase 2
+**Phase 2:**
 
 -   Once all blood jars are broken, Chaser loses the ability to heal but gains a new attack, which allows him to rapidly attack multiple time in a row.
     -   His Blood Frenzy (identified by Chaser's Laugh while he's still in the air and by him having a red highlight) incorporates his other blood based attacks and are rapidly chained. He will cast between 1 to 4 attacks in a row.
     -   In this phase, Chaser will be incapacitated after 4 attacks (most of the time). His vulnerability periods are longer than in phase 1, allowing the player to deal more damage.
 
-### Phase 3
+**Phase 3:**
 
 -   When Chaser has fewer than 6,000 HP, he will use his desperation attack, in an attempt to take the player with him. (Note that this is not static. It is not immediately after 6,000HP is reached.)
     -   During this phase, the entire arena becomes a danger zone that deals damage to the player that cannot be avoided in any way. Players must stay below Chaser to not be affected by this.

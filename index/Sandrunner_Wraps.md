@@ -1,8 +1,9 @@
 ---
 title: Sandrunner Wraps
-revid: 69997
+revid: 73057
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Sandrunner Wraps

@@ -1,8 +1,9 @@
 ---
 title: Cathedral of the Interstice
-revid: 71311
+revid: 73045
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # Cathedral of the Interstice

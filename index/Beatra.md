@@ -1,9 +1,9 @@
 ---
 title: Beatra
-revid: 69270
+revid: 73035
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [NPCs, Spelltrainers, Pages with broken file links]
 ---
 
 # Beatra

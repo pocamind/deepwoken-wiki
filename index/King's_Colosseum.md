@@ -1,8 +1,9 @@
 ---
 title: "King's Colosseum"
-revid: 71512
+revid: 73039
 source: https://deepwoken.fandom.com/wiki/King's_Colosseum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Locations]
 ---
 
 # King's Colosseum

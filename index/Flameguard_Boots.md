@@ -1,8 +1,9 @@
 ---
 title: Flameguard Boots
-revid: 71004
+revid: 73046
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Flameguard Boots

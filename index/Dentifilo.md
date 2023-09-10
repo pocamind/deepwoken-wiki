@@ -1,8 +1,9 @@
 ---
 title: Dentifilo
-revid: 71805
+revid: 73065
 source: https://deepwoken.fandom.com/wiki/Dentifilo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Ingredients]
 ---
 
 # Dentifilo

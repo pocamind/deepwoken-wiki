@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 71921
+revid: 73074
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -44,8 +44,8 @@ A full list of all NPCS can be found [Here](https://docs.google.com/spreadsheets
 | Ezra | Ku(?)) | [Songseeker Wilds](Songseeker_Wilds.md) | Tasks you with killing Songseekers at the [Derelict Highchurch](Derelict_Highchurch.md). Repeatable. |  |
 | Flabbermaster Filigree, the First Mate | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | Frank F'alzone | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
-| [Friid](Attunement_Trainers.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, Silentheart [Oath](Oaths.md) progression |  |
-| [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, Silentheart [Oath](Oaths.md) progression |  |
+| [Friid](Attunement_Trainers.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md) | [Galebreathe](Galebreathe.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
+| [Funke](Attunement_Trainers.md) | [The Divers](The_Divers.md) | [Summer Isle](Summer_Isle.md), Castle, upstairs | [Thundercall](Thundercall.md) spelltrainer, [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) progression |  |
 | Gild | Unaligned | The Depths, Varicosa District | None | Talks about the Celtors being forgotten to time |
 | [The Guy](The_Guy.md) | [Summer Company](The_Summer_Company.md) | Near [Meteor Isle](Meteor_Isle.md) | Access to the summer isle cannon, cool shades, is capable of causing emotional damage to your in-game character | If you fail a charisma check, he will say: "Alright. Those shoes? The equivalent to an Erisia bandit's life's worth. Those clothes are the most poor excuse of an "outfit" I've seen; where'd you get that one off? a corpse? Don't even get me started with..."
 Check the rest out for yourself

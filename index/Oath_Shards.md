@@ -1,8 +1,9 @@
 ---
 title: Oath Shards
-revid: 71934
+revid: 73040
 source: https://deepwoken.fandom.com/wiki/Oath_Shards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items]
 ---
 
 # Oath Shards

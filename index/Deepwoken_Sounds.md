@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 72973
+revid: 73112
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -38,7 +38,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 4 | To Sleep, Dreaming (Contour 4) | 1:45 | Plays when past a certain level and having escaped the Depths and skips to 0:24 when you obtain your [Resonance](Resonance.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
 | 5 | Nascence | 2:59 | Character Creation | File:Nascence.mp3 |
 | 6 | Solivagant | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
-| 7 | Peregrine | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) | File:Isle of Vigils - Deepwoken OST.mp3 |
+| 7 | Peregrine | 2:09 | [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>) | File:Isle of Vigils - Deepwoken OST.mp3 |
 | 8 | In Shade, Hollow | 2:08 | [The Garden Reservoir](The_Garden_Reservoir.md) | File:The Garden Reservoir - Deepwoken OST.mp3 |
 | 9 | Dancing Steps Of War | 2:09 | [Temple of the Blade](Temple_of_the_Blade.md) | File:Temple Of Blades - Deepwoken OST.mp3 |
 | 10 | To Fight, Sanguine | 2:26 | Default Combat Music | File:To Fight, Sanguine.mp3 |

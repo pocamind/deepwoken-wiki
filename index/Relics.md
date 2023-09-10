@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 72896
+revid: 73111
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -40,9 +40,10 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
 
 File:Sinner's Ash.png
 
- | **Sinner's Ash**
+ | **Sinner's Ash -** "Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes."
 
 -   Corrupts your current [Resonance](Resonance.md)
+-   Non-Droppable
 
 -   No other known features
 
@@ -65,4 +66,4 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
  | **Coral Throne** - A relic found in the First Layer by [The Ministry](The_Ministry.md). Has the ability to increase the power of any creature that sits on it tremendously. It is currently in the possession of [The Lord Regent](The_Lord_Regent.md) and is the reason he is able to cast a mental veil around the entirety of Etris. |
 | 
 
- | **The Queensblade** - A sword used by [The Ministry](The_Ministry.md) to assassinate the true King of Etrea, its exact effect is unknown, only stated that "Without it, the king would surely return". |
+ | **The Queensblade** - A sword used by [The Ministry](The_Ministry.md) to assassinate the true King of Etrea; its exact effect is unknown, and it is only stated that "without it, the king would surely return." Likely some form of artifact keeping the King from returning to the Luminants. |

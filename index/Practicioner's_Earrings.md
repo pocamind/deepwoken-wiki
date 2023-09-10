@@ -1,8 +1,9 @@
 ---
 title: "Practicioner's Earrings"
-revid: 70017
+revid: 73053
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Practicioner's Earrings

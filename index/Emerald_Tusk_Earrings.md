@@ -1,8 +1,9 @@
 ---
 title: Emerald Tusk Earrings
-revid: 67947
+revid: 73066
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Emerald Tusk Earrings

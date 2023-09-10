@@ -1,8 +1,9 @@
 ---
 title: Ruby Drop Earrings
-revid: 67948
+revid: 73055
 source: https://deepwoken.fandom.com/wiki/Ruby_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Ruby Drop Earrings

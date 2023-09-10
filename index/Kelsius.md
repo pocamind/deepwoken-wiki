@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 61236
+revid: 73081
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
