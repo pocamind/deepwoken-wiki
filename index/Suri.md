@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 70732
+revid: 73232
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]

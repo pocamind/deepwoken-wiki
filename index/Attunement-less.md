@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 72712
+revid: 73239
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -527,11 +527,12 @@ In short: Every 20 points in a specific attribute will unlock the next level for
     -   Before Revenge was nerfed, it could become a cheap get-out-of-jail card as you could drastically increase its range with Drift/Rush shards.
     -   I'm not sure if the functionality of Aeon/Eternal logstones got removed as well, but if you added enough of these on a ~Fortitude~/Charisma mantra, the effect would last so long, longer than the mantra's cooldown.  
         (Unfortunately, it seems Logstones, or Eternal ones at least, do not work on Brace or Reinforce. You can better increase the duration by leveling up the mantras.)
--   Reinforce by far has the most talent card upgrades out of all the attunement-less mantras.
+-   Prediction by far has the most talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
--   Summoning Cauldron was one of the most powerful mantras out there, excluding pre-nerf Strong Left.
+-   Summoning Cauldron was one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
 -   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
+    -   This used to be 8
 -   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 starred respectively.
 -   "Strong Left" may have been inspired by Franky's Strong Right from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).
 -   Rapid Slashes is Vergil's move from Devil May Cry series.

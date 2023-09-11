@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 70464
+revid: 73225
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -28,7 +28,7 @@ An Etrean Guardsmen's arsenal consists of either a [Battleaxe](Battleaxe.md), [R
  | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before slamming it into the ground below.
 
-\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe,
+\[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands.
 
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |

@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 73165
+revid: 73226
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -16,50 +16,56 @@ File:Depth Seeker.jpg
 
 Watcher located in [The Depths](The_Depths.md)
 
-Lesser **Angels** are white and dull-yellow humanoid creatures with wings. They wield vantablack spears and use the Crazy slots spear ability. They are summoned by entities called Watchers. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Angel.
+Lesser **Angels** are white and dull-yellow humanoid creatures with wings. They wield vantablack spears and use the Crazy slots spear ability. They are summoned by entities called Watchers. Many can be found in Celtor, the sunken city in the Depths. Each will summon two Lesser Angels. One can be found in the Temple of the Forgotten Flame on Erisia, which spawns a single Lesser Angel, unlike the Depths counterpart. If you are attempting to get the Blindseer Oath, you will most likely have to fight the Lesser Angel.
 
-If a Watcher catches a player in its line of sight, its light beam will turn red, put the player in danger mode, and it will summon the Angels. Watchers have no means of directly attacking and they themselves cannot be attacked, thus making them not truly "monsters" and instead, they qualify as an [Environmental Hazard](Environmental_Hazards.md).
+If a Watcher catches a player in its line of sight, its light beam will turn red, put the player in danger mode, and it will summon the Lesser Angels. Watchers have no means of directly attacking and they themselves cannot be attacked, thus making them not truly "monsters" and instead, they qualify as an [Environmental Hazard](Environmental_Hazards.md).
 
-A single Angel can also be summoned as a Trial when attempting to escape the Depths.
+A single Lesser Angel can also be summoned as a Trial when attempting to escape the Depths.
 
 ## Moveset
 
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Light Attack** | Angels use black spears which deal 20-30 damage each hit. | ◯ | (★☆☆) |
-| **Light Piercer** | Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun. | ◯ | (★☆☆) |
-| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will perform additional 2 slashes. | ◯ | (★★☆) |
-| **Feint** | Angels are capable of feinting their light attacks. | N/A | (★★☆) |
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
+| Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
+| **Light Piercer** | Rises into the air and shoot 5 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
 
 **Regular:**
 
 Template:Creature Infobox V3 White and Dull-Yellow Humanoid creatures with wings. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude.
 
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
+| Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
+| **Light Piercer** | Rises into the air and shoot 5 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
+
 ## Passive
 
 -   **Bear Trap** - Getting hit with Angel's critical will disable your jumps and slow you down for a duration
-
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Light Attack** | Angels use black spears which deal 20-30 damage each hit. | ◯ | (★☆☆) |
-| **Light Piercer** | Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun. | ◯ | (★☆☆) |
-| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes. | ◯ | (★★☆) |
-| **Feint** | Angels are capable of feinting their light attacks. | N/A | (★★☆) |
+    
 
 **Deep:**
 
 Template:Creature Infobox V3 These Angels are like no other variants - they are black in contrary to other variants, and glow bright magenta. Wields [Divine](Crazy_Slots.md) Spears and uses the Crazy slots spear ability. Deep Angels spawns in the Ancient Rotlands, and drops a chest when you kill them. The chests they drop will contain high tier loot, having more than two legendary rings in one chest.
 
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
+| Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
+| **Light Piercer** | Rises into the air and shoot 5 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
+
 ## Passive
 
 -   **Bear Trap** - Getting hit with Angel's critical will disable your jumps and slow you down for a duration
-
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Light Attack** | Angels use black spears which deal 20-30 damage each hit. | ◯ | (★☆☆) |
-| **Light Piercer** | Rise into the air and shoot ~5 bullets of light that explode, deal damage, and stun. | ◯ | (★☆☆) |
-| **Critical** | Enters a stance before performing a quick swipe with spear, if the hit lands, will preform additional 2 slashes | ◯ | (★★☆) |
-| **Feint** | Angels are capable of feinting their light attacks. | N/A | (★★☆) |
+    
 
 ## Trivia
 

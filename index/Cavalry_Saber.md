@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 51101
+revid: 73223
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -32,6 +32,6 @@ categories: [Weapons, Swords]
 
 The Cavalry Saber is a midgame weapon obtained from both [Depths](The_Depths.md) chests and [Summer Isle](Summer_Isle.md) chests. This weapon has a base damage of 21, and a scaling of 5
 
-## Notes:
+## Trivia
 
--   Similar to the [Vigil Longsword](Vigil_Longsword.md)
+-   It is near identical to the [Officer Saber](Officer_Saber.md).

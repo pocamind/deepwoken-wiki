@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 73090
+revid: 73234
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -211,8 +211,9 @@ Eclipse Kick
  |
 | 
 
- | Shadow Vortex
+ | 
 
+Shadow Vortex  
 (★★★)
 
  | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The mantra doesn't combat tag and has no vertical range cap.
@@ -245,11 +246,25 @@ Shade Devour
  |
 | 
 
- | Devouring Eye
+ | 
 
+Devouring Eye  
 (★★☆)
 
  | Summons a fragile eye that consumes the ether of those who try to cast mantras within its gaze. | 40 Ether | Creates an Eye that steals the ether of anybody that casts a mantra within its gaze |
+| 
+
+ | 
+
+Shade Wisp  
+(★★☆)
+
+ | Summon a servant of Shade | 70 Ether | Cloaks the caster in darkness and reduces their visibility
+
+-   Requires a Ritual Cast
+-   Visibility reduction towards the caster is reduced
+
+ |
 
 ### **Mobility**
 
