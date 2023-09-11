@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Longcoat
-revid: 72834
+revid: 73297
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms]
 | pass down | Yes |
 | obtainment | Songseeker / Minityrsa / Dread Serpent |
 | description | ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

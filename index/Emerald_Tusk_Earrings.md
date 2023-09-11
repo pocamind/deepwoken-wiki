@@ -1,6 +1,6 @@
 ---
 title: Emerald Tusk Earrings
-revid: 73066
+revid: 73279
 source: https://deepwoken.fandom.com/wiki/Emerald_Tusk_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -22,6 +22,8 @@ categories: [Equipment]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Duke Erisia, Primadon |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

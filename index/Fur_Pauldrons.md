@@ -1,6 +1,6 @@
 ---
 title: Fur Pauldrons
-revid: 64552
+revid: 73299
 source: https://deepwoken.fandom.com/wiki/Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms, Pauldrons]
 | pass down | Yes |
 | obtainment | Chests from:Erisia, Aratel Island |
 | description | ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

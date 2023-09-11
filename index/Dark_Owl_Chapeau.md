@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 71812
+revid: 73294
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets]
@@ -23,10 +23,12 @@ categories: [Armors, Helmets]
 | obtainment | Chests from:, Second Layer, Miner's Landing, Deep Widow, Duke Erisia |
 | description | "..." |
 
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+
 ## Description
 
 The Dark Owl Chapeau is a "_Head_" [equipment.](Equipment.md) It is found mainly in [The Eternal Gale](Second_Layer.md), but can rarely be obtained through [Miner's Landing](<Miner's_Landing.md>), [Duke Erisia](Duke_Ishamon_Erisia.md) and the [Deep Widow](Deep_Widow.md) chests.
 
 ## Trivia
 
--   Part of the Dark Owl series; the only other piece being the [Dark Owl Cloak](Dark_Owl_Cloak.md).
+-   Part of the Dark Owl series; the other pieces being the [Dark Owl Cloak](Dark_Owl_Cloak.md) and [Dark Owl Cape](https://deepwoken.fandom.com/wiki/Capes?so=search#Dark_Owl_Cape_)

@@ -1,6 +1,6 @@
 ---
 title: Fur Boots
-revid: 69951
+revid: 73298
 source: https://deepwoken.fandom.com/wiki/Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Boots, Armors]
@@ -22,11 +22,13 @@ categories: [Pages with broken file links, Boots, Armors]
 | obtainment | Chests from:, Erisia, Minityrsa, Songseeker Wilds |
 | description | "..." |
 
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+
 ## Description
 
 Fur Boots are accessories under the "_Boots_" category. They can be found through chests in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md).
 
-Fur Boots are part of the "**Fur**" set; with the only other piece being the **Fur Pauldrons**.
+Fur Boots are part of the "**Fur**" set; with the only other piece being the [Fur Pauldrons](Fur_Pauldrons.md)
 
 ## Trivia
 

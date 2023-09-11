@@ -1,12 +1,14 @@
 ---
 title: Fleet Warden Cape
-revid: 69519
+revid: 73257
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
 ---
 
 # Fleet Warden Cape
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 “ THE ONE PIECE IS REAL! ”
 

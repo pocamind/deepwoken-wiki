@@ -1,6 +1,6 @@
 ---
 title: Gumshoe Hat
-revid: 72833
+revid: 73261
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -23,8 +23,11 @@ categories: [Character, Armors]
 | obtainment | Fort Merit |
 | description | - "..." |
 
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+
 ## Description
 
 "..."
 
 -   Mostly findable in Fort Merit
+-   The Coats for the Gumshoe Set can be found here: [Gumshoe Longcoat](Gumshoe_Longcoat.md)

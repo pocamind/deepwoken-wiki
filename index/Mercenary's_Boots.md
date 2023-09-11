@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Boots"
-revid: 69984
+revid: 73288
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -20,8 +20,10 @@ categories: [Equipment]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Miner's Landing |
+| obtainment | Chests from:Miner's Landing Second Layer |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

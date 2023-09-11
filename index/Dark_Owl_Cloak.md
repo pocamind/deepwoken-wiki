@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 71990
+revid: 73292
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -21,6 +21,8 @@ categories: [Equipment, Arms]
 | pass down | Yes |
 | obtainment | Rare Drop from Deep Owls |
 | description | ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

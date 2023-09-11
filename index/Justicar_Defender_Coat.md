@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 72587
+revid: 73263
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Arms]
@@ -24,6 +24,8 @@ categories: [Pages with broken file links, Equipment, Arms]
 | obtainment | Chests from:Aelita, Deep Owls, King Threshers |
 | description | ... |
 
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+
 File:The new Justicar defender after the update.png
 
 The new Jet Black Justicar defender after the update (looks ugly)
@@ -35,5 +37,3 @@ The Justicar Defender Coat is an animated equipment item under the Arms category
 ## Trivia
 
 -   Seems to have no rarity in-game, simply being called "Arms" in campfires instead of "Rare Arms" or "Common Arms". This is presumably why it cannot be sold to [Antiquarians](Antiquarian.md), as the rarity of an item decides the selling price.
--   Ash, Crimson, and Magenta variants are missing pictures.
--   With 9 different colors, it has the most variants of any equipment.

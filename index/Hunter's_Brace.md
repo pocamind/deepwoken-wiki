@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Brace"
-revid: 70626
+revid: 73270
 source: https://deepwoken.fandom.com/wiki/Hunter's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Braces]
@@ -8,7 +8,7 @@ categories: [Arms, Braces]
 
 # Hunter's Brace
 
-Template:EquipmentStats
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats
 
 ## Description
 

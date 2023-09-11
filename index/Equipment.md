@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73128
+revid: 73282
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -296,7 +296,7 @@ Chests from:
 
  | 
 
-_\+ 2 Posture_  
+_+2 Posture_  
 
 +1 Rare Pip
 
@@ -1469,7 +1469,7 @@ Chests from:
 -   [Aratel Island](Aratel_Island.md)
 
  | N/A |
-| File:Emeraldtsk.JPG | 
+|  | 
 
 [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)
 
@@ -1892,9 +1892,9 @@ Chests from:
 
  | 
 
-Makes usually parry breaking moves parryable.
+When worn, unparryable attacks become parryable.
 
-(e.g. Megalodaunt's Kick, Rock Golem's Punch)
+(e.g. Megalodaunt's Kick, Primadon's Kick, Rock Golem's Punch)
 
 _Disappears on death or leaving the game._
 
@@ -2658,7 +2658,7 @@ Other Sources:
 -   Black Variant: Drop from [Authority Captain](Authority_Captain.md)
 
  | Black, Brown & White |
-| File:White Parka.png | 
+| File:Brown Parka.png | 
 
 Brown Parka
 
@@ -3917,26 +3917,6 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Black Fur Boots.png | 
-
-Black Fur Boots
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
- | 
-
-Chests from:
-
--   [Erisia](Erisia.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
 |  | 
 
 [Bluesteel Boots](Bluesteel_Boots.md)
@@ -4042,6 +4022,32 @@ Chests from:
 -   idk where lol
 
  | N/A |
+| File:White fur boots.png | 
+
+[Fur Boots](Fur_Boots.md)
+
+(**Series**)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+ | 
+
+Chests from
+
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Hell Mode](Hell_Mode.md)
+
+Other sources:
+
+-   [Artifact Turn-ins](Artifacts.md)
+
+ | Black & White |
 | File:Grand Authority Sabatons.png | 
 
 [Grand Authority Sabatons](Grand_Authority_Sabatons.md)
@@ -4316,30 +4322,6 @@ Chests from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
-
- | N/A |
-| File:White fur boots.png | 
-
-White Fur Boots
-
- | 
-
-  
-_+3 Health_  
-
-+2 Rare Pips
-
- | 
-
-Chests from
-
--   [Erisia](Erisia.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
-
-Other sources:
-
--   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 |  | 
