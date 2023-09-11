@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 72653
+revid: 73337
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms, Cloaks]
 | pass down | Yes |
 | obtainment | Chests:Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Rogue Construct (Pale), Other Sources:, Drop from Cloaked Assassins |
 | description | ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Aristocrat Coat
-revid: 72800
+revid: 73338
 source: https://deepwoken.fandom.com/wiki/Aristocrat_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms, Coats]
 | pass down | Yes |
 | obtainment | Chests from:Summer Isle |
 | description | Any man worth his salt or indeed worth the salt of a hundred other men would have a coat like this, you're sure. |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

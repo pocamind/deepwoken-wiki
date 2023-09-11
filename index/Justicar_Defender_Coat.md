@@ -1,9 +1,9 @@
 ---
 title: Justicar Defender Coat
-revid: 73263
+revid: 73327
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment, Arms]
+categories: [Equipment, Arms]
 ---
 
 # Justicar Defender Coat
@@ -25,10 +25,6 @@ categories: [Pages with broken file links, Equipment, Arms]
 | description | ... |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
-File:The new Justicar defender after the update.png
-
-The new Jet Black Justicar defender after the update (looks ugly)
 
 ## Description
 

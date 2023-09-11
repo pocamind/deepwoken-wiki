@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 73050
+revid: 73360
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -22,6 +22,8 @@ categories: [Equipment]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Second Layer, First Layer |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

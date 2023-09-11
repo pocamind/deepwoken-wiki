@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 72654
+revid: 73332
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | Completed Hell Mode |
 | description | ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

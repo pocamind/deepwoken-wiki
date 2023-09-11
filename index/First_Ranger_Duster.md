@@ -1,6 +1,6 @@
 ---
 title: First Ranger Duster
-revid: 72381
+revid: 73329
 source: https://deepwoken.fandom.com/wiki/First_Ranger_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms, Dusters]
 | pass down | Yes |
 | obtainment | Roughly a 2.5% chance of being dropped from a King Thresher |
 | description | ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

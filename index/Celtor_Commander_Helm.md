@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 69911
+revid: 73344
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -23,6 +23,8 @@ categories: [Armors]
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Second Layer |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

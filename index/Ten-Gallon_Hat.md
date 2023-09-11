@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 69924
+revid: 73347
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -24,6 +24,12 @@ categories: [Helmets]
 | obtainment | Chests from:, Aratel Island |
 | description | "..." |
 
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+
 ## Description
 
-The Ten-Gallon Hat is an Equipment in the "_Head_" category_._ Equipping this item will give you +2 posture.
+The Ten-Gallon Hat is an Equipment in the "_Head_" category_._ Equipping this item will give you +2 posture and 1 rare pip.
+
+## Trivia
+
+This hat goes HARD - witherald

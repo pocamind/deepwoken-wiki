@@ -1,6 +1,6 @@
 ---
 title: Tophat
-revid: 70024
+revid: 73350
 source: https://deepwoken.fandom.com/wiki/Tophat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -23,6 +23,8 @@ categories: [Helmets]
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle |
 | description | "While wearing a hat like this you start feeling the urge to exploit the surplus labor of the working class." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

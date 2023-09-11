@@ -1,6 +1,6 @@
 ---
 title: Ministry Operative Cloak
-revid: 73049
+revid: 73315
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -23,7 +23,7 @@ categories: [Equipment]
 | pass down | Yes |
 | obtainment | Chests From:Layer 2, Crypt of the Unbroken |
 
-# Ministry Operative Cloak
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

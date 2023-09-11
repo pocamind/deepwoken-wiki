@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 73030
+revid: 73403
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -965,7 +965,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td>75 MED</td>
   <td>20</td>
   <td>25%</td>
-  <td>MED: 6</td>
+  <td>MED: 7</td>
   <td>4</td>
   <td>8</td>
   <td>0.73x</td>
@@ -1342,6 +1342,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -1352,6 +1353,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><a href="Steel_Maul.md">Steel Maul</a></td>
   <td>20 HVY, 10 STR</td>
   <td>22</td>
+  <td>N/A</td>
   <td>N/A</td>
   <td>HVY: 7</td>
   <td>7</td>
@@ -1364,6 +1366,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>55 HVY, 10 STR</td>
   <td>24</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
@@ -1375,6 +1378,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>65 HVY, 30 STR</td>
   <td>25</td>
   <td>5%</td>
+  <td>10%</td>
   <td>HVY: 8.3</td>
   <td>10</td>
   <td>9</td>
@@ -1386,6 +1390,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>75 HVY, 10 STR, LVL 10</td>
   <td>24</td>
   <td>15%</td>
+  <td>N/A</td>
   <td>HVY: 9</td>
   <td>10</td>
   <td>9</td>
@@ -1397,6 +1402,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>75 HVY, 10 STR, LVL 10</td>
   <td>26</td>
   <td>15%</td>
+  <td>N/A</td>
   <td>HVY: 8</td>
   <td>9</td>
   <td>9</td>
@@ -1408,6 +1414,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><font>75 HVY</font>, 10 STR</td>
   <td><font>24</font></td>
   <td><font>10%</font></td>
+  <td><font>N/A</font></td>
   <td><font>HVY: 8</font></td>
   <td>7</td>
   <td>9</td>
@@ -1418,6 +1425,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><a href="Enforcer's_Hammer.md">Enforcer's Hammer</a></td>
   <td>80 HVY, 25 STR, LVL 10</td>
   <td>25</td>
+  <td>10%</td>
   <td>10%</td>
   <td>HVY: 9</td>
   <td>12</td>
@@ -1430,6 +1438,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>100 HVY, 60 STR</td>
   <td>30</td>
   <td>5%</td>
+  <td>N/A</td>
   <td>HVY: 10</td>
   <td>8</td>
   <td>10</td>

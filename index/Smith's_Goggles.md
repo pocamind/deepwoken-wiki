@@ -1,6 +1,6 @@
 ---
 title: "Smith's Goggles"
-revid: 71810
+revid: 73357
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face]
@@ -8,7 +8,7 @@ categories: [Face]
 
 # Smith's Goggles
 
-Template:EquipmentStats
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats
 
 ## Description
 

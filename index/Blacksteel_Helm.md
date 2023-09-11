@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 69912
+revid: 73343
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -23,6 +23,8 @@ categories: [Character, Armors]
 | pass down | Yes |
 | obtainment | Chests from:, Summer Isle, First Layer, Duke Erisia, ArenaDrops from:, Blacksteel Pirate |
 | description | "An imposing helmet made from blackened steel." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

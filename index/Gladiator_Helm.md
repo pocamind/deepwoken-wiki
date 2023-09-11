@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 71813
+revid: 73342
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -23,6 +23,8 @@ categories: [Helmets, Equipment]
 | pass down | Yes |
 | obtainment | Aratel Island, Duke Erisia, Deep Widow, First Layer |
 | description | - "The visage of a gladiator who has seen many battles." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

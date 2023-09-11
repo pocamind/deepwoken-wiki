@@ -1,18 +1,16 @@
 ---
 title: Equipment
-revid: 73282
+revid: 73418
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
 notices:
-  - This page is currently being worked on. Some things may be incomplete or incorrect.
+  - "This page is currently being worked on. A few things are missing information, although this page is mostly complete."
 ---
 
 # Equipment
 
-Armor is an essential part to Deepwoken, being the primary means of resisting damage from most sources.
-
-Armor can refer to either [Outfits](Outfits.md) or Equipment (this page).
+An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for cosmetic purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md)
 
 ## Overview
 
@@ -127,7 +125,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 </table>
 
   
-_If you see an ugly image / "Grants a Random Buff" text, that means the equipment info is incomplete, DM Witherald if you have the corresponding items so he can update them_
+_If you believe any information is outdated, DM Witherald_
 
 **Head:**
 
@@ -442,7 +440,7 @@ Chests from:
  | Black, Brown, & Deepwoken |
 | File:Deepwoken Hood1.png | 
 
-[Deepwoken Hood](Deepwoken_Hood.md)
+Deepwoken Hood
 
 (**Series**)
 
@@ -644,6 +642,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
 | File:Bulwark Helm.png | 
@@ -976,7 +975,11 @@ Other sources:
 
  | 
 
-Grants a random buff.
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
 
  | 
 
@@ -993,7 +996,11 @@ Sources:
 
  | 
 
-Grants a random buff.
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
 
  | 
 
@@ -1021,6 +1028,23 @@ _+10 Health_
 Sources:
 
 -   [Hallowtide (Event)](Hallowtide.md)
+
+ | N/A |
+|  | 
+
+The Deepwoken Raybands Gucci Hat 5000
+
+(Unobtainable)
+
+ | 
+
+Unknown
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
 
  | N/A |
 
@@ -1094,6 +1118,7 @@ Cosmetic
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
 
@@ -1110,6 +1135,8 @@ Cosmetic
 
 Chests from:
 
+-   [Eastern Tribe Nomad](Eastern_Nomad.md)
+-   Eastern Tribe Leader
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -1132,7 +1159,7 @@ Cosmetic
 Chests from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [First Layer](First_Layer.md)
+-   [Minityrsa](Minityrsa.md)
 
  | N/A |
 |  | 
@@ -1229,6 +1256,21 @@ Chests from:
  | N/A |
 |  | 
 
+[The Guy's Eyeglasses](Eyeglasses.md)
+
+ | 
+
+Unknown Pips
+
+ | 
+
+Source from:
+
+-   [The Guy](The_Guy.md)
+
+ | N/A |
+|  | 
+
 Bloodfeather Mask
 
  | 
@@ -1309,6 +1351,7 @@ Cosmetic
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
@@ -1679,7 +1722,7 @@ Chests from:
  | Red, Black, Midnight & White |
 |  | 
 
-Sandrunner Scarf
+[Sandrunner Scarf](Sandrunner_Scarf.md)
 
  | 
 
@@ -1921,7 +1964,12 @@ _+1 Posture_
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
+
+Other sources:
+
+-   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
 
  | N/A |
 |  | 
@@ -1998,6 +2046,7 @@ Other sources:
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
 | File:Azure Royal Guard.png | 
@@ -2033,6 +2082,7 @@ Chests from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | Black & White |
 | File:Blacksteel Pauldron.png | 
@@ -2051,6 +2101,7 @@ _+1 Posture_
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
 | 
@@ -2107,6 +2158,8 @@ Chests from:
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   Songseeker WIlds
+-   [Minityrsa](Minityrsa.md)
 
  | N/A |
 |  | 
@@ -2135,7 +2188,7 @@ File:Grand Pauldrons.png
 
  | 
 
-Grants a random buff.
++2 Rare Pips
 
  | 
 
@@ -2225,6 +2278,7 @@ _+2 Health_
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
 | 
@@ -2295,6 +2349,7 @@ Chests from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
 |  | 
@@ -2606,6 +2661,7 @@ Chests from:
 
 -   [Erisia](Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | Black, Brown, & White |
 | File:White Overcoat.png | 
@@ -3258,6 +3314,23 @@ Chests from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
+| File:Titan Inquisitor's Duster.png | 
+
+[Inquisitor's Duster](<Inquisitor's_Duster.md>)
+
+(Unobtainable)
+
+ | 
+
+Unknown (Awful stats apparently)
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
 
   
 
@@ -3899,6 +3972,7 @@ _+3 Health_
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
@@ -4036,11 +4110,12 @@ _+3 Health_
 
  | 
 
-Chests from
+Chests from:
 
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
 
 Other sources:
@@ -4132,6 +4207,7 @@ _+3 Health_
 Chests from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)

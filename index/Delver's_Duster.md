@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 69096
+revid: 73365
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -22,6 +22,8 @@ categories: [Equipment, Arms, Dusters]
 | pass down | Yes |
 | obtainment | Chests:Chaser, Scion of Ethiron, Miner's Landing, Other Sources:, Merchant Ships |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

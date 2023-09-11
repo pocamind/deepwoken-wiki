@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 72368
+revid: 73361
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Scarves]
@@ -23,6 +23,8 @@ categories: [Equipment, Scarves]
 | pass down | Yes |
 | obtainment | Chests From: |
 | description | The scarf of an elite Knife of Eylis. Signifies the bearer's mastery over the Void. |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

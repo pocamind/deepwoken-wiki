@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 69914
+revid: 73346
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -23,6 +23,8 @@ categories: [Helmets, Items]
 | pass down | Yes |
 | obtainment | Duke Erisia, Golden Warrior, First Layer, Starswept Valley |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

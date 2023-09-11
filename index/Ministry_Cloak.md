@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 70777
+revid: 73317
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -24,10 +24,12 @@ categories: [Equipment, Arms, Cloaks]
 | obtainment | Chests from:Blizzard Knights |
 | description | ... |
 
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+
 ## Description
 
-The Ministry Cloak is an animated equipment item under the Arms category. Equipping it grants you 5 Health, 10 Ether, and an unknown number of Pips. It is rarely found in chests from [Blizzard Knights](Stone_Knight.md). It effectively grants you the visuals of the color-corresponding [Fleet Warden Cape](Fleet_Warden_Cape.md).
+The Ministry Cloak is an animated equipment item under the Arms category. Equipping it grants you 5 Health, 10 Ether, 1 Rare Pip, and 1 Legendary Pip. It is rarely found in those hero blade chests from [Blizzard Knights](Stone_Knight.md).
 
 ## Trivia
 
--   Rose, Peach and Pink variants are missing pictures.
+-   It comes with it's own cape attached to it, which looks similar to that of [Fleet Warden Cape](Fleet_Warden_Cape.md).
