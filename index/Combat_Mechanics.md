@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 70720
+revid: 73184
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -27,8 +27,8 @@ _There are many elements to the GUI, each one playing its own part. In order to 
     <li>The lower your Health is, the slower you get. In short, Health directly affects your agility.</li>
   </ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
   The player will lose one life on death (excluding <a href="Echoes.md#modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
-  The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths and <a href="Second_Layer.md">Layer 2</a>.<br>
-  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death</p></figcaption></figure></td>
+  The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
+  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death.</p></figcaption></figure></td>
 </tr>
 <tr>
   <th>Posture Bar</th>

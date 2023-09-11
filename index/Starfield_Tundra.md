@@ -1,6 +1,6 @@
 ---
 title: Starfield Tundra
-revid: 71531
+revid: 73190
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Voidzones, Oaths, World, Etrean Luminant]
@@ -33,4 +33,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Notes & Trivia
 
 -   Please add image and information if you have any.
--   This area is one of many areas that contain a Startree ([Starfield Veldt](Starfield_Veldt.md), **Starfield Tundra**, [Starfield Grove](Starfield_Grove.md)).
+-   This area is one of three areas that contain a Startree ([Starfield Veldt](Starfield_Veldt.md), Starfield Tundra, [Starfield Grove](Starfield_Grove.md)).

@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 67010
+revid: 73195
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Stub pages without reason, StubPages, Swords]
@@ -49,5 +49,8 @@ notices:
 The **Messer** is a Medium Weapon that can be obtained by buying it at the weapon shop in [Etris](Etris.md) or from [Erisia](Erisia.md) Chests. This weapon has no special effects or passives. It can be alloyed to create Alloyed Messer.
 
 ## Trivia
+
+-   Generally recommended to use a [Mace](Mace.md) instead.
+    
 
 **Alloyed:**

@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 72054
+revid: 73217
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -95,12 +95,14 @@ The prices of Chili's items may vary from price to price.
     -   [Winter Corps Parka](Winter_Corps_Parka.md)
     -   [Woodland Boots](Woodland_Boots.md)
 -   **Utilities:**
-    -   [Lore Books](Books.md)
-    -   [Equipment Dye](Dye_Packet.md)
-    -   [Pickaxe](Pickaxe.md)
     -   [Canteen](Canteen.md)
+    -   [Equipment Dye](Dye_Packet.md)
     -   [Glider](Gliders.md)
     -   [Hunters Brace](<Hunter's_Brace.md>)
+    -   [Lore Books](Books.md)
+    -   [Lumber Axe](Lumber_Axe.md)
+    -   [Pickaxe](Pickaxe.md)
+    -   [Umbral Flint](Flint.md)
 
 ## Trivia
 

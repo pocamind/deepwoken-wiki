@@ -1,16 +1,16 @@
 ---
 title: Starfield Veldt
-revid: 71526
+revid: 73188
 source: https://deepwoken.fandom.com/wiki/Starfield_Veldt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Locations, Voidzones]
+categories: [Pages with broken file links, World, Locations, Voidzones]
 ---
 
 # Starfield Veldt
 
 Template:Location2
 
-Template:Areainfobox
+File:Starfiled Veldt but where.png
 
 **Starfield Veldt** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) island found in the East Luminant.
 
@@ -20,24 +20,10 @@ Starfield Veldt is an island with greenery along the outskirts. However, deeper 
 
 Starfield Veldt is a **Voidzone**, meaning you will be sent to [The Depths](The_Depths.md) if you die on the island regardless of other influences.
 
-  
-
 ## Startree
 
 The **Startree** is a large gathering of tree roots dotted with many glowing white stones. This is where [Linkstriders](Oaths.md#linkstrider) can collect [Stardust](Stardust.md) to use for teleporting.
 
-  
-
-## Potential Enemies
-
--   [Megalodaunt](Megalodaunt.md) (+Crimson and Alpha)
--   [Desert Knights](Stone_Knight.md)
--   [Carbuncle](Carbuncle.md)
--   [Brainsucker](Brainsucker.md)
--   [Abaddon, Sinner of Ice](Oaths.md#starkindred) (Starkindred only)
-
-  
-
 ## Notes & Trivia
 
--   This area is one of many areas that contain a Startree (**Starfield Veldt**, [Starfield Tundra](Starfield_Tundra.md), [Starfield Grove](Voidzones.md#starfield-grove))
+-   This area is one of three areas that contain a Startree (**Starfield Veldt**, [Starfield Tundra](Starfield_Tundra.md), [Starfield Grove](Voidzones.md#starfield-grove))
