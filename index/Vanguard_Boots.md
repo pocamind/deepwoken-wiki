@@ -1,6 +1,6 @@
 ---
 title: Vanguard Boots
-revid: 69975
+revid: 73560
 source: https://deepwoken.fandom.com/wiki/Vanguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Armors, Items]
@@ -25,6 +25,8 @@ categories: [Boots, Armors, Items]
 “ Oh my days bruhhh this is the third Vanguard Boots I've pulled from Lower ”
 
 ― Level 3 Khan at Lower Erisia
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

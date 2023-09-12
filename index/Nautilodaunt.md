@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 73421
+revid: 73554
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Mortus describing his encounter with a Nautliodaunt
 
-_Also referred to as Squibbo, Squid Hoss, Squidward, Nautilos and Harambe._
+_Also referred to as Squibbo, Squid Hoss, Squidward, and Nautilus_
 
 **Nautilodaunt:**
 

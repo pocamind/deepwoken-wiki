@@ -1,6 +1,6 @@
 ---
 title: Bluesteel Boots
-revid: 69987
+revid: 73568
 source: https://deepwoken.fandom.com/wiki/Bluesteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors, Equipment]
@@ -26,6 +26,8 @@ categories: [Character, Armors, Equipment]
 “ Hmph, Redsteel Boots? Really? You lack standard. Be like me, choose blue instead. ”
 
 ― A Vesperian insulting a Capra's Redsteel Boots
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

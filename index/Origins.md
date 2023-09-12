@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 72211
+revid: 73557
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -60,7 +60,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light.
-    -   Have access to the campfire on the second floor (used to just be for cooking, but was changed to apply healing as well in a recent update)
+    -   Has access to the furnace (acts as a campfire) on the second floor (used to just be for cooking, but was changed to apply healing as well, in a recent update)
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
@@ -130,7 +130,7 @@ The following is speculation:
 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin in 8/22/2022.
     -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tacky mobs to progress unless you're down to fight an enforcer for 10 minutes in order to leave instead.
-    -   Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.
+    -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
     -   As of June 26th, 2023, Deepbounds have exclusive access to all shrines from a secret passageway.
 -   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Mintrysa, you might as well go Stealth unless you can actually see the outline of your target.

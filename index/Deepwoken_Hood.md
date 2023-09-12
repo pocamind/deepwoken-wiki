@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 72422
+revid: 73573
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -23,6 +23,8 @@ categories: [Character, Armors]
 | pass down | Yes |
 | obtainment | Chests from:, Fort Merit, First Layer |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Deepwoken Hood
 

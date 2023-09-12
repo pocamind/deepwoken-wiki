@@ -1,9 +1,9 @@
 ---
 title: "Smith's Goggles"
-revid: 73357
+revid: 73519
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Face]
+categories: [Face, Equipment]
 ---
 
 # Smith's Goggles
@@ -16,5 +16,5 @@ Smith's Goggles are an accessory under the “Face” category. They can be obta
 
 ## Trivia
 
--   Smith's Goggles are part of the "Smith" set, along with the Smith's Bandana and [Smith's Gloves](<Smith's_Gloves.md>).
+-   Smith's Goggles are part of the "Smith" set, along with the [Smith's Bandana](<Smith's_Bandana.md>) and [Smith's Gloves](<Smith's_Gloves.md>).
 -   Worn by all Blacksmith NPCs, alongside the rest of the set.

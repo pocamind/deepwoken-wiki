@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 73358
+revid: 73520
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -32,5 +32,5 @@ Smith's Gloves are an equipment item in the "_Arms_" category. Equipping them gr
 
 ## Trivia
 
--   Smith's Gloves are part of the "Smith" set, along with the Smith's Bandana and [Smith's Goggles](<Smith's_Goggles.md>).
+-   Smith's Gloves are part of the "Smith" set, along with the [Smith's Bandana](<Smith's_Bandana.md>) and [Smith's Goggles](<Smith's_Goggles.md>).
 -   Worn by all Blacksmith NPCs, alongside the rest of the set.

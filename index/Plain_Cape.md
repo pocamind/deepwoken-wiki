@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 73251
+revid: 73533
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -100,11 +100,13 @@ Capes are accessories under the "Torso" category. They can be found through ches
 
 ## Description
 
-Brilliant Capes are accessories under the "Torso" category. They can only be obtained as a drop from [Dread Serpents](Dread_Serpent.md)
+Brilliant Capes are accessories under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md)
 
 ## Trivia
 
-The cape, along with the entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn)
+-   The cape, along with the entire Brilliant set Is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn)
+-   Brilliant Cape is a part of the "**Brilliant**" set; with the other armor pieces being the **[Brilliant Pauldron](Brilliant_Pauldrons.md)** and the **[Brilliant Boots](Brilliant_Boots.md)**.
+    
 
 **Dark Owl Cape:**
 
@@ -113,6 +115,9 @@ The cape, along with the entire Brilliant set Is a reference to [Ike](https://fi
 Dark Owl Capes are accessories under the "Torso" category. They can be found through chests in the [Second Layer](Second_Layer.md).
 
 ## Trivia
+
+-   Dark Owl Cape is a part of the "**Dark Owl**" set; with the other armor pieces being the **[Dark Owl Chapeau](Dark_Owl_Chapeau.md)** and the **[Dark Owl Cloak](Dark_Owl_Cloak.md)**.
+    
 
 **Fleet Warden Cape:**
 

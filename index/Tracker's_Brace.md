@@ -1,6 +1,6 @@
 ---
 title: "Tracker's Brace"
-revid: 64502
+revid: 73536
 source: https://deepwoken.fandom.com/wiki/Tracker's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Braces]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 3 Health1 Posture, ? Pips |
+| innate stats | +3 Health+1 Posture, +2 Pips |
 | innate talent | None |
 | bankable | Yes |
 | droppable | Yes |
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Braces]
 
 ## Overview
 
-The Tracker's Brace is an equipment item under the Arms category. Equipping it grants you 3 Health, 1 Posture, and an unknown number of Pips. It is commonly found in chests from [Erisia](Erisia.md).
+The Tracker's Brace is an equipment item under the Arms category. Equipping it grants you 3 Health, 1 Posture, and 2 Rare Pips. It is commonly found in chests from [Erisia](Erisia.md).
 
 ## Trivia
 
