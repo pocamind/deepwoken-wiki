@@ -1,9 +1,9 @@
 ---
 title: "Assassin's Hood"
-revid: 73420
+revid: 73441
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors]
+categories: [Armors, Equipment]
 ---
 
 # Assassin's Hood
@@ -23,6 +23,8 @@ categories: [Armors]
 | obtainment | Chests from:, Aratel Island (Pale), Primadon (Pale), Aelita (Crimson, Gold & Mist) |
 | description | - ... |
 
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+
 ## Description
 
 Assassin's Hood is an accessory under the "Head" category. It can be found through chests in Hive Chests, Gold and Mist rarely from Aelita.
@@ -31,4 +33,3 @@ Assassin's Hood is an accessory under the "Head" category. It can be found throu
 
 -   This is part of the 'Assassin' Set, The only other piece being [Assassin's Cloak](<Assassin's_Cloak.md>)
 -   This hood comes with a face-mask
--   There is currently a bug where even if the hood is toggled invisible, the mask can still show.

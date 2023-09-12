@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73418
+revid: 73473
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -59,7 +59,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
   <td>10 12</td>
   <td>4 6 8</td>
   <td>4 8</td>
-  <td>6 8 10</td>
+  <td>4 6 8 10</td>
 </tr>
 <tr>
   <td>Sanity (SAN)</td>
@@ -143,7 +143,7 @@ _\+ Talent: Iron Gut_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Second Layer](Second_Layer.md)
@@ -162,7 +162,7 @@ _\+ Talent: Iron Gut_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -182,7 +182,7 @@ _\+ Talent: Pitcher_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -201,7 +201,7 @@ _\+ Talent: Pitcher_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -220,7 +220,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 
@@ -239,7 +239,7 @@ _+Talent: The Exterminator_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
@@ -260,7 +260,7 @@ _+Talent: The Exterminator_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
@@ -283,7 +283,7 @@ _+Talent: Give and Take_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -300,7 +300,7 @@ _+2 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -323,7 +323,7 @@ _+Talent: Give and Take_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
@@ -345,11 +345,12 @@ _\+ Talent: Giantslayer_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Hell Mode](Hell_Mode.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 | File:Static-assets-upload12843990363310254802.png | 
@@ -367,7 +368,7 @@ _\+ Talent: Spare Nails_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
@@ -386,15 +387,12 @@ _+4 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -411,7 +409,7 @@ _+4% Stealth_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Deep Widow](Deep_Widow.md)
@@ -431,7 +429,7 @@ _+2% Stealth_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Deep Widow](Deep_Widow.md)
@@ -452,7 +450,7 @@ Deepwoken Hood
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
@@ -475,7 +473,7 @@ _+Talent: Assassin_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Aelita](Aelita.md)
@@ -495,7 +493,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -516,7 +514,7 @@ _+Talent: Bloodletter_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 
@@ -529,14 +527,11 @@ Chests from:
 _\+ 4% Stealth_  
 _+1 Posture_ | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -557,13 +552,10 @@ _+Talent: Strong Hold_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
-
-Other sources:
-
--   Drop from Authority Enemies
+-   Mob drop from [Authority Officer](Authority_Officer.md)
 
  | N/A |
 | File:Barrel Helmet.png | 
@@ -580,13 +572,13 @@ _+5 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
-Chests from:
+Found from:
 
 -   [Artifact Turn-ins](Artifacts.md)
 
@@ -609,7 +601,7 @@ _+Talent: Concussive Force_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -636,7 +628,7 @@ _+10 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -661,7 +653,7 @@ _+Talent: Strong Hold_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Hell Mode](Hell_Mode.md)
@@ -685,7 +677,7 @@ _+8 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 
@@ -706,7 +698,7 @@ _+5 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 
@@ -723,13 +715,10 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -749,7 +738,7 @@ _+Talent: Concussive Force_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -771,15 +760,12 @@ _+5 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Golden Warrior](Golden_Warrior.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -796,14 +782,11 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
@@ -821,13 +804,10 @@ _+8 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 
  | Guard's, Royal Guard's, Captain's |
@@ -850,7 +830,7 @@ _+2 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -875,7 +855,7 @@ _+10 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -893,7 +873,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
@@ -916,7 +896,7 @@ _+Talent: Precise Swing_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 
@@ -939,7 +919,7 @@ _+8 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 
@@ -956,13 +936,10 @@ _+4 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 -   Chime Of Conflict
 
@@ -1061,7 +1038,7 @@ _\+ Talent: Blinded_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 
@@ -1078,7 +1055,7 @@ _\+ Talent: Blinded_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Blacksmith Reward](Blacksmith.md)
@@ -1097,13 +1074,13 @@ _\+ Talent: Blinded_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
  | Black & Crimson |
-| File:Red Headband.png | 
+| File:Orange Headband.png | 
 
 [Headband](Headband.md)
 
@@ -1115,7 +1092,7 @@ Cosmetic
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -1133,17 +1110,13 @@ Cosmetic
 
  | 
 
-Chests from:
+Found from:
 
 -   [Eastern Tribe Nomad](Eastern_Nomad.md)
--   Eastern Tribe Leader
+-   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
-
-Other sources:
-
--   Drop from Navae Enemies
 
  | N/A |
 | File:Static-assets-upload9013636473975687804.png | 
@@ -1156,7 +1129,7 @@ Cosmetic
 
  | 
 
-Chests from:
+Found from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
@@ -1172,7 +1145,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -1190,7 +1163,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
@@ -1210,7 +1183,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
@@ -1230,7 +1203,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
@@ -1248,7 +1221,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -1260,7 +1233,7 @@ Chests from:
 
  | 
 
-Unknown Pips
++1 Common Pip
 
  | 
 
@@ -1281,7 +1254,7 @@ _+5% Shadow Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
@@ -1299,7 +1272,7 @@ Cosmetic
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 
@@ -1314,7 +1287,9 @@ _+6% Stealth_
 
 +1 Rare Pip
 
-Chests from:
+ | 
+
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 
@@ -1329,13 +1304,11 @@ Hivelord Mask
 
  | 
 
-Chests from:
+Found from:
 
+-   Mob Drop from [Hive Constructs](Hive_Construct.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
-
-Other sources:
-
--   Drop from [Hive Constructs](Hive_Construct.md)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 |  | 
@@ -1348,7 +1321,7 @@ Cosmetic
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -1367,13 +1340,10 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
-Other sources:
-
--   Drop from Songseeker enemies
+-   Mob drop from Masked Songseeker Enemies
 
  | Blue, Green & Red |
 | File:Smith Goggles.png | 
@@ -1386,7 +1356,7 @@ Cosmetic
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [First Layer](First_Layer.md)
@@ -1402,7 +1372,7 @@ Cosmetic
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -1421,7 +1391,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -1439,7 +1409,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Ferryman](The_Ferryman.md)
 -   [Fishing](Fishing.md)
@@ -1455,7 +1425,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -1466,11 +1436,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
++1 Common Pip  
+
++1 Rare Pip
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
@@ -1488,7 +1460,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -1507,7 +1479,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -1524,7 +1496,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -1542,13 +1514,13 @@ _+3% Stealth_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
-| File:Prac.JPG | 
+|  | 
 
 [Practicioner's Earrings](<Practicioner's_Earrings.md>)
 
@@ -1558,7 +1530,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
@@ -1575,7 +1547,7 @@ _+5 Ether_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -1593,7 +1565,7 @@ _+2 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -1615,7 +1587,7 @@ _+3% Physical Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -1633,7 +1605,7 @@ _+3% Elemental Armor_
 
  | 
 
-Other sources:
+Found from:
 
 -   Mob Drop from [Dread Serpent](Dread_Serpent.md)
 
@@ -1651,7 +1623,7 @@ _+5% Shadow Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 
@@ -1668,7 +1640,7 @@ _+3% Physical Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -1692,7 +1664,7 @@ _+3% Elemental Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Fishing](Fishing.md)
@@ -1714,7 +1686,7 @@ _+5% Stealth_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fishing](Fishing.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -1734,7 +1706,7 @@ _+3% Fire Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 
@@ -1757,7 +1729,7 @@ _+3% Attunement Armor, changes depending on Scarf Variant_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -1774,7 +1746,7 @@ _+3% Elemental Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
@@ -1786,11 +1758,13 @@ Chests from:
 
  | 
 
-Grants a random buff.
+_+3% Elemental Armor_  
+
++1 Legendary Pip
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 
@@ -1807,7 +1781,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>) ^(Rarely)
 -   [Hell Mode](Hell_Mode.md)
@@ -1826,7 +1800,7 @@ _+3% Elemental Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 
@@ -1841,7 +1815,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
@@ -1861,7 +1835,7 @@ _+3% Shadow Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -1881,7 +1855,7 @@ _+3% Physical Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -1902,7 +1876,7 @@ _+3% Elemental Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -1920,7 +1894,7 @@ _+3% Elemental Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) boat event.
 
@@ -1943,9 +1917,9 @@ _Disappears on death or leaving the game._
 
  | 
 
-Other sources:
+Found from:
 
--   Buying from store on [Summer Isle](Summer_Isle.md)
+-   The Store at [Summer Isle](Summer_Isle.md)
 
  | N/A |
 |  | 
@@ -1961,14 +1935,11 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
-
-Other sources:
-
 -   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
 
  | N/A |
@@ -1985,7 +1956,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -2004,7 +1975,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 
@@ -2024,13 +1995,10 @@ _+Talent: Replenishing Knockout_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
-
-Other sources:
-
--   [Tutorial](Tutorial.md)
+-   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
 
  | N/A |
 | File:Autumn pauldrons.png | 
@@ -2043,7 +2011,7 @@ Other sources:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -2059,7 +2027,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
@@ -2078,7 +2046,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
@@ -2098,7 +2066,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -2118,7 +2086,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
@@ -2137,7 +2105,7 @@ _+5 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -2155,10 +2123,10 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
--   Songseeker WIlds
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 
  | N/A |
@@ -2173,7 +2141,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 
@@ -2192,7 +2160,7 @@ File:Grand Pauldrons.png
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
@@ -2208,7 +2176,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 
@@ -2223,7 +2191,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 
@@ -2241,7 +2209,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 
@@ -2260,7 +2228,7 @@ _+Talent: Polite Awakening_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -2275,7 +2243,7 @@ _+2 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -2293,7 +2261,7 @@ Grants a random buff.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md) (Event)
@@ -2311,7 +2279,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -2327,7 +2295,7 @@ Grants a random buff.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [First Layer](First_Layer.md)
@@ -2345,7 +2313,7 @@ _+2 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -2366,7 +2334,7 @@ _+2 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 
@@ -2385,7 +2353,7 @@ _+Talent: Polite Awakening_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -2406,7 +2374,7 @@ _+Talent: Battle Tendency_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
@@ -2430,13 +2398,10 @@ _+Talent: Lowstride_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
-
-Other sources:
-
 -   Buying from [Chili](Travelling_Merchant.md)
 
  | N/A |
@@ -2456,7 +2421,7 @@ _+Talent: Breathing Exercise_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
@@ -2475,7 +2440,7 @@ _+Talent: Berserker_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
@@ -2500,7 +2465,7 @@ _+Talent: Heavy Haul_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -2527,7 +2492,7 @@ _+Talent: Defiant until the End_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -2552,7 +2517,7 @@ _+Talent: Kick Off_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
@@ -2576,7 +2541,7 @@ _+Talent: Hoplite_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
@@ -2594,7 +2559,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -2618,7 +2583,7 @@ _+Talent: Kick Off_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Hell Mode](Hell_Mode.md)
@@ -2638,7 +2603,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Hell Mode](Hell_Mode.md)
 
@@ -2657,7 +2622,7 @@ _+1 Posture_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
@@ -2678,7 +2643,7 @@ _+2 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
@@ -2702,16 +2667,13 @@ _+Talent: Steady Footing_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
-
-Other Sources:
-
--   Black Variant: Drop from [Authority Captain](Authority_Captain.md)
+-   Mob drop from [Authority Captain](Authority_Captain.md)
 
  | Black, Brown & White |
 | File:Brown Parka.png | 
@@ -2732,7 +2694,7 @@ _+Talent: Steady Footing_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -2758,7 +2720,7 @@ _+Talent: Steady Footing_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -2783,7 +2745,7 @@ _+Talent: Winter's Protection_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
@@ -2805,13 +2767,10 @@ _+Talent: Lightweight_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
-
-Other sources:
-
 -   Buying from [Chili](Travelling_Merchant.md)
 
  | N/A |
@@ -2833,7 +2792,7 @@ _+Talent: Kick Off_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 
@@ -2850,7 +2809,7 @@ _+5 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -2875,7 +2834,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 
@@ -2896,7 +2855,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
@@ -2919,7 +2878,7 @@ _+6 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 
@@ -2945,7 +2904,7 @@ _+3% Stealth_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md) (Rogue Mech)
 -   [Aelita](Aelita.md)
@@ -2970,7 +2929,7 @@ _+10 Health_
 
 **Requires Power 13**
 
- | Chests from:
+ | Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 
@@ -2992,7 +2951,7 @@ _+Talent: Disbelief_
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
@@ -3017,7 +2976,7 @@ _+Talent: Blade Dancer_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -3041,7 +3000,7 @@ _+Talent: Conquer Your Fears_
 
  | 
 
-Other sources:
+Found from:
 
 -   Automatically obtained when winning [Hell Mode](Hell_Mode.md) (Repeatable)
 
@@ -3065,9 +3024,9 @@ _+2 Posture_
 
  | 
 
-Other sources:
+Found from:
 
--   Drop from [King Thresher](King_Thresher.md)
+-   Mob Drop from [King Thresher](King_Thresher.md) (~3%)
 
  | Azure, Cloud, Jade, Lavender & Umber |
 | File:Gumshoe Long Coat.png | 
@@ -3082,12 +3041,12 @@ Other sources:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 
-Chests from:
+Found from:
 
 -   Drop from [Dread Serpent](Dread_Serpent.md)
 
@@ -3108,15 +3067,12 @@ Justicar Defender
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Aelita](Aelita.md)
 -   [First Layer](First_Layer.md)
-
-Other sources:
-
--   Drop from [Corrupted King Threshers](King_Thresher.md)
+-   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (~2%)
 
  | Red, Black, Faded, Jet Black, Orange & Purple |
 | File:Sharko coat.png | 
@@ -3137,9 +3093,9 @@ _+5% Damage vs. Monsters_
 
  | 
 
-Other sources:
+Found from:
 
--   Drop from [Megalodaunts](Megalodaunt.md)
+-   Mob Drop from [Megalodaunts](Megalodaunt.md) (~3%)
 
  | Red, Purple, Brown, Green, Blue & Peach |
 | File:Smoke ministry cloak.PNG | 
@@ -3163,7 +3119,7 @@ _+10 Ether_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md) (Valley of Heroes, Hero Blade Event)
 
@@ -3184,7 +3140,7 @@ _+Talent: Ether Conduit_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
@@ -3210,9 +3166,9 @@ _+5% Damage vs. Monsters_
 
  | 
 
-Other sources:
+Found from:
 
--   Drop from [Nautilodaunt](Nautilodaunt.md) (**Very Rare**)
+-   Mob Drop from [Nautilodaunt](Nautilodaunt.md) (~3%)
 
  | Ash, Black, Crimson, Sage & Magenta |
 |  | 
@@ -3231,7 +3187,7 @@ _+Talent: Braced Collapse_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -3253,7 +3209,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -3279,7 +3235,7 @@ _+Talent: Ready or Not_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -3306,7 +3262,7 @@ _+Talent: Firmly Planted_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fishing](Fishing.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -3349,7 +3305,7 @@ Silver Ring
 
  | 
 
-Chests from:
+Found from:
 
 -   Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -3366,15 +3322,12 @@ Gold Ring
 
  | 
 
-Chests from:
+Found from:
 
 -   Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
-Other sources:
-
 -   Interacting with [Polis](Polis.md)' first dialogue
 
  |
@@ -3397,7 +3350,7 @@ _+2% Wind Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -3417,7 +3370,7 @@ Double the amount of charges of Attunement Wisps.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Knives of Eylis](The_Knives_of_Eylis.md) (Sea Event)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -3439,7 +3392,7 @@ Gives the user a massive increase in swimming speed while out of combat.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -3461,7 +3414,7 @@ _\-15% swing speed_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -3482,7 +3435,7 @@ Take 1.25x damage and deal 1.2x damage.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Knives of Eylis](The_Knives_of_Eylis.md) (Sea Event)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -3502,7 +3455,7 @@ Allows the user to slide with little delay.
 
  | 
 
-Chests from:
+Found from:
 
 -   Mudskipper Cave, [Lower Erisia](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -3529,7 +3482,7 @@ _+2% Lightning Armor_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -3551,7 +3504,7 @@ Deal more damage to factions that hate you.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Knives of Eylis](The_Knives_of_Eylis.md) (Sea Event)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -3573,7 +3526,7 @@ Allows wearer to drink sea-water and acid without vomiting.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -3592,7 +3545,7 @@ This ring runs the random event check more frequently and partially ignores anti
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fishing](Fishing.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -3614,7 +3567,7 @@ Mantra damage increased by 10%, but reduces melee damage by 10%.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -3632,7 +3585,7 @@ Enemies you hit have their healing reduced by 50%
 
  | 
 
-Chests from:
+Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -3652,7 +3605,7 @@ Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloo
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -3674,7 +3627,7 @@ Flourishing an opponent has a 50% chance to stun them.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Knives of Eylis](The_Knives_of_Eylis.md) (Sea Event)
 -   [Miner's Landing](<Miner's_Landing.md>)
@@ -3699,7 +3652,7 @@ Conceal your age, appearing as if you were younger than 40.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aelita](Aelita.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -3725,7 +3678,7 @@ Conceal your youth, appearing as if you were older than 40.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -3749,7 +3702,7 @@ Gives every weapon 1.2 Willpower scaling when equipped.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aelita](Aelita.md)
 -   [Summer Isle](Summer_Isle.md)
@@ -3757,11 +3710,7 @@ Chests from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
-
-Other sources:
-
 -   Rare drop from trading Deep Gems to [Jeremiah](Jeremiah.md) in [First Layer](First_Layer.md)
 
  |
@@ -3782,13 +3731,12 @@ Gives every weapon 1.2 intelligence scaling when equipped.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
     -   (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
@@ -3809,14 +3757,11 @@ Gives every weapon 1.2 charisma scaling when equipped.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
-
-Other sources:
-
 -   Rare drop from trading Deep Gems to [Jeremiah](Jeremiah.md) in [First Layer](First_Layer.md)
 
  |
@@ -3837,15 +3782,11 @@ Gives every weapon 1.2 agility scaling when equipped.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
--   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
-
-Chests from:
-
 -   Rare drop from trading Deep Gems to [Jeremiah](Jeremiah.md) in [First Layer](First_Layer.md)
 
  |
@@ -3866,18 +3807,14 @@ Gives every weapon 1.2 strength scaling when equipped.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
     -   (**Very Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Second Layer](Second_Layer.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
-
-Chests from:
-
 -   Rare drop from trading Deep Gems to [Jeremiah](Jeremiah.md) in [Second Layer](Second_Layer.md)
 
  |
@@ -3897,7 +3834,7 @@ If using Explosion Path: Lava Serpent, explosion delay is reduced.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
     -   (**Shipping Schedule-Exclusive**)
@@ -3924,7 +3861,7 @@ Extra PEN on your attacks that flourish opponents.
 
  | 
 
-Chests from:
+Found from:
 
 -   [Pure Ore](Blacksmith.md)
 -   [Aelita](Aelita.md)
@@ -3969,7 +3906,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -3985,7 +3922,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
@@ -4003,7 +3940,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
@@ -4019,7 +3956,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 
@@ -4038,7 +3975,7 @@ _+4 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 
@@ -4053,7 +3990,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -4072,7 +4009,7 @@ _+4 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [First Layer](First_Layer.md)
@@ -4091,7 +4028,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   idk where lol
 
@@ -4110,16 +4047,13 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
-
-Other sources:
-
 -   [Artifact Turn-ins](Artifacts.md)
 
  | Black & White |
@@ -4135,7 +4069,7 @@ _+4 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
@@ -4151,7 +4085,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
@@ -4171,7 +4105,7 @@ _+5 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -4186,7 +4120,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
@@ -4204,7 +4138,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
@@ -4223,7 +4157,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fishing](Fishing.md)
 -   [Erisia](Erisia.md)
@@ -4246,7 +4180,7 @@ _+Talent: Endurance Runner_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
@@ -4264,7 +4198,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Summer Isle](Summer_Isle.md)
 -   [Fort Merit](Fort_Merit.md)
@@ -4282,7 +4216,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Second Layer](Second_Layer.md)
 
@@ -4297,7 +4231,7 @@ Chests from:
 
  | 
 
-Chests from:
+Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
@@ -4317,7 +4251,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Fort Merit](Fort_Merit.md)
 -   [First Layer](First_Layer.md)
@@ -4336,7 +4270,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 
@@ -4357,7 +4291,7 @@ _+5 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Deep Widow](Deep_Widow.md) (The Depths)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -4376,7 +4310,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
@@ -4394,7 +4328,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
@@ -4412,7 +4346,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md) (**Floor 1**)
@@ -4430,7 +4364,7 @@ _+3 Health_
 
  | 
 
-Chests from:
+Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 

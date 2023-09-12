@@ -1,6 +1,6 @@
 ---
 title: "Practicioner's Earrings"
-revid: 73053
+revid: 73452
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -22,6 +22,8 @@ categories: [Equipment]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Summer Isle |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 73217
+revid: 73478
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -53,6 +53,7 @@ The prices of Chili's items may vary from price to price.
     -   [Markor's Inheritor](<Markor's_Inheritor.md>)
     -   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>)
     -   [Pale Morning](Pale_Morning.md)
+    -   [The Path's Defender](<The_Path's_Defender.md>)
     -   [Petra's Anchor](<Petra's_Anchor.md>)
     -   [Razor Cutlass](Razor_Cutlass.md)
     -   [Rifle Spear](Rifle_Spear.md)
@@ -110,8 +111,14 @@ Chili's Ship
 
 -   Similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
+-   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from Chili.[\[1\]](#cite-note-1)
 -   Chili always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
 -   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning several Cloaked Assassins.
     -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have Chili present.
         
         A merchant ship being raided by Assassins.
+        
+
+## References
+
+1.  [↑](#cite-ref-1)

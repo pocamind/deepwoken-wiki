@@ -1,6 +1,6 @@
 ---
 title: "F'leche"
-revid: 72993
+revid: 73479
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -18,3 +18,7 @@ notices:
 ## Description
 
 F'leche is a Tiran woman found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+
+## Trivia
+
+Unlike some NPCs in New Kyrsa, she is safe to talk to and cannot harm you.
