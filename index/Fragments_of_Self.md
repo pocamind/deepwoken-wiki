@@ -1,9 +1,9 @@
 ---
 title: Fragments of Self
-revid: 71559
+revid: 73488
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Death, The Depths]
+categories: [Locations, Death, The Depths]
 ---
 
 # Fragments of Self
@@ -13,8 +13,6 @@ LocationL Fragments of Self LocationR
 What will become of us?
 
   
-
-File:FragmentsofSelfThumbnail.png
 
   
 **Fragments of Self** is a location in _Deepwoken_. It is a sub-location in [The Depths](The_Depths.md).
@@ -123,6 +121,7 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 ## Trivia
 
 -   The music for this area is [The End.](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+    -   This track also plays while under the effects of a Void Spire.
 -   If you fall off one of the islands you will be teleported back to spawn, falling down from above.
 -   You cannot M1 or use mantras here, but you can use your weapon's critical, though it can't interact with the environment.
 -   There is currently no known way to die here, as fall damage is disabled and so is any form of PVP damage, starving also only drains the player's health down to 50%. It is unclear if bleeding out is possible, using boulder does not execute you here, and dying here would most definitely be a bug and would send you here again.

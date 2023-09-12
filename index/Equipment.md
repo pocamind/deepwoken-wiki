@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73473
+revid: 73481
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -4348,6 +4348,8 @@ _+3 Health_
 
 Found from:
 
+-   [Chili](Travelling_Merchant.md)
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md) (**Floor 1**)
 

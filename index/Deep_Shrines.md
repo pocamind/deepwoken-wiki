@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 72843
+revid: 73487
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -165,7 +165,7 @@ Shrine Of Division
 ― Shrine Of Divison
 
   
-Located in [The Lordsgrove](The_Lordsgrove.md) in the cave system with Astruline, down the hole near the Lordsgrove entrance.
+Located in [The Lordsgrove](The_Lordsgrove.md) in the absurd large tunnel system with Astruline, down the hole near the Lordsgrove entrance.
 
 ## Benefits/Penalties
 

@@ -1,6 +1,6 @@
 ---
 title: Smelting
-revid: 73474
+revid: 73480
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment]
@@ -20,9 +20,9 @@ _Some important things to note before smelting:_
 -   **The _first piece_ you hold out is the one you _keep the stats of_, while the _second piece_ is the one you _keep the appearance of._**
 -   Items talents can be carried over.
     -   _A Blindfold and a Demon Mask would smelt to make a blinding Demon Mask-- the appearance would be that of a Demon Mask, but would instead carry the properties of the Blindfold- such as blinding the wearer, along with whatever misc. stats the Blindfold had._
--   If you back out of the dialogue without completing the smelt, _**you will lose the piece of armor you offered.** (potentially patched, needs testing)_
+-   If you back out of the dialogue without completing the smelt, Jarvis (or the guild aristian) will hold the times for you until you come back.
 -   Enchantments will carry over from the first item held.
-    -   _The enchanted item will remain soulbinded if worn/equipped previously._
+    -   _The enchanted item will remain soulbound if worn/equipped previously._
 -   Smelting a _dyed piece of gear_ will cause the dyed gear to _**revert back to its original coloration**_ upon being smelted.
 -   Smelting items **WILL NOT** soulbind the new item, even if you equip it, unless the new smelted item is enchanted. You can equip/unequip and drop them as you please.
     -   _Do note that this means you have potential to drop this smelted item upon death if it isn't being worn._
