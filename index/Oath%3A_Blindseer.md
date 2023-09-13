@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 72194
+revid: 73668
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,7 +82,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 ## Effects
 
-This Oath grants the player 1 Support Mantra slot, 1 Wildcard Mantra Slot, 3 Health and 10 Sanity.
+This Oath grants the player 1 Support Mantra slot, 2 Wildcard Mantra Slot, 3 Health and 10 Sanity.
 
 This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to gaze, glare and flame blind.
 

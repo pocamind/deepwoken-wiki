@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 57845
+revid: 73667
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,6 +33,8 @@ Reputation is a thing in Deepwoken. Depending on your actions, such as having a 
 [Hobo](Hobo.md) ([Erisia](Erisia.md)), Chest Dialogue - Charisma Requirement: 50
 
 Akira, Black Diver (The Depths, First Layer - Charisma Requirement: ~100)
+
+* * *
 
 ## Etrea Reputation
 
