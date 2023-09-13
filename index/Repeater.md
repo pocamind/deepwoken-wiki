@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 72707
+revid: 73614
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -36,6 +36,6 @@ The [Revolver](Repeater.md) is a [gun](Guns.md) that can be bought in [Summer Is
 ## Trivia
 
 -   Has a chance to be [enchanted](Enchantments.md) from [chests](Chests_&_Sacks.md).
--   Cannot have stars when being purchased.
+-   The revolver can have stars when purchased from [Summer Isle](Summer_Isle.md) and [Merchant ships](Travelling_Merchant.md) as of September 12th, 2023. (tested by editor)
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
 -   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main-hand is not enchanted, it will not have any effect.

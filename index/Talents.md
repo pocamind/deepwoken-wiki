@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 73139
+revid: 73617
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -160,7 +160,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility, +5 Elemental Intensity)
-    -   Prerequisite: 30 Strength, 35 Galebreathe, Suffocating Impact
+    -   Prerequisite: Suffocating Impact
 
 ### Alchemist
 
@@ -1042,7 +1042,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
     -   Reduce knockdowns (like heavy weapon crit, ascension, etc) duration by 30%.
-    -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
+    -   Prerequisites:, 100 Willpower, Perseverance, Be named Javier
 
 ### Hunter
 

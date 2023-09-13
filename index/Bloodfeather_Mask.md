@@ -1,6 +1,6 @@
 ---
 title: Bloodfeather Mask
-revid: 64357
+revid: 73583
 source: https://deepwoken.fandom.com/wiki/Bloodfeather_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Masks]
@@ -8,7 +8,7 @@ categories: [Equipment, Masks]
 
 # Bloodfeather Mask
 
-Template:EquipmentStats The **Bloodfeather Mask** is an accessory under the "Face" category. It can be found in chests in the [First Layer](First_Layer.md).
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats The **Bloodfeather Mask** is an accessory under the "Face" category. It can be found in chests in the [First Layer](First_Layer.md).
 
 ## Appearance
 

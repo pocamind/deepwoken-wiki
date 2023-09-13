@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73572
+revid: 73589
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -546,9 +546,12 @@ Found from:
 
 [Dark Cowl](Dark_Cowl.md)
 
- |   
-_\+ 4% Stealth_  
-_+1 Posture_ | 
+ | 
+
+_+1 Posture_  
+_+4% Stealth_
+
+ | 
 
 Found from:
 
@@ -1678,7 +1681,7 @@ _+Talent: Defiant until the End_
 
 Found from:
 
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Second Layer](Second_Layer.md)
 
@@ -1703,7 +1706,7 @@ _+Talent: Kick Off_
 
 Found from:
 
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 
@@ -3168,7 +3171,6 @@ _+3% Elemental Armor_
 
 Found from:
 
--   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
@@ -3203,7 +3205,7 @@ Found from:
 
 Found from:
 
--   [Miner's Landing](<Miner's_Landing.md>) ^(Rarely)
+-   [Miner's Landing](<Miner's_Landing.md>) ^(Very Rarely)
 -   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md) ^(Rarely)
 
@@ -3238,7 +3240,6 @@ Found from:
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 | File:Varicosa Medallion.png | 
@@ -3888,7 +3889,7 @@ _+5 Ether_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 |  | 
@@ -3906,7 +3907,7 @@ _+2 Health_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 

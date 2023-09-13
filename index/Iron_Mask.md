@@ -1,6 +1,6 @@
 ---
 title: Iron Mask
-revid: 71501
+revid: 73587
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -8,7 +8,7 @@ categories: [Equipment]
 
 # Iron Mask
 
-Template:EquipmentStats The **Iron Mask** is an accessory under the "Face" category. It can be found in chests in [Lower Erisia](Lower_Erisia.md).
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats The **Iron Mask** is an accessory under the "Face" category. It can be found in chests in [Lower Erisia](Lower_Erisia.md).
 
 ## Appearance
 

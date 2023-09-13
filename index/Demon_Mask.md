@@ -1,6 +1,6 @@
 ---
 title: Demon Mask
-revid: 58917
+revid: 73586
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -8,7 +8,7 @@ categories: [Equipment]
 
 # Demon Mask
 
-Template:EquipmentStats The **Demon Mask** is a Mask which can be dropped from chests in [The Depths](The_Depths.md). It provides no tangible stats in a no-starred state.
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats The **Demon Mask** is a Mask which can be dropped from chests in [The Depths](The_Depths.md). It provides no tangible stats in a no-starred state.
 
 ## Appearance
 

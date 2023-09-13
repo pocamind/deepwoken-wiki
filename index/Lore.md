@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 72265
+revid: 73615
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1429,20 +1429,20 @@ People who make an Oath to seek the truth of the deepwoken world. Their blindfol
 -   Despite having great powers of reality bending, all visionshapers are doomed to become food for the Nestmind.
 -   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilites, also that you need to interact with her to get the Oath.
 
-**Oathless**
+### **Oathless**
 
 -   An Oathless is someone who has swore an Oath to himself of never taking an Oath to be able to follow their own goals and ideals.
 -   It is believed that this Oath is a weak Oath due to being a contradiction since they swear to never take an oath when in reality they are making one.
 -   It is the only Oath that the Drowned God Yun'shul is able to remove from a person.
 
-**Jetstrikers.**
+### **Jetstrikers.**
 
 -   People who swore an Oath to flow with the Song and being its conductor.
 -   Usually the people who swore upon this Oath are very playfull and being called "Windrunners".
 -   It is suspected that some members of the Vigils swore this Oath, due to one of their abilities having its name while being learned at their temple.
 -   Jetstrikers are granted powers that allowed them to travel huge distances at high speed and being able to reach the highest of peaks.
 
-**Linkstriders**
+### **Linkstriders**
 
 -   People who have made an Oath to try to "fix" this "fragile world" with their powers becoming the support of their allies.
 -   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their simbiotic powers.
@@ -1453,6 +1453,7 @@ People who make an Oath to seek the truth of the deepwoken world. Their blindfol
 -   The counterpart to Deepwoken, those who have consumed a piece of a Celestial.
 -   It is known that they "Feel all at once", probably feeling the connection they made with the Celestial.
 -   Some Starkindreds are stronger than others depending on the Celestial they consumed a piece of, the case of the Celestial in the Songseeker Church is not a very powerfull one, meaning that the Starkindreds of that Celestials are not as strong as another Starkindred that have consumed a piece of a stronger Celestial such as Navae or Alsin. Meaning their strength is tied with the strengh of the Celestial they consumed a piece of.
+-   As stated by Ezra, a worshipper of the Celestial Ku, the Starkindred have a history of blood and massacre.
 
 ### Arcwader
 
@@ -1463,35 +1464,42 @@ People who make an Oath to seek the truth of the deepwoken world. Their blindfol
 
 -   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the secrets of the radiant tones and making an Oath with her, being the terms of always looking for the "Radiant Light" in hopes to obtain the same power of the Lightkeepers and use it against the Depths itself.
 
-**Silentheart**
+### **Silentheart**
 
--   Silenthearts are people who have swore an Oath of pure **Hate** with the souls of the Voidsea to seak revenge against the people who abuse the Song for their own gain, primarly targetting the Masters of elements who teachs their usage to the Song across all Lumen.
+-   Silenthearts are people who have swore an Oath of pure **Hate** with the souls of the Voidsea to seak revenge against the people who abuse the Song for their own gain, primarly targetting the Masters of elements who teachs their usage of the Song across all Lumen.
 -   The Oath that the Silenthearts swore include of looking for "Pure Strength" and "cutting tides with the Song", changing their heart to dont use mantras, however Silenthearts can still use Resonances and Murmurs, wich are applications of the Song.
 
-**Fadetrimmers**
+### **Fadetrimmers**
 
 -   People who have swore an Oath to uh..... Become great barbers with their scissors and barber products to not let a "Fringe Accident" happen again. Hey, atleast they have a purpose.
 -   All barbers across Lumen posses this Oath.
 -   Thespite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the Race Variant, gender, and even ornaments of people. Technically they learned this in the Markor Citadel.
 -   It is highly suspected that the Fadetrimmers originate from the Markor Citadel, due to the barbers learning surgery on the Markor Citadel.
 
-**Contractors**
+### **Contractors**
 
--   Contractors are usually reffered to the people who have swore an Oath to one of the Nine Prophets of the Ministry, with each one granting different Oath powers depending on the Prophet they swore upon, having powers that are ver similar, for example, a Contractor of the 4th Prophet, Zi'eers, gains a very similar, if not the same, power of Tendrils that Zi'eer has.
--   The Terms of the Oath declare that "Your Heart is now tied with \[Name of the Prophet\], you swore to follow his will no matter the cost", meaning that the terms of the Oath make the Contractors to become faithfull servants of the Prophet they swore upon.
+-   Contractors are usually reffered to the people who have swore an Oath to one of the Nine Prophets of the Ministry, with each one granting different Oath powers depending on the Prophet they swore upon, having powers that are very similar to the prophet ones. For example, a Contractor of the 4th Prophet, Zi'eer, gains a very similar, if not the same, power of Tendrils that Zi'eer has.
+-   The Terms of the Oath declare that "Your Heart is now tied with \[Name of the Prophet\], you swore to follow his will no matter the cost", meaning that the terms of the Oath make the Contractors to become faithfull servants of the Prophet they swore upon, even giving their own lifes to the Prophet if necessary.
 -   Similar to how Blindseer and Visionshaper are two Oaths that are against each others. Contractors are known to be in a similar way against Warmasters.
 
-**Warmasters.**
+### **Warmasters.**
 
 -   People who have sworn an Oath to the "Circle of Honor", the terms of the Oath are unkown, however it is suspected that a Warmaster swore to protect whole Lumen to become its beacon of hope.
 -   Most Warmasters are members of the Central Authority, for example Warden Jericho being a Warden of the Authority and a Warmaster.
 -   Their powers are known to have "Floating blades", being very similar to the ones that the Sand Knights /Storm Knights wield, however if they are tied with the Warmasters is unkown.
+-   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying so save Lumen from any danger, while the Contractors seek to Drown Lumen.
 
-**Deepwokens**
+### **Deepwokens**
 
 -   People who consumed a piece of a Drowned God and **Probably** made an Oath upon consuming said piece.
 -   The only known Deepwokens are: Amorus Pleeksty, The First Prophet of the Ministry.
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of. For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.
+-   It is also known that becoming a Deepwoken grants you Immortality, being the known Deepwokens (Pleeksty and the First Prophet) more than a 1000 years old, living since the Tides or even the Old World. However if by any (very unlikely) chance the drowned god they consumed a piece of dies, it is suppoused that their immortality will also perish.
+
+### **Voidwalker/Void Oath**
+
+-   The name and purpose of this Oath is unkown, however it is known that some worthy mercenaries of the "Knives of Eylis" group, or also known as Voidwalkers, make an Oath with Eylis herself to gain time manipulation powers and probably powers related to the Void sea, due to the relation of Eylis between the Voidmother and the Void sea itself.
+-   Despite being a rare Oath that only a few Voidwalkers have, it can be seen being used by the Voidwalker captains (NPC) with the ability to create a bubble around them that slows time excluding the Voidwalkers.
 
 ## Murmur Lore
 
@@ -1555,6 +1563,7 @@ People who make an Oath to seek the truth of the deepwoken world. Their blindfol
 -   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
+-   According to the book "Vows by the Sea: Inheritance", the races of Deepwoken originated from humans making powerfull vows with different animals to create this races, but apparently the Adrets were the only ones that didnt make a vow with any animal and instead, "Evolved" to learn more about their future path (Autodidact race talent), explaining why Adrets dont look like animals like the rest of the races and can be considered the most "Human race".
 
 ### Currency
 
@@ -1615,7 +1624,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
             -   The third Layer is where the physical body of Korilfiend is found.
 -   It seems that the effects of aging are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.
     -   Examples of such thing is Gild; an old Celtor who was alive before the city drowned.
--   In universe, a soul in The Depths can only last a week before they are considered unable to return to their bodies.
+-   In universe, a soul in The Depths can only last a week or two before they are considered unable to return to their bodies. Presuming their soul died in the Depths.
 
 ### Ancestors of Ganymedes & Vesperians
 
@@ -1661,6 +1670,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Brought on by the Tides.
 -   A layer of fixed cloud that rotates around the world in a cycle.
 -   Bends and distorts light.
+-   Separates the world from the ruins of the Celestial cities, being the main reason why its almost impossible to travel to the Celestial cities without the aid of a Lightkeeper.
 
 ### Timeline
 
@@ -1681,13 +1691,13 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Adrets begin their migration.
 -   The Voidsea grows closer as The Depths begins to encroach on the world. Nations are cut off from each other by The Voidsea. The world begins to die, with no way back. End of the Canticlysm.
 -   The Celtorian Horror moves towards Celtor.
--   The Military Officials become aware of its approach, but instead choose to flee the City.
+-   The Military Officials become aware of its approach, but instead choose to flee the City without warning the citizens of Celtor.
 -   Celtor sinks into the first layer of the Depths, many die.
 -   The Southern Luminant is rendered completely inhospitable.
 -   The Mad Steward kills an Edenkite and becomes the Dread Serpent.
 -   The Edenkite vanish from the world.
 -   The Central Authority becomes an established superpower.
--   The 5th King of Etrea vanishes on a journey into the Voidsea.
+-   The 5th King of Etrea vanishes on a journey into the Voidsea, and presumably is sealed in the Depths by the Ministry.
 -   The Lord Regent takes the throne and installs mental barriers into his people.
 -   Etris' Official History Office is decommissioned.
 -   The Hive and Etrea go to war.
@@ -1814,7 +1824,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   Mudskippers were once human before succumbing to the effects of The Depths. Either through a Nautilodaunt or time within The Depths itself, they will eventually turn into mindless monsters.
 -   Some of them are capable of using tools, showing they retain some of their memories.
     -   They also chose to steal the gear of miners, such as their helmets. Perhaps it reminded them of the life they once lead?
--   They can be found from meteors too, implying there are space Mudskippers.
+-   They can be found from meteors too, implying there are space Mudskippers, or Mudskippers residing in the ruins of the Celestial cities.
 
 ### Primadon
 
@@ -1842,6 +1852,22 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 -   Large creatures that bear a heavy resemblance to Kyrsgarde.
 
+### Bounders
+
+-   Main predators of the first floor of the Second Layer.
+-   Their nests are located in the walls of corridors, probably to ambush any prey that dares to come near their nest.
+-   Presumably can give hallucinations to people who are near them. (Bounders face ""jumpscare"" that Bounders can give in the caverns of Floor 1)
+
+### Husks/Carbuncles/Parasites
+
+-   Originate as parasites in the Eternal Gale of the Second Layer.
+-   Incubates themselves in people who face the Eternal gale disguising their eggs as snow.
+-   The eggs can be removed if a certain amount of heat is applied to the parasites, killing them and being removed from the host.
+-   After incubating for some time in a host, they began to emerge from their eggs and eating the host **without killing it.**
+-   After growing for a while in the host, the parasites become Husks, fully controlling the alive host to attack anyone being capable of use the weapons and abilities that the host originally had.
+-   After the host dies, the husk becomes a Carbuncle, controlling a dead body.
+-   Carbuncles can be also found in the surface.
+
 ### The Enforcer(s)
 
 -   A nearly endless, robotic legion of soldiers that serve [The Voices](Voices_of_the_Depths.md).
@@ -1868,6 +1894,7 @@ Though technically a blank slate of varying races and abilities, even the player
     -   In the Castaway Origin, they learned this with the training of their captain.
     -   In the Deepbound Origin, they presumably went through standard Diver training.
     -   In the Voidwalker Origin, they were presumably trained by the Knives of Eylis.
+    -   In the Lone Warrior Origin, they have fazzy memories of combat.
 
 -   They are a "Drowned," people with more connections to The Depths than usual.
 -   When they become strong enough, they get the talent card of the Sound from Below that states that something in The Depths is calling you as if they were tied to the depths since the beginning.
@@ -1881,12 +1908,12 @@ Though technically a blank slate of varying races and abilities, even the player
 
 ### Deepbound
 
--   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the Divers main headquarters in the Central Luminant, after being recruited by a Diver of unknown rank named Roy. He gave them basic Diver apprentice training, after they were assigned a post in Castle Light.
+-   The Player enlisted in the divers becoming a Diver apprentice, possibly in the Markor Citadel, the Divers main headquarters in the Central Luminant, after being recruited by a Diver of unknown rank named Roy. He gave them basic Diver apprentice training, after they were assigned a post in Castle Light to prove their worth as a Diver.
 
 ### Voidwalker
 
 -   They somehow managed to join the Knives of Eylis, presumably from the Central Luminant and gained the Void powers of the Voidmother: Grasp of Eylis and Voideye.
--   After completing hell-like training to become a Mercenary of Eylis, they were assigned bounties on those the Knives wanted dead.
+-   After completing hell-like training to become a Mercenary of Eylis, they were assigned bounties on those the Knives clients wanted dead.
 
 ### Power Level
 
@@ -1915,7 +1942,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### **Tempest Eye**
 
--   A technique that allows Evengarde Rest to defeat Pleeksty.
+-   A technique that allows Evengarde Rest to be on par with Pleeksty.
 -   Requires conditions to be met for usage.
 -   Also used by Soren.
 -   Exists in the games files.
@@ -1973,11 +2000,11 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   Consumption
     -   A common trend in Deepwoken is being able to consume parts of living things to gain their power.
         -   With Starkindred, you consume the blood of a Celestial to obtain the Oath.
-        -   Pleeksty consumed a flower in the third layer, giving him a portion of Korilfiend's power.
+        -   Pleeksty consumed the essence of Korilfiend in the form of a flower in the third layer, giving him a portion of Korilfiend's power.
         -   The First Prophet ate a piece of an unnamed Drowned God.
         -   There are lotuses found in Voidzones that give stat attributes when consumed as a potion.
         -   The attunement trainers give you a vial of their blood to drink to unlock attunements.
-        -   The Mad Steward gained knowledge when he consumed the heart of an Elder Edenkite.
+        -   The Mad Steward gained knowledge when he consumed the heart of an Elder Edenkite, and after that became a Dread Serpent.
 -   Purple
     -   The color purple is often a motif of Drowned Gods or those connected to Drowned gods
         -   Corrupted bells are purple in the card drawing screen and are commonly a purple color.
@@ -2041,7 +2068,8 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 -   The Central Authority was sometimes referred to as the Adretian Authority ingame at release, though this has since been corrected by the devs.
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   The writing of the Gideshu March is the earliest known event in Deepwoken with a confirmed date, as well as the only event with a confirmed date that took place prior to 1271, the year of the game's release.
--   Ragoozer likes using anagrams to drop lore hints. An example of this would be Nilsa being an anagram of Alsin.
+-   Ragoozer likes using anagrams to drop lore hints. ~An example of this would be Nilsa being an anagram of Alsin.~ Nilsa is no longer canon.
 -   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there were so few Oaths at the beginning of the game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
+-   With the release of the Deepwoken, there was suspected to be a celestial named Nilsa due to a player having the Celestial race with this name alongside Alsin, suspecting that Nilsa was a fragment of Alsin. However Nilsa was removed from the Lore.
 
 Talking Mudskippers

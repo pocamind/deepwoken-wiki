@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 69793
+revid: 73604
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -15,8 +15,6 @@ LocationL Saramaed Summit LocationR
 The air itself feels as if it were becoming ash, as the embers around you radiate heat.
 
   
-
-Template:Areainfobox
 
 **Saramaed Summit** is a location in _Deepwoken_. It is a [Voidzone](Voidzones.md) area found in the East Luminant.
 
@@ -48,7 +46,7 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 -   [Mercenary's Garb](<Mercenary's_Garb.md>)
 -   [Mercenary's Boots](<Mercenary's_Boots.md>)
 -   [Nomad Pendant](Nomad_Pendant.md)
--   [Red Eye Pendant](Red_Eye_Pendant.md)
+-   Red Eye Pendant
 -   [Sandrunner Scarf](Sandrunner_Scarf.md)
 -   Duelist Mask
 -   [Deepwoken Cloak](Deepwoken_Cloak.md)

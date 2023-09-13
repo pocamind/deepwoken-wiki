@@ -1,6 +1,6 @@
 ---
 title: "Captain's Kabuto"
-revid: 69902
+revid: 73576
 source: https://deepwoken.fandom.com/wiki/Captain's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -23,6 +23,8 @@ categories: [Helmets, Items]
 | pass down | Yes |
 | obtainment | First Layer |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Royal Guard's Kabuto"
-revid: 69901
+revid: 73577
 source: https://deepwoken.fandom.com/wiki/Royal_Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets]
@@ -23,6 +23,8 @@ categories: [Armors, Helmets]
 | pass down | Yes |
 | obtainment | Chests from:, First Layer |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 
