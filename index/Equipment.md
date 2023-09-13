@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73631
+revid: 73672
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -972,7 +972,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
--   Chime Of Conflict
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  | N/A |
 |  | 
