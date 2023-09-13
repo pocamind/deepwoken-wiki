@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 67174
+revid: 73662
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -24,7 +24,7 @@ You are able to get this recipe when you interact with an NPC in [Songseeker Wil
 
 2 Iron + 1 Coal in a Crafting Table.
 
-(Iron can be purchased or mined from a cave while Coal is only obtained through mining)
+(Both iron and coal can be purchased or mined in a cave.)
 
 ### Uses
 

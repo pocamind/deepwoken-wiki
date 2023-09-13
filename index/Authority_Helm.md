@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 69917
+revid: 73648
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Helmets]
@@ -23,6 +23,8 @@ categories: [Armors, Helmets]
 | pass down | Yes |
 | obtainment | Chests from:, Aratel IslandDrops from:, Authority Wardens, Authority Foot Soldiers, Authority Guards |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

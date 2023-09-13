@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 73234
+revid: 73620
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -261,6 +261,7 @@ Shade Wisp
 
  | Summon a servant of Shade | 70 Ether | Cloaks the caster in darkness and reduces their visibility
 
+-   Grants passive tempo
 -   Requires a Ritual Cast
 -   Visibility reduction towards the caster is reduced
 

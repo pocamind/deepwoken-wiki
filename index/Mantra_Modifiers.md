@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 73136
+revid: 73645
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -1094,7 +1094,18 @@ Fire Blade
 
  | 
 
--   This modifer disables Starkindred's effect on the Fire Blade mantra.
+-   This modifier disables Starkindred's effect on the Fire Blade mantra.
+
+ |
+| 
+
+Chain Pull
+
+ | 
+
+ |  | 
+
+-   This modifier causes the chain of "Chain Pull" to push enemies away.
 
  |
 

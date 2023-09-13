@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 73127
+revid: 73622
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -150,7 +150,8 @@ The height of the pillar will depend on what is above you.
 
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
-Can be upgraded with the "Intuitive Repairs" talent, which causes armor and natural armor to be restored during the mantra's duration. Can negate around 80% of fall damage.
+-   Can be upgraded with the "Intuitive Repairs" talent, which causes armor and natural armor to be restored during the mantra's duration.
+-   Can negate around 80% of fall damage.
 
 Does not negate deferred or fire damage.
 
@@ -160,6 +161,19 @@ Does not negate deferred or fire damage.
 (★☆☆)
 
  | Manifest chains to brutally pull enemies towards you. | 50 Ether | Pulls enemies towards you. |
+| 
+
+ | 
+
+Metal wisp  
+(★★☆)
+
+ | A servant of metal | 70 Ether | Summon a metal wisp that regenerates armor and applies rods on vent
+
+-   Requires a ritual cast
+-   Allegedly does not require ether to regenerate armor, needs more testing.
+
+ |
 
 ## **Talents**
 

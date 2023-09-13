@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 70416
+revid: 73650
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -58,12 +58,13 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
   
 
-⋅+2 Agility +2 Willpower  
-⋅Reduced fall damage  
-⋅Starts with a glider  
-⋅No need to grab the glider schematic or parts  
-
-⋅Reduces impact of [High Velocity](Echoes.md#modifiers)
+-   +2 Agility
+-   +2 Willpower
+-   Reduced fall damage
+-   Starts with a glider.
+-   No need to grab the glider schematic or parts.
+-   Reduces impact of [High Velocity](Echoes.md#modifiers)
+    
 
 **Weaknesses:**
 
@@ -71,7 +72,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 ⋅Training Fortitude or bell checking by throwing yourself off a cliff is more difficult.
 
-⋅Acid rain can still destroy your glider, this can however be negated with the Survivalist Boon.
+⋅Acid rain can still destroy your glider; this can however be negated with the Survivalist Boon.
 
 **Surnames:**
 

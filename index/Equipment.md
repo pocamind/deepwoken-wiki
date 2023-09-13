@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73589
+revid: 73631
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
@@ -29,7 +29,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 ★★ = +2 Rare Pips (Max Stars for Torso, Face, Ears, and Rings Equipment)  
 ★★★ = +2 Rare Pips +1 Legendary Pip
 
-<table><caption>Pips</caption>
+<table><caption>Pips Info</caption>
 <tbody>
 <tr>
   <th>Buffs</th>
@@ -1046,7 +1046,8 @@ The Deepwoken Raybands Gucci Hat 5000
 
  | 
 
-Unknown
+_+1 Posture_  
+_+4% Stealth_
 
  | 
 
@@ -2460,11 +2461,15 @@ Found from:
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>)
 
+(**Animated**)
+
 (Unobtainable)
 
  | 
 
-Unknown (Awful stats apparently)
++2 Rare Pips
+
+**Requires Power 13**
 
  | 
 

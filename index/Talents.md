@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 73617
+revid: 73660
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -16,7 +16,7 @@ File:DeepwokenThumbnail.png
 
 ## Foreword.
 
-**Press \[_Ctrl + F\] or F3_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
+**Press \[CTRL _\+ F\] or F3_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
     -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
