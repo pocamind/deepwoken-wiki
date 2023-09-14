@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 73544
+revid: 73694
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Races]
@@ -20,9 +20,7 @@ While weaker on the surface, they become far more powerful in [The Depths](The_D
 
 [The Ministry](The_Ministry.md) seems to worship the Krulians in some form, considering how every member wields a [Krulian Knife](Krulian_Knife.md).
 
-The only known Krulian NPC right now is The Ferryman. ~Many believed that [Aelita](Aelita.md) is a Krulian, but she is most likely a [Visionshaper](Oaths.md).~ [Aelita](Aelita.md) is confirmed to be a [Felinor](Felinor.md) [Visionshaper](Oath%253A_Visionshaper.md).
-
-Arch\_Mage has stated thet Krulians do not take [Oaths](Oaths.md).
+Krulians do not take [Oaths](Oaths.md).
 
 Krulians were described as "amalgamations of souls" by Ragoozer. It is unclear how they come to be, or if the Ferryman's degree of individuality is shared by every Krulian.
 

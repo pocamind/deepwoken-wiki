@@ -1,6 +1,6 @@
 ---
 title: "Big Alchemist's Hat"
-revid: 73641
+revid: 73688
 source: https://deepwoken.fandom.com/wiki/Big_Alchemist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors, Helmets]
@@ -24,8 +24,6 @@ categories: [Character, Armors, Helmets]
 | obtainment | Chests from:, Aratel Island, First Layer |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
 The Big Alchemist's Hat is an Equipment in the "_Head_" category. Equipping this will give you the [Pitcher](Talents.md) and [Apothecary](Talents.md) talents, along with the randomized stats you get from the Pips. It can only be found in Hive Chests.
@@ -33,4 +31,4 @@ The Big Alchemist's Hat is an Equipment in the "_Head_" category. Equipping this
 ## Trivia
 
 -   The [Alchemist's Hat](<Alchemist's_Hat.md>) and Big Alchemist's Hat, the same model, and only differ in size.
--   The Big Alchemist Hat is notorious for being used by light users to hide their animations. Eventually, its appearance was changed to be more sloped, making it harder to do so.
+-   The Big Alchemist Hat was notorious for being used by light users to hide their animations. Eventually, its appearance was changed to be more sloped, making it harder to do so.

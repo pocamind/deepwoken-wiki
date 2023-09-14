@@ -1,11 +1,9 @@
 ---
 title: Equipment
-revid: 73672
+revid: 73686
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress with reason, InProgressPages, Outfits]
-notices:
-  - "This page is currently being worked on. A few things are missing information, although this page is mostly complete."
+categories: [Pages with broken file links, Outfits]
 ---
 
 # Equipment
@@ -187,7 +185,6 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Hell Mode](Hell_Mode.md)
 
  | Normal & Big |
 | File:Alchemist Hat.png | 
@@ -227,7 +224,6 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  | Normal & Big |
 | File:Dark Gumshoe Hat1.png | 
@@ -263,9 +259,7 @@ _+Talent: The Exterminator_
 
 Found from:
 
--   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  | Black & Double |
 | File:DoubleStrappedHat.png | 
@@ -284,9 +278,7 @@ _+Talent: The Exterminator_
 
 Found from:
 
--   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  | Black & Double |
 | File:Investigator's Hat.png | 
@@ -603,7 +595,6 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Chime of Conflict](Chime_of_Conflict.md)
 
 Found from:
 
@@ -683,6 +674,7 @@ _+Talent: Strong Hold_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
@@ -887,6 +879,7 @@ _+10 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -906,9 +899,9 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Deep Widow](Deep_Widow.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 | File:Phalanx Helm.png | 
@@ -972,7 +965,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Artifact Turn-ins](Artifacts.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 |  | 
@@ -1137,6 +1130,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Artifact Turn-ins](Artifacts.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
@@ -1156,6 +1150,7 @@ _+1 Posture_
 Found from:
 
 -   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
 | File:Vanguardbrace.png | 
@@ -1194,6 +1189,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 | File:Azure Royal Guard.png | 
@@ -1230,6 +1226,8 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | Black & White |
 | File:Blacksteel Pauldron.png | 
@@ -1250,6 +1248,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 | 
@@ -1361,6 +1360,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Summer Isle](Summer_Isle.md)
 
  | N/A |
 | File:Iron pauldrons.png | 
@@ -1451,6 +1451,7 @@ Found from:
 -   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 | File:Static-assets-upload15149895911827136801.png | 
@@ -1505,6 +1506,7 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 |  | 
@@ -1590,6 +1592,8 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Hell Mode](Hell_Mode.md)
 -   Buying from [Chili](Travelling_Merchant.md)
 
  | N/A |
@@ -1774,6 +1778,7 @@ _+Talent: Kick Off_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
@@ -1836,6 +1841,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Summer Isle](Summer_Isle.md)
+-   [First Layer](First_Layer.md)
 
  | Black, Brown, & White |
 | File:Black Parka.png | 
@@ -1862,6 +1868,7 @@ Found from:
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
+-   [Hell Mode](Hell_Mode.md)
 -   Mob drop from [Authority Captain](Authority_Captain.md)
 
  | Black, Brown & White |
@@ -2332,6 +2339,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
 | File:Crimson elite pathfinder.png | 
@@ -2401,6 +2409,7 @@ Found from:
 
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | Dark, Faded, Purple, Red, Rose & Stained |
 |  | 
@@ -2518,6 +2527,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 | File:Static-assets-upload10948241571813513916.png | 
@@ -2569,6 +2579,7 @@ Found from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | 
@@ -2587,6 +2598,7 @@ _+4 Health_
 
 Found from:
 
+-   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
@@ -2604,7 +2616,6 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | File:Etrean Siege Sabatons.png | 
@@ -2624,6 +2635,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
 | File:Flameguard Boots.png | 
@@ -2640,7 +2652,7 @@ _+3 Health_
 
 Found from:
 
--   idk where lol
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | File:White fur boots.png | 
@@ -2794,6 +2806,7 @@ Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
 |  | 
@@ -2959,9 +2972,10 @@ _+3 Health_
 Found from:
 
 -   [Chili](Travelling_Merchant.md)
--   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md) (**Floor 1**)
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -2979,6 +2993,7 @@ _+3 Health_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 
@@ -3056,6 +3071,7 @@ _+5% Shadow Armor_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 | File:Golden Cape.png | 
@@ -3210,9 +3226,9 @@ Found from:
 
 Found from:
 
--   [Miner's Landing](<Miner's_Landing.md>) ^(Very Rarely)
+-   [Miner's Landing](<Miner's_Landing.md>) ^(**Very Rare**)
 -   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md) ^(Rarely)
+-   [Second Layer](Second_Layer.md) ^(**Rare**)
 
  | N/A |
 |  | 
@@ -3230,6 +3246,7 @@ _+3% Elemental Armor_
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
 |  | 
@@ -3245,6 +3262,7 @@ Found from:
 Found from:
 
 -   [Miner's Landing](<Miner's_Landing.md>)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 | File:Varicosa Medallion.png | 
@@ -3418,7 +3436,7 @@ Found from:
 
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
 
  | Black, Blue, Green, Orange, Red & Yellow |
@@ -3630,7 +3648,7 @@ Hivelord Mask
 Found from:
 
 -   Mob Drop from [Hive Constructs](Hive_Construct.md)
--   [Chime of Conflict](Chime_of_Conflict.md) (Rare)
+-   [Chime of Conflict](Chime_of_Conflict.md) (**Rare**)
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
@@ -3808,7 +3826,6 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -3877,6 +3894,7 @@ Found from:
 Found from:
 
 -   [Summer Isle](Summer_Isle.md)
+-   [First Layer](First_Layer.md) (**Rare**)
 
  | N/A |
 |  | 
@@ -3893,6 +3911,7 @@ _+5 Ether_
 
 Found from:
 
+-   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
@@ -3911,6 +3930,7 @@ _+2 Health_
 
 Found from:
 
+-   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
@@ -3997,8 +4017,7 @@ _+2% Wind Armor_
 Found from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Hell Mode](Hell_Mode.md)
+-   [First Layer](First_Layer.md)
 
  |
 |  | 
@@ -4020,7 +4039,6 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  |
 |  | 
@@ -4062,7 +4080,6 @@ Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 -   [Second Layer](Second_Layer.md)
 
  |
@@ -4104,7 +4121,6 @@ Found from:
 -   [Mudskipper Cave](Lower_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  |
 |  | 
@@ -4131,8 +4147,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Nell, Master of Frost](Nell,_Master_of_Frost.md)
--   [Hell Mode](Hell_Mode.md)
+-   Mob drop from [Frostdraw Trainer](Nell,_Master_of_Frost.md)
 
  |
 |  | 
@@ -4191,7 +4206,6 @@ This ring runs the random event check more frequently and partially ignores anti
 
 Found from:
 
--   [Chime of Conflict](Chime_of_Conflict.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
@@ -4275,7 +4289,6 @@ Found from:
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 
@@ -4299,7 +4312,6 @@ Found from:
 
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -4348,12 +4360,11 @@ Gives every weapon 1.2 Willpower scaling when equipped.
 Found from:
 
 -   [Aelita](Aelita.md) (**Extremely Rare**)
--   [Summer Isle](Summer_Isle.md)
 -   [Ferryman](The_Ferryman.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Fort Merit](Fort_Merit.md) (**Extremely Rare**)
 -   Trading with [Jeremiah](Jeremiah.md)
 
  |
