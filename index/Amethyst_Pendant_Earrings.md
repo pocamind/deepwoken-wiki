@@ -1,9 +1,9 @@
 ---
 title: Amethyst Pendant Earrings
-revid: 73552
+revid: 73726
 source: https://deepwoken.fandom.com/wiki/Amethyst_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Ears]
 ---
 
 # Amethyst Pendant Earrings
@@ -15,13 +15,15 @@ categories: [Equipment]
 | selling price | 25 |
 | requirements | N/A |
 | weight | 0.1 |
-| innate stats | N/A |
+| innate stats | 1 Common Pip, 1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Ferryman, Fishing |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

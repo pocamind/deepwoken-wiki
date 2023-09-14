@@ -1,14 +1,14 @@
 ---
 title: "Familiar Heretic's Helm"
-revid: 73463
+revid: 73799
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets]
+categories: [Helmets, Equipment]
 ---
 
 # Familiar Heretic's Helm
 
-Template:EquipmentStats
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats
 
 ## Description
 

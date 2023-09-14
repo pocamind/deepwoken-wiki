@@ -1,6 +1,6 @@
 ---
 title: Legate Helm
-revid: 69893
+revid: 73800
 source: https://deepwoken.fandom.com/wiki/Legate_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -23,6 +23,8 @@ categories: [Character, Armors]
 | pass down | Yes |
 | obtainment | Duke Erisia, Deep Widow, Chime of Conflict |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

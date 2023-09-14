@@ -1,9 +1,9 @@
 ---
 title: Equipment
-revid: 73686
+revid: 73793
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Outfits]
+categories: [Pages with broken file links, Equipment, Armors, Outfits]
 ---
 
 # Equipment
@@ -3040,7 +3040,7 @@ Found from:
  | Black & Golden |
 | File:Brilliant Cape.png | 
 
-Brilliant Cape
+[Brilliant Cape](https://deepwoken.fandom.com/wiki/Capes#Brilliant_Cape_)
 
  | 
 
@@ -3057,7 +3057,7 @@ Found from:
  | N/A |
 |  | 
 
-Dark Owl Cape
+[Dark Owl Cape](https://deepwoken.fandom.com/wiki/Capes#Dark_Owl_Cape_)
 
  | 
 
@@ -3094,7 +3094,7 @@ Found from:
  | Black & Golden |
 | File:Onyx Fleet Warden Cape.png | 
 
-Fleet Warden Cape
+[Fleet Warden Cape](https://deepwoken.fandom.com/wiki/Capes#Fleet_Warden_Cape_)
 
 (**Series**)
 
@@ -3117,7 +3117,7 @@ Found from:
  | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
 | File:Static-assets-upload6078901116095484260.png | 
 
-Shrouded Cape
+[Shrouded Capes](https://deepwoken.fandom.com/wiki/Capes#Shrouded_Capes_)
 
 (**Series**)
 
@@ -3302,7 +3302,6 @@ _+3% Physical Armor_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
@@ -4342,7 +4341,7 @@ Found from:
  |
 |  | 
 
-Akira's Ring
+[Akira's Ring](<Akira's_Ring.md>)
 
 (Legendary)
 
@@ -4542,11 +4541,5 @@ Quest from [Zana](Zana.md)
 
 ## Trivia/Notes
 
--   In previous versions of the game, gear could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
--   No torso equipment can be found in Erisia, it is recommended to go to Minityrsa or the Eastern Luminant, as torso equipment is very common there.
--   Some Equipment such as [Star Dusters](Star_Duster.md), [Royal Duelists](Royal_Duelist.md) and the [Megalodaunt Coats](Megalodaunt_Coat.md) require you to be at a certain Power level to use.
--   You can [smelt](Transmogrification.md) an item that requires power with an item that does not require any, (e.g., Megalodaunt Coat and Glassdancer Wraps), and wear it at even Power 1.
--   The **Deepwoken Cloak** was added along with the game's release but was soon removed for some reason; there were only 3 known people that had it after it's removal. Fast forward to the **10th of May 2022** and the cloak has been re-added by the developer Arch\_Mage.
--   The Providence Coat might be a reference to the coat [Dante](https://devilmaycry.fandom.com/wiki/Dante) wore in the game [Devil May Cry 5](https://devilmaycry.fandom.com/wiki/Devil_May_Cry_5), but this has not yet been confirmed.
--   Poser's Ring cannot be dropped as it will be soulbounded to your character.
--   There is a secret location in the [Ancient Rotlands](Ancient_Rotlands.md) near the 2nd spawn of [Nightmare Threshers](https://deepwoken.fandom.com/wiki/Thresher#Nightmare_Thresher) where deep [Angels](Hollow_Angel.md) spawn, and killing them give you a chest with full legendary rings.
+-   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
+-   If you want to wear a specific type of equipment piece, but it has awful stats, You can [smelt](Transmogrification.md) something with good stats, and apply the piece you wanna wear as vanity.

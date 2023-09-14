@@ -1,14 +1,14 @@
 ---
 title: "Familiar Priest's Helm"
-revid: 60796
+revid: 73798
 source: https://deepwoken.fandom.com/wiki/Familiar_Priest's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets]
+categories: [Helmets, Equipment]
 ---
 
 # Familiar Priest's Helm
 
-Template:EquipmentStats
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats
 
 ## Description
 

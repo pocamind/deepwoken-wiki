@@ -1,6 +1,6 @@
 ---
 title: "Silver Knight's Helm"
-revid: 69894
+revid: 73801
 source: https://deepwoken.fandom.com/wiki/Silver_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Items]
@@ -23,6 +23,8 @@ categories: [Helmets, Items]
 | pass down | Yes |
 | obtainment | Aratel Island |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

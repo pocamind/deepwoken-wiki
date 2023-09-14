@@ -1,9 +1,9 @@
 ---
 title: Legion Helmet
-revid: 69905
+revid: 73803
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets]
+categories: [Helmets, Equipment]
 ---
 
 # Legion Helmet
@@ -15,7 +15,7 @@ categories: [Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +10 HP+3 Posture |
+| innate stats | +10 HP+2 Posture |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -23,6 +23,8 @@ categories: [Helmets]
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

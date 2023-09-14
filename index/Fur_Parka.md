@@ -1,6 +1,6 @@
 ---
 title: Fur Parka
-revid: 73387
+revid: 73751
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -32,7 +32,7 @@ The Parka is a winter coat with a neck collar full of warm fur to protect you ag
 
 ## Trivia
 
--   Parkas look similar to Overcoats
 -   As seen above, Brown Parka is the only Parka without square pads
 -   White Parka has different innate stats/pips compared to Black & Brown. White has +2 Health, +1 Rare Pip, and +1 Uncommon Pip
 -   The Black Parka variant is worn by Authority Captains and can be obtained by them upon defeat.
+-   Parkas look similar to Overcoats

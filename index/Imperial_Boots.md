@@ -1,6 +1,6 @@
 ---
 title: Imperial Boots
-revid: 71001
+revid: 73759
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Equipment]
@@ -22,6 +22,8 @@ categories: [Boots, Equipment]
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

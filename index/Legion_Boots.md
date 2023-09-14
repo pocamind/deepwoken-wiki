@@ -1,6 +1,6 @@
 ---
 title: Legion Boots
-revid: 69979
+revid: 73805
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Boots]
@@ -22,6 +22,8 @@ categories: [Equipment, Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Aratel Island, Deep Widow |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

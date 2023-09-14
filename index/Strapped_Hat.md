@@ -1,9 +1,9 @@
 ---
 title: Strapped Hat
-revid: 72778
+revid: 73806
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets, Items]
+categories: [Helmets, Items, Equipment]
 ---
 
 # Strapped Hat
@@ -22,6 +22,8 @@ categories: [Helmets, Items]
 | pass down | Yes |
 | obtainment | First Layer |
 | description | - "A hat typically worn by those from the Western Luminant." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

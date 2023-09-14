@@ -1,14 +1,14 @@
 ---
 title: "Familiar Knight's Helm"
-revid: 60797
+revid: 73797
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets]
+categories: [Helmets, Equipment]
 ---
 
 # Familiar Knight's Helm
 
-Template:EquipmentStats
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Guardian Pauldrons
-revid: 73526
+revid: 73813
 source: https://deepwoken.fandom.com/wiki/Guardian_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,6 +23,8 @@ categories: [Equipment, Arms, Pauldrons]
 | pass down | Yes |
 | obtainment | Chests From:The Depths (First Layer), Primadon |
 | description | ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 73068
+revid: 73760
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -21,6 +21,8 @@ categories: [Equipment]
 | pass down | Yes |
 | obtainment | Miner's Landing |
 | description | - ... |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

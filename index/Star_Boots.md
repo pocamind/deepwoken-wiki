@@ -1,6 +1,6 @@
 ---
 title: Star Boots
-revid: 69977
+revid: 73755
 source: https://deepwoken.fandom.com/wiki/Star_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots]
@@ -22,6 +22,8 @@ categories: [Boots]
 | pass down | Yes |
 | obtainment | Chests from:, Primadon, The Depths, Duke Erisia |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

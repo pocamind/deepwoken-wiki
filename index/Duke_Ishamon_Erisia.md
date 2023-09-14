@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 73719
+revid: 73720
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,9 @@ _Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Erisia is a Humanoid [Boss](Bosses.md) the player fights during the ["The Lord Regent" Quest](<https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest>) and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement or 75 Weapon upon executing him, respectively. Defeating him also allows [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
+Duke Erisia is a [Boss](Bosses.md) the player fights during the ["The Lord Regent" Quest](<https://deepwoken.fandom.com/wiki/Etris#The_Lord_Regent's_Quest>) and is located in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) within [Upper Erisia](Upper_Erisia.md). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement or 75 Weapon upon executing him.
+
+Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
 In appearance, the Duke is a [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. The Duke of Erisia is a martial arts user and is specialized in the [Legion Kata](Fists.md) style. Alongside his martial attacks, he wields extremely powerful and exclusive [Galebreathe](Galebreathe.md) [mantras](Mantras.md).
 
@@ -99,17 +101,18 @@ Duke Erisia executes his opponent after knocking them:
 
 ## Combat
 
-**Do not attempt to vent when he has a shield on otherwise it'll be parried.** Only poses a big threat to solo players during the 1st phase. He's far more aggressive and dangerous in the first phase, and has hyperarmor on all his attacks due to his shield.
+**Do not attempt to vent when he has a shield on otherwise it'll be parried.** Only poses a big threat to solo players during the 1st phase. He's far more aggressive and dangerous in the first phase.
 
 In terms of strategy to avoid his attacks as much as possible;
 
 -   If he isn't moving or doing anything, he's preparing for a mantra. You can get three safe hits in with a heavy or medium weapon, at which point you should stop attacking and prepare for his attack. Reading his mantras is very difficult, due to the fact that many of them have a low windup or are hard to read; for the highest level of consistency, it's best to do a full dodge (from my experience), but you'll want to learn your own strategy for handling him in the first phase.
 -   If Duke does his Strong Left attack, he will follow it up by attempting to combo you with regular punches and criticals. Parry trading with him is relatively simple, as you know he will parry every attack, and he doesn't feint often. This is the time when you'll want to do the most damage, but only m1 to keep consistency.
+-   Heavy-Hands Ring & Murmur: Ardour can drastically increase posture damage, making Duke's first phase much faster.
 -   After dealing enough posture damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
 -   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage. But Vampirism makes it safer.
--   You must STAY ALIVE atleast above 70% during the first phase because his Shield not only prevents him from taking damage, but if you are knocked out and he is ready to kill you, you cannot be saved since his Shield blocks and parries every attack and any players who try to save you will have their attacks parried.
--   If you crouch behind him and pull your weapon, he will start the battle before you talk to him.
+-   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
+-   If you attempt to assassinate him, the fight will automatically start.
 
 ### Phases
 
@@ -124,17 +127,13 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 -   Rare Items & Equipment
 -   Rare/Common Schematics.
--   Relics (Idol of Yun'Shul, Smith's Alloy
--   [Rare Weapons](Weapons.md) (Shattered Katana, etc.)
--   [Magic Uncap](Attributes_Unbound.md) (If the requirements are met.) Req: 75 Attunement
--   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.) Req: 75 Weapon
+-   Relics (Idol of Yun'Shul, Smith's Alloy)
+-   [Rare Weapons](Weapons.md)
+-   [Magic Uncap](Attributes_Unbound.md) (If the requirements are met.)
+-   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   The ability to obtain the [Pillars of Erisia](Galebreathe.md) Mantra in a Whisper hand with sufficient Galebreathe.
-
-You also gain [Resonance](Resonance.md) (Bell) progression.
-
-Soloing the duke is the more recommended way to get bell, as doing so 6 times will guarantee your bell. (Without **Resonance Progress echo)**
-
-(**With Resonance Prog Echo Maxed**)I Got Bell By Doing Duke 5 Times But I Did Around 2 Squibbos And A Few Corrupted Mobs(The Squibbo's And Corrupt Mobs Barely Give Bell Brog)
+-   You also gain [Resonance](Resonance.md) (Bell) progression.
+-   It will take around 6-12 Dukes with Max Resonance Progression Echo to unlock Resonance.
 
 ## Dialogue
 
@@ -252,18 +251,11 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.
 -   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious. (Lethal Precision)
 -   The Duke's room gets sealed off by a barrier upon triggering the fight.
--   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Par (a Deepwoken dev) is known for working on.
+-   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Par (Deepwoken Developer) is known for working on.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   The Duke's health scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
--   It is recommended to fight The Duke with the following:
-    -   Any high **posture-damage** mantras or attunements, I personally recommend the "Shadow Gun" mantra and or most [Shadowcast](Shadowcast.md) mantras as they can shred through posture. Mantras like "Fire Blade," "Ice Smash," "Exhaustion Strike," "Master's Flourish," and even "Glacial Arc," with the right modifiers work very well against him.
-    -   A **[Heavy Hands Ring](Outfits.md)** could also be useful if you want to increase posture-damage, but it isn't highly recommended for the whole fight because it makes it harder to parry-chain The Duke's Legion Kata.
-    -   Using the **Ardour** [murmur](Murmur.md) (obtained by defeating the [Dread Serpent](Dread_Serpent.md) in battle) will help increase your posture damage towards him.
-    -   **[Heavy Weapons](Weapons.md)**, any heavy weapons' critical strike (M3) will almost always posture-break The Duke, which allows you to infinitely keep The Duke in a corner where he cannot do anything. (Better to do with engage + Ardour + Heavy weapon M1's).
-        -   Specifically any **Greathammer**, however **Greataxes** & **Greatswords** are also very effective at infinite posture-breaking The Duke.
-        -   Any weapon with critical like hammers such as [Maces](Mace.md), [Sacred Hammers](Sacred_Hammer.md) and [Fists](Fists.md) with the **Way of Navae** fighting style will also work.
+-   The Duke's health scales 5,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   His first name is unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'

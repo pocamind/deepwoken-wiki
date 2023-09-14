@@ -1,9 +1,9 @@
 ---
 title: Guardian Helmet
-revid: 73514
+revid: 73812
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Character, Armors, Equipment]
 ---
 
 # Guardian Helmet
@@ -29,3 +29,5 @@ _If you wish to see useful information on all Equipment, Go to [**Equipment**](E
 ## Description
 
 The Guardian Helm is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +5 health, And +1 Posture, as well as extra randomized stats based on the amount of pips.
+
+-   This is a part of the "Guardian" set, the only other piece being [Guardian Pauldrons](Guardian_Pauldrons.md)

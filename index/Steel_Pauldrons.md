@@ -1,6 +1,6 @@
 ---
 title: Steel Pauldrons
-revid: 64568
+revid: 73811
 source: https://deepwoken.fandom.com/wiki/Steel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -22,7 +22,9 @@ categories: [Equipment, Arms, Pauldrons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests From:Duke Erisia, The Depths (First Layer), Erisia |
-| description | ... |
+| description | Excellent protection for your shoulders. |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

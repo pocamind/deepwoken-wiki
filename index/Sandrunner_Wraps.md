@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 73057
+revid: 73731
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -15,14 +15,16 @@ categories: [Equipment]
 | selling price | 25 |
 | requirements | None |
 | weight | 2 |
-| innate stats | 6 Health, 4% Stealth, 8% Fire Armor, 2 Pips |
-| innate talent | Graceful Landing |
+| innate stats | 6 Health, 4% Stealth, 8% Fire Armor, 1 Rare Pip, 1 Legendary Pip |
+| innate talent | Kick Off |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Miner's Landing |
 | description | "..." |
+
+_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 
