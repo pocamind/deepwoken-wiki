@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 73665
+revid: 73719
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -12,7 +12,7 @@ categories: [Enemies, NPCs, Bosses]
 
 ― Duke Erisia
 
-_Also known as Duke Erizzia._Template:EnemyInfobox1.0
+_Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
 
 ## Description
 
@@ -133,6 +133,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 You also gain [Resonance](Resonance.md) (Bell) progression.
 
 Soloing the duke is the more recommended way to get bell, as doing so 6 times will guarantee your bell. (Without **Resonance Progress echo)**
+
+(**With Resonance Prog Echo Maxed**)I Got Bell By Doing Duke 5 Times But I Did Around 2 Squibbos And A Few Corrupted Mobs(The Squibbo's And Corrupt Mobs Barely Give Bell Brog)
 
 ## Dialogue
 

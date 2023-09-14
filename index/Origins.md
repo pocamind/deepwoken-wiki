@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 73557
+revid: 73702
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -60,7 +60,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light.
-    -   Has access to the furnace (acts as a campfire) on the second floor (used to just be for cooking, but was changed to apply healing as well, in a recent update)
+    -   Have access to the furnace, a campfire on the second floor.
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.

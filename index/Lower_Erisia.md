@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 72097
+revid: 73715
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -121,7 +121,7 @@ Below is a list of potential items that can spawn in chests in Lower Erisia.
 
  | 
 
--   Zweihänder
+-   [Zweihander](Zweihander.md)
 -   [Halberd](Halberd.md)
 -   [Apprentice Rapier](Apprentice_Rapier.md)
 -   [Mace](Mace.md)

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 73131
+revid: 73705
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -458,6 +458,7 @@ _Skate freely on paths of ice._
     <li>Heals up to 8%.</li>
     <li>Compatible with Stratus Stones and Eternal Logstones.</li>
     <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
+    <li>Iceberg is put on CD by reinforce and vice versa, so you should choose one or the other for healing.</li>
   </ul></td>
 </tr>
 </tbody>

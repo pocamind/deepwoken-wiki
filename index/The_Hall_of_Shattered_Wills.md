@@ -1,9 +1,9 @@
 ---
 title: The Hall of Shattered Wills
-revid: 71573
+revid: 73711
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, World]
+categories: [Locations, World]
 ---
 
 # The Hall of Shattered Wills
@@ -32,9 +32,20 @@ It has no practical functions and merely acts as a safe place for moderators to 
 
 -   A machine with a big button that says "HUNGRY". Interacting with it gives a a YUM YUM BAR, with a cooldown of 10 minutes. The item restores 50 hunger and 50 thirst. Its food type is Plant / Meat / Yum. It is not droppable however.
 
-File:Screenshot 2022-12-30 000043.png
+### Gallery
 
-Image of the Yum-Yum Machine.
+-   A gallery containing the illustrations of Moderators is hung around the walls.
+-   At the end of the hall, there is a sword in stone.
+-   Other than being a gallery, this also serves as an arena for Moderators to fight.
+
+### Kitchen
+
+-   An ordinary kitchen you would find in an office.
+-   Motivational posters are hung, all of these reading:
+    -   SELF-WORTH: MY HEAD MAY BE SKINNY AND TALL BUT AT LEAST I'M NOT A FELINOR
+    -   DETERMINATION: DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
+    -   SURVIVAL: SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
+-   There is also a "Coffee Machine", which is actually bags of blood connecting to a jar.
 
 ## Maps
 

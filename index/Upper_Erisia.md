@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 69848
+revid: 73714
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -100,7 +100,7 @@ _This list is incomplete, please contribute **correct** information._
 -   [Iron Spear](Iron_Spear.md)
 -   [Messer](Messer.md)
 -   [Steel Maul](Steel_Maul.md)
--   Zweihänder
+-   [Zweihander](Zweihander.md)
 -   [Scimitar](Scimitar.md)
 -   [Iron Cestus](Iron_Cestus.md)
 -   [Legion Cestus](Legion_Cestus.md)
