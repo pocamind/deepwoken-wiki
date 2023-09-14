@@ -1,6 +1,6 @@
 ---
 title: Trimmed Overcoat
-revid: 73750
+revid: 73863
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms]
 | obtainment | Summer Isle , Erisia , Hell Mode |
 | description | A thick coat to protect you against the elements. |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Overcoat is a thick coat made to be able endure elemental attacks. Black Overcoat can be found in [Hell Mode](Hell_Mode.md), while Brown & White Overcoat can be found in [Summer Isle](Summer_Isle.md) and rarely, [Erisia](Erisia.md).
+The Overcoat is an [Equipment](Equipment.md) item under the "Arms" category. They are thick coats made to be able endure elemental attacks. Black Overcoat can be found in [Hell Mode](Hell_Mode.md), while Brown & White Overcoat can be found in [Summer Isle](Summer_Isle.md) and rarely, [Erisia](Erisia.md).
 
 ## Trivia
 

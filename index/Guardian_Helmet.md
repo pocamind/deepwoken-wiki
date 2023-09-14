@@ -1,9 +1,9 @@
 ---
 title: Guardian Helmet
-revid: 73812
+revid: 73940
 source: https://deepwoken.fandom.com/wiki/Guardian_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors, Equipment]
+categories: [Equipment, Head, Helmets]
 ---
 
 # Guardian Helmet
@@ -24,10 +24,10 @@ categories: [Character, Armors, Equipment]
 | obtainment | Duke Erisia, Deep Widow, Primadon |
 | description | "The imposing helm of a guardian." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Guardian Helm is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +5 health, And +1 Posture, as well as extra randomized stats based on the amount of pips.
+The Guardian Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +5 health, And +1 Posture, as well as extra randomized stats based on the amount of pips.
+
+## Trivia
 
 -   This is a part of the "Guardian" set, the only other piece being [Guardian Pauldrons](Guardian_Pauldrons.md)

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 73301
+revid: 73889
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Cloaks]
 | obtainment | Chests from:Saramaed Summit, Primadon, Miner's Landing |
 | description | An ancient cloak of incredible power. Worn by a select few. |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Deepwoken Cloak is an equipment item under the Arms category. Equipping it grants you 5 Health, 1 Posture, 3 Rare Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Blade Dancer, which removes your roll cooldown upon hitting an enemy. It is rarely found in chests from the [Saramaed Summit](Saramaed_Summit.md), [Miner's landing](<Miner's_Landing.md>), and [Primadon](Primadon,_Titan_of_the_East.md).
+The Deepwoken Cloak is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5 Health, 1 Posture, 3 Rare Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Blade Dancer, which removes your roll cooldown upon hitting an enemy. It is rarely found in chests from the [Saramaed Summit](Saramaed_Summit.md), [Miner's landing](<Miner's_Landing.md>), and [Primadon](Primadon,_Titan_of_the_East.md).
 
 ## Trivia
 

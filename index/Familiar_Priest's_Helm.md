@@ -1,18 +1,18 @@
 ---
 title: "Familiar Priest's Helm"
-revid: 73798
+revid: 73922
 source: https://deepwoken.fandom.com/wiki/Familiar_Priest's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets, Equipment]
+categories: [Head, Helmets, Equipment]
 ---
 
 # Familiar Priest's Helm
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats
+Template:EquipmentStats
 
 ## Description
 
-A helm obtained through 2022 [Hallowtide](Hallowtide.md), being very rare due to being an event item.
+The Familiar Priest's Helm is an [Equipment](Equipment.md) item under the "Head" category. A helm obtained through 2022 [Hallowtide](Hallowtide.md), very rare due to being an event item.
 
 ## Trivia
 

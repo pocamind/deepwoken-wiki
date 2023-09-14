@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 73795
+revid: 73968
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Plates]
 | obtainment | Chests from:Duke Erisia, The Eternal Gale |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Legion Phalanx Plate is an equipment item under the Arms category. Equipping it grants you 6 Health, 2 Posture, 2 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Hoplite, which halves incoming posture damage when standing still ([Spears](Weapons.md) only). It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Eternal Gale](Second_Layer.md).
+The Legion Phalanx Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 6 Health, 2 Posture, 2 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Hoplite, which halves incoming posture damage when standing still ([Spears](Weapons.md) only). It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Eternal Gale](Second_Layer.md).
 
 ## Trivia
 

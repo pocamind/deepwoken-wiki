@@ -1,9 +1,9 @@
 ---
 title: Gumshoe Longcoat
-revid: 73454
+revid: 73942
 source: https://deepwoken.fandom.com/wiki/Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Coats]
 ---
 
 # Gumshoe Longcoat
@@ -24,10 +24,6 @@ categories: [Equipment, Arms]
 | obtainment | Songseeker / Minityrsa / Dread Serpent |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
--   A Dark/Ochre/Grey/White longcoat that has a chance to drop from the [Dread Serpent](Dread_Serpent.md).
--   Mainly found in Songseeker / Minityrsa
--   The Hats for the Gumshoe Set can be found here: [Gumshoe Hat](Gumshoe_Hat.md)
+The Gumshoe Longcoat is an [Equipment](Equipment.md) item under the "Arms" category.

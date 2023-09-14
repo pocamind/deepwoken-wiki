@@ -1,9 +1,9 @@
 ---
 title: Curseblood Pendant
-revid: 73770
+revid: 73885
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Scarves]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Curseblood Pendant
@@ -23,8 +23,6 @@ categories: [Armors, Equipment, Scarves]
 | obtainment | Second Layer |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-I don't have a description on this but I will suggest: This pendant should have a new innate stat of 15% called "Damage Vs. Blood Bar", dealing more damage against the blood of others - witherald
+The Curseblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.

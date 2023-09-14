@@ -1,6 +1,6 @@
 ---
 title: Guardian Pauldrons
-revid: 73813
+revid: 73941
 source: https://deepwoken.fandom.com/wiki/Guardian_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Pauldrons]
 | obtainment | Chests From:The Depths (First Layer), Primadon |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Guardian Pauldrons are an equipment item under the Arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md)) and [Primadon](Primadon,_Titan_of_the_East.md).
+The Guardian Pauldrons is an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md)) and [Primadon](Primadon,_Titan_of_the_East.md).
 
 ## Trivia
 

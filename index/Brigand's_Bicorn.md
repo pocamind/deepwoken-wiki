@@ -1,9 +1,9 @@
 ---
 title: "Brigand's Bicorn"
-revid: 73644
+revid: 73870
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Helmets]
+categories: [Equipment, Hats, Head]
 ---
 
 # Brigand's Bicorn
@@ -24,10 +24,8 @@ categories: [Equipment, Helmets]
 | obtainment | The Depths, Miner's Landing |
 | description | "Even outlaws need style." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Brigand's Bicorn is an accessory under the "Head" category. It is found primarily in [The Depths](The_Depths.md), particularly [Layer 1](First_Layer.md), as well as [Miner's Landing](<Miner's_Landing.md>).
+The Brigand's Bicorn is an [Equipment](Equipment.md) item under the "Head" category. It is found primarily in [The Depths](The_Depths.md), particularly [Layer 1](First_Layer.md), as well as [Miner's Landing](<Miner's_Landing.md>).
 
 Equipping this item will give you 2 random stats, as well as grant you the innate talents _Spare Nails_ and _Emergency Repairs_, which increases the amount of health gained from repairing your ship and increases the efficiency of the repairs when your ship is low on health, respectively. It's great as a utility equip for people who sail around [The Aratel Sea](The_Aratel_Sea.md) or the [Voidsea](Voidsea.md) a lot or fight other ships via cannons due to these talents, but is otherwise weak by itself on a build.

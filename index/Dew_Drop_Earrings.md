@@ -1,9 +1,9 @@
 ---
 title: Dew Drop Earrings
-revid: 73041
+revid: 73894
 source: https://deepwoken.fandom.com/wiki/Dew_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Ears]
 ---
 
 # Dew Drop Earrings
@@ -26,7 +26,7 @@ categories: [Equipment]
 
 ## Description
 
-Dew Drop Earrings are Equipment Armor in the "_Ears_" category_._ Equipping this item will give you randomized stats based on the amount of pips it has.
+Dew Drop Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has.
 
 ## Trivia
 

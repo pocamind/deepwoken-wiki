@@ -1,19 +1,20 @@
 ---
 title: Imperial Boots
-revid: 73759
+revid: 73951
 source: https://deepwoken.fandom.com/wiki/Imperial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boots, Equipment]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Imperial Boots
 
 | Imperial Boots | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Uncommon |
 | selling price | 14 |
 | requirements | None |
+| weight | 1 |
 | innate stats | +5 Health |
 | innate talent | N/A |
 | bankable | Yes |
@@ -23,11 +24,9 @@ categories: [Boots, Equipment]
 | obtainment | Chests from:, Aratel Island |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Imperial Boots are accessories under the "_Boots_" category. They can be found through chests in [Aratel Island](Aratel_Island.md).
+Imperial Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Aratel Island](Aratel_Island.md).
 
 ## Trivia
 

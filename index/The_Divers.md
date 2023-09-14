@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 71920
+revid: 73909
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -73,7 +73,8 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 -   The official Divers server is held at Discord.gg/divers
 -   Upon reaching the title of "Black Diver" within the guild, players are rewarded with the status of “Guild Officer.”
 -   The current leader of The Divers in-game is R0bustic.
--   The current officers of The Divers in-game are:
+-   The Divers are lead by the Black Diver Council, Consisting of "Resolve" "Ricky" and "Dragon"
+-   The current Black Divers (officers) of The Divers in-game are:
     -   R0bustic
     -   ViolaIsSilent
     -   H26O

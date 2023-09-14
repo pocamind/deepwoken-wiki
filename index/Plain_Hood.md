@@ -1,9 +1,9 @@
 ---
 title: Plain Hood
-revid: 73460
+revid: 73947
 source: https://deepwoken.fandom.com/wiki/Plain_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors, Equipment]
+categories: [Equipment, Head, Hoods]
 ---
 
 # Plain Hood
@@ -24,12 +24,10 @@ categories: [Character, Armors, Equipment]
 | obtainment | Chests from:, Summer Isle, Deep Widow, First Layer |
 | description | "A sleek (color) hood." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Hoods are accessories under the "_Head_" category. They can be found through chests in [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md). Also, can be found in other chests, not only [Summer Isle](Summer_Isle.md). \[Should be tested.\]
+Hoods are an [Equipment](Equipment.md) item under the "Head" category. They can be found through chests in [Summer Isle](Summer_Isle.md) and [The Depths](The_Depths.md). Also, can be found in other chests, not only [Summer Isle](Summer_Isle.md). \[Should be tested.\]
 
 ## Trivia
 
-Despite all being the same hood model, they all have different innate stats and pips.
+-   Despite all being the same hood model, they all have different innate stats and pips.

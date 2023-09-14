@@ -1,14 +1,14 @@
 ---
 title: Jeremiah
-revid: 73791
+revid: 73948
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Equipment]
+categories: [NPCs]
 ---
 
 # Jeremiah
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:NPC name
+Template:NPC name
 
 ## Description
 

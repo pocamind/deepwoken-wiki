@@ -1,9 +1,9 @@
 ---
 title: Gladiator Helm
-revid: 73342
+revid: 73931
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets, Equipment]
+categories: [Head, Helmets, Equipment]
 ---
 
 # Gladiator Helm
@@ -24,11 +24,9 @@ categories: [Helmets, Equipment]
 | obtainment | Aratel Island, Duke Erisia, Deep Widow, First Layer |
 | description | - "The visage of a gladiator who has seen many battles." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Gladiator Helmet is an Equipment Armor in the "_Head_" category_._ Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the number of pips.
+The Gladiator Helmet is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +10 Health and +2 Posture, as well as extra randomized stats based on the number of pips.
 
 The talent Concussive Force: Enemies you knock remain downed longer than usual.
 

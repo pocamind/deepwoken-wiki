@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 73671
+revid: 73868
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -979,7 +979,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I seek the elegance of a Glassdancer."**_
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystal make them explode.
+    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystals makes them explode.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusive: Unyielding Frost
 -   _Crystal Shrapnel_ \[Advanced Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)

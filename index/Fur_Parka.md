@@ -1,9 +1,9 @@
 ---
 title: Fur Parka
-revid: 73751
+revid: 73862
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Parkas]
 ---
 
 # Fur Parka
@@ -24,11 +24,9 @@ categories: [Equipment, Arms]
 | obtainment | Aratel Island |
 | description | An essential winter coat to protect you against the cold. |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Parka is a winter coat with a neck collar full of warm fur to protect you against the cold. All 3 variants are commonly found in [Aratel Island](Aratel_Island.md)
+The Parka is an [Equipment](Equipment.md) item under the "Arms" category. They are winter coats with a neck collar full of warm fur to protect you against the cold. All 3 variants are commonly found in [Aratel Island](Aratel_Island.md)
 
 ## Trivia
 

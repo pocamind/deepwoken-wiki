@@ -1,18 +1,20 @@
 ---
 title: Demon Mask
-revid: 73586
+revid: 73892
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Face, Masks]
 ---
 
 # Demon Mask
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats The **Demon Mask** is a Mask which can be dropped from chests in [The Depths](The_Depths.md). It provides no tangible stats in a no-starred state.
+Template:EquipmentStats
 
-## Appearance
+## Description
 
-The Demon Mask is a pitch-black mask reminiscent of a japanese _oni_. Two horns sprout from the forehead, with another two jutting out from the chin area. The entire mask is fashioned in a growl, the mask baring it's teeth to viewers. A circular hole appears on top of the mask. When worn, the Demon Mask completely covers the wearer's face.
+The Demon Mask is an [Equipment](Equipment.md) item under the "Face" category. It is a pitch-black mask reminiscent of a japanese _oni_. Two horns sprout from the forehead, with another two jutting out from the chin area. The entire mask is fashioned in a growl, the mask baring it's teeth to viewers. A circular hole appears on top of the mask. When worn, the Demon Mask completely covers the wearer's face.
+
+It can be dropped from chests in the [First Layer](First_Layer.md). It provides no tangible stats in a no-starred state.
 
 ## Trivia
 

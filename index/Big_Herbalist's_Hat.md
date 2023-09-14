@@ -1,9 +1,9 @@
 ---
 title: "Big Herbalist's Hat"
-revid: 73643
+revid: 73848
 source: https://deepwoken.fandom.com/wiki/Big_Herbalist's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets, Equipment]
+categories: [Hats, Equipment, Head]
 ---
 
 # Big Herbalist's Hat
@@ -24,13 +24,11 @@ categories: [Helmets, Equipment]
 | obtainment | Chests from:, Aratel Island |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Big Herbalist's Hat is an Equipment Armor in the "_Head_" category. Equipping this item will give you the [Iron Gut](Talents.md) and [Herbivore](Talents.md) talents, along with random stats.
+The Big Herbalist's Hat is an [Equipment](Equipment.md) item under the "_Head_" category. Equipping this item will give you the [Iron Gut](Talents.md) and [Herbivore](Talents.md) talents, along with random stats.
 
 ## Notes
 
 -   The [Herbalist's Hat](<Herbalist's_Hat.md>) and Big Herbalist Hat are the same model, just differ in size.
--   Often used by light users to hide their animations.
+-   The Big Herbalist's Hat was notorious for being used by light users to hide their animations. Eventually, its appearance was changed to be more sloped, making it harder to do so.

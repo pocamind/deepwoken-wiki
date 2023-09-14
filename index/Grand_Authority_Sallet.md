@@ -1,9 +1,9 @@
 ---
 title: Grand Authority Sallet
-revid: 69895
+revid: 73875
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Helmets, Head]
 ---
 
 # Grand Authority Sallet
@@ -26,4 +26,4 @@ categories: [Equipment]
 
 ## Description
 
-The Bulwark Helm is an Armor Equipment piece in the "_Head_" category. Equipping it grants you The Strong Hold talent, along with randomized stats based on the Pips you get. The Bulwark Helm can be found inside chests located at [Miner's Landing](<Miner's_Landing.md>), and the [Second Layer](Second_Layer.md) of the depths.
+The Bulwark Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping it grants you The Strong Hold talent, along with randomized stats based on the Pips you get. The Bulwark Helm can be found inside chests located at [Miner's Landing](<Miner's_Landing.md>), and the [Second Layer](Second_Layer.md).

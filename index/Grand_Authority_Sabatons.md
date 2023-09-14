@@ -1,18 +1,19 @@
 ---
 title: Grand Authority Sabatons
-revid: 73760
+revid: 73937
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Legs, Sabatons]
 ---
 
 # Grand Authority Sabatons
 
 | Grand Authority Sabatons | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | ??? |
 | requirements | None |
+| weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
@@ -22,10 +23,8 @@ categories: [Equipment]
 | obtainment | Miner's Landing |
 | description | - ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Grand Authority Sabatons are accessories under the "Boots" category. They can only be found through chests in [Miner's Landing](<Miner's_Landing.md>).
+Grand Authority Sabatons is an [Equipment](Equipment.md) item under the "Legs" category. They can only be found through chests in [Miner's Landing](<Miner's_Landing.md>).
 
 Grand Authority Sabatons are part of the "**Grand Authority**" set; with the only other armor piece being the **[Grand Authority Plate](Grand_Authority_Plate.md)**.

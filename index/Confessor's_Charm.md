@@ -1,9 +1,9 @@
 ---
 title: "Confessor's Charm"
-revid: 73783
+revid: 73881
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Scarves]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Confessor's Charm
@@ -23,11 +23,9 @@ categories: [Armors, Equipment, Scarves]
 | obtainment | Chaser , Hell Mode |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Confessor's Charm is a Torso [Equipment](Equipment.md) piece you can commonly find after defeating Chaser. Alternatively, you can farm Hell Mode for it, but it won't be as common. This is without a doubt, currently the best Torso piece. Unless you prefer Elemental Armor over Physical, then [Canticlysm Pendant](Canticlysm_Pendant.md) is for you.
+The Confessor's Charm is an [Equipment](Equipment.md) item under the "Torso" category. You can commonly find after defeating Chaser. Alternatively, you can farm Hell Mode for it, but it won't be as common. This is without a doubt, currently the best Torso piece. Unless you prefer Elemental Armor over Physical, then [Canticlysm Pendant](Canticlysm_Pendant.md) is for you.
 
 ## Trivia
 

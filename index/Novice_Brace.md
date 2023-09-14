@@ -1,6 +1,6 @@
 ---
 title: Novice Brace
-revid: 72860
+revid: 73984
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Braces]
 
 ## Description
 
-The Novice Brace is an equipment item under the Arms category. Equipping it grants you 2 Health, 1 Posture, and 1 Rare Pip. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Erisia](Erisia.md).
+The Novice Brace is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 2 Health, 1 Posture, and 1 Rare Pip. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Erisia](Erisia.md).
 
 ## Trivia
 

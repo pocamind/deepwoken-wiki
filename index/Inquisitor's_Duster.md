@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Duster"
-revid: 73623
+revid: 73953
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, Developer Spec]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Dusters, Developer Spec]
 | obtainment | Unobtainable |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Inquisitor's Duster is an unobtainable equipment item in the arms category, how most obtained it was just by being lucky.
+The Inquisitor's Duster is an unobtainable [Equipment](Equipment.md) item in the "Arms" category.
 
 ## Trivia
 

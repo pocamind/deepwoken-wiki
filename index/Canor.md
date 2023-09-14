@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 71085
+revid: 73905
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -58,7 +58,7 @@ Inflicts less damage to their own allies.
 **Weaknesses:**
 
   
-Loyalty makes combat practice and spars with housemates difficult
+Loyalty makes combat practice and spars with housemates difficult (This isnt a real weakness, it just draws out the fights)
 
 **Surnames:**
 

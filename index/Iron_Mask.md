@@ -1,16 +1,18 @@
 ---
 title: Iron Mask
-revid: 73587
+revid: 73955
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Face, Masks]
 ---
 
 # Iron Mask
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats The **Iron Mask** is an accessory under the "Face" category. It can be found in chests in [Lower Erisia](Lower_Erisia.md).
+Template:EquipmentStats
 
-## Appearance
+## Description
+
+The Iron Mask is is an [Equipment](Equipment.md) item under the "Face" category. It can be found in chests in [Lower Erisia](Lower_Erisia.md).
 
 The Iron Mask is a mask made out of an unknown alloy (presumably iron) inlaid with a black fabric in the interior. Two angular holes are bored into the mask. Additionally, Two slits built vertically are on each side of the mask. When worn, the Iron Mask completely covers the wearer's face.
 

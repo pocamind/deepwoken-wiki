@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73793
+revid: 73816
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -3653,7 +3653,7 @@ Found from:
  | N/A |
 |  | 
 
-[Iron Mask](Iron_Mask.md)
+Iron Mask
 
  | 
 

@@ -1,19 +1,20 @@
 ---
 title: "Mercenary's Boots"
-revid: 73288
+revid: 73974
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Mercenary's Boots
 
 | Mercenary's Boots | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Rare |
 | selling price | 25 |
 | requirements | None |
+| weight | 1 |
 | innate stats | +2 Health |
 | innate talent | Endurance Runner |
 | bankable | Yes |
@@ -23,11 +24,9 @@ categories: [Equipment]
 | obtainment | Chests from:Miner's Landing Second Layer |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Mercenary Boots are an equipment under the "_boots_" category. This equipment grants +2 health and a Talent named Endurance Runner, which Negates the speed penalty of critical health.
+Mercenary Boots are an [Equipment](Equipment.md) item under the "Legs" category. This equipment grants +2 health and a Talent named Endurance Runner, which Negates the speed penalty of critical health.
 
 Mercenary Boot's are part of the "**Mercenary's**" set; with the only other armor piece being the **[Mercenary's Garb](<Mercenary's_Garb.md>)**.
 

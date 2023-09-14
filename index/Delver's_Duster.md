@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 73365
+revid: 73890
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -23,11 +23,9 @@ categories: [Equipment, Arms, Dusters]
 | obtainment | Chests:Chaser, Scion of Ethiron, Miner's Landing, Other Sources:, Merchant Ships |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Delver's Duster is an equipment item in the Arms category. Equipping it grants you 5 Health, 3 Legendary Pips, and the Graceful Landing and Braced Collapse [talents](Talents.md). It is rarely found in chests from the [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Miner's Landing](<Miner's_Landing.md>), and can also be bought from [Merchant Ships](Travelling_Merchant.md).
+The Delver's Duster is an[Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5 Health, 3 Legendary Pips, and the Graceful Landing and Braced Collapse [talents](Talents.md). It is rarely found in chests from the [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Miner's Landing](<Miner's_Landing.md>), and can also be bought from [Merchant Ships](Travelling_Merchant.md).
 
 ## Trivia
 

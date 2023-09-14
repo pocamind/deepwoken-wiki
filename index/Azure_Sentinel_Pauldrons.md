@@ -1,6 +1,6 @@
 ---
 title: Azure Sentinel Pauldrons
-revid: 73541
+revid: 73843
 source: https://deepwoken.fandom.com/wiki/Azure_Sentinel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms]
 
 ## Description
 
-The Azure Royal Guard is an [equipment](Equipment.md) item in the Arms category. Equipping them grants 2 Rare Pips. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
+The Azure Royal Guard is an [Equipment](Equipment.md) item in the "Arms" category. Equipping them grants 2 Rare Pips. It is commonly found in chests from [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md) ([First Layer](First_Layer.md)).
 
 ## Trivia
 

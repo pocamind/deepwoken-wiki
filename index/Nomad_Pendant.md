@@ -1,9 +1,9 @@
 ---
 title: Nomad Pendant
-revid: 73771
+revid: 73983
 source: https://deepwoken.fandom.com/wiki/Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Scarves]
+categories: [Equipment, Necklaces]
 ---
 
 # Nomad Pendant
@@ -23,8 +23,6 @@ categories: [Armors, Equipment, Scarves]
 | obtainment | Miner's Landing |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-I don't have a description on this but I will suggest: This pendant should have a new innate stat of +5% Blunt Armor, to y'know, fit with the Nomad thingie - Witherald
+The Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category.

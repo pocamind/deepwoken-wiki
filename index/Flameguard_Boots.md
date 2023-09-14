@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 73758
+revid: 73924
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Boots]
@@ -23,11 +23,9 @@ categories: [Equipment, Boots]
 | obtainment | Hell Mode |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Flameguard Boots are accessories under the "_Boots_" category. They can be found through Hell Mode... lol
+Flameguard Boots are an [Equipment](Equipment.md) item under the "Boots" category. They can be found through Hell Mode.
 
 ## Trivia
 

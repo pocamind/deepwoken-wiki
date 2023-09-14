@@ -1,9 +1,9 @@
 ---
 title: Wheel Pendant
-revid: 73775
+revid: 73987
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Scarves]
+categories: [Equipment, Necklaces]
 ---
 
 # Wheel Pendant
@@ -23,8 +23,10 @@ categories: [Armors, Equipment, Scarves]
 | obtainment | Second Layer , Hell Mode |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-I don't have a description on this but I will suggest: This pendant should have innate stats of +2% Fire Armor & +2% Lightning Armor - witherald
+The Old World Sun Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+
+## Trivia
+
+-   It is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.

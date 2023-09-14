@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 64572
+revid: 73879
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Plates]
 
 ## Description
 
-The Celtor Commander Plate is an equipment item under the Arms category. Equipping it grants you 8 Health, 2 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Breathing Exercise, which increases the speed at which sanity is regenerated while out of combat. It is commonly found in chests from the [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md).
+The Celtor Commander Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 8 Health, 2 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Breathing Exercise, which increases the speed at which sanity is regenerated while out of combat. It is commonly found in chests from the [Duke Erisia](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md).
 
 ## Trivia
 

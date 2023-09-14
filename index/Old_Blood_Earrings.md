@@ -1,9 +1,9 @@
 ---
 title: Old Blood Earrings
-revid: 73051
+revid: 73986
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Ears]
 ---
 
 # Old Blood Earrings
@@ -25,4 +25,4 @@ categories: [Equipment]
 
 ## Description
 
-Old Blood Earrings are Equipment Armor in the Ears category_._ Equipping this item will give you randomized stats based on the amount of pips it has.
+Old Blood Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has.

@@ -1,6 +1,6 @@
 ---
 title: Ministry Cloak
-revid: 73317
+revid: 73976
 source: https://deepwoken.fandom.com/wiki/Ministry_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Cloaks]
 | obtainment | Chests from:Blizzard Knights |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Ministry Cloak is an animated equipment item under the Arms category. Equipping it grants you 5 Health, 10 Ether, 1 Rare Pip, and 1 Legendary Pip. It is rarely found in those hero blade chests from [Blizzard Knights](Stone_Knight.md).
+The Ministry Cloak is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5 Health, 10 Ether, 1 Rare Pip, and 1 Legendary Pip. It is rarely found in those hero blade chests from [Blizzard Knights](Stone_Knight.md).
 
 ## Trivia
 

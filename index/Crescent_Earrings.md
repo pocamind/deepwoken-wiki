@@ -1,9 +1,9 @@
 ---
 title: Crescent Earrings
-revid: 73360
+revid: 73981
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Ears]
 ---
 
 # Crescent Earrings
@@ -23,8 +23,6 @@ categories: [Equipment]
 | pass down | Yes |
 | obtainment | Second Layer, First Layer |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Moonlit Earrings are Equipment Armor in the Ears category_._ Equipping this item will give you randomized stats based on the amount of pips it has. These earrings are best for a high Health build due to the Innate 2+ Health.
+Moonlit Earrings are an [Equipment](Equipment.md) item under the "Ears category. Equipping this item will give you randomized stats based on the amount of pips it has. These earrings are best for a high Health build due to the Innate 2+ Health.

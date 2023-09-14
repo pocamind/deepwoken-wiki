@@ -1,6 +1,6 @@
 ---
 title: Hive Scourge Cuirass
-revid: 68359
+revid: 73943
 source: https://deepwoken.fandom.com/wiki/Hive_Scourge_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Cuirasses]
 
 ## Description
 
-The Hive Scourge Cuirass is an animated equipment item under the Arms category. Equipping it grants you 8 Health, 2 Posture, 2 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Lowstride, which greatly reduces the speed penalty received from crouching. It is commonly found in chests from [Duke Erisia](Fort_Merit.md), [The Depths](The_Depths.md) ([Second Layer](Second_Layer.md)), and can also be obtained from [Merchant Ships](Travelling_Merchant.md).
+The Hive Scourge Cuirass is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 8 Health, 2 Posture, 2 Pips (One guaranteed legendary Pip), and the [Talent](Talents.md) Lowstride, which greatly reduces the speed penalty received from crouching. It is commonly found in chests from [Duke Erisia](Fort_Merit.md), [The Depths](The_Depths.md) ([Second Layer](Second_Layer.md)), and can also be obtained from [Merchant Ships](Travelling_Merchant.md).
 
 ## Trivia
 

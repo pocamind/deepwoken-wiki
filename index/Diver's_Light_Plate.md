@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 73332
+revid: 73896
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Plates]
 | obtainment | Completed Hell Mode |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Diver's Light Plate is an equipment item in the Arms category. Equipping it grants you 10 Health, 1 Posture, 3 Legendary Pips, and the [Talent](Talents.md) Conquer Your Fears, which recovers your sanity after killing depths-exclusive monsters. It can only be obtained by completing a [Hell Mode](Hell_Mode.md) (Given to your inventory just like [Ardour Manifestation](Ardour_Manifestation.md)). Ringing the Hell Mode bell and successfully completing is guaranteed to grant you it. Not ringing the bell doesn't prevent you from obtaining it, but it is not guaranteed. The Diver's Light Plate has one of the highest stat total possible with 3 legendary pips when unstarred, and 4 + 2 Pips as a 3 star.
+The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 1 Posture, 3 Legendary Pips, and the [Talent](Talents.md) Conquer Your Fears, which recovers your sanity after killing depths-exclusive monsters. It can only be obtained by completing a [Hell Mode](Hell_Mode.md) (Given to your inventory just like [Ardour Manifestation](Ardour_Manifestation.md)). Ringing the Hell Mode bell and successfully completing is guaranteed to grant you it. Not ringing the bell doesn't prevent you from obtaining it, but it is not guaranteed. The Diver's Light Plate has one of the highest stat total possible with 3 legendary pips when unstarred, and 4 + 2 Pips as a 3 star.
 
 ## Trivia
 

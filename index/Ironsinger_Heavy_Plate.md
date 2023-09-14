@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 73364
+revid: 73958
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Plates]
 | obtainment | Chests from:The Eternal Gale |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Ironsinger Heavy Plate is an equipment item under the Arms category. Equipping it grants you 10 Health, 3 Pips (2 Legendary, 1 Rare), and the [Talent](Talents.md) Defiant until the End, which causes your character to shout in defiance while being gripped, increasing the amount of time it takes for the animation to finish. It is rarely found in chests from [The Eternal Gale](Second_Layer.md).
+The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 3 Pips (2 Legendary, 1 Rare), and the [Talent](Talents.md) Defiant until the End, which causes your character to shout in defiance while being gripped, increasing the amount of time it takes for the animation to finish. It is rarely found in chests from [The Eternal Gale](Second_Layer.md).
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Master Thief Earrings
-revid: 73048
+revid: 73970
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Ears]
 ---
 
 # Master Thief Earrings
@@ -25,4 +25,4 @@ categories: [Equipment]
 
 ## Description
 
-Master Thief Earrings are Equipment Armor in the Ears category_._ Equipping this item will give you randomized stats based on the amount of pips it has, As well as +3% Stealth.
+Master Thief Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has, As well as +3% Stealth.

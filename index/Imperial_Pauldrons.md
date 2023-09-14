@@ -1,6 +1,6 @@
 ---
 title: Imperial Pauldrons
-revid: 64563
+revid: 73952
 source: https://deepwoken.fandom.com/wiki/Imperial_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Pauldrons]
 
 ## Description
 
-The Imperial Pauldrons are an equipment item under the Arms category. Equipping them grants you 3 Health, 1 Posture, and 2 Pips. They are commonly found in chests from [The Depths](The_Depths.md) ([Second Layer](Second_Layer.md)) and [Fort Merit](Fort_Merit.md).
+The Imperial Pauldrons is an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you 3 Health, 1 Posture, and 2 Pips. They are commonly found in chests from [The Depths](The_Depths.md) ([Second Layer](Second_Layer.md)) and [Fort Merit](Fort_Merit.md).
 
 ## Trivia
 

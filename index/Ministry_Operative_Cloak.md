@@ -1,9 +1,9 @@
 ---
 title: Ministry Operative Cloak
-revid: 73315
+revid: 73979
 source: https://deepwoken.fandom.com/wiki/Ministry_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Arms, Cloaks]
 ---
 
 # Ministry Operative Cloak
@@ -23,8 +23,6 @@ categories: [Equipment]
 | pass down | Yes |
 | obtainment | Chests From:Layer 2, Crypt of the Unbroken |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Ministry Operative Cloak is an equipment piece in the Arms category. It has an innate stat of 6% Stealth and the Talent Ether Conduit. It can be found in chests from [Layer 2](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
+The Ministry Operative Cloak is an [Equipment](Equipment.md) item under the "Arms" category. It has an innate stat of 6% Stealth and the [Talent](Talents.md) Ether Conduit. It can be found in chests from [Layer 2](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
