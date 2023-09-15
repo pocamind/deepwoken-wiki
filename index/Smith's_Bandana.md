@@ -1,9 +1,9 @@
 ---
 title: "Smith's Bandana"
-revid: 73517
+revid: 74026
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Helmets, Items]
+categories: [Equipment, Head]
 ---
 
 # Smith's Bandana
@@ -24,11 +24,9 @@ categories: [Armors, Helmets, Items]
 | obtainment | Chests from:, Erisia, Primadon |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Smith's Bandana is an Equipment in the "_Head_" category_._ Equipping this item will give you +4 health, equipping this item will give you extra randomized stats based on the number of pips.
+The Smith's Bandana is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +4 health, equipping this item will give you extra randomized stats based on the number of pips.
 
 ## Trivia
 

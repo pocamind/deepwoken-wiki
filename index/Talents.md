@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 73868
+revid: 74065
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1492,7 +1492,7 @@ _**"I often attack others."**_
 
 -   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
     -   Prerequisites: Fists, 20 Fortitude
-    -   You must land 6 hits on your opponent without being interrupted a single time for _Fists of Fortitude_ to activate.
+    -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md)

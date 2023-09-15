@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 73520
+revid: 74023
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -24,11 +24,9 @@ categories: [Equipment]
 | obtainment | Chests from:, Summer Isle, Duke Erisia, Primadon, Deep Widow, First Layer, Miner's Landing |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Smith's Gloves are an equipment item in the "_Arms_" category. Equipping them grants you +5 Health, and 2 Pips. They are commonly found in chests in [Summer Isle](Summer_Isle.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [Deep Widow](Deep_Widow.md), and the [First Layer](First_Layer.md) of The Depths.
+Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you +5 Health, and 2 Pips. They are commonly found in chests in [Summer Isle](Summer_Isle.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [Deep Widow](Deep_Widow.md), and the [First Layer](First_Layer.md) of The Depths.
 
 ## Trivia
 

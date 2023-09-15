@@ -1,6 +1,6 @@
 ---
 title: Redsteel Pauldrons
-revid: 73566
+revid: 74005
 source: https://deepwoken.fandom.com/wiki/Redsteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -24,11 +24,9 @@ categories: [Equipment, Arms, Pauldrons]
 | obtainment | Chests from:Aratel Island, Chime of Conflict, Erisia |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Redsteel Pauldrons are an equipment item under the Arms category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), and [Erisia](Erisia.md).
+The Redsteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category. The stats and Pips gained from equipping them have not been documented. They are commonly found in chests from [Aratel Island](Aratel_Island.md), [Chime of Conflict](Chime_of_Conflict.md), and [Erisia](Erisia.md).
 
 ## Trivia
 

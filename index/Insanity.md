@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 67219
+revid: 74053
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -19,7 +19,7 @@ Insanity is dictated by a meter that is not directly shown to the player, but it
 
 Players start with a base 80 sanity. Being in The Depths passively takes sanity at a rate of 1 point every 30 seconds, meaning you can spend about 40 minutes in The Depths with 0 Willpower and no equipment bonuses before you reach maximum insanity.
 
-Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking talent cards from the Mental Fortress deck or obtaining talents that boost sanity, wearing a blindfold, certain equipment that boosts sanity or with the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md). These methods will all increase a player's sanity stat.
+Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md), by taking talent cards from the Mental Fortress deck or obtaining talents that boost sanity, wearing a blindfold, certain equipment that boosts sanity. These methods will all increase a player's sanity stat.
 
 ## Insanity effects
 

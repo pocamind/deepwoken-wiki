@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 73816
+revid: 74072
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -23,9 +23,9 @@ Most equipment comes with innate stats that always appear, for example: **+1 Pos
 All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant. All Pips are displayed in order of rarity, which goes Common, Uncommon, Rare, Legendary and Mythic.
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
-★ = +1 Rare Pip  
-★★ = +2 Rare Pips (Max Stars for Torso, Face, Ears, and Rings Equipment)  
-★★★ = +2 Rare Pips +1 Legendary Pip
+★ = +1 Rare Pip (+1 HP for Head, Arms, and Legs)  
+★★ = +2 Rare Pips (+2 HP for Head, Arms, and Legs)  
+★★★ = +2 Rare Pips +1 Legendary Pip (+3 HP for Head, Arms, and Legs)
 
 <table><caption>Pips Info</caption>
 <tbody>
@@ -41,8 +41,8 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 </tr>
 <tr>
   <td>Health (HP)</td>
-  <td>3 4 5</td>
-  <td>3 4 5</td>
+  <td>4 4 5</td>
+  <td>4 4 5</td>
   <td>4 5</td>
   <td>4 5</td>
   <td>N/A</td>
@@ -4512,10 +4512,10 @@ Extra PEN on your attacks that flourish opponents.
 
 Found from:
 
+-   [Ferryman](The_Ferryman.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
--   [Aelita](Aelita.md)
+-   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
 -   [Second Layer](Second_Layer.md)
 
  |
@@ -4543,3 +4543,5 @@ Quest from [Zana](Zana.md)
 
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   If you want to wear a specific type of equipment piece, but it has awful stats, You can [smelt](Transmogrification.md) something with good stats, and apply the piece you wanna wear as vanity.
+-   The Max amount of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
+-   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.

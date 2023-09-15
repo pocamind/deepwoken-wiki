@@ -1,19 +1,20 @@
 ---
 title: Woodland Boots
-revid: 71163
+revid: 74044
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Armors, Boots]
+categories: [Equipment, Legs, Boots]
 ---
 
 # Woodland Boots
 
 | Woodland Boots | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Rare(Assumed) |
 | selling price | (Assumed) |
 | requirements | None |
+| weight | 1 |
 | innate stats | +3 Health2 Pips |
 | innate talent | N/A |
 | bankable | Yes |
@@ -25,10 +26,9 @@ categories: [Equipment, Armors, Boots]
 
 ## Description
 
-The Woodland Pauldrons are an equipment item under the "_Boots_" category. Equipping them grants you +3 Health, 2 Pips (assumed), They are commonly found in chests from [Aratel Island](Aratel_Island.md).
+The Woodland Pauldrons are an [Equipment](Equipment.md) item under the "Legs" category. Equipping them grants you +3 Health, 2 Pips (assumed), They are commonly found in chests from [Aratel Island](Aratel_Island.md).
 
 ## Trivia
 
 -   The Woodland Boots and Woodland Pauldrons are worn by [Hive Guards](Hive_Guard.md).
-
 -   Woodland Boots are part of the "**Woodland**" set; with the only other armor piece being the **[Woodland Pauldrons](Woodland_Pauldrons.md).**

@@ -1,9 +1,9 @@
 ---
 title: Glassdancer Wraps
-revid: 73933
+revid: 74015
 source: https://deepwoken.fandom.com/wiki/Glassdancer_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Wraps]
 ---
 
 # Glassdancer Wraps

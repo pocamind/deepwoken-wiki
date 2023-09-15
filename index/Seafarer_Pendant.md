@@ -1,9 +1,9 @@
 ---
 title: Seafarer Pendant
-revid: 73778
+revid: 74019
 source: https://deepwoken.fandom.com/wiki/Seafarer_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Scarves]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Seafarer Pendant
@@ -23,8 +23,6 @@ categories: [Armors, Equipment, Scarves]
 | obtainment | Miner's Landing , First Layer |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-I don't have a description on this but I will suggest: This pendant should have a new innate stat of +5% Slash Armor
+The Seafarer Pendant is an [Equipment](Equipment.md) item under the "Torso" category.

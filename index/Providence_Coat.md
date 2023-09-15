@@ -1,6 +1,6 @@
 ---
 title: Providence Coat
-revid: 73314
+revid: 74046
 source: https://deepwoken.fandom.com/wiki/Providence_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -24,13 +24,11 @@ categories: [Equipment, Arms, Coats]
 | obtainment | Chests from:The Depths (First Layer), Fishing |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+## Description
 
-## Providence Coat
-
-The Providence Coat is an equipment item under the Arms category. Equipping it grants you 5 Health, 2 Pips, and the [Talent](Talents.md) Braced Collapse, which reduces the damage of the next attack that hits you after being block broken. It is commonly found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md))
+The Providence Coat is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5 Health, 2 Pips, and the [Talent](Talents.md) Braced Collapse, which reduces the damage of the next attack that hits you after being block broken. It is commonly found in chests from [The Depths](The_Depths.md) ([First Layer](First_Layer.md))
 
 ## Trivia
 
--   Despite the rarity of the coat being legendary, It is quite common.
--   A reference to Dante's outfit in Devil May Cry 5.
+-   Despite the rarity of the coat being Legendary, it is quite common.
+-   A reference to Dante's outfit in _Devil May Cry 5_.

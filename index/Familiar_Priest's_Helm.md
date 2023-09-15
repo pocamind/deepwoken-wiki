@@ -1,6 +1,6 @@
 ---
 title: "Familiar Priest's Helm"
-revid: 73922
+revid: 74051
 source: https://deepwoken.fandom.com/wiki/Familiar_Priest's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment]
@@ -17,3 +17,4 @@ The Familiar Priest's Helm is an [Equipment](Equipment.md) item under the "Head"
 ## Trivia
 
 -   This comes from the game [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki), being named after the super class [Church Knight](https://rogue-lineage.fandom.com/wiki/Church_Knight).
+-   This item is undroppable.

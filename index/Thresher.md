@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 71354
+revid: 74059
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,8 +12,6 @@ categories: [Monsters]
 
 ― Thresher Spine Description
 
-(_ANNOYING AS F-_)
-
 **Thresher:**
 
 # Thresher
@@ -22,7 +20,7 @@ _Also known as Crocodiles, Crocs, Crocco, Doggym, lil' croco and many other Liza
 
 ## Description
 
-Blind and using their amazing sense of smell to find prey, Threshers are hostile crocodilians that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a Thresher Spine and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
+Blind and using their amazing sense of smell to find prey, Threshers are hostile crocodilians that spawn in the [Starswept Valley](The_Starswept_Valley.md), as well in [The Depths](The_Depths.md). Able to fight solo if you know what you're doing. Sometimes spawns as a duo with another Thresher or with the King Thresher as a family of Threshers. It drops a [Thresher Spine](Thresher_Spine.md) and can be used for crafting [armor](Equipment.md). There will usually be a chest reward after you kill this monster.
 
   
 
@@ -133,7 +131,7 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 
 ## Tips
 
--   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the voidzone where this lives you'll be instantly sent to the depths.
+-   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzones.md) where this lives you'll be instantly sent to the depths.
 
 ## Trivia
 

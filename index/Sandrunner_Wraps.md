@@ -1,9 +1,9 @@
 ---
 title: Sandrunner Wraps
-revid: 73731
+revid: 74016
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Arms, Wraps]
 ---
 
 # Sandrunner Wraps
@@ -24,11 +24,9 @@ categories: [Equipment]
 | obtainment | Chests from:Miner's Landing |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Sandrunner Wraps are an equipment item in the "_Arms_" category. Equipping them grants you +6 Health, 4% Stealth, 8% Fire Armor, the "Graceful Landing" talent, and 2 Pips. They are commonly found in chests in [Miner's Landing.](<Miner's_Landing.md>)
+Sandrunner Wraps are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you +6 Health, 4% Stealth, 8% Fire Armor, the "Graceful Landing" talent, and 2 Pips. They are commonly found in chests in [Miner's Landing.](<Miner's_Landing.md>)
 
 ## Trivia
 

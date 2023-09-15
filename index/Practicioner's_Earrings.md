@@ -1,9 +1,9 @@
 ---
 title: "Practicioner's Earrings"
-revid: 73452
+revid: 73997
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Ears]
 ---
 
 # Practicioner's Earrings
@@ -23,8 +23,6 @@ categories: [Equipment]
 | pass down | Yes |
 | obtainment | Summer Isle |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Practicioner's Earrings is an Equipment item under the Ears category_._ Equipping this item will give you randomized stats based on the amount of pips it has.
+Practicioner's Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has.

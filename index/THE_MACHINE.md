@@ -1,9 +1,9 @@
 ---
 title: THE MACHINE
-revid: 73821
+revid: 74033
 source: https://deepwoken.fandom.com/wiki/THE_MACHINE
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Equipment, Head, Helmets, Developer Spec]
 ---
 
 # THE MACHINE
@@ -25,7 +25,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-THE MACHINE Is an unobtainable "Head" [Equipment](Equipment.md). It cannot be obtained through normal means.
+THE MACHINE is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It cannot be obtained through normal means.
 
 The item itself is a microwave that goes on the player's head.
 

@@ -1,9 +1,9 @@
 ---
 title: Smelting
-revid: 73492
+revid: 74022
 source: https://deepwoken.fandom.com/wiki/Smelting
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Equipment]
+categories: [Mechanics]
 ---
 
 # Smelting

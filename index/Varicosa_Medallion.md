@@ -1,9 +1,9 @@
 ---
 title: Varicosa Medallion
-revid: 73780
+revid: 74038
 source: https://deepwoken.fandom.com/wiki/Varicosa_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Equipment, Scarves]
+categories: [Equipment, Torso, Necklaces]
 ---
 
 # Varicosa Medallion
@@ -23,8 +23,6 @@ categories: [Armors, Equipment, Scarves]
 | obtainment | Second Layer , Duke Erisia |
 | description | ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Quick! Check out [Varicosa Theme](https://www.youtube.com/watch?v=mCAKDNMMlZ0) before the Wiki Mods rewrite this description!
+The Varicosa Medallion is an [Equipment](Equipment.md) item under the "Torso" category.

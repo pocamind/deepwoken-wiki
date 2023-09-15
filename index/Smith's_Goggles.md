@@ -1,6 +1,6 @@
 ---
 title: "Smith's Goggles"
-revid: 73519
+revid: 74024
 source: https://deepwoken.fandom.com/wiki/Smith's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face, Equipment]
@@ -8,11 +8,11 @@ categories: [Face, Equipment]
 
 # Smith's Goggles
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_ Template:EquipmentStats
+Template:EquipmentStats
 
 ## Description
 
-Smith's Goggles are an accessory under the “Face” category. They can be obtained in [Erisia](Erisia.md) Chests.
+Smith's Goggles are an [Equipment](Equipment.md) item under the "Face” category. They can be obtained in [Erisia](Erisia.md) Chests.
 
 ## Trivia
 

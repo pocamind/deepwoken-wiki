@@ -1,9 +1,9 @@
 ---
 title: Pendant Earrings
-revid: 73052
+revid: 73992
 source: https://deepwoken.fandom.com/wiki/Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Ears]
 ---
 
 # Pendant Earrings
@@ -25,7 +25,7 @@ categories: [Equipment]
 
 ## Description
 
-Pendant Earrings are Equipment Armor in the Ears category_._ Equipping this item will give you randomized stats based on the amount of pips it has.
+Pendant Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has.
 
 ## Trivia
 

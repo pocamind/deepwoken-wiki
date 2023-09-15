@@ -1,9 +1,9 @@
 ---
 title: Winter Corps Parka
-revid: 73366
+revid: 74060
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms]
+categories: [Equipment, Arms, Parkas]
 ---
 
 # Winter Corps Parka
@@ -24,11 +24,9 @@ categories: [Equipment, Arms]
 | obtainment | Chests from:Crypt of the Unbroken, Second Layer |
 | description | "An essential part of the Authority Winter Corps' kit. Devised to be resilient against the often thorny passages of drakethistle in the Northern Luminant." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Winter Corps Parka is an equipment item under the "_Arms_" category. Equipping it grants you 2 pips. It is commonly found in chests from [Second Layer](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). The Talent Winter's Protection states "Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale." This talent is (likely) exclusive to the Winter Corps Parka.
+Winter Corps Parka is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 2 pips. It is commonly found in chests from [Second Layer](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). The Talent Winter's Protection states "Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale." This talent is exclusive to the Winter Corps Parka. To clarify, resistance to the gale is parasite resistance.
 
 ## Trivia
 

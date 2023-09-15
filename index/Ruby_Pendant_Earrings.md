@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 73727
+revid: 74010
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -24,13 +24,11 @@ categories: [Equipment, Ears]
 | obtainment | Chests from:, First Layer, Fishing |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-Ruby Pendant Earrings are Equipment Armor in the "_Ears_" category_._ Equipping this item will give you randomized stats based on the amount of pips it has.
+Ruby Pendant Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has.
 
 ## Trivia
 
--   Amethyst Pendant Earrings look ALMOST the same as [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), only difference being a slight recolor
+-   Amethyst Pendant Earrings look ALMOST the same as [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), only difference being a slight recolor.
 -   These Earrings are a part of the Pendant series of Earrings this list includes, [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md), [Pendant Earrings](Pendant_Earrings.md).

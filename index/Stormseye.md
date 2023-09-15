@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 70634
+revid: 74071
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -37,7 +37,7 @@ The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It c
 
 ## Critical Attack
 
-The user shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end.
+-   The user shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end.
 
 ## Trivia
 
@@ -49,5 +49,3 @@ The user shoots a bullet, teleporting around the target while shooting in the mi
 -   [Funke](Funke,_Master_of_Thunder.md), the [Thundercall](Thundercall.md) trainer does not use this weapon. He uses the [Hero Blade of Lightning.](Hero_Blades.md)
 -   This weapon has the only critical attack in the game that can somewhat be feinted, as holding m2 during the critical allows you to shoot 2 shots and disengage sooner than normal, this allows for deadly mixups.
 -   The Stormseye breaks the trend of double scaling weapons, having more elemental scaling than weapon scaling despite being a medium class Legendary Weapon.
-
-A player flourishing their rifle, letting out a shockwave of thunder.
