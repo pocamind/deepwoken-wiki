@@ -1,6 +1,6 @@
 ---
 title: Temple Approach
-revid: 73096
+revid: 74082
 source: https://deepwoken.fandom.com/wiki/Temple_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -22,7 +22,7 @@ Temple Approach is a small arch that leads into the [Temple of the Blade](Temple
 
 ## Potential Enemies
 
--   Bladetemple Vigil Guard
+-   [Blade Temple Guard](Blade_Temple_Guard.md)
 
 ## Maps
 

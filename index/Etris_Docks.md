@@ -1,6 +1,6 @@
 ---
 title: Etris Docks
-revid: 72766
+revid: 74084
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World]
@@ -43,7 +43,7 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 
 -   Players can purchase a [Repair Hammer](Repair_Hammer.md) for on the right side of the port.
 
-### Great Megalodaunt Rising Remembrance Shrine
+### [Great Megalodaunt Rising](The_Great_Sharko_Rumbling.md) Remembrance Shrine
 
 -   "May The Depths be merciful to the souls we lost on that dreadful day"
     -   Using any Emote next to the shrine will summon [Destroyman III](Destroyman_III.md), he can be unsummoned by Emoting again.

@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 62519
+revid: 74087
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,13 +30,6 @@ _Each player gets 327 investment points per slot, from Level 1-20, including inv
 -   The player's max Ether. Starting value is ???
     -   Current Ether is tracked on the ether bar in %, from 100 to 0. Using mantras or firing a gun depletes the ether bar.
 -   How to increase: Intelligence, Charisma, Equipment, Talents.
-
-### Reservoir
-
--   The player's max Reservoir. Starting value is ???
-    -   Current Reservoir is tracked on the reservoir bar in %, from 100 to 0. Whenever the ether bar is not full, it takes from the resevoir bar to fill itself.
--   Will usually be 1.5-2x higher than the Ether stat.
--   How to increase: Intelligence, Willpower, Equipment, Talents.
 
 ### Sanity (hidden)
 

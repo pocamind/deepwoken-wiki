@@ -1,12 +1,14 @@
 ---
 title: Spider Egg
-revid: 50560
+revid: 74085
 source: https://deepwoken.fandom.com/wiki/Spider_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
 ---
 
 # Spider Egg
+
+_An egg pulled from a spider's web._
 
 Spider eggs are common in Lower Erisia. They are found in low spaces such as caves or hollow logs. They are rare and hard to find. They are mainly used to make useful [potions](Alchemy.md) and to (although extremely wasteful) craft fiber.
 
