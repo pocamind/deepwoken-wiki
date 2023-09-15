@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 74097
+revid: 74113
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Core-Attribute based weapons", Daggers]
@@ -29,12 +29,11 @@ categories: [Weapons, "Core-Attribute based weapons", Daggers]
 
 ## Description
 
-The Moon Blades are a weapon that was given to Team Supekis, the first place winners of the second Deepwoken YouTuber Tournament. Only ValekisYT and s\_supaa received the weapon.
+The Moon Blades are a weapon skin for the [Flareblood Kamas](Flareblood_Kamas.md) that was given to Team Supekis (ValekisYT & s\_supaa), the first place winners of the second Deepwoken YouTuber Tournament.
 
 ## Trivia
 
 -   It is based on a design from Pinterest named ['Fantasy Swords' by Wakfu Sins](https://www.pinterest.com/pin/639863059567923776/).
--   It is a reskin of a pre-existing weapon, the [Flareblood Kamas](Flareblood_Kamas.md).
 -   The Critical Attack is a purple recolor of the Flareblood Kamas’ crit.
 -   The Elder Futhark runes present on the swords translate to "Supaa Valekis" (though Valekis' name uses the Latin alphabet V).
 -   The weapon had a bug that made all scalings to the weapon void in PvE, causing a 20 minute solo Chaser fight in the Dev Spec Progression Finale by Supaa.
