@@ -1,11 +1,9 @@
 ---
 title: Gran Sudaruska
-revid: 69692
+revid: 74099
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
 ---
 
 # Gran Sudaruska
@@ -18,7 +16,7 @@ notices:
 | scaling | ICE: 8, HVY: 4 |
 | range | 8.5 |
 | swing speed | 0.62x |
-| special effect | Rain down ice shards after 3 hits, Talks when killing Ministry Scouts or Players, Applies a crystal on hit (requires Glass Path: Crystallization) |
+| special effect | Rain down ice shards after 3 hits, Talks when killing Ministry Scouts or Players, Critical freezes enemy upon connection (Places crystals if the player has Glass Path:Crystallization) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 6 |
 | bankable | Yes |
@@ -28,26 +26,24 @@ notices:
 | obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Layer 2, Ministry ambushes (chest) |
 | description | "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the lost front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
 
-“ Your own Depths shall take you. ”
-
-― Sudaruska
-
 ## Description
 
 Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 3. It does 23.5 base damage and has a swing speed of 0.62x. It is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
-
-The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it.
 
 This weapon has 2 (or 3 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
 -   When killing a player with Oath: Contractor or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
--   Gran Sudaruska m1s do not apply crystal, nor does it apply chill. This is intended.
 -   Gran Sudaruska Critical with crystal will apply crystals.
 -   Gran Sudaruska Critical without crystal will freeze the victim.
 
+## Critical
+
+The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it.
+
 ## Trivia
 
+-   Gran Sudaruska m1s do not apply crystal, nor does it apply chill. This is intended.
 -   The first and only weapon that currently has the ability to speak.
     -   Some of her voice lines are:
         -   "Fall beneath our frost, drowned pawn."

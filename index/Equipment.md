@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 74074
+revid: 74106
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -43,7 +43,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
   <td>Health (HP)</td>
   <td>4 4 5</td>
   <td>4 4 5</td>
-  <td>4 5</td>
+  <td>4 4 5</td>
   <td>4 5</td>
   <td>N/A</td>
   <td>N/A</td>

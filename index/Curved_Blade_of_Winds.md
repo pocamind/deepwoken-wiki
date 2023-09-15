@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 70810
+revid: 74091
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -54,3 +54,4 @@ The user propels in a whirlwind of air, gravitating towards their cursor. Applie
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds has a swing speed of 0.78x when one-handed and 0.8x when two-handed.
 -   Due to the Crypt Blade rarely being found in Layer Two chests, ~this is the most sought after and valued item in Deepwoken~, as the only method of obtainment is Layer 1 of The Depths and the Scion of Ethiron's chest.
+-   This is by far the most nerfed weapon in the game, followed by the Railblade and the Shattered Katana.

@@ -1,9 +1,9 @@
 ---
 title: Plain Cape
-revid: 73533
+revid: 74102
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Equipmemt, Torso, Capes]
 ---
 
 # Plain Cape
@@ -86,13 +86,11 @@ categories: [Character, Armors]
 | obtainment | Chests from:, Minityrsa, Songseeker Wilds |
 | description | "..." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 **Cape:**
 
 ## Description
 
-Capes are accessories under the "Torso" category. They can be found through chests in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md).
+Capes are an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in [Minityrsa](Minityrsa.md) and [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Trivia
 
@@ -100,7 +98,7 @@ Capes are accessories under the "Torso" category. They can be found through ches
 
 ## Description
 
-Brilliant Capes are accessories under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md)
+The Brilliant Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md)
 
 ## Trivia
 
@@ -112,7 +110,7 @@ Brilliant Capes are accessories under the "Torso" category. They can only be obt
 
 ## Description
 
-Dark Owl Capes are accessories under the "Torso" category. They can be found through chests in the [Second Layer](Second_Layer.md).
+The Dark Owl Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in the [Second Layer](Second_Layer.md).
 
 ## Trivia
 
@@ -123,7 +121,7 @@ Dark Owl Capes are accessories under the "Torso" category. They can be found thr
 
 ## Description
 
-Fleet Warden Capes are animated accessories under the "Torso" category. They can be found uncommonly through chests by [Fishing](Fishing.md) and on [Summer Isle](Summer_Isle.md).
+The Fleet Warden Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can be found uncommonly through chests by [Fishing](Fishing.md) and on [Summer Isle](Summer_Isle.md).
 
 ## Trivia
 
@@ -134,7 +132,7 @@ Fleet Warden Capes are animated accessories under the "Torso" category. They can
 
 ## Description
 
-Shrouded Capes are animated accessories under the "Torso" category. They can be found through chests by [Fishing](Fishing.md) and by beating [Duke Erisia](Duke_Ishamon_Erisia.md).
+The Shrouded Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests by [Fishing](Fishing.md) and by beating [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 

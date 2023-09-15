@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 74087
+revid: 74095
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,7 @@ _Each player gets 327 investment points per slot, from Level 1-20, including inv
 ### Sanity (hidden)
 
 -   The player's max Sanity. Starting value is 80.
-    -   Insanity is tracked with Sanity as its max value. When an amount of Insanity equal to 33/66/100% of the max Sanity is reached, detrimental effects are applied to the player for the first 2 threshold. The player instantly dies at the 3rd threshold.
+    -   Insanity is tracked with Sanity as its max value. When an amount of Insanity equal to 33/66/100% of the max Sanity is reached, detrimental effects are applied to the player for the first 2 threshold. The player will be instantly executed upon being knocked on the third threshold, other player's faces would be blacked out, and under certain conditions (being in the Ancient Rotlands, Equipping Curse of the No Life King), the player's head would explode upon hitting the final tier of insanity, killing them instantly.
 -   How to increase: Willpower, Equipment, Talents.
 
 ### Carry Load
@@ -66,6 +66,7 @@ _Each player gets 327 investment points per slot, from Level 1-20, including inv
 ### Damage Vs. Monsters
 
 -   Bonus damage against [Monsters](Monsters.md).
+    -   This stat used to be separated into Damage Vs. Deep and Damage Vs. Giant, however, this has since been merged.
 
 ## Talent Bonuses
 
