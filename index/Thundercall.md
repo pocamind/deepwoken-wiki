@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 72753
+revid: 74284
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -329,6 +329,7 @@ Spark Swap
 -   Estimated 300 - 350 Stud Range
 -   Cannot be used while in water or airborne.
 -   Very good for escaping situations, as shown in this video [https://www.youtube.com/watch?v=ohcVRP5oz5w](https://www.youtube.com/watch?v=ohcVRP5oz5w)
+-   Scales with health
 
  | Damage: N/A
 

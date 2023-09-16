@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 69380
+revid: 74279
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies]
@@ -14,12 +14,12 @@ Template:EnemyInfobox1.0
 
 Authority officers are a type of enemy NPC that is frequently found around [Erisia](Erisia.md) in events. They can spawn in the following events:
 
--   Authority Officers vs Etrean Footsoldiers ([Erisia](Erisia.md))
+-   Authority Officers vs [Vigil Swordsmen](Vigil_Swordsman.md) ([Erisia](Erisia.md))
 -   Authority Officers vs [Legion Soldiers](Legion_Soldier.md) ([Upper Erisia](Upper_Erisia.md))
--   Authority Officers with [Authority Flamecharmers](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
+-   Authority Officers with [Authority Soldiers](Authority_Soldier.md) patrolling ([Upper Erisia](Upper_Erisia.md))
     -   Of course, defeating all four of them will reward the player with a chest containing low level gear along with negative reputation with The Central Authority.
 
-They are also the higher ranked and more dangerous counterpart to the [Authority Flamecharmer](Authority_Soldier.md).
+They are also the higher ranked and more dangerous counterpart to the [Authority Soldier](Authority_Soldier.md).
 
 Authority officers wear an [Authority Helm](Authority_Helm.md), a pair of [Bluesteel Pauldrons](Bluesteel_Pauldrons.md), a pair of [Bluesteel Boots](Bluesteel_Boots.md) and an [Authority Captain Uniform](Authority_Captain_Uniform.md). They are all solely [Adrets](Adret.md).
 

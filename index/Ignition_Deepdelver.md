@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 74246
+revid: 74278
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Outfits, Armors, Items]
@@ -37,10 +37,10 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Combining this outfit with the Metal enchant (steal/replenish armor durability on hit) allow the player to essentially negate the durability cost of the talent.
--   A few monster and NPC attacks such as a [Golem](Rock_Golem.md)'s laser, a [Lionfish](Lionfish.md)'s cero beam, and [The Duke](Duke_Ishamon_Erisia.md)'s gale stomp cannot be parried. (list down here as you discover more unparryable attacks even with the Armour talent.)
+-   A few monster and NPC attacks such as a [Golem](Rock_Golem.md)'s laser, a [Lionfish](Lionfish.md)'s cero beam, and [The Duke](Duke_Ishamon_Erisia.md)'s gale stomp cannot be parried. (list down here as you discover more unparryable attacks even with the Armor talent.)
     -   Laser (Golem)
     -   Beast burrow. ([Thresher](Thresher.md), (King Thresher burrow is actually parryable), and player mantra)
     -   Cursed Flame ([King Thresher](Thresher.md))
     -   Powerful Blood Appendage ([Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
     -   Pressure Blast ([Heavy Weapon Mantra](https://deepwoken.fandom.com/wiki/Attunement-less#Heavy_Weapon_Mantras))
-    -   Bonegrow ([Scion of Ethiron](Scion_of_Ethiron.md))
+    -   Bone Stream ([Scion of Ethiron](Scion_of_Ethiron.md))

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 74262
+revid: 74307
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -161,7 +161,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
   <td><div><p>Applies a Solar Mark on flourish or (most) critical attacks.<br>
-  Solar Mark last 8s, and reduce tempo gain/ether regeneration.<br>
+  Solar Mark last 10s, and reduces tempo gain/ether regeneration.<br>
   Venting steals a portion of marked enemies tempo.</p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
 </tr>
@@ -555,8 +555,6 @@ Dark clone with red fog surrounding it spawned in a barely visible red circle.
  |
 | 
 
-File:Old sear .png
-
   
 (OLD) Sear
 
@@ -646,10 +644,7 @@ File:Vamparism shield.png
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
 -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
 -   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
-    -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.  
-        
-        Old visual of the "Sear" enchant before the update
-        
+    -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
 
 ## References
 

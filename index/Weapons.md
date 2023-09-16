@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 73403
+revid: 74286
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -28,7 +28,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 -   **Light Weapons** are locked to One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
--   All **Medium Weapons** can freely switch between One Handed and Two Handed stance. (except for rifles)
+-   All **Medium Weapons** except for rifles can freely switch between One Handed and Two Handed stance.
 -   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the [talent](Talents.md) One Handed Training (40 HVY Req, Located in the Weapons Master category) allows the usage of One Handed stance with them.
 
 ### One-Handed
