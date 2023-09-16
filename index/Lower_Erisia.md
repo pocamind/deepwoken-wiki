@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 73715
+revid: 74323
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -51,6 +51,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 ## Potential Enemies
 
 -   [Authority Officer](Authority_Officer.md)
+-   [Angels](Hollow_Angel.md) (Could have fallen off [Upper Erisia](Upper_Erisia.md))
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
 -   Etrean Footsoldier

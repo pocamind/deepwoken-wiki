@@ -1,9 +1,11 @@
 ---
 title: Preservation
-revid: 74308
+revid: 74326
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonances]
+categories: [In progress without reason, InProgressPages, Resonances]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Preservation
@@ -11,7 +13,7 @@ categories: [Resonances]
 | Preservation | |
 |---|---|
 | effect | Puts all knocked entities, within a radius, into a protective bubble |
-| appearance | A golden appears around center of use. |
+| appearance | A golden circle appears around center of use. |
 
 “ Conjure a protective energy that will guide those fallen in battle towards you. The protective energy will slay the hands of death, preventing starvation, drowning, and incineration. ”
 
@@ -36,7 +38,7 @@ If Preservation is corrupted, the bubble will parry any attacks against it.
 When obtained, Preservation will spend its points on the following stats:
 
 -   **Thrown:** If this stat is used, the player will launch a projectile ahead that will summon the AOE to shield entities.
--   **Unkown** Unknown
+-   **Unknown** Unknown
 -   **Unknown** Unknown
 
 ## Trivia/Notes

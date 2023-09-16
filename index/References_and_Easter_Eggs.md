@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 71146
+revid: 74328
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -56,7 +56,7 @@ categories: [Deepwoken]
 
 ### **Galebreathe**
 
--   The **Aerogliding** talent is a reference to Jett's (Valorant) passive ability which allows her to glide instead of falling.
+-   The **Aerogliding** talent is a reference to Jett, from _Valorant_, whose passive ability which allows her to glide instead of falling.
 -   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://eldenring.wiki.fextralife.com/Moonlight+Greatsword) from the _Souls_ games.
 
 ### **Shadowcast**
@@ -138,15 +138,17 @@ categories: [Deepwoken]
     -   The name is maybe a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
     -   The description is a reference to the [famous quote](https://www.youtube.com/watch?v=bjQRTFX1Lp4) made by [Qui Gon Jinn](https://starwars.fandom.com/wiki/Qui-Gon_Jinn) in _Star Wars: A Phantom Menace_.
 -   The **One Eyed King** is possibly a reference to [The One Eyed King](https://tokyoghoul.fandom.com/wiki/One-Eyed_King?so=search) in _Tokyo Ghoul._
--   The **Vow of Mastery** line of talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
+-   The **Vow of Mastery** line of Talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** could be a reference to Haoshoku (Conqueror's) haki from _One Piece._
 -   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similar use. Abyssal Scream itself used to be called [Ardor Scream](https://cdn.discordapp.com/attachments/927738116175986728/1083995144258338846/image.png), Referring to one of the Gods in Rogue Lineage.
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
--   The **Lord Commander** talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
+-   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
 -   **Pocket Sand**'s name is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand?so=search)" move from Rogue Lineage, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
--   **Ultrakill**'s name is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home)
+-   The vfx and ability of the Talent **Last Resort** is a reference to the Red Tearstone Ring from the _Dark Souls_ franchise.
+-   **Ultrakill**'s name is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
+    -   However, it actually consistently spells the name incorrectly.
 
 ## Weapons
 
@@ -158,16 +160,14 @@ categories: [Deepwoken]
 -   **Serpent's Edge** is a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer, a_nd the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** is a reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   Its critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
-
--   **Railblade** could be seen as [Nagoriyuki](https://guiltygear.fandom.com/wiki/Nagoriyuki)'s sword from Guilty Gear.
-    -   Its critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
+-   [The Railblade's](Railblade.md) critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
 
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
+    -   The current model is very similar to the [Storm Curved Sword](https://darksouls.fandom.com/wiki/Storm_Curved_Sword) from _Dark Souls III_.
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
--   A stretch, but **Darksteel Greatsword** may be inspired by the [Dragon Slayer](https://berserk.fandom.com/wiki/Dragon_Slayer) from _Berserk_.
--   **Stormseye** is inspired by [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
+-   **Stormseye** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
 
 ## Enchantments
 
@@ -182,6 +182,10 @@ categories: [Deepwoken]
     -   Unstable.
     -   Wild.
 
+## NPCs/Characters
+
+-   [Rabanastre](Rabanastre.md) is a reference to Patches, a recurring character in the _soulsborne_ games produced by _Fromsoftware_.
+
 ## World
 
 ### **The Etrean Luminant**
@@ -192,7 +196,7 @@ categories: [Deepwoken]
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
 -   A golem named [Marcus](Marcus.md) can be found in an area hidden under a house in the [Hidden Village](The_Hidden_Village.md).
 -   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.
-    -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either Deepwoken cloaks or Elite Pathfinder cloaks.
+    -   These players were often Flamecharmers, used the shattered katana or hero blades, were often Vesperians and wore either [Deepwoken](Deepwoken_Cloak.md), [Pathfinder Elite](Pathfinder_Elite.md), or [Royal Pathfinder](Royal_Pathfinder.md) cloaks.
     -   The locations he are encountered in were the prime PVP and ganking spots where these were seen.
     -   The reward is a reference to how many of these players believed themselves to be or tried to act like 'anime characters,' with the poser's ring's ability mirroring a trope often seen in anime, in which wounds created by a character's attacks are only registered once they sheath their weapon.
     -   He has negative Navaen Nomad reputation. He was probably gripping them for Frigid Prisms.
@@ -208,9 +212,9 @@ categories: [Deepwoken]
 -   **The** **Depths** itself was confirmed to have drawn inspiration _Salt and Sanctuary_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological features of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle features a large cavern, while the second feature cold and harsh winds.
--   The idea of [the Depth](The_Depths.md) is taken from [the Unknown](https://rogue-lineage.fandom.com/wiki/The_Unknown) from Rogue Lineage both having similiar nature and purpose. It was once said by [Arch Mage that the Unknown is the Deep in the sense of the Rogue Tales universe](https://gyazo.com/e245926623205b30fb3fea98f90e5028).
+-   The idea of [the Depth](The_Depths.md) is taken from [the Unknown](https://rogue-lineage.fandom.com/wiki/The_Unknown) from Rogue Lineage both having similar nature and purpose. It was once said by [Arch Mage that the Unknown is the Deep in the sense of the Rogue Tales universe](https://gyazo.com/e245926623205b30fb3fea98f90e5028).
     -   its the reason why people think Deepwoken and Rogue Lineage is connected, though its already debunked.
-    -   The cycle of world in deepwoken may also take inspiration from [Rogue Lineage](https://gyazo.com/d77249558056420dd89c6a675850bb8d) [world cycle](https://gyazo.com/c6dec0374bf6ebf04c6bcf880915c190).
+    -   The cycle of world in Deepwoken may also take inspiration from [Rogue Lineage](https://gyazo.com/d77249558056420dd89c6a675850bb8d) [world cycle](https://gyazo.com/c6dec0374bf6ebf04c6bcf880915c190).
 
 #### Layer 1 (Scyphozia)
 
@@ -230,7 +234,7 @@ categories: [Deepwoken]
 -   **The Ministry** is possibly a reference to _The Ministry_ from _Fahrenheit 451._
 -   **The Knives of Eylis** is a reference to a faction in _Dishonored_ as they can travel to a place that only exists within dreams, are assassins and have a supernatural entity that allow said group to exist.
 
--   **The Divers**, especially the Black Divers, may be referencing the Whistles of _Made in Abyss_, having the rank of Black Diver being very similar in design of the armor and concept of the White Whistles.
+-   **The Divers**, especially the Black Divers, are a reference to the Whistles of _Made in Abyss_, having the rank of Black Diver being very similar in design of the armor and concept of the White Whistles.
 
 ### **Races**
 
@@ -257,3 +261,4 @@ categories: [Deepwoken]
 -   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.
 -   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath
 -   "Hoss" emote is a reference to Akuma from Street Fighter, name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
+-   When enemies spot you there is a chance to play the alert sound effect from _Metal Gear Solid_.

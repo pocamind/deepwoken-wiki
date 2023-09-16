@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 74270
+revid: 74321
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -354,7 +354,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 ### Blindseer
 
 -   _All-Seeing Eye \[Unlockable talent, Blindseer Exclusive\]: The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted._
-    -   Prerequisites: Save 4 Pathfinders from the depths.
+    -   Prerequisites: Save 4 Pathfinders from the depths without the help of other oath users.
 
 ### Beast Slayer
 

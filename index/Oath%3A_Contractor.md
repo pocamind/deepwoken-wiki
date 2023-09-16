@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 74248
+revid: 74329
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -78,7 +78,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   If you have this oath in the depths, be prepared to run or be protected by your guildmates, since many people in the depths will try to grip you as soon as they see your tendrils, even if you are friendly they will grip you, or run away from you.
 -   If you for some reason do this quest while you already have an oath, instead of giving you contractor he will say, "Then you are a fool" and kill you instantly
 -   Before 25/08/23, 4 specific deep shrines were required for step 5, those being Temptation, Blasphemy, Mastery, and Chance.
--   You are able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements, however Shrine of Conceit does not work for an unknown reason.
+-   You are able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements.
 
 ## Trivia
 
