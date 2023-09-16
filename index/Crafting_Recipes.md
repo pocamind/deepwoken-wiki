@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 71104
+revid: 74124
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,7 +25,7 @@ These are recipes that are not used to produce food or potions.
 -   **Cloth** - _3 Fiber_
 -   **Flint** - _1 Coal, 1 Rock_
 -   **Umbral Flint** - _1 Coal, 1 Umbral Obsidian_
--   **Bullets (5x)** - _1 Iron_
+-   **Bullets (20x)** - _1 Iron_
 -   **[Chum](Chum.md)** - _2 Fishmeat/2 Crustacean Meat/1 Pufferfish_
 -   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
 -   **Void Feather** - _3 Dark Feather(s), 1 Umbral Obsidian_

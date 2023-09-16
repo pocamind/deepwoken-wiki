@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 73705
+revid: 74133
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -45,7 +45,8 @@ These mantras have no prequisites.
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
 | [Icespikes](https://deepwoken.fandom.com/wiki/File:icespikes.gif) | 
-Ice Spikes
+Ice Spikes  
+(☆☆☆)
 
  | 
 
@@ -61,7 +62,8 @@ _Piercing spikes of ice._
  |
 | [Ice Beam](https://deepwoken.fandom.com/wiki/File:Ice%20Beam.gif) | 
 
-Ice Beam
+Ice Beam  
+(☆☆☆)
 
  | 
 
@@ -77,7 +79,8 @@ _Fire a beam of ice._
  |
 | File:Frostgrab base range.gif | 
 
-Frost Grab
+Frost Grab  
+(☆☆☆)
 
  | 
 
@@ -93,7 +96,8 @@ _An icy chokehold._
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | 
 
-Warden's Blades
+Warden's Blades  
+(☆☆☆)
 
  | 
 
@@ -109,7 +113,8 @@ _Revolving blades of ice._
  |
 | [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | 
 
-Frozen Servants
+Frozen Servants  
+(☆☆☆)
 
  | 
 
@@ -127,9 +132,8 @@ _A legion of frost._
 
  | 
 
-Ice Daggers
-
-(★)
+Ice Daggers  
+(★☆☆)
 
  | 
 
@@ -145,9 +149,8 @@ _Form and toss daggers of ice at your aimed opponent._
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | 
 
-Ice Blade
-
-(★)
+Ice Blade  
+(★☆☆)
 
  | 
 
@@ -162,9 +165,8 @@ _A barrage of freezing blades._
  |
 |  | 
 
-Ice Chain
-
-(★)
+Ice Chain  
+(★☆☆)
 
  | 
 
@@ -180,9 +182,8 @@ _Chains of ice._
 
  | 
 
-Ice Eruption
-
-(★)
+Ice Eruption  
+(★☆☆)
 
  | 
 
@@ -200,9 +201,8 @@ _A flurry of ice spikes._
  |
 | [Ice Forge](https://deepwoken.fandom.com/wiki/File:Ice%20Forge%20.gif) | 
 
-Ice Forge
-
-(★)
+Ice Forge  
+(★☆☆)
 
  | 
 
@@ -217,9 +217,8 @@ _Conjure and throw weapons of ice._
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
 
-Ice Smash
-
-(★)
+Ice Smash  
+(★☆☆)
 
  | 
 
@@ -235,9 +234,8 @@ _A colossal mace of ice._
  |
 |  | 
 
-Ice Lance
-
-(★★)
+Ice Lance  
+(★★☆)
 
  | 
 
@@ -253,8 +251,7 @@ _Form an ice spear and lunges forward._
  |
 |  | 
 
-Ice Cubes
-
+Ice Cubes  
 (★★★)
 
  | 
@@ -294,7 +291,8 @@ These mantras require Glasspath: Crystallization ability (40 Frostdraw) to have 
 | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | 
-Crystal Knee\[★★\]
+Crystal Knee  
+(★★☆)
 
  | 
 
@@ -309,7 +307,8 @@ _Knock your enemy skyward with a kick of crystal._
 
  | 
 
-Crystal Impale\[☆☆\]
+Crystal Impale  
+(★★☆)
 
  | 
 
@@ -324,9 +323,8 @@ _Impale your foes with a brutal crystal smash._
  |
 |  | 
 
-Ice Lasers
-
-(★★)
+Ice Lasers  
+(★★☆)
 
  | 
 
@@ -380,9 +378,10 @@ _{{{desc}}}_
 | **Image** | **Name** | **Card Description** | **Effect** |
 | --- | --- | --- | --- |
 |  | 
-Glacial Arc
-
+Glacial Arc  
 (★☆☆)
+
+  
 
   
 
@@ -403,11 +402,8 @@ _An arc of ice._
  |
 | [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 
 
-Ice Skate
-
+Ice Skate  
 (★★★)
-
-  
 
  | 
 
@@ -435,7 +431,9 @@ _Skate freely on paths of ice._
 </tr>
 <tr>
   <td><center>File:Frost wisp.png</center></td>
-  <td><center>Frost Wisp<p>(★★)</p>
+  <td><center>Frost Wisp<p>(★★☆)</p>
+  <p><br>
+  </p>
   <p><br>
   </p>
   <p><br>
@@ -450,6 +448,8 @@ _Skate freely on paths of ice._
 <tr>
   <td><center><figure><figcaption></figcaption></figure></center></td>
   <td><center>Iceberg<p>(★★★)</p>
+  <p><br>
+  </p>
   <p><br>
   </p></center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>

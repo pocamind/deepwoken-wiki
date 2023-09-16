@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 73620
+revid: 74131
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -137,8 +137,7 @@ Encircle
 
  | 
 
-Shadow Roar
-
+Shadow Roar  
 (★★☆)
 
  | Roar a wave of shadows. | 50 Ether | The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them. It deals repeated damage and ether drain for the duration. Your movement speed will be decreased heavily. Can be parried. Shadow Roar will stop casting if hit. |

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 73684
+revid: 74269
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -51,7 +51,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Doesn't work on NPCs.
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
 
--   **Tranquil Circle - Combat Mantra**
+-   **Tranquil Circle - Support Mantra**
     -   Disables mantras from being used in its radius.
         -   This affects everybody, including the caster and their allies.
         -   Bosses are immune to the silencing aspect.

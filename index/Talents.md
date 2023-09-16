@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 74065
+revid: 74270
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1565,6 +1565,8 @@ _**"I often attack others."**_
 -   Cult of Personality \[common Talent, Charisma Exclusive\] - You gain +3% PEN for each person Charmed, capping at +15% PEN.
     -   Prerequisites: 90 Charisma
 -   Pardon Me \[common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
+    -   Guards from faction which you are at or above neutral reputation will not aggro on you.
+        -   Crimes still induce reputation lose however.
     -   Prerequisites: 85 Charisma
 
 ### Prospector

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 73908
+revid: 74120
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -154,8 +154,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
 -   Despite being rude most of the time showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
--   The katana he wields isn't strapped to his black, it's floating.
-    -   Yes this is canon.
+-   The katana he wields isn't strapped to his back, it's floating. (Yes, this is canon.)
 
 ### **Amorus Pleeksty**
 
