@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 73550
+revid: 74346
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]

@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 71226
+revid: 74361
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -35,15 +35,14 @@ Keep in mind, When a non corrupted [Deep Owl](Deep_Owl.md) dies, instead of a Da
 
 The Dark Feather is used in these recipes:
 
--   [Authority Commander Uniform](Authority_Captain_Uniform.md)
+-   [Authority Captain Uniform](Authority_Captain_Uniform.md)
 -   [Darksteel Plate](Darksteel_Plate.md)
 -   [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md)
 -   [Hive Tactician Armor](Hive_Tactician_Armor.md)
 -   [Justicar](<Justicar_(Origin).md>)
 -   [Legion Centurion](Legion_Centurion.md)
 -   [Prophet's Cloak](<Prophet's_Cloak.md>)
--   [Authority Captain Uniform](Authority_Captain_Uniform.md)
--   Authority Commander (Outfit)
+-   [Authority Commander](Authority_Commander.md)
 
 It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md).
 

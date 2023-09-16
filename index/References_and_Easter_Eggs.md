@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 74328
+revid: 74331
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -14,7 +14,7 @@ categories: [Deepwoken]
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
 -   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry series_.
--   The mod spec Outfit **Hive Leader's Garment** along with the companion hat is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from _Genshin Impact_.
+-   The mod spec Outfit **Hive Leader's Garment** along with the companion hat is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from open world RPG _Genshin Impact_.
 -   The Outfit **Black Diver's** original design was [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki).
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
@@ -80,6 +80,7 @@ categories: [Deepwoken]
 ## Oaths
 
 -   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
+-   The description for **Arcwarder**, rather questionably, quotes Karl Marx.
 -   Starkindred has many references:
     -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
         
@@ -147,7 +148,7 @@ categories: [Deepwoken]
 -   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
 -   **Pocket Sand**'s name is a reference to "[Pocket Sand](https://rogue-lineage.fandom.com/wiki/Pocket_Sand?so=search)" move from Rogue Lineage, obtained from Tal, the last part of description is also a reference to his phrase: "So... We're even now, right?".
 -   The vfx and ability of the Talent **Last Resort** is a reference to the Red Tearstone Ring from the _Dark Souls_ franchise.
--   **Ultrakill**'s name is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
+-   The name of the Talent, **Ultrakill**, is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
     -   However, it actually consistently spells the name incorrectly.
 
 ## Weapons
@@ -157,11 +158,9 @@ categories: [Deepwoken]
 -   **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
     -   The original model was a direct copy of it.
 -   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
--   **Serpent's Edge** is a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) sword from _Demon Slayer, a_nd the critical attack probably is a reference to [Serpent's Breathing First Form](https://kimetsu-no-yaiba.fandom.com/wiki/Serpent_Breathing).
 -   **Petra's Anchor** is a reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   Its critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
 -   [The Railblade's](Railblade.md) critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
-
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
@@ -184,13 +183,21 @@ categories: [Deepwoken]
 
 ## NPCs/Characters
 
+-   [Akira](Akira.md) references the archetypal 'edgy anime character,' with much of his design and mannerisms meant to reflect this.
 -   [Rabanastre](Rabanastre.md) is a reference to Patches, a recurring character in the _soulsborne_ games produced by _Fromsoftware_.
+-   [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) is modelled after a real life player.
+
+## Names
+
+-   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
+-   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
+-   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
 
 ## World
 
 ### **The Etrean Luminant**
 
--   A high probability is that [the Knives of Eylis](The_Knives_of_Eylis.md) are based on [Whalers](https://dishonored.fandom.com/wiki/Whalers) from Dishonored due to multiple similarities.
+-   [The Knives of Eylis](The_Knives_of_Eylis.md) are based on [Whalers](https://dishonored.fandom.com/wiki/Whalers) from Dishonored due to multiple similarities.
     -   The Knives of Eylis wear Whaler Initiate and use the [Whaling Knife](Whaling_Knife.md). They use a similar type of magic to [Bend Time](https://dishonored.fandom.com/wiki/Bend_Time) spell. The name 'Knives of Eylis' could be a reference to [Daud's](https://dishonored.fandom.com/wiki/Daud) nickname 'Knife of Dunwall'
 
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
@@ -233,7 +240,6 @@ categories: [Deepwoken]
 -   **Etrea** is very similar to a mixture of various East Asian countries.
 -   **The Ministry** is possibly a reference to _The Ministry_ from _Fahrenheit 451._
 -   **The Knives of Eylis** is a reference to a faction in _Dishonored_ as they can travel to a place that only exists within dreams, are assassins and have a supernatural entity that allow said group to exist.
-
 -   **The Divers**, especially the Black Divers, are a reference to the Whistles of _Made in Abyss_, having the rank of Black Diver being very similar in design of the armor and concept of the White Whistles.
 
 ### **Races**

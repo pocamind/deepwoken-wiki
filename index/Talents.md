@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 74321
+revid: 74374
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -1399,7 +1399,7 @@ _**"I often attack others."**_
 > _**"I seek the qualities of Metallurgist."**_
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
-    -   Bleed damage now only deal 15% more damage.
+    -   Bleed damage now only deals 15% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
     -   Prerequisite: 100 Ironsing

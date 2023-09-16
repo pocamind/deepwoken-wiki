@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 74106
+revid: 74373
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -1821,6 +1821,7 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Artifact Turn-ins](Artifacts.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | Black, Brown, & White |
 | File:White Overcoat.png | 
@@ -1946,6 +1947,7 @@ Found from:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Second Layer](Second_Layer.md)
 -   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -3193,6 +3195,7 @@ _+3% Elemental Armor_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -3472,6 +3475,7 @@ Found from:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Minityrsa](Minityrsa.md)
+-   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 

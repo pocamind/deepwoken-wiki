@@ -1,9 +1,9 @@
 ---
 title: "Ranger's Boots"
-revid: 69981
+revid: 74372
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Boots]
+categories: [Boots, Equipment]
 ---
 
 # Ranger's Boots
@@ -23,13 +23,9 @@ categories: [Boots]
 | obtainment | Chests from:, Starswept Valley, Arena |
 | description | "..." |
 
-“ GO GO POWER RANGERS!! ”
-
-― An Etrean, Celtor, Canor, Gremor and Ganymede screaming at the top of their lungs
-
 ## Description
 
-Ranger's Boots are accessories under the "_Boots_" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md) and by winning matches in [Arena](Chime_of_Conflict.md).
+Ranger's Boots are an [Equipment](Equipment.md) piece under the "_Boots_" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md) and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).
 
 Ranger's Boots are part of the "**Ranger's**" set; with the only other armor piece being the **[Ranger's Brace](<Ranger's_Brace.md>)**.
 

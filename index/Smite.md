@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 74320
+revid: 74382
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -36,6 +36,10 @@ If Smite is corrupted, the orbs will instead appear red and black and makes the 
 ### _**Smite**_
 
 When obtained, Smite will spend its points on the following stats:
+
+-   **Orbs:** The amount of orbs summoned upon usage
+
+-   **Unknown:** Unknown
 
 -   **Unknown:** Unknown
 

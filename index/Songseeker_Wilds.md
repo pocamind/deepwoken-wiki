@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 71769
+revid: 74369
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -91,7 +91,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   [Brilliant Boots](Brilliant_Boots.md)
 -   [Khan Boots](Legion_Boots.md)
 -   [Ranger's Boots](<Ranger's_Boots.md>)
--   Crimson Blindfold
+-   [Crimson Blindfold](Blindfold.md)
 -   Gold and Black Cape
 -   [Royal Duelist (Series)](Royal_Duelist.md)
 
