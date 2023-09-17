@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 72121
+revid: 74383
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -41,6 +41,7 @@ Umbral Obsidian can drop from certain monsters, chests, and enemies that use the
 -   [Thresher](Thresher.md) (all variants)
 -   [Ministry Necromancer](Ministry_Necromancer.md)
 -   [Ministry Scout](Ministry_Scout.md)
+-   [Deep Widow](Deep_Widow.md)
 
 ### Chests
 

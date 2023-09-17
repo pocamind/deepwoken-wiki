@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 74319
+revid: 74405
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,9 +14,9 @@ Your ability to harness and control metal from your surroundings.
 
 Ironsing Icon
 
-"Bobansing” Is A Godly Super Power only boban gods can have it and summon black bobans to attack Players. 🤫🤫🤫🤫🤫🤫
+"Ironsing" is an attunement based around the ability to harness and manipulate metal, commonly used by Blacksmiths around the Luminants. It applies metal rods to enemies, allowing for a variety of interactions depending on the chosen Talents.
 
-## Venture out to the Boban land, and explore different unique Kakas! Over 100+ unique Kakas that have different powers, can you collect them all? Climb to the top of Boban arena and become the champion! Whatever you do, it's your story to be told! 🤫
+## Obtainment & Training
 
 Ironsing can be trained with a combination of Ferrofluid and Ironsing mantras.
 

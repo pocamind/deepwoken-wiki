@@ -1,9 +1,9 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 73347
+revid: 74413
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets]
+categories: [Equipment, Helmets, Hats]
 ---
 
 # Ten-Gallon Hat
@@ -15,21 +15,19 @@ categories: [Helmets]
 | selling price | 25 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +2 Posture1 Pip |
+| innate stats | +2 Posture , 1 Rare Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island |
-| description | "..." |
-
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
+| obtainment | Sources from:, Aratel Island |
+| description | "A wide-brimmed cowboy hat typically made of felt or straw. Commonly associated with Western Luminant fashion, cowboy culture, and Gremorians that have been through crazy journeys." |
 
 ## Description
 
-The Ten-Gallon Hat is an Equipment in the "_Head_" category_._ Equipping this item will give you +2 posture and 1 rare pip.
+The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category. Equipping this item will give you +2 posture and 1 rare pip.
 
 ## Trivia
 
-This hat goes HARD - witherald
+-   This hat is used for the Extremely Rare [King Gigamed](Gigamed.md) that wears a hat and plays the [Jellyfish Jam](https://www.youtube.com/watch?v=oWqAf4eex14) song. The hat is largely scaled in size.

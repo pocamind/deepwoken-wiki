@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 74373
+revid: 74452
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -148,45 +148,6 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
-| File:Herbalist's Hat.png | 
-
-[Herbalist's Hat](<Herbalist's_Hat.md>)
-
- | 
-
-+1 Uncommon Pip
-
-_\+ Talent: Herbivore_  
-_\+ Talent: Iron Gut_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
-
- | Normal & Big |
-| File:Big Herbalist's Hat.png | 
-
-[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
-
- | 
-
-+1 Rare Pip
-
-_\+ Talent: Herbivore_  
-_\+ Talent: Iron Gut_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | Normal & Big |
 | File:Alchemist Hat.png | 
 
 [Alchemist's Hat](<Alchemist's_Hat.md>)
@@ -207,271 +168,6 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
  | Normal & Big |
-| File:AlchemistHat.png | 
-
-[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
-
- | 
-
-+1 Rare Pip
-
-_\+ Talent: Apothecary_  
-_\+ Talent: Pitcher_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
-
- | Normal & Big |
-| File:Dark Gumshoe Hat1.png | 
-
-[Gumshoe Hat](Gumshoe_Hat.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
-
- | Dark, Grey, Ochre & White |
-| File:Black Strapped Hat.png | 
-
-[Black Strapped Hat](Strapped_Hat.md)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
-_+Talent: The Exterminator_
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
-
- | Black & Double |
-| File:DoubleStrappedHat.png | 
-
-[Double Strapped Hat](Strapped_Hat.md)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
-_+Talent: The Exterminator_
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
-
- | Black & Double |
-| File:Investigator's Hat.png | 
-
-[Investigator's Hat](<Investigator's_Hat.md>)
-
- | 
-
-_+4 Health_  
-
-+1 Uncommon Pip  
-
-+1 Rare Pip
-
-_+Talent: Give and Take_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
-
- | N/A |
-|  | 
-
-[Ten-Gallon Hat](Ten-Gallon_Hat.md)
-
- | 
-
-_+2 Posture_  
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
-
- | N/A |
-| File:Slate Tophat.png | 
-
-[Tophat](Tophat.md)
-
-(**Series**)
-
- | 
-
-_+4 Health_  
-
-+1 Uncommon Pip  
-
-+1 Rare Pip
-
-_+Talent: Give and Take_
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
-
- | Beige, Burgundy & Slate |
-|  | 
-
-[Dark Owl Chapeau](Dark_Owl_Chapeau.md)
-
- | 
-
-_+10% Stealth_  
-_+5% Shadow Armor_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_\+ Talent: Giantslayer_
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Hell Mode](Hell_Mode.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
-| File:Static-assets-upload12843990363310254802.png | 
-
-[Brigand's Bicorn](<Brigand's_Bicorn.md>)
-
- | 
-
-_+3 Health_
-
-+2 Rare Pips  
-_\+ Talent: Emergency Repairs_
-
-_\+ Talent: Spare Nails_
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
-|  | 
-
-[Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
-
- | 
-
-_+4 Health_  
-
-+1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Artifact Turn-ins](Artifacts.md)
-
- | N/A |
-| File:Black Hood.png | 
-
-Black Hood
-
-(**Series**)
-
- | 
-
-_+1 Posture_  
-_+4% Stealth_
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
-
- | Black, Brown, & Deepwoken |
-| File:Brown Hood.png | 
-
-Brown Hood
-
-(**Series**)
-
- | 
-
-_+1 Posture_  
-_+2% Stealth_
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
-
- | Black, Brown, & Deepwoken |
-| File:Deepwoken Hood1.png | 
-
-Deepwoken Hood
-
-(**Series**)
-
- | 
-
-+2 Rare Pips  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
--   [First Layer](First_Layer.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
-
- | Black, Brown, & Deepwoken |
 | File:VigilHood.png | 
 
 [Assassin's Hood](<Assassin's_Hood.md>)
@@ -494,65 +190,6 @@ Found from:
 -   [Aelita](Aelita.md)
 
  | Gold, Pale, Mist & Crimson |
-| 
-
- | 
-
-[Vigil Hood](Vigil_Hood.md)
-
- | 
-
-+2 Rare Pips  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
-|  | 
-
-[Bloodfeather Cowl](Bloodfeather_Cowl.md)
-
- | 
-
-_+5% Shadow Armor_  
-_+6% Stealth_  
-
-+2 Rare Pips
-
-_+Talent: Bloodletter_
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
-
- | N/A |
-| File:Static-assets-upload321884259233421803.png | 
-
-[Dark Cowl](Dark_Cowl.md)
-
- | 
-
-_+1 Posture_  
-_+4% Stealth_
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
--   [Artifact Turn-ins](Artifacts.md)
-
- | N/A |
 | File:Authorityhelm.png | 
 
 [Authority Helm](Authority_Helm.md)
@@ -601,6 +238,65 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
+| File:AlchemistHat.png | 
+
+[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
+
+ | 
+
++1 Rare Pip
+
+_\+ Talent: Apothecary_  
+_\+ Talent: Pitcher_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+
+ | Normal & Big |
+| File:Big Herbalist's Hat.png | 
+
+[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
+
+ | 
+
++1 Rare Pip
+
+_\+ Talent: Herbivore_  
+_\+ Talent: Iron Gut_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | Normal & Big |
+| File:Black Hood.png | 
+
+Black Hood
+
+(**Series**)
+
+ | 
+
+_+1 Posture_  
+_+4% Stealth_
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+-   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+
+ | Black, Brown, & Deepwoken |
 | 
 
  | 
@@ -655,6 +351,87 @@ Found from:
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 
  | N/A |
+| File:Black Strapped Hat.png | 
+
+[Black Strapped Hat](Strapped_Hat.md)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+_+Talent: The Exterminator_
+
+ | 
+
+Found from:
+
+-   [First Layer](First_Layer.md)
+
+ | Black & Double |
+|  | 
+
+[Bloodfeather Cowl](Bloodfeather_Cowl.md)
+
+ | 
+
+_+5% Shadow Armor_  
+_+6% Stealth_  
+
++2 Rare Pips
+
+_+Talent: Bloodletter_
+
+ | 
+
+Found from:
+
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
+| File:Static-assets-upload12843990363310254802.png | 
+
+[Brigand's Bicorn](<Brigand's_Bicorn.md>)
+
+ | 
+
+_+3 Health_
+
++2 Rare Pips  
+_\+ Talent: Emergency Repairs_
+
+_\+ Talent: Spare Nails_
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
+| File:Brown Hood.png | 
+
+Brown Hood
+
+(**Series**)
+
+ | 
+
+_+1 Posture_  
+_+2% Stealth_
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ | Black, Brown, & Deepwoken |
 | File:Bulwark Helm.png | 
 
 [Bulwark Helm](Grand_Authority_Sallet.md)
@@ -678,11 +455,7 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
-| 
-
-File:Captainskabuto.png
-
- | 
+| File:Captainskabuto.png | 
 
 [Captain's Kabuto](<Captain's_Kabuto.md>)
 
@@ -711,7 +484,8 @@ _+5 Health_
 
 +1 Rare Pip
 
-+1 Legendary Pip _+Talent: Grasp On Reality_
++1 Legendary Pip  
+_+Talent: Grasp On Reality_
 
 **Requires Fortitude 15**
 
@@ -720,6 +494,154 @@ _+5 Health_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
+-   [Deep Widow](Deep_Widow.md)
+
+ | N/A |
+| File:Static-assets-upload321884259233421803.png | 
+
+[Dark Cowl](Dark_Cowl.md)
+
+ | 
+
+_+1 Posture_  
+_+4% Stealth_
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+-   [Artifact Turn-ins](Artifacts.md)
+
+ | N/A |
+|  | 
+
+[Dark Owl Chapeau](Dark_Owl_Chapeau.md)
+
+ | 
+
+_+10% Stealth_  
+_+5% Shadow Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_\+ Talent: Giantslayer_
+
+ | 
+
+Found from:
+
+-   [Second Layer](Second_Layer.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Hell Mode](Hell_Mode.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+| File:Deepwoken Hood1.png | 
+
+Deepwoken Hood
+
+(**Series**)
+
+ | 
+
++2 Rare Pips  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Fort Merit](Fort_Merit.md)
+-   [First Layer](First_Layer.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+
+ | Black, Brown, & Deepwoken |
+| File:DoubleStrappedHat.png | 
+
+[Double Strapped Hat](Strapped_Hat.md)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+_+Talent: The Exterminator_
+
+ | 
+
+Found from:
+
+-   [First Layer](First_Layer.md)
+
+ | Black & Double |
+|  | 
+
+[Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)
+
+(Hallowtide)
+
+ | 
+
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Hallowtide (Event)](Hallowtide.md)
+
+ | N/A |
+|  | 
+
+[Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)
+
+(Hallowtide)
+
+ | 
+
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Hallowtide (Event)](Hallowtide.md)
+
+ | N/A |
+|  | 
+
+[Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
+
+(Hallowtide)
+
+ | 
+
+_+10 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Hallowtide (Event)](Hallowtide.md)
 
  | N/A |
 | File:Feathertop Helm.png | 
@@ -789,6 +711,27 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
+| File:Guard's Kabuto.png | 
+
+[Guard's Kabuto](<Guard's_Kabuto.md>)
+
+(**Series**)
+
+ | 
+
+_+8 Health_  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Artifact Turn-ins](Artifacts.md)
+
+ | Guard's, Royal Guard's, Captain's |
 | File:Guardian helm.png | 
 
 [Guardian Helmet](Guardian_Helmet.md)
@@ -811,15 +754,13 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
  | N/A |
-| File:Guard's Kabuto.png | 
+| File:Dark Gumshoe Hat1.png | 
 
-[Guard's Kabuto](<Guard's_Kabuto.md>)
+[Gumshoe Hat](Gumshoe_Hat.md)
 
 (**Series**)
 
  | 
-
-_+8 Health_  
 
 +1 Rare Pip
 
@@ -827,11 +768,50 @@ _+8 Health_
 
 Found from:
 
--   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Artifact Turn-ins](Artifacts.md)
+-   [Fort Merit](Fort_Merit.md)
 
- | Guard's, Royal Guard's, Captain's |
+ | Dark, Grey, Ochre & White |
+| File:Herbalist's Hat.png | 
+
+[Herbalist's Hat](<Herbalist's_Hat.md>)
+
+ | 
+
++1 Uncommon Pip
+
+_\+ Talent: Herbivore_  
+_\+ Talent: Iron Gut_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+-   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+
+ | Normal & Big |
+| File:Investigator's Hat.png | 
+
+[Investigator's Hat](<Investigator's_Hat.md>)
+
+ | 
+
+_+4 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+_+Talent: Give and Take_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
 | 
 
 File:Khan Helmet.png
@@ -856,11 +836,7 @@ Found from:
 -   [Aratel Island](Aratel_Island.md)
 
  | N/A |
-| 
-
-File:KnightHelm.png
-
- | 
+| File:KnightHelm.png | 
 
 [Knight's Helm](<Silver_Knight's_Helm.md>)
 
@@ -925,11 +901,7 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
-| 
-
-File:Royal Guard's Kabuto.png
-
- | 
+| File:Royal Guard's Kabuto.png | 
 
 [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)
 
@@ -970,15 +942,11 @@ Found from:
  | N/A |
 |  | 
 
-[Familiar Knight's Helm](<Familiar_Knight's_Helm.md>)
-
-(Hallowtide)
+[Ten-Gallon Hat](Ten-Gallon_Hat.md)
 
  | 
 
-_+10 Health_  
-
-+1 Uncommon Pip  
+_+2 Posture_  
 
 +1 Rare Pip
 
@@ -986,49 +954,69 @@ _+10 Health_
 
 Found from:
 
--   [Hallowtide (Event)](Hallowtide.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
+| File:Slate Tophat.png | 
+
+[Tophat](Tophat.md)
+
+(**Series**)
+
+ | 
+
+_+4 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+_+Talent: Give and Take_
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md)
+
+ | Beige, Burgundy & Slate |
+|  | 
+
+[Vagabond's Bicorn](<Vagabond's_Bicorn.md>)
+
+ | 
+
+_+4 Health_  
+
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Artifact Turn-ins](Artifacts.md)
 
  | N/A |
 |  | 
 
-[Familiar Priest's Helm](<Familiar_Priest's_Helm.md>)
-
-(Hallowtide)
+[Vigil Hood](Vigil_Hood.md)
 
  | 
 
-_+10 Health_  
++2 Rare Pips  
 
-+1 Uncommon Pip  
-
-+1 Rare Pip
++1 Legendary Pip
 
  | 
 
 Found from:
 
--   [Hallowtide (Event)](Hallowtide.md)
-
- | N/A |
-|  | 
-
-[Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>)
-
-(Hallowtide)
-
- | 
-
-_+10 Health_  
-
-+1 Uncommon Pip  
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Hallowtide (Event)](Hallowtide.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 |  | 
@@ -1073,948 +1061,6 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
-|  | 
-
-[Hunter's Brace](<Hunter's_Brace.md>)
-
- | 
-
-When worn, unparryable attacks become parryable.
-
-(e.g. Megalodaunt's Kick, Primadon's Kick, Rock Golem's Punch)
-
-_Disappears on death or leaving the game._
-
- | 
-
-Found from:
-
--   The Store at [Summer Isle](Summer_Isle.md)
-
- | N/A |
-|  | 
-
-[Novice Brace](Novice_Brace.md)
-
- | 
-
-_+2 Health_  
-_+1 Posture_  
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Hell Mode](Hell_Mode.md)
--   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
-
- | N/A |
-|  | 
-
-[Ranger's Brace](<Ranger's_Brace.md>)
-
- | 
-
-_+3 Health_  
-_+1 Posture_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
-|  | 
-
-[Tracker's Brace](<Tracker's_Brace.md>)
-
- | 
-
-_+3 Health_  
-_+1 Posture_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
-
- | N/A |
-| File:Vanguardbrace.png | 
-
-[Vanguard Brace](Vanguard_Brace.md)
-
- | 
-
-_+3 Health_  
-_+1 Posture_  
-
-+2 Rare Pips
-
-_+Talent: Replenishing Knockout_
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
-
- | N/A |
-| File:Autumn pauldrons.png | 
-
-[Autumn Pauldrons](Autumn_Pauldrons.md)
-
- | 
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
-| File:Azure Royal Guard.png | 
-
-[Azure Royal Guard](Azure_Sentinel_Pauldrons.md)
-
- | 
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
-| File:Black Fur Pauldrons.png | 
-
-[Fur Pauldrons](Fur_Pauldrons.md)
-
-(**Series**)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Aratel Island](Aratel_Island.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
-
- | Black & White |
-| File:Blacksteel Pauldron.png | 
-
-[Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
-
- | 
-
-_+3 Health_  
-_+1 Posture_  
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
-| 
-
- | 
-
-[Bluesteel Pauldrons](Bluesteel_Pauldrons.md)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Chime of Conflict](Chime_of_Conflict.md)
-
- | N/A |
-| File:Brilliant Pauldrons.png | 
-
-[Brilliant Pauldron](Brilliant_Pauldrons.md)
-
- | 
-
-_+5 Health_  
-
-+2 Rare Pips  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Chime of Conflict](Chime_of_Conflict.md)
--   Trading with [Jeremiah](Jeremiah.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
-| File:Flameguard.png | 
-
-[Flameguard Pauldrons](Flameguard_Pauldrons.md)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
-
- | N/A |
-|  | 
-
-[Gladiator Pauldrons](Gladiator_Pauldrons.md)
-
- | 
-
-_+2 Health_  
-_+1 Posture_
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
-
- | N/A |
-| 
-
-File:Grand Pauldrons.png
-
- | 
-
-[Grand Pauldrons](Grand_Pauldrons.md)
-
- | 
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
-|  | 
-
-[Guardian Pauldrons](Guardian_Pauldrons.md)
-
- | 
-
-_+2 Health_  
-_+1 Posture_
-
- | 
-
-Found from:
-
--   [First Layer](First_Layer.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Summer Isle](Summer_Isle.md)
-
- | N/A |
-| File:Iron pauldrons.png | 
-
-[Iron Pauldrons](Iron_Pauldrons.md)
-
- | 
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
-
- | N/A |
-| File:Imperial Pauldrons.png | 
-
-[Imperial Pauldrons](Imperial_Pauldrons.md)
-
- | 
-
-_+3 Health_  
-_+1 Posture_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
-
- | N/A |
-| File:Khan Pauldrons.png | 
-
-[Khan Pauldrons](Legion_Pauldrons.md)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
-_+Talent: Polite Awakening_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
-
- | N/A |
-|  | 
-
-[Leather Pauldrons](Leather_Pauldrons.md)
-
- | 
-
-_+2 Health_
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
-
- | N/A |
-| 
-
- | 
-
-[Redsteel Pauldrons](Redsteel_Pauldrons.md)
-
- | 
-
-_+3 Health_  
-_+1 Posture_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Chime of Conflict](Chime_of_Conflict.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Second Layer](Second_Layer.md)
-
- | N/A |
-| File:Static-assets-upload15149895911827136801.png | 
-
-[Silver Pauldrons](Silver_Pauldrons.md)
-
- | 
-
-+2 Rare Pips
-
-_+3 Health_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
-| File:Simple Pauldrons.png | 
-
-[Simple Pauldrons](Simple_Pauldrons.md)
-
- | 
-
-_+2 Health_
-
- | 
-
-Found from:
-
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Pure Ore Turn-ins](Blacksmith.md)
-
- | N/A |
-|  | 
-
-[Steel Pauldrons](Steel_Pauldrons.md)
-
- | 
-
-_+2 Health_  
-
-+1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
-|  | 
-
-[Warden Pauldrons](Warden_Pauldrons.md)
-
- | 
-
-_+10 Health_  
-
-_+2 Posture_  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Fort Merit](Fort_Merit.md)
-
- | N/A |
-|  | 
-
-[Woodland Pauldrons](Woodland_Pauldrons.md)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
-_+Talent: Polite Awakening_
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
-
- | N/A |
-| File:Etrean Siege Cuirass.png | 
-
-[Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
-
- | 
-
-_+8 Health_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Battle Tendency_
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
-
- | N/A |
-|  | 
-
-[Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
-
- | 
-
-_+5 Health_  
-_+2 Posture_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Lowstride_
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
--   [Hell Mode](Hell_Mode.md)
--   Buying from [Chili](Travelling_Merchant.md)
-
- | N/A |
-|  | 
-
-[Celtor Commander Plate](Celtor_Commander_Plate.md)
-
- | 
-
-_+8 Health_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Breathing Exercise_
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
-
- | N/A |
-|  | 
-
-[Enforcer Plate](Enforcer_Plate.md)
-
- | 
-
-+2 Rare Pips
-
-_+Talent: Berserker_
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
-| 
-
-File:Gauthority.png
-
- | 
-
-[Grand Authority Plate](Grand_Authority_Plate.md)
-
- | 
-
-_+8 Health_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Heavy Haul_
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Second Layer](Second_Layer.md)
-
- | N/A |
-|  | 
-
-[Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
-
-(Legendary)
-
- | 
-
-_+10 Health_  
-_+5% Ironsing Armor_  
-
-+1 Rare Pip  
-
-+2 Legendary Pips  
-_+Talent: Defiant until the End_  
-
-**Requires Power 3, Fortitude 15**
-
- | 
-
-Found from:
-
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Second Layer](Second_Layer.md)
-
- | N/A |
-| File:DelvingDuster.png | 
-
-[Delver's Duster](<Delver's_Duster.md>)
-
-(Mythical)
-
- | 
-
-_+5 Health_  
-
-+3 Legendary Pips  
-_+Talent: Braced Collapse_  
-_+Talent: Kick Off_  
-
-**Requires Power 10**
-
- | 
-
-Found from:
-
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Miner's Landing](<Miner's_Landing.md>)
-
- | N/A |
-|  | 
-
-[Legion Phalanx Plate](Legion_Phalanx_Plate.md)
-
- | 
-
-_+6 Health_  
-_+2 Posture_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Hoplite_
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
-| File:Brigand's Cloak.png | 
-
-[Brigand's Cloak](<Brigand's_Cloak.md>)
-
- | 
-
-_+3 Health_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
-
- | N/A |
-|  | 
-
-[Mercenary's Garb](<Mercenary's_Garb.md>)
-
- | 
-
-_+6% Stealth_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Kick Off_
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Crypt](Crypt_of_the_Unbroken.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
-| File:Black Overcoat.png | 
-
-Black Overcoat
-
-(**Series**)
-
- | 
-
-_+3 Health_  
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Hell Mode](Hell_Mode.md)
-
- | Black, Brown, & White |
-| File:Brown Overcoat.png | 
-
-Brown Overcoat
-
-(**Series**)
-
- | 
-
-_+2 Health_  
-
-_+1 Posture_
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Summer Isle](Summer_Isle.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Artifact Turn-ins](Artifacts.md)
--   [Hell Mode](Hell_Mode.md)
-
- | Black, Brown, & White |
-| File:White Overcoat.png | 
-
-White Overcoat
-
-(**Series**)
-
- | 
-
-_+2 Health_  
-
-+1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Summer Isle](Summer_Isle.md)
--   [First Layer](First_Layer.md)
-
- | Black, Brown, & White |
-| File:Black Parka.png | 
-
-Black Parka
-
-(**Series**)
-
- | 
-
-_+2 Health_  
-
-_+1 Posture_  
-
-+1 Rare Pip
-
-_+Talent: Steady Footing_
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Aratel Island](Aratel_Island.md)
--   [Hell Mode](Hell_Mode.md)
--   Mob drop from [Authority Captain](Authority_Captain.md)
-
- | Black, Brown & White |
-| File:Brown Parka.png | 
-
-Brown Parka
-
-(**Series**)
-
- | 
-
-_+2 Health_  
-
-_+1 Posture_  
-
-+1 Rare Pip
-
-_+Talent: Steady Footing_
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Aratel Island](Aratel_Island.md)
-
- | Black, Brown & White |
-| File:White Parka.png | 
-
-White Parka
-
-(**Series**)
-
- | 
-
-_+2 Health_  
-
-+1 Uncommon Pip  
-
-+1 Rare Pip
-
-_+Talent: Steady Footing_
-
- | 
-
-Found from:
-
--   [Erisia](Erisia.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Aratel Island](Aratel_Island.md)
-
- | Black, Brown & White |
-|  | 
-
-[Winter Corps Parka](Winter_Corps_Parka.md)
-
- | 
-
-_+6 Health_  
-_+2 Posture_  
-_+5% Ice Armor_  
-_+5% Wind Armor_  
-
-+2 Rare Pips
-
-_+Talent: Winter's Protection_
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Second Layer](Second_Layer.md)
--   [Crypt](Crypt_of_the_Unbroken.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
-|  | 
-
-[Glassdancer Wraps](Glassdancer_Wraps.md)
-
- | 
-
-_+7 Health_  
-_+3 Posture_  
-
-+1 Rare Pip
-
-_+Talent: Lightweight_
-
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   Buying from [Chili](Travelling_Merchant.md)
-
- | N/A |
-|  | 
-
-[Sandrunner Wraps](Sandrunner_Wraps.md)
-
- | 
-
-_+6 Health_  
-_+4% Stealth_  
-_+8% Fire Armor_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
-_+Talent: Kick Off_
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
-
- | N/A |
-| File:Smithgloves.png | 
-
-[Smith's Gloves](<Smith's_Gloves.md>)
-
- | 
-
-_+5 Health_  
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
 | File:Sable Adjudicator's.png | 
 
 [Adjudicator's Coat](<Adjudicator's_Coat.md>)
@@ -2131,6 +1177,240 @@ _+10 Health_
 -   [Fort Merit](Fort_Merit.md)
 
  | Amber, Haze, Bronze, Gold, Royal, Ruby, Stygian & Verdant |
+| File:Autumn pauldrons.png | 
+
+[Autumn Pauldrons](Autumn_Pauldrons.md)
+
+ | 
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Artifact Turn-ins](Artifacts.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
+| File:Azure Royal Guard.png | 
+
+[Azure Royal Guard](Azure_Sentinel_Pauldrons.md)
+
+ | 
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+| File:Black Overcoat.png | 
+
+Black Overcoat
+
+(**Series**)
+
+ | 
+
+_+3 Health_  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Hell Mode](Hell_Mode.md)
+
+ | Black, Brown, & White |
+| File:Black Parka.png | 
+
+Black Parka
+
+(**Series**)
+
+ | 
+
+_+2 Health_  
+
+_+1 Posture_  
+
++1 Rare Pip
+
+_+Talent: Steady Footing_
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Hell Mode](Hell_Mode.md)
+-   Mob drop from [Authority Captain](Authority_Captain.md)
+
+ | Black, Brown & White |
+| File:Blacksteel Pauldron.png | 
+
+[Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+
+ | 
+
+_+3 Health_  
+_+1 Posture_  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
+| 
+
+ | 
+
+[Bluesteel Pauldrons](Bluesteel_Pauldrons.md)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Chime of Conflict](Chime_of_Conflict.md)
+
+ | N/A |
+| File:Brigand's Cloak.png | 
+
+[Brigand's Cloak](<Brigand's_Cloak.md>)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+
+ | N/A |
+| File:Brilliant Pauldrons.png | 
+
+[Brilliant Pauldron](Brilliant_Pauldrons.md)
+
+ | 
+
+_+5 Health_  
+
++2 Rare Pips  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   Trading with [Jeremiah](Jeremiah.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+| File:Brown Overcoat.png | 
+
+Brown Overcoat
+
+(**Series**)
+
+ | 
+
+_+2 Health_  
+
+_+1 Posture_
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Summer Isle](Summer_Isle.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Artifact Turn-ins](Artifacts.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | Black, Brown, & White |
+| File:Brown Parka.png | 
+
+Brown Parka
+
+(**Series**)
+
+ | 
+
+_+2 Health_  
+
+_+1 Posture_  
+
++1 Rare Pip
+
+_+Talent: Steady Footing_
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | Black, Brown & White |
+|  | 
+
+[Celtor Commander Plate](Celtor_Commander_Plate.md)
+
+ | 
+
+_+8 Health_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Breathing Exercise_
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [First Layer](First_Layer.md)
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 |  | 
 
 [Dark Owl Cloak](Dark_Owl_Cloak.md)
@@ -2179,6 +1459,31 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 
  | Black & White |
+| File:DelvingDuster.png | 
+
+[Delver's Duster](<Delver's_Duster.md>)
+
+(Mythical)
+
+ | 
+
+_+5 Health_  
+
++3 Legendary Pips  
+_+Talent: Braced Collapse_  
+_+Talent: Kick Off_  
+
+**Requires Power 10**
+
+ | 
+
+Found from:
+
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
 |  | 
 
 [Diver's Light Plate](<Diver's_Light_Plate.md>)
@@ -2200,6 +1505,46 @@ _+Talent: Conquer Your Fears_
 Found from:
 
 -   Automatically obtained when winning [Hell Mode](Hell_Mode.md) (Repeatable)
+
+ | N/A |
+|  | 
+
+[Enforcer Plate](Enforcer_Plate.md)
+
+ | 
+
++2 Rare Pips
+
+_+Talent: Berserker_
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+| File:Etrean Siege Cuirass.png | 
+
+[Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
+
+ | 
+
+_+8 Health_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Battle Tendency_
+
+ | 
+
+Found from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
 | File:Lavender First Ranger Duster.png | 
@@ -2226,6 +1571,146 @@ Found from:
 -   Mob Drop from [King Thresher](King_Thresher.md) (~3%)
 
  | Azure, Cloud, Jade, Lavender & Umber |
+| File:Flameguard.png | 
+
+[Flameguard Pauldrons](Flameguard_Pauldrons.md)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
+
+ | N/A |
+| File:Black Fur Pauldrons.png | 
+
+[Fur Pauldrons](Fur_Pauldrons.md)
+
+(**Series**)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | Black & White |
+|  | 
+
+[Gladiator Pauldrons](Gladiator_Pauldrons.md)
+
+ | 
+
+_+2 Health_  
+_+1 Posture_
+
+ | 
+
+Found from:
+
+-   [First Layer](First_Layer.md)
+-   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+
+ | N/A |
+|  | 
+
+[Glassdancer Wraps](Glassdancer_Wraps.md)
+
+ | 
+
+_+7 Health_  
+_+3 Posture_  
+
++1 Rare Pip
+
+_+Talent: Lightweight_
+
+ | 
+
+Found from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   Buying from [Chili](Travelling_Merchant.md)
+
+ | N/A |
+| 
+
+File:Gauthority.png
+
+ | 
+
+[Grand Authority Plate](Grand_Authority_Plate.md)
+
+ | 
+
+_+8 Health_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Heavy Haul_
+
+ | 
+
+Found from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Second Layer](Second_Layer.md)
+-   [Deep Widow](Deep_Widow.md)
+
+ | N/A |
+| File:Grand Pauldrons.png | 
+
+[Grand Pauldrons](Grand_Pauldrons.md)
+
+ | 
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+|  | 
+
+[Guardian Pauldrons](Guardian_Pauldrons.md)
+
+ | 
+
+_+2 Health_  
+_+1 Posture_
+
+ | 
+
+Found from:
+
+-   [First Layer](First_Layer.md)
+-   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Summer Isle](Summer_Isle.md)
+
+ | N/A |
 | File:Gumshoe Long Coat.png | 
 
 [Gumshoe Longcoat](Gumshoe_Longcoat.md)
@@ -2248,6 +1733,112 @@ Found from:
 -   Drop from [Dread Serpent](Dread_Serpent.md)
 
  | Dark, Ochre, Grey & White |
+|  | 
+
+[Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
+
+ | 
+
+_+5 Health_  
+_+2 Posture_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Lowstride_
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Hell Mode](Hell_Mode.md)
+-   Buying from [Chili](Travelling_Merchant.md)
+
+ | N/A |
+|  | 
+
+[Hunter's Brace](<Hunter's_Brace.md>)
+
+ | 
+
+When worn, unparryable attacks become parryable.
+
+(e.g. Megalodaunt's Kick, Primadon's Kick, Rock Golem's Punch)
+
+_Disappears on death or leaving the game._
+
+ | 
+
+Found from:
+
+-   The Store at [Summer Isle](Summer_Isle.md)
+
+ | N/A |
+| File:Imperial Pauldrons.png | 
+
+[Imperial Pauldrons](Imperial_Pauldrons.md)
+
+ | 
+
+_+3 Health_  
+_+1 Posture_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Fort Merit](Fort_Merit.md)
+
+ | N/A |
+| File:Iron pauldrons.png | 
+
+[Iron Pauldrons](Iron_Pauldrons.md)
+
+ | 
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Fort Merit](Fort_Merit.md)
+
+ | N/A |
+|  | 
+
+[Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md)
+
+(Legendary)
+
+ | 
+
+_+10 Health_  
+_+5% Ironsing Armor_  
+
++1 Rare Pip  
+
++2 Legendary Pips  
+_+Talent: Defiant until the End_  
+
+**Requires Power 3, Fortitude 15**
+
+ | 
+
+Found from:
+
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Second Layer](Second_Layer.md)
+
+ | N/A |
 | File:Faded Justicar Coat.png | 
 
 Justicar Defender
@@ -2272,6 +1863,64 @@ Found from:
 -   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (~2%)
 
  | Red, Black, Faded, Jet Black, Orange & Purple |
+| File:Khan Pauldrons.png | 
+
+[Khan Pauldrons](Legion_Pauldrons.md)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+_+Talent: Polite Awakening_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
+|  | 
+
+[Leather Pauldrons](Leather_Pauldrons.md)
+
+ | 
+
+_+2 Health_
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+
+ | N/A |
+|  | 
+
+[Legion Phalanx Plate](Legion_Phalanx_Plate.md)
+
+ | 
+
+_+6 Health_  
+_+2 Posture_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Hoplite_
+
+ | 
+
+Found from:
+
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
 | File:Sharko coat.png | 
 
 [Megalodaunt Coat](Megalodaunt_Coat.md)
@@ -2295,6 +1944,29 @@ Found from:
 -   Mob Drop from [Megalodaunts](Megalodaunt.md) (~3%)
 
  | Red, Purple, Brown, Green, Blue & Peach |
+|  | 
+
+[Mercenary's Garb](<Mercenary's_Garb.md>)
+
+ | 
+
+_+6% Stealth_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Kick Off_
+
+ | 
+
+Found from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
 | File:Smoke ministry cloak.PNG | 
 
 [Ministry Cloak](Ministry_Cloak.md)
@@ -2344,6 +2016,27 @@ Found from:
 -   [Crypt](Crypt_of_the_Unbroken.md)
 
  | N/A |
+|  | 
+
+[Novice Brace](Novice_Brace.md)
+
+ | 
+
+_+2 Health_  
+_+1 Posture_  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Hell Mode](Hell_Mode.md)
+-   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
+
+ | N/A |
 | File:Crimson elite pathfinder.png | 
 
 [Pathfinder Elite](Pathfinder_Elite.md)
@@ -2389,6 +2082,50 @@ Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+
+ | N/A |
+|  | 
+
+[Ranger's Brace](<Ranger's_Brace.md>)
+
+ | 
+
+_+3 Health_  
+_+1 Posture_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Artifact Turn-ins](Artifacts.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
+| 
+
+ | 
+
+[Redsteel Pauldrons](Redsteel_Pauldrons.md)
+
+ | 
+
+_+3 Health_  
+_+1 Posture_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Chime of Conflict](Chime_of_Conflict.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+-   [Second Layer](Second_Layer.md)
 
  | N/A |
 | File:Faded Royal Duelist.png | 
@@ -2442,6 +2179,83 @@ Found from:
  | N/A |
 |  | 
 
+[Sandrunner Wraps](Sandrunner_Wraps.md)
+
+ | 
+
+_+6 Health_  
+_+4% Stealth_  
+_+8% Fire Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+_+Talent: Kick Off_
+
+ | 
+
+Found from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
+| File:Static-assets-upload15149895911827136801.png | 
+
+[Silver Pauldrons](Silver_Pauldrons.md)
+
+ | 
+
++2 Rare Pips
+
+_+3 Health_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
+| File:Simple Pauldrons.png | 
+
+[Simple Pauldrons](Simple_Pauldrons.md)
+
+ | 
+
+_+2 Health_
+
+ | 
+
+Found from:
+
+-   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Pure Ore Turn-ins](Blacksmith.md)
+
+ | N/A |
+| File:Smithgloves.png | 
+
+[Smith's Gloves](<Smith's_Gloves.md>)
+
+ | 
+
+_+5 Health_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
+|  | 
+
 [Star Duster](Star_Duster.md)
 
 (Legendary)
@@ -2466,6 +2280,177 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+
+ | N/A |
+|  | 
+
+[Steel Pauldrons](Steel_Pauldrons.md)
+
+ | 
+
+_+2 Health_  
+
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [First Layer](First_Layer.md)
+
+ | N/A |
+|  | 
+
+[Tracker's Brace](<Tracker's_Brace.md>)
+
+ | 
+
+_+3 Health_  
+_+1 Posture_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+
+ | N/A |
+| File:Vanguardbrace.png | 
+
+[Vanguard Brace](Vanguard_Brace.md)
+
+ | 
+
+_+3 Health_  
+_+1 Posture_  
+
++2 Rare Pips
+
+_+Talent: Replenishing Knockout_
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   Given from [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) during the [Tutorial](Tutorial.md)
+
+ | N/A |
+|  | 
+
+[Warden Pauldrons](Warden_Pauldrons.md)
+
+ | 
+
+_+10 Health_  
+
+_+2 Posture_  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Fort Merit](Fort_Merit.md)
+
+ | N/A |
+| File:White Overcoat.png | 
+
+White Overcoat
+
+(**Series**)
+
+ | 
+
+_+2 Health_  
+
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Summer Isle](Summer_Isle.md)
+-   [First Layer](First_Layer.md)
+
+ | Black, Brown, & White |
+| File:White Parka.png | 
+
+White Parka
+
+(**Series**)
+
+ | 
+
+_+2 Health_  
+
++1 Uncommon Pip  
+
++1 Rare Pip
+
+_+Talent: Steady Footing_
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Aratel Island](Aratel_Island.md)
+
+ | Black, Brown & White |
+|  | 
+
+[Winter Corps Parka](Winter_Corps_Parka.md)
+
+ | 
+
+_+6 Health_  
+_+2 Posture_  
+_+5% Ice Armor_  
+_+5% Wind Armor_  
+
++2 Rare Pips
+
+_+Talent: Winter's Protection_
+
+ | 
+
+Found from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Second Layer](Second_Layer.md)
+-   [Crypt](Crypt_of_the_Unbroken.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
+|  | 
+
+[Woodland Pauldrons](Woodland_Pauldrons.md)
+
+ | 
+
+_+3 Health_  
+
++2 Rare Pips
+
+_+Talent: Polite Awakening_
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
 
  | N/A |
 | File:Titan Inquisitor's Duster.png | 
@@ -3042,7 +3027,7 @@ Found from:
  | Black & Golden |
 | File:Brilliant Cape.png | 
 
-[Brilliant Cape](https://deepwoken.fandom.com/wiki/Capes#Brilliant_Cape_)
+Brilliant Cape
 
  | 
 
@@ -3057,9 +3042,67 @@ Found from:
 -   Mob Drop from [Dread Serpent](Dread_Serpent.md)
 
  | N/A |
+| File:Canticlysm Pendant.png | 
+
+[Canticlysm Pendant](Canticlysm_Pendant.md)
+
+ | 
+
+_+3% Elemental Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
+| File:Confessors Charm.png | 
+
+[Confessor's Charm](<Confessor's_Charm.md>)
+
+ | 
+
+_+3% Physical Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
 |  | 
 
-[Dark Owl Cape](https://deepwoken.fandom.com/wiki/Capes#Dark_Owl_Cape_)
+[Curseblood Pendant](Curseblood_Pendant.md)
+
+ | 
+
+_+3% Elemental Armor_  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Second Layer](Second_Layer.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
+|  | 
+
+Dark Owl Cape
 
  | 
 
@@ -3076,27 +3119,9 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 
  | N/A |
-| File:Golden Cape.png | 
-
-Golden Cape
-
- | 
-
-_+3% Physical Armor_  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
-
- | Black & Golden |
 | File:Onyx Fleet Warden Cape.png | 
 
-[Fleet Warden Cape](https://deepwoken.fandom.com/wiki/Capes#Fleet_Warden_Cape_)
+[Fleet Warden Cape](Fleet_Warden_Cape.md)
 
 (**Series**)
 
@@ -3117,17 +3142,13 @@ Found from:
 -   [Summer Isle](Summer_Isle.md)
 
  | Emerald, Rose, Scarlet, Shade, Silver & Onyx |
-| File:Static-assets-upload6078901116095484260.png | 
+| File:Golden Cape.png | 
 
-[Shrouded Capes](https://deepwoken.fandom.com/wiki/Capes#Shrouded_Capes_)
-
-(**Series**)
-
-(**Animated**)
+Golden Cape
 
  | 
 
-_+5% Stealth_  
+_+3% Physical Armor_  
 
 +1 Legendary Pip
 
@@ -3135,69 +3156,10 @@ _+5% Stealth_
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 
- | Red, Black, Midnight & White |
-|  | 
-
-[Sandrunner Scarf](Sandrunner_Scarf.md)
-
- | 
-
-_+3% Fire Armor_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
-
- | N/A |
-| File:Dawn Scarf.png | 
-
-Scarf
-
-(**Series**)
-
-(**Animated**)
-
- | 
-
-_+3% Attunement Armor, changes depending on Scarf Variant_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
-
- | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
-|  | 
-
-[Curseblood Pendant](Curseblood_Pendant.md)
-
- | 
-
-_+3% Elemental Armor_  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
+ | Black & Golden |
 |  | 
 
 [Nomad Pendant](Nomad_Pendant.md)
@@ -3254,6 +3216,48 @@ Found from:
  | N/A |
 |  | 
 
+[Sandrunner Scarf](Sandrunner_Scarf.md)
+
+ | 
+
+_+3% Fire Armor_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Miner's Landing](<Miner's_Landing.md>)
+
+ | N/A |
+| File:Dawn Scarf.png | 
+
+Scarf
+
+(**Series**)
+
+(**Animated**)
+
+ | 
+
+_+3% Attunement Armor, changes depending on Scarf Variant_  
+
++1 Rare Pip  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | Adventurer's, Black, Crimson, Dawn, Desert, Forest, Tundra & White |
+|  | 
+
 [Seafarer Pendant](Seafarer_Pendant.md)
 
  | 
@@ -3268,6 +3272,27 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
+| File:Static-assets-upload6078901116095484260.png | 
+
+Shrouded Capes
+
+(**Series**)
+
+(**Animated**)
+
+ | 
+
+_+5% Stealth_  
+
++1 Legendary Pip
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | Red, Black, Midnight & White |
 | File:Varicosa Medallion.png | 
 
 [Varicosa Medallion](Varicosa_Medallion.md)
@@ -3286,46 +3311,6 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
-| File:Confessors Charm.png | 
-
-[Confessor's Charm](<Confessor's_Charm.md>)
-
- | 
-
-_+3% Physical Armor_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
-| File:Canticlysm Pendant.png | 
-
-[Canticlysm Pendant](Canticlysm_Pendant.md)
-
- | 
-
-_+3% Elemental Armor_  
-
-+1 Rare Pip  
-
-+1 Legendary Pip
-
- | 
-
-Found from:
-
--   [Second Layer](Second_Layer.md)
--   [Hell Mode](Hell_Mode.md)
 
  | N/A |
 |  | 
@@ -3371,19 +3356,24 @@ Variants
 | --- | --- | --- | --- | --- |
 |  | 
 
-[Blindfold](Blindfold.md)
+[Aristocrat Eyeglasses](Eyeglasses.md)
+
+(**Series**)
 
  | 
 
-_\+ Talent: Blinded_
++1 Rare Pip
 
  | 
 
 Found from:
 
--   [Erisia](Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
 
- | N/A |
+ | Default (Black), Red & White |
 |  | 
 
 [Black Blindfold](Blindfold.md)
@@ -3405,11 +3395,9 @@ Found from:
  | Black & Crimson |
 |  | 
 
-[Crimson Blindfold](Blindfold.md)
+[Blindfold](Blindfold.md)
 
  | 
-
-+1 Common Pip
 
 _\+ Talent: Blinded_
 
@@ -3417,173 +3405,7 @@ _\+ Talent: Blinded_
 
 Found from:
 
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
-
- | Black & Crimson |
-| File:Orange Headband.png | 
-
-[Headband](Headband.md)
-
-(**Series**)
-
- | 
-
-Cosmetic
-
- | 
-
-Found from:
-
 -   [Erisia](Erisia.md)
--   [Blacksteel Pirate](Blacksteel_Pirate.md)
--   [Aratel Island](Aratel_Island.md)
--   [Hell Mode](Hell_Mode.md)
-
- | Black, Blue, Green, Orange, Red & Yellow |
-| File:Rabel Bandana.png | 
-
-[Rebel's Bandana](<Rebel's_Bandana.md>)
-
- | 
-
-Cosmetic
-
- | 
-
-Found from:
-
--   [Eastern Tribe Nomad](Eastern_Nomad.md)
--   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
--   [Erisia](Erisia.md)
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
-
- | N/A |
-| File:Static-assets-upload9013636473975687804.png | 
-
-[Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
-
- | 
-
-Cosmetic
-
- | 
-
-Found from:
-
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Minityrsa](Minityrsa.md)
--   [Hell Mode](Hell_Mode.md)
-
- | N/A |
-|  | 
-
-[Eyeglasses](Eyeglasses.md)
-
- | 
-
-+1 Common Pip
-
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
-
- | N/A |
-|  | 
-
-[Aristocrat Eyeglasses](Eyeglasses.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Hell Mode](Hell_Mode.md)
-
- | Default (Black), Red & White |
-|  | 
-
-[Red Aristocrat Eyeglasses](Eyeglasses.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Hell Mode](Hell_Mode.md)
-
- | Default (Black), Red & White |
-|  | 
-
-[White Aristocrat Eyeglasses](Eyeglasses.md)
-
-(**Series**)
-
- | 
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Hell Mode](Hell_Mode.md)
-
- | Default (Black), Red & White |
-|  | 
-
-[Polarized Sunglasses](Eyeglasses.md)
-
- | 
-
-+1 Common Pip
-
- | 
-
-Found from:
-
--   [Minityrsa](Minityrsa.md)
--   [Songseeker Wilds](Songseeker_Wilds.md)
-
- | N/A |
-|  | 
-
-[The Guy's Eyeglasses](Eyeglasses.md)
-
- | 
-
-+1 Common Pip
-
- | 
-
-Source from:
-
--   [The Guy](The_Guy.md)
 
  | N/A |
 |  | 
@@ -3606,6 +3428,25 @@ Found from:
 -   [Second Layer](Second_Layer.md)
 
  | N/A |
+|  | 
+
+[Crimson Blindfold](Blindfold.md)
+
+ | 
+
++1 Common Pip
+
+_\+ Talent: Blinded_
+
+ | 
+
+Found from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+
+ | Black & Crimson |
 | File:DemonMask.png | 
 
 Demon Mask
@@ -3640,6 +3481,43 @@ Found from:
  | N/A |
 |  | 
 
+[Eyeglasses](Eyeglasses.md)
+
+ | 
+
++1 Common Pip
+
+ | 
+
+Found from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+
+ | N/A |
+| File:Orange Headband.png | 
+
+[Headband](Headband.md)
+
+(**Series**)
+
+ | 
+
+Cosmetic
+
+ | 
+
+Found from:
+
+-   [Erisia](Erisia.md)
+-   [Blacksteel Pirate](Blacksteel_Pirate.md)
+-   [Aratel Island](Aratel_Island.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | Black, Blue, Green, Orange, Red & Yellow |
+|  | 
+
 Hivelord Mask
 
  | 
@@ -3672,6 +3550,61 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
+|  | 
+
+[Polarized Sunglasses](Eyeglasses.md)
+
+ | 
+
++1 Common Pip
+
+ | 
+
+Found from:
+
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | N/A |
+| File:Rabel Bandana.png | 
+
+[Rebel's Bandana](<Rebel's_Bandana.md>)
+
+ | 
+
+Cosmetic
+
+ | 
+
+Found from:
+
+-   [Eastern Tribe Nomad](Eastern_Nomad.md)
+-   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
+-   [Erisia](Erisia.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+
+ | N/A |
+|  | 
+
+[Red Aristocrat Eyeglasses](Eyeglasses.md)
+
+(**Series**)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
+
+ | Default (Black), Red & White |
 | File:Blue.PNG | 
 
 [Royal Guard](Aspirant_Mask.md)
@@ -3707,6 +3640,38 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
+| File:Static-assets-upload9013636473975687804.png | 
+
+[Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
+
+ | 
+
+Cosmetic
+
+ | 
+
+Found from:
+
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Minityrsa](Minityrsa.md)
+-   [Hell Mode](Hell_Mode.md)
+
+ | N/A |
+|  | 
+
+[The Guy's Eyeglasses](Eyeglasses.md)
+
+ | 
+
++1 Common Pip
+
+ | 
+
+Source from:
+
+-   [The Guy](The_Guy.md)
+
+ | N/A |
 |  | 
 
 [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
@@ -3723,6 +3688,26 @@ Found from:
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
  | N/A |
+|  | 
+
+[White Aristocrat Eyeglasses](Eyeglasses.md)
+
+(**Series**)
+
+ | 
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Hell Mode](Hell_Mode.md)
+
+ | Default (Black), Red & White |
 
 **Ears:**
 
@@ -3747,22 +3732,6 @@ Variants
 
  |
 | --- | --- | --- | --- | --- |
-|  | 
-
-[Pendant Earrings](Pendant_Earrings.md)
-
- | 
-
-+2 Rare Pips
-
- | 
-
-Found from:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- | N/A |
 |  | 
 
 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)
@@ -3797,24 +3766,6 @@ Found from:
  | N/A |
 |  | 
 
-[Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
-
- | 
-
-+1 Common Pip  
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
--   [First Layer](First_Layer.md)
-
- | N/A |
-|  | 
-
 [Dew Drop Earrings](Dew_Drop_Earrings.md)
 
  | 
@@ -3829,23 +3780,6 @@ Found from:
 
 -   [Aratel Island](Aratel_Island.md)
 -   [First Layer](First_Layer.md)
-
- | N/A |
-|  | 
-
-[Ruby Drop Earrings](Ruby_Drop_Earrings.md)
-
- | 
-
-+1 Common Pip  
-
-+1 Rare Pip
-
- | 
-
-Found from:
-
--   [Aratel Island](Aratel_Island.md)
 
  | N/A |
 |  | 
@@ -3886,9 +3820,11 @@ Found from:
  | N/A |
 |  | 
 
-[Practicioner's Earrings](<Practicioner's_Earrings.md>)
+[Moonlit Earrings](Crescent_Earrings.md)
 
  | 
+
+_+2 Health_  
 
 +2 Rare Pips
 
@@ -3896,8 +3832,9 @@ Found from:
 
 Found from:
 
--   [Summer Isle](Summer_Isle.md)
--   [First Layer](First_Layer.md) (**Rare**)
+-   [Hell Mode](Hell_Mode.md)
+-   [Second Layer](Second_Layer.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 |  | 
@@ -3921,11 +3858,9 @@ Found from:
  | N/A |
 |  | 
 
-[Moonlit Earrings](Crescent_Earrings.md)
+[Pendant Earrings](Pendant_Earrings.md)
 
  | 
-
-_+2 Health_  
 
 +2 Rare Pips
 
@@ -3933,9 +3868,59 @@ _+2 Health_
 
 Found from:
 
--   [Hell Mode](Hell_Mode.md)
--   [Second Layer](Second_Layer.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+|  | 
+
+[Practicioner's Earrings](<Practicioner's_Earrings.md>)
+
+ | 
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md)
+-   [First Layer](First_Layer.md) (**Rare**)
+
+ | N/A |
+|  | 
+
+[Ruby Drop Earrings](Ruby_Drop_Earrings.md)
+
+ | 
+
++1 Common Pip  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+
+ | N/A |
+|  | 
+
+[Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)
+
+ | 
+
++1 Common Pip  
+
++1 Rare Pip
+
+ | 
+
+Found from:
+
+-   [Aratel Island](Aratel_Island.md)
+-   [First Layer](First_Layer.md)
 
  | N/A |
 
@@ -3962,20 +3947,170 @@ Sources
 | --- | --- | --- | --- |
 |  | 
 
-Silver Ring
+[Akira's Ring](<Akira's_Ring.md>)
+
+(Legendary)
 
  | 
 
-+1 Common Pip
+Gives every weapon 1.2 Willpower scaling when equipped.
+
+  
++1 Legendary Pip
+
+**Requires Power 6**
 
  | 
 
 Found from:
 
--   [Mudskipper Cave](Lower_Erisia.md)
+-   [Aelita](Aelita.md) (**Extremely Rare**)
+-   [Ferryman](The_Ferryman.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+-   [Fort Merit](Fort_Merit.md) (**Extremely Rare**)
+-   Trading with [Jeremiah](Jeremiah.md)
+
+ |
+|  | 
+
+Bloodiron Ring
+
+ | 
+
+Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloodirion Spirit)
+
+  
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
+
+ |
+|  | 
+
+Dawnfist's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 strength scaling when equipped.
+
+  
++1 Legendary Pip
+
+**Requires Power 6**
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md) (**Very Rare**)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+-   Trading with [Jeremiah](Jeremiah.md) (Rare)
+
+ |
+|  | 
+
+Dazed Band
+
+ | 
+
+Flourishing an opponent has a 50% chance to stun them.
+
+  
++1 Uncommon Pip
+
+**Requires Power 3**
+
+ | 
+
+Found from:
+
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+-   [Miner's Landing](<Miner's_Landing.md>)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+
+ |
+|  | 
+
+Deepfire Ring
+
+(Legendary)
+
+ | 
+
+Flames burn 1.5x faster but goes out 1.5x faster.  
+If using Explosion Path: Lava Serpent, explosion delay is reduced.
+
+  
+**Requires Power 5**
+
+ | 
+
+Found from:
+
+-   [Ferryman](The_Ferryman.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+
+ |
+|  | 
+
+Finisher's Ring
+
+(Legendary)
+
+ | 
+
+Extra PEN on your attacks that flourish opponents.
+
+  
+**Requires Power 13**
+
+ | 
+
+Found from:
+
+-   [Ferryman](The_Ferryman.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
+-   [Aelita](Aelita.md) (**Extremely Rare**)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+
+ |
+|  | 
+
+Freestyler's Band
+
+ | 
+
+Gives the user a massive increase in swimming speed while out of combat.
+
+  
+**Requires Power 3**
+
+ | 
+
+Found from:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
 
  |
 |  | 
@@ -3996,71 +4131,6 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Pure Ore Turn-ins](Blacksmith.md)
 -   Interacting with [Polis](Polis.md)' first dialogue
-
- |
-|  | 
-
-Windmill Ring
-
- | 
-
-Taking damage from ice or wind mantras will cause you to regenerate ether.
-
-  
-_+2% Ice Armor_  
-
-_+2% Wind Armor_
-
-+1 Uncommon Pip
-
-**Requires Power 3**
-
- | 
-
-Found from:
-
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-Ring of Wisps
-
- | 
-
-Double the amount of charges of Attunement Wisps.
-
-  
-+1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-Freestyler's Band
-
- | 
-
-Gives the user a massive increase in swimming speed while out of combat.
-
-  
-**Requires Power 3**
-
- | 
-
-Found from:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
 
  |
 |  | 
@@ -4155,145 +4225,27 @@ Found from:
  |
 |  | 
 
-Pariah's Keepsake
+Maestro's Ring
+
+(Legendary)
 
  | 
 
-Deal more damage to factions that hate you.
+Gives every weapon 1.2 agility scaling when equipped.
 
   
-**Requires Power 3**
++1 Legendary Pip
 
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-Purifying Ring
-
- | 
-
-Allows wearer to drink sea-water and acid without vomiting.
-
-  
-+1 Uncommon Pip
-
- | 
-
-Found from:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-Ring Of Curses
-
- | 
-
-This ring runs the random event check more frequently and partially ignores anti-event stacking.
-
-  
-**Requires Power 10**
-
- | 
-
-Found from:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [Deep Widow](Deep_Widow.md)
--   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-Ring of Casters
-
- | 
-
-Mantra damage increased by 10%, but reduces melee damage by 10%.
-
-  
-**Requires Power 13**
-
- | 
-
-Found from:
-
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-Ring of Pestilence
-
- | 
-
-Enemies you hit have their healing reduced by 50%
-
- | 
-
-Found from:
-
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
-
- |
-|  | 
-
-Bloodiron Ring
-
- | 
-
-Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloodirion Spirit)
-
-  
-+1 Uncommon Pip
+**Requires Power 6**
 
  | 
 
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
-
- |
-|  | 
-
-Dazed Band
-
- | 
-
-Flourishing an opponent has a 50% chance to stun them.
-
-  
-+1 Uncommon Pip
-
-**Requires Power 3**
-
- | 
-
-Found from:
-
--   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Primadon](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+-   Trading with [Jeremiah](Jeremiah.md) (Rare)
 
  |
 |  | 
@@ -4322,78 +4274,41 @@ Found from:
  |
 |  | 
 
-Waning Ring
-
-(Legendary)
+Pariah's Keepsake
 
  | 
 
-Conceal your youth, appearing as if you were older than 40.
+Deal more damage to factions that hate you.
 
   
-+2 Rare Pips
+**Requires Power 3**
 
  | 
 
 Found from:
 
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
 
  |
 |  | 
 
-[Akira's Ring](<Akira's_Ring.md>)
-
-(Legendary)
+Poser’s Ring
 
  | 
 
-Gives every weapon 1.2 Willpower scaling when equipped.
+Damage dealt with a Katana isn't received until the user sheathes their weapon.  
 
-  
-+1 Legendary Pip
-
-**Requires Power 6**
+Stuns the opponent upon a successful damaging sheathe.
 
  | 
 
-Found from:
+Quest from [Zana](Zana.md)
 
--   [Aelita](Aelita.md) (**Extremely Rare**)
--   [Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   [Fort Merit](Fort_Merit.md) (**Extremely Rare**)
--   Trading with [Jeremiah](Jeremiah.md)
-
- |
-|  | 
-
-Rosen's Ring
-
-(Legendary)
-
- | 
-
-Gives every weapon 1.2 intelligence scaling when equipped.
-
-  
-+1 Legendary Pip
-
-**Requires Power 6**
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
+-   (**Located on** [Isle of Vigils](Isle_of_Vigils.md)' **Docks**)
 
  |
 |  | 
@@ -4423,91 +4338,30 @@ Found from:
  |
 |  | 
 
-Maestro's Ring
-
-(Legendary)
+Purifying Ring
 
  | 
 
-Gives every weapon 1.2 agility scaling when equipped.
+Allows wearer to drink sea-water and acid without vomiting.
 
   
-+1 Legendary Pip
-
-**Requires Power 6**
++1 Uncommon Pip
 
  | 
 
 Found from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   Trading with [Jeremiah](Jeremiah.md) (Rare)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
 
  |
 |  | 
 
-Dawnfist's Ring
-
-(Legendary)
+Ring of Casters
 
  | 
 
-Gives every weapon 1.2 strength scaling when equipped.
-
-  
-+1 Legendary Pip
-
-**Requires Power 6**
-
- | 
-
-Found from:
-
--   [Summer Isle](Summer_Isle.md) (**Very Rare**)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Deep Widow](Deep_Widow.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
--   Trading with [Jeremiah](Jeremiah.md) (Rare)
-
- |
-|  | 
-
-Deepfire Ring
-
-(Legendary)
-
- | 
-
-Flames burn 1.5x faster but goes out 1.5x faster.  
-If using Explosion Path: Lava Serpent, explosion delay is reduced.
-
-  
-**Requires Power 5**
-
- | 
-
-Found from:
-
--   [Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Second Layer](Second_Layer.md)
--   [Ancient Rotlands](Ancient_Rotlands.md)
-
- |
-|  | 
-
-Finisher's Ring
-
-(Legendary)
-
- | 
-
-Extra PEN on your attacks that flourish opponents.
+Mantra damage increased by 10%, but reduces melee damage by 10%.
 
   
 **Requires Power 13**
@@ -4516,28 +4370,159 @@ Extra PEN on your attacks that flourish opponents.
 
 Found from:
 
--   [Ferryman](The_Ferryman.md)
--   [Pure Ore Turn-ins](Blacksmith.md)
--   [Aelita](Aelita.md) (**Extremely Rare**)
+-   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   [Second Layer](Second_Layer.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
 
  |
 |  | 
 
-Poser’s Ring
+Ring Of Curses
 
  | 
 
-Damage dealt with a Katana isn't received until the user sheathes their weapon.  
+This ring runs the random event check more frequently and partially ignores anti-event stacking.
 
-Stuns the opponent upon a successful damaging sheathe.
+  
+**Requires Power 10**
 
  | 
 
-Quest from [Zana](Zana.md)
+Found from:
 
--   (**Located on** [Isle of Vigils](Isle_of_Vigils.md)' **Docks**)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Deep Widow](Deep_Widow.md)
+-   [First Layer](First_Layer.md)
+
+ |
+|  | 
+
+Ring of Pestilence
+
+ | 
+
+Enemies you hit have their healing reduced by 50%
+
+ | 
+
+Found from:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ |
+|  | 
+
+Ring of Wisps
+
+ | 
+
+Double the amount of charges of Attunement Wisps.
+
+  
++1 Uncommon Pip
+
+ | 
+
+Found from:
+
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+
+ |
+|  | 
+
+Rosen's Ring
+
+(Legendary)
+
+ | 
+
+Gives every weapon 1.2 intelligence scaling when equipped.
+
+  
++1 Legendary Pip
+
+**Requires Power 6**
+
+ | 
+
+Found from:
+
+-   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+
+ |
+|  | 
+
+Silver Ring
+
+ | 
+
++1 Common Pip
+
+ | 
+
+Found from:
+
+-   [Mudskipper Cave](Lower_Erisia.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Pure Ore Turn-ins](Blacksmith.md)
+
+ |
+|  | 
+
+Waning Ring
+
+(Legendary)
+
+ | 
+
+Conceal your youth, appearing as if you were older than 40.
+
+  
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [First Layer](First_Layer.md)
+-   [Second Layer](Second_Layer.md)
+-   [Ancient Rotlands](Ancient_Rotlands.md)
+
+ |
+|  | 
+
+Windmill Ring
+
+ | 
+
+Taking damage from ice or wind mantras will cause you to regenerate ether.
+
+  
+_+2% Ice Armor_  
+
+_+2% Wind Armor_
+
++1 Uncommon Pip
+
+**Requires Power 3**
+
+ | 
+
+Found from:
+
+-   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [First Layer](First_Layer.md)
 
  |
 

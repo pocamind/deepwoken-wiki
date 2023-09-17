@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 73903
+revid: 74434
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -33,7 +33,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 
 File:Image 2023-04-16 125111912.png
 
-The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare drop from slaying a [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt), or by finding it inside a Merchant Ship. It has unique animations and a unique critical. Due to its rarity, it possesses decent value in trading. Many consider it to be a legendary.
+The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare drop from slaying a [Crimson Megalodaunt](Megalodaunt.md#crimson-megalodaunt), or by finding it inside a Merchant Ship. It has unique animations and a unique critical.
 
 ## Critical Attack
 
@@ -45,7 +45,6 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 
 ## Trivia
 
--   Literally Artorias of the Abyss
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of three greatswords (Others being the enforcer's blade and railblade), that has no endlag on m1s.

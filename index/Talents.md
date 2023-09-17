@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 74374
+revid: 74454
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
@@ -698,6 +698,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Elementalist
 
+> _**"I seek the qualities of Elemetalist."**_
+
 -   _Ether Overdrive_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
@@ -736,7 +738,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Ether Blade \[Common Talent, Intelligence\] - Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
     -   Prerequisites: 20 Agility, 15 Intelligence
 
--   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 5s
+-   Ether Conduit \[Common Talent, Intelligence\] - Your Ether Adept talents that grant you ether on proc now give you stacks of Inspiration. At 3 stacks of Inspiration. your mantras will deal 10% more damage for 3s. (+7 Carry Load, +2 Elemental Intensity))
     -   Prerequisites: 30 Intelligence
 
 -   _Eureka_ \[Rare Talent, Intelligence\] - Receive ether back on every successful [perfect cast.](Combat_Mechanics.md) (+7 Carry Load, +2 Elemental Intensity)
