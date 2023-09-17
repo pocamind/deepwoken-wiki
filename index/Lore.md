@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 74120
+revid: 74521
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -310,6 +310,17 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer)
 -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
+
+### Kaide, the Drowned Light
+
+-   A Lightborn trapped in New Kyrsa, in the Second Layer of the Depths.
+-   Previous king of a Celestial city known as Constellia, however this city was lost to the Kyrsgarde under Ethiron rule.
+-   It is **speculated,** but not confirmed, that Kaide is a Lightkeeper, since many high ranking lightborns were Lightkeepers and the title of Kaide is "the Drowned Light".
+-   For now he is "meditating" for eternity in a lake nearby New Kyrsa.
+-   Apparently he fought against the Depths alongside Celestials and other Lightborns, but stop fighting when the Celestials Fleed.
+-   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, (Hybrids of man and Celestial) to be able to bring Celestial and Man together, with the lightborns body being blessed with immortality with the "Hybrid Vigor". However, despite the body being blessed, their minds as stated by Kaide, is the same as the ones of Man, making Lightborns Clueless and arrogant as man.
+-   Apparently he _**Despises**_ the celestials stating: _"Whe Thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
+-   Kaide has a very high knowledge relating to the Song, knowing how the Song manifest through humans and through New Kyrsa.
 
 ### **Ku, The Mother**
 

@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 72882
+revid: 74518
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -33,7 +33,7 @@ When used, this ability will transport the user into a realm known as [The Inter
 
 -   If the ability is used in the overworld, the user will be transported into [The Interstice](The_Interstice.md) and leave a portal behind for others to enter.
 -   If the ability is used whilst in [The Interstice](The_Interstice.md), the user's camera will show them the equivalent overworld position.
-    -   After 3~ seconds the players camera goes back to their character in the Distortion Realm. (Moving is restricted during this.)
+    -   After 10~ seconds the players camera goes back to their character in the Distortion Realm. (Moving immediately returns their camera)
     -   If any players inside the Distortion Realm jump into the void through the cracks in the floor, they will be teleported to the equivalent overworld position.
 -   If Dimensional Travel is used during the visual indicator (Pressing C again), all players that go through the portal will be transported back to the overworld.
 -   When downed you will be sent to the location outside of Dimensional Travel you would’ve been downed at.

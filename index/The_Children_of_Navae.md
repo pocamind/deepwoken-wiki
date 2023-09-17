@@ -1,9 +1,9 @@
 ---
 title: The Children of Navae
-revid: 62917
+revid: 74517
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Factions]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Factions]
 notices:
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
@@ -35,3 +35,11 @@ notices:
 ## NPCs
 
 -   [Eastern camp master](Cheral.md)
+
+## Trivia
+
+-   File:Screenshot 2023-09-17 010707.png
+    
+    mr mage confirming that the gremors got the plug
+    
+    Children of Navae have the best weed according to arch\_mage
