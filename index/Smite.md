@@ -1,9 +1,9 @@
 ---
 title: Smite
-revid: 74451
+revid: 74507
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Resonances]
+categories: [In progress without reason, InProgressPages, Resonances]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -12,16 +12,14 @@ notices:
 
 | Smite | |
 |---|---|
-| effect | Creates 6 orbs that will fire at enemies. |
+| effect | Creates multiple orbs that will fire at enemies. |
 | appearance | White circles appears around user (red and black if corrupted). |
 
-“ Create a smokescreen for a diversion! ”
+“ Summon a halo of rotating orbs that will strike your foes automatically. ”
 
 ― Smite description
 
-File:RobloxScreenShot20230916 220811025.png
-
-Corrupted Smite
+  
 
 ## Description
 
@@ -50,5 +48,3 @@ When obtained, Smite will spend its points on the following stats:
 ## Trivia/Notes
 
 Added alongside preservation and smokescreen on: 9/15/23
-
-Uses the smokescreen description for some reason.

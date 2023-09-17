@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 69436
+revid: 74514
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies]
@@ -50,3 +50,4 @@ Polis executes his opponent after knocking them:
 -   Though Polis can be killed, doing so will not affect him respawning back in his usual spot and acting like nothing happened.
 -   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "I may be old, but I'm still brave, young one." "Nice try."
+-   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and dose not give you a Gold Ring or any other dialogue

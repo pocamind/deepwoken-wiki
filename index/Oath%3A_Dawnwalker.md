@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 74367
+revid: 74502
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -39,12 +39,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   Dance uncontrollably. No one can withstand the sheer groove of your spin routine.
 
 -   **Radiant Kick ★★★ - Combat Mantra**
-    -   Kick your foe at the speed of light.
-        -   Has a slight endlag of 0.5 seconds, and 0.4 endlag whiff.
+    -   Kick your foes at the speed of light.
+        -   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
 
 -   **Radiant Dawn ★★★ - Combat Mantra**
     -   Kick your foes at the speed of light.
-        -   Radiant Dawn seems can't proc any deep gems effect,also it doesn't have the effect of Absolute Radiance after landing the mantra for unknown reason.
+        -   Radiant Dawn seems can't proc any deep gems effect,also it doesn't have the effect of Absolute Radiance after landing the mantra for unknown reason(probably bug).
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 
@@ -57,7 +57,7 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 
 ## Trivia
 
--   Dawnwalker is a nerfed version of Divert's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
+-   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
 -   The ability Absolute Radiance may be a reference to one of the final bosses of the game [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight), that goes by the same name.
 -   Radiant Kick may be inspired by the boss Minos Prime from _ULTRAKILL_, as it highly resembles his "Judgement!" attack.
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities.

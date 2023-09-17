@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 72031
+revid: 74488
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -16,7 +16,7 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 **Guns** are a category of weapons that focus on range. Most guns can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is a advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. There are several different types of **guns** in game.
 
-You can wield 2 **guns** the same time, giving you overall incredible range. There are several talents for guns that increase stats or just adds new mechanics.
+You can wield **guns** the same time, giving you overall incredible range. There are several talents for guns that increase stats or just adds new mechanics.
 
 If you have a primary gun equipped your critical will be replaced with a long range shot. This does not blockbreak, but has a lot of range and is quite fast.
 
@@ -62,3 +62,4 @@ _**Stats:**_
 
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   The Stormseye is the only legendary rifle in game. It is obtained by killing bosses.
+-   When summoning a wisp you automatically reload if you have a one handed gun and have the letter "Z" in your summoning sign
