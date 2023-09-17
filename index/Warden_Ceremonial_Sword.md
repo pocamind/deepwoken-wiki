@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 74090
+revid: 74547
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -14,7 +14,7 @@ categories: [Weapons, Swords]
 | requirements | 50 MED |
 | damage | 17 |
 | scaling | 7 |
-| range | 8 |
+| range | 7.5 |
 | swing speed | 0.8x |
 | penetration | N/A |
 | stances | 2 Handed, 1 Handed |
@@ -32,5 +32,5 @@ The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained fro
 
 ## Trivia
 
--   Has similar stats to the [Falchion](Falchion.md) (Alloyed), differing only in 0.5 more range, no innate pen, 1 more base damage, and a lower stat requirement
+-   Has similar stats to the [Falchion](Falchion.md) (Alloyed), differing only in no innate pen, 1 more base damage, and a lower stat requirement
     -   At 100 Med, this weapon deals 25.9 damage (41.5 damage per second)

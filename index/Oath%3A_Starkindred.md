@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 72125
+revid: 74554
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,9 +24,9 @@ categories: [Oaths]
 ## Obtainment
 
 1.  Have 40 Strength and grip any player that is near your power level. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
-2.  Talk to Samael, located in the church above the Voidzone in Ancient Rotlands.
+2.  Talk to Samael, located in the [church](Derelict_Highchurch.md) above the Voidzone in Ancient Rotlands.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
-    2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a purple book on a bookshelf; one of them will open a room.
+    2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
 3.  Kill [Iblis, The Fallen Ange**l**](Iblis,_The_Fallen_Angel.md)**,** located above the Starfield grove Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
     1.  If you lack the Union Hook, careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it.
 4.  Return to Samael to get the Oath.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 74495
+revid: 74559
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -123,7 +123,8 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 </table>
 
   
-_If you believe any information is outdated, DM Witherald_
+_If you believe any information is outdated, DM Witherald_  
+_If you're looking for something specific, use (CTRL + F)_
 
 **Head:**
 

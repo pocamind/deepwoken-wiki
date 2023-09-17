@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 74512
+revid: 74542
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -16,7 +16,17 @@ categories: [Pages with broken file links, Resonances, Mechanics]
 
 Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) in the Depths, a very helpful NPC that many would deem important in most progressions.
 
-_**NOTE: Resonances cannot be used when doing 1v1s in the [Chime of Conflict.](Chime_of_Conflict.md)**_
+| 
+**LIST OF NORMAL RESONANCES**
+
+ |
+| --- |
+
+| 
+**LIST OF LEGENDARY RESONANCES**
+
+ |
+| --- |
 
 ## List of Unobtainable Resonances
 
@@ -165,11 +175,6 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <p>When killing players, you will not gain Progress upon grip unless they are around your general Power level.</p>
   <p>Another important thing to note is The <a href="Chime_of_Conflict.md">Chime of Conflict</a>, which is safer and will give more Progress, as opposed to The Overworld or The Depths.</p></td>
 </tr>
-<tr>
-  <td colspan="3">For all three natures, an important word is "Fight". You need to FIGHT, not just KILL whatever you are after. Dealing damage is actually where a significant amount of the Progress comes from, and not just killing.<p><br>
-  </p>
-  <p>Finally, just because you have one Nature, doesn't mean you cant do the other Nature's methods of gaining Progress. Any method will work for any Nature, its just that Sibex will tell you what Nature works best for you (slaying bosses is the fastest way to obtain a Resonance, regardless of your soul's nature).</p></td>
-</tr>
 </tbody>
 </table>
 
@@ -206,24 +211,16 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 
 ## Trivia
 
-File:Bellprog.png
-
-Arch Mage confirming both talent cards do not affect resonance progression.
-
--   **Resonances** might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance
--   **Resonances** were once presumed to have level, luck, and time in The Depths requirements, but all these were eventually debunked. In hindsight of the real requirements, these were all TECHNICALLY true, being byproducts of getting Progress.
--   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight**. While being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
--   A number of doors other than the [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) door require a **Resonance** to open. One is at the end of the parkour in the Depths, one is in the Eastern Luminant near a waterfall at [Aratel Island](Aratel_Island.md).
+-   **Resonances** cannot be used when doing 1v1s in the [Chime of Conflict.](Chime_of_Conflict.md)
+-   The higher the level you are, the easier it is to obtain a **Resonance**
+-   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
+-   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight** whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
+-   A number of doors other than the [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) door require a **Resonance** to open. One is at the end of the parkour in the Depths, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
 -   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, **DO NOT try to go and bell check**, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
 -   Before Resonances had Cards, the only way to know what type your **Resonance** was from a circular aura that occurred when you obtained it, being white for **Common**, purple for **Corrupted**, and yellow for **Legendary**.
 -   Near release, there were rumors of **Blessed Resonances**\- opposite of **Corrupted Resonances**\- existing and being equally as rare. These have been debunked, and **do not exist in the game as of now.**
--   Assumed to be a bug, sometimes if you choose or reroll a **Resonance**, the bell will no longer be visible on your character.
 -   Two of the bell models resemble the Beckoning Bell and Small Resonant Bell from _Bloodborne_.
--   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.
-    -   This will most likely take one of two scenarios:
-        -   The first one is that you evolve your bell **after** you get it, meaning it will be like an upgrade to your resonance.
-        -   The second one will be something that many players want, the bells of Layer 2. In other words, if you get knocked in [Layer 2](Second_Layer.md) with max progression for bell, you may able to get new bells that is exclusive to layer 2 only. The new layer 2 bell.
--   Despite Chaser showing that he has multiple Resonances stolen from fellow divers, they fail to operate, as a **Resonance** can only be activated by the original user- even after death.
--   The higher the level you are, the easier it is to obtain a **Resonance**
+-   **Resonances** might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance
+-   Arch mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.

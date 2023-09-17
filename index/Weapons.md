@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 74286
+revid: 74560
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -81,6 +81,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Stiletto.md">Stiletto</a></td>
@@ -92,6 +93,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>14.2</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -103,6 +105,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.96x</td>
   <td>0.05s</td>
+  <td>23.1</td>
 </tr>
 <tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
@@ -114,6 +117,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>19.2</td>
 </tr>
 <tr>
   <td><a href="Canor_Fang.md">Canor Fang</a></td>
@@ -125,6 +129,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>21.7</td>
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
@@ -136,6 +141,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>22.3</td>
 </tr>
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
@@ -147,6 +153,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6</td>
   <td>0.96x</td>
   <td>0.05s</td>
+  <td>25.8</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -158,6 +165,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td>0.96x</td>
   <td>0.05s</td>
+  <td>25.2</td>
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
@@ -169,6 +177,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td>0.85x</td>
   <td>N/A</td>
+  <td>27.6</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -180,17 +189,19 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>24.9</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
   <td>60 LHT; 30 INT</td>
-  <td>14</td>
+  <td>13</td>
   <td>30%</td>
   <td>INT: 2 LHT: 8</td>
   <td>4</td>
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>33.4(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
@@ -202,6 +213,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>24.7</td>
 </tr>
 <tr>
   <td><a href="Kyrsedge.md">Kyrsedge</a></td>
@@ -213,6 +225,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>24.4</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Whaling_Knife#Alloyed"><font>Alloyed Whaling Knife</font></a></td>
@@ -224,6 +237,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
+  <td>26.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Tanto#Alloyed"><font>Alloyed Tanto</font></a></td>
@@ -235,6 +249,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td><font>0.87x</font></td>
   <td>0s</td>
+  <td>29.3</td>
 </tr>
 </tbody>
 </table>
@@ -254,6 +269,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Fists.md">Fist (Way of Navae/Legion Kata)</a></td>
@@ -333,6 +349,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Silversix.md">Silversix</a></td>
@@ -392,6 +409,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Quickfang.md">Quickfang</a></td>
@@ -476,6 +494,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Sword_(weapon).md">Sword</a></td>
@@ -528,8 +547,8 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>N/A</td>
   <td>N/A</td>
   <td>MED: 3</td>
-  <td>6</td>
   <td>5</td>
+  <td>8</td>
   <td>0.85x</td>
 </tr>
 <tr>
@@ -749,6 +768,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Irontusk.md">Irontusk</a></td>
@@ -900,6 +920,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Mace.md">Mace</a></td>
@@ -939,6 +960,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Summer_Rifle.md">Summer Rifle</a></td>
@@ -994,6 +1016,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Battleaxe.md">Battleaxe</a></td>
@@ -1171,6 +1194,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Avenger.md">Avenger</a></td>
@@ -1348,6 +1372,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="Steel_Maul.md">Steel Maul</a></td>
@@ -1465,6 +1490,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td><b>Swing Speed</b></td>
   <td><b>Alloy-able</b></td>
   <td><b>Endlag</b></td>
+  <td><b>Max Damage</b></td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Flame</font></a></td>
