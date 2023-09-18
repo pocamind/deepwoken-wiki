@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 74488
+revid: 74671
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,19 +14,21 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are a category of weapons that focus on range. Most guns can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is a advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. There are several different types of **guns** in game.
+**Guns** are a category of weapons that focus on range. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is a advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found as drops or purchased from Summer Isle. There are several different types of **guns** in game.
 
-You can wield **guns** the same time, giving you overall incredible range. There are several talents for guns that increase stats or just adds new mechanics.
+You can wield 2 pistol **guns** at the same time, giving you overall incredible range. There are several talents for guns that increase stats or just adds new mechanics.
 
 If you have a primary gun equipped your critical will be replaced with a long range shot. This does not blockbreak, but has a lot of range and is quite fast.
 
-The guns currently in game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
+The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance.)
+
+The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
 Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun).. Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
 
-**As of August 14th 2023, using a one-handed gun without a side-gun will change your attack cycle**. When using guns one-handed you will pistol whip the opponent (2-hit flourish), however pressing Y will make you stand still and load bullets into your gun, different guns hold different amounts of bullets, the Dragoon holds 3, Flintlock holds 4 and the Revolver and Silversix both hold 6. The length of the reload animation is dependent on the amount of bullets you're missing (0.5x(Missing Bullets)), so reloading an empty Dragoon will take 1.5s, reloading an empty flintlock will take 2, etc. Above your health bar, you can see a revolver chamber that shows you how many bullets you have remaining loaded in your weapon.
+**As of August 14th 2023, using a one-handed gun without a side-gun will change your attack cycle**. When using guns one-handed you will pistol whip the opponent (2-hit flourish), however pressing Y or Z will make you stand still and load bullets into your gun, different guns hold different amounts of bullets, the Dragoon holds 3, Flintlock holds 4 and the Revolver and Silversix both hold 6. The length of the reload animation is dependent on the amount of bullets you're missing (0.5x(Missing Bullets)), so reloading an empty Dragoon will take 1.5s, reloading an empty flintlock will take 2, etc. Above your health bar, you can see a revolver chamber that shows you how many bullets you have remaining loaded in your weapon.
 
 Whenever you have bullets your m1 cycle will shoot the gun instead of pistol whipping and so will your crit, both consuming one bullet per shot. (make sure to have bullets in your inventory, otherwise it will not shoot a projectile,)
 
@@ -50,6 +52,8 @@ _**Stats:**_
 
 **[Dragoon](Dragoon.md):** **20** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
 
+**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed (Requires the bell: [Crazy Slots](Crazy_Slots.md))
+
 **[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 7 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
 
 **[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 7 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
@@ -61,5 +65,5 @@ _**Stats:**_
 ### Trivia:
 
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
--   The Stormseye is the only legendary rifle in game. It is obtained by killing bosses.
--   When summoning a wisp you automatically reload if you have a one handed gun and have the letter "Z" in your summoning sign
+-   The [Stormseye](Stormseye.md) is the only legendary gun in game. It is obtained by killing bosses.
+-   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.

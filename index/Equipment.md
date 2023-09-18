@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 74606
+revid: 74673
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -20,7 +20,7 @@ There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, a
 
 Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents associated with them (only some Head, Legs and Arms items can have these). _These stats and talents are displayed in grey._
 
-All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant. All Pips are displayed in order of rarity, which goes Common, Uncommon, Rare, Legendary and Mythic.
+All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant. All Pips are displayed in order of rarity, which goes Common, Uncommon, Rare, Legendary and Mythic (which do not exist currently).
 
 Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
 ★ = +1 Rare Pip (+1 HP for Head, Arms, and Legs)  

@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 74633
+revid: 74672
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -32,7 +32,7 @@ Assault
 
 Critical
 
- | Raises weapon before firmly slamming it down into the ground. | ◯ | ✗ | (★★☆) |
+ | Spins their axe with rapid succession, freezing the floor and sending them and their opponent into the air. | ◯ | ✗ | (★★☆) |
 | 
 
 Old Ice Eruption
