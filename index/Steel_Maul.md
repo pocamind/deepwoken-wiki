@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 55142
+revid: 74608
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -51,6 +51,10 @@ categories: [Weapons, Greathammers]
 
 The Steel Maul is a Heavy Greathammer that deals a Base Damage of 22 with 7 Scaling and 9 Range. The Steel Maul can be purchased in the weapons shop of [Etris](Etris.md) or found through chests in [Lower Erisia](Lower_Erisia.md). This weapon **can** be alloyed, raising the stats to match late game tier weaponry.
 
+  
+
+## Gallery
+
 **Alloyed:**
 
 ## Description
@@ -60,4 +64,4 @@ The alloyed version of the Steel Maul. Obtained by applying a [Pluripotent Alloy
 ## Trivia
 
 -   Generally regarded as a bad weapon when not alloyed.
--   Basically a starter Greathammer.
+-   Basically, a starter Greathammer.

@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 73073
+revid: 74663
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -10,56 +10,56 @@ categories: [Monsters, Mechanics]
 
 _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md) For Bosses, see **[Bosses.](Bosses.md)**_
 
-**Monsters** are inhuman hostile NPCs that will attack the player but are different from human enemies. Most will not utilize strategies like parrying.
+**Monsters** are inhuman NPC's who almost always are hostile to Players at all times. The main factors that sets a Monster apart from [Enemies](Enemies.md) is both thematic and model-wise. Monsters include non-humanoid NPCs (anything with a custom model), and also humanoid NPC's who are clearly some type of creature, beast, or automaton.
 
 ## Description
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters, animals that have adapted to the crumbling world around them, preying on the numerous adventurers across the Luminants. Monsters are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a Monster, what makes them think they can beat another player?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters consist of a wide array of threats, ranging from beasts, zombies, robots, constructs, aliens, inter-dimensional entities, and even worse. They are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a NPC Monster, what makes them think they can beat another player?
 
-While each Monster has unique attacks and patterns, they all share one thing; You can learn them. almost every Monster, **even up to the Dread Serpent**, can be beaten as a fresh spawn with enough memorization and technique, however, do note that some monsters (e.g Mobs in the depths (Scyphozia, Eternal Gale, Primadon) have strict time limits, and as such, will require leveling in order to beat.
+While each Monster has unique attacks, behaviors, traits, and patterns, they all share one thing in common; **They can be overcome.** Every monster, even the strongest ones such as the Dread Serpent can be beaten with enough memorization, skill technique. (However, do note certain monsters have unique traits such as a Time Limit or Health Regeneration which actually does make them impossible without enough damage.)
 
-The majority of non-humanoid monsters you encounter in-game will have hyper armor. Meaning any attacks, they dish out cannot be stopped through stun.
+The vast majority non-humanoid monsters encountered in-game have hyper armor, meaning most, if not all of their attacks cannot be interrupted from being hit by a player.
 
-### The Depths
+### **Scyphozia**
 
-**In The Depths, Monsters have significant differences**, some easily noticeable, and others, not so much. Some changes include:
+In **Scyphozia**, all Monsters have differences from their Overworld counterparts, ranging from small effects, to gigantic differences in how they fight, their danger level, and how they must be dealt with.
 
 -   No longer attack each other based on species, instead completely focusing on players.
 -   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players.
 -   Being much more aware, noticing players from further away, or even behind them.
 -   Gaining new behaviors/abilities, such as Lionfish Beam.
--   Becoming much more persistent in chasing, rarely stopping until the death of them or the player.
+-   Becoming much more persistent in chasing, almost never stopping their pursuit until the death of themselves or their target.
 
-Being able to spawn as a Corrupted version, signified by a purple aura, dealing roughly 50% more damage and having triple the health of their normal versions.
+Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple aura around them, along with dealing roughly 50% more damage and having triple the health compared to their normal counterparts.
 
 ### Attuned Monsters
 
 Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement, and 100% less resistance to opposite attunements.
 
--   Monsters with "built in" Attunements should only get their respective attunement, (e.g [Fury Squibbo](Nautilodaunt.md) can only have Thunderstruck, [Crimson Megalodaunt](Megalodaunt.md) can only have Flamewreathed) and should not benefit.
+#### Attunement Types/Effects
 
-Humanoid NPCs cannot be Attuned, although many Mini-Boss and Boss class enemies like [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
-
--   Flamewreathed - Applies Burn on hit, Has an AoE fire effect around the Monster. **(CAN PROC LAVA SERPENT)**
--   Frostmantle - Applies Chilled on hit, Places Ice beneath hit players.
--   Galeforce - Applies Winded on hit, Deals Extra Knockback.
+-   Flamewreathed - Applies Burn on hit. Can additionally proc [Lava Serpent](Flamecharm.md) effects.
+-   Frostmantle - Applies Chilled on hit. Places Ice beneath hit players.
+-   Galeforced - Applies Winded on hit. Deals Extra Knockback.
 -   Thunderstruck - Applies Electrified on hit.
--   Shadowmeld - Steals Ether on hit, has 50% resistance against M1s and other physical attacks.
+-   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage.
 
-Certain mobs have their visual effect changed,
+#### Attunement Weaknesses/Resistances
+
+-   Flamewreathed - (Weakness, Galebreathe) (Resist, Flamecharm)
+-   Frostmantle - (Weakness, Flamecharm) (Resist, Frostdraw)
+-   Galeforced - (Weakness, Frostdraw) (Resist, Galebreathe)
+-   Thunderstruck - (Weakness, Ironsing?) (Resist, Thundercall)
+-   Shadowmelded - (Weakness, All Attunements) (Resist, Basic Attacks)
+
+Humanoid Monsters cannot be Attuned. Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
+
+Certain Monsters thematically already have an attunement tied to them (such as Thunder Nautilodaunts with Thundercall or Crimson Megalodaunts with Flamecharm). In these cases, they are only able to become attuned with that type of Attunement effect.
+
+Certain Monsters have unique visual effects when attuned.
 
 -   [Prime Golem](Rock_Golem.md) (Thunderstruck Variant, Red)
 -   [Gigamed](Gigamed.md), [King Gigamed](Gigamed.md) (Thunderstruck Variant, Blue)
-
-#### Attunement Weaknesses & Strengths
-
--   Flamewreathed, (Weakness, Galebreathe) (Resist, Flamecharm)
--   Frostmantle (Weakness, Flamecharm) (Resist, Frostdraw)
--   Galeforce (Weakness, Frostdraw) (Resist, Galebreathe)
--   Thunderstruck (Weakness, Ironsing?) (Resist, Thundercall)
--   Shadowmeld (Weakness, All Attunements) (Resist, Basic Attacks)
-
-Shadowmeld mobs take less damage from Basic Attacks, M1, Crits
 
 ## Humanoid Monsters
 

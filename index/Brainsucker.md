@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 72439
+revid: 74657
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,6 +29,7 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 
 -   Their attacks, particularly Bite, have very strange hitboxes, making parrying them difficult. This, combined with its low damage, makes it more worthwhile to simply mash your basic attack until it dies.
 -   Using a mantra with a [Wayward Gem](Deep_Gems.md) on a Brainsucker can cause you to teleport to a random one around the map. (needs testing)
+-   They are pretty much a nuisance you can tank hits against them they are only a threat to low level players (Level 1 through 2).
 
 ## Trivia
 

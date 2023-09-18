@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 67434
+revid: 74638
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -91,4 +91,4 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 -   The Divine weapons can actually be wielded without the resonance, though whether there is a reason for this or not is unexplained.
     -   The Golden Warriors found in [Upper Erisia](Upper_Erisia.md) and the bouncer outside of the [Rat's Den](<Rat's_Den.md>) all wield Divine Greataxes.
     -   The [Greater Angels](https://deepwoken.fandom.com/wiki/Angels?so=search#Greater) found in the [Trial of One](Trial_of_One.md) both wield Divine Spears.
-    -   The [Immortal Guardians](Immortal_Guardian.md) in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Divine Greatsword or Divine Greataxe.
+    -   The [Immortal Guardians](Immortal_Guardian.md), and by extension their Nightmare counterpart, in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) can wield either a Divine Greatsword or Divine Greataxe.

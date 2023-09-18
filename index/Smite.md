@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 74531
+revid: 74652
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]

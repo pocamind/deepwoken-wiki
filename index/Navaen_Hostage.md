@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 68452
+revid: 74661
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Random Encounters]
@@ -42,3 +42,4 @@ Giving back what is rightfully theirs.
 -   Despite spawning in the exact same event, [Knives of Eylis](Knife_of_Eylis.md) and [Subtle Knives of Eylis](Subtle_Knife_of_Eylis.md) will attack and attempt to grip them because Deepwoken has good game design.
 -   There is actually no rope or cuffs holding the hostage's hands together.
 -   One way to get the Way of the Navae fighting style easily is by hiding in a bush near the Navae Camp in [Etris,](Etris.md) and kidnapping the hostage from another person who found them. Be warned though, the other person will try and get them back, and, if they are a much higher level than you, guarantees your death, even if you get the style (Also be wary of people doing this, don't go near bushes that people could be hiding in).
+-   [Knives of Eylis](Knife_of_Eylis.md) and [Subtle Knives of Eylis](Subtle_Knife_of_Eylis.md) will give you bad reputation if you kill them in the hostage event for god knows what reason.

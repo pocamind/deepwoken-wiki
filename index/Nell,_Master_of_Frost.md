@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 72429
+revid: 74633
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -98,6 +98,12 @@ End of Dialogue
 
 ## Trivia
 
--   Both she and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). This implies they could be Black Divers, though they could just be wearing the outfit, much like other players.
+-   Both she and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers. [\[1\]](#cite-note-1)
     -   If they are indeed Divers, this would make she and Funke the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
 -   Her eyes are unique, having a dark blue sclera.
+-   Nell is equipped with a Gran Sudaruska. In the lore, only one Gran Sudaruska exists, so it can be assumed that Nell weilds _the_ Gran Sudaruska since she is the closest to a lore NPC. Though, it is most likely that she isn't in possession of the Gran, and probably has it for the games' sake; being so she has a unique, legendary weapon when shes fought.[\[2\]](#cite-note-2)
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

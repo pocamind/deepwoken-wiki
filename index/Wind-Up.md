@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 74535
+revid: 74654
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
