@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 74370
+revid: 74600
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -32,6 +32,11 @@ _Overview of the small village in Meteor Isle._
 -   Mercille, Vesparian - Meteor Isle > Starswept Sack Rewards
 -   [The Guy](The_Guy.md) - Summer Isle > Cannon Quest
 -   Sekh, Vesperian Hivekin - Meteor Isle Lore
+-   Crafting Table, Inn
+-   Blacksmith
+-   Well
+-   Cauldron
+-   Saffron, Oathless quest req
 
 ## Events
 

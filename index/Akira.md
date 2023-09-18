@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 72687
+revid: 74594
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -25,7 +25,7 @@ He has a Katana behind his back and a [Corrupted Bell](Resonance.md#corrupted-re
 
 His [Bell](Resonance.md) (Corrupted Top-Pop) allows him to instantaneously grip any entity he wishes at the cost of his lifespan and power. However, the stronger the target is, the more power and lifespan he will have to sacrifice to kill them.
 
-Players who have 100 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.
+Players who have 75 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.
 
 Despite him lacking in the experience department due to his young age, he's one of the strongest Black Divers, surpassing Klaris, Chaser and the strongest players.
 

@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 74518
+revid: 74582
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -55,10 +55,16 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Functions similar to Naruto character, Tobi/Obito's Mangekyou Sharingan Ninjutsu "Kamui" ability.
 -   Like [Portal](Portals.md), **Dimensional Travel** can be very useful in ambushing/ganking others.
 -   Gravity inside the Distortion Realm used to be reduced.
--   The portal left behind lasts only a few seconds.[2](https://youtu.be/wLgCWaPiyzY?t=32)
+-   The portal left behind lasts only a few seconds.[\[1\]](#cite-note-1)
 -   Similar to Minecraft's Nether Travel, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
--   There used to be a bug where buildings were been found in the Distortion Realm.
+-   There used to be a bug where buildings could be found in the Distortion Realm.
+-   There are some chunks of rock and debris that can be seen floating within the realm.[\[2\]](#cite-note-2)
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance.
 -   Despite looking like a good place to 1v1, it is _**EXTREMELY DANGEROUS**_ to attempt to 1v1 in Kamui while being in the Depths. As you can be downed and you will be teleported to where you would be in conjunction to Kamui. This has lead to people wiping in the past.
 -   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in a random direction while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
+
+## References
+
+1.  [↑](#cite-ref-1) [https://youtu.be/wLgCWaPiyzY?t=32](https://youtu.be/wLgCWaPiyzY?t=32)
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=sDxyA2dsbBA](https://www.youtube.com/watch?v=sDxyA2dsbBA)

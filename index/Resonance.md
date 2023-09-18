@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 74542
+revid: 74603
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Resonances, Mechanics]
 
 “ Your very soul resonates with the Song... ”
 
-― Card selection sample text
+― Deepwoken
 
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
 
@@ -28,7 +28,11 @@ Obtaining a **Resonance** will also allow the opening of Resonance Doors around 
  |
 | --- |
 
-## List of Unobtainable Resonances
+| 
+**LIST OF UNOBTAINABLE RESONANCES**
+
+ |
+| --- |
 
 -   **Corrupted** Top-Pop - [Akira](Akira.md)
 -   Dream Eater - [Haske Vantage](Primal_Vesperian.md)
@@ -224,3 +228,4 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   Ragoozer has confirmed that he is interested in **Evolved Bells**.
 -   **Resonances** might not be common knowledge to most, seeing as [Alastir](Alastir.md) had noted the bell on [Duke Erisia's](Duke_Ishamon_Erisia.md) waist but did not recognize it as a Resonance
 -   Arch mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
+-   Doing the [The Duke](Duke_Ishamon_Erisia.md) around six times will get you a **Resonance** but do this seven or eight times if you want to be safe this will be the safest way to do to get a **Resonance** if you know what your doing.

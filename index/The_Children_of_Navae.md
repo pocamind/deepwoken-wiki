@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 74561
+revid: 74578
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -39,5 +39,7 @@ notices:
 ## Trivia
 
 -   Children of Navae have the best weed according to Arch\_Mage.[\[1\]](#cite-note-1)
+
+## References
 
 1.  [↑](#cite-ref-1)
