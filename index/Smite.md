@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 74652
+revid: 74704
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -45,6 +45,9 @@ When obtained, Smite will spend its points on the following stats:
 
 -   **Unknown:** Unknown
 
+  
+
 ## Trivia/Notes
 
-Added alongside preservation and smokescreen on: 9/15/23
+-   Smite can trigger elemental talents, though it's quite inconsistent and complex, there's a gif above that shows azure-flamed corrupt smite balls, which is kinda cool!
+-   This resonance was added alongside [Smokescreen](Smokescreen.md) & [Preservation](Preservation.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.

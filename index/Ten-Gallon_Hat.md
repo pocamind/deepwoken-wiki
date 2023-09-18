@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 74413
+revid: 74677
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Hats]
@@ -31,3 +31,4 @@ The Ten-Gallon Hat is an [Equipment](Equipment.md) item in the "Head" category. 
 ## Trivia
 
 -   This hat is used for the Extremely Rare [King Gigamed](Gigamed.md) that wears a hat and plays the [Jellyfish Jam](https://www.youtube.com/watch?v=oWqAf4eex14) song. The hat is largely scaled in size.
+-   This hat goes HARD - Witherald

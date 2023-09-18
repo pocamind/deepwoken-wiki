@@ -1,9 +1,9 @@
 ---
 title: Shard Bow
-revid: 74649
+revid: 74707
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Resonances]
+categories: [Resonances]
 ---
 
 # Shard Bow
@@ -34,8 +34,6 @@ Both variants have complete penetration (100% PEN), meaning that no armor outfit
 If Shard Bow is corrupted, it deals double posture damage and hits apply White Flames that scales on INT. It also gains additional damage if the user has the talent Azure Flames.
 
 ### _Versions_
-
-File:Shard bow.gif
 
 #### _Variants_
 

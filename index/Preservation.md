@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 74644
+revid: 74690
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -43,6 +43,4 @@ When obtained, Preservation will spend its points on the following stats:
 
 ## Trivia/Notes
 
-Added 9/15/23 alongside smite and smokescreen.
-
-Just a reverse Blood Scourge
+-   This resonance was added alongside [Smite](Smite.md) & [Smokescreen](Smokescreen.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.

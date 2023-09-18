@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 74420
+revid: 74676
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -29,4 +29,5 @@ Leather Boots are an [Equipment](Equipment.md) item under the "Legs" category. T
 
 ## Trivia
 
+-   Leather Boots are the ONLY Legs Equipment that uses Common Pips. Although, it seems the common pip is always rolled as Health, so it may as well just be innate +3 Health.
 -   Leather Boots are part of the "**Leather**" set; with the only other armor piece being the **[Leather Pauldrons](Leather_Pauldrons.md)**.

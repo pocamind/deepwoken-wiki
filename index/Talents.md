@@ -1,9 +1,9 @@
 ---
 title: Talents
-revid: 74666
+revid: 74694
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Talents, Rare Talents, Mechanics, Character, Deepwoken, FREE KEY]
+categories: [Pages with broken file links, Mechanics]
 ---
 
 # Talents
@@ -1159,7 +1159,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Seaborne \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
 
--   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement. (Power level doesn't count)
+-   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of [equipment](Equipment.md) quicker than others. You can equip things at 3 points lower than the requirement. (Power level doesn't count)
 
 ### Ironsinger
 
@@ -1392,7 +1392,7 @@ _**"I often attack others."**_
 
 ### Merchant
 
--   Art of the Deal \[Common Talent, Equipment Exclusive\] - Your rapport with merchants gives you lower prices!
+-   Art of the Deal \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your rapport with merchants gives you lower prices!
     -   Reduces an item's price by about 12%.
     -   Obtained by equipping an [Aristocrat Coat](Aristocrat_Coat.md).
 
@@ -1922,7 +1922,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisite: 5 Fortitude
     -   Bugged
 
--   Winter's Protection \[Common Talent, Equipment Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
+-   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Obtained by equipping [Winter Corps Parka](Equipment.md).
     -   Increases the time it takes for parasites to kill you.
 
@@ -2030,10 +2030,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   The target need to be knocked to be able to pickpocket them.
     -   Prerequisites: 5 Agility, 10 Charisma
 
--   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped equipment when mugging a player. (+2 Passive Agility)
+-   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
-    -   If the player you are mugging doesnt have any notes, you will stop mugging unequipped equipment.
-    -   Does not take enchanted equipment
+    -   If the player you are mugging doesnt have any notes, you will stop mugging unequipped [equipment](Equipment.md)
+    -   Does not take enchanted [equipment](Equipment.md)
     -   Despite the 10 agility requirement, you need cap artist (25 agility)
 
 ### Thunder Brawler
@@ -2221,7 +2221,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Warrior
 
--   _Chronostasis_ \[Rare Talent\] - Landing an M1 puts target resonance on cooldown for a short duration. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] - Landing an M1 puts target [resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisite: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
@@ -2340,7 +2340,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   The talent grants immunity to the Flame Blind mantra.
 
--   Full Reset \[Common Talent\] - Knocking an enemy resets your resonance cooldowns. This effect has a 60 second cooldown.
+-   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisite: [Power](Power.md) 16
 
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)

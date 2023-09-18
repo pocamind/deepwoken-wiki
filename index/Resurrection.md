@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 72696
+revid: 74702
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -29,7 +29,7 @@ A spinning white circle appears on the back of the player who used resonance. A 
 
 ## Usage
 
-**Passive:** If a guild-mate's health drops below half, the Resurrection user can see the guild-mates health for the next few minutes.
+**Passive:** The Resurrection user can see allies' HP bars at all times, including guild members and anyone you enter into instances with.
 
 Pressing C will cast the **Resurrection** Resonance on the player you have your cursor over.
 

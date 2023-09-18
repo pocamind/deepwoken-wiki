@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 74653
+revid: 74688
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -45,4 +45,4 @@ When obtained, Smokescreen will spend its points on the following stats:
 
 ## Trivia/Notes
 
--   This bell was suggested by Always Afk
+-   This resonance was added alongside [Smite](Smite.md) & [Preservation](Preservation.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.
