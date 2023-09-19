@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 74432
+revid: 74762
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -31,7 +31,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 
-### Unnamed
+### Unnamed bandit settlement
 
 -   **Bandit Settlement**
     -   A small village settled by [Bandit Captains](Bandit_Leader.md).
@@ -154,4 +154,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia/Notes
 
 -   Although the island is considered a starter island, high level players still usually come to this island, either just passing by to the higher places (Duke, Upper Erisia/Burning Stone Gardens) or they are here to boost their friend, so be careful.
--   The helpers at Isle and Etris say that Erisia is "crawling with opportunists," which refers to how many players (and enemies) roam Erisia looking for loot or opportunities.
+-   The helpers at Isle and Etris say that Erisia is "crawling with opportunists," which refers to how many players (and enemies) roam Erisia looking for loot or opportunities. The phrase "who know not why they fight" is likely a reference to the bandits and thieves there.

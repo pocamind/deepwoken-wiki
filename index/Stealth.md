@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 68331
+revid: 74759
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,7 +25,7 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 -   Crouching.
 -   Improving your [Agility](Attributes.md) will improve your Stealth.
 -   The [Talent Card](Talents.md) _Now You See Me_ improves Stealth while crouched.
--   Equipping specific outfits:
+-   **Equipping specific outfits: (See below)**
     -   [Navaen War Chief](Navaen_War_Chief.md) grants +50% Stealth.
     -   [Whaler Coat](Whaler_Coat.md) grants +50% Stealth.
     -   [Shadow Hunter](Shadow_Hunter.md) grants the [Talent Card](Talents.md) _Now You See Me_.
@@ -41,8 +41,12 @@ When crouching:
 -   Players can activate [Murmur: Tacet](Murmur.md#murmur-tacet), a Murmur [Talent Card](Talents.md) that turns the player invisible in Stealth.
 -   Parkour is restricted.
 
-Against [Monsters](Monsters.md) or NPCs, Assassinations deal large damage and ragdoll the target for about five seconds (can be extended with the talent _Hidden Blade_). During this ragdoll, you are still able to deal damage to the enemy.
+Against [Monsters](Monsters.md) or NPCs, Assassinations deal large damage and ragdoll the target for about five seconds (can be extended with the talent _Hidden Blade_). During this ragdoll, you are still able to deal damage to the enemy. This can be useful if you are a low level and still trying to grasp blocking, parrying and dodging.
 
 Some enemies such as the Monks at [Songseeker Wilds](Songseeker_Wilds.md) or the [Necromancers](Ministry_Scout.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid monsters like [Megalodaunts](Megalodaunt.md), etc.
 
 Against players, Stealth is not very useful. Assassinations deal little damage to players and only ragdolls for one second.
+
+An alert bandit.
+
+When a humanoid enemy detects you, a dark yellow **"!"** will appear above their head. Enemies who are alert are unable to be assassinated.

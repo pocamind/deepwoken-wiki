@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 73714
+revid: 74763
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -61,8 +61,8 @@ Upper Erisia is home to many diffrent [natural hazards](Environmental_Hazards.md
 
 -   Many cliffs and ledges that you can easily fall off of if you're not careful of where you step. (It is highly recommended to bring a [glider.](Gliders.md)) **Some trees look like solid, grass ground from the top view.** However, if you step on them and if you are unlucky, you will fall down and take lots of fall damage.
 -   Acid rain will occur once in a while. Be careful as it drains your health bar fairly quickly.
--   Acid water will appear in pools. If you are low and you are downed inside a pool of acid water, you will get gripped if no one saves you.
--   In the Burning Stone Gardens, there are **cannons** that look like [Rock Golems.](Rock_Golem.md) Be careful as they will shoot white beams at you if you get in their line of sight. They cannot be killed nor damaged. Simply dodge / roll out of the way of the white beam.
+-   Acid water will appear in pools. If you are low and you are downed inside a pool of acid water, you will get gripped if no one saves you. You can also use this to your advantage in a gank, where if you don't have time to execute the enemy, you can throw them into the acid to instant-grip them.
+-   In the Burning Stone Gardens, there are **cannons** that look like [Rock Golems.](Rock_Golem.md) Be careful as they will shoot white beams at you if you get in their line of sight. They cannot be killed nor damaged. Simply dodge / roll out of the way of the white beam. This attack is identical to the Rock Golem's beam attack.
 -   On the [Temple Of The Forgotten Flame,](The_Temple_of_the_Forgotten_Flame.md) there is a Watcher on guard and will summon [lesser angels](Hollow_Angel.md) on you if they spot you. Lesser Angels aren't much of a threat, especially if you know how to parry. (Recommended level: 4-7) You can tell if a Watcher spotted you if it's original white light turns red.
 
 ## Loot Table

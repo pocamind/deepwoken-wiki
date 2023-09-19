@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 74131
+revid: 74755
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -47,6 +47,8 @@ Dark Blade
  | Slicing blades of dark energy. | 20 Ether | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
 
 -   Adding 1 Tornado Spark adds an additional spinning slash at the end of the initial slashes.
+-   adding rush shards make dark blade faster
+-   adding vibrant gems increase ether steal
 
  |
 | 
