@@ -1,8 +1,9 @@
 ---
 title: Badges
-revid: 74636
+revid: 74747
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Deepwoken]
 ---
 
 # Badges
