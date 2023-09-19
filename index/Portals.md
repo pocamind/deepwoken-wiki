@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 74643
+revid: 74722
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -23,13 +23,13 @@ categories: [Resonances]
 
 ### _Appearance_
 
-Once used, the user summons a white portal in front of them and becomes nearly completely invisible.
+Once used, the user summons a white portal in front of them and becomes invisible & invincible for a brief period of time.
 
 ## Usage
 
 Pressing C will activate the **Portal** Resonance.
 
-**Portal** grants the user invisibility, increased walk and swim speed and invincibility for 5.5 seconds until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
+**Portal** grants the user invisibility & invincibility to all damage, increased walk and swim speed for 5-9s until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
 
 If Portals is corrupted, you move faster and can take objects and players with you.
 
@@ -49,7 +49,6 @@ When obtained, Portals will spend its points on the following stats:
 -   This Resonance can be a great tool to ambush other players.
 -   Similar to _Valorant_ character **Yoru's** ultimate ability, hence why it's nicknamed **"Yoru."**
 -   Trying to use this bell while carrying a player (without it being corrupted), will most likely drop the player.
--   Very useful if you need to jump of a high cliff without taking damage. To do this, make sure to use BEFORE jumping off. If you don't, it might not activate.
 -   The Eternal Gale's slowness effect in [Layer 2](Second_Layer.md) can be negated by using the **Portal**, but the wind **may sometimes push you off**, so be cautious when using it.
 -   If you take damage/get assassinated during portals it forces you out of the portal.
 -   This Resonance can be used to exit the boundaries of [Guild Bases](Guild_Bases.md).[\[1\]](#cite-note-1)

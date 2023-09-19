@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 74405
+revid: 74737
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -402,6 +402,7 @@ Increased weapon range.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
 -   On release, Ironsing had 12 mantras and 11 talents.
+-   Ironsing is the only Attunement to have 5 3-star Mantras.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon on update release, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md), released in the exact same update as Ironsing itself.
 -   Ironsing is called "Element' in the game's code.

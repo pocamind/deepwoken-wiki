@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 74692
+revid: 74735
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -9,8 +9,6 @@ categories: [Monsters, Bosses]
 # Primadon, Titan of the East
 
 Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
-
-Also refered as Monkey, Water Monkey, Big Man, Harambe, Harambe's Big Brother.
 
 ## Description
 
@@ -26,7 +24,7 @@ It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md), fiv
 </tr>
 <tr>
   <td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td>
-  <td>3</td>
+  <td>5</td>
 </tr>
 <tr>
   <td><a href="Dark_Feather.md">Dark Feather</a></td>
@@ -98,10 +96,8 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 ### Preparation
 
 -   Unlike some other bosses, Primadon's health does **not** scale with the number of players present on the island- you are instead given _16 minutes_ to kill this boss. If this isn't done within that time period, it will walk back into the ocean and despawn without any rewards.
--   The footsteps of Primadon play a loud and distinct sound that can be heard from very far, even from nearby islands. You can use this to gauge if it's safe to enter- if the sounds of battle continue, you should probably be more wary of the player(s) fighting this fishy ape.
--   Having armor that has Blunt damage resistance greatly reduces the Primadon's damage during his stomps, and when paired with [Thresher Scales](Talents.md#marauder) you can take a lot less damage throughout the fight.
+-   Having armor that grants Physical / Blunt damage resistance greatly reduces the Primadon's damage during his stomps.
 -   It is recommended to stay completely still while fighting. When between Primadon's feet, it will only **Stomp, Trample, Disengage** and **Kick**. This is a great way to solo it as its foot attacks are obvious and can be easily parried or rolled out of.
-    -   Staying still may also avoid confusion from Primadon's walking animation.
     -   If Primadon does use **Disengage**, quickly close the distance so he doesn't use **Grab** or **Rock Throw**.
     -   If multiple players are attacking Primadon at the same time, make sure that they are all attacking from the same direction, otherwise it will constantly rotate. This makes it much harder to read its attacks when choosing whenever to parry or dodge.
 -   When fighting Primadon, **DO NOT** fight it if you're facing it with a large source of water directly behind your back - **especially** the ocean. If you fail to dodge the kick, you will be sent flying out into the ocean, or into one of the island pools, with a high likelihood of nobody being able to save you from drowning if you were knocked in the process of being flung.

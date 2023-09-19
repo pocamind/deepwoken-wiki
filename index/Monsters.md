@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 74663
+revid: 74738
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -34,13 +34,13 @@ Additionally, Corrupted Monsters are able to spawn. They are virtually identical
 
 ### Attuned Monsters
 
-Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement, and 100% less resistance to opposite attunements.
+Every time a monster spawns, it has a chance to spawn in with an attunement, giving it 50% resistance to its respective attunement but making it take 2x damage from its opposing attunement.
 
 #### Attunement Types/Effects
 
 -   Flamewreathed - Applies Burn on hit. Can additionally proc [Lava Serpent](Flamecharm.md) effects.
 -   Frostmantle - Applies Chilled on hit. Places Ice beneath hit players.
--   Galeforced - Applies Winded on hit. Deals Extra Knockback.
+-   Galeforced - Applies Winded and/or Suffocation on hit. Deals Extra Knockback.
 -   Thunderstruck - Applies Electrified on hit.
 -   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage.
 
