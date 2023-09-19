@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 74742
+revid: 74773
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -58,7 +58,7 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 ## Trivia
 
 -   Dawnwalker is a nerfed version of yayafino's [developer specs.](Developer_Specs.md#yayafino-zithori-vhemm-rybak-diri)
-    -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game, dealing half a bar of damage, unable to be dodged, able to teleport to people across the nomad camp in terms of range, and being able to be mantra feinted.
+    -   Due to the nature of the oath being a dev spec, Radiant Kick on release was absolutely one of the best mantras in the game, dealing half a bar of damage, being undodgeable, teleporting people across the nomad camp in terms of range, and being able to be mantra feinted.
 -   The ability Absolute Radiance may be a reference to one of the final bosses of the game [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight), that goes by the same name.
 -   Radiant Kick may be inspired by the boss Minos Prime from _ULTRAKILL_, as it highly resembles his "Judgement!" attack.
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities.

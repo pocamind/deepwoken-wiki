@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 73112
+revid: 74768
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -445,7 +445,7 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.7s | Dashing in [The Depths](The_Depths.md) |
 |  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
-|  | 6.0s | Wiping in [The Depths](The_Depths.md) |
+|  | 6.0s | Wiping in [The Depths](The_Depths.md) (Edited by Witherald) |
 |  | 1.4s | Deepwoken Menu Select |
 |  | 2.4s | Ice Raining |
 |  | 2.5s | Terrain Freezing |

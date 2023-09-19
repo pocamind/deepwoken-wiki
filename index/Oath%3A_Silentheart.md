@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 74744
+revid: 74772
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -26,7 +26,7 @@ categories: [Oaths]
 Meet the following requirements:
 
 -   Be [Attunement-less](Attunement-less.md).
--   Have at least 75 Weapon (uncap is not needed), ~40 in Strength and 40 in Agility OR Charisma.~ Have 40 points in any Two Stats (Str, Fort, Agil, Intel, Will, Char)
+-   Have at least 75 Weapon (uncap is not needed), Have 40 points in any Two Stats (Str, Fort, Agil, Intel, Will, Char)
 -   Talk to Suyuan for ghost ship dialogue
 -   Die to a player that uses an attunement. Chime of Conflict does not count.
 

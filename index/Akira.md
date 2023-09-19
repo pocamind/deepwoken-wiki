@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 74594
+revid: 74778
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -45,7 +45,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 > Akira: Another one..? You've got to be kidding me.
 
-| 1\. Wait, I'm not with them. | 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[100 [Charisma](https://deepwoken.fandom.com/wiki/Attributes?so=search#Charisma) requirement\] |
+| 1\. Wait, I'm not with them. | 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[75 [Charisma](https://deepwoken.fandom.com/wiki/Attributes?so=search#Charisma) requirement\] |
 | --- | --- |
 | Akira: _\*The menacing-looking man scans you up and down skeptically for a moment, \*_Well, either way it seems you know your place.
 1.  What are you doing down here?
@@ -72,7 +72,11 @@ Akira: As I said, I'm really quite busy with reading right now, and would love t
 
  | Requirements not met:
 
-Akira: So be it... (Dialogue is cut short by Akira using Top-pop on the player, instantly wiping them) Requirements met: \*_The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira Teleporting away.)
+Akira: So be it... (Dialogue is cut short by Akira using Top-pop on the player, instantly wiping them)
+
+Requirements met:
+
+\*_The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira Teleporting away.)
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 74501
+revid: 74771
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,7 +76,9 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 ## Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, it overwrites the user's current eye color and grants them orange eyes instead.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, ~it overwrites the user's current eye color and grants them orange eyes instead~ it does not visually change the character in any way, and the character's eye color remains the same. (TESTED)
+
+Variants
 
 ## Trivia
 
