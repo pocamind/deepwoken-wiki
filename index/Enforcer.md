@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 72323
+revid: 74833
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -34,11 +34,11 @@ Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size di
 ### Passives
 
 -   **Resilient -** Monsters damage buffs are half as effective against them.
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Enforcers.
 
 ### Finishers
 
 -   **Headsplitter** **\-** The Enforcer holds its axe up with one hand, and smashes it down on any player, killing them akin to Axe's grip execution.
--   **Monster Resistance** - Physical attacks deal ??? less damage to Enforcers.
 
 ## **Combat**
 

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 74678
+revid: 74843
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -211,7 +211,7 @@ _+Talent: Strong Hold_
 Found from:
 
 -   [Aratel Island](Aratel_Island.md)
--   Mob drop from [Authority Officer](Authority_Officer.md)
+-   Mob drop from [Authority Officer](Authority_Officer.md) (**~10%**)
 
  | N/A |
 | File:Barrel Helmet.png | 
@@ -1255,7 +1255,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
--   Mob drop from [Authority Captain](Authority_Captain.md)
+-   Mob drop from [Authority Captain](Authority_Captain.md) (**~15%**)
 
  | Black, Brown & White |
 | File:Blacksteel Pauldron.png | 
@@ -1569,7 +1569,7 @@ _+2 Posture_
 
 Found from:
 
--   Mob Drop from [King Thresher](King_Thresher.md) (~3%)
+-   Mob Drop from [King Thresher](King_Thresher.md) (**~3%**)
 
  | Azure, Cloud, Jade, Lavender & Umber |
 | File:Flameguard.png | 
@@ -1861,7 +1861,7 @@ Found from:
 -   [Minityrsa](Minityrsa.md)
 -   [Aelita](Aelita.md)
 -   [First Layer](First_Layer.md)
--   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (~2%)
+-   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (**~2%**)
 
  | Red, Black, Faded, Jet Black, Orange & Purple |
 | File:Khan Pauldrons.png | 
@@ -1942,7 +1942,7 @@ _+5% Damage vs. Monsters_
 
 Found from:
 
--   Mob Drop from [Megalodaunts](Megalodaunt.md) (~3%)
+-   Mob Drop from [Megalodaunts](Megalodaunt.md) (**~3%**)
 
  | Red, Purple, Brown, Green, Blue & Peach |
 |  | 
@@ -1991,7 +1991,7 @@ _+10 Ether_
 
 Found from:
 
--   [Minityrsa](Minityrsa.md) (Valley of Heroes, Hero Blade Event)
+-   [Valley of Heroes, Hero Blade Event](Minityrsa.md) (~20%)
 
  | Onyx, Pink, Scarlet, Verdant, Yellow, & Smoke |
 |  | 
@@ -2035,7 +2035,7 @@ Found from:
 -   [Erisia](Erisia.md)
 -   [Blacksteel Pirate](Blacksteel_Pirate.md)
 -   [Hell Mode](Hell_Mode.md)
--   [Eastern Tribal Leader](Eastern_Nomad_Leader.md)
+-   Mob drop from [Eastern Tribal Leader](Eastern_Nomad_Leader.md) (**~10%**)
 
  | N/A |
 | File:Crimson elite pathfinder.png | 
@@ -2060,7 +2060,7 @@ _+5% Damage vs. Monsters_
 
 Found from:
 
--   Mob Drop from [Nautilodaunt](Nautilodaunt.md) (~3%)
+-   Mob Drop from [Nautilodaunt](Nautilodaunt.md) (**~3%**)
 
  | Ash, Black, Crimson, Sage & Magenta |
 |  | 
@@ -3040,7 +3040,7 @@ _+3% Elemental Armor_
 
 Found from:
 
--   Mob Drop from [Dread Serpent](Dread_Serpent.md)
+-   Mob Drop from [Dread Serpent](Dread_Serpent.md) (**~20%**)
 
  | N/A |
 | File:Canticlysm Pendant.png | 
@@ -3529,7 +3529,7 @@ Hivelord Mask
 
 Found from:
 
--   Mob Drop from [Hive Constructs](Hive_Construct.md)
+-   Mob Drop from [Hive Constructs](Hive_Construct.md) (**~20%**)
 -   [Chime of Conflict](Chime_of_Conflict.md) (**Rare**)
 -   [Second Layer](Second_Layer.md)
 
@@ -3621,7 +3621,7 @@ Found from:
 Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
--   Mob drop from Masked Songseeker Enemies
+-   Mob drop from Masked Songseeker Enemies ~(**10%**)
 
  | Blue, Green & Red |
 | File:Smith Goggles.png | 
@@ -3747,7 +3747,7 @@ Variants
 
 Found from:
 
--   [Ferryman](The_Ferryman.md) (Extremely Common)
+-   [Ferryman](The_Ferryman.md) (**100%**)
 
  | N/A |
 |  | 
