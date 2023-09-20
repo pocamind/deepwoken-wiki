@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 74688
+revid: 74874
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -21,7 +21,7 @@ notices:
 
 ## Description
 
-**Smokescreen** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is ? to roll.
+**Smokescreen** is a [Resonance](Resonance.md) or "bell" that players can obtain.
 
 ### _Appearance_
 
@@ -43,6 +43,6 @@ When obtained, Smokescreen will spend its points on the following stats:
 -   **?**
 -   **?**
 
-## Trivia/Notes
+## Trivia
 
 -   This resonance was added alongside [Smite](Smite.md) & [Preservation](Preservation.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.

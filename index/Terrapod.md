@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 72315
+revid: 74877
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -46,5 +46,5 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 -   You **can't** sneak up on Terrapods.
 -   This monster executes you in **under a second.** Be extremely careful with low HP friends around you.
 -   You can use Terrapod bait to spawn them whenever you want so you can farm their claws and annoy people with hordes of them. You can also get Red Terrapods to spawn with the bait in-case you want to see one or try and get an [Evanspear](Evanspear_Greataxe.md) from one.
--   There are two guaranteed spawns. One near the bandit village in Lower Erisia and one near the Legendary Boot.
+-   There are two guaranteed spawns. One near the bandit village in Lower Erisia, one near the entrance of The Garden Reservoir, and one near the Legendary Boot.
 -   The Terrapod is actually a turtle, despite all features suggesting that it may be a crab.

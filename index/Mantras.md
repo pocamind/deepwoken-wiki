@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 73124
+revid: 74849
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -71,7 +71,7 @@ Large and threatening fire-based spells. Excels in crowd control and area denial
 -   Very good at close range
 -   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any mantra for the removal of burn.
 -   Can be further upgraded with Azure Flame for even more damage.
--   Decent midrange presence
+-   Decent mid-range presence
 -   Good pressure
 -   Great at dealing LOTS of damage.
 
@@ -198,6 +198,6 @@ Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for
 
 ## Trivia
 
--   Mantras _can_ be levelled beyond the normal limit of 5, but only via developer interaction.
--   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Songkeeper Temple](Songseeker_Temple.md).
+-   Mantras _can_ be leveled beyond the normal limit of 5, but only via developer interaction.
+-   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Song keeper Temple](Songseeker_Temple.md).
 -   Elemental Intensity once affected the damage of certain mantras, but no longer does.

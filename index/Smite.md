@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 74704
+revid: 74851
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -27,13 +27,13 @@ notices:
 
 ### _Appearance_
 
-When used, multiple white spheres appear around the user. These spheres will fire at enemies dealing decent damage.
+When used, multiple white spheres appear around the user. These spheres will fire at enemies dealing decent damage. Does 20 damage per orb (80 damage in total) The corrupted version does 25 damage per orb (150 damage in total)
 
 ## Usage
 
 Pressing C will activate the **Smite** Resonance.
 
-If Smite is corrupted, the orbs will instead appear red and black and makes the orbs have autoaim (possibly more).
+If Smite is corrupted, the orbs will instead appear red and black and makes the orbs have auto aim (possibly more).
 
 ### _**Smite**_
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 74737
+revid: 74850
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -410,3 +410,4 @@ Increased weapon range.
 -   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore, Gold is the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect using Irithine gives a green particle effect but no boost using Erisore gives a blue particle effect but no boost as well.
 -   Oxidizing rush highly resembles Junker Queen's "Rampage" from Overwatch 2.
+-   Ironsing is the last Attunement added to Deepwoken (may 23rd 2023)

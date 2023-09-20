@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 74690
+revid: 74878
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -44,3 +44,4 @@ When obtained, Preservation will spend its points on the following stats:
 ## Trivia/Notes
 
 -   This resonance was added alongside [Smite](Smite.md) & [Smokescreen](Smokescreen.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.
+-   Targets who are lit aflame and then picked up with Preservation will still burn to death even if the target is successfully put in the protective bubble. (possible bug)
