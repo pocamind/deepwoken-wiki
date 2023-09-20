@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 74770
+revid: 74792
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -54,8 +54,8 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). Flamecharm talents can be triggered by this fire.<br>
-  Lava Serpent will create an explosion instead of creating a fire; doesn't proc on yourself.</p></div></td>
+  <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). This can be used to trigger Flamecharm talents.<br>
+  Lava Serpent will create an explosion instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ There are two variants that enchantments come in:
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 17.5 damage on top of the enchanted weapon's damage to them and others around beside the user. The damage from explosions is effected by global damage modifiers.<br>
+  times they explode, dealing an additional 16-20 damage on top of the weapons damage to them and others around beside the user. The damage from explosions is effected by damage modifiers and bypasses armor.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
@@ -107,7 +107,7 @@ There are two variants that enchantments come in:
   <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (1.20x damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)<br>
-  Heroism does not scale with PvE.<br>
+  <br>
   </p></div></td>
   <td><div>Weapon covered in a yellow glow.</div></td>
 </tr>

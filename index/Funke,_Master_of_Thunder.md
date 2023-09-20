@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 74628
+revid: 74813
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -54,6 +54,7 @@ Funke executes his opponent after knocking them:
 -   Funke is the German work for "spark".
 -   He does not wield the [Stormseye](Stormseye.md), despite both being at Summer Isle and it being a Thundercall based weapon. (Though, he is meant to).[\[2\]](#cite-note-2)
     -   This is most likely due to the laziness of the Developers, as the Stormseye was added after his Enemy variant was.
+        -   Arch\_Mage states the reason is rifles not being coded for NPCs, but [this is incorrect](<Summer_Dragoon_(NPC).md>).
 
 ## References
 

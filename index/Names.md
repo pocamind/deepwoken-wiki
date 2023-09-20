@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 74332
+revid: 74784
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1514,13 +1514,15 @@ You can choose your first name from any available, but your choices of last name
 ## Trivia
 
 -   Most names added after the release of the game somehow end up in all three options, despite it being meant to either be in Male, Female or Neutral, as, by default, names that can be in more than one category should be in Neutral.
+-   The name "Usopp" is a reference to [the One Piece character of the same name](https://onepiece.fandom.com/wiki/Usopp).
 -   The names "Ornstein" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough).
     -   Initially, the name "Ornstein" was erroneously spelled as "Orstein."
--   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
+-   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
     -   Funnily enough, they are both technically the same person.
 -   Names such as "Kaladin" and "Adolin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
--   Names such as "Vin" and "Wax" are references to the book series "Mistborn", also by Brandon Sanderson.
+-   The name "Aesop" is a reference to [the famous storyteller Aesop](https://en.wikipedia.org/wiki/Aesop).
+-   Names such as "Vin" and "Wax" are references to the book series "[Mistborn](https://en.wikipedia.org/wiki/Mistborn)", also by Brandon Sanderson.
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
 -   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
--   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the Lightborn last name.
+-   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   The random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.

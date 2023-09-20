@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 74780
+revid: 74814
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,9 +16,7 @@ categories: [Mechanics]
 -   The chance of obtaining a Regalia is increased the more progressed your last character was.[\[1\]](#cite-note-archinfo-1)
 -   **You may only have 1 Regalia per character, and your character acquiring a Regalia is not guaranteed.**[\[1\]](#cite-note-archinfo-1)
 
-## Regalia
-
-A list of all Regalia.
+## List of Regalia
 
 ### Mute
 
@@ -26,9 +24,7 @@ Mute, named "Animal King" by the community, causes all [Monsters](Monsters.md) (
 
 Wiping below an unknown Power (3 is an estimate) is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
 
-Activating [Hell Mode](Hell_Mode.md) will disable Mute until it ends.
-
-Mute does not work in [The Eternal Gale](Second_Layer.md).
+Mute is disabled in [Hell Mode](Hell_Mode.md) and all Dungeons (I.E. [The Eternal Gale](Second_Layer.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)).
 
 -   [Immortal Guardians](Immortal_Guardian.md) are affected by Mute.
 -   [Brainsuckers](Brainsucker.md) encountered in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) are not affected by Mute.

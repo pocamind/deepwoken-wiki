@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 58827
+revid: 74793
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -31,7 +31,7 @@ categories: [Weapons, Shields]
 
 ## Description
 
-A Khan Shield is a [side weapon](Weapons.md) in the Shield category. It can be obtained through chests in [Starswept Valley](The_Starswept_Valley.md) and [Fort Merit](Fort_Merit.md); it also requires 60 Fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md), [Kite Shield](Kite_Shield.md), and the [Worshipper's Shield](<Worshipper's_Shield.md>).
+A Khan Shield is a [side weapon](Weapons.md) in the Shield category. It can be obtained through chests in [Starswept Valley](The_Starswept_Valley.md) and [Fort Merit](Fort_Merit.md); it also requires 60 Fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md), [Kite Shield](Kite_Shield.md), [Worshipper's Shield](<Worshipper's_Shield.md>) and the [Ethiron Curseshield](Ethiron_Curseshield.md).
 
 ## Trivia
 

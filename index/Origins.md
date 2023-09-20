@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 74667
+revid: 74794
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -112,6 +112,7 @@ Also, all of the kills need to be made on one single character.
     -   Your starting reputations are:
         -   Friend of The Knives of Eylis and Lost Celtor
         -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, and The Hundred Legions.
+-   **\[CON\]** You can be hunted by fellow voidwalkers if you have negative rep with those with a bounty board
 
 ## Upcoming Origins
 

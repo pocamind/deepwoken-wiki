@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 74654
+revid: 74815
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -19,7 +19,7 @@ categories: [Resonances]
 
 ## Description
 
-**Wind-Up** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Wind-Up** is a [Resonance](Resonance.md) or "bell" that players can obtain and is common to roll.
 
 ### _Appearance_
 
@@ -29,16 +29,20 @@ When used, small circles appear around your right arm. Per use, more circles wil
 
 Pressing C will activate the **Wind-Up** Resonance.
 
-**Wind-Up** will store a level of power that will be inflicted on your next attack. It has a duration of about 1 minute, after which the effects will disappear and the resonance will go on a short cooldown of around 10 seconds. **Wind-Up's** max level of power is five. Once dealing an attack that deals damage, you unleash a blast that deals additional damage and ragdolls. If your charged attack is parried, it will cancel the ability and inflict massive damage to your posture, though will not break it, and knock back enemies who parried it. Getting dodged will also cancel the ability. If your attack is parried by an NPC, your posture will be punished as usual and extra posture will not be given. It can also execute mobs when they are knocked by it and if charged three times or more, it's able to execute enemies that were knocked from other sources of damage. If out of combat, standard Wind-Up cannot be charged past two winds.
+**Wind-Up** will store a level of power that will be inflicted on your next attack. It has a duration of about 1 minute, after which the effects will disappear, and the resonance will go on a short cooldown of around 10 seconds. **Wind-Up's** max level of power is five. Once dealing an attack that deals damage, you unleash a blast that deals additional damage and ragdolls. If your charged attack is parried, it will cancel the ability and inflict massive damage to your posture, though will not break it, and knock back enemies who parried it. Getting dodged will also cancel the ability. If your attack is parried by an NPC, your posture will be punished as usual and extra posture will not be given. It can also execute mobs when they are knocked by it and if charged three times or more, it's able to execute enemies that were knocked from other sources of damage. If out of combat, standard Wind-Up cannot be charged past two winds.
 
 If Wind-Up is corrupted, the ability to execute knocked entities only require 1 charge instead of 3.
 
-### _**Resonance Point usage**_
+### _**Resonance Point Usage**_
 
 When obtained, Wind-Up will spend its points on the following stats:
 
 -   **Charge amount:** The more points are spent on this stat, the fewer charges it takes to reach max charges.
 -   **Charge speed:** The more points are spent on this stat, the shorter the charge animation is.
+
+## Gallery
+
+Green Coloration
 
 ## Trivia
 

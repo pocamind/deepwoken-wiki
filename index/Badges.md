@@ -1,6 +1,6 @@
 ---
 title: Badges
-revid: 74747
+revid: 74812
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -8,55 +8,33 @@ categories: [Deepwoken]
 
 # Badges
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Image</th>
-  <th>Difficulty</th>
-  <th>Description</th>
-</tr>
-<tr>
-  <td>Oathsworn</td>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>0.2%</td>
-  <td><i>"Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it."</i></td>
-</tr>
-<tr>
-  <td>Soul Resonance</td>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>0.2%</td>
-  <td><i>"Your soul has resonated with the Song, now producing its own distinct Tone. This resonance has manifested as the instrument now kept at your hip."</i></td>
-</tr>
-<tr>
-  <td>Maximum Power</td>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>0.2%</td>
-  <td><i>"You've reached Power 20, the pinnacle of your natural abilities. But perhaps there are further ways to gain strength?"</i></td>
-</tr>
-<tr>
-  <td>Trial Of One</td>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>0.2%</td>
-  <td><i>"Complete the Trial of One. Could you be the One we've been searching for?"</i></td>
-</tr>
-<tr>
-  <td>S Rank</td>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>0.0%</td>
-  <td><i>"Achieve an S Rank Legacy. Every title, every accolade - all beneath you now."</i></td>
-</tr>
-<tr>
-  <td>A Rank</td>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>0.0%</td>
-  <td><i>"Achieve an A Rank Legacy. A life that was truly worth living."</i></td>
-</tr>
-<tr>
-  <td>W Rank</td>
-  <td><figure><figcaption></figcaption></figure></td>
-  <td>0.0%</td>
-  <td><i>"Achieve a W Rank Legacy. No shadows can dim your light."</i></td>
-</tr>
-</tbody>
-</table>
+## Description
+
+**Badges** are the game achievement mechanics that reward players with them upon completing the required task.
+
+## List of Badges
+
+| Name | Image | Difficulty | Description | Times Obtained |
+| --- | --- | --- | --- | --- |
+| [Oathsworn](https://www.roblox.com/badges/2143198609/Oathsworn) | 
+ | 0.2% | _"Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it."_ | 211,453 |
+| [Soul Resonance](https://www.roblox.com/badges/2143198840/Soul-Resonance) | 
+
+ | 0.2% | _"Your soul has resonated with the Song, now producing its own distinct Tone. This resonance has manifested as the instrument now kept at your hip."_ | 153,727 |
+| [Maximum Power](https://www.roblox.com/badges/2143199056/Maximum-Power) | 
+
+ | 0.2% | _"You've reached Power 20, the pinnacle of your natural abilities. But perhaps there are further ways to gain strength?"_ | 169,023 |
+| [Trial Of One](https://www.roblox.com/badges/2143228608/Trial-of-One) | 
+
+ | 0.2% | _"Complete the Trial of One. Could you be the One we've been searching for?"_ | 129,258 |
+| [S Rank](https://www.roblox.com/badges/2143570377/S-Rank) | 
+
+ | 0.0% | _"Achieve an S Rank Legacy. Every title, every accolade - all beneath you now."_ | 1,263 |
+| [A Rank](https://www.roblox.com/badges/2143803292/A-Rank) | 
+
+ | 0.0% | _"Achieve an A Rank Legacy. A life that was truly worth living."_ | 8,384 |
+| [W Rank](https://www.roblox.com/badges/2148083573/W-Rank) | 
+
+ | 0.0% | _"Achieve a W Rank Legacy. No shadows can dim your light."_ | 983 |
+
+Please update the "Times Obtained" section every 2-3 weeks. Thank you.

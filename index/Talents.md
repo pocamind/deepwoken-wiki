@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 74754
+revid: 74782
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2420,6 +2420,7 @@ File:Thresherquest1.png
 -   Requires Strong left
 -   Quest giver located at Etris and The Isle Of Vigils they are the NPC that gives you a free lumber axe. Tell them about your wood.
 -   Punch down 5 trees then return
+    -   This talent was made by Arch\_Mage
 
 ### Family Recipe
 

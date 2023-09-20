@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 69676
+revid: 74804
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -76,6 +76,8 @@ A race of nomadic dragons from the North.
   
 
 -   Drakehardt
+-   Spellhardt
+    
 
 ## Trivia
 
