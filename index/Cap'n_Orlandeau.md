@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 70971
+revid: 74820
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,21 +19,11 @@ categories: [NPCs]
 
 ## Description
 
-**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a [Felinor](Felinor.md) captain of the [Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appeared as a tutorial guide for the game upon talking to him (in the form of a fragment of your memory) in the [Fragments of Self](Fragments_of_Self.md) and taking the [Castaway Origin](Origins.md). Once manned a crew of seven in his ship, his ship was scuttled by [The Authority](The_Central_Authority.md) leaving his fate unknown.
+**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) captain of the [Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appeared as a tutorial guide for the game upon talking to him (in the form of a fragment of your memory) in the [Fragments of Self](Fragments_of_Self.md) and taking the [Castaway Origin](Origins.md). Once manned a crew of seven in his ship, his ship was scuttled by [The Authority](The_Central_Authority.md) leaving his fate unknown.
 
 As of the Post-Verse 2 update, he is confirmed to have survived the scuttling, sank into the oceans, and found his way to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the Second Layer, leaving him as the sole survivor among the Scoundrel's Bounty crew. Believing this may be his final plunder, he explores the sleeping city in search of treasures, fame, and glory.
 
 The player can run into him atop of one of the balconies in the city. His dialogue changes depending on if you did the tutorial or not.
-
-He wears
-
-[Flame Worshipper Armor](Flame_Worshipper_Armor.md)
-
-[Brigand's](<Brigand's_Bicorn.md>) [Bicorn](<Brigand's_Bicorn.md>)
-
-Celtor Commander Plate
-
-He is a Panther felinor
 
 ## Dialogues in the City of New Kyrsa
 
@@ -135,3 +125,4 @@ He is a Panther felinor
 
 -   Despite the dialogue, the version of Orlandeau that appears in the Fragments of Self is not a ghost, rather a memory.
     -   This is hinted at by the NPC's name being 'The Captain' rather than 'Cap'n Orlandeau.'
+-   Wears [Flame Worshipper Armor](Flame_Worshipper_Armor.md), a [Brigand's](<Brigand's_Bicorn.md>) [Bicorn](<Brigand's_Bicorn.md>), and a [Celtor Commander Plate](Celtor_Commander_Plate.md).
