@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 74095
+revid: 74899
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
