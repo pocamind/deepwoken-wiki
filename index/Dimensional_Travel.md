@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 74872
+revid: 74893
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

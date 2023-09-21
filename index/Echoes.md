@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 72501
+revid: 74882
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -58,7 +58,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
--   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes.
+-   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes. ([Idol of Yun'Shul](Relics.md) counts for this.)
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
 -   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Heroblade or Railblade, awarding 5 Echoes.
@@ -303,6 +303,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ## Trivia
 
+-   In order to max out every single Echo upgrade, you need exactly 1,700 Echoes. (13 S-Ranks or 4 W-Ranks)
 -   Combining all Modifiers awards a 3.2x increase.
 -   The term "ironwoken" is reminiscent of the "ironman" mode in old-time runescape, preventing trading among other restrictions.
     -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester.

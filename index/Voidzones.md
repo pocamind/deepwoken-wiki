@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 58702
+revid: 74894
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -18,7 +18,7 @@ LocationL Voidzones LocationR
 
 ## Overview
 
-Voidzones are places of High Risk and High Rewards, with each Voidzone having unique environmental hazards, enemies and loot. They can be found across the Lumen; and sometimes house important events such as Oaths or questlines.
+Voidzones are places of High Risk and High Rewards, with each Voidzone having unique environmental hazards, enemies and loot. They can be found across Lumen; and sometimes house important events such as Oaths or questlines.
 
 While inside a Voidzone:
 

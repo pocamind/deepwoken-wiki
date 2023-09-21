@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 74874
+revid: 74879
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -31,7 +31,7 @@ When used, a cloud of smoke appears around the user. This smoke cloud hides the 
 
 Pressing C will activate the **Smokescreen** Resonance.
 
-**Smokescreen** will instantly generate a extremely dark cloud of smoke that makes th euser entierly invisible while inside. It can be cancelled by using either a M1 or Mantra.
+**Smokescreen** will instantly generate a extremely dark cloud of smoke that makes the user entirely invisible while inside. It can be cancelled by using either a M1 or Mantra.
 
 If Smokescreen is corrupted, it can be activated again by pressing C, which releases three extra clouds and teleports the caster to a random one.
 

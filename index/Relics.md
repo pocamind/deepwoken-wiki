@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 74480
+revid: 74885
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -46,9 +46,9 @@ File:Sinner's Ash.png
 
  | **Sinner's Ash -** "Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes."
 
--   Corrupts your current [Resonance](Resonance.md)
--   Non-Droppable
+(Not Droppable)
 
+-   Corrupts your current [Resonance](Resonance.md)
 -   No other known features
 
  | Drops in chest from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) |

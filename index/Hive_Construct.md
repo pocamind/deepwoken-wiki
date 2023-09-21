@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 72101
+revid: 74884
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -100,7 +100,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   Can easily kill you even at Power 20 if alone or inexperienced.
 -   Usually not worth fighting head-on. Even if you try, this Construct will obscure your vision with trees all the time.
 -   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
--   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.
+-   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Hive Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.
 -   There are many ledges on Minitrysa that allow you to easily cheese the construct without taking damage.
     
     A hive golem talking.
@@ -114,7 +114,7 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   Hive Constructs can drop [Pomars](Pomar.md) upon death.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
--   The golems have an idle animation similar to the Ninja Animation pack.
+-   The Constructs have an idle animation similar to the Ninja Animation pack.
 -   Hive Construct are unable to swim, and will instantly drown if they attempt to enter water.
 -   Hive Construct will always win against an [Authority Captain](Authority_Captain.md).
 -   Unlike most monsters they don't have cancollide on, which means you can touch their model without phasing through them.
