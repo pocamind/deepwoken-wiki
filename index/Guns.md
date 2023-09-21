@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 74671
+revid: 74932
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -26,7 +26,7 @@ The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Pea
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
-Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun).. Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
+Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun).. Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%. The one-handed gun talent tree is "Outlaw" and "Gunslinger."
 
 **As of August 14th 2023, using a one-handed gun without a side-gun will change your attack cycle**. When using guns one-handed you will pistol whip the opponent (2-hit flourish), however pressing Y or Z will make you stand still and load bullets into your gun, different guns hold different amounts of bullets, the Dragoon holds 3, Flintlock holds 4 and the Revolver and Silversix both hold 6. The length of the reload animation is dependent on the amount of bullets you're missing (0.5x(Missing Bullets)), so reloading an empty Dragoon will take 1.5s, reloading an empty flintlock will take 2, etc. Above your health bar, you can see a revolver chamber that shows you how many bullets you have remaining loaded in your weapon.
 

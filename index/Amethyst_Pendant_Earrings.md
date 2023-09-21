@@ -1,6 +1,6 @@
 ---
 title: Amethyst Pendant Earrings
-revid: 73830
+revid: 74936
 source: https://deepwoken.fandom.com/wiki/Amethyst_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -29,6 +29,7 @@ Amethyst Pendant Earrings are [Equipment](Equipment.md) in the Ears category. Eq
 
 ## Trivia
 
+-   Amethyst Pendant Earrings used to be light purple as seen in the image above.
 -   Amethyst Pendant Earrings look ALMOST the same as [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md), only difference being that it is a slight darker shade.
 -   These Earrings are a part of the Pendant series of Earrings this list includes, [Pendant Earrings](Pendant_Earrings.md), [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md), [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md).
 -   While known for being purple, amethyst can indeed be red.
