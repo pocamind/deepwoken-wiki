@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 74521
+revid: 74919
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1426,33 +1426,43 @@ Oaths, as it is observed, are acquired when one pledges their soul to a certain 
 
 It is unknown how Oath Magic manifests itself - in other words - get created. But it is widely observed that Oaths can be granted through a variety of means, as long as a process of binding one's soul is present. This allow Oaths to be granted through static, and active means. This is evident through the fact that the player is able to acquire Oaths either through an object of power such as Linkstrider or Blindseer, or through someone of the same likeness like Fadetrimmer and Contractor. A universal theme within these examples is that Oaths can only be acquired through something or someone who also posses aspects of said Oath.
 
-Breaking an Oath is a topic that isn't well understand thanks to it's lack of examples in the Deepwoken world, but under certain conditions, this can be granted. Oathless, being an Oath of contradictory value, can be unbound through the assistance of Yun'Shul's communion. Though the fact that one would require otherworldly powers to break off from an Oath highly suggests that an individual would be incapable of breaking off from an Oath without special measures.
+Breaking an Oath is a topic that isn't well understood thanks to it's lack of examples in the Deepwoken world, but under certain conditions, this can be granted. Oathless, being an Oath of contradictory value, can be unbound through the assistance of Yun'Shul's communion. Though the fact that one would require otherworldly powers to break off from an Oath highly suggests that an individual would be incapable of breaking off from an Oath without special measures.
 
 ### Blindseer
 
-People who make an Oath to seek the truth of the deepwoken world. Their blindfold grants them immunity to insanity as a way to help them unravel the truth. Though mere humans, their Oath allows them to see things that others cannot see, as their mind is stronger and they vow to see the truth rather than what their brain makes things out to be. This Oath is directly associated with the fact that humans are weak and so is their minds, being the only life form known to go insane but have massive potential as a drawback and lets them make Oaths and choose their own path in the world of deepwoken, being that those who take this Oath seek to become more than this and seek the truth, feeling as though their human mind is capable of more than they realize and they just need the willpower to comprehend it. The will to do something is ultimately the source of why willpower grants sanity, it is simply the will to unravel the truth of the world that grants you the immunity to its effects, yet humans are the only creatures without this knowledge granted to them and seek knowledge to explain everything.
+-   People who make an Oath to seek the truth of the Deepwoken world by rejecting their sight, protecting them from the horrors of the world.
+-   This Oath is associated with the fact that Humans, being one of the weaker entities in the world, are highly vulnerable to the effects of insanity, where most of seek out the secrets of the sea will almost-certainly be driven to insanity by the truths that they come to learn.
+-   A Blindseer becomes stronger as they free lost souls (pathfinders) from the Depths via the Depth trials. This is due to the fact that their duty entails protecting others from the horrors of the waking world, and to guide those who are not capable of tackling such a feat back to their lives ignorant to what lies below.
+-   Blindseers are not required to be naturally blind. As long as their vision is obscured, the effects of the Oath will manifest.
+-   Blindseers lose their vision in exchange for an alternate form of vision. To the player, this is the blue-vision they receive while being blinded with the Oath, though whether this is the result of drastically heightened perception, or a literal alternate vision for them, is unknown.
+-   The lost of vision and heightened sanity does not equal to immunity towards insanity. Blindseers are still prone to the effects of insanity as they are still human.
 
 ### Visionshaper
 
 -   Counter part to Blindseer, those who vow to create illusions and manipulate reality, creating lies instead of searching for the truth.
 -   Visionshapers made a vow to the Nestmind, the "Mother/father" of all owls.
--   Despite having great powers of reality bending, all visionshapers are doomed to become food for the Nestmind.
+-   Despite having great powers of reality bending, all Visionshapers are doomed to become food for the Nestmind.
+    -   Due to the fact that the Nestmind appears to be an entity that sustains itself through consuming (but not exclusively) human thought and concepts, hence only those who has a sophisticated enough mind is fit to be developed for consumption.
 -   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilites, also that you need to interact with her to get the Oath.
+    -   'Notorious' in the sense that she plays tricks with people who are, most likely, stranded on the harsh environments of Minitrysia, and sends them to their death whenever they don't play along. Likely resulting in many unwarranted deaths.
 
 ### **Oathless**
 
--   An Oathless is someone who has swore an Oath to himself of never taking an Oath to be able to follow their own goals and ideals.
--   It is believed that this Oath is a weak Oath due to being a contradiction since they swear to never take an oath when in reality they are making one.
--   It is the only Oath that the Drowned God Yun'shul is able to remove from a person.
+-   People who swore themselves to never be bound by an Oath, granting them a convincing illusion of freedom.
+-   Due to the contradictory value of the Oath, it is believed that 'Oathless' is one of the weaker Oaths in the Deepwoken world.
+    -   It is worth noting that while it is true that the notion of the oath is contradictory, this does not subvert it's effects. In other words, the Oath matches it's vows, hence the relevancy of it's legitimacy is not affected since it is the notion and illusion that matters, as long as such a notion isn't shattered.
+-   It is the only Oath that the Drowned God Yun'shul is able to unbound from a person.
+    -   While most may agree that the reason behind this is due to the Oath's beliefs can be easily shaken, others view this as being due to the fact that Oathless is an Oath that is worthy of the attention and caution of a greater entity such as Yun'Shul. Apparently, enough to warrant direct interference from them in order to erase the bindings of this oath from a person.
+    -   This is thanks to Arch\_Mage mentioning that Oathless is the most powerful Oath there is, though the canon-value of this claim remains to be seen.
 
-### **Jetstrikers.**
+### **Jetstriker**
 
 -   People who swore an Oath to flow with the Song and being its conductor.
--   Usually the people who swore upon this Oath are very playfull and being called "Windrunners".
--   It is suspected that some members of the Vigils swore this Oath, due to one of their abilities having its name while being learned at their temple.
--   Jetstrikers are granted powers that allowed them to travel huge distances at high speed and being able to reach the highest of peaks.
+-   Keepers of this Oath are alternative called 'Windrunners' due to their sheer speed, and likeness with aspects of the Wind. (Not to be confused with the Gale)
+-   It is likely that some members of the Vigils swore this Oath, due to one of their abilities having its name while being learned at their temple.
+-   Jetstrikers are granted powers to manipulate their physical form to travel along with the Wind, along with several other powers that allows them to traverse far distances and overcome great peaks.
 
-### **Linkstriders**
+### **Linkstrider**
 
 -   People who have made an Oath to try to "fix" this "fragile world" with their powers becoming the support of their allies.
 -   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their simbiotic powers.
@@ -1460,44 +1470,64 @@ People who make an Oath to seek the truth of the deepwoken world. Their blindfol
 
 ### Starkindred
 
--   The counterpart to Deepwoken, those who have consumed a piece of a Celestial.
+-   The counterpart to Deepwoken, those who have consumed a piece of a Celestial, binding them to the skies rather than the tides.
 -   It is known that they "Feel all at once", probably feeling the connection they made with the Celestial.
--   Some Starkindreds are stronger than others depending on the Celestial they consumed a piece of, the case of the Celestial in the Songseeker Church is not a very powerfull one, meaning that the Starkindreds of that Celestials are not as strong as another Starkindred that have consumed a piece of a stronger Celestial such as Navae or Alsin. Meaning their strength is tied with the strengh of the Celestial they consumed a piece of.
--   As stated by Ezra, a worshipper of the Celestial Ku, the Starkindred have a history of blood and massacre.
+    -   Alternatively, this may be due to the fact that Celestials being beings of a much higher status thanks to the history of the civilization, and the otherworldly powers and knowledge they bring, allowing those who partook in the Starkindred Oath to get a fraction of what a Celestial is capable of feeling and knowing.
+-   The strength of a single Starkindred isn't universal. This is due to the fact that the extent of their powers are directly tied to the Celestial that they consumed.
+    -   The Starkindred path available to the player is likely not the most powerful one as aside from granting the ability of wing manifestation and some mantras, does not provide anything else further. It is very much plausible that consuming other Celestials such as Alsin or Navae may yield different, and even greater powers.
+-   As stated by Ezra, a worshipper of the Celestial Ku, the Starkindred have a history of blood and massacre, suggesting that Oath keepers of Starkindred aren't united under a single cause; only partaking the Oath as a greedy attempt to gain power.
 
-### Arcwader
+### Arcwarder
 
--   Despite being primarly an armor created by the Ignition Union, this Oath has its own terms to be able to "Strengthen" their bond with the armor and thus making it more powerfull.
--   Arcwaders are people who have swore an Oath with the terms of protecting and saving their comrades from any threat with your shield, being the Arc Suit.
+-   An Oath taken by those who had proven themselves to be a stalwart spirit that protects others from harm, being the vanguard, the protector, and the shining armor.
+    -   Primarily acquired by completing deeds of great courage for the Ignition Union, making them indebted to you.
+    -   It is unknown if this Oath is exclusive to the Ignition Union.
+    -   It is unknown if this Oath is directly tied to the Arc Suit that comes with the Oath.
+        -   Those this can potentially be the foundations of the Oath since one can only partake the Oath after being compatible with the Arc Suit.
+-   While it is fair to point out that the Arc Suit is just a piece of high-tech armor developed by the Ignition Union, it can be observed that the Arc Suit can only become complete by unlocking it's other modules by 'bonding' with the suit by way of overcoming great feats.
+    -   This can be further supported by the fact that Arcwarder progression does not necessarily entail protecting others.
+-   The Arc Suit itself is summoned by way of Mantra, suggesting that the suit is also a manifestation of the song, rather than being some sort of high-end tech completely.
 
 ### Dawnwalker
 
--   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the secrets of the radiant tones and making an Oath with her, being the terms of always looking for the "Radiant Light" in hopes to obtain the same power of the Lightkeepers and use it against the Depths itself.
+-   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the arts of the Radiant Tones by way of binding themselves to her ways, and using the powers of the Oath to defeat the encroaching darkness of the world.
+    -   The repercussions of such an Oath is unknown, as the player may just as well bind themselves in service of Klaris herself. Though Klaris doesn't seem to be interested in using this kind of power to her own benefit.
+        -   This is only appearance by surface - the true nature and goal of Klaris is yet to be revealed.
+-   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Krysan Medallions to Klaris.
+    -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order banish darkness from the world.
 
 ### **Silentheart**
 
--   Silenthearts are people who have swore an Oath of pure **Hate** with the souls of the Voidsea to seak revenge against the people who abuse the Song for their own gain, primarly targetting the Masters of elements who teachs their usage of the Song across all Lumen.
--   The Oath that the Silenthearts swore include of looking for "Pure Strength" and "cutting tides with the Song", changing their heart to dont use mantras, however Silenthearts can still use Resonances and Murmurs, wich are applications of the Song.
+-   Silenthearts are people who have swore an Oath of pure hatred with the souls of the Voidsea to seek revenge against the people who abuse the Song for their own gain, primarily targeting the Masters of elements who teaches their usage of the Song across all Lumen.
+-   Silenthearts swore this Oath in search of pure power against the song itself, starting with rejecting the words of the song. As the song directly ties to the soul and heart of a person, their nature is directly manipulated and changed by Dreadstar, barring them from Mantras in exchange for other forms of power.
+-   It is a common misconception that Silenthearts reject the song.
+    -   This is not the case as the Song isn't something that can be stamped out. Silenthearts exclusively reject the words of the song, which are Mantras, vastly different from rejecting the Song entirely.
+    -   While words of the song are rejected, other forms of application are apparently not a concern to Silenthearts. (And by extension, Dreadstar themselves)
+        -   Whether or not this is a limit power, or just a bias against people who wield Mantras remains to be seen.
 
 ### **Fadetrimmers**
 
--   People who have swore an Oath to uh..... Become great barbers with their scissors and barber products to not let a "Fringe Accident" happen again. Hey, atleast they have a purpose.
+-   People who have swore an Oath to become great barbers, with their scissors and barber products to not let a "Fringe Accident" happen again.
 -   All barbers across Lumen posses this Oath.
--   Thespite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the Race Variant, gender, and even ornaments of people. Technically they learned this in the Markor Citadel.
--   It is highly suspected that the Fadetrimmers originate from the Markor Citadel, due to the barbers learning surgery on the Markor Citadel.
+-   Despite the player not being able to, many Fadetrimmer barbers are able with their Oath to change the Race Variant, gender, and even ornaments of people.
+    -   This is technically knowledge that is exclusively learnt at the Markor Citadel.
+-   Fadetrimming had likely originated from the Markor Citadel due to an extensive need of surgeons.
+    -   In contrast to the real world, [Barbers of the medieval times are, in fact, technically surgeons](<https://en.wikipedia.org/wiki/Barber%27s_pole#:~:text=Origin%20in%20barbering%20and%20surgery,-Antique%20red%20and&text=During%20medieval%20times%2C%20barbers%20performed,basin%20that%20received%20the%20blood).>) due to the fact that both are high precision jobs that demands accuracy.
 
 ### **Contractors**
 
--   Contractors are usually reffered to the people who have swore an Oath to one of the Nine Prophets of the Ministry, with each one granting different Oath powers depending on the Prophet they swore upon, having powers that are very similar to the prophet ones. For example, a Contractor of the 4th Prophet, Zi'eer, gains a very similar, if not the same, power of Tendrils that Zi'eer has.
--   The Terms of the Oath declare that "Your Heart is now tied with \[Name of the Prophet\], you swore to follow his will no matter the cost", meaning that the terms of the Oath make the Contractors to become faithfull servants of the Prophet they swore upon, even giving their own lifes to the Prophet if necessary.
--   Similar to how Blindseer and Visionshaper are two Oaths that are against each others. Contractors are known to be in a similar way against Warmasters.
+-   Contractors are people who had sworn an Oath to any of the Nine Prophets of the Ministry, granting them a fraction of what that Prophet is capable of.
+-   The Powers granted to a Contractor are not universal, as swearing the Oath to a different prophet may yield different results.
+-   Since the Oath is directly tied to the will of the Prophet, getting stronger meant completing errands for them. In the case of Zi'eer, you are only tasked with banishing those who had sworn servitude under other causes in the Depths.
+-   The Oath effectively binds anyone in strict servitude of that Prophet and that Prophet alone. In other words, they become puppets and pawns of the Prophet's will.
+-   Similar to how Blindseer and Visionshaper are two Oaths that are against each other. Contractors are a polar opposite Warmasters.
 
 ### **Warmasters.**
 
--   People who have sworn an Oath to the "Circle of Honor", the terms of the Oath are unkown, however it is suspected that a Warmaster swore to protect whole Lumen to become its beacon of hope.
+-   People who have sworn an Oath to the "Circle of Honor". Due to limited information, the terms of the Oath are unknown, though it is likely that the oath is sworn under the pretense of protecting the Lumens against the odds.
 -   Most Warmasters are members of the Central Authority, for example Warden Jericho being a Warden of the Authority and a Warmaster.
--   Their powers are known to have "Floating blades", being very similar to the ones that the Sand Knights /Storm Knights wield, however if they are tied with the Warmasters is unkown.
--   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying so save Lumen from any danger, while the Contractors seek to Drown Lumen.
+-   Their powers are known to have "Floating blades", being very similar to the ones that the Sand Knights /Storm Knights wield.
+-   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying so save the Lumens from a second drowning, while the Contractors seek to being forth another great drowning.
 
 ### **Deepwokens**
 

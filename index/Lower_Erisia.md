@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 74762
+revid: 74930
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -31,7 +31,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>)
 
-### Unnamed bandit settlement
+### Unnamed
 
 -   **Bandit Settlement**
     -   A small village settled by [Bandit Captains](Bandit_Leader.md).
@@ -53,7 +53,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Authority Officer](Authority_Officer.md)
 -   [Bandit](Bandit.md)
 -   [Bandit Captain](Bandit_Leader.md)
--   Etrean Footsoldier
+-   [Vigil Swordsman](Vigil_Swordsman.md)
 -   Etrean Naval Guard
 -   [Legion Captain](Legion_Captain.md)
 -   [Megalodaunt](Megalodaunt.md)

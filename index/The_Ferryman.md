@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 72141
+revid: 74926
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -85,6 +85,15 @@ able?
 -   He only uses this attack in Phase 2. (Each spear does about 220 damage; this is a rough estimate though.)
 
  | ◯ | (★★★) | **II** |
+| Vent | An explosion of blue ether around the user that pushes opponents away.
+
+-   He always vents when an attack would daze him.
+
+ | ◯ | (★☆☆)
+
+(★☆☆)
+
+ | **I**/**II** |
 
 ### Finishers
 
