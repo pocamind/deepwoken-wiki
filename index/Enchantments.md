@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 74792
+revid: 74953
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -546,7 +546,7 @@ Curse of the Umbral Knight
  | 
 
 **January 4th, 2022**  
-On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage Supposedly the curse would make the weapon absorb you if you didnt grip someone once every real life day.
+On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage. Supposedly, the curse would make the weapon absorb you if you didn't grip someone once every real life day.
 
  | 
 
