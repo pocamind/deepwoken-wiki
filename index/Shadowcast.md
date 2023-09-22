@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 74790
+revid: 74941
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -362,11 +362,11 @@ Dark Rift
 
  | 
 
-Engulf your enemy in shadows when flourishing them.
+Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
 
  | 
 
-+1 Elemental Intensity
++4 Elemental Intensity
 
  |
 | 

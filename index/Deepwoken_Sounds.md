@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 74768
+revid: 74944
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -134,6 +134,7 @@ A large collection of sounds found in _Deepwoken_.
 
 -   Note that some sounds may be used in more than one aspect of gameplay
 -   Credits to Witherald & Idrante for adding most of the sounds
+-   All sounds are supposed to be mp3s, but if they are a different file (.ogg, .mpeg, etc.) you can convert them to mp3s manually or use a [converting site.](https://cloudconvert.com/ogg-to-mp3)
 
 ### [Talent/Mantra Cards](Talents.md)
 
@@ -156,7 +157,7 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 5.4s | Entering Combat (Default) |
 |  | 3.6s | Entering Combat ([The Depths](The_Depths.md)) |
-|  | 2.6s | Switching Areas when Combat Tagged |
+|  | 2.5s | Switching Areas when Combat Tagged |
 |  | 0.9s | Unsheathing |
 |  | 1.0s | Sheathing |
 |  | 1.5s | Unsheathing (Heavy) |

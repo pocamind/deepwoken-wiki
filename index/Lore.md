@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 74919
+revid: 74945
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1524,10 +1524,10 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 
 ### **Warmasters.**
 
--   People who have sworn an Oath to the "Circle of Honor". Due to limited information, the terms of the Oath are unknown, though it is likely that the oath is sworn under the pretense of protecting the Lumens against the odds.
+-   People who have sworn an Oath to the "Circle of Honor". Due to limited information, the terms of the Oath are unknown, though it is likely that the oath is sworn under the pretense of protecting Lumen against the odds.
 -   Most Warmasters are members of the Central Authority, for example Warden Jericho being a Warden of the Authority and a Warmaster.
 -   Their powers are known to have "Floating blades", being very similar to the ones that the Sand Knights /Storm Knights wield.
--   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying so save the Lumens from a second drowning, while the Contractors seek to being forth another great drowning.
+-   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying to save Lumen from a second drowning, while the Contractors seek to being forth another great drowning.
 
 ### **Deepwokens**
 
