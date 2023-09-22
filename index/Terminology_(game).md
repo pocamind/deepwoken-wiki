@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 71371
+revid: 74968
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -72,7 +72,7 @@ _noun_
 
 _verb_
 
-1.  To kill a player, [enemy](Enemies.md) or [monster](Monsters.md) by means other than a Finisher.
+1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'grip' is also used.)
 
 ### Feint
 
@@ -94,7 +94,7 @@ _verb_
 
 _verb_
 
-1.  To kill a player or humanoid [enemy](Enemies.md) using a Finisher (Or by pressing B on their knocked body)
+1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'execute' is also used.)
 
 ### Knock
 

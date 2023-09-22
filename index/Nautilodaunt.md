@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 74805
+revid: 74956
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -112,3 +112,4 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800.
 -   The vent he uses was the old vent before Deepwoken's release.
 -   If you somehow encounter it in the overworld, do not try to swim away, it CAN swim, though it doesn't have a unique swimming animation.
+-   They are named after the Nautilus, a family of shelled cephalopods.

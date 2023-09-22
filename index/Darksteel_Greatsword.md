@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 69213
+revid: 74958
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -66,3 +66,4 @@ The Darkalloy Greatsword is one of the most popular alloyed weapons, just behind
 -   One of the most popular and iconic weapons, even added in the roblox game Allusions(though only the older version where the critical would have been the normal greatsword critical).
 -   The Alloyed version of the Darksteel Greatsword has a glazed purple texture.
 -   Often referred to as "DSGS" by the community.
+-   This Weapon Also Somewhat Resembles The Edge Of Duality From Legend Of Zelda: Breath Of The Wld.

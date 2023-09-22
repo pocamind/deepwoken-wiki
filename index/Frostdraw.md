@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 74904
+revid: 74971
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -75,6 +75,7 @@ _Fire a beam of ice._
 -   Inflicts Chill.
 -   Hits multiple times in a row.
 -   Knocks back
+-   Can be modified with cloudstones to make it wider.
 
  |
 | File:Frostgrab base range.gif | 

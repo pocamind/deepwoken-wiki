@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 74953
+revid: 74967
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 # Enchantments
 
-**Enchantments** are rare and powerful upgrades for your equipment.
+**Enchantments** are rare and powerful upgrades for your [equipment](Equipment.md).
 
 ## Acquirement Methods
 
