@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 75130
+revid: 75173
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -128,43 +128,155 @@ Boss Theme
 | N/A | Ash For The Altar | 0:56 | Flamecharm Showcase Theme | File:Ash For The Altar (Flamecharm Showcase Theme).mp3 |
 | N/A | To Sleep, Layer 2 Bell | 1:45 | Main Menu Theme for 2023 April Fools | File:To Sleep, Layer 2 Bell.mp3 |
 
-## Sound Effects
+## **Sound Effects**
 
-A large collection of sounds found in _Deepwoken_.
+A large collection of sounds found in **Deepwoken**.
 
--   Note that some sounds may be used in more than one aspect of gameplay
--   Credits to Witherald & Idrante for adding most of the sounds
--   All sounds are supposed to be mp3s, but if they are a different file (.ogg, .mpeg, etc.) you can convert them to mp3s manually or use a [converting site.](https://cloudconvert.com/ogg-to-mp3)
+-   Credits to Witherald🌹 & Idrante🎩 for adding most of the sounds, and of course the Deepwoken Dev Team for creating _some_ sounds.
+-   Some sounds are re-used in more than one aspect of gameplay.
+-   All sounds are supposed to be .mp3s, but if they are a different file (.ogg, .mpeg, etc.) you can convert them to .mp3s manually, or use a [converting site.](https://cloudconvert.com/ogg-to-mp3)
+-   Use \[CTRL + F\] or \[F3\] to find a specific sound you want. Do note that the search bar can only find words on categories you expanded.
 
-### [Talent/Mantra Cards](Talents.md)
+### [Character](Character_Creation.md)
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
+|  | 0.7s | Grass Step \[1\] |
+|  | 0.8s | Grass Step \[2\] |
+|  | 0.3s | Gravel Step \[1\] |
+|  | 0.6s | Gravel Step \[2\] |
+|  | 0.4s | Cave Step \[1\] |
+|  | 0.8s | Cave Step \[2\] |
+|  | 0.3s | Wood Step \[1\] |
+|  | 0.3s | Wood Step \[2\] |
+|  | 1.0s | Stone Step \[1\] |
+|  | 0.6s | Stone Step \[2\] |
+|  | 0.5s | Snow Step \[1\] |
+|  | 0.5s | Snow Step \[2\] |
+|  | 0.4s | Fall Damage |
+|  | 4.5s | Sliding |
+|  | 0.6s | Wall Climbing |
+|  | 2.8s | Luck Gain (Verse One) |
+|  | 1.9s | [Knowledge](Knowledge.md) Gain |
+|  | 1.2s | EXP Gain |
+|  | 1.0s | Small Splash |
+|  | 1.3s | Big Splash |
+|  | 1.9s | Swimming loop |
+|  | 0.9s | Dashing While Swimming |
+|  | 1.5s | Stomach Growl |
+|  | 1.7s | Dashing in [The Depths](The_Depths.md) |
+
+### [Utility & Items](Training_Gear.md)
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
+|  | 0.4s | Item Picked Up / Equipment Switched |
+|  | 1.1s | [Notes](Notes.md) Gained |
+|  | 1.3s | [Notes](Notes.md) Lost |
+|  | 2.3s | [Repair Kit](Repair_Kit.md) (Usage) |
+|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
+|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (2) |
+|  | 0.6s | [Mantra Table](Mantra_Lectern.md) Place (3) |
+|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Buildup |
+|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Failure |
+|  | 3.1s | [Mantra Table](Mantra_Lectern.md) Success |
+|  | 1.7s | [Cooking](Food.md) Success |
+|  | 1.0s | Crafting Success |
+|  | 2.2s | [Pure Heart](Training_Gear.md) |
+|  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
+|  | 1.9s | [Hearthgem](Training_Gear.md) |
+|  | 1.9s | Placing Utility |
+|  | 1.0s | Object Placement |
+|  | 0.3s | Drinking \[1\] |
+|  | 0.9s | Foraging |
+|  | 1.6s | [Encyclopedia](Training_Gear.md) Page Flip |
+|  | 0.6s | Potion Glass Breaking |
+|  | 0.6s | [Fishing](Fishing.md) |
+|  | 0.3s | Zipline Loop |
+|  | 4.3s | Lighthook Usage |
+|  | 2.2s | Kyrsan Obelisk + Puzzle Pad (Interaction) |
+
+### [Boats](Ships_&_Sailing.md)
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
+|  | 6.9s | Sea Gate Woosh |
+|  | 0.6s | Boat Clunking |
+|  | 11s | Rudder Turning |
+|  | 1.2s | Rudder Stopping |
+|  | 17s | Mast Turning |
+|  | 1.4s | Mast Stopping |
+|  | 30s | Sails Adjusting Sound |
+|  | 1.4s | Sails Unfurled Max |
+|  | 1.2s | Sails Furled Max |
+|  | 18s | Boat Wheel Turning |
+|  | 0.7s | Boat Wheel Stopped |
+|  | 1.9s | Ironclad Engine Starting |
+|  | 3.4s | Ironclad Engine Stopping |
+
+### [Environment](Maps.md)
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
+|  | 3.0s | Switching Areas |
+|  | 3.0s | Switching Areas (Combat) |
+|  | 3.1s | Campfire / Graceful Flame Loop |
+|  | 0.8s | Campfire Execute / Destroying Terrain |
+|  | 1.7s | [Chest](Chests_&_Sacks.md) Spawn |
+|  | 1.6s | Opening [Chest](Chests_&_Sacks.md) |
+|  | 3.2s | Falling Tree |
+|  | 32.7s | Rain Loop |
+|  | 26s | Tundra Ambience |
+|  | 2.5s | Terrain Freezing |
+|  | 0.4s | Falling Crystals in [The Starswept Valley](The_Starswept_Valley.md) |
+|  | 2.3s | Meteor Falling Loop |
+|  | 1.8s | Meteor Impact |
+|  | 2.6s | Pillars Formed |
+|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
+|  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
+|  | 1.1s | Parasite Maturing |
+|  | 11.0s | Ignition Lantern Loop |
+|  | 21.2s | Ignition Machine Activate |
+|  | 5.1s | Ignition Deep Drill Loop |
+|  | 12.1s | Pipe Spraying |
+|  | 5.1s | Kyrsan Ambush Event |
+
+### [Cards & Levelling](Talents.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 1.2s | Card Pick |
-|  | 1.8s | Card Freeze |
-|  | 0.3s | Card Flip (1) |
-|  | 0.4s | Card Flip (2) |
-|  | 0.3s | Card Flip (3) |
-|  | 0.4s | Card Flip (4) |
-|  | 0.3s | Card Flip (5) |
+|  | 1.4s | Selecting Freeze Ace |
+|  | 1.8s | Card Freeze (1) |
+|  | 2.4s | Card Freeze (2) |
 |  | 8.6s | Card Burning Sounds |
+|  | 0.3s | Card Flip \[1\] |
+|  | 0.4s | Card Flip \[2\] |
+|  | 0.3s | Card Flip \[3\] |
+|  | 0.4s | Card Flip \[4\] |
+|  | 0.3s | Card Flip \[5\] |
 |  | 4.5s | Rare Draw |
 |  | 4.8s | Legendary Draw |
+|  | 4.1s | [Attribute](Attributes.md) Increase |
+|  | 0.6s | Locked [Attribute](Attributes.md) \[1\] |
+|  | 0.8s | Locked [Attribute](Attributes.md) \[2\] |
+|  | 6.0s | [Power](Power.md) Increase |
 
-### **Combat**
+### [Combat & Players](https://deepwoken.fandom.com/wiki/Combat_Mechanics)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 5.4s | Entering Combat (Default) |
 |  | 3.6s | Entering Combat ([The Depths](The_Depths.md)) |
-|  | 3.0s | Switching Areas (Combat) |
 |  | 0.9s | Unsheathing |
 |  | 1.0s | Sheathing |
 |  | 1.5s | Unsheathing (Heavy) |
 |  | 1.6s | Sheathing (Heavy) |
 |  | 3.9s | Unparryable Attack |
+|  | 0.5s | Block Attempt |
 |  | 1.0s | Blocked (Weapon & Shield) |
 |  | 0.6s | Blocked (Blunt) |
+|  | 0.7s | Block (Ugly) |
 |  | 0.3s | Swing \[1\] |
 |  | 0.3s | Swing \[2\] |
 |  | 0.6s | Swing (Heavy) |
@@ -172,6 +284,10 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.4s | Hit \[1\] |
 |  | 0.4s | Hit \[2\] |
 |  | 0.6s | Hit (Greathammer) |
+|  | 0.8s | [Way of Navae](Way_of_Navae.md) (Activation) |
+|  | 0.9s | Hit (Fist) \[1\] |
+| File:Punch3.ogg | 0.4s | Hit (Fist) \[2\] |
+|  | 0.4s | Hit (Fist) \[3\] |
 |  | 0.4s | Gun Cork |
 |  | 0.6s | Gun Sheathe |
 |  | 0.8s | Gunshot |
@@ -180,16 +296,6 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.5s | Critical (Sword) |
 |  | 1.0s | Critical (Greatsword) |
 |  | 2.4s | Critical (Greataxe, Ground Impact) |
-|  | 0.8s | Execute (Sword) |
-|  | 1.3s | Killing Monster / Poser's Ring (Activation) |
-|  | 1.3s | Killing Monster (Alternate) |
-|  | 1.8s | Execution Spin (Gun) |
-|  | 2.3s | Execute (Heavy Weapon) / Monster Execution |
-|  | 0.8s | [Way of Navae](Way_of_Navae.md) (Activation) |
-|  | 0.9s | Hit (Fist) \[1\] |
-| File:Punch3.ogg | 0.4s | Hit (Fist) \[2\] |
-|  | 0.7s | Block (Ugly) |
-|  | 0.5s | Block Attempt |
 |  | 1.3s | Parry \[1\] |
 |  | 1.5s | Parry \[2\] |
 |  | 1.2s | Parry \[3\] |
@@ -199,17 +305,17 @@ A large collection of sounds found in _Deepwoken_.
 |  | 1.7s | Posture Break \[1\] |
 |  | 1.5s | Posture Break \[2\] |
 |  | 2.1s | Posture Break \[3\] |
-|  | 1.9s | [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
+|  | 0.8s | Rolling |
+|  | 0.9s | Successful Dodge |
 |  | 1.7s | [Venting](Combat_Mechanics.md) |
 |  | 0.8s | Burning Extinguished |
-|  | 0.6s | Electrified (Proc) / Static Withdraw |
-|  | 3.2s | Chill (Proc) |
 |  | 0.7s | Hit (Winded) |
 
 ### [Mantras](Mantras.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
+|  | 1.3s | Unable to cast Mantra (Not enough Ether) |
 |  | 0.3s | Prominence Draw (Windup) |
 |  | 3.0s | Master's Flourish (Unleash) |
 |  | 1.6s | Prominence Draw (Unleash) |
@@ -217,46 +323,61 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.1s | Strong Left (Full) |
 |  | 1.6s | Strong Left (Unleash) \[1\] |
 |  | 1.6s | Strong Left (Unleash) \[2\] |
+|  | 2.5s | Strong Leap / Ash Slam, Rising Thunder (Impact) |
+|  | 0.9s | Rapid Punches (Unleash) |
 |  | 1.3s | Rapid Punches (Knockback) |
 |  | 2.0s | Adrenaline Surge (Activation) |
 |  | 1.5s | Reinforce Mantra |
+|  | 4.2s | Grasp of Eylis + Voideye Loop |
+|  | 2.8s | Sing Mantra + Capra Racial Buffs Loop |
+|  | 2.1s | Graceful Flame Loop |
+|  | 3.2s | Taunt Mantra |
+|  | 1.6s | Glare Mantra |
+|  | 1.9s | Ice Daggers + Fire Eruption (Windup) / Trial of One Parry Test |
+|  | 1.4s | Ash Slam (Windup) / Gravity Field (Bounce) |
+|  | 1.0s | Wind Passage (Windup) |
 |  | 2.3s | Ice Chains + Flame Assault (Windup) |
+|  | 1.5s | [Vow of Mastery](Vow_of_Mastery.md) / Shadow Assault (Windup) |
 |  | 1.8s | Dash Mantra |
-|  | 1.3s | Flame of Denial (Activation) |
-|  | 2.5s | Flame of Denial (Activation Alternate) |
+|  | 1.4s | [Flamecharm](Flamecharm.md) Mantras / Mirage Clones |
+|  | 1.3s | Flame of Denial (Activation) \[1\] |
+|  | 2.5s | Flame of Denial (Activation) \[2\] |
 |  | 3.2s | Flame of Denial (Proc) / Chaser's Nimbus Explosion + Rising Shadow (Windup) |
 |  | 3.9s | Flint (Usage) |
 |  | 2.0s | Flame Wisp (Proc) |
 |  | 1.3s | Fire Gun (Activation/Trigger) |
-|  | 2.1s | Fire Eruption (Unleash) / Flame Leap |
-|  | 2.5s | Strong Leap / Ash Slam, Rising Thunder (Impact) |
+|  | 2.1s | Fire Eruption + Flame Leap (Unleash) |
+|  | 1.5s | Fireball Mantra |
+|  | 1.7s | Warding Radiance (Activation) |
+|  | 1.1s | Warding Radiance Spear (Impact) |
 |  | 2.2s | Air Force / Meteor Slam |
+|  | 0.8s | [Galebreathe](Galebreathe.md) Mantras, Gale Leap |
 |  | 0.7s | Gale Wisp (Proc) |
 |  | 1.1s | Wind Blade (Windup) |
 |  | 1.5s | Heavenly Wind (Impact) |
 |  | 1.1s | Haunted Gale (Proc) \[1\] |
 |  | 0.9s | Haunted Gale (Proc) \[2\] |
 |  | 0.7s | Wind Gun (Windup) / Gravity Field (Return) |
-|  | 1.7s | Warding Radiance (Activation) |
-|  | 1.0s | Illusionary Clones (Activation) |
 |  | 1.4s | Winded Status / Gale Punch, Air Force (Windup) |
 |  | 0.9s | Tornado Mantra |
+|  | 2.3s | Tornado Kick (Impact) |
 |  | 0.7s | Wind Gem (Proc) |
+|  | 1.7s | [Frostdraw](Frostdraw.md) Trail |
 |  | 1.0s | Crystal Impale (Impact) |
 |  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance / Kyrsan Spear (Impact) |
 |  | 0.4s | Ice Smash (Swing) |
-|  | 1.9s | Ice Daggers + Fire Eruption (Windup) / Trial of One Parry Test |
-|  | 1.4s | Ash Slam (Windup) / Gravity Field (Bounce) |
-|  | 1.0s | Wind Passage (Windup) |
-|  | 2.5s | Scion of Ethiron, Ultimate Attack Launch (Edited by Witherald) |
 |  | 1.9s | Warden Blades (Shattering) |
+|  | 3.2s | Chill (Proc) |
+|  | 2.0s | [Thundercall](Thundercall.md) Mantras |
 |  | 1.4s | Grand Javelin + Shadow Meteor (Windup) |
+|  | 1.9s | [Legion Sniper's](Legion_Sniper.md) Grand Javelin Impact |
 |  | 2.2s | Lightning Beam (Unleash) |
 |  | 1.9s | Lightning Strikes |
 |  | 1.5s | Lightning Streams |
 |  | 5.1s | Lightning Crash |
 |  | 4.7s | Lightning Bolts |
+|  | 0.6s | Electrified (Proc) / Static Withdraw |
 |  | 1.8s | Shadow Gun (Unedited) |
 |  | 4.1s | Shadow Gun \[1\] (Edited by Witherald) |
 |  | 4.1s | Shadow Gun \[2\] (Edited by Witherald) |
@@ -265,17 +386,6 @@ A large collection of sounds found in _Deepwoken_.
 |  | 14s | Shadow Roar |
 |  | 0.8s | Dark Rift (Activation) |
 |  | 2.0s | Shadow Eruption |
-|  | 2.3s | Tornado Kick (Impact) |
-|  | 4.2s | Grasp of Eylis + Voideye Loop |
-|  | 2.8s | Sing Mantra + Capra Racial Buffs Loop |
-|  | 2.1s | Graceful Flame Loop |
-|  | 3.2s | Taunt Mantra |
-|  | 1.7s | [Frostdraw](Frostdraw.md) Trail |
-|  | 2.0s | [Thundercall](Thundercall.md) Mantras |
-|  | 1.4s | [Flamecharm](Flamecharm.md) Mantras / Mirage Clones |
-|  | 0.8s | [Galebreathe](Galebreathe.md) Mantras, Gale Leap |
-|  | 1.6s | Glare Mantra |
-|  | 0.9s | Rapid Punches (Unleash) |
 |  | 3.6s | Dread Breath (Full) |
 |  | 1.1s | Mecha Gatling Feint |
 |  | 6.7s | Mecha Gatling (Full) |
@@ -284,24 +394,15 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.6s | C-Cast |
 |  | 1.9s | V-Cast |
 
-### [Oaths](Oaths.md)
-
-| **File** | **Length** | **Notes** |
-| --- | --- | --- |
-|  | 1.0s | Stratos Step |
-|  | 2.5s | Arc Beam (Windup) |
-|  | 0.9s | Arc Beam Impact |
-|  | 1.6s | Sightless Beam (Windup) |
-|  | 1.9s | Tranquil Circle |
-|  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras \[1\] |
-
 ### [Monsters](Monsters.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[1\] |
-|  | 2.6s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[2\] |
-|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
+|  | 2.4s | [Megalodaunt](Megalodaunt.md) Roar \[1\] |
+|  | 2.2s | [Megalodaunt](Megalodaunt.md) Roar \[2\] |
+|  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps \[1\] |
+|  | 2.1s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps \[2\] |
+|  | 0.4s | [Deep Owl](Deep_Owl.md) Feather Attack |
 |  | 2.1s | [Lionfish](Lionfish.md) Growl \[1\] |
 |  | 4.0s | [Lionfish](Lionfish.md) Growl \[2\] |
 |  | 1.9s | [Lionfish](Lionfish.md) Growl \[3\] |
@@ -314,44 +415,57 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.6s | [Brainsucker](Brainsucker.md) Growl \[2\] |
 |  | 1.3s | [Brainsucker](Brainsucker.md) Growl \[3\] |
 |  | 1.1s | [Brainsucker](Brainsucker.md) Growl \[4\] |
-|  | 2.4s | [Megalodaunt](Megalodaunt.md) Roar \[1\] |
-|  | 2.2s | [Megalodaunt](Megalodaunt.md) Roar \[2\] |
-|  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps \[1\] |
-|  | 2.1s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps \[2\] |
 |  | 1.0s | [Mechalodaunt](Megalodaunt.md) Laser (Windup) |
-|  | 0.4s | [Deep Owl](Deep_Owl.md) Feather Attack |
 |  | 3.8s | [Primadon](Primadon,_Titan_of_the_East.md) Roar (Phase 2 Activation) |
 |  | 0.8s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Slash Damaged |
 |  | 3.0s | [Rock Golem](Rock_Golem.md) Roar (Unedited) |
 |  | 4.0s | [Rock Golem](Rock_Golem.md) Roar |
 |  | 2.6s | [Rock Golem](Rock_Golem.md) Beam Explosion |
-|  | 1.7s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Death |
-|  | 2.4s | [Rogue Construct's](Hive_Construct.md) Meteor Punch |
-|  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin (Windup) |
-|  | 0.8s | [Bonekeeper](Bone_Keeper.md) / [Kyrsgarde Brute](Kyrsgarde.md) Stomp |
 |  | 4.9s | [Duke Erisia's](Duke_Ishamon_Erisia.md) Laugh |
-|  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact / Shard Bow Impact |
+|  | 2.4s | [Rogue Construct's](Hive_Construct.md) Meteor Punch |
+|  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[1\] |
+|  | 2.6s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[2\] |
+|  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
-|  | 2.6s | [Naulitodaunt](Nautilodaunt.md) vent |
+|  | 2.6s | [Naulitodaunt](Nautilodaunt.md) Vent |
+|  | 1.5s | [Naulitodaunt](Nautilodaunt.md) Water Stomp |
 |  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack \[1\] |
+|  | 1.0s | [Carbuncle](Carbuncle.md) Roar (1) |
+|  | 0.7s | [Carbuncle](Carbuncle.md) Roar (2) |
+|  | 4.0s | [Bounder](Bounder.md) Ambush (Unedited) |
+|  | 4.2s | [Bounder](Bounder.md) Ambush (Unrepeated) |
+|  | 35.5s | [Bounder](Bounder.md) Ambush |
+|  | 0.9s | [Bounder](Bounder.md) Breathing Loop (Unedited) |
+|  | 1.7s | [Bounder](Bounder.md) Breathing Loop |
+|  | 0.4s | [Bonekeeper](Bone_Keeper.md) Bone Spikes / Bone Javelin (Windup) |
+|  | 0.8s | [Bonekeeper](Bone_Keeper.md) / [Kyrsgarde Brute](Kyrsgarde.md) Stomp |
+|  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact / Shard Bow Impact |
+|  | 3.7s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Miasma Ring Attack |
 |  | 1.7s | [Kyrsgarde](Kyrsgarde.md) Ice Spear + Ice Lance (Windup) |
+|  | 2.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Ultimate Attack Launch (Edited by Witherald) |
 |  | 1.9s | [Phoenix](<https://deepwoken.fandom.com/wiki/Developer_Specs#Dexerius_(Sadreyus)>) Flap (Activation) |
-|  | 2.2s | Corpse Fading |
-|  | 9.5s | Corpse Fading (Extended) |
+|  | 1.9s | [Phoenix](<https://deepwoken.fandom.com/wiki/Developer_Specs#Dexerius_(Sadreyus)>) Flap \[3\] |
+|  | 4.0s | [Phoenix](<https://deepwoken.fandom.com/wiki/Developer_Specs#Dexerius_(Sadreyus)>) Screech |
 |  | 1.1s | Alternative [Monster](Monsters.md) Stomp \[1\] |
 |  | 0.8s | Alternative [Monster](Monsters.md) Stomp \[2\] |
 
-### **[Echoes](Echoes.md)**
+### [Oaths](Oaths.md)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 9s | Achieving **W Rank / S Rank** |
-|  | 15.0s | Achieving **Rank A Legacy** |
-|  | 15.0s | Achieving **B Rank / C Rank** |
-|  | 15.0s | Achieving **D Rank / E Rank** |
+|  | 1.0s | Illusionary Clones (Activation) |
+|  | 1.0s | Stratos Step |
+|  | 2.5s | Arc Beam (Windup) |
+|  | 0.9s | Arc Beam Impact |
+|  | 1.7 | Arc Suit Null (Deactivation) |
+|  | 1.6s | Sightless Beam (Windup) |
+|  | 1.9s | Tranquil Circle |
+|  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras \[1\] |
+|  | 4.0s | [Linkstrider](Oath%253A_Linkstrider.md) Abilities (1st Sound) / Resurrection Bell Cast / Sinister Halo |
+|  | 1.4s | [Linkstrider](Oath%253A_Linkstrider.md) Abilities (2nd Sound) |
 
 ### [Resonances](Resonance.md)
 
@@ -375,25 +489,32 @@ A large collection of sounds found in _Deepwoken_.
 |  | 2.5s | [Resurrection](Resurrection.md) Bell Revive |
 |  | 1.1s | [Resurrection](Resurrection.md) Bell Rise |
 |  | 3.7s | Portals Bell (Enter) |
-|  | 2.0s | [Jetstriker](Oath%253A_Jetstriker.md) Dash / Portals Bell (Exit) |
+|  | 2.0s | Portals Bell (Exit) / [Jetstriker](Oath%253A_Jetstriker.md) Dash / [Rain Spire](Relics.md) Placement |
 
-### [Boats](Ships_&_Sailing.md)
+### **[Deaths](Death.md)**
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 6.9s | Sea Gate Woosh |
-|  | 0.6s | Boat Clunking |
-|  | 11s | Rudder Turning |
-|  | 1.2s | Rudder Stopping |
-|  | 17s | Mast Turning |
-|  | 1.4s | Mast Stopping |
-|  | 30s | Sails Adjusting Sound |
-|  | 1.4s | Sails Unfurled Max |
-|  | 1.2s | Sails Furled Max |
-|  | 18s | Boat Wheel Turning |
-|  | 0.7s | Boat Wheel Stopped |
-|  | 1.9s | Ironclad Engine Starting |
-|  | 3.4s | Ironclad Engine Stopping |
+|  | 0.8s | Execute (Sword) |
+|  | 2.3s | Execute (Heavy Weapon / Monster) |
+|  | 1.8s | Execution Spin (Gun) |
+|  | 1.3s | Killing Monster / Poser's Ring (Activation) |
+|  | 1.3s | Killing Monster (Alternate) |
+|  | 1.7s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Death |
+|  | 5.2s | Parasites Hatching (Combat Tag included) |
+|  | 2.2s | Corpse Fading |
+|  | 9.5s | Corpse Fading (Extended) |
+|  | 11.0s | Drowning to [The Depths](The_Depths.md) / Call of the Deep |
+|  | 6.0s | Wiping in [The Depths](The_Depths.md) (Edited by Witherald) |
+
+### **[Echoes](Echoes.md)**
+
+| **File** | **Length** | **Notes** |
+| --- | --- | --- |
+|  | 9s | Achieving **W Rank / S Rank** |
+|  | 15.0s | Achieving **Rank A Legacy** |
+|  | 15.0s | Achieving **B Rank / C Rank** |
+|  | 15.0s | Achieving **D Rank / E Rank** |
 
 ### Miscellaneous
 
@@ -401,50 +522,17 @@ A large collection of sounds found in _Deepwoken_.
 | --- | --- | --- |
 |  | 1.8s | [Trial of One](Trial_of_One.md) Spawn / Shadow Blinded Status Effect |
 |  | 0.8s | [Destroyman III](Destroyman_III.md) |
-|  | 3.0s | Switching Areas |
-|  | 1.1s | Gaining [Notes](Notes.md) |
-|  | 1.3s | Losing [Notes](Notes.md) |
-|  | 26s | Tundra Ambience |
-|  | 1.9s | Swimming loop |
-|  | 0.9s | Dashing While Swimming |
 |  | 2.3s | Vow Command: Live |
 |  | 1.1s | Sea Gate Opening |
 |  | 1.4s | Sea Gate Closing |
-|  | 2.3s | [Repair Kit](Repair_Kit.md) (Usage) |
 |  | 1.2s | Door Opening |
 |  | 0.9s | Door Closing |
-|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (1) |
-|  | 0.4s | [Mantra Table](Mantra_Lectern.md) Place (2) |
-|  | 0.6s | [Mantra Table](Mantra_Lectern.md) Place (3) |
-|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Buildup |
-|  | 3.0s | [Mantra Table](Mantra_Lectern.md) Failure |
-|  | 3.1s | [Mantra Table](Mantra_Lectern.md) Success |
-|  | 2.8s | Luck Gain (Verse One) |
-|  | 1.9s | [Knowledge](Knowledge.md) Gain |
-|  | 1.2s | EXP Gain |
-|  | 4.1s | [Attribute](Attributes.md) Increase |
-|  | 1.7s | Chest Spawn |
-|  | 0.6s | Locked [Attribute](Attributes.md) |
-|  | 6.0s | [Power](Power.md) Increase |
-|  | 9.0s | Self-Conducting Loop |
-|  | 1.9s | Hearthgem |
-|  | 0.3s | Zipline Loop |
 |  | 2.0s | [Tacet Murmur](Murmur.md) (Activation) |
 |  | 1.0s | [Tacet Murmur](Murmur.md) (Deactivation) |
 |  | 2.1s | [Rhythm Murmur](Murmur.md) (Activation) |
-|  | 1.9s | Placing Utility |
 |  | 0.2s | Discovery of Fire + Flame Blind + Judgement (Activation) |
-|  | 3.1s | Campfire / Graceful Flame Loop |
-|  | 0.8s | Campfire Execute / Destroying Terrain |
-|  | 0.3s | Drinking \[1\] |
-|  | 0.8s | Rolling |
-|  | 0.8s | Foraging |
-|  | 3.2s | Falling Tree |
-|  | 1.5s | Stomach Growl |
-|  | 0.6s | [Fishing](Fishing.md) |
-|  | 1.0s | Small Splash |
-|  | 1.3s | Big Splash |
-|  | 1.6s | Opening [Chest](Chests_&_Sacks.md) |
+|  | 1.5s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Jar Break |
+|  | 1.7s | Zart's Barrier (Anvil) |
 |  | 5.2s | Portal to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) / Freeze Ace Loop / Zart's Barrier (Growing) |
 |  | 3.5s | Passing Through Barriers / Aratel's Green Jump Pads / [Forge Piece](Artifacts.md) Picked Up |
 |  | 3.7s | [Forge Piece](Artifacts.md) Loop + [Ardour](Murmur.md) Obtained |
@@ -452,41 +540,22 @@ A large collection of sounds found in _Deepwoken_.
 |  | 0.7s | [Layer 2, Floor 1](Second_Layer.md) Key Grab |
 |  | 2.4s | [Layer 2, Floor 1](Second_Layer.md) Key Unlock Passageway |
 |  | 15s | [Layer 2](Second_Layer.md) Passageway Opening |
-|  | 5.1s | Ignition Deep Drill Loop |
 |  | 2.1s | Wind Noise |
 |  | 1.9s | [Chime of Conflict](Chime_of_Conflict.md) + Shadow Vortex (Activation) |
-|  | 11.0s | Drowning to [The Depths](The_Depths.md) / Call of the Deep |
-|  | 1.7s | Dashing in [The Depths](The_Depths.md) |
-|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
-|  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
-|  | 6.0s | Wiping in [The Depths](The_Depths.md) (Edited by Witherald) |
+|  | 0.3s | Deepwoken Menu Hover |
 |  | 1.4s | Deepwoken Menu Select |
 |  | 2.4s | Ice Raining / Ice Shattering |
-|  | 2.5s | Terrain Freezing |
 |  | 1.3s | Ice Spikes Forming |
 |  | 3.6s | Cannonball + Bomb (Impact) |
 |  | 1.8s | Golden Tongue / Prediction |
-|  | 1.5s | [Vow of Mastery](Vow_of_Mastery.md) / Selecting Freeze Ace / Shadow Assault (Windup) |
 |  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
 |  | 2.0s | [Grim](Enchantments.md) (Proc) (Edited by Witherald) |
 |  | 2.4s | Alternative [Grim](Enchantments.md) (Proc) |
 |  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
 |  | 0.1s | [Insignia Gem](Deep_Gems.md) (Proc) |
-|  | 0.6s | Potion Glass Breaking |
 |  | 4.5s | Getting dragged into a Whirlpool |
 |  | 2.5s | Illusionary Realm Loop |
-|  | 5.1s | Kyrsan Ambush Event |
 |  | 7.1s | Aerogliding |
-|  | 0.4s | Fall Damage |
-|  | 4.5s | Sliding |
-|  | 0.6s | Wall Climbing |
-|  | 0.4s | Falling Crystals in [The Starswept Valley](The_Starswept_Valley.md) |
-|  | 4.0s | [Linkstrider](Oath%253A_Linkstrider.md) Abilities (1st Sound) / Resurrection Bell Cast / Sinister Halo |
-|  | 1.4s | [Linkstrider](Oath%253A_Linkstrider.md) Abilities (2nd Sound) |
-|  | 2.3s | Meteor Falling Loop |
-|  | 1.8s | Meteor Impact |
-|  | 1.6s | Encyclopedia Page Flip |
-|  | 1.0s | Object Placement |
 
 ## Trivia
 

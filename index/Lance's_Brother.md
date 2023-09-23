@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 68897
+revid: 75167
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -22,34 +22,51 @@ Lance's Brother is an [Etrean](Etrean.md) NPC, located in at the [Isle of Vigils
 
 ## Crate Delivery Quest
 
-To accept the quest choose "You need some help around here?" When talking to him.
+To accept the quest, choose "You need some help around here?" When talking to him.
 
 After accepting the quest, (?) Will spawn a FOOD crate at the back of his shop. To finish the quest, talk to [Stratos](Stratos.md) crate in hand.
 
 ## Dialogue
 
-"Welcome to Lance's Food ... I guess."
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">"Welcome to Lance's Food ... I guess."</td>
+</tr>
+<tr>
+  <td colspan="6">You okay?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">"Everyone talks about Lance and how he's so great ... Even our own mother doesn't remember my name."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Well, what is your name?</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it (?) Surely not. No loving parent would call their child (?)... Right?* "</i>You'll remember it, right?..."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Uh huh! Yep! Sure!</td>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The man seems moved by your kindness.*</i> "Oh Gods below... Thank you."</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-"You okay?"
-
-\[End Dialogue\]
-
-"Everyone talks about Lance and how he's so great ... Even our own mother doesn't remember my name."
-
-"Well, what is your name?"
-
-\[End Dialogue\]
-
-_\*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it (?) Surely not. No loving parent would call their child (?)... Right?\* "_You'll remember it, right?..."
-
-"Uh huh! Yep! Sure!"
-
-\[End Dialogue\]
-
-_\*The man seems moved by your kindness.\*_ "Oh Gods below... Thank you."
-
-\[End Dialogue\]
-
+  
 If spoken to again (?)'s 'name' will be displayed with a (?) at the end.
 
 If talked to again choosing the same dialogue options. Your responses will change after the second text box.

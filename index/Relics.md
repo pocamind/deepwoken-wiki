@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 74885
+revid: 75163
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -52,6 +52,9 @@ File:Sinner's Ash.png
 -   No other known features
 
  | Drops in chest from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) |
+| 
+
+ | **Moonseye Tome** - Awards player with Maximum Knowledge. Requires confirmation. |  |
 
 ## Lore Relics
 

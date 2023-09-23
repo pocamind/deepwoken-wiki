@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 74934
+revid: 75158
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -22,7 +22,7 @@ To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must
 
 The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
 
-Though bait is not required for fishing, it is highly recommend. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
+Though bait is not required for fishing, it is highly recommended. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
 
 Fishing can also level each physical attribute given enough time. Notably, it provides a large amount of willpower experience in comparison to other stats.
 
@@ -30,7 +30,7 @@ The frequency and quality of loot from fishing is also heavily based on the loca
 
 ## **Loot From Fishing**
 
-Many variety of fish can be obtained from fishing, as well as some loot. **Fished up objects can very rarely be _golden._** The bigger the fish, the better the loot. The loot you can get from fishing is:
+Many varieties of fish can be obtained from fishing, as well as some loot. **Fished up objects can very rarely be _golden._** The bigger the fish, the better the loot. The loot you can get from fishing is:
 
 -   Sea Bass
 -   Red Snapper
@@ -64,7 +64,13 @@ Everything you can get from fishing has its own chat bubble pop-up, as a reactio
 
 Catching a Golden Fish doesn't change the chat bubble.
 
-Gallery of Fish:
+## Gallery
+
+**Normal:**
+
+**Golden:**
+
+**Miscellaneous:**
 
 ## **Talents**
 
@@ -104,7 +110,7 @@ A lot of raw food can be used as bait, obviously I didn't have them all while te
 
 Bait Testing: (A lot of stuff here is just speculation and pure data, and the "How fast I get bites" section is subject to RNG and is a guess, it's likely unchanged from average and is bullshit but worth a mention)
 
--   100 No Bait Results for comparison: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lion Fish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) (this was tested with all 3 fishing talents)
+-   100 No Bait Results for comparison: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lionfish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) (this was tested with all 3 fishing talents)
 -   Plumfruit Effect: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results of testing: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses) Starting with about 18 Plumfruits
 -   Pomar Effect: Mainly caught bigger fish like tunas or red snappers.
 -   Gobletto Effect: Getting bites was quite fast. Results of testing: 7 Goblettos. 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
@@ -113,9 +119,9 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 2 Seabass and 1 Miss.
 -   Urchin Effect: Decent speed of bites. Result from 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
 -   Browncap Effect: Average bite times. Results from 10 Browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
--   Chum Effect: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lion Fish, 17 Chest and 14 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) it took roughly 30 minutes to use all 100 Chum (this was tested with all 3 fishing talents)
--   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss
--   Fish Meat Effect: Results of 100 Fish Meat gave: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lion Fish, 11 Chest and 15 Fails(which are mostly Lion Fish, Chest or Sword Fish since those are the most difficult) it took roughly 32 minutes to use all 100 Fish Meat (this was tested with all 3 fishing talents)
+-   Chum Effect: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) it took roughly 30 minutes to use all 100 Chum (this was tested with all 3 fishing talents)
+-   Calabash Effect: Unknown (If any). 1 Calabash gave: 1 Miss.
+-   Fish Meat Effect: Results of 100 Fish Meat gave: 32 Sea bass, 4 Squid, 15 Red Snapper, 9 Tuna, 6 Sword Fish, 8 Lionfish, 11 Chest and 15 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult) it took roughly 32 minutes to use all 100 Fish Meat (this was tested with all 3 fishing talents)
 -   Redd Effect: Slightly lower than average bites. Result: 2 miss, 2 sea bass, 1 squid, 1 red snapper
 -   Pufferfish Effect: Higher chance of catching a Mudskipper (Needs further inspection)
 

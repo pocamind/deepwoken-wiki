@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 74957
+revid: 75149
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -53,7 +53,6 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
 -   _Risky Moves_ **or** _Safety Dance/Observation; ~Dark Rift will lock you out of Risky Moves~_
 -   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
--   _Conditioned Runner_ **or** _Fishman;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
 -   _Singularity_ **or** _Sightless Still._
 -   Million Ton Piercer **or** Ether Overdrive
@@ -206,7 +205,6 @@ _**"I enjoy mixing potions."**_
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
     -   Prerequisites: All Alley Cat talents
-    -   Mutual Exclusive: Fishman
 
 ### All-Knowing
 
@@ -770,12 +768,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Fish
 
--   _Fishman_ \[Generic Talent,Rare Talent\] - When swimming, you'll heal faster, but burn through your stomach more quickly. (+5 health)
-    -   Health regeneration is increased while swimming below 66% Health.
-    -   Hunger drain from swimming is multiplied by an unknown amount.
-    -   Reduces the Health Regenerations effects of the [Curse of the No Life King.](Enchantments.md)
-    -   Does not activate in the Depths.
-    -   Mutual Exclusive: Conditioned Runner
+-   _Fishman_ \[Generic Talent,Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)
 
 ### Flame Brawler
 

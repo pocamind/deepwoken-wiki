@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 73488
+revid: 75160
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -108,7 +108,7 @@ Clicking\[The End\] will wipe your character and show you the character's legacy
 
 The legacy menu upon wiping
 
-The Triumphs section shows the player's achievement across the progression, These will add points for echoes, a new starting mechanic added in verse 2 like boons and flaws but amplified to the extreme.
+The Triumphs section shows the player's achievement across the progression, these will add points for echoes, a new starting mechanic added in verse 2 like boons and flaws but amplified to the extreme.
 
 The Echoes section shows how much echoes you earned and the Rank Based on it. Rankings range from E-W, Rank S being extremely rare and Rank W even more so with the added requirement of having every Echo modifier active (except Vow of Thorns) while also meeting the requirements for S Rank.
 
@@ -125,7 +125,7 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 -   If you fall off one of the islands you will be teleported back to spawn, falling down from above.
 -   You cannot M1 or use mantras here, but you can use your weapon's critical, though it can't interact with the environment.
 -   There is currently no known way to die here, as fall damage is disabled and so is any form of PVP damage, starving also only drains the player's health down to 50%. It is unclear if bleeding out is possible, using boulder does not execute you here, and dying here would most definitely be a bug and would send you here again.
--   Owls can seemingly spawn here, but can't actually damage you.
+-   Owls can seemingly spawn here, but they are unable to actually damage you.
 -   You can cut down the trees here.
 -   Fragments Of Self is virtually located above The Depths which could potentially (but unlikely) be the reason why Deep Owls are seen up there. If you were to somehow bypass the automatic teleportation barrier below, you may land back in Layer 1. Nothing comes of this other than the ability to distract mobs and roam around.
 -   Self is pretty much the version of yourself you strive not to be. Dissatisfied and wanting more. No matter what you do before you come to this stage, your "self" will always be suffering from the fact of dying, encouraging you to try once more.

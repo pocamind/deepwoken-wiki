@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 74284
+revid: 75165
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -307,6 +307,20 @@ Lightning Stream
  | Damage:
 
 Cooldown: 15 Seconds
+
+Properties:
+
+Modifiers:
+
+ |
+|  | 
+
+Thunder Wisp  
+(★★☆)
+
+ | No information available currently. | Unknown | Unknown | Damage: Unknown
+
+Cooldown: Unknown
 
 Properties:
 
