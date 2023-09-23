@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 75204
+revid: 75313
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -322,13 +322,19 @@ File:Desktop Screenshot 2023.09.22 - 19.42.54.05 (1).png
 Thunder Wisp  
 (★★☆)
 
- | No information available currently. | Unknown | Unknown | Damage: Unknown
+ | A servant of lightning | Unknown | Applies "Sapping" to a target on flourishes.
+
+-   Sapping increases their mantra cooldown
+
+ | Damage: Unknown
 
 Cooldown: Unknown
 
 Properties:
 
 Modifiers:
+
+Eternal/Aeon logstones
 
  |
 |  | 

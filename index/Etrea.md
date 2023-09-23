@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 66018
+revid: 75291
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -48,4 +48,4 @@ Enemy status with Etrea
 
 ## Trivia
 
--   Like other major factions, they seem to be based on a real world culture, with Etrea being based on East Asian countries.
+-   Like other major factions, they seem to be based on a real-world culture, with Etrea being based on East Asian countries.

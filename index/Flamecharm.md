@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 72756
+revid: 75284
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -292,7 +292,9 @@ _Strike the ground, turning it to ash._
 |  | 
 Flame Leap
 
-(★★)
+(★★☆)
+
+  
 
   
 
@@ -317,7 +319,9 @@ _Leap up leaving behind a burst of flames._
 |  | 
 Flame Wisp
 
-(★★)
+(★★☆)
+
+  
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 75248
+revid: 75263
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -37,7 +37,7 @@ Once the conditions are met, The Depths (current server) will take on a hellish 
     -   Alpha vs. 2 Divers event is able to spawn as well.
 
 -   [King Gigamed](Gigamed.md) is removed from the spawn pool.
--   all Monsters that have a weaker form are in their weaker form, such as the ones fought in Trial of one.
+-   All Monsters that have a weaker form are in their weaker form, such as the ones fought in Trial of one.
 
 These conditions (beside the 10x spawn rate) affects everybody currently in the server, not just the people who interacted with the bell.
 

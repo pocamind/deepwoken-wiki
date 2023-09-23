@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 72928
+revid: 75294
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -34,9 +34,6 @@ The Legion has several war heroes that are depicted by either their ornaments or
 ## NPCs
 
 -   [Amara](Amara.md)
--   [Legion Sniper](Legion_Sniper.md)
--   [Legion Soldier](Legion_Soldier.md)
--   [Legion Captain](Legion_Captain.md)
 
 ## Trivia
 
@@ -44,6 +41,6 @@ The Legion has several war heroes that are depicted by either their ornaments or
 -   Their aesthetic draws from the Greek and Roman empires.
 -   From the camp in [The Viper's Jaw](<The_Viper's_Jaw.md>) we can meet a Khan with an unobtainable race variant, meaning that there might be more types of Khans than the ones that have made their way in the East.
 -   While speaking to Gaius, you can learn that being stationed in the East isn't the best if you're looking to become the next Ruler of the Legion as he outright curses, presumably Akilles, who stationed him there.
--   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say "Let my comrades know, we'll hold a ceremony in his honor."
+-   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say, "Let my comrades know, we'll hold a ceremony in his honor."
 -   Despite the Legion being extremely vast as they rule an entire Luminant, apparently, with an iron fist, it has too little lore content to be deemed a relevant faction.
--   Considering that the Battle Royale map is of Legion territory, The Hundred Legions is the first faction to get its own exclusive gamemode, and by extension, the only ones to have a server wholly dedicated to them.
+-   Considering that the Battle Royale map is of Legion territory, The Hundred Legions is the first faction to get its own exclusive game mode, and by extension, the only ones to have a server wholly dedicated to them.

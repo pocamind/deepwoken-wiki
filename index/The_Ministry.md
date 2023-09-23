@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 71332
+revid: 75309
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -21,7 +21,7 @@ notices:
 
 ## Description
 
-The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to obtain Godhood. They are lead by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who gifted Chaser his hemokinetic abilities and the Fourth Prophet being the current Lord Regent of Etris. They have some sort of hostility against the Children of Navae, and desire to clear them out of [Summer Isle](Summer_Isle.md).
+The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to obtain Godhood. They are led by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who gifted Chaser his hemokinetic abilities and the Fourth Prophet being the current Lord Regent of Etris. They have some sort of hostility against the Children of Navae, and desire to clear them out of [Summer Isle](Summer_Isle.md).
 
 Many years ago, they conquered Minityrsa and made it their own territory. After the King of Etrea disappeared, which they may well have had a hand in, they installed the Fourth Prophet as its Lord Regent.
 
@@ -37,18 +37,19 @@ Dying to [Nostor](Nostor,_Master_of_Shadow.md) allows you to gain some reputatio
 
 Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you some reputation.
 
-## NPCs
+## Notable Members
 
+-   [The Lord Regent](The_Lord_Regent.md)
 -   [Cestis](Cestis.md)
+-   The Stranger
+-   [Nostor, Master of Shadow](Attunement_Trainers.md)
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   Emel
 -   Imel
 -   Rimil
--   [The Lord Regent](The_Lord_Regent.md)
--   The Stranger
--   [Nostor](Attunement_Trainers.md)
 
 ## Trivia
 
 -   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md).
--   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who posses it are persecuted.
+-   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who possess it are persecuted.
     -   This makes them the only faction to have an exclusive attunement.

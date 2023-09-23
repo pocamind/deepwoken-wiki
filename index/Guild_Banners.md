@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 73069
+revid: 75283
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -8,25 +8,15 @@ categories: [Objects]
 
 # Guild Banners
 
-The building at **[Minityrsa](Minityrsa.md)** with a banner
+| Guild Banners | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
 
-Banner outside miners landing
+## Overview
 
-Picture of the banner near summer isle
-
-Capture these to get money in your Guild Treasury
-
-2 people hitting the griddy next to a banner
-
-**Guild Banners** are banners found around the map. They reward the guild controlling them with 15-20 notes per minute, and give higher note rewards if there is more competition in the server. If one guild has multiple banners under their control they will make notes from all of them, however it may become difficult to defend all of your banners if you have many under your guilds control.
-
-What shows up when you take a guild banner over
-
-Note gain amount icon
-
-Banner right before the derelict church broken staircase.
-
-A Celtor at the guild banner near Imel
+**Guild Banners** are banners found around the map. They reward the guild controlling them with 15-20 notes per minute and give higher note rewards if there is more competition in the server. If one guild has multiple banners under their control, they will make notes from all of them, however it may become difficult to defend all of your banners if you have many under your guilds control.
 
 (All known) Locations:
 
@@ -39,9 +29,7 @@ A Celtor at the guild banner near Imel
     -   Atop one of the towers at [Towerstruck](Towerstruck_Lands.md).
     -   Right next to a statue at Statue Isle ([The Etrean Sea](The_Etrean_Sea.md))
 
--   A banner outside [The Birdcage](The_Birdcage.md)
-    
-    **Eastern Luminant:**
+-   **Eastern Luminant:**
     -   One by the bridge in [Songseeker](Songseeker_Wilds.md) across from [Derelicit Highchurch](Derelict_Highchurch.md).
     -   One in [Songseeker](Songseeker_Wilds.md) nearby the windmill.
     -   One near the [Songseeker](Songseeker_Wilds.md) highway, next to the Linkstrider meteor.
@@ -52,10 +40,8 @@ A Celtor at the guild banner near Imel
     -   In the [Starfield Veldt](Starfield_Veldt.md), on the Crimson Sharko spawn.
     -   On the bridge to [Starfield Veldt](Starfield_Veldt.md), nearby [Adar](Adar,_Master_of_Metal.md).
     -   One in Starswept Valley, past the triple thresher event, in the little maze.
-    -   One in Starswept Valley, behind the triple thresher event by Widow, in the broken down ruins.
+    -   One in Starswept Valley, behind the triple thresher event by Widow, in the broken-down ruins.
 
-An unclaimed banner
-
-If you are lost on where to find any of these, check out the Etrean and Eastern Luminant [Maps](Maps.md)!
+If you are lost on where to find any of these, check out the Etrean and Eastern Luminant [Maps](Maps.md).
 
 (Page is unfinished)

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 74843
+revid: 75250
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -1433,6 +1433,7 @@ Found from:
 
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
+-   [Deep Widow](Deep_Widow.md)
 
  | N/A |
 | File:Black Deepwoken Cloak.png | 

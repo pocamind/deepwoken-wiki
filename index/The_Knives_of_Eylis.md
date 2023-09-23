@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 70418
+revid: 75297
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -23,9 +23,13 @@ The Knives of Eylis are an organization of ruthless mercenaries. They serve Eyli
 
 The Voidheart itself doesn't actually exist, it's actually a collective dream that the Knives of Eylis have while sleeping at night. The Voidheart heavily resembles the Trial of One but there's no information in-game that talks about this. It's speculated that the "deal" that the Voidmother and Eylis made granted the players the ability to travel to their bounties using the Grasp of Eylis and the Voideye.
 
+## Notable Members
+
+-   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
+
 ## Trivia
 
--   They are one of few factions with an [Oath](Oaths.md) tied to them, there is also the Ministry, and a Speculated To-Be-Released one for the Authority, Finally there is the [Ignition Union](The_Ignition_Union.md).
+-   They are one of few factions with an [Oath](Oaths.md) tied to them, there is also the Ministry, and a Speculated To-Be-Released one for the Authority, finally there is the [Ignition Union](The_Ignition_Union.md).
 
 -   Possibly a reference to the mythological location of Elysium where the heroes and kings would be sent when they died.
 -   The faction's name could be reference to 'The Knife of Dunwall' from Dishonored; a group of assassins which in both games, are also known as [Whalers](https://dishonored.fandom.com/wiki/Whalers).

@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 72297
+revid: 75311
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -95,6 +95,7 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 ## Trivia
 
 -   Most of the attunement trainers have off-color eyes that match the attunement they teach. For example, Nell's blue eyes represent Frostdraw, and Funke's bright yellow eyes represent Thundercall.
+    -   Nostor is an exception due to being a [Ganymede](Ganymede.md).
 -   Beatra was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" (Thundercall master) means "Spark" in German.
 -   Nostor wears a ministry ouftit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
