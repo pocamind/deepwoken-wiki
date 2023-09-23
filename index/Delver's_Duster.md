@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 74714
+revid: 75229
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -29,6 +29,6 @@ The Delver's Duster is an [Equipment](Equipment.md) item under the "Arms" catego
 
 ## Trivia
 
--   The second obtainable Mythic equipment item.
+-   The only obtainable Mythic equipment item.
 -   Originally called the Miner's Hard Coat in the concept art.
--   This was intended to be part of a set, but l7\_Nano was removed from the team before they could finish it. \[RIP I7\_Nano\]
+-   This was intended to be part of a set, but l7\_Nano was removed from the team before they could finish it.

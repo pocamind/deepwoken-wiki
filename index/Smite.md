@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 74851
+revid: 75245
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -41,7 +41,7 @@ When obtained, Smite will spend its points on the following stats:
 
 -   **Orbs:** The amount of orbs summoned upon usage
 
--   **Unknown:** Unknown
+-   **Orbs: the amount of range increases**
 
 -   **Unknown:** Unknown
 

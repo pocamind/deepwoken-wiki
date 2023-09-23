@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 71429
+revid: 75248
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -37,6 +37,7 @@ Once the conditions are met, The Depths (current server) will take on a hellish 
     -   Alpha vs. 2 Divers event is able to spawn as well.
 
 -   [King Gigamed](Gigamed.md) is removed from the spawn pool.
+-   all Monsters that have a weaker form are in their weaker form, such as the ones fought in Trial of one.
 
 These conditions (beside the 10x spawn rate) affects everybody currently in the server, not just the people who interacted with the bell.
 
@@ -50,7 +51,7 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original 5 players who activated the event all died.
 
-Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside.
+Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside. In a recent update, relics have also been added to the hellmode lootpool.
 
 ## Tips
 

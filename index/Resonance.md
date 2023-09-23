@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 74940
+revid: 75234
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -15,6 +15,8 @@ categories: [Pages with broken file links, Resonances, Mechanics]
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
 
 Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) in the Depths, a very helpful NPC that many would deem important in most progressions.
+
+You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." There is currently little to no information about this as it was just recently added and is very rare. You also don't get to choose what bell you get.
 
 | 
 **LIST OF NORMAL RESONANCES**

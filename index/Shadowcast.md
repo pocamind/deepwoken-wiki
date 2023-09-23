@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 75138
+revid: 75224
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -47,8 +47,8 @@ Dark Blade
  | Slicing blades of dark energy. | 20 Ether | A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice. Can be modified to add more. Blockable.
 
 -   Adding 1 Tornado Spark adds an additional spinning slash at the end of the initial slashes.
--   adding rush shards make dark blade faster
--   adding vibrant gems increase ether steal
+-   Adding rush shards make dark blade faster.
+-   Adding vibrant gems increase ether steal.
 
  |
 | 
@@ -132,7 +132,7 @@ Encircle
  | Conjure shadows around your enemy before warp-striking to them. | 150 Ether | The user will summon shadows around their target and teleport to them after a short wait.
 
 -   Attacks done before teleporting will continue after the teleport. for instance, a mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or mantras, such as Eclipse Kick
--   will not teleport the user if blocked (?) or parried
+-   Will not teleport the user if parried
 
  |
 | 

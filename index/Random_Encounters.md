@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 74903
+revid: 75231
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -96,7 +96,7 @@ During this event, most regular NPCs from the town will not be available. If you
 
 #### **Bandit Attack**
 
-In Etris or Vigils, two [bandits](Bandit.md) can spawn in front of the guards near their respective entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. This event is triggered to occur when a player comes within range of the respective entrances so hearing this event without your presence is a blatant sign of another player. There's a small chance for them to drop low tier mantra modifiers.
+In Etris two [bandits](Bandit.md) can spawn in front of the guards near the entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. This event is triggered to occur when a player comes within range of the entrance so hearing this event without your presence is a blatant sign of another player. There's a small chance for them to drop low tier mantra modifiers. At the [Isle of Vigils](Isle_of_Vigils.md), they spawn on a bridge leading to the [Barber](Barber.md) shop.
 
 **Weapons:** Basic
 
@@ -257,4 +257,6 @@ An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so f
 
 The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through Layer 1 causing meteors to rain from above. Many rocks slam down landing near the player and spawn monsters from each impact. Basically a mini hell mode. Proof: [https://www.youtube.com/watch?v=7tW089OTGK8](https://www.youtube.com/watch?v=7tW089OTGK8)
 
-(May turn screen red haven't proved it yet though)
+### **Resonant Dawn**
+
+A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free.

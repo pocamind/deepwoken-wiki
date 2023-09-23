@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 74850
+revid: 75226
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -402,7 +402,7 @@ Increased weapon range.
     -   Prior to the leak, Ironsing was originally supposed to be an Oath, as stated by Arch\_Mage.
 -   Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights and shipped from The Central Luminant.
 -   On release, Ironsing had 12 mantras and 11 talents.
--   Ironsing is the only Attunement to have 5 3-star Mantras.
+-   Ironsing is the only Attunement to have five 3-star Mantras.
 -   Needle Barrage is practically identical to Autumn Rain from Rogue Lineage.
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon on update release, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md), released in the exact same update as Ironsing itself.
 -   Ironsing is called "Element' in the game's code.
@@ -410,4 +410,3 @@ Increased weapon range.
 -   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore, Gold is the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect using Irithine gives a green particle effect but no boost using Erisore gives a blue particle effect but no boost as well.
 -   Oxidizing rush highly resembles Junker Queen's "Rampage" from Overwatch 2.
--   Ironsing is the last Attunement added to Deepwoken (may 23rd 2023)

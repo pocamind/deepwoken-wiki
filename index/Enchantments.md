@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 74967
+revid: 75246
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -16,7 +16,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 
 -   Any gear you find can already be enchanted. (Except ring, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md).
--   Using an equipment enchant for a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
+-   Using an equipment enchant for an enchant with a 1/22% chance of a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
 -   Using an [Enchant Stone](Enchant_Stone.md).
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
 
@@ -78,7 +78,7 @@ There are two variants that enchantments come in:
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 16-20 damage on top of the weapons damage to them and others around beside the user. The damage from explosions is effected by damage modifiers and bypasses armor.<br>
+  times they explode, dealing an additional 16-20 damage on top of the weapons damage to them and others around beside the user. The damage from explosions is effected by damage modifiers and bypasses armor.(doesnt knock back)<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>

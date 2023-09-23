@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 74823
+revid: 75223
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -8,7 +8,7 @@ categories: [Outfits, Armors, Items]
 
 # Summer Dragoon
 
-_Not to be confused with "[Summer Dragoon"](<Summer_Dragoon_(NPC).md>), An enemy_
+_This page is for the Outfit, for the Enemy, see [Summer Dragoon](<Summer_Dragoon_(NPC).md>)._
 
 **Summer Dragoon** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
