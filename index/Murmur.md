@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 72236
+revid: 75217
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -47,9 +47,7 @@ _"Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H
 
 ### **Obtainment:**
 
-**Murmur: Ardour** can be obtained by defeating the [Dread Serpent](Dread_Serpent.md).
-
-After killing the [Dread Serpent](Dread_Serpent.md), a purple orb will fly into you right before getting it.
+**Murmur: Ardour** can be obtained by defeating the [Dread Serpent](Dread_Serpent.md). After killing the [Dread Serpent](Dread_Serpent.md), a purple orb will fly into you right before getting it.
 
 ## Murmur: Tacet
 
@@ -76,13 +74,13 @@ Murmur: Tacet can be obtained in three ways; one of them being that you don't ha
 
 #### Method One - Fetch Quest
 
-Locate Cestis in Meteor Isle and accept his quests requiring a certain amount of Charisma. You can also complete bounties from Summer Isle, Etris and others. You need about 10 Kills to Obtain Tacet.
+Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests requiring a certain amount of Charisma. You can also complete bounties from Summer Isle, Etris and others. You need about 10 Kills to Obtain Tacet.
 
 #### **Method Two - Born Assassin**
 
-By completing 5 Bounty Hunting Contracts, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method and it does not matter if you have neutral/good or negative rep with Etris.
+By completing 5 Bounty Hunting Contracts, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method.
 
-A screenshot of the Tacet NPC at Erisia, found by Restative.
+A screenshot of the Stranger NPC, found by Restative.
 
 #### Method Three - The Stranger NPC
 

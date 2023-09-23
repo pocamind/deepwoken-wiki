@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 75173
+revid: 75222
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -163,8 +163,12 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.3s | Big Splash |
 |  | 1.9s | Swimming loop |
 |  | 0.9s | Dashing While Swimming |
-|  | 1.5s | Stomach Growl |
 |  | 1.7s | Dashing in [The Depths](The_Depths.md) |
+|  | 1.5s | Stomach Growl |
+|  | 0.6s | Eating (1) |
+|  | 0.5s | Eating (2) |
+|  | 0.7s | Eating (3) |
+|  | 0.9s | Vomiting |
 
 ### [Utility & Items](Training_Gear.md)
 
@@ -182,16 +186,25 @@ A large collection of sounds found in **Deepwoken**.
 |  | 3.1s | [Mantra Table](Mantra_Lectern.md) Success |
 |  | 1.7s | [Cooking](Food.md) Success |
 |  | 1.0s | Crafting Success |
+|  | 0.8s | Crafting Failure (1) |
+|  | 0.8s | Crafting Recipes & Alchemy Failure (2) |
 |  | 2.2s | [Pure Heart](Training_Gear.md) |
 |  | 9.0s | [Self-Conducting Loop](Training_Gear.md) |
 |  | 1.9s | [Hearthgem](Training_Gear.md) |
 |  | 1.9s | Placing Utility |
 |  | 1.0s | Object Placement |
 |  | 0.3s | Drinking \[1\] |
+|  | 1.2s | Drinking (2) |
 |  | 0.9s | Foraging |
 |  | 1.6s | [Encyclopedia](Training_Gear.md) Page Flip |
 |  | 0.6s | Potion Glass Breaking |
 |  | 0.6s | [Fishing](Fishing.md) |
+|  | 1.0s | Pickaxe mining (1) |
+|  | 0.9s | Pickaxe mining (2) |
+|  | 1.1s | Pickaxe mining (3) |
+|  | 0.8s | Pickaxe mining (4) |
+|  | 0.9s | Throwing Rock (1) / Breaking Environment |
+|  | 0.5s | Throwing Rock (2) |
 |  | 0.3s | Zipline Loop |
 |  | 4.3s | Lighthook Usage |
 |  | 2.2s | Kyrsan Obelisk + Puzzle Pad (Interaction) |
@@ -232,13 +245,23 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.3s | Meteor Falling Loop |
 |  | 1.8s | Meteor Impact |
 |  | 2.6s | Pillars Formed |
-|  | 1.8s | [Depths](The_Depths.md) Boulder Impact |
+|  | 20s | Whirlpool / Ocean Bubbling |
+|  | 1.3s | [Depths](The_Depths.md) Boulder Falling |
+|  | 2.3s | [Depths](The_Depths.md) Boulder Impact \[1\] |
+|  | 1.8s | [Depths](The_Depths.md) Boulder Impact \[2\] |
 |  | 5.1s | [Depths](The_Depths.md) Boulder Crumbling |
+|  | 35s | Harsh Wind |
+|  | 1.0s | Spike Impact |
 |  | 1.1s | Parasite Maturing |
+|  | 14s | Ignition Radio Loop |
 |  | 11.0s | Ignition Lantern Loop |
+|  | 2.7s | Generator (Activation) |
+|  | 1.1s | Generator Loop |
 |  | 21.2s | Ignition Machine Activate |
-|  | 5.1s | Ignition Deep Drill Loop |
+|  | 10.1s | Frontier Furnace Loop |
 |  | 12.1s | Pipe Spraying |
+|  | 5.1s | Ignition Deep Drill Loop |
+|  | 18.6s | Puzzle Room Walls Closing In Loop |
 |  | 5.1s | Kyrsan Ambush Event |
 
 ### [Cards & Levelling](Talents.md)
@@ -262,12 +285,13 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.8s | Locked [Attribute](Attributes.md) \[2\] |
 |  | 6.0s | [Power](Power.md) Increase |
 
-### [Combat & Players](https://deepwoken.fandom.com/wiki/Combat_Mechanics)
+### [Combat](https://deepwoken.fandom.com/wiki/Combat_Mechanics)
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
 |  | 5.4s | Entering Combat (Default) |
 |  | 3.6s | Entering Combat ([The Depths](The_Depths.md)) |
+|  | 4.0s | Voidwalker Hunting (Ferocity) |
 |  | 0.9s | Unsheathing |
 |  | 1.0s | Sheathing |
 |  | 1.5s | Unsheathing (Heavy) |
@@ -326,12 +350,15 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.5s | Strong Leap / Ash Slam, Rising Thunder (Impact) |
 |  | 0.9s | Rapid Punches (Unleash) |
 |  | 1.3s | Rapid Punches (Knockback) |
+|  | 2.0s | Exhaustion Strike (Windup) |
 |  | 2.0s | Adrenaline Surge (Activation) |
 |  | 1.5s | Reinforce Mantra |
+|  | 1.8s | Tacet Drop Kick (Windup) |
 |  | 4.2s | Grasp of Eylis + Voideye Loop |
 |  | 2.8s | Sing Mantra + Capra Racial Buffs Loop |
 |  | 2.1s | Graceful Flame Loop |
 |  | 3.2s | Taunt Mantra |
+|  | 1.8s | Golden Tongue / Prediction |
 |  | 1.6s | Glare Mantra |
 |  | 1.9s | Ice Daggers + Fire Eruption (Windup) / Trial of One Parry Test |
 |  | 1.4s | Ash Slam (Windup) / Gravity Field (Bounce) |
@@ -367,7 +394,9 @@ A large collection of sounds found in **Deepwoken**.
 |  | 5.1s | Ice Fissure Loop |
 |  | 2.8s | Ice Lance / Kyrsan Spear (Impact) |
 |  | 0.4s | Ice Smash (Swing) |
+|  | 1.3s | Warden Blades (Spinning) |
 |  | 1.9s | Warden Blades (Shattering) |
+|  | 1.0s | Warden Blades Shattering (alt) |
 |  | 3.2s | Chill (Proc) |
 |  | 2.0s | [Thundercall](Thundercall.md) Mantras |
 |  | 1.4s | Grand Javelin + Shadow Meteor (Windup) |
@@ -378,6 +407,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 5.1s | Lightning Crash |
 |  | 4.7s | Lightning Bolts |
 |  | 0.6s | Electrified (Proc) / Static Withdraw |
+|  | 1.6s | Lightning Spark |
 |  | 1.8s | Shadow Gun (Unedited) |
 |  | 4.1s | Shadow Gun \[1\] (Edited by Witherald) |
 |  | 4.1s | Shadow Gun \[2\] (Edited by Witherald) |
@@ -386,6 +416,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 14s | Shadow Roar |
 |  | 0.8s | Dark Rift (Activation) |
 |  | 2.0s | Shadow Eruption |
+|  | 1.5s | Metal Armament (Windup) |
 |  | 3.6s | Dread Breath (Full) |
 |  | 1.1s | Mecha Gatling Feint |
 |  | 6.7s | Mecha Gatling (Full) |
@@ -433,6 +464,8 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack \[1\] |
+|  | 1.0s | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack (2) |
+|  | 2.9s | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack (3) |
 |  | 1.0s | [Carbuncle](Carbuncle.md) Roar (1) |
 |  | 0.7s | [Carbuncle](Carbuncle.md) Roar (2) |
 |  | 4.0s | [Bounder](Bounder.md) Ambush (Unedited) |
@@ -445,10 +478,15 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.9s | [Bonekeeper](Bone_Keeper.md) Bridge Impact (Environmental) / Bone Javelin Impact / Shard Bow Impact |
 |  | 3.7s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Miasma Ring Attack |
 |  | 1.7s | [Kyrsgarde](Kyrsgarde.md) Ice Spear + Ice Lance (Windup) |
+|  | 4.1s | **Wake.** |
+|  | 1.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar (1) |
+|  | 1.8s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap \[1\] |
+|  | 3.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar (2) (Edited by Witherald) |
+|  | 6.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Long Roar (Unofficial) \[003\] |
 |  | 2.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Ultimate Attack Launch (Edited by Witherald) |
-|  | 1.9s | [Phoenix](<https://deepwoken.fandom.com/wiki/Developer_Specs#Dexerius_(Sadreyus)>) Flap (Activation) |
-|  | 1.9s | [Phoenix](<https://deepwoken.fandom.com/wiki/Developer_Specs#Dexerius_(Sadreyus)>) Flap \[3\] |
-|  | 4.0s | [Phoenix](<https://deepwoken.fandom.com/wiki/Developer_Specs#Dexerius_(Sadreyus)>) Screech |
+|  | 1.9s | [Phoenix](Developer_Specs.md#dexerius-sadreyus) Flap (Activation) |
+|  | 1.9s | [Phoenix](Developer_Specs.md#dexerius-sadreyus) Flap (2) |
+|  | 4.0s | [Phoenix](Developer_Specs.md#dexerius-sadreyus) Screech |
 |  | 1.1s | Alternative [Monster](Monsters.md) Stomp \[1\] |
 |  | 0.8s | Alternative [Monster](Monsters.md) Stomp \[2\] |
 
@@ -458,12 +496,19 @@ A large collection of sounds found in **Deepwoken**.
 | --- | --- | --- |
 |  | 1.0s | Illusionary Clones (Activation) |
 |  | 1.0s | Stratos Step |
+|  | 2.7s | Arc Suit (Activation) (1) |
+|  | 2.7s | Arc Suit (Activation) (2) |
+|  | 0.6s | Arc Suit Jetpack (1) |
+|  | 0.8s | Arc Suit Jetpack (2) |
 |  | 2.5s | Arc Beam (Windup) |
 |  | 0.9s | Arc Beam Impact |
 |  | 1.7 | Arc Suit Null (Deactivation) |
+|  | 1.2s | Starkindred Wing Flap / Owl Flap |
 |  | 1.6s | Sightless Beam (Windup) |
-|  | 1.9s | Tranquil Circle |
-|  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) Mantras \[1\] |
+|  | 4.1s | Mani Katti |
+|  | 1.9s | Tranquil Circle (Activation) |
+|  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) [Mantras](Mantras.md) \[1\] |
+|  | 1.4s | [Dawnwalker](Oath%253A_Dawnwalker.md) [Mantras](Mantras.md) (2) |
 |  | 4.0s | [Linkstrider](Oath%253A_Linkstrider.md) Abilities (1st Sound) / Resurrection Bell Cast / Sinister Halo |
 |  | 1.4s | [Linkstrider](Oath%253A_Linkstrider.md) Abilities (2nd Sound) |
 
@@ -474,15 +519,18 @@ A large collection of sounds found in **Deepwoken**.
 |  | 8.0s | Obtaining [Resonance](Resonance.md) |
 |  | 1.8s | [Tarnished Resonance](Resonance.md) (Activation) / Linkstrider Chain Breaks |
 |  | 0.5s | [Resonance](Resonance.md) (Activation) |
-|  | 1.8s | [Legendary Resonance](Resonance.md) (Activation) |
 |  | 2.9s | [Corrupted Resonance](Resonance.md) (Activation) |
+|  | 1.8s | [Legendary Resonance](Resonance.md) (Activation) |
 |  | 4.4s | [Dimensional Travel](Dimensional_Travel.md) (Activation) |
 |  | 1.1s | [Dimensional Travel](Dimensional_Travel.md) Layer 2 Rejection (Push) |
 |  | 2.4s | [Blood Scourge](Blood_Scourge.md) (Activation) |
 |  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution (Unedited) |
+|  | 2.6s | [Blood Scourge](Blood_Scourge.md) Execution \[1\] (Edited by Witherald) |
+|  | 3.9s | [Blood Scourge](Blood_Scourge.md) Execution \[2\] (Edited by Witherald) |
 |  | 2.7s | [Blood Scourge](Blood_Scourge.md) Success |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) Ability Windups / [Angel's](Hollow_Angel.md) Divine Spear |
 |  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Soul Capturing |
+|  | 3.0s | [Jar of Souls](Jar_of_Souls.md) Replenishing |
 |  | 2.1s | [Wind-Up](Wind-Up.md) Bell Impact |
 |  | 0.8s | Gravity Field (Enter) |
 |  | 2.4s | [Resurrection](Resurrection.md) Bell (Activation) |
@@ -502,6 +550,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.3s | Killing Monster (Alternate) |
 |  | 1.7s | [Rock Golem](Rock_Golem.md) + [Stone Knight](Stone_Knight.md) Death |
 |  | 5.2s | Parasites Hatching (Combat Tag included) |
+|  | 0.8s | Corpse Burned |
 |  | 2.2s | Corpse Fading |
 |  | 9.5s | Corpse Fading (Extended) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) / Call of the Deep |
@@ -511,7 +560,7 @@ A large collection of sounds found in **Deepwoken**.
 
 | **File** | **Length** | **Notes** |
 | --- | --- | --- |
-|  | 9s | Achieving **W Rank / S Rank** |
+|  | 9.0s | Achieving **W Rank / S Rank** |
 |  | 15.0s | Achieving **Rank A Legacy** |
 |  | 15.0s | Achieving **B Rank / C Rank** |
 |  | 15.0s | Achieving **D Rank / E Rank** |
@@ -547,7 +596,6 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.4s | Ice Raining / Ice Shattering |
 |  | 1.3s | Ice Spikes Forming |
 |  | 3.6s | Cannonball + Bomb (Impact) |
-|  | 1.8s | Golden Tongue / Prediction |
 |  | 2.2s | [Entanglement](Enchantments.md) (Proc) |
 |  | 2.0s | [Grim](Enchantments.md) (Proc) (Edited by Witherald) |
 |  | 2.4s | Alternative [Grim](Enchantments.md) (Proc) |

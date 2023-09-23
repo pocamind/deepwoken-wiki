@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 75165
+revid: 75204
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -313,7 +313,11 @@ Properties:
 Modifiers:
 
  |
-|  | 
+| 
+
+File:Desktop Screenshot 2023.09.22 - 19.42.54.05 (1).png
+
+ | 
 
 Thunder Wisp  
 (★★☆)

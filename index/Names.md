@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 74784
+revid: 75182
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1526,3 +1526,4 @@ You can choose your first name from any available, but your choices of last name
 -   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   The random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
+-   the names "Gebura" "Netzach" "Tiphereth" "Binah" "Hokma" and "Chesed" are references to the project moon games "Lobotomy Corporation" and "Library Of Ruina". "Angela" and "Roland" may also be references to these games.

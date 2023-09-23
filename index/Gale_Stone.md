@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 72724
+revid: 75188
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -31,7 +31,6 @@ A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.
 -   Alternatively, the most low risk high reward and probably the fastest way to gain Gale Stones is to kill the [Vigil Swordsmen](Vigil_Swordsman.md) in the Etrea vs. The Central Authority event. Do not worry, this does not tarnish your reputation with Etrea.
 
 -   Finally, the bloated Mineskippers found within the cave on Songseeker will occasionally drop Gale stones; though it's a bit rare or uncommon for them to do so, you could try to farm them for one as well.
-    
 
 ## Trivia
 
