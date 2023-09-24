@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 72030
+revid: 75411
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -43,6 +43,10 @@ Celtors are a common race with a pale-ish green skin, grey hair and a racoon-lik
     <li>+2 Intelligence</li>
     <li>+2 Charisma</li>
   </ul></td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
 </tr>
 </tbody>
 </table>

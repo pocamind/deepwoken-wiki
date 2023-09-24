@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 75244
+revid: 75423
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -51,12 +51,12 @@ File:Sinner's Ash.png
 -   Corrupts your current [Resonance](Resonance.md)
 -   No other known features
 
- | Drops in chest from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) |
+ | _Drops in chest from [Duke Erisia](Duke_Ishamon_Erisia.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)_ |
 | 
 
 File:Moonseye Tome.png
 
- | **Moonseye Tome** - Awards player with Maximum Knowledge. | Drops in chests from [Hell Mode](Hell_Mode.md), [Duke Erisia](Duke_Ishamon_Erisia.md) and [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) |
+ | **Moonseye Tome** - Awards player with Maximum Knowledge. | Drops in chests from [Hell Mode](Hell_Mode.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Ferryman](The_Ferryman.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) |
 
 ## Lore Relics
 
