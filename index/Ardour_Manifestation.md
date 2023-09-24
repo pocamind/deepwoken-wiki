@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 75399
+revid: 75407
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -14,9 +14,9 @@ categories: [Items]
 
 **Ardour Manifestation** is a rare reward granted upon killing any bosses, even the [Dread Serpent](Dread_Serpent.md) themselves. **Upon use within the Voidsea, the [Dread Serpent](Dread_Serpent.md) will rise from the waters and combat with it shall ensue.**
 
--   You can hold a max of three
+-   You can hold a max of three.
 -   You can still obtain an Ardour Manifestation while currently having a Murmur- including Ardour itself. _The only time this item is not granted is if you already own three of the item in your inventory._
--   The drop rate for Ardour Manifestation is now much rarer
+-   The drop rate for Ardour Manifestation is now much rarer.
 -   You will be unable to summon the Dread Serpent if there is already one in the server that was spawned through another's Ardour Manifestation.
     -   Once it is slain, you will be able to summon again.
 
