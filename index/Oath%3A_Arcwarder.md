@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 74771
+revid: 75363
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -83,5 +83,10 @@ Variants
 ## Trivia
 
 -   The Arcwarder suit originally looked far different but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
+    -   The Arcwarder suit is inspired by Bondrewd's suit from the anime and manga series _Made in Abyss_. The Immortal Guardians wear an exact copy of the aforementioned suit, while the Arcwarder suit has been slightly redesigned.
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
--   The Arcwarder suit is inspired by Bondrewd's suit from Made in Abyss anime. Immortal guardians have exact copy of it, while player has a bit redesigned suit.
+-   This Oath was created by Dexerius, along with [Visionshaper](Oath%253A_Visionshaper.md).[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

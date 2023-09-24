@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 75314
+revid: 75328
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -17,7 +17,7 @@ categories: [Pages with broken file links, Utilities, Items]
 
 ## Overview
 
-Gliders are a utility that can be crafted with a schematic given in [Pathfinder's Respite](<Pathfinder's_Respite.md>). It gives the player the ability to glide, allowing easy travel through terrain.
+Gliders are a utility that can be crafted with a schematic given in [Pathfinder's Respite](<Pathfinder's_Respite.md>). It gives the player the ability to glide, allowing easy travel through terrain. There is also a special Feathered Glider, which is given to [Tirans](Tiran.md) as an innate talent.
 
 ## Obtaining
 
@@ -42,3 +42,7 @@ An addition to gliders, [Galebreathe](Galebreathe.md) users can eventually obtai
 "The Old Wind" and "Aerogliding" talents do NOT stack, but a pretty useful technique with "The Old Wind" is since [Greathive Aratel](Greathive_Aratel.md) is super high up, you can use this place to teleport to Summer Isle, [Upper Erisia](Upper_Erisia.md), and [Aratel](Aratel_Island.md), but not only that, if you have "The Old Wind", you can use a glider to glide all the way to [Monkey's Paw](<The_Monkey's_Paw.md>), [Songseeker](Songseeker_Wilds.md), And just about anywhere the teleports can't take you. Not that relevant to the page itself, but it only works with "The Old Wind" talent and a glider. You can glide to monkey's paw without this talent though.
 
 **BE CAREFUL.** Taking damage with a glider will Ragdoll your character. Flying in places that have acid rain like Upper Ersia may be immensely dangerous. If you are suffering from ping issues, your glider may delay heavily when you are trying to deploy it which will likely cause fall damage from deploying the glider and subsequently plummeting.
+
+## Trivia
+
+The Feathered Glider comes in 4 different colors, each matching the race variant of the Tiran using it. (Crow variant pictured.)

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 75250
+revid: 75368
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -2468,6 +2468,27 @@ Found from:
 +2 Rare Pips
 
 **Requires Power 13**
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
+|  | 
+
+Eternal Restrains
+
+(Unobtainable)
+
+ | 
+
+_+20% Health_  
+_+5 Posture_
+
+_\+ Talent: Chains of Eternity_  
+_\+ Talent: Cognito Hazard_
 
  | 
 

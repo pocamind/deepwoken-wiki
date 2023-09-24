@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 71050
+revid: 75329
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -27,7 +27,7 @@ The Shipwright
 
 **As the ships get more expensive, they gain size, speed, lanterns, cannons, and more rooms and space which make it easier to kill monsters while travelling in the Aratel and Voidsea.** Ships can be purchased from the Shipwright who is located at an island's dock (if it has one), at Etris, Isle of Vigils, [Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md), [Fort Merit](Fort_Merit.md), and [Greathive Aratel](Greathive_Aratel.md). When talking to him he gives an option to build your ship (Shipyard). Each ship can then be built for a different amount of Notes.
 
-Once a boat has been purchased and isn't destroyed, you can deploy a boat at any jettison post or by using the Seafarer's Chime. Jettison posts can be found on practically any island (excluding [Isle of Vigils](Isle_of_Vigils.md) which already has a shipyard.) Jettison posts can be found on the beaches of islands and appear as a small wooden post.
+Once a boat has been purchased, you can can either deploy or repair a boat by using any jettison post or use a Seafarer's Chime which only allows you to summon a boat. Jettison posts can be found on practically any island (excluding [Isle of Vigils](Isle_of_Vigils.md) which already has a shipyard.) Jettison posts are normally found on the beaches of islands and appear as a small wooden post.
 
 Boats can be repaired with the [Repair Hammer](Repair_Hammer.md) which can be bought in [Etris](Etris.md) next to [Schnitzel](Mantra_Collector.md) for 30. Repair hammers can repair the boat at any time, only if you have wood on you. In repairing a boat a certain amount of times you'll get the talents [Emergency Repairs](Talents.md) and [Spare Nails](Talents.md). Though wearing the [Brigand Bicorn](<Brigand's_Bicorn.md>) also grants you those talents, therefore assisting you in repairing the boat to max efficiency without the need to fulfill the talents prerequisites.
 
@@ -39,7 +39,7 @@ The custom decal of your guild will appear on the flag of your boat.
 
 You can respawn on any boat, given that you haven't been sent to The Depths or are within too close of a proximity to it.
 
-(Parenthesis means Celtor's Buffs)
+(Parenthesis are referring to [Celtor's](Celtor.md) Buffs)
 
 | Image | Boat | Details |
 | --- | --- | --- |
