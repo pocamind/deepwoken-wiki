@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 72298
+revid: 75397
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -69,7 +69,7 @@ Neutral-Bad Reputation:
 -   [Hive Adjudicator](<Hive_Adjudicator_(NPC).md>) (**NPC**)
 -   [Hive Construct](Hive_Construct.md)
 
-## NPCs
+### Notable Members
 
 -   [Regek](Regek.md)
 -   [Suri](Suri.md)

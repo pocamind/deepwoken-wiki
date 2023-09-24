@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 73487
+revid: 75402
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -229,6 +229,7 @@ Located in [Trial of One](Trial_of_One.md) on the opposite wall of the entrance.
 
 ## Trivia
 
+-   You cannot use the shrine if you are power 1, this was introduced in a ghost update to prevent players from farming echos by using the deepbound origin.
 -   You gain 1 point of knowledge every power up. After reaching maximum power, you are able to gain more by exchanging kyrsan medallions for knowledge at [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) at a rate of 5 medallions for 5 points of knowledge.
 -   [Primadon](Primadon,_Titan_of_the_East.md) gives knowledge too. The first time you kill [Primadon](Primadon,_Titan_of_the_East.md) you gain 3 points of knowledge, after the first time you only gain 1 point of knowledge.
 -   [Ganymedes](Ganymede.md) can do deep deals with a discount of 1 knowledge of all shrines, except the Shrine of Conceit

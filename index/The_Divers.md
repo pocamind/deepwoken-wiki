@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 74047
+revid: 75396
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -47,7 +47,7 @@ If you took the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), your div
 
 You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount of reputation with The Divers, after [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) has been defeated.
 
-## NPCs
+### Notable Members
 
 **[Karliah](Karliah.md):** A young, new recruit of The Divers. She lives in Etrea and is set to go on her first mission at Erisia, in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
 

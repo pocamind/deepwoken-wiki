@@ -1,6 +1,6 @@
 ---
 title: "Seafarer's Chime"
-revid: 75351
+revid: 75386
 source: https://deepwoken.fandom.com/wiki/Seafarer's_Chime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,11 +12,11 @@ categories: [Items]
 |---|---|
 | value | N/A |
 | weight | N/A |
-| type | idk someone check |
+| type | Talent |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | idk someone check |
+| desc | Call forth your vessel to carry you across the waves. |
 
 ## Description
 

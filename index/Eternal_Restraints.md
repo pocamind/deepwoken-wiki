@@ -1,6 +1,6 @@
 ---
 title: Eternal Restraints
-revid: 75370
+revid: 75404
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -32,3 +32,4 @@ The Eternal Restrains are an [Equipment](Equipment.md) item under the "Arms" cat
 
 -   Eternal Restrains are the only arms equipment to give a percentage of innate HP
 -   Haske Vantage (Arch Mage) is the only one wearing Eternal Restrains, and it'll be staying that way.
+-   Lorewise, Haske is prevented from ever drowning, keeping his soul in the luminants even when the world drowns.

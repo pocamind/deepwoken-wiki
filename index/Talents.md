@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75347
+revid: 75401
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1028,7 +1028,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   Prerequisite: 80 willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
+    -   Prerequisite: 80 Willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
 
 ### Human Architecture
 
@@ -2435,14 +2435,6 @@ File:Thresherquest1.png
 -   Turn in 5 Pure Ores into the blacksmith.
 -   This talent lets you mine significantly faster.
     -   Pure Iron, and Pure Gold are not able to be turned to a blacksmith.
-
-### Heretic's Sutra
-
--   A chant that steers you into the state of insanity for 20 seconds.
-    -   Gives a burst of insanity to yourself, which achieve the following:
-        -   You start benefitting from talent that need you to have insanity to use (namely Lose Your Mind)
-        -   Talent that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   80 willpower, have HAD tier 1 insanity (shivering), and talk to Kasen located in layer 2 floor 1.
 
 ## Outfit Talents
 

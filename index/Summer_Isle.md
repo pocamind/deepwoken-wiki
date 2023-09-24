@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 72195
+revid: 75389
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -136,7 +136,7 @@ You will be given two quest dialogue options after answering why you're meeting 
 
 ### _**Crime Tax Collector**_
 
--   Nepo, an NPC found on a bridge can clear your bounty with Summer Company. (You might want to memorize this, as it’s very easy to anger the Summer Company)
+-   Nepo, an NPC found on a bridge can reset your reputation with Summer Company. (You might want to memorize this, as it’s very easy to anger the Summer Company)
 
 ### _**The Furnace**_
 
