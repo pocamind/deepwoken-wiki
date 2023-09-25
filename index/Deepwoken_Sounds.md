@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 75465
+revid: 75489
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -132,7 +132,6 @@ Boss Theme
 
 A large collection of sounds found in **Deepwoken**.
 
--   Credits to Witherald🌹 & Idrante🎩 for adding most of the sounds, and of course the Deepwoken Dev Team for creating _some_ sounds.
 -   Some sounds are re-used in more than one aspect of gameplay.
 -   All sounds are supposed to be .mp3s, but if they are a different file (.ogg, .mpeg, etc.) you can convert them to .mp3s manually, or use a [converting site.](https://cloudconvert.com/ogg-to-mp3)
 -   Use \[CTRL + F\] or \[F3\] to find a specific sound you want. Do note that the search bar can only find words on categories you expanded.
@@ -373,7 +372,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.9s | Successful Dodge |
 |  | 1.7s | [Venting](Combat_Mechanics.md) |
 |  | 0.8s | Burning Extinguished |
-|  | 2.0s | [Grim](Enchantments.md) (Proc) \[1\] (Edited by Witherald) |
+|  | 2.0s | [Grim](Enchantments.md) (Proc) \[1\] (Unofficial Edit) |
 |  | 2.4s | [Grim](Enchantments.md) (Proc) \[2\] |
 |  | 1.2s | [Nemesis](Enchantments.md) (Proc) |
 |  | 15.2s | [Enchant Curses](Enchantments.md) Loop |
@@ -483,9 +482,9 @@ A large collection of sounds found in **Deepwoken**.
 |  | 5.7s | Shadow Vortex (Full) |
 |  | 2.2s | Eclipse Kick (Full) |
 |  | 1.8s | Shadow Gun (Unedited) |
-|  | 4.1s | Shadow Gun \[1\] (Edited by Witherald) |
-|  | 4.1s | Shadow Gun \[2\] (Edited by Witherald) |
-|  | 3.6s | Shadow Gun \[3\] (Edited by Witherald) |
+|  | 4.1s | Shadow Gun \[1\] (Unofficial Edit) |
+|  | 4.1s | Shadow Gun \[2\] (Unofficial Edit) |
+|  | 3.6s | Shadow Gun \[3\] (Unofficial Edit) |
 |  | 2.4s | Shadow Gun (Multiplying Spark) |
 |  | 1.5s | Metal Armament (Windup) |
 |  | 1.1s | Metal Eruption (Windup) |
@@ -562,10 +561,10 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.7s | [Kyrsgarde](Kyrsgarde.md) Ice Spear + Ice Lance (Windup) |
 |  | 4.1s | **Wake.** |
 |  | 1.8s | [Scion of Ethiron](Scion_of_Ethiron.md) Flap \[1\] |
-|  | 3.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar \[1\] (Edited by Witherald) |
+|  | 3.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar \[1\] (Unofficial Edit) |
 |  | 1.1s | [Scion of Ethiron](Scion_of_Ethiron.md) Roar \[2\] |
-|  | 6.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Long Roar (Unofficial, 003) |
-|  | 2.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Ultimate Attack Launch (Edited by Witherald) |
+|  | 6.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Long Roar (Unofficial Edit, Not In-Game) |
+|  | 2.5s | [Scion of Ethiron](Scion_of_Ethiron.md) Ultimate Attack Launch (Unofficial Edit) |
 |  | 1.9s | [Phoenix](Developer_Specs.md#dexerius-sadreyus) Flap \[1\] |
 |  | 1.6s | [Phoenix](Developer_Specs.md#dexerius-sadreyus) Flap \[2\] |
 |  | 1.9s | [Phoenix](Developer_Specs.md#dexerius-sadreyus) Flap \[3\] |
@@ -622,8 +621,8 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.1s | [Dimensional Travel](Dimensional_Travel.md) Layer 2 Rejection (Push) |
 |  | 2.4s | [Blood Scourge](Blood_Scourge.md) (Activation) |
 |  | 1.5s | [Blood Scourge](Blood_Scourge.md) Execution (Unedited) |
-|  | 2.6s | [Blood Scourge](Blood_Scourge.md) Execution \[1\] (Edited by Witherald) |
-|  | 3.9s | [Blood Scourge](Blood_Scourge.md) Execution \[2\] (Edited by Witherald) |
+|  | 2.6s | [Blood Scourge](Blood_Scourge.md) Execution \[1\] (Unofficial Edit) |
+|  | 3.9s | [Blood Scourge](Blood_Scourge.md) Execution \[2\] (Unofficial Edit) |
 |  | 2.7s | [Blood Scourge](Blood_Scourge.md) (Proc) |
 |  | 2.4s | [Crazy Slots](Crazy_Slots.md) Ability Windups / [Angel's](Hollow_Angel.md) Divine Spear |
 |  | 1.8s | [Jar of Souls](Jar_of_Souls.md) Storing Souls |
@@ -652,7 +651,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.2s | Corpse Fading |
 |  | 9.5s | Corpse Fading (Extended) |
 |  | 11.0s | Drowning to [The Depths](The_Depths.md) / Call of the Deep |
-|  | 6.0s | Wiping in [The Depths](The_Depths.md) (Edited by Witherald) |
+|  | 6.0s | Wiping in [The Depths](The_Depths.md) (Unofficial Edit) |
 
 ### **[Echoes](Echoes.md)**
 

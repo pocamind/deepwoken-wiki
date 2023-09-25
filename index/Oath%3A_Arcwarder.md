@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 75427
+revid: 75476
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -35,7 +35,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 5 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. ~You have to return to Delta at Miner's Landing to receive Arcwarder Passives and Mantras~. (Mantras are recieved upon light hooking out from Chaser, Tested.)
+Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 5 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are recieved upon light hooking out from Chaser or Ethiron.
 
 ## Abilities
 
@@ -76,7 +76,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 ## Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, ~it overwrites the user's current eye color and grants them orange eyes instead~ it does not visually change the character in any way, and the character's eye color remains the same. (TESTED)
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, it does not visually change the character in any way.
 
 Variants
 

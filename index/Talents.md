@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75425
+revid: 75470
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -990,10 +990,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I always shoot first."**_
 
 -   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 25% of an opponent's physical armor.
-    -   Prerequisites: 30 Medium/Light Weapon, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D)
+    -   Prerequisites: 30 Medium/Light Weapon, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
-    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude
+    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)
 -   QuickDraw \[Common Talent\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
     -   Prerequisites: 55 Light Weapon, Using a Gun

@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 71726
+revid: 75477
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -151,3 +151,4 @@ Par's cat maid: [https://youtu.be/EXmgA9FJ20g?t=566](https://youtu.be/EXmgA9FJ20
 ## Trivia
 
 -   yayafino's spec was the original version of the Dawnwalker Oath.
+-   While not technically a spec, popular YouTuber Agamatsu was given 1000+ Fortitude, making him invincible and causing the damage on the mantra Shoulder Bash, which scales off of Fortitude, to be comically high.

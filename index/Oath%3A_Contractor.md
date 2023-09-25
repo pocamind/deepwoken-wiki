@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 75179
+revid: 75484
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -31,7 +31,7 @@ categories: [Pages with broken file links, Oaths]
 4.  Go to Lord regent after defeating Duke and do the special dialogue “Bite your tongue”
 5.  Go make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any except for the shrine of conceit will do as long as they are different to each other.
 6.  Unlock your [Resonance](Resonance.md).
-7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?" (requires a wish although it will not be consumed).
+7.  Go to the depths and talk to Yun'Shul. Ask, "What happened to this place?" (~requires a wish~ Wish isn't required for Contractor dialogue, tested).
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you won't be locked out of obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
 
 _Upon obtaining this oath, four black marionette-esque strings will embed themselves into your arms. Additionally, your iris' will become a very dark red, making your expression appear almost empty and devoid of empathy._
