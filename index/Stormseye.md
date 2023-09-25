@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 74848
+revid: 75461
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 
 The Stormseye is a legendary rifle that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end. Using its aerial teleports you behind the person you hit and stuns them.
 
-The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md), [Primadon](Primadon,_Titan_of_the_East.md) (the chest containing deep gems) and is also a drop from [Fishing](Fishing.md) up treasure chests.
+The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md), [Primadon](Primadon,_Titan_of_the_East.md) (the chest containing deep gems), [Duke Erisia](Duke_Ishamon_Erisia.md), and is also a drop from [Fishing](Fishing.md) up treasure chests.
 
 ## Critical Attack
 
