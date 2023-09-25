@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 74907
+revid: 75469
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,6 +82,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed.
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
+    -   You're also still able to be given a whisper on level up.
 -   This oath is the only oath that does not give any mantra slots.
 -   The Ironsing Trainer, Adar, and the Attunementless Trainer, Regek, cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This is likely due to the fact they do not "abuse" the song like the other attunement trainers.
 -   [Beatra](Beatra.md) also cannot be killed for progression due to her old age.

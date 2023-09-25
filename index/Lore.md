@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75432
+revid: 75468
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -573,7 +573,7 @@ _"A place remembered only by the waves"_
 
 ### Constellia
 
-**Lore Sources:** Unnamed Lightborn at New Kyrsa, Greathive Aratel's observatory
+**Lore Sources:** Kaide, Greathive Aratel's observatory
 
 Glittering towers of ivory that hang over Lumen's seas.
 
@@ -1539,7 +1539,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 ### Whispers of Tacet
 
 -   An application of the Song that enables the user to suppress their Murmur, turning themselves invisible to the naked eye.
-    -   It can be obtained by performing a handful of assassinations for a Ganymede in [The Hidden Village](The_Hidden_Village.md).
+    -   It can be obtained by performing a handful of assassinations for [Cestis](Cestis.md), a Ganymede located in [Meteor Isle](Meteor_Isle.md).
 
 -   Ministry Agents or Scouts can utilize this Murmur.
 -   Alpha Megalodaunts ~and Hive Constructs~ can somehow use its power too. (Hive Constructs are not confirmed to use Tacet.)
