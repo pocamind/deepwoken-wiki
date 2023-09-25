@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 72700
+revid: 75433
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -54,7 +54,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: Erisia
 
-**Guide**: Talk to the NPC that gives you the Lumber Axe at Etris with Strong Left. They will be utterly flabbergasted at your idea but you will have to Strong Left 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands.
+**Guide**: Talk to the NPC that gives you the Lumber Axe at Etris with Strong Left. They will be utterly flabbergasted at your idea but you will have to use either Strong Left or Eclipse Kick to knock 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands. Keep in mind that you need to have Strong Left to initiate the quest, but it can be completed using Eclipse Kick.
 
 **Reward/s**: Treefelling Blow
 

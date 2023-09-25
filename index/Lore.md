@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75277
+revid: 75432
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -306,48 +306,26 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
 -   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the Oath, but this is just a small contradiction in the game.
--   Believed to be a "Void Sea Spirit" due to the lost ship description of being haunted by these spirits.
+-   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer)
 -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
 
 ### Kaide, the Drowned Light
 
--   A Lightborn trapped in New Kyrsa, in the Second Layer of the Depths.
--   Previous king of a Celestial city known as Constellia, however this city was lost to the Kyrsgarde under Ethiron rule.
--   It is **speculated,** but not confirmed, that Kaide is a Lightkeeper, since many high ranking lightborns were Lightkeepers and the title of Kaide is "the Drowned Light".
--   For now he is "meditating" for eternity in a lake nearby New Kyrsa.
--   Apparently he fought against the Depths alongside Celestials and other Lightborns, but stop fighting when the Celestials Fleed.
--   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, (Hybrids of man and Celestial) to be able to bring Celestial and Man together, with the lightborns body being blessed with immortality with the "Hybrid Vigor". However, despite the body being blessed, their minds as stated by Kaide, is the same as the ones of Man, making Lightborns Clueless and arrogant as man.
--   Apparently he _**Despises**_ the celestials stating: _"Whe Thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
--   Kaide has a very high knowledge relating to the Song, knowing how the Song manifest through humans and through New Kyrsa.
+-   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
+-   Previous king of the Celestial City known as Constellia, the one that can be seen from the telescope in [Greathive Aratel](Greathive_Aratel.md).
+-   Apparently he fought against the Kyrsgarde alongside the Celestials and other Lightborn, but stopped fighting when the Celestials fled, resulting in his capture and imprisonment in New Kyrsa.
+-   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite the body being blessed, their minds are the same as the ones of Man, making Lightborn as clueless and arrogant as them.
+-   Apparently he despises the Celestials, stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
+-   Kaide has great knowledge of the Song, knowing how the Song manifest through humans and through New Kyrsa.
 
-### **Ku, The Mother**
+### **Mother Ku**
 
--   A Celestial.
--   A religious figure worshipped by some Capras. (Ku Variant)
--   Perhaps granted the ability to the Capras who woshipped her to aid people in their wounds. (Capra race ability for Ku variant)
--   A church where Ku is worshipped is located in the Songseeker wilds (Derelict Highchurch), whoever the Songseekers apparently took over the church kicking out Ezra, the one in charge of the church and forcing him to leave to a small tower nearby.
--   It is unknown if this Celestial is related to Jurik and Nemit, the other Celestials that aid the Capras.
-
-### **Jurik, the Moonseye**
-
--   A Celestial.
--   A religious figure worshipped by some Capras. (Jurik Variant)
--   **It is Highly suspected but not confirmed,** that this Celestial created the Moonseye, due to the Moonseye being a Celestial mark.
--   Perhaps granted the ability to the Capras that worshipped him, the ability to make someones mind will greatly stronger for a short duration. (Capra insanity mark buff)
--   The state and location of this Celestial is unknown, however it is suspected to be alive due to the Jurik Capras still having his mark.
--   The strength of this Celestial is unkown, however if this Celestial created the moonseye, it is suspected that he may be a strong Celestial.
--   Suspected to have powers related to Sanity/Insanity.
-
-### **Nemit, the Beast**
-
--   A Celestial.
--   A religious figure worshipped by some Capras. (Nemit Variant)
--   A Celestial that is suspected to be worshipped in terms of farming and food, since its ability granted to the Capras aids in food and water, and also the weapon known as the **Nemit's Sickle,** is basically a farming tool.
--   Perhaps granted the ability to the Capras that worshipped him, the ability to makes someones stomach more full of water and food. (Capras mark food buff)
--   His location and state is unknown, but suspected to be alive due to the Nemit Capras still having his mark.
--   Suspected to have powers related to food and farming.
+-   A religious figure worshipped by some Capra.
+-   Perhaps granted the ability to the Capra who worshipped her to aid people in their wounds. (Capra race ability for Ku variant)
+-   A church where Ku is worshipped is located in the Songseeker Wilds: the Derelict Highchurch. Eventually the Songseekers and Starkindred took over the church, kicking out Ezra, the one in charge of the church, and forcing him to leave to a small tower nearby.
+-   It is unknown if they are related to Jurik and Nemit, the other beings that are worshipped by the Capra.
 
 ### **Alsin**
 
@@ -500,7 +478,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 #### Erisia (Etrean Luminant)
 
--   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
+-   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from The Voidsea months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
 -   It has been ravaged by creatures of the Deep, but apparently even before this, it was a 'backwater.'
 -   The Hive at one point settled here, but left.
@@ -1535,12 +1513,12 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   People who consumed a piece of a Drowned God and **Probably** made an Oath upon consuming said piece.
 -   The only known Deepwokens are: Amorus Pleeksty, The First Prophet of the Ministry.
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of. For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.
--   It is also known that becoming a Deepwoken grants you Immortality, being the known Deepwokens (Pleeksty and the First Prophet) more than a 1000 years old, living since the Tides or even the Old World. However if by any (very unlikely) chance the drowned god they consumed a piece of dies, it is suppoused that their immortality will also perish.
+-   It is also known that becoming a Deepwoken grants you Immortality; the known Deepwokens, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.
 
 ### **Voidwalker/Void Oath**
 
--   The name and purpose of this Oath is unkown, however it is known that some worthy mercenaries of the "Knives of Eylis" group, or also known as Voidwalkers, make an Oath with Eylis herself to gain time manipulation powers and probably powers related to the Void sea, due to the relation of Eylis between the Voidmother and the Void sea itself.
--   Despite being a rare Oath that only a few Voidwalkers have, it can be seen being used by the Voidwalker captains (NPC) with the ability to create a bubble around them that slows time excluding the Voidwalkers.
+-   The name and purpose of this Oath is unkown, however it is known that some worthy mercenaries of the "Knives of Eylis" group, make an Oath with Eylis herself to gain time manipulation powers and probably powers related to the Voidsea, due to the relation of Eylis between the Voidmother and the Voidsea itself.
+-   Despite being a rare Oath that only a few Voidwalkers have, it can be seen being used by the [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) with the ability to create a bubble around them that slows time for those who are not Voidwalkers.
 
 ## Murmur Lore
 
@@ -1604,7 +1582,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   Ishan, an Etrean man located within the Stronghold of [Summer Isles](Summer_Isle.md) states that the Adrets appeared out of almost nowhere, this is due to the Adrets traditionally being an isolationist mountain folk who did not interact with other races before the great tides came, though now with the peaks of their tallest mountains long but drowned the Adrets have come out to the greater world.
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
--   According to the book "Vows by the Sea: Inheritance", the races of Deepwoken originated from humans making powerfull vows with different animals to create this races, but apparently the Adrets were the only ones that didnt make a vow with any animal and instead, "Evolved" to learn more about their future path (Autodidact race talent), explaining why Adrets dont look like animals like the rest of the races and can be considered the most "Human race".
+-   Their names are tied to rocks, suggesting that while other races worshipped animals, the Adret are tied to the land.
 
 ### Currency
 
@@ -1665,7 +1643,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
             -   The third Layer is where the physical body of Korilfiend is found.
 -   It seems that the effects of aging are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.
     -   Examples of such thing is Gild; an old Celtor who was alive before the city drowned.
--   In universe, a soul in The Depths can only last a week or two before they are considered unable to return to their bodies. Presuming their soul died in the Depths.
+-   In universe, a soul in The Depths can only last a week or two before they are considered unable to return to their bodies.
 
 ### Ancestors of Ganymedes & Vesperians
 
@@ -1711,7 +1689,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Brought on by the Tides.
 -   A layer of fixed cloud that rotates around the world in a cycle.
 -   Bends and distorts light.
--   Separates the world from the ruins of the Celestial cities, being the main reason why its almost impossible to travel to the Celestial cities without the aid of a Lightkeeper.
+-   Has similar properties to the Voidsea, though whether or not it's actually as dangerous, given the absence of Lionfish and Dread Serpent, remains to be see.
 
 ### Timeline
 
@@ -1897,17 +1875,18 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 
 -   Main predators of the first floor of the Second Layer.
 -   Their nests are located in the walls of corridors, probably to ambush any prey that dares to come near their nest.
--   Presumably can give hallucinations to people who are near them. (Bounders face ""jumpscare"" that Bounders can give in the caverns of Floor 1)
 
 ### Husks/Carbuncles/Parasites
 
 -   Originate as parasites in the Eternal Gale of the Second Layer.
--   Incubates themselves in people who face the Eternal gale disguising their eggs as snow.
--   The eggs can be removed if a certain amount of heat is applied to the parasites, killing them and being removed from the host.
--   After incubating for some time in a host, they began to emerge from their eggs and eating the host **without killing it.**
--   After growing for a while in the host, the parasites become Husks, fully controlling the alive host to attack anyone being capable of use the weapons and abilities that the host originally had.
+-   Incubates themselves in people who face the Eternal Gale, disguising their eggs as snow.
+-   The eggs can be removed if a certain amount of heat is applied to the parasites, killing them and removing them from the host.
+-   After incubating for some time in a host, they began to emerge from their eggs and eat the host from the inside out, but without truly killing it.
+-   After growing for a while in the host, the parasites become Husks, fully controlling their host to attack anyone. These 'Husks' are capable of using the weapons and abilities that the host originally had.
 -   After the host dies, the husk becomes a Carbuncle, controlling a dead body.
--   Carbuncles can be also found in the surface.
+-   Carbuncles can be also found on the surface.
+    -   The regions they are found in are all areas near things of celestial origin, such as meteors. Given the Kyrsgarde attacked Constellia, they may well have brought parasites with them, leading to them eventually raining down on Lumen when the chunks of rock fell.
+        -   They can also be found in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), given crypts have large piles of corpses ripe for using as hosts, as well as said crypt being near the Valley of Heroes, where meteors frequently fall.
 
 ### The Enforcer(s)
 
@@ -1954,7 +1933,7 @@ Though technically a blank slate of varying races and abilities, even the player
 ### Voidwalker
 
 -   They somehow managed to join the Knives of Eylis, presumably from the Central Luminant and gained the Void powers of the Voidmother: Grasp of Eylis and Voideye.
--   After completing hell-like training to become a Mercenary of Eylis, they were assigned bounties on those the Knives clients wanted dead.
+-   After completing hell-like training to become a Mercenary of Eylis, they were assigned bounties on those the Knives' clients wanted dead.
 
 ### Power Level
 
@@ -1970,6 +1949,14 @@ Though technically a blank slate of varying races and abilities, even the player
 -   If your health bar is stained, that means your character is injured lorewise. Drowning (dying with a stained health bar) sends the player's soul to the Depths, whereas your body stays on the surface. This is why you need to enter the Depths through a whirlpool to enter Castle Light, as you bring your body with you there. When a player escapes the Depths, their soul is returned to their body and heals it fully.
 
 ## Miscellaneous
+
+### **Materials**
+
+#### Metals
+
+-   Erisore is a rare material that was very common in Erisia.
+-   Irithine has naturally corrosive properties, being most commonly found in a cave filled with acid.
+-   Astruline is formed from deposits in asteroids.
 
 ### Lightkeeper Temple Glyphs
 
@@ -1990,7 +1977,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### **Animals**
 
--   The Deepwoken World is home to many non-monster animals, though there is little evidence of there existence in many cases.
+-   The Deepwoken World is home to many non-monster animals, though there is little evidence of their existence in many cases.
     -   Many animals share traits with the races seen in the game.
         -   Steward Heidegard theorized in the 'Gremor Hypothesis' that the reason for this was due to the progenitors of each race creating Vows with other races.
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
@@ -2007,12 +1994,13 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
             -   Pufferfish survived Lionfish by being too poisonous for consumption.
         -   Possibly more
     -   Due to the existence of cheese, there must be some animal being milked. The fact that only Lance's brother stocks it implies it is a foreign import of some kind.
+        -   There are cows, though we can't see them.
     -   Lionfish have been a major cause for the extinction of many sea predators.
 
 ### **Guns**
 
 -   Guns are a lot weaker in the Deepwoken world compared to real life.
--   They are considered as strong as a sword and cannot simply kill someone with a single bullet.
+-   They are considered as strong as a sword and cannot simply kill someone with a single bullet, most likely due to the poor design of the bullets and how far removed they are from the original design.
 -   Existed in the Old World, but lost with the Tides.
 -   Reverse engineered and redistributed by Gunsmith Rosen and the Summer Company.
 
@@ -2023,7 +2011,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   The protective kind used by Authority Inquisitors are administered by a single handler and require intense concentration to keep active. Meanwhile the one the Lord Regent used on the Etreans was used on the entire city, which was noted to be impossible.
 -   The Lord Regent's veil has one glaring weakness, that being that if someone affected by it is asked information about the Lord Regent, then forgets their answer, such as through being administered an amnesiac, and is asked again, their answer will be different.
 -   Administering enough Thundercall to the mind of someone who has one can break them.
-    -   In the case of _'Operation Puppet\_Master,'_ the individual who had their mental veil broken died due to their eyes exploding, though this may only be due to the nature of the Lord Regent's veil specifically.
+    -   In the case of 'Operation Puppet\_Master,' the individual who had their mental veil broken died due to their eyes exploding, though this may only be due to the nature of the Lord Regent's veil specifically.
 
 ### **Language**
 
@@ -2049,7 +2037,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   Purple
     -   The color purple is often a motif of Drowned Gods or those connected to Drowned gods
         -   Corrupted bells are purple in the card drawing screen and are commonly a purple color.
-        -   The only known Krulian, The Ferryman, wields purple [Thundercall.](Thundercall.md)
+        -   The only known Krulian, The Ferryman, wields purple [Thundercall](Thundercall.md), though the only reason for him doing so is that he likes the color.
         -   Ethiron's Scion wields purple [Galebreathe.](Galebreathe.md)
         -   The player, as they are not connected to any Gods, are unable to harness any sort of purple elements.
 
@@ -2106,11 +2094,11 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## Trivia
 
+-   Despite the often unclear nature of the lore, with developers at time contradicting each other, there is indeed some form of document that contains it all.
 -   The Central Authority was sometimes referred to as the Adretian Authority ingame at release, though this has since been corrected by the devs.
 -   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
 -   The writing of the Gideshu March is the earliest known event in Deepwoken with a confirmed date, as well as the only event with a confirmed date that took place prior to 1271, the year of the game's release.
--   Ragoozer likes using anagrams to drop lore hints. ~An example of this would be Nilsa being an anagram of Alsin.~ Nilsa is no longer canon.
+-   Ragoozer likes using anagrams to drop lore hints. An example of this would be Nilsa being an anagram of Alsin.
 -   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there were so few Oaths at the beginning of the game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
--   With the release of the Deepwoken, there was suspected to be a celestial named Nilsa due to a player having the Celestial race with this name alongside Alsin, suspecting that Nilsa was a fragment of Alsin. However Nilsa was removed from the Lore.
 
 Talking Mudskippers

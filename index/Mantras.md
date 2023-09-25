@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 74849
+revid: 75436
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -134,6 +134,8 @@ A mantra's type generally corresponds to its respective stat. Weapon mantras and
 
 Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the talent and what is the talent based off of.
 
+**MONSTER MANTRAS CANNOT BE TRADED AT SHRINE OF TEMPTATION**
+
 -   Megalodaunt -> Megalodaunt Coral -> Coral Spear (Thousand Needles)
 -   Dread Serpent -> Dread Serpent's Tooth -> Dread Breath (Dread's Ice Beam)
 -   Thresher -> Thresher Talons -> Beast Burrow (Thresher's Dig)
@@ -183,6 +185,7 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 -   Level 3: Expert (40+) \[Upgrade Cost: 200 Notes\]
 -   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
 -   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
+-   Total cost to get one mantra from level 1 to level 5: 1,000 Notes
 
 ## Elemental Intensity
 

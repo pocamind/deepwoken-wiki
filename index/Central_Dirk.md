@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 70453
+revid: 75428
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -15,7 +15,7 @@ categories: [Weapons, Daggers]
 | damage | 15 |
 | scaling | 7 |
 | range | 7 |
-| swing speed | 1.03x |
+| swing speed | 0.96x |
 | endlag | 0.05s |
 | penetration | 5% |
 | stances | 1 Handed |

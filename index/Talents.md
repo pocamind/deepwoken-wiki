@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75401
+revid: 75425
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1667,6 +1667,8 @@ _**"I often attack others."**_
 -   And They'll Be Dust \[Common Talent\] - Bombs will deal increased damage to burning enemies
     -   Prerequisite: Incendiary Formula
 
+-   Explosive Efficiency \[Common Talent\] - Crafting a bomb will yield two bombs. Chance to make three.
+    -   Prerequisite: Incendiary Formula
 -   Explosive Jester \[Common Talent\] - Your bombs have a chance to detonate twice. (+2 Elemental Intensity)
     -   Prerequisite: Incendiary Formula
 

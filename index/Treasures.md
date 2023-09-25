@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 69476
+revid: 75441
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Mechanics]
@@ -10,41 +10,25 @@ categories: [Gems, Items, Mechanics]
 
 _Not to be confused with [Deep Gems](Deep_Gems.md), which are used to modify Mantras._ Items commonly dropped from Chests that can be sold to the Antiquarian for various amounts of Notes.
 
-<table><caption>Gems</caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Sell Price</th>
-</tr>
-<tr>
-  <td>Sapphire</td>
-  <td>4 Notes</td>
-</tr>
-<tr>
-  <td>Amethyst</td>
-  <td>5 Notes</td>
-</tr>
-<tr>
-  <td>Ruby</td>
-  <td>6 Notes</td>
-</tr>
-<tr>
-  <td>Emerald</td>
-  <td>7 Notes</td>
-</tr>
-<tr>
-  <td>Gold Bar</td>
-  <td>7 Notes</td>
-</tr>
-<tr>
-  <td>Platinum Bar</td>
-  <td>18 Notes</td>
-</tr>
-<tr>
-  <td>Diamond</td>
-  <td>20 Notes</td>
-</tr>
-</tbody>
-</table>
+| Image | Name | Description | Sell Price |
+| --- | --- | --- | --- |
+| 
+ | Sapphire |  | 4 Notes |
+| 
 
-These Gems/Ores also come with Descriptions, some being obvious or some being weird.
+ | Amethyst |  | 5 Notes |
+| 
+
+ | Ruby |  | 6 Notes |
+| 
+
+ | Emerald |  | 7 Notes |
+| 
+
+ | Gold Bar |  | 7 Notes |
+| 
+
+ | Platinum Bar |  | 18 Notes |
+| 
+
+ | Diamond |  | 20 Notes |
