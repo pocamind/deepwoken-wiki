@@ -1,6 +1,6 @@
 ---
 title: Eyeglasses
-revid: 73375
+revid: 75519
 source: https://deepwoken.fandom.com/wiki/Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Eyes, Face]
@@ -16,4 +16,5 @@ The Eyeglasses are an Equipment item you can obtain. Eyeglasses and Polarized Ey
 
 ## Trivia
 
-The Guy's Eyeglasses uses the same model as Polarized Sunglasses
+-   [The Guy's Eyeglasses](The_Guy.md) uses the same model as Polarized Sunglasses
+-   Polarized Sunglasses used to be called Polarized Eyeglasses.

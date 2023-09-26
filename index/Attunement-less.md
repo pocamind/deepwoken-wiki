@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 73239
+revid: 75520
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -270,7 +270,7 @@ File:No Attunement Revamp.png
     -   Creates a white flooring pattern around the user.
     -   **Deflects** an attack back to the attacker.
     -   Can be upgraded with Intelligence Talent Cards 'All Knowing,' 'Successive Prediction' and 'Twelve Steps Ahead.'
-    -   **UNKNOWN IF UPGRADING DOES ANYTHING TO IT, NEEDS TESTING**
+    -   Upgrading this Mantra extends the duration
 
  |
 
