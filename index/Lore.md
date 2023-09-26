@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75468
+revid: 75533
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -375,7 +375,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   His physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
 -   The current status of Ethiron: Asleep.(he is eepy)
--   An entity known as "The Voice of Ethiron", tries to fool the player into awake the Scion of Ethiron so it can fully awake Ethiron. Suggesting that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake his master.
+-   An entity known as "The Voice of Ethiron", tries to fool the player into awake the Scion of Ethiron so it can fully awake Ethiron. Suggesting that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake his master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
 
 ### **Korilfiend**
 

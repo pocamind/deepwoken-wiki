@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 75434
+revid: 75535
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -26,8 +26,8 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 
 -   Uniquely to her, the weapon she sells have a chance to be enchanted.
     -   [Trident Spear](Trident_Spear.md) (300 )
-    -   [Whaling Knife](Whaling_Knife.md) (?? )
-    -   [Adretian Axe](Adretian_Axe.md) (?? )
+    -   [Whaling Knife](Whaling_Knife.md) (300 )
+    -   [Adretian Axe](Adretian_Axe.md) (300 )
     -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) (300 )
     -   [Vigil Longsword](Vigil_Longsword.md) (300 )
 
@@ -41,7 +41,7 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Diver Apprentice](Diver_Apprentice_Robes.md) (?? )
 -   [Hive Drone](Hive_Drone.md) (80 )
 -   [Ignition Coat](Ignition_Union_Uniform.md) (?? )
--   [Keeper](Keeper.md) (?? )
+-   [Keeper](Keeper.md) (80 )
 -   [Legion Centurion](Legion_Centurion.md) (?? )
 -   [Prophet's Cloak](<Prophet's_Cloak.md>) (?? )
 -   [Vigil Cloak](Cloak_of_Winds.md) (?? )

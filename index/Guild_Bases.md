@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 75525
+revid: 75540
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -74,4 +74,5 @@ Bandits raiding a Guild Base.
 -   Grand skewer is disabled while inside, as it could throw people out the base.
 -   Full Guild Base is hard to achieve for small guilds since the price of adding rooms increases exponentially.
 -   Bandits can spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it was a bug.
--   You can also use the guild base to climb high walls using the door (since you can hang onto it) Side note: to prevent people from entering your guild base put mobs beside the door or a navaen hostage :)
+-   You can also use the guild base to climb high walls using the door (since you can hang onto it)
+-   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
