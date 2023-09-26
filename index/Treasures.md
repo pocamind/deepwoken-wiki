@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 75446
+revid: 75517
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Mechanics]
@@ -13,22 +13,30 @@ _Not to be confused with [Deep Gems](Deep_Gems.md), which are used to modify Man
 | Image | Name | Description | Sell Price |
 | --- | --- | --- | --- |
 | 
- | Sapphire | _A glittering blue corundum._ | 4 Notes |
+ | Sapphire | _A glittering blue corundum._ | 4 |
 | 
 
- | Amethyst | _A gorgeous quartz crystal._ | 5 Notes |
+ | Amethyst | _A gorgeous quartz crystal._ | 5 |
 | 
 
- | Ruby |  | 6 Notes |
+ | Ruby |  | 6 |
 | 
 
- | Emerald |  | 7 Notes |
+ | Emerald | _Of the non-chaotic variety._ | 7 |
 | 
 
- | Gold Bar |  | 7 Notes |
+ | Gold Bar | _Hey, it's worth at least a_
+
+_rat's weight in gold._
+
+ | 7 |
 | 
 
- | Platinum Bar |  | 18 Notes |
+ | Platinum Bar |  | 18 |
 | 
 
- | Diamond |  | 20 Notes |
+ | Diamond |  | 20 |
+
+## Trivia
+
+-   The Emerald's description is a reference to Chaos Emeralds from the Sonic franchise.

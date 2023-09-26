@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 75437
+revid: 75514
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -8,10 +8,10 @@ categories: [Oaths]
 
 # Oath: Linkstrider
 
-| Oath: Jetstriker | |
+| Oath: Linkstrider | |
 |---|---|
-| oath_req | 50 Agility |
-| effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility |
+| oath_req | None |
+| effects | +2 Support Mantra, +1 Wildcard Mantra |
 
 “ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
 
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Linkstrider** is one of the 11 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 4 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Linkstrider** is one of the 11 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md),[Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 4 Oaths that have no direct stat requirements.
 
 ## Obtainment
 

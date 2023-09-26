@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 74773
+revid: 75504
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,7 +23,7 @@ categories: [Oaths]
 
 ## Obtainment
 
-1.  Speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light, and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md), and gives you the base Oath along with its Blinding Dawn Mantra.
+1.  Speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
 2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:
 
 -   Blinding Dawn upon Oath obtainment
@@ -35,16 +35,42 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Abilities
 
--   **Blinding Dawn ★★★ - Combat Mantra**
-    -   Dance uncontrollably. No one can withstand the sheer groove of your spin routine.
+| Mantra Type | Media | Name | Card Description | Misc |
+| --- | --- | --- | --- | --- |
+| Combat |  | 
+**Blinding Dawn**
 
--   **Radiant Kick ★★★ - Combat Mantra**
-    -   Kick your foes at the speed of light.
-        -   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
+(★★★)
 
--   **Radiant Dawn ★★★ - Combat Mantra**
-    -   Kick your foes at the speed of light.
-        -   Radiant Dawn seems can't proc any deep gems effect,also it doesn't have the effect of Absolute Radiance after landing the mantra for unknown reason(probably bug).
+  
+
+ | _Dance uncontrollably. No one can withstand the sheer groove of your spin routine._ |  |
+| Combat |  | 
+
+**Blinding Kick**
+
+(★★★)
+
+  
+
+ | _Kick your foes at the speed of light._ | 
+
+-   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
+
+ |
+| Combat |  | 
+
+**Radiant Dawn**
+
+(★★★)
+
+  
+
+ | _Kick your foes at the speed of light._ | 
+
+-   Radiant Dawn seems can't proc any deep gems effect,also it doesn't have the effect of Absolute Radiance after landing the mantra for unknown reason (probably bug).
+
+ |
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 

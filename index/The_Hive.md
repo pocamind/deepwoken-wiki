@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 75397
+revid: 75506
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -56,20 +56,14 @@ Neutral-Good Reputation:
 
 Neutral Reputation:
 
--   "_\*The guard remains silent, barely registering your presence.\*_"
+-   "_\*The guard remains silent, barely registering your presence. \*_"
 
 Neutral-Bad Reputation:
 
 -   ""
 -   ""
 
-## Members
-
--   [Hive Guard](Hive_Guard.md)
--   [Hive Adjudicator](<Hive_Adjudicator_(NPC).md>) (**NPC**)
--   [Hive Construct](Hive_Construct.md)
-
-### Notable Members
+## Notable Members
 
 -   [Regek](Regek.md)
 -   [Suri](Suri.md)

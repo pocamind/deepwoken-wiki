@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 74554
+revid: 75505
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -49,24 +49,33 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Using **Ascension, Celestial Assault** or **Sinister Halo** will grow two pairs of wings on the user for 60 seconds.
     -   While active, Air Dash goes much further and can go in any direction, most importantly vertically, adding huge mobility.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
-    -   Can come in the color of your races hair color.
+    -   Can come in the color of your race's hair color.
     -   Some mantras have different properties while the user has their wings out:
     -   **Fire Blade** now launches the user upward before releasing a large plume of flames.
--   **Ascension - Combat Mantra**
-    -   The user rises into the air before swooping in.
-    -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
-    -   Applies hard knockdown on hit.
 
--   **Celestial Assault - Combat Mantra**
-    -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
+| Mantra Type | Media | Name | Card Description | Effect |
+| --- | --- | --- | --- | --- |
+| Combat |  | **Ascension** |  | 
+-   The user rises into the air before swooping in.
+-   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
+-   Applies hard knockdown on hit.
 
--   **Sinister Halo - Combat Mantra**
-    -   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
-        -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+ |
+| Combat |  | **Celestial Assault** |  | 
+
+-   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
+
+ |
+| Combat |  | **Sinister Halo** |  | 
+
+-   Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
+    -   Similar to the [Galebreathe](Galebreathe.md) mantra Tornado, but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+
+ |
 
 ## Effects
 
-This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screenshaking, heavily enhanced, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
+This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screen shaking, heavily enhanced, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
 
 ## Notes
 
@@ -77,5 +86,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   Modifying Fire Blade with a reversal spark will make it always do the non-wings variant.
 -   Wing Variant Fire Blade is probably a reference to "Mugetsu" in Bleach.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
--   Dyeing your hair as a Starkindred will also dye your wings to the same colour.
-    -   Dyeing your hair with your wings active will not change their colour until they disappear and are reactivated.
+-   Dyeing your hair as a Starkindred will also dye your wings to the same color.
+    -   Dyeing your hair with your wings active will not change their color until they disappear and are reactivated.

@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 74538
+revid: 75509
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -21,7 +21,7 @@ categories: [Factions]
 
 ## Description
 
-A large military organization, native to the Central Luminant. They are lead by a mysterious man named Drallis Ehr, who is their Grand Sovereign. Their ranks consist of Warmasters, Wardens (which may actually be the same thing), multiple Inquisitor classes, and then standard military rankings. The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md). Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md). Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md). The Authority are highly racist, favoring [Adrets](Adret.md) and [Canor](Canor.md) to a much lesser extent, and their higher ranks mostly consist of them.
+A large military organization, native to the Central Luminant. They are led by a mysterious man named Drallis Ehr, who is their Grand Sovereign. Their ranks consist of Warmasters, Wardens (which may actually be the same thing), multiple Inquisitor classes, and then standard military rankings. The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md). Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md). Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md). The Authority are highly racist, favoring [Adrets](Adret.md) and [Canor](Canor.md) to a much lesser extent, and their higher ranks mostly consist of them.
 
 ## Gameplay
 
@@ -40,19 +40,15 @@ A large military organization, native to the Central Luminant. They are lead by 
 -   Contracts with the [Ignition Union](The_Ignition_Union.md) to kill monsters in the Depths.
 -   Occasionally hires the [Knives of Elyis](The_Knives_of_Eylis.md) to raid Etrean ships.
 
-## NPCs
+## Notable Members
 
--   [Authority Commander](<Authority_Commander_(Enemy).md>)
--   [Authority Peacekeeper](Authority_Peacekeeper.md)
--   [Authority Soldier](Authority_Soldier.md)
--   [Authority Officer](Authority_Officer.md)
--   [Authority Captain](Authority_Captain.md)
--   [Authority Lieutenant](Authority_Lieutenant.md)
+-   Drallis Ehr
+-   Warden Jericho
 
 ## Trivia
 
 -   It's very bizarre that this even has to be stated, but the Central Authority are very much racist.
--   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it my also hint to them being tied to Celestials.
+-   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except Celtor.
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer (Lord Regent) from causing a great drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
     -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with The Children of Navae also seem to contradict with this mission.
@@ -62,4 +58,4 @@ A large military organization, native to the Central Luminant. They are lead by 
 -   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
 -   It is highly likely that the Authority Origin and Warmaster oath will be added within the Central Luminant update, though this is simply speculation.
--   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.
+-   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.
