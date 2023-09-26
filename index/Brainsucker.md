@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 74657
+revid: 75528
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -40,3 +40,4 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 ## Bugs
 
 -   Cancelling a Brainsuckers gripping animation may cause whoever is being gripped to desync.
+-   Uppercuting a Brainsucker while above ocean will cause them to fall underwater.
