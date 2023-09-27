@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 75489
+revid: 75544
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -92,7 +92,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) Gamemode | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
 | TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | Miner's Landing Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
-| TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | 4:20 | TBA | TBA |
+| TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
 | TBA | Scion of Ethiron Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
 | TBA | New Kyrsa Combat Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | TBA |
 | TBA | Sunken Railways Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md) | TBA |

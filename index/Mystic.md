@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 73133
+revid: 75556
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -14,8 +14,6 @@ categories: [NPCs, Talents]
 | location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils, Guild Bases, Meteor Isle |
 
 **You can press "Ctrl + F or G" (Windows)/"Cmd + F"(Mac) to search for prompts!**
-
-  
 
 This is a browser function, but all mainstream browsers should have it.
 
@@ -38,21 +36,21 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ## Attributes
 
-### Strength
+### [Strength](https://deepwoken.fandom.com/wiki/Attributes#Strength)
 
 -   _I stand far above others, an insurmountable challenge. **(Colossus) (Note; Cannot give Destructive Recovery)**_
 -   _I seek the qualities of Annihilator. **(Collapsed Lung)**_
 -   _I seek the qualities of Rampaging Brute. **(Unwavering Resolve; Shield Breaker; Million Ton Piercer)**_
 -   _My attack is unstoppable. **(Raging Bull) (Note; Cannot give Bulldozer)**_
 
-### Fortitude
+### [Fortitude](https://deepwoken.fandom.com/wiki/Attributes#Fortitude)
 
 -   _I am an everlasting bastion. **(Bastion)**_
 -   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
 -   _In nature, I am at home. **(Survivor)**_
 -   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To the Finish, Potion Quaffer)**_
 
-### Agility
+### [Agility](https://deepwoken.fandom.com/wiki/Attributes#Agility)
 
 -   _I once performed in a Circus. **(Acrobat)**_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
@@ -65,7 +63,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman) (Note; Cannot give Speed Demon)**_
 -   _I seek the qualities of Swiftshade. **(Swiftshade)**_
 
-### Intelligence
+### [Intelligence](https://deepwoken.fandom.com/wiki/Attributes#Intelligence)
 
 -   _I think before I fight. **(Tactician) (Note; Cannot give Punishing Blow)**_
 -   _I fight from afar. **(Adept Caster) (Note; Cannot give Everchanging Aegis, Perfect Flash)**_
@@ -89,7 +87,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
 -   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
 
-### [Charisma](Status_Effects.md#charm)
+### [Charisma](https://deepwoken.fandom.com/wiki/Attributes#Charisma)
 
 -   _I use the song to charm others. **(Charm Caster)**_
 -   _I seek the qualities of Showboater._ _**(Showboater; Unnecessary Theatrics)**_
@@ -132,7 +130,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ## Attunements
 
-### Flamecharm
+### [Flamecharm](Flamecharm.md)
 
 -   _I seek out Amorus Pleeksty. **(Amoran Seeker; Flame Within, Last Laugh)**_
 -   _I dance with the flames. **(Flame Dancer) (Note; Cannot give Flaming Rebound, Graceful Steps, The Final Act)**_
@@ -150,7 +148,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   My spirit is forever burning. _**(Undying Ember) (Note; Cannot give Denial Repulse, Undying Flame)**_
 -   I seek the qualities of Tamed Flame. **(Controlled Combustion)**
 
-### Frostdraw
+### [Frostdraw](Frostdraw.md)
 
 -   _I command the cold. **(Cryomancer)**_
 -   _My ice protects like a flower growing thorns. **(Frostthorn)**_
@@ -160,7 +158,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I seek the elegance of a glassdancer. **(Glassdancer)**_
 -   I seek the qualities of FlashFreeze. _**(FlashFreeze)**_
 
-### Thundercall
+### [Thundercall](Thundercall.md)
 
 -   _I work for the Authority. **(Authority Interrogator)**_
 -   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
@@ -172,7 +170,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I electrocute my foes from afar. **(Thunder Caster)**_
 -   _My fists are imbued with lighting. **(Thunder Brawler)**_
 
-### Galebreathe
+### [Galebreathe](Galebreathe.md)
 
 -   _I walk the skies. **(Cloudwalker; Gale Leap)**_
 -   _I speak to the winds. **(Galebreather)**_
@@ -183,14 +181,14 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _The song shall be silenced. **(Silencer) (Note; Cannot give Silencer's Blade)**_
 -   _I survive from the teachings of Master Stratos. **(Vigil of Winds)**_
 
-### Shadowcast
+### [Shadowcast](Shadowcast.md)
 
 -   _I speak to the shadows. **(Shadowcaster) (Note; Cannot give Shadow Travel)**_
 -   _I am the one who speaks to death. **(Death Speaker) (Note; Cannot give Black Hole)**_
 -   _I control those around me. **(Puppet Master)**_
 -   _I feed on the soul of my enemies. **(Dark Siphon.)**_
 
-### Ironsing
+### [Ironsing](Ironsing.md)
 
 -   _I seek the qualities of Metallurgist. **(Metallurgist)**_
 -   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal) (Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_

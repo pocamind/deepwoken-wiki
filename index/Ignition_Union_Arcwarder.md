@@ -1,9 +1,9 @@
 ---
 title: Ignition Union Arcwarder
-revid: 71328
+revid: 75560
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
+categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -30,7 +30,7 @@ Their arsenal only uses the Railblade, along with moves related to their oath.
 </tr>
 <tr>
   <td>Assault</td>
-  <td>Swings the katana, and finishes the combo by kicking the opponent.</td>
+  <td>Swings the Railblade, and finishes the combo by kicking the opponent.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
 </tr>
@@ -57,3 +57,8 @@ Their arsenal only uses the Railblade, along with moves related to their oath.
 
 -   Their Arc Suit eventually deactivates, which reveals they wear the [Igniton Union Uniform](Ignition_Union_Uniform.md).
 -   They can sometimes have a black dyed suit.
+-   For some really bizarre reason, they can wield enchanted Railblades. There is something very wrong with that.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)
