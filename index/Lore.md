@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75533
+revid: 75564
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -115,7 +115,7 @@ The Duke
 
 -   The [Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the "The Lord Regent" Quest.
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
--   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes say: "Vermin! You seek to let Celtor repeat?
+-   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes says: "Vermin! You seek to let Celtor repeat?"
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
 -   Despite being kind of insane, committing a genocide and carrying out numerous unethical experiments on his citizens, he seems to have good motives, believing that all he is doing is to save Lumen. Worth noting but in no way justifies his actions.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
@@ -148,12 +148,12 @@ _"Another one...? You've got to be kidding me." - Akira_
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
     -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
-    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he ran away, thinking that you're too strong and that he can't use his bell to kill you.
+    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he runs away, thinking that you're too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
--   Akira stated that "Most of my field work doesnt concern this layer", possibly meaning that despite residing in the first layer for now, he travelled and worked in the Second Layer and maybe even deeper.
+-   Akira stated that "Most of my field work doesn't concern this layer", possibly meaning that despite residing in the first layer for now, he travelled and worked in the Second Layer and maybe even deeper.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
--   Despite being rude most of the time showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
+-   Despite being rude most of the time and showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
 -   The katana he wields isn't strapped to his back, it's floating. (Yes, this is canon.)
 
 ### **Amorus Pleeksty**
@@ -171,8 +171,8 @@ _"The Eternal Flame, and the failure of man..." -One of Amorus Pleeksty books._
 -   Apparently, he also writes books, being one and the only known to be "Flame and the failure of man."
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
--   Apparently he has disciples and apprentices, what he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
--   Since he brought flamecharm to the world, it is believed he was alive since the Old world, where all the attunments except shadowcast were discovered.
+-   Apparently he has disciples and apprentices, what he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
+-   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the attunments except Shadowcast were discovered.
 
 ### **Chaser, Scholar of the Burning Blood**
 
@@ -181,8 +181,8 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet..
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
--   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly diver apprentices so they couldnt cause any trouble for him.
--   He killed two more expeditions after this, and may have killed even more, such as ignition union members.
+-   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly diver apprentices so they couldn't cause any trouble for him.
+-   He killed two more expeditions after this, and may have killed even more, such as Ignition Union members.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
 -   Though he is an Adret, he has a never before seen facial markings for the race.
 -   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.
@@ -219,7 +219,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
 -   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
--   His strength is unknown but is supposed to be kind of powerfull being able to enter New Kyrsa and escaping it without problems.
+-   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escaping it without problems.
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
@@ -237,7 +237,7 @@ _"My Burden is Light." -Unknown Lightkeeper._
 
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -Klaris Llfiend._
 
--   Black Diver of the canor race. Created light hooks.
+-   Black Diver of the Canor race. Created light hooks.
 -   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into the Second Layer.
@@ -254,7 +254,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
--   Rumored to be an incarnation of Dorgan from Rogue Lineage, a being of infinite power.
+-   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
 -   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
         1.  The Meatlord is the most powerful character in all of Deepwoken Lore.
