@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 73645
+revid: 75614
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -733,8 +733,6 @@ Shade Devour
 
  | 
 
-File:Shade Devour with Blast Spark.gif
-
  | 
 
 -   This modifier cause the "Shade Devour" mantra to perform a bigger shockwave.
@@ -779,7 +777,9 @@ Needle Barrage
 
  | 
 
- |  | 
+ | 
+
+ | 
 
 -   This modifier causes the Needle Barrage mantra to fire more needles, but removing the initial jump. This version of the mantra also keeps your momentum.
 
@@ -797,8 +797,6 @@ Flame Blind
  | 
 
  | 
-
-File:Flame Blind with Magnet Spark.gif
 
  | 
 
@@ -846,8 +844,6 @@ Lightning Stream
 
  | 
 
-File:Lightning Stream with Magnet Spark.gif
-
  | 
 
 This causes Lightning Stream to pull to closest enemy towards you.
@@ -863,8 +859,6 @@ Spark Swap
 
  | 
 
-File:Spark Swap with Magnet Spark.gif
-
  | 
 
 -   This modifier seems to have no effect on the "Spark Swap" mantra.
@@ -877,8 +871,6 @@ Strong Leap
  | 
 
  | 
-
-File:Strong Leap with Magnet Spark.gif
 
  | 
 
@@ -936,8 +928,6 @@ Shade Devour
 
  | 
 
-File:Shade Devour with Multiplying Spark.gif
-
  | 
 
 -   This modifier causes the "Shade Devour" mantra to perform 3 shockwaves instead of 1.
@@ -974,8 +964,6 @@ Burning Servants
 
  | 
 
-File:Burning Servants with Reversal Spark.gif
-
  | 
 
 -   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards.
@@ -1008,8 +996,6 @@ Frozen Servants
 
  | 
 
-File:Frozen Servants with Reversal Spark.gif
-
  | 
 
 -   This modifier causes the servants from the "Frozen Servants" mantra to face outwards instead of inwards.
@@ -1039,8 +1025,6 @@ Air Force
  | 
 
  | 
-
-File:Air Force with Reversal Spark.gif
 
  | 
 
@@ -1073,8 +1057,6 @@ Revenge
 
  | 
 
-File:Revenge with Reversal Spark.gif
-
  | 
 
 -   This modifier is compatible with the "Revenge" mantra, causing it to deal no damage.
@@ -1086,11 +1068,9 @@ Fire Blade
 
  | 
 
-600 × 478
+File:Starkindred FireBlade.gif
 
  | 
-
-600 × 428
 
  | 
 
@@ -1103,7 +1083,9 @@ Chain Pull
 
  | 
 
- |  | 
+ | 
+
+ | 
 
 -   This modifier causes the chain of "Chain Pull" to push enemies away.
 
@@ -1218,6 +1200,19 @@ File:Dash with Spring Spark.gif
 -   This modifier shortens the "Dash" mantra's travel distance but increases it's uses from 1 to 2.
 
  |
+| 
+
+Metal Kick
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier replaces the original with a faster drop-kick variant that doesn't apply knockdown.
+
+ |
 
 **Tornado Spark:**
 
@@ -1251,8 +1246,6 @@ Champion's Whirlthrow
  | 
 
  | 
-
-File:Champion's Whirlthrow with Tornado Spark.gif
 
  | 
 
