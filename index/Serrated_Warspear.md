@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 72068
+revid: 75601
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -29,7 +29,7 @@ categories: [Weapons, Spears]
 
 ## Description
 
-The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from [The Duke](Duke_Ishamon_Erisia.md). The Serrated Warspear does not appear in chests after killing The Duke, instead it is directly dropped by him. It is on the rarer side of weapons due to being a direct drop from a boss, next to the True Seraph's Spear (from Corrupted King Threshers.)
+The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from [The Duke](Duke_Ishamon_Erisia.md). The Serrated Warspear does not appear in chests after killing The Duke, instead it is directly dropped by him. It is on the rarer side of weapons due to being a direct drop from a boss, next to the True Seraph's Spear (from Corrupted King Threshers.) This weapon deals 26.8 (+8 BLEED) damage at 75 MED for a total of 34.8. Deals 29.7 (+10 BLEED) damage at 100 MED for a total of 39.7.
 
   
 

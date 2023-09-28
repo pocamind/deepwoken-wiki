@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75470
+revid: 75600
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -895,7 +895,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Frostthorn
 
-> _**"Those that step on my ice know they have made a grave error."** ( under testing. )_
+> _**"My ice protects like a flower growing thorns."**_
 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
@@ -2451,7 +2451,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 15% more damage.
 -   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage
--   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your [Jus Karita](Jus_Karita.md) attacks deal 25% more damage. (+3 Passive Agility)
+-   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your [Jus Karita](Jus_Karita.md) attacks deal 20% more damage. (+3 Passive Agility)
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.

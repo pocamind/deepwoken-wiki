@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 64476
+revid: 75602
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -35,5 +35,5 @@ Kyrstreza is a [Light Weapon](Weapons.md) under the Rapier category. It has a re
 -   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrstreza**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   This weapon is part of the "Kyrs" series, commonly referred to as "Bone" Weaponry (Kyrsear, Kyrsedge, etc.).
 -   At 75 LHT, this weapon deals around 24.5 damage. At 100 LHT, this weapon deals 27.75 damage.
--   The weapon name is a reference to the Spanish school of fencing, Verdadera Destreza, which focused on geometric movements with the rapier.
+-   The weapon name is a reference to the Spanish school of fencing, Verdadera Destreza, which focused on geometric movements with the rapier, this causes a side-effect, that turns all the rapier users on to spanish people.
 -   The Kyrstreza is like the "[Shattered Katana](Shattered_Katana.md)" of the Rapier category, due to its superior penetration stat compared to other rapiers.

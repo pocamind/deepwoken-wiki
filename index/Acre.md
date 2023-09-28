@@ -1,6 +1,6 @@
 ---
 title: Acre
-revid: 73034
+revid: 75603
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -11,3 +11,5 @@ categories: [Pages with broken file links, NPCs]
 File:??.png
 
 On Aratel islands
+
+Throws you off into the water if you continue her dialogue.
