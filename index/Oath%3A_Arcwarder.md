@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 75476
+revid: 75615
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -72,11 +72,11 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 -   **Arc Module: Null - Passive**
     -   When your Arc Suit is active, outgoing and incoming enchant effects are nullified. (+10 Health)
-    -   Can be toggled by pressing N when Arc Suit is active.
+    -   Can be toggled by pressing N when A seerc Suit is active.
 
 ## Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, it does not visually change the character in any way.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, it simply gives you orange-gold pupils in your eyes.
 
 Variants
 

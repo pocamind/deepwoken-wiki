@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 75546
+revid: 75621
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -27,19 +27,28 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <td rowspan="3">File:Seaborne.png</td>
   <td><b>Mark of Ku</b> (Capra) (Red)
   <ul>
+    <li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"
+  <ul>
     <li>While active, user or player affected heals 15% of their total HP over a 30s period. (Power 5+ Needed to activate).</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Mark of Nemit</b> (Nature) (Green)
   <ul>
+    <li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"
+  <ul>
     <li>Buffs the food of one person they choose around them as long as they are at a campfire or Power 5+</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Mark of Jurik</b> (Moon) (Blue)
   <ul>
+    <li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"
+  <ul>
     <li>Buffs the sanity of one person they choose around them as long as they are at a campfire or Power 5+</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>

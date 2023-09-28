@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 75595
+revid: 75617
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -38,7 +38,7 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
     -   Reduce health regeneration
     -   Campfires being put out near instantly
 -   Only Players at Power 15 and above can use the Voidspire and be affected by its on death effect.
--   If the Voidspire is summoned after a Player is knocked, said Player will not be sent to the Depth if they die.
+-   If the Voidspire is summoned after a Player is knocked, said Player will be sent to the Depths anyways if they die.
 
  |
 | 

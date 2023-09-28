@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 71954
+revid: 75622
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -27,7 +27,7 @@ One of the most distinct races in the Lumen for their infamous cat ears, Felinor
   <td>File:Nightchild.png</td>
   <td><b>Nightchild</b>
   <ul>
-    <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces</i>"
+    <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.</i>"
   <ul>
     <li>1.25x agility when climbing, 1.5x agility when climbing wooden surfaces.</li>
     <li>Improved Stealth</li>
