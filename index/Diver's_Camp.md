@@ -1,6 +1,6 @@
 ---
 title: "Diver's Camp"
-revid: 71109
+revid: 75610
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

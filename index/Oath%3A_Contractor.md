@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 75484
+revid: 75608
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -50,6 +50,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 -   **Hidden Tendril - Passive**
     -   Applies a 'Hidden Tendril' onto enemies if the User lands a Physical Mantra(such as most Attunementless ones), or a physical critical attack. The enemy cannot see this Tendril, however the User can. The Hidden Tendril does nothing directly, however allows the user to see the position of their Enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
+
 -   **String Trick - Passive**
     -   If a hidden tendril is on multiple opponents, they are to be pulled together.
 
