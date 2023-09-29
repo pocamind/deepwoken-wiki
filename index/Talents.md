@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75600
+revid: 75660
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1843,7 +1843,7 @@ Prerequisite: Charisma
     -   Prerequisite: Discovery of Fire, 1 Flamecharm
 
 -   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
-    -   Prerequisites: Static Link, 60 Thundercall, 50 Shadowcast
+    -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
