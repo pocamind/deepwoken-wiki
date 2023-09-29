@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 67650
+revid: 75639
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Blacksteel Pirates can be found in the [Etrean Sea](The_Etrean_Sea.md). They spawn in groups of 5 in the [water tower event](Random_Encounters.md).
+Blacksteel Pirates can be found in the [Etrean Sea](The_Etrean_Sea.md). They spawn in groups of 5 in the [Water Tower event](Random_Encounters.md).
 
 They wear a [Darksteel Plate](Darksteel_Plate.md) and a dyed black [Knight's Helm](<Silver_Knight's_Helm.md>).
 
@@ -49,9 +49,9 @@ A Blacksteel pirate executes the player after knocking them:
 ## Tips
 
 -   The Darksteel Greatsword Blacksteel Pirates pose the biggest threat to rookie players; only engage if you know how to parry the critical.
--   They essentially act as very much high risk reward types for lower level players who want to earn exp and items quickly.
+-   They essentially act as very much high-risk reward types for lower-level players who want to earn exp and items quickly.
 -   They may be more difficult than bandits as if you don't know how to parry, you will get combo'ed.
--   If you grip them close to the wooden tower, the other Blacksteel Pirates will be alerted and you might get interrupted. Instead, carry the Blacksteel Pirate's body into the ocean; they will drown and any other Blacksteel Pirates will not be alerted.
+-   If you grip them close to the wooden tower, the other Blacksteel Pirates will be alerted, and you might get interrupted. Instead, carry the Blacksteel Pirate's body into the ocean; they will drown, and any other Blacksteel Pirates will not be alerted.
 -   Be extremely cautious if you are knocked out in the water, as Blacksteel Pirates will use Rapid Punches on your body even if you are knocked out in the water, which you end up drowning. Even if you have Scuba Drowner, the Blacksteel Pirates will still use Rapid Punches even if your knocked out reducing your odds of survival to a bare minimum.
 
 ## Trivia

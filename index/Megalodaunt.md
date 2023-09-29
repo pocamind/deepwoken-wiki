@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 72313
+revid: 75642
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -91,6 +91,12 @@ Roar
 
  | ✗ | ◯ | ◯ | (★★☆) |
 
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+
 **Crimson Megalodaunt:**
 
 Template:Creature Infobox V3
@@ -166,6 +172,13 @@ Roar
 Pyroclastic Roar
 
  | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict damage and set the player on fire. | ◯ | ◯ | ◯ | (★☆☆) |
+
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+| Incineration | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
 
 **Alpha Megalodaunt:**
 
@@ -246,6 +259,12 @@ Tacet Drop Kick
 
  | Having received great training from the mighty god, Squid Hoss, the Alphas are also capable of tacet drop kicking the life out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | ? | ? | ◯ | (★☆☆) |
 
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+
 **Mechalodaunt:**
 
 Template:Creature Infobox V3
@@ -257,6 +276,8 @@ The Mechalodaunt is one of the four Megalodaunt variants. It is a weapon produce
 Mechalodaunts in the Saramaed Summit often spawn in groups of two, only spawning a chest after both have been defeated. Its recommended that you are careful when exploring the area as aggroing both Mechalodaunts can make them significantly more difficult to kill off. They are relatively easy to cheese in Miner's Landing by going past doorways, which are too short for them to pass through, and setting up campfires. This can also be done in Saramaed Summit, however due to the fact that voidzones cause all campfires to last significantly less and all healing is reduced, this strategy is much less effective.
 
 A Mechalodaunt, finally back under control, can also ambush players who have Hunted tier Reputation with the Union.
+
+## **Attacks**
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -333,7 +354,6 @@ Roar
 | Name | Description |
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
-| Incineration (Crimson Variant only) | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
 
 ### Passives
 
@@ -343,21 +363,21 @@ Roar
 
 A Megalodaunt swimming.
 
--   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount, and will likely block break you in one or two hits as a freshspawn.
+-   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount and will likely block break you in one or two hits as a freshspawn.
 -   Megalodaunts have swimming animations, as seen on the right.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md) sink.
     -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.
 -   A Megalodaunt having a snack.
     
-    Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mobs attacks. This can be very dangerous if new to fighting it because it can throw you off. Recommended to not use mantras that set it on fire when new to fighting it.
+    Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mob's attacks. This can be very dangerous if new to fighting it because it can throw you off. Recommended to not use mantras that set it on fire when new to fighting it.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
 -   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
 -   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.
     -   Moves such as **Thousand Needles** are, however, really hard to avoid, as it covers a good Area of Effect.
 -   It is possible to parry **Kick** if the player has the [Hunter's Brace](<Hunter's_Brace.md>) or [Ignition Deepdelver](Ignition_Deepdelver.md) equipped.
 -   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
--   It is easy to cheese it if you manage to either get to a place above it and hit it from above, or go next to the roots of a tree (on a slope that keeps the Sharko standing above your elevation) and let the sharko stand on top, which will make the sharko miss all it's attacks. It's very risky but it is profitable.
--   Unless you're a high enough level to consistently stat-check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting Roblox matchmaking do its thing.
+-   It is easy to cheese it if you manage to either get to a place above it and hit it from above or go next to the roots of a tree (on a slope that keeps the Sharko standing above your elevation) and let the sharko stand on top, which will make the sharko miss all its attacks. It's very risky but it is profitable.
+-   Unless you're a high enough level to consistently stat check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting Roblox matchmaking do its thing.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
 -   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have similar attacks and characteristics Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
 -   In the Winter of 1291, an event (didn't) transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players (not) spamming this item and (not) spawning an unforeseen amount of Megalodaunts, which (never) proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
@@ -368,7 +388,7 @@ A Megalodaunt swimming.
 -   Running from an Alpha Megalodaunt isn't an option sadly, as his tacet move instantly teleports him towards his target if this one is too far from him, making them infamous for killing freshie Deepbounds with their tacet bite.
 -   Most of the Megalodaunts are very hostile against Sand Knights and Golems so if you want to get a distraction get one of the Megalodaunt to target one of the main enemies it hates the most.
 -   Megalodaunt are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
--   They probably inherited their swimming genes as they are most likely the descendants or evolution of a shark, which would explain it's name and it's diet and ability to swim, unlike most other monsters in the game.
+-   They probably inherited their swimming genes as they are most likely the descendants or evolution of a shark, which would explain its name, diet, and its ability to swim, unlike most other monsters in the game.
 -   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md).
 -   The Megalodaunt's "Thousand Needles" attack hits everyone, regardless of their hostility to the non-attackers.
 -   Megalodaunts are likely carnivores, as seen from their teeth. They have claws to grab and rip into their prey. What contrasts this is that usually large predators don't use their legs for combat. Along with this, they also have eyes on the side of their heads. which could potentially be a sign that they are prey animals to something much bigger.

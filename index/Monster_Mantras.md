@@ -1,9 +1,9 @@
 ---
 title: Monster Mantras
-revid: 75562
+revid: 75635
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mantras]
+categories: [Pages with broken file links, Mantras]
 ---
 
 # Monster Mantras
@@ -62,7 +62,11 @@ Brachial Spear
 (★★☆)
 
  | A javelin of jagged bone. | The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) _Bone Throw_ ability. Grants hyperarmor during startup. (Requires a giant Femur to obtain) | Combat Mantra |
-|  | 
+| 
+
+File:MechaGatling.png
+
+ | 
 
 Mecha Gatling
 
