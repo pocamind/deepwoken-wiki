@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 66353
+revid: 75648
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Golden Rat Bouncer is a [Golden Warrior](Golden_Warrior.md) standing outside of the [Rat's Den](<Rat's_Den.md>), guarding it. They say they'll offer you something if you bring them 5 [Gold Plates](Ingredients.md), which is a small chest containing high-tier loot for Burning Stone Gardens.
 
-As they don't grip you, they can act as a much tankier, stronger version of the [Blade Instructor](Blade_Instructor.md). However it is risky to fight them, due to the location.
+As they don't grip you, they can act as a much tankier, stronger version of the [Blade Instructor](Blade_Instructor.md). However, it is risky to fight them, due to the location.
 
 They wear a [Goldleaf Helm](Goldleaf_Helm.md), Warden Pauldrons, a recolored Etrean Guard outfit and a pair of Flameguard Boots.
 
@@ -32,4 +32,5 @@ Their arsenal consists of a Divine Axe and the [Galebreathe](Galebreathe.md) Att
 ## Trivia
 
 -   The Golden Rat Bouncer is the the much tankier counterpart of the Golden Warrior.
--   The Golden Rat Bouncer does not execute you, so you can use them to grind your stats. They are relatively easy to fight but difficult to kill (due to their large health pool). They mostly uses M1 attacks, so as long as you know how to parry, you should be fine. Good for grinding and an excellent substitute for [grinding bandits.](Bandit.md) (Level recommendation: 1-10)
+-   The Golden Rat Bouncer does not execute you, so you can use them to grind your stats. They are relatively easy to fight but difficult to kill (due to their large health pool). They mostly use M1 attacks, so as long as you know how to parry, you should be fine. Good for grinding and an excellent substitute for [grinding bandits.](Bandit.md) (Level recommendation: 1-10)
+-   The Golden Rat Bouncer will warn the player to not attack them again if they get knocked down by the Golden Rat Bouncer.

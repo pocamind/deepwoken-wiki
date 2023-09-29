@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75564
+revid: 75658
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -147,7 +147,6 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
-    -   The bell may or may not be inspired by the Death Note from the anime by the same name, considering it has the ability of instant death but has a toll on his lifespan.
     -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he runs away, thinking that you're too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Akira stated that "Most of my field work doesn't concern this layer", possibly meaning that despite residing in the first layer for now, he travelled and worked in the Second Layer and maybe even deeper.
