@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 75665
+revid: 75684
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -142,6 +142,7 @@ Mantras you get by turning in monster parts to a NPC in Castle Light. To get the
 -   Bone Keeper -> Giant Femur -> Brachial Spear (Bone Throw)
 -   Enforcer -> Enforcer's Eye -> Enforcer Pull
 -   Mechalodaunt -> Broken Gatling Gun -> Mecha Gatling (Bullet Fury)
+-   Nautilodaunt -> Nautilodaunt Beak -> Abyssal Ridge (Stomp Geyser)
 
 All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs chill and will proc crystal if you have the path. This also goes for Mecha Gatling as it procs fire and will proc lava path if you have the path.
 

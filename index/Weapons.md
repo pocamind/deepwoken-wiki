@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 75424
+revid: 75676
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1214,7 +1214,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>7</td>
   <td>8.5</td>
   <td>0.68x</td>
-  <td>0.1s</td>
+  <td>0.05s</td>
   <td>38.7</td>
 </tr>
 <tr>

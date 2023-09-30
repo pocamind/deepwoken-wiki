@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 75393
+revid: 75674
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,7 +44,7 @@ Template:Creature Info Box v2
 
 ## Description
 
-Recognizable by their grey body, white eyes and astral enchant sword, the Astral Knights are a variant of the stone knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). Their HP is unknown but is presumed to be far higher than the other two variants.
+Recognizable by their grey body, white eyes and astral enchant sword, the Astral Knights are a variant of the stone knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). Their HP is unknown but is presumed to be far higher than the other two variants. They can drop Astral Enchant Stones and killing them is the only way to get them.
 
 ## **Attacks**
 

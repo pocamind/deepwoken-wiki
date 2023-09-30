@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 40811
+revid: 75673
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, World, Items]
@@ -104,3 +104,4 @@ _The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be eq
 ## Notes
 
 -   On release, Void feathers cost 5 Joy instead of the displayed 15. This was patched as of 11/5/2022.
+-   Hallowtide is confirmed by Arch\_Mage to return on October 2023.

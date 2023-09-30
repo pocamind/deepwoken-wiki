@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 75580
+revid: 75678
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -50,6 +50,13 @@ There are two variants that enchantments come in:
   <td><b>Name</b></td>
   <td><b>Description</b></td>
   <td><b>Visual Effect</b></td>
+</tr>
+<tr>
+  <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
+  <font>Astral<div></div></font></center></td>
+  <td><div><p>Deal 20% more damage in PVE.<br>
+  Can only be obtained from an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>. Used to be unobtainable as it was a dev spec granted to people who met a <a href="Developer_Specs.md">Wishmaker</a>.</p></div></td>
+  <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -211,7 +218,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
-  <td><div><p>On hit, deal 35% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
+  <td><div><p>On hit, deal 50% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
   M1s to allies deals 50% damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
@@ -282,14 +289,6 @@ There are two variants that enchantments come in:
   <td><b>Name</b></td>
   <td><b>Description</b></td>
   <td><b>Visual Effect</b></td>
-</tr>
-<tr>
-  <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
-  <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 20% more damage in PVE.<br>
-  Can only be obtained by talking to a <a href="Wishmaker.md">Wishmaker</a>, who will then apply it to your current weapon. Comes with the Wishbound <a href="Boons_and_Flaws.md">flaw</a>. More info - <a href="Developer_Specs.md">Developer Specs</a><br>
-  <b>Unobtainable</b></p></div></td>
-  <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -600,9 +599,10 @@ Static flaming purple.
 -   **September 19th, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
 -   **December 23rd, 2022** - Weapons can be enchanted with an enchant stone from [Layer 2](Second_Layer.md).
 -   **December 24th, 2022** - Armor pieces can now be given a random Enchant from [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), by trading in 5 [Medallions](Kyrsan_Medallions.md) from layer 2.
--   **January 16th, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry. (Only Immortal Guardians wield Enchanted Weapons now.)
+-   **January 16th, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
 -   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 -   **August 25th, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
+-   **Spetember 29th, 2023** - Astral is made publicly available.
 
 ## Trivia
 
