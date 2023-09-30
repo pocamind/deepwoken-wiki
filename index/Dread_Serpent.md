@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 74083
+revid: 75728
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -13,7 +13,7 @@ categories: [Monsters, Bosses]
 ― Lumen’s Folklore: Volume ‘North’
 
   
-_Also referred to as Ardour, Sea Serpent, Kaido, or the Danger Noodle._
+_Also referred to as Ardour, Sea Serpent, or Kaido._
 
 Template:Creature Infobox V3
 
@@ -52,11 +52,11 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   The mantra 'Dread Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   Spawns in large patches of floating bubbles in the Voidsea.
 -   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
--   You will only get hit if you are close to him, so keep your distance while behind him.
--   Since Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
+-   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
+-   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
 -   It's implied that the dread serpent took out the Petra's Dawn as the Petra's anchor is one of the drops.
 -   The dread serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
--   It's appearance is supposedly exactly what an Elder Edenkite once look like, only it has no wings.
+-   It's appearance is supposedly exactly what an Elder Edenkite once looked like, only it has no wings.
 -   The model for the Dread Serpent's Tooth is a Dark Feather.
     -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent does also have them too.
 -   The Tooth that Dread Serpent drops can be used to gain its breath attack. This is locked behind Layer 2 however.

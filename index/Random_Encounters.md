@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 75231
+revid: 75725
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -13,7 +13,7 @@ notices:
 
 ## Description
 
-Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere.
+Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere. These encounters make the game feel much more alive, and usually consists of (but is not limited to, as there are many exceptions) 2 sides, usually factions fighting against each other.
 
 **Note:** This is not a comprehensive list of every single random encounter: more will be added.
 

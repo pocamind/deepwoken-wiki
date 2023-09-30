@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 75328
+revid: 75732
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]

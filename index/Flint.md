@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 59424
+revid: 75718
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -41,6 +41,7 @@ Alternatively, Flint can be bought for three notes at:
 -   Isle of Vigils Blacksmith
 -   Summer Isle, Con's Pawn
 -   Voidheart
+-   [Greathive Aratel](Greathive_Aratel.md)
 
 Umbral Flint is a higher tier of flint with 150 uses, crafted by substituting Rock for [Umbral Obsidian](Umbral_Obsidian.md) while crafting.
 
