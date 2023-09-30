@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 75396
+revid: 75749
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -39,7 +39,7 @@ As it stands currently. There is an active, and generally supportive Discord. As
 
 ## Reputation
 
-You can reset your reputation towards the diver by talking to [Gudrin](Reputation.md), however it will not be free. The cost ranges depending on your negative reputation starting with low negative reputation (declared as a enemy) 25 notes and so on till 100
+You can reset your reputation towards the diver by talking to [Gudrin](Reputation.md), however it will not be free. The cost ranges depending on your negative reputation starting with low negative reputation (declared as an enemy) 25 notes and so on till 100.
 
 Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [reputation](Reputation.md) with The Divers, this is a good way of getting back your [reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.
 
@@ -47,21 +47,21 @@ If you took the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), your div
 
 You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount of reputation with The Divers, after [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) has been defeated.
 
-### Notable Members
+## Notable Members
 
 **[Karliah](Karliah.md):** A young, new recruit of The Divers. She lives in Etrea and is set to go on her first mission at Erisia, in which the player can participate. Her fate is left at the disclosure of the player depending on their choice.
 
-**[Akira](Akira.md):** An Etrean with the rank of Black Diver. He is apart of the organization for almost 10 years now. He wields a katana and possess a unique Bell, whose ability is reminiscent of Yun’Shul’s head-exploding power. He can be located in The Depths by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers guild (optional) and unlock the Deepbound origin if they can reach him at [Castle Light](Castle_Light.md).
+**[Akira](Akira.md):** An Etrean with the rank of Black Diver. He is a part of the organization for almost 10 years now. He wields a katana and possess a unique Bell, whose ability is reminiscent of Yun’Shul’s head-exploding power. He can be located in The Depths by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Soldiers, whom he dispose of with relative ease. The player can talk to him and, with the right dialogue options, be allowed to join The Divers guild (optional) and unlock the Deepbound origin if they can reach him at [Castle Light](Castle_Light.md).
 
 **Amorus Pleetsky:** As a former Black Diver, Pleetsky still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He is currently residing in the third layer of the Depths. He consumed a part of the Drowned god of fire Korilfiend in the form of a flower, causing him to ascend to a near-godlike state. This newfound enlightenment allowed him to become the first Flamecharmer. He would then go on to establish a group known as “The Covenant of Flame,” a group of passionate Flamecharmers who wish to follow the same path as Amorus Pleeksty, almost religiously studying his books and practicing his teachings such as the Flame Within. Pleeksty, however, only sees them as a fan club. Despite his tremendous power and age, he is described as a "chill" guy, meaning that if anyone encounters him, Pleeksty will most likely be very amicable.
 
-**[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer, but would later reveal that he had betrayed The Divers. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was apart of. He then slaughtered the other Divers that were involved in expeditions following that one. The players later encounter him as the first boss of The Second Layer. Technically Ministry aligned.
+**[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who uses the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but would later reveal that he had betrayed The Divers. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was a part of. He then slaughtered the other Divers that were involved in expeditions following that one. The players later encounter him as the first boss of The Second Layer. Technically Ministry aligned.
 
 **Funke (Thundercall trainer) and Nell (Frostdraw trainer):** Funke and Nell are wearing Black Diver uniforms and can be found in the Eastern Luminant and the Etrean Luminant respectively. Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
 
 [**Gudrin**](Reputation.md): Removes hostilities with the Divers, as mentioned in the article.
 
-**[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion (also referred to as “Dr Diver”) is a Ganymede Black Diver who is very skilled in terms of alchemy and science, being able to give people the abilities of certain monsters at the cost of the corresponding creature’s organs. Despite being a Black Diver, he is also the leader of The Apothecary, a group based on the creation and research of potions and some other scientific topics. This branch was later excommunicated from the Divers due to the actions of an undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor, and be able to "transcend" everyone by drinking this potion. Carrion already drank a prototype of the Moonseye Vigor, which drove him to insanity, along with giving him green eyes. He is currently residing in Castle Light, but can also be seen in the Great Library of New Kyrsa, probably researching to create a new Moonseye Vigor. Apparently, he doesn't care much for the events of The Second Layer, instead choosing to prioritize his research of the Vigor rather than preventing the awakening of a drowned god that could destroy Lumen. This characteristic, alongside Klaris’ dialogue about him, tells us that Carrion prioritizes his research above everything else, giving little to no care about any major events in the game that doesn't assist his studies.
+**[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion (also referred to as “Dr Diver”) is a Ganymede Black Diver who is very skilled in terms of alchemy and science, being able to give people the abilities of certain monsters at the cost of the corresponding creature’s organs. Despite being a Black Diver, he is also the leader of The Apothecary, a group based on the creation and research of potions and some other scientific topics. This branch was later excommunicated from the Divers due to the actions of an undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor and be able to "transcend" everyone by drinking this potion. Carrion already drank a prototype of the Moonseye Vigor, which drove him to insanity, along with giving him green eyes. He is currently residing in Castle Light but can also be seen in the Great Library of New Kyrsa, probably researching to create a new Moonseye Vigor. Apparently, he doesn't care much for the events of The Second Layer, instead choosing to prioritize his research of the Vigor rather than preventing the awakening of a drowned god that could destroy Lumen. This characteristic, alongside Klaris’ dialogue about him, tells us that Carrion prioritizes his research above everything else, giving little to no care about any major events in the game that doesn't assist his studies.
 
 **Mark Adaset:** An Adretian clad in Diver Journeyman robes who acts as Caste Light's caretaker.
 
@@ -73,7 +73,7 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 -   The official Divers server is held at Discord.gg/divers
 -   Upon reaching the title of "Black Diver" within the guild, players are rewarded with the status of “Guild Officer.”
 -   The current leader of The Divers in-game is R0bustic.
--   The Divers are lead by the Black Diver Council, consisting of "Resolve," "Ricky" and "Dragon."
+-   The Divers are led by the Black Diver Council, consisting of "Resolve," "Ricky" and "Dragon."
 -   The current Black Divers (officers) of The Divers in-game are:
     -   R0bustic
     -   ViolaIsSilent

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75734
+revid: 75739
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -914,6 +914,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Only works for 1.5 seconds
 
 ### Gale Duelist
+
+**"My wind fights for me"**
 
 -   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
     -   Prerequisites: Wind Blade, 20 Galebreathe.

@@ -1,6 +1,6 @@
 ---
 title: Eternal Restraints
-revid: 75404
+revid: 75747
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]

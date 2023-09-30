@@ -1,9 +1,9 @@
 ---
 title: Monster Mantras
-revid: 75736
+revid: 75745
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mantras]
+categories: [Mantras]
 ---
 
 # Monster Mantras
@@ -24,20 +24,26 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 | Media | Name | Mantra Description | Effect | Stats |
 | --- | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Brachial Spear
 
 (★★☆)
 
  | A javelin of jagged bone. | The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) _Bone Throw_ ability. Grants hyperarmor during startup. (Requires a giant Femur to obtain) | Combat Mantra |
-|  | 
+| 
+
+ | 
 
 Coral Spear
 
 (★★☆)
 
  | ... | The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) _Thousand_ _Needles_ ability. (Requires a Megalodaunt Coral to obtain) | Combat Mantra |
-|  | 
+| 
+
+ | 
 
 Dread Breath
 
@@ -45,8 +51,6 @@ Dread Breath
 
  |  | The user shoots out a devastating beam of compressed ice, based on the [Dread Serpent's](Dread_Serpent.md) _Ice Beam._ This move stuns and procs ice, slowing enemies. Alternatively, it will proc crystal if the user has _[Glass Path: Crystallization](Talents.md#glassdancer). (Requires a Dread Serpent Tooth to obtain)_ | Combat Mantra |
 | 
-
-File:MechaGatling.png
 
  | 
 
@@ -68,7 +72,9 @@ Abyssal Ridge
 (★★☆)
 
  | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can be aimed with the cursor towards an opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a Nautilodaunt Beak to obtain) | Mobility Mantra |
-|  | 
+| 
+
+ | 
 
 Beast Burrow
 
@@ -80,7 +86,9 @@ Beast Burrow
 
 | Media | Name | Mantra Description | Effect | Stats |
 | --- | --- | --- | --- | --- |
-|  | 
+| 
+ | 
+
 Enforcer Pull
 
 (★★☆)

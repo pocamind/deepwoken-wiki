@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 74927
+revid: 75751
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -8,9 +8,9 @@ categories: [Pages with broken file links, Enemies]
 
 # Enemies
 
-_This page is for human 'mob' enemies, For bosses, see [Bosses](Bosses.md). For monsters, see [Monsters](Monsters.md)._
+_This page is for human 'mob' enemies, for bosses, see [Bosses](Bosses.md). For monsters, see [Monsters](Monsters.md)._
 
-**Enemies** in _Deepwoken_ are neutral-hostile NPCs that will attack the player, but are different than monster enemies.
+**Enemies** in _Deepwoken_ are neutral-hostile NPCs that will attack the player but are different than monster enemies.
 
 ## Overview
 
@@ -18,9 +18,9 @@ Beyond the safety of cities and towns, and sometimes even in them, there are hum
 
 Depending on who they are, they can vary in their skill, equipment, and attunements. Each Enemy also has their races racial passive, though this only really applies to Etreans, Canor, Felinor and Vesperians.
 
-This page consists of Humanoid NPCs that fight back, or attack you on sight. Includes all Factions.
+This page consists of Humanoid NPCs that fight back or attack you on sight. Includes all Factions.
 
-Humanoid Enemies can have **enchanted** weapons, however it's only given to certain enemies. (**They cannot have Curse of the No Life King or Curse of Yun'shul)**
+Humanoid Enemies can have **enchanted** weapons; However, it's only given to certain enemies. (**They cannot have Curse of the No Life King or Curse of Yun'shul)**
 
 ## Enemies
 
