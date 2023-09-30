@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 75294
+revid: 75710
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -31,9 +31,10 @@ The Legion has several war heroes that are depicted by either their ornaments or
 -   Enemies with [The Authority](The_Central_Authority.md)
 -   Enemies with [The Kingdom of Etrea](Etrea.md)
 
-## NPCs
+## Notable Members
 
 -   [Amara](Amara.md)
+-   [Brutus](Brutus.md)
 
 ## Trivia
 

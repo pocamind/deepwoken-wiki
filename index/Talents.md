@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75679
+revid: 75707
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1784,7 +1784,7 @@ These Talent are meant to make maintaining your ship easier.
 
 ### Silencer
 
-> _**"Nah, imma do my own thing. - Miles Morales"**_
+> _**"The song shall be silenced."**_
 
 -   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
     -   Prerequisite: 60 Galebreathe

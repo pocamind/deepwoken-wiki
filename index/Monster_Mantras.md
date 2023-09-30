@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 75635
+revid: 75711
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras]
@@ -18,7 +18,7 @@ Monster Mantras are [Mantras](Mantras.md) that players are capable of obtaining 
 
 ## Obtainment
 
-Talk to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at the end of the maze in Layer 2: Floor 2, which then he is at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](Dread_Serpent.md), [Giant Femur](Bone_Keeper.md), and the [Broken Gatling Gun](https://deepwoken.fandom.com/wiki/Megalodaunt#Mechalodaunt).
+Talk to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at the end of the maze in Layer 2: Floor 2, which then he is at [Castle Light](Castle_Light.md), allowing you to speak with him and obtain the mantras. Monster mantras are obtained by talking to Carrion and giving him rare drops from certain monsters. The drops follow: [Enforcer Eye](Enforcer_Eye.md), [Thresher Talon](Thresher.md), [Megalodaunt Coral](Megalodaunt_Coral.md), [Dread Serpent's Tooth](Dread_Serpent.md), [Giant Femur](Bone_Keeper.md), [Broken Gatling Gun](https://deepwoken.fandom.com/wiki/Megalodaunt#Mechalodaunt), and the [Nautilodaunt Beak](https://deepwoken.fandom.com/wiki/Nautilodaunt).
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/pEgA0zXlJsk)._
 
@@ -72,7 +72,16 @@ Mecha Gatling
 
 (★★☆)
 
- | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is based on the[Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. (Requires a broken Gatling Gun to obtain) | Combat Mantra |
+ | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is based on the [Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. (Requires a broken Gatling Gun to obtain) | Combat Mantra |
+| 
+
+ | 
+
+Abyssal Ridge
+
+(★★☆)
+
+ | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can be aimed with the cursor towards an opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a Nautilodaunt Beak to obtain) | Mobility Mantra |
 
 ## Trivia/Notes
 

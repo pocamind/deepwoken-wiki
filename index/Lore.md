@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75664
+revid: 75709
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -81,12 +81,12 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The second strongest of the nine Ministry Prophets.
 -   Gave Chaser his hemo-kinetic abilities.
 -   Master of Chaser and probably other apprentices.
--   His only known powers are blood control that is probably much more powerful than Chaser's blood powers.
+-   His only known power is blood control likely much more powerful than Chaser's blood powers.
 
 ### **The 5th King of Etrea**
 
 -   The previous Ruler of the Kingdom of Etrea, before his rule was taken by the Lord Regent under his banner.
--   Not much is known for The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
+-   Not much is known about The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
     -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
@@ -127,7 +127,7 @@ The Duke
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.
 -   Nobody knows his real name.
 
-### **Maestro Evengarde Rest**
+### **"Maestro" Evengarde Rest**
 
 -   "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them.
 -   He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac.
@@ -137,7 +137,7 @@ The Duke
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
 -   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions be met, being to activate his tempest eye.
--   User of Tempest Eye. What is known about what the Tempest Eye grants to its user, is that it can parry **any** attack, including ones that shouldnt be able to parry such as a sharko kick.
+-   User of Tempest Eye. The only ability that Tempest Eye is currently known to grant to its user is the ability to parry any attack, including attacks that are normally not able to be parried, such as a [Megalodaunt](Megalodaunt.md) kick.
 
 ### **Akira, The Black Diver**
 

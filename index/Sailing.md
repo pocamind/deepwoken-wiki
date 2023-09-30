@@ -1,6 +1,6 @@
 ---
 title: Sailing
-revid: 69243
+revid: 75700
 source: https://deepwoken.fandom.com/wiki/Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Sailing]
@@ -38,6 +38,8 @@ For anyone who has played any seafaring games before, you may realize that the w
 -   The flag at the top of your boat points the opposite direction of the wind.
 
 If you stop steering your boat, the boat will automatically start to turn to a straight position.
+
+When sailing a boat, you can fire your cannons from the helm or any of the cannons on your ship.
 
 ## Boat Summarization
 

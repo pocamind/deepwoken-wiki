@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 72879
+revid: 75702
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -55,9 +55,14 @@ This oath is fully upgraded once you get it.
         -   **DO NOT USE HAIR IDS THAT CAN BE SEEN AS OFFENSIVE. This is bannable. You are the one responsible for what hairs you give.**
 -   **Hair Products - Passive**
     -   What's in these things?
-        -   Right click to choose between Flammable, Charming, or Revitalizing.
-        -   Left click to spray your effect of choice in front of them.
-        -   Revitalizing heals a flat 10% HP of the target.
+        -   Shows a popup menu that allows you to select either Flammable, Charming, or Revitalizing.
+            -   Flammable ignites the opponent
+            -   Charming Charms the opponent
+            -   Revitalizing heals a flat 10% HP of the target
+
+-   **Hair Spray - Passive**
+    -   ?
+        -   Applies the spray that was selected in the Hair Products' popup menu.
 
 ## Trivia
 

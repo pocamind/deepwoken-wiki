@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 75284
+revid: 75705
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -406,7 +406,7 @@ An application of Pleeksty's concept of the inner flame, also known as the soul 
 
  | 
 
-Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by rolling.
+Sets the caster ablaze until they die, increasing strength and speed but dealing burn damage. Can be cancelled by casting again. 7s cooldown.
 
  |
 | 
@@ -1219,8 +1219,6 @@ Standing close to your graceful flame will slowly restore sanity for others in t
 +1 Elemental Intensity
 
  |
-
-  
 
 ## Trivia
 
