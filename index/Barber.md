@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 75524
+revid: 75796
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 75558
+revid: 75791
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -92,9 +92,12 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 </tbody>
 </table>
 
-  
-Note: Be wary of these if you aren't too skilled in combat- their quick, powerful attacks with their Krulian Knives paired with their Shadowcast will easily overwhelm the less-skilled player and directly counter their mantras.
+## Tips
+
+Be wary of these if you aren't too skilled in combat- their quick, powerful attacks with their Krulian Knives paired with their Shadowcast will easily overwhelm the less-skilled player and directly counter their mantras.
 
 Even though they are fodder, even a decently skilled player may face trouble with them.
 
-Beware the copypaste army.
+## Trivia
+
+-   Rather ironically, the stronger variants use [Way of Navae](Way_of_Navae.md), despite the Ministry engaging in an ethnic cleansing of Navaen Nomads, as can be observed during their battles around [Summer Isle](Summer_Isle.md).

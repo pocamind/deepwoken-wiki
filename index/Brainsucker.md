@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 75643
+revid: 75797
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,7 +29,7 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 | --- | --- |
 | Shredder | Scratches opponent's stomach open with its talons, killing them. |
 
-## Notes/Tips
+## Tips
 
 -   Their attacks, particularly Bite, have very strange hitboxes, making parrying them difficult. This, combined with its low damage, makes it more worthwhile to simply mash your basic attack until it dies.
 -   Using a mantra with a [Wayward Gem](Deep_Gems.md) on a Brainsucker can cause you to teleport to a random one around the map. This may also be caused by Ice Lance. (needs testing)
@@ -44,4 +44,4 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 ## Bugs
 
 -   Cancelling a Brainsuckers gripping animation may cause whoever is being gripped to desync.
--   Uppercuting a Brainsucker while above ocean will cause them to fall underwater.
+-   Uppercutting a Brainsucker or ragdolling them while above ocean will cause them to fall underwater.

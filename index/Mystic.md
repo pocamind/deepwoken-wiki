@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 75556
+revid: 75795
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -36,21 +36,21 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ## Attributes
 
-### [Strength](https://deepwoken.fandom.com/wiki/Attributes#Strength)
+### [Strength](Attributes.md#strength)
 
 -   _I stand far above others, an insurmountable challenge. **(Colossus) (Note; Cannot give Destructive Recovery)**_
 -   _I seek the qualities of Annihilator. **(Collapsed Lung)**_
 -   _I seek the qualities of Rampaging Brute. **(Unwavering Resolve; Shield Breaker; Million Ton Piercer)**_
 -   _My attack is unstoppable. **(Raging Bull) (Note; Cannot give Bulldozer)**_
 
-### [Fortitude](https://deepwoken.fandom.com/wiki/Attributes#Fortitude)
+### [Fortitude](Attributes.md)
 
 -   _I am an everlasting bastion. **(Bastion)**_
 -   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
 -   _In nature, I am at home. **(Survivor)**_
 -   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To the Finish, Potion Quaffer)**_
 
-### [Agility](https://deepwoken.fandom.com/wiki/Attributes#Agility)
+### [Agility](Attributes.md#agility)
 
 -   _I once performed in a Circus. **(Acrobat)**_
 -   _I skulk in alleyways, looking for my next prize. **(Alley Cat)**_
@@ -63,7 +63,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman) (Note; Cannot give Speed Demon)**_
 -   _I seek the qualities of Swiftshade. **(Swiftshade)**_
 
-### [Intelligence](https://deepwoken.fandom.com/wiki/Attributes#Intelligence)
+### [Intelligence](Attributes.md#intelligence)
 
 -   _I think before I fight. **(Tactician) (Note; Cannot give Punishing Blow)**_
 -   _I fight from afar. **(Adept Caster) (Note; Cannot give Everchanging Aegis, Perfect Flash)**_
@@ -75,7 +75,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I seek the qualities of Elementalist. **(Elementalist) (Note; Cannot give Elemental Rebound)**_
 -   _I seek the qualities of All-Knowing._ **(All-Knowing)**
 
-### [Willpower](https://deepwoken.fandom.com/wiki/Attributes#Willpower)
+### [Willpower](Attributes.md#willpower)
 
 -   _I am a slayer of beasts. **(Beast Slayer; Giantslayer)**_
 -   _I have never lost. **(Champion) (Note; Cannot give Champion's Regalia, Defiance)**_
@@ -87,7 +87,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
 -   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
 
-### [Charisma](https://deepwoken.fandom.com/wiki/Attributes#Charisma)
+### [Charisma](Attributes.md#charisma)
 
 -   _I use the song to charm others. **(Charm Caster)**_
 -   _I seek the qualities of Showboater._ _**(Showboater; Unnecessary Theatrics)**_

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 75560
+revid: 75794
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -30,7 +30,7 @@ Their arsenal only uses the Railblade, along with moves related to their oath.
 </tr>
 <tr>
   <td>Assault</td>
-  <td>Swings the Railblade, and finishes the combo by kicking the opponent.</td>
+  <td>Swings the katana, and finishes the combo by kicking the opponent.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
 </tr>

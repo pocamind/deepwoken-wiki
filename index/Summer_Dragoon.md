@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 75531
+revid: 75799
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -31,11 +31,11 @@ This Outfit also grants the [Talent Card](Talents.md) _Sunset Ricochet,_ which m
 This Outfit's Schematic can be found in:
 
 -   [Miner's Landing](<Miner's_Landing.md>), from chests in the houses (Really rare).
--   [Saramaed Summit](Saramaed_Summit.md), from [Mechalodaunt](https://deepwoken.fandom.com/wiki/Megalodaunt#Mechalodaunt) chests (Really rare).
+-   [Saramaed Summit](Saramaed_Summit.md), from [Mechalodaunt](Megalodaunt.md#mechalodaunt) chests (Really rare).
 -   Can also be found in the island behind Miner's Landing (Really rare).
 
-## Trivia/Notes
+## Trivia
 
 -   Richocheted bullets do not proc enchants. (Broken atm and it can proc)
--   At the time its best to server hop the free chests that **arent inside a building or near one**.
--   This armour could be named after the [Dragoon,](Dragoon.md) one of Summer Company's most expensive and powerful pistols. It's also why the [Summer Dragoon](<Summer_Dragoon_(NPC).md>) NPCS are named the same way, for they are the more elite guards of Summer Company and have a higher ranking.
+-   At the time its best to server hop the free chests that **arent inside a building or near one**
+-   Dragoons were mounted infantrymen that existed from the 16th-18th centuries, wielding a [similarly named firearm](Dragoon.md).
