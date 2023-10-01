@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 75505
+revid: 75784
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -23,7 +23,7 @@ categories: [Oaths]
 
 ## Obtainment
 
-1.  Have 40 Strength and grip any player that is near your power level. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
+1.  Have 50 Strength and grip any player that is near your power level. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
 2.  Talk to Samael, located in the [church](Derelict_Highchurch.md) above the Voidzone in Ancient Rotlands.
     1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.

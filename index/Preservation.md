@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 75723
+revid: 75783
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -21,11 +21,13 @@ notices:
 
 ## Description
 
-**Preservation**, is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll.
+**Preservation**, is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll. It can be used on knocked entities to preserve them in a yellow ball that follows the player around at a slow pace.
 
 ### _Appearance_
 
 When used, a golden circle appears around the user or projectile. Any knocked entities or players in this area are put into a protective bubble and are unable to be gripped.
+
+  
 
 ## Usage
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75772
+revid: 75780
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -48,7 +48,7 @@ _The Lord Regent, sitting atop his throne of coral._
     -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely immortal.
 -   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
 -   The Lord Regent's power is unique and the attunement it's associated with is unknown, assuming it's even associated with an attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) Oath.
-    -   Though it is not Shadowcast, it is similar in appearance to it and after an individual name Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
+    -   Though it is not Shadowcast, it is similar in appearance to it and after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
@@ -117,13 +117,13 @@ The Duke
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes says: "Vermin! You seek to let Celtor repeat?"
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
--   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens Duke seems to have good motives, believing that all he is doing is to save Lumen. Worth noting but in no way justifies his actions.
+-   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens, Duke seems to have good motives, believing that all he is doing is to save Lumen. Worth noting, but in no way justifies his actions.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
-    -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily. He also may have always been murdering Erisian citizens for their souls, but only stepped up production to protect the Forge.
+    -   However, this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily. He also may have always been murdering Erisian citizens for their souls, but only stepped up production to protect the Forge.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.
 -   Nobody knows his real name.
 
@@ -136,7 +136,7 @@ The Duke
 -   His main weapon type is medium, but he is also a master of the other two.
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
--   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions allow him to activate his tempest eye.
+-   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions allow him to activate Tempest Eye.
 -   User of Tempest Eye. The only ability that Tempest Eye is currently known to grant to its user is the ability to parry any attack, including attacks that are normally not able to be parried, such as a [Megalodaunt](Megalodaunt.md) kick.
 
 ### **Akira, The Black Diver**
@@ -308,7 +308,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer or the Ironsinger trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
--   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful technically, though this has to be confirmed.
+-   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful. This has yet had to be confirmed.
 
 ### Kaide, the Drowned Light
 
@@ -346,12 +346,12 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 
 -   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
--   They are not found within Layer One due to their true body is likely far deeper.
+-   They are not found within Layer One as their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
 -   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
 -   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in both the Eastern and Etrean Luminant, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.
--   Knows about the existence of the Ministry calling them "Godseekers" or "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind use to do", stating that they still accepted the sacrifice of the Ministry.
+-   Knows about the existence of the Ministry calling them "Godseekers" or "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
 
 File:Yun'Shul.png
 
@@ -367,20 +367,20 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer.
     -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.
     -   The Scion acts as a guardian of sorts.
-    -   Probably its formed by a very small piece of Ethiron himself, due to being able to use some of the drowned god powers.
+    -   Probably formed by a very small piece of Ethiron himself, due to being able to use some of the drowned god's powers.
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
--   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been in the mist long enough, making them puppets to its will, however this mist doesn't affect those who are very insane. explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
+-   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been in the mist long enough, making them puppets to its will, however, this mist doesn't affect those who are very insane. explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
 -   Their physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
--   The current status of Ethiron is currently asleep.
--   An entity known as "The Voice of Ethiron", tries to fool the player into awake the Scion of Ethiron so it can fully awake Ethiron. This suggests that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake his master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
+-   The current status of Ethiron is asleep.
+-   An entity known as "The Voice of Ethiron", tries to fool the player into awakening the Scion of Ethiron so it can fully awake Ethiron. This suggests that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake its master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
 
 ### **Korilfiend**
 
 -   The Drowned God of Fire and creator of the Forge of Sin
 -   The Temple of The Forgotten Flame was dedicated to him and housed the Forge.
--   There is a legendary ring that has some influence with Korilfiend being the **Deepfire ring**, however it's not known what relation has these rings with the Drowned God.
+-   There is a legendary ring that has some influence with Korilfiend, being the **Deepfire ring.** However it's not known what relation has these rings with the Drowned God.
 -   His physical body is found in the Third Layer.
     -   His existence created Korilfiend's garden, which is seen as his 'essence.'
     -   This garden contains meteor flowers, which are seen as a part of him.

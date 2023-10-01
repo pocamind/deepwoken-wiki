@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 75402
+revid: 75779
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -30,7 +30,7 @@ Located at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) of Minityrsa, i
 ## Benefits/Penalties
 
 -   **(BENEFIT)** Choose mantras available to your attributes and attunement. You'll often have only one choice.
--   **(PENALTY)** Lose one equipped mantra of your choosing and 5 knowledge points.
+-   **(PENALTY)** Lose one equipped mantra of your choosing and 10 knowledge points.
 
 ## Pros/Cons
 

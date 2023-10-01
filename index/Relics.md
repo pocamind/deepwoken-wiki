@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 75617
+revid: 75777
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -55,7 +55,7 @@ File:Screenshot 2023-05-24 at 10.28.26 AM.png
 
 -   This idol gives you a wish and lets you use it on the spot.
 
- | Drops in chest from [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) and [Depths](First_Layer.md) | 
+ | Drops in chest from [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [Fishing](Fishing.md) and [Depths](First_Layer.md) | 
 
 -   For all intent and purposes, this is a portable version of the [Shrine of Yun'shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 -   While it does give a wish, it will consume wish you already have, essentially wasting it. Don't forget to consume your wish with the actual Yun'shul and then use the Idol.
