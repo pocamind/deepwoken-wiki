@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 75224
+revid: 75845
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -204,10 +204,9 @@ Eclipse Kick
 -   Requires 20 Strength and 50 Shadowcast.
 -   Deals a massive amount of posture and health damage.
 -   Can also break certain tiles and fell trees.
--   Auto grips you if you are low. (Tested on Angel doesnt work, more testing on Players required)
 -   Shares cooldown with Strong Left (Attunement-less)
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
--   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the mantra again shortly after will cast the default eclipse kick(No longer has hyper-armor). if whiffed, you will have to wait for the full duration of the cooldown to cast again.
+-   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the mantra again shortly after will cast the default Eclipse Kick. Ff whiffed, you will have to wait for the full duration of the cooldown to cast again.
 
  |
 | 

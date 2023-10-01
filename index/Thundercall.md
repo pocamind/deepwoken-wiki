@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 75313
+revid: 75841
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -46,11 +46,12 @@ The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](
 Lightning Blade  
 (☆☆☆)
 
- | Arcing blades of electricity. | 50 Ether | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies that do not block or parry the attack.
+ | Arcing blades of electricity. | 50 Ether | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies.
 
 -   Can be upgraded with a Magnet Spark, which makes the mantra perform a third teleporting slash. (Short range)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   Can be upgraded with the Talent, Stormcaller Slash, which summons a third lightning slash if you press F while using the move. This one does not require you to hit anything with the first two slashes. It should also be noted that this allows for a lot of switch up potential if your opponent doesn't know that you have the ability, although can be parried with skill due to the visual cue of lightning striking the user.
+-   Can be upgraded with the Talent, Stormcaller Slash, which summons a third lightning slash if you press F while using the move.
+    -   This does not require you to hit anything with the first two slashes.
 
  | Damage:
 
@@ -189,6 +190,7 @@ Thunder Kick
 
  | An unrelenting kick like a clap of thunder. | 60 Ether | User heavily kicks forward.
 
+-   Instantly blockbreaks at Level 5.
 -   This can be upgraded with the Talent, Volt Kick, which allows user to follow up the kick with a second less potent kick that teleports them to the victim. Unlike lightning blade's talent, this one requires you to actually hit the kick, meaning the talent will not activate if they block, dodge, or parry it.
 
  | Damage:
@@ -276,10 +278,9 @@ Ether
 
  | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
 
--   Hyper Armor
--   Short windup and completely safeguards user when landed
+-   Short windup and completely safeguards user when landed.
 -   Can be blocked.
--   Applies heavy knock back
+-   Ragdolls.
 
  | Damage:
 
@@ -397,11 +398,8 @@ Lightning Cloak
 
  | A cloak of lightning |  | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
--   Your dashes become teleports, increasing your i-frames.
--   Vanishing cloak is a legendary mantra card (confirmed in the updates channel, it was always legendary.)
--   **Lightning Cloak now only requires you to have the Master Thundercaller Talent (50 Thundercall)**
--   Now requires you to hit an opponent within 8 seconds or the mantra is deactivated and goes on cooldown (inconsistent). Cannot last longer than 60 seconds.
--   When you critically hit an enemy, you become invisible and untargetable. Cooldown is 2 minutes and 30 seconds.
+-   A combative action, such as blocking parrying or attacking, must be used within 8 seconds or the mantra is deactivated and goes on cooldown.
+-   Cannot last longer than 60 seconds.
 
  | Duration: 3.5-60 secs
 
@@ -642,8 +640,7 @@ Getting knocked with an active tether allows you to steal health from tethered t
 
  | 
 
-+1 Ether  
-+3 Health
++1 Ether
 
  |
 | 
@@ -859,8 +856,7 @@ Grants you the ability to command Lightning as a Thundercaller.
 
  | 
 
-+3 Elemental Intensity  
-+1 Health
++3 Elemental Intensity
 
  |
 | 

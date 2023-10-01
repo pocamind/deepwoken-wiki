@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 73148
+revid: 75816
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -18,7 +18,7 @@ A Bounty Hunter wears the unobtainable "Bounty Hunter" outfit along with the "Me
 
 ## Moves
 
-A Bounty Hunter arsenal consists of a either a [Trident Spear](Trident_Spear.md) or a [Canorian Axe](Canorian_Axe.md).
+A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.md) or a [Canorian Axe](Canorian_Axe.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

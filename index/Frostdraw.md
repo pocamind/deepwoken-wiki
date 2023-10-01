@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 74971
+revid: 75830
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -766,7 +766,7 @@ Cast while sliding to perform a running attack with your ice sabers.
 
  | 
 
-+3 Health
+N/A
 
  |
 | 

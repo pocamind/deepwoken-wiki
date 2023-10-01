@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 75771
+revid: 75800
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -77,7 +77,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 ― Flavor Text
 
-**_Obtainment_:** Grip 15 Pathfinders in the Overworld. Afterwards, talk to Eylis- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
+**_Obtainment_:** Grip 15 Pathfinders in the Overworld. Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
 
 Also, all of the kills need to be made on one single character.
 
@@ -92,7 +92,7 @@ Also, all of the kills need to be made on one single character.
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
         -   You can always teleport through the Voidmother no matter what, even in combat. Use it if you are getting attacked in a fight you can't win, as it is VERY unlikely that you teleport to the same place as your attacker.
     -   **\[PRO\]** Increased EXP Gain from bounties...
-    -   **\[CON\]** ...but reduced EXP Gain from events (estimated to be x0.95\*). \*This is most likely outdated due to the voidwalker balancing on 15/09/23.
+    -   **\[CON\]** ...but reduced EXP Gain from events (estimated to be x0.95).
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
@@ -107,10 +107,11 @@ Also, all of the kills need to be made on one single character.
     -   This ability has a 10-minute cooldown. _The cooldown automatically ends when a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO\]** You spawn with Whaler Initiate Armor.
--   **\[PRO/CON\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which connects you to players who have a poor reputation with most factions that can post bounties, including you and other Voidwalkers, meaning you can hunt or be hunted by your fellow merc.
+-   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which connects you to players who have yet to establish a rapport with the Knives.
     -   Your starting reputations are:
         -   Friend of The Knives of Eylis and Lost Celtor
-        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, and The Hundred Legions.
+        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, and The Hundred Legions.
+-   **\[CON\]** You can be hunted by fellow voidwalkers if you have negative rep with those with a bounty board
 
 ## Upcoming Origins
 
@@ -136,7 +137,6 @@ The following is speculation:
 -   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Mintrysa, you might as well go Stealth unless you can actually see the outline of your target.
 -   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
--   Fugitive Castaway users spawning in inns is a confirmed bug by Arch\_mage.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 75520
+revid: 75838
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -54,10 +54,12 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>35 Ether</td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
+    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
+  <ul>
     <li>A powerful left jab that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
     <li>Strong Left scales with your Strength attribute.</li>
     <li>Can fell trees With <a href="Talents.md">Treefelling Blow</a> talent, they can gain wood from fallen trees.</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
@@ -67,13 +69,15 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>30 Ether</td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i></li>
+    <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
+  <ul>
     <li>A flurry of punches that inflicts light damage on your opponent.</li>
     <li>The move is cancelled upon getting parried in the initial hit.</li>
     <li>The user may cancel the barrage at any point during it.</li>
-    <li>The user may "Step" by pressing W2x during the move to restore movement speed.</li>
+    <li>Rapid Punches scales with your Strength attribute.</li>
     <li>Victims struck by the last punch are pushed away.</li>
     <li>NPCs using Rapid Punches does not give the auto parry frames from the mantra being used by a player.</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
@@ -83,12 +87,14 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>70 ether</td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u></b> <i><b>50 Strength,</b></i> <i>Mobility Mantra</i></li>
+    <li><b><u>Requirements:</u></b> <i><b>50 Strength,</b></i> <i>Mobility Mantra</i>
+  <ul>
     <li>A vertical jump that sends the user into the air.</li>
     <li>Altitude travelled decreases significantly as the user loses health.</li>
     <li>Drops carried players/NPCs when used.</li>
-    <li>At Level 1, the user will take no fall damage upon landing, but at Level 5, they will.</li>
+    <li>The user will take no fall damage upon using it.</li>
     <li>You can modify Strong Leap with a Magnet Spark, which drags the player towards the nearest ally upon activating.</li>
+  </ul></li>
   </ul></td>
 </tr>
 <tr>
@@ -98,11 +104,13 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td></td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u> 20 Strength, Jus Karita, Murmur: Tacet,</b> <i>Combat Mantra</i></li>
+    <li><b><u>Requirements:</u> 20 Strength, Jus Karita, Murmur: Tacet,</b> <i>Combat Mantra</i>
+  <ul>
     <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
     <li>Inflicts knockdown.</li>
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>
     <li>Pairs well with Glare.</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>
@@ -135,11 +143,14 @@ File:No Attunement Revamp.png
  | _Buff those around you with extra defense and damage._ | 100 Ether | 
 
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
--   Decreases damage received by 5% for allies and yourself for the duration of the effect.
-    -   Despite not being mentioned in the description, the effect also increases damage dealt by those affected by 3%.
--   _Can be upgraded_ with the _Fortitude Talent Cards 'Blood Shadow' and 'Grand Support'._
--   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people non-allies, including mobs.
--   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).
+    -   Decreases damage received by 5% for allies and yourself for the duration of the effect.
+        -   Despite not being mentioned in the description, the effect also increases damage dealt by those affected by 3%.
+    -   Maximum duration is 60 seconds.
+    -   Cooldown duration scales off the duration of the Mantra.
+    -   _Can be upgraded_ with the _Fortitude Talent Cards 'Blood Shadow' and 'Grand Support'._
+    -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people non-allies, including mobs, turning it green.
+        -   This increases the size of the buff to 10% damage resistance and 5% damage output.
+    -   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).
 
  |
 | 
@@ -153,9 +164,9 @@ File:No Attunement Revamp.png
  | _Brace yourself against attacks and gain hyperarmour._ | 60 Ether | 
 
 -   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
--   User gains hyperarmor, negating hitstun for the duration of the effect.
--   Last 5 Seconds by default.
--   _Upgrades increase duration by 1 second per level (Tested)_
+    -   User gains hyperarmor, negating hitstun for the duration of the effect.
+    -   Last 5 Seconds by default.
+    -   _Upgrades increase duration by 1 second per level (Tested)_
 
  |
 | 
@@ -167,11 +178,12 @@ File:No Attunement Revamp.png
  | _Rush at your enemies with your full physical force._ | 60 Ether | 
 
 -   **Requirements:** _**35 Fortitude**_, _Mobility Mantra_
--   User quickly charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
--   Deals light damage.
--   The charge is cancelled upon getting parried or dodged.
--   Can collide with and break parts of the map.
--   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.
+    -   User quickly charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
+    -   Deals light damage.
+    -   Shoulder Bash scales with your Strength attribute.
+    -   The charge is cancelled upon getting parried or dodged.
+    -   Can collide with and break parts of the map.
+    -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.
 
  |
 
@@ -270,7 +282,7 @@ File:No Attunement Revamp.png
     -   Creates a white flooring pattern around the user.
     -   **Deflects** an attack back to the attacker.
     -   Can be upgraded with Intelligence Talent Cards 'All Knowing,' 'Successive Prediction' and 'Twelve Steps Ahead.'
-    -   Upgrading this Mantra extends the duration
+    -   Upgrading this Mantra extends the duration.
 
  |
 
@@ -291,7 +303,9 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
     -   User constantly summons invisible projectiles, inflicting a considerable amount of 'insanity' on an opponent upon collision. The "insanity" inflicted by this move does not count towards the target's actual insanity, so does not contribute to any Insanity based talents a target has.
+        -   Despite this, it can still cause users of [Curse of the No Life King](Enchantments.md) to be instantly killed.
     -   Creates rotating white rings around the user's eyes.
+    -   Upgrading this Mantra extends the duration.
     -   Can be countered by holding block or wearing a [Blindfold](Blindfold.md).
 
  |
@@ -323,7 +337,7 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
     -   The user empties their posture damage, and transfers it to their opponent.
-    -   If this fills the opponent posture bar, guard break them instantly (even if they werent blocking)
+    -   Exhaustion Strikes scales with your Willpower attribute.
     -   Incredibly quick windup
 
  |
@@ -401,8 +415,8 @@ File:No Attunement Revamp.png
 
 -   **Requirements:** _**30 Light Weapon,**_ _Combat Mantra_
     -   Teleports the user to the enemy which the cursor is pointed at.
-    -   Deals moderate damage.
-    -   Damage scales off LHT Weapons Attribute.
+    -   Ignores resistances, and thus deals true damage.
+        -   Rapid Slashes scales with your Light Weapon attribute.
 
  |
 | 

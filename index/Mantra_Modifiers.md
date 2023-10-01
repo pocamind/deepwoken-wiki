@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 75614
+revid: 75827
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -424,7 +424,6 @@ Magnet Spark
 
  | 
 
--   Flame Blind
 -   Jolt Grab
 -   Lightning Blade
 -   Lightning Stream
@@ -792,19 +791,6 @@ Needle Barrage
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Flame Blind
-
- | 
-
- | 
-
- | 
-
--   This modifier causes the projectile in the "Flame Blind" mantra to follow and flash towards the direction of the opponent.
-
- |
-| 
-
 Jolt Grab
 
  | 

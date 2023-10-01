@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75739
+revid: 75849
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -541,7 +541,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cryoni
 
-> _**"My ice protects like a flower growing thorns."**_
+> _**"Those that steop on my ice know that they have made a grave error."**_
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity)
     -   Prerequisite: Fragile Freeze, 20 Fortitude.
@@ -876,6 +876,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Ice Blades, 20 Frostdraw, 20 Agility.
 
 ### Frostdrawer
+
+**"I speak to the frost."**
 
 -   Adept Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
     -   Prerequisites: 20 Frostdraw
@@ -1588,7 +1590,7 @@ _**"I often attack others."**_
     -   Prerequisite: 40 Charisma
 
 -   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
-    -   Prerequisites For All: Charisma
+    -   Prerequisite: 60 Charisma
 
 ### Puppet Master
 

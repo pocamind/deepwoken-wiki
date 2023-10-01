@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 75783
+revid: 75823
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -21,17 +21,15 @@ notices:
 
 ## Description
 
-**Preservation**, is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll. It can be used on knocked entities to preserve them in a yellow ball that follows the player around at a slow pace.
+**Preservation**, is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll. It can be used on knocked entities to preserve them in a yellow ball that follows the player around at a slow pace. When the bubble breaks, any knocked entities inside will be able to stand again. The bubble can break when it is attacked (normal variant), when the duration runs out, when the caster presses c again, or when the caster begins gripping an opponent.
 
 ### _Appearance_
 
 When used, a golden circle appears around the user or projectile. Any knocked entities or players in this area are put into a protective bubble and are unable to be gripped.
 
-  
-
 ## Usage
 
-Pressing C will activate the '_Preservation_ Resonance.
+Pressing C once will activate the '_Preservation_ Resonance. If you press C while the resonance is active the duration will immediately end.
 
 If Preservation is corrupted, the bubble will parry any attacks against it.
 
@@ -44,8 +42,9 @@ When obtained, Preservation will spend its points on the following stats:
 -   **Effect Duration** If this stat is used, shielded entities will be protected for a longer duration.
 -   **Range** If this stat is used, the ability will yield a larger AoE.
 
-## Trivia/Notes
+## Trivia
 
 -   This resonance was added alongside [Smite](Smite.md) & [Smokescreen](Smokescreen.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.
--   Targets who are lit aflame and then picked up with Preservation will still burn to death even if the target is successfully put in the protective bubble. (possible bug)
 -   Entities affected by this resonance will sometimes become stuck on a corner as the user moves, allowing enemies to simply pop the defensive bubble and attack. As such, anybody looking to use this resonance is advised to corrupt their ability.
+-   It uses the same windup sound and animation as [Blood Scourge](Blood_Scourge.md). Ironically forms a duality as while [Blood Scourge](Blood_Scourge.md) drains the life of knocked entities and grips them, Preservation does the opposite by shielding knocked entities in a forcefield, keeping them safe from threats as they recover.
+    -   Both also have similar animations, as well as their variants both being an AoE around the user, or a thrown ball that generates the AoE when it lands.

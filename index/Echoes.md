@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 74882
+revid: 75853
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -31,6 +31,8 @@ Ranks by themself do nothing, beside rank W, S and A that give a badge and, in t
 S Rank is achievable by doing all echoes tasks (listed below).
 
 A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns.
+
+W Rank being obtained
 
 **What rank your character will receive depends on amount of echoes you collect, without taking modifiers multiplicator into consideration.**
 

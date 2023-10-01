@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 72895
+revid: 75825
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -559,8 +559,7 @@ Glide straight with the power of Gales.
 
  | 
 
-+4 Elemental Intensity  
-+1 Health
++4 Elemental Intensity
 
  |
 

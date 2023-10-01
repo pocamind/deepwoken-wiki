@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 75597
+revid: 75857
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -27,7 +27,7 @@ categories: [Oaths]
 2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:
 
 -   Blinding Dawn upon Oath obtainment
--   Radiant Kick
+-   Blinding Kick
 -   Protagonist Syndrome and Radiant Dawn
 -   Absolute Radiance
 

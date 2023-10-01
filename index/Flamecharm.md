@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 75773
+revid: 75833
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -158,7 +158,6 @@ _Snap your fingers, shooting a projectile that blinds those who dare gaze at it.
  | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
 -   Blinds nearby targets for 1.5 seconds.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md).
 -   Rare Flamecharm mantra.[\[1\]](https://deepwoken.fandom.com/wiki/Luck)
 -   Buffed by the [Concussive Flash](Talents.md) talent, causing all blinded enemies to be dazed.
 -   Not very effective on experienced users because the duration isn't long enough to make a big difference for space to attack. It may even just serve as a mild inconvenience for them.
@@ -321,23 +320,18 @@ Flame Wisp
 
 (★★☆)
 
-  
-
-  
-
  | 
 
 _A servant of flames._
 
  | Caster summons a wisp of magma.
 
--   Heals the caster 5% HP over 5 seconds every 10 seconds.
+-   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
+    -   Heal amount may vary from player to player.
 -   Ignites nearby campfire pits if not busy healing you.
 -   Ritual casting.
     -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
 -   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses.
--   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
-    -   Heal amount may vary from player to player.
 -   Flame Wisp also seems to reduce parasite growth.
 
  |
@@ -346,6 +340,8 @@ _A servant of flames._
 Graceful Flame
 
 (★☆☆)
+
+  
 
  | 
 
@@ -357,8 +353,7 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 -   Lasts one minute without Duration Modifiers.
 -   Compatible with Duration, Intensity and Mantra Size modifiers.
 -   Ritual casting.
--   Will be put out if it's raining, unless used with the Unyielding Inferno talent.
--   Does not work in The Depths unless used with the Undying Flames talent.
+-   Does not work in The Depths unless used with the Undying Flame Talent.
 
  |
 |  | 
@@ -366,6 +361,8 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 Flame of Denial
 
 (☆☆☆)
+
+  
 
  | 
 

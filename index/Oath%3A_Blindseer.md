@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 75632
+revid: 75844
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -59,6 +59,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Adds 10% Monster Armor to players standing in its radius.
     -   About the size of a medium Sacred field roll.
     -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md). This makes the circle much smaller but makes it follow the user.
+    -   Can be modified with Glass Stones to increase range.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **Sightless Beam - Combat Mantra**
@@ -70,7 +71,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
         -   Hard to parry, entirely blockable. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is adviced to get a friend to distract them.
-    -   You can walk while using this, but you cannot run.
+    -   You can run during the windup, but can only walk while the beam is active.
     -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **All-Seeing Eye - Passive**
