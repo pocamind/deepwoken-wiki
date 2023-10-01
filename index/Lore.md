@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75709
+revid: 75772
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -32,30 +32,30 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
-"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after defeating [The Duke](Duke_Ishamon_Erisia.md) and returning back to him before he promptly kills you.
+"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [The Duke](Duke_Ishamon_Erisia.md) and returning back to him before he promptly kills you.
 
 _The Lord Regent, sitting atop his throne of coral._
 
 -   The [Lord Regent](The_Lord_Regent.md), true name "Zi'eer", is a mysterious individual and **[contractor](Oaths.md)** who rose to power and has absolute control over all of Etrea, staying exclusively within his palace in the capital city and secretly being the [Fourth Prophet of the Ministry](The_Ministry.md).
 -   Nobody in Etris is sure of where he originates, but they accept him for his formidable power, and his actions **appearing** to be in the best interests of Etris.
--   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; this ranking system is based on strength.
+-   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; a ranking system based on strength.
 -   When talking to the Bookworm about Etris' previous rulers we learn all of their histories were recorded in books stored within the city's official history office, though said office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' past history.
--   Many locals believe that the Lord Regent is stricken with some kind of illness because he never leaves his palace, yet he remains the ruler of Etrea.
+-   Many locals believe that the Lord Regent is stricken with some kind of illness because he never leaves his palace even while remaing the ruler of Etrea.
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
     -   The Lord Regent is not a Krulian.
     -   In [book](<https://deepwoken.fandom.com/wiki/Books#Operation_'Puppet_Master'_Report>) "_Operation 'Puppet\_Master' Report_", we learn that after shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form '_a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness.'_ and breaking this veil also caused the guard's eyes to explode.
-    -   Lord Regent has his power increased by an incredible amount by sitting on his throne. Going from barely beating Akira to being able to beat Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
+    -   Lord Regent has his power increased by an incredible amount by sitting on his throne. He is able to go from barely defeating Akira to easily defeat him Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.
     -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely immortal.
 -   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
--   The Lord Regent's power is unique and the attunement it's associated with is unknown, assuming it's even associated with an attunement. Some of this power can be gained from the "[Contractor](Oaths.md)" Oath.
+-   The Lord Regent's power is unique and the attunement it's associated with is unknown, assuming it's even associated with an attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) Oath.
     -   Though it is not Shadowcast, it is similar in appearance to it and after an individual name Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
--   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact- an artifact by the name of "The Forge of Sin".
+-   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This may be of the Canor's history with the Authority, whom they are currently at war with; however, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears to have rather little education.
     -   Also, three Adrets, who form the main bulk of The Ministry and Etrea's greatest enemy are present in Etris, two of whom are Divers, which is an ally of the Authority. Despite this, they are all allowed in Etris, which we can infer means Schnitzel is kept out for other reasons than his race.
 -   His goal is seemingly to manipulate Etris' prospects in order to seize the island to the tides, as once happened to Celtor in the south thanks to their mysterious new leader.
-    -   As it is unknown how long ago this event was, they may be the same person. \[Speculation\]
+    -   As it is unknown how long ago this event was it may have been caused by the same person. \[Speculation\]
 -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious [Shadowcaster](Shadowcast.md), who may well be linked to the [Ministry](The_Ministry.md), orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent, Zi'eer, to ascend into power.
 
 ### **Drallis Ehr**
@@ -87,7 +87,7 @@ _The Lord Regent, sitting atop his throne of coral._
 
 -   The previous Ruler of the Kingdom of Etrea, before his rule was taken by the Lord Regent under his banner.
 -   Not much is known about The King of Etrea, but Theadre, the Old Etrean in front of the Statue in the Palace speaks of him.
-    -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea do?
+    -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea take?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
     -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
@@ -117,11 +117,11 @@ The Duke
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes says: "Vermin! You seek to let Celtor repeat?"
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
--   Despite being kind of insane, committing a genocide and carrying out numerous unethical experiments on his citizens, he seems to have good motives, believing that all he is doing is to save Lumen. Worth noting but in no way justifies his actions.
+-   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens Duke seems to have good motives, believing that all he is doing is to save Lumen. Worth noting but in no way justifies his actions.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple of the Forgotten Flame (Either himself or his Golems) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
--   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the Soul Jar resonance, leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
+-   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   However this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily. He also may have always been murdering Erisian citizens for their souls, but only stepped up production to protect the Forge.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.
@@ -132,11 +132,11 @@ The Duke
 -   "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them.
 -   He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac.
 -   It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon.
--   He is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
+-   He is respectful towards those who save his Vigils, and even feels as if he is in their debt while also valuing strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 -   His main weapon type is medium, but he is also a master of the other two.
 -   Kelsius (the keeper of the Vigil library) is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
 -   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
--   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions be met, being to activate his tempest eye.
+-   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions allow him to activate his tempest eye.
 -   User of Tempest Eye. The only ability that Tempest Eye is currently known to grant to its user is the ability to parry any attack, including attacks that are normally not able to be parried, such as a [Megalodaunt](Megalodaunt.md) kick.
 
 ### **Akira, The Black Diver**
@@ -147,13 +147,13 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
-    -   Strong enough opponents, like Klaris, will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 100 charisma he runs away, thinking that you're too strong and that he can't use his bell to kill you.
+    -   Strong enough opponents like Klaris will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 75 charisma he runs away, thinking that you're too strong and that he can't use his bell to kill you.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Akira stated that "Most of my field work doesn't concern this layer", possibly meaning that despite residing in the first layer for now, he travelled and worked in the Second Layer and maybe even deeper.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
 -   Despite being rude most of the time and showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
--   The katana he wields isn't strapped to his back, it's floating. (Yes, this is canon.)
+-   The katana he wields isn't strapped to his back; it's floating. (Yes, this is canon.)
 
 ### **Amorus Pleeksty**
 
@@ -165,9 +165,9 @@ _"The Eternal Flame, and the failure of man..." -One of Amorus Pleeksty books._
 -   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwokens.
 -   Confirmed to be a Tiran.
 -   Is or was a very prestigious black diver, having the respect of most of the divers, however his actual relation to the divers is unknown.
--   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just stays most of his time in the third layer, being almost not seen.
+-   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
--   Apparently, he also writes books, being one and the only known to be "Flame and the failure of man."
+-   Apparently, he also writes books, with the only known one being "Flame and the failure of man."
 -   Has maintained his sanity despite living in the Third Layer for so long.
     -   A 'chill guy.'
 -   Apparently he has disciples and apprentices, what he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the third layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.
@@ -177,7 +177,7 @@ _"The Eternal Flame, and the failure of man..." -One of Amorus Pleeksty books._
 
 _"Oh, a human? Far from home are we?" -Chaser._
 
--   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet..
+-   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet.
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly diver apprentices so they couldn't cause any trouble for him.
@@ -189,7 +189,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Currently trapped in Floor One of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity.
 -   One of his victims was an Ignition Union Deepdelver named Beta.
 -   Before joining the divers, he was an apprentice of the Second Prophet of the Ministry, explaining why he graduated in the Markor Citadel with ease.
--   Despite not using them in the fight against him, he uses a pair of Kamas designed and created by him during his apprenticehood under the Second Prophet.
+-   Despite not using them in the fight against him, he uses a pair of Kamas designed and created by him during his time as an apprentice under the Second Prophet.
 
 ### **Colonel Hoffa**
 
@@ -202,8 +202,8 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Deceased disciple of Amorus Pleeksty.
 -   Most probably a user of Flamecharm who was able to mix Flamecharm with this weapon.
 -   Original user of the First Light.
--   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed it lead to his death.
--   Probably not very strong despite being a disciple of Amorus Pleeksty, due to meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.
+-   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed that it lead to his death.
+-   Probably not very strong despite being a disciple of Amorus Pleeksty, due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.
     -   However, it's entirely possible that it either caught him off guard or was more powerful than the average Crimson Megalodaunt due to being in closer proximity to Korilfiend.
 
 ### **Dr. Carrion, Father of Evolution**
@@ -218,7 +218,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
 -   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
--   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escaping it without problems.
+-   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems.
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
@@ -230,7 +230,7 @@ _"My Burden is Light." -Unknown Lightkeeper._
 -   Her hobby is apparently to write poetry, as stated by Klaris.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etris.
 -   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisoned due to her "gift".
--   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Lighthouse and have an advantage against the war with the Authority, possible being the reason why even we can cross the light house, its apparently not working, meaning that its only used when the Etreans want to operate it. Although this is just speculation with the little information we have from Nimea and Klaris.
+-   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Lighthouse and have an advantage against the war with the Authority, possible being the reason why even though we can cross the lighthouse its apparently not working, meaning that its only used when the Etreans want to operate it. However, this is just speculation with the little information we have from Nimea and Klaris.
 
 ### **Klaris Llfiend, Mother of Lights**
 
@@ -256,7 +256,7 @@ _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 -   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
 -   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
-        1.  The Meatlord is the most powerful character in all of Deepwoken Lore.
+        1.  The Meat lord is the most powerful character in all of Deepwoken Lore.
         2.  He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
 
 The one and only... MEAT LORD!
@@ -266,19 +266,19 @@ The one and only... MEAT LORD!
 _"I don't know if I will be able to continue my services with in the Authority without breaking my own vows" - Warden Jericho._
 
 -   High ranking member of the Authority.
--   In charge of overseeing the current war of the Authority and Etrea, and in charge of all the Authority operations in the Eastern/Etrean Luminant.
+-   In charge of overseeing the current war of the between Authority & Etrea and all the Authority operations in the Eastern/Etrean Luminant.
 -   User of the Warmaster Oath. (Confirmed by Ragoozer)
-    -   While he is the user of the Warmaster Oath, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time. Meaning that atleast something of importance happens, he may leave the Authority or leave the Oath, but we have little information about this.
--   One of the few people that is not aligned with the Ministry that knows the true intentions and identity of the Lord Regent.
+    -   While he is the user of the Warmaster Oath, he mentions that it will not be possible for him to remain loyal to the Oath and the Authority at the same time. Meaning that if something of importance happens, he may leave the Authority or leave the Oath, but we have little information about this.
+-   One of the few people that knows the true intentions and identity of the Lord Regent while not being aligned with the Ministry.
 -   Very probably is under the direct command of Drallis Ehr.
 -   Presumably an Adret or Canor.
 -   He once had a base in the Tomb of the Nameless Warrior. His current location is unknown, as he is not present in Fort Merit or anywhere else in the Eastern Luminant, yet is directing the war as he gave Sibex orders recently.
--   "Can solo every Centurion of the 11th legion" according to Arch mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, wich uncaps your fortitude.
+-   "Can solo every Centurion of the 11th legion" according to Arch mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
 -   Currently is hunting and trying to destroy the Ministry and Contractors.
 -   Writer of Journals, one of his journals can be found in the tomb of the nameless warrior in Erisia, also possibly leading that Jericho was in Erisia not so long ago
--   Possibly he is an attument-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
+-   Possibly he is an attunement-less, but it has a **VERY VERY VERY** strong physical force due to reading his journal uncapping your strength.
 -   Genuinely believes in The Central Authority as a force of peace.
--   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the lighthouse being controled by Etris, being also able to capture Fort Merit with his forces.
+-   Possibly of low intelligence as the dialogue prompted to you after reading his book has bad grammar and he is oblivious to the more evil actions of the authority, though this is just speculation. Despite this he has been able to organize his forces with no reinforcements due to the lighthouse being controlled by Etris, being also able to capture Fort Merit with his forces.
 -   Possible member of the Circle of Honor.
 
 ### **Gunsmith Rosen**
@@ -291,7 +291,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
--   It is theorized that Gunsmith Rosen was the founding father, or the creation of Summer Company; a Faction that consists of Gunsmiths and anything related to guns.
+-   It is theorized that Gunsmith Rosen was either the founding father or the creator of Summer Company which is a faction that consists of Gunsmiths and anything related to guns.
     -   As of the Year 1271, Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company.
 -   He is a Vesperian, according to [Arch\_Mage](Wiki_Staff.md).
 -   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the Authority.
@@ -304,32 +304,32 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Its appearance is similar to the shrine of Yun'Shul, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the song.
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
--   Despite cutting all relations with the song, a silentheart is still able to obtain a murmur and resonance who are applications of the song. In some way kind of breaking the Oath, but this is just a small contradiction in the game.
+-   Despite cutting all relations with the song, a silentheart is still able to obtain both a murmur and resonance; applications of the song which in a small way of breaks the Oath, but this is just a small contradiction in the game.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
 -   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer or the Ironsinger trainer)
--   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
--   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making him more powerful technically, though this has to be confirmed.
+    -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
+-   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user, this can possibly lead that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful technically, though this has to be confirmed.
 
 ### Kaide, the Drowned Light
 
 -   A Lightborn trapped in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md), in the Second Layer of the Depths.
--   Previous king of the Celestial City known as Constellia, the one that can be seen from the telescope in [Greathive Aratel](Greathive_Aratel.md).
+-   Previous king of the Celestial City known as Constellia which can be seen from the telescope in [Greathive Aratel](Greathive_Aratel.md).
 -   Apparently he fought against the Kyrsgarde alongside the Celestials and other Lightborn, but stopped fighting when the Celestials fled, resulting in his capture and imprisonment in New Kyrsa.
--   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite the body being blessed, their minds are the same as the ones of Man, making Lightborn as clueless and arrogant as them.
+-   When the player asks Kaide about his race, the Lightborn, he tells us that their bodies were created by Celestials from human templates, to be able to bring Celestial and Man together, with the Lightborn's body being blessed with immortality with the "Hybrid Vigor". However, despite their bodies being blessed, their minds are the same as the ones of Man, making Lightborn's as clueless and arrogant as them.
 -   Apparently he despises the Celestials, stating: _"We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering."_
--   Kaide has great knowledge of the Song, knowing how the Song manifest through humans and through New Kyrsa.
+-   Kaide has great knowledge of the Song as he knows how the Song manifests through humans and throughout New Kyrsa.
 
 ### **Mother Ku**
 
 -   A religious figure worshipped by some Capra.
 -   Perhaps granted the ability to the Capra who worshipped her to aid people in their wounds. (Capra race ability for Ku variant)
--   A church where Ku is worshipped is located in the Songseeker Wilds: the Derelict Highchurch. Eventually the Songseekers and Starkindred took over the church, kicking out Ezra, the one in charge of the church, and forcing him to leave to a small tower nearby.
+-   The Derelict Highchurch was a church where Ku was worshipped, but eventually both the Songseekers and Starkindred took over the church kicking out Ezra, the pastor in charge of the church, and forcing him to flee to a small tower nearby.
 -   It is unknown if they are related to Jurik and Nemit, the other beings that are worshipped by the Capra.
 
 ### **Alsin**
 
 -   Religious figure and Celestial.
--   Worshiped by Polis, Alastir and Pathfinders around the world.
+-   Worshiped by Polis, Alastir, and Pathfinders around the world.
 
 ### **Navae**
 
@@ -346,12 +346,12 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 
 -   Yun'shul is a Drowned God, known for rerolling one's Resonance, and the ability to send the drowned to the surface.
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
--   They are not found within Layer One, their true body is likely far deeper.
+-   They are not found within Layer One due to their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
 -   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
--   It is known that where his main shrine is there are multiple shrines with similar appereance and different functions. Having even more shrines that do the same function in the Eastern and Etrean Luminant, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who They call "Puppets" for specific deals.
+-   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in both the Eastern and Etrean Luminant, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.
--   Knows about the existance of the Ministry calling them "Godseekers" or "Prophets in Black" and even accepting the sacrfice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind use to do", stating that they still accepted the sacrifice of the Ministry.
+-   Knows about the existence of the Ministry calling them "Godseekers" or "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind use to do", stating that they still accepted the sacrifice of the Ministry.
 
 File:Yun'Shul.png
 
@@ -362,7 +362,7 @@ Yun'shul's Shrine
 _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 -   Ethiron resides in the Eternal gale, responsible for the killing winds there.
--   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure. In smaller words, he is reffered as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
+-   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure. In smaller words, he is referred as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the first floor being a shrine to them.
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) prevents people from leaving the layer.
     -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.
@@ -371,10 +371,10 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Coming closer to the body of Ethiron causes a time dilation.
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
--   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been long enough within the mist, making them puppets to its will, however this mist doesnt affect those who are very insane, explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
--   His physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
--   The current status of Ethiron: Asleep.(he is eepy)
--   An entity known as "The Voice of Ethiron", tries to fool the player into awake the Scion of Ethiron so it can fully awake Ethiron. Suggesting that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake his master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
+-   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been in the mist long enough, making them puppets to its will, however this mist doesn't affect those who are very insane. explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
+-   Their physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
+-   The current status of Ethiron is currently asleep.
+-   An entity known as "The Voice of Ethiron", tries to fool the player into awake the Scion of Ethiron so it can fully awake Ethiron. This suggests that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake his master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
 
 ### **Korilfiend**
 
@@ -393,32 +393,32 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 **Lore Sources:** _Lightborn King, Yun'Shul, Klaris, Arch\_Mage (Discord), Ragoozer (Discord)_
 
 -   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
--   They are not fighters, so much as natural disasters waiting to happen.
+-   They are not fighters, but more so natural disasters waiting to happen.
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
--   Were the drowned gods to fully even gain consciousness, existence would end.
+-   If the drowned gods were to fully gain consciousness, existence as we know it would end.
 -   Becoming one is the ultimate goal of the Ministry.
--   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the Lightborn King in Layer 2 stated that they were in a war against the Depths and Drowned gods that sadly, the Celestials and lightborn lost when the Celestials fled.
--   It is most likely that they have a great relation with Krulians, similar to how Celestials are to Lightborns.
+-   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the Lightborn King in Layer 2 stated that they were in a war against the Depths and Drowned gods that the Celestials and Lightborn's lost when the Celestials fled.
+-   It is most likely that they have a great relation with Krulian's, similar to how Celestials are to Lightborns.
 -   There is not a Drowned God for each attunement.
 -   Two theories to what they are have been remarked as 'close:'
-    -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. Acting as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
+    -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. They act as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
     -   Drowned gods are old world people that were corrupted by the depths so much that they _descended_ to godhood.
 -   The name of the game "Deepwoken" is known in the lore as the act of consuming a piece of a drowned god to gain incredible powers, so Deepwoken doesn't mean the awakening of a drowned god, but more like the awakening of a great power of the Depths. Before the game had the name of Deepwoken it was called "Drowned Gods" referencing the Drowned Gods.
--   The Drowned Gods are able to create Avatars from small pieces of themselves, creating puppets to their will. One example of this its the Scion of Ethiron in Layer 2.
+-   The Drowned Gods are able to create Avatars from small pieces of themselves, creating puppets to their will. One example of this is the Scion of Ethiron in Layer 2.
 
 ### **The Nestmind**
 
 **Lore Sources:** _Visionshaper Obtainment Method_
 
 -   The Nestmind is a visual representation of the hivemind that every [Deep Owl](Deep_Owl.md) is a part of.
--   The Nestmind, and Deep Owls as an extension, consume human thought as food. It is speculated that Miserables is also a more powerfull extension of the Nestmind, similar to Deep Owls.
+-   The Nestmind, and Deep Owls as an extension, consume human thought as food. It is speculated that Miserables is also a more powerful extension of the Nestmind, similar to Deep Owls.
 -   They see reality in a different way compared to the player.
 -   Talking to [The Nestmind](The_Nestmind.md) and agreeing to its "toll" of your mind allows you to get the Visionshaper Oath.
 -   (Dialogue) The Nestmind talks of The First Layer, commenting how you and other people consider it as a Layer, ordering it by sequence or sequential.
     -   The Nestmind states that the people of the New World misunderstand the concept of The Depths, that the truth is it is an interstice between human consciousness and reality as a whole.
     -   The Nestmind is NOT a Drowned God, but rather a powerful entity or being, similar to the [Deep Voices](Voices_of_the_Depths.md).
-    -   This also implies that humans cannot comprehend what the entirety of deepwoken's world really is and would die of insanity due to the anomalous effects of deepwoken's universe, meaning that most of our knowledge might be completely wrong and is a made up story for us to comprehend the horrors that are actually in front of us as we descend into the unknown. This adds a layer of mystery to the depths and implies that how we see it may be almost completely wrong.
-    -   This means that humans are possibly one of the weakest forms of life in deepwoken, being seen as "filth" and weak by the deep voices and the nestmind, with our potential of strength needing to be unlocked through the song. This implies that physical strength may mean absolutely nothing in deepwoken's universe though this is all speculation.
+    -   This also implies that humans cannot comprehend what the entirety of Deepwoken's world really is and would die of insanity due to the anomalous effects of Deepwoken's universe, meaning that most of our knowledge might be completely wrong and is a made up story for us to comprehend the horrors that are actually in front of us as we descend into the unknown. This adds a layer of mystery to the depths and implies that how we see it may be almost completely wrong.
+    -   This means that humans are possibly one of the weakest forms of life in Deepwoken, being seen as "filth" and weak by the deep voices and the Nestmind, with our potential of strength needing to be unlocked through the song. This implies that physical strength may mean absolutely nothing in Deepwoken's universe though this is all speculation.
 
 ### **The Ferryman**
 
@@ -426,9 +426,9 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 -   The [Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Void Sea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
--   He is a well known figure on the surface, with rumours that summoning him leads to being granted a great treasure, however, few realizing that to get the reward requires you to defeat him first.
--   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favour by tormenting the humans that dare dance with him.
--   A full power Ferryman can defeat Akira in the surface. But not the Lord Regent with the throne buff unless its in the Depths as the Ferryman is inhibited by the surface.
+-   He is a well known figure on the surface, with rumors that summoning him leads to being granted a great treasure, however, few realize that to get the reward you are required to defeat him first.
+-   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favor by tormenting the humans that dare dance with him.
+-   A full power Ferryman can defeat Akira in the surface but the Lord Regent with the throne buff unless its in the Depths as the Ferryman is inhibited by the surface.
 -   Likely resides in an unknown layer of the Depths.
     -   Krulians are tied to The Depths and are weakened when on the surface.
     -   Following his dance, he states he must go, as though he is being called back.
@@ -443,7 +443,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 -   Has a Resonance that allows him to make the 'immaterial' material.
     -   This seems to include souls and mantras, though might extend to more things. He uses this ability to steal these concepts from others, and to make deals.
 -   Can fuse Mantras using his Resonance to a higher tier.
--   Is said to have committed sins so heinous 'the world will never forgive \[him\].'
+-   Is said to have committed sins so heinous "the world will never forgive \[him\]."
 -   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes have been confirmed to not be the wielders of the hero blades.
 -   It is said that before he was sealed, he was capable of drowning entire islands on his prime, possibly being the sins that the world will never forgive.
 
@@ -453,7 +453,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore sources:** _Sudaruska Soul, Gran Sudaruska Description_
 
--   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, continuing to kill followers of the Nine Prophets to this day.
+-   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 
@@ -465,19 +465,19 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 -   A region consisting of a variety of islands; from deserts, arctic and normal ones.
 -   [The Eastern Luminant](Luminants.md) is mostly occupied by the Kingdom of Etrea; but are contested by the Central Authority and their allies.
-    -   Major Factions aside, there are other factions that are encountered; such as the Hundredth Legion, The Hive and the Children of Navae.
+    -   Major Factions aside, there are other factions that are encountered; such as the Hundredth Legion, The Hive, and the Children of Navae.
 -   There are two main areas, the Etrean Sea and the Aratel Sea, separated by a large gate.
     -   Areas found in the Etrean Sea are considered part of Etrean Luminant, areas in the Aratel Sea are part of the Eastern Luminant
 
 #### Eastern Interstitial Lighthouse (Etrean Luminant)
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
--   As of Deepwoken's Release, the [Lighthouse](Eastern_Interstitial_Lighthouse.md) cannot be accessed into its interior, nor does it allow anyone to go to [The Central Luminant](Luminants.md). Due to the fact that only Lightkeepers can operate them.
+-   As of Deepwoken's Release, the [Lighthouse's](Eastern_Interstitial_Lighthouse.md) interior cannot be accessed, nor does it allow anyone to go to [The Central Luminant](Luminants.md) due to the fact that only Lightkeepers can operate them.
 -   Viqh is likely still inside.
 
 #### Erisia (Etrean Luminant)
 
--   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from The Voidsea months before Year 1271.
+-   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from [The Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced some sort of 'Time Stasis' from being in the Voidsea, explained by Vohxus.
 -   It has been ravaged by creatures of the Deep, but apparently even before this, it was a 'backwater.'
 -   The Hive at one point settled here, but left.
@@ -499,13 +499,13 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore Sources:**
 
-_"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavour Text_
+_"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavor Text_
 
   
 
 -   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
-    -   Along with blue fragmented stars; Blue Meteorites, containing [Meteor Knights](Stone_Knight.md) crash into the Valley as an encounter, emerging out of the rubble upon landing.
+    -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash into the Valley as an encounter, emerging out of the rubble upon landing.
 
 ### **Central Luminant**
 
@@ -541,7 +541,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   A frozen Tundra.
 -   Said that the temperatures are so extreme, that it has become very lethal recently due to the temperatures going lower with the pass of time.
 -   Probably home to [Frostdraw](Frostdraw.md).
--   [Polis](Polis.md) is from here.
+-   [Polis](Polis.md) originates from here.
 -   Originally inhabited by the Edenkite.
     -   The beheaded corpse of one remains there to this day.
 
@@ -587,15 +587,15 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 
 -   There are nine layers to The Depths.
 -   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
--   Klaris implies The Depths has some form of sentience, almost as if
--   The Depths apparently is more formed by numerous worlds that a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2, But this remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
+-   Klaris implies The Depths has some form of sentience, almost as if "we were interacting on a microscopic level with the processes of some slumbering creature."
+-   The Depths apparently is more formed by numerous worlds that merged into a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2. This remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
 -   The First Layer is located below the sea, however this is not the case for the others.
 
 #### **Scyphozia, The First Layer**
 
 **Lore Sources:** _Area descriptions_
 
-_"You can feel your soul dragging down like a weight, deeper, further into the depths." - The Depths Flavour Text_
+_"You can feel your soul dragging down like a weight, deeper, further into the depths." - The Depths Flavor Text_
 
 -   An underworld of The Tides that is the home of the Monsters of the Deep. It is completely submerged under the waves, but people who traverse through The Depths can breathe normally, unlike the surface.
 -   It is a physical location, and be reached by simply going to the bottom, but as it is physically impossible to dive that deep with the world's current technology, cavern systems and whirlpools are used instead.
@@ -626,8 +626,8 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
   
 
--   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer- Secluded within the outskirts of Celtor Waste behind a light-green barrier. Castle Light is not to be confused with Markor Citadel, the Diver base located in the surface.
--   The barrier- being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drains of their Ether whilst those who are alive can go through with no harm done.
+-   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer. Secluded within the outskirts of Celtor Waste behind a light-green barrier, Castle Light is not to be confused with Markor Citadel, the Diver base located in the surface.
+-   The barrier, being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drains of their Ether whilst those who are alive can go through with no harm done.
     -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
 
 #### **The Eternal Gale, The Second Layer**
@@ -637,17 +637,17 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 ##### Ethironal Shrine (First floor)
 
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
--   The snow is not actually snow, but parasite eggs.
+-   The snow is not actually snow, but instead parasite eggs.
 -   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
     -   This means that even though the divers are well funded and have way more control over layer 1 compared to the ignition union, the ignition union is much more equipped to handle layer 2. This could possibly mean that they are funded by the authority to explore the deeper parts of the depths and settle there efficiently while the divers are more research based and only go to layer 2 for more information that the ignition union is ordered not to do. This could be why they are both funded by the authority for maximum efficiency.
 
 ##### New Kyrsa (Second Floor)
 
--   New Kyrsa is a city built by the Kyrsgarde, meaning the city did not suffer the same fate as celtor.
--   New Kyrsa was built above the bed-chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so it doesn't wake up, also explaining why it is necessary to activate them to fight its Scion.
+-   New Kyrsa is a city built by the Kyrsgarde, meaning the city did not suffer the same fate as Celtor.
+-   New Kyrsa was built above the chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so it doesn't wake up, also explaining why it is necessary to activate them to fight its Scion.
 -   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosper city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the tram station below the town, and high buildings with signs of industrial advancement towards the surface.
--   The City fell due to the last ritual (The bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
--   Right now the city alongisde its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
+-   The City fell due to the last ritual (the bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
+-   Right now the city alongside its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
 -   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron
 -   Its inhabitants are the Kyrsgarde.
 
@@ -659,7 +659,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Korilfiend's garden is located near the top.
     -   The Meteor Flowers located here are considered a part of him.
     -   Consuming the meteor flowers gives Pyrokinetic abilities, which lead to Flamecharm's invention.
--   The Third Layer is mainly formed by volcanic and fire/hot envirioment.
+-   The Third Layer is mainly formed by volcanic and fire/hot environment.
 -   Its said that the heat that the Hero blade of Flame emits, is the same as the heat that the vents emit.
 
 ## Factions

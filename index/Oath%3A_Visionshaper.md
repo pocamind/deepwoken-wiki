@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 74781
+revid: 75763
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,7 +67,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   While in the **Illusionary Realm**, press X to leave early. This will cost 10% of your current HP (and immediately heal back to 4% of it) and leave the victim with a monster from The Depths for the remaining duration.
     -   The monster can be a: Nautilodaunt, Megalodaunt, King Thresher or Deep Owl.
 -   **Cheap Trick - Passive**
-    -   When hit while below 50% health, turn invisible and summon an Illusionary Servant that follows the same rules as an active one summoned by **Illusory Servants**. (45s? cooldown.)
+    -   When hit while below 50% health, turn invisible and summon an Illusionary Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 30s cooldown, tested.)
 
 The following talent is obtained by leveling up after obtaining and maxing out Visionshaper:
 
