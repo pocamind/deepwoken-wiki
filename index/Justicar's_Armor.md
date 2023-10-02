@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 75430
+revid: 75907
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -43,3 +43,4 @@ This Outfit's Schematic can be found in:
     -   It was then gutted to 30% physical resistance but given an additional 5% blunt armor.
     -   This was most likely due to non-Jus Karita users using the armor more than actual [Jus Karita](Fists.md) users.
 -   Previously used to be called '' Lightkeeper ''
+-   Probably the rarest armor in the game

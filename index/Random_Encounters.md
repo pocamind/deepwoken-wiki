@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 75725
+revid: 75910
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -259,4 +259,4 @@ The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble thro
 
 ### **Resonant Dawn**
 
-A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free.
+A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free. You cannot choose your resonance. This event has been seen around [Starswept](The_Starswept_Valley.md) valley, [Minitiyrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).

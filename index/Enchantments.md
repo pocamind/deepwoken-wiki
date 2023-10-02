@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 75892
+revid: 75905
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -70,7 +70,7 @@ There are two variants that enchantments come in:
   <font>Chilling<div></div></font></center></td>
   <td><div><p>After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown).<br>
   If the user has Crystallization, apply an ice crystal. Can only apply a total of 1 crystal. Cannot apply any more crystals until the crystals break.<br>
-  In PvE this instead applies a Chill effect (only without crystal). This causes a second hit to happen granting 3% extra damage.</p></div></td>
+  In PvE this instead applies a Chill effect with a duration of 0.4s (only without crystal). This causes a second hit to happen granting 4% extra damage.</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
