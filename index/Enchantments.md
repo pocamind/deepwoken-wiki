@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 75861
+revid: 75892
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -77,7 +77,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
   <td><div><p>Weapon deals 1.1x damage over time.<br>
-  The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
+  The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes. Repeatedly procs chain of perfection.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -85,14 +85,14 @@ There are two variants that enchantments come in:
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 16-20 damage on top of the weapons damage to them and others around beside the user. The damage from explosions is effected by damage modifiers and bypasses armor.(doesnt knock back)<br>
+  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is effected by damage modifiers and bypasses armor.(doesnt knock back)<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Elastic<div></div></font></center></td>
-  <td><div><p>On proc, a pink string connecting the weapon and your target will appear, pulling the target towards you (doesn't work with bullets).</p></div></td>
+  <td><div><p>On hit, a pink string connecting the weapon and your target will appear, pulling the target towards you (doesn't work with bullets).</p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
@@ -122,16 +122,15 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Metal<div></div></font></center></td>
   <td><div><p>On hit, steal some of the target's equipment durability and add it to your own.<br>
-  Works on NPCs and Monsters.</p></div></td>
+  Works on any enemies/monsters with armor.</p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>On hit, a red eye marker is placed on the enemy. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
-  <b>- If you do not have Ardour, the Nemesis critical is unblockable.<br>
-  </b>- Nemesis Critical still trigger critical talents, for example bear trap and others.<br>
-  <b>- The range of this is 65-70 studs</b></p></div></td>
+  <b>Nemesis critical can still trigger critical talents like bear trap, manipulator, etc.<br>
+  </b><b>The range of this is 65-70 studs</b></p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
 <tr>
@@ -192,7 +191,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Stormbreakergif.gif<figcaption></figcaption></figure><center><br>
   <font>Stormbreaker<div></div></font></center></td>
-  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You may however parry). Greatly slows the user down while the weapon is on its way back. Hit damage from crit is the same as that of the M1</p></div></td>
+  <td><div><p>Effects of the storm enchant with a unique critical that throws your weapon towards your cursor, ragdolling and striking targets with thunder. You are unable to attack until your weapon returns (You can still parry). Greatly slows the user down while the weapon is on its way back. Hit damage from crit is the same as that of the M1</p></div></td>
   <td><div><p>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</p></div></td>
 </tr>
 <tr>
@@ -255,7 +254,6 @@ There are two variants that enchantments come in:
   <b>Disabled in Arena.</b><br>
   <b>Viscosity is disabled.</b><br>
   <b>Conditioned runner is disabled.</b><br>
-  <b>Fishman gives reduced healing.</b><br>
   <b>Cauterized Wounds and Alloyblood have their effects significantly reduced.</b></p></div></td>
   <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
 </tr>
@@ -271,10 +269,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p>On proc, 5% of your max health adds to your damage.<br>
-  Deal bonus damage in PVE.<br>
-  <br>
   Rarely, proc its normal effect but lose 10% HP.<br>
-  <br>
   Has a 10 second cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>
 </tr>
@@ -309,7 +304,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Unstable<div></div></font></center></td>
-  <td><div><p>Every hit have a 10% chance to proc any enchantments. Multiple enchantments can proc from a single m1.<br>
+  <td><div><p>Every hit has a 10% chance to proc an enchant, allowing for multiple enchants to proc at once.<br>
   <b>Only obtainable via Developer by reporting serious bugs/exploits</b></p></div></td>
   <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 74548
+revid: 75897
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -91,4 +91,3 @@ An Eastern Tribe Nomad executes it's opponent after knocking them:
 -   All of them are [Gremors](Gremor.md) (Although their race variants may vary)
 -   The Navaen Hostages look like Easter Tribe Nomads if they are tied up.
 -   They are one of the few NPCS that belong in the Children of Navae.
--   They can have an enchanted weapon by chance.
