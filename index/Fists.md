@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 69932
+revid: 75902
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Fists]
@@ -68,4 +68,4 @@ _Main Page: [Jus Karita](Jus_Karita.md)_
 -   While not necessary, having the option to use a fist style at any time in combat can be quite helpful, especially if you're leveling up Light Weapon Scaling anyway.
 -   Fist's critical attacks are very good as they are unique. Using your critical attack in some situations can catch the enemies off guard giving free damage.
 -   Previously, _Captain Etrea_ did nothing and it's description said it would let you wield a shield while using a fist style, but the talent has been reworked.
--   Ragoozer have a exclusive fist style for his spec this fist style is very similar to that of a advanced fist form in Rogue Lineage.
+-   Ragoozer has an exclusive fist style for his spec. This fist style is very similar to that of an advanced fist form in Rogue Lineage.

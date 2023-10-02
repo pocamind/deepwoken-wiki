@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 75822
+revid: 75903
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -29,7 +29,7 @@ A single Lesser Angel can also be summoned as a Trial when attempting to escape 
 | Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
 | Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
-| **Light Piercer** | Rises into the air and shoot 5 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
+| **Light Piercer** | Rises into the air and shoot 4 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
 
 **Regular:**
 
