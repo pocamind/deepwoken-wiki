@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 69097
+revid: 75885
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -8,13 +8,14 @@ categories: [Random Encounters, NPCs]
 
 # The Meat Lord
 
+| The Meat Lord | |
+|---|---|
+
 “ Very well, you may rise ”
 
 ― The Meat Lord to one of his ever-loyal subjects
 
 ## Overview
-
-The Meat Lord in all his glory.
 
 **The Meat Lord** is a [Random Encounter](Random_Encounters.md) and a merchant in Deepwoken. He sells three types of meat dishes at low prices. The available items are randomly selected from a pool of items. Note that Vegetarians cannot eat any of his food as all of them contain meat, obviously.
 

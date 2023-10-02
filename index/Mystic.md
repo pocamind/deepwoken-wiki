@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 75795
+revid: 75874
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -177,7 +177,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I use the winds to enforce my will. **(Galeforce) (Note; Cannot give Skull Crusher)**_
 -   _I fight for the Legion. **(Legion Shock Trooper) (Note; Cannot give Gale Dash)**_
 -   _I am a master of the winds. **(Aeromancer) (Note; Cannot give Aerogliding, Stifled Jump)**_
--   _I hear a whisper in the dark. **(Whisper; Haunted Gale)**_
+-   _A whisper in the dark. **(Whisper; Haunted Gale)**_
 -   _The song shall be silenced. **(Silencer) (Note; Cannot give Silencer's Blade)**_
 -   _I survive from the teachings of Master Stratos. **(Vigil of Winds)**_
 

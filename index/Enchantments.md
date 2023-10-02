@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 75678
+revid: 75861
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -54,7 +54,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 20% more damage in PVE.<br>
+  <td><div><p>Deal 15% more damage in PVE.<br>
   Can only be obtained from an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>. Used to be unobtainable as it was a dev spec granted to people who met a <a href="Developer_Specs.md">Wishmaker</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>

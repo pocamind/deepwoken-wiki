@@ -1,6 +1,6 @@
 ---
 title: The Valley of Heroes
-revid: 70964
+revid: 75882
 source: https://deepwoken.fandom.com/wiki/The_Valley_of_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones, World]
@@ -21,13 +21,6 @@ File:Valley of Heroes picture.png
 ## Overview
 
 Valley of Heroes resembles an icy valley littered with frozen asteroids and statues of forgotten figures. The valley is located above [Minityrsa](Minityrsa.md).
-
-## Potential Enemies
-
--   [Snow Knights](Stone_Knight.md) in [Winter](Seasons.md)
--   [Golem Constructs](Hive_Construct.md)
--   [Ministry Necromancer](Ministry_Necromancer.md)
--   [Frostdrawer Monk](Songseeker_Frostdrawer.md)
 
 ## Events
 

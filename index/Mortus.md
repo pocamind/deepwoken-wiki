@@ -1,16 +1,17 @@
 ---
 title: Mortus
-revid: 51279
+revid: 75883
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, World, NPCs]
+categories: [World, NPCs]
 ---
 
 # Mortus
 
-File:Mortus.png
-
-Mortus's appearance
+| Mortus | |
+|---|---|
+| name | Mortus |
+| location | Fishing Hut, near Erisia |
 
 **Mortus** is a Capra with gray hair that wears the same outfit as the [Bandits](Bandit.md) from [Lower Erisia](Lower_Erisia.md).
 

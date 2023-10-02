@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75849
+revid: 75879
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -14,7 +14,7 @@ File:DeepwokenThumbnail.png
 
 File:DeepwokenThumbnail.png
 
-## Foreword.
+## Foreword
 
 **Press \[CTRL _\+ F\] or F3_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
@@ -2277,7 +2277,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Whisper
 
-> _**"I hear a whisper in the dark."**_
+> _**"A whisper in the dark."**_
 
 -   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity)
     -   Prerequisite: 40 Galebreathe, [Power](Power.md) 8
