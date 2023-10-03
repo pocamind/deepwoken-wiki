@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 74283
+revid: 75958
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -65,4 +65,5 @@ To obtain it, you must find a Navaen Nomad Captive. They are mostly found in [Er
 -   Slide jumping with using the **Way of Navae** critical can make it easier to land.
     -   You'll use your sliding momentum to dash forward.
 -   If you have **Way of Navae** and [Legion Kata](Legion_Kata.md) you can switch between them quickly by pressing Y.
--   Say F to honor the great Jonathan Talo.
+
+Weapons you can equip while using the Way Of Navae are the fists (default), [Iron Cestus,](Iron_Cestus.md) [Legion Cestus,](Legion_Cestus.md) [Flamekeeper Cestus](Flamekeeper_Cestus.md), and [Light's Final Toll.](<Light's_Final_Toll.md>) Same goes for [Legion Kata.](Legion_Kata.md)
