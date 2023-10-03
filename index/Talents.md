@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75953
+revid: 75973
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1427,6 +1427,10 @@ _**"I often attack others."**_
 > _**"I want to WIN."**_
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage. (+1 Elemental Intensity)
+    -   Gain a 4% damage boost against PVE enemies for every hit against at close range.
+    -   Can stack up to 25 time, for a 100% damage boost
+        -   This effect is not accounted for in the 75% damage boost cap.
+    -   Lose the entirety of the damage boost after taking damage.
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
     -   Requirement: Power 2
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)

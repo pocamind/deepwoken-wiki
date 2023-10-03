@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 75910
+revid: 75963
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -243,7 +243,7 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 
 ### [Rogue Construct](Hive_Construct.md)
 
-Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), will spawn a [Rogue Construct](Hive_Construct.md), a variant of a Hive Construct but has red rings instead of green. A very powerful monster, it drops tier 2 mantra modifier materials and the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>).
+Upon the ice lake atop of [Minityrsa](Minityrsa.md), next to the [Valley of Heroes](The_Valley_of_Heroes.md), will spawn a [Rogue Construct](Hive_Construct.md), a variant of a Hive Construct but has red rings instead of green. A very powerful monster, it drops tier 2 mantra modifier materials and the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>) and [Hivelord's Hubris](<Hivelord's_Hubris.md>).
 
 ### **[The Meat Lord](The_Meat_Lord.md)**
 

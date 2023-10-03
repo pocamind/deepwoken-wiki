@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 74859
+revid: 75999
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 74707
+revid: 75990
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -19,7 +19,7 @@ categories: [Resonances]
 
 ## Description
 
-**Shard Bow,** also called Stormtrooper Bell, is a [Resonance](Resonance.md) that players can obtain, and is **common** to roll.
+**Shard Bow,** also known as Stormtrooper Bell, is a [Resonance](Resonance.md) that players can obtain, and is **common** to roll.
 
 ### _Appearance_
 

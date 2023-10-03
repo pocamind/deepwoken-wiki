@@ -1,6 +1,6 @@
 ---
 title: "Wind-Up"
-revid: 74873
+revid: 75987
 source: https://deepwoken.fandom.com/wiki/Wind-Up
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -39,10 +39,6 @@ When obtained, Wind-Up will spend its points on the following stats:
 
 -   **Charge amount:** The more points are spent on this stat, the fewer charges it takes to reach max charges.
 -   **Charge speed:** The more points are spent on this stat, the shorter the charge animation is.
-
-## Gallery
-
-Green Coloration
 
 ## Trivia
 

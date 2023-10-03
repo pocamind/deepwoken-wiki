@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 75699
+revid: 75965
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Nautilodaunt
 
-“ Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. ”
+“ ...Denizens of Syphozia, Nautilodaunts are a chilling reminder that those of the Deep are not simply mindless monsters, but can possess startling intelligence. ”
 
-― Mortus describing his encounter with a Nautliodaunt
+― Odd Tentacle description
 
 _Also referred to as Squibbo, Squid Hoss, Squidward, and Nautilus_
 

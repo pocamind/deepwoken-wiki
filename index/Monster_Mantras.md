@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 75745
+revid: 75962
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -71,7 +71,7 @@ Abyssal Ridge
 
 (★★☆)
 
- | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can be aimed with the cursor towards an opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a Nautilodaunt Beak to obtain) | Mobility Mantra |
+ | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a Nautilodaunt Beak to obtain) | Mobility Mantra |
 | 
 
  | 

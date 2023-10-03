@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 74869
+revid: 75991
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -29,7 +29,7 @@ When used, an orange, red, blue, green or purple field will appear around the us
 
 Pressing C will activate the **Sacred Field** Resonance.
 
-**Sacred Field** will spawn an area that grants you and your allies defense against physical and elemental damage. **Sacred Field** has a cooldown of ~20-30 seconds. The area isn't a field, yet a sphere meaning you can be under and over the area and you will still get the effect of **Sacred Field.**
+**Sacred Field** will spawn an area that grants you and your allies defense against physical and elemental damage. **Sacred Field** has a random cooldown of 15-30 seconds. The area isn't a field, yet a sphere meaning you can be under and over the area and you will still get the effect of **Sacred Field.**
 
 ### _Resonance Point usage_
 
@@ -40,7 +40,7 @@ When obtained, Sacred Field will spend its points on the following stats:
     -   Elemental resistance reduces damage from magical attacks (example: [Lionfish](Lionfish.md) beam, mantras, etc.)
 -   **Range:** The more points are spent on this stat, the larger the area covered by the resonance is.
 -   **Duration:** The more points are spent on this stat, the longer the resonance lasts.
--   **Color:** A free stat. Changes the color of the field, colors include yellow, blue, purple, red, orange and green.
+-   **Color:** A free stat. Changes the color of the field, the color is always random, but always vibrant.
 
 ## Trivia/Notes
 
