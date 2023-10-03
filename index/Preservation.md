@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 75823
+revid: 75932
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -21,7 +21,7 @@ notices:
 
 ## Description
 
-**Preservation**, is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll. It can be used on knocked entities to preserve them in a yellow ball that follows the player around at a slow pace. When the bubble breaks, any knocked entities inside will be able to stand again. The bubble can break when it is attacked (normal variant), when the duration runs out, when the caster presses c again, or when the caster begins gripping an opponent.
+**Preservation**, is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll. It can be used on knocked entities to preserve them in a yellow ball that follows the player around at a slow pace. When the bubble breaks, any knocked entities inside will be able to stand again. The bubble can break either when it is attacked (normal variant), when the duration runs out, when the caster presses c again, or when the caster begins gripping an opponent.
 
 ### _Appearance_
 

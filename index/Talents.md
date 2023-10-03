@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75908
+revid: 75953
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -438,6 +438,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
     -   Prerequisite 55 Charisma
+    -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
+    -   Effect Lasts 15s
+    -   Proc Cooldown: 0.25s
 
 -   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
     -   Prerequisite: 25 Charisma
@@ -1318,6 +1321,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
     -   Players with this talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
+    -   Stacks with Last Second Negotiation
     -   Prerequisite: 20 Willpower
 
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
@@ -2008,7 +2012,7 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"I can talk myself out of any situation."**_
 
 -   Last Second Negotiation \[Common Talent\] - Most enemies will hesitate a moment longer to execute you.
-    -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again.
+    -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again. This also slightly slows down the grip attempt.
         -   Does not work in PVE.
     -   Prerequisites: 55 Charisma, all Silvertongue talents
 
@@ -2119,7 +2123,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.
-    -   Makes you immune to Defiant Until the End and Last Second Negotiations when it procs.
+    -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs.
     -   Prerequisites: 100 Charisma, 50 Strength
 
 -   No Survivors \[Common Talent, Charisma\] - Your allies and yourself execute faster when affected by Overcharm.

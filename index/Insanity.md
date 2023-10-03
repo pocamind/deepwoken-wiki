@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 74053
+revid: 75956
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -26,7 +26,7 @@ Insanity can be resisted by leveling up the Willpower [attribute](Attributes.md)
 -   **Tier 1 - 66% Sanity - Shivering:** The character will start to occasionally shiver in fear, slowing them down. Player's screen borders will be shrouded in a blue hue.
 -   **Tier 2 - 33% Sanity - Scratching:** The character will start scratching themselves at random intervals, dealing minute damage. The blue border on the screen will begin pulsing at this tier. In addition, the character can no longer recognize the facial expression of humanoid entities, with their faces becoming shrouded in a black mess. Player names also cannot be recognized.
 -   **Tier 3 - 0% Sanity - Enucleation:** Seeing far too much horror, the character will dig at their eye sockets dealing 35 damage each time and disabling their ability to move. If the character gets knocked by this damage, they are executed. The blue border will feature new motifs when nearing this tier.
--   **Tier 3 Alt -** Your head will be covered by an unknown blob-substance (Similar to the ones found at Ancient Rotlands), which subsequently causes your head to explode, resulting in an instant death.
+-   **Alternative:** If you run out of sanity while holding a weapon with [Curse of the No Life King](Enchantments.md) or while being too close to the meatballs in the [Ancient Rotlands](Ancient_Rotlands.md), speak to Yun'Shul without a [Resonance](Resonance.md), or fail the charisma check when talking to [Akira](Akira.md) after he kills Ignition Union members, your head will explode and you will die.
     
     File:InsanityScribbles.png
     
@@ -41,7 +41,7 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 -   [Megalodaunt](Megalodaunt.md)'s screech attack.
 -   Being hit by Gaze.
 -   Drinking or being splashed by a Mindbreaking potion.
--   Being hit by the [Deep Widow](Deep_Widow.md) web attack.
+-   Being hit by the [Deep Widow](Deep_Widow.md) web and bite attack.
 -   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general.
 -   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you -100 sanity when you unsheathe your weapon while in [The Depths](The_Depths.md). Without any Willpower, it instantly kills you, as you start with 80 sanity, however the effects of this can be reduced through increasing Willpower.
 -   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease.
@@ -64,5 +64,3 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 
 -   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 436 sanity, which equals to just below 2 hours (118 minutes) in The Depths before tier 3 insanity.
 -   Each point of sanity equals to 30 extra seconds in the depths before reaching 100% insanity.
--   The only ways to get the Tier-3 Alt is to wield a weapon with [Curse of the No Life King](Enchantments.md), Staring at the meatballs in the [Ancient Rotlands](Ancient_Rotlands.md), speaking to Yun'Shul without a [Resonance](Resonance.md), or failing the charisma check when talking to [Akira](Akira.md) after he kills Ignition Union members.
-    -   I tested this in the Voidsea and in the Rotlands without looking at the meatballs. As soon as I walked over to a meatball, it killed me instantly, leading me to believe that looking at the meatballs or using Curse of the No Life King will whitelist you to be able to be one shot at max insanity. Akira and Yun'Shul are instant, and are not related to insanity gameplay wise.

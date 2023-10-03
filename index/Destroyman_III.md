@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 73901
+revid: 75957
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -79,6 +79,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.
 -   TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell.
 -   TIP: Are you staying hydrated and fed? Fevers spread through healthy hosts. I'm just looking out for both of us.
+-   TIP: A felinor can have a little bit of salami. As a treat.
 -   TIP: Be kind to food workers. You've heard of how many kings got poisoned, right?
 -   TIP: Birds aren't real.
 -   TIP: Do not let the radio decide your taste in music. Be your own person and seek what you personally enjoy.
@@ -167,3 +168,4 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   This page has the most trivia of any page on the wiki currently.
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III)
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
+-   The line "A felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."

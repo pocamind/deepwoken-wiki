@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 75181
+revid: 75949
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the end of Castle Light. She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
+Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the end of [Castle Light](Castle_Light.md). She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
 She is a young Canor, who sports curly bangs that end onto her shoulders. Her pupils are much more pale as well as having unique facial markings down to her cheeks, and a floating orb that resembles the Moonseye, as a result of being the inventor of Radiant Magic. She wears the standard [coat of the Black Divers](Black_Diver.md).
 
