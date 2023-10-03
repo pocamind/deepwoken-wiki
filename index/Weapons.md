@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 75855
+revid: 75924
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -744,7 +744,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><a href="https://deepwoken.fandom.com/wiki/Vigil_Longsword#Alloyed"><font>Alloyed Vigil Longsword</font></a></td>
   <td><font>75 MED</font></td>
   <td>20</td>
-  <td><font>15%</font></td>
+  <td><font>10%</font></td>
   <td>N/A</td>
   <td><font>MED: 7</font></td>
   <td>5</td>

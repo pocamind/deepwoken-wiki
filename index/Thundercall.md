@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 75841
+revid: 75912
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -326,6 +326,7 @@ Thunder Wisp
  | A servant of lightning | Unknown | Applies "Sapping" to a target on flourishes.
 
 -   Sapping increases their mantra cooldown
+-   When Sapping ends, the victim is shocked.
 
  | Damage: Unknown
 
@@ -343,7 +344,7 @@ Eternal/Aeon logstones
 Spark Swap  
 (★★★)
 
- | Almost instantaneous swap of location with whoever your cursor is on. Will aggro if used on mobs, and there will be a small indicator before swap is active. **CAN ONLY BE PARRIED.**
+ | After a short delay, instantly swap location with whoever your cursor is on. Will aggro if used on mobs, and there will be a small indicator before swap is active. **CAN ONLY BE PARRIED.**
 
   
 (outdated video)
@@ -354,7 +355,7 @@ Spark Swap
 -   Estimated 300 - 350 Stud Range
 -   Cannot be used while in water or airborne.
 -   Very good for escaping situations, as shown in this video [https://www.youtube.com/watch?v=ohcVRP5oz5w](https://www.youtube.com/watch?v=ohcVRP5oz5w)
--   Scales with health
+-   Range scales with health
 
  | Damage: N/A
 

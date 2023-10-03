@@ -1,12 +1,22 @@
 ---
 title: Ores
-revid: 72089
+revid: 75917
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
 ---
 
 # Ores
+
+| Irithine | |
+|---|---|
+| value | 12 |
+| weight | ??? |
+| type | Ingredient, Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare and powerful metal. |
 
 ## Description
 
@@ -45,8 +55,6 @@ Sells for 15 Notes
 **Irithine:**
 
 A vibrant green ore used for crafting certain armors. Found in [The Garden Reservoir](The_Garden_Reservoir.md) under the [Burning Stone Gardens](Burning_Stone_Gardens.md), and in [Saramaed Summit](Saramaed_Summit.md) within [Miner's Landing](<Miner's_Landing.md>).
-
-Sells for 12 Notes
 
 **Astruline:**
 
