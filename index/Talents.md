@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 75973
+revid: 76006
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1428,7 +1428,7 @@ _**"I often attack others."**_
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage. (+1 Elemental Intensity)
     -   Gain a 4% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 25 time, for a 100% damage boost
+    -   Can stack up to 25 time, for a 100% damage boost. [\[1\]](#cite-note-1)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage.
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -2507,3 +2507,5 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   The Pocket Sand talent, especially its description, is a reference to Rogue Lineage.
     -   Paying [someone](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the talent in this game, and speaking to them afterwards yields the same dialogue as found in the talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest talent.
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)

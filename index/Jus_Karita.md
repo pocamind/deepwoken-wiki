@@ -1,9 +1,9 @@
 ---
 title: Jus Karita
-revid: 69937
+revid: 76010
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Fists]
+categories: [Weapons, Fists]
 ---
 
 # Jus Karita
@@ -41,29 +41,11 @@ However, it's extremely off-putting animations, deceptive range, and 20% PEN sti
 
 Dash forward while performing a kick. Can be upgraded with a talent to remove the cooldown after landing it.
 
-  
-
 ## Obtainment
 
 To obtain Jus Karita, you must first obtain 40 Light Weapons and Power 5. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. do his first dialogue option and obtain the ring, then ask him about Justicar.
-
-  
 
 ## Notes & Trivia
 
 -   **Jus Karita** cannot equip any cestus, including [Light's Final Toll](<Light's_Final_Toll.md>).
 -   If you have two fist styles and try to equip a cestus on **Jus Karita**, the game will forcibly switch you to the [Way of Navae](Way_of_Navae.md) fist style.
-
-## Gallery
-
--   File:Jus Karita critical.gif
-    
-    Critical Animation (aka, watch yo tone)
-    
-    File:Jusu Kata idle.gif
-    
-    Idle Animation
-    
-    File:Jus Karita m1s.gif
-    
-    M1 Animation

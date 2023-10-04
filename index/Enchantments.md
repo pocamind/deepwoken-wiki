@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 75922
+revid: 76007
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -55,7 +55,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 15% more damage in PVE.<br>
-  Can <b>only</b> be obtained from an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>. Previously required having met a <a href="Developer_Specs.md">Wishmaker</a>.</p></div></td>
+  Can <b>only</b> be obtained from an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -640,6 +640,7 @@ File:Vamparism shield.png
 -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
 -   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
+-   Astral previously required having met a [Wishmaker](Developer_Specs.md) to obtain it.
 
 ## References
 

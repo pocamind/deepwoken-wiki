@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 75982
+revid: 76057
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,9 +36,9 @@ If Preservation is corrupted, the bubble will parry any attacks against it.
 When obtained, Preservation will spend its points on the following stats:
 
 -   **Thrown:** If this stat is used, the player will launch a projectile ahead that will summon the AoE to shield entities.
--   **Standing** If this stat is used, the player will stand in place and summon the AoE to shield entities.
--   **Effect Duration** If this stat is used, shielded entities will be protected for a longer duration.
--   **Range** If this stat is used, the ability will yield a larger AoE.
+-   **Standing:** If this stat is used, the player will stand in place and summon the AoE to shield entities.
+-   **Energy Duration:** If this stat is used, shielded entities will be protected for a longer duration.
+-   **Activation Size:** If this stat is used, the ability will yield a larger AoE.
 
 ## Trivia
 

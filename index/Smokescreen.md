@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 75988
+revid: 76068
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -31,7 +31,7 @@ When used, a cloud of smoke appears around the user. This smoke cloud hides the 
 
 Pressing C will activate the **Smokescreen** Resonance.
 
-**Smokescreen** will instantly generate a extremely dark cloud of smoke that makes the user entirely invisible while inside. It can be cancelled by using either a M1 or Mantra.
+**Smokescreen** will instantly generate a extremely dark cloud of smoke that makes the user invincible & invisible while inside. It can be cancelled by using an attack.
 
 If Smokescreen is corrupted, it can be activated again by pressing C, which releases three extra clouds and teleports the caster to a random one. (two clouds is a variant of this bell. also takes a little bit of damage upon teleportation with the bell. video: [https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA](https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA))
 
@@ -39,8 +39,8 @@ If Smokescreen is corrupted, it can be activated again by pressing C, which rele
 
 When obtained, Smokescreen will spend its points on the following stats:
 
--   **?**
--   **?**
+-   **Smoke Duration**
+-   **Smoke Size**
 -   **?**
 
 ## Trivia
