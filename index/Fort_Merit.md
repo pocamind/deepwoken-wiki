@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 71547
+revid: 76099
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -76,7 +76,7 @@ Below is a list of NPCs and their uses (that are known) that you can find thorou
 -   [Brutus](Brutus.md) (Fortitude Uncap)
 -   Innkeeper (Sets spawn)
 -   [Guild Clerk](Guilds.md) (Guild stuff)
--   Kana
+-   [Kana](Kana.md)
 -   [Banker](Artifacts.md) (Artifact returns)
 -   [Antiquarian](Antiquarian.md) (Selling)
 -   Rashet (Rep reset)
@@ -94,7 +94,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
  | 
 
 -   [Deepwoken Hood](Deepwoken_Hood.md)
--   White Gumshoe Hat
+-   [White Gumshoe Hat](Gumshoe_Hat.md)
 -   [Gumshoe Hat](Gumshoe_Hat.md)
 -   [Master Thief's Earrings](Master_Thief_Earrings.md)
 -   [Authority Commander Coat](Authority_Commander_Coat.md)

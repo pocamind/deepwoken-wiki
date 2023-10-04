@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 75803
+revid: 76111
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Floor 1, Layer 2]
@@ -27,6 +27,7 @@ You will be able to tell her this once you meet the following requirements ( do 
     -   The second on a rock surrounded by Carbuncles somewhat near the Union Hook to Pilgrim's Respite
     -   The third on the body of a deceased Diver immediately off the bridge and to the left once entering the Ethironal Shrine Sanctuary.
         -   Note that the journal items themself are not necessary, what matters is if you picked them up from the corpse.
+-   Had completed Galewax at least once.
 -   Had beaten Chaser at least once.
 -   Have 2 specific talents obtained exclusively from Layer 2;
     -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the cave labyrinth, and talking to The Leader located at Fir-fire

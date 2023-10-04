@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 73948
+revid: 76108
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -28,7 +28,7 @@ Jeremiah is an Etrean that can be found in [The City of the Drowned](The_City_of
 
 ## Dialogue
 
-lol this is missing
+lol no ones gonna fill this in
 
 ## Trivia
 

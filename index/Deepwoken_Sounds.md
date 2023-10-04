@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 75544
+revid: 76110
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -304,8 +304,8 @@ A large collection of sounds found in **Deepwoken**.
 | --- | --- | --- |
 |  | 1.2s | Card Pick |
 |  | 1.4s | Selecting Freeze Ace |
-|  | 1.8s | Card Freeze (1) |
-|  | 2.4s | Card Freeze (2) |
+|  | 1.8s | Card Freeze \[1\] |
+|  | 2.4s | Card Freeze \[2\] |
 |  | 8.6s | Card Burning Sounds |
 |  | 0.3s | Card Flip \[1\] |
 |  | 0.4s | Card Flip \[2\] |

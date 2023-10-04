@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 75780
+revid: 76098
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1109,6 +1109,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'
 -   Only known Deepwoken are Amorus Pleeksty and the First Prophet.
 -   The player may well be one considering the 'Deepwoken' talent category, them being regarded as special, their accelerated aging and their survival during the Castaway origin.
+    -   (Speculation)
 
 ## Race Lore
 
@@ -1190,7 +1191,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_Never seen without their masks, poorly understood, but begrudgingly appreciated due to their natural talents."_
 
 -   A race that shares traits with bugs, never seen without the masks they wear, although most may not understand why.
--   Related to their separate branch, the Ganymedes, due to their similar eyes and surnames.
+-   Related to the Ganymedes as well as possibly the Chrysids, due to their similar eyes and surnames. This is because they all come from a single, ancient race.
 -   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that identified as a Vesperian.
 -   Their natural armor comes from the fact that most beetles have exoskeletons to protect them, which Vesperians are based on.
     -   According to Arch\_Mage, Vesperians grow their masks.

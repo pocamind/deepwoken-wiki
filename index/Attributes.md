@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 74751
+revid: 76092
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -18,7 +18,7 @@ _icon credit to Tortaa#9000_
 
 ## Basic Attributes
 
-Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
+Attributes can be increased by using a respective [attribute training tool](Training_Gear.md) in order to spend your current investment points. When creating a character you start off with [13 free investment points](Character_Stats.md) plus an additional 2 points in two stats dependent on your race (i.e. Felinors get 2 points in agility and charisma). You need both attribute EXP, earned through using an attribute, and [regular EXP](Power.md), earned through kills, exploration, quests etc. Below is a summarized list of Basic Attributes and what you have to use in order to dedicate an investment point into it.
 
 -   Strength -> _use the **Dumbbell**_
 -   Fortitude -> _take damage with the **Training Vest**/carry the **Boulder**_

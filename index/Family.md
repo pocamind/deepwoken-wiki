@@ -1,6 +1,6 @@
 ---
 title: Family
-revid: 66981
+revid: 76076
 source: https://deepwoken.fandom.com/wiki/Family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -10,7 +10,7 @@ categories: [Mechanics, Character]
 
 ## Family
 
-Players can be family members with each other with the character selection screen. Depending on what you choose, you can be someone's cousin, sister, brother, or even twin.
+Players can be family members with each other with the [character creation](Character_Creation.md) screen. Depending on what you choose, you can be someone's cousin, sister, brother, or even twin.
 
 Having certain traits can make you someone else's relative. The chance to be relative to someone else is RNG, but it has requirements.
 
