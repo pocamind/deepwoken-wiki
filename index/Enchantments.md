@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 76007
+revid: 76134
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -54,7 +54,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 15% more damage in PVE.<br>
+  <td><div><p>Deal 15% more damage in PVE.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Can <b>only</b> be obtained from an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a>.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
@@ -77,7 +77,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
   <td><div><p>Weapon deals 1.1x damage over time.<br>
-  The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes. Repeatedly procs chain of perfection.</p></div></td>
+  The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
-  After hitting the target up to 5 times, Grim will proc, which is signalled by red bubbles.<br>
+  After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3) times, Grim will proc, which is signalled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
 </tr>
@@ -176,7 +176,7 @@ There are two variants that enchantments come in:
   <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
-  Scales linearly with weapon damage.<sup><a href="#cite-note-1">[1]</a></sup></p></div></td>
+  Scales linearly with weapon damage.<sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
   <td><div>Metal parts are covered in a stone texture.</div></td>
 </tr>
 <tr>
@@ -644,4 +644,5 @@ File:Vamparism shield.png
 
 ## References
 
-1.  [↑](#cite-ref-1) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
+1.  [↑](#cite-ref-1) File:Astral15.png
+2.  [↑](#cite-ref-2) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))

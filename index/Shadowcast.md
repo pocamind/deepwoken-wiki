@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 75845
+revid: 76145
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -641,10 +641,9 @@ Enemies will briefly hang in place when hit by a shadow move.
 
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
 -   Shadowcast has a talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
--   Additionally, several Shadowcast moves charge up with a white light.
-    
--   The Shadowcast trainer is dead and is insane due to their time in [the depths](The_Depths.md). It can be inferred because Lightkeepers are an "authority" within Deepwoken's world, the trainer's death was not accidental.
+    -   Additionally, several Shadowcast moves charge up with a white light.
+        
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
--   An interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
--   Just like every other attunement other than Flamecharm, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [the depths](The_Depths.md), similarly to Shadowcast.
--   As of 7/10/2023, Shadowcast is the only attunement to have 2 trainers, [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md).
+    -   An interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
+-   Just like every other attunement other than Flamecharm, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast.
+-   Shadowcast is the only attunement to have 2 trainers, [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md).

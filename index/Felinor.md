@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 75887
+revid: 76151
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -82,14 +82,18 @@ Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors with
 -   Talo
     
 
-## **Trivia**
+## Trivia
 
 -   When wearing earrings, they appear on the cat ears.
 -   When wearing a helmet or hat, it will not hide the cat ears, instead they will go through the headwear.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their race name changed to "Abomination", which is unique compared to the other race names that were changed.
     -   This _may_ be because of the disdain the community shows towards them.
-    -   Due to _**that fateful winter**_ any negative stigma to Felinors have been forgotten and is now widely discouraged due to the new human rights act that discourages "Freshie Gripping" - Discouraged Ragoozer fan (Following the "Purge Week" that hasn't ended, being a freshie now puts you at risk for death as any race, to get around this risk, progress in unknown areas, like the depths camp or the rats den if you really have to)
 -   Picking Obvious flaw as a Felinor will negate the improved stealth. This is actually really good as you can take this as a free flaw that will not affect your playthrough.
 -   Race name "Felinor" comes from word _Feline_, which means catlike, cattish etc.
 -   Arch\_Mage has confirmed Canors to be based on Lions, essentially making them related to Felinors.
--   Hatred toward the race is not really heartfelt. Mostly purely satirical meaning you aren't really at risk of any hate-crimes. Though the hatred for this race stems from their nature as Kemonomimis which is a trait no other race exhibits so much as Felinors do.
+-   Hatred toward the race is not really heartfelt. Mostly purely satirical meaning you aren't really at risk of any hate-crimes. Though the hatred for this race stems from their nature as Kemonomimis which is a trait no other race exhibits as much as Felinors do.
+    -   Furthermore, Felinor wasn't even intended to be added to the game, and was more or less added to appease those seeking that niche, as Felinor was originally an inside joke meant to ridicule people attracted to Kemonomimis.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

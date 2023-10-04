@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 75433
+revid: 76135
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -150,7 +150,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: Songseeker Wilds
 
-**Guide**: Talk to an NPC in the Songseeker Wilds. With high charisma you will get the mantra.
+**Guide**: Talk to an NPC in the Songseeker Wilds. With 20 charisma you will get the mantra.
 
 **Reward/s**: Disguise
 

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 71028
+revid: 76142
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -33,9 +33,9 @@ This outfit can be found in:
 -   [Erisia](Erisia.md)
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
--   sold by Nyanna (Castle Light)
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 
-## Trivia/Notes
+## Trivia
 
 -   The Pathfinder Thaumaturge is a recolored version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md)
 -   The Pathfinder Thaumaturge is an superior version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md)

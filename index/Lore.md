@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 76098
+revid: 76123
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1109,7 +1109,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'
 -   Only known Deepwoken are Amorus Pleeksty and the First Prophet.
 -   The player may well be one considering the 'Deepwoken' talent category, them being regarded as special, their accelerated aging and their survival during the Castaway origin.
-    -   (Speculation)
 
 ## Race Lore
 
