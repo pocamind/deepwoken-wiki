@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 76006
+revid: 76321
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -16,7 +16,7 @@ File:DeepwokenThumbnail.png
 
 ## Foreword
 
-**Press \[CTRL _\+ F\] or F3_ to search talents. Below is an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
+**Here's an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
 -   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
     -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
@@ -1014,7 +1014,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
                 -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
                 -   Thundercall: Your bullets electrify
                 -   Galebreathe Your bullets after cut
-                -   Shadowcast: Your bullets blinds the enemy (they do not steal ether)
+                -   Shadowcast: Your bullets steal ether(probably blinds with sightless still but not tested)
                 -   Ironsing: Your bullets apply metal rods
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
@@ -1046,7 +1046,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
     -   Reduce knockdowns (like heavy weapon crit, ascension, etc) duration by 30%.
-    -   Prerequisites: 100 Fortitude, 100 Willpower and Perseverance
+    -   Prerequisites: 100 Fortitude, 100 Willpower and Perseverance (and maybe Mental Fortress talents, need testing)
 
 ### Hunter
 

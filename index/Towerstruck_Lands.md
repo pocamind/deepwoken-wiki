@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 76278
+revid: 76313
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -32,8 +32,8 @@ The Towerstruck Lands is a section of [Upper Erisia](Upper_Erisia.md) with sandy
 Events that spawn in the Towerstruck Lands that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
 -   [Megalodaunt VS Rock Golem](Random_Encounters.md)
-
-  
+-   Authority VS Hundred Legions
+-   Authority Patrol
 
 ## Maps
 

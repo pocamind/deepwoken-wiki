@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 72496
+revid: 76301
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -51,6 +51,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing [Dread Serpent](Dread_Serpent.md) for the first time, awarding 2 Knowledge.
 -   Killing the following monsters for the first time, awarding 1 Knowledge each:
     -   [Crimson Megalodaunt,](Megalodaunt.md) [Mechalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md), [Deep Owl](Deep_Owl.md), [King Thresher](Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md), [The Enforcer](Enforcer.md), [Bonekeeper](Bone_Keeper.md), [Corrupted Monster](Monsters.md).
+-   Using the [Moonseye Tome](Relics.md) relic, which grants 99 knowledge upon using it for the first time and 20 on future uses.
 
 Assuming no repeatable methods (No Klaris and repeatable bosses knowledge only done once), the maximum obtainable knowledge is 58.
 

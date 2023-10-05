@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 76269
+revid: 76353
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -3884,6 +3884,7 @@ Variants
 Found from:
 
 -   [Ferryman](The_Ferryman.md) (**100%**)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
 |  | 
