@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 76256
+revid: 76297
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -66,7 +66,7 @@ Known side-effects include:
 
 -   **SHORT-CIRCUIT:** On use, player will be set ablaze.
 -   **MEGALOMANIA:** On use, player will fall deeper into insanity.
--   **HEMORRHAGE:** On use, player will have exactly 10% drained from their health.
+-   **POISON:** On use, player will have exactly 10% drained from their health.[\[1\]](#cite-note-1)
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 
@@ -232,3 +232,5 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   Arch mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
 -   Doing the [The Duke](Duke_Ishamon_Erisia.md) around six times will get you a **Resonance** but do this seven or eight times if you want to be safe this will be the safest way to do to get a **Resonance** if you know what your doing.
 -   If you reroll Corrupted Resonance or Drowned Resonance you will get 5 cards, 3 new Resonances, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
+
+1.  [↑](#cite-ref-1)
