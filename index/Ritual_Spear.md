@@ -1,9 +1,9 @@
 ---
 title: Ritual Spear
-revid: 54953
+revid: 76216
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears]
+categories: [Weapons, Pages with broken file links, Spears]
 ---
 
 # Ritual Spear
@@ -33,6 +33,12 @@ The Ritual Spear is a Medium weapon and a good spear for the midgame. It can be 
 
 The weapon itself is very similair to the [Iron Spear](Iron_Spear.md), having the same m1s and crits, only differing in stats.
 
-## Notes
+## Trivia
 
 -   The [Etrean Guardsmen](Etrean_Guardsmen.md) and occasionally the [Legion Captain](Legion_Captain.md) use this weapon.
+
+## Gallery
+
+File:Ritual spear.png
+
+Etrean Weapon Store

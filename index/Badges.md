@@ -1,6 +1,6 @@
 ---
 title: Badges
-revid: 76070
+revid: 76220
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -36,5 +36,12 @@ categories: [Deepwoken]
 | [W Rank](https://www.roblox.com/badges/2148083573/W-Rank) | 
 
  | 0.0% | _"Achieve a W Rank Legacy. No shadows can dim your light."_ | 1,050 |
+
+## List of Unobtainable Badges
+
+| Name | Image | Difficulty | Description | Times Obtained |
+| --- | --- | --- | --- | --- |
+| [Metalhead](https://www.roblox.com/badges/2143962474/Metalhead) | 
+ | Unknown | _"You've proven yourself at the 72 Seasons and unlocked the exclusive Head Bang gesture. Grants the 'Metallica M Pendant' Accessory."_ | Unknown |
 
 Please update the "Times Obtained" section every 2-3 weeks. Thank you.

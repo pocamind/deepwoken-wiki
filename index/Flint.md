@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 75860
+revid: 76221
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -54,6 +54,6 @@ Umbral Flint is a higher tier of flint with 150 uses, crafted by substituting th
 
 They can also be sold by [merchant ships](https://deepwoken.fandom.com/wiki/Chili).
 
-## Notes
+## Trivia
 
 -   If you have the talent Survival Kit, which is obtained by wiping with Herbivore, Iron Gut, and Termite, your flint has unlimited uses. This makes Produce Spark, Graceful Flame, Discovery of Fire, and Umbral Flint useless.

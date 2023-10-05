@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 75898
+revid: 76293
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-The **First Layer**, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, dying in a [Voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md).
+The **First Layer**, also known as **Scyphozoa,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, dying in a [Voidzone](Voidzones.md) or dying in the [Voidsea](Voidsea.md).
 
 ## **Points of Interest**
 
@@ -31,7 +31,7 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 
 Detailed map of the entire Depths First Layer
 
-There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
+There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozoa: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
 
 Note: The Map shows the diver camp being in the South, however, it was recently moved to the North.
 

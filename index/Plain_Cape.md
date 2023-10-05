@@ -1,9 +1,9 @@
 ---
 title: Plain Cape
-revid: 74102
+revid: 76276
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipmemt, Torso, Capes]
+categories: [Equipment, Torso, Capes]
 ---
 
 # Plain Cape

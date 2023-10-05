@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 71564
+revid: 76271
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -76,3 +76,4 @@ WARNING: DO NOT CLICK 1 TO END DIALOGUE OR ELSE YOU FAIL, JUST CAST A MANTRA WHE
 -   If going straight through the [Valley of Hereos](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair)
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
+-   Yes you can still do the Aelita event during winter (just beware of Blizzard knights meteors)

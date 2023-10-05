@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 75856
+revid: 76214
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -87,6 +87,7 @@ Variants
     -   The Arcwarder suit could also potentially be inspired by the shardplate used in The Stormlight Archives, wherein the users magically conjure the armor unto themselves in a similar fashion.
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
 -   This Oath was created by Dexerius, along with [Visionshaper](Oath%253A_Visionshaper.md).[\[1\]](#cite-note-1)
+-   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
 
 ## References
 

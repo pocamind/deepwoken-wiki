@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 76173
+revid: 76269
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -2077,7 +2077,9 @@ Found from:
 
 [Pathfinder Elite](Pathfinder_Elite.md)
 
-(**Legendary Series**)
+(Legendary)
+
+(**Series**)
 
 (**Animated**)
 
@@ -2498,13 +2500,36 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | N/A |
+|  | 
+
+[Eternal Restraints](Eternal_Restraints.md)
+
+(**Unobtainable**)
+
+ | 
+
+_+20% Health_  
+_+5 Posture_
+
+_+Talent: Chains of Eternity_  
+_+Talent: Cognito Hazard_
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
 | File:Titan Inquisitor's Duster2.png | 
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>)
 
+(**Series**)
+
 (**Animated**)
 
-(Unobtainable)
+(**Unobtainable**)
 
  | 
 
@@ -2518,20 +2543,16 @@ Sources:
 
 -   [Developer Specs](Developer_Specs.md)
 
- | N/A |
+ | Smoke, Titan, & Cloud |
 |  | 
 
-[Eternal Restraints](Eternal_Restraints.md)
+[Stag Wraps](Stag_Wraps.md)
 
-(Unobtainable)
+(**Unobtainable**)
 
  | 
 
-_+20% Health_  
-_+5 Posture_
-
-_\+ Talent: Chains of Eternity_  
-_\+ Talent: Cognito Hazard_
+Confidential Information
 
  | 
 
@@ -3807,6 +3828,23 @@ Found from:
 -   [Hell Mode](Hell_Mode.md)
 
  | Default (Black), Red & White |
+|  | 
+
+[Toon's Goggles](<Toon's_Goggles.md>)
+
+(**Unobtainable**)
+
+ | 
+
+Confidential Information
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
 
 **Ears:**
 

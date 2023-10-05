@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 73162
+revid: 76288
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -135,7 +135,7 @@ Please add miscellaneous islands or named landmarks here
     -   [Varicosa District](Varicosa_District.md)
     -   [District of Commerce](District_of_Commerce.md)
         -   [The Military District](The_Military_District.md)
-    -   The Cathedral of Interstice
+    -   [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 

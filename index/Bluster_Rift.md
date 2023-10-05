@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 71529
+revid: 76282
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -26,7 +26,7 @@ The Bluster Rift is a location in _Deepwoken_. It can be found on [Aratel Island
 
 Events that spawn in Starswept Valley that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   Etrean Footsoldier vs [Hive Guards](Hive_Guard.md)
+-   Etrean Naval Guard vs [Hive Guards](Hive_Guard.md)
 -   [Legion Captain](Legion_Captain.md) vs [Authority Commander](<Authority_Commander_(Enemy).md>)
 -   [Hive Construct](Hive_Construct.md) vs [Authority Commander](<Authority_Commander_(Enemy).md>)
 

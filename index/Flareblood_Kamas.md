@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 76042
+revid: 76253
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -45,3 +45,4 @@ Wielding it requires 60 Light and 30 Intelligence. It does 13 base damage and 4.
 -   Finishing Touch does not apply to the critical.
 -   While its damage is high, it is only rivaled by the Alloyed Whaling Knife and the Alloyed Tanto. The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the 2 handed [Curved Blade of Winds](Curved_Blade_of_Winds.md).
+-   There is a reskin of this weapon called the [Moon Blade](Moon_Blades.md) the belongs to both Supaa and Valekis since they won the first Deepwoken battle royal tournament.

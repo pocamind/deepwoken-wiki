@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 75924
+revid: 76260
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -193,6 +193,18 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
+  <td>60 LHT; 30 INT</td>
+  <td>13</td>
+  <td>30%</td>
+  <td>INT: 2 LHT: 8</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
+  <td>33.4(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Moon_Blades"><font>Moon Blades</font></a> (<b>Bleed</b>)</td>
   <td>60 LHT; 30 INT</td>
   <td>13</td>
   <td>30%</td>
@@ -1804,6 +1816,16 @@ Offhand weapons are weapons that can be wielded at the same time along with your
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+</tr>
+<tr>
+  <td><a href="Silversix.md">Silversix</a></td>
+  <td>0 LHT</td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>LHT: 13</td>
+  <td>1</td>
+  <td>10</td>
+  <td>0.8x</td>
 </tr>
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>

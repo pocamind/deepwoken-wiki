@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 76205
+revid: 76218
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Mechanics]
@@ -32,7 +32,11 @@ _rat's weight in gold._
  |  |
 | 
 
- | Platinum Bar |  |  |
+ | Platinum Bar | _Hey, it's worth at least a_
+
+_rat's weight in gold._
+
+ |  |
 | 
 
  | Diamond | _Hey, there's no blood on this one!_ |  |

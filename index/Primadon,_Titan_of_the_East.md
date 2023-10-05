@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 74735
+revid: 76290
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -81,7 +81,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 
 -   **Lifesteal Resistance** - Lifestealing effects such as the Vampirism Enchantment or Bloodless Gems are severly reduced against Primadon.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Primadon.
--   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths (breaks in certain areas of the Monkey's Paw).
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths.
 
 ## Rewards
 
@@ -112,7 +112,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   The biggest problem most people have is timing. **Kick** should be dodged just as it comes down instead of when it winds up.
     -   Stay close or it will use its fists.
 -   You can fit two M1s with heavy weapons each time it attacks, or three times with medium weapons after **Trample**.
--   An easy way to cheese the fight is by placing an Undying Flames [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
+-   An easy way to cheese the fight is by placing an [Undying Flames](Flamecharm.md#undying-ember) [Graceful Flame](Flamecharm.md) (you will take damage while casting) and fight Primadon next to it so you heal back the damage you lose.
 -   The **Kick** and **Stomp** abilities make a whooshing sound every time they are raised, adding on to the _obvious_ factor of its attacks.
 -   As Cannons use blunt damage, you can actually broadside the Primadon to death.
 
