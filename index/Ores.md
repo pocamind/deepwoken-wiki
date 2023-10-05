@@ -1,12 +1,32 @@
 ---
 title: Ores
-revid: 75917
+revid: 76207
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
 ---
 
 # Ores
+
+| Iron | |
+|---|---|
+| value | 5 |
+| weight | ??? |
+| type | Ingredient, Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | ??? |
+
+| Gold | |
+|---|---|
+| value | 10 |
+| weight | ??? |
+| type | Ingredient, Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | ??? |
 
 | Irithine | |
 |---|---|
@@ -18,7 +38,7 @@ categories: [Pages with broken file links, Items, Harvestables]
 | pass down | No |
 | desc | A rare and powerful metal. |
 
-## Description
+## Overview
 
 Ores are materials found all around the map, usually in caves. It is used for crafting various armor and traded for chests. They can be harvested with a [pickaxe](Pickaxe.md) by pressing E on them.
 
@@ -36,15 +56,15 @@ Sells for 1 Note
 
 **Iron:**
 
-A grey-brownish ore used for crafting Bullets and certain armors. Found in most caves.
+## Overview
 
-Sells for 5 Notes
+A grey-brownish ore used for crafting Bullets and certain armors. Found in most caves.
 
 **Gold:**
 
-A glimmering, yellow ore used for crafting certain armors. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff.
+## Overview
 
-Sells for 10 Notes
+A glimmering, yellow ore used for crafting certain armors. Found in the [Songseeker Wilds](Songseeker_Wilds.md) caves, the cave in Miner's Landing, and one of the many [Viper's Jaw](<The_Viper's_Jaw.md>) caves near the Bandit Camp at [Lower Erisia](Lower_Erisia.md). If eaten by a [Ironsing](Ironsing.md) user, they will get a slight DMG buff.
 
 **Erisore:**
 
@@ -54,11 +74,13 @@ Sells for 15 Notes
 
 **Irithine:**
 
+## Overview
+
 A vibrant green ore used for crafting certain armors. Found in [The Garden Reservoir](The_Garden_Reservoir.md) under the [Burning Stone Gardens](Burning_Stone_Gardens.md), and in [Saramaed Summit](Saramaed_Summit.md) within [Miner's Landing](<Miner's_Landing.md>).
 
 **Astruline:**
 
-A pink ore that comes from meteor deposits. Found in Songseeker Caves, under Starswept Valley, or inside the City of the Drowned in certain locations(pink roofs near the gates behind the houses to the left or to the right depending where you come from). The drop rate for Pure Astruline is around 15%.
+A pink ore that comes from meteor deposits. Found in Songseeker Caves, under Starswept Valley, or inside the City of the Drowned in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from). The drop rate for Pure Astruline is around 15%.
 
 Sells for 19 Notes
 

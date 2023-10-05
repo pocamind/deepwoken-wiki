@@ -1,6 +1,6 @@
 ---
 title: The Etrean Sea
-revid: 71540
+revid: 76184
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations, World]
@@ -34,9 +34,8 @@ The Etrean Sea is the first sea that beginners will encounter. It is a very larg
 -   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Minityrsa.md)
 
-## Encounters
+## Events
 
--   [Lesser Brainsucker](Brainsucker.md)
 -   Etreans vs [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [Merchant Ship](Travelling_Merchant.md)
 -   Bandit Tower

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 76148
+revid: 76199
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -319,7 +319,11 @@ Modifiers:
 Thunder Wisp  
 (★★☆)
 
- | A servant of lightning | Unknown | Applies "Sapping" to a target on flourishes.
+ | A servant of lightning | 70
+
+Ether
+
+ | Applies "Sapping" to a target on flourishes.
 
 -   Sapping increases their mantra cooldown
 -   When Sapping ends, the victim is shocked.

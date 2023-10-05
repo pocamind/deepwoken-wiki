@@ -1,6 +1,6 @@
 ---
 title: The Aratel Sea
-revid: 71783
+revid: 76187
 source: https://deepwoken.fandom.com/wiki/The_Aratel_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Eastern Luminant]
@@ -37,14 +37,14 @@ The Aratel Sea is much more violent than the [Etrean Sea](The_Etrean_Sea.md), wi
 -   [Monkey's Paw](<The_Monkey's_Paw.md>)
 -   [Summer Isle](Summer_Isle.md)
 
-## Enemies and Encounters
+## Events
 
--   [Lionfish](Lionfish.md)
--   [Lesser Brainsucker](Brainsucker.md)
 -   Etreans vs [Knives of Eylis](The_Knives_of_Eylis.md)
 -   Merchant Ship
+-   Fake Merchant Ship
 -   Damaged Ship w/ [Megalodaunt](Megalodaunt.md)
 -   Thunderstorm
+-   Bandit Tower
 
 ## Trivia/Notes
 

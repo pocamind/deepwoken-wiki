@@ -1,9 +1,9 @@
 ---
 title: Crypt of the Unbroken
-revid: 73022
+revid: 76175
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, World, Voidzones]
+categories: [Locations, World, Voidzones]
 ---
 
 # Crypt of the Unbroken
@@ -61,6 +61,8 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
  | 
 
+-   Hellfire Lotus
+-   Skyvalor Lotus
 -   Amethyst
 -   Emerald
 
@@ -85,7 +87,3 @@ A map can be found at [Maps#Surface](Maps.md#surface)
     -   Tacet and/or the Mute Regalia are extremely useful for assassination.
 -   The Crypt of the Unbroken may be the resting place of [Sudaruska](Gran_Sudaruska.md), as her epithet was "the Unbroken," not to mention the fact that Gran Sudaruska can drop in the Crypt.
 -   Immortal Guardians in the upper floor don’t give chests when they are gripped.
-
-File:Animal King slot getting knocked by immortal guardian and called inferior..png
-
-Immortal Guardians And a Mute.

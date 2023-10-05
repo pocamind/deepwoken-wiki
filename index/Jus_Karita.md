@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 76010
+revid: 76159
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]

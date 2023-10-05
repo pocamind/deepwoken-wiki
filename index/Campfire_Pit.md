@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 75894
+revid: 76206
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -35,3 +35,5 @@ Pressing **B** while standing near a campfire with nothing in hand will make you
 -   There used to be a glitch where campfire-spawning events in Summer Isle would not despawn the campfire, meaning there would be an endless amount of them around the island and also glitch chests inside of the campfire.
 -   **Building:** Campfires can also be used as a platform for barrel construction. Since campfires are not at all effected by gravity, they can hold barrels up where the barrels would normally fall. You may construct whatever your barrel supply allows with this.
 -   An alternative to using a campfire is the Graceful Flame support mantra. It is not put out in rain and has a talent that makes it so it can be used in the depths, making it much more viable for late game players.
+-   With the [Disguise](Mime.md) mantra, you can turn into a campfire. This requires it to be modified with 1 Blast spark, and 1 Tornado spark.
+    -   Whether the campfire is lit or not depends on the order of the sparks (blast then tornado is unlit campfire and tornado then blast is lit campfire)

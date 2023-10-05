@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 75798
+revid: 76202
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -16,7 +16,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md). He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md). Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
+Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
+
+He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md). Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md). Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
 
@@ -43,11 +45,11 @@ _For a visual guide consider watching [this video](https://youtu.be/YT_9pdWcAOI)
 -   There is an indicator and the unparriable sound cue before the attack.
 
  | ✗ | ◯\* | ◯ | (★★☆) |
-| **Burning Blood**
+| **Burning Blood Explosion**
 
 **Explosion**
 
- | After a short casting sound, Chaser rapidly forms a moderately large explosion of bloodflame under the player. Does low posture damage, but comes out faster than his other moves. | ◯ | ◯ | ◯ | (★☆☆) |
+ | After a short casting sound, Chaser rapidly forms a moderately large explosion of blood under the player, which he then ignites. Does low posture damage, but comes out faster than his other moves. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit. | ✗ | ✗ | ✗ | (★★☆) |
 | **Stalactite Fall** | Chaser drops many stalactites from the ceiling. Does low posture damage.
 
@@ -118,9 +120,9 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
 
-~Roughly fourteen chasers solo~ (Requires more testing) without the Boss Resonance Progression path will allow you to obtain a Resonance.
+**Roughly** fourteen Chasers solo, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
 
-Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
+Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
 
 ## Dialogue
 
@@ -164,29 +166,23 @@ Doing Chaser without light hook will grant you the "Hookless Eternal Gale" Trium
 
 ## Trivia
 
--   Chaser is voiced by YouTuber Demstormz.[\[1\]](#cite-note-1)
--   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however this has been debunked due to the Verse 2 update revealing the boss' name to be Chaser.
--   The '**Burning Blood Explosion**' move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood from _Elden Ring_.
+-   Chaser is voiced by YouTuber [DemStormz](https://www.youtube.com/watch?v=VedRxDf8QNs).[\[1\]](#cite-note-1)
+-   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
+-   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however was debunked, Verse 2 revealing the boss' name to be Chaser.
+-   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
 -   Chaser is seen wielding six Resonances, presumably stolen from divers he betrayed and killed. However he cant use them.
--   He is the only [humanoid enemy](Enemies.md) that does not use any weapon (Unless you count [The Ferryman](The_Ferryman.md), as he himself does not attack you with a weapon, but his clones do).
 -   Chaser grants a fairly large amount of Resonance progression.
--   Prior to the update as of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.
+-   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, finally despawning.
 -   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an Oath in the future, probably via the Second Prophet, similar to the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) with Lord Regent.
 -   It seems **Powerful Blood Appendage** cannot be parried while wearing **[Ignition Deepdelver](Ignition_Deepdelver.md)**. (Someone please test this further for the timings may have been wrong.)
--   According to Ragoozer, Chaser would initially have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[2\]](#cite-note-2)
+-   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[2\]](#cite-note-2)
 -   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
--   Chaser does not spawn if the bounders at the nest corridor do not spawn.
--   If you burn chaser at 1 HP you can grip him.
--   Used to have the title: Scholar of the Crimson Contract,
+-   Chaser does not spawn if the bounders at the Nest Corridor do not spawn.
+-   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
+-   Used to have the title, Scholar of the Crimson Contract.
 -   His hair ID is 77799954 & The beard ID is 4995497755
 -   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
-
-## Bugs
-
--   If you are experiencing ping issues, try your best to dodge '**Powerful Blood** **Appendage'** as there is a chance that it may simply fling you out of the cathedral mid-animation during Phase 2 and 3. Also, just try to dodge everything instead of blocking/parrying.
--   Chaser's obby attack won't work if you broke 4 jars while he's up
--   Chaser sometimes does nothing for a while during his broken ceiling phase, This is him trying to use his Spike Move
 
 ## References
 
