@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 76287
+revid: 76454
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -46,7 +46,7 @@ The percent chance of rolling a race changes per roll- given that you CANNOT rol
 
 ## Exclusive Races
 
-These races are **OBTAINABLE** via ordinary means. They instead serve as gifts to notable members of the community, given by the developers of _Deepwoken_.
+These races are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to notable members of the community, given by the developers of _Deepwoken_.
 
 ## NPC-Exclusive Races
 

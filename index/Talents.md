@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 76321
+revid: 76456
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -23,7 +23,7 @@ File:DeepwokenThumbnail.png
 -   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
     -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
 -   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
-    -   _(i.e "ButterfIy" to find talents that are within ButterfIy)_
+    -   _(i.e "Butterfly" to find talents that are within Butterfly)_
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
         -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
@@ -1093,17 +1093,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm
 
--   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. (+8 Sanity, +2 Elemental Intensity)
-    -   Prerequisite: 20 Willpower, Agitating Spark
+-   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity, +2 Elemental Intensity)
+    -   Prerequisite: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
     -   If you burn to death through the use of Last Laugh, the healing is reduced to 25%.
     -   Prerequisites: All Immolator talents
-
--   Pyromania \[Common Talent\] - Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
-    -   Reduces the damage taken from your flames done to you by 50%
-    -   Sources of self inflicted fire damage are: Agitating Spark, Flame Within, burning grass created by the user
-    -   Prerequisites: Agitating Spark
 
 ### Inferno
 
@@ -1419,8 +1414,16 @@ _**"I often attack others."**_
     -   Prerequisite: Caltrops mantra, 45 Ironsing
 -   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
     -   Prerequisite: 45 Ironsing
+-   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
+    -   Prerequisite: Iron Hug mantra, 30 Ironsing
+-   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Insanity)
+    -   Prerequisite: 50 Ironsing
+-   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
+    -   Prerequisite: 50 Ironsing
 -   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
     -   Prerequisites: 60 Ironsing, Power 13
+-   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
+    -   Prerequisite: 75 Ironsing
 
 ### Metamancer
 
@@ -1819,6 +1822,8 @@ Prerequisite: Charisma
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
+    -   One gives Reinforce, doesn't come with healing, the other gives +33% Ether.
+    -   The buff is not always the same per person.
     -   Prerequisite: 40 Charisma
 
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you.
@@ -2195,6 +2200,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Vocalist
 
 -   _Encore_ \[Rare Talent, Charisma Exclusive\] - Your sing will stun opponents who are already charmed.
+    -   On proc, apply 2s of "full stun".
+    -   Doesn't affect allies.
     -   Prerequisite: 40 Charisma, Sing (Charisma Mantra)
 -   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.
     -   Prerequisites: 75 Charisma, Sing (Charisma Mantra)
@@ -2262,9 +2269,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
-
--   Lethal Precision \[Common Talent\] - When you attack an enemy much weaker than you, you kill them instantly. \[This only applies to npcs.\]
-    -   Prerequisites: 75 in any Weapon Mastery attribute
 
 -   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
@@ -2451,6 +2455,11 @@ File:Thresherquest1.png
 -   Turn in 5 Pure Ores into the blacksmith.
 -   This talent lets you mine significantly faster.
     -   Pure Iron, and Pure Gold are not able to be turned to a blacksmith.
+
+### Mercy Kill
+
+-   Obtained by unbounding either your attunement or your weaponry
+-   This talent lets you instagrip enemies weaker than you with a swing
 
 ## Outfit Talents
 

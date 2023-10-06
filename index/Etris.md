@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 72758
+revid: 76459
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -293,6 +293,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   In The Lord Regent's Quest, if you have not talked to Kennith before obtaining good reputation in Etrea, he will say that both you have never met each other, and is honored that you serve Etrea well.
+-   Kennith reappears in an update (10/6/23) inside the Kyrsan Wilds of Floor 2 giving some interesting lore about Lord Regent.
 -   During Christmas, the tree that [Polis](Polis.md) sits under is changed into a Christmas Tree
 -   After talking to the Bookworm in The Lord Regent's Quest, the Royal Guards do not kill on sight if you trespass within the Palace.
     -   If you are not requested to an audience with The Lord Regent, he will execute you when you enter his room. Be sure that you complete the steps above and double check with the guards.

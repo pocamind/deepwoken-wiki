@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 75833
+revid: 76452
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -80,7 +80,8 @@ _An exertion of flames._
 -   Deals moderate damage.
 -   Knocks enemies back.
 -   User takes reduced damage and has hyper-armor during casting.
--   Can be improved with the "Thorns of Fire" talent.
+-   Taking damage while using it reflects the damage back to the attacker.
+    -   The damage is stored in the Flame Repulsion itself.
 -   Compatible with Cloud/Stratus Stones.
 
  |
