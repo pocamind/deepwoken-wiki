@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 76232
+revid: 76384
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -10,9 +10,11 @@ categories: [Bosses]
 
 _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For enemies, see [Enemies](Enemies.md)._
 
-"**Boss**" is a very loose term in Deepwoken. It ranges from the strongest [Enemies](Enemies.md) and [Monsters](Monsters.md), with those possessing heavy backstories, and unique abilities. Awarding [Progress](Resonance.md), knowledge, and unique weapons like a [Forgotten Gladius](Forgotten_Gladius.md) or [Krulian Knife](Krulian_Knife.md). A boss can be defined by their strength but also by what they have; every boss can drop [Pluripotent Alloys](Pluripotent_Alloy.md) and [Ardour Manifestations](Ardour_Manifestation.md).
+## Overview
 
-Every boss on this list has one of the following:
+**Bosses** in Deepwoken are powerful [Enemies](Enemies.md) and [Monsters](Monsters.md), with those possessing heavy backstories, and unique abilities. Awarding [Progress](Resonance.md), knowledge, and unique weapons like a [Forgotten Gladius](Forgotten_Gladius.md) or [Krulian Knife](Krulian_Knife.md).
+
+Bosses are called as such due to being able to unlock the Chain of Perfection talent if slayed without taking damage, but every boss on this list has at least one of the following:
 
 -   Unique Summoning System or Guaranteed Spawns
 -   Unique Drops
@@ -22,4 +24,6 @@ Every boss on this list has one of the following:
 -   [Pluripotent Alloy](Pluripotent_Alloy.md)
 -   [Ardour Manifestation](Ardour_Manifestation.md)
 
-**Bosses**
+## Mini-Bosses
+
+Mini-Bosses are strong enemies in Deepwoken, but unable to be considered Bosses due to not meeting the criteria.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 76110
+revid: 76357
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -548,7 +548,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.0s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack \[2\] |
 |  | 2.9s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack \[3\] |
 |  | 3.7s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Miasma Ring Attack |
-|  | 3.2s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Nimbus Explosion + Rising Shadow (Windup) |
+|  | 3.2s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Burning Blood Explosion + Rising Shadow (Windup) |
 |  | 1.0s | [Carbuncle](Carbuncle.md) Roar (1) |
 |  | 0.7s | [Carbuncle](Carbuncle.md) Roar (2) |
 |  | 4.0s | [Bounder](Bounder.md) Ambush (Unedited) |

@@ -1,6 +1,6 @@
 ---
 title: Eternal Restraints
-revid: 76352
+revid: 76363
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -33,7 +33,6 @@ The Eternal Restraints are an [Equipment](Equipment.md) item under the "Arms" ca
 -   Eternal Restraints are one of the few Arms [Equipment](Equipment.md) to give a percentage of innate HP
 -   Eternal Restraints are one of the two Arms [Equipment](Equipment.md) that emit particles by default. The other one being [Stag Wraps](Stag_Wraps.md)
 -   Haske Vantage (Arch Mage) is the only one wearing Eternal Restraints, and it'll be staying that way.
-
 -   Lore: Haske is prevented from ever drowning, keeping his soul in the luminants even when the world drowns. In other words, he's immortal. Unlike [Stag](Stag_Wraps.md) who is under a curse where he can't die.
--   Haske is technically a Primal Vesperian, just different from Nuttoons due to being nearly inhuman.
+-   Haske is technically a [Primal Vesperian](Primal_Vesperian.md), just different from Nuttoons due to being nearly inhuman.
 -   Haske comes from a similar tribe to Stags, like distant cousins.

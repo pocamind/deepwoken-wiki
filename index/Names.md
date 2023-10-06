@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 75182
+revid: 76389
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -372,6 +372,7 @@ You can choose your first name from any available, but your choices of last name
 -   Matthew
 -   Maurice
 -   Maverick
+-   Max
 -   Maxos
 -   Maxwell
 -   Meliodas

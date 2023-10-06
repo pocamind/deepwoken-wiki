@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 75630
+revid: 76362
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -116,7 +116,7 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
 
 ## Tips/Trivia
 
--   **Never get Haemophilia.** Vegetarian does not allow you to eat meat which can be problematic, but you can still survive on fruits and other meals. Glutton is dangerous for swimming and being sent to the Depths with little rations.
+-   **Never get Haemophilia.** \*(While **Haemophilia** is amongst one of the worse talents in PVP and PVE due to enchants like _Curse of the Bloodthirsty_ and mobs that do bleed damage, its effects can actually be reduced with talents like _Alloyblood_ and _Cauterized Wounds_). Vegetarian does not allow you to eat meat which can be problematic, but you can still survive on fruits and other meals. Glutton is dangerous for swimming and being sent to the Depths with little rations.
 -   Some flaws are more worth taking than others:
     -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras, and your only main source of damage is your M1s. Generally, not worth taking. However,if you decide to go for [Silentheart](Oaths.md), it's a free boon, since you won't be able to use any mantras.
     -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder or impossible to fix however (like Celtor for example, which is impossible to fix).

@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 61742
+revid: 76388
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An unfortunate group of individuals that became victims of [The Duke](Duke_Ishamon_Erisia.md). They have been experimented on so much to the point where their souls has departed from their bodies, leaving only a husk of themselves.
+An unfortunate group of individuals that became victims of [The Duke](Duke_Ishamon_Erisia.md). They have been experimented on so much to the point where their souls have departed from their bodies, leaving only a husk of themselves.
 
 ## Moveset
 
@@ -35,4 +35,4 @@ A Mindless Servant's arsenal only consists of their hands:
 ## Trivia
 
 -   Mindless Servants have the same AI as [Mudskippers](Mudskipper.md).
--   May become extremely difficult to fend off if you have no block breaking mantra's, and have 5-6 of them on you, as they have no anti-NPC teaming AI, so they will all hit you relentlessly.
+-   May become extremely difficult to fend off if you have no block breaking mantras, and have 5-6 of them on you, as they have no anti-NPC teaming AI, so they will all hit you relentlessly.
