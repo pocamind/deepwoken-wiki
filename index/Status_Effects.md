@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 76093
+revid: 76414
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -162,11 +162,11 @@ This effect happens once your blood bar is **zero**. Once this happens both hung
 
 ### Parched
 
-This effect happens when you are low on thirst/water. When this occurs, your vision will start to blur and darken. If it ever does reach 0, you won't get knocked or take any damage unless your hunger is also gone.
+This effect happens when you are low on thirst/water. When this occurs, your vision will start to blur and darken. If it ever does reach 0, you won't get knocked or take damage as a result unless your hunger is also gone.
 
 ### Starved
 
-This effect happens when you are low on hunger/food. When this occurs, you will become slower, swing slower, and deal less damage. If it ever does reach 0, you won't get knocked or take any damage unless your thirst is also gone.
+This effect happens when you are low on hunger/food. When this occurs, you will become slower, swing slower, and deal less damage. If it ever does reach 0, you won't get knocked or take damage as a result unless your thirst is also gone.
 
 ### Acid
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 76123
+revid: 76393
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]

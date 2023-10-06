@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 74331
+revid: 76424
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -14,7 +14,7 @@ categories: [Deepwoken]
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
 -   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry series_.
--   The mod spec Outfit **Hive Leader's Garment** along with the companion hat is [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)'s outfit from open world RPG _Genshin Impact_.
+-   The mod spec Outfit **[Hive Leader's Garment](<Hive_Leader's_Garment.md>)** along with the [companion hat](<Hive_Greatlord's_Royal_Adornment.md>) is [Scaramouche's](https://genshin-impact.fandom.com/wiki/The_Balladeer) outfit from open world RPG _Genshin Impact_.
 -   The Outfit **Black Diver's** original design was [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki).
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 -   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.

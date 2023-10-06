@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 76353
+revid: 76422
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -157,8 +157,9 @@ Variants
 
 +1 Uncommon Pip
 
-_\+ Talent: Apothecary_  
-_\+ Talent: Pitcher_
+_+Talent: Apothecary_
+
+_+Talent: Pitcher_
 
  | 
 
@@ -203,6 +204,7 @@ _+8 Health_
 +1 Uncommon Pip  
 
 +1 Rare Pip  
+
 _+Talent: Strong Hold_
 
 **Requires Fortitude 10**
@@ -249,8 +251,9 @@ Found from:
 
 +1 Rare Pip
 
-_\+ Talent: Apothecary_  
-_\+ Talent: Pitcher_
+_+Talent: Apothecary_
+
+_+Talent: Pitcher_
 
  | 
 
@@ -269,8 +272,9 @@ Found from:
 
 +1 Rare Pip
 
-_\+ Talent: Herbivore_  
-_\+ Talent: Iron Gut_
+_+Talent: Herbivore_
+
+_+Talent: Iron Gut_
 
  | 
 
@@ -313,7 +317,8 @@ Found from:
 _+5 Health_  
 _+2 Posture_  
 
-+2 Rare Pips  
++2 Rare Pips
+
 _+Talent: Concussive Force_  
 
 **Requires Fortitude 20**
@@ -405,9 +410,10 @@ Found from:
 _+3 Health_
 
 +2 Rare Pips  
-_\+ Talent: Emergency Repairs_
 
-_\+ Talent: Spare Nails_
+_+Talent: Emergency Repairs_
+
+_+Talent: Spare Nails_
 
  | 
 
@@ -494,7 +500,8 @@ _+5 Health_
 
 +1 Rare Pip
 
-+1 Legendary Pip  
++1 Legendary Pip
+
 _+Talent: Grasp On Reality_
 
 **Requires Fortitude 15**
@@ -540,7 +547,7 @@ _+5% Shadow Armor_
 
 +1 Legendary Pip
 
-_\+ Talent: Giantslayer_
+_+Talent: Giantslayer_
 
  | 
 
@@ -683,7 +690,8 @@ Gladiator Helmet
 _+10 Health_  
 _+2 Posture_  
 
-+1 Rare Pip  
++1 Rare Pip
+
 _+Talent: Concussive Force_  
 
 **Requires Fortitude 15**
@@ -790,8 +798,9 @@ Found from:
 
 +1 Uncommon Pip
 
-_\+ Talent: Herbivore_  
-_\+ Talent: Iron Gut_
+_+Talent: Herbivore_
+
+_+Talent: Iron Gut_
 
  | 
 
@@ -1039,14 +1048,73 @@ Found from:
  | N/A |
 |  | 
 
-The Deepwoken Raybands Gucci Hat 5000
+[A Lot of Hats](A_Lot_of_Hats.md)
 
-(Unobtainable)
+(**Unobtainable**)
 
  | 
 
-_+1 Posture_  
-_+4% Stealth_
+_+5 Health_  
+
++1 Uncommon Pip
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
+|  | 
+
+[Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>)
+
+(**Unobtainable**)
+
+ | 
+
+_+10% Health_  
+_+5 Posture_
+
+_+Talent: Ashes on the Fire_
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
+|  | 
+
+[MICROWAVETM](MICROWAVETM.md)
+
+(**Unobtainable**)
+
+ | 
+
+_+5 Health_  
+
++1 Uncommon Pip
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
+|  | 
+
+[Moderator Cap](Moderator_Cap.md)
+
+(**Unobtainable**)
+
+ | 
+
+_+5 Health_  
+
++1 Uncommon Pip
 
  | 
 
@@ -1089,7 +1157,9 @@ Variants
 
  | 
 
-+2 Rare Pips _+Talent: Hardened Nerves_  
++2 Rare Pips
+
+_+Talent: Hardened Nerves_  
 
 **Requires Power 13**
 
@@ -1133,7 +1203,9 @@ _+6 Health_
 
 +2 Rare Pips  
 
-+1 Legendary Pip _+Talent: Art of the Deal_  
++1 Legendary Pip
+
+_+Talent: Art of the Deal_  
 
 **Requires Power 13**
 
@@ -1159,7 +1231,9 @@ _+3% Stealth_
 
 +2 Rare Pips  
 
-+1 Legendary Pip _+Talent: Now You See Me_  
++1 Legendary Pip
+
+_+Talent: Now You See Me_  
 
 **(Pale) Requires Power 10**
 
@@ -1497,7 +1571,9 @@ Found from:
 _+5 Health_  
 
 +3 Legendary Pips  
+
 _+Talent: Braced Collapse_  
+
 _+Talent: Kick Off_  
 
 **Requires Power 10**
@@ -1523,6 +1599,7 @@ _+10 Health_
 _+1 Posture_  
 
 +3 Legendary Pips  
+
 _+Talent: Conquer Your Fears_  
 
 **Requires Power 10, Fortitude 5**
@@ -1860,6 +1937,7 @@ _+5% Ironsing Armor_
 +1 Rare Pip  
 
 +2 Legendary Pips  
+
 _+Talent: Defiant until the End_  
 
 **Requires Power 3, Fortitude 15**
@@ -2511,7 +2589,8 @@ Found from:
 _+20% Health_  
 _+5 Posture_
 
-_+Talent: Chains of Eternity_  
+_+Talent: Chains of Eternity_
+
 _+Talent: Cognito Hazard_
 
  | 
@@ -3495,7 +3574,7 @@ Found from:
 
 +1 Common Pip
 
-_\+ Talent: Blinded_
+_+Talent: Blinded_
 
  | 
 
@@ -3512,7 +3591,7 @@ Found from:
 
  | 
 
-_\+ Talent: Blinded_
+_+Talent: Blinded_
 
  | 
 
@@ -3549,7 +3628,7 @@ Found from:
 
 +1 Common Pip
 
-_\+ Talent: Blinded_
+_+Talent: Blinded_
 
  | 
 

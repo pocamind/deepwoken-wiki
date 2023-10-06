@@ -1,6 +1,6 @@
 ---
 title: "Toon's Goggles"
-revid: 76356
+revid: 76399
 source: https://deepwoken.fandom.com/wiki/Toon's_Goggles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face]
@@ -10,16 +10,16 @@ categories: [Equipment, Face]
 
 | Toon's Goggles | |
 |---|---|
-| type | Arms |
+| type | Face |
 | rarity | Unique |
 | selling price | 100 |
 | requirements | None |
-| weight | 2 |
+| weight | 0.5 |
 | innate stats | ??? |
 | innate talent | ??? |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | (Unobtainable) |
 | description | "..." |

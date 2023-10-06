@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 76357
+revid: 76394
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -538,6 +538,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.9s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[1\] |
 |  | 2.6s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[2\] |
 |  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
+|  | 1.5s | [Enforcer](Enforcer.md) Damaged |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
 |  | 2.6s | [Naulitodaunt](Nautilodaunt.md) Vent |
 |  | 1.5s | [Naulitodaunt](Nautilodaunt.md) Water Stomp |

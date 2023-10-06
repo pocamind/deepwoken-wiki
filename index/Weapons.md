@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 76369
+revid: 76396
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -193,18 +193,6 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
-  <td>60 LHT; 30 INT</td>
-  <td>13</td>
-  <td>30%</td>
-  <td>INT: 2 LHT: 8</td>
-  <td>4</td>
-  <td>6.5</td>
-  <td>0.98x</td>
-  <td>0.05s</td>
-  <td>33.4(<b>Bleed</b>)</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Moon_Blades"><font>Moon Blades</font></a> (<b>Bleed</b>)</td>
   <td>60 LHT; 30 INT</td>
   <td>13</td>
   <td>30%</td>
