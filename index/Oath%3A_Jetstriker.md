@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 76378
+revid: 76572
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -16,6 +16,10 @@ categories: [Oaths]
 “ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
 ― Alirian
+
+“ I BUILD UP 18D8 WORTH OF LIGHTNING DAMAGE! ”
+
+― Local Jetstriker Magpie Dise, about to send someone to layer 6.
 
 ## Description
 

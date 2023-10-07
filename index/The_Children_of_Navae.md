@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 75287
+revid: 76554
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -27,8 +27,6 @@ notices:
         -   Assumed to be a Celestial.
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
--   For unknown reasons, they are hostile towards the Kingdom of Etrea, attacking them on sight.
-    -   However, the Etreans do not seem to feel the same way, only attacking them after being aggravated.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
 
@@ -38,6 +36,7 @@ notices:
 
 ## Trivia
 
+-   Ever since the game released, Navaens attacked [Summer Company](The_Summer_Company.md) employees and members of [Etrea](Etrea.md). While this seemed strange, especially as the Etreans themselves did not aggro onto the Navaen, it was presumed to be intentional given that it could be easily explained in the context of the story, as well as it going unaddressed for so long. In reality, it was a bug, and it was patched during the 6/10/2023 update, nearly two years since the game released.
 -   Children of Navae have the best weed according to Arch\_Mage.[\[1\]](#cite-note-1)
 
 ## References

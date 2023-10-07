@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 75538
+revid: 76571
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -18,6 +18,10 @@ categories: [Oaths]
 To The One Who Left It All Behind! And His Overwhelming Intensity!!! ”
 
 ― The Dreadstar, Probably
+
+“ MY STARS! ”
+
+― Former Authority Silentheart Gabriel Etudi, moments before bashing in the skull of an Angel
 
 ## Description
 
