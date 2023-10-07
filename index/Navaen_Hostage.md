@@ -1,16 +1,14 @@
 ---
 title: Navaen Hostage
-revid: 76203
+revid: 76478
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Random Encounters]
+categories: [NPCs, Random Encounters]
 ---
 
 # Navaen Hostage
 
-File:Navae front.PNG
-
-Front view of a Navaen hostage.
+Template:EnemyInfobox1.0
 
   
 _Looking for the [combat style?](Fists.md)_
@@ -27,9 +25,7 @@ Bringing a Navaen Hostage to a [Nomad Leader](Eastern_Nomad_Leader.md) in the Et
 
 Bizarrely, there are no NPCs in [Meteor Isle](Meteor_Isle.md) that will accept them.
 
-## 
-
-Gallery
+## Gallery
 
 Giving back what is rightfully theirs.
 

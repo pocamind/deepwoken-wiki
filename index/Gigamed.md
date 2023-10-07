@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 75759
+revid: 76477
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,12 +29,12 @@ Electric Stun Pulse
 
 ## Trivia
 
+-   You can sit on a Gigamed.[\[1\]](#cite-note-1)
 -   Easiest mob to kill in the Depths (Stat Check Level: Any).
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ Talents.
 -   If you are very low, try to not fight it since one lagspike can get you killed.
 -   To prevent stunlocking, they are the only non-humanoid mobs that are kicked back after a combo. They can still be dazed by knocking them into a wall though.
-
-## Gallery
+    
 
 **King Gigamed:**
 
@@ -74,3 +74,8 @@ Static Discharge
 -   Sometimes there is a chance that a Mother Jellyfish will spawn, whilst playing [Jellyfish Jam](https://www.youtube.com/watch?v=LDE7DvHSVUA), a reference from Spongebob Squarepants. They can also spawn with a [Cowboy Hat](https://www.youtube.com/watch?v=v1hGCtrfSQs) too.
 -   The corrupted versions are really just tanks, meaning you should have a shield with you when you are fighting one, to block its jellyfish summon.
 -   The King Gigamed is one of the only monsters, with the [Nautilodaunt](Nautilodaunt.md), that can regen health over time.
+    
+
+## References
+
+1.  [↑](#cite-ref-1)

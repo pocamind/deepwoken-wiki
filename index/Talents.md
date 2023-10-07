@@ -1,14 +1,12 @@
 ---
 title: Talents
-revid: 76456
+revid: 76506
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
 ---
 
 # Talents
-
-Template:DWI Talents
 
 File:DeepwokenThumbnail.png
 
@@ -310,19 +308,16 @@ _**"I enjoy mixing potions."**_
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
     -   Prerequisites: Power 10, 60 Thundercall, Thundercaller
 
--   First Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less posture damage to you.
-    -   Prerequisites: Power 13, 65 Thundercall, Resolve Crusher
+-   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
+    -   Prerequisites: 65 Thundercall, First Interrogation
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
     -   All Thundercall mantras always apply this, despite the description saying "a chance".
-    -   Prerequisites: Power 10, 65 Thundercall, Thundercaller
+    -   Prerequisites: 65 Thundercall, Thundercaller
 
--   Second Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
-    -   Prerequisites: Power 13, 65 Thundercall, First Interrogation
-
--   Third Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage to you.
-    -   Prerequisites: Power 13, 65 Thundercall, Second Interrogation
+-   First Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
+    -   Prerequisites: 65 Thundercall, Resolve Crusher
 
 ### Bastion
 
@@ -2102,7 +2097,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
         -   Default knock time is 10 seconds, so you can make your friends get back into the fight almost 3 times faster.
-    -   Prerequisite: 50 Fortitude, 50 Thundercall
+    -   Prerequisite: 40 Fortitude or Charisma, 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly. (+3 Elemental Intensity)
     -   Prerequisite: Lightning Beam

@@ -1,9 +1,11 @@
 ---
 title: THE MACHINE
-revid: 74033
+revid: 76502
 source: https://deepwoken.fandom.com/wiki/THE_MACHINE
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets, Developer Spec]
+categories: [OutdatedPages, Equipment, Head, Helmets, Developer Spec]
+notices:
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # THE MACHINE

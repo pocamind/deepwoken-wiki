@@ -1,6 +1,6 @@
 ---
 title: Eternal Restraints
-revid: 76403
+revid: 76494
 source: https://deepwoken.fandom.com/wiki/Eternal_Restraints
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -13,7 +13,6 @@ categories: [Equipment, Arms]
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | None |
 | weight | 2 |
 | innate stats | +20% Health , +5 Posture |
 | innate talent | Chains of Eternity , Cognito Hazard |

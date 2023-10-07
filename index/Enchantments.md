@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 76434
+revid: 76490
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -24,7 +24,8 @@ Enchantments have a set chances to be applied to a weapon during the following s
 
 Enchanted weapons/equipment have special mechanics compared to their regular counterparts.
 
--   Enchanted items cannot be dropped on death.
+Enchanted items cannot be dropped on death.
+
 -   You cannot 'stack' enchantments. I.E. if you obtain a helmet with Multiplicity while having boots with Multiplicity equipped, you will be prompted to remove the boots before being able to equip the helmet.
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.

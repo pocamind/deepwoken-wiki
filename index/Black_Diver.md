@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 75619
+revid: 76463
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -30,11 +30,15 @@ This Outfit's Schematic can be found in:
 -   [The Depths](The_Depths.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (Chest)
 
-## Trivia/Notes
+## Trivia
 
 -   This outfit is the superior version of [Diver Apprentice](Diver_Apprentice_Robes.md) and Diver Journeyman.
-    -   It is a reference to Bondrewd's outfit and the Umbra Hands' uniform from the anime Made in Abyss.
+-   It is a reference to Bondrewd's outfit and the Umbra Hands' uniform from the anime and manga series, _Made in Abyss_.[\[1\]](#cite-note-1)
+    -   The old Black Diver version was almost identical to Bondrewd's outfit.
 -   Worn by [Akira](Akira.md), Klaris, Carrion, Chaser, and other Black Divers in [Castle Light](Castle_Light.md), also worn by the [Frostdraw](Frostdraw.md) and [Thundercall](Thundercall.md) trainers.
 -   One of the best existing armor in the game. With a exoskeleton you can have 40% dmg reduction though the armor does lacks armor talent but the defense makes up for it
--   Due to how electrify turns your opponents damage into lightning damage, this is the best coat for Thundercallers due to the 20% lightning armor. However, if you do that, the best is to choose the Ferrymans coat.
--   The old Black Diver version was almost identical to what Bondrewd's outfit from the anime and manga, _Made in Abyss_.
+-   Due to how electrify turns your opponents damage into lightning damage, this is the best coat for Thundercallers due to the 20% lightning armor. However, if you do that, the best is to choose the Ferryman's coat.
+
+## References
+
+1.  [↑](#cite-ref-1)
