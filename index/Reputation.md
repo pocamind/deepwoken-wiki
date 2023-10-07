@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 75398
+revid: 76516
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -318,7 +318,7 @@ File:Ignition Union.png
 -   [The Ministry](The_Ministry.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
--   [Lost Celtor](Lost_Celtor.md) (note that reputation cannot be gained with The Lost Celtor, only lost)
+-   [Lost Celtor](Lost_Celtor.md) (reputation can now be gained in 10/6/23 update)
 
 ### Non-Reputable Factions
 

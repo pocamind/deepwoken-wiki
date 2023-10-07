@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 75945
+revid: 76544
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -71,7 +71,7 @@ See the first parry check. Note that the orbs will start at the same speed as th
 Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. Also note its use of tacet (invisibility) in addition to the typical moveset. The orbs deal no posture damage in this trial. 300 HP but you'll be dealing 2x damage.
 
   
-_For a video walkthrough, consider watching [this video](https://youtu.be/R6Fr8XXI9SE)._
+_For a video walkthrough, consider watching [this video](https://www.youtube.com/watch?v=1tjAyEmXkQk)._
 
 ## Rewards
 

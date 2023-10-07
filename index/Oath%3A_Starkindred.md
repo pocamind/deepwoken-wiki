@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 76251
+revid: 76545
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -41,7 +41,7 @@ You will get a mantra for each kill, and a chest containing [Songseeker](Songsee
 
 The order of mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
 
-_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=wdP9-YHXEcs)._
+_For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=IBey9g9dZLo)._
 
 ## Abilities
 

@@ -1,9 +1,9 @@
 ---
 title: Cloaked Assassin
-revid: 74922
+revid: 76542
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies]
+categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

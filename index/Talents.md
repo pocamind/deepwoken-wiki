@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 76506
+revid: 76541
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -218,7 +218,7 @@ _**"I enjoy mixing potions."**_
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
     -   Gain +20% damage and increased movement speed while the fire is active.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling. Reactivate Flame Within to clear the flames.
-    -   Generally dangerous to use without Pyromania.
+    -   Generally dangerous to use without Agitating Spark’s self damage reduction.
     -   7 seconds cooldown when the flames are cleared.
     -   Prerequisite: 25 Flamecharm
 
@@ -762,10 +762,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. (+3 Elemental Intensity)
     -   Prerequisite: Meteor Impact, 40 Flamecharm
 
--   Thorns of Fire \[Common Talent, Flamecharm Exclusive\] - Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
-    -   Reflected damage is stored in the repulsion itself.
-    -   Prerequisite: Flame Repulsion
-
 ### Fish
 
 -   _Fishman_ \[Generic Talent,Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)
@@ -1086,6 +1082,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I burn so that I may succeed."**_
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
+    -   Self fire damage is reduced
     -   Prerequisites: 40 Flamecharm
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity, +2 Elemental Intensity)
@@ -1853,9 +1850,6 @@ Prerequisite: Charisma
 
 > _**"I weave webs of lightning."**_
 
--   Agitating Static \[Common Talent, Thundercall exclusive\] - Using Discovery of Fire will light nearby downed enemies aflame.
-    -   Prerequisite: Discovery of Fire, 1 Flamecharm
-
 -   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
     -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+4 Elemental Intensity)
@@ -1976,8 +1970,8 @@ These Talents are designed to let you survive longer against starvation and thir
 
 -   Controlled Combustion \[Common Talent, Flamecharm Exclusive\] - Your Agitating Spark no longer spreads to your allies.
     -   Prerequisites: Agitating Spark, 40 Charisma
-    -   Note: Your Agitating Spark no longer spread to yourself too. Some places, like Duke's Dungeon, this talent can do not work well, spreading it to your allies if they are too close of the target.
-    -   Hitting a target with some flame mantras will briefly emite a visual effects in yourself and produce a sound of putting out flame. (This is just visual effects, therefore, is not necessary to dodge)
+    -   Note: Your Agitating Spark no longer spreads to yourself too. In some places, such as Duke's Dungeon, this talent doesn’t work well, spreading to your allies if they are too close to the target.
+    -   Hitting a target with some flame mantras will briefly emit a visual effect in yourself and produce a sound of putting out flame. (These are purely visual effects, therefore, not necessary to dodge)
 
 ### Tavernkeep
 
@@ -2082,11 +2076,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Adept Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 1-star Thundercaller mantras. ( +5 Elemental Intensity)
     -   Prerequisite: 20 Thundercall
 
--   Capacitor \[Common Talent, Thundercall Exclusive\] - Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them. (+4 Elemental Intensity)
-    -   Prerequisite: 20 Thundercall
-
 -   Discovery Of Fire \[Common Talent, Thundercall Exclusive\] - Flints and Flamecharm are for simpletons.
     -   Grants the tool "Discovery of Fire", which uses ether to light up all nearby campfires.
+    -   Using this ability will light nearby downed enemies aflame.
     -   Prerequisite: 50 Thundercall
 
 -   Expert Thundercaller \[Common Talent, Thundercall Exclusive\] - You can now obtain 2-star Thundercaller mantras. ( +1 Elemental Intensity)
@@ -2108,7 +2100,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration. (+3 Elemental Intensity, +1 Health)
     -   Prerequisite: Lightning Clones, 30 Agility, 35 Thunder
 
--   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use.
+-   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use. Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them.
     -   Very tight activation window + delayed activation. If you successfully hit the shock the moment someone tries to carry you, you immediately get back up and trigger the related talents.
     -   Prerequisite: 25 Thundercall
 

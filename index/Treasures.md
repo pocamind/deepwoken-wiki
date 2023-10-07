@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 76218
+revid: 76531
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gems, Items, Mechanics]
@@ -13,33 +13,85 @@ _Not to be confused with [Deep Gems](Deep_Gems.md) or [Ores](Ores.md)._ Items co
 | Appearance | Name | Description | Sell Price |
 | --- | --- | --- | --- |
 | 
- | Sapphire | _A glittering blue corundum._ |  |
+ | 
+
+Sapphire
+
+ | 
+
+_A glittering blue corundum._
+
+ |  |
 | 
 
- | Amethyst | _A gorgeous quartz crystal._ |  |
+ | 
+
+Amethyst
+
+ | 
+
+_A gorgeous quartz crystal._
+
+ |  |
 | 
 
- | Ruby |  |  |
+ | 
+
+Ruby
+
+ | 
+
+_A glittering red corundum._
+
+ |  |
 | 
 
- | Emerald | _Of the non-chaotic variety._ |  |
+ | 
+
+Emerald
+
+ | 
+
+_Of the non-chaotic variety._
+
+ |  |
 | 
 
- | Gold Bar | _Hey, it's worth at least a_
+ | 
+
+Gold Bar
+
+ | 
+
+_Hey, it's worth at least a_
 
 _rat's weight in gold._
 
  |  |
 | 
 
- | Platinum Bar | _Hey, it's worth at least a_
+ | 
+
+Platinum Bar
+
+ | 
+
+_Hey, it's worth at least a_
 
 _rat's weight in gold._
 
  |  |
 | 
 
- | Diamond | _Hey, there's no blood on this one!_ |  |
+ | 
+
+Diamond
+
+ | 
+
+_Hey, there's no blood on this one!_
+
+ |  |
 
 ## Trivia
 

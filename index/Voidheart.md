@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 72028
+revid: 76523
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -27,7 +27,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 ## Points of Interest
 
 -   A Bounty Board
-    -   It is usually always full (especially on larger servers) as everyone has a negative reputation with [Knives of Eylis](The_Knives_of_Eylis.md) on spawn.
+    -   It is usually always full (especially on larger servers) as very few players have positive / neutral [reputation](Reputation.md) with every faction.
 -   Raen, who guides the player through their first step as a voidwalker.
 -   [Dusklit Garden](Dusklit_Garden.md)
 -   A [Chessboard](Chessboard.md)
@@ -35,7 +35,8 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
     Voidheart chessboard
     
 -   [The Voidmother](The_Voidmother.md)
-    -   Wake the player up from the dream, taking them to where they last used their Void Eye.
+    -   Wake the player up from the dream, taking them to where they last used their Voideye.
+        -   Spawns in [Lower Erisia](Lower_Erisia.md) the first time.
 -   Eylis, the Punished Dreamer
     -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items

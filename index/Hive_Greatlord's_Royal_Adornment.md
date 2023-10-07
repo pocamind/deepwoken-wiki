@@ -1,6 +1,6 @@
 ---
 title: "Hive Greatlord's Royal Adornment"
-revid: 76493
+revid: 76532
 source: https://deepwoken.fandom.com/wiki/Hive_Greatlord's_Royal_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Head, Developer Spec]
@@ -32,3 +32,4 @@ The Hive Greatlord's Royal Adornment is an [Equipment](Equipment.md) item under 
 -   This Hat is one of the two [Equipment](Equipment.md) pieces to give a percentage of innate HP. The other one being [Eternal Restraints](Eternal_Restraints.md)
 -   Zithori Vhemm Miziri Diri (yayafino) is the only one wearing Hive Greatlord's Royal Adornment, and it'll be staying that way.
 -   The design of this Hat is without almost a 1:1 copy of [Scaramouche's](https://genshin-impact.fandom.com/wiki/The_Balladeer) hat from the open world RPG, _Genshin Impact_.
+-   No matter who you are, even if you're a developer, wearing this hat will automatically ban you.

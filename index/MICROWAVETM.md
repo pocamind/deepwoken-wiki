@@ -1,9 +1,9 @@
 ---
 title: MICROWAVETM
-revid: 76501
+revid: 76527
 source: https://deepwoken.fandom.com/wiki/MICROWAVETM
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Helmets, Developer Spec]
+categories: [Equipment, Head, Helmets, Developer Spec]
 ---
 
 # MICROWAVETM
@@ -20,10 +20,19 @@ categories: [Equipment, Helmets, Developer Spec]
 | obtainment | (UNOBTAINABLE) |
 | description | "Go play heat signature" |
 
-## DESCRIPTION
+## Description
 
-MICROWAVETM IS AN UNOBTAINABLE [EQUIPMENT](Equipment.md) ITEM UNDER THE "HEAD" CATEGORY. IT IS BY FAR THE BEST ITEM IN THE GAME, DESPITE ONLY GIVING +5 HEALTH & +1 UNCOMMON PIP UPON EQUIPPING.
+MICROWAVETM is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It gives +5 health & +1 uncommon pip upon equipping.
 
-## TRIVIA
+The item itself is a large microwave worn on the wearer's head.
 
--   MICROWAVETM IS ONE OF THE FIVE [EQUIPMENT](Equipment.md) PIECES OBTAINED THROUGH THE MOD SHOP. THE OTHERS BEING [A LOT OF HATS](A_Lot_of_Hats.md), [MODERATOR CAP](Moderator_Cap.md), (idk), AND [THE MACHINE](THE_MACHINE.md).
+## Trivia
+
+-   MICROWAVETM is one of the five [Equipment](Equipment.md) pieces obtain through the mod shop, the others being: [A Lot of Hats](A_Lot_of_Hats.md), [Moderator Cap](Moderator_Cap.md), [THE MACHINE](THE_MACHINE.md) and an unknown item.
+-   MICROWAVETM is also seen lying on the kitchen floor in [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md).
+-   It is most likely named after, Head Moderator, HorrorTM.
+-   Their is meant to be a timer on the microwave, but it's, for some unknown reason, invisible.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)
