@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 74928
+revid: 76548
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -25,6 +25,9 @@ categories: [Weapons, Swords]
 | pass down | Yes |
 | obtainment | Songseeker Wilds (Chests), Minityrsa (Chests), Starswept Valley (Chests), Artifact Turn-Ins, Terrapod (Crimson Drop), The Depths |
 | description | "A serrated cutlass fashioned after the famously brutal bite of a Lionfish." |
+
+_  
+i wanna eat a terrapod so badly fr pls gimme a terrapod rn i will legit consume it RN_
 
 ## Description
 
