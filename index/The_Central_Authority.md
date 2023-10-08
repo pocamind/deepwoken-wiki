@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 75509
+revid: 76592
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -33,7 +33,7 @@ A large military organization, native to the Central Luminant. They are led by a
 
 -   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
 -   Enemies with [The Kingdom of Etrea](Etrea.md).
--   Enemies with [The Hive](The_Hive.md).
+-   Dislikes [The Hive](The_Hive.md), but not direct enemies. They do not directly attack each other on each other's bases (tested with fort merit guards, authority captains, hive foot soldiers, and hive guards. Results: Merit guards wont attack ANY hive NPC, hive guards wont attack any authority npc, authority captain will ONLY hurt hive soldiers and the hive mechs).
 -   Enemies with [The Ministry](The_Ministry.md).
 -   Provides funding for [The Divers](The_Divers.md).
 -   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).
@@ -55,7 +55,7 @@ A large military organization, native to the Central Luminant. They are led by a
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
     -   Interestingly, [Warden Jericho](Tomb_of_the_Nameless_Warrior.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
--   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions.
+-   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other, they only fight on the battlegrounds of Starswept.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
 -   It is highly likely that the Authority Origin and Warmaster oath will be added within the Central Luminant update, though this is simply speculation.
 -   "[The Gideshu March](https://www.youtube.com/watch?v=xtWc0r3yWgA)" has a line saying, "Bring order, peace, [Adretian](Adret.md) fame!" showing their biases towards Adrets are something worn on their sleeve rather than kept hidden.

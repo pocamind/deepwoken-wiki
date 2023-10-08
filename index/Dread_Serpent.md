@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 75728
+revid: 76597
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -27,24 +27,29 @@ Though there are many seen today, the first Dread Serpent was born when a man, o
 
 _For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)._
 
-| Name | Description | Parry-
+| Name | Media | Description | Parry-
 able?
 
  | Danger |
-| --- | --- | --- | --- |
-| Dread Breath | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. | ✗ | (★★★) |
-| Claw Swipe | Swipes two times in quick succession
+| --- | --- | --- | --- | --- |
+| Dread Breath | 
 
-Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe.
+ | The Dread Serpent opens its mouth and releases a white-frost beam, dealing extreme rapid damage to those around it and freezing the water. Also deals heavy damage to boats. | ✗ | (★★★) |
+| Claw Swipe | 
 
-If you would be knocked by this attack / hit while knocked, you will be instantly executed
+ | Swipes two times in quick succession
+
+Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe. If the opponent is low enough, It will **AUTO-GRIP** the player.
 
  | ◯ | (★☆☆) |
-| Tail Swipe | An attack with the tail. Is often used after two claw swipes. | ◯ | (★★☆) |
+| Tail Swipe | 
 
-#### Finisher
+ | An attack with the tail. Is often used after two claw swipes. | ◯ | (★★☆) |
 
--   **Disembowel** - The Dread Serpent effortlessly swings its claw to finish their prey.
+## Passives
+
+-   **Dreadmantle** - Has a 75% resistance against [Frostdraw](Frostdraw.md) attacks.
+-   **Ignis Caesura** - Automatically extinguishes [campfires](Campfire_Pit.md) when nearby.
 
 ## Trivia
 
@@ -56,17 +61,11 @@ If you would be knocked by this attack / hit while knocked, you will be instantl
 -   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.
 -   It's implied that the dread serpent took out the Petra's Dawn as the Petra's anchor is one of the drops.
 -   The dread serpent's health does not increase with the number of people fighting it, so it is beneficial to fight it with a group of friends.
--   It's appearance is supposedly exactly what an Elder Edenkite once looked like, only it has no wings.
+-   Its appearance is supposedly exactly what an Elder Edenkite once looked like, only it has no wings.
 -   The model for the Dread Serpent's Tooth is a Dark Feather.
     -   Since the Skyreap Blade has feathers on it, with the blade being made from Edenkite bone, it's entirely possibly the Dread Serpent does also have them too.
--   The Tooth that Dread Serpent drops can be used to gain its breath attack. This is locked behind Layer 2 however.
--   Apparently it can fly, though it doesn't use this in battle.
+-   The Tooth that Dread Serpent drops can be used to gain its breath attack. This is locked behind Layer 2, however.
+-   Apparently, it can fly, though it doesn't use this in battle.
 -   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
--   When near a campfire, it automatically extinguishes the campfire.
--   Has a innate 75% resistance against frostdraw.
-
-## Gallery
-
-Closeup

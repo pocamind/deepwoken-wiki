@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 76571
+revid: 76580
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,15 +13,9 @@ categories: [Oaths]
 | oath_req | Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility |
 | effects | +5 Posture, +10 Health, +10% Mantra Resistance, +10% Weapon Damage |
 
-“ They Would All Bear Witness... ...To The Bare Flesh Of The One Who Is Free...
+“ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
-To The One Who Left It All Behind! And His Overwhelming Intensity!!! ”
-
-― The Dreadstar, Probably
-
-“ MY STARS! ”
-
-― Former Authority Silentheart Gabriel Etudi, moments before bashing in the skull of an Angel
+― The Dreadstar
 
 ## Description
 
