@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 76582
+revid: 76646
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -244,7 +244,13 @@ Legendary = Gold
 <tr>
   <td></td>
   <td><b>Darksteel Greatsword (rare)</b></td>
+  <td>Windmill Ring (rare)</td>
   <td></td>
+</tr>
+<tr>
+  <td></td>
+  <td><b>Darkalloy Greatsword (extremely rare)</b></td>
+  <td>Light Eater Ring (rare)</td>
   <td></td>
 </tr>
 </tbody>

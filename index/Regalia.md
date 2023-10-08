@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 75180
+revid: 76648
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Mechanics]
@@ -26,7 +26,7 @@ Wiping below power 3-5 is known to keep the Mute Regalia if the wiped character 
 
 Mute is disabled in [Hell Mode](Hell_Mode.md) and all Dungeons (I.E. [The Eternal Gale](Second_Layer.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)).
 
-The only monsters that are not affected are [Desert Knight](Stone_Knight.md), [Blizzard Knight](Stone_Knight.md), [Golems](Rock_Golem.md) (all var), [Rogue Construct](Hive_Construct.md), [Enforcers](Enforcer.md), [Angels](Hollow_Angel.md) (all var), and Grounded Mudskippers (Event)
+The only monsters that are not affected are [Desert knight](Stone_Knight.md), [Blizzard knight](Stone_Knight.md), [Golems](Rock_Golem.md) (all var), [Rouge construct](Hive_Construct.md), [Enforcers](Enforcer.md), [Angels](Hollow_Angel.md) (all var), and grounded mudskippers (Event)
 
 -   [Immortal Guardians](Immortal_Guardian.md) are affected by Mute.
 -   [Brainsuckers](Brainsucker.md) encountered in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) are not affected by Mute.

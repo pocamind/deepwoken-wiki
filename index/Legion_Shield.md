@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 76635
+revid: 76645
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -12,13 +12,6 @@ categories: [Weapons, Shields]
 |---|---|
 | type | Shield |
 | requirements | 60 Fortitude |
-| damage | N/A |
-| scaling | N/A |
-| range | N/A |
-| swing speed | N/A |
-| endlag | N/A |
-| penetration | N/A |
-| special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
 | selling price | ? |
 | weight | 2 |

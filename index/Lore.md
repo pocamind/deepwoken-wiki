@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 76393
+revid: 76650
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -698,7 +698,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, The Knives of Eylis, The Central Authority, The Kingdom of Etrea_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
-    -   (Arch\_Mage) Navae is personified as a female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
+    -   (Arch\_Mage) Navae is personified female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.
         -   In the Etrean Luminant (East), The Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.
         -   A Celestial.
         -   Following up about Gremor Compasses, it is redundant to use the sun as a form of direction like we normally do (Sunrise to the east, Sunset to the west), as stated above.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 76639
+revid: 76647
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -115,19 +115,23 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 <tbody>
 <tr>
   <th colspan="3"><b>Possible dialogue results:</b></th>
+  <th></th>
 </tr>
 <tr>
-  <td><p><b>Exhibit A</b></p></td>
-  <td><p><b>Exhibit B</b></p></td>
-  <td><p><b>Exhibit C</b></p></td>
+  <td><p><b>Boss Path</b></p></td>
+  <td><p><b>Depth Path</b></p></td>
+  <td><p><b>PVP Path</b></p></td>
+  <td><p><b>Worthy Regalia</b></p></td>
 </tr>
 <tr>
   <td><b>Sibex:</b> "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
   <td><b>Sibex:</b> "Ah... An inquisitive soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."</td>
-  <td><b>Sibex:</b> Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
+  <td><b>Sibex:</b> "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
+  <td><b>Sibex:</b> "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."</td>
 </tr>
 <tr>
   <th colspan="3"><b>What to do:</b></th>
+  <th></th>
 </tr>
 <tr>
   <td>Fight and kill <a href="Bosses.md">Boss</a> Monsters, including:
@@ -143,9 +147,11 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   </ul></td>
   <td><b>Go to <a href="The_Depths.md">The Depths</a>, and kill Players, <a href="The_Depths.md">Corrupted Monsters</a>, and Monsters unique to The Depths.</b></td>
   <td><b>Fight and kill Players. Doing this via the <a href="Chime_of_Conflict.md">Chime Of Conflict</a> is recommended.</b></td>
+  <td><b>Anything. You have all paths enabled, you gain bonus Progress from everything.</b></td>
 </tr>
 <tr>
   <th colspan="3"><b>Extra/Important information:</b></th>
+  <th></th>
 </tr>
 <tr>
   <td>Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.<p><br>
@@ -182,6 +188,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   </p>
   <p>When killing players, you will not gain Progress upon grip unless they are around your general Power level.</p>
   <p>Another important thing to note is The <a href="Chime_of_Conflict.md">Chime of Conflict</a>, which is safer and will give more Progress, as opposed to The Overworld or The Depths.</p></td>
+  <td>You are given every path available at once. As there's no way of knowing when you awaken the Worthy <a href="Regalia.md">Regalia</a> (outside of talking to Sibex or the Legendary Boot after awakening it), you will hardly be able to specifically benefit from the aformentionned effect. Nontheless, it is still useful in its own way.</td>
 </tr>
 </tbody>
 </table>
