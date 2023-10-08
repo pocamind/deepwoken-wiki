@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 76535
+revid: 76625
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -2808,6 +2808,7 @@ _+3 Health_
 
 Found from:
 
+-   [Aratel Island](Aratel_Island.md)
 -   [Hell Mode](Hell_Mode.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
