@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 76580
+revid: 76609
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -16,6 +16,10 @@ categories: [Oaths]
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
 ― The Dreadstar
+
+“ MY STARS! ”
+
+― Former Authority Silentheart Gabriel Etudi, moments before bashing in the skull of an Angel
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 76541
+revid: 76622
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2092,6 +2092,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 40 Fortitude or Charisma, 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly. (+3 Elemental Intensity)
+    -   Does not work on monsters
     -   Prerequisite: Lightning Beam
 
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)

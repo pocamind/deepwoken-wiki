@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 71679
+revid: 76618
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -10,7 +10,8 @@ categories: [World, Items]
 
 | Canteen | |
 |---|---|
-| usage | Holds drinkable water |
+| usage | Holds Liquids |
+| recipe | Calabash + Beeswax + Crafting Table |
 
 ## Description
 

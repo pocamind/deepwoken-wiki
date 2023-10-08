@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 75421
+revid: 76620
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -80,7 +80,7 @@ able?
 -   He only uses this attack in Phase 2.
 
  | ◯ | (★☆☆) | **II** |
-| **Grand Volley** | The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools. Causing him to displace while he's winding up can make him movestack with another attack, including another volley.
+| **Grand Volley** | The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools.
 
 -   He only uses this attack in Phase 2. (Each spear does about 220 damage; this is a rough estimate though.)
 
@@ -103,7 +103,7 @@ able?
 
 Ferryman is the most "boss-like" Boss in the entire game, as he is not an entity that you can defeat without taking a single step, unlike most other monsters and hostile NPCs encountered in the game. He forces you to move around the battlefield, which he has near total control of at all times, which makes it an absolute must to keep track of where he is and what he's going to do. Acute awareness and quick reaction times are required to survive this battle in one piece.
 
-The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in just about every category, gaining more speed, attack, health, and reducing time between attacks and time to hit him as well as changing the music. For reference on the damage scaling, at four people, just about all of his attacks can kill a mid-level player instantly.
+The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in just about every category, gaining more speed, attack, health, and reducing time between attacks and time to hit him. For reference on the damage scaling, at four people, just about all of his attacks can kill a mid-level player instantly.
 
 Each section describing the phases explains in great detail how to deal with his moves in each respective phase.
 
@@ -116,7 +116,6 @@ Each section describing the phases explains in great detail how to deal with his
 -   Both variations of the lightning strike move can be interrupted by simply hitting the Ferryman. The best strategy is to simply run at him and start wailing on him, as the lightning strikes won't work.
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to four specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
--   With the update to giving heavy weapons an aerial attack, it is now alot easier to beat the Ferryman with heavy weapons, making it easy to beat with any weapon.
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
 -   It is a good idea to turn on your in-game music in this fight, as his theme changes with his phase, which helps prevent tragic situations against a certain move of his.
 -   Tacet can trivialise the fight. By going behind a rock and using tacet, then resting at a campfire, you can heal without any risk of him attacking you. His AI will lose track of you and he will teleport around the arena without using any of his attacks.
@@ -142,11 +141,10 @@ Phase two is where it gets real- the true fight. All of his previous attacks get
 
 -   **Displacement** - As said before, Ferryman begins to teleport with less delay and much closer to the player, and even doing more attacks before giving time to hit him, can be especially deadly if getting hit something like Electromagnetic Pulse and then Grand Volley.
 -   **Lighting Strike** - Lightning strike is somewhat of a threat now, becoming much faster and dealing many more AoE's, along with more damage. If unlucky, you can get hit with one and just be forced to eat all the other ones and take massive damage, although if lucky, you can parry all of them by parrying the first one and simply holding. The attack tends to trail behind you if you're sprinting, however, so it can be easily punished. If you are not damaged, Medium Weapons can get about 3-4 hits in.
--   **Lightning Assault** - Lightning Assault deals significantly more damage, and now has almost no delay between attacks, doing all three slashes one after the other: this, however, unexpectedly makes the move much easier to counter by as the second consecutive assault can be parried alongside the first one in with a single parry toggle. You can tell that this is his current attack if you don't see him in the center of his Electromagnetic Pulse. Whenever the ferryman complete this move, getting close will immediatly trigger another attack starting with Displacement, which could either be Lightning Strike, Grand Volley or another Lightning Assault. He becomes vulnerable after his second attack.
+-   **Lightning Assault** - Lightning Assault deals significantly more damage, and now has almost no delay between attacks, doing all three slashes one after the other: this, however, unexpectedly makes the move much easier to counter by as the second consecutive assault can be parried alongside the first one in with a single parry toggle. You can tell that this is his current attack if you don't see him in the center of his Electromagnetic Pulse. Whenever the ferryman completes this move, getting close will immediatly trigger another attack starting with Displacement, which could either be Lightning Strike, Grand Volley or another Lightning Assault. He becomes vulnerable after his second attack.
 -   **Electromagnetic Pulse** - Ferryman's most powerful and useless attack at the same time. In the unlucky case that Ferryman teleports next to you point blank, you will get obliterated not for its damage, but for its stun. The stun can easily lead to you being unable to avoid getting hit by his next attack, which he does instantly after Electromagnetic Pulse. It's recommended that you stay close to Ferryman, at least close enough when he teleports, as he is unlikely to teleport near his current location.
--   **Grand Volley** - Ferryman's most reliably dangerous attack. He has a significant wind-up when throwing his Javelins, and they seem to be slower than normal Javelins, but they are still massive, infinite range projectiles that he locks onto you with. At the beginning of the move there is a sound cue to help with identifying the attack and direction it can be coming from if the Ferryman has displaced himself out of your sight. Each Javelin deals about 160 damage (solo). This doesn't seem to be completely deadly, if not devastating, until you realize that **he throws four in rapid-fire succession.** Getting hit by one easily leads to you being steamrolled by the additional javelins. It's very important to make distance if healing is required, so that he cannot just obliterate you with an unexpected Pulse & Grand Volley combo.
-
-If he is using this while you are at melee range with him, he will give you some time to get away from him so you wont die instantly.
+-   **Grand Volley** - Ferryman's most reliably dangerous attack. He has a significant wind-up when throwing his Javelins, and they seem to be slower than normal Javelins, but they are still massive, infinite range projectiles that he locks onto you with. At the beginning of the move there is a sound cue to help with identifying the attack and direction it can be coming from if the Ferryman has displaced himself out of your sight. Getting hit by one easily leads to you being steamrolled by the additional javelins. It's very important to make distance if healing is required, so that he cannot just obliterate you with an unexpected Pulse & Grand Volley combo. The sound comes a bit before the attacks, giving you time to react at melee range. They are relatively easy to react to at distance as they move quite slowly. It should be noted that **he will target ALL PLAYERS in the arena with this attack**, making it significantly more difficult to dodge with multiple players.
+    
 
 As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
 
@@ -185,9 +183,6 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   Ferryman Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
--   The Ferryman takes about 25 minutes to respawn.
-    -   Sometimes, he won't spawn even if the timer is off, and all campfires have been lit. In this scenario, you need to destroy and replace all of the campfires, or log and join another server, to solve the issue.
-    -   You can easily ignore this time by destroying all campfires, replacing them, and relighting them, but this can stop you from getting rewards if you killed him previously in the same server less than 25 minutes ago. (Bug)
 -   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
@@ -199,7 +194,7 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
 -   There is no concrete evidence that the rumored "Ferryman's Will" talent exists, although Javelin Lord definitely does. The only confirmed card in Javelin Lord is "Grand Skewer". It is obviously a hoax, as Grand Skewer is the only card in javelin lord, once you get it you can check the tree for it and see it already is 1/1.
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
--   The Ferryman is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
+-   The Ferryman is stated to be "Probably Bi" by Arch\_Mage.
 
 -   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
@@ -223,8 +218,9 @@ Yamaketzal mentioning the Ferryman.
 
 ## Bugs
 
--   It is possible to pass through the Ferryman's barrier using Rapid Slashes, a Light weapons mantra, or any move with a Wayward Gem equipped. This requires a player at the other side of the barrier. (This works with many other instant teleports moves such as Jolt Grab)
--   Using the method above causes the his music to bug and play the default combat theme.
+-   It is possible to pass through the Ferryman's barrier using Rapid Slashes, a Light weapons mantra, or any move with a Wayward Gem equipped. This requires a player at the other side of the barrier (This works with many other instant teleports moves such as Jolt Grab). You can also leave in a server where the Ferryman is not spawned, and join one where he is spawned.
+    -   Using the method above causes the his music to bug and play the default combat theme.
+    -   Additionally, standing against the barrier causes the Ferryman to attack both players despite the other not technically being in the arena.
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
 -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.

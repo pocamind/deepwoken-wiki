@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 76213
+revid: 76614
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -8,11 +8,21 @@ categories: [Pages with broken file links, Items, Harvestables]
 
 # Ores
 
+| Coal | |
+|---|---|
+| value | 1 |
+| weight | ??? |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | ??? |
+
 | Iron | |
 |---|---|
 | value | 5 |
 | weight | ??? |
-| type | Ingredient, Consumable |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -50,9 +60,9 @@ Unsellable
 
 **Coal:**
 
-A black ore used in crafting Flint and bombs. Found in most caves.
+## Overview
 
-Sells for 1 Note
+A black ore used in crafting Flint and Bombs. Found in most caves.
 
 **Iron:**
 
