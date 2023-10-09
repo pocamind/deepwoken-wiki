@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 76645
+revid: 76666
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -29,4 +29,3 @@ A Khan Shield is a [side weapon](Weapons.md) in the Shield category. It can be o
 ## Trivia
 
 -   The head on the face of the shield may be a reference to the shield of Athena, which sported the head of Medusa on it.
--   The Khan Shield is the drippiest shield in game

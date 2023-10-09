@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 76652
+revid: 76653
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -29,7 +29,7 @@ After the quest, Karliah quits [The Divers](The_Divers.md) and can be found rest
 
 ## Trivia
 
--   Karliah's hair combo is 4584787037
+-   Karliah's hair combo is 4584787037.
 -   Karliah Colors: #96acba Skin | #5D6072 Hair | #daa400 Pupils | #be0000 Facial Marking
 -   Karliah seems to show a romantic interest in your character.
     -   Due to this, she is considered a love interest by many players.

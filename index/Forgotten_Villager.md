@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 74662
+revid: 76663
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs]
@@ -47,4 +47,4 @@ File:Forgotten Villager Event Chest.png
 Location of the chests' spawn after completing the event
 
 -   Taking a knocked one to [Alastir](Alastir.md) will result in no reaction.
--   They are basically hostile to every npcs including the [Teacher](Teacher.md) npcs.
+-   They are hostile to every NPC, including the [Teacher](Teacher.md) NPC.

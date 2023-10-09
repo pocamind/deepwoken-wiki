@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 70792
+revid: 76658
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -14,7 +14,7 @@ An example of a player's Power and stat allotment
 
 Each level of Power grants 15 investment points to a player, these investment points can be put into any of the skills present within the game which are redirected into their actual stats. Once all 15 points have been invested a player will increase their Power upon meeting EXP requirements. As players Power up further the EXP required to invest a point will increase as well. The maximum Power is currently 20.
 
-Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, or rarely a fifth card which is fold. Additionally, their health is restored and their life is unstained (if they were previously stained). Hunger and thirst are also brought back to full.
+Once powered up, players will be given a selection of cards to choose from which can be Talents, Mantras, or rarely a fifth card which is fold. Additionally, their health is restored, and their health bar is unstained (if they were previously stained). Hunger and thirst are also brought back to full.
 
 Fold cards will postpone the player's reception of a Card until their next Power up. If you fold, you will be granted an additional hand on your next Power Increase. This second hand will be randomised and differ from the previously folded one.
 
@@ -29,18 +29,18 @@ To keep progressing however, you will need regular EXP, obtained by killing thin
 
 ### Base Attributes
 
--   Strength
--   Fortitude
--   Agility
--   Intelligence
--   Willpower
+-   Strength (**STR**)
+-   Fortitude (**FOR**)
+-   Agility (**AGI**)
+-   Intelligence (**INT**)
+-   Willpower (**WIL**)
 -   Charisma
 
 ### Weapon Attributes
 
--   Heavy Weapons (HVY)
--   Light Weapons (LHT)
--   Medium Weapons (MED)
+-   Heavy Weapons (**HVY**)
+-   Light Weapons (**LHT**)
+-   Medium Weapons (**MED**)
 
 ### Attunement Attributes
 

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 76073
+revid: 76659
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -47,7 +47,11 @@ A group of three thieves, recognizable by their black armor and the lack of camp
 
 Similar to bandit events, with three to four enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a Gremor Hostage. Occurs at Upper Erisia and Songseeker Wilds. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
 
-#### **Authority Scouts**
+**Blacksteel Water Tower**
+
+In the [Etrean Sea](The_Etrean_Sea.md), Blacksteel Water Towers may spawn. They contain 5 [Blacksteel Pirates](Blacksteel_Pirate.md), defeating them yields 2 chests, on ontop of the Tower, and One under it which can only be accessed when the tower falls approximately 10 seconds after all the Pirates are defeated. The chests yield decent EXP and items. They can serve as High-Risk, High-reward opportunities for freshspawns, since they are decently easy to fight.
+
+**Authority Scouts**
 
 In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use Thundercall and the Peacekeepers use an unknown Flamecharm mantra, identical to the one used by Red Necroskippers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Peacekeepers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
 
