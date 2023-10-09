@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 76097
+revid: 76678
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -88,7 +88,7 @@ A Kyrsgarde Crawler executes it's opponent:
 
 | Name | Description |
 | --- | --- |
-| Placeholder | Placeholder |
+| Strong Grip | Any of the Kysgarde Crawler attacks will insta grip you if you are low enough or if you are downed. |
 
 **Kyrsgarde Sniper:**
 
@@ -162,7 +162,7 @@ A Kyrsgarde Brute executes it's opponent:
 
 | Name | Description |
 | --- | --- |
-| Placeholder | Placeholder |
+| Lethal Drill | The Kyrsgarde brute will pick up with its arm and spin you around until you die. (you will only die by this if you are downed or low) |
 
 ## Trivia
 

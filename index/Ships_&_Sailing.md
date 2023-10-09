@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 75329
+revid: 76686
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -34,6 +34,8 @@ Boats can be repaired with the [Repair Hammer](Repair_Hammer.md) which can be bo
 You can find information about ship Control and Sailing [here](Ships_&_Sailing.md).
 
 The custom decal of your guild will appear on the flag of your boat.
+
+When boats are below 50% of their integrity, **YOU'LL NO LONGER BE ABLE TO SPAWN ON THEM,** until repaired.
 
 ## Boats
 

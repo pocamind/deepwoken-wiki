@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 75985
+revid: 76683
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -38,6 +38,8 @@ If you place down a marker in a specific place (Etris, etc..) that said marker w
 Using the resonance while aiming at a marker starts the teleportation sequence, creating a ring around the user. After charging up (charge speed depends on distance (further = longer to charge) and Resonance Points), everyone inside the ring is transported to the location of the mark.
 
 You can place down 1-3 waypoints (or more if drowned). If you try to place another, the oldest waypoint you placed will get removed.
+
+If Teleportation is drowned, it will have more Resonance Points which means it has improved stats compared to normal Teleportation. "Mark on players" might also be guaranteed (needs confirmation).
 
 ### _**Resonance Point Usage**_
 

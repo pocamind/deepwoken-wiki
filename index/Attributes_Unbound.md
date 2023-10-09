@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 72452
+revid: 76681
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -14,7 +14,7 @@ categories: [Character, Attributes]
 
 ## Character Attributes Unbound
 
-Character Attributes will permanently be unbounded if you have done the quest once on that slot before, allowing you to unbound your attribute after 75 without the repetition.
+Character Attributes will permanently be unbounded if you have previously done the quest on that slot before, allowing you to unbind your attribute after 75 without repeating the quest.
 
 ### Strength Unbound
 
