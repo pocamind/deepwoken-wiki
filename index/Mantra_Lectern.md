@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 54908
+revid: 76696
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Mechanics, Mantras]
@@ -13,7 +13,7 @@ categories: [World, Mechanics, Mantras]
 
 ## Description
 
-Mantra Tables are a utility item that are used to improve your existing [Mantras](Mantras.md). They are typically found in larger settlements like the Isle of Vigils or Etris.
+Mantra Tables are a utility item that are used to improve your existing [Mantras](Mantras.md). They are typically found in larger settlements like the Isle of Vigils or Etris. There is also one at [Castle Light](Castle_Light.md), for use in [The Depths](First_Layer.md).
 
 Mantra Tables resemble typical tables with segments of what looks like sand inside. The five blue discs will start to illuminate with the value of your used Mantra Modifiers.
 

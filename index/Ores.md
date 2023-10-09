@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 76614
+revid: 76708
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Harvestables]
@@ -41,6 +41,16 @@ categories: [Pages with broken file links, Items, Harvestables]
 | Irithine | |
 |---|---|
 | value | 12 |
+| weight | ??? |
+| type | Ingredient, Consumable |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A rare and powerful metal. |
+
+| Astruline | |
+|---|---|
+| value | 19 |
 | weight | ??? |
 | type | Ingredient, Consumable |
 | bankable | Yes |
@@ -90,9 +100,9 @@ A vibrant green ore used for crafting certain armors. Found in [The Garden Reser
 
 **Astruline:**
 
-A pink ore that comes from meteor deposits. Found in Songseeker Caves, under Starswept Valley, or inside the City of the Drowned in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from). The drop rate for Pure Astruline is around 15%.
+## Overview
 
-Sells for 19 Notes
+A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseeker_Wilds.md), under [Starswept Valley](The_Starswept_Valley.md), or inside [The City of the Drowned](The_City_of_the_Drowned.md) in certain locations (pink roofs near the gates behind the houses to the left or to the right depending on where you come from). The drop rate for Pure Astruline is around 15%.
 
 **Umbrite:**
 
@@ -110,4 +120,4 @@ File:Umbrite1.jpg
 -   Every Pure Ore can be given to the Blacksmith except for iron and gold. (You can't get pure coal and pure rocks.) Additionally, Pure Ore can be converted into 3x of it's normal variant by attempting to craft with it.
 -   All ores other than rocks can be sold, and most pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
 -   Every ore can be eaten with Termite except for Umbrite and Astruline.
--   Mining ores mainly gives Strength XP.
+-   Mining ores mainly gives Strength XP But is one of the harder ways easiest way is to use a DumbBell that you buy in either voidheart or in Antiquarian etrea can also be bought as a deepbound in depths.

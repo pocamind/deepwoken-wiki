@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 76622
+revid: 76709
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1036,6 +1036,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
+        -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
     -   Reduce knockdowns (like heavy weapon crit, ascension, etc) duration by 30%.
     -   Prerequisites: 100 Fortitude, 100 Willpower and Perseverance (and maybe Mental Fortress talents, need testing)
 

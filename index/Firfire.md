@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 72155
+revid: 76703
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -30,3 +30,4 @@ You can find a spear in the Firfire Caverns to obtain the Ethiron's Gaze talent 
 ## Trivia/Notes
 
 -   The music for this area is [Whisperwind](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   After using the resting emote near Makolis Pariah Katatonicus, if you talk to him in future Layer 2 runs he will label you as "Friendwalker" instead of "Fringe/Frinwalker".
