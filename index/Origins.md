@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 75800
+revid: 76737
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -92,7 +92,7 @@ Also, all of the kills need to be made on one single character.
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
         -   You can always teleport through the Voidmother no matter what, even in combat. Use it if you are getting attacked in a fight you can't win, as it is VERY unlikely that you teleport to the same place as your attacker.
     -   **\[PRO\]** Increased EXP Gain from bounties...
-    -   **\[CON\]** ...but reduced EXP Gain from events (estimated to be x0.95).
+    -   **\[CON\]** ...but reduced EXP Gain from events.
 -   Grants the Knives of Eylis talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
@@ -107,11 +107,12 @@ Also, all of the kills need to be made on one single character.
     -   This ability has a 10-minute cooldown. _The cooldown automatically ends when a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO\]** You spawn with Whaler Initiate Armor.
--   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which connects you to players who have yet to establish a rapport with the Knives.
-    -   Your starting reputations are:
-        -   Friend of The Knives of Eylis and Lost Celtor
-        -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, and The Hundred Legions.
--   **\[CON\]** You can be hunted by fellow voidwalkers if you have negative rep with those with a bounty board
+-   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other voidwalkers)
+    -   Having a bounty for any of the following factions will also add the bounty this board: Kingdom of Etrea, The Authority, The Hive, The Ignition Union, The Summer Company, The Knives of Eylis.
+-   Your starting reputations are:
+    -   Friend of The Knives of Eylis and Lost Celtor
+    -   Enemy of The Kingdom of Etrea, The Children of Navae, The Ministry, and The Hundred Legions.
+-   **\[CON\]** Due to your starting reputation, you can be bounty hunted by other voidwalkers early on.
 
 ## Upcoming Origins
 

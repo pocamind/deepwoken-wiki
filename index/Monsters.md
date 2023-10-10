@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 76300
+revid: 76734
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -49,7 +49,7 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 -   Flamewreathed - (Weakness, Galebreathe) (Resist, Flamecharm)
 -   Frostmantle - (Weakness, Flamecharm) (Resist, Frostdraw)
 -   Galeforced - (Weakness, Frostdraw) (Resist, Galebreathe)
--   Thunderstruck - (Weakness, Frostdraw) (Resist, Thundercall) - I tested it, Frostdraw is its weakness, Ironsing isn't.
+-   Thunderstruck - (Weakness, Frostdraw) (Resist, Thundercall)
 -   Shadowmelded - (Weakness, All Attunements) (Resist, Basic Attacks)
 
 Humanoid Monsters cannot be Attuned. Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.

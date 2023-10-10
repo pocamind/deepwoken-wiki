@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 76721
+revid: 76736
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -8,15 +8,25 @@ categories: [Items, Harvestables]
 
 # Ores
 
-| Coal | |
+| Rock | |
 |---|---|
-| value | 1 |
-| weight | ??? |
+| value | N/A |
+| weight | 1 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | ??? |
+
+| Coal | |
+|---|---|
+| value | 1 |
+| weight | 1 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Smoky... |
 
 | Iron | |
 |---|---|
@@ -38,10 +48,20 @@ categories: [Items, Harvestables]
 | pass down | No |
 | desc | A rare and powerful metal. |
 
+| Erisore | |
+|---|---|
+| value | 15 |
+| weight | 1 |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A metal unique to Erisia. Shame the world lost this long ago. |
+
 | Irithine | |
 |---|---|
 | value | 12 |
-| weight | ??? |
+| weight | 1 |
 | type | Ingredient, Consumable |
 | bankable | Yes |
 | droppable | Yes |
@@ -50,18 +70,18 @@ categories: [Items, Harvestables]
 
 | Astruline | |
 |---|---|
-| value | 19 |
-| weight | ??? |
+| value | 15 |
+| weight | 1 |
 | type | Ingredient, Consumable |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare and powerful metal. |
+| desc | A powerful metal from meteor deposits. |
 
 | Umbrite | |
 |---|---|
-| value | 45 |
-| weight | ??? |
+| value | 15 |
+| weight | 1 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
@@ -98,7 +118,7 @@ A glimmering, yellow ore used for crafting certain armors. Found in the [Songsee
 
 **Erisore:**
 
-A glowing, blue ore used for crafting certain armors. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md), the inside of [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and [The Entropy Catalyst](The_Entropy_Catalyst.md). Erisore can also be dropped by Mechalodaunts at Miner's Landing.
+A glowing, blue ore used for crafting certain armors. Found in Upper Erisia near the open entrance of [The Hidden Village](The_Hidden_Village.md), the inside of [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), and at [The Entropy Catalyst](The_Entropy_Catalyst.md). Erisore can also be dropped by Mechalodaunts at Miner's Landing.
 
 Sells for 15 Notes
 
