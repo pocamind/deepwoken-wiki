@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 76646
+revid: 76719
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -85,21 +85,21 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 | _Trial_ Power | Enemy(s) |
 | --- | --- |
-| 0-9 | Nothing (you are sent up without a fight) |
-| 10-19 | [Mudskipper Knight](Mudskipper.md) |
-| 20-29 | [Angel](Hollow_Angel.md) (Lesser) |
-| 30-49 | [Megalodaunt](Megalodaunt.md) |
-| 50-69 or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 0-3 | Nothing (you are sent up without a fight) |
+| 3.33-6.33 | [Mudskipper Knight](Mudskipper.md) |
+| 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
+| 10-16.33 | [Megalodaunt](Megalodaunt.md) |
+| 16.66+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | Drowned 10+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | Waves of enemies will spawn, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
--   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced in to a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
+-   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
     -   This will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players randomly butting or tagging along in the cathedral's elevator, especially if they have set a trap for you to fight not one but two corrupted Trial monsters.
         -   It is also advised to also know the risks of fighting a corrupted monster in the trial, and there is no turning back (unless you glitch out) once they spawn in. **Fight or wipe.**
--   The moment the monster spawns, you will be automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, the combat tag in the Depths trial takes 10 minutes to despawn.
+-   The moment the monster spawns, you will automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, the combat tag in the Depths trial takes 10 minutes to despawn.
 -   If 2 players enter the Trial, both will fight the same monster, and if both of their powers are just below what they need to fight the next monster, only 1 of said next monster will spawn.
     -   For example, two players that are power 16 enter the trial, one Enforcer will spawn. But if both players are power 17, two Enforcers will spawn.
     -   Another example is that if one player is level 10, even if the other player is a lower level than 10 such as being only level 1, 2 megalodaunts will still spawn.
@@ -113,10 +113,10 @@ Scyphozia, being a naturally hostile location, is especially difficult to surviv
 ### **Talents & Equipment**
 
 -   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (if you have the Vegetarian flaw, you can't roll this talent at all) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stats you need for this card to show up are **5 Willpower** and **5 Strength**.
--   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being between alive and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
+-   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being between alive, and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 -   _**Giantslayer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfish and Crabs. Obtained with Willpower, tested with a pure Willpower build.
 -   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through high Willpower and obtaining all 3 **Mental Fortress** cards, will allow somebody to survive Layer One without killing an enemy for over an hour. The Mental Fortress Talents help significantly in the depths.
--   **Damage Up** equipment with stat modifiers usually have a form of damage % bonus against monsters will be useful.
+-   **Damage Up** equipment with stat modifiers usually has a form of damage % bonus against monsters will be useful.
 
 ### **Tips and Tricks**
 
@@ -138,12 +138,12 @@ Just some information to keep in mind and remember.
 ### **Finding Morning**
 
 -   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?".
-    -   (As of now the quest is not done, which was stated by Arch\_Mage. Morning doesn't exist in-game at the moment, and will stay so until the quest is finished by developers.)
+    -   (As of now the quest is not done, which was started by Arch\_Mage. Morning doesn't exist in-game at the moment and will stay so until the quest is finished by developers.)
 
 ### **Joining The Divers**
 
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
-    -   You can confront Akira after he kills the Ignition Union; proposing 2 dialogue options.
+    -   You can confront Akira after he kills the Ignition Union, proposing 2 dialogue options.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
         -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (100). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
 
@@ -157,104 +157,58 @@ When initially obtaining this [Oath](Oaths.md), the [Nestmind](The_Nestmind.md),
 -   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level; however, most Visionshaper mantras and abilities scale off of Charisma.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
 
-## **Potential Enemies**
+## Loot Table
 
--   [Lesser Angels](Hollow_Angel.md)
-    -   Watchers (Summon Angels)
--   [Terrapod](Terrapod.md)
--   [Crustaceous Rex](Crustaceous_Rex.md)
--   [Megalodaunt](Megalodaunt.md)
--   [Lionfish](Lionfish.md)
--   [Gigamed](Gigamed.md)
--   [King Gigamed](Gigamed.md)
--   [Deep Owl](Deep_Owl.md)
--   [Nautilodaunt](Nautilodaunt.md)
--   [The Enforcer](Enforcer.md)
--   [Celtor Guards](Celtorian_Guard.md) (neutral unless triggered)
--   [Deep Widow](Deep_Widow.md)
--   [Thresher](Thresher.md)
--   [King Thresher](Thresher.md)
+Below is a list of potential items that can spawn in chests in Scyphozoa. Scyphozoa is the best place in the game for loot and corrupted monsters give better loot than normal monsters.
 
-## **Loot Table**
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
+-   [Prophet's Cloak](<Prophet's_Cloak.md>)
+-   [Authority Commander](Authority_Commander.md)
+-   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md)
+-   [Black Diver](Black_Diver.md)
+-   [Legion Centurion](Legion_Centurion.md)
+-   [Diver Apprentice Robes](Diver_Apprentice_Robes.md)
+-   [Navaen War Chief](Navaen_War_Chief.md)
 
-Many drops are exclusive to Layer One. The Depths is the best place in the game for loot and corrupted monsters give better loot than normal monsters.
+ | 
 
-NOTE: RARITY WORDS BESIDE ITEMS ARE HOW FREQUENT YOU WILL COME ACROSS THEM NOT ACTUAL IN-GAME RARITY
+-   Ring of Wisps
+-   [Assassin Hood](<Assassin's_Hood.md>) **(Series)**
+-   Dazed Band
+-   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
+-   Freestyler's Band
+-   [Enforcer Boots](Enforcer_Boots.md)
+-   Pariah's Keepsake
+-   [Providence Coat](Providence_Coat.md)
+-   Bloodiron Ring
+-   Purifying Ring
+-   [Demon Mask](Demon_Mask.md)
+-   Isshin's Ring
+-   [Hivelord mask](Hivelord_Mask.md)
+-   Windmill Ring
+-   Light Eater Ring
+-   [Star Boots](Star_Boots.md)
 
-**Bolded = Depths Exclusive or Mostly Depths drop**
+ | 
 
-Legendary = Gold
+-   [Shattered Katana](Shattered_Katana.md)
+-   [Pale Morning](Pale_Morning.md)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
+-   [Serpent's Edge](<Serpent's_Edge.md>)
+-   [Iron Birch](Iron_Birch.md)
+-   [Crypt Blade](Crypt_Blade.md)
+-   [Enforcer's Blade](<Enforcer's_Blade.md>)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Darkalloy Greatsword](Darksteel_Greatsword.md)
 
-<table>
-<tbody>
-<tr>
-  <td><b>Misc/Blueprints</b></td>
-  <td><b>Weapons</b></td>
-  <td><b>Rings</b></td>
-  <td><b>Armor</b></td>
-</tr>
-<tr>
-  <td><b>Prophet's Cloak (common)</b></td>
-  <td>Shattered Katana (very rare)</td>
-  <td>Ring of Wisps (uncommon)</td>
-  <td>[Pale, Crimson, Gold] Assassin Hood (rare)</td>
-</tr>
-<tr>
-  <td>Authority Commander (uncommon)</td>
-  <td>Flamekeeper Cestus (very rare)</td>
-  <td>Dazed Band (uncommon)</td>
-  <td><b>Pale Assassin Cloak (very rare)</b></td>
-</tr>
-<tr>
-  <td>Grand Pathfinder Cloak (uncommon)</td>
-  <td><b><font>Curved Blade of Winds (extremely rare)</font></b></td>
-  <td><b>Freestyler's Band (uncommon)</b></td>
-  <td>Enforcer Boots (uncommon)</td>
-</tr>
-<tr>
-  <td><b><font>Deep Gems (very rare)</font></b></td>
-  <td>Enforcer Blade (very rare)</td>
-  <td>Pariah's Keepsake (common)</td>
-  <td><b><font>Providence Coat (rare)</font></b></td>
-</tr>
-<tr>
-  <td><b>Black Diver (rare)</b></td>
-  <td><b>Serpent's Edge (uncommon)</b></td>
-  <td>Bloodiron Ring (rare)</td>
-  <td><b>Star Boots (uncommon)</b></td>
-</tr>
-<tr>
-  <td><b>Legion Centurion (uncommon)</b></td>
-  <td>Iron Birch (rare)</td>
-  <td><b>Purifying Ring (rare)</b></td>
-  <td><b>Demon Mask (common)</b></td>
-</tr>
-<tr>
-  <td><b>Diver Apprentice (common)</b></td>
-  <td><b>Pale Morning (very rare)</b></td>
-  <td>Ring of Pestilence (unknown)</td>
-  <td><b><font>Star Duster (rare)</font></b></td>
-</tr>
-<tr>
-  <td><b>Navaen War Chief (uncommon)</b></td>
-  <td><b><font>Crypt Blade (extremely rare)</font></b></td>
-  <td>Isshin's Ring (common)</td>
-  <td>Hivelord's mask</td>
-</tr>
-<tr>
-  <td></td>
-  <td><b>Darksteel Greatsword (rare)</b></td>
-  <td>Windmill Ring (rare)</td>
-  <td></td>
-</tr>
-<tr>
-  <td></td>
-  <td><b>Darkalloy Greatsword (extremely rare)</b></td>
-  <td>Light Eater Ring (rare)</td>
-  <td></td>
-</tr>
-</tbody>
-</table>
+ | 
+
+-   [Deep Gems](Deep_Gems.md)
+
+ |
 
 ## **Tips**
 

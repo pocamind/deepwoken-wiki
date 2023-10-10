@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 72235
+revid: 76717
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -24,7 +24,7 @@ File:Isle of vigils mainland.jpg
 
 The Isle of Vigils is a collection of small islands that hold the [Temple Approach](Temple_Approach.md) and the [Temple of the Blade](Temple_of_the_Blade.md), as well as a few necessities to get you started on your progression.
 
-## Points of Interest
+## Landmarks & Sub locations
 
 -   [Temple of the Blade](Temple_of_the_Blade.md)
     -   [Temple Approach](Temple_Approach.md)
@@ -63,7 +63,7 @@ The wall
 
 ### Sparring Arena
 
--   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice or revenge is used on him. After being hit three time or with revenge if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
+-   Players can find the [Training Instructor](Blade_Instructor.md), an NPC who will spar with you and can train your fortitude if you have a [Training Vest](Training_Gear.md). After starting, if the [Training Instructor](Blade_Instructor.md) is allowed to hit you 15 times without being hit by the player once, or his attacks are constantly parried but neither party is hit, then he will stop fighting the player until he is hit thrice, or revenge is used on him. After being hit three time or with revenge if the player allows the [Training Instructor](Blade_Instructor.md) to attack them three times without being hit then the instructor will stall again.
 
 ### Ziplines
 
@@ -131,7 +131,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   The music for this area is [Peregrine](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
--   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less-travelled than Etris and generally is considered a worse spawn location.
+-   Though it may be closer to locations such as [Erisia](Erisia.md), [Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>), and most importantly the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), Vigils is often much less travelled than Etris and generally is considered a worse spawn location.
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
 -   Safest place for freshies due to the fact that there are barely any gankers in Vigils.

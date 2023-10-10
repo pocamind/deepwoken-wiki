@@ -1,9 +1,9 @@
 ---
 title: Ores
-revid: 76708
+revid: 76721
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Harvestables]
+categories: [Items, Harvestables]
 ---
 
 # Ores
@@ -36,7 +36,7 @@ categories: [Pages with broken file links, Items, Harvestables]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | ??? |
+| desc | A rare and powerful metal. |
 
 | Irithine | |
 |---|---|
@@ -58,6 +58,16 @@ categories: [Pages with broken file links, Items, Harvestables]
 | pass down | No |
 | desc | A rare and powerful metal. |
 
+| Umbrite | |
+|---|---|
+| value | 45 |
+| weight | ??? |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A powerful metal said to harness the power of shadows. |
+
 ## Overview
 
 Ores are materials found all around the map, usually in caves. It is used for crafting various armor and traded for chests. They can be harvested with a [pickaxe](Pickaxe.md) by pressing E on them.
@@ -72,13 +82,13 @@ Unsellable
 
 ## Overview
 
-A black ore used in crafting Flint and Bombs. Found in most caves.
+A black ore used in crafting Flint and Bombs. Found in most cave systems.
 
 **Iron:**
 
 ## Overview
 
-A grey-brownish ore used for crafting Bullets and certain armors. Found in most caves.
+A grey-brownish ore used for crafting Bullets, Bombs, and certain armors. Found in most caves.
 
 **Gold:**
 
@@ -106,11 +116,9 @@ A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseek
 
 **Umbrite:**
 
-"A powerful metal said to harness the power of shadows." A dark blue neon ore found in The Depths, specifically the Varicosa District in City of the Drowned, inside the cave where Nostor, the Shadowcast trainer, is located.
+## Overview
 
-Sells For 45 notes
-
-File:Umbrite1.jpg
+A dark blue neon ore found in The Depths, specifically the Varicosa District in City of the Drowned, inside the cave where Nostor, the Shadowcast trainer, is located.
 
 ## Trivia
 
@@ -120,4 +128,4 @@ File:Umbrite1.jpg
 -   Every Pure Ore can be given to the Blacksmith except for iron and gold. (You can't get pure coal and pure rocks.) Additionally, Pure Ore can be converted into 3x of it's normal variant by attempting to craft with it.
 -   All ores other than rocks can be sold, and most pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
 -   Every ore can be eaten with Termite except for Umbrite and Astruline.
--   Mining ores mainly gives Strength XP But is one of the harder ways easiest way is to use a DumbBell that you buy in either voidheart or in Antiquarian etrea can also be bought as a deepbound in depths.
+-   Mining ores mainly gives Strength EXP but is one of the harder ways to do so. The easiest way is to use a Dumbbell that you buy in either voidheart or in Antiquarian etrea can also be bought as a deepbound in depths.

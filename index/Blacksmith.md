@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 74614
+revid: 76713
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Armors]
@@ -18,13 +18,13 @@ The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [I
 
 When interacting with a blacksmith, you get two options. To hand in ores, and to craft an armor.
 
-### To craft an armor
+### **To craft an armor**
 
 -   The blue highlighted text is the schematics you have on hand, if you press **Learn**, the armor will move to the recipe that it belongs to.
 -   An armor recipe retains the requirements, stats, talent description (if it has a talent) as well as the armor description.
 -   If you have multiple crafted armors, the current one will be an orange color while the rest will be a bolded white.
 
-### To turn in pure ores
+### **To turn in pure ores**
 
 -   Press the second option with a pure ore in hand.
     -   Ores like iron and gold do not work.
@@ -39,6 +39,6 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
 
 ## Gallery
 
-New Blacksmith Menu
+Current Blacksmith Menu
 
 Old Blacksmith Menu

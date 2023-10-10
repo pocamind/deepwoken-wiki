@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 68982
+revid: 76712
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -128,3 +128,4 @@ Adar: That's it. you've nailed it!
     -   His hair combo can be found here: [1](https://www.roblox.com/catalog/7392396295/Black-Anime-Delinquent-Hair), [2](https://www.roblox.com/catalog/11308491438/Black-Messy-Anime-Hairstyle-17-0), [3](https://www.roblox.com/catalog/11104022976/Cursed-Hair)
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
 -   The reason why Adar is not required to be fought for Silentheart progression is simply because Ironsing released after Silentheart’s talents were finalized. In-universe, it is most likely because he doesn’t “abuse” the Song, as he is a researcher rather than a trainer.
+    -   Talking to him as Silentheart will prompt him to say, "What are you giving me those looks for?"
