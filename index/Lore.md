@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 76650
+revid: 76740
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -348,7 +348,7 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   The "being" within the Temple of Hearts in Scyphozia is not Yun'Shul themself but rather an "avatar" or more accurately a shrine, used by those who worship the Deep and the resonant to commune with Yun'Shul safely.
 -   They are not found within Layer One as their true body is likely far deeper.
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
--   (Ragoozer) We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight.
+-   (Ragoozer) "We are legally obliged not to tell you whether Yun'shul or Big Hoss would win in a fight."
 -   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in both the Eastern and Etrean Luminant, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.
 -   Knows about the existence of the Ministry calling them "Godseekers" or "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
@@ -1084,7 +1084,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Encountered In:** _Firfire, New Kyrsa, Kyrsan Wilds_
 -   **Attunements:** _Frostdraw_
--   **Alliances:** _Ethiron (against their will tho)_
+-   **Alliances:** _Ethiron (against their will though)_
 -   **Enemies:** _Ethiron(?)_
 -   **Lore Sources:** _Naerotiv, Erosius Amaltus Urivertus Alistus Casius Walistoshus, Aeroaseluniris Oricalum Forentus_
 
@@ -1393,12 +1393,12 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:** _Arch\_Mage (Discord Posts)_
 
 -   Although 'Water Magic' is not exactly an Attunement, it is exclusive to The Depths.
-    -   Water Magic is the manifestation of the Song's wrath, with the capability of reenacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.
+    -   Water Magic is the manifestation of the Song's wrath, with the capability of re-enacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.
         -   It's the complete inverse of the Flames that keep Humanity alive - the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
 ## Oath Lore
 
-Oaths are a peculiar topic to discuss in the world of Deepwoken. Fundementally, they differ from any conventional means of deriving power from concepts and objects in the world of Deepwoken, hence why or how Oath magic manifests is largely a mystery with, unfortunately, not a lot of answers to. In mainstream sense, Oaths are described as to being a category of their own, that being 'Oath Magic', which suggests that they fundamentally differ from Mantras or Resonances in terms of how they function, what it is and was.
+Oaths are a peculiar topic to discuss in the world of Deepwoken. Fundamentally, they differ from any conventional means of deriving power from concepts and objects in the world of Deepwoken, hence why or how Oath magic manifests is largely a mystery with, unfortunately, not a lot of answers to. In mainstream sense, Oaths are described as to being a category of their own, that being 'Oath Magic', which suggests that they fundamentally differ from Mantras or Resonances in terms of how they function, what it is and was.
 
 Oaths, as it is observed, are acquired when one pledges their soul to a certain cause, or a particular ideal, granting them powers that align with achieving said cause and ideals. This process will 'bind' their soul to the cause. Despite technically being a category of it's own, most 'Oath Magic' are still referred to as Mantras, suggesting that perhaps Oath Magic is a mere sub-category of the song, similar to Murmurs and Resonances. A keeper of an Oath would strengthen their powers by a reinforcement of their beliefs in the form of completing tasks relative to the Oath, affirming their role and ideals in the process.
 
@@ -1421,7 +1421,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   Visionshapers made a vow to the Nestmind, the "Mother/father" of all owls.
 -   Despite having great powers of reality bending, all Visionshapers are doomed to become food for the Nestmind.
     -   Due to the fact that the Nestmind appears to be an entity that sustains itself through consuming (but not exclusively) human thought and concepts, hence only those who has a sophisticated enough mind is fit to be developed for consumption.
--   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilites, also that you need to interact with her to get the Oath.
+-   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilities, also that you need to interact with her to get the Oath.
     -   'Notorious' in the sense that she plays tricks with people who are, most likely, stranded on the harsh environments of Minitrysia, and sends them to their death whenever they don't play along. Likely resulting in many unwarranted deaths.
 
 ### **Oathless**
@@ -1443,7 +1443,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 ### **Linkstrider**
 
 -   People who have made an Oath to try to "fix" this "fragile world" with their powers becoming the support of their allies.
--   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their simbiotic powers.
+-   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their symbiotic powers.
 -   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the Eastern Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Sun,** wich are mark of Celestials.
 
 ### Starkindred
@@ -1509,14 +1509,20 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 
 ### **Deepwokens**
 
--   People who consumed a piece of a Drowned God and **Probably** made an Oath upon consuming said piece.
--   The only known Deepwokens are: Amorus Pleeksty, The First Prophet of the Ministry.
--   Known to grant the user incredible power from the Drowned God they consumed a piece of. For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.
+-   People who consumed a piece of a Drowned God.
+    -   A Common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming. It is unknown if consuming any piece of a Drowned God is viable, or is consuming any part of a Drowned God an acceptable act.
+-   The only known Deepwokens are Amorus Pleeksty and The First Prophet of the Ministry.
+-   Known to grant the user incredible power from the Drowned God they consumed a piece of.
+    -   For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.
 -   It is also known that becoming a Deepwoken grants you Immortality; the known Deepwokens, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.
+-   The consequences of becoming a Deepwoken are yet to be known.
+    -   Though similar to Starkindred (As Deepwokens are technically it's polar opposite), it is not entirely impossible to theorize that becoming a Deepwoken is also an act of invoking the power of Oaths, hence binding the user's soul to an ideal.
+-   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain talent cards being directly under the tree "Deepwoken".
+    -   It is also worth a clarification that this applies to any other entity that has the capacity to hear the Sound from Within, and has a certain connection to the Depths via escaping the Depths, like the Duke of Erisia.
 
 ### **Voidwalker/Void Oath**
 
--   The name and purpose of this Oath is unkown, however it is known that some worthy mercenaries of the "Knives of Eylis" group, make an Oath with Eylis herself to gain time manipulation powers and probably powers related to the Voidsea, due to the relation of Eylis between the Voidmother and the Voidsea itself.
+-   The name and purpose of this Oath is unknown, however it is known that some worthy mercenaries of the "Knives of Eylis" group, make an Oath with Eylis herself to gain time manipulation powers and probably powers related to the Voidsea, due to the relation of Eylis between the Voidmother and the Voidsea itself.
 -   Despite being a rare Oath that only a few Voidwalkers have, it can be seen being used by the [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) with the ability to create a bubble around them that slows time for those who are not Voidwalkers.
 
 ## Murmur Lore
@@ -1770,7 +1776,7 @@ This category lists new lore that has been added into Deepwoken through updates 
 -   (Mudskipper Day) _Grggrl. Grrggl. Grgrlglrgl grrgl. Grgrglrgl._
     -   Translation: _"Twas the birth of a new dawn. In the Year 1296 in Autumn's Eve, all of civilization and people alike have mudskipped. During this faithful day of the Mudskipper, may we cherish it until the end. It will all be a dream, once the land of the living wakes; but we will come back, eventually."_
 
-### Year Whenever it happened
+### Year 1350
 
 (Verse 1: Hallowtide, \[11/01/2022\])
 

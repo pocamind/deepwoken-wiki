@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 75962
+revid: 76743
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -59,6 +59,11 @@ Mecha Gatling
 (★★☆)
 
  | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is based on the [Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. (Requires a broken Gatling Gun to obtain) | Combat Mantra |
+|  | Whirling Blade
+
+(★★☆)
+
+ | A chitinous scythe to cut through your foes in a whirl. | The user grows a terrapod claw from their left arm and begins to spin forward after a short windup. Dealing moderate damage if hit by entire spin. Cancels if parried. (_Requires a Terrapod Shell to obtain_) | Combat Mantra |
 
 ### **Mobility Mantras**
 
