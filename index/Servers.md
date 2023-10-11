@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 75923
+revid: 76797
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -136,3 +136,4 @@ Example hellmode server
 -   Ironsinger was the only unreleased [Attunement](Attunements.md) to be a server's noun, however this is no longer the case after it got released.
 -   Every [Race](Aspects.md) except for [Aberrant Capra](Aberrant_Capra.md), and [Primal Vesparian](Primal_Vesperian.md) are server nouns. However, this may just be because they are Race variants, and not their independant Race.
 -   All of the [Deep Gems](Deep_Gems.md), except for the Insignia Gem, Blue Gem, and Wind Gem have their first names as server nouns.
+-   When joining layer 2 the server loading screen will be white instead of the usual dark green.

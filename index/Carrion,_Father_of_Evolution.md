@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 75804
+revid: 76787
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]
@@ -18,7 +18,7 @@ Carrion, referred to as the Father of Evolution is a Black Diver and master alch
 
 Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eyes, a result of using himself to test a prototype of the Moonseye Vigour potion, which also drove him insane. He resides in Great Library of [New Kyrsa](Second_Layer/New_Kyrsa.md). He can be found at the end of the library puzzle, next to an obelisk. Once you talk with him there, he will then appear in [Castle Light](Castle_Light.md) in the library room with the antiquarian. There he can teach you the various monster mantras if you have the materials for them. Despite being a Black Diver, he is more of a scientist than a fighter. His goal is to perfect the Moonseye Vigour which he will use to 'transcend' everyone, by force if necessary. He has also attempted to clone himself, and apparently succeeded. Even the Divers are unaware of just how many he has.
 
-## List of Obtainable Monster Mantras
+## List of Obtainable [Monster Mantras](Monster_Mantras.md)
 
 | **Name** | **Description** | **Parryable?** | **Blockable?** | **Dodgeable?** | **Danger** | **Required Item** |
 | --- | --- | --- | --- | --- | --- | --- |

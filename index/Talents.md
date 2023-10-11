@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 76709
+revid: 76815
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -571,7 +571,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
     -   Prerequisite: 70 Agility, Hidden Blade
 
-### Dark siphon
+### Dark Siphon
 
 > **"_I feed on the soul of my enemies."_**
 

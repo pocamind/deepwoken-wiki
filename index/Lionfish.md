@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 72316
+revid: 76796
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,7 +36,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-Due to mutations in its genes, certain Lionfish were blessed with the power to wield Frostdraw to a limited degree. This shows itself in the primarily white coloring and blue blank eyes.
+Glacial Lionfish are the product of an unknown phenomena, which will cause the genetic makeup of creatures in the world to experience certain mutations, granting them unique traits that is atypical to their biology. The Glacial Lionfish is one such example, with the mutation causing them to be in-tune with [Frostdraw](Frostdraw.md).
+
+Glacial Lionfish only features a primarily white coloring and blue blank eyes. In addition, it is observed that Glacial Lionfish may utilize [Frostdraw](Frostdraw.md) by invoking the Song through its attacks, causing them to inflict Chilling, and in the case of its Cero attack, gain a blue coloration and leave ice where it lands.
 
 Notably enough, it's the only other way to obtain the extremely rare True Seraph's Spear.
 

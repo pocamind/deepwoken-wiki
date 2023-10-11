@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 76712
+revid: 76800
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -117,6 +117,11 @@ Adar: Oh yeah, I can see room for improvement. If you fund my research a bit I c
 1.  Could you give me some pointers?
 
 Adar: That's it. you've nailed it!
+
+1.  \[End Dialogue\]
+
+  
+_(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. Money's a bit tight._
 
 1.  \[End Dialogue\]
 

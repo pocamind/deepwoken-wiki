@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 76784
+revid: 76799
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ Mute is disabled in [Hell Mode](Hell_Mode.md) and all Dungeons (I.E. [The Eterna
 
 The only monsters that are not affected are [Desert Knights](Stone_Knight.md#desert-knight), [Blizzard Knights](Stone_Knight.md), [Rock Golems](Rock_Golem.md), [Prime Golems](Rock_Golem.md#golem-prime), [Rogue Constructs](Hive_Construct.md#rogue-construct), [Enforcers](Enforcer.md), [Angels](Hollow_Angel.md) and grounded [Mudskippers](Mudskipper.md).
 
--   [Immortal Guardians](Immortal_Guardian.md), and [Ministry Necromancer](Ministry_Necromancer.md) are affected by Mute.
+-   [Immortal Guardians](Immortal_Guardian.md), and [Ministry Necromancers](Ministry_Necromancer.md) are affected by Mute.
 
 ### Prodigy
 

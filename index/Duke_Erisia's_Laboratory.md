@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Laboratory"
-revid: 71496
+revid: 76816
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Laboratory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations]
@@ -20,4 +20,4 @@ Duke Erisia's laboratory is an area where you will fight [Duke Erisia](Duke_Isha
 
 When entering, Duke Erisia will give you a special dialogue, then afterwards you will start fighting duke. After a while the tubes break and the dukes minions start trying to help the Duke kill you.
 
-After killing the Duke, a large chest with decent loot will spawn in.
+After killing the Duke, a large chest with decent loot will spawn in and the mobs in the hallway will respawn.

@@ -1,6 +1,6 @@
 ---
 title: "Diver's Light Plate"
-revid: 73896
+revid: 76807
 source: https://deepwoken.fandom.com/wiki/Diver's_Light_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates]
 | type | Arms |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | Power 105 Fortitude |
+| requirements | PWR 10 , 15 FTD |
 | weight | 2 |
 | innate stats | 10 Health1 Posture, 3 Pips |
 | innate talent | Conquer Your Fears |
@@ -26,10 +26,11 @@ categories: [Equipment, Arms, Plates]
 
 ## Description
 
-The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 1 Posture, 3 Legendary Pips, and the [Talent](Talents.md) Conquer Your Fears, which recovers your sanity after killing depths-exclusive monsters. It can only be obtained by completing a [Hell Mode](Hell_Mode.md) (Given to your inventory just like [Ardour Manifestation](Ardour_Manifestation.md)). Ringing the Hell Mode bell and successfully completing is guaranteed to grant you it. Not ringing the bell doesn't prevent you from obtaining it, but it is not guaranteed. The Diver's Light Plate has one of the highest stat total possible with 3 legendary pips when unstarred, and 4 + 2 Pips as a 3 star.
+The Diver's Light Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 1 Posture, 3 Legendary Pips, and the [Talent](Talents.md) 'Conquer Your Fears', which recovers your sanity after killing depths-exclusive [monsters](Monsters.md). It can only be obtained by winning a [Hell Mode](Hell_Mode.md) (Given to your inventory just like [Ardour Manifestation](Ardour_Manifestation.md)). Ringing the [Hell Mode](Hell_Mode.md) bell, killing at least 1 [monster](Monsters.md), and staying alive until 100+ mobs are defeated, is guaranteed to grant you it.
 
 ## Trivia
 
+-   This is the best Arms [Equipment](Equipment.md) in Deepwoken. Second being [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md). Though [Ironsinger Heavy Plates](Ironsinger_Heavy_Plate.md) are usually the best overall choice since they're a lot more easier to obtain than Diver's Light Plate.
 -   This armor can't be dropped by the user.
 -   Can be obtained without killing any monsters during Hell Mode. You just need to ring the bell and stay in the server when hell mode begins and ends.
 -   This armor looks very similar to the Pre-verse 2 Black Diver outfit and takes clear inspiration from Bondrewd's outfit from the anime and manga series, _Made in Abyss_.

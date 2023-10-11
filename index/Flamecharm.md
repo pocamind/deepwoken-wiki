@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 76591
+revid: 76794
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -198,7 +198,7 @@ _A pyroclastic eruption._
 -   Deals moderate-high damage.
 -   The second explosion ragdolls enemies.
 -   NPCs have trouble blocking the second explosion.
--   The second explosion posture breaks.
+-   The second explosion deals an extremely high amount of posture damage.[\[2\]](#cite-note-2)
 -   Inflicts Burn.
 -   Medium-Heavy endlag
 
@@ -1241,3 +1241,4 @@ Standing close to your graceful flame will slowly restore sanity for others in t
 ## References
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=USPLPJLZQiw](https://www.youtube.com/watch?v=USPLPJLZQiw)
+2.  [↑](#cite-ref-2) With the opponent having 42 Posture and Murmur: Ardour, they will receive 96% of their posture.

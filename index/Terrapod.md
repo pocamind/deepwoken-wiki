@@ -1,16 +1,12 @@
 ---
 title: Terrapod
-revid: 76785
+revid: 76798
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Terrapod
-
-“ everybody keeps killing my family... i want to kill myself for all the unjust ways my family is getting slaughtered. I wont die the same way my friends did... ”
-
-― A Terrapod jumping off the bridge in castle light
 
 **Normal:**
 
@@ -20,7 +16,7 @@ The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly 
 
 ## **Description**
 
-Terrapods are purple crab-like creatures with four legs each ending in sharp claws. They have a hard shell covered in spikes, with a mouth on the bottom for eating victims. The material that forms its shell and claws is a much darker shade of purple than its flesh. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. Terrapods are pretty mindless as they follow the same pattern and repeat the same attacks. Though, don't let it catch you off guard, as it's attacks can destroy your health very quickly. It will constantly attack until you deflect enough of it's attacks to where it gets tired. In this time frame, you are allowed to freely attack it until it begins attacking you again. It struggles with reaching high places, due to not having the ability to jump high. Their heavy shell leaves them unable to swim, though they are seemingly unaware of this fact, often falling straight to the Depths while attempting to pursue their foes. If you are not ready to fight this foe, you can easily escape simply by running and climbing. Terrapods have low walkspeed and are delayed by their attacks. Beware of fighting Terrapods in castle light, they haven't taken _therapy_ and will commit.
+Terrapods are purple crab-like creatures with four legs each ending in sharp claws. They have a hard shell covered in spikes, with a mouth on the bottom for eating victims. The material that forms its shell and claws is a much darker shade of purple than its flesh. It uses it claws to rapidly slash enemies and put pressure on anyone in its way without hesitation. Terrapods are pretty mindless as they follow the same pattern and repeat the same attacks. Though, don't let it catch you off guard, as it's attacks can destroy your health very quickly. It will constantly attack until you deflect enough of its attacks to where it gets tired. In this time frame, you are allowed to freely attack it until it begins attacking you again. It struggles with reaching high places, due to not having the ability to jump high. Their heavy shell leaves them unable to swim, though they are seemingly unaware of this fact, often falling straight to the Depths while attempting to pursue their foes. If you are not ready to fight this foe, you can easily escape simply by running and climbing. Terrapods have low walkspeed and are delayed by their attacks. Beware of fighting Terrapods in castle light, they haven't taken _therapy_ and will commit.
 
   
 
@@ -68,5 +64,5 @@ Crimson Terrapods are similar to their purple counterparts but are dyed a crimso
 -   You **can't** sneak up on Terrapods.
 -   This monster executes you in **under a second.** Be extremely careful with low HP friends around you.
 -   You can use Terrapod bait to spawn them whenever you want so you can farm their claws and annoy people with hordes of them. You can also get Red Terrapods to spawn with the bait in-case you want to see one or try and get an [Evanspear](Evanspear_Greataxe.md) from one.
--   There are two guaranteed spawns. One near the bandit village in Lower Erisia, one near the entrance of The Garden Reservoir, and one near the Legendary Boot.
+-   There are three guaranteed spawns. One near the bandit village in Lower Erisia, one near the entrance of The Garden Reservoir, and one near the Legendary Boot.
 -   The Terrapod is actually a turtle, despite all features suggesting that it may be a crab.
