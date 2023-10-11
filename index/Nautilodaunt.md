@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 76387
+revid: 76820
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,12 +35,12 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | **Punch** | The Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | (★☆☆) |
-| **Kick** | Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack or sliding towards you to deliver another kick. | ◯ | (★★☆) |
-| **Flip- Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
+| **Kick** | Nautilodaunt's punches would randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you or using **Flip-Kick**. | ◯ | (★★☆) |
+| **Flip-Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
 | **Drop-Kick** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | (★★★) |
-| **Grand Stomp** | Nautilodaunt stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
+| **Grand Stomp** | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** his attacks. | N/A | (★★☆) |
-| **Vent** | Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles. Typically followed up with a kick. | N/A | (★☆☆) |
+| **Vent** | Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles and negates the damage of Mantras. Typically followed up with a kick. | N/A | (★☆☆) |
 
 **Fury Nautilodaunt:**
 
@@ -63,7 +63,10 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 
 ### Finisher
 
--   **"Mudskipperization"** - The Nautilodaunt turns their incapacitated prey into a [Mudskipper](Mudskipper.md).
+-   **"Mudskipperification"** - The Nautilodaunt punches the now-incapactiated player one final time, turning them into a [Mudskipper](Mudskipper.md).
+
+### Talents
+
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Nautilodaunts.
 
 ## **Combat**

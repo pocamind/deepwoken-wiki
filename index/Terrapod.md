@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 76798
+revid: 76818
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,17 @@ categories: [Monsters]
 
 # Terrapod
 
+“ Uh.. Why do I feel like it's gonna jump on my face? Zombies don't exist.. right? ”
+
+― a worried Kevin Atedra
+
+**Also known as Crabbos or Headcrabs.**
+
 **Normal:**
 
-Template:Creature Infobox V3 **Also known as Crabbos or Headcrabs.**
+Template:Creature Infobox V3
 
-The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly and having very high mobility.
+The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly, having weird parry timings and having very high movement during attacks.
 
 ## **Description**
 
@@ -30,13 +36,13 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 
 **Crimson:**
 
-Template:Creature Infobox V3 **Also known as Crabbos or Headcrabs.**
+Template:Creature Infobox V3
 
-The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly and having very high mobility.
+The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly, having weird parry timings and having very high movement during attacks.
 
 ## **Description**
 
-Crimson Terrapods are similar to their purple counterparts but are dyed a crimson red. They seem to have undergone a metamorphosis which makes their claws much more deadly.
+Crimson Terrapods are similar to their purple counterparts but are dyed a crimson red. They seem to have undergone a metamorphosis which turns their shell a blood-red and makes their claws much more deadly.
 
   
 
