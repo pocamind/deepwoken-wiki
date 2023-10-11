@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 69259
+revid: 76760
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -70,7 +70,7 @@ Charisma, Rare
 
  | "_\[Name\]_, return" | Forces the Subject to go directly back to the Master, even through walls.
 
-Works on knocked players, cancelling grips, but does not work if the subject is being carried. _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
+Works on knocked players, cancelling the knocked state and grips, but does not work if the subject is being carried. _Has a range limit. (Roughly a bit past till the player's name can't be seen anymore)_
 
  | 20 seconds |
 | Live | Yes, 75 Charisma, Advanced | "_\[Name\]_, live" | Fully heals the subject, reviving them if they are knocked, cancelling any grip or carry.

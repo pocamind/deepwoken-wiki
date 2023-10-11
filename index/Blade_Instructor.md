@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 74520
+revid: 76777
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -53,7 +53,12 @@ If the instructor is the one that downs the player they will disappear and the p
 
 ## Trivia
 
--   You can kill the Instructor by using moves that instantly grip opponents when they are on low hp.
+-   The Instructor can be killed by using moves that instantly grip opponents when they are on low HP, using certain moves, like Mani Katti, and employing burn.[\[1\]](#cite-note-vigilguardsdgaf-1)
+-   The [Blade Temple Guards](Blade_Temple_Guard.md) do not react should an Instructor be gripped near them.[\[1\]](#cite-note-vigilguardsdgaf-1)
 -   Defeating one sometimes grants positive [reputation](Reputation.md) with the [Kingdom of Etrea](Etrea.md), usually when you don't get a health pack from killing them.
 -   You can glitch an instructor by starting the spar and not doing anything at all.
     -   To fix it, you just need to defeat him.
+
+## References
+
+1.  ↑ [1.0](#cite-ref-vigilguardsdgaf-1-0) [1.1](#cite-ref-vigilguardsdgaf-1-1) [https://www.youtube.com/watch?v=gMiY1IgUpJo](https://www.youtube.com/watch?v=gMiY1IgUpJo)

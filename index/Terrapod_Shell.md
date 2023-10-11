@@ -1,6 +1,6 @@
 ---
 title: Terrapod Shell
-revid: 76567
+revid: 76778
 source: https://deepwoken.fandom.com/wiki/Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monster Mantra Ingredients]
@@ -22,7 +22,3 @@ categories: [Monster Mantra Ingredients]
 Terrapod shell is a spiked bowl shaped like item droped from a [Terrapod](Terrapod.md) with approximately 5% drop rate.
 
 Its is used for getting Whirling blade [Monster Mantras](Monster_Mantras.md) when you talk with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at [Castle Light](Castle_Light.md).
-
-When casted, it froms a terrapod claw in your forearm; afterwards you spin towards the direction your camera is facing dealing good slash damage; this spin lauches you forward and keeps your momentum after you finish the casting. (You actually still get to keep momentum even if parried; might get patched)
-
-This can be blocked and parried; but since it goes behind the victim, the afected will need to follow the attack with their block to be able to block it all.

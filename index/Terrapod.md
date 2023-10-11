@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 76485
+revid: 76785
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,6 +11,8 @@ categories: [Monsters]
 “ everybody keeps killing my family... i want to kill myself for all the unjust ways my family is getting slaughtered. I wont die the same way my friends did... ”
 
 ― A Terrapod jumping off the bridge in castle light
+
+**Normal:**
 
 Template:Creature Infobox V3 **Also known as Crabbos or Headcrabs.**
 
@@ -29,7 +31,27 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 | **Quick Strike** | The Terrapod does a singular slice at its opponent and retreats to recover. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
 | **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times. | ◯ | ◯ | ◯ | (★★★) |
-| **(VARIANT) Crimson** | The Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | N/A | N/A | N/A | (★★★) |
+
+**Crimson:**
+
+Template:Creature Infobox V3 **Also known as Crabbos or Headcrabs.**
+
+The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly and having very high mobility.
+
+## **Description**
+
+Crimson Terrapods are similar to their purple counterparts but are dyed a crimson red. They seem to have undergone a metamorphosis which makes their claws much more deadly.
+
+  
+
+## **Moves**
+
+| Name |  | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- |
+| **Quick Strike** | The Terrapod does a singular slice at its opponent and retreats to recover. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
+| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times. | ◯ | ◯ | ◯ | (★★★) |
+| **Cruentare** | The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, now inflicts bleed on every slash, draining your blood and dealing 30% more damage. | N/A | N/A | N/A | (★★★) |
 
 ### Passives
 
@@ -41,7 +63,7 @@ Terrapods are purple crab-like creatures with four legs each ending in sharp cla
 -   It's recommended to dodge or just move out of a Terrapod's way instead of parrying due to the confusing parry window and the carelessness of its attacks (they don't auto-track).
     -   By landing a few hits and running to avoid its attacks, you can kill one of these without blocking, parrying or dodging.
 -   This monster is hostile towards any others in Upper Erisia.
--   Strange Claw is used for armors, and can be sold for a decent amount of notes.
+-   Strange Claw is used for armors and can be sold for a decent number of notes.
 -   Terrapods can be recognized by the loud slashing sound they make each time they attack.
 -   You **can't** sneak up on Terrapods.
 -   This monster executes you in **under a second.** Be extremely careful with low HP friends around you.

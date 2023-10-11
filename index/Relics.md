@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 76152
+revid: 76761
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -13,6 +13,8 @@ categories: [Pages with broken file links, Items]
 **Relics** are highly valued items, which carry special abilities that would otherwise be thought impossible. Their origins can vary greatly, though most come from [the Depths](The_Depths.md).
 
 All relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
+
+With the exception of both the rain and void spire all relics are one time use.
 
 ## Obtainable Relics
 

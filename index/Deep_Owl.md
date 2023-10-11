@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 72318
+revid: 76786
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
 
-Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, This restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
+Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, this restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
 
 When appearing in _Upper Erisia or The Depths_, its presence will be signalled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
@@ -30,66 +30,56 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 ## Attacks
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Name</th>
-  <th>Description</th>
-  <th>Parryable?</th>
-  <th>Blockable?</th>
-  <th>Dodgeable?</th>
-  <th>Danger</th>
-</tr>
-<tr>
-  <td><center><b>Talon Swipe</b></center></td>
-  <td>Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td><center><b>Feather Teleport</b></center></td>
-  <td>Turns into a burst of feathers, emerging at the target it is pursuing after a bit.<br>
-  <small>Typically used after Talon Swipe.</small></td>
-  <td><font>◯</font></td>
-  <td><b>Yes</b></td>
-  <td><b>Yes</b></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td><center><b>Owl Dash</b></center></td>
-  <td>Kneels on the ground for a moment before performing a spinning assault in the target's direction.</td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td>(★☆☆)</td>
-</tr>
-<tr>
-  <td><center><b>Overhead Grab</b></center></td>
-  <td>Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.<br>
-  <small>Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you.</small></td>
-  <td><font>✗</font></td>
-  <td><font>✗</font></td>
-  <td><font>◯</font></td>
-  <td>(★★★)</td>
-</tr>
-<tr>
-  <td><center><b>Flock of Feathers</b></center></td>
-  <td>Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.<br>
-  <small>Overhead Grab/Owl Dash is typically used after this.</small></td>
-  <td><font>◯</font></td>
-  <td><font>◯</font></td>
-  <td><font><b>-</b></font></td>
-  <td>(★★☆)</td>
-</tr>
-</tbody>
-</table>
+| Name | Media | Description | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+**Talon Swipe**
 
-  
-**Finisher**
+ | 
 
--   Claw Crush - The Owl swiftly crushes the knocked player's torso with it's talons.
+ | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat. | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+**Feather Teleport**
+
+ | 
+
+ | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.  
+Typically used after Talon Swipe. | ◯ | **Yes** | **Yes** | (★☆☆) |
+| 
+
+**Owl Dash**
+
+ | 
+
+ | Kneels on the ground for a moment before performing a spinning assault in the target's direction. | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+**Overhead Grab**
+
+ | 
+
+ | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
+Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you. | ✗ | ✗ | ◯ | (★★★) |
+| 
+
+**Flock of Feathers**
+
+ | 
+
+ | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.  
+Overhead Grab/Owl Dash is typically used after this. | ◯ | ◯ | **\-** | (★★☆) |
+
+## Finisher
+
+| Name | Media | Description |
+| --- | --- | --- |
+| Claw Crush | 
+ | The Owl swiftly crushes the knocked player's torso with it's talons. |
+
+## Passives
+
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Deep Owls.
 
 ## Strategy
 
@@ -117,13 +107,9 @@ The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key,
 
 If looking for owls, it is recommended to join highly populated servers because this increases their spawn rate.
 
-### **Passives**
-
--   **Monster Resistance** - Physical attacks deal ??? less damage to Deep Owls.
-
 ## Lore
 
-All owls are part of a hivemind named The [Nestmind](The_Nestmind.md). Talking to the Nestmind NPC with the Visionshaper quest gives us a decent hint on just what these strange creatures are.
+All owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking to the Nestmind NPC with the Visionshaper quest gives us a decent hint on just what these strange creatures are.
 
 Deep Owls come from an alternate dimension/unkown layer of sorts and get into our world through the minds of Visionshapers with the contract they make with The Nestmind. With the power of Visionshapers that allows illusions to become reality, they are sentient creatures that feast on the minds of those they slaughter. They particually feast only on the humans of deepwoken and not its monsters/creatures due to creatures with great intelligence/imaginatory capabilities being far more palettable.
 

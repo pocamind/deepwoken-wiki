@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 75886
+revid: 76770
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -22,11 +22,7 @@ categories: [NPCs, Vendors]
 
 Lance Leshi is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside a building in front the General Store. He sells various [food](Food.md) items.
 
-## Wares
-
--   Mushroom Bisque -
--   Megurger -
--   Mushroom Omelets -
+  
 
 ## Trivia
 

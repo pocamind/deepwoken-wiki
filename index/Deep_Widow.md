@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 74883
+revid: 76779
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -66,7 +66,7 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 ## **Notes/Tips**
 
 -   It is recommended for inexperienced or ill-equipped players to fight the Widow as a group, and flank her on opposite sides. All of her attacks come from the front and setting up this way will avoid all of the players in your group being hit at once.
--   Despite looking intimidating, she is a lot weaker than she looks. She can be easily cheesed and has (relatively) low health. However, do not underestimate her as she is still stronger than a [Thresher](Thresher.md).
+-   Despite looking intimidating, she is a lot weaker than she looks. Can be easily cheesed and has (relatively) low health. However, do not underestimate her as she is still stronger than a [Thresher](Thresher.md).
 -   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
     -   This poison goes through armor.
 -   Try to deal only two attacks and always be ready for the bite. Don't get too greedy.

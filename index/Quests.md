@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 76135
+revid: 76774
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -161,6 +161,14 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 **Guide**: Talk to Stratos at the Blade Temple. You must have Galebreathe. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
 
 **Reward/s**: Windwaker
+
+**Mercy Kill:**
+
+**Quest Location**: [Duke](<Duke_Erisia's_Laboratory.md>) or [Chaser](Cathedral_of_Ethiron.md)
+
+**Guide**: Defeat Duke or Chaser. Does not have to be solo.
+
+**Reward/s**: Mercy Kill
 
 ## One-time Ordinary Quests
 

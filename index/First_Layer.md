@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 76719
+revid: 76763
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -79,7 +79,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 ### _Note:_
 
-**Your Trial Power is calculated by (Power \* 3) + Times Drowned.** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. For example, if you are power 16 but have 2 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
+**Your Trial Power is calculated by "Power + (Times Drowned \* 0.33)".** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. For example, if you are power 16 but have 2 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
 
 _Trial Power and Power are two different things; See above as well as below table._
 

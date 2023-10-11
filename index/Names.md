@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 76389
+revid: 76757
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1515,16 +1515,22 @@ You can choose your first name from any available, but your choices of last name
 ## Trivia
 
 -   Most names added after the release of the game somehow end up in all three options, despite it being meant to either be in Male, Female or Neutral, as, by default, names that can be in more than one category should be in Neutral.
--   The name "Usopp" is a reference to [the One Piece character of the same name](https://onepiece.fandom.com/wiki/Usopp).
+-   The name "Usopp" is a reference to [the _One Piece_ character of the same name](https://onepiece.fandom.com/wiki/Usopp).
+    -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only "Usopp" was added.[\[1\]](#cite-note-1)
 -   The names "Ornstein" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough).
     -   Initially, the name "Ornstein" was erroneously spelled as "Orstein."
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
     -   Funnily enough, they are both technically the same person.
 -   Names such as "Kaladin" and "Adolin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
--   The name "Aesop" is a reference to [the famous storyteller Aesop](https://en.wikipedia.org/wiki/Aesop).
--   Names such as "Vin" and "Wax" are references to the book series "[Mistborn](https://en.wikipedia.org/wiki/Mistborn)", also by Brandon Sanderson.
+-   Names such as "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
 -   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   The random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
--   the names "Gebura" "Netzach" "Tiphereth" "Binah" "Hokma" and "Chesed" are references to the project moon games "Lobotomy Corporation" and "Library Of Ruina". "Angela" and "Roland" may also be references to these games.
+-   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth" and "Xiao" are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
+    -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
+    -   Coincidentally, "Xiao" is also the name of a [popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao), with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation_.
+
+## References
+
+1.  [↑](#cite-ref-1)

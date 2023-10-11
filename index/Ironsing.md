@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 76746
+revid: 76762
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -152,7 +152,7 @@ The height of the pillar will depend on what is above you.
 
 -   Can be upgraded with the "Intuitive Repairs" talent, which causes armor and natural armor to be restored during the mantra's duration.
 -   Can negate around 80% of fall damage.
--   can be upgraded with eternal logstone for increased duration
+-   Can be upgraded with eternal logstones for increased duration
 
 Does not negate deferred or fire damage.
 
