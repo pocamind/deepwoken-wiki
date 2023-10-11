@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 76809
+revid: 76835
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -3522,6 +3522,25 @@ _+3% Elemental Armor_
 Found from:
 
 -   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
+
+ | N/A |
+|  | 
+
+[Tied Tie](Tied_Tie.md)
+
+(**Unobtainable**)
+
+ | 
+
+_+5 Health_  
+
++1 Uncommon Pip
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
 
  | N/A |
 

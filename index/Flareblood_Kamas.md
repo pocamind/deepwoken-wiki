@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 76814
+revid: 76830
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -33,13 +33,16 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 
 The **Flareblood Kamas** is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. It has a unique critical that summons a blood explosion that appears at your cursor.
 
-It is only obtainable from [Chaser, the Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md), making it the only Legendary weapon obtainable from 1 source.
+It is only obtainable from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md), making it the only Legendary weapon obtainable from a single source.
 
 Wielding it requires 60 Light and 30 Intelligence. It does 13 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it one of the best daggers in the game.
 
+## Critical
+
+The critical unleashes an explosion blood around the cursor, launching the target into the air and ragdolling them for a short duration.
+
 ## Trivia
 
--   Has a unique critical that summons a blood explosion to your cursor.
 -   This weapon model & Critical is a reference to [Izanami](https://smite.fandom.com/wiki/Izanami) one of the character in [SMITE](https://smite.fandom.com/wiki/Smite_Wiki).
 -   The weapon itself, "[Kama](<https://en.wikipedia.org/wiki/Kama_(tool)>)" is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.
 -   Finishing Touch does not apply to the critical.
