@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 76821
+revid: 76892
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -44,8 +44,9 @@ The Terrapod is a [monster](Monsters.md) notorious for shredding health quickly,
 
 ## **Description**
 
-Crimson Terrapods are similar to their purple counterparts but are dyed a crimson red. They seem to have undergone a metamorphosis which turns their shell a blood-red and makes their claws much more deadly.
+Crimson Terrapods are similar to their purple counterparts but are dyed a crimson red. They seem to have undergone a metamorphosis which turns their shell a blood-red and makes their claws much more deadly. Their ability to swim hasn't gotten much better though.
 
+  
   
 
 ## **Moves**
