@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 76834
+revid: 76844
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -820,7 +820,7 @@ N/A
 
 ## Trivia
 
--   After expressing a desire to make a new 0 Star Mantra for Galebreathe, developer ragoozer was presented with an image created by discord user Necros75, which he promptly added to the game as Gale Kick.
+-   After expressing a desire to make a new 0 Star Mantra for Galebreathe, developer ragoozer was presented with an image created by discord user Necros75, which he promptly added to the game as Gale Kick.[\[1\]](#cite-note-1)
 -   [Primadon](Primadon,_Titan_of_the_East.md) is completely immune to suffocation.
 -   Light Green Mudskippers are able to use a buffed version of the **Air Force** mantra, with greater knockback.
 -   Arch\_mage stated that Galebreathe is "**least me**" out of all the elements.
@@ -843,8 +843,12 @@ N/A
 -   **Wind Blade** with its talent can double as a very decent ranged/melee attack and an upgraded version of uppercut.
 -   The "_Gale Leap_" talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
 -   The majority of Galebreath mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
-    
--   The wind phantom visual from the "_Haunted Gale_" talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.
+-   The wind phantom visual from the "_Haunted Gale_" talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.[\[2\]](#cite-note-2)
 -   "_Tempest Wind_" can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
     -   Alternatively, you could cast it early to feint the M1 but due to its low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counterattack after blocking or rolling the M1, but this is negated by parries.
 -   Pairing this attunement along the [Jetstriker Oath](Oath%253A_Jetstriker.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and [Jetstriker's](Oath%253A_Jetstriker.md) mobility-based kit. [The Old Wind, Gale Step and Aerogliding](Talents.md) talents, along with all of the [Jetstriker](Oath%253A_Jetstriker.md) talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)
