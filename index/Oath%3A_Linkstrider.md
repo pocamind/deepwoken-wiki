@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 76543
+revid: 76877
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -42,14 +42,13 @@ The only way to obtain each ability is to grip an oath haver, this however does 
 -   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
     -   You can carry objects and people during teleportation. If you are carrying a player, they can die after teleporting.
-        -   Current known locations are...
-            1.  Hygiea (Near Songseeker Wilds)
-            2.  Eunomia (Above Sibex)
-            3.  Ceres (Overlooking the path to the abandoned cabin below Etris, on a black rocky outcrop)
-            4.  Europa (On the top part of the rocks overlooking the entrance to valley of heroes, to the right facing valley of heroes.)
-            5.  Pallas (On the small bit of land by the miner's landing's gate)
-            6.  Fortuna (Above Erisore's Church)
-
+        -   Current known teleportation locations are...
+            1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md))
+            2.  Eunomia (Above [Sibex](Sibex.md))
+            3.  Ceres (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
+            4.  Europa (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
+            5.  Pallas (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s gate)
+            6.  Fortuna (Above [Erisor's Church](<Erisor's_Church.md>))
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally or you're too far from the linked. This ability lets you activate 1 other ability depending on if the cord is connected to an ally or an enemy.
         -   Blue Cords (Allies) Gain a speed boost.
@@ -57,11 +56,9 @@ The only way to obtain each ability is to grip an oath haver, this however does 
     -   **Symbiotic Sustain**
         -   If linked to an ally (signified by blue cord), lose 7% of your HP to restore 15% of the target's HP.
 
--   -   **Parasitic Leech**
-        -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move. The amount of HP you get from Leech is a % of the targets total HP.
-            -   For example, Duke gives more HP than a Mindless Servant since Duke has a significantly higher Health Pool.
-
-  
+-   **Parasitic Leech**
+    -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move. The amount of HP you get from Leech is a % of the targets total HP.
+        -   For example, Duke gives more HP than a Mindless Servant since Duke has a significantly higher Health Pool.
 
 ## Effects
 
@@ -71,9 +68,9 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for a
 
 -   Once you put a knocked player in the slot, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
--   Highly recommended for more support-based builds (e.g Flame Vow of Mastery).
+-   Highly recommended for more support-based builds (e.g., Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
--   Parasitic Leech can be combined with Bloodless in order to heal even more health on hit but deal heavily reduced damage.
+-   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit but deal heavily reduced damage.
 -   A second method of obtainment has been added on the 10th of July's weekly update. Further testing is required.
--   You can grip the same person multiple times if you use blood lotuses
--   if you die with Pristine Lotus's, you lose all of them
+-   You can grip the same person multiple times if you use blood lotuses.
+-   if you die with Pristine Lotus's, you lose all of them.

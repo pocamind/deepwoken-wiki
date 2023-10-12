@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 76743
+revid: 76886
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -64,21 +64,21 @@ Mecha Gatling
 (★★☆)
 
  | A chitinous scythe to cut through your foes in a whirl. | The user grows a terrapod claw from their left arm and begins to spin forward after a short windup. Dealing moderate damage if hit by entire spin. Cancels if parried. (_Requires a Terrapod Shell to obtain_) | Combat Mantra |
-
-### **Mobility Mantras**
-
-| Media | Name | Mantra Description | Effect | Stats |
-| --- | --- | --- | --- | --- |
 | 
+
  | 
 
 Abyssal Ridge
 
 (★★☆)
 
- | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a Nautilodaunt Beak to obtain) | Mobility Mantra |
-| 
+ | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a Nautilodaunt Beak to obtain) | Combat Mantra |
 
+### **Mobility Mantras**
+
+| Media | Name | Mantra Description | Effect | Stats |
+| --- | --- | --- | --- | --- |
+| 
  | 
 
 Beast Burrow

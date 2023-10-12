@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 76737
+revid: 76874
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -81,7 +81,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 
 Also, all of the kills need to be made on one single character.
 
--   Pathfinders are those who have yet to swear under an [Oath](Oaths.md). This is different from being Oathless.
+-   Pathfinders are those who have yet to swear under an [Oath](Oaths.md). This is different from being [Oathless](Oath%253A_Oathless.md).
 -   Chime of Conflict does not affect the amount of progress towards this Origin.
 -   You cannot grip guildmates for Voidwalker obtainment kills.
 

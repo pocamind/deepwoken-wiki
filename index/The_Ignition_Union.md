@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 76724
+revid: 76870
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -41,3 +41,4 @@ You can reset your reputation with Maura, who is standing inside a house on top 
 
 -   [Miner's Landing](<Miner's_Landing.md>) is the only city in-game to be focused on industrialism more than medievalism.
 -   The Ignition Union is one of the four factions who have an oath tied to them.
+-   1 of 2 factions to be associated with a [monster](Monsters.md), the other being [The Hive](The_Hive.md).
