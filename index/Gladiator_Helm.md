@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 73931
+revid: 76908
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment]
@@ -32,5 +32,7 @@ The talent Concussive Force: Enemies you knock remain downed longer than usual.
 
 ## Trivia
 
--   End game Headpiece that many choose.
+-   Despite being uncommon tier, it is considered to be the best Head [Equipment](Equipment.md) piece due to having innate +2 Posture. However, you can argue that the following Helmets: [Blacksteel Helm](Blacksteel_Helm.md), [Knight's Helm](<Silver_Knight's_Helm.md>), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), and [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) are the best headpieces due to being the only ones that can reach 30 HP through 3 stars (+4 more health than Gladiator Helmet).
+-   If you're looking for alternate options for Head [Equipment](Equipment.md), [Deepwoken Hood](Deepwoken_Hood.md) & [Vigil Hood](Vigil_Hood.md) both offer the best pips required to reach the highest amount of DVM/Phys Armor/Elem Armor/Mons Armor, but sacrifices any innate stats.
 -   Worn by [Blade Instructors](Blade_Instructor.md), as well as one of the three [Sky Statues](Sky_Statue.md).
+-   Part of the "Gladiator" set, the only other piece being [Gladiator Pauldrons](Gladiator_Pauldrons.md)

@@ -1,6 +1,6 @@
 ---
 title: Tied Tie
-revid: 76883
+revid: 76895
 source: https://deepwoken.fandom.com/wiki/Tied_Tie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Developer Spec]
@@ -28,9 +28,9 @@ Tied Tie is an unobtainable [Equipment](Equipment.md) item under the "Torso" cat
 
 ## Trivia
 
--   This item is undroppable by the user.
+-   This item is undroppable by the user, and immediately soulbound upon obtainment. Meaning there is no point where it would be droppable by hand or death.
 -   Tied Tie is one of the five [Equipment](Equipment.md) pieces obtained through the Mod Shop. The others being [A Lot of Hats](A_Lot_of_Hats.md), [MICROWAVETM](MICROWAVETM.md), [Moderator Cap](Moderator_Cap.md), and [THE MACHINE](THE_MACHINE.md).
--   A treasure hunt was created by the [Official Deepwoken Twitter](https://twitter.com/Deepwoken) where if you found the Deepwoken Twitter Guy, you'll receive a Tied Tie. [Here's](https://twitter.com/Deepwoken/status/1712139521779806628) the link to that post. The Winner of this treasure hunt is the same guy creating this page, Hello!
+-   A treasure hunt was created by the [Official Deepwoken Twitter](https://twitter.com/Deepwoken) where if you found the Deepwoken Twitter Guy, you'll receive a Tied Tie. [Here's](https://twitter.com/Deepwoken/status/1712139521779806628) the link to that post. _The Winner of this treasure hunt is the same guy creating this page, Hello! (Shoutout to @danicress for being the indirect reason I won, by telling me about the event)_
 -   This item can be dyed and smelted.
 -   This is the only Torso [Equipment](Equipment.md) that uses an Uncommon Pip. Although the uncommon pip grants as much health as a rare pip does, so it may as well be the same as a rare pip.
 -   When provided to the player, the item has a chance to be starred. This could be true with the 4 other Mod Shop accessories, but it's 100% factual due to the treasure hunt reward.

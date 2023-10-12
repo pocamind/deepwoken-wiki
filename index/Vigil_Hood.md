@@ -1,9 +1,9 @@
 ---
 title: Vigil Hood
-revid: 73647
+revid: 76911
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Helmets, Items]
+categories: [Equipment, Helmets, Items]
 ---
 
 # Vigil Hood
@@ -32,5 +32,6 @@ The Vigil Hood is an Equipment item under the "_Head_" category. Equipping it gr
 
 ## Trivia
 
+-   Not the best for HP, but if you're looking for the highest amount of DVM/Phys Armor/Elem Armor/Mons Armor, this and the [Deepwoken Hood](Deepwoken_Hood.md) are the [Equipment](Equipment.md) pieces for you. Highest Potential Stats - DVM: 9% | Phys & Elem Armor: 17% | Mons Armor: 16% (w/ 10 health or 6 DVM)
 -   Placing on this item while you have your headgear hidden via pressing P or through campfire will apply only the mouth cover without the hood.
 -   Raum stated that he would break through the moderation firewalls and forcefully play Deepwoken again if anyone were to find and give him "The Vigil Hood", aka the perfect 3 Star Vigil Hood with the right amount of monster damage, monster armor, and HP. Though since it was specific numbers, this so-called "The Vigil Hood" is now unobtainable due to monster damage being nerfed.
