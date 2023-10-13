@@ -1,6 +1,6 @@
 ---
 title: Demon Mask
-revid: 76936
+revid: 77012
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

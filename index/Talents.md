@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 76937
+revid: 77013
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2390,14 +2390,14 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 ### Engage + Critical Attack
 
--   The quest giver, Athur, is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) he will request that you kill a sharko.
--   It is common to find a sharko inside of the cave behind her, but if none spawn then you can find them at the sharko cave in Lower Erisia.
--   After killing the sharko and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical attack at Power 5.
+-   The quest giver, Arthur, is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) he will request that you kill a [Megalodaunt](Megalodaunt.md).
+-   It is common to find a Megalodaunt inside of the cave behind him, but if none spawn then you can always find two guaranteed spawns at the "Sharko Cave" in Lower Erisia.
+-   After killing the Megalodaunt and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical attack at Power 5.
 
 ### Aerial Assault
 
--   The quest giver is located in Lower Erisia near the glider blueprints giver or at the top of the vipers jaw near mudskipper cave. Formally known as the Pathfinders Respite.
--   Make your way to the Blindseer oath temple and interact with the middle purple flame in front of Neero.
+-   The quest giver is located in Lower Erisia near [Alastir](Alastir.md), leaning on one of the stone pillars.
+-   Make your way to the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) and interact with the purple flame in front of Neero.
 -   You will automatically gain this at Power 2 on all new slots.
 
 ### Chain of Perfection
@@ -2407,48 +2407,42 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 ### Thresher Scales
 
-Quest giver located at The Hive.
-
 File:Thresherquest1.png
 
--   Jessamine will ask you to kill a king thresher
--   King threshers spawn around this area. One will also spawn at the lightkeepers temple.
--   Completing the quest will grant the talent or a free talent hand if you already have it.
+-   The quest giver is located in the [Starswept Valley](The_Starswept_Valley.md), just beyond the stone pillars and leaning on a wall next to a ruined building overhang.
+-   Jessamine will ask you to kill a [King Thresher](Thresher.md#king-thresher).
+-   King Threshers can rarely spawn surrounded by two/three other Threshers. There's also a guaranteed spawn at the [Lightkeeper Temple](Lightkeeper_Temple.md).
+-   Completing the quest will grant the talent, or a free talent hand if you already have it.
 -   You will automatically gain this at Power 10 on all new slots.
 
 ### Treefelling Blow
 
 -   You can collect lumber from the trees you fell with your fists. It's only natural. (+1 Posture, +4 Carry Load)
 -   Requires Strong left
--   Quest giver located at Etris and The Isle Of Vigils they are the NPC that gives you a free lumber axe. Tell them about your wood.
--   Punch down 5 trees then return
-    -   This talent was made by Arch\_Mage
+-   Quest giver located at [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md) they are the NPCs that gives you a free lumber axe. Tell them about your wood.
+-   Punch down 5 trees, then return.
+    -   This talent was made by Arch\_Mage.
 
 ### Family Recipe
 
--   NPC is located at Songseeker outside of the mineshaft entrance. They will ask you to kill "mineskippers". (Mudskippers with miner helmets and pickaxes.)
+-   NPC is located at Songseeker outside of the mineshaft entrance.
+-   They will ask you to go inside the mineshaft and kill ? Mineskippers disguised as barrels.
 
 ### Harvester
 
 -   Talk to Ciea which is located inside of the hive widow cave entrance. They will ask you to make 3 potions.
-    -   Speed potion requires 1-3 Pomars
-    -   Harm potion requires 1-3 Browncaps
-    -   Life potion requires 1-3 Redds
-    -   Ether potion requires 1-3 Dentifilos
-    -   Insanity potion requires 1-3 Urchins
-
+    -   See [Alchemy](Alchemy.md) for potion recipes that won't do absolutely nothing.
 -   The closest cauldron is located at the Light Keepers Temple, if you do not have the Summon Cauldron mantra. Most ingredients can be found at Fort Merit.
 
 ### Excavator
 
 -   Turn in 5 Pure Ores into the blacksmith.
--   This talent lets you mine significantly faster.
-    -   Pure Iron, and Pure Gold are not able to be turned to a blacksmith.
+-   This talent lets you mine significantly faster, and gives you a chance at harvesting 2 ores when you break one.
 
 ### Mercy Kill
 
--   Obtained by unbounding either your attunement or your weaponry
--   This talent lets you instagrip enemies weaker than you with a swing
+-   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat.
+-   This talent lets you instagrip enemies weaker than you with a swing.
 
 ## Outfit Talents
 

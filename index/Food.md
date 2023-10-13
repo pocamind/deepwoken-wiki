@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 77005
+revid: 77007
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -39,6 +39,7 @@ _One needs food and drink to live, much like you. Without it, one will die a slo
 -   When both the Thirst and Hunger bar reach zero, the health bar will slowly drain until it reaches half health. At this point, the Blood bar will be the next to go, and once that is gone, you quickly lose the rest of your health and die.
     -   With about 1/8 hunger left, healing from campfires is completely disabled.
     -   With about 1/8 thirst left, your vision becomes blurry, and your swing speed is lowered.
+-   Once you reach the point of no return, you are permanently knocked for the rest of your life (which is to say not long) and cannot be picked up until you've died. When you wake up, you'll have ?% of your Blood, Thirst and Hunger restored.
 
 ## Food Boosts
 
