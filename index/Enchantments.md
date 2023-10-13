@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 76490
+revid: 76941
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -137,9 +137,11 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Obfuscation<div></div></font></center></td>
-  <td><div><p>Weapon gains 50% chip damage.<br>
+  <td><div><p>Weapon chip is set to 50% chip damage.<br>
   Weapon deals less posture damage.<br>
-  Landing hits give a speed boost.</p></div></td>
+  Landing hits give a speed boost.<br>
+  Note that if you have obfuscation, your chip damage is capped at 50%. It is not capped at 50% for non-obfuscation weapons. Confirmed by tester.<br>
+  </p></div></td>
   <td><div>The weapon turns translucent and is enveloped in a white mist.</div></td>
 </tr>
 <tr>

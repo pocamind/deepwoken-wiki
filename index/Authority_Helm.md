@@ -1,9 +1,9 @@
 ---
 title: Authority Helm
-revid: 73841
+revid: 76968
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Helmets, Equipment]
+categories: [Helmets, Equipment]
 ---
 
 # Authority Helm

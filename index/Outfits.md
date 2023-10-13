@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 75864
+revid: 76912
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -26,7 +26,7 @@ You may also keep the stats of an outfit you are currently wearing while choosin
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks additively with the following:
     -   **Slash/Blunt Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes/from blunt weapons such as maces, fists, guns or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks additively with the following:
-    -   **Fire / Ice / Lightning / Wind / Shadow Armor:** Reduce damage taken from the element mentioned.
+    -   **Fire / Ice / Lightning / Wind / Shadow / Ironsing Armor:** Reduce damage taken from the element mentioned.
 -   **Ether Regen:** Increase Ether regeneration.
 -   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
 -   **Talent:** A passive ability linked to the outfit.

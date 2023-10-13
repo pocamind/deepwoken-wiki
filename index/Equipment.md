@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 76896
+revid: 76981
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -813,7 +813,7 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | Normal & Big |
-| File:Investigator's Hat.png | 
+| File:Investigator's Hat1.png | 
 
 [Investigator's Hat](<Investigator's_Hat.md>)
 
@@ -905,9 +905,9 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Phalanx Helm.png | 
+|  | 
 
-Phalanx Helm
+[Phalanx Helmet](Phalanx_Helmet.md)
 
  | 
 
@@ -1108,6 +1108,25 @@ Sources:
 |  | 
 
 [Moderator Cap](Moderator_Cap.md)
+
+(**Unobtainable**)
+
+ | 
+
+_+5 Health_  
+
++1 Uncommon Pip
+
+ | 
+
+Sources:
+
+-   [Developer Specs](Developer_Specs.md)
+
+ | N/A |
+|  | 
+
+[THE MACHINE](THE_MACHINE.md)
 
 (**Unobtainable**)
 
@@ -2909,7 +2928,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Khanboots.png | 
+| File:Khan Boots1.png | 
 
 [Khan Boots](Legion_Boots.md)
 
@@ -3660,7 +3679,7 @@ Found from:
 -   [Low-Tier Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 
  | Black & Crimson |
-| File:DemonMask.png | 
+| File:Demon Mask1.png | 
 
 Demon Mask
 
@@ -3840,7 +3859,7 @@ Found from:
 -   Mob drop from Masked Songseeker Enemies ~(**10%**)
 
  | Blue, Green & Red |
-| File:Smith Goggles.png | 
+| File:Smith's Goggles1.png | 
 
 [Smith's Goggles](<Smith's_Goggles.md>)
 
@@ -4788,5 +4807,5 @@ Found from:
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   If you want to wear a specific type of equipment piece, but it has awful stats, You can [smelt](Transmogrification.md) something with good stats, and apply the piece you wanna wear as vanity.
 -   The Max amount of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
--   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's very few instances of these items existing due to being obtainable back in Verse One. There is currently no proof of the enchant effect not being voided upon being equipped.
+-   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12th, 2023)
 -   Mythicial Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.

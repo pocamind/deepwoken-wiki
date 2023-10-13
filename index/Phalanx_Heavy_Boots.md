@@ -1,6 +1,6 @@
 ---
 title: Phalanx Heavy Boots
-revid: 73994
+revid: 76946
 source: https://deepwoken.fandom.com/wiki/Phalanx_Heavy_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -30,4 +30,4 @@ Phalanx Heavy Boots are an [Equipment](Equipment.md) item under the "Legs" categ
 
 ## Trivia
 
--   Phalanx Heavy Boots are part of the "**Phalanx**" set; with the other armor pieces being the [**Legion Phalanx Plate**](Legion_Phalanx_Plate.md), **Phalanx Helm**.
+This item is part of the "Phalanx" set, the other items being [Legion Phalanx Plate](Legion_Phalanx_Plate.md) & [Phalanx Helmet](Phalanx_Helmet.md)

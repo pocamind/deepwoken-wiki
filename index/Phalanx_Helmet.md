@@ -1,9 +1,9 @@
 ---
 title: Phalanx Helmet
-revid: 73796
+revid: 76944
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Helmets]
+categories: [Helmets, Equipment]
 ---
 
 # Phalanx Helmet
@@ -28,4 +28,8 @@ _If you wish to see useful information on all Equipment, Go to [**Equipment**](E
 
 ## Description
 
-The Phalanx Helm is an Equipment in the "_Head_" category_._ Equipping this item will give you randomized stats based on the amount of pips.
+The Phalanx Helmet is an [Equipment](Equipment.md) in the "_Head_" category_._ Equipping this item will give you randomized stats based on the amount of pips.
+
+## Trivia
+
+This item is part of the "Phalanx" set, the other items being [Legion Phalanx Plate](Legion_Phalanx_Plate.md) & [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)

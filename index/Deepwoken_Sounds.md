@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 76394
+revid: 76977
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -349,8 +349,9 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.6s | Hit (Greathammer) |
 |  | 0.8s | [Way of Navae](Way_of_Navae.md) (Activation) |
 |  | 0.9s | Hit (Fist) \[1\] |
-| File:Punch3.ogg | 0.4s | Hit (Fist) \[2\] |
+|  | 0.5s | Hit (Fist) \[2\] |
 |  | 0.4s | Hit (Fist) \[3\] |
+|  | 0.6s | Hit (Fist) \[4\] |
 |  | 0.4s | Gun Cork |
 |  | 0.6s | Gun Sheathe |
 |  | 0.8s | Gunshot |

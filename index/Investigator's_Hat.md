@@ -1,9 +1,9 @@
 ---
 title: "Investigator's Hat"
-revid: 73349
+revid: 76970
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors, Helmets]
+categories: [Equipment, Head, Hats]
 ---
 
 # Investigator's Hat
@@ -11,7 +11,8 @@ categories: [Character, Armors, Helmets]
 | Investigator's Hat | |
 |---|---|
 | type | Helmet |
-| rarity | ??? |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | N/A |
 | innate stats | N/A |
 | innate talent | Diplomat |
@@ -22,12 +23,10 @@ categories: [Character, Armors, Helmets]
 | obtainment | Aratel Island |
 | description | - ... |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Investigator's Hat is an Equipment Armor in the Helmet category_._ Equipping this item will give you the talent Diplomat, as well as extra randomized stats based on the number of pips.
+The Investigator's Hat is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you the talent Diplomat, as well as extra randomized stats based on the number of pips.
 
 ## Trivia
 
--   Worn by Kennith (manor key quest guy)
+-   Worn by [Kennith](Kennith.md).

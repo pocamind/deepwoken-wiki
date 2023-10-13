@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 76911
+revid: 76929
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Items]
@@ -23,8 +23,6 @@ categories: [Equipment, Helmets, Items]
 | pass down | Yes |
 | obtainment | Chests from:, Aratel Island, First Layer |
 | description | "..." |
-
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

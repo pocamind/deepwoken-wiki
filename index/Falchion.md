@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 64890
+revid: 76971
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -14,7 +14,7 @@ categories: [Weapons, Swords]
 | requirements | 20 MED |
 | damage | 16 |
 | scaling | 6 |
-| range | 8 |
+| range | 7.5 |
 | swing speed | 0.8x |
 | penetration | N/A |
 | weight | 4 |
