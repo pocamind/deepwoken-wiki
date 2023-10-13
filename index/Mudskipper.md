@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 77001
+revid: 77002
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -57,7 +57,8 @@ Air Force
 -   If there is a Horde and you can't fight them up close, use ranged attacks such as [Fire Palm](Flamecharm.md), [Ice Forge](Frostdraw.md) and [Air Force](Galebreathe.md).
 -   To successfully get out of a Mudskipper flourish, parry and and hold A, S, or D. Then, use your M1s and Mantras.
 -   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" mantra and dodge.
-    -   Getting hit by this mantra will likely cause you to be flung backwards. In unlucky situations, you might end up wiping or going to [Layer 2](Second_Layer.md).
+    -   Getting hit by this mantra will likely cause you to be flung backwards. In unlucky situations, you might end up falling off a cliff.
+    -   Many Mudskippers love to use this mantra at once, throwing you around and disorienting you for a bit.
         
 
 **Bloatskipper:**
@@ -87,6 +88,7 @@ Scratch
 ## Tips
 
 -   The "[Air Force](Galebreathe.md)" mantra can push them towards you and let them get the drop on you.
+    -   Many Mudskippers love to use this mantra at once, throwing you around and disorienting you for a bit.
 -   Take them out first, only then you can deal with the normal Mudskippers.
 -   Don't let allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be insta-gripped/executed by the explosion.
     -   This can also be a good way of managing numbers, allowing you to grip/execute many enemies at once.

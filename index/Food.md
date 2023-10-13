@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 71843
+revid: 77005
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -24,8 +24,8 @@ _To get food, one must collect ingredients from various Luminants or buy the foo
 
 -   Mushrooms, fruit and wheat are all very easy to get, as they are plentiful and various on both starter islands.
 -   In every [season](Seasons.md) (except Winter), the player can find fruit on smaller trees and some bushes, which is an easy and safe source of nutrition.
--   You can buy food from Lance Leshi ([Etris](Etris.md)), his brother ([Isle of Vigils](Isle_of_Vigils.md)), and [The Meat Lord](The_Meat_Lord.md).
--   Alternatively, you can turn in specific dishes that you cook to Chef Odiolavoro for some experience.
+-   You can buy food from [Lance Leshi](Lance.md), [his brother](<Lance's_Brother.md>) (?), and [The Meat Lord](The_Meat_Lord.md).
+-   Alternatively, you can turn in specific dishes that you cook to [Chef Odiolavoro](Chef_Odiolavoro.md) for some experience, although he is not a chef and should not be regarded as such.
 
 Although you can eat the ingredients directly, certain ingredients or eating too many of one thing (i.e Browncaps) may cause vomiting, which leads to an immense decrease in thirst and hunger.
 
@@ -187,7 +187,7 @@ Witherald lifting The Meat Lord
 -   Before the plates were added for most foods in a (supposed) shadow-update, the Cake model had no underside.
 -   According to [Destroyman III](Destroyman_III.md), the strength buff the Megurger gives you is not from the food itself, but the concept.
 -   Cooked/Glazed Fish has a real-life counterpart, most resembling _sashimi_.
-    -   Additionally, the Glazed Fish model is placed incorrectly on the hand.
+    -   Additionally, the Glazed Fish model is placed incorrectly on the hand compared to other plate dishes.
 -   Where did the garnish on the Omelettes come from? The world will never know.
 -   Most food has a weight assigned to it, but uniquely, Sushi has no weight assigned to it. Alongside its relatively cheap recipe and cheaper price from the Meat Lord, this makes it one of the best generic food items in the game.
 
