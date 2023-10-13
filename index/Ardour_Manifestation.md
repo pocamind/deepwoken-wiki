@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 75481
+revid: 76997
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -18,6 +18,7 @@ categories: [Items]
 -   You can still obtain an Ardour Manifestation while currently having a Murmur- including Ardour itself. _The only time this item is not granted is if you already own three of the item in your inventory._
 -   You will be unable to summon the Dread Serpent if there is already one in the server that was spawned through another's Ardour Manifestation.
     -   Once it is slain, you will be able to summon again.
+    -   Trying to use it while the Dread Serpent is spawned will cause it to say _"The manifest pulses in anxiety. As if signaling that a greater threat is already looming within the Voidsea already."_
 
 ## Trivia
 

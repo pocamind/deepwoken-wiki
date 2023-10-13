@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 76119
+revid: 76999
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -37,7 +37,7 @@ Located at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) of Minityrsa, i
 -   You can still gain mantras after max level.
 -   You lose knowledge points which are very valuable.
 -   You have to lose an equipped mantra.(Possible for that mantra to be rolled right after you turn it in)
--   If you have multiple attunements, the three you get to choose won't be the same element as the one you lost.
+-   If you have multiple attunements, the three you get to choose won't necessarily be the same element as the one you lost.
 -   **READ THE MANTRA YOU ARE TRYING TO REPLACE CAREFULLY OR YOU WILL YOU HAVE TO GAMBLE BACK FOR IT**
     
 

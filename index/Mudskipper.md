@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 76536
+revid: 77001
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -57,7 +57,8 @@ Air Force
 -   If there is a Horde and you can't fight them up close, use ranged attacks such as [Fire Palm](Flamecharm.md), [Ice Forge](Frostdraw.md) and [Air Force](Galebreathe.md).
 -   To successfully get out of a Mudskipper flourish, parry and and hold A, S, or D. Then, use your M1s and Mantras.
 -   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" mantra and dodge.
-    
+    -   Getting hit by this mantra will likely cause you to be flung backwards. In unlucky situations, you might end up wiping or going to [Layer 2](Second_Layer.md).
+        
 
 **Bloatskipper:**
 

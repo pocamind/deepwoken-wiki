@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 76000
+revid: 76989
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -355,6 +355,8 @@ Roar
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 
+the sharko is friendly u can go to him and take free curved blade easy notes etc have fun
+
 ### Passives
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Megalodaunts.
@@ -387,5 +389,5 @@ Roar
 -   They probably inherited their swimming genes as they are most likely the descendants or evolution of a shark, which would explain its name, diet, and its ability to swim, unlike most other monsters in the game.
 -   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md).
 -   The Megalodaunt's "Thousand Needles" attack hits everyone, regardless of their hostility to the non-attackers.
--   Megalodaunts are likely carnivores, as seen from their teeth. They have claws to grab and rip into their prey. What contrasts this is that usually large predators don't use their legs for combat. Along with this, they also have eyes on the side of their heads. which could potentially be a sign that they are prey animals to something much bigger.
+-   Megalodaunts are likely carnivores, as seen from their teeth. They have claws to grab and rip into their prey. What contrasts this is that usually large predators don't use their legs for combat. Along with this, they also have eyes on the side of their heads. which could potentially be a sign that they are prey animals to something much bigger. Although sharks in real life also have eyes on the sides of their heads despite being apex predators, although this is arguable as even the largest known predatory shark (Great Whites) still get predated by Orcas.
 -   Megalodaunts supposedly live in packs, which is why they have an "Alpha" and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing among them.

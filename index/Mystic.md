@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 75874
+revid: 76995
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -116,7 +116,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 ### Miscellaneous
 
 -   _My hunt is inescapable. **(Apex Predator) (Note; Cannot give Carnivore)**_
--   I am nature's master. **(Master Survivalist)**
+-   _I am nature's master. **(Master Survivalist)**_
 -   _I am athletic. **(Athlete; Triathlete, Pitcher)**_
 -   _I wish to escape. **(Escape Artist; Robber Baron)**_
 -   _I often attack others. **(Marauder) (Note; Cannot give Aggressive Posture, Thresher Claws)**_
@@ -145,8 +145,8 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I believe in the men who followed Pleeksty before._ _**(Falling Star Guard)**_
 -   _My flames wrap my fists._ _**(Flame Brawler; Flaming Uppercut)**_
 -   _My flame fights for me._ _**(Duelist Flame)**_
--   My spirit is forever burning. _**(Undying Ember) (Note; Cannot give Denial Repulse, Undying Flame)**_
--   I seek the qualities of Tamed Flame. **(Controlled Combustion)**
+-   _My spirit is forever burning._ **(Undying Ember) (Note; Cannot give Denial Repulse, Undying Flame)**
+-   _I seek the qualities of Tamed Flame. **(Controlled Combustion)**_
 
 ### [Frostdraw](Frostdraw.md)
 
@@ -156,7 +156,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _Those that step on my ice know they have made a grave error. **(Cryoni) (Note; Cannot give Preceding Chill)**_
 -   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Frozone, Saint Jay)**_
 -   _I seek the elegance of a glassdancer. **(Glassdancer)**_
--   I seek the qualities of FlashFreeze. _**(FlashFreeze)**_
+-   _I seek the qualities of FlashFreeze._ **(FlashFreeze)**
 
 ### [Thundercall](Thundercall.md)
 

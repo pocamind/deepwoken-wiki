@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 76325
+revid: 76996
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -45,3 +45,4 @@ When obtained, Preservation will spend its points on the following stats:
 -   Entities affected by this resonance will sometimes become stuck on a corner as the user moves, allowing enemies to simply pop the defensive bubble and attack. As such, anybody looking to use this resonance is advised to corrupt their ability.
 -   It uses the same windup sound and animation as [Blood Scourge](Blood_Scourge.md). Ironically forms a duality as while [Blood Scourge](Blood_Scourge.md) drains the life of knocked entities and grips them, Preservation does the opposite by shielding knocked entities in a forcefield, keeping them safe from threats as they recover.
     -   Both also have similar animations, as well as their variants both being an AoE around the user, or a thrown ball that generates the AoE when it lands.
+-   Preservation has a decent chance to fling the player at very far distances, occasionally gripping them. It is advised not to use this resonance in [The Depths](The_Depths.md) as it can grip your allies.
