@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 76199
+revid: 77027
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -417,6 +417,76 @@ Modifiers:
 ## Talents
 
 Bellow is a list of every single Thundercall exclusive talent.
+
+**Surge Path: Unstable Capacitor:**
+
+These talents are found in the _Surge Path: Unstable Capacitor_ category.
+
+| Media | Talents | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Fried Circuits  
+(60 Thundercall)
+
+ | 
+
+Overloading an enemy applies Sapped for 5s.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Closed Circuit  
+(50 Thundercall)
+
+ | 
+
+Surge Overloads that fail to arc the other opponents will deal additional damage to the Overloaded enemy.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Catalytic Strike  
+(50 Thundercall)
+
+ | 
+
+Posture breaking an enemy will Overload their Surge stacks.
+
+ | 
+
+N/A
+
+ |
+| 
+
+ | 
+
+Human Battery  
+(60 Thundercall)
+
+ | 
+
+When you're out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
+
+ | 
+
+N/A
+
+ |
 
 **Authority Interrogator:**
 

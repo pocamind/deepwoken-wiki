@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 76048
+revid: 77062
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -43,9 +43,9 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | Hero Blade of Lightning | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 THD, LVL 11 |
+| requirements | 75 LTN, LVL 11 |
 | damage | 20 |
-| scaling | 6.5 |
+| scaling | LTN: 6.5 |
 | range | 8 |
 | swing speed | 0.75x |
 | weight | 5 |
@@ -53,7 +53,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes, FIshing |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing |
 | description | “A blade said to be enruned with a passage of the song, it evokes the hair-raising trepidation for the incoming storm.” |
 
 | Hero Blade of Wind | |
@@ -102,7 +102,7 @@ A common misconception is their damage type. Hero Blade deals **Physical Slash D
 
 The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of the Hero Blades. This weapon features a unique critical attack which summons a brief fire tornado, dealing damage and applying burns to nearby targets.
 
-## Unique Critical Attack
+## Critical
 
 **Frost:**
 
@@ -113,8 +113,6 @@ The Hero Blade of Frost is an elemental weapon and the Frostdraw variation of th
 **Lightning:**
 
 The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon features a unique critical attack which summons a line of thunder in front, dealing damage and applying shock to targets.
-
-## Unique Critical Attack
 
 **Wind:**
 

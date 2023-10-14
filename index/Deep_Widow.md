@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 76779
+revid: 77042
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 The **Deep Widow** is a giant enemy spider that lurks in [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md), along with a set location in [The Depths](The_Depths.md).
 
-This monster also spawns in [The Depths](The_Depths.md) in a location near one of the columned teleporters or spawns. There is a path which seems to lead towards the void but instead leads down towards an area which has a wooden door. If you break the door using a [Mantra](Mantras.md) or Heavy Critical Attack, it leads you to the Widow. Behind the Deep Widow in The Depths is Surge, an NPC related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md).
+This monster also spawns in [The Depths](The_Depths.md) in a location near one of the columned teleporters or spawns. There is a path which seems to lead towards the void but instead leads down towards an area which has a wooden door. It leads you to the Widow. Behind the Deep Widow in The Depths is Surge, an NPC related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md).
 
 ## Attacks
 
@@ -66,7 +66,7 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 ## **Notes/Tips**
 
 -   It is recommended for inexperienced or ill-equipped players to fight the Widow as a group, and flank her on opposite sides. All of her attacks come from the front and setting up this way will avoid all of the players in your group being hit at once.
--   Despite looking intimidating, she is a lot weaker than she looks. Can be easily cheesed and has (relatively) low health. However, do not underestimate her as she is still stronger than a [Thresher](Thresher.md).
+-   Despite looking intimidating, she is a lot weaker than she looks. Can be easily cheesed and has (relatively) low health. However, do not underestimate her as she is still stronger than a [Thresher](Thresher.md). <--- who compared her to a tresher 💀💀.
 -   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
     -   This poison goes through armor.
 -   Try to deal only two attacks and always be ready for the bite. Don't get too greedy.
@@ -74,6 +74,8 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 -   The bite's venom will bypass every resistance in the game, even [Run It Back](Run_It_Back.md)'s invincibility.
 -   You can cheese the Widow by going atop a ledge in the cave, she will be unable to damage you and your Light Attacks will connect.
 -   Can easily be run past or cheesed as she is not the brightest when it comes to getting stuck between two rock pillars in her own home. You can also sneak past her by crouching and walking behind her.
+-   Try to avoid fighting her when she's corrupted unless you have a end-game build or a Pve build (her webs give a decent amount of [Insanity](Insanity.md#insanity-effects) making you stage 2 insanity very quick).
+-   It is recommended to put Bloodless Gems on some mantras when fighting her solo.
 
 ## **Item Pool**
 
@@ -85,3 +87,4 @@ The Item Pool goes as follows
     -   [Trident Spear](Trident_Spear.md), [Serpent's Edge](<Serpent's_Edge.md>), [Rifle Spear](Rifle_Spear.md), [Vigil Longsword](Vigil_Longsword.md), [Falchion](Falchion.md), [Scimitar](Scimitar.md), [Worshipper Longsword](Worshipper_Longsword.md), [Gremorian Longspear](Gremorian_Longspear.md), [Cavalry Saber](Cavalry_Saber.md), [Shattered Katana](Shattered_Katana.md), [Katana](Katana.md), [Summer Rifle](Summer_Rifle.md), and [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
 -   Heavy Weapons:
     -   [Halberd](Halberd.md), [Pale Morning](Pale_Morning.md), [Forge Greathammer](Forge_Greathammer.md), [Canorian Axe](Canorian_Axe.md), [Adretian Axe](Adretian_Axe.md), and [Darkalloy Greatsword](Darksteel_Greatsword.md).
+    -   Also drops [The Path's Defender.](<The_Path's_Defender.md>)

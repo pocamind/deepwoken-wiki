@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 76263
+revid: 77064
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -12,7 +12,7 @@ notices:
 
 “ Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin' ya. Some spots are bad for fishing, and you can put a bait on your line to get better fish interested. ”
 
-― Argo
+― Argo (LIER)
 
 **Fishing** is a mechanic that allows you to obtain seafood and various valuables using a Fishing Rod.
 
@@ -43,7 +43,7 @@ Many varieties of fish can be obtained from fishing, as well as some loot. **Fis
 -   1 [Mudskipper](Mudskipper.md) (Will spawn a Mudskipper)
 -   1 [Lionfish](Lionfish.md) (Will spawn a Lionfish)
 -   Old Boots (Leather Boots)
--   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 to minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests.)
+-   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 to minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions) Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, **Depths** Chests, And Primadon Chests.)
 -   Golden/Enchanted Fish
 
 Everything you can get from fishing has its own chat bubble pop-up, as a reaction of your character, with most of them being puns or word plays.

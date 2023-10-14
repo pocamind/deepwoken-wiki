@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77013
+revid: 77045
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -727,7 +727,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am an expert on ether."**_
 
--   Charged Return \[Common Talent\] - Being under an elemental status effect causes your physical attacks to do more damage.
+-   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
     -   Prerequisites: 20 Willpower, 15 Strength
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
@@ -1411,8 +1411,12 @@ _**"I often attack others."**_
     -   Prerequisite: Iron Hug mantra, 30 Ironsing
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Insanity)
     -   Prerequisite: 50 Ironsing
+-   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
+    -   Prerequisites: 40 Ironsing, 15 Strength
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
     -   Prerequisite: 50 Ironsing
+-   Oh the Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
+    -   Prerequisites: Taunt, 60 Ironsing, 40 Charisma
 -   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
     -   Prerequisites: 60 Ironsing, Power 13
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
@@ -1653,6 +1657,8 @@ _**"I often attack others."**_
 
 ### Rending Needle
 
+-   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
+    -   Prerequisite: Rending Needle: Conductor
 -   _Rending Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
     -   Ironsing Pull is activated by pressing X.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
@@ -1708,6 +1714,13 @@ _**"I often attack others."**_
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Grant the speed from Wind Gates to the boat you are driving for a short duration.
     -   Prerequisite: Sail along in the direction of the wind for roughly 20 minutes, 30 gale(may be lower)
+
+### Scrapsinger
+
+-   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds.
+    -   Prerequisite: Scrapsinger, 45 Ironsinger
+-   Scrapsinger \[Common Talent, Ironsing Exclusive\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
+    -   Prerequisite: 35 Ironsinger
 
 ### Seeker of Sound
 
@@ -2151,6 +2164,22 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restore sanity and health to those around it. Stacks with sitting next to it.
     -   Prerequisite: 40 Flamecharm, 40 Willpower, Undying Flame
+
+### Unstable Capacitor
+
+> _**"I seek to embrace the instability of lightning as a source of power."**_
+
+-   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
+-   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
+-   Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
+-   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
+-   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
+    -   Turns all thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blue.
+    -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman
 

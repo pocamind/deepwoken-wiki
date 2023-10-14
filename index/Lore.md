@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 76740
+revid: 77015
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1822,12 +1822,12 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   They are poorly evolved for swimming, it's a miracle they can even float.
     -   They swim by treading water.
 -   They reproduce by laying eggs.
--   There are a couple of variants of Megalodaunt, and even a form of social hierarchy.
+-   There are a couple of variants of Megalodaunt, and even a form of social hierarchy between.
     -   Black Megalodaunts are considered the Alphas.
         -   It's unknown if they are born like this or if regular Megalodaunts can obtain this form manually.
     -   Crimson Megalodaunts are much rarer and seem to be drawn to the Songseeker Wilds.
         -   Crimson Megalodaunts are much more aggressive than regular ones, attacking even their own kind.
-        -   They may be connected to Flamecharm, as they can rain down swords of fire on their enemies.
+        -   Their unique skin color and usage of Flamecharm is said to have come from The Vents, and as an extension, Korilfiend's influence on them.
 -   Their natural habitat is The Depths.
     -   This is likely what led them to evolve in this way, as the landscape of The Depths would mean they would not need to swim and instead should evolve to become better runners and stronger climbers and jumpers.
     -   Despite this they often leave and start nests on the surface.
