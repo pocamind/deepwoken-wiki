@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 77065
+revid: 77116
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -39,6 +39,8 @@ Enemy status with Etrea
 
 -   Guards will instantly attack you, NPC's in Etrea or Isle of Vigils will refuse to help you, ex: Blacksmiths.
 
+Etrea is among the factions to have a Bounty Board.
+
 ## Notable Members
 
 -   [The Lord Regent](The_Lord_Regent.md) (Technically, actually belongs to [The Ministry](The_Ministry.md))
@@ -50,4 +52,3 @@ Enemy status with Etrea
 ## Trivia
 
 -   Like other major factions, they seem to be based on a real-world culture, with Etrea being based on East Asian countries.
--   they have a bounty board

@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 73995
+revid: 77137
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ring, Equipment]
@@ -8,7 +8,19 @@ categories: [Ring, Equipment]
 
 # Poser's Ring
 
-Template:EquipmentStats
+| Poser's Ring | |
+|---|---|
+| type | Ring |
+| rarity | ??? |
+| requirements | N/A |
+| weight | 0.1 |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Zana |
+| description | "Damage done with a Katana isn't received until the user sheathes their weapon." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 76945
+revid: 77123
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -30,4 +30,4 @@ The Legion Phalanx Plate is an [Equipment](Equipment.md) item under the "Arms" c
 
 ## Trivia
 
-This item is part of the "Phalanx" set, the other items being [Phalanx Helmet](Phalanx_Helmet.md) & [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+-   This item is part of the "Phalanx" set, the other items being [Phalanx Helmet](Phalanx_Helmet.md) & [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)

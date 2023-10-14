@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 76870
+revid: 77120
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -33,6 +33,8 @@ Like all other factions, having negative reputation will have vendors deny your 
 
 You can reset your reputation with Maura, who is standing inside a house on top of a cliff, which requires the utilization of the Union Hook or climbing up. The price range is 30 to 300 Notes.
 
+The Ignition Union is among the factions to have a Bounty Board.
+
 ## Notable Members
 
 -   [Adar](Adar,_Master_of_Metal.md)
@@ -41,4 +43,4 @@ You can reset your reputation with Maura, who is standing inside a house on top 
 
 -   [Miner's Landing](<Miner's_Landing.md>) is the only city in-game to be focused on industrialism more than medievalism.
 -   The Ignition Union is one of the four factions who have an oath tied to them.
--   1 of 2 factions to be associated with a [monster](Monsters.md), the other being [The Hive](The_Hive.md).
+-   One of two factions to create and utilise [Monsters](Monsters.md), the other being [The Hive](The_Hive.md).

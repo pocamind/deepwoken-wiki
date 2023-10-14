@@ -1,9 +1,9 @@
 ---
 title: Blacksteel Helm
-revid: 76906
+revid: 77126
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Armors]
+categories: [Equipment, Head, Helmets]
 ---
 
 # Blacksteel Helm
@@ -24,11 +24,9 @@ categories: [Character, Armors]
 | obtainment | Chests from:, Summer Isle, First Layer, Duke Erisia, ArenaDrops from:, Blacksteel Pirate |
 | description | "An imposing helmet made from blackened steel." |
 
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
-
 ## Description
 
-The Blacksteel Helm is an Equipment Armor in the "Head" category_._ Equipping this item will give you +10 Health, as well as extra randomized stats based on the amount of pips.
+The Blacksteel Helm is an [Equipment](Equipment.md) item under the "Head" category. Equipping this item will give you +10 Health, as well as extra randomized stats based on the amount of pips.
 
 ## Trivia
 

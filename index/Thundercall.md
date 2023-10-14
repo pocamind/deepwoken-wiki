@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 77100
+revid: 77105
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -8,11 +8,11 @@ categories: [Pages with broken file links, Mantras, Attunement]
 
 # Thundercall
 
-'_**Bold text'**_
-
-Thundercall icon
+_Thundercall icon_
 
 ## Description
+
+_A Thundercall infused sword_
 
 The Attunement "Thundercall" grants the user the ability to control, conjure and create thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
 
@@ -24,15 +24,9 @@ Thundercall can be trained by using a combination of the Self-Conducting Loop an
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
-_A Thundercall infused sword_
-
 -   At Thundercall level 1, players receive the _Thundercaller_ Talent.
 -   At Thundercall level 20, players receive the _Adept Thundercaller_ Talent, allowing the player to now get 1-star Thundercall mantras.
--   File:Surge grand gavelin.jpg
-    
-    Grand javelin after taking the surge path
-    
-    At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercall mantras.
+-   At Thundercall level 30, players receive the _Expert Thundercaller_ Talent allowing the player to now get 2-star Thundercall mantras.
 -   Finally, at Thundercall level 50, players receive the _Master Thundercaller_ Talent. This finally allows Thundercall users to unlock the last category, 3-star Mantras.
 
 The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](Attunement_Potions.md) obtained at [Summer Isle](Summer_Isle.md) using five [Spark Glands](Spark_Gland.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
@@ -1180,16 +1174,13 @@ After successfully casting lightning impact, strike down countless thunder at th
 
  |
 
-## Trivia/Notes
+## Trivia
 
--   Thundercall moves are very ether demanding, so it's best to use a character rich in ether. If you have the \[Wild Alchemy\] talent, you can craft Invigorating Salves with 2-3x wheat that make your ether regen skyrocket.
--   Thundercall has the longest range out of all the Elements.
--   _Spark Swap_ is very useful in swapping out positions with your teammates in fights, allowing them to recover or escape.
--   Base _Lightning Clones_ is very weak, lacking any additional effects, holding lengthy casting times and the Clones themselves being very weak, dissipating after being hit by friend, foe and self.
 -   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
 -   Static Fakeout can be used with Spine Cutter.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
--   In Deepwoken testing, Thundercall used to be blue instead of yellow. However, you can gain back its original color with the path.
+-   In Deepwoken testing, known as Oldwoken, Thundercall used to be blue instead of yellow. Even with the addition of Surge Path, the original color is still lost to the ages.
+    -   Surge is a more purple shade compared to Oldwoken Thundercall, which was a light blue.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
 -   Rising Thunder is a reference to Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
 -   With Lightning Impact: Rains Of Static, variation. You can lower your elevation by sliding, making the windup on your slam way shorter but at the same time keeping you at an unsafe level. You can also increase your elevation off the ground through any means like aerial combos or hopping off a wall to make the windup on your slam longer, not letting opponents auto-parry it due to parrying the projectiles.  

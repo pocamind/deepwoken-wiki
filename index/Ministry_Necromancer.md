@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 77074
+revid: 77132
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -52,9 +52,8 @@ Necro-skippers
 ## Trivia
 
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
--   Auto-grip talents are recommended as they can guarantee a kill on the first 3 hits.
--   Every Cultist Necromancer is a [Ganymede](Ganymede.md).
--   ~They are believed to be brainwashed, because when the [scouts](Ministry_Scout.md) have conversations in-between themselves or with a necromancer, they can only muster up sounds, growls, etc.. Only when you are gripping them they will speak properly, warning us of Celtor repeating itself, that the world will fall under [The Depths](The_Depths.md).~ (This was confirmed that it was a bug)
+-   Auto-grip talents are recommended as they can guarantee a kill on the first three hits.
+-   Every Ministry Necromancer is a [Ganymede](Ganymede.md).
 -   They have a rare chance of dropping the [Night Axe](Night_Axe.md) on death.
--   It is believed that the necromancy they use its related to a oath, possibly being contractors from an unkown prophet, but however a possible low rank prophet.
--   Despite being humanoid NPCs, they are classified as **[Monsters](Monsters.md)**, similar to the [Immortal Guardians](Immortal_Guardian.md). Due to this, they aggro on just about anything in their line of sight; and too are affected by **[Animal King](Regalia.md).** Thus, makes them the only monster affected by Animal King to be capable of summoning _more_ monsters.
+-   It is believed that the Necromancy they use is related to an Oath, possibly being Contractors from an unknown Prophet.
+-   Despite being humanoid NPCs, they are classified as **[Monsters](Monsters.md)**, similar to the [Immortal Guardians](Immortal_Guardian.md). Due to this, they aggro on just about anything in their line of sight; and too are affected by **[Animal King](Regalia.md).** Thus, this makes them the only Monster affected by Animal King to be capable of summoning _more_ Monsters.

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 77082
+revid: 77140
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -379,7 +379,7 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
     <li>Blood Scourge</li>
     <li>Vampirism</li>
   </ul><p>Does not proc/work on people in the same guild as yours.<b></b></p>
-  <p><i>The only source is being hit by a player that has the All the Dead Gods talent.</i></p></td>
+  <p><i>The only sources is being hit by a player that has the All the Dead Gods talent or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
 </tr>
 </tbody>
 </table>

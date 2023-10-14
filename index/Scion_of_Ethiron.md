@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 77078
+revid: 77108
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -106,4 +106,3 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 -   Vampirism barely works on Layer 2 bosses, however [Flame Wisp](Flamecharm.md) can be viable and even with no source of healing there are of course the [Kyrsgarde](Kyrsgarde.md) lancers for HP.
 -   The branches on its head are inspired by dendrites in neuron diagrams.
 -   The developers reffer to the Scion of Ethiron as They/Them, similar to Yun'shul.
--   Scion of Ethiron is notably harder than a Mudskipper.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 76981
+revid: 77130
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]

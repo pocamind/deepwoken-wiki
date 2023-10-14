@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 77066
+revid: 77118
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -41,6 +41,8 @@ To restore your reputation with the Summer Company, head to the Bridge behind Fo
 
 In addition, turning in explosive crates and sacks ([Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) respectively) allows you to increase your reputation with the Summer Company.
 
+The Summer Company is among the factions to have a Bounty Board.
+
 ### **Dialogue**
 
 Good Reputation:
@@ -69,7 +71,6 @@ Neutral-Bad Reputation:
 
 ## Trivia
 
--   They have a bounty board
 -   All the named members of Summer Company are named after parts of guns.
     -   Scope is named after the scope.
     -   Trig is named after the trigger.

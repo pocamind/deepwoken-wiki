@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 77017
+revid: 77109
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -14,7 +14,7 @@ The Guildhouse in Etris
 
 Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds are an influential part of Deepwoken and a lot of Talents and Mantras can be enhanced or require a guild member in order to operate. (i.e. [Rally](Attunement-less.md))
 
-Once you have **Power 5**, a guild can be founded for free (if you have over a 100 notes) by talking to the Guild Clerk in the Guild House at either Etris, east of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md). Talking to the Guild Clerk will prompt you with a window that allows you to name your Guild, set its primary color and make an emblem. The guild color you chose becomes the color of your sails, and the emblem you make will be on the flag of the ship.
+Once you are **Power 5**, a guild can be founded for free (if you have over a 100 notes) by talking to the Guild Clerk in the Guild House at either Etris, east of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md). Talking to the Guild Clerk will prompt you with a window that allows you to name your Guild, set its primary color and make an emblem. The guild color you chose becomes the color of your sails, and the emblem you make will be on the flag of the ship.
 
 Once you've founded your guild, you are given the Guild Officer tool. This tool allows you to invite, promote or exile a member from your guild. If your guild leader has been terminated from Roblox, you can reclaim it at a Guild Hall.
 

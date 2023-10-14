@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 76618
+revid: 77114
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -41,3 +41,5 @@ You can easily get canteen at power level 1 if you know where to look: [https://
 -   Collecting water from the ocean or acid can cause you to vomit unless you have a purifying ring equipped.
 -   Off topic but you won't really need a **Purifying Ring** if you have the **Carnivore talent** since it will replenish your thirst and hunger.
 -   [Serena](Serena.md) requests water.
+-   The pond located in your [guild](Guild_Bases.md) base can also refill your canteen.
+    -   However, drinking this water without a purifying ring equipped will cause you to throw up.

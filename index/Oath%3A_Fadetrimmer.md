@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 76026
+revid: 77113
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -79,4 +79,5 @@ This oath is fully upgraded once you get it.
 -   Charming can be useful combining it with the Charismatic Cast Talent "Tough Love", This will give you a 10% damage buff.
 -   Due to Revitalizing, Fadetrimmer is a solid oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support oath.
 -   Flammable can proc Lava Serpent, however, I don't know if it can proc other flame talents.
--   May be a reference to Gwen from League of Legends
+-   May be a reference to Gwen from League of Legends.
+-   You may also talk to the barber located in your [guild](Guild_Bases.md) base to change your hair back once you've had your hair changed by a fadetrimmer.

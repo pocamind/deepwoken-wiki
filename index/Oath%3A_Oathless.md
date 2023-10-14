@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 76718
+revid: 77112
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,6 +36,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 ## Effects
 
 This Oath grants the player two extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 15% Oath Mantra Resistance.
+
+As for its appearance, **nothing** is added to your outfit making it impossible to tell if a person has oathless or not.
 
 ## Notes
 
