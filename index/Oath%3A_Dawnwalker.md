@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 76125
+revid: 77084
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -56,6 +56,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
  | _Kick your foes at the speed of light._ | 
 
 -   Has a slight endlag of 0.1 seconds, and 0.2 endlag whiff.
+-   Targets nearest enemy
+-   Does not target allies
 
  |
 | Combat |  | 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 76441
+revid: 77093
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -629,6 +629,10 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  |
 
   
+
+Vibrant Gems can point towards mantra tables.
+
+Vibrant Gem pointing to a mantra bench.
 
 **Blast Spark:**
 

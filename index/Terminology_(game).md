@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 74968
+revid: 77080
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -42,15 +42,17 @@ _noun_
 
 _adjective_
 
-1.  A name typically given to players that typically get powerful/enchanted items to use by friends, and tend to act like assholes towards other players despite their usually lower than average skill level.
+1.  A player that uses high-quality equipment yet lacks the skill to back it up.
     1.  "I just killed some boosted trash when they tried to gank me earlier"
+    2.  The point of the term is that it makes the assumption that the player being talked about was 'boosted up' by being given good items by more experienced friends of theirs
 
 ### Permafreshie
 
 _noun_
 
-1.  A derogatory term that refers to someone who appears powerful, yet displays the skill of a new player. Similar to Boosted, however _Permafreshies_ are usually not as confrontational as someone who has been Boosted.
+1.  Someone who often plays the game but never progresses beyond freshie level.
     1.  "Just ganked some permafreshie, he had some good loot."
+    2.  Permanent + Freshie = Permafreshie
 
 ## Combat Terms
 
@@ -86,6 +88,18 @@ _verb_
 
 1.  To use the fourth attack of your weapon, knocking your opponent back.
 
+### Gank
+
+_verb_
+
+1.  To hunt for or attack and battle with other players with the intent to kill, usually done in groups.
+    1.  "Hop on, we're ganking at Songseeker."
+
+_noun_
+
+1.  (rarely) A hunt to find and kill other players, usually used as a noun when planning to do so or retrospectively after already doing so
+    1.  "I almost got wiped in a gank—thank god I escaped!"
+
 ### Guard Break
 
 1.  To exceed a player or humanoid enemies posture, resetting their posture but stunning them brutally. Common sources for getting block broken is having your block getting struck or being hit with an exhaustion strike.
@@ -94,7 +108,7 @@ _verb_
 
 _verb_
 
-1.  To finish a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'execute' is also used.)
+1.  To finish off a player, [enemy](Enemies.md) or [monster](Monsters.md). (The term 'execute' is also used.)
 
 ### Knock
 
@@ -330,14 +344,6 @@ _verb, noun_
 2.  Secondary Definition.
 
 Extra information about term.  
-
-**Ganking**
-
-Using a group of friends for an unfair advantage over solo players.
-
-for example 5v1 is an extreme level of disgusting when looking for an unfair advantage.
-
-_DO, NOT, GANK. It is not officially rule breaking but is very unfair against solo players._
 
 ## Blacklisted Terms
 

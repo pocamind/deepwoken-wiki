@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77045
+revid: 77095
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2174,11 +2174,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 -   Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
+    -   Sapped effect causes the duration of mantra cooldowns to increase, which acts similar to [Thunder Wisp](Thundercall.md).
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
-    -   Turns all thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blue.
+    -   Turns all thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple.
     -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman
