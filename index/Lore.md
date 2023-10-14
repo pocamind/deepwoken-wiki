@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 77015
+revid: 77076
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -731,7 +731,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   Inventors of the fist style 'Legion Kata.'
 -   They have a Greek/Roman motif, considering centurions and legionnaires are both ranks used in Ancient Rome, as well as the nature of their armor. The Legion is also primarily composed of Khans, which have crowns similar to that of Julius Caesar. Despite this, the race as well as the crowns they wear are likely a reference to Son Wukong from the old Chinese novel, "Journey to the West."
 -   The 11th Legion came to the Eastern/Etrean Luminant under the command of Akilles to observe the conflict between Etrea and the Authority.
--   The 11th Legion is suspected to be commanded by someone named Akilles, probably a centurion and leader of the 11th Legion (The 11th, not the hundred) due to him bringing the Legion to the East.
+-   The 11th Legion is suspected to be commanded by someone named Akilles, probably a centurion and leader of the 11th Legion (The 11th, not the hundred) due to him bringing the Legion to the East. They are likely named after the Greek mythology hero Achilles.
 
 Amara, a Member of The Legion.
 
@@ -860,7 +860,7 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_, _The Knives of Eylis_
--   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundred Legions_
+-   **Enemies:** _The Kingdom of Etrea, The Children of Navae (Captives), The Hundred Legions_,
 -   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."

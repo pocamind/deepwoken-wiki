@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 76995
+revid: 77069
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -32,7 +32,7 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 
 ## Dialogue
 
-Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. Note that Rare talents are not affected by Mystics at all unless you use Shrine of Chance. Here are but a few of the possible prompts:
+Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. **Note that Rare Talents are not affected by Mystics at all unless you use Shrine of Chance.** Here are but a few of the possible prompts:
 
 ## Attributes
 
@@ -169,6 +169,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I speak to lightning. **(Thundercaller)**_
 -   _I electrocute my foes from afar. **(Thunder Caster)**_
 -   _My fists are imbued with lighting. **(Thunder Brawler)**_
+-   _I seek to embrace the instability of lightning as a source of power. **(Unstable Capacitor)**_
 
 ### [Galebreathe](Galebreathe.md)
 

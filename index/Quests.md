@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 76774
+revid: 77075
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -166,7 +166,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: [Duke](<Duke_Erisia's_Laboratory.md>) or [Chaser](Cathedral_of_Ethiron.md)
 
-**Guide**: Defeat Duke or Chaser. Does not have to be solo.
+**Guide**: Defeat Duke, The ferryman or Chaser. Does not have to be solo.
 
 **Reward/s**: Mercy Kill
 

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 77027
+revid: 77073
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -1183,8 +1183,7 @@ After successfully casting lightning impact, strike down countless thunder at th
 -   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
 -   Static Fakeout can be used with Spine Cutter.
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
--   In Deepwoken testing, Thundercall used to be blue instead of yellow.
--   It is stated in an update log that Thundercall will get its own talent path in the future, like Eruption for Flamecharm, and Crystallization for Frostdraw.
+-   In Deepwoken testing, Thundercall used to be blue instead of yellow. However, you can gain back its original color with the path.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
 -   Rising Thunder is a reference to Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
 -   With Lightning Impact: Rains Of Static, variation. You can lower your elevation by sliding, making the windup on your slam way shorter but at the same time keeping you at an unsafe level. You can also increase your elevation off the ground through any means like aerial combos or hopping off a wall to make the windup on your slam longer, not letting opponents auto-parry it due to parrying the projectiles.  
