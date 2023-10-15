@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 76088
+revid: 77146
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -34,7 +34,7 @@ The **Silversix** is a [gun](Guns.md) obtained by using [Echoes](Echoes.md) on A
 
 -   The Silversix cannot be dropped by any means.
 -   The critical causes the gun to fire a projectile very far, regardless of the player having a bullet in their inventory or not.
--   A single Silversix can fire four shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
+-   A single Silversix can fire six shots when loaded before requiring a reload. The third and fourth shot are interrupted by a kick.
 
 ## Gallery
 

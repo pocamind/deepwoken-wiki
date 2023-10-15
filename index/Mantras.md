@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 76745
+revid: 77152
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -13,23 +13,6 @@ categories: [Mantras, Character, Attunement, Mechanics]
 Considered to be the root of Ether's usage- Mantras, sometimes referred to in lore as _images of the Song_, are the heart of _Deepwoken's_ magic system. Simply put, these will be the magic abilities that you use in combat to fend off your adversaries or assist yourself in achieving specific goals.
 
 Mantras are obtained by receiving a [Whisper](Whisper_Draw.md) upon powering up, as well as completing the _one-time-use_ [Kelsius Quest](Kelsius.md) in the [Isle of Vigils](Isle_of_Vigils.md). If you are unsatisfied with your current selection of Mantras, they can be rerolled via the [Shrine of Temptation](Deep_Shrines.md).
-
-There are different rarities for mantras.
-
-### Legendary Mantras
-
--   Lightning Cloak
--   Ice Fissure
--   Ice Skate
--   Bolt Piercer
-
-### Rare Mantras
-
--   Ice Daggers
--   Flame Blind
--   Flame of Denial
-
-The only confirmed mantra to have a different rarity is Lightning Cloak and Ice Fissure. The rest of these mantras are classified based on general consensus by the community in terms of how unlikely it is to obtain these mantras or encounter someone who possesses them.
 
 ## Classification of Mantras
 

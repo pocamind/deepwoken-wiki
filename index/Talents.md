@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77095
+revid: 77149
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1888,7 +1888,7 @@ Prerequisite: Charisma
 
 ### Stormblade
 
-> _**"My blade conducts the skies wrath."**_
+> _**"My blade is unrelenting, a storm."**_
 
 -   Stormcaller Slash \[Common Talent, Thundercall exclusive\] - Call forth the fury of storms by pressing F at the end of your move.
     -   After a performing a Thundercall Combat Mantra, pressing F within a second afterwards delivers extra attacks.
@@ -2179,7 +2179,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
-    -   Turns all thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple.
+    -   Turns all thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple. (note: Arch has said that arcwarder may become blurple in the future)
     -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman

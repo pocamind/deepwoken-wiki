@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 75993
+revid: 77153
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -48,11 +48,11 @@ One of the best combat bells because it's mostly used while getting combo I-fram
 ## Trivia/Notes
 
 -   Payback can be either blocked, parried or dodged. (Can someone confirm this)
--   The 1st variation can reflect any status effects given to the user during the timeframe i.e getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
+-   The 1st variation can reflect any status effects given to the user during the timeframe I.E getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
 -   This resonance was formerly known as "Full Counter".
 -   The best way to counter variant 2 payback resonance is by using variant 1 payback. This usually will mess them up real bad.
 -   Prediction mantra but better with a higher duration.
 -   You can't I-Frame fall damage
--   "Achieve infinite dmg!" -some lazer ppl in deepwoken dev
+-   "Achieve infinite dmg!" -some laser people in Deepwoken dev

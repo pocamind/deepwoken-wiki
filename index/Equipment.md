@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 77130
+revid: 77161
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -3877,7 +3877,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:Static-assets-upload9013636473975687804.png | 
+| File:TenGallonBandana.png | 
 
 [Ten-Gallon Bandana](Ten-Gallon_Bandana.md)
 

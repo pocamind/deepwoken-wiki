@@ -1,14 +1,27 @@
 ---
 title: Blindfold
-revid: 76643
+revid: 77155
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Face, Equipment]
+categories: [Face, Equipment]
 ---
 
 # Blindfold
 
-Template:EquipmentStats
+| Blindfold | |
+|---|---|
+| type | Face |
+| rarity | ??? |
+| requirements | N/A |
+| weight | 0.5 |
+| innate stats | N/A |
+| innate talent | Blinded |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Erisia, Minityrsa |
+| description | "A tightly wound blindfold to hide the horrors of the world from your waking eyes." |
 
 ## Description
 
