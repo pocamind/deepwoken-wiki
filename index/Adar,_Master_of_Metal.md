@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 76800
+revid: 77175
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -25,9 +25,19 @@ In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ore
 
 **Before speaking to Rudral without a Pluripotent Alloy**
 
-Adar: Hmm... No, that's not it... \*_It appears he's too deep in thought to notice you._\*
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hmm... No, that's not it... *<i>It appears he's too deep in thought to notice you.</i>*</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 **After speaking to Rudral with a Pluripotent Alloy**
 

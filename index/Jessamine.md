@@ -1,18 +1,21 @@
 ---
 title: Jessamine
-revid: 58343
+revid: 77180
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests]
+categories: [NPCs, Quests]
 ---
 
 # Jessamine
 
+| Jessamine | |
+|---|---|
+| name | Jessamine |
+| location | Starswept Valley |
+
 ## Description
 
 Jessamine is an NPC found underneath a broken castle, just outside of the entrance to [Widow's Hollow](<Widow's_Hollow.md>) in [Starswept Valley](The_Starswept_Valley.md). Talking to them will start a quest that allows you to obtain the talent "Thresher Scales" to regain armor at campfires.
-
-File:Jessamine .png
 
 ## Dialogue
 
@@ -21,16 +24,16 @@ File:Jessamine .png
 <table>
 <tbody>
 <tr>
-  <td colspan="2"><div>Begin</div></td>
+  <td colspan="12"><div>Begin</div></td>
 </tr>
 <tr>
-  <td colspan="2"><div>Tch.. I'm afraid I cannot push myself further. Keep your wits about you in this place, lest you want to meet an untimely end.</div></td>
+  <td colspan="12"><div>Tch.. I'm afraid I cannot push myself further. Keep your wits about you in this place, lest you want to meet an untimely end.</div></td>
 </tr>
 <tr>
-  <td colspan="2"><div>Untimely end?</div></td>
+  <td colspan="12"><div>Untimely end?</div></td>
 </tr>
 <tr>
-  <td colspan="2"><div>Those threshers.. they're tougher than they seem. Their scales make them heavily resistant to my attacks, and are near impossible to fight a group on my own. They seem to follow a leader of their pack, a king thresher. Despite the scales' worth.. I'm not sure if I should press on.</div></td>
+  <td colspan="12"><div>Those threshers.. they're tougher than they seem. Their scales make them heavily resistant to my attacks, and are near impossible to fight a group on my own. They seem to follow a leader of their pack, a king thresher. Despite the scales' worth.. I'm not sure if I should press on.</div></td>
 </tr>
 <tr>
   <td><div>What makes the scales have worth?</div></td>
@@ -49,7 +52,7 @@ File:Jessamine .png
   <td><div>Looks like we have a deal then! Depending on the harvest, I may have an extra Thresher Scale to grant you as well. Return to me once the deed is done, and I'll share how my harvest went.</div></td>
 </tr>
 <tr>
-  <td colspan="2"><div>End</div></td>
+  <td colspan="12"><div>End</div></td>
 </tr>
 </tbody>
 </table>
@@ -59,10 +62,10 @@ File:Jessamine .png
 <table>
 <tbody>
 <tr>
-  <td colspan="2"><div>Begin</div></td>
+  <td colspan="12"><div>Begin</div></td>
 </tr>
 <tr>
-  <td colspan="2"><div>Friend, I've been waiting for the opportunity to see you again!</div></td>
+  <td colspan="12"><div>Friend, I've been waiting for the opportunity to see you again!</div></td>
 </tr>
 <tr>
   <td><div>If you <b>have not</b> killed the king thresher</div></td>

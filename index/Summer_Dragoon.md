@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 75799
+revid: 77182
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -32,7 +32,7 @@ This Outfit's Schematic can be found in:
 
 -   [Miner's Landing](<Miner's_Landing.md>), from chests in the houses (Really rare).
 -   [Saramaed Summit](Saramaed_Summit.md), from [Mechalodaunt](Megalodaunt.md#mechalodaunt) chests (Really rare).
--   Can also be found in the island behind Miner's Landing (Really rare).
+-   [Starfield Veldt](Starfield_Veldt.md), from the chest the [Alpha](Megalodaunt.md) and [Crimson Megalodaunt](Megalodaunt.md) chest.
 
 ## Trivia
 

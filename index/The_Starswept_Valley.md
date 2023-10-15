@@ -1,6 +1,6 @@
 ---
 title: The Starswept Valley
-revid: 71773
+revid: 77176
 source: https://deepwoken.fandom.com/wiki/The_Starswept_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -79,8 +79,8 @@ Below is a list of potential items that can spawn in chests in Starswept Valley.
 -   [Warrior's Eyepatch](<Warrior's_Eyepatch.md>)
 -   [Headband (Series)](Headband.md)
 -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
--   Crystal Pendant Earrings
--   Practitioner's Earrings
+-   [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
+-   [Practicioner's Earrings](<Practicioner's_Earrings.md>)
 -   Scarf (Series)
 -   [Pale Assassins Cloak](<Assassin's_Cloak.md>)
 -   [Star Duster](Star_Duster.md)

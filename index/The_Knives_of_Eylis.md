@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 75297
+revid: 77173
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -26,6 +26,7 @@ The Voidheart itself doesn't actually exist, it's actually a collective dream th
 ## Notable Members
 
 -   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
+-   [Voidmother](The_Voidmother.md)
 
 ## Trivia
 

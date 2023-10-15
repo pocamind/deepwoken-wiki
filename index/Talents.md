@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77149
+revid: 77183
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -200,7 +200,7 @@ _**"I enjoy mixing potions."**_
     -   Negate the speed penalty of critical health (<30% HP)
     -   Prerequisite: 25 Agility, 25 Fortitude
 
--   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
+-   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. **Note: Blocks you from getting Starkindred** (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
     -   Prerequisites: All Alley Cat talents
 
@@ -614,10 +614,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am the one who speaks to death."**_
 
 -   _Black Hole_ \[Rare Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity)
-    -   Prerequisite: Singularity
+    -   Prerequisite: Singularity, 60 Shadowcast, Power 13
 
 -   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected. (+1 Elemental Intensity)
-    -   Prerequisite: Singularity
+    -   Prerequisite: Singularity, 65 Shadowcast
 
 ### Deepwoken
 
