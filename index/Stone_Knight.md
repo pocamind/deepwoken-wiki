@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 76891
+revid: 77204
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ categories: [Monsters]
 
 ― Celestial Telescope
 
-Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). Blizzard Knights can only spawn in from falling meteors, while the Desert Knights can spawn in randomly or from a falling meteor. Another variant, the Star Knight, can be encountered in a rare event, the [Resonant Dawn](Random_Encounters.md#resonant-dawn), where defeating it will reward the player with a Resonance, regardless of their bell progression, as well as with the coveted [Astral](Enchantments.md) [Enchant Stone](Enchant_Stone.md).
+Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). Blizzard Knights can only spawn in from falling meteors, while the Desert Knights can spawn in randomly or from a falling meteor. Another variant, the Astral Knight, can be encountered in a rare event, the [Resonant Dawn](Random_Encounters.md#resonant-dawn), where defeating it will reward the player with a Resonance, regardless of their bell progression, as well as with the coveted [Astral](Enchantments.md) [Enchant Stone](Enchant_Stone.md).
 
 **Blizzard Knight:**
 
@@ -38,13 +38,13 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 **Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
 
-**Star Knight:**
+**Astral Knight:**
 
 Template:Creature Info Box v2
 
 ## Description
 
-Recognizable by their grey body, white eyes and astral enchant sword, the Star Knights are a variant of the stone knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). Their HP is unknown but is presumed to be far higher than the other two variants. They can drop Astral Enchant Stones and killing them is the only way to get them.
+Recognizable by their grey body, white eyes and astral enchant sword, the Astral Knights are a variant of the stone knight only encountered through a developer spawning it in, or guarding a meteorite via [Resonant Dawn](Random_Encounters.md). Their HP is unknown but is presumed to be far higher than the other two variants. They can drop Astral Enchant Stones and killing them is the only way to get them.
 
 ## **Attacks**
 

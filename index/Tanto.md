@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 75273
+revid: 77206
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -73,4 +73,4 @@ The alloyed version of the Tanto. Just a normal Tanto but with increased stats.
 
 -   Meeting the alloyed requirement, the damage is (26.88)
 -   At max LHT, the alloyed damage is (29.6)
--   This is currently the only dagger in the game that does not have any endlag.
+-   Has 0.1 Endlag.

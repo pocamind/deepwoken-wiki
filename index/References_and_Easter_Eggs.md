@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 76424
+revid: 77194
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -43,8 +43,7 @@ categories: [Deepwoken]
 -   **Bolt Piercer** is a reference to [Yoruichi Shihōin's **Shunkō: Raijin Senkei**](https://bleach.fandom.com/wiki/Yoruichi_Shihōin?so=search#Powers_&_Abilities) from _Bleach_.
 -   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash Sixfold](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma#Techniques) from _Demon Slayer._
     -   It also bears striking resemblance to the spell ["Shock Assault"](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
--   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.
--   When [Thundercall Songseekers](Songseeker_Thundercaller.md) use **Jolt Grab**, it heavily resembles the animation for [Dragon Sage'](https://rogue-lineage.fandom.com/wiki/Dragon_Sage)s Lightning Elbow from Rogue Lineage. It may be because they use the old animations instead of the new ones.
+-   Contrary to popular belief, **Rising Thunder** was not based [Zenitsu's](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma) Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.[\[1\]](#cite-note-1)
 
 ### **Frostdraw**
 
@@ -164,7 +163,7 @@ categories: [Deepwoken]
 -   **Krulian Knife** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter x Hunter._
 -   **Shattered Katana** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
-    -   The current model is very similar to the [Storm Curved Sword](https://darksouls.fandom.com/wiki/Storm_Curved_Sword) from _Dark Souls III_.
+    -   The current model was inspired by the [Seedler](https://terraria.fandom.com/wiki/Seedler) from _Terraria_.[\[2\]](#cite-note-2)
 -   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
 -   **Stormseye** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
 
@@ -249,7 +248,7 @@ categories: [Deepwoken]
 -   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry#Obligator) from _Mistborn_.
     -   While both have markings on their face, Adrets markings are specifically referenced from Obligators.
 -   **Canors** are confirmed to be based on the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
-    -   On a broader reference, Canor surnames are German. Zweilhanders, a weapon of German creation in real life, are used by Canor Borderwatchers.
+    -   On a broader reference, Canor surnames are German. Zweihanders, a weapon of German creation in real life, are used by Canor Borderwatchers.
 -   **Khans** resemble modern interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King) from _Journey To The West_, with their near identical hair on sideburns and cheeks, and headband.
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
@@ -265,6 +264,11 @@ categories: [Deepwoken]
     -   They have to be summoned via rituals.
 -   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
 -   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.
--   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath
--   "Hoss" emote is a reference to Akuma from Street Fighter, name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
+-   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath.
+-   "Hoss" emote is a reference to Akuma from Street Fighter, while the name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
 -   When enemies spot you there is a chance to play the alert sound effect from _Metal Gear Solid_.
+
+## References
+
+1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77183
+revid: 77191
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -200,7 +200,7 @@ _**"I enjoy mixing potions."**_
     -   Negate the speed penalty of critical health (<30% HP)
     -   Prerequisite: 25 Agility, 25 Fortitude
 
--   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. **Note: Blocks you from getting Starkindred** (+1 Passive Agility)
+-   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
     -   Prerequisites: All Alley Cat talents
 
@@ -657,10 +657,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Duelist's Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load)
     -   Prerequisites: 20 Strength
 
--   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+10 Sanity)
-    -   When below 25% HP, gain +10% damage.
-    -   Prerequisite: 35 Willpower
-
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical hits a block, this talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
@@ -944,6 +940,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
 ### Galeforce
+
+**"I use the wind to enforce my will."**
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead. (+2 Elemental Intensity)
     -   Prerequisites: 40 Galebreathe, Breathing Impact
@@ -1311,6 +1309,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Players with this talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
     -   Stacks with Last Second Negotiation
     -   Prerequisite: 20 Willpower
+
+-   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+10 Sanity)
+    -   When below 25% HP, gain +10% damage.
+    -   Prerequisite: 35 Willpower
 
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
     -   Grant 15% extra damage when below 70% insanity.

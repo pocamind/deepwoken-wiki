@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 68667
+revid: 77196
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
@@ -8,13 +8,18 @@ categories: [NPCs, Lore]
 
 # Amara
 
+| Amara | |
+|---|---|
+| name | Amara |
+| location | The Viper's Jaw |
+
 ## Description
 
-Template:Creature Info Box v2 Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md), located in the Eastern Luminant. She is the main source of [lore](Lore.md) dedicated to the Legion. She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captain](Legion_Captain.md) and the [Legion Javelin Captain](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
+Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md), located in the Etrean Luminant. She is the main source of [lore](Lore.md) dedicated to the Legion. She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captain](Legion_Captain.md) and the [Legion Javelin Captain](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
 
 She also grants you the [Legion Kata](Fists.md) fighting style after helping the [Legion Captains](Legion_Captain.md) in their encounter with Authority [Frostdrawers](Frostdraw.md) on [Hive Island](Aratel_Island.md) or helping the Legion win their 2v2 event against the [Authority](The_Central_Authority.md) in [Upper Erisia](Upper_Erisia.md).
 
-Amara is a Khan who is around 40 years old based on her wrinkles. She wears the [Legion Centurion Outfit](Legion_Centurion.md)
+Amara is a [Khan](Khan.md) who is around 40 years old based on her wrinkles. She wears the [Legion Centurion Outfit](Legion_Centurion.md).
 
 ## Lore
 

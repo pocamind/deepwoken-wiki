@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 72352
+revid: 77197
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Enemies, Ambush Enemies]
@@ -10,7 +10,7 @@ notices:
 
 # Summer Dragoon (NPC)
 
-Template:EnemyInfobox1.0
+_This page is for the Enemy. For the Outfit, see [Summer Dragoon](Summer_Dragoon.md)._Template:EnemyInfobox1.0
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 77062
+revid: 77210
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -102,17 +102,22 @@ A common misconception is their damage type. Hero Blade deals **Physical Slash D
 
 The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of the Hero Blades. This weapon features a unique critical attack which summons a brief fire tornado, dealing damage and applying burns to nearby targets.
 
-## Critical
+## Trivia
+
+-   The Hero Blade of Flame originally had a gray hilt, like its fellow Hero Blades. This was changed to a rose color in the 10/13/2023 update.
+    
 
 **Frost:**
 
 The Hero Blade of Frost is an elemental weapon and the Frostdraw variation of the Hero Blades. This weapon features a unique critical attack which summons multiple waves of ice around the initial location, dealing damage and apply Frost and Frozen Legs to targets in range. You cannot attack while the crit is active.
 
-## Unique Critical Attack
+## Critical
 
 **Lightning:**
 
 The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon features a unique critical attack which summons a line of thunder in front, dealing damage and applying shock to targets.
+
+## Critical
 
 **Wind:**
 
