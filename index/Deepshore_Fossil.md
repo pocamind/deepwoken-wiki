@@ -1,18 +1,22 @@
 ---
 title: Deepshore Fossil
-revid: 76111
+revid: 77303
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Floor 1, Layer 2]
+categories: [Items, Floor 1, Layer 2]
 ---
 
 # Deepshore Fossil
 
+| Deepshore Fossil | |
+|---|---|
+| type | Quest Item |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | "A biomechanical organism originating from a deeper layer. Far from its ideal habitat, it can produce a single Enchant Stone before it expires." |
+
 ## Description
-
-File:Screenshot 2023-04-03 9.08.29 AM.png
-
-**Deepshore Fossil Screenshot**
 
 The Deepshore Fossil is an item that is obtained from Layer 2. It is not droppable on death or from the inventory. It is a biomechanical organism used to create an [Enchant Stone](Enchant_Stone.md) of your choosing. It will be used up and break once you use it though.
 

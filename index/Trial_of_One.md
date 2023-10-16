@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 77261
+revid: 77297
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -36,7 +36,7 @@ After the completion of each challenge, a glowing orb that functions similar to 
 
 **1st Parry Check:**
 
-Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). When the orbs speed up, speed up how much you're pressing f; when the orbs come nonstop, that is when you can spam F.
+Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). After getting shot at five times, the next stage of orbs will initiate. When the orbs speed up, speed up how much you're pressing f; when the orbs come nonstop, that is when you can spam F.
 
 **Weakened Megalodaunt:**
 
@@ -99,5 +99,6 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   After testing, beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha sharko, you simply get sent back.
 -   Deepbound freshies that somehow make it out of the depths at level one are not able to enter Trial of One
 -   If you're Attunement-less, the campfire goes down and lets you place the 10 points before starting the trial.
+-   The orbs in the last trial deal 0 posture damage and stop after about four minutes. (This might've been patched)
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.

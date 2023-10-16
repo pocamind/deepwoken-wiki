@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 75405
+revid: 77267
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -38,5 +38,4 @@ This Outfit's Schematic can be found in:
 -   The shirt can be found [here](https://www.roblox.com/catalog/5825770743/Night-Walker)
 -   The pants can be found [here](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
 -   The only known obtainable outfit in the game with the "Unique" tier as of now.
--   Effectively a better [Hive Drone](Hive_Drone.md) in almost every way possible besides cost. As with Hive Drone, [Thresher Scales](Talents.md#marauder) pairs very well with this.
 -   If you have thundercall with resolve crusher talent, when you electrify opponents (hit them with a mantra) all their attacks will be converted into lighting damage, meaning that the high lightning resistance will proc and basically make you a great resistance pretty easily.

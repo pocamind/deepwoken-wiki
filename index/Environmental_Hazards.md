@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 61509
+revid: 77304
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -31,7 +31,7 @@ categories: [World]
   <td>Procs certain Talents, All uncovered lit campfires are snuffed out after a few seconds.</td>
 </tr>
 <tr>
-  <td>Snow</td>
+  <td>Hail</td>
   <td>Everywhere (except Starswept Valley) during Winter, Upper <a href="Minityrsa.md">Minityrsa</a> (Always),</td>
   <td>Moderate vison obstruction, procs certain Talents. Additionally, all uncovered lit campfires are snuffed out.</td>
 </tr>

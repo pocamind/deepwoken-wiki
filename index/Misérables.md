@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 72671
+revid: 77275
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -89,4 +89,4 @@ _**If not enough knowledge:**_
 ## Trivia
 
 -   Misérables' name may be a reference to 19th century novel _Les Misérables_, a story which touches on the topics of moral philosophy and the nature of human society. The word "Misérables" directly translates to wretched.
--   Believed to be a way more powerfull version of a Deep Owl. Being able to grip the player with little to no effort.
+-   He may be a far more powerful or ancestral version of a Deep Owl; both are familiar with the concept of deals, treat humans as small boring creatures like mice, and Misérables especially has the power to back up his threats, whereas you can fight off Deep Owls.

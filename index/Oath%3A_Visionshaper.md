@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 76109
+revid: 77299
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,29 +48,29 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Clones do apply hitstun, allowing one to trip up enemies and possibly fail parries.
     -   This mantra is similar to lightning clones, although it works slightly different in execution (Lightning clones dissapear after being hit or hitting once) also Lightning clones and Illusory Servants can be used together.
 
--   **Illusionary Realm - Support Mantra**
+-   **Illusory Realm - Support Mantra**
     -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones)
         -   Cooldown is 2 minutes and 40 seconds.
     -   Cannot be used in water or Guildbases.
-    -   When Illusionary Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
+    -   When Illusory Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
         -   **Important Note:** Players cannot be knocked in the realm, instead, if knocked, they immediately die.
-    -   **Illusionary Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordingly when the realm end).
-    -   If any of the following conditions are met, Illusionary Realm ends early:
+    -   **Illusory Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordingly when the realm end).
+    -   If any of the following conditions are met, Illusory Realm ends early:
         -   If the user fails to catch someone in the realm, they will be brought back after 5 seconds
         -   If the user start resting or runs too far away from the realms entrance, it ends immediatly
-    -   Warrior Respite is disabled while you have a realm active.
--   **Illusionary Counter** **\- Combat Mantra**
+    -   Warrior's Respite is disabled while you have a realm active.
+-   **Illusory Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of your previous location. Counter time can be extended with Mantra modifications.
     -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
-    -   Active frames are larger while in the Illusionary Realm.
+    -   Active frames are larger while in the Illusory Realm.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
 
 -   **Mirage From the Deep - Passive**
-    -   While in the **Illusionary Realm**, press X to leave early. This will cost 10% of your current HP (and immediately heal back to 4% of it) and leave the victim with a monster from The Depths for the remaining duration.
+    -   While in the **Illusory Realm**, press X to leave early. This will cost 10% of your current HP (and immediately heal back to 4% of it) and leave the victim with a monster from The Depths for the remaining duration.
     -   The monster can be a: Nautilodaunt, Megalodaunt, King Thresher or Deep Owl.
 
 -   **Cheap Trick - Passive**
-    -   When hit while below 50% health, turn invisible and summon an Illusionary Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 30s cooldown, tested.)
+    -   When hit while below 50% health, turn invisible and summon an Illusory Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 30s cooldown, tested.)
 
 The following talent is obtained by leveling up after obtaining and maxing out Visionshaper:
 
@@ -83,4 +83,4 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 
 ## Notes
 
--   The Mental Fortress Talent Disbelief only affects illusionary servants, reducing the amount of time they last by half.
+-   The Mental Fortress Talent Disbelief only affects illusory servants, reducing the amount of time they last by half.

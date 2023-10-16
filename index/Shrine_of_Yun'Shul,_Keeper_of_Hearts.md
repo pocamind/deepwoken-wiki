@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 76131
+revid: 77274
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -22,7 +22,7 @@ The Shrine of Yun’Shul is a unique interactable shrine found in Scyphozia. It 
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him, giving you the Oath.
 
-It's possible to interact with the shrine using [Idol of Yun'Shul](Relics.md) Relic. This will allow for one wish to be made and consume the item after usage. The item bypasses any cooldowns and doesn't require the player to possess a Resonance.
+It's possible to interact with the shrine using [Idol of Yun'Shul](Relics.md) Relic. This will allow for one wish to be made and consume the item after usage. The item doesn't require a Resonance and will consume your wish if you have it- to get the most mileage out of it, you should be unable to obtain a wish from the shrine itself by the time you use it.
 
 ## Wishes
 
@@ -30,10 +30,10 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 
 -   You need to have a Resonance. You would have needed this anyway to get past the Resonance Door. **If you attempt to speak to Yun'Shul without a Resonance and you are not a Deepbound (such as glitching in or being carried in by another player), you will be instantly killed and wipe.**
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't really apply on your first wish.
-    -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérable](Misérables.md) for 15 [Knowledge](Knowledge.md).
+    -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md).
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
-    -   All players start with a wish (and can only hold 1 at a time). A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérable](Misérables.md) for 15 Knowledge.
-    -   Deepwoken updates occasionally reset the cooldown. This is fairly rare, however. (There hasn't been a wish reset since 2022, so it's doubted that it will ever happen again.)
+    -   All players start with a wish (and can **only hold 1 at a time.**) A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
+    -   Deepwoken updates formerly reset the cooldown every now and then. However, there hasn't been a wish reset since 2022, and the implementation of [Misérables](Misérables.md) rendered it unnecessary.
 
   
 If you meet all the criteria, you are able to make one of five wishes:

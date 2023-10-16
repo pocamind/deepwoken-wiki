@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 73344
+revid: 77295
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors]
@@ -32,6 +32,9 @@ The Celtor Commander Helm is an Equipment Armor in the "_Head_" category_._ Equi
 
 ## Trivia
 
+-   The Celtor Commander Helm is a part of the “Celtor” set; other pieces being [Celtorian Sabatons](Celtorian_Sabatons.md) and the [Celtor Commander Plate](Celtor_Commander_Plate.md).
 -   When this helmet is dyed the interior part of the helmet will glow whichever color it was dyed.
-    
-    Celtor helm when dyed
+
+[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1)

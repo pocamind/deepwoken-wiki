@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 71781
+revid: 77298
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -35,12 +35,12 @@ Boatman's Watch is a small island located in the [Voidsea](Voidsea.md). The isla
 1.  Enter the arena in the middle of the island.
 2.  Build a Campfire Pit on each end of the circle in the middle.
 3.  Ignite all four Campfire Pits.
-4.  [The Ferryman](The_Ferryman.md) will spawn in the middle.
+4.  A Teleportation ring will spawn, and standing in it will teleport you to an instanced server with purple flames on the campfires
 5.  Interact with him and the battle will start.
 
 -   Rewards in high-tier EXP and a seasonal reward.
 
-Once spawned, you will not be able to leave Boatman's Watch until you defeat The Ferryman, die or combat log.
+Once spawned, you will not be able to leave Boatman's Watch until you defeat The Ferryman and leave through the portal, die or combat log.
 
 ## Trivia/Notes
 
