@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 77145
+revid: 77260
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -28,9 +28,9 @@ If you use a side gun without a main gun, your side gun damage is reduced by 20%
 
 Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun).. Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%. The one-handed gun talent tree is "Outlaw" and "Gunslinger."
 
-**As of August 14th 2023, using a one-handed gun without a side-gun will change your attack cycle**. When using guns one-handed you will pistol whip the opponent (2-hit flourish), however pressing Y or Z will slow you and being a reload animation, different guns hold different amounts of bullets, the Dragoon holds 3, Flintlock holds 4 and the Revolver and Silversix hold 6. The length of the reload animation is dependent on the amount of bullets you're missing. Above your health bar, you can see a revolver chamber that shows you how many bullets you have remaining loaded in your weapon.
+**Using a one-handed gun without a side-gun will change your attack cycle**. When using guns one-handed you will pistol whip the opponent (2-hit flourish), however pressing Y or Z will slow you and being a reload animation, different guns hold different amounts of bullets, the Dragoon holds 3, Flintlock holds 4 and the Revolver and Silversix hold 6. The length of the reload animation is dependent on the amount of bullets you're missing. Above your health bar, you can see a revolver chamber that shows you how many bullets you have remaining loaded in your weapon.
 
-Whenever you have bullets your m1 cycle will shoot the gun instead of pistol whipping and so will your crit, both consuming one bullet per shot. (make sure to have bullets in your inventory, otherwise it will not shoot a projectile,)
+Whenever you have bullets your M1's and crit will shoot the gun instead of pistol whipping and have a 15%+ damage buff, both consuming one bullet per shot. (make sure to have bullets in your inventory, otherwise M1's not shoot a projectile,)
 
 There's a gun technique that you can learn from a quest giver outside the inn at Summer Isle. The man that you need to find is on a shore on the left of the inn. You have to choose the 2nd option then go back to him. However, choosing the 1st option and going back to the gun trainer will spawn Summer Company Gunslingers to kill you. Choosing the 2nd option allows you to unlock the talent Armor Piercing after talking to him again.
 
@@ -48,9 +48,9 @@ _**Stats:**_
 
 **[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, **100** notes (1).(20 LHT req)
 
-**[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **0.8x** attack speed, **200** notes (1).(65 LHT req)
+**[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes (1).(65 LHT req)
 
-**[Dragoon](Dragoon.md):** **20** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
+**[Dragoon](Dragoon.md):** **17** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
 
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed (Requires the bell: [Crazy Slots](Crazy_Slots.md))
 

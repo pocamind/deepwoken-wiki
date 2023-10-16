@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 76631
+revid: 77258
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -40,7 +40,7 @@ A boulder in front of the Antiquarian shop at Etris
 
 -   Boulder - Template:Cost / **200 uses**
 
-\- BOULDER LOCATION: Right outside of [Etris](Etris.md) Antiquarian, right next to [Stratos](Stratos.md) in [Isle of Vigils](Isle_of_Vigils.md), First floor [Greathive Aratel](Greathive_Aratel.md) Library, and right outside of [Castle Light](Castle_Light.md)  
+\- BOULDER LOCATION: Right outside of [Etris](Etris.md) Antiquarian, right next to [Stratos](Stratos.md) in [Isle of Vigils](Isle_of_Vigils.md), First floor [Greathive Aratel](Greathive_Aratel.md) Library, Outside of [Summer Isle](Summer_Isle.md) Shop in the pathway, and right outside of [Castle Light](Castle_Light.md)  
 \- HOW TO TRAIN EFFICIENTLY: Use it lol, but also getting hurt overall works
 
 ### Agility
@@ -57,7 +57,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 -   Encyclopedia - Template:Cost / **200 uses**
 -   Math Textbook - Template:Cost / **200 uses**
 
-\- LOCATIONS: [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, and [Castle Light](Castle_Light.md) Library  
+\- LOCATIONS: [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, and [Castle Light](Castle_Light.md) Library, Left of Gunsmith (Dockson) in [Summer Isle](Summer_Isle.md) Shop, Next to Sand Dollar Merchant (Hotdog) in [Summer Isle](Summer_Isle.md) Shop  
 \- HOW TO TRAIN EFFICIENTLY: Harvest items, Read books, Discover new areas, Eat Bluecaps, Create potions, Discover new recipes
 
 ### Willpower
@@ -71,14 +71,14 @@ Ankle weights hanging in the Antiquarian shop at Etris
 
 -   How To Make Friends - Template:Cost / **200 uses**
 
-\- LOCATION: [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, and [Castle Light](Castle_Light.md) Library  
+\- LOCATION: [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, Next to the Crafting Station inside [Summer Isle](Summer_Isle.md) Shop, and [Castle Light](Castle_Light.md) Library  
 \- HOW TO TRAIN EFFICIENTLY: Use around NPCs or Players, Sell Items, Gain Positive [Reputation](Reputation.md) for any faction
 
 ### Light/Medium/Heavy Weapons
 
 -   Weapon Manual - Template:Cost / **100 uses**
 
-\- LOCATION: [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, and [Castle Light](Castle_Light.md) Library  
+\- LOCATION: [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, Lightning Trainer at [Summer Isle](Summer_Isle.md) Shop, and [Castle Light](Castle_Light.md) Library  
 \- HOW TO TRAIN EFFICIENTLY: Attacking, Parrying, and Defeating
 
 ## [Attunement](Attunements.md) Training

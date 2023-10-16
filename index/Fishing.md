@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 77064
+revid: 77259
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -9,10 +9,6 @@ notices:
 ---
 
 # Fishing
-
-“ Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin' ya. Some spots are bad for fishing, and you can put a bait on your line to get better fish interested. ”
-
-― Argo (LIER)
 
 **Fishing** is a mechanic that allows you to obtain seafood and various valuables using a Fishing Rod.
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Wilds
-revid: 75752
+revid: 77252
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2, The Depths, World]
@@ -31,6 +31,7 @@ Kyrsan Wilds is a sub-location to [New Kyrsa, The Sleeping City](Second_Layer/Ne
 
 -   Naerotiv
 -   Plath
+-   Kennith
 
 ## Trivia
 

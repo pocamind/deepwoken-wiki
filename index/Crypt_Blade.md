@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 77239
+revid: 77253
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Layer 1 and Fishing |
+| obtainment | Layer 1, Layer 2, Fishing |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description

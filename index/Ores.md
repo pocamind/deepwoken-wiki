@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 76766
+revid: 77254
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -41,12 +41,12 @@ categories: [Items, Harvestables]
 | Gold | |
 |---|---|
 | value | 10 |
-| weight | ??? |
+| weight | 1 |
 | type | Ingredient, Consumable |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | A rare and powerful metal. |
+| desc | Pure... |
 
 | Erisore | |
 |---|---|
