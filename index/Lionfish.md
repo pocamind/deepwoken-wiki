@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 76796
+revid: 77212
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-A large brown fish with a black mane of a lion, hence it's name. It has white blank eyes, with it's teeth visible. The fossil record suggests that Lionfish have caused many other predatory fish species to go extinct due to it completely outclassing them in size. It has likely existed for millions of years.
+A large brown fish with a black mane of a lion, hence its name. It has white blank eyes, with its teeth visible. The fossil record suggests that Lionfish have caused many other predatory fish species to go extinct due to it completely outclassing them in size. It has likely existed for millions of years.
 
 It drops a Lionfish Scale, which is used for crafting armor sets.
 
@@ -55,12 +55,6 @@ This will auto-grip you if hit by it at low health.
 ### **Passives**
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Lionfish.
-
-## Located
-
--   [The Depths](The_Depths.md)
--   [Aratel Sea](The_Aratel_Sea.md) (Spawns naturally but can also be fished up)
--   [Voidsea](Voidsea.md)
 
 ## Tips & Tricks
 

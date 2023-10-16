@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 76454
+revid: 77237
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -63,6 +63,7 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
 
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat- or otherwise having positive rep will overwrite the NPC's aggression towards the player. Many of the factions in _Deepwoken_ are inherently xenophobic/racist to other races.
 -   Race rarity does not make the race inherently better- it only means that there's less of your kind in a typical server.
+    -   However, do note that some races are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton Durability.
 -   Players can come across other players tagged with familial relations if they are of the same race, such as being one's sibling, cousin, twin, parent, or any of the like.
     -   While this does not have any impact on gameplay, it can open up unique interactions between players if they so choose.
 -   During the _Mudwoken_ update, every player was turned into a Mudskipper, each race was given their own "_Mudskipper-fied_" version but still kept some characteristics.

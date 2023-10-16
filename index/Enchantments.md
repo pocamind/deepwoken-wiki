@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 77020
+revid: 77214
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -183,9 +183,8 @@ There are two variants that enchantments come in:
   <td><figure>File:NewStormEnchant.gif<figcaption></figcaption></figure><center><br>
   <font>Storm<div></div></font></center></td>
   <td><div><p>On proc, stun with a short cooldown, visualized by a purple lightning after-shock.<br>
-  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 17.5%.</p>
-  <p><br>
-  </p></div></td>
+  By having the Surge Path: Unstable Capacitor talent, your m1s will no longer stun your opponent but will add rods to them.<br>
+  In the rain, M1 connections will also summon a bolt of lightning on the opponent, increasing damage by 17.5%.</p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects.</div></td>
 </tr>
 <tr>

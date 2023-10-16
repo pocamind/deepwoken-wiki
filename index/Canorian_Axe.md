@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 65277
+revid: 77235
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -24,7 +24,7 @@ categories: [Weapons, Greataxes]
 | obtainment | Chests from:, Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw |
 | description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
-| Canorian Axe | |
+| Alloyed Canorian Axe | |
 |---|---|
 | type | Heavy Greataxe |
 | requirements | 75 HVY |

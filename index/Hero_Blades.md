@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 77210
+revid: 77216
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -100,7 +100,11 @@ A common misconception is their damage type. Hero Blade deals **Physical Slash D
 
 **Flame:**
 
-The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of the Hero Blades. This weapon features a unique critical attack which summons a brief fire tornado, dealing damage and applying burns to nearby targets.
+The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of the Hero Blades.
+
+## Critical
+
+The user and phantom summon a brief fire tornado, dealing damage and applying Burn to nearby targets.
 
 ## Trivia
 
@@ -109,21 +113,27 @@ The Hero Blade of Flame is an elemental weapon and the Flamecharm variation of t
 
 **Frost:**
 
-The Hero Blade of Frost is an elemental weapon and the Frostdraw variation of the Hero Blades. This weapon features a unique critical attack which summons multiple waves of ice around the initial location, dealing damage and apply Frost and Frozen Legs to targets in range. You cannot attack while the crit is active.
+The Hero Blade of Frost is an elemental weapon and the Frostdraw variation of the Hero Blades.
 
 ## Critical
+
+The user and phantom summon multiple waves of ice around the initial location, dealing damage and apply Frost and Frozen Legs to targets in range. The user cannot attack while the critical is active.
 
 **Lightning:**
 
-The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon features a unique critical attack which summons a line of thunder in front, dealing damage and applying shock to targets.
+The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades.
 
 ## Critical
 
+The user and phantom summon a line of thunder in front, dealing damage and applying shock to targets.
+
 **Wind:**
 
-The Hero Blade of Wind is an elemental weapon and the Galebreath variation of the Hero Blades. This weapon features a unique critical attack which summons a strong whirlwind in front, pushing back targets.
+The Hero Blade of Wind is an elemental weapon and the Galebreath variation of the Hero Blades.
 
-## Unique Critical Attack
+## Critical
+
+The user and phantom summon a strong whirlwind in front, pushing back targets.
 
 **Shadow:**
 

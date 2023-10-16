@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 76685
+revid: 77234
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -25,10 +25,10 @@ categories: [Weapons, Greataxes]
 | obtainment | Erisia (Chests), The Depths (Chests), Blacksteel Pirate (Chests) |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
-| Halberd | |
+| Alloyed Halberd | |
 |---|---|
 | type | Greataxe |
-| requirements | 25 HVY |
+| requirements | 75 HVY |
 | damage | 24 |
 | scaling | 8 |
 | range | 9 |

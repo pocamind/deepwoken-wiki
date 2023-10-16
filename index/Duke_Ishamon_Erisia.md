@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 76991
+revid: 77231
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -261,7 +261,7 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   The Duke's health scales 5,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
+-   The Duke's health scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   His first name is unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'

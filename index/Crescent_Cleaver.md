@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 76619
+revid: 77238
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -25,7 +25,7 @@ categories: [Weapons, Greatswords]
 | obtainment | Chests from:, Minityrsa, Songseeker Wilds |
 | description | Greatblades like these are often used by monster hunters, the serrated blade ensuring that even if their quarry flees, they need only follow the blood. |
 
-| Crescent Cleaver | |
+| Alloyed Crescent Cleaver | |
 |---|---|
 | type | Heavy Greatsword |
 | requirements | 75 HVY, 10 STR |
@@ -59,5 +59,4 @@ The Alloyed Crescent Cleaver is a mid-endgame weapon obtained by applying a [Plu
 
 -   At 100 heavy weapon, bleed alone grants an extra 12.2 damage per swing.
 -   All 3 hits of the critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable.
--   The appearance of the weapon is possibly a reference to [Eclipse](https://leagueoflegends.fandom.com/wiki/Eclipse) from League of Legends.
 -   Its Critical Attack is probably a reference to Shadow Fight 3's Shadow Ability, "Vane", as both share similar animations.

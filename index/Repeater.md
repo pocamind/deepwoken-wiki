@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 73703
+revid: 77227
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -12,7 +12,7 @@ categories: [Weapons, Guns]
 |---|---|
 | type | Flintlock |
 | requirements | 65 LHT |
-| damage | 14 |
+| damage | 14-15 |
 | scaling | 15 |
 | range | 12 |
 | swing speed | 1x |
