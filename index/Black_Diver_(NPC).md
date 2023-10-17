@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 69435
+revid: 77426
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, In progress with reason, InProgressPages, Enemies]

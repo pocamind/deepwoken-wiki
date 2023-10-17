@@ -1,6 +1,6 @@
 ---
 title: Dwelling Charm
-revid: 73206
+revid: 77425
 source: https://deepwoken.fandom.com/wiki/Dwelling_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Items]
