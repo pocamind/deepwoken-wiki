@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 76693
+revid: 77431
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -16,7 +16,7 @@ Template:NPC name
 
 ## Description
 
-Nyanna is a [Felinor](Felinor.md) seller NPC located in [Castle Light](Castle_Light.md) on the ground floor. She has the unique mechanic of selling a rotation of items that changes every hour.
+Nyanna is a [Felinor](Felinor.md) seller NPC located in [Castle Light](Castle_Light.md) on the second floor. She has the unique mechanic of selling a rotation of items that changes every hour.
 
 ## Shop Rotation
 

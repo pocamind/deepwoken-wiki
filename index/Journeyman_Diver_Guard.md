@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 71343
+revid: 77427
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -52,7 +52,9 @@ A Journeyman Diver executes it's opponent after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[⁣[Acheron's Warspear](<Acheron's_Warspear.md>)\] Pins down opponent before impaling the opponent's chest with their spear.
-\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>) & [Crescent Cleaver](Crescent_Cleaver.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face. \[⁣[Tanto](Tanto.md)\] User pins down the opponent and slices their throat with their blade.
+\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>) & [Crescent Cleaver](Crescent_Cleaver.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+
+\[⁣[Tanto](Tanto.md)\] User pins down the opponent and slices their throat with their blade.
 
  |
 
