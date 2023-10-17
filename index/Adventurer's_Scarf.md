@@ -1,6 +1,6 @@
 ---
 title: "Adventurer's Scarf"
-revid: 74018
+revid: 77405
 source: https://deepwoken.fandom.com/wiki/Adventurer's_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -8,7 +8,20 @@ categories: [Equipment, Torso, Scarves]
 
 # Adventurer's Scarf
 
-Template:EquipmentStats
+| Adventurer's Scarf | |
+|---|---|
+| type | Torso |
+| rarity | ??? |
+| requirements | N/A |
+| weight | 0.5 |
+| innate stats | + 3% Attunement Armour, Depending on color |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Aratel Island |
+| description | "..." |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 77194
+revid: 77354
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -21,6 +21,7 @@ categories: [Deepwoken]
 -   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter X Hunter._
 -   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
+-   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from Guilty Gear Strive.
 -   Every Familiar Helmet from the Hallowtide event are helmets taken from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight helmet**, respectively.
 

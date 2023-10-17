@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 77260
+revid: 77327
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -30,7 +30,7 @@ Furthermore, using a side gun with a non-light main weapon will increase the win
 
 **Using a one-handed gun without a side-gun will change your attack cycle**. When using guns one-handed you will pistol whip the opponent (2-hit flourish), however pressing Y or Z will slow you and being a reload animation, different guns hold different amounts of bullets, the Dragoon holds 3, Flintlock holds 4 and the Revolver and Silversix hold 6. The length of the reload animation is dependent on the amount of bullets you're missing. Above your health bar, you can see a revolver chamber that shows you how many bullets you have remaining loaded in your weapon.
 
-Whenever you have bullets your M1's and crit will shoot the gun instead of pistol whipping and have a 15%+ damage buff, both consuming one bullet per shot. (make sure to have bullets in your inventory, otherwise M1's not shoot a projectile,)
+Whenever you have bullets your M1's and crit will shoot the gun instead of pistol whipping and gain a 15%+ damage buff, both consuming one bullet per shot. (make sure to have bullets in your inventory, otherwise M1's will not shoot a projectile)
 
 There's a gun technique that you can learn from a quest giver outside the inn at Summer Isle. The man that you need to find is on a shore on the left of the inn. You have to choose the 2nd option then go back to him. However, choosing the 1st option and going back to the gun trainer will spawn Summer Company Gunslingers to kill you. Choosing the 2nd option allows you to unlock the talent Armor Piercing after talking to him again.
 

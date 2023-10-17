@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 77272
+revid: 77312
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -102,4 +102,4 @@ Enforcer Pull
 
 ## Trivia/Notes
 
--   Monster Mantras have somewhat of a familiarity to Blue Mages in the Final Fantasy Series; although Blue Mages are able to acquire Monster Spells through encounters, Deepwoken's Monster Mantras requires a monster part to be turned in.
+-   Monster Mantras are somewhat similar conceptually to Blue Mages in the Final Fantasy Series; Blue Mages are able to acquire enemy abilities (Monster Spells) through various means in encounters, somewhat echoed in Monster Mantras and their obtainment methods.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 76877
+revid: 77420
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,13 +29,13 @@ categories: [Oaths]
     3.  Knock all 4 players.
     4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
     5.  Interact with the white orb that appears in the middle.
-2.  Pristine Lotus Method.
+2.  [Pristine Lotus](Pristine_Lotus.md) Method.
     1.  Collect 4 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
-    2.  Grip 4 players that have an oath (You need to do the most damage to the person and get the credit like bounties.Does not need to be different oaths or players, tested.)
-    3.  Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a Scarlet Lotus.
-    4.  Return 4 Scarlet Lotuses to [The Entropy Catalyst](The_Entropy_Catalyst.md).
+    2.  Grip 4 players that have an oath (You need to do some damage to the person and get the credit like bounties. Can be the same player over and over again, tested.)
+    3.  Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
+    4.  Return 4 [Scarlet Lotuses](Pristine_Lotus.md) to [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
-The only way to obtain each ability is to grip an oath haver, this however does not need to be done with The Entropy Catalyst, you get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain on the Third And finally Parasitic Leech on the fourth grip.
+The only way to obtain each ability is to grip a player with an Oath, this however does not need to be done with The Entropy Catalyst, you get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain on the Third And finally Parasitic Leech on the fourth grip.
 
 ## Abilities
 
@@ -66,11 +66,11 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for a
 
 ## Notes
 
--   Once you put a knocked player in the slot, they will die and get sent to the Depths.
+-   Once you put a knocked player in one of [The Entropy Catalyst](The_Entropy_Catalyst.md) slots, they will die and get sent to the Depths.
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 -   Highly recommended for more support-based builds (e.g., Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
 -   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit but deal heavily reduced damage.
 -   A second method of obtainment has been added on the 10th of July's weekly update. Further testing is required.
--   You can grip the same person multiple times if you use blood lotuses.
--   if you die with Pristine Lotus's, you lose all of them.
+-   You can grip the same person multiple times if you use the [Scarlet Lotus](Pristine_Lotus.md) method.
+-   If you die with [Pristine Lotuses](Pristine_Lotus.md), you lose all of them. Unlike [Scarlet Lotuses](Pristine_Lotus.md), which are soulbound.

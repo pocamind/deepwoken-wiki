@@ -1,6 +1,6 @@
 ---
 title: Iron Mask
-revid: 73955
+revid: 77334
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -8,7 +8,20 @@ categories: [Equipment, Face, Masks]
 
 # Iron Mask
 
-Template:EquipmentStats
+| Iron Mask | |
+|---|---|
+| type | Face |
+| rarity | ??? |
+| requirements | N/A |
+| weight | 0.5 |
+| innate stats | N/A |
+| innate talent | N/A |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Lower Erisia |
+| description | "..." |
 
 ## Description
 

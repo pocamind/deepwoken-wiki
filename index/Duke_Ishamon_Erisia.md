@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 77231
+revid: 77406
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -114,7 +114,8 @@ In terms of strategy to avoid his attacks as much as possible;
 -   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 -   If you attempt to assassinate him, the fight will automatically start.
 -   The Duke must be approached closely; if you remain too far away, he will continue to use one of his ranged Mantras. He will use Strong Left once you get close to him so be prepare to parry. If he does not use Strong Left you need to keep parrying his range Mantras or dodge until he uses Strong Left.
--   Since Mindful Servants can hinder your attack and serve as a nustance, Lethal Precision is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Lethal Precision you can bait out Duke's autogripping attacks to quickly deal with knocked mindful servants.
+-   Since Mindful Servants can hinder your attack and serve as a nustance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with knocked mindful servants.
+-   As The Duke tries to block a lot defensively in the second phase, Enforcer Axe and Enforcer Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
 
   
 

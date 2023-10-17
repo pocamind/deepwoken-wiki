@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 77009
+revid: 77394
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -239,5 +239,6 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   Arch mage confirmed that back in Verse One, Adept & Mark of the Lone Warrior didn't affect resonance progression.
 -   Doing the [The Duke](Duke_Ishamon_Erisia.md) around six times will get you a **Resonance** but do this seven or eight times if you want to be safe this will be the safest way to do to get a **Resonance** if you know what your doing. Just be mindful that you get more **Resonance** progression the higher level you are.
 -   If you reroll Corrupted Resonance or Drowned Resonance you will get 5 cards, 3 new Resonances, the corrupted bell you had (different variant & points) and the non corrupted bell version you had.
+-   You can corrupt your resonance by using [Sinner's Ash](<Sinner's_Ash.md>).
 
 1.  [↑](#cite-ref-1)

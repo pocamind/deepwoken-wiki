@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77191
+revid: 77390
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -80,7 +80,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
-    -   Prerequisite: 20 Agility
+    -   Prerequisite: 15 Agility
 
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
@@ -117,9 +117,6 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 1.5 seconds or more grants an aura to your attacks that grant them 15% more damage.
     -   "Max ether" means having more than 95% ether.
     -   Prerequisite: 40 Intelligence
-    -   (Mainly for Pve or Silentheart)
-
-  
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
     -   Prerequisite: 25 Intelligence
@@ -975,8 +972,10 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystals makes them explode.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusive: Unyielding Frost
+
 -   _Crystal Shrapnel_ \[Advanced Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
-    -   Prerequisites: Glass Path: Crystallization, 85 Frostdraw
+
+-   Prerequisites: Glass Path: Crystallization, 85 Frostdraw
 
 ### Great Wall
 
@@ -1239,7 +1238,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Eruption Path: Lava Serpent, 60 Flamecharm
 -   Scorched Earth \[Common Talent, Flamecharm & Eruption Exclusive\] - Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
     -   Prerequisites: Eruption Path: Lava Serpent, 75 Flamecharm
--   _**The Floor is Lava**_ \[Common Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them.
+-   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them.
     -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
 
 ### Leader
@@ -2507,7 +2506,6 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 
 Certain talents cannot be obtained through Roll 2, as they come with significant drawbacks, are mutually exclusive with other talents, or could otherwise break certain builds.
 
--   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
 -   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load, +2 Elemental Intensity)
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your incoming and outgoing elemental damage is reduced by 20%. (+5 Health)
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] Fire mantras now move you forward slightly.

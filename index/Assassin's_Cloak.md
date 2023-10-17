@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Cloak"
-revid: 73833
+revid: 77408
 source: https://deepwoken.fandom.com/wiki/Assassin's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -15,14 +15,14 @@ categories: [Equipment, Arms, Cloaks]
 | selling price | 25 |
 | requirements | Power 10 |
 | weight | 2 |
-| innate stats | 6 Health3% Stealth, 2 + 1 Pips |
-| innate talent | Now You See Me |
+| innate stats | +6 HP, 3% Stealth, 1 Legendary Pips |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests:Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Rogue Construct (Pale), Other Sources:, Drop from Cloaked Assassins |
-| description | ... |
+| obtainment | Aelita (Crimson, Mist, Gold), Aratel Island (Pale), Primadon (Pale), Rogue Construct (Pale), Cloaked Assassins |
+| description | "..." |
 
 ## Description
 

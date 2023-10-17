@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 77304
+revid: 77307
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -70,7 +70,7 @@ categories: [World]
 
 **Damage Zones:**
 
-<table><caption>Damage Zones are parts which hurt anybody who come in contact with one</caption>
+<table><caption>Damage Zones are parts which deal damage to anyone in contact. Being knocked in a Damage Zone will grip you.</caption>
 <tbody>
 <tr>
   <th>Name:</th>

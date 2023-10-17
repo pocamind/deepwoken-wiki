@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 75283
+revid: 77360
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -16,7 +16,7 @@ categories: [Objects]
 
 ## Overview
 
-**Guild Banners** are banners found around the map. They reward the guild controlling them with 15-20 notes per minute and give higher note rewards if there is more competition in the server. If one guild has multiple banners under their control, they will make notes from all of them, however it may become difficult to defend all of your banners if you have many under your guilds control.
+**Guild Banners** are banners found around the map. They reward the guild controlling them with 15-20 notes every 30 seconds and give higher note rewards if there is more competition in the server. If one guild has multiple banners under their control, they will make notes from all of them, however it may become difficult to defend all of your banners if you have many under your guilds control.
 
 (All known) Locations:
 

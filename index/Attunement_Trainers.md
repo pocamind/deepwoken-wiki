@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 75311
+revid: 77411
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, NPCs]
 
 ## Description
 
-Attunement Trainers are NPCs that are hidden around the map that level up mantras for money. Each trainer will increase a mantra level by one depending on which Attunement they train. (Ex: [Frostdraw](Frostdraw.md) Spelltrainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for levelling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A levelled-up mantra's damage is increased obviously.
+Attunement Trainers are NPCs hidden around the map that level up mantras for money. Each trainer will increase a mantra level by one depending on which Attunement they train. (Ex: [Frostdraw](Frostdraw.md) Spelltrainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for leveling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A leveled-up mantra's damage is increased.
 
 A trainer needs intervals of 20 points in your Attunement to upgrade a mantra of the same elemental type as the trainer to upgrade.
 
@@ -71,7 +71,7 @@ When fought, he uses a [Hero Blade of Flame](Hero_Blades.md).
 
 File:B7624e4fd89708c9b9612665c1835545.png
 
- | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
+ | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
 
 When fought, he uses a [Hero Blade of Lightning](Hero_Blades.md).
 
@@ -98,7 +98,7 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
     -   Nostor is an exception due to being a [Ganymede](Ganymede.md).
 -   Beatra was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" (Thundercall master) means "Spark" in German.
--   Nostor wears a ministry ouftit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
+-   Nostor wears a ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
 -   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers. (Excludes Regek, Adar, and Beatra)
     -   Frostdraw trainer Nell wields [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
