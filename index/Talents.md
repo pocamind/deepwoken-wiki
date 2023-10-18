@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77390
+revid: 77437
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2481,25 +2481,24 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+2 Health)
     -   Also available as a common talent.
-
--   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
-    -   Also available as a common talent.
-
 -   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 15% more damage.
--   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
--   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage
--   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your [Jus Karita](Jus_Karita.md) attacks deal 20% more damage. (+3 Passive Agility)
--   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
+-   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
+-   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.
+-   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
+-   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
+-   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - You have a larger flourishing window.
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.
     -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
--   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
--   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
--   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.
--   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.
 -   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased.
--   Paired Soul: [Vigil Initiate](Vigil_Initiate.md) or [Cloak of Winds](Cloak_of_Winds.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%.
+-   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
+-   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
+-   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
+    -   Also available as a common talent.
+-   Paired Soul: [Vigil Initiate](Vigil_Initiate.md) or [Cloak of Winds](Cloak_of_Winds.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%.
+-   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
+-   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your [Jus Karita](Jus_Karita.md) attacks deal 20% more damage. (+3 Passive Agility)
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 
 ## Blacklisted Talents
@@ -2521,7 +2520,6 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
 -   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
     -   Ironically, it then proceeds to write the name of the game incorrectly, as ULTRAKILL is meant to be written in all capitals.
--   Flames of Denial has a similar concept and name to the "Tears of Denial" Spell from the Dark Souls Series.
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
 -   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."

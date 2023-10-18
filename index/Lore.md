@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 77076
+revid: 77439
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1639,10 +1639,12 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _What Mends Shall Fray (Song), Gild_
 
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
--   The Depths has multiple layers, starting from the top to bottom.
-    -   It is unknown how many layers are there.
+-   The Depths surround the world on all sides.
+    -   The world of Deepwoken exists inside of a strange shape that can be simplified as being similar to that of a sphere. The 'walls' and 'sky' of said shape are the sea- beyond which lie The Depths.
+-   The Depths are made up of different 'layers,' strange, alien planes, each drastically different from the last.
+    -   While it is believed that the layers are ordered top to bottom, there is no actual order to them. The first layer, Schyphozia, directly borders the world, encompassing it like a bubble. However, the second layer, The Eternal Gale, does not, and there is not any information on it's location within reality.
         -   There are three known Layers contained within The Depths, but there may well be more.
-        -   As the layers get deeper, they appear to get closer to the Drowned Gods.
+        -   As the layers get further from reality, the center, they appear to get closer to the Drowned Gods.
             -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.
             -   The second Layer is where the Drowned God Ethiron and its guardian, the Scion of Ethiron are found.
             -   The third Layer is where the physical body of Korilfiend is found.

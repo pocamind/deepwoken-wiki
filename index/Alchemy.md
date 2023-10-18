@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 72191
+revid: 77450
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -183,7 +183,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Pomar</td>
   <td>Instantly deals a small amount of damage.</td>
   <td>Opposite effect to <b>Rejuvenating</b>.<br>
-  The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option.</td>
+  The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option.<p>Does nothing when drank. Only deals damage when thrown</p></td>
 </tr>
 <tr>
   <td><b>Rejuvenating</b></td>

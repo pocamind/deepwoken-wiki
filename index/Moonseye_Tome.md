@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 77415
+revid: 77448
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -26,7 +26,7 @@ _(one-time use, re-obtainable)_
 
 ## Trivia
 
--   You can hold more than one of this item.
+-   You can only hold one of this item.
 -   In your inventory, the Moonseye Tome has a Weight of 1
 -   The Moonseye Tome description was assisted by ChatGPT, lol.
 -   The concept name used to be "Book of smartass nnniiiiiiigght Sky."

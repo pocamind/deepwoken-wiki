@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 76972
+revid: 77447
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1912,7 +1912,7 @@ A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack S
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Shattered Katana (100 MED)
     -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
-    -   Penetration: Shattered Katana (30%)
+    -   Penetration: Shattered Katana/First Light (30%)
     -   Chip damage: Night Axe (60%)
     -   Scaling: Revolver, Divine Flintlock (15)
     -   Weight: Enforcer Hammer (12)
