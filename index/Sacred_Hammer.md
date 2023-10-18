@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 75209
+revid: 77459
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Clubs]
@@ -36,6 +36,7 @@ The stats for the hammer
 
 The **Sacred Hammer** is a medium blunt weapon found in the [Songseeker Wilds](Songseeker_Wilds.md), [Starswept Valley](The_Starswept_Valley.md), and [the Monkey's Paw](<The_Monkey's_Paw.md>) from the [Primadon](Primadon,_Titan_of_the_East.md). It can be considered the endgame version of the [Mace](Mace.md). It requires 65 points in the Medium Weapon stat to be used and has a base damage of 19.5.
 
-## Notes
+## Trivia
 
 -   This weapon can be used as a mid to endgame club
+-   Due to clubs once using the older, unpolished animations for medium weapons, the Sacred Hammer was infamous for having horribly desynced animations that made it a nightmare to fight.

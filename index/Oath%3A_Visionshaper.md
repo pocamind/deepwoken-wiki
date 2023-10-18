@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 77299
+revid: 77460
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -81,6 +81,11 @@ The following talent is obtained by leveling up after obtaining and maxing out V
 
 This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appearance, it changes the eye color of the Oath taker to purple and creates a wispy ethereal particle effect which stems from the user's right eye.
 
-## Notes
+## Trivia
 
--   The Mental Fortress Talent Disbelief only affects illusory servants, reducing the amount of time they last by half.
+-   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
+-   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

@@ -1,8 +1,9 @@
 ---
 title: Moonseye Tome
-revid: 77458
+revid: 77471
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Relics]
 ---
 
 # Moonseye Tome
@@ -16,7 +17,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Chaser, Crypt of the Unbroken |
+| obtainment | The Ferryman, Duke Erisia, Chaser, Crypt of the Unbroken |
 | description | "A scrawled and raving account of the prophetic dream received by the Prophet Pariah of the Lullaby Isles, the short-lived leader of a Lunar Cult who voyaged into the Voidsea in the hopes of finding a stairway to the heavens. Though indecipherable, the tome seems to contain more pages than allowed by its size. All copies of the original volume were burnt, but even hundreds of years after its author's demise, new volumes spotaneously appear in libraries and chapels across the Central Luminant. They are swiftly burnt and all records expunged." |
 
 ## Description

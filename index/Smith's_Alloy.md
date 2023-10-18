@@ -1,8 +1,9 @@
 ---
 title: "Smith's Alloy"
-revid: 77409
+revid: 77468
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Relics]
 ---
 
 # Smith's Alloy

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 76620
+revid: 77477
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -37,7 +37,7 @@ A decently easy boss to fight solo, if you are familiar with his moveset and are
 
 _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._
 
-**Once you start the fight, there will be a large ether barrier encircled around the area, turning the previously amiable clearing into an extremely hazardous fighting arena, with no means of escape or entry. The only way to escape is to either die, or defeat The Ferryman.**
+**Once you start the fight, you will be teleported into an instanced server, this server has no external entry or any way to escape other than dying, or if you defeat The Ferryman.**
 
 ## Moves
 

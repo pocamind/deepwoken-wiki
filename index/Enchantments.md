@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 77214
+revid: 77472
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -596,7 +596,7 @@ Static flaming purple.
 -   **January 16th, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
 -   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 -   **August 25th, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
--   **Spetember 29th, 2023** - Astral is made publicly available.
+-   **September 29th, 2023** - Astral is made publicly available.
 
 ## Trivia
 

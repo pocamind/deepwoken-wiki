@@ -1,8 +1,9 @@
 ---
 title: Rain Spire
-revid: 77392
+revid: 77481
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Relics]
 ---
 
 # Rain Spire
@@ -21,7 +22,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Void Spire](Void_Spire.md) that allows its user to summon [Rain](Environmental_Hazards.md) for 5 minutes within a massive radius of the spire. It has infinite uses, but it has a 40m Cooldown.
+The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Void Spire](Void_Spire.md) that allows its user to summon [Rain](Environmental_Hazards.md) for 5 minutes within a massive radius of the spire. It has infinite uses, but it has a 40 minute cooldown.
 
 ## Trivia
 
@@ -29,6 +30,8 @@ The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Vo
     -   [Upper Erisia](Upper_Erisia.md): Acid Rain
     -   [Minityrsa](Minityrsa.md) & [Winter](Seasons.md): Hail
     -   [Aratel Island](Aratel_Island.md): Sandstorm
+-   Rain Spire can be useful to [Thundercall](Thundercall.md) players because of [Stratoshock](Talents.md#thundercaller), A talent that buffs your lightning damage by 10% if it's raining.
 -   Rain Spire can be used in [Chime of Conflict](Chime_of_Conflict.md).
 -   Rain Spire is the first ever Relic to release in Deepwoken. It came with the release of the new [Ironsing](Ironsing.md) Attunement on May 22nd, 2023.
 -   Rain Spire is one of the two [Relics](Relics.md) that has infinite uses. The other one being [Void Spire](Void_Spire.md).
+-   When trying to use the Spire during cooldown, dialogue appears saying "The Spire has not yet reformed."

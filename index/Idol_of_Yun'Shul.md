@@ -1,9 +1,9 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 77412
+revid: 77467
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Relics, Pages with broken file links]
 ---
 
 # Idol of Yun'Shul

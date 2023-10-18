@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77395
+revid: 77479
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -24,7 +24,7 @@ Relics that can be obtained & used by players.
   
 Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Acid Rain](Environmental_Hazards.md) (depending on the area)
 
--   _(40m Cooldown)_
+-   _(40 Minute Cooldown)_
 
  | 
 
@@ -42,12 +42,12 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
  |
 | 
 
- | **[Void Spire](Void_Spire.md)** - A reusable Relic that summons a [Voidzone](Voidzones.md) for ??? minutes within a massive radius of the Relic.
+ | **[Void Spire](Void_Spire.md)** - A reusable Relic that summons a [Voidzone](Voidzones.md) for 5 minutes within a massive radius of the Relic.
 
   
 Anyone that dies within its field will immediately drown to [The Depths](The_Depths.md)
 
--   _(40m Cooldown?)_
+-   _(2 Hour Cooldown?)_
 
  | 
 
