@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 77127
+revid: 77540
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -168,7 +168,7 @@ Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Trium
 
 -   Chaser is voiced by YouTuber [DemStormz](https://www.youtube.com/watch?v=VedRxDf8QNs).[\[1\]](#cite-note-1)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
--   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however was debunked, Verse 2 revealing the boss' name to be Chaser.
+-   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
 -   Chaser is seen wielding six Resonances, presumably stolen from divers he betrayed and killed. However he cant use them.
 -   Chaser grants a fairly large amount of Resonance progression.

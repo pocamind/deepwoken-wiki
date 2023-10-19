@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 76683
+revid: 77546
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -40,6 +40,8 @@ Using the resonance while aiming at a marker starts the teleportation sequence, 
 You can place down 1-3 waypoints (or more if drowned). If you try to place another, the oldest waypoint you placed will get removed.
 
 If Teleportation is drowned, it will have more Resonance Points which means it has improved stats compared to normal Teleportation. "Mark on players" might also be guaranteed (needs confirmation).
+
+Confirmed: Corrupted teleportation bell does not give you mark on players and entirely depends on your bell's variant.
 
 ### _**Resonance Point Usage**_
 

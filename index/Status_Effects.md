@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 77514
+revid: 77548
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -62,7 +62,7 @@ Gain a 20% defence boost to all sources. Applied after knocking someone with the
 
 ### Overcharm
 
-Apply charm per every m1, and mantra used, even without having the Charismatic Cast talent. Also amplifies the speed for an execute. Signifed by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) talent. Also increases ether regen.
+Apply charm per every m1, and mantra used, even without having the Charismatic Cast talent. Also amplifies the speed for an execute. Signifed by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) talent.
 
 ### Mark of Jurik
 
