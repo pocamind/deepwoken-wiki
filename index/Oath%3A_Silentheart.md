@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 77517
+revid: 77528
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -16,10 +16,6 @@ categories: [Oaths]
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
 ― The Dreadstar
-
-“ MY STARS! ”
-
-― Former Authority Silentheart Gabriel Etudi, moments before bashing in the skull of an Angel
 
 ## Description
 
@@ -37,7 +33,7 @@ Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Belo
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._
 
-(You must to talk to the guy at vigils)
+(You must to talk to the guy at the Isle of Vigils library that talks about seeing ghosts on a ship to spawn the Beloved Zofia, if it hasn't been spawned already. Also doubles as a Curiosity talent quest.)
 
 ## Effects
 
