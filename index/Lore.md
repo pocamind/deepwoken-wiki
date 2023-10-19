@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 77439
+revid: 77505
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -930,7 +930,7 @@ An Authority Captain
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light". However this is just a FOB, not the headquarters who are located in the Markor Citadel.
 -   (Arch\_Mage) They were founded shortly after the Tides.
--   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who went insane and killed someone close to her.
+-   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who could easily go insane and kill someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
 -   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on...

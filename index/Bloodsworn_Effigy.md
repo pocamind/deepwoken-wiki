@@ -1,6 +1,6 @@
 ---
 title: Bloodsworn Effigy
-revid: 77462
+revid: 77483
 source: https://deepwoken.fandom.com/wiki/Bloodsworn_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]

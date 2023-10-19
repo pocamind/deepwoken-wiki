@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77479
+revid: 77493
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -42,12 +42,12 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
  |
 | 
 
- | **[Void Spire](Void_Spire.md)** - A reusable Relic that summons a [Voidzone](Voidzones.md) for 5 minutes within a massive radius of the Relic.
+ | **[Void Spire](Void_Spire.md)** - A reusable Relic that summons a [Voidzone](Voidzones.md) for 6 minutes within a massive radius of the Relic.
 
   
-Anyone that dies within its field will immediately drown to [The Depths](The_Depths.md)
+Anyone Power 15+ that dies within its field will immediately drown to [The Depths](The_Depths.md)
 
--   _(2 Hour Cooldown?)_
+-   _(3 Hour Cooldown)_
 
  | 
 
@@ -145,5 +145,4 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 -   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
 -   With the exception of both the Rain Spire and Void Spire, all other Relics are a one-time use.
--   You can only use Relics if you're over Power 15.
 -   Relics can drop from [Hell Mode](Hell_Mode.md), but it is uncertain if it's some Relics or all of them.

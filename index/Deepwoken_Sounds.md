@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 76977
+revid: 77498
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -223,7 +223,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 3.6s | [Bomb](Iron_Bomb.md) + Cannonball (Impact) |
 |  | 0.3s | Zipline Loop |
 |  | 7.1s | [Aerogliding](Talents.md#aeromancer) |
-|  | 2.7s | [Chime of Conflict](Chime_of_Conflict.md) + Shadow Vortex (Activation) |
+|  | 2.7s | [Chime of Conflict](Chime_of_Conflict.md) + Shadow Vortex (Activation) / [Spire](Relics.md) (Deactivation) |
 |  | 4.3s | [Light Hook](Second_Layer.md) Usage |
 |  | 2.3s | [Firfire Caverns](Firfire_Caverns.md) Gate (Open) |
 |  | 2.9s | [Firfire Caverns](Firfire_Caverns.md) Gate (Close) |
@@ -258,7 +258,7 @@ A large collection of sounds found in **Deepwoken**.
 | --- | --- | --- |
 |  | 3.0s | Switching Areas |
 |  | 2.6s | Switching Areas (Combat) |
-|  | 3.1s | [Campfire](Campfire_Pit.md) / Graceful Flame Loop |
+|  | 3.1s | [Campfire](Campfire_Pit.md) + Graceful Flame Loop |
 |  | 4.7s | [Guild Banner](Guild_Banners.md) Captured |
 |  | 0.9s | Throwing [Rock](Ores.md#rock) + Destroying Environment/Terrain \[1\] |
 |  | 0.5s | Throwing [Rock](Ores.md#rock) + Destroying Environment/Terrain \[2\] |
@@ -354,6 +354,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.6s | Hit (Fist) \[4\] |
 |  | 0.4s | Gun Cork |
 |  | 0.6s | Gun Sheathe |
+|  | 2.7s | Gun Reload |
 |  | 0.8s | Gunshot |
 |  | 1.6s | Critical (Windup) |
 |  | 1.5s | Critical (Sword) |
