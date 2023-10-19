@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 75906
+revid: 77512
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -26,3 +26,5 @@ categories: [Equipment, Torso, Necklaces]
 ## Description
 
 The Curseblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+
+can appear on merchant ships

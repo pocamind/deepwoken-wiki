@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 74285
+revid: 77513
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -23,7 +23,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley chests and Minityrsa chests and Authority's Invasion of Etris |
+| obtainment | Starswept Valley chests and Minityrsa chests and Authority's Invasion of Etris and Merchant Ships |
 | description | - |
 
 ## Description

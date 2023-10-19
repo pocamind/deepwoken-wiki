@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 77144
+revid: 77517
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,7 +37,7 @@ Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Belo
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._
 
-(You do not need to talk to the guy at vigils)
+(You must to talk to the guy at vigils)
 
 ## Effects
 

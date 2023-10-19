@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 76973
+revid: 77520
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -24,7 +24,7 @@ It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md), fiv
 </tr>
 <tr>
   <td><a href="Umbral_Obsidian.md">Umbral Obsidian</a></td>
-  <td>5</td>
+  <td>3</td>
 </tr>
 <tr>
   <td><a href="Dark_Feather.md">Dark Feather</a></td>

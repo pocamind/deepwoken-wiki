@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 74369
+revid: 77519
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -106,6 +106,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   [Legion Cestus](Legion_Cestus.md)
 -   [Nemit's Sickle](<Nemit's_Sickle.md>)
 -   [Razor Cutlass](Razor_Cutlass.md)
+-   [Sacred Hammer](Sacred_Hammer.md)
 -   [Shotel](Shotel.md)
 -   [Vigil Longsword](Vigil_Longsword.md)
 
