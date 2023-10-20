@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77562
+revid: 77565
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -34,7 +34,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
       
     
 
-(**~1%**)
+**(~1%)**
 
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -57,7 +57,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
       
     
 
-(**~1%**)
+**(~1%)**
 
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -71,10 +71,8 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
-
-**(~6%)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~6%)**
 
  |
 | 
@@ -88,11 +86,9 @@ Can be used in any location.
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~4%)**
 -   [The Ferryman](The_Ferryman.md)
 -   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)
-
-**(~4%)**
 
  |
 | 
@@ -105,10 +101,8 @@ File:Sinner's Ash.png
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~1%)**
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
-
-**(Less than ~1%)**
 
  |
 | 
@@ -122,7 +116,7 @@ File:Moonseye Tome.png
  | 
 
 -   [The Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~1%)**
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 

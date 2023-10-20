@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 77254
+revid: 77568
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -10,7 +10,7 @@ categories: [Items, Harvestables]
 
 | Rock | |
 |---|---|
-| value | N/A |
+| value | Unsellable |
 | weight | 1 |
 | type | Ingredient |
 | bankable | Yes |
@@ -31,12 +31,12 @@ categories: [Items, Harvestables]
 | Iron | |
 |---|---|
 | value | 5 |
-| weight | ??? |
+| weight | 1 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | ??? |
+| desc | Strong. |
 
 | Gold | |
 |---|---|
