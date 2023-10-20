@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77553
+revid: 77581
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -938,7 +938,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Galeforce
 
-**"I use the wind to enforce my will."**
+**"I use the winds to enforce my will."**
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead. (+2 Elemental Intensity)
     -   Prerequisites: 40 Galebreathe, Breathing Impact
