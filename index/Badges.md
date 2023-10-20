@@ -1,6 +1,6 @@
 ---
 title: Badges
-revid: 76220
+revid: 77551
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -42,6 +42,6 @@ categories: [Deepwoken]
 | Name | Image | Difficulty | Description | Times Obtained |
 | --- | --- | --- | --- | --- |
 | [Metalhead](https://www.roblox.com/badges/2143962474/Metalhead) | 
- | Unknown | _"You've proven yourself at the 72 Seasons and unlocked the exclusive Head Bang gesture. Grants the 'Metallica M Pendant' Accessory."_ | Unknown |
+ | 0.0% | _"You've proven yourself at the 72 Seasons and unlocked the exclusive Head Bang gesture. Grants the 'Metallica M Pendant' Accessory."_ | 77,183 |
 
 Please update the "Times Obtained" section every 2-3 weeks. Thank you.

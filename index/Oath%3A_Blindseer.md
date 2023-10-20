@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 75844
+revid: 77552
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -78,7 +78,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
         -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusionary Servant's casting, Beast Burrow and Portal.
-    -   Doesn't work on the [Tacet Murmur](https://deepwoken.fandom.com/wiki/Murmur).
+    -   Doesn't work on the [Tacet Murmur](https://deepwoken.fandom.com/wiki/Murmur), but allows for further detection radius.
     -   Obtaining: 4 Pathfinders helped in the Depth Trial (must be alive)
 
 ## Effects
@@ -93,3 +93,9 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
 
 -   Having the Blind [Flaw](Boons_and_Flaws.md) removes the Blindfold requirement.
 -   Well-suited Oath for PvE.
+
+## Trivia
+
+-   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
+
+-   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.

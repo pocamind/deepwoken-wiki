@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 75542
+revid: 77554
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -21,7 +21,9 @@ categories: [World, Events]
 
 ## Description
 
-Hallowtide was an event that started on Halloween Night of 2022, and ended on November 13th. This event added..
+Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th 2022.
+
+It is returning this year on October 27th. The first Hallowtide added...
 
 -   [The Floating Keep](The_Floating_Keep.md)
 -   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink

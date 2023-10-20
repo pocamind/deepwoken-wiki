@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77473
+revid: 77553
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -62,7 +62,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Common
 -   Rare
--   Legendary
+-   Advanced
 -   Oath
 -   Mantra
 -   Mystery

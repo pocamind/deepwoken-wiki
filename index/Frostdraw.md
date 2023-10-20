@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 75830
+revid: 77558
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -192,8 +192,9 @@ _A flurry of ice spikes._
 
  | Forms a path of ice spikes in front of user.
 
--   Deals moderate damage
--   Does not inflict Chill.
+-   Deals moderate damage.
+-   Inflicts Chill.
+    -   Despite lacking the Chill indicator, it does inflict Chill.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
@@ -442,7 +443,7 @@ _Skate freely on paths of ice._
   <td><center><i>A servant of ice.</i></center></td>
   <td>Summons a wisp that travels around you placing ice. Also shoots a beam attack whenever you vent successfully.
   <ul>
-    <li>Can be modified with Drift Shards or Rush Shards to increase the size of the ice that the wisp places.<br>
+    <li><s>Can be modified with Drift Shards or Rush Shards to increase the size of the ice that the wisp places.</s> It doesn't increase anything, it can't be modified not even with vibrant gems (which work just fine with frost grab).<br>
   </li>
   </ul></td>
 </tr>
@@ -1017,3 +1018,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw has the second-most mantras out of all attunements, only second to Ironsing...
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   The "Ice Eruption" mantra MIGHT be a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.
+
+## References
+
+1.  [↑](#cite-ref-1)

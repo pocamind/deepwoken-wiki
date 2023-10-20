@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 75673
+revid: 77557
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, World, Items]
@@ -101,7 +101,7 @@ _The Hallowtide Mask no longer scares NPCs whatsoever, though the item may be eq
 | Hallowscleave | 70 Joy |
 | Hallowtide Variant | 70 Joy |
 
-## Notes
+## Trivia
 
+-   The Fine Ink jars use the same model as the jars of blood used by [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   On release, Void feathers cost 5 Joy instead of the displayed 15. This was patched as of 11/5/2022.
--   Hallowtide is confirmed by Arch\_Mage to return on October 2023.
