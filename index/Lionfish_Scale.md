@@ -1,6 +1,6 @@
 ---
 title: Lionfish Scale
-revid: 77626
+revid: 77680
 source: https://deepwoken.fandom.com/wiki/Lionfish_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -23,4 +23,4 @@ A Lionfish Scale can be obtained from [Lionfishes](Lionfish.md) which can be fou
 
 ## Trivia
 
-It can be used to spawn [Primadon](Primadon,_Titan_of_the_East.md) by offering 5 Lionfish Scales to the Fire
+It can be used to spawn [Primadon](Primadon,_Titan_of_the_East.md) by offering 5 of them to the Fire

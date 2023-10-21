@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 77652
+revid: 77692
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -32,6 +32,10 @@ It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md), fiv
 </tr>
 <tr>
   <td><a href="King_Thresher_Spine.md">King Thresher Spine</a></td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>Odd Tentacle</td>
   <td>3</td>
 </tr>
 <tr>
@@ -81,6 +85,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 
 -   **Lifesteal Resistance** - Lifestealing effects such as the Vampirism Enchantment or Bloodless Gems are severly reduced against Primadon.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Primadon.
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths.
 
 ## Rewards
 
@@ -130,3 +135,4 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
+-   The Deep Calls is extremely finicky and will have a chance to not activate.

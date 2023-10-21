@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 77658
+revid: 77683
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -196,7 +196,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ### **Dual Attunement**
 
--   _I see the qualities of Lichtenberg. **(Scorched peak)**_
+-   _I seek the qualities of Lichtenberg. **(Scorched peak)**_
 -   _I seek the qualities of Heat Column. **(Heat Column)**_
 -   _I seek the qualities of Doomsday Engine. **(Doomsday Engine)**_
 
