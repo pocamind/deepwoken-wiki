@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 76999
+revid: 77661
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -125,7 +125,8 @@ Located in Songseeker Mines, through the passage containing mudskippers.
 
 -   **YOU CAN ONLY USE SHRINE OF ORDER ONCE.**
 -   Requires Power 8.
--   Grants a Random Flaw, including Simple.
+-   Grants a Random Flaw
+    -   The Simple flaw cannot be granted
 -   You cannot use the Shrine of Order if you already have an [Oath](Oaths.md). Using it won't lock you out of getting an Oath.
 -   Innate (racial) attribute points do not count when redistributing your points, although attribute points you assign during character creation do.
 -   Incredibly strong as most [basic attributes](Attributes.md#basic-attributes) are primarily important for unlocking [talents](Talents.md) and [mantras](Mantras.md) rather than direct stat boosts.

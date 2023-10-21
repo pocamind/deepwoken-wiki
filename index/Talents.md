@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77581
+revid: 77674
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -477,6 +477,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
+> _**"I am a friend to others."**_
+
 -   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
@@ -523,7 +525,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
 -   Spike Traps \[Rare Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
-    -   Prerequisite: Ice Spikes
+    -   Prerequisite: Ice Spikes, 30 Frostdraw
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)
     -   Slows thirst drain by approximately 3 times.
@@ -891,7 +893,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Glacial Coasting \[Common Talent, Frostdraw Exclusive\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility, +3 Elemental Intensity, +1 Health)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
--   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 25% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
+-   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
     -   Durability of Orbital Ice is equal to "Frostdraw/4", reaching 25 at 100 Frostdraw.
     -   Prerequisites: 65 Frostdraw
 
@@ -1461,7 +1463,7 @@ _**"I often attack others."**_
 
 ### [Murmur](Murmur.md)
 
-> _**"I speak to the Depths."**_
+> _**"My soul is an instrument with its own frequency"**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture).
     -   Affected targets takes 200% extra posture damage and take 25% more damage.

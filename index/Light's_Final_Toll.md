@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 77454
+revid: 77645
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -45,3 +45,5 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 -   Has misleading animations that extend the weapons visual reach way outside of its effective hotbox.
 -   Can switch between Way of Navae and Legion Kata critical attacks.
 -   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
+-   It is one of three known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Railblade](Railblade.md).
+-   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks.

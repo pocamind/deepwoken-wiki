@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 77588
+revid: 77652
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -31,7 +31,7 @@ It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md), fiv
   <td>3</td>
 </tr>
 <tr>
-  <td>King Thresher Spine</td>
+  <td><a href="King_Thresher_Spine.md">King Thresher Spine</a></td>
   <td>3</td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ It can be summoned by offering five [Megalodaunt Hide](Megalodaunt_Hide.md), fiv
   <td>5</td>
 </tr>
 <tr>
-  <td>Lionfish Scale</td>
+  <td><a href="Lionfish_Scale.md">Lionfish Scale</a></td>
   <td>5</td>
 </tr>
 <tr>

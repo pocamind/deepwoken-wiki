@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 77510
+revid: 77665
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -38,7 +38,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
   <th>Torso</th>
   <th>Face</th>
   <th>Ears</th>
-  <th>Ring</th>
+  <th>Rings</th>
 </tr>
 <tr>
   <td>Health (HP)</td>
@@ -4190,7 +4190,7 @@ Found from:
 
  | N/A |
 
-**Ring:**
+**Rings:**
 
 Rings are unique among the available equipment, as up to 4 can be equipped at once. While the stats they usually provide is mediocre, they shine in their other, unique effects. The player cannot equip multiple of the same Ring Type (excluding Silver Rings & Gold Rings)
 

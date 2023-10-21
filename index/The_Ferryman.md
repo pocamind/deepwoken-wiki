@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 77477
+revid: 77613
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -32,6 +32,7 @@ Template:Creature Infobox V3
 3.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
 4.  Light 1-4 of the campfires.
 5.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle. Summoning the Ferryman will sometimes bug, and either not spawn him when all 4 campfires are placed, or spawn him upon 2 or 3 campfires being placed.
+6.  The ferryman has a short cooldown of 15 seconds to be summoned again.
 
 A decently easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 10-15+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
 

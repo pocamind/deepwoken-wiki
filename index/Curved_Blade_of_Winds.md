@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 76547
+revid: 77643
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -54,3 +54,4 @@ The user shoots a blast of air, similar to the VFX of pressure blast, and on col
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds has a swing speed of 0.78x when one-handed and 0.8x when two-handed.
 -   This is by far the most nerfed weapon in the game, followed by the Railblade and the Shattered Katana.
+-   It is one of three known weapons to have multiple critical attacks, the others being [Railblade](Railblade.md) and [Light's Final Toll.](<Light's_Final_Toll.md>)

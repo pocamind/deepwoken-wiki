@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 59528
+revid: 77654
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
@@ -49,37 +49,37 @@ Antiquarians can buy weapons, ores, blueprints, equipment, gems, and other items
 
 | **Item** | **Price** |
 | --- | --- |
-| Iron Spear | 7 |
-| Kite Shield | 7 |
-| Mace | 7 |
-| Messer | 7 |
-| Silver Dagger | 7 |
-| Steel Maul | 7 |
-| Stiletto | 7 |
-| Sword | 7 |
-| Targe | 7 |
-| Apprentice Rapier | 14 |
-| Dragoon | 14 |
-| Falchion | 14 |
-| Forge Greathammer | 14 |
-| Gilded Knife | 14 |
-| Legion Cestus | 14 |
-| Razor Cutlass | 14 |
-| Scimitar | 14 |
-| Shotel | 14 |
-| Tanto | 14 |
-| Trident Spear | 14 |
-| Pale Morning | 25 |
-| Whaling Knife | 25 |
+| [Iron Spear](Iron_Spear.md) | 7 |
+| [Kite Shield](Kite_Shield.md) | 7 |
+| [Mace](Mace.md) | 7 |
+| [Messer](Messer.md) | 7 |
+| [Silver Dagger](Silver_Dagger.md) | 7 |
+| [Steel Maul](Steel_Maul.md) | 7 |
+| [Stiletto](Stiletto.md) | 7 |
+| [Sword](<Sword_(weapon).md>) | 7 |
+| [Targe](Targe.md) | 7 |
+| [Apprentice Rapier](Apprentice_Rapier.md) | 14 |
+| [Dragoon](Dragoon.md) | 14 |
+| [Falchion](Falchion.md) | 14 |
+| [Forge Greathammer](Forge_Greathammer.md) | 14 |
+| [Gilded Knife](Gilded_Knife.md) | 14 |
+| [Legion Cestus](Legion_Cestus.md) | 14 |
+| [Razor Cutlass](Razor_Cutlass.md) | 14 |
+| [Scimitar](Scimitar.md) | 14 |
+| [Shotel](Shotel.md) | 14 |
+| [Tanto](Tanto.md) | 14 |
+| [Trident Spear](Trident_Spear.md) | 14 |
+| [Pale Morning](Pale_Morning.md) | 25 |
+| [Whaling Knife](Whaling_Knife.md) | 25 |
 
 **Items:**
 
 | **Item** | **Price** |
 | --- | --- |
-| Megalodaunt Hide | 15 |
-| Thresher Spine | 15 |
-| King Thresher Spine | 30 |
-| Lionfish scale | 15 |
-| Dark Feather | 30 |
-| Frigid Prism | 2 |
-| Spark Gland | 10 |
+| [Megalodaunt Hide](Megalodaunt_Hide.md) | 15 |
+| [Thresher Spine](Thresher_Spine.md) | 15 |
+| [King Thresher Spine](King_Thresher_Spine.md) | 30 |
+| [Lionfish Scale](Lionfish_Scale.md) | 15 |
+| [Dark Feather](Dark_Feather.md) | 30 |
+| [Frigid Prism](Frigid_Prism.md) | 2 |
+| [Spark Gland](Spark_Gland.md) | 10 |

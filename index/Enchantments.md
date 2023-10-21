@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 77472
+revid: 77663
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -140,7 +140,9 @@ There are two variants that enchantments come in:
   <td><div><p>Weapon chip is set to 50% chip damage.<br>
   Weapon deals less posture damage.<br>
   Landing hits give a speed boost.<br>
-  Note that if you have obfuscation, your chip damage is capped at 50%. It is not capped at 50% for non-obfuscation weapons. Confirmed by tester.<br>
+  Obfuscation chip damage depends on weapon type; Heavy Weapons are +50%, Medium Weapons +35%, and Light weapons +25%.<br>
+  </p>
+  <p>Note that if you have obfuscation, your chip damage is capped at 50%. It is not capped at 50% for non-obfuscation weapons. Confirmed by tester.<br>
   </p></div></td>
   <td><div>The weapon turns translucent and is enveloped in a white mist.</div></td>
 </tr>
@@ -262,7 +264,7 @@ There are two variants that enchantments come in:
   <td><div><p>Drains the target ether on hit. This scales with your damage and the target's Max Ether.<br>
   Critical attack is replaced with a counter. Succesful counters grants you hyperarmor along with being able to act first.<br>
   Critical attack have a cooldown of 6 seconds, however, failing to counter something raise the cooldown to 8 seconds.</p></div></td>
-  <td><div>Weapon does not appear when not equipped (May need research). Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
+  <td><div>Weapon does not appear when not equipped (confirmed). Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>

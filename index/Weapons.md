@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 77447
+revid: 77617
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -784,7 +784,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 </tr>
 <tr>
   <td><a href="Shattered_Katana.md">Shattered Katana</a></td>
-  <td>100 MED</td>
+  <td>90 MED</td>
   <td>20</td>
   <td>30%</td>
   <td>N/A</td>

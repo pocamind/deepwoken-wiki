@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 75765
+revid: 77666
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -11,7 +11,7 @@ categories: [Weapons, Swords, Katanas]
 | Shattered Katana | |
 |---|---|
 | type | Medium Sword |
-| requirements | 100 MED |
+| requirements | 90 MED |
 | damage | 20 |
 | scaling | 7 |
 | range | 8 |
@@ -27,14 +27,14 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 100 MED to equip. It shares the [Katana's](Katana.md) unique critical. At 100 MED, it deals 34 damage.
+The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip. It shares the [Katana's](Katana.md) unique critical. At 100 MED, it deals 34 damage.
 
 The Shattered Katana across various updates has been nerfed and is debatably no longer the best Medium Weapon. The addition of the [Pluripotent Alloy](Pluripotent_Alloy.md) has made weapons such as the [Shotel](Shotel.md) or [Vigil Longsword](Vigil_Longsword.md) an easier option and, in some aspects, better weapons than the Shattered Katana.
 
 ## Trivia
 
 -   It is one of two weapons that comes with a sheathe, the other being the Katana.
-    -   Therefore, it also works with the [Poser's Ring](https://deepwoken.fandom.com/wiki/Armor#Rings) and can be used to start [Zana's](Zana.md) quest.
+    -   Therefore, it also works with the [Poser's Ring](Equipment.md#rings) and can be used to start [Zana's](Zana.md) quest.
 -   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
 -   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.
     -   Despite its blade being much longer than the Katana, both weapons have 8 range.

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 77069
+revid: 77658
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -83,7 +83,6 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _I go beyond my limits. **(Limitbreaker) (Note; Cannot give Dirty Boxing, Lose your Mind, Piercing Will)**_
 -   _My mind is indomitable. **(Mental Fortress)**_
 -   _My will stands strong. **(Sturdy Resolve)**_
--   _I speak to the Depths. **(Murmur)**_
 -   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
 -   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
 
@@ -127,6 +126,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _Water is my home. **(Waterborne) (Note; Cannot give Scuba Drowner)**_
 -   _I enjoy a good meal._ _**(Tavernkeep; Master Chef, Artisan Chef)**_
 -   _Uh... **(Miscellaneous) (Note; Cannot give Impervious Slumber, Return to the Dark Ages)**_
+-   _My soul is an instrument with its own frequency. **(Murmur)**_
 
 ## Attunements
 
@@ -216,3 +216,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.
 -   [Miner's Landing](<Miner's_Landing.md>), atop a fallen stone pillar behind the docks.
 -   [Guild Bases](Guild_Bases.md), in the Song Room. **(Costs 2000 Notes.)**
+
+## Trivia
+
+-   When you are at a campfire, hovering over classes in your Talent list in-game shows you the Mystic prompt for it.

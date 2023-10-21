@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 76055
+revid: 77644
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -36,7 +36,7 @@ The railblade is the only greatsword that does NOT have Hyperarmor on parry swin
 
 ## Trivia
 
--   It is one of the two known weapon to have 2 different critical attacks, the second one being [Curved Blade of Winds](Curved_Blade_of_Winds.md).
+-   It is one of three known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Light's Final Toll](<Light's_Final_Toll.md>).
 -   The description suggests that equipping the weapon reduces the rate at which parasites accumulate on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by contributor oNoodlez.

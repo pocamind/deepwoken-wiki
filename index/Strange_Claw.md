@@ -1,6 +1,6 @@
 ---
 title: Strange Claw
-revid: 62918
+revid: 77612
 source: https://deepwoken.fandom.com/wiki/Strange_Claw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -20,3 +20,7 @@ categories: [Items, Drops]
 ## Description
 
 A Strange Claw is an item only dropped by [Terrapods](Terrapod.md) which can be found on [Erisia](Erisia.md) and in the [First Layer](First_Layer.md). It's purpose is to serve as a material to make the [Cloak of Winds](Cloak_of_Winds.md), [Darksteel Plate](Darksteel_Plate.md) and [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit.
+
+## Trivia
+
+You can summon [Primadon](Primadon,_Titan_of_the_East.md) by offering 5 Strange Claws to the campfire.

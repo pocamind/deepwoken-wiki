@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 77607
+revid: 77610
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -42,7 +42,7 @@ The user goes in a pride stance with their sword facing down, and releases an AO
 ## Trivia
 
 -   The original model for the Crypt Blade was a [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade.
-    -   The old description of the Crypt Blade was ("Wrought form durable darksteel, these blades where popularised by the Ignition Union as a tools against the Deep."), which happens to be the exact description of the Darksteel Greatsword.
+    -   The old description of the Crypt Blade was ("Wrought from durable darksteel, these blades where popularised by the Ignition Union as a tools against the Deep."), which happens to be the exact description of the Darksteel Greatsword.
 -   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade.
 -   The original updated Crypt Blade contained 30k vertices. Following the 3/27/2023 update, this was reduced to a mere 2.5k vertices.
 -   The original Crypt Blade was able to proc Singularity and Fear on hit, essentially stunning the enemy in place on each hit, thankfully, this has since been removed.
