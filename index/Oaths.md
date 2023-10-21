@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 75415
+revid: 77710
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -81,7 +81,8 @@ Proof of Time Magic's existance and it being an "Oath"
 
 ## Trivia
 
--   You cant shrine of order with an Oath, the only exception being Oathless
+-   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
+-   You cant shrine of order with an Oath, the only exception being Oathless.
 -   Currently, the only Oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
@@ -94,7 +95,7 @@ Proof of Time Magic's existance and it being an "Oath"
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
--   Trying to speak to an attunement trainer as a silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
+-   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
 -   Most Oaths change your character's eye color.
     -   Visionshaper gives the user \[Bright magenta\] eyes.
     -   Jetstriker gives the user \[silver\] eyes.

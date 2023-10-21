@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 76781
+revid: 77734
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -70,7 +70,7 @@ Check the rest out for yourself
 | [Lance Leshi](Lance.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Food Vendor | LANCE LESHI |
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | Lucien | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
-| Lucy | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | None |  |
+| [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | None |  |
 | Mag | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
 | Malte | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | The best NPC in the game. | Marcus. |

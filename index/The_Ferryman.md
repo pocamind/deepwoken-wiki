@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 77613
+revid: 77715
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -161,6 +161,7 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
 -   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md), 1/4 drop from defeating ferryman.
 -   **[Knowledge](Knowledge.md)** - The Ferryman rewards the player with 1 [Knowledge](Knowledge.md) after being defeated during Spring.
 -   The **[Stormseye](Stormseye.md)** is an exceedingly rare weapon that can be obtained through the Ferryman's chests.
+-   [**Deep gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost.
 
 ## Dialogues
 
@@ -219,9 +220,10 @@ Yamaketzal mentioning the Ferryman.
 
 ## Bugs
 
--   It is possible to pass through the Ferryman's barrier using Rapid Slashes, a Light weapons mantra, or any move with a Wayward Gem equipped. This requires a player at the other side of the barrier (This works with many other instant teleports moves such as Jolt Grab). You can also leave in a server where the Ferryman is not spawned, and join one where he is spawned.
-    -   Using the method above causes the his music to bug and play the default combat theme.
-    -   Additionally, standing against the barrier causes the Ferryman to attack both players despite the other not technically being in the arena.
+-   ~It is possible to pass through the Ferryman's barrier using Rapid Slashes, a Light weapons mantra, or any move with a Wayward Gem equipped. This requires a player at the other side of the barrier (This works with many other instant teleports moves such as Jolt Grab). You can also leave in a server where the Ferryman is not spawned, and join one where he is spawned.~
+    -   ~Using the method above causes the his music to bug and play the default combat theme.~
+    -   ~Additionally, standing against the barrier causes the Ferryman to attack both players despite the other not technically being in the arena.~
+    -   This bug has been practically fixed with the Boatman's Watch transporting you to an instanced server after the ritual, therefore it has been fixed.
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
 -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.

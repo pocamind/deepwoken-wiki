@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77700
+revid: 77726
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -31,7 +31,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)  
-      
+    Hellmode too  
     
 
 **(~1%)**
