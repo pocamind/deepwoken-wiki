@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77565
+revid: 77700
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -73,6 +73,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~6%)**
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
  |
 | 
@@ -109,7 +110,7 @@ File:Sinner's Ash.png
 
 File:Moonseye Tome.png
 
- | **[Moonseye Tome](Moonseye_Tome.md)** - A book of a smartass individual that grants the user +99 Knowledge upon usage. But will grant the user +20 knowledge on subsequent uses.
+ | [Moonseye Tome](Moonseye_Tome.md) - A book of a smart individual that grants the user +99 Knowledge upon usage. But will grant the user +20 knowledge on subsequent uses.
 
 -   _(One-time use, Re-Obtainable)_
 

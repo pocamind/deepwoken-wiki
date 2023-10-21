@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 77014
+revid: 77701
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -33,7 +33,7 @@ This Outfit's Schematic can be found in:
 -   Halloween weapon seller. \[20 Joy, No longer avaliable\]
 -   Lightning Squibbo \[Common in hell mode\]
 -   Crypt of the Unbroken \[Rare\]
--   Ferryman \[Super Rare\]
+-   Ferryman \[Uncommon\]
 
 ## Trivia
 
