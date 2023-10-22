@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 77544
+revid: 77739
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -74,7 +74,7 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Star K
  | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
-**Viribus**
+**Terra Eruption**
 
  | Punches the ground, causing a pillar to erupt below the player.
 

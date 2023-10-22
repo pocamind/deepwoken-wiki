@@ -1,6 +1,6 @@
 ---
 title: Repair Kit
-revid: 63993
+revid: 77767
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Armors, Outfits]
@@ -11,7 +11,7 @@ categories: [Items, Armors, Outfits]
 | Repair Kit | |
 |---|---|
 | usage | 5 |
-| recipe | (5) Iron, (3) Wood |
+| recipe | 3 Iron3 Wood |
 
 ## Overview
 
@@ -27,3 +27,4 @@ When placed on the ground, Repair Kits can be interacted with, granting armor du
 ## Trivia
 
 -   A Repair Kit makes a metal sound when you try to use it when your armor durability is 100%.
+-   It has the same place down animation as a campfire.

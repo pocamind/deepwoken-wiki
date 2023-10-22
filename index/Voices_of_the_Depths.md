@@ -1,6 +1,6 @@
 ---
 title: Voices of the Depths
-revid: 69451
+revid: 77735
 source: https://deepwoken.fandom.com/wiki/Voices_of_the_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Depths]
@@ -50,7 +50,7 @@ _"The power or right to give orders, make decisions, and enforce obedience."_
 
 _"The state or situation of being alone."_
 
--   The Voice of Solitude is the voice in charge of operating the Trial of One.
+-   The Voice of Solitude is the voice in charge of operating the [Trial of One](Trial_of_One.md).
 -   The Voice seems eager to draw out the player's true strength by testing them through the trial.
 -   It mentions that the player could possibly be "what we have been searching for". It is unknown what the voice means by this.
 -   This Voice seems at least more benevolent than the others voices who run the Trials. The Voice rewards the "lone warrior" who pass his trials with a rapid increase of talents, experience, and unlocking their true potential by allowing the player to face true adversity.

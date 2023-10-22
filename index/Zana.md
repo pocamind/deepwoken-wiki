@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 70007
+revid: 77772
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -17,6 +17,48 @@ Zana is a Quest NPC that rewards the player with a Poser’s Ring, a Katana-excl
 In his outer layer, he dons a Royal Pathfinder, and within it is the [cloak of the Ministry's Prophets](<Prophet's_Cloak.md>).
 
 As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td colspan="5">Begin</td>
+</tr>
+<tr>
+  <td colspan="5">Heh, fear not little adventurer. I'm not going to attack you with fire or anything like that.</td>
+</tr>
+<tr>
+  <td colspan="4">You look familiar.</td>
+  <td>End</td>
+</tr>
+<tr>
+  <td colspan="3">*They let out a hearty burst of laughter. * Oh, a fan? Good eye, I'm pretty famous up here on the surface. Everyone seems to think I'm an expert Flamecharmer, it scares novice adventurers to bits! But fret not, I recently learned people like you better when you give them things.</td>
+</tr>
+<tr>
+  <td colspan="2">...</td>
+  <td>End</td>
+</tr>
+<tr>
+  <td>Talking while a katana is equipped</td>
+  <td>Talking while a katana is not equipped</td>
+</tr>
+<tr>
+  <td>Heh, as much as I respect your use of the Katana, I need to test you first. I'll be waiting for you in these three locations... if you can defeat me in my natural elements strictly with your blade, I'll reward you.</td>
+  <td>*A moment's pause passes, before they shake their head. * Doesn't seem like you'd benefit from it, though. A shame. If you know anyone with a weapon like mine, which is pretty rare, I might add, I got something that might interest them. Real expensive merchandise here, y'hear me?</td>
+</tr>
+<tr>
+  <td>Where?</td>
+  <td>End</td>
+</tr>
+<tr>
+  <td>First, on the island of Etris, the most optimal island for all new adventurers who fear me! Although I'm still not sure why. The campfire there is eternally observed by those Nomads who are quite fond of me. Defeat me, and I'll tell you the next location.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Moveset
 

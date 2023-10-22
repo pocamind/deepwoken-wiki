@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 77122
+revid: 77754
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -55,7 +55,8 @@ Air Force
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
     -   Be careful about this, as you can get stun-locked if there is a group of them.
 -   If there is a Horde and you can't fight them up close, use ranged attacks such as [Fire Palm](Flamecharm.md), [Ice Forge](Frostdraw.md) and [Air Force](Galebreathe.md).
--   To successfully get out of a Mudskipper flourish, parry and and hold A, S, or D. Then, use your M1s and Mantras.
+-   To successfully get out of a Mudskipper flourish you have the option to either parry while holding A, S, or D, or you can vent by pressing g. Then, use your M1s and Mantras.
+    -   Note that in order to vent you must have tempo.
 -   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" mantra and dodge.
     -   Getting hit by this mantra will likely cause you to be flung backwards. In unlucky situations, you might end up falling off a cliff, or, if you are in [The Depths](The_Depths.md), being relocated to the [Second Layer](Second_Layer.md).
     -   Many Mudskippers love to use this mantra at once, throwing you around and disorienting you for a bit.
@@ -299,4 +300,6 @@ Critical
     -   Every player and a select few NPCs became Mudskippers.
         -   Each race had their own Unique name.
 -   The Mudskipper has the greatest number of variants out of any NPC in the game, having nine in total, not including the April Fool's variants.
--   The Meteorskipper comes from meteors, therefore resides in space. Take this as you will.
+-   The Meteorskipper comes from meteors, which therefore means resides in space. Take this as you will.
+-   Corrupted mudskippers can spawn in the depths.
+-   Corrupted mudskippers do not pose much of a threat they still do little damage.

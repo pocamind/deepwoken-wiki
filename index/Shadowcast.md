@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 77606
+revid: 77823
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -9,6 +9,8 @@ categories: [Pages with broken file links, Mantras, Attunement]
 # Shadowcast
 
 ## Description
+
+File:Shadowcast icon.png
 
 Shadowcast icon
 
@@ -290,6 +292,8 @@ These are talents found in the **Darksiphon** category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+File:Shadowcast icon.png
+
  | 
 
 Dark God  
@@ -305,6 +309,8 @@ If a shadowcast mantra would drain your opponent's Ether to 0, drain from their 
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -322,6 +328,8 @@ Your Shadowcast Mantras deal more damage at night.
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Dark Synergy  
@@ -337,6 +345,8 @@ Engulf your enemy in shadows when flourishing them.
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -354,6 +364,8 @@ N/A
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Dark Rift  
@@ -369,6 +381,8 @@ Enter a rifted state when you successfully dodge, where you can't be damaged unt
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -386,6 +400,8 @@ Stealing enough ether to fill your bar now stores the extras in your Tempo.
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Overwhelming Drain  
@@ -401,6 +417,8 @@ N/A
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -424,6 +442,8 @@ These are talents found in the **Death Speaker** category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+File:Shadowcast icon.png
+
  | 
 
 Black Hole  
@@ -439,6 +459,8 @@ Your singularity pulls everyone nearby in.
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -462,6 +484,8 @@ These are talents found in the **Shadowcaster** category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+File:Shadowcast icon.png
+
  | 
 
 Shadowcaster  
@@ -477,6 +501,8 @@ N/A
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -494,6 +520,8 @@ N/A
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Expert Shadowcaster  
@@ -509,6 +537,8 @@ N/A
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -526,6 +556,8 @@ You can now obtain 3-Star Leveled Shadowcaster Mantras.
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Shadow Travel  
@@ -541,6 +573,8 @@ N/A
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -558,6 +592,8 @@ Block breaking an opponent obscures their vision with darkness more potent than 
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Blossoming Darkness  
@@ -573,6 +609,8 @@ Ether drained during Shadow Roar increases the size of it.
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 
@@ -590,6 +628,8 @@ Enemies will briefly hang in place when they run from you.
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Lasting Sorrow  
@@ -606,6 +646,8 @@ Shadow lasts longer on your opponent.
  |
 | 
 
+File:Shadowcast icon.png
+
  | 
 
 Sightless Still  
@@ -621,6 +663,8 @@ The more a person is affected by your shadowcast the more you obscure their visi
 
  |
 | 
+
+File:Shadowcast icon.png
 
  | 
 

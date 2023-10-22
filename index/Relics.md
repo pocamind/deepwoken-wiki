@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77726
+revid: 77750
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -71,7 +71,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | 
 
--   [The Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md) **(~6%)**
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~6%)**
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 
@@ -88,7 +88,7 @@ Can be used in any location.
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~4%)**
--   [The Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md) **(~22%)**
 -   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)
 
  |
@@ -148,3 +148,4 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 -   With the exception of both the Rain Spire and Void Spire, all other Relics are a one-time use.
 -   Relics can drop from [Hell Mode](Hell_Mode.md), but it is uncertain if it's some Relics or all of them.
 -   Data from the Sinner's Ash, Idol, and Smith Alloy come from this one video where this guy did 100 dukes [https://www.youtube.com/watch?v=0HbS2iFOAb8](https://www.youtube.com/watch?v=0HbS2iFOAb8)
+-   Data from ferryman killed (18) are 1 smith alloy, 4 idols

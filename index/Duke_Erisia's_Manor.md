@@ -1,6 +1,6 @@
 ---
 title: "Duke Erisia's Manor"
-revid: 76595
+revid: 77791
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Manor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons, World]
@@ -18,7 +18,7 @@ What was stolen from below lies within.
 
 ## Overview
 
-Duke Erisia's Manor is a location in [Upper Erisia](Upper_Erisia.md). Its exterior consists of patches of grass on the corner of the paths with some tall bushes, stone pillars, a distinct tall tree in the center and a blocked gate preceded by a massive bridge that leads to the [Burning Stone Gardens](Burning_Stone_Gardens.md) where plentiful of [Rock Golems](Rock_Golem.md) reside.
+Duke Erisia's Manor is a location in [Upper Erisia](Upper_Erisia.md). Its exterior consists of patches of grass on the corner of the paths with some tall bushes, stone pillars, a distinct tall tree in the center and a blocked gate preceded by a massive bridge that leads to the [Burning Stone Gardens](Burning_Stone_Gardens.md) where plentiful of [Rock Golems](Rock_Golem.md) reside. In order to open the gate you must have a [Manor Key](Manor_Key.md).
 
 This place is usually visited by going to the bottom gate supposedly at the edge of [Towerstruck Lands](Towerstruck_Lands.md) which will lead to you to a place called [The Garden Reservoir](The_Garden_Reservoir.md) and traversing the harmful acidic floor and broken architects until you see the far right side corner gap that leads to a short tunnel followed by a distinct turquoise-colored teleporter that will directly send you to an output teleporter (which is just a little bit above you, you also can't go back and exit safely without negated health unless you parkour out of the map, reset or use [Graceful Landing](https://deepwoken.fandom.com/wiki/Talents#Acrobat)) in Duke Erisia's Manor.
 

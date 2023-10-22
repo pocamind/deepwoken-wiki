@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 67013
+revid: 77775
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -16,6 +16,19 @@ The Eastern Camp Master is an interactable NPC that can only be found in the Nav
 
 He wears [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with his race being a [Gremor](Gremor.md).
 
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Ah, a homelander.</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
-\-
+-   The dialogue you are given depends on your reputation with The Children Of Navae

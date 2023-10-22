@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 76584
+revid: 77765
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,20 +40,18 @@ Picture of a Crafting Bench
 -   **Lumber Axe** - 2 Wood, 2 Iron
 -   **Pickaxe** - 2 Wood, 2 Iron
 -   **Fishing Rod** - 2 Stick, 1 Fiber
--   **[Repair Kit](Repair_Kit.md)** - 3 Wood, 3 Iron
+-   **[Repair Kit](Repair_Kit.md)** - 3 Iron, 2 wood
 -   **[Iron Bomb](Iron_Bomb.md)** - 2 Iron, 1 Coal **\-** (can be obtained through [quest](https://deepwoken.fandom.com/wiki/Quests#Family_Recipe)) _2 Iron, 1 Coal_
 -   **Flask of Strength** - _2 Hellfire Lotus_
 -   **Flask of Fortitude -** _2 Empyrean Lotus_
 -   **Flask of Agility** - _2 Zephyr Lotus_
 -   **Flask of Intelligence** - _2 Brilliant Lotus_
 -   **Flask of Willpower** - _2 Skyvalor Lotus_
--   **Flask of Charism**a - _2 Miasmic Lotus_
+-   **Flask of Charisma** - _2 Miasmic Lotus_
 
 ## Food Recipes
 
-**Main Article - [Food](Food.md)**
-
-Recipes that satiate _**Hunger**_ and _**Thirst**_ levels.
+**Main Article - [Food](Food.md)** Recipes that satiate _**Hunger**_ and _**Thirst**_ levels.
 
 Certain foods grant a Food Buff, indicated by a colored food bar and a description when hovering over the colored bar. Only one food buff can be active at a time.
 

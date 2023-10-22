@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 65961
+revid: 77795
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, NPCs, Quests]
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, World, NPCs, Quests]
 
 ## Overview
 
-Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) and the [Barber](Barber.md), Nanji is an Etrean NPC who is looking for her brother Ilji. Choosing the correct dialogue responses will begin the Chipped Sword sidequest.
+Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) and the [Barber](Barber.md), Nanji is an Etrean NPC who is looking for her brother Ilji. Choosing the correct dialogue responses will begin the [Chipped Sword](Chipped_Sword.md) sidequest.
 
 ## Dialogue
 
