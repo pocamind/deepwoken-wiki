@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 77778
+revid: 77936
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -13,7 +13,7 @@ notices:
 
 ## Description
 
-Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere. These encounters make the game feel much more alive, and usually consists of (but is not limited to, as there are many exceptions) 2 sides, usually factions fighting against each other.
+Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere.
 
 **Note:** This is not a comprehensive list of every single random encounter: more will be added.
 
@@ -46,10 +46,6 @@ A group of three thieves, recognizable by their black armor and the lack of camp
 #### **Knives of Eylis**
 
 Similar to bandit events, with three to four enemies spawning. They wield a dagger. They are slightly stronger, but the leader of the group has the ability to create an expanding bubble which slows time inside it. Defeating them will reward you with a chest and EXP. Will spawn with a Gremor Hostage. Occurs at Upper Erisia and Songseeker Wilds. Occasionally the captain may spawn on his own and without a hostage, only around the Bandit Village.
-
-**Blacksteel Water Tower**
-
-In the [Etrean Sea](The_Etrean_Sea.md), Blacksteel Water Towers may spawn. They contain 5 [Blacksteel Pirates](Blacksteel_Pirate.md), defeating them yields 2 chests, on ontop of the Tower, and One under it which can only be accessed when the tower falls approximately 10 seconds after all the Pirates are defeated. The chests yield decent EXP and items. They can serve as High-Risk, High-reward opportunities for freshspawns, since they are decently easy to fight.
 
 **Authority Scouts**
 
@@ -244,4 +240,4 @@ The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble thro
 
 ### **Resonant Dawn**
 
-A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free. You cannot choose your resonance. This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minitiyrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).
+A meteor crashes down into the area, spawning an [Astral Knight](Stone_Knight.md). Defeating it allows the player to obtain their [Resonance](Resonance.md) for free. You cannot choose your resonance. This event has been seen around [Summer Isle](Summer_Isle.md), [Starswept](The_Starswept_Valley.md) Valley, [Minityrsa](Minityrsa.md), and in [Voidsea](Voidsea.md).

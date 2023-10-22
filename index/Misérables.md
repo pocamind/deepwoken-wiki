@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 77275
+revid: 77923
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -25,23 +25,23 @@ Upon interaction with the player, Misérables has the ability to grant wishes to
 -   **I seek clarity.**
     -   Grants a Yun'Shul wish and removes [Tarnished](Resonance.md) flaw from the player, at the cost of 15 [Knowledge](Knowledge.md).
 
-**Players can only choose one of each wish per exploration, as attempts to get multiple of either will result in instant death.**
+**Players can choose any amount of wishes per expedition. This has been thoroughly tested; Misérables ONLY kills you if you lack the medallion funds for his power boost.** _(Tested since October 21st, 2023)_
 
 ## Dialogue
 
-"A rose, a cornflower, and perhaps a hyacinth appear to me in a dream. Amidst the field, only one can bloom to its fullest. What shall I pick?"
+"A rose, a cornflower, and perhaps a hyacinth appear to me in a dream. Amidst the field, only one can bloom to its fullest. What shall I pick?" _(Choose Any)_
 
 1.  Rose
 2.  Cornflower
 3.  Hyacinth
 
-"What a charming choice. With this flower, what shall I do?"
+"What a charming choice. With this flower, what shall I do?" _(Choose Any)_
 
 1.  Relax
 2.  Frolic
 3.  Eat
 
-\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\* "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse.
+\*The sharp blue eyes narrow, glaring at you coldly. An unnerving sensation crawls up your spine, as your mind twists and turns.\* "Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse. _(Choose Any)_
 
 1-50. Peace of mind, friend.
 
@@ -52,21 +52,33 @@ _\*Their expression relaxes, as if the tension has been released.\*_ "That's the
 
 _**Power:**_
 
-"Power, you say? I can only offer it toward a great foe, one much larger then yourself. For the price of, hm, let's say, **5 Kyrsan Medallions**."
+\[1\] "Power, you say? I can only offer it toward a great foe, one much larger then yourself. For the price of, hm, let's say, **5 Kyrsan Medallions**."
 
 1.  I'm interested.
 2.  Why Kyrsan Medallions?
 
-"My kind. We have need of these perspectives. The products of mind. These medallions... You could think of them as the crystallisation of the Kyrsan perspective, no? Truly fascinating. Are you interested?
+\[2\] "My kind. We have need of these perspectives. The products of mind. These medallions... You could think of them as the crystallisation of the Kyrsan perspective, no? Truly fascinating. Are you interested?
 
 1.  I'm interested.
 
 "Very well. Show me your bounty then, friend. **Five will do.** If you lack the coin, or claim to, I'll simply search for it within your dear spine. Pray, you wouldn't want that, no? Show me your bounty."
 
+_**If enough Medallions:**_
+
+1.  Nevermind, maybe later.
+
+_(Nothing Happens)_
+
+1.  Here are the coins. (**5 Kyrsan Medallions**)
+
+"Wise friend... Cleanse their bones with this strength."
+
+_**If not enough Medallions:**_
+
 1.  Nevermind, maybe later.
 2.  Here are the coins. (**5 Kyrsan Medallions**)
 
-"Wise friend... Cleanse their bones with this strength."
+"I shall search your s-" _(Dialogue cut by Death)_
 
 _**Clarity:**_
 
@@ -78,15 +90,25 @@ _**Clarity:**_
 
 1.  Take it.
 
-_**If enough knowledge:**_
+_**If enough Knowledge:**_
 
 "Now... Good. The veil is placed over your eyes once more. You will see things as you wish. Perhaps with a clearer mind, you might again request deals with those beyond you..."
 
-_**If not enough knowledge:**_
+_**If not enough Knowledge:**_
 
 "Ah. I pity you. You lack the perspective. I pity you, little one. Poor dull little mouse. Is it not the proper thing for me to take mercy on one as pathetic as you? It is."
+
+_**Loop:**_
+
+"Hello once more, my dull friend. Tell me your selfish desire."
+
+1.  I seek power in my upcoming battles.
+2.  I seek clarity.
 
 ## Trivia
 
 -   Misérables' name may be a reference to 19th century novel _Les Misérables_, a story which touches on the topics of moral philosophy and the nature of human society. The word "Misérables" directly translates to wretched.
 -   He may be a far more powerful or ancestral version of a Deep Owl; both are familiar with the concept of deals, treat humans as small boring creatures like mice, and Misérables especially has the power to back up his threats, whereas you can fight off Deep Owls.
+-   As a friendly reminder, Misérables won't kill you if you're in combat, if you select any of the \[End Dialogue\]'s, or lack the knowledge for clarity.
+-   Misérables un-tarnishes your bell upon receiving clarity.
+-   Misérables power boost unfortunately can't be stacked. Meaning the buff will stay at 30% even if you give more medallions to Misérables.

@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 75168
+revid: 77900
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md) presumably wo
 
 ## Dialogue
 
-### Good Etrean Reputation
+**Good Etrean Reputation:**
 
 <table>
 <tbody>
@@ -35,7 +35,7 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md) presumably wo
 </tbody>
 </table>
 
-### First Confrontation
+**First Confrontation:**
 
 <table>
 <tbody>
@@ -77,7 +77,7 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md) presumably wo
 </tbody>
 </table>
 
-### Subsequent Confrontation
+**Subsequent Confrontations:**
 
 <table>
 <tbody>

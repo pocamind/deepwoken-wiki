@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 77307
+revid: 77919
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -27,17 +27,17 @@ categories: [World]
 </tr>
 <tr>
   <td>Rain</td>
-  <td>Everywhere (Excluding Starswept Valley, <a href="The_Depths.md">Depths</a>)</td>
+  <td>Everywhere (Excluding Starswept Valley, <a href="The_Depths.md">Depths</a>), summoned via <a href="Rain_Spire.md">Rain Spire</a>.</td>
   <td>Procs certain Talents, All uncovered lit campfires are snuffed out after a few seconds.</td>
 </tr>
 <tr>
   <td>Hail</td>
-  <td>Everywhere (except Starswept Valley) during Winter, Upper <a href="Minityrsa.md">Minityrsa</a> (Always),</td>
+  <td>Everywhere (except Starswept Valley) during Winter, Upper <a href="Minityrsa.md">Minityrsa</a> (Always), summoned via <a href="Rain_Spire.md">Rain Spire</a>.</td>
   <td>Moderate vison obstruction, procs certain Talents. Additionally, all uncovered lit campfires are snuffed out.</td>
 </tr>
 <tr>
   <td>Acid Rain</td>
-  <td>Upper Erisia</td>
+  <td><a href="Upper_Erisia.md">Upper Erisia</a>, summoned via <a href="Rain_Spire.md">Rain Spire</a>.</td>
   <td>Slow HP loss, negated with the Survivalist <a href="Boons_and_Flaws.md">Boon</a>. <a href="Etrean.md">Etreans</a> take less damage from Acid Rain.</td>
 </tr>
 <tr>

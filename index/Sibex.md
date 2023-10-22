@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 71574
+revid: 77901
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,11 +8,19 @@ categories: [NPCs]
 
 # Sibex
 
+| Sibex | |
+|---|---|
+| name | Sibex |
+
 “ What in the Drowned Gods happened to your so- Oh, wait. Someone said something about that being cute, but not true. ”
 
 ― Sibex talking to a Vacant Canor
 
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood, and wears a white unconfirmed armor. A member of the Authority gone missing on duty, he has a Gale Wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
+  
+
+## Description
+
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood and wears an unconfirmed white armor. A member of the Authority gone missing on duty, he has a Gale Wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
 
 Sibex is located at the 3rd statue when passing by the first one next to Songseeker Island and the 2nd one, next to Summer Isles, the 3rd one has a big cliff right next to it on the right when facing the statue. When leaving Summer Isle and heading for Hive, Sibex will be on the left most island, sitting on the shoulder of a statue.
 
@@ -30,7 +38,7 @@ Where Sibex can be found
 
 ## Dialogue
 
-### Initial
+**Initial:**
 
 <table>
 <tbody>
@@ -66,7 +74,7 @@ Where Sibex can be found
 </tr>
 <tr>
   <td colspan="9">Great! See you soon!</td>
-  <td colspan="6">-</td>
+  <td colspan="3">-</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -74,7 +82,7 @@ Where Sibex can be found
 </tbody>
 </table>
 
-### Continued
+**Continued:**
 
 <table>
 <tbody>
@@ -140,7 +148,7 @@ Where Sibex can be found
     -   Due to the fact that he is able to have some sort of reading on your bell and is still being sent on patrol, it is very likely that the authority has had access to bells for a decent amount of time, seeing as if Sibex was unique in his bell checking he would likely never be sent on any kind of mission due to his value.
 -   Sibex will not take your thresher spine, you just need it to talk to him.
 -   Getting either of the dialogues: "_Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo._" or "_Well look at you, my friend! You're practically beaming with the song!_" **could** mean that you are ready to test for a Resonance, however getting neither of these dialogues guarantees a bell, though it is likely available for you if you get any of these dialogues.
--   He used to wear Hive Leader Garment armor, this was changed due to reasons unknown.
+-   He used to wear [Hive Leader's Garment](<Hive_Leader's_Garment.md>); this was changed due to reasons unknown.
     -   It may have been because the outfit's design was lifted from [an outfit in Genshin Impact](References_and_Easter_Eggs.md), but this is speculation.
 -   If you speak to Sibex with the [Dissonant modifier](https://deepwoken.fandom.com/wiki/Echoes#Modifiers), instead of regular dialogue he will say, "\*He sighs.\* Gods below, I can already hear... utter silence!"
 

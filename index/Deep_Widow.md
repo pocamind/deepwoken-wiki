@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 77042
+revid: 77893
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -66,7 +66,7 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 ## **Notes/Tips**
 
 -   It is recommended for inexperienced or ill-equipped players to fight the Widow as a group, and flank her on opposite sides. All of her attacks come from the front and setting up this way will avoid all of the players in your group being hit at once.
--   Despite looking intimidating, she is a lot weaker than she looks. Can be easily cheesed and has (relatively) low health. However, do not underestimate her as she is still stronger than a [Thresher](Thresher.md). <--- who compared her to a tresher 💀💀.
+-   Despite looking intimidating, she is a lot weaker than she looks. Can be easily cheesed and has (relatively) low health. However, do not underestimate her as she is still stronger than a [Thresher](Thresher.md).
 -   The poison dealt by The Widow's Bite attack is a worst-case scenario, and is best to avoid it.
     -   This poison goes through armor.
 -   Try to deal only two attacks and always be ready for the bite. Don't get too greedy.
@@ -74,7 +74,7 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 -   The bite's venom will bypass every resistance in the game, even [Run It Back](Run_It_Back.md)'s invincibility.
 -   You can cheese the Widow by going atop a ledge in the cave, she will be unable to damage you and your Light Attacks will connect.
 -   Can easily be run past or cheesed as she is not the brightest when it comes to getting stuck between two rock pillars in her own home. You can also sneak past her by crouching and walking behind her.
--   Try to avoid fighting her when she's corrupted unless you have a end-game build or a Pve build (her webs give a decent amount of [Insanity](Insanity.md#insanity-effects) making you stage 2 insanity very quick).
+-   Attempt to avoid combat with her while she's corrupted **unless** you possess an end-game/PVE build. This caution is warranted because her web attacks contribute a significant dose of insanity, rapidly propelling you to tier 2 [insanity](Insanity.md#insanity-effects). When at tier 2 insanity, you are vulnerable to twitching and scratching, which indirectly increases your vulnerability to her attacks due to the stun effect they impose.
 -   It is recommended to put Bloodless Gems on some mantras when fighting her solo.
 
 ## **Item Pool**

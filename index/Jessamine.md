@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 77180
+revid: 77904
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -19,7 +19,7 @@ Jessamine is an NPC found underneath a broken castle, just outside of the entran
 
 ## Dialogue
 
-**Before the quest has been taken**
+**Before Taking the Quest:**
 
 <table>
 <tbody>
@@ -57,7 +57,7 @@ Jessamine is an NPC found underneath a broken castle, just outside of the entran
 </tbody>
 </table>
 
-**After taking the quest**
+**After taking the quest:**
 
 <table>
 <tbody>

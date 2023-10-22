@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77750
+revid: 77927
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -31,7 +31,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)  
-    Hellmode too  
+      
     
 
 **(~1%)**
@@ -71,9 +71,8 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | 
 
--   [The Ferryman](The_Ferryman.md) **(~6%)**
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~6%)**
--   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [The Ferryman](The_Ferryman.md)
 
  |
 | 
@@ -88,7 +87,7 @@ Can be used in any location.
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~4%)**
--   [The Ferryman](The_Ferryman.md) **(~22%)**
+-   [The Ferryman](The_Ferryman.md)
 -   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)
 
  |
@@ -110,7 +109,7 @@ File:Sinner's Ash.png
 
 File:Moonseye Tome.png
 
- | [Moonseye Tome](Moonseye_Tome.md) - A book of a smart individual that grants the user +99 Knowledge upon usage. But will grant the user +20 knowledge on subsequent uses.
+ | **[Moonseye Tome](Moonseye_Tome.md)** - A book of a smartass individual that grants the user +99 Knowledge upon usage. But will grant the user +20 knowledge on subsequent uses.
 
 -   _(One-time use, Re-Obtainable)_
 
@@ -147,5 +146,4 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 -   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
 -   With the exception of both the Rain Spire and Void Spire, all other Relics are a one-time use.
 -   Relics can drop from [Hell Mode](Hell_Mode.md), but it is uncertain if it's some Relics or all of them.
--   Data from the Sinner's Ash, Idol, and Smith Alloy come from this one video where this guy did 100 dukes [https://www.youtube.com/watch?v=0HbS2iFOAb8](https://www.youtube.com/watch?v=0HbS2iFOAb8)
--   Data from ferryman killed (18) are 1 smith alloy, 4 idols
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) Percentage Rates were assisted by [this video](https://www.youtube.com/watch?v=0HbS2iFOAb8)

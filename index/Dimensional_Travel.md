@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 76701
+revid: 77889
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -10,7 +10,7 @@ categories: [Resonances]
 
 | Dimensional Travel | |
 |---|---|
-| effect | Teleports the player into another realm which scales with the map but using 10 times might get u banned |
+| effect | Teleports the player into another realm which scales with the map. |
 | appearance | Realm consisting of tilted dark matter plates above a void with heavy fog. |
 
 “ Slip into an alternate dimension that exists alongside our own. ”
