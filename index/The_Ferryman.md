@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 77951
+revid: 77968
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -158,14 +158,14 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
 
 **Progress:** As with all bosses, The Ferryman gives [Resonance](Resonance.md) Progress on death, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
 
--   Upon his defeat, The Ferryman will leave 5 chests containing 0-5 [Umbral Obsidian](Umbral_Obsidian.md), 0-4 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), and a variety of rare loot specified below.
+-   Upon his defeat, The Ferryman will leave 5 chests containing 0-5 [Umbral Obsidian](Umbral_Obsidian.md), 0-4 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), occasionally a [Nemit's Sickle](<Nemit's_Sickle.md>), and a variety of rare loot specified below.
 -   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with another reward in addition to the standard 5 chests.
     -   Spring - One [Knowledge](Knowledge.md). Repeatable.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
     -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
 -   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the reward, the Krulian Knife can also be found in each of the five chests.
--   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of less than 1%.
+-   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of ~less than 1%.~ Its actually 1/60 chance of obtaining it (I did about 60 ferryman kills and I got one stormseye)
 -   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost
 -   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs.
 -   **[Relics](Relics.md)** - Extremely rare and powerful items that can be used to empower a character. In comparison to other bosses, The Ferryman drops far more Idols of Yun'Shul than any other relic.
@@ -260,18 +260,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman's clones can drop luck particles which give you an investment point.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
 -   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
-
-File:Yamaketzalferryman.png
-
-Yamaketzal mentioning the Ferryman.
-
-  
-
-  
-
-  
-
-  
+-   Players who begin the ritual will now be transferred to an instanced server, which will ensure that players who are completing the boss fight do not get ganked by players any more. The Ferryman used to be a ganking place for people to ambush those who were doing the boss fight.
 
 ## Bugs
 

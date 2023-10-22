@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 77688
+revid: 77960
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -28,42 +28,42 @@ Jeremiah is an Etrean that can be found in [The City of the Drowned](The_City_of
 
 ## Dialogue
 
-<table><caption></caption>
+<table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="5">Talking to Jeremiah with a Deep gem in your inventory:</td>
-  <td>Talking to Jeremiah without a Deep gem in your inventory:</td>
+  <td colspan="6">Talking to Jeremiah with a Deep gem in your inventory:</td>
+  <td colspan="6">Talking to Jeremiah without a Deep gem in your inventory:</td>
 </tr>
 <tr>
-  <td colspan="5">*The man takes a deep breath in through his nose*. I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
-  <td>?</td>
+  <td colspan="6">*The man takes a deep breath in through his nose*. I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
+  <td colspan="6">?</td>
 </tr>
 <tr>
-  <td colspan="4">Gem?</td>
-  <td>End</td>
+  <td colspan="6">Gem?</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="3">Yes, yes, a gem. You definitely have one. They're really not all that</td>
+  <td colspan="12">Yes, yes, a gem. You definitely have one. They're really not all that</td>
 </tr>
 <tr>
-  <td colspan="2">What do you have to trade?</td>
-  <td>End</td>
+  <td colspan="6">What do you have to trade?</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="2">You think I'd tell you what you're gonna get? That would spoil the surprise. Now where's the gem?</td>
+  <td colspan="12">You think I'd tell you what you're gonna get? That would spoil the surprise. Now where's the gem?</td>
 </tr>
 <tr>
-  <td>Here it is.</td>
-  <td>End</td>
+  <td colspan="6">Here it is.</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td>*He fidgets excitedly, tossing you your new Brilliant Pauldron.*</td>
+  <td colspan="12">*He fidgets excitedly, tossing you your new Brilliant Pauldron.*</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>
