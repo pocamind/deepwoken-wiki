@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 77715
+revid: 77951
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -30,11 +30,12 @@ Template:Creature Infobox V3
 1.  Find the ritual grounds at [Boatman's Watch](<Boatman's_Watch.md>).
 2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable.
 3.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
-4.  Light 1-4 of the campfires.
-5.  **The Ferryman** will spawn in the middle, talk with him and seal a deal to begin the battle. Summoning the Ferryman will sometimes bug, and either not spawn him when all 4 campfires are placed, or spawn him upon 2 or 3 campfires being placed.
-6.  The ferryman has a short cooldown of 15 seconds to be summoned again.
+4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual.
+5.  A ring akin to that of the [Chime of Conflict](Chime_of_Conflict.md) will spawn, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
+6.  The Ferryman will spawn in the middle, talk with him and seal a deal to begin the battle.
+7.  The Ferryman has a short cooldown of 15 seconds to be summoned once a player has summoned him.
 
-A decently easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 10-15+. His speed, damage, health, and Mantra potency will scale up, depending on how many players there are fighting him. It is highly recommended to fight him alone.
+The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 10-15+. His speed, damage, health, and Mantra potency will scale depending on how many players there are fighting him, and as such it is recommended to fight him alone.
 
 _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._
 
@@ -42,55 +43,58 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 ## Moves
 
-| Name | Description | Parry-
-able?
+| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger | Phase |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Displacement** | The Ferryman teleports to one of 6 fixed spots on the battlefield and immediately uses another attack. Always used before another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
+-   In Phase 2, this will be accompanied by a small pulse akin to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulsion move.
 
- | Danger | Phase |
-| --- | --- | --- | --- | --- |
-| **Displacement** | The Ferryman teleports to a different location on the battlefield and immediately uses another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while. | N/A | (★☆☆)
+ | N/A | N/A | N/A | (★☆☆)
 
 (★☆☆)
 
  | **I**/**II** |
-| **Lightning Clones** | The Ferryman will spin around and summon two clones of himself, constructed using his Thundercall magic. They run up to nearby players and slash at them before quickly disappearing.
+| **Lightning Clones** | The Ferryman will spin around and summon two clones of himself. They run up to nearby players and slash at them before quickly disappearing.
 
+-   Lightning Clones will not disappear unless their attack is parried, blocked or dodged, or they land a hit on a player.
 -   He only uses Lightning Clones in Phase 1.
 -   If you attack lightning clones, your willpower will increase.
 
- | ◯ | (☆☆☆) | **I** |
+ | ◯ | ◯ | ◯ | (☆☆☆) | **I** |
 | **Lightning Strike** | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 
+-   Targets an area relative to each player based on their movement (e.g. if standing still, will center strikes on the player, but if moving, will target a distance ahead of the player proportional to their movespeed).
 -   Becomes much faster in Phase 2.
+-   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
 
- | ◯ | (★☆☆)
+ | ◯ | ◯ | ◯ | (★☆☆)
 
 (★★☆)
 
  | **I**/**II** |
-| **Lightning Assault** | The Ferryman teleports around the battlefield, dealing damage to whoever crosses his path. He uses this attack three times before stopping. The interval of attack is randomized.
+| **Lightning Assault** | The Ferryman teleports directly in front of the player, before using a stronger version of the Lightning Assault mantra. He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
 
--   Becomes much faster in Phase 2 and is cancelled into any other attack once.
+-   The frequency of the attacks is typically fixed, but The Ferryman will occasionally cast this at a much more rapid pace if he is placed next to a wall by the previous Lightning Assault.
+-   Becomes much faster in Phase 2.
+-   Parrying all 3 attacks prevents him from beginning another attack after, allowing the player to get in damage. Failing to parry, even if blocking or dodging, will result in The Ferryman beginning another attack when the player gets closer.
 
- | ◯ | (★★☆)
+ | ◯ | ◯ | ◯ | (★★☆)
 
 (★★★)
 
  | **I**/**II** |
-| **Electromagnetic Pulse** | The Ferryman releases a blast of electricity before teleporting to another location. This attack does not deal any damage, rather it stuns the player instead. The blast is similar to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulse.
+| **Grand Volley** | The most notorious attack in the Ferryman's moveset. The Ferryman throws four Grand Javelins across the battlefield in quick succession, dealing an absurd amount of damage to those who get in its way. (Each spear does is estimated to deal 220 damage.)
 
 -   He only uses this attack in Phase 2.
+-   Can be dodged by simply running anywhere but directly at The Ferryman.
+-   Akin to Lightning Assault, parrying all four javelins will earn the player a period of time to hit the Ferryman. Don't try this unless you're extremely tanky; each javelin's hitbox is at its tail end, and the reward is often not worth the risk.
+-   High posture damage.
 
- | ◯ | (★☆☆) | **II** |
-| **Grand Volley** | The most notorious attack in the Ferryman's moveset. He throws four Grand Javelins across the battlefield, dealing an absurd amount of damage to those who get in its way. It may even one-shot players with lower health pools.
-
--   He only uses this attack in Phase 2. (Each spear does about 220 damage; this is a rough estimate though.)
-
- | ◯ | (★★★) | **II** |
+ | ◯ | ◯ | ◯ | (★★★) | **II** |
 | Vent | An explosion of blue ether around the user that pushes opponents away.
 
 -   He always vents when an attack would daze him.
 
- | ◯ | (★☆☆)
+ | ◯ | ◯ | ✗ | (★☆☆)
 
 (★☆☆)
 
@@ -104,7 +108,7 @@ able?
 
 Ferryman is the most "boss-like" Boss in the entire game, as he is not an entity that you can defeat without taking a single step, unlike most other monsters and hostile NPCs encountered in the game. He forces you to move around the battlefield, which he has near total control of at all times, which makes it an absolute must to keep track of where he is and what he's going to do. Acute awareness and quick reaction times are required to survive this battle in one piece.
 
-The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in just about every category, gaining more speed, attack, health, and reducing time between attacks and time to hit him. For reference on the damage scaling, at four people, just about all of his attacks can kill a mid-level player instantly.
+The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in almost every stat, gaining more speed, attack, health, and reducing time between attacks and time to hit him by about 20% per player.
 
 Each section describing the phases explains in great detail how to deal with his moves in each respective phase.
 
@@ -112,10 +116,9 @@ Each section describing the phases explains in great detail how to deal with his
 
 ### In General
 
--   A near necessity for the fight is using [fires](Campfire_Pit.md) to heal, which are thankfully already nearby due to the process of summoning him. Ferryman used to be able to be easily defeated by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will **NOT** guarantee your safety. Always keep something to light a campfire with, as if you run out mid-fight, you wont be able to conventionally heal. It is also recommended that you place a campfire behind cover so his Grand Volley does not hit you while healing.
+-   A near necessity for the fight is using [fires](Campfire_Pit.md) to heal, which you must place manually. Always place at least one before the fight, as the purple ritual fires cannot be used to heal. Ferryman used to be able to be easily defeated by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will **NOT** guarantee your safety. Always keep something to light a campfire with, as if you run out mid-fight, you won't be able to conventionally heal. It is also recommended that you place a campfire behind cover so his Grand Volley does not hit you while healing.
     -   _Try to heal at most one bar before continuing the fight. If in dire need, try to go for two._
--   Both variations of the lightning strike move can be interrupted by simply hitting the Ferryman. The best strategy is to simply run at him and start wailing on him, as the lightning strikes won't work.
--   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to four specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
+-   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to six specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
 -   It is a good idea to turn on your in-game music in this fight, as his theme changes with his phase, which helps prevent tragic situations against a certain move of his.
@@ -155,27 +158,80 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
 
 **Progress:** As with all bosses, The Ferryman gives [Resonance](Resonance.md) Progress on death, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
 
--   A chest containing **Amethyst Pendant Earrings** and (Rarely) a **Finisher's Ring, Moon Ring, Deep Fire Ring or Akira's Ring.** - Received only during Summer.
--   **[Ferryman's Coat](<Ferryman's_Coat.md>) Schematic** - A replica of the coat worn by the Ferryman. Received only during Autumn. Grants the "Ferryman's Curse" talent when worn. It gives you the displacement enchant for every lightning mantra you're hit with and reduces the damage from lightning significantly. Applies to player mantras, the Ferryman attacks, and King Gigamed/Jellyfish moves.
--   **[Krulian Knife](Krulian_Knife.md)** - A replica of the Ferryman's knife. It is possible to receive starred or enchanted ones. Received only during Winter. Can also appear in the Ferryman's chests during any season.
--   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md), 1/4 drop from defeating ferryman.
--   **[Knowledge](Knowledge.md)** - The Ferryman rewards the player with 1 [Knowledge](Knowledge.md) after being defeated during Spring.
--   The **[Stormseye](Stormseye.md)** is an exceedingly rare weapon that can be obtained through the Ferryman's chests.
--   [**Deep gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost.
+-   Upon his defeat, The Ferryman will leave 5 chests containing 0-5 [Umbral Obsidian](Umbral_Obsidian.md), 0-4 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), and a variety of rare loot specified below.
+-   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with another reward in addition to the standard 5 chests.
+    -   Spring - One [Knowledge](Knowledge.md). Repeatable.
+    -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
+    -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
+    -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
+-   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the reward, the Krulian Knife can also be found in each of the five chests.
+-   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of less than 1%.
+-   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost
+-   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs.
+-   **[Relics](Relics.md)** - Extremely rare and powerful items that can be used to empower a character. In comparison to other bosses, The Ferryman drops far more Idols of Yun'Shul than any other relic.
+-   **[Justicar's Armor](<Justicar's_Armor.md>)** - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint.
+-   **[Ardour Manifestation](Ardour_Manifestation.md)** - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman, not in chests.
+-   **[Pluripotent Alloy](Pluripotent_Alloy.md)** - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman, not in chests.
 
-## Dialogues
+## Dialogue
 
-The Ferryman has 3 different dialogues for after you kill him. They all have unique meanings:
+<table>
+<tbody>
+<tr>
+  <td colspan="4">Begin</td>
+</tr>
+<tr>
+  <td>Player's first interaction</td>
+  <td>Returning to The Ferryman for another dance</td>
+  <td>Post-fight, after first defeat, in <font>Spring</font> or <font>Summer</font> or any defeats in <font>Autumn</font> or <font>Winter</font></td>
+  <td>Post-fight, after multiple defeats, in <font>Spring</font> or <font>Summer</font></td>
+</tr>
+<tr>
+  <td><font>*<i>He yawns deeply.*</i> <b>Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?</b></font></td>
+  <td><font><b>Oh, back again? Heh, how about another wager?</b></font></td>
+  <td><font><b>Well done, well done!</b></font></td>
+  <td><font><b>Well done, well done!</b></font></td>
+</tr>
+<tr>
+  <td>Who are you?</td>
+  <td>Deal.</td>
+  <td>Who are you?</td>
+  <td>Who are you?</td>
+</tr>
+<tr>
+  <td><font><b>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.</b></font></td>
+  <td>*Fight Begins*</td>
+  <td><font><b>Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</b></font></td>
+  <td><font><b>I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</b></font></td>
+</tr>
+<tr>
+  <td>[Tell him your name]</td>
+  <td rowspan="6"></td>
+  <td rowspan="6"></td>
+  <td rowspan="6"></td>
+</tr>
+<tr>
+  <td><font><b>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?</b></font></td>
+</tr>
+<tr>
+  <td>A wager?</td>
+</tr>
+<tr>
+  <td><font><b>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?</b></font></td>
+</tr>
+<tr>
+  <td>Deal.</td>
+</tr>
+<tr>
+  <td>*Fight Begins*</td>
+</tr>
+</tbody>
+</table>
 
-Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst Pendant Earrings**) awards unique dialogue;
+Additionally, The Ferryman used to have a dialogue for beating him under a certain time limit, as the pre-release obtainment method for the [Murmur](Murmur.md) Rhythm.
 
--   _"Well done, well done!" "Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!"_
-    -   After defeating the Ferryman and receiving a reward, either the Amethyst Pendant Earrings, the Ferryman's Coat schematic, or the Krulian Knife. (Only available in Summer (only once), Autumn and Winter)
 -   _"Look into the flames, and you shall see my gift... If you have the strength to take it that is." (Only available in Spring)_
-    -   This used to be the way you would get the Murmur Rhythm, however, it was disabled before release. With the Verse 2 update, a new method for it has been added.
     -   Video of beating the Ferryman in time to activate the Murmur text here: [https://streamable.com/1ei4gt](https://streamable.com/1ei4gt)
--   _"I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always."_
-    -   This dialogue appears after defeating the Ferryman for the second time. (Subsequent attempts after beating him once in Summer or Spring)
 
 ## Trivia
 
@@ -193,7 +249,6 @@ Defeating the Ferryman during Spring or Summer (after receiving the **Amethyst P
         _Verification from Arch\_Mage that they aren't related._
         
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
--   There is no concrete evidence that the rumored "Ferryman's Will" talent exists, although Javelin Lord definitely does. The only confirmed card in Javelin Lord is "Grand Skewer". It is obviously a hoax, as Grand Skewer is the only card in javelin lord, once you get it you can check the tree for it and see it already is 1/1.
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
 -   The Ferryman is stated to be "Probably Bi" by Arch\_Mage.
@@ -220,10 +275,7 @@ Yamaketzal mentioning the Ferryman.
 
 ## Bugs
 
--   ~It is possible to pass through the Ferryman's barrier using Rapid Slashes, a Light weapons mantra, or any move with a Wayward Gem equipped. This requires a player at the other side of the barrier (This works with many other instant teleports moves such as Jolt Grab). You can also leave in a server where the Ferryman is not spawned, and join one where he is spawned.~
-    -   ~Using the method above causes the his music to bug and play the default combat theme.~
-    -   ~Additionally, standing against the barrier causes the Ferryman to attack both players despite the other not technically being in the arena.~
-    -   This bug has been practically fixed with the Boatman's Watch transporting you to an instanced server after the ritual, therefore it has been fixed.
 -   There is a bug with the Ferryman's Grand Javelin move where if you are using a repeating emote (such as Resting) and have each Javelin hit you, you will not be gripped instantly.
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
 -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.
+-   The Ferryman's Lightning Assault will speed up if he pathfinds into a wall during the previous Lightning Assaults.

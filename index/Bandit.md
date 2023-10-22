@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 74811
+revid: 77948
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -45,4 +45,6 @@ A Bandit executes the player after knocking them:
 -   They have turned to a life of crime due to the war in the East, causing jobs to become scarce.
 -   Check your ping before fighting one of them or you could die easily.
 -   "Sea Adventurer" was created by Renji.
--   Bandits, despite their reputation of being savage thieves, still have a hierarchy system. Bandits have [leaders](Bandit_Leader.md).
+-   Bandits, despite their reputation of being savage thieves, still have a hierarchy system. Bandits have [leaders](Bandit_Leader.md), however they are probably just a stronger bandit.
+-   Please do not spare them if they say "No! Wait! I'll do anything" or they will get up and proceed to stab you.
+-   Bandits are the dumbest enemy not even parrying half the time. They are just freshies in npc form.

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 77927
+revid: 77942
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -67,7 +67,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | **[Smith's Alloy](<Smith's_Alloy.md>)** - A cruder form of the famed Pluripotent Alloy that adds a quality star to your currently held weapon, or rerolls the quality-type of your currently held weapon if it already has 3 stars.
 
--   _(One-time use, Re-Obtainable)_
+-   _(One-time use, re-obtainable)_
 
  | 
 
@@ -82,7 +82,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
   
 Can be used in any location.
 
--   _(One-time use, Re-Obtainable)_
+-   _(One-time use, re-obtainable)_
 
  | 
 
@@ -97,7 +97,7 @@ File:Sinner's Ash.png
 
  | **[Sinner's Ash](<Sinner's_Ash.md>)** - Remnants of the Forge of Sin that is used to corrupt your [Resonance](Resonance.md).
 
--   _(One-time use, Re-Obtainable)_
+-   _(One-time use, re-obtainable)_
 
  | 
 
@@ -109,9 +109,9 @@ File:Sinner's Ash.png
 
 File:Moonseye Tome.png
 
- | **[Moonseye Tome](Moonseye_Tome.md)** - A book of a smartass individual that grants the user +99 Knowledge upon usage. But will grant the user +20 knowledge on subsequent uses.
+ | **[Moonseye Tome](Moonseye_Tome.md)** - A book that grants the user +99 Knowledge upon usage. It grants the user +20 knowledge on subsequent uses.
 
--   _(One-time use, Re-Obtainable)_
+-   _(One-time use, re-obtainable)_
 
  | 
 

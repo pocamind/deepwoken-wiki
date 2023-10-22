@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 77498
+revid: 77941
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -160,7 +160,8 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.8s | [Luck](Luck.md) Gain (Verse One) |
 |  | 1.9s | [Knowledge](Knowledge.md) Gain \[1\] |
 |  | 1.6s | [Knowledge](Knowledge.md) Gain \[2\] |
-|  | 1.2s | [EXP](Leveling.md) Gain |
+|  | 1.2s | [EXP](Leveling.md) Gain \[1\] |
+|  | 1.4s | [EXP](Leveling.md) Gain \[2\] |
 |  | 1.0s | Small Splash |
 |  | 1.3s | Big Splash |
 |  | 1.9s | Swimming loop |

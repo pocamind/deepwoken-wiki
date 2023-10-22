@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 77471
+revid: 77946
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -28,8 +28,8 @@ _(one-time use, re-obtainable)_
 ## Trivia
 
 -   You can only hold one of this item.
--   In your inventory, the Moonseye Tome has a Weight of 1
--   The Moonseye Tome description was assisted by ChatGPT, lol.
--   The concept name used to be "Book of smartass nnniiiiiiigght Sky."
--   The max knowledge a player can have is 99, incase that wasn't clear.
+-   In your inventory, the Moonseye Tome has a Weight of 1.
+-   The item was suggested by youtuber _Agamatsu_, who conceptually named it "Book of Smart Ass \[N-Word\]"
+-   The max knowledge a player can have is 99.
+-   The secret image when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye, fitting of the "Lunar Cult" the Tome belonged to.
 -   _Unknown what it does if used whilst already having max knowledge. DM Witherald if you're able to provide evidence of what it does._
