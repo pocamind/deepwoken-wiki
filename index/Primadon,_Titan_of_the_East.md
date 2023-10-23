@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 77698
+revid: 78001
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -72,7 +72,7 @@ Only used if the player is in front of Primadon and not near his legs.
 
 If you were holding block before getting grabbed and during it's full duration you will not get damaged, this is quite buggy however and might not work.
 
- | ✗ | ✗ | ◯ | (★★★) |
+ | ✗ | ◯ | ◯ | (★★★) |
 | **Rock Throw** | Primadon swipes the earth beneath him using his **right** arm, hurling 3 rocks at the player. Does massive amounts of damage and very difficult to parry. | ◯ | ◯ | ◯ | (★★★) |
 | **Disengage/Fade Away** | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two. | ◯ | ◯ | ◯ | (★★★) |
 | **Enrage** | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.

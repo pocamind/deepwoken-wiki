@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 66627
+revid: 78008
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parry Daggers]
@@ -8,7 +8,7 @@ categories: [Weapons, Parry Daggers]
 
 # Parrying Dagger
 
-| Parry Dagger | |
+| Parrying Dagger | |
 |---|---|
 | type | Offhand Weapon |
 | requirements | 10 AGI |
@@ -20,7 +20,6 @@ categories: [Weapons, Parry Daggers]
 | penetration | N/A |
 | special effect | Decreases your posture gain. Increases your opponents posture gain. Slight damage increase. |
 | offhand | Offhand only |
-| selling price | 25 notes |
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |
@@ -31,14 +30,14 @@ categories: [Weapons, Parry Daggers]
 
 ## Description
 
-The Parry Dagger is an offhand weapon used for better parry capability. Found in the weapons shop in Etris and can be purchased for 25 notes. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 AGI to equip.
+The Parrying Dagger is an offhand weapon used for better parry capability. Found in the weapons shop in Etris and can be purchased for. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 Agility to equip.
 
 The Parry Dagger does the following:
 
--   More posture damage dealt on parry
--   More posture restored (+15%) on parry
--   Less posture damage received when parried
+-   More posture damage dealt on parry.
+-   More posture restored (+15%) on parry.
+-   Less posture damage received when parried.
 
 ## Trivia
 
--   Despite being thought to increase parry time, it doesn't do that. It used to, however, but it was changed as it had become a meta during the tester waves. In return, the devs increased the overall parry time as a feature and reworked the parry dagger's ability.
+-   Despite being thought to increase parry time, it doesn't do that. It used to, however, but it was changed as it had become a meta during the tester waves. In return, the devs increased the overall parry time as a feature and reworked the Parrying Dagger's ability.

@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 76512
+revid: 78022
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -41,7 +41,7 @@ Dash forward while performing a kick. Can be upgraded with a talent to remove th
 
 ## Obtainment
 
-To obtain Jus Karita, you must first obtain 40 Light Weapons and Power 5. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. do his first dialogue option and obtain the ring, then ask him about Justicar. Upon getting Jus Karita, you also unlock it in the weapons tab when starting a new character (you do not need the 40 light weapon or power 5 requirement)
+To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Light Weapon Mastery. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. do his first dialogue option and obtain the ring, then ask him about Justicar. Upon getting Jus Karita, you also unlock it in the weapons tab when starting a new character (you do not need the 40 light weapon or power 5 requirement)
 
 ## Notes & Trivia
 

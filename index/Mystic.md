@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 77683
+revid: 77992
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -33,6 +33,10 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 ## Dialogue
 
 Each family of talents has a prompt for it. Note that you can only get prompts for talent families that you are eligible to get a talent card from and you may not get all the cards from a family. **Note that Rare Talents are not affected by Mystics at all unless you use Shrine of Chance.** Here are but a few of the possible prompts:
+
+If you do not possess money, the Mystic will bear the dialogue;
+
+_"No money, friend? How ever will I feed myself?_
 
 ## Attributes
 
@@ -164,6 +168,7 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 -   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
 -   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static)**_
 -   _I weave webs of lightning. **(Static Weaver)**_
+-   _I seek to embrace the instability of lightning as a source of power_ **(Unstable Capacitor)**
 -   _My blade conducts the skies wrath. **(Thunderblade; Static Blade, Gathering electricity, Overcharge)**_
 -   _My blade is unrelenting, a storm. **(Stormblade; Stormcaller Slash)**_
 -   _I speak to lightning. **(Thundercaller)**_
@@ -202,14 +207,46 @@ Each family of talents has a prompt for it. Note that you can only get prompts f
 
 ## Mantras
 
--   Sometimes the best option is the simplest. (☆☆☆)
--   A little experience can go a long way. (★☆☆)
--   I could do all this in my sleep. (★★☆)
--   Only the strongest will do. (★★★)
+-   I seek Initiate level Mantras of any kind. (☆☆☆)
+-   I seek Adept level Mantras of any kind. (★☆☆)
+-   I seek Expert level Mantras of any kind. (★★☆)
+-   I seek Master level Mantras of any kind. (★★★)
+
+-   I seek Physical Mantras (☆☆☆) -> (★★★)
+
+-   I seek Initiate level Fire Mantras (☆☆☆)
+-   I seek Adept level Fire Mantras. (★☆☆)
+-   I seek Expert level Fire Mantras. ( ★★☆)
+-   I seek Master level Fire Mantras. (★★★)
+
+-   I seek Initiate level Ice Mantras (☆☆☆)
+-   I seek Adept level Ice Mantras. (★☆☆)
+-   I seek Expert level Ice Mantras. ( ★★☆)
+-   I seek Master level Ice Mantras. (★★★)
+
+-   I seek Initiate level Wind Mantras (☆☆☆)
+-   I seek Adept level Wind Mantras. (★☆☆)
+-   I seek Expert level Wind Mantras. ( ★★☆)
+-   I seek Master level Wind Mantras. (★★★)
+
+-   I seek Initiate level Lightning Mantras (☆☆☆)
+-   I seek Adept level Lightning Mantras. (★☆☆)
+-   I seek Expert level Lightning Mantras. ( ★★☆)
+-   I seek Master level Lightning Mantras. (★★★)
+
+-   I seek Initiate level Shadow Mantras (☆☆☆)
+-   I seek Adept level Shadow Mantras. (★☆☆)
+-   I seek Expert level Shadow Mantras. ( ★★☆)
+-   I seek Master level Shadow Mantras. (★★★)
+
+-   I seek Initiate Metal Mantras (☆☆☆)
+-   I seek Adept level Metal Mantras. (★☆☆)
+-   I seek Expert level Metal Mantras. ( ★★☆)
+-   I seek Master level Metal Mantras. (★★★)
 
 ## Locations
 
--   [Etris](Etris.md), in between the mantra shop and weapons shop.
+-   [Etris](Etris.md), in between the mantra shop and weapons shop. [Isle of Vigils](Isle_of_Vigils.md), to the right of the guard protecting the entrance of the [Temple of the Blade](Temple_of_the_Blade.md).
 -   [Summer Isle](Summer_Isle.md), just outside the docks.
 -   [Castle Light](Castle_Light.md), in the library, at the back.
 -   [Voidheart](Voidheart.md), next to the cauldron near the well and the antiquarian.

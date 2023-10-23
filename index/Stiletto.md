@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 70237
+revid: 78018
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]

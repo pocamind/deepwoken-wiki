@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 77466
+revid: 78025
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -28,7 +28,6 @@ _(one-time use, re-obtainable)_
 ## Trivia
 
 -   You can hold more than one of this item.
--   Holding Sinner's Ash will surround your player in a purple highlight, as seen in the Gallery above.
--   Witherald has done over ~70 dukes and still hasn't gotten Sinner's Ash yet, if that helps you decide where to farm.
+-   Holding Sinner's Ash will surround your player in a purple highlight.
 -   Funny Dialogue will pop up upon trying to use Sinner's Ash without a [Resonance](Resonance.md). _(Unknown what it is)_
--   _While it is true that Sinner's Ash doesn't do anything if your resonance is already corrupt, it's unknown what it says if used whilst already having a Corrupt Resonance. DM Witherald if you're able to provide evidence of what it says._
+-   Using Sinner's Ash whilst already having a Corrupted Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."

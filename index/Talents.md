@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 77913
+revid: 78056
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -507,7 +507,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
 
--   _Thresher Fangs_ \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 200% damage to armor.
+-   _Thresher Fangs_ \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
     -   Prerequisite: Knife's Journey
 
 -   _True Pain_ \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health)
@@ -1718,7 +1718,7 @@ _**"I often attack others."**_
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   Grant the speed from Wind Gates to the boat you are driving for a short duration.
-    -   Prerequisite: Sail along in the direction of the wind for roughly 20 minutes, 30 gale(may be lower)
+    -   Prerequisite: Sail along in the direction of the wind for roughly 20 minutes, 50 Galebreathe
 
 ### Scrapsinger
 
