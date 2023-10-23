@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 78868
+revid: 78869
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -588,7 +588,7 @@ The Depths consists of multiple layers. Those who were condemned by combat or dr
 -   There are nine layers to The Depths.
 -   The layers are non linear. You can go straight from the Surface to Layer Three, which is what Pleeksty did.
 -   Klaris implies The Depths has some form of sentience, almost as if "we were interacting on a microscopic level with the processes of some slumbering creature."
--   The Depths apparently is more formed by numerous worlds that merged into a single world, apparently every layer was a different world with their own cities, people and so on, as stated by the Lightborn in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2. This remains still unclear as we only have the little information from the Lightborn in New Kyrsa.
+-   The Depths apparently is more formed by numerous worlds that merged into a single world, apparently every layer was a different world with their own cities, people and so on, as stated by Kaide in layer 2, the Depths itself abducts different worlds and cities, including Celestials and Lightborn cities, meaning that the Depths itself are damned worlds abducted by the drowned gods, such as Celtor for the 1st layer, New Kyrsa and the Eternal Gale was for Layer 2. This remains still unclear as we only have the little information from Kaide in New Kyrsa.
 -   The First Layer is located below the sea, however this is not the case for the others.
 
 #### **Scyphozia, The First Layer**

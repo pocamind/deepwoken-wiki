@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 77968
+revid: 78871
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -165,7 +165,7 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
     -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
 -   **[Krulian Knife](Krulian_Knife.md)** - In addition to being the reward, the Krulian Knife can also be found in each of the five chests.
--   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of ~less than 1%.~ Its actually 1/60 chance of obtaining it (I did about 60 ferryman kills and I got one stormseye)
+-   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of less than 1%.
 -   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost
 -   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs.
 -   **[Relics](Relics.md)** - Extremely rare and powerful items that can be used to empower a character. In comparison to other bosses, The Ferryman drops far more Idols of Yun'Shul than any other relic.

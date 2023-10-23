@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 78056
+revid: 78874
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -586,6 +586,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity)
     -   Prerequisites: 60 Shadowcast, Dark Hours
+    -   You hover with shadowy particles while the rifted state is active.
     -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
@@ -1833,8 +1834,8 @@ Prerequisite: Charisma
     -   Whenever you are knocked by town guards from a faction in which you have good reputation, the town guards will scold you instead of gripping you, letting you live.
 
 -   _Golden Tongue_ \[Rare Talent\] - Typing gives a random buff to you and those around you. (60 second cooldown)
-    -   One gives Reinforce, doesn't come with healing, the other gives +33% Ether.
-    -   The buff is not always the same per person.
+    -   One gives a Reinforce-like buff without healing, the other grants ~33% Ether.
+    -   The buff is random for each person affected.
     -   Prerequisite: 40 Charisma
 
 -   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a talent description, I can't stop you.
@@ -1913,9 +1914,9 @@ Prerequisite: Charisma
     -   Prerequisites: 25 Fortitude, 5 Willpower
 
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
-    -   The effect of insanities are delayed by a full tier.
-        -   You now Shiver at Tier 2 insanity instead of Tier 1
-        -   You now Scratch yourself at Tier 3 insanity instead of Tier 2
+    -   Contrary to the card's description, effect of insanities are delayed by a full tier.
+        -   You now Shiver at Tier 2 insanity instead of Tier 1.
+        -   You now Scratch yourself at Tier 3 insanity instead of Tier 2.
     -   Prerequisites: Grasp on Reality, 50 Willpower, 50 Fortitude
 
 ### Survival Instinct
@@ -1941,8 +1942,7 @@ These Talents are designed to let you survive longer against starvation and thir
 > _**"In nature, I am at home."**_
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
-    -   Prerequisite: 5 Fortitude
-    -   Bugged
+    -   Prerequisite: 5 Fortitude.
 
 -   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Obtained by equipping [Winter Corps Parka](Equipment.md).
@@ -2054,9 +2054,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
-    -   If the player you are mugging doesnt have any notes, you will stop mugging unequipped [equipment](Equipment.md)
-    -   Does not take enchanted [equipment](Equipment.md)
-    -   Despite the 10 agility requirement, you need cap artist (25 agility)
+    -   Cap Artist requires 25 Agility despite the 10 Agility requirement of this Talent.
+    -   If the player you are mugging doesn't have any notes, you will stop taking unequipped equipment.
+    -   Does not take enchanted items.
 
 ### Thunder Brawler
 
@@ -2167,7 +2167,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
 
 -   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
-    -   Graceful Flame passively restore sanity and health to those around it. Stacks with sitting next to it.
+    -   Graceful Flame passively restores sanity and health to those around it. Stacks with sitting next to it.
     -   Prerequisite: 40 Flamecharm, 40 Willpower, Undying Flame
 
 ### Unstable Capacitor
@@ -2184,7 +2184,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
-    -   Turns all thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple. (note: Arch has said that arcwarder may become blurple in the future)
+    -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple. May affect Arcwarder in the future.
     -   Prerequisite: 40 Thundercall
 
 ### Vigil Swordsman
@@ -2198,9 +2198,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Blade Dancer \[Common Talent\] - Landing a hit removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
 
--   _Speed Demon_ \[Rare Talent\] - Having a speed boost makes your attacks inflict **Bleed** (+1 Passive Agility)
-    -   "Bleed" gives a 30% damage bonus and is not accounted in the damage cap.
-    -   Works with critical attacks as well.
+-   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
+    -   "Bleed" gives a 30% damage bonus, is not accounted for in the damage cap, and bypasses armor.
+    -   Works with M1s and criticals.
     -   1 second cooldown.
     -   Prerequisite: 25 Agility
 

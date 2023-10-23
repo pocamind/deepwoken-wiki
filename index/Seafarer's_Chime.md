@@ -1,6 +1,6 @@
 ---
 title: "Seafarer's Chime"
-revid: 76083
+revid: 78872
 source: https://deepwoken.fandom.com/wiki/Seafarer's_Chime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -21,3 +21,5 @@ categories: [Items]
 ## Description
 
 The Seafarer’s Chime is an item granted upon building your first [boat](Ships_&_Sailing.md). It allows you to spawn your boat anywhere, granted you are standing on solid ground and near water.
+
+Standing on top of a guild base sign spawned by a [Chime of Dwelling](Chime_of_Dwelling.md) can let you summon a boat anywhere there is a valid surface.
