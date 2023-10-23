@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 78045
+revid: 78889
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -313,7 +313,7 @@ There are two variants that enchantments come in:
 </tbody>
 </table>
 
-**Equipments:**
+**Equipment:**
 
 | **Name** | **Description** | **Visual Effect** |
 | --- | --- | --- |
@@ -381,7 +381,7 @@ Drowned
 
  | 
 
-Drowned equipments grant, on top of their innate stats and talents:  
+Drowned equipment grant, on top of their innate stats and talents:  
   
 10 Health  
 10 Ether  

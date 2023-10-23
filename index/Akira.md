@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 74778
+revid: 78884
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
