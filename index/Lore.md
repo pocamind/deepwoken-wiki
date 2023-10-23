@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 77505
+revid: 78868
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -850,7 +850,7 @@ A Dark Mage, located in Minityrsa.
 -   The Ignition Union has bases in the first and second layers of the depths.
     -   With their base in the second layer, they hope to find a way to help humanity thrive even with the tides.
 -   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there still strong Deepdelvers such as Colonel Hoffa.
--   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote _"_
+-   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
 
   
 

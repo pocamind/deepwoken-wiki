@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 63403
+revid: 78133
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -66,7 +66,7 @@ A Songseeker Frostdrawer executes it's opponents after knocking them:
 -   Watch out for Ice Daggers, as this move can be spammed and be easily proven lethal.
 -   Get them into corners as it will make it impossible for the Songseeker Frostdrawers to deal damage. Even though they will cast mantras, they won't deal damage while being attacked when casting a mantra. Or keep hitting them and spamming mantras on them.
 -   Fighting Songseeker Frostdrawers with Songseeker Flamecharmers can be very annoying, and lethal. If you are planning to fight the two monks at the same time, make sure to know what you are doing otherwise you can get knocked.
--   Escaping them is very hard as a low level as there Ice Daggers can track you down very easily so you must parry if they do use Ice Daggers.
+-   Escaping them is very hard at a low level as their Ice Daggers can track you down very easily so you must parry if they do use Ice Daggers.
 
 ## Trivia
 

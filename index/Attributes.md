@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 76092
+revid: 78177
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -49,8 +49,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
 
 ### Fortitude
 
--   Resilience against threats. _Increases **Health** slightly per point._
-    -   Adds 0.5 HP to your character for every Fortitude point.
+-   Resilience against threats. _Increases **Health** slightly per point._\*\*Adds 0.5 HP to your character for every Fortitude point.
     -   100 Fortitude will grant you 50 HP.
     -   Does **not** add damage resistance.
     -   Some types of equipment, such as shields, some helmets, and the _Ironsinger Heavy Plate_, have a fortitude requirement to wield.
@@ -89,8 +88,6 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 
-  
-
 ### Charisma
 
 -   Your character's ability to influence others with their personality. _Increases **Ether** slightly per Charisma._
@@ -106,10 +103,9 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 
 -   Weapons -> _use the **Weapons Manual**_
 
-### Heavy Weapons
+\===Heavy Weapons\===\*Increases your character's proficiency with heavy weapons -- this increases the extra damage dealt by your weapon's scaling.
 
--   Increases your character's proficiency with heavy weapons -- this increases the extra damage dealt by your weapon's scaling.
-    -   Equipping better weapons of this class will require a higher point investment.
+-   -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks heavy weapon related [Talents](Talents.md) and a [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Heavy_Weapon_Mantras).
         -   Some weapon talents are locked to certain weapon types. For example, Greataxe talents differ from Greatsword talents, and cannot be used interchangeably unless states otherwise in the talent card description.
 -   Gain heavy weapons EXP by dealing damage with a heavy weapon or parrying attacks.
@@ -128,8 +124,7 @@ Weapon Attributes dictate proficiency with your given weapon, and can unlock wea
 
 ### Light Weapons
 
--   Increases your character's proficiency with light weapons -- this increases the extra damage dealt by your weapon's scaling.
-    -   Equipping better weapons of this class will require a higher point investment.
+-   Increases your character's proficiency with light weapons -- this increases the extra damage dealt by your weapon's scaling.\*\*Equipping better weapons of this class will require a higher point investment.
     -   Unlocks light weapon related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras).
         -   Some weapon talents are locked to certain weapon types. For example, Dagger talents differ from Fist talents, and cannot be used interchangeably unless states otherwise in the talent card description.[\[1\]](https://deepwoken.fandom.com/wiki/Attunement-less#Light_Weapon_Mantras)
 -   Gain light weapons EXP by dealing damage with a light weapon or parrying attacks.
@@ -149,8 +144,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
 
 ### Flamecharm
 
--   Increases damage scaling of Flamecharm mantras. To improve further, travel to the respective [Attunement Trainer](Attunement_Trainers.md).
-    -   Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
+-   Increases damage scaling of Flamecharm mantras. To improve further, travel to the respective [Attunement Trainer](Attunement_Trainers.md).\*\*Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
     -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using Hearthgem or eating [Dying Embers](Dying_Embers.md).
 -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
@@ -163,18 +157,16 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using Hemafrost or eating [Frigid Prisms](Frigid_Prism.md).
 -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
-### Thundercall
+\===Thundercall\===\*Increases damage scaling of Thundercall mantras.
 
--   Increases damage scaling of Thundercall mantras.
-    -   Unlocks [Thundercall Talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
+-   -   Unlocks [Thundercall Talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
     -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using Self-Conducting Loop or eating [Spark Glands](Spark_Gland.md).
 -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
 
-### Galebreathe
+\===Galebreathe\===\*Increases damage scaling of Galebreathe Mantras.
 
--   Increases damage scaling of Galebreathe Mantras.
-    -   Unlocks [Galebreathe Talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
+-   -   Unlocks [Galebreathe Talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
 -   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using Gale Kata or eating [Gale Stones](Gale_Stone.md).
 -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
@@ -203,5 +195,5 @@ Attunement Attributes dictate the potential power and intensity of your current 
 -   If you lack attribute EXP, using training gear will give the message "I can feel my <attribute> improving...". The attribute will automatically increase once you get enough attribute EXP. You can cancel this by clicking on the grey arrow next to the attribute in the inventory screen.
 -   If you need to uncap an attribute, you get the message "I've hit a wall in my training. Maybe there's some way to break it?"
 -   ~Make sure to be leveling up all of your stats at the same time for faster leveling and better talent~s _Leveling faster DOES NOT mean that you're necessarily getting stronger. Rather, leveling attributes individually will help you get the talents you need in a more efficient way by causing less clutter in the Potential Receivable Talents pool._
--   A great tool for training an typing intensive stat like charisma is [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app).
+-   A great tool for training an typing intensive stat like charisma is [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app/).
 -   When starting off, considering which attributes are your most important will help guide you in your run. For some people, they'll want to raise Agility first so they can get Agility talents before they raise Fortitude. _Rare cards especially benefit from this method of leveling, as per the reason stated above- as well as having quicker access to those cards._

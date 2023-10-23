@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 77622
+revid: 78579
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,6 +29,7 @@ Mute is disabled when you ring the [Hell Bell](Hell_Mode.md) or if your in a Dun
 The only monsters that are not affected are [Desert Knights](Stone_Knight.md#desert-knight), [Blizzard Knights](Stone_Knight.md), [Rock Golems](Rock_Golem.md), [Prime Golems](Rock_Golem.md#golem-prime), [Rogue Constructs](Hive_Construct.md#rogue-construct), [Enforcers](Enforcer.md), [Angels](Hollow_Angel.md) and grounded [Mudskippers](Mudskipper.md).
 
 -   [Immortal Guardians](Immortal_Guardian.md), Lesser Angels (If not summoned by a Watcher) and [Ministry Necromancers](Ministry_Necromancer.md) are affected by Mute.
+-   Immortal Guardians won't execute you instead they will call you "PRIMATIVE." and head back to their spot
 
 ### Prodigy
 

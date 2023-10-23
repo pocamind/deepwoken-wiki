@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 76672
+revid: 78125
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2]

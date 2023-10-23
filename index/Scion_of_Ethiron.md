@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 77108
+revid: 78711
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -67,7 +67,7 @@ File:Big fist.gif
 File:Bone floor.gif
 
  | ✗ | ◯ | ◯ | (★☆☆) |
-| Bone Stream | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using his other moves at the same time**.
+| Bone Stream | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using their other moves at the same time**.
 
 To avoid, you must jump. You can just hold space and you'll be pretty much safe or move to another floor.
 
@@ -93,16 +93,16 @@ The Scion can also summon Ice Lancers that will guard the bone pillars. They can
 
 Try to be conservative when it comes to ether usage, as with the new Tempo mechanic your ether regeneration will heavily stagnate without hitting anything for a long period of time (which will be 95% of the boss). This is especially important if you use Beast Burrow or a mobility mantra to evade its ultimate. Only use mantras when it's absolutely necessary, especially if the build being used does not have ether to spare.
 
-After beating the boss, it's mostly running until you reach the city. White orbs will spawn in random places at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Ice Lancer's means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Killing those Ice Lancers doesnt guarantee your death, but it isnt the preffered way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is a slower, although much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the scion of ethiron, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
+After beating the boss, it's mostly running until you reach the city. White orbs will spawn in random places at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Ice Lancer's means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Killing those Ice Lancers doesn't guarantee your death, but it isn't the preferred way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is a slower, although much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the Scion of Ethiron, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
 
-The Scion of Ethiron is often said to be extremely difficult, when in reality the opinion comes due to lack of experience. Fighting this boss, whether it be with a group or alone, is necessary in order to truly master it's moveset and making it out of Floor 2 in one piece.
+The Scion of Ethiron is often said to be extremely difficult, when in reality the opinion comes due to lack of experience. Fighting this boss is necessary in order to truly master its moveset and make it out of Layer 2 in one piece.
 
   
 
 ## Trivia
 
--   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. Might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to soon grow. However, it is often said to be the Avatar of Ethiron, or the form of Ethirons Power as stated by Cap\`n\`Orleand.
+-   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orleandeau](<Cap'n_Orlandeau.md>).
 -   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the [Restore Rulebook](https://docs.google.com/document/d/e/2PACX-1vQUwjgPHEqZ_Ok8N9x_cYv9jm27Ln2pcPepOPtuFFXk8rbkuShDlVADoTw_hIjwlNA0itXTa5-6R7Q6/pub).
--   Vampirism barely works on Layer 2 bosses, however [Flame Wisp](Flamecharm.md) can be viable and even with no source of healing there are of course the [Kyrsgarde](Kyrsgarde.md) lancers for HP.
+-   Due to the Vampirism enchant being mostly ineffective on bosses, the player must rely on other sources of healing like [Flamecharm's](Flamecharm.md) Flame Wisp and the health obtained from killing [Kyrsgarde](Kyrsgarde.md).
 -   The branches on its head are inspired by dendrites in neuron diagrams.
--   The developers reffer to the Scion of Ethiron as They/Them, similar to Yun'shul.
+-   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with their fellow drowned god [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
