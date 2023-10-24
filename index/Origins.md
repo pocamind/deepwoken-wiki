@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 78023
+revid: 78951
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -84,7 +84,7 @@ Also, all of the kills need to be made on one single character.
 
 -   Pathfinders are those who have yet to swear under an [Oath](Oaths.md). This is different from being [Oathless](Oath%253A_Oathless.md).
 -   Chime of Conflict does not affect the amount of progress towards this Origin.
--   You cannot grip guildmates for Voidwalker obtainment kills.
+-   You can grip guildmates for Voidwalker obtainment kills.
 
 **Voidwalker** grants players a PVP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PVE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate talent, which solidifies your connection to Eylis.
 
