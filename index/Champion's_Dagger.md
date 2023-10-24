@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 66703
+revid: 78906
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -31,7 +31,7 @@ categories: [Weapons, Daggers]
 
 ## Description
 
-The Champion's Dagger is a Dagger and it is tied for the third highest tier dagger in the game before the [Nemit's Sickle](<Nemit's_Sickle.md>) and the [Krulian Knife](Krulian_Knife.md), it is found at [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md).
+The Champion's Dagger is a Dagger, and it is tied for the third highest tier dagger in the game before the [Nemit's Sickle](<Nemit's_Sickle.md>) and the [Krulian Knife](Krulian_Knife.md), it is found at [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 77411
+revid: 78925
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -71,7 +71,7 @@ When fought, he uses a [Hero Blade of Flame](Hero_Blades.md).
 
 File:B7624e4fd89708c9b9612665c1835545.png
 
- | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
+ | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
 
 When fought, he uses a [Hero Blade of Lightning](Hero_Blades.md).
 
@@ -97,10 +97,10 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 -   Most of the attunement trainers have off-color eyes that match the attunement they teach. For example, Nell's blue eyes represent Frostdraw, and Funke's bright yellow eyes represent Thundercall.
     -   Nostor is an exception due to being a [Ganymede](Ganymede.md).
 -   Beatra was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
--   The name "Funke" (Thundercall master) means "Spark" in German.
+-   The name "Funke" means "Spark" in German.
 -   Nostor wears a ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
--   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers. (Excludes Regek, Adar, and Beatra)
-    -   Frostdraw trainer Nell wields [Gran Sudaruska](Gran_Sudaruska.md).
+-   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers, excludes Regek, Adar, and Beatra.
+    -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).
     -   Thundercall trainer Funke wields the [Hero Blade of Lightning](Hero_Blades.md).

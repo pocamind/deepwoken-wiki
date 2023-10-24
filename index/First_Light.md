@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 76045
+revid: 78905
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -26,7 +26,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crimson Megalodaunt, Merchant Ships |
+| obtainment | Crimson MegalodauntMerchant Ships |
 | description | Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend. |
 
 ## Description

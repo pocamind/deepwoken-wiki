@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 77468
+revid: 78923
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, The Ferryman |
+| obtainment | Duke Erisia, The Ferryman, Primadon's Gem Chest |
 | description | "A cruder form of the famed Pluripotent Alloy, this fusion of rare metals is still renowned for its ability to draw out hidden strength in weapons." |
 
 ## Description
@@ -31,4 +31,4 @@ _(one-time use, re-obtainable)_
 -   You can use Smith's Alloy on [False Memory](False_Memory.md).
 -   You can use Smith's Alloy in [Chime of Conflict](Chime_of_Conflict.md), and it'll save the data as it normally would.
 -   You can't use Smith's Alloy on Side Weapons, like Shields.
--   _Unknown if it soulbinds your weapon upon usage, DM Witherald for proof of this if you're willing to use a Smith's Alloy on an unbinded weapon._
+-   Using Smith's Alloy won't soulbind your weapon. This can be useful for trading or upgrading the weapons of friends.

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 77992
+revid: 78902
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -244,10 +244,12 @@ _"No money, friend? How ever will I feed myself?_
 -   I seek Expert level Metal Mantras. ( ★★☆)
 -   I seek Master level Metal Mantras. (★★★)
 
-## Locations
+## [Locations](Meteor_Isle.md)
 
--   [Etris](Etris.md), in between the mantra shop and weapons shop. [Isle of Vigils](Isle_of_Vigils.md), to the right of the guard protecting the entrance of the [Temple of the Blade](Temple_of_the_Blade.md).
+-   [Etris](Etris.md), in between the mantra shop and weapons shop.
+-   [Isle of Vigils](Isle_of_Vigils.md), to the right of the guard protecting the entrance of the [Temple of the Blade](Temple_of_the_Blade.md).
 -   [Summer Isle](Summer_Isle.md), just outside the docks.
+-   [Meteor Isle](Meteor_Isle.md), on a rock near Ata, the spark NPC and the Smithy.
 -   [Castle Light](Castle_Light.md), in the library, at the back.
 -   [Voidheart](Voidheart.md), next to the cauldron near the well and the antiquarian.
 -   [Greathive Aratel](Greathive_Aratel.md), in the hall connecting the Library and Root Plaza, just before the stairs.

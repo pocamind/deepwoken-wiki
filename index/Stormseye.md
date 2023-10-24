@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 77949
+revid: 78914
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -37,6 +37,14 @@ The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It c
 
 ## Critical Attack
 
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
 -   The user shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end.
 
 ## Trivia
@@ -49,4 +57,12 @@ The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It c
 -   [Funke](Funke,_Master_of_Thunder.md), the [Thundercall](Thundercall.md) trainer does not use this weapon. He uses the [Hero Blade of Lightning](Hero_Blades.md).
 -   This weapon has the only critical attack in the game that can somewhat be feinted, as holding m2 during the critical allows you to shoot 2 shots and disengage sooner than normal, this allows for deadly mixups.
 -   The aerial attacks will also apply on your [Crazy Slots](Crazy_Slots.md) weapon.
--   When you choose Surge talent path, that makes your thunder mantras blueish purple, Stormseye becomes blueish purple in color.
+-   When you choose the Surge path, the Stormseye's medallion will have a blurple color, as well as its criticals and flourishes.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>

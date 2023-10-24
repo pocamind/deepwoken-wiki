@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 77312
+revid: 78924
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -100,6 +100,7 @@ Enforcer Pull
 
  | A powerful gravitational pull. | Conjure strings of the [Enforcer](Enforcer.md), auto-tracking onto enemies and pulling them in. Missing still takes ether and does not put this mantra on cooldown. (Requires a Enforcer Eye to obtain) | Support Mantra |
 
-## Trivia/Notes
+## Trivia
 
+-   For unknown reasons, Abyssal Ridge was originally a Mobility Mantra.
 -   Monster Mantras are somewhat similar conceptually to Blue Mages in the Final Fantasy Series; Blue Mages are able to acquire enemy abilities (Monster Spells) through various means in encounters, somewhat echoed in Monster Mantras and their obtainment methods.

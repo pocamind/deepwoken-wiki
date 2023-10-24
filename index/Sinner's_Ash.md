@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 78025
+revid: 78926
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -29,5 +29,4 @@ _(one-time use, re-obtainable)_
 
 -   You can hold more than one of this item.
 -   Holding Sinner's Ash will surround your player in a purple highlight.
--   Funny Dialogue will pop up upon trying to use Sinner's Ash without a [Resonance](Resonance.md). _(Unknown what it is)_
--   Using Sinner's Ash whilst already having a Corrupted Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."
+-   Using Sinner's Ash whilst already having a Corrupted Resonance or not having any Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."
