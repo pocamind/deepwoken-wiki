@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 69358
+revid: 78944
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Vendors]
@@ -20,6 +20,6 @@ To get to the Den Master, you have to go to the Etris Docks and hug the right wa
 -   The Den Master does not sell higher tier Mantra Modifiers like Stratus Stones or Rush Shards. He also does not sell Aeon Logstones or Eternal Logstones nor any type of Sparks (I.e Blast Sparks, Tornado Sparks, Multiplying Sparks.)  
     
 
-File:RobloxScreenShot20220303 175219724 (2).png
+File:Den master.png
 
 The Den Master’s inside.

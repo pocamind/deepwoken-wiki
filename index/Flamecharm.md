@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 78184
+revid: 78941
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1237,6 +1237,7 @@ Standing close to your graceful flame will slowly restore sanity for others in t
 -   Flamecharm is the only attunement that can benefit it's [Hero Blade](Hero_Blades.md) as it has something akin to an insta-grip.
 -   The "Flame Leap" mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
 -   Flamecharm's **Burn** damage scales off Elemental intensity, Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
+-   Flamecharm is currently the only attunement without a legendary
 
 ## References
 

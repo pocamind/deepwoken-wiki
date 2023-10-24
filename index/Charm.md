@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 46226
+revid: 78947
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]
@@ -26,7 +26,7 @@ Charm talents can be split into two categories; those that give enemies charm an
 
 **Charismatic Cast** - Landing a hit with a mantra on an enemy causes them to be charmed by your moves, (I've hit allies with it before and they have been charmed, but there is no negative effect for them on this charm, the ally and enemy specific effects are weird in this game.) reducing their damage done to you.
 
-### Charm Augmenting Talents
+### [Charm Augmenting Talents](https://deepwoken.fandom.com/wiki/Talents#Charm_Caster)
 
 **Lasting Charisma** - Enemies charmed by your mantras are charmed longer. (Once again enemies and allies, unclear because player can charm both enemies and allies.)
 
@@ -38,27 +38,9 @@ Charm talents can be split into two categories; those that give enemies charm an
 
 **Dazing Finisher** - Flourishing enemies that are charmed by you cause them to not be knocked back and _dazed_ instead. (Enemies/NPCs)
 
-### Vow of Mastery
+### [Vow of Mastery](Vow_of_Mastery.md)
 
 **Vow of Mastery** - The Vow of Mastery grants the Master the power to command their Subject. To initiate a vow, you must ask the other player if they'd like to make the vow. e.g. "wanna make a vow of mastery?" (Other questions might work, inconclusive, but for now answering any type of question with sure makes you immune to the effect, only the answer yes when the players are directly in front of each other results in a vow.
-
-Command: Say - Innate ability that causes the Subject to say whatever the Master desires. ( \[Subject's First Name\] Say \_\_\_\_\_\_\_ ) (You start out with this)
-
-Command: Sleep - Innate ability that causes the Subject to instantly go into a state of knockout. People in this state can be gripped and carried. ( \[Subject's First Name\] Sleep ) (You start out with this)
-
-Command: Drop - Innate ability that causes the Subject to drop whatever item you say. ( \[Subject's First Name\] Drop \_\_\_\_\_ ) (You start out with this) **NOTE: Not every item can be dropped using Vow of Mastery.**
-
-Command: Run - Command your servant to run with all their might. _Causes the Subject to run forward continuously for an amount of time with a speed boost, somewhat lengthy cooldown._ ( \[Subject's First Name\] Run )
-
-Command: Fight - Command your servant to fight for their master, granting them enhanced stats for the duration. _Regardless of the rumors this one is purely a buff that does nothing else, appears to give more damage and enhanced life regen, lengthy cooldown_. ( \[Subject's First Name\] Fight )
-
-Command: Sacrifice - Sacrifice the health of a servant in order to restore your own. _Damage your servant to heal yourself for an ammount._ ( \[Subject's First Name\] Sacrafice )
-
-Command: Return - Command your servant to obey your vow and return to your side. _Brings the subject in front of you._ (This has limited range.) ( \[Subject's First Name\] Return )
-
-Command: Live - Can be only used once per hour. Revives and fully heals the subject. ( \[ Subject's First Name\] Live )
-
-  
 
 ## Notes
 

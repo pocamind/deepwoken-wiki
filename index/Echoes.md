@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 77605
+revid: 78945
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -77,7 +77,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 
 ## Guide For W and S Rank
 
-Checklist made by derathehunter found [here](https://docs.google.com/document/d/1qNaYPvKJPwPD5wsNGvyW5UX6Ek2YpYDJiQY-NO88AGE/edit?usp=sharing). Do note Primadon is not included on the checklist, which is an error.
+Checklist made by Holy (formerly DeraTheHunter) found [here](https://docs.google.com/document/d/1qNaYPvKJPwPD5wsNGvyW5UX6Ek2YpYDJiQY-NO88AGE/edit?usp=sharing). Currently updated as of 10/23/2023, no errors should be found. (if they are, tell me!!!)
 
 Video guide found [here](https://youtu.be/jrbJYWu5jUw)
 

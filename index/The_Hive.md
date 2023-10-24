@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 77119
+revid: 78938
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -37,7 +37,7 @@ To restore your reputation with the Hive, head to [The Lordsgrove](The_Lordsgrov
 
 In addition, helping Hive Guards in the following events will allow you to increase your reputation with the Hive:
 
--   Hive Guards vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
+-   Hive Guards vs Vigil Swordsmen ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct vs Authority Commander ([Starswept Valley](The_Starswept_Valley.md))
 
 ### **Dialogue**
