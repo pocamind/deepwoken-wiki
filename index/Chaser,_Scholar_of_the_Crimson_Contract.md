@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 77601
+revid: 78963
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -18,9 +18,9 @@ Template:EnemyInfobox1.0
 
 Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
 
-He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md). Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md). Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
+He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
 
-He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.
+He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
 
 Appearance wise, he is a young male [Adret](Adret.md) characterized by his unique eye color and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
 
@@ -166,7 +166,7 @@ Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Trium
 
 ## Trivia
 
--   Chaser is voiced by YouTuber [DemStormz](https://www.youtube.com/watch?v=VedRxDf8QNs).[\[1\]](#cite-note-1)
+-   Chaser is voiced by YouTuber [DemStormz](https://www.youtube.com/watch?v=VedRxDf8QNs).[\[4\]](#cite-note-4)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
@@ -176,7 +176,7 @@ Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Trium
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, finally despawning.
 -   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an Oath in the future, probably via the Second Prophet, similar to the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) with Lord Regent.
 -   It seems **Powerful Blood Appendage** cannot be parried while wearing **[Ignition Deepdelver](Ignition_Deepdelver.md)**. (Someone please test this further for the timings may have been wrong.)
--   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[2\]](#cite-note-2)
+-   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
 -   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
 -   Chaser does not spawn if the bounders at the Nest Corridor do not spawn.
 -   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
@@ -186,5 +186,8 @@ Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Trium
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=VedRxDf8QNs](https://www.youtube.com/watch?v=VedRxDf8QNs)
-2.  [↑](#cite-ref-2)
+1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+2.  [↑](#cite-ref-2) [Flareblood Kamas](Flareblood_Kamas.md) description
+3.  [↑](#cite-ref-3) [Diver Journals](Books.md)
+4.  [↑](#cite-ref-4) [https://www.youtube.com/watch?v=VedRxDf8QNs](https://www.youtube.com/watch?v=VedRxDf8QNs)
+5.  [↑](#cite-ref-5)

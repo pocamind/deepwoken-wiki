@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 77120
+revid: 78955
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -17,30 +17,62 @@ notices:
 
 ## Description
 
-The Ignition Union is a faction found throughout the Eastern Luminant and [The Depths](The_Depths.md). They are a renowned freelancer company that specializes in both trade and depths exploration.
+The Ignition Union is a faction found throughout the Eastern Luminant and [The Depths](The_Depths.md). They are a renowned freelancer company that specializes in trade, technology research and development, and depths exploration.
 
-In the Eastern Luminant, they operate a mountainous island known as Miner's Landing, whereas in the Depths they operate two bases, [The Chariot's Spire](<The_Chariot's_Spire.md>), and [The Frontier Furnace](The_Frontier_Furnace.md).
+Their main base of operations is the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 
-The Union is also responsible for producing certain greatswords such as the [Darksteel Greatsword](Darksteel_Greatsword.md) and the [Railblade](Railblade.md), as well as the Arc Suit.
+The Union is also responsible for producing certain greatswords such as the [Darksteel Greatsword](Darksteel_Greatsword.md) and the [Railblade](Railblade.md). They are also the force behind technologies such as the [Arc Suit](Oath%253A_Arcwarder.md).
 
-They are one of the three factions hired by [The Authority](The_Central_Authority.md), who are sent to exterminate beings from [The Depths](The_Depths.md).
+They are one of the three factions contracted by [The Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
 
-They frequently come to blows with the [Summer Company](The_Summer_Company.md), as a result of their rivalry against one another.
+The Union maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects, and the former serves as both a direct competitor to the Summer Company's technology and a hindrance to their monopoly on the arms trade.
+
+The Ignition Union also share an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md) arrogantly refers to them as "[Mudskippers](Mudskipper.md)" after brutally murdering several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot.
 
 ## Reputation
 
-Like all other factions, having negative reputation will have vendors deny your service within the territory. Additionally, you will also be attacked by guards on sight.
+Like all other factions, having negative reputation will have vendors deny you service within their affected territories. Additionally, you will be attacked by guards on sight. If the player has positive reputation, guards will not finish you off if they down you and will instead scold you and return to their post.
 
-You can reset your reputation with Maura, who is standing inside a house on top of a cliff, which requires the utilization of the Union Hook or climbing up. The price range is 30 to 300 Notes.
+You can reset your reputation with Maura, who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour or the Union Hook [Talent](Talents.md), and the price range is 30 to 300 Notes.
 
 The Ignition Union is among the factions to have a Bounty Board.
 
+### Dialogue
+
+Ally Reputation
+
+-   "Alright, <name>? Good to see a familiar face.
+
+Friend-Ally Reputation
+
+-   "How's it going mate?"
+-   "Sea's treating you well and all, yeah?"
+
+Friend Reputation
+
+-   "You on your break or something? Some of us still have work."
+-   "Come on, get moving, I'm sure you have better places to be."
+
+Neutral Reputation
+
+-   "Don't interfere with our work here, alright?"
+-   "Come on, quit dawdling, I'm sure you have better places to be."
+
+Hunted-Neutral Reputation
+
+-   ""
+
 ## Notable Members
 
+-   [Alpha](Alpha.md)
 -   [Adar](Adar,_Master_of_Metal.md)
+-   Delta
+-   Epsi
+-   [Orion](<Miner's_Landing.md#orion-quest>)
 
 ## Trivia
 
+-   Whilst being executed, Ignition Union NPCs may call the player a "scab". A [scab](https://en.wikipedia.org/wiki/Strikebreaker#) is a pejorative term for individuals hired during an ongoing labour strike to keep a company operating at the bare minimum efficiency until the strike is dissolved.
 -   [Miner's Landing](<Miner's_Landing.md>) is the only city in-game to be focused on industrialism more than medievalism.
--   The Ignition Union is one of the four factions who have an oath tied to them.
+-   The Ignition Union is one of the four factions who have an [Oath](Oaths.md) tied to them.
 -   One of two factions to create and utilise [Monsters](Monsters.md), the other being [The Hive](The_Hive.md).

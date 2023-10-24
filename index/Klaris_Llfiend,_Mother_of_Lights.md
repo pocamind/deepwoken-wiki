@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 77687
+revid: 78967
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -23,9 +23,9 @@ Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the
 
 She is a young Canor, who sports curly bangs that end onto her shoulders. Her pupils are much more pale as well as having unique facial markings down to her cheeks, and a floating orb that resembles the Moonseye, as a result of being the inventor of Radiant Magic. She wears the standard [coat of the Black Divers](Black_Diver.md).
 
-Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
+Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
-She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers. She also appears rather arrogant as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her.
+She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her.[\[3\]](#cite-note-3)
 
 ## Dialogue
 
@@ -176,15 +176,19 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 ## Trivia
 
 -   There is a typo when returning the Diver Journals to her; she says 'this is the least can offer,' it should say 'this is the least WE can offer.'
--   You don't have to beat Chaser after you unlock the galewax shrine for it to count to the deepshore fossil quest.
+-   You don't have to beat Chaser after you unlock the Galewax shrine for it to count to the Deepshore Fossil quest.
 -   She is the inventor of Radiant Magic, an Oath that gives access to some Lightkeeping.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
--   Despite her appearance, she's actually a Canor without eyeliner. [\[1\]](#cite-note-1)
--   Klaris Colors: #ffc592 Skin | #ffc592 Hair (yeah, same as skin.) | (Pupils can be found in the 'Footnotes' below) | (Facial Marking can be found in the 'Footnotes' below)
+-   Despite her appearance, she's actually a Canor without eyeliner. [\[4\]](#cite-note-4)
+-   Klaris Colors: #ffc592 Skin | #ffc592 Hair
+    -   The colour of her skin is identical to that of her hair.
     -   Klaris' Hair id's are  
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them
 
 ## Footnotes
 
-1.  [↑](#cite-ref-1)
+1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+2.  [↑](#cite-ref-2) [Mark Adaset](Mark_Adaset.md)
+3.  [↑](#cite-ref-3) [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
+4.  [↑](#cite-ref-4)
