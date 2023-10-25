@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 78922
+revid: 79009
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -115,7 +115,7 @@ File:Moonseye Tome.png
   
 It grants the user +20 knowledge on subsequent uses.
 
--   _(One-time use, re-obtainable)_
+-   _(Multiple-Uses, re-obtainable)_
 
  | 
 

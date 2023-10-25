@@ -1,6 +1,6 @@
 ---
 title: Eyeglasses
-revid: 77168
+revid: 79008
 source: https://deepwoken.fandom.com/wiki/Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face, Equipment]
@@ -20,7 +20,7 @@ categories: [Face, Equipment]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, Miner's Landing (Aristocrat Glasses), Minityrsa, Songseeker Wilds |
+| obtainment | Duke Erisia, Miner's Landing (Aristocrat Glasses), Minityrsa, Songseeker Wilds, First Layer (Aristocrat Glasses) |
 | description | "..." |
 
 ## Description
