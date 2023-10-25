@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 77759
+revid: 78996
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,7 +8,10 @@ categories: [NPCs]
 
 # Seraphina
 
-Template:NPC name
+| Seraphina | |
+|---|---|
+| name | Seraphina |
+| location | Etris Docks |
 
 ## Description
 

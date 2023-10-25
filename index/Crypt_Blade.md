@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 77610
+revid: 78982
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -46,4 +46,4 @@ The user goes in a pride stance with their sword facing down, and releases an AO
 -   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade.
 -   The original updated Crypt Blade contained 30k vertices. Following the 3/27/2023 update, this was reduced to a mere 2.5k vertices.
 -   The original Crypt Blade was able to proc Singularity and Fear on hit, essentially stunning the enemy in place on each hit, thankfully, this has since been removed.
--   The YouTuber Nanoprodigy was the first to showcase the Crypt Blade in his video, where the title referenced it as the "[Shadow Greatsword](https://www.youtube.com/watch?v=x4Euw0kCQVs)"[\[1\]](https://www.youtube.com/watch?v=x4Euw0kCQVs)
+-   The YouTuber Nanoprodigy was the first to showcase the Crypt Blade in his video, where the title referenced it as the "[Shadow Greatsword](https://www.youtube.com/watch?v=x4Euw0kCQVs)"

@@ -1,6 +1,6 @@
 ---
 title: Argo
-revid: 77959
+revid: 78995
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,7 +15,7 @@ categories: [NPCs]
 
 ## Description
 
-Argo is a [Etrean](Etrean.md) located at [Etris Docks](Etris_Docks.md). He has a red [Traveler Cloak](<Traveller's_Jacket.md>) on and he teaches the player the basics of fishing.
+Argo is an [Etrean](Etrean.md) located at the [Etris Docks](Etris_Docks.md). He wears a red [Traveler Cloak](<Traveller's_Jacket.md>) and teaches the player the basics of Fishing.
 
 ## Dialogue
 

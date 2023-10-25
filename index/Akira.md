@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 78884
+revid: 79002
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -27,7 +27,7 @@ His [Bell](Resonance.md) (Corrupted Top-Pop) allows him to instantaneously grip 
 
 Players who have 75 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.
 
-Despite him lacking in the experience department due to his young age, he's one of the strongest Black Divers, surpassing Klaris, Chaser and the strongest players.
+Despite him lacking in the experience department due to his young age, he's one of the strongest Black Divers, surpassing Klaris, Chaser and the strongest players.[\[1\]](#cite-note-1)
 
 ## Location
 
@@ -147,3 +147,5 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   Akira has an unobtainable necklace, it's hard to see with the current image of him
 -   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace
 -   If you are a Deepbound, Akira will still talk about you wanting to join The Divers.
+
+1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)

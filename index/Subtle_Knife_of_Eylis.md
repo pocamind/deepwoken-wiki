@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 69437
+revid: 78993
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -47,9 +47,10 @@ A Subtle Knife of Eylis executes it's opponent after knocking them:
 
 -   Use ranged mantras to hit these guys when they activate their time bubbles, hitting them cancels their time bubble completely.
 -   If you don't have any ranged mantras, you'll have to get up close to them since a single hit from any attack will cancel their time bubble.
+-   As they won't stop producing a Time-Slowing Orb until hit, making them use the move and then baiting the rest away can help reduce pressure in fights.
 
 ## Trivia
 
 -   It is required to enter their time bubble to obtain Voidwalker.
--   Their time bubble will still affect players who have the [Voidwalker](https://deepwoken.fandom.com/wiki/Origins#Voidwalker) origin on their character.
+-   Their time bubble will still affect players who have the [Voidwalker](Origins.md#voidwalker) origin on their character.
 -   The only characters in the game to have the voidwalker oath.
