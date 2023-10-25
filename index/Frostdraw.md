@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 78187
+revid: 79115
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,7 +14,7 @@ Frostdraw icon
 
 A Hemafrosted Capra casting a beam of ice.
 
-Frostdraw allows the user the ability to manipulate temperature to crystallize the water in the air, giving them access to abilities which focus on mobility, debuffs and high damage output.
+Frostdraw grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on mobility, debuffs and high damage output.
 
 ## Training
 
@@ -997,27 +997,16 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 
 -   Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning.
     -   Which translates to the fact that the Mantra would fit well to people who has a defensive approach to combat.
--   Frostdraw mantras afflict a brief Agility penalty when targets are hit and is the only element so far that can create physical objects that allow you or your opponents can collide with.
--   The Chilling [Enchantment](Enchantments.md) used to inflict the same effect that this attunement has, however this has been changed to work only in PVE.
+-   Frostdraw mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Commanders in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
--   The "Ice Fissure" mantra is most likely a reference to the Roblox game Strife, specifically the class Obsidian's obelisk summoning move.
--   The "Warden's Blades" mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
     
 -   The "Ice Chains" mantra was reworked into a new ability on the 8th of February 2022.
 -   The "Frozone" talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozone) from [The Incredibles](https://the-incredibles.fandom.com/wiki/The_Incredibles_Wiki).
 -   The "Iceberg" talent is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Mei#Overwatch_1) in [Overwatch](https://overwatch.fandom.com/wiki/Overwatch).
--   The "Cryonis" talent has a faulty description, it only reduced ether of certain moves. :
-    -   List of mantras that DO get an ether reduction: Ice Beam, Warden's Blades, Ice Daggers, Ice Smash, Ice Fissure, Glacial Arc, Ice Forge, Iceberg, Frozen Servants, Frost Grab, Ice Blade.
-    -   List of mantras that DO NOT get an ether reduction: Ice Eruption & Ice Lance.
-    -   List of mantras currently unchecked: Ice Spikes, Ice Lasers, Ice Chain & Ice Skates.
--   The "Ice Smash" mantra MIGHT be a reference to one of Cirno's spell cards in Touhou 12.3.
--   The "Ice Chain" mantra MIGHT be a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
--   The "Glacial Arc" mantra MIGHT be a reference to Edward Elric's alchemy from Full Metal Alchemist: Brotherhood.
--   The "Wardens Blades" mantra is very easy to movestack with, you can use other mantras or just M1 while using it.
--   Frostdraw has the second-most mantras with 3 stars on them, second to Ironsing.
--   Frostdraw has the second-most mantras out of all attunements, only second to Ironsing...
+-   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
+-   Frostdraw has the most Mantras out of all attunements in the game.
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
--   The "Ice Eruption" mantra MIGHT be a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.
+-   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 
 ## References
 

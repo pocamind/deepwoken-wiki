@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 57194
+revid: 79112
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -12,18 +12,18 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-An Etrean Naval Guard is a enemy NPC that can only be found in the following events:
+An Etrean Soldier is an enemy NPC that can only be found in the following events:
 
--   Etrean Naval Guards vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md))
--   Etrean Naval Guards vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
+-   Etrean Soldiers vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md))
+-   Etrean Soldiers vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Invasion of Etris ([Etris](Etris.md))
--   Etrean Naval Guards vs Hive Scouts ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean Soldiers vs Hive Scouts ([Starswept Valley](The_Starswept_Valley.md))
 
-An Etrean Naval Guard wears a purple uniform with their race being an [Etrean](Etrean.md) with their gender varying. They can also appear younger or older than 40 years old.
+An Etrean Soldier wears a purple uniform with their race being an [Etrean](Etrean.md) with their gender varying. They can also appear younger or older than 40 years old.
 
 ## Moveset
 
-An Etrean Naval Guard's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Ritual Spear](Ritual_Spear.md):
+An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Ritual Spear](Ritual_Spear.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ An Etrean Naval Guard's arsenal only consists of a [Battleaxe](Battleaxe.md) or 
 
 ## Finisher
 
-An Etrean Naval Guard executes it's opponent after knocking them:
+An Etrean Soldier executes it's opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

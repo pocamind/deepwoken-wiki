@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 78001
+revid: 79107
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -85,7 +85,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 
 -   **Lifesteal Resistance** - Lifestealing effects such as the Vampirism Enchantment or Bloodless Gems are severly reduced against Primadon.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Primadon.
--   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to The Depths.
+-   **The Deep Calls** - If Primadon executes its victim, they are automatically sent to [The Depths](The_Depths.md).
 
 ## Rewards
 

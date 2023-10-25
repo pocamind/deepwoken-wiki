@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 77771
+revid: 79120
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -47,6 +47,7 @@ Pressing Y will change your stance. Changing your stance will change the way you
 
 -   Recover reduced posture from parrying
 -   Deal increased posture damage with hits
+-   Faster attacks
 
 ## Key Terminology
 

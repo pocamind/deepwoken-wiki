@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 78315
+revid: 79123
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
