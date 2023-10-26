@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 78198
+revid: 79207
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -134,7 +134,7 @@ Encircle
  | Conjure shadows around your enemy before warp-striking to them. | 150 Ether | The user will summon shadows around their target and teleport to them after a short wait.
 
 -   Attacks done before teleporting will continue after the teleport. for instance, a mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or mantras, such as Eclipse Kick
--   Will not teleport the user if parried
+-   Will still teleport the user if parried/dodged
 
  |
 | 

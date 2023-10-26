@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 78711
+revid: 79209
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -22,7 +22,7 @@ Template:Creature Infobox V3_This is the boss encountered at the end of Layer 2 
 
 ## Description
 
-The Scion of Ethiron is a boss encountered at the end of the second floor of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as a sort of guardian to it. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fiber protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
+The Scion of Ethiron is a boss encountered at the end of the [second floor](Second_Layer/New_Kyrsa.md) of the Eternal Gale. It is tied to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), acting as a sort of guardian to it. After being woken by a swirling ball of purple energy, it takes the form of a skeletal monster whose body is missing the pelvis and below. The ribcage is filled by purple feathers. The skull is tetrahedron-like, with a purple-pink hue and a yellow fiber protruding from each of the four corners. Between the sternum and clavicle, there is a large red circle.
 
 It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Ethiron may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
 

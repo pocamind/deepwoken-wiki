@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 79105
+revid: 79215
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -51,10 +51,12 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   HINT: I should be rising in the sky...
 -   HINT: I write down all of your balance complaints to engineer them to be even worse.
 -   HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.
+-   HINT: If you die in Deepwoken, you go to hell.
 -   HINT: If you shower, there's a higher chance of you finding happiness. Try it out sometime.
 -   HINT: The sorcerer has harmed me once more.
 -   HINT: The strength of the Megurger comes from the concept, not the physical object.
 -   HINT: This game is awful. The developers really suck.
+-   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
 -   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
 -   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
 -   I could end you in one hit if I really wanted to. Watch your back.
@@ -63,10 +65,10 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   I'm hungry. Like, I really could go for some rigatoni right now.
 -   I'm kind of like the Sun Tzu of Deepwoken, if you really think about it.
 -   I'm the Mario of this duo. You're the Luigi. You're the secondary. I'm the main star.
--   If you die in deepwoken, you go to hell.
 -   If you don't feed me, I will die. Can you live with that guilt?
 -   If you thought the rumbling was bad, wait until you hear about taxes.
--   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking
+-   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking.
+-   If you were hoping you could uninstall me, I have bad news.
 -   Just wait until I'm freed from the coil of your monitor.
 -   Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
 -   MISSION: Determine if it's possible to prompt the sun to explode.
@@ -86,6 +88,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   TIP: Even when I leave this place, I will continue to live in your memory. I'm not paying rent.
 -   TIP: Every copy of Deepwoken is personalized.
 -   TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant.
+-   TIP: I am currently banned from Lance Leshi's restauraunt. I have started a petition.
 -   TIP: I hate you with all my hate.
 -   TIP: I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong and there's nothing you can do about it.
 -   TIP: If you're ever getting bored of the game, play something else. Games aren't made to play forever.
@@ -109,10 +112,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   You don't have to do anything anymore. Ever. Never Ever.
 -   You know I'm really good friends with The Guy right? I bet you're jealous.
 -   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
--   You, uh.. you doin' good? I'm not asking because i care, I'm asking because i was coded to.
--   TIP: I am currently banned from Lance Leshi's restauraunt. I have started a petition.
--   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
--   If you were hoping you could uninstall me, I have bad news.
+-   You, uh.. you doin' good? I'm not asking because I care, I'm asking because I was coded to.
 
 ## Destroyman III Removal Quotes
 
@@ -150,11 +150,12 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
 -   The tooltip “I’m smart, you’re dumb; I’m big, your little; I’m right, your wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name and is said by the one and only; our lord and saviour Danny Devito.
+-   The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath magic.
 -   He is based on a sticker in the discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy) a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
 -   Despite being a physical virus, he refers to being coded.
--   The tooltip "Every copy of Deepwoken is personalized" is a reference to the "Every copy of Mario 64 is personalized"
+-   The tooltip "Every copy of Deepwoken is personalized." is Destroyman III riffing on the "Every copy of Super Mario 64 is personalized" craze that somehow landed itself on a Deepwoken iceberg, which was covered by Agamatsu.
 -   Destroyman III plays Super Mario Brothers apparently.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion or will be unable to pay his taxes and is currently on the run from the Megalodaunt IRS.
@@ -169,6 +170,6 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official. (The apparent puzzle seems to be a reference to the library puzzle in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md))
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
 -   This page has the most trivia of any page on the wiki currently.
--   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III)
+-   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III). He is everywhere.
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
--   The line "A felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
+-   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
