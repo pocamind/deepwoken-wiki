@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 79161
+revid: 79163
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -111,6 +111,8 @@ Ferryman is the most "boss-like" Boss in the entire game, as he is not an entity
 The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in almost every stat, gaining more speed, attack, health, and reducing time between attacks and time to hit him by about 20% per player.
 
 Each section describing the phases explains in great detail how to deal with his moves in each respective phase.
+
+Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be lost if hit by Ferryman's minions; only his direct damage (e.g. lightning assault, javelins, etc.) counts against it.
 
 **In General:**
 

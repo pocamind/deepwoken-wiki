@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 78967
+revid: 79170
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -122,7 +122,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td>End</td>
   <td>Writing?</td>
   <td>End</td>
-  <td>End</td>
+  <td>Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
   <td>End</td>
   <td>End</td>
   <td>Ah, good deal. Come my way if you come across any more of these things-they're fascinating.</td>
@@ -140,7 +140,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td rowspan="2"></td>
   <td>*She gives a thin smile. * Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the Lightkeepers. We aren't there yet.</td>
   <td></td>
-  <td></td>
+  <td>End</td>
   <td></td>
   <td></td>
   <td>End</td>
