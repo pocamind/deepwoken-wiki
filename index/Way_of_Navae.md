@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 77574
+revid: 79151
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]

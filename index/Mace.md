@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 78913
+revid: 79140
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -27,13 +27,10 @@ categories: [Weapons, Clubs]
 
 ## Description
 
-The **Mace** is a Medium weapon that does blunt damage, it is sold at the Weaponry store at Etris. It's an early-game Medium Weapon. It is somewhat common to find. It has 20 Base Damage and 5 Medium Weapon scaling.
-
-## Notes
-
--   Obviously superior compared to the [Messer](Messer.md).
--   Good for fighting [Golems](Rock_Golem.md) early on due to the lack of blunt damage resistance.
+The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at Etris. It's an early-game Medium Weapon. It is somewhat common to find. It has 20 Base Damage and 5 Medium Weapon scaling.
 
 ## Trivia
 
+-   Obviously superior compared to the [Messer](Messer.md).
+-   Good for fighting [Golems](Rock_Golem.md) early on due to the lack of blunt damage resistance.
 -   The swing animations for this and the [Sacred Hammer](Sacred_Hammer.md) seem to reuse some of the old Sword animations from Deepwoken testing (around mid-late 2020)

@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 72069
+revid: 79146
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]

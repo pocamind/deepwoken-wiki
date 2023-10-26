@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 76734
+revid: 79136
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -38,19 +38,11 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 #### Attunement Types/Effects
 
--   Flamewreathed - Applies Burn on hit. Can additionally proc [Lava Serpent](Flamecharm.md) effects.
--   Frostmantle - Applies Chilled on hit. Places Ice beneath hit players.
--   Galeforced - Applies Winded and/or Suffocation on hit. Deals Extra Knockback.
--   Thunderstruck - Applies Electrified on hit.
--   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage.
-
-#### Attunement Weaknesses/Resistances
-
--   Flamewreathed - (Weakness, Galebreathe) (Resist, Flamecharm)
--   Frostmantle - (Weakness, Flamecharm) (Resist, Frostdraw)
--   Galeforced - (Weakness, Frostdraw) (Resist, Galebreathe)
--   Thunderstruck - (Weakness, Frostdraw) (Resist, Thundercall)
--   Shadowmelded - (Weakness, All Attunements) (Resist, Basic Attacks)
+-   Flamewreathed - Applies Burn on hit, can additionally proc [Lava Serpent](Flamecharm.md) effects. Weak to Galebreathe, resists Flamecharm.
+-   Frostmantle - Places Ice and applies Chilled on hit. Weak to Flamecharm, resists Frostdraw.
+-   Galeforced - Applies Winded and/or Suffocation on hit, deals Extra Knockback. Weak to Frostdraw, resists Galebreathe
+-   Thunderstruck - Applies Electrified on hit. Weak to Frostdraw, resists Thundercall
+-   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage. Weak to attunements, resists basic attacks.
 
 Humanoid Monsters cannot be Attuned. Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
 
