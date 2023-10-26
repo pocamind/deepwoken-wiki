@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 78965
+revid: 79204
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -99,7 +99,7 @@ _The Lord Regent, sitting atop his throne of coral._
     -   However, the one informing the protagonist is a Shadowcaster, who may well be linked to the Ministry. As such, this information should be considered fallible.
 -   File:RagsHonestReaction.png
     
-    Ragoozer after being asked 'was the old king of etris also buffed by the throne?'
+    Ragoozer after being asked 'was the old king of Etris also buffed by the throne?'
     
     When Ragoozer was asked if he was also strengthened by the throne, his reaction was:
 
@@ -378,7 +378,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 ### **Korilfiend**
 
--   The Drowned God of Fire and creator of the Forge of Sin
+-   The Drowned God of Fire and creator of the Forge of Sin.
 -   The Temple of The Forgotten Flame was dedicated to him and housed the Forge.
 -   There is a legendary ring that has some influence with Korilfiend, being the **Deepfire ring.** However it's not known what relation has these rings with the Drowned God.
 -   His physical body is found in the Third Layer.
@@ -386,7 +386,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   This garden contains meteor flowers, which are seen as a part of him.
     -   He takes the form of a large fiery serpent.
 -   One of the meteor flowers was eaten by Black Diver Amorus Pleeksty.
--   (Ragoozer) Confirmed to be male.
+-   Confirmed to be male.
 
 ### **Drowned Gods**
 

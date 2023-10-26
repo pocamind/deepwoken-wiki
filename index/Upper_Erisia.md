@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 76279
+revid: 79201
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -42,7 +42,7 @@ Events that spawn in Upper Erisia that involve combat. For more info, see [Rando
 -   [Deep Owl](Deep_Owl.md)
 -   [Terrapod](Terrapod.md)
 -   [Golden Warrior](Golden_Warrior.md)
--   Etrean Naval Guard vs [Authority Footsoldiers](Authority_Officer.md)
+-   [Etrean Soldiers](Etrean_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
 -   [Legion Soldiers](Legion_Soldier.md) vs [Authority Footsoldiers](Authority_Officer.md)
 -   [Knives of Eylis](Knife_of_Eylis.md)
 

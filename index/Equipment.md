@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 79162
+revid: 79175
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Equipment, Armors, Outfits]
 
 # Equipment
 
-An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for cosmetic purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md)
+An essential mechanic in Deepwoken, primarily used to resist damage from most sources, while also giving many different benefits. Though it can also be used for cosmetic purposes. If you're looking for Armor as in Outfits, then go to [Outfits](Outfits.md).
 
 ## Overview
 

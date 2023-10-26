@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 78898
+revid: 79182
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -98,6 +98,8 @@ Weaponry
 -   A permanent campfire can be found here.
 -   Players can purchase the Weapon Manual (WEP), "How To Make Friends" (CHA), Encyclopedia (INT) for.
 -   Players can purchase the Math Textbook (INT) for.
+
+General store
 
 #### General Store
 

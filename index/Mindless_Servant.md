@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 76388
+revid: 79202
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -32,7 +32,11 @@ A Mindless Servant's arsenal only consists of their hands:
 | --- | --- |
 | Jugular Slice | Pins down opponent before slicing their throat with their thumbnail. |
 
+## Tips
+
+-   May become extremely difficult to fend off if you have no block breaking mantras, and have 5-6 of them on you, as they have no anti-NPC teaming AI, so they will all hit you relentlessly, along with [Duke Erisia](Duke_Ishamon_Erisia.md).
+-   As they can be hit by one another, baiting Duke Erisia into hitting them can help with crowd control.
+
 ## Trivia
 
 -   Mindless Servants have the same AI as [Mudskippers](Mudskipper.md).
--   May become extremely difficult to fend off if you have no block breaking mantras, and have 5-6 of them on you, as they have no anti-NPC teaming AI, so they will all hit you relentlessly.

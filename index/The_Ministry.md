@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 75865
+revid: 79203
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -39,7 +39,7 @@ Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you 
 
 ## Notable Members
 
--   [The Lord Regent](The_Lord_Regent.md) (Acts as King of [Etris](Etris.md))
+-   The [Lord Regent](The_Lord_Regent.md) of [Etris](Etris.md)
 -   [Cestis](Cestis.md)
 -   The Stranger
 -   [Nostor, Master of Shadow](Attunement_Trainers.md)

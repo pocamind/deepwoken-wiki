@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 78958
+revid: 79193
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -8,7 +8,7 @@ categories: [Items, Outfits]
 
 # Justicar's Armor
 
-Template:ArmorInfobox**Justicar's Armor** or Lightkeeper is a Master [Outfit](Outfits.md) in _Deepwoken_.
+Template:ArmorInfobox**Justicar's Armor** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 
@@ -42,5 +42,5 @@ This Outfit's Schematic can be found in:
     -   This was later nerfed to 35% but given 100% ether regen.
     -   It was then gutted to 30% physical resistance but given an additional 5% blunt armor.
     -   This was most likely due to non-Jus Karita users using the armor more than actual [Jus Karita](Jus_Karita.md) users.
--   Previously used to be called '' Lightkeeper ''
+-   Previously used to be called '' Lightkeeper''
 -   Probably the rarest armor in the game

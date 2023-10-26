@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 76533
+revid: 79172
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -26,7 +26,7 @@ Currently, there are **3** NPCs that can join your Guild Base (particularly in t
 -   The [Barber](Barber.md), which can be hired after getting 6+ rooms for Notes.
 -   The [Antiquarian](Antiquarian.md), which can be hired after getting 9+ rooms for Notes.
 
-The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase.
+The Leader/Officers may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase.
 
 The pricing list is as follows: (Assuming you have the Treasurer)
 
