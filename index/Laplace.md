@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 71987
+revid: 79223
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -8,7 +8,7 @@ categories: [World, NPCs]
 
 # Laplace
 
-“ ooooo aaaaahah hic waaaaa ”
+“ my life be like oooo aaaaa oooo ahh ”
 
 ― Enchant traders on 9/19/22
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 79208
+revid: 79232
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -47,7 +47,7 @@ The Summer Isle's main attractions are the firearms, which can be found inside t
 Notes:
 
 -   They're currently the only known weapons to have a critical attack that travels a long distance. (other than rifles or stormbreaker enchanted weapons)
--   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating five bullets.
+-   Bullets can be purchased for five notes each, or they by crafted anywhere with one iron, creating ~5 bullets~ now is 20 bullets per iron.
 -   Firearms also come with an off-hand variant allowing you to dual wield firearms, or use a different weapon with one.
 -   Firearms can be parried, blocked, and dodged like all normal attacks.
 
