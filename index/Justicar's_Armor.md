@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 79193
+revid: 79254
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 This Outfit has 2800 durability and grants +30% Physical Armor, +30% Elemental Armor, +5% Ice Armor, +5% Blunt Armor, +5% Shadow Armor and 20% Ether Regen.
 
-This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which increases [Jus Karita](https://deepwoken.fandom.com/wiki/Fists#Jus_Karita) damage by 15%.
+This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which increases [Jus Karita](https://deepwoken.fandom.com/wiki/Fists#Jus_Karita) damage by 20%
 
 ## Location
 
@@ -42,5 +42,4 @@ This Outfit's Schematic can be found in:
     -   This was later nerfed to 35% but given 100% ether regen.
     -   It was then gutted to 30% physical resistance but given an additional 5% blunt armor.
     -   This was most likely due to non-Jus Karita users using the armor more than actual [Jus Karita](Jus_Karita.md) users.
--   Previously used to be called '' Lightkeeper''
--   Probably the rarest armor in the game
+-   Previously used to be called "Lightkeeper."

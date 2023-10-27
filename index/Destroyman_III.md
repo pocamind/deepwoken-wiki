@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 79217
+revid: 79255
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -56,7 +56,6 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   HINT: The sorcerer has harmed me once more.
 -   HINT: The strength of the Megurger comes from the concept, not the physical object.
 -   HINT: This game is awful. The developers really suck.
--   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
 -   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
 -   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
 -   I could end you in one hit if I really wanted to. Watch your back.
@@ -68,7 +67,6 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   If you don't feed me, I will die. Can you live with that guilt?
 -   If you thought the rumbling was bad, wait until you hear about taxes.
 -   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking.
--   If you were hoping you could uninstall me, I have bad news.
 -   Just wait until I'm freed from the coil of your monitor.
 -   Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
 -   MISSION: Determine if it's possible to prompt the sun to explode.
@@ -141,6 +139,11 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Issues, Much?
 -   Could've talked it out. Jeez.
 -   I like to relieve my stress by taking a walk. Try that instead of killing.
+
+## Removed Quotes
+
+-   If you were hoping you could uninstall me, I have bad news.
+-   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
 
 ## Trivia
 

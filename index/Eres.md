@@ -1,6 +1,6 @@
 ---
 title: Eres
-revid: 72149
+revid: 79258
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-An [Etrean](Etrean.md) found in the settlement on [Meteor Isle](Meteor_Isle.md), Eres was part of an Etrean Navy unit that was captured by the [Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war. He also talks about his relationship with Sekh, a [Vesperian](Vesperian.md) [Hive scout](Hive_Scout.md) who also resides on Meteor Isle.
+An [Etrean](Etrean.md) found in the settlement on [Meteor Isle](Meteor_Isle.md), Eres was part of an [Etrean Navy](Etrean_Soldier.md) unit that was captured by [The Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war. He also talks about his relationship with Sekh, a [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) who also resides on Meteor Isle.
 
 ## Dialogue
 
@@ -290,7 +290,7 @@ It is possible to unlock unique dialogue with Eres if you have already spoken to
 -   Eres' racial variant appears to be Mamba, with black hair, red irises and yellow sclera.
 -   Based on Eres' story, some of the [Etrean prisoners](Etrean_Guardsman_Hostage.md) in Fort Merit that the player can rescue may be his friends.
     -   However, it is equally likely that - as Eres fears - his friends have already been executed and the Etreans in Fort Merit are from a different unit.
--   Eres' prayer [references](Lore.md) a "king", who could be the Fifth King of Etrea - Eres asks for help resisting the "ocean's call", and it is said that the Fifth King could cut through the waves themselves. Finally, the prayer references "clouded sight", which could be the [Lord Regent](The_Lord_Regent.md)'s mental veil.
+-   Eres' prayer [references](Lore.md) a "king", who could be the Fifth King of Etrea - Eres asks for help resisting the "ocean's call", and it is said that the Fifth King could cut through the waves themselves. Finally, the prayer references "clouded sight", which could be [The Lord Regent](The_Lord_Regent.md)'s mental veil.
     -   However, it would be bizarre for this to be the case, as it would imply a prayer about resisting their current leader somehow became common among the people, despite the Lord Regent controlling the flow of information.
     -   It is likely that despite his distance from Etrea, Eres is still under the influence of the Lord Regent's veil, as the only recorded case of this veil being broken resulted in the veiled one's brutal death.
         -   Given Inquisitor Lotus' description of Authority Mind Veils, and Zi'eer's being a more powerful variant, this is most likely the case, unless the Lord Regent traded the range of the Veil in exchange for it's ability to affect multiple people.

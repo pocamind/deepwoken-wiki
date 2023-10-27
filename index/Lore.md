@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 79210
+revid: 79260
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -453,7 +453,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore sources:** _Sudaruska Soul, Gran Sudaruska Description_
 
--   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.
+-   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 
@@ -790,7 +790,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   The Ministry have much more importance to the lore and events to take place later on due to their newfound connections to the Depths Voices, and perhaps a bigger threat against the Luminants.
 -   Essentially enemies with every major faction in the game until proven otherwise.
--   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'
+-   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[8\]](#cite-note-gran-8)
 -   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by the [Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated. Due to receiving reputation points occasionally for doing his assassinations with them.
 -   The book _Stars Above and the Blade Between_ implies they were involved in the King of Etrea's disappearance.
@@ -843,15 +843,16 @@ A Dark Mage, located in Minityrsa.
 -   **Enemies:** _The Summer Company, The Divers_, _The Ministry File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description),_
 
--   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[8\]](#cite-note-dsgs-8) and Railblade[\[9\]](#cite-note-railblade-9).
+-   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[9\]](#cite-note-dsgs-9) and Railblade[\[10\]](#cite-note-railblade-10).
 -   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, falling behind in Layer 1 compared to the Divers, but exceeding in Layer 2, where they managed to create an outpost long before The Diver arrived there.
--   The Darksteel Greatsword[\[8\]](#cite-note-dsgs-8), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
+-   The Darksteel Greatsword[\[9\]](#cite-note-dsgs-9), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
 -   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there still strong Deepdelvers such as Colonel Hoffa.
 -   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
--   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[10\]](#cite-note-alpha-10) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[2\]](#cite-note-arch-2)
+-   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[11\]](#cite-note-alpha-11) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[2\]](#cite-note-arch-2)
+    -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
 
 ### The Central Authority
 
@@ -905,13 +906,13 @@ An Authority Captain
 -   **Enemies:** _The Kingdom of Etrea_
 -   **Lore Sources:** _Regek_
 
--   They are lead various Hivelords that act under a Greatlord.[\[11\]](#cite-note-yaya-11)
+-   They are lead various Hivelords that act under a Greatlord.[\[12\]](#cite-note-yaya-12)
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
-    -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[11\]](#cite-note-yaya-11)
+    -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
     -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysid residing within the Hive, this is because most of the Chrysid were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysid wanted, most of them decided to leave the Hive, but still some Chrysid believed in the Hive and decided to stay.
     -   Their previous home, or some soft of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
-    -   Despite the impressive nature of the Aratel Constructs, these are outdated models, the superior ones reserved for more advanced Greathives.[\[11\]](#cite-note-yaya-11)
+    -   Despite the impressive nature of the Aratel Constructs, these are outdated models, the superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
 -   Currently at war with Etris, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for Lord Regents own interests.
 -   Apparently the Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
@@ -1362,7 +1363,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 **Lore Sources:** _Regek (Mentioned), The Lament of Cirryn_
 
--   Individuals of The Hive who utilize the Song to manipulate life itself, leading to the construction of the four Greathives, such as [Greathive Aratel](Greathive_Aratel.md).[\[11\]](#cite-note-yaya-11)
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading to the construction of the four Greathives, such as [Greathive Aratel](Greathive_Aratel.md).[\[12\]](#cite-note-yaya-12)
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
@@ -1468,7 +1469,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
         -   This is only appearance by surface - the true nature and goal of Klaris is yet to be revealed.
 -   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Krysan Medallions to Klaris.
     -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order banish darkness from the world.
--   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[11\]](#cite-note-yaya-11)
+-   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[12\]](#cite-note-yaya-12)
 
 ### **Silentheart**
 
@@ -2118,7 +2119,8 @@ Talking Mudskippers
 5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 6.  ↑ [6.0](#cite-ref-stormseye-6-0) [6.1](#cite-ref-stormseye-6-1) [6.2](#cite-ref-stormseye-6-2) [Stormseye](Stormseye.md) description
 7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [Yamaketzal](Yamaketzal.md)
-8.  ↑ [8.0](#cite-ref-dsgs-8-0) [8.1](#cite-ref-dsgs-8-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
-9.  [↑](#cite-ref-railblade-9-0) [Railblade](Railblade.md) description
-10.  [↑](#cite-ref-alpha-10-0) [Alpha](Alpha.md)
-11.  ↑ [11.0](#cite-ref-yaya-11-0) [11.1](#cite-ref-yaya-11-1) [11.2](#cite-ref-yaya-11-2) [11.3](#cite-ref-yaya-11-3) [11.4](#cite-ref-yaya-11-4) Developer yayafino
+8.  ↑ [8.0](#cite-ref-gran-8-0) [8.1](#cite-ref-gran-8-1) [Gran Sudaruska](Gran_Sudaruska.md) description
+9.  ↑ [9.0](#cite-ref-dsgs-9-0) [9.1](#cite-ref-dsgs-9-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
+10.  [↑](#cite-ref-railblade-10-0) [Railblade](Railblade.md) description
+11.  [↑](#cite-ref-alpha-11-0) [Alpha](Alpha.md)
+12.  ↑ [12.0](#cite-ref-yaya-12-0) [12.1](#cite-ref-yaya-12-1) [12.2](#cite-ref-yaya-12-2) [12.3](#cite-ref-yaya-12-3) [12.4](#cite-ref-yaya-12-4) Developer yayafino
