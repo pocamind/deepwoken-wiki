@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 79240
+revid: 79273
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -58,7 +58,7 @@ Up to nine NPCs are in this event.
 
 One of the only places that will never burn in the Etris Raid Event is [Lord Regents](The_Lord_Regent.md) Palace.
 
--   The war spans from Etris Docks to Etris itself. That means the Children of Navae will also most likely take part in the event, attacking both the Authority and the Etrean NPCS. However, due to their low power, they will easily die.
+-   The Children Of Navae will not target Etreans as of now and will target Central Authority.
 
 -   In a nutshell, the lore behind this event is the Central Authority trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).
 

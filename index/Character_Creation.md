@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 77824
+revid: 79264
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -90,7 +90,7 @@ Here is what makes Etris unique:
 
 ### [Isle of Vigils](Isle_of_Vigils.md)
 
-The Isle of Vigils is a small island with a fortress guarded by [Vigils](Blade_Temple_Guard.md) with [Katanas](Katana.md). The [antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food. It is recommended for starters as it has an NPC that allows you to get better at combat and it is easier to get to [Erisia](Erisia.md) from the docks.
+The Isle of Vigils is a small island with a fortress guarded by [Vigils](Blade_Temple_Guard.md) with [Katanas](Katana.md). The [Antiquarian](Antiquarian.md) is lower down at the bank and near the docks you can find Lance's food. It is recommended for starters as it has an NPC that allows you to get better at combat and it is easier to get to [Erisia](Erisia.md) from the docks.
 
 Here is what makes the Isle of Vigils unique:
 
@@ -99,7 +99,7 @@ Here is what makes the Isle of Vigils unique:
 -   A quest to get the [Weapon Unbound](Attributes_Unbound.md) cards.
 -   More dense in food materials, however has less overall.
 
-### [Lone Warrior](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior)
+### [Lone Warrior](Origins.md#lone-warrior)
 
 The Lone Warrior [Origin](Origins.md) is unlocked on all slots upon reaching the halfway point in the [Trial of One](Trial_of_One.md), that being the [Thresher](Thresher.md).
 
@@ -109,11 +109,11 @@ Here is what makes the Lone Warrior [Origin](Origins.md) unique:
 -   The [Trial of One](Trial_of_One.md) greatly speeds up progression, allowing players to reach [Power](Power.md) 6 in ~20 minutes or less.
 -   For more information, visit the [Trial of One](Trial_of_One.md) page.
 
-### [Deepbound](https://deepwoken.fandom.com/wiki/Origins#Deepbound)
+### [Deepbound](Origins.md#deepbound)
 
 The Deepbound [Origin](Origins.md) is unlocked on all slots after talking to [Akira](Akira.md) about joining [The Divers](The_Divers.md) in [Castle Light](Castle_Light.md).
 
-Here is what makes the [Deepbound Origin](https://deepwoken.fandom.com/wiki/Origins#Deepbound) unique:
+Here is what makes the [Deepbound Origin](Origins.md#deepbound) unique:
 
 1.  Gain innate [Talent](Talents.md) 'Deepbound Contract' upon spawning in.
     -   Said [Talent](Talents.md) gives increased EXP gain [The Depths](The_Depths.md), but heavily reduced in The Etrean Luminant.
@@ -124,13 +124,13 @@ Here is what makes the [Deepbound Origin](https://deepwoken.fandom.com/wiki/Orig
 5.  The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md), killing it will take a very large amount of skill and 10+ minutes.
 6.  You cannot do the [Trial of One](Trial_of_One.md).
 
-### [Voidwalker](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
+### [Voidwalker](Origins.md#voidwalker)
 
-The [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Origins#Voidwalker) is unlocked on all slots upon getting 15 player grips, and talking to Eylis using the second dialogue option in the cargo hold of a ship in the Etrean Naval Guards versus [Knives of Eylis](The_Knives_of_Eylis.md) [event](https://deepwoken.fandom.com/wiki/The_Aratel_Sea#Enemies_and_Encounters) in the [Aratel Sea](The_Aratel_Sea.md). After using the second dialogue option with Eylis, run through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
+The [Voidwalker Origin](Origins.md#voidwalker) is unlocked on all slots upon getting 15 player grips, and talking to Eylis using the second dialogue option in the cargo hold of a ship in the [Etrean Soldiers](Etrean_Soldier.md) versus [Knives of Eylis](The_Knives_of_Eylis.md) [event](The_Aratel_Sea.md#enemies-and-encounters) in [The Aratel Sea](The_Aratel_Sea.md). After using the second dialogue option with Eylis, run through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
 
-Here is what makes the [Voidwalker Origin](https://deepwoken.fandom.com/wiki/Origins#Voidwalker) unique:
+Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
 
--   Your starting Island is the [Voidheart](Voidheart.md), an Island only accessible through being a [Voidwalker](https://deepwoken.fandom.com/wiki/Origins#Voidwalker).
+-   Your starting Island is the [Voidheart](Voidheart.md), an Island only accessible through being a [Voidwalker](Origins.md#voidwalker).
 -   Gain innate [Talent](Talents.md) 'Voidwalker Contract'
     -   Increased EXP gain from Bounties, but reduced EXP gain from Events.
     -   You start with negative reputation towards most factions.

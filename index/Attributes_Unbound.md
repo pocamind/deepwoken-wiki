@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 79256
+revid: 79274
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -105,7 +105,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
 9.  Complete the dungeon styled area and defeat [The Duke](Duke_Ishamon_Erisia.md) to obtain the according unbound card.
 
-\*Alternatively, reaching 75 in any Attunement and then defeating any humanoid boss (Zi Tao Ng) can also uncap it.
+\*Alternatively, reaching 75 in any Attunement and then defeating any humanoid boss (Duke, Ferryman, and Chaser) can also uncap it.
 
 ## Notes
 

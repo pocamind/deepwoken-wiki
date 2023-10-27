@@ -1,6 +1,6 @@
 ---
 title: Towerstruck Lands
-revid: 76313
+revid: 79265
 source: https://deepwoken.fandom.com/wiki/Towerstruck_Lands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -39,6 +39,6 @@ Events that spawn in the Towerstruck Lands that involve combat. For more info, s
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Trivia/Notes
+## Trivia
 
 -   Take caution in this area while using a [Glider](Gliders.md), as acid rain can start abruptly and cause you to fall.
