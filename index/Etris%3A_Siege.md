@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 75537
+revid: 79240
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -20,39 +20,29 @@ Also referred to as, "Etris Raid Event", "[Etris](Etris.md) vs Authority Raid Ev
 
 ## Description
 
-The Etris siege event is a large event in which [Authority NPC's](The_Central_Authority.md) will invade Etris, signified by a large number of flames spouting from various buildings in the area.
+The siege of Etris is a large event in which [the Authority](The_Central_Authority.md) makes its way into the heart of [Etrea](Etrea.md), the city of [Etris](Etris.md).
 
-At the beginning of the event, various buildings will explode into flames, signified by a very loud explosion, as the flames crawl up towards the center of the city, [Authority guards](Authority_Peacekeeper.md) will rise up from the Etris docks, slowly making their way up to the main town of Etris while fighting off [Etrean Guards](Etrean_Guardsmen.md) in rapid succession. As the fight rages on, the clouds will make room for ash, smog, and smoke, darkening the sky until the inevitable end of the war. Etrean guards and footsoldiers are all around Etris, fighting off the Authority.
+At the beginning of the event, [Seraphina](Seraphina.md) talks about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion rings throughout the island. Slowly, the Authority crawls up into the city of Etris, causing more and more havoc to break out.
 
-  
+Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will specifically target an Authority Commander. [Nell](Nell,_Master_of_Frost.md), unless provoked by the Authority, will proceed to assist Etrea in the siege as well.
 
-If you or other players decide to help [Etris](Etris.md), and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city center at The Tree, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), and Rare Rings.
+If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
 
-[Polis](Polis.md), The [Jus Karita](https://deepwoken.fandom.com/wiki/Fists#Jus_Karita) Trainer will aid in the Event, usually found fighting off the [Authority Commander](<Authority_Commander_(Enemy).md>). He can be found using the [Rapid Punches](Attunement-less.md) mantra. Speaking to him will provide unique dialogue: ''Ah, if it isn't the hero of Etrea. How goes your wary travels?
+## Types of NPCs
 
-During the Etris Raid, Lord Regent's [Royal Guards](<Etrean_Royal_Guard_(Enemy).md>) will assist Etris to fight off the Central Authority.
+Up to nine NPCs are in this event.
 
-### Potential enemies:
-
-\- [Etrean Guardsmen](Etrean_Guardsmen.md)
-
-\- Etrean Naval Guards
-
-\- [Etrean Royal Guards](<Etrean_Royal_Guard_(Enemy).md>)
-
-\- [Etrean Swordsmen](Vigil_Swordsman.md)
-
-\- [Polis](Polis.md)
-
-\- [Nell](Nell,_Master_of_Frost.md) (If the Authority NPCS get close enough to her while in a fight)
-
-\- [Authority Peacekeeper](Authority_Peacekeeper.md)
-
-\- [Authority Solider](Authority_Soldier.md)
-
-\- [Authority Officer](Authority_Officer.md)
-
-\- [Authority Commander](Authority_Commander.md)
+| Faction | Enemy |
+| --- | --- |
+| [Etrea](Etrea.md) | [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) |
+| [Etrea](Etrea.md) | Etrean Naval Guard |
+| [Etrea](Etrea.md) | [Etrean Guard](Etrean_Guardsmen.md) |
+| [Etrea](Etrea.md) | [Polis](Polis.md) |
+| [Authority](The_Central_Authority.md) | [Authority Commander](<Authority_Commander_(Enemy).md>) |
+| [Authority](The_Central_Authority.md) | [Authority Officer](Authority_Officer.md) |
+| [Authority](The_Central_Authority.md) | [Authority Soldier](Authority_Soldier.md) |
+| [Authority](The_Central_Authority.md) | [Authority Peacekeeper](Authority_Peacekeeper.md) |
+| [The Divers](The_Divers.md) | [Nell](Nell,_Master_of_Frost.md) |
 
 ## Trivia
 

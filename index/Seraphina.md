@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 78996
+revid: 79233
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -16,6 +16,8 @@ categories: [NPCs]
 ## Description
 
 Seraphina is a [Capra](Capra.md) at [Etris Docks](Etris_Docks.md) that teaches new players about the mechanics of the game. She is very similar to [Bari](Bari.md) in the sense that she does this, but she is slightly better than him due to the fact that she gives you the recipe for a repair kit and he does not.
+
+She will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned.
 
 ## Dialogue
 

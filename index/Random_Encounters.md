@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 78950
+revid: 79239
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -27,7 +27,7 @@ The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a r
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Scouts, Authority Footsoldiers, Authority Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
-Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings and the only source of [Justicar](<Justicar_(Origin).md>) armor schematic.
+Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of two sources of the [Justicar](<Justicar_(Origin).md>) armor schematic. (Ferryman chests also include the [Justicar](<Justicar_(Origin).md>) schematic, albeit very rarely)
 
 During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's Winter.
 
@@ -61,7 +61,7 @@ An encounter limited to Erisia, can happen during any season, contrary to the po
 
 #### **Raid on Erisor's Church**
 
-A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left.
+A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left. You can also get the event chest just by pushing the left villager NPC out of the view of the bandits, and then speaking to them (This will only work if the bandits have spawned, and the villager hasn't noticed the bandits)
 
 #### **Golden Warrior**
 
@@ -69,7 +69,7 @@ A fighter hailing from The Rat's Den, recognizable by his gold armor (not to be 
 
 #### **Hobo**
 
-The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests. If you open one of their chests (you don't have to take the loot), they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned.
+The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests. If you open one of their chests (you don't have to take the loot), they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned. The Hobo also uses the old AI of the Flamecharmer Monk.
 
 #### **Pathfinders**
 

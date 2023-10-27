@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 77754
+revid: 79241
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -303,3 +303,4 @@ Critical
 -   The Meteorskipper comes from meteors, which therefore means resides in space. Take this as you will.
 -   Corrupted mudskippers can spawn in the depths.
 -   Corrupted mudskippers do not pose much of a threat they still do little damage.
+-   Mudskippers punch their enemy with light attacks, much like Nautillodaunts.
