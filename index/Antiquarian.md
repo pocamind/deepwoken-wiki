@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 77654
+revid: 79401
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
@@ -28,6 +28,7 @@ They can be found in:
 -   [Castle Light](Castle_Light.md) (but only people with the [Deepbound Origin](Origins.md) can interact with them)
 -   [Fort Merit](Fort_Merit.md)
 -   [Voidheart](Voidheart.md) (next to the spawn, opposite side of the [bounty board](Bounty_Hunting.md)).
+-   [The Floating Keep](The_Floating_Keep.md)
 
 ## Prices
 

@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 59346
+revid: 79406
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, World, Vendors]
@@ -20,7 +20,7 @@ Template:NPC name
 
 ## Overview
 
-Mantra Collectors are NPCs that purchase Mantra Modifiers for cheap prices. They are all [Canor](Canor.md) that speak in broken English, and refer to [Notes](Notes.md) as sand dollars.
+Mantra Collectors are NPCs that purchase Mantra Modifiers for cheap prices. They are mostly [Canor](Canor.md) (with the exception of Leaf, being the only [Lightborn](Lightborn.md)) that speak in broken English, and refer to [Notes](Notes.md) as sand dollars.
 
 They can be typically found on the Surface in:
 
@@ -30,6 +30,7 @@ They can be typically found on the Surface in:
 -   [Greathive Aratel](Greathive_Aratel.md), Schnitzel will be (located).
 -   [Voidheart](Voidheart.md), Croissant will be on a rug in front of the bookshelves, close to the [Antiquarian](Antiquarian.md).
 -   [Miner's Landing](<Miner's_Landing.md>), Schnitzel will be on a rug near the mantra shop and [Maedhran](Maedhran.md)
+-   [The Floating Keep](The_Floating_Keep.md), Leaf
 
 ## Prices
 
@@ -70,7 +71,6 @@ Mantra Collectors can purchase your [Mantra Modifiers](Mantra_Modifiers.md) for 
 ## Trivia
 
 -   Most of them are named after German meat dishes.
-    -   They are all Canor, which have German roots.
     -   Schnitzel is a thin slice of meat, which is usually breaded then fried.
     -   Hotdog refers to a sausage in a bun.
     -   Cumberland may refer to a type of sausage.

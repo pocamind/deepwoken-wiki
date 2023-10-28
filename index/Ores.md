@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 77568
+revid: 79404
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -149,3 +149,4 @@ A dark blue neon ore found in The Depths, specifically the Varicosa District in 
 -   All ores other than rocks can be sold, and most pure ores can be converted into 3x of their normal counterpart through crafting. They're also typically sold at 3x the normal amount.
 -   Every ore can be eaten with Termite except for Umbrite and Astruline.
 -   Mining ores mainly gives Strength EXP but is one of the harder ways to do so. The easiest way is to use a Dumbbell that you buy in either voidheart or in Antiquarian etrea can also be bought as a deepbound in depths.
+-   The old gold, coal, and iron models can be seen at [The Floating Keep](The_Floating_Keep.md)

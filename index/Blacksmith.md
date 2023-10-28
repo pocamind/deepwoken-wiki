@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 76713
+revid: 79416
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Armors]
@@ -10,11 +10,11 @@ categories: [World, NPCs, Armors]
 
 | Blacksmith | |
 |---|---|
-| location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Castle Light |
+| location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Castle Light, The Floating Keep |
 
 ## Description
 
-The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md) and even [Castle Light](Castle_Light.md).
+The Blacksmiths are stationary NPCs found in towns such as [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Summer Isle](Summer_Isle.md), [Greathive Aratel](Greathive_Aratel.md), [Fort Merit](Fort_Merit.md), [Castle Light](Castle_Light.md), and [The Floating Keep](The_Floating_Keep.md).
 
 When interacting with a blacksmith, you get two options. To hand in ores, and to craft an armor.
 

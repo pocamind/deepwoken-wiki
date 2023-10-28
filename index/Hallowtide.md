@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 77554
+revid: 79396
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -23,7 +23,7 @@ categories: [World, Events]
 
 Hallowtide is an event that first started on Halloween Night of 2022, and ended on November 13th 2022.
 
-It is returning this year on October 27th. The first Hallowtide added...
+It returned this year on October 27th. The first Hallowtide added...
 
 -   [The Floating Keep](The_Floating_Keep.md)
 -   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
@@ -94,40 +94,62 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="7">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*<i>A lone pumpkin sits idle on the grass. When did this get here? This seems out of place. It sounds like it's whispering.</i>*</td>
+  <td colspan="7">*A lone pumpkin sits idle upon the grass. When did this get here? This seems out of place. It sounds like it's whispering.*</td>
 </tr>
 <tr>
-  <td colspan="12">[Reach out to touch it]</td>
+  <td colspan="6">[Reach out to touch it]</td>
+  <td>End</td>
 </tr>
 <tr>
-  <td colspan="12">*<i>With a sudden crackle, the little pumpkin springs to life.</i> <b>OI! YOU! You dare approach me... upon the eve of Hallowtide?!</b></td>
+  <td colspan="6">*With a sudden crackle, the little pumpkin springs to life.* OI! YOU! You dare approach me... upon the eve of the Hallowtide?!</td>
 </tr>
 <tr>
-  <td colspan="4">Hallowtide?</td>
-  <td colspan="4">You can talk?</td>
+  <td colspan="3">Hallowtide?</td>
+  <td>You can talk?</td>
+  <td>End</td>
 </tr>
 <tr>
-  <td colspan="4"><b>THE COMING OF SCARES! The season of mischevious Joy! I did scare you, right? Did I do good? I depend on such validation for the sake of my self-confidence.</b></td>
-  <td colspan="4"><b>What? you've never seen a talkin' pumpkin? Oh, I used to know a real mean one. His name started with a Z, I think. But that doesn't matter, all of us called him the Big Cheese anyway. Real scary guy. We lost him last Hallowtide.</b></td>
+  <td colspan="3">THE COMING OF SCARES! The season of mischevious Joy! I did scare you, right? Did I do good? I depend on such validation for the sake of my self-confidence.</td>
+  <td>What? You've never seen a talkin' pumpkin? Oh, I used to know a real mean one. His name started with a Z, I think. But that doesn't matter, all of us called him the Big Cheese anyway. Real scary guy. We lost him the Hallowtide before last.</td>
 </tr>
 <tr>
-  <td colspan="4">..Yes?</td>
-  <td colspan="4">Hallowtide? (See previous option for the same answer)</td>
+  <td colspan="2">..Yes?</td>
+  <td>End</td>
+  <td>Hallowtide?</td>
 </tr>
 <tr>
-  <td colspan="12"><b>WONDERFUL! Then we shall begin the festivities immediately. My good friend, he calls himself 'Lysander', is moving into town. Right now, actually.</b></td>
+  <td colspan="2">WONDERFUL! Then we shall begin the festivities immediately. My good friend, he calls himself 'Lysander', is moving into town. Right now, actually</td>
+  <td></td>
+  <td>See first instance</td>
 </tr>
 <tr>
-  <td colspan="12">Moving into town? What are you talking about?</td>
+  <td>Moving into town? What are you talking about?</td>
+  <td>End</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*A large booming sound emits from the sky around you. it seems something large is approaching.*</i> <b>Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</b></td>
+  <td>*<i>A large booming sound emits from the sky around you. It seems something large is approaching.</i>* Kehehe! Once he's fully arrived.. talk to me once more, and we shall celebrate.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+-   Interacting while The Floating Keep is arriving
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>He's coming, he's coming! The Floating Keep is arriving, above us! Talk to me once more upon its arrival...</td>
+</tr>
+<tr>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -137,15 +159,17 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><b>Here we go! Kehehe!</b></td>
+  <td>Here we go! Kehehe!</td>
 </tr>
 <tr>
-  <td colspan="12">End, you are transported to the Floating Keep</td>
+  <td>End, you are transported to the Floating Keep</td>
 </tr>
 </tbody>
 </table>
 
-(An Animation added for The Floating Keep when you speak to the **Hallowtide Caller** for the first time can be seen [here](https://medal.tv/games/roblox/clip/GZLDy76tAXVy-/d1337cA6b9YY?invite=cr-MSxpREIsMjk2MDk5ODMs).)
+## Trivia
+
+-   A gif of the floating keep spawning in can be seen below

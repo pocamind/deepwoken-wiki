@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 79334
+revid: 79408
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -98,3 +98,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
 -   Whenever you try to spook Glaive Spellhardt with a Hallowtide Mask, he doesn't get spooked and instead says: "Oh please."
 -   This location appears in the Battle Royale mode as an "intermission" before the game starts, but there are no Lightborn NPCs
+-   On October 17th, 2023 there used to be a floating gate above the castle. However, it was presumably removed during one of the bug fix updates following the release of Hallowtide
