@@ -1,9 +1,9 @@
 ---
 title: Bloodtide Trident
-revid: 79333
+revid: 79367
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Spears]
 ---
 
 # Bloodtide Trident
@@ -29,8 +29,10 @@ categories: [Weapons]
 
 ## Description
 
-The Bloodtide Trident is a Medium Weapon in the Spear category. It is obtained by getting 100 [Hallowtide](Hallowtide.md) Joy and talking to Glaive Spellhardt, And the Hallowtide infection minigame.
+The Bloodtide Trident is a Medium Weapon in the Spear category. It is obtained by getting 100 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md), And the Hallowtide infection minigame.
 
 ## Trivia
 
 Probably a reference to Spear of Longinus from Evangelion.
+
+This weapon has the same critical as the [Gremorian Longspear.](Gremorian_Longspear.md)

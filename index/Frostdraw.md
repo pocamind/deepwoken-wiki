@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 79115
+revid: 79344
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -162,6 +162,7 @@ _A barrage of freezing blades._
 -   Deals light damage.
 -   Inflicts Chill.
 -   1st and 2nd hit are parryable.
+-   Cancels if parried.
 
  |
 |  | 
@@ -212,7 +213,7 @@ _Conjure and throw weapons of ice._
 
  | Forms a barrage of ice shuriken's before propelling them at the cursor's location.
 
--   Casting Ice Forge on Ice will summon more ice shuriken's.
+-   Casting Ice Forge on Ice will summon more ice shuriken's. (currently bugged)
 -   Rapidly deals light damage.
 -   Inflicts Chill.
 
@@ -253,6 +254,23 @@ _Form an ice spear and lunges forward._
  |
 |  | 
 
+Rising Frost  
+(★★☆)
+
+ | 
+
+_Conjure a glaive of frost and launch your opponents skyward._
+
+ | User conjures a glaive of ice and swings. If you hit an enemy, launch them in the air and slam them down.
+
+-   Doesn't apply chill (may be a bug)
+-   Deals moderate damage
+
+  
+
+ |
+|  | 
+
 Ice Cubes  
 (★★★)
 
@@ -266,12 +284,10 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 -   Deals moderate damage.
 -   Has a good amount of range.
 -   Inflicts Chill.
--   Not compatible with Stratus Stones or Rush Shards.
 
  |
 | [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 
 
-  
 Ice Fissure  
 (★★★)
 
@@ -282,7 +298,6 @@ _Send ice rippling out in a shockwave._
  | Forms a beacon infront of the player.
 
 -   A wave of ice periodically ripples out of the beacon, applying frost damage and pushing back anyone hit.
--   This is a legendary mantra.
 
  |
 

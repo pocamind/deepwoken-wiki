@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 79310
+revid: 79357
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -25,8 +25,8 @@ categories: [Weapons, Greathammers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Widow's Wail Cemetery |
+| obtainment | Widow's Wail CemeteryGlaive Spellhardt [100 Joy] |
 
 ## Description
 
-The Putrid Edenstaff is a [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained in the Widow's Wail Cemetery. The Putrid Edenstaff has a unique grip when using it with one hand. It is currently obtainable. (During [Hallowtide](Hallowtide.md).)
+The Putrid Edenstaff is a [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained in the Widow's Wail Cemetery. (Or through buying it from [Glaive spellhardt](Glaive_Spellhardt.md) for 100 Joy) The Putrid Edenstaff has a unique grip when using it with one hand. It is currently obtainable. (During [Hallowtide](Hallowtide.md).)

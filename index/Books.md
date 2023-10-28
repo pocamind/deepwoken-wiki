@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 76430
+revid: 79364
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -1082,3 +1082,4 @@ I weep for them still, my tears bitter as salt...
 ## Trivia
 
 -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
+-   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.

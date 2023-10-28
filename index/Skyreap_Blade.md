@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 79148
+revid: 79363
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -29,7 +29,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to Glaive Spellhardt. It is one of, if not the fastest Greataxe type weapon in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles the beloved taco bell. Only obtainable in the second week of [Hallowtide](Hallowtide.md).
+The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive Spellhardt](Glaive_Spellhardt.md). It is one of, if not the fastest Greataxe type weapon in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles the beloved taco bell. Only obtainable in the second week of [Hallowtide](Hallowtide.md).
 
 ## Trivia
 

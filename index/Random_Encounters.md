@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 79239
+revid: 79365
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -178,7 +178,7 @@ One in the [Hidden Village](The_Hidden_Village.md).
 
 #### **Megalodaunt On a Ship**
 
-A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an Etrean Naval Guard. Upon killing it, a chest will spawn in the ship with mid tier loot.
+A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an [Authority Soldier](Authority_Soldier.md). Upon killing it, a chest will spawn in the ship with mid tier loot.
 
 #### **Tower in the Water**
 
