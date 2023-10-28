@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 79290
+revid: 79333
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons]
 | Bloodtide Trident | |
 |---|---|
 | type | Spear |
-| requirements | 75 Medium |
+| requirements | 75 MED |
 | damage | 18 + 5.4 BLD |
 | scaling | 6 |
 | range | 9 |
@@ -19,7 +19,6 @@ categories: [Weapons]
 | penetration | 25% |
 | chip damage | 10% |
 | stances | 2 Handed, 1 Handed |
-| selling price | $50 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -28,4 +27,10 @@ categories: [Weapons]
 | obtainment | Hallowtide |
 | description | ... |
 
-Bloodtide Trident
+## Description
+
+The Bloodtide Trident is a Medium Weapon in the Spear category. It is obtained by getting 100 [Hallowtide](Hallowtide.md) Joy and talking to Glaive Spellhardt, And the Hallowtide infection minigame.
+
+## Trivia
+
+Probably a reference to Spear of Longinus from Evangelion.

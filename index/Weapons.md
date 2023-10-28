@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 79285
+revid: 79315
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1513,6 +1513,19 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>0.62x</td>
   <td>0.1s</td>
   <td>45.1</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Putrid_Edenstaff"><font>Putrid Edenstaff</font></a></td>
+  <td>75 HVY</td>
+  <td>25</td>
+  <td>15%</td>
+  <td>N/A</td>
+  <td>HVY: 8.5</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.61x</td>
+  <td>0.1s</td>
+  <td>N/A</td>
 </tr>
 <tr>
   <td><a href="Petra's_Anchor.md">Petra's Anchor</a></td>

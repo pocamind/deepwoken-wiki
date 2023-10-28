@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 71560
+revid: 79334
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -23,14 +23,23 @@ The Floating Keep was a temporary location in Deepwoken. It appears to be a medi
 
 ## Cathedral
 
-In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need a Shell Stock, a Paperette and a Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander for items. Joy can be exchanged for:
+In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craft yourself a mask. To create the mask, you need a Shell Stock, a Paperette and a Fine Ink. When creating the mask, there is a chance for it to be of a Mudskipper, Primadon, or an Owl. Once you put on a mask, you can speak to NPCs and scare them (there are at least 87 NPCs you can scare, 13 in the depths and 74 in the overworld), which gives you Hallowtide Joy, which is a form of currency that can be exchanged with Lysander and Glaive for items. Joy can be exchanged for:
 
--   Void Feather \[15 Joy\]
--   Deep Gem \[15 Joy\]
--   Familiar Priest Helmet \[30 Joy\]
--   Familiar Heretic Helmet \[35 Joy\]
--   Familiar Knight Kelmet \[50 Joy\]
+-   [Void Feather](Dark_Feather.md) \[15 Joy\]
+-   [Deep Gem](Deep_Gems.md) \[15 Joy\]
+-   [Master Schematic](Outfits.md#master) \[20 Joy\]
+-   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[30 Joy\]
+-   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
+-   Pumpkin Head \[50 Joy\]
+-   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
+-   [Skyreap Blade (Greataxe)](Skyreap_Blade.md) \[60 Joy\]
+-   [Hallowscleave (Sword)](Hallowscleave.md) \[60 Joy\]
+-   [Skull Piercer (Rapier)](Skull_Piercer.md) \[60 Joy\]
 -   Hallowtide Variant \[70 Joy\]
+-   Mushroom Costume \[100 Joy\]
+-   [Putrid Edenstaff (Greathammer)](Putrid_Edenstaff.md) \[100 Joy\]
+-   [Bloodtide Trident (Spear)](Bloodtide_Trident.md) \[100 Joy\]
+-   [Drakemaw Gauntlets (Fist)](Drakemaw_Gauntlets.md) \[100 Joy\]
 
 ### General, Weaponry and Mantra Shop
 
@@ -83,6 +92,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   The music for this area is [A Light In The Sky](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The combat music for this area is [A Darkness Beneath](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
 -   The Floating Keep was temporarily added into the game on Halloween for two weeks for an event (Ends November 13th)
 -   Initially, there was a bug where the Void Feather cost 5 Joy instead of the required 15. This was patched quickly.
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.
