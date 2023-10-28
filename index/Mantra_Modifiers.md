@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 77563
+revid: 79282
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -1285,4 +1285,4 @@ File:Dark Blade with Tornado Spark.gif
 -   Revenge requires Drift/Rush Shards to reach further instead of Lens.
 -   Mantra modifying will not always cost notes.
 -   Longstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun). They will dissolve into black, but the duration will still be modified.
--   Vibrant Gems can point towards mantra tables.
+-   Vibrant Gems and Crystal Lenses can point towards mantra tables.
