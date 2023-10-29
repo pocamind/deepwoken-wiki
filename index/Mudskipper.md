@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 79250
+revid: 79643
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,7 +24,7 @@ Mindless enemies that sprout out of the ground to surprise their prey. The most 
 
 They are born from [Nautilodaunts](Nautilodaunt.md) shoving parasites into the brains of their prey.
 
-When accompanied by Bloatskippers from an [emergence](Random_Encounters.md), their body is enhanced, allowing them to use an enhanced version of the "[Air Force](Galebreathe.md)" mantra fired from their mouths instead of their hands.
+When accompanied by Bloatskippers from an [emergence](Random_Encounters.md), their body is enhanced, allowing them to use an enhanced version of the "[Air Force](Galebreathe.md)" Mantra fired from their mouths instead of their hands.
 
 ## Moveset
 
@@ -51,15 +51,15 @@ Air Force
 -   Very good for grinding when first starting, due to their low HP and low damage output.
     -   Stat Check Level: Any.
 -   If you aren't fighting a lot of Mudskippers, use M1s to knock them.
--   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using any secondary abilities they have access to. If you have the opportunity, use mantras for attunement XP.
+-   When fighting more than one Mudskipper at a time, only one Mudskipper will actually be attacking with its fists as the others will be using any secondary abilities they have access to. If you have the opportunity, use Mantras for attunement XP.
 -   If you flourish a Mudskipper, the other ones WILL hit you while you're stuck in endlag.
     -   Be careful about this, as you can get stun-locked if there is a group of them.
 -   If there is a Horde and you can't fight them up close, use ranged attacks such as [Fire Palm](Flamecharm.md), [Ice Forge](Frostdraw.md) and [Air Force](Galebreathe.md).
--   To successfully get out of a Mudskipper flourish you have the option to either parry while holding A, S, or D, or you can vent by pressing g. Then, use your M1s and Mantras.
+-   To successfully get out of a Mudskipper flourish you have the option to either parry while holding A, S, or D, or you can vent by pressing G. Then, use your M1s and Mantras.
     -   Note that in order to vent you must have tempo.
--   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" mantra and dodge.
-    -   Getting hit by this mantra will likely cause you to be flung backwards. In unlucky situations, you might end up falling off a cliff, or, if you are in [The Depths](The_Depths.md), being relocated to the [Second Layer](Second_Layer.md).
-    -   Many Mudskippers love to use this mantra at once, throwing you around and disorienting you for a bit.
+-   Listen to when they are about to cast the "[Air Force](Galebreathe.md)" Mantra and dodge.
+    -   Getting hit by this Mantra will likely cause you to be flung backwards. In unlucky situations, you might end up falling off a cliff, or, if you are in [The Depths](The_Depths.md), being relocated to the [Second Layer](Second_Layer.md).
+    -   Many Mudskippers love to use this Mantra at once, throwing you around and disorienting you for a bit.
         
 
 **Bloatskipper:**
@@ -68,7 +68,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that sprout out of the ground to surprise their prey. This variant little more towards the dangerous side of the Mudskippers as it can explode upon being killed and instantly execute downed enemies. On top of that, it is always seen spawning in groups accompanied by enhanced Mudskippers that used a modified version of the "[Air Force](Galebreathe.md)" mantra.
+Mindless enemies that sprout out of the ground to surprise their prey. This variant little more towards the dangerous side of the Mudskippers as it can explode upon being killed and instantly execute downed enemies. On top of that, it is always seen spawning in groups accompanied by enhanced Mudskippers that used a modified version of the "[Air Force](Galebreathe.md)" Mantra.
 
 ## Moveset
 
@@ -88,8 +88,8 @@ Scratch
 
 ## Tips
 
--   The "[Air Force](Galebreathe.md)" mantra can push them towards you and let them get the drop on you.
-    -   Many Mudskippers love to use this mantra at once, throwing you around and disorienting you for a bit.
+-   The "[Air Force](Galebreathe.md)" Mantra can push them towards you and let them get the drop on you.
+    -   Many Mudskippers love to use this Mantra at once, throwing you around and disorienting you for a bit.
 -   Take them out first, only then you can deal with the normal Mudskippers.
 -   Don't let allies or knocked enemies you wish to preserve get close to a Bloatskipper that has been knocked or they will be insta-gripped/executed by the explosion.
     -   This can also be a good way of managing numbers, allowing you to grip/execute many enemies at once.
@@ -137,7 +137,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). This variant is more towards the dangerous side of the Mudskippers as they can use mantras. In addition, it also spawns in groups of 3 and wear two completely unknown armors, being color-coded fur cloaks and boots over a plated outfit.
+Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). This variant is more towards the dangerous side of the Mudskippers as they can use Mantras. In addition, it also spawns in groups of 3 and wear two completely unknown armors, being color-coded fur cloaks and boots over a plated outfit.
 
 ## Moveset
 
@@ -242,7 +242,7 @@ Critical
 
 ### Boons
 
--   Memory Retainment - Can block and parry common attacks and mantras, as well as roll away from criticals and feint their own attacks.
+-   Memory Retainment - Can block and parry common attacks and Mantras, as well as roll away from criticals and feint their own attacks.
 
 ## Finisher
 
@@ -276,7 +276,7 @@ Critical
 
 ### Boons
 
--   Memory Retainment - Can block and parry common attacks and mantras, as well as roll away from criticals and feint their own attacks.
+-   Memory Retainment - Can block and parry common attacks and Mantras, as well as roll away from criticals and feint their own attacks.
 
 ## Finisher
 
@@ -289,6 +289,34 @@ Critical
 -   Parrying is essential when combating one as an inexperienced player can die easily to it.
     -   It's essentially a skill check.
 -   This trial is regarded as being on par to [The Enforcer](Enforcer.md) due the pressure it forces in fights despite having no special gimmicks, and it being an overall skill check for the level. Though with enough practice, it can be done flawless like any other monster.
+    
+
+**Gourdskipper:**
+
+Template:Creature Infobox V3
+
+## Description
+
+Enemies that are summoned to fight during the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>). They wield only their fists and wear the castaway armor along with a [Pumpkin Head](Pumpkin_Head.md). They can easily be killed with the Pumpkin Pitch Mantra granted to you through the Trial of the Gourdskipper as it only takes two hits to kill them.
+
+## Moveset
+
+| Name | Description | Parryable? | Blockable? | Danger |
+| --- | --- | --- | --- | --- |
+| 
+Scratch
+
+ | Weakly smacks opponent | ◯ | ◯ | (★☆☆) |
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| N/A | They do not have a known finisher as once you are attacked by one they infect and stop aggroing onto you. |
+
+## Trivia
+
+-   They only appeared during the 2023 Hallowtide event
     
 
 ## Trivia

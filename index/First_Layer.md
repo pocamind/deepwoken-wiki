@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 76887
+revid: 79625
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -79,7 +79,7 @@ Completing your trial and escaping The Depths gives you a new talent "[Depths Co
 
 ### _Note:_
 
-**Your Trial Power is calculated by "Power + (Times Drowned \* 0.33)".** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. For example, if you are power 16 but have 2 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
+**Your Trial Power is calculated by "Power + (Times Drowned \* 0.33)".** This dictates the type of enemy you will be faced with when initiating the Trial. You can see how many times you have drowned in a campfire (in the summary page) and the number increases each time you are sent to the Depths through death. The number of entities, however, only scale by Power- not drowns. For example, if you are power 16 but have 3 drowned then you will face an Enforcer or Nautilodaunt. _The table below accounts only for your power, not how many times you drowned._
 
 _Trial Power and Power are two different things; See above as well as below table._
 
@@ -89,7 +89,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 3.33-6.33 | [Mudskipper Knight](Mudskipper.md) |
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
-| 16.66+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 16.99+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | Drowned 10+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | Waves of enemies will spawn, each consisting of two Monsters, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**

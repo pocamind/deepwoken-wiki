@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79468
+revid: 79610
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1510,8 +1510,9 @@ _**"I often attack others."**_
 > _**"I am one with Navae."**_
 
 -   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
-    -   Prerequisites: Trained Fist, Moving fortress, Shield, 20 Fortitude, 30 Strength
+    -   Prerequisites: Trained Fist, Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
         -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
+        -   Despite the talent description saying "With a shield", blocking without a shield equipped will still make the talent work, thus removing slowdown on blocking completely.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
     -   Prerequisites: Fists, 20 Fortitude

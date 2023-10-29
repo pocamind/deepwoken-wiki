@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 79170
+revid: 79609
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -189,6 +189,6 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 ## Footnotes
 
 1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
-2.  [↑](#cite-ref-2) [Mark Adaset](Mark_Adaset.md)
+2.  [↑](#cite-ref-2) Mark Adaset
 3.  [↑](#cite-ref-3) [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
 4.  [↑](#cite-ref-4)

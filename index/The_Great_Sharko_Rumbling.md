@@ -1,6 +1,6 @@
 ---
 title: The Great Sharko Rumbling
-revid: 79586
+revid: 79607
 source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -19,7 +19,7 @@ categories: [Lore]
 
 ― Jova Praadet born Spring 1279
 
-_"dumbass sharkos decided to gather up and wipe all the ones in etrean luminant."_
+_"Winter 1291 marks that fateful night, when the rumbling of a million Megalodaunts thundered in our ears. They laid waste to our homes... And what little lands we had left to squabble over. But, in the strange and inscrutable ways of the Deep, an age of plenty soon followed. So soon after a fall, our people were once again prospering..."_
 
 The Great Megalodaunt Rising was a Lore event in Winter 1291. After many years of fishing, fishermen decided that their harvests were not enough. They invented a new creation, the "Megalodaunt Bait", in which they would be able to attract [Megalodaunts](Megalodaunt.md) to civilized locations, as to be easily harvested by the locals in a safe method and location.
 

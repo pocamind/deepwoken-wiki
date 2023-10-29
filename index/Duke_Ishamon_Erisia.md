@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 79593
+revid: 79598
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -149,7 +149,7 @@ Duke: So you're the one running about tripping my alarms. Care to explain yourse
 
 1: The Lord Regent sent me to retrieve the Forge.
 
-Duke: That thing is finally making its move. hm? I'd thought it would come personally, given how I used to violate his pussy with such ferocity, that even the deep ones were impressed...
+Duke: That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
 
 1: That 'thing'? Agent?
 
