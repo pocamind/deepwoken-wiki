@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 79560
+revid: 79579
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -30,17 +30,17 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 -   [Master Schematic](Outfits.md#master) \[20 Joy\]
 -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) \[30 Joy\]
 -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) \[35 Joy\]
--   Pumpkin Head \[50 Joy\]
 -   [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>) \[35 Joy\]
+-   [Pumpkin Head](Pumpkin_Head.md) \[50 Joy\]
+-   Hallowtide Variant \[70 Joy\]
+-   [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
 -   [Skyreap Blade (Greataxe)](Skyreap_Blade.md) \[60 Joy\]
 -   [Hallowscleave (Sword)](Hallowscleave.md) \[60 Joy\]
 -   [Skull Piercer (Rapier)](Skull_Piercer.md) \[60 Joy\]
--   Hallowtide Variant \[70 Joy\]
--   Pumpkin Pitch (mantra) \[300 Joy\]
--   [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
 -   [Putrid Edenstaff (Greathammer)](Putrid_Edenstaff.md) \[100 Joy\]
 -   [Bloodtide Trident (Spear)](Bloodtide_Trident.md) \[100 Joy\]
 -   [Drakemaw Gauntlets (Fist)](Drakemaw_Gauntlets.md) \[100 Joy\]
+-   Pumpkin Pitch (mantra) \[300 Joy\]
 
 ### General, Weaponry and Mantra Shop
 

@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 79569
+revid: 79571
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -32,6 +32,7 @@ The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" categ
 -   This item costs 100 Joy in the Hallowtide Shop, but can be alternatively obtained through the Trial of Gourdskipper (much more preferable).
 -   The Mushroom & Glowshroom Costumes are based on the Scroom race from Rogue Lineage.
 -   The Metalshroom Costume is based on the Metascroom race from Rogue Lineage.
+-   The Glowshroom & Metalshroom variants are slightly more rarer than the normal Mushroom variant.
 -   This [Equipment](Equipment.md) item is dyeable, but the white spots and skin will be unaffected.
 -   This item is undroppable.
 -   Costumes can't reach 3 stars (???)

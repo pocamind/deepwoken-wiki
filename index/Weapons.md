@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 79461
+revid: 79590
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -910,6 +910,18 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>9</td>
   <td>0.7x</td>
   <td>38.2(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Bloodtide_Trident"><font>Bloodtide Trident</font></a> (<b>Bleed</b>)</td>
+  <td>75 MED</td>
+  <td>18</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>MED: 6</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.7x</td>
+  <td>37.1(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Gremorian_Longspear#Alloyed"><font>Alloyed Gremorian Longspear</font></a></td>

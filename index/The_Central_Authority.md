@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 77117
+revid: 79581
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -17,11 +17,17 @@ categories: [Factions]
 
 ― Authority Peacekeeper
 
-**The Central Authority** is one of the major and most influential factions in Deepwoken, with their presence seen almost everywhere in the game either directly or indirectly.
-
 ## Description
 
-A large military organization, native to the Central Luminant. They are led by a mysterious man named Drallis Ehr, who is their Grand Sovereign. Their ranks consist of Warmasters, Wardens (which may actually be the same thing), multiple Inquisitor classes, and then standard military rankings. The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md). Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md). Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md). The Authority are highly racist, favoring [Adrets](Adret.md) and [Canor](Canor.md) to a much lesser extent, and their higher ranks mostly consist of them.
+**The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. An authoritarian regime led by a mysterious man named Drallis Ehr who acts as their Grand Sovereign, they are thoroughly dedicated to the expansion of their empire and the destruction of their enemies.
+
+Their ranks consist of Warmasters, Wardens (which may actually be the same thing), multiple Inquisitor classes, and then standard military rankings. The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md).
+
+Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md).
+
+Highly treacherous, they have gone behind the backs of both the Legion and the Summer Company to get what they want. They work with many smaller factions, including [The Ignition Union](The_Ignition_Union.md), [Summer Company](The_Summer_Company.md), [The Divers](The_Divers.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
+
+Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial prejudice of some sort. Whilst other races are present in the Authority's ranks, they are usually relegated to rank-and-file soldiers.
 
 ## Gameplay
 

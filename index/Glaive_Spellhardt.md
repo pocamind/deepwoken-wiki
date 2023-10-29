@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 79509
+revid: 79575
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

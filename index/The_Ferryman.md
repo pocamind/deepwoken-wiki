@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 79163
+revid: 79584
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -9,15 +9,11 @@ categories: [Pages with broken file links, Enemies, NPCs, Bosses]
 # The Ferryman
 
 “ You measured risk, you took the chance,  
-
 Now what awaits, guess, in advance -  
-
 DANCE, puppet, dance! Dance if you can!  
+The flames have called the Ferryman! ”
 
-The flames have called the Ferryman!  
-”
-
-― The Ferryman's theme
+― [Naktigonis](https://www.youtube.com/watch?v=pFGSUuOLWQI)
 
 Template:Creature Infobox V3
 
@@ -160,27 +156,26 @@ The best way to damage The Ferryman is to spam m1s whenever his Lightning Strike
 
 **Progress:** As with all bosses, The Ferryman gives [Resonance](Resonance.md) Progress on death, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
 
--   Upon his defeat, The Ferryman will leave 5 chests containing 0-5 [Umbral Obsidian](Umbral_Obsidian.md), 0-4 [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md), occasionally a [Nemit's Sickle](<Nemit's_Sickle.md>), and a variety of rare loot specified below.
 -   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with another reward in addition to the standard 5 chests.
     -   Spring - One [Knowledge](Knowledge.md). Repeatable.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
     -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
--   [**Krulian Knife**](Krulian_Knife.md) - In addition to being the reward, the Krulian Knife can also be found in each of the five chests. (50% drop chance)\*
+
+In addition to the seasonal rewards, The Ferryman will leave 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a Stormseye or a [Relic](Relics.md).
+
+> _Drop chances are based on conjecture and may be incorrect._
+
+-   [**Krulian Knife**](Krulian_Knife.md) - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests. (50% drop chance)
 -   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of less than 1%.
--   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost. (22,5% drop chance)\*
--   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs. (Very common drop.)\*
--   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - The **Idol of Yun'shul** is a ritual idol and [relic](Relics.md), that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (12,5% drop chance)\*
--   [**Smith’s Alloy**](<Smith's_Alloy.md>) - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars. (5% drop chance)\*
--   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (Unknown drop chance.)\*
--   [**Justicar's Armor**](<Justicar's_Armor.md>) - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint. (7,5% drop chance)\*
+-   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost. (22.5% drop chance)
+-   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs. (Very common drop.)
+-   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - The **Idol of Yun'shul** is a ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (12.5% drop chance)
+-   [**Smith’s Alloy**](<Smith's_Alloy.md>) - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars. (5% drop chance)
+-   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (Unknown drop chance.)
+-   [**Justicar's Armor**](<Justicar's_Armor.md>) - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint. (7.5% drop chance)
 -   [**Ardour Manifestation**](Ardour_Manifestation.md) - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory,, not in chests.
 -   [**Pluripotent Alloy**](Pluripotent_Alloy.md) - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
-
-  
-\***Note: I have calculated these chances by doing 40 ferryman’s. These numbers will be changed in the future as i will do more ferryman’s.**
-
-\*\***These numbers indicate if the item shows up, not how many times.**
 
 ## Dialogue
 

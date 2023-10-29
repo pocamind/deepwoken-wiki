@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 79500
+revid: 79578
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -27,7 +27,7 @@ It returned this year on October 27th. The first Hallowtide added...
 
 -   [The Floating Keep](The_Floating_Keep.md)
 -   A Hallowtide Mask - crafted with Shell Stock, Paperette, and Fine Ink
--   The "Joy" System
+-   The "[Joy](Joy.md)" System
 -   New Helmets
 -   New Race Variants
 -   [Skullpiercer](Skull_Piercer.md) (Rapier)\*
@@ -56,7 +56,7 @@ It returned this year on October 27th. The first Hallowtide added...
 
 ### Race Variants
 
--   The Hallowtide update added a special new variant for each race in the game. To unlock the Hallowtide race variants, you will have to turn in 70 "Joy" to Lysander Spellhardt who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by wiping and choosing your Hallowtide Variant in the character customization screen.
+-   The Hallowtide update added a special new variant for each race in the game. To unlock the Hallowtide race variants, you will have to turn in 70 "Joy" to [Lysander Spellhardt](Lysander_Spellhardt.md) who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by wiping and choosing your Hallowtide Variant in the character customization screen.
 
 ### Exclusive NPCs and Variants:
 
