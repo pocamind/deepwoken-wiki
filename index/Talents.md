@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79368
+revid: 79468
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -164,6 +164,7 @@ _**"I enjoy mixing potions."**_
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
     -   Prerequisites: 10 Intelligence
+    -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified.
     -   Prerequisite: 90 Intelligence
@@ -173,6 +174,7 @@ _**"I enjoy mixing potions."**_
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown.
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
     -   Prerequisites: 25 Intelligence
+    -   The head equipment "[Strapped Hat](Strapped_Hat.md)" have this talent.
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
     -   Prerequisites: 55 Intelligence
@@ -196,6 +198,7 @@ _**"I enjoy mixing potions."**_
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Negate the speed penalty of critical health (<30% HP)
     -   Prerequisite: 25 Agility, 25 Fortitude
+    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" have this talents.
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
@@ -297,6 +300,7 @@ _**"I enjoy mixing potions."**_
 
 -   Pitcher \[Common Talent\] - You can throw things further.
     -   Prerequisites: 5 Strength, 5 Agility, throw an object
+    -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
 
 ### Authority Interrogator
 
@@ -356,6 +360,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Deal 10% more damage to larger foes.
     -   "Larger foes" being anything that isn't a humanoid NPC. Essentially, anything in the monster category that is not a Mudskipper or Angel.
     -   Prerequisite: 20 Willpower
+    -   The head equipment "[Dark Owl Chapeau](Dark_Owl_Chapeau.md)" have this talent.
 
 ### Brawler
 
@@ -557,6 +562,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Assassin \[Common Talent, Agility\] - Assassination damage now scales with level. (+2 Passive Agility)
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   Prerequisite: 30 Agility, 20 assassinations (maybe less?)
+    -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this equipment.
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
     -   Prerequisite: 45 Agility
@@ -653,6 +659,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Concussive Force \[Common Talent\] - Enemies you knocked remain down longer than usual. (+9 Carry Load)
     -   Enemies remain knocked for 15 seconds instead of 10.
     -   Prerequisite: 15 Strength
+    -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this talent.
 
 -   Duelist's Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load)
     -   Prerequisites: 20 Strength
@@ -660,6 +667,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical hits a block, this talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
+    -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" have this talent
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. ( +6 Carry Load, +2 Passive Agility)
     -   Deals true damage.
@@ -674,6 +682,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility)
     -   Reduce posture damage taken by 10% while two handing.
     -   Prerequisites: 30 Strength, 30 Medium Weapon
+    -   The head equipment "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this talent.
 
 -   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
@@ -708,6 +717,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Guildmates, people who are in a Vow of Mastery or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
     -   The Canor race's innate talent has a similar effect.
     -   Prerequisities: 35 Charisma, Friends in High Places
+    -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this talent.
 -   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies for 5 seconds when you hit them.
     -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
 
@@ -753,7 +763,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I believe in the men who followed Pleeksty before."**_
 
 -   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam. (+4 Elemental Intensity)
-    -   Prerequisites: Rising Flame, 25 Flamecharm
+    -   Prerequisites: Any "Rising" Mantra, 25 Flamecharm
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. (+3 Elemental Intensity)
     -   Prerequisite: Meteor Impact, 40 Flamecharm
@@ -1339,6 +1349,7 @@ _**"I often attack others."**_
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 13
+    -   The head equipment "[Bloodfeather Cowl](Bloodfeather_Cowl.md)" have this talent.
 
 -   Old Habits Die Hard \[Common Talent\] - A blocked attack after a failed parry will cause the attack to deal half posture. (+5 Health)
     -   Prerequisite: 20 Willpower
@@ -1801,10 +1812,12 @@ These Talent are meant to make maintaining your ship easier.
 -   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load)
     -   Repairing restores ??% more HP to the boat when it's below ??% HP.
         -   Prerequisite for emergency repairs: Automatically gained after using the Repair Hammer 11 times.
+        -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" have this talent.
 
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load)
     -   Repairing restores ?? HP instead of 250 HP.
         -   Prerequisite for spare nails: Automatically gained after using the Repair Hammer 51 times.
+        -   the head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" have this talent.
 
 ### Silencer
 
@@ -1909,6 +1922,7 @@ Prerequisite: Charisma
 -   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
     -   Prerequisites: 25 Fortitude, 5 Willpower
+    -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" have this talent.
 
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
     -   Contrary to the card's description, effect of insanities are delayed by a full tier.
@@ -1925,9 +1939,11 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Herbivore \[Common Talent\] - You gain more nutrition from eating plants.
     -   Prerequisite: 8 Fortitude
     -   Mutually Exclusive: Carnivore
+    -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this talent.
 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
     -   Prerequisites: Herbivore, 10 Fortitude, vomit once
+    -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this talent.
 
 -   Termite \[Common Talent, Unlockable Talent\] - You can eat things most would consider inedible.
     -   Unlock requirement: Wipe with the Iron Gut talent (can't be given by armor)
@@ -2369,10 +2385,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains
 
--   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity) (Obtained by wearing a blindfold)
+-   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
     -   Create a dark blueish fog around you (simulating blindness).
     -   While the Blindseer Oath grant full vision even with a blindfold, the Talent still works.
     -   The talent grants immunity to the Flame Blind mantra.
+    -   The face equipment "[Blindfold](Blindfold.md)" have this talent.
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisite: [Power](Power.md) 16

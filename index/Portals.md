@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 76439
+revid: 79419
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -41,7 +41,7 @@ When obtained, Portals will spend its points on the following stats:
 -   **Duration:** The more points are spent on this stat, the longer the user can stay in the portal.
 -   **Speed:** The more points are spent on this stat, the faster the user move while inside the portal.
 
-## Trivia/Notes
+## Trivia
 
 -   There is a known bug where if the bell is Tarnished, you're able to immediately use it again after leaving the portal for the first time.
 -   If portals is found to be corrupted, its downside will only be applied after exiting the portal.

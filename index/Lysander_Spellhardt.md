@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 79399
+revid: 79477
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -128,9 +128,18 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
   <td>?</td>
   <td>?</td>
   <td>?</td>
+  <td>Here you are... a very, very special Joy! Since I'm feeling generous today, I can induce the transformation now if you wish. Just pay me another visit.</td>
   <td>?</td>
   <td>?</td>
-  <td>?</td>
+</tr>
+<tr>
+  <td>End</td>
+  <td>End</td>
+  <td>End</td>
+  <td>End</td>
+  <td>End</td>
+  <td>End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 79344
+revid: 79482
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,7 +18,7 @@ Frostdraw grants the user the ability to bring forth frost and the freezing cold
 
 ## Training
 
-Frostdraw can be trained by using a combination of the Hemafrost and Frostdraw Mantras.
+Frostdraw can be trained by using a combination of Hemafrost, Frostdraw Mantras, and Frigid Prisms.
 
 Along with all other elements, users can see their Mantras becoming stronger with training:
 
@@ -194,8 +194,7 @@ _A flurry of ice spikes._
  | Forms a path of ice spikes in front of user.
 
 -   Deals moderate damage.
--   Inflicts Chill.
-    -   Despite lacking the Chill indicator, it does inflict Chill.[\[1\]](#cite-note-1)
+-   Inflicts Chill.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
@@ -414,7 +413,6 @@ _An arc of ice._
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to become wider.
 -   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
-    -   ̶A̶p̶p̶l̶y̶i̶n̶g̶ ̶a̶ ̶l̶e̶n̶s̶ ̶w̶i̶l̶l̶ ̶h̶a̶v̶e̶ ̶a̶ ̶c̶h̶a̶n̶c̶e̶ ̶o̶f̶ ̶n̶u̶l̶l̶i̶f̶y̶i̶n̶g̶ ̶t̶h̶e̶ ̶C̶l̶o̶u̶d̶s̶t̶o̶n̶e̶s̶ ̶e̶f̶f̶e̶c̶t̶,̶ ̶e̶x̶:̶ ̶3̶ ̶c̶l̶o̶u̶d̶s̶t̶o̶n̶e̶s̶ ̶+̶ ̶3̶ ̶p̶e̶r̶f̶e̶c̶t̶ ̶l̶e̶n̶s̶e̶s̶ ̶=̶ ̶4̶ ̶a̶r̶c̶s̶ (Cloudstones no longer increase arc amount)
 
  |
 | [Ice Skate](https://deepwoken.fandom.com/wiki/File:Ice%20Skate.gif) | 
@@ -429,7 +427,7 @@ _Skate freely on paths of ice._
  | While on or above water, create a frozen platform to slide on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active.
--   The rare "Frozone" talent allows the user to cast this mantra anywhere
+-   Can be used on land since Frozone is base
     -   This includes the [First Layer](First_Layer.md) and the [Second Layer](Second_Layer.md).
 
   
@@ -458,8 +456,7 @@ _Skate freely on paths of ice._
   <td><center><i>A servant of ice.</i></center></td>
   <td>Summons a wisp that travels around you placing ice. Also shoots a beam attack whenever you vent successfully.
   <ul>
-    <li><s>Can be modified with Drift Shards or Rush Shards to increase the size of the ice that the wisp places.</s> It doesn't increase anything, it can't be modified not even with vibrant gems (which work just fine with frost grab).<br>
-  </li>
+    <li>Can be modified with Rush and Drift shards.</li>
   </ul></td>
 </tr>
 <tr>
@@ -538,7 +535,7 @@ Cool Head
 
  | 
 
-If set on fire while on ice, immediately put it out and enter a state of chill. During this state you cannot be lit on fire.
+If set on fire while on ice, immediately put it out and enter a state of chill for 30 seconds. During this state you cannot be lit on fire. 15 second cooldown.
 
  | 
 
@@ -755,7 +752,7 @@ Orbital Ice
 
  | 
 
-When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 15% of the physical damage you take. The ring break after sustaining a certain amount of damage.
+When landing a parry while standing on ice, automatically forms a ring of gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage, scaling with Frostdraw.
 
  | 
 

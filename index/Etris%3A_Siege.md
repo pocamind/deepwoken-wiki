@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 79273
+revid: 79418
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -35,14 +35,14 @@ Up to nine NPCs are in this event.
 | Faction | Enemy |
 | --- | --- |
 | [Etrea](Etrea.md) | [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) |
-| [Etrea](Etrea.md) | Etrean Naval Guard |
-| [Etrea](Etrea.md) | [Etrean Guard](Etrean_Guardsmen.md) |
+| [Etrea](Etrea.md) | [Etrean Soldier](Etrean_Soldier.md) |
+| [Etrea](Etrea.md) | [Etrean Guardsmen](Etrean_Guardsmen.md) |
 | [Etrea](Etrea.md) | [Polis](Polis.md) |
-| [Authority](The_Central_Authority.md) | [Authority Commander](<Authority_Commander_(Enemy).md>) |
-| [Authority](The_Central_Authority.md) | [Authority Officer](Authority_Officer.md) |
-| [Authority](The_Central_Authority.md) | [Authority Soldier](Authority_Soldier.md) |
-| [Authority](The_Central_Authority.md) | [Authority Peacekeeper](Authority_Peacekeeper.md) |
-| [The Divers](The_Divers.md) | [Nell](Nell,_Master_of_Frost.md) |
+| [The Central Authority](The_Central_Authority.md) | [Authority Commander](<Authority_Commander_(Enemy).md>) |
+| [The Central Authority](The_Central_Authority.md) | [Authority Officer](Authority_Officer.md) |
+| [The Central Authority](The_Central_Authority.md) | [Authority Soldier](Authority_Soldier.md) |
+| [The Central Authority](The_Central_Authority.md) | [Authority Peacekeeper](Authority_Peacekeeper.md) |
+| [The Divers](The_Divers.md) | [Nell, Master of Frost](Nell,_Master_of_Frost.md) |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 79408
+revid: 79479
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -36,7 +36,7 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
 -   [Hallowscleave (Sword)](Hallowscleave.md) \[60 Joy\]
 -   [Skull Piercer (Rapier)](Skull_Piercer.md) \[60 Joy\]
 -   Hallowtide Variant \[70 Joy\]
--   Mushroom Costume \[100 Joy\]
+-   [Mushroom Costume](Mushroom_Costume.md) \[100 Joy\]
 -   [Putrid Edenstaff (Greathammer)](Putrid_Edenstaff.md) \[100 Joy\]
 -   [Bloodtide Trident (Spear)](Bloodtide_Trident.md) \[100 Joy\]
 -   [Drakemaw Gauntlets (Fist)](Drakemaw_Gauntlets.md) \[100 Joy\]
@@ -49,31 +49,31 @@ In the Cathedral, you can talk to Lysander Spellhardt to start the quest to craf
     -   Players can purchase a Self-Conducting Loop, Hermafrost, Hearthgem, Pure Heart and Gale Kata for.
     -   Players can purchase a [Parry Dagger](Parrying_Dagger.md) for, a [Messer](Messer.md) for, a [Tanto](Tanto.md) for, an [Apprentice Rapier](Apprentice_Rapier.md) for, a [Trident Spear](Trident_Spear.md) for, a [Vigil Longsword](Vigil_Longsword.md) for, and a [Darksteel Greatsword](Darksteel_Greatsword.md) for.
 
-### Exclusive NPCs and Variants: (being worked on, bear with us)
+### Exclusive NPCs and Variants:
 
 #### Lightborns:
 
--   Everis (Transport)
--   Antiquarian
--   Blacksmith
--   Leaf (Mantra Mod Buyer)
+-   Everis
+-   [Antiquarian](Antiquarian.md)
+-   [Blacksmith](Blacksmith.md)
+-   [Leaf](Mantra_Collector.md)
 -   Green
--   Tundra
--   Mikhail (Food Merchant)
--   Lysander Spellhardt
--   Glaive Spellhardt
--   Alina Spellhardt
+-   [Tundra](Tundra_Spellhardt.md)
+-   Mikhail
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Glaive Spellhardt](Glaive_Spellhardt.md)
+-   Alina
 
 #### Unknown/Exclusive
 
--   Hallowtide Caller (Transport)
+-   [Hallowtide Caller](Hallowtide.md)
 -   Suspicious Skeleton (Bone Rattler)
 
 The Dining Hall.
 
 ### Food
 
--   Players can buy several foods here from an NPC called Mikhail.
+-   Players can buy several [foods](Food.md) here from an NPC called Mikhail.
     -   Glazed Fish for.
     -   Sushi for.
     -   Mushroom Omelette for.
@@ -82,8 +82,7 @@ The Dining Hall.
 
 ### Library
 
--   Players can purchase several books here.
-    -   Players can purchase a Weapon Manual for, How To Make Friends for, and an Encyclopedia for.
+-   Players can purchase a Weapon Manual for, How To Make Friends for, and an Encyclopedia for.
 
 ## Maps
 

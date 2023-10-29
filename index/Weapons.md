@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 79389
+revid: 79461
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -14,15 +14,16 @@ _Tools constructed with the intent to harm others, polished to be efficient kill
 
   
   
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a [Weapon Manual](Training_Gear.md) in order to allocate your investment points to your [Weapon Stat](Attributes.md). Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via [unbounding your weapon stat](Attributes_Unbound.md) (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per level for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a [Weapon Manual](Training_Gear.md) in order to allocate your investment points to your [Weapon Stat](Attributes.md). Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via [unbounding your weapon stat](Attributes_Unbound.md) (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per point for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
 
-When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra armor penetration per star, or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll, for example).
+When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra penetration per star, or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll, for example).
 
-All weapons within the game have chances of being found with (or without) different enchantments or qualities along with them, even if the characteristics of your current weapon are not to your liking, there are mechanics in the game that can change or add different qualities to your weapon. They are the:
+All weapons within the game have chances of being found with (or without) different enchantments or qualities along with them, even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
--   ["Smith's Alloy", relic](Relics.md) that adds a star to your weapon in hand, increasing the effectiveness of the quality already present in it and, if you already have 3 stars, the number of stars will not change but rather what they represent (for example you can go from 3 stars in weight to 3 stars in damage).
--   NPC "[Laplace](Laplace.md)", who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (which can be on weapons or equipment, soul-bounded or not).
--   [Enchant stones](Enchant_Stone.md), items that can be only found in Layer 2 and guarantees the player's weapon the respective enchantment that the stone offers.
+-   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
+-   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
+-   [Enchant Stones](Enchant_Stone.md), items that can be only found in Layer 2 guaranteeing a specific enchant.
+-   [Deepshore Fossil](Deepshore_Fossil.md), an item giving you an enchant stone of your choice.
 
 [Enchanted](Enchantments.md) weapons always have at least one star.
 
@@ -30,40 +31,40 @@ All weapons within the game have chances of being found with (or without) differ
 
 ## Stances
 
-Pressing Y will change your stance. Changing your stance will change the way you hold your weapon.
+Pressing Y will change your stance, changing the way you wield your weapon.
 
 -   **Light Weapons** are locked to One Handed stance.
     -   **[Fists](Fists.md)** are able to switch between [Way of Navae](Way_of_Navae.md) and [Legion Kata](Legion_Kata.md).
--   All **Medium Weapons** except for rifles can freely switch between One Handed and Two Handed stance.
--   All **Heavy Weapons** are locked to Two Handed stance, however, obtaining the [talent](Talents.md) One Handed Training (40 HVY Req, Located in the Weapons Master category) allows the usage of One Handed stance with them.
+-   All **Medium Weapons** except for Rifles can freely switch between One Handed and Two Handed stances.
+-   All **Heavy Weapons** are locked to Two Handed stances, however this can be changed through obtaining the [talent](Talents.md) One Handed Training (40), allowing them to use a One Handed stance.
 
 ### One-Handed
 
--   Recover increased posture from parrying
--   Deal reduced posture damage with hits
--   Can use offhand weapons like shields, guns, or parrying daggers
+-   Recover increased posture from parrying.
+-   Deal increased posture damage with parries.
+-   Can use offhand weapons such as shields, guns, or side daggers.
 
 ### Two-Handed
 
--   Recover reduced posture from parrying
--   Deal increased posture damage with hits
+-   Deal increased posture damage with hits.
+-   Cannot use offhand weapons.
 
 ## Key Terminology
 
--   **Requirements:** How much of the [attribute(s)](Attributes.md) you need to wield that weapon.
--   **Damage:** How much harm a weapon inflicts onto the opponent.
--   **Penetration:** Runs by percentage (%). Determines how much of your damage ignores [armor](Outfits.md).
--   **Chip Damage:** Damage that bypasses blocking.
--   **Scaling:** Additional damage your weapon will deal based on how many points you invest into the [attribute](Attributes.md).
--   **Weight:** How much posture damage is dealt when hitting an opponent who's blocking.
--   **Range:** How far your weapon can reach. (Does not calculate by stud.)
--   **Swing Speed:** How fast your weapon can strike per M1.
--   **Endlag:** How long you linger after attacking.
--   **Alloyed Weapon/Alloyed Stats:** Weapons stat from the [alloyed version](Pluripotent_Alloy.md). Stats which remain white are the same as the non alloyed version.
--   **Bleed:** 10% of the final multiplied damage of initial hit that procs 3 times with a .1 second interval, dealing 30% more damage in total; causes more blood loss.
--   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which happens yearly to celebrate Halloween. Cannot be obtained in any other way.
--   **Legendary:** Powerful and rare weapons that cannot be enchanted and are soulbound upon equipping them. (not to be confused with Legendary Rarity weapons.)
--   **Level:** The [level](Power.md) required to use the weapon
+-   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
+-   **Base Damage:** Base weapon damage dealt with 0 points of scaling.
+-   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances.
+-   **Chip Damage:** Weapon damage bypassing through block (50% limit when using Obfuscation).
+-   **Scaling:** Scaling for weapon attribute(s).
+-   **Weight:** Posture damage dealt.
+-   **Range:** Horizontal reach of a weapon (not counted by studs).
+-   **Swing Speed:** Speed of basic weapon attacks (M1s).
+-   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
+-   **Max Damage:** Weapon damage dealt with full attribute scaling (100/102 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
+-   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
+-   **Bleed:** 10% of the weapon's max damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage. Bleed causes extra blood loss as well. The "**Max Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.7 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
+-   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
+-   **Legendary:** Special weapons which cant be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down without the use of echoes.
 
 ## Types of Weapons
 
@@ -341,7 +342,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>7</td>
   <td>0.85x</td>
-  <td>27.2</td>
+  <td>27.5</td>
 </tr>
 <tr>
   <td><p><a href="https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets"><font>Drakemaw Gauntlets</font></a> (<b>Bleed</b>)</p></td>
@@ -1880,52 +1881,33 @@ Offhand weapons are weapons that can be wielded at the same time along with your
 
 ## Calculating Damage and Attack Speed
 
-This is the formula used to calculate the damaged that is scaled based on one attribute:
+This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers).
 
--   S c a l i n g D a m a g e \= B a s e D m g × A t t r i b u t e S c a l i n g × A t t r i b u t e L e v e l × \[ 1 + ( P r o f i c i e n c y × 0.05 ) \] {\\displaystyle ScalingDamage = BaseDmg \\times AttributeScaling \\times AttributeLevel \\times \\bigl \\lbrack 1 + \\left ( Proficiency \\times 0.05 \\right ) \\bigr \\rbrack } {\\displaystyle ScalingDamage=BaseDmg\\times AttributeScaling\\times AttributeLevel\\times {\\bigl \\lbrack }1+\\left(Proficiency\\times 0.05\\right){\\bigr \\rbrack }}
-
-  
-This is the formula for calculating the total sum of damages scaled based on N attributes, where N is the number attributes and k is the index that goes from 1 to N:
-
--   T o t a l S c a l i n g D a m a g e \= ∑ k \= 1 N S c a l i n g D a m a g e k {\\displaystyle TotalScalingDamage = \\sum\_{k=1}^N ScalingDamage\_k } {\\displaystyle TotalScalingDamage=\\sum \_{k=1}^{N}ScalingDamage\_{k}}
-
-This means that if there are 2 attributes on which the damage scales:
-
--   T o t a l S c a l i n g D a m a g e \= ∑ k \= 1 2 S c a l i n g D a m a g e k \= S c a l i n g D a m a g e A t t r i b u t e 1 + S c a l i n g D a m a g e A t t r i b u t e 2 {\\displaystyle TotalScalingDamage = \\sum\_{k=1}^2 ScalingDamage\_k = ScalingDamage\_{Attribute1} + ScalingDamage\_{Attribute2} } {\\displaystyle TotalScalingDamage=\\sum \_{k=1}^{2}ScalingDamage\_{k}=ScalingDamage\_{Attribute1}+ScalingDamage\_{Attribute2}}
-
-Therefore (the names have been shortened to fit the formula in the page):
-
--   T S D \= { B D × A 1 S c l × A 1 L v l × \[ 1 + ( P f y × 0.05 ) \] } + { B D × A 2 S c l × A 2 L v l × \[ 1 + ( P f y × 0.05 ) \] } {\\displaystyle TSD = \\Bigl \\lbrace BD \\times A1Scl \\times A1Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace + \\Bigl \\lbrace BD \\times A2Scl \\times A2Lvl \\times \\bigl \\lbrack 1 + \\left ( Pfy \\times 0.05 \\right ) \\bigr \\rbrack \\Bigr \\rbrace } {\\displaystyle TSD={\\Bigl \\lbrace }BD\\times A1Scl\\times A1Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }+{\\Bigl \\lbrace }BD\\times A2Scl\\times A2Lvl\\times {\\bigl \\lbrack }1+\\left(Pfy\\times 0.05\\right){\\bigr \\rbrack }{\\Bigr \\rbrace }}
-
-Which can be simplified as:
-
--   T S D \= B D × ( A 1 S c l × A 1 L v l + A 2 S c l × A 2 L v l ) × ( 1 + ( P f y × 0.05 ) ) {\\displaystyle TSD = BD \\times \\left( A1Scl \\times A1Lvl + A2Scl \\times A2Lvl \\right) \\times \\left(1 + \\left(Pfy \\times 0.05\\right)\\right) } {\\displaystyle TSD=BD\\times \\left(A1Scl\\times A1Lvl+A2Scl\\times A2Lvl\\right)\\times \\left(1+\\left(Pfy\\times 0.05\\right)\\right)}
-
-  
-The formula to calculate the total amount of damage, with scaling taken into account is:
-
--   D a m a g e \= 0.75 × ( T o t a l S c a l i n g D a m a g e 1000 ) + B a s e D m g {\\displaystyle Damage = 0.75 \\times \\left ( \\frac { TotalScalingDamage }{ 1000 } \\right ) + BaseDmg } {\\displaystyle Damage=0.75\\times \\left({\\frac {TotalScalingDamage}{1000}}\\right)+BaseDmg}
+-   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.05)\]} + BaseDamage
 
 _[Damage calculator (Single Attribute Scaling weapons)](https://www.desmos.com/calculator/boe1cx95jl)_
 
 _[Damage calculator (Dual-Attribute Scaling weapons)](https://www.desmos.com/calculator/ltegxv7lc2)_
 
-The formula to calculate the damage with multipliers taken into account is:
+The formula to calculate the damage with damage multipliers taken into account is:
 
--   M u l t i p l i e d D a m a g e \= D a m a g e ∗ ( 1 + M u l t i p l i e r s S u m % 100 ) {\\displaystyle MultipliedDamage = Damage \* \\left ( 1 + \\frac{MultipliersSum\\%}{100} \\right) } {\\displaystyle MultipliedDamage=Damage\*\\left(1+{\\frac {MultipliersSum\\%}{100}}\\right)}
+-   MultipliedDamage = WeaponDamage x (1 + DamageModifiers%/100)
+
+The formula to calculate the damage of a weapon including bleed is
+
+-   BleedDamage = WeaponDamage x 1.3 or BleedMultipliedDamage = WeaponDamage x (1 + \[DamageModifiers% + 30%\]/100)
 
   
-The formula to calculate the damage with **Bleed** taken into account is:
 
--   B l e e d D a m a g e \= D a m a g e ∗ 1.3 or B l e e d M u l t i p l i e d D a m a g e \= M u l t i p l i e d D a m a g e ∗ 1.3 {\\displaystyle BleedDamage = Damage \* 1.3 \\qquad \\text{or} \\qquad BleedMultipliedDamage = MultipliedDamage \* 1.3 } {\\displaystyle BleedDamage=Damage\*1.3\\qquad {\\text{or}}\\qquad BleedMultipliedDamage=MultipliedDamage\*1.3}
-
-_[Damage calculator for penetration, armor and natural armor (Verse 2 compatible)](https://www.desmos.com/calculator/lq0vvmous8?lang=en)_
-
-Your attack's speed in seconds is approximately half the inverse of its Swing Speed stat (the higher the stat, the quicker the attack). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, and a weapon with 1.0x would take close to 0.5 seconds to swing.
+The time it takes for your weapon to swing in seconds is approximately half the inverse of its swing speed (the higher the swing speed, the quicker the weapon swings). Therefore, a weapon with 0.5x swing speed would take close to 1 second to swing, while a weapon with 1.0x swing speed would take close to 0.5 seconds to swing.
 
 Players can use this formula to figure out their attack speed.
 
 A t t a c k S p e e d \= ( 1 S w i n g S p e e d ) ÷ 2 {\\displaystyle Attack Speed = (\\tfrac{1}{SwingSpeed}) \\div 2} {\\displaystyle AttackSpeed=({\\tfrac {1}{SwingSpeed}})\\div 2}
+
+The formula below can be used to find a weapon's DPS (damage per second) without factoring in bleed, endlag, or client delay (ping).
+
+D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS = Weapon Damage \\times {Swingspeed} \\times2 } {\\displaystyle DPS=WeaponDamage\\times {Swingspeed}\\times 2}
 
 ## Trivia
 

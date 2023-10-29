@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 79396
+revid: 79446
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -58,24 +58,24 @@ It returned this year on October 27th. The first Hallowtide added...
 
 -   The Hallowtide update added a special new variant for each race in the game. To unlock the Hallowtide race variants, you will have to turn in 70 "Joy" to Lysander Spellhardt who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by wiping and choosing your Hallowtide Variant in the character customization screen.
 
-### Exclusive NPCs and Variants: (being worked on, bear with us)
+### Exclusive NPCs and Variants:
 
 #### Lightborns:
 
--   Everis (Transport)
--   Antiquarian
--   Blacksmith
--   Leaf (Mantra Mod Buyer)
+-   Everis
+-   [Antiquarian](Antiquarian.md)
+-   [Blacksmith](Blacksmith.md)
+-   [Leaf](Mantra_Collector.md)
 -   Green
--   Tundra
--   Mikhail (Food Merchant)
--   Lysander Spellhardt
--   Glaive Spellhardt
--   Alina Spellhardt
+-   [Tundra](Tundra_Spellhardt.md)
+-   Mikhail
+-   [Lysander Spellhardt](Lysander_Spellhardt.md)
+-   [Glaive Spellhardt](Glaive_Spellhardt.md)
+-   Alina
 
 #### Unknown/Exclusive
 
--   Hallowtide Caller (Transport)
+-   [Hallowtide Caller](Hallowtide.md)
 -   Suspicious Skeleton (Bone Rattler)
 
 ### Trivia

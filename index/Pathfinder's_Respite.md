@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 76280
+revid: 79424
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -24,7 +24,7 @@ Pathfinder's Respite is a small den with a small spot of flowers in the middle. 
 
 -   [Deep Owl](Deep_Owl.md)
 -   [Megalodaunt](Megalodaunt.md)
--   Etrean Naval Guard
+-   [Etrean Soldier](Etrean_Soldier.md)
 -   [Authority Footsoldier](Authority_Officer.md)
 -   [Legion Captain](Legion_Captain.md)
 
