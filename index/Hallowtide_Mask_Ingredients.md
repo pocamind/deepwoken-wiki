@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 77557
+revid: 79501
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, World, Items]
@@ -17,7 +17,7 @@ categories: [Weapons, World, Items]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Lower Erisia Chests, Upper Erisia Chests, Fishing Chests, Songseeker Chests, Lighthouse Chests (Ones that randomly spawn there) |
+| obtainment | Lower Erisia Chests, Upper Erisia Chests, Depths Chests, Fishing Chests, Songseeker Chests, Lighthouse Chests (Ones that randomly spawn there) |
 | description | A small vial of dark black ink, perfect for illustrations. |
 
 | Paperette | |

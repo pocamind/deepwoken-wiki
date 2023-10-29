@@ -1,6 +1,6 @@
 ---
 title: "Familiar Priest's Helm"
-revid: 77133
+revid: 79554
 source: https://deepwoken.fandom.com/wiki/Familiar_Priest's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment]
@@ -10,15 +10,15 @@ categories: [Head, Helmets, Equipment]
 
 | Familiar Priest's Helm | |
 |---|---|
-| type | Face |
-| rarity | ??? |
-| requirements | N/A |
-| weight | 0.5 |
+| type | Head |
+| rarity | Legendary |
+| selling price | 50 |
+| weight | 1 |
 | innate stats | +10 HP, 1 + 1 Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
+| enchantable | Yes |
 | pass down | Yes |
 | obtainment | Hallowtide |
 | description | "A familiar helm said to have been passed down by a wayward line of a distant land." |

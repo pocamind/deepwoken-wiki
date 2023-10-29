@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 79175
+revid: 79558
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -907,6 +907,25 @@ Found from:
  | N/A |
 |  | 
 
+[Mushroom Costume](Mushroom_Costume.md)
+
+(Hallowtide)
+
+(**Series**)
+
+ | 
+
+Cosmetic
+
+ | 
+
+Found from:
+
+-   [Hallowtide (Event)](Hallowtide.md)
+
+ | Mushroom, Glowshroom, & Metalshroom |
+|  | 
+
 [Phalanx Helmet](Phalanx_Helmet.md)
 
  | 
@@ -924,6 +943,23 @@ _+Talent: Precise Swing_
 Found from:
 
 -   [Second Layer](Second_Layer.md)
+
+ | N/A |
+|  | 
+
+[Pumpkin Head](Pumpkin_Head.md)
+
+(Hallowtide)
+
+ | 
+
+Cosmetic
+
+ | 
+
+Found from:
+
+-   [Hallowtide (Event)](Hallowtide.md)
 
  | N/A |
 | File:Royal Guard's Kabuto.png | 

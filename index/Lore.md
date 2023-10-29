@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 79260
+revid: 79547
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -456,6 +456,13 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 -   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
+
+### **Songmast'r Tzaraan**
+
+**Lore Sources:** _Yamaketzel (Mentioned)_
+
+-   Songseeker Mistress
+-   Possible Songseeker leader(?)
 
 ## Locations
 

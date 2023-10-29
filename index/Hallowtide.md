@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 79446
+revid: 79500
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -76,7 +76,7 @@ It returned this year on October 27th. The first Hallowtide added...
 #### Unknown/Exclusive
 
 -   [Hallowtide Caller](Hallowtide.md)
--   Suspicious Skeleton (Bone Rattler)
+-   [Suspicious Skeleton (Bone Rattler)](Suspicious_Skeleton.md)
 
 ### Trivia
 

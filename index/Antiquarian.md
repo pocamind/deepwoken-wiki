@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 79401
+revid: 79519
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World, Vendors]
