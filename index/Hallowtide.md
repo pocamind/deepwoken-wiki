@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 79578
+revid: 79727
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -45,6 +45,7 @@ It returned this year on October 27th. The first Hallowtide added...
 ### Joy
 
 -   Joy had been obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E.
+    -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
 
 ### New Helmets

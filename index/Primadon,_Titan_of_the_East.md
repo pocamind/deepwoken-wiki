@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 79107
+revid: 79719
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -136,4 +136,3 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
 -   The Deep Calls is extremely finicky and will have a chance to not activate.
--   According to Ragoozer (and maybe some other devs), Primadon is related to Imam Ali.

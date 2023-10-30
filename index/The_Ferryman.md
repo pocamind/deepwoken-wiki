@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 79584
+revid: 79750
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -17,7 +17,7 @@ The flames have called the Ferryman! ”
 
 Template:Creature Infobox V3
 
-## Description’s
+## Description
 
 **The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. In reality, the Ferryman actively despises the mortals who dwell on the surface and toys with them, playing "games" that involve their life and death. At one point hailing from 'the dregs of the dregs,' he was mistreated by the people of the surface. As a result, he returns the favour by tormenting them. Despite only being a Lesser Krulian, he is ludicrously powerful, on par with the [Lord Regent](The_Lord_Regent.md), even while empowered by his throne. In-fact defeating him won't even kill him. Even after all this, the ritual actually weakens him, not only is he holding back, he's far weaker than normal. Let that sink in as he grand javelins you back to your spawn point.
 
@@ -191,7 +191,8 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
   <td>Post-fight, after multiple defeats, in <font>Spring</font> or <font>Summer</font></td>
 </tr>
 <tr>
-  <td><font>*<i>He yawns deeply.*</i> <b>Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?</b></font></td>
+  <td>*<i>He yawns deeply.*</i> <font><b>Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?</b></font><br>
+  </td>
   <td><font><b>Oh, back again? Heh, how about another wager?</b></font></td>
   <td><font><b>Well done, well done!</b></font></td>
   <td><font><b>Well done, well done!</b></font></td>
@@ -203,7 +204,8 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
   <td>Who are you?</td>
 </tr>
 <tr>
-  <td><font><b>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.</b></font></td>
+  <td><font><b>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.</b></font><br>
+  </td>
   <td>*Fight Begins*</td>
   <td><font><b>Oh, again with these questions... Maybe I'll tell you some other time. For now, your reward!</b></font></td>
   <td><font><b>I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</b></font></td>
@@ -215,13 +217,15 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
   <td rowspan="6"></td>
 </tr>
 <tr>
-  <td><font><b>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?</b></font></td>
+  <td><font><b>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?</b></font><br>
+  </td>
 </tr>
 <tr>
   <td>A wager?</td>
 </tr>
 <tr>
-  <td><font><b>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?</b></font></td>
+  <td><font><b>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?</b></font><br>
+  </td>
 </tr>
 <tr>
   <td>Deal.</td>

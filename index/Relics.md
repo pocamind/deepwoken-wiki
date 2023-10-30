@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 79009
+revid: 79738
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -67,7 +67,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | **[Smith's Alloy](<Smith's_Alloy.md>)** - A cruder form of the famed Pluripotent Alloy that adds a quality star to your currently held weapon, or rerolls the quality-type of your currently held weapon if it already has 3 stars.
 
--   _(One-time use, re-obtainable)_
+-   _(Consumed upon usage)_
 
  | 
 
@@ -83,7 +83,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
   
 Can be used in any location.
 
--   _(One-time use, re-obtainable)_
+-   _(Consumed upon usage)_
 
  | 
 
@@ -98,7 +98,7 @@ File:Sinner's Ash.png
 
  | **[Sinner's Ash](<Sinner's_Ash.md>)** - Remnants of the Forge of Sin that is used to corrupt your [Resonance](Resonance.md).
 
--   _(One-time use, re-obtainable)_
+-   _(Consumed upon usage)_
 
  | 
 
@@ -115,7 +115,7 @@ File:Moonseye Tome.png
   
 It grants the user +20 knowledge on subsequent uses.
 
--   _(Multiple-Uses, re-obtainable)_
+-   _(Consumed upon usage)_
 
  | 
 

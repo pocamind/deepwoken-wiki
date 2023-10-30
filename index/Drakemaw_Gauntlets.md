@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 79712
+revid: 79744
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -28,4 +28,4 @@ categories: [Weapons, Fists]
 
 ## Description
 
-The Drakemaw Gauntlets is a LHT weapon in the Fists category. It is obtained by getting 100 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive](Glaive_Spellhardt.md) or as a reward from a chest in the Trial of the Gourdskipper.
+The Drakemaw Gauntlets is a Light Weapon in the Fists category. It is obtained by getting 100 [Hallowtide](Hallowtide.md) Joy and being bought by [Glaive](Glaive_Spellhardt.md), or as a reward from a chest in the Trial of the Gourdskipper.

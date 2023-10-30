@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79610
+revid: 79718
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1609,7 +1609,7 @@ _**"I often attack others."**_
     -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
     -   This is very useful as a [Deepbound](https://deepwoken.fandom.com/wiki/Origins?so=search#Deepbound) as [Castle Light](Castle_Light.md) guards have extremely high health and will help you kill attackers.
 
--   Celebrity \[Common Talent\] - Your reputation caps out higher.
+-   Celebrity \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.
     -   Prerequisite: 40 Charisma
 
 -   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
