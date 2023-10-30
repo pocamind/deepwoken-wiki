@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 79547
+revid: 79772
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -457,12 +457,12 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 
-### **Songmast'r Tzaraan**
+### **Songmaster Tzaraan**
 
 **Lore Sources:** _Yamaketzel (Mentioned)_
 
--   Songseeker Mistress
--   Possible Songseeker leader(?)
+-   Songseeker Mistress[\[7\]](#cite-note-yama-7)
+-   A sort of teacher to the Songseekers. Encourages a level of freedom, so long as said freedom aligns with her beliefs.[\[7\]](#cite-note-yama-7)
 
 ## Locations
 
@@ -2125,7 +2125,7 @@ Talking Mudskippers
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [4.2](#cite-ref-firstlight-4-2) [4.3](#cite-ref-firstlight-4-3) [4.4](#cite-ref-firstlight-4-4) [4.5](#cite-ref-firstlight-4-5) [4.6](#cite-ref-firstlight-4-6) [4.7](#cite-ref-firstlight-4-7) [First Light](First_Light.md) description
 5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 6.  ↑ [6.0](#cite-ref-stormseye-6-0) [6.1](#cite-ref-stormseye-6-1) [6.2](#cite-ref-stormseye-6-2) [Stormseye](Stormseye.md) description
-7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [Yamaketzal](Yamaketzal.md)
+7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [7.2](#cite-ref-yama-7-2) [7.3](#cite-ref-yama-7-3) [Yamaketzal](Yamaketzal.md)
 8.  ↑ [8.0](#cite-ref-gran-8-0) [8.1](#cite-ref-gran-8-1) [Gran Sudaruska](Gran_Sudaruska.md) description
 9.  ↑ [9.0](#cite-ref-dsgs-9-0) [9.1](#cite-ref-dsgs-9-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
 10.  [↑](#cite-ref-railblade-10-0) [Railblade](Railblade.md) description

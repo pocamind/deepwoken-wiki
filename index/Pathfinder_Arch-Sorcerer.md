@@ -1,9 +1,9 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 56415
+revid: 79792
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Items, Outfits]
 ---
 
 # Pathfinder Arch-Sorcerer
@@ -33,8 +33,8 @@ This Outfit's Schematic can be found in:
 -   [Lower Erisia](Lower_Erisia.md)
 -   Can be purchased for 45 notes on top of the mantra store at Etris.
 
-## Trivia/Notes
+## Trivia
 
 -   Similar to Robin's outfit from the Fire Emblem series.
 -   Expect to get a minimum of +40 Ether on common builds, with an upper limit of +100 Ether with certain talent and oaths.
--   It's a superior version of [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md)
+-   It's a superior version of [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).

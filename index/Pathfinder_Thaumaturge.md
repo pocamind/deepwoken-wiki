@@ -1,9 +1,9 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 76142
+revid: 79793
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Items, Outfits]
 ---
 
 # Pathfinder Thaumaturge
@@ -18,7 +18,7 @@ Template:ArmorInfobox
 
 This Outfit costs and requires (5) Fiber, (5) Cloth and (1) Rock.
 
-This Outfit requires 10 Intelligence and [Power Level](Talents.md) 15.
+This Outfit requires 10 Intelligence and Power 15.
 
 ### _Armor Stats_
 
@@ -39,4 +39,4 @@ This outfit can be found in:
 
 -   The Pathfinder Thaumaturge is a recolored version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md)
 -   The Pathfinder Thaumaturge is an superior version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md)
--   The Pathfinder Thaumaturge is an inferior version of the [Pathfinder Arch-Sorcerer.](Pathfinder_Arch-Sorcerer.md)
+-   The Pathfinder Thaumaturge is an inferior version of the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md).

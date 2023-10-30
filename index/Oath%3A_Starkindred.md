@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 77931
+revid: 79796
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -77,8 +77,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecharm](Flamecharm.md) [Mantra](Mantras.md) Fire Blade is modified by this Oath, causing the user to periodically rise into the sky, and unleash a screen shaking, heavily enhanced, multi-hitting Fire Blade, several times the size of the original. This effect can be disabled with the use of a [Reversal Spark](Mantra_Modifiers.md). As for appearance, aside from the wings, a white collar with 4 spikes connected to it will continuously circle around the user's neck.
 
-## Notes
+## Trivia
 
+-   Starkindred's mantras scale on Strength.
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 -   This oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.

@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 73181
+revid: 79763
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -12,12 +12,12 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Hive Arbiter is a variant of an [Hive Adjudicator](<Hive_Adjudicator_(NPC).md>) that only spawns in the following events:
+A Hive Scout is a variant of an [Hive Adjudicator](<Hive_Adjudicator_(NPC).md>) that only spawns in the following events:
 
 -   Hive Soldiers vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Soldiers vs. [King Thresher](Thresher.md) (Starswept Valley)
 
-They wear pair of [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) and [Redsteel boots](Redsteel_Boots.md) along with a pair of either [Crystal Pendant](Crystal_Pendant_Earrings.md) or [Dew Drop Earrings](Dew_Drop_Earrings.md). In addition, they also wear the Hive Adjudicator [Outfit](Outfits.md).
+They wear pair of [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) and [Redsteel boots](Redsteel_Boots.md) along with a pair of either [Crystal Pendant](Crystal_Pendant_Earrings.md) or [Dew Drop Earrings](Dew_Drop_Earrings.md). In addition, they also wear the [Hive Drone](Hive_Drone.md) [outfit](Outfits.md).
 
 ## Moveset
 

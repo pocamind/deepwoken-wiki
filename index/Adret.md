@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 77547
+revid: 79797
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -71,10 +71,7 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 **Weaknesses:**
 
   
-
--   Natural Autodidact is useless at power 20
--   Higher starting reputation may be nullified with the Fugitive flaw (fact check this)
-    
+\*Natural Autodidact is useless at power 20
 
 **Surnames:**
 
@@ -98,12 +95,12 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 
 ## Trivia
 
--   An NPC in the [Summer Isle](Summer_Isle.md) (called Ishan) refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
+-   An NPC in the [Summer Isle](Summer_Isle.md), [Ishan](Ishan.md), refers to the _Adrets_ as "_different_", stating that they did not come from the "Old World", but rather from somewhere else. He also cites that they are the only race that is not related to an animal.
     -   He theorizes they come from the waves.
 -   The Central Authority's higher, more valuable and more skilled ranks are comprised of Adretian fighters.
     -   According to Shirafune, the Adret come from the Central Luminant, their technology and military far beyond what the Etrean Luminant can offer. However, without the keepers of the Lighthouse it becomes impossible to traverse the Voidsea, stalemating a losing war.
 -   There is a fourth variant which is a slightly lighter toned version of the third variant shown.
--   Archmage did confirm that the Adret are **not** fish because they are (not) stupid and can't swim.
+-   Archmage did confirm that the Adret are **not** fish because they are stupid and can't swim.
     
 -   According to Archmage, Adrets were made with some inspiration from the Goliath race from D&D and Obligators from Mistborn. Their face tattoos are directly inspired by Mistborn.
     
