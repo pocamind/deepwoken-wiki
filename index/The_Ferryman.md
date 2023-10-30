@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 79750
+revid: 79755
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -19,7 +19,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-**The Ferryman** is a mysterious [Krulian](Krulian.md) [Boss](Bosses.md) referenced in some old folklore of the surface world, encountered at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. In reality, the Ferryman actively despises the mortals who dwell on the surface and toys with them, playing "games" that involve their life and death. At one point hailing from 'the dregs of the dregs,' he was mistreated by the people of the surface. As a result, he returns the favour by tormenting them. Despite only being a Lesser Krulian, he is ludicrously powerful, on par with the [Lord Regent](The_Lord_Regent.md), even while empowered by his throne. In-fact defeating him won't even kill him. Even after all this, the ritual actually weakens him, not only is he holding back, he's far weaker than normal. Let that sink in as he grand javelins you back to your spawn point.
+**The Ferryman** is a [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). An strange figure referenced in old folklore of the surface world, he is a member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Deepwoken.
+
+According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. In reality, the Ferryman actively despises the mortals who dwell on the surface and toys with them, playing "games" that involve their life and death.
+
+An amalgamation of souls[\[1\]](#cite-note-1) dredged up from the "dregs of the dregs", he was mistreated by the people of the surface and returns the favour by tormenting them.
 
 #### Summoning The Ferryman
 
@@ -98,11 +102,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 ### Finishers
 
--   **Boatman's Gaze** - **The Ferryman does not need to manually execute anyone. If you lose all of your health, you die instantly.**
+-   **Boatman's Gaze** - The Ferryman does not need to manually execute anyone. If you lose all of your health, **you die instantly.**
 
 ## Battle
 
-Ferryman is the most "boss-like" Boss in the entire game, as he is not an entity that you can defeat without taking a single step, unlike most other monsters and hostile NPCs encountered in the game. He forces you to move around the battlefield, which he has near total control of at all times, which makes it an absolute must to keep track of where he is and what he's going to do. Acute awareness and quick reaction times are required to survive this battle in one piece.
+Unlike other enemy NPCs and bosses, fighting the Ferryman requires that the player be constantly moving around his arena to dodge attacks or get hits in during brief vulnerable periods. He forces you to move around a battlefield that he has near total control of at all times, which makes it an absolute must to keep track of where he is and what he's going to do. Acute awareness and quick reaction times are required to survive this battle in one piece.
 
 The fight is split into two phases, with phase two starting once he hits half health. **If fought with more than 1 person,** he scales in almost every stat, gaining more speed, attack, health, and reducing time between attacks and time to hit him by about 20% per player.
 
@@ -114,13 +118,13 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 
 ### In General
 
--   A near necessity for the fight is using [fires](Campfire_Pit.md) to heal, which you must place manually. Always place at least one before the fight, as the purple ritual fires cannot be used to heal. Ferryman used to be able to be easily defeated by standing outside of his range and healing, where he would basically be stuck forever, and unable to attack. Now, standing outside of his range, while still delaying him somewhat, will **NOT** guarantee your safety. Always keep something to light a campfire with, as if you run out mid-fight, you won't be able to conventionally heal. It is also recommended that you place a campfire behind cover so his Grand Volley does not hit you while healing.
+-   A near necessity for the fight is using [Campfires](Campfire_Pit.md) to heal, which you must place manually. Always place at least one before the fight, as the purple ritual fires cannot be used to heal. Always keep something to light a campfire with, as if you run out mid-fight, you won't be able to conventionally heal. It is also recommended that you place a campfire behind cover so his Grand Volley does not hit you while healing.
     -   _Try to heal at most one bar before continuing the fight. If in dire need, try to go for two._
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to six specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
--   It is a good idea to turn on your in-game music in this fight, as his theme changes with his phase, which helps prevent tragic situations against a certain move of his.
--   Tacet can trivialise the fight. By going behind a rock and using tacet, then resting at a campfire, you can heal without any risk of him attacking you. His AI will lose track of you and he will teleport around the arena without using any of his attacks.
+-   It is a good idea to turn on your in-game music in this fight as his theme changes with his phase.
+-   [Tacet](Murmur.md#murmur-tacet) can trivialise the fight. By going behind a rock and using Tacet, then resting at a campfire, you can heal without any risk of him attacking you. His AI will lose track of you and he will teleport around the arena without using any of his attacks.
     
 
 **Phase One:**
@@ -130,7 +134,7 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 Phase one is obviously the easier phase, a way to ease you into the battle before the real fight comes. There is plenty of time to catch your breath and heal, and the attacks are easy to parry or dodge.
 
 -   **Displacement** - Never try to attack Ferryman with all you have if you've been delaying him, getting close to him after not attacking him for a while will cause him to immediately teleport. Run up close to him, and then instantly turn around and use a mobility mantra to get as close as possible during his next attack. As long as you don't stand on top of him, you can get pretty close without him teleporting. About a Medium weapon's reach away.
--   **Lightning Clones** - The least threatening of Ferryman's moves and gives the most time to heal of any attack. You cannot punish this move after it is performed, however, so try to dive in with an aerial or dash attack whilst he's in the middle of his summoning. Clones function like normal NPCs but die after attacking you or getting hit once.
+-   **Lightning Clones** - The least threatening of Ferryman's moves and gives the most time to heal of any attack. You cannot punish this move after it is performed, however, so try to dive in with an aerial or dash attack whilst he's in the middle of his summoning. Clones function like normal NPCs but disappear after attacking you or getting hit once.
 -   **Lighting Strike** - If lucky, you can straight up run at him while it's being used, although combining dashes, slides, and mobility mantras is recommended to close the gap safer/faster. Like Lightning Clones, hitting him once will disable the rest of the ability, letting you deal more damage safely without having to weave around the lightning strikes. Relatively easy to parry and dodge.
 -   **Lightning Assault** - Ferryman's first move that can be tricky to deal with and can deal relatively high damage if all of its hits are landed. The dashes are in specific intervals and can be easily reacted to. While it can be blocked, they take a significant amount of posture. However, depending on distance, if the Ferryman detects an obstacle in his way, he will stop his Lightning Assault weaves prematurely and move on to the next Lightning Assault strike. This can make it very hard to predict the parry timings, so try to face towards an open area when parrying the attacks. Parrying each one separately guarantees an open window to attack the Ferryman. The window is long enough for 3 hits with a Medium Weapon before he teleports. If any of the slashes are not parried, he will not give you a moment to attack him and will instead teleport away if you try to hit him.
     
@@ -139,7 +143,7 @@ Phase one is obviously the easier phase, a way to ease you into the battle befor
 
 ### Phase Two
 
-Phase two is where it gets real- the true fight. All of his previous attacks get upgraded, with him also ditching the easiest one, Lightning Clones, and replacing it with the most stress inducing: Grand Volley. Overall, he teleports faster, gives less delay between attacks, and teleports much more aggressively. However, your attack window after his Assault and Strike moves is increased.
+Phase two is where it gets real -- the true fight. All of his previous attacks get upgraded, with him also ditching the easiest one, Lightning Clones, and replacing it with the most stress inducing: Grand Volley. Overall, he teleports faster, gives less delay between attacks, and teleports much more aggressively. However, your attack window after his Assault and Strike moves is increased.
 
 -   **Displacement** - As said before, Ferryman begins to teleport with less delay and much closer to the player, and even doing more attacks before giving time to hit him, can be especially deadly if getting hit something like Electromagnetic Pulse and then Grand Volley.
 -   **Lighting Strike** - Lightning strike is somewhat of a threat now, becoming much faster and dealing many more AoE's, along with more damage. If unlucky, you can get hit with one and just be forced to eat all the other ones and take massive damage, although if lucky, you can parry all of them by parrying the first one and simply holding. The attack tends to trail behind you if you're sprinting, however, so it can be easily punished. If you are not damaged, Medium Weapons can get about 3-4 hits in.
@@ -150,7 +154,7 @@ Phase two is where it gets real- the true fight. All of his previous attacks get
 
 As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
 
-The best way to damage The Ferryman is to spam m1s whenever his Lightning Strikes Attack is done. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and instead must rely on your ability to be strategic with parrying and defense.
+The best way to damage The Ferryman is to spam M1s whenever his Lightning Strikes Attack is done. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and instead must rely on your ability to be strategic with parrying and defense.
 
 ## Rewards
 
@@ -193,7 +197,8 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
 <tr>
   <td>*<i>He yawns deeply.*</i> <font><b>Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?</b></font><br>
   </td>
-  <td><font><b>Oh, back again? Heh, how about another wager?</b></font></td>
+  <td><font><b>Oh, back again? Heh, how about another wager?</b></font><br>
+  </td>
   <td><font><b>Well done, well done!</b></font></td>
   <td><font><b>Well done, well done!</b></font></td>
 </tr>
@@ -249,26 +254,21 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   Ferryman Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
--   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
+-   The Ferryman is confirmed by Arch\_Mage[\[2\]](#cite-note-2) to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
-        
-        _Verification from Arch\_Mage that they aren't related._
-        
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
--   The Ferryman is stated to be "Probably Bi" by Arch\_Mage.
-
--   Dying to the ferryman will turn your screen grey as though you were still in the Voidsea, this may be a bug with the Voidsea in general.
+-   Arch\_Mage has stated that the Ferryman is "probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality)".[\[3\]](#cite-note-3)
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
 -   The Ferryman's clones can drop luck particles which give you an investment point.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
--   Yamaketzal will mention bits of lore about the ferryman, though the full story is unknown.
--   Players who begin the ritual will now be transferred to an instanced server, which will ensure that players who are completing the boss fight do not get ganked by players any more. The Ferryman used to be a ganking place for people to ambush those who were doing the boss fight.
+-   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
+-   The Ferryman is voiced by [Demstormz](https://www.youtube.com/@demstormz).
 
 ## Bugs
 
@@ -276,3 +276,9 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
 -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.
 -   The Ferryman's Lightning Assault will speed up if he pathfinds into a wall during the previous Lightning Assaults.
+
+## References
+
+1.  [↑](#cite-ref-1) [https://discord.com/channels/920707638034067486/972707935484538911/1096468055065890916](https://discord.com/channels/920707638034067486/972707935484538911/1096468055065890916)
+2.  [↑](#cite-ref-2) [https://discord.com/channels/920707638034067486/921965510671872030/928516244607496253](https://discord.com/channels/920707638034067486/921965510671872030/928516244607496253)
+3.  [↑](#cite-ref-3) [https://discord.com/channels/920707638034067486/920721426632294521/946057708296097892](https://discord.com/channels/920707638034067486/920721426632294521/946057708296097892)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79718
+revid: 79752
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2357,7 +2357,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   [Oath: Linkstrider](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+2 Support Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Sacrifice 4 players with oaths in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
--   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +2 Mobility Mantra, +8 Passive Agility)
+-   [Oath: Jetstriker](Oath%253A_Jetstriker.md) - You vow to flow with the song itself, drifting across where the trails may take you. If the song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility)
     -   Prerequisites: 50 agility and beat [Alirian](Alirian.md) in race.
 
 -   [Oath: Starkindred](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+2 Combat Mantra Slots, +8 Health)
