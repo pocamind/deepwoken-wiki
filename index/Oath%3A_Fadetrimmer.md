@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 77930
+revid: 79655
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -48,6 +48,7 @@ This oath is fully upgraded once you get it.
     -   Snip forward 3 times with your scissors!
 -   **Close Shave** **★★★ - Combat Mantra**
     -   Close the distance and deliver a fast slash.
+    -   Tip! You can use this mantra for movement, and as a budget radiant kick.
 -   **Barber's Skillset - Passive**
     -   What type of look are we going for today?
         -   Changes what haircut Precision Cuts (Close Shave also works, but is less reliable for some reason) will give people.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 79549
+revid: 79708
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -30,7 +30,7 @@ categories: [Pages with broken file links, Oaths]
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline.
 3.  Complete the Duke questline.
 4.  Go to Lord regent after defeating Duke and choose the special dialogue “Bite your tongue."
-5.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md). Any Deep Shrines Prior to doing the regent quest count towards contractor. ([Shrine of Conceit](Deep_Shrines.md#shrine-of-conceit) requires further testing, would not rely on it.)
+5.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md). Any Deep Shrines Prior to doing the regent quest count towards contractor. (Shrine of conceit has been tested and it works.)
 6.  Unlock your [Resonance](Resonance.md).
 7.  Go to the Depths and talk to Yun'Shul. Ask it "What happened to this place?" (A wish is not necessary.)
 8.  Go back to Regent and tell him you know what happened. When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you won't be locked out of obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
@@ -41,7 +41,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Upgrading
 
-As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with Oaths in Layer 1, Scyphozia. Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
+As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with Oaths in Layer 1, Scyphozia. This will send them to Layer 2. Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
 
 -   1st Grip - Hidden Tendril and Lords Slice
 -   2nd Grip - Equalizer

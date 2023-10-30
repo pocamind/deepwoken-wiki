@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 79580
+revid: 79709
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -80,9 +80,9 @@ Enemy-Neutral Reputation
 
 ## Trivia
 
--   Whilst being executed, Ignition Union NPCs may call the player a "scab". A [scab](https://en.wikipedia.org/wiki/Strikebreaker#) is a pejorative term for individuals hired during an ongoing labour strike to keep a company operating at the bare minimum efficiency until the strike is dissolved.
--   The Ignition Union has its own [anthem](Books.md#the-hammers-call), titled "The Hammer's Call". In-universe, it is a modern adaptation of an [Adretian](Adret.md) folk song penned by a "Gawain Corbet" in the year 1272.
-    -   This makes it the second faction to have an in-universe song associated with them, after the [Central Authority](The_Central_Authority.md).
+-   Whilst being executed, Ignition Union NPCs may call the player a "scab". A [scab](https://en.wikipedia.org/wiki/Strikebreaker#) is a pejorative term for individuals hired during an ongoing labour strike to keep a company operating at the bare minimum efficiency until the strike is dissolved. Alternatively, it may just be an insult based on the substances that forms over wounds.
+-   The Ignition Union has its own [anthem](Books.md#the-hammers-call), titled "The Hammer's Call," a modern adaptation of an [Adretian](Adret.md) folk song penned by a "Gawain Corbet" in the year 1272.
+    -   This makes it the second faction, along with the [Summer Company](The_Summer_Company.md), to have an in-universe song associated with them, after [The Central Authority](The_Central_Authority.md).
 -   [Miner's Landing](<Miner's_Landing.md>) is the only city in-game to be focused on industrialism more than medievalism.
 -   The Ignition Union is one of the four factions who have an [Oath](Oaths.md) tied to them.
 -   One of two factions to create and utilise [Monsters](Monsters.md), the other being [The Hive](The_Hive.md).

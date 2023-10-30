@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 79653
+revid: 79654
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,7 +22,7 @@ The Widow's Wail Cemetery is a location that players can teleport to with many p
 
 ## Trial of the Gourdskipper
 
-The Trial of the Gourdskipper a trial where you must survive 8 waves of [Gourdskippers](Mudskipper.md#gourdskipper) using only the Pumpkin Pitch Mantra that replaces your M1's. On certain waves, chests containing Hallowtide weapons & equipment will spawn where players are standing. When you complete all 9 waves you are awarded with 15 [Joy](Joy.md).  
+The Trial of the Gourdskipper a trial where you must survive 8 waves of [Gourdskippers](Mudskipper.md#gourdskipper) using only the Pumpkin Pitch Mantra that replaces your M1's. On certain waves, chests containing Hallowtide weapons & equipment will spawn where players are standing. When you complete all 8 waves you are awarded with 15 [Joy](Joy.md).  
 
 If you get hit by a Gourdskipper during the event, you become infected, and your M1's resemble that of a regular Mudskippers. If you are hit by Pumpkin Pitch twice when you are infected you are teleported outside of the Widow's Wail Cemetery to the portal you came in through. If you are infected and the only person doing the trial then the trial immediately ends and you must wait for it to come off of the cooldown. If you are infected and not doing the trial solo, then you can infect other players for 1 [Joy](Joy.md) per person.  
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 77768
+revid: 79699
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,3 +89,4 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   [Beatra](Beatra.md) also cannot be killed for progression due to her old age.
 -   A very strong oath, it alters the playstyle of the game, however.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
+-   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.
