@@ -1,8 +1,9 @@
 ---
 title: Blueskipper
-revid: 79680
+revid: 79836
 source: https://deepwoken.fandom.com/wiki/Blueskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Blueskipper

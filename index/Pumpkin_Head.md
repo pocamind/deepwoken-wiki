@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 79751
+revid: 79846
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment]
@@ -31,6 +31,6 @@ The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category.
 
 -   This item costs 50 [Joy](Joy.md) in the Hallowtide Shop.
 -   This is the only Hallowtide [Equipment](Equipment.md) item that can't be obtained through the Trial of Gourdskipper.
--   This is the same hat that [Gourdskippers](Mudskipper.md#gourdskipper) and Infecteds wear.
+-   This is the same hat that [Gourdskippers](Gourdskipper.md) and Infecteds wear.
 -   This item is undroppable.
 -   Unlike the [Mushroom Costume](Mushroom_Costume.md) that turns your skin white, This hat does NOT turn your skin or equipment Orange, Despite it happening when Infected in the Trial of Gourdskippers

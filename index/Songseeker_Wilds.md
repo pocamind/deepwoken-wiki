@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 77519
+revid: 79850
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -22,13 +22,13 @@ LocationL Songseeker Wilds LocationR
 
 Songseeker Wilds is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md). It is home to [Ancient Rotlands](Ancient_Rotlands.md), provides a passage to [Minityrsa](Minityrsa.md), and is north of [Summer Isle](Summer_Isle.md).
 
-It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by [ships](Ships_&_Sailing.md).
+It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by [boats](Ships_&_Sailing.md).
 
 ## Contents
 
 ### Small Island
 
--   A mineshaft containing several nodes of Rock, Coal, Iron and Gold.
+-   A mineshaft containing several nodes of [Rock](Ores.md#rock), [Coal](Ores.md#coal), [Iron](Ores.md#iron) and [Gold](Ores.md#gold).
 -   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit, Ongos and Pomar.
 -   A small campsite on top of a hill.
 -   A small tower with a quest NPC named Ezra who tells you to clear out Songseekers at the Derelict Highchurch.
@@ -37,9 +37,9 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 
 -   There are a lot of trees bearing [fruits](Food.md), ranging from [Redd](Redd.md), Plumfruit and Pomar.
 -   A mineshaft that is sealed off by debris, using terrain destroying mantras like Strong Left can open it up, containing several nodes of Rock, Coal, Iron and Gold.
-    -   There are also [Mineskippers](Mudskipper.md) within the mineshaft.
+    -   There are also [Mineskippers](Mudskipper.md#mineskipper) within the mineshaft.
     -   Going up the mineshaft will also lead to the Shrine of Order.
-    -   Along with that, you will find some nodes of Astruline.
+    -   Along with that, you will find some nodes of [Astruline](Ores.md#astruline).
 -   A gateway that leads to the Ancient Rotlands, a [voidzone](Voidzones.md) that was once home to a Celestial.
 -   There are two structures:
     1.  A windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)

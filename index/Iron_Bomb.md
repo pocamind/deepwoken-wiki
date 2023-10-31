@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 73662
+revid: 79858
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -18,7 +18,7 @@ A ball-shaped explosive used to damage monsters and players. It can be thrown wi
 
 ## Obtainments
 
-You are able to get this recipe when you interact with an NPC in [Songseeker Wilds,](Songseeker_Wilds.md) He will then give you a quest to clear a mine beside him filled with [Mineskipper.](Mudskipper.md) When finished return to him and he will gave you a talent called "Family Recipe" which allowing you to craft bombs.
+You are able to get this recipe when you interact with an NPC in [Songseeker Wilds,](Songseeker_Wilds.md) He will then give you a quest to clear a mine beside him filled with [Mineskippers](Mudskipper.md#mineskipper) When finished return to him and he will gave you a talent called "Family Recipe" which allowing you to craft bombs.
 
 ### Recipe
 

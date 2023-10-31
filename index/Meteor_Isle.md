@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 74600
+revid: 79857
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -40,7 +40,7 @@ _Overview of the small village in Meteor Isle._
 
 ## Events
 
--   Falling Meteor - A meteor will fall from the sky, landing on a part of the island and spawn [Meteorskippers](Mudskipper.md).
+-   Falling Meteor - A meteor will fall from the sky, landing on a part of the island and spawn [Meteorskippers](Mudskipper.md#meteorskipper).
 -   Authority Raid - 2 [Authority Soldiers](Authority_Soldier.md) will attack the island.
 
 ## Trivia

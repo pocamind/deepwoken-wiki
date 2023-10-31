@@ -1,8 +1,9 @@
 ---
 title: Redskipper
-revid: 79683
+revid: 79829
 source: https://deepwoken.fandom.com/wiki/Redskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Redskipper

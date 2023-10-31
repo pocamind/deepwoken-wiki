@@ -1,8 +1,9 @@
 ---
 title: Meteorskipper
-revid: 79674
+revid: 79833
 source: https://deepwoken.fandom.com/wiki/Meteorskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Meteorskipper

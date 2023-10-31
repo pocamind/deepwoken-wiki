@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 79695
+revid: 79840
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -297,7 +297,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Enemies that are summoned to fight during the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>). They wield only their fists and wear the castaway armor along with a [Pumpkin Head](Pumpkin_Head.md). They can easily be killed with the Pumpkin Pitch Mantra granted to you through the Trial of the Gourdskipper as it only takes two hits to kill them.
+Enemies that are summoned to fight during the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>). They wield only their fists and wear the castaway armor along with a [Pumpkin Head](Pumpkin_Head.md). They can easily be killed with the Pumpkin Pitch Mantra granted to you through the Trial of the Gourdskipper as it only takes two hits to kill them. Gourdskippers automatically aggro onto the nearest non-infected, though attacking them while infected will cause them to re-aggro onto you, hitting you until you are either knocked, gripped, or out of range.
 
 ## Moveset
 

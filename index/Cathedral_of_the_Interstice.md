@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 75133
+revid: 79847
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,7 +22,7 @@ Once you use the lift to exit the depths, you may face certain enemies. The enem
 | _Trial_ Power | Enemy(s) |
 | --- | --- |
 | 1-3 | Nothing (you are sent up without a fight) |
-| 3.33-6.33 | [Mudskipper Knight](Mudskipper.md) |
+| 3.33-6.33 | [Mudskipper Knight](Mudskipper_Knight.md) |
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
 | 16.66+ | [Enforcer](Enforcer.md) |

@@ -1,8 +1,9 @@
 ---
 title: Mineskipper
-revid: 79676
+revid: 79832
 source: https://deepwoken.fandom.com/wiki/Mineskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Mineskipper
