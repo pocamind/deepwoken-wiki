@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79870
+revid: 79898
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -623,7 +623,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Singularity, 60 Shadowcast, Power 13
 
 -   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected. (+1 Elemental Intensity)
-    -   Prerequisite: Singularity, 65 Shadowcast
+    -   Prerequisite: Singularity, 60 Shadowcast
 
 ### Deepwoken
 
@@ -1059,7 +1059,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Ice Age
 
-> _**"I would see this world freeze."**_
+> _**"I would see this world freeze"**_
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
     -   Prerequisite: 25 Frostdraw.

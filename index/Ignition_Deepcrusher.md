@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 72044
+revid: 79872
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -32,7 +32,7 @@ The Ignition Deepcrusher is a Legendary weapon tied to the Ironsing Attunement.
 
 This weapon can be either a Club or a Sword and changes depending on the stance used:
 
--   While used with 2 hands, this weapon is a Club dealing blunt damage. Additionaly, it will apply 1 stack of Metal Rod for every hit. This stance is meant to synergize with the the Metal Rod mechanic of Ironsing, allowing you to use the pull effect (or other talents that are affected by Metal Rods) more often, at the expense of damage.
+-   While used with 2 hands, this weapon is a Club dealing blunt damage. Additionally, it will apply 1 stack of Metal Rod for every hit. This stance is meant to synergize with the the Metal Rod mechanic of Ironsing, allowing you to use the pull effect (or other talents that are affected by Metal Rods) more often, at the expense of damage.
 -   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains the ability to deal bleed damage, effectively increasing its damage by 30%. This stance is meant to be used if you are looking for pure damage at the expense of utility.
 
 At 100 MED and 100 MTL, this weapon deals 30.6 damage while in Club form, and 30.6 + 9.18 BLD damage while in Sword form.
@@ -47,8 +47,7 @@ The user shoves their weapon into the floor and releases a metal eruption of spi
 -   The Sword form (at 100 MED and 100 MTL) is the second-highest damage sword in the game, second to the [Razor Cutlass](Razor_Cutlass.md) (39.78 vs. 40.95).
 -   Meanwhile, the Club form (at 100 MED and 100 MTL) is the second-highest damage club in the game, beaten by the [Sacred Hammer](Sacred_Hammer.md) (30.6 vs. 33.15).
 -   The weapon is inspired by the [Kirkhammer](https://bloodborne.wiki.fextralife.com/Kirkhammer) from [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne).
--   Based on the similar leftover weapon which required 55 HVY to wield and was in the game for a short period of time, this was most likely supposed to be a heavy weapon at some point during developement.
--   Could be inspired by Limbus Company's "Nagel und Hammer" conglomerate, as it applies "nails" (or rods in this case) on the blunt hit, and bleed on the slash hit.
+-   Based on the similar leftover weapon which required 55 HVY to wield and was in the game for a short period of time, this was most likely supposed to be a heavy weapon at some point during development.
 
   
 

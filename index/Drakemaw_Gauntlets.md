@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 79869
+revid: 79899
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -28,22 +28,9 @@ categories: [Weapons, Fists]
 
 ## Description
 
-The Drakemaw Gauntlets is a Light Weapon in the Fists category. It is obtained by purchasing it from [Glaive](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or as a reward from a chest in the Trial of the Gourdskipper.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+The Drakemaw Gauntlets is a Light Weapon in the Fists category. It is obtained by purchasing it from [Glaive](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or as a reward from a chest in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
 
 ## Trivia
 
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.
--   snas undertle

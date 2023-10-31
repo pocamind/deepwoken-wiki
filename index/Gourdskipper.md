@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 79842
+revid: 79890
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -31,3 +31,7 @@ Scratch
 (Please note that this will only occur if knocked by a player.)
 
  |
+
+## Trivia
+
+-   Although it's rare, Gourdskippers do have a grip animation.

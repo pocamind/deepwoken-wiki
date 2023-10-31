@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 78190
+revid: 79902
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -535,23 +535,7 @@ Second Interrogation
 
  | 
 
-Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
-
- | 
-
-N/A
-
- |
-| 
-
- | 
-
-Third Interrogation  
-(THUNDER 65, POWER 13)
-
- | 
-
-Electrified attacks do 50% less damage to you.
+Attacks from opponents who are Electrified will give you ether proportional to their initial damage. Electrified attacks do 50% less damage and posture damage to you.
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 79699
+revid: 79871
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 Meet the following requirements:
 
--   Be [Attunement-less](Attunement-less.md).
+-   Be [Attunement-less](Attunement-less.md). Must complete a ghost event on a ship.
 -   Have at least 75 Weapon (uncap is not needed), Have 40 points in Strength and 40 points on either Charisma or Agility.
 -   Die to a player that uses an attunement. Chime of Conflict does not count.
 

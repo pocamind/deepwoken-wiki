@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 79810
+revid: 79896
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -88,7 +88,7 @@ There are two variants that enchantments come in:
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
   times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is effected by damage modifiers and bypasses armor.(doesnt knock back)<br>
   <b>Explosions can execute.</b></p></div></td>
-  <td><div>Weapon becomes black and red. Metal and blade parts become a glowing orange that gives off particles.</div></td>
+  <td><div>Weapon turns orange, depending on material. Metal and Blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -100,7 +100,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Gluttony<div></div></font></center></td>
   <td><div><p>On hit, steal hunger and thirst from the target based on damage dealt.</p></div></td>
-  <td><div>Weapon covered in an orange/brown mist.</div></td>
+  <td><div>Weapon covered in an orange/brown mist, just like Stench.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -109,7 +109,7 @@ There are two variants that enchantments come in:
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
   the target is afflicted with Grim for 4 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.<br>
   More testing required to confirm how much hits it takes for light to proc Grim.</p></div></td>
-  <td><div>Weapon turns completely black and is covered in a black and red mist.</div></td>
+  <td><div>Weapon turns completely black and is covered in a black and light red mist.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -118,7 +118,7 @@ There are two variants that enchantments come in:
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)<br>
   <br>
   </p></div></td>
-  <td><div>Weapon covered in a yellow glow.</div></td>
+  <td><div>Weapon turns completely yellow and is covered in a yellow glow.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -208,7 +208,8 @@ There are two variants that enchantments come in:
   <td><div><p><br>
   On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown of 3 - 4 seconds.<br>
   The slash of Umbral Knight deals 20% damage of the weapon and is parryable.</p></div></td>
-  <td><div>Weapon is covered in a black and red mist. Metal parts glow arctic blue.</div></td>
+  <td><div>Weapon is covered in a black &amp; light red mist, just like Grim. Weapon's metal parts glow arctic blue.<br>
+  When sheathed, the particles are completely invisible.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -243,7 +244,8 @@ There are two variants that enchantments come in:
   Weapon gains Blood Bar damage, additionally Blood damage scales based on weapon damage.</p>
   <p><br>
   While above 10% HP, missing an M1 deal 1% of max HP as self damage.</p></div></td>
-  <td><div>Weapon is completely red. Surrounded by a slight red mist.</div></td>
+  <td><div>Weapon is completely red, surrounded by a red mist.<br>
+  When sheathed, the weapon keeps their base color.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
@@ -257,7 +259,8 @@ There are two variants that enchantments come in:
   <b>Viscosity is disabled.</b><br>
   <b>Conditioned runner is disabled.</b><br>
   <b>Cauterized Wounds and Alloyblood have their effects significantly reduced.</b></p></div></td>
-  <td><div>Weapon is completely black. Three black and red flames cover the weapon.</div></td>
+  <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
+  When sheathed, the flame spikes are invisible.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
@@ -265,7 +268,8 @@ There are two variants that enchantments come in:
   <td><div><p>Drains the target ether on hit. This scales with your damage and the target's Max Ether.<br>
   Critical attack is replaced with a counter. Succesful counters grants you hyperarmor along with being able to act first.<br>
   Critical attack have a cooldown of 6 seconds, however, failing to counter something raise the cooldown to 8 seconds.</p></div></td>
-  <td><div>Weapon does not appear when not equipped (confirmed). Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
+  <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
+  When sheathed, the weapon model is completely invisible.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -273,7 +277,8 @@ There are two variants that enchantments come in:
   <td><div><p>On proc, 5% of your max health adds to your damage.<br>
   Rarely, proc its normal effect but lose 10% HP.<br>
   Has a 10 second cooldown.</p></div></td>
-  <td><div>Weapon is completely black and slightly transparent.</div></td>
+  <td><div>Weapon is completely black and slightly transparent.<br>
+  When sheathed, the weapon is completely invisible.</div></td>
 </tr>
 </tbody>
 </table>

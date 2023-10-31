@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 72321
+revid: 79904
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Pages with broken file links]
@@ -12,7 +12,7 @@ categories: [Monsters, Pages with broken file links]
 
 ― Inquisitor's Thorn Description
 
-Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss, Crabulon,** or **Crabbo.**_
+Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss,** **Crabulon** or **Crabbo.**_
 
 ## Description
 
@@ -30,7 +30,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 </tr>
 <tr>
   <td><b>Bubble Beam</b></td>
-  <td>The Crustaceous Rex lifts its head up, and its body backwards, releasing what seems to be poisonous bubbles at its foes, dealing low to medium damage and applying chill. This also friendly fires mobs. Exceptionally easy to get out of the path of.</td>
+  <td>The Crustaceous Rex lifts its <i><b>head</b></i> up, and its <i><b>body</b></i> backwards before releasing what seems to be poisonous bubbles at its foes, dealing low to medium damage and applying chill. This also friendly fires mobs. Exceptionally easy to get out of the way of.</td>
   <td><font>◯</font></td>
   <td>(★☆☆)</td>
 </tr>
