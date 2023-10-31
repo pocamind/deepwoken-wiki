@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 79673
+revid: 79801
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -21,7 +21,7 @@ Template:Creature Infobox V3 Gigameds are player-sized glowing light-blue Jellyf
 | 
 Electric Stun Pulse
 
- | Sends out an AOE attack that deals approximately 15 damage while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds. Before they do this, there is a brief flash above their heads if you look closely. Sadly, it is nearly impossible to react to especially with higher pings. Avoid fighting more than one at low health, as this attack does considerable posture damage. | ✗ | ◯ | ◯ | (★★★) |
+ | Sends out an AOE attack that deals approximately 15 damage while also inflicting a brief paralysis debuff that prevents you from moving, using items or attacking for a few milliseconds. Before they do this, there is a brief flash above their heads if you look closely. Sadly, it is nearly impossible to react to especially with higher pings. Avoid fighting more than one at low health, as this attack does considerable posture damage. | ✗ | ◯ | ◯ | (★☆☆) |
 
 ### **Finisher**
 

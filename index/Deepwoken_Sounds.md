@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 79292
+revid: 79809
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -262,6 +262,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 3.0s | Switching Areas |
 |  | 2.6s | Switching Areas (Combat) |
 |  | 3.1s | [Campfire](Campfire_Pit.md) + Graceful Flame Loop |
+|  | 39.2s | [Food](Food.md) Sizzling |
 |  | 4.7s | [Guild Banner](Guild_Banners.md) Captured |
 |  | 0.9s | Throwing [Rock](Ores.md#rock) + Destroying Environment/Terrain \[1\] |
 |  | 0.5s | Throwing [Rock](Ores.md#rock) + Destroying Environment/Terrain \[2\] |
@@ -355,6 +356,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.5s | Hit (Fist) \[2\] |
 |  | 0.4s | Hit (Fist) \[3\] |
 |  | 0.6s | Hit (Fist) \[4\] |
+|  | 0.5s | Hit (Fist) \[5\] |
 |  | 0.4s | Gun Cork |
 |  | 0.6s | Gun Sheathe |
 |  | 2.7s | Gun Reload |
@@ -515,6 +517,7 @@ A large collection of sounds found in **Deepwoken**.
 | --- | --- | --- |
 |  | 2.4s | [Megalodaunt](Megalodaunt.md) Roar \[1\] |
 |  | 2.2s | [Megalodaunt](Megalodaunt.md) Roar \[2\] |
+|  | 2.5s | [Megalodaunt](Megalodaunt.md) Eating |
 |  | 1.9s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps \[1\] |
 |  | 2.1s | [Megalodaunt](Megalodaunt.md) / [Deep Owl](Deep_Owl.md) Footsteps \[2\] |
 |  | 0.4s | [Deep Owl](Deep_Owl.md) Feather Attack |
@@ -544,6 +547,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 2.6s | [Crustaceous Rex](Crustaceous_Rex.md) Attack \[2\] |
 |  | 0.1s | [Crustaceous Rex](Crustaceous_Rex.md) Bubble Loop |
 |  | 1.5s | [Enforcer](Enforcer.md) Damaged |
+|  | 2.6s | [Enforcer](Enforcer.md) Pull / [Radiant Kick](Oath%253A_Dawnwalker.md) (Windup) |
 |  | 1.6s | [Naulitodaunt](Nautilodaunt.md) Digging Loop |
 |  | 2.6s | [Naulitodaunt](Nautilodaunt.md) Vent |
 |  | 1.5s | [Naulitodaunt](Nautilodaunt.md) Water Stomp |

@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 79786
+revid: 79818
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 78902
+revid: 79802
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -244,7 +244,7 @@ _"No money, friend? How ever will I feed myself?_
 -   I seek Expert level Metal Mantras. ( ★★☆)
 -   I seek Master level Metal Mantras. (★★★)
 
-## [Locations](Meteor_Isle.md)
+## Locations
 
 -   [Etris](Etris.md), in between the mantra shop and weapons shop.
 -   [Isle of Vigils](Isle_of_Vigils.md), to the right of the guard protecting the entrance of the [Temple of the Blade](Temple_of_the_Blade.md).

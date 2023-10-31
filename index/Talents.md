@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79752
+revid: 79824
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1277,7 +1277,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I fight for the Legion."**_
 
 -   Cyclone Blade \[Common Talent\] - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block. (+2 Passive Agility, +2 Elemental Intensity)
-    -   Prerequisites: 30 Agility, 55 Galebreathe, Gale Dash
+    -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
     -   Prerequisites: 20 Agility, 50 Galebreathe
