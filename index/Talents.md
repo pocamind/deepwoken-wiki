@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79824
+revid: 79870
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -158,7 +158,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 ### Alchemist
 
-_**"I enjoy mixing potions."**_
+> _**"I enjoy mixing potions."**_
 
 -   you need to have made and drunk at least one potion for the talents to start showing up.
 
@@ -543,7 +543,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cryoni
 
-> _**"Those that steop on my ice know that they have made a grave error."**_
+> _**"Those that step on my ice know that they have made a grave error."**_
 
 -   Cryostasis \[Common Talent, Frostdraw Exclusive\] - When block broken, fragile freeze yourself, negating the damage of the next attack. (+3 Elemental Intensity)
     -   Prerequisite: Fragile Freeze, 20 Fortitude.
@@ -877,7 +877,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Frostdrawer
 
-**"I speak to the frost."**
+> **"I speak to the frost."**
 
 -   Adept Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
     -   Prerequisites: 20 Frostdraw
@@ -917,7 +917,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Gale Duelist
 
-**"My wind fights for me"**
+> **"My wind fights for me."**
 
 -   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
     -   Prerequisites: Wind Blade, 20 Galebreathe.
@@ -951,7 +951,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Galeforce
 
-**"I use the winds to enforce my will."**
+> **"I use the winds to enforce my will."**
 
 -   After Cut \[Galebreathe Exclusive\] - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead. (+2 Elemental Intensity)
     -   Prerequisites: 40 Galebreathe, Breathing Impact
@@ -1027,6 +1027,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: Inhale, 40 Flamecharm
 
 ### Heretic
+
+> _**"I do not hold the beliefs of the common people."**_
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal. (+7 Sanity)
     -   Whenever you land an M1, you disable every source of your opponent's healing for 8 seconds.
@@ -1118,7 +1120,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Innate (Racial Talents)
 
-"I rely on my instincts."
+> _**"I rely on my instincts."**_
 
 -   Chitin \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest. (+2 Health)
     -   While not empty, receive 5% less damage from every source. Remaining durability can be tracked below the armor durability bar, in a green bar named "Natural Armor".
@@ -1342,7 +1344,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Marauder
 
-_**"I often attack others."**_
+> _**"I often attack others."**_
 
 -   _Aggressive Posture_ \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
     -   Prerequisites: [Power](Power.md) 13
@@ -1474,7 +1476,7 @@ _**"I often attack others."**_
 
 ### [Murmur](Murmur.md)
 
-> _**"My soul is an instrument with its own frequency"**_
+> _**"My soul is an instrument with its own frequency."**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture).
     -   Affected targets takes 200% extra posture damage and take 25% more damage.
@@ -1648,7 +1650,7 @@ _**"I often attack others."**_
 
 ### Rampaging Brute
 
-> _**"I seek the qualities of Rampaging Brute"**_
+> _**"I seek the qualities of Rampaging Brute."**_
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 90 Strength, Unwavering Resolve, Shield Breaker
@@ -1999,7 +2001,7 @@ These Talents are designed to let you survive longer against starvation and thir
 
 ### Tamed Flame
 
-"I seek the qualities of Tamed Flame"
+> _**"I seek the qualities of Tamed Flame."**_
 
 -   Controlled Combustion \[Common Talent, Flamecharm Exclusive\] - Your Agitating Spark no longer spreads to your allies.
     -   Prerequisites: Agitating Spark, 40 Charisma
@@ -2371,7 +2373,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Miscellaneous
 
-> _\-Uh..._
+> _**"Uh..."**_
 
 -   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered.
     -   Prerequisite: [Power](Power.md) 10

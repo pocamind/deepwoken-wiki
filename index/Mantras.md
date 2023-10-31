@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 77152
+revid: 79865
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -76,7 +76,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
 -   Crystallization can be unlocked at 40 frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
 -   Typically used close/mid-range.
--   Has a best mobility mantra "Ice Skate" because of its rare modifier.
+-   Has a very good mobility mantra "Ice Skate"
 -   Works with most Spike Modifiers.
 -   Has small cooldowns.
 
