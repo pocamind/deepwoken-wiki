@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 79796
+revid: 79955
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Starkindred | |
 |---|---|
-| oath_req | 40 Strength |
+| oath_req | Skibidi Rizz, 100 Strength, 200RM |
 | effects | +2 Combat Mantra, +8 Health, Modified Fire Blade, Better Aerial Assault |
 
 “ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”

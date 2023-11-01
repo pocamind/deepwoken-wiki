@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 67621
+revid: 79952
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -54,6 +54,11 @@ An Authority Captain executes it's opponent after knocking them:
 | --- | --- |
 | Execute | \[[Officer Saber](Officer_Saber.md)\] Pins down opponent before slicing their throat.
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down, splitting the opponent's head open.
+
+ |
+| Spare | \[[Officer Saber](Officer_Saber.md)\] Pins down opponent but backs off and goes back to post.
+
+\[[Adretian Axe](Adretian_Axe.md)\] Pins down opponent and raises axe before backing off.
 
  |
 

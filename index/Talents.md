@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79920
+revid: 79953
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -174,7 +174,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown.
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
     -   Prerequisites: 25 Intelligence
-    -   The head equipment "[Strapped Hat](Strapped_Hat.md)" have this talent.
+    -   The head equipment "[Strapped Hat](Strapped_Hat.md)" has this talent.
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
     -   Prerequisites: 55 Intelligence

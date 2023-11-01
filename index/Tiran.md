@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 79452
+revid: 79954
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -93,7 +93,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Tuuli
     
 
-It is also confirmed that the inventor of Flamecharm, Ammorus Pleeksty, is a Tiran.
+~It is also confirmed that the inventor of Flamecharm, Ammorus Pleeksty, is a Tiran.~ We do not know what Ammorus Pleeksty's race is, it's been stated to be 3 different races by different developers.
 
 ## Notes/Trivia
 
