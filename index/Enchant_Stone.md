@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 77277
+revid: 79977
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2]
@@ -34,3 +34,4 @@ The Astral Stone is unique in that it can only be obtained as a drop from [Astra
 -   Each enchant stone has it's own design of choice, with most of them glowing the color of their related enchantment, while some of them, like Nemesis, have a dull gradient look.
 -   You can't use enchant stones to enchant legendary weapons.
 -   You can use enchant stones on already enchanted weapons, it'll just switch the enchant.
+-   Enchant Stones are undroppable, but sell for 200 notes! Cha-ching!

@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 79385
+revid: 79968
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -33,8 +33,16 @@ categories: [Weapons, Greathammers]
 
 ## Critical
 
-The critical causes the user to lunge forward at their enemies and knock them down. On successful hit, their first M1 changes to hitting the weapon on the ground while gaining hyperarmor.
+The critical causes the user to lunge forward at their enemies and knock them down. On successful hit, their first M1 changes to slamming the weapon onto the ground while gaining hyperarmor.
 
+  
+  
+  
+  
+  
+  
+  
+  
   
 
 ## Trivia

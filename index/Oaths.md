@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 77710
+revid: 79980
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -97,11 +97,11 @@ Proof of Time Magic's existance and it being an "Oath"
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
 -   Most Oaths change your character's eye color.
-    -   Visionshaper gives the user \[Bright magenta\] eyes.
-    -   Jetstriker gives the user \[silver\] eyes.
-    -   Dawnwalker gives the user \[white\] eyes.
-    -   Contractor gives the user \[dark maroon\] eyes.
-    -   Silentheart gives a \[darker\] and \[duller\] shade of the user's current eye color.
+    -   Visionshaper gives the user Bright Magenta eyes.
+    -   Jetstriker gives the user Silver eyes.
+    -   Dawnwalker gives the user White eyes.
+    -   Contractor gives the user Dark Maroon eyes.
+    -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   The developers have confirmed that Oathless is a "seatwarmer" since their objective is to make many Oaths so Oathless will be basically useless, causing community backlash due to the Oath's obtainment method being more tedious than some Oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
     -   It's also said that they had commented that it was canonically the strongest Oath, though the veracity of this statement and it's meaning are unclear, especially since this was prior to Verse 2.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, SIlenthearts cannot speak to him.

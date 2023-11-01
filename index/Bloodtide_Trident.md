@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 79783
+revid: 80035
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -33,6 +33,5 @@ The Bloodtide Trident is a Medium Weapon in the Spear category. It is obtained b
 
 ## Trivia
 
-Probably a reference to Spear of Longinus' interpretation from Evangelion, which is a reference to the spear that pierced Jesus' side on the cross.
-
-This weapon has the same critical as the [Gremorian Longspear.](Gremorian_Longspear.md)
+-   This weapon has the same critical as the [Gremorian Longspear](Gremorian_Longspear.md).
+-   The end of the spear sports the Deepwoken logo.

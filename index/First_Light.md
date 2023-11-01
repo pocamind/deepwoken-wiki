@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 78905
+revid: 79993
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -42,6 +42,18 @@ The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare drop from sla
 The user plunges their sword into the ground, similar to Flame Eruption, causing everyone near the user to be burnt. This is followed up with flaming swords raining from the sky, similar to the Crimson Megalodaunt's Pyroclastic Roar.
 
 -   It is mostly used as a distraction as opposed to dealing actual damage due to the sheer amount of visuals it creates.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 ## Trivia
 

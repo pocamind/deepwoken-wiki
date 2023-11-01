@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 76556
+revid: 79962
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -28,7 +28,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Razor Cutlass is a [Medium Weapon](Weapons.md#medium-weapons) of **RARE** rarity primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md). It's one of the only Medium Weapons that deals bleed on top of its normal attacks, the only others being [Acheron's Warspear](<Acheron's_Warspear.md>) and [Kyrsglaive](Kyrsglaive.md). The Cutlass is effective at dealing very high damage and posture with the [bleed](Weapons.md) effect. It boasts the highest weight of Medium Weapons, the only others being the [Officer Saber](Officer_Saber.md) and [Alloyed Messer](Messer.md). It's Penetration starts off at 20% which is pretty high all things considered. The weapon, also notably, ~is the _slowest_ sword~ (the messer is the slowest sword in game) in the game alongside the [Messer](Messer.md) and [Mace](Mace.md) which are starter tier weapons, but the sheer power of its aforementioned stats make up for that quite a bit. For that same reason, it's best used as a mid to endgame weapon.
+The Razor Cutlass is a [Medium Weapon](Weapons.md#medium-weapons) of **RARE** rarity primarily found in the [Starswept Valley](The_Starswept_Valley.md), [Songseeker](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It can also be found in [Depths](The_Depths.md) chests or dropped by the [Crimson Terrapod](Terrapod.md). It's one of the only Medium Weapons that deals bleed on top of its normal attacks, the only others being [Acheron's Warspear](<Acheron's_Warspear.md>) and [Kyrsglaive](Kyrsglaive.md). The Cutlass is effective at dealing very high damage and posture with the [bleed](Weapons.md) effect. It boasts the highest weight of Medium Weapons, the only others being the [Officer Saber](Officer_Saber.md) and [Alloyed Messer](Messer.md). Its Penetration starts off at 25% which is pretty high all things considered. This weapon is also notably one of the slowest available swords in the game, its swing speed only being .01 faster than the [Messer](Messer.md), and the starter-tier club, [Mace](Mace.md), which the [Messer](Messer.md) shares its swing speed stat with. The sheer power of the aforementioned stats make up for this weapon’s somewhat-slow swing speed quite a bit. For that same reason, it's best used as a mid to endgame weapon.
 
 ## Trivia
 
