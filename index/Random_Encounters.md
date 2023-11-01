@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 79369
+revid: 79951
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -107,9 +107,9 @@ Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Mini
 
 #### **Ministry Necromancer**
 
-Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon three special [Mudskippers](Ministry_Necromancer.md), consisting of two than can use [Flamecharm](Flamecharm.md) and one that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only aggro'd if it sees a player or provoked by an attack.
+Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is able to use shadowcast and summon two special Mudskippers; the [Redskipper](Necroskipper.md) and [Blueskipper](Necroskipper.md) consisting of one than can use [Flamecharm](Flamecharm.md) and another that can use [Frostdraw](Frostdraw.md). They will spawn in a medatitive position, and will only aggro'd if it sees a player or provoked by an attack.
 
-**Weapons:** [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md) & [Necroskippers](Mudskipper.md).
+**Weapons:** [Krulian Knife](Krulian_Knife.md), [Shadowcast](Shadowcast.md), [Blueskipperss](Necroskipper.md) & [Redskippers](Necroskipper.md)
 
 #### **Songseeker**
 

@@ -1,6 +1,6 @@
 ---
 title: Blueskipper
-revid: 79836
+revid: 79942
 source: https://deepwoken.fandom.com/wiki/Blueskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). They are a dangerous variant of the Mudskipper capable of using Mantras.
+Mindless enemies that are summoned by a [Ministry Necromancer](Ministry_Necromancer.md). They are a variant of the Mudskipper capable of using Mantras.
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

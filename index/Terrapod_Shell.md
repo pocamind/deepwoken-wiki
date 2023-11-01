@@ -1,6 +1,6 @@
 ---
 title: Terrapod Shell
-revid: 79761
+revid: 79937
 source: https://deepwoken.fandom.com/wiki/Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monster Mantra Ingredients]
@@ -19,6 +19,6 @@ categories: [Monster Mantra Ingredients]
 
 ## Description
 
-Terrapod shell is a spiked bowl shaped like item droped from a [Terrapod](Terrapod.md) with approximately 5% drop rate. "5% drop rate" No, ive killed like 50 of these i refuse to belive its 5%.
+Terrapod shell is a spiked bowl shaped like item droped from a [Terrapod](Terrapod.md) with approximately 5% drop rate.
 
 Its is used for getting Whirling blade [Monster Mantras](Monster_Mantras.md) when you talk with [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at [Castle Light](Castle_Light.md).

@@ -1,6 +1,6 @@
 ---
 title: Bloatskipper
-revid: 79837
+revid: 79943
 source: https://deepwoken.fandom.com/wiki/Bloatskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

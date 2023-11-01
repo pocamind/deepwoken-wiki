@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 79738
+revid: 79947
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -87,7 +87,7 @@ Can be used in any location.
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~4%)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%)**
 -   [The Ferryman](The_Ferryman.md)
 -   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)
 

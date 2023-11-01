@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 79198
+revid: 79950
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -58,7 +58,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   [Legion Captain](Legion_Captain.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Mudskipper](Mudskipper.md)
--   [Bloatskipper](Mudskipper.md)
+-   [Bloatskipper](Mudskipper.md#bloatskipper)
 -   [Thief](Thief.md)
 -   [Terrapod](Terrapod.md)
 -   [Deep Owl](Deep_Owl.md)
