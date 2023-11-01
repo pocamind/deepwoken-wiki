@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 79802
+revid: 79909
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -168,7 +168,6 @@ _"No money, friend? How ever will I feed myself?_
 -   _My static is uncontrollable. **(Rampant Static; Jolting Current)**_
 -   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static)**_
 -   _I weave webs of lightning. **(Static Weaver)**_
--   _I seek to embrace the instability of lightning as a source of power_ **(Unstable Capacitor)**
 -   _My blade conducts the skies wrath. **(Thunderblade; Static Blade, Gathering electricity, Overcharge)**_
 -   _My blade is unrelenting, a storm. **(Stormblade; Stormcaller Slash)**_
 -   _I speak to lightning. **(Thundercaller)**_

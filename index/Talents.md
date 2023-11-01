@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79898
+revid: 79920
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -383,9 +383,6 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapons Mastery
 
--   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds.
-    -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
-
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapons Mastery
 
@@ -498,14 +495,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Critical Specialist
 
 > _**"I am a master of creating openings."**_
-
--   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 20% more damage with daggers.
-    -   Crit procs are rolled for each individual target, not per swing.
-    -   Crit procs are indicated by a red visual effect.
-    -   Only works on daggers.
-    -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
-        -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
-    -   Prerequisite: 30 Light Weapon
 
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   While the effect is active, gain a red trail on your weapon.

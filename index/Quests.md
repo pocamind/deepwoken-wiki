@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 77686
+revid: 79917
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -164,9 +164,9 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Mercy Kill:**
 
-**Quest Location**: [Duke](<Duke_Erisia's_Laboratory.md>) or [Chaser](Cathedral_of_Ethiron.md)
+**Quest Location**: N/A
 
-**Guide**: Defeat Duke, The ferryman or Chaser. Does not have to be solo.
+**Guide**: Unbound your weapon mastery.
 
 **Reward/s**: Mercy Kill
 
@@ -352,7 +352,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: Miner's Landing
 
-**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out Summer Company Guard invading the upper reactor room. Kill ~5 then return to him. Repeatable.
+**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out Summer Company Guards invading the upper reactor room. As far as we know, the player has to kill Summer Guards OR Mechalodaunts. Needs testing.
 
 **Reward/s**: Reputation, EXP, "Bravery," Door Unlock.
 

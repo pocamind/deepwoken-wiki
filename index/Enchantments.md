@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 79896
+revid: 79922
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -16,7 +16,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 
 -   Any gear you find can already be enchanted. (Except ring, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md).
--   Using an equipment enchant for an enchant with a 1/22% chance of a random enchant that you get for 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
+-   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
 -   Using an [Enchant Stone](Enchant_Stone.md).
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
 
