@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 79625
+revid: 80064
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -154,7 +154,6 @@ Deep down in the Depths, you can find a secret room located near the Deep Widow.
 When initially obtaining this [Oath](Oaths.md), the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
--   Illusion magic **DOES NOT** count as an Attunement as it is an Oath, so there is no stat to level; however, most Visionshaper mantras and abilities scale off of Charisma.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
 
 ## Loot Table
