@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 77671
+revid: 80086
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -119,7 +119,7 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), the Capra race name was changed to Skullskipper.
 -   According to Arch\_Mage, Capras are slightly inspired by the Shin from _The Stormlight Archive_, which is reflected by the race having wider eyes than average because they lack epicanthic folds.[\[1\]](#cite-note-inspo-1)
 -   The latin word "Capra" is representative of Goats.
--   Choosing the Hallowtide Variant gives you the Mark of Jurik.
+-   Choosing the Hallowtide Variant gives you the Mark of Nemit.
 -   Capras look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capras had their appearance reworked on 1/22/2023.
 

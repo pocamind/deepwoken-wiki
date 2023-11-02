@@ -1,9 +1,9 @@
 ---
 title: Hive Adjudicator
-revid: 79782
+revid: 80087
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Outfits, Items, Exclusive Outfits]
+categories: [Outfits, Items, Exclusive Outfits]
 ---
 
 # Hive Adjudicator
@@ -30,8 +30,10 @@ This Outfit's Schematic can be found in:
 
 -   Battle Royale
 -   \[Master Schematic\] from Hallowtide Joyshop
+-   Given to all users due to a bug
 
 ## Trivia
 
--   During the [Hallowtide (Event)](Hallowtide.md) of 2023, Hive Adjudicator was made obtainable. This was a bug, but developer Arch\_Mage has shown no interest in fixing it.
+-   During the [Hallowtide](Hallowtide.md) of 2023, Hive Adjudicator was made obtainable. This was a bug, but developer Arch\_Mage has shown no interest in fixing it.
+    -   Afterwards, a bug occurred that gave the schematic to all users.
 -   As far as stats go, this is just a reskin of the old [Hive Drone](Hive_Drone.md) outfit with a higher Power requirement with the only difference being that it lacks the Megalodaunt Hide requirement. Treat it as such.

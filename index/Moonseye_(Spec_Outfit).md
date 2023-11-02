@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 74929
+revid: 80077
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive Outfits, Outfits]
@@ -24,7 +24,7 @@ Template:ArmorInfobox**Moonseye (Spec Outfit)** is a Unique [Outfit](Outfits.md)
 
 -   +200% Ether Regen
 
--   Talent "Clipping Darkness"
+-   Talent "Crippling Darkness"
 
 ## Trivia
 

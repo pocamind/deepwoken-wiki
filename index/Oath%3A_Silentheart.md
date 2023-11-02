@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 79871
+revid: 80074
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,9 +25,10 @@ categories: [Oaths]
 
 Meet the following requirements:
 
--   Be [Attunement-less](Attunement-less.md). Must complete a ghost event on a ship.
--   Have at least 75 Weapon (uncap is not needed), Have 40 points in Strength and 40 points on either Charisma or Agility.
+-   Be [Attunement-less](Attunement-less.md).
+-   Have at least 75 Weapon (uncap is not needed), have 40 points in Strength and 40 points on either Charisma **or** Agility.
 -   Die to a player that uses an attunement. Chime of Conflict does not count.
+-   Witness a ghost event on the [Beloved Zofia](Beloved_Zofia.md) by interacting with the ghosts found there.
 
 Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
@@ -81,7 +82,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 
 ## Notes
 
--   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed.
+-   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for immense combat potential.
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
     -   You're also still able to be given a whisper on level up.
 -   This oath is the only oath that does not give any mantra slots.

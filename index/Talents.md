@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 79953
+revid: 80090
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -495,6 +495,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Critical Specialist
 
 > _**"I am a master of creating openings."**_
+
+-   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 1.2 x damage with daggers.
+    -   Prerequisite: 30 Light (?)
 
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   While the effect is active, gain a red trail on your weapon.

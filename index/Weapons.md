@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 79956
+revid: 80076
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -492,7 +492,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>31.5(<b>Bleed</b>)</td>
+  <td>31.85(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Kyrstreza.md">Kyrstreza</a></td>

@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 79122
+revid: 80089
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Layer 1, Layer 2, Fishing, Depths |
-| description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning only people who like BBC's will be able to wield it be careful it might hurt you. |
+| description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
 
@@ -35,7 +35,7 @@ The **Crypt blade** is a dark gray [Greatsword](Weapons.md) with symbols on it, 
 
 ## Critical Attack
 
-The user goes in a pride stance with their sword facing down, and releases an AOE circle surrounding the player inflicting shadow and chaining everyone within it ,while stealing the ether of the opponent.
+The user goes in a pride stance with their sword facing down, and releases an AOE circle surrounding the player inflicting shadow and chaining everyone within it ,while stealing the ether of anyone caught inside.
 
 -   If hit when chained, the chain will break and the opponent will receive DOT damage with the shadow side effect.
     -   Blocking, and Parrying will not cancel out this effect.

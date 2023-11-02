@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 80065
+revid: 80079
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Voidzones]
@@ -63,9 +63,9 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
 -   Hellfire Lotus
 -   Skyvalor Lotus
--   Amethyst
--   Emerald
--   Moonseye Tomb
+-   [Amethyst](Treasures.md)
+-   [Emerald](Treasures.md)
+-   [Moonseye Tome](Moonseye_Tome.md)
 
  |
 
