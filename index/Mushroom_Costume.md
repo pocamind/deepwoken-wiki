@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 79938
+revid: 80036
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -25,7 +25,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category. When worn, A mushroom hat is put on top on your head, it changes your skin color to white(literal), and you become faceless. This was released during 2023 [Hallowtide](Hallowtide.md) as an exclusive event item, so you can only obtain this through the [Hallowtide](Hallowtide.md) Event.
+The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category. When worn, A mushroom hat is put on top on your head, it changes your skin color to a bright white, and you become faceless. This was released during 2023 [Hallowtide](Hallowtide.md) as an exclusive event item, so you can only obtain this through the [Hallowtide](Hallowtide.md) Event.
 
 ## Trivia
 

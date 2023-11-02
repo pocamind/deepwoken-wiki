@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 79993
+revid: 80042
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -26,7 +26,7 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crimson MegalodauntMerchant Ships |
+| obtainment | Crimson Megalodaunt (Very Rare)Merchant Ships (Very Rare) |
 | description | Blade of Venn Kaelhand, a disciple of Pleeksty, who immersed themself much too deeply in the study of beasts altered by Korlfiend's influence. Met their fate in the jaws of a unique specimen of Megalodaunt said to have been exposed to the vents of Korilfiend. |
 
 ## Description
@@ -43,23 +43,11 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 
 -   It is mostly used as a distraction as opposed to dealing actual damage due to the sheer amount of visuals it creates.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 ## Trivia
 
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
--   One of three greatswords (Others being the enforcer's blade and railblade), that has no endlag on m1s.
+-   One of three greatswords (Others being the Enforcer's Blade and Railblade), that has no endlag on m1s.
 -   Deals 37 damage at 75 HVY, and roughly 45 damage at 100 HVY.
 -   The special animations for this sword may be the old Railblade animations because when you spawn in Visionshaper clones, they will utilize the older animations of the First Light.
 -   Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However they have been recently remade.

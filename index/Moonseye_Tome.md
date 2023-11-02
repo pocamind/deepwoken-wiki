@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 78007
+revid: 80054
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -31,5 +31,5 @@ _(one-time use, re-obtainable)_
 -   In your inventory, the Moonseye Tome has a Weight of 1.
 -   The item was suggested by youtuber _Agamatsu_, who conceptually named it "Book of Smartass \[N-Word\]"
 -   The max knowledge a player can have is 99.
+-   When used at max knowledge, it won't work, and dialogue appears saying "Your mind is too full to take in the knowledge within.", as seen in the Gallery above.
 -   The secret image when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye, fitting of the "Lunar Cult" the Tome belonged to.
--   _Unknown what it does if used whilst already having max knowledge. DM Witherald if you're able to provide evidence of what it does._

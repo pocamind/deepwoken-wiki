@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 79255
+revid: 80051
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -116,6 +116,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 
 -   I don't feel so good..
 -   Uh oh...
+-   I regret to announce this is the end! I am going now.
 
 ## Death Quotes
 

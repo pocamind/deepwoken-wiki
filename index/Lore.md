@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 79772
+revid: 80052
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1283,6 +1283,10 @@ _"The stars call you back..."_
 -   "Ancient Vesperians lost to time."
 
 ## Attunement Lore
+
+Attunements are a central concept in the world of Deepwoken. In a literal sense, the world of Deepwoken simply could not function without the existance of attunements and their users, the reasons of which will be promptly discussed below. Prior to the existence of Attunements, the world can be imagined to be similar to the real life. In general, Attunements are a manipulation of the environment rather than the magical creation of elements out of thin air.
+
+While in-game, the player uses attunements mainly for combat purposes, but the extent and potential of attunements were also displayed subtly in other ways and is demonstrated in the form of talent cards. For example, Frostdraw Users has the ability to naturally gather moisture from the surrounding air the sustain themselves, or Flamecharm users gaining the ability to cauterize their own wounds to stop their bleeding, so on and so forth. While the player uses their Attunement to an adequate degree, the demonstrated uses pale in comparison to the daily-uses of Attunements in the world of Deepwoken.
 
 ### The Four Attunements of the Canticlysm
 

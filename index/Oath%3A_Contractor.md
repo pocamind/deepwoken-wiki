@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 79928
+revid: 80046
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -68,7 +68,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 ## Notes
 
 -   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You can still gain reputation normally (such as completing Layer 2 expeditions or helping Diver NPCs) but cannot pay to restore reputation.
-    -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards. However, if you are on the Diver guild, you will always have max rep with the Divers despite being a Contractor.
+    -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards.
 -   Since you need to go to the Depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do Chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   Having Contractor in the Depths can be outright deadly; as a Contractor's progression method is the most hostile out of any Oath, you will often be targeted for it in turn, even if passive.
 -   While farming alts or trading with players for Contractor grips is tedious, it poses a far lesser risk of wiping than hunting players.
