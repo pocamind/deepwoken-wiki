@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 79962
+revid: 80067
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,7 +33,6 @@ The Razor Cutlass is a [Medium Weapon](Weapons.md#medium-weapons) of **RARE** ra
 ## Trivia
 
 -   The highest damage medium weapon in the game due to naturally having Bleed.
-    -   Including the 1.3x damage multiplier from bleed, it does 40.95 damage with 100 MED, being the highest damaging sword in current deepwoken.
     -   Bleed adds 10% of your current damage per tick which are 3 ticks making it 30% damage boost, despite that, a recent update has nerfed bleed by making it unable to profit from damage multipliers, but this still makes the Razor Cutlass more viable, as gaining a speed boost in PVP can be difficult.
 
 -   Often used by [Divers](Diver.md) at [Castle Light](Castle_Light.md).
