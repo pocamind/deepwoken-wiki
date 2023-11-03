@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 79977
+revid: 80125
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2]

@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 79923
+revid: 80128
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -32,6 +32,7 @@ This Outfit's Schematic is obtainable from:
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 -   Either [Aratel Island](Aratel_Island.md) or [Greathive Aratel](Greathive_Aratel.md)
+-   [Glaive Spellhardt](Glaive_Spellhardt.md) (Hallowtide Merchant)
 
 ## Trivia/Notes
 

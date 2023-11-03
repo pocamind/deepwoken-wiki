@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 80071
+revid: 80123
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -96,7 +96,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 
 -   The Nautilodaunt can spawn several times in the same place during [Hell Mode](Hell_Mode.md).
 -   The Nautilodaunt resembles Cthulhu from the _Cthulhu Mythos_ by H.P Lovecraft.
--   They are also heavily reminiscent of Dagon from the anime and manga series, _Jujutsu Kaisen_.
+    -   They are also heavily reminiscent of Dagon from the anime and manga series, _Jujutsu Kaisen_.
 -   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](Enforcer.md).
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
 -   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.

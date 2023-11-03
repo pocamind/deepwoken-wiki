@@ -1,9 +1,9 @@
 ---
 title: Enforcer
-revid: 79271
+revid: 80131
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Enforcer
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the second to last trial of [The Depths](The_Depths.md) Trials, being the last and hardest one faced. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths", but its origins may be more complicated.
+**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the second to last trial of [The Depths](The_Depths.md) Trials, being the last and hardest one faced. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths", but its origins may be more complicated. According to the flavor text of [The](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md); and morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
 
 Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size differences, the hammer variant has a replaced red neon with orange color and is the largest out of the two. The Enforcer blade is the shortest and the Enforcer Axe is the regular size.
 
@@ -63,10 +63,6 @@ A good method of easily defeating it while using heavy weapons without much risk
 -   Instead of holding block after every attack you do, you shouldn't attack unless you have parried his axe. It is the wisest method of going about killing the Enforcer, because attacking while the Enforcer is attacking is counterintuitive.
 -   Avoid getting posture broken at all costs. A single whirlwind while stunned could be lethal.
 
-File:Khan-enforcer-axe-image.png
-
-[Enforcer's Axe](<Enforcer's_Axe.md>)
-
 All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so its better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
 
 Using talents such as Sunken Predator, Underdog, and Giantslayer will prove handy as they provide a damage boost against The Enforcer, as well as other monsters.
@@ -80,14 +76,6 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 -   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Boasts high posture damage, and requires 80 HVY and 25 STR to use.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
 -   **[Enforcer's Eye](Enforcer_Eye.md):** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the Deepwoken equivalent of a jedi force pull.
-
-## Lore
-
-File:Enforcers axe desc.png
-
-Item Description for the Enforcer's Axe
-
-According to the flavor text of [The](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md); and morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
 
 ## Trivia
 

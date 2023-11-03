@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 79905
+revid: 80106
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -362,7 +362,7 @@ Roar
 ## **Trivia**
 
 -   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount and will likely block break you in one or two hits as a freshspawn.
--   Megalodaunts have swimming animations, as seen on the right.
+-   Megalodaunts have swimming animations, as seen above.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md) sink.
     -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.
 -   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mob's attacks. This can be very dangerous if new to fighting it because it can throw you off. Recommended to not use mantras that set it on fire when new to fighting it.

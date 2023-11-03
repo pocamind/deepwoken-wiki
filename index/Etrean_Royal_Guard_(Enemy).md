@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 73927
+revid: 80112
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies]
@@ -39,5 +39,6 @@ An Etrean Royal Guard executes its opponent:
 
 ## Trivia
 
+-   The Etrean Royal Guard near Kennith is a standard NPC, incapable of being fought or killed, but can be scared for [Joy](Joy.md).
 -   A Palace Guard also shares the same exact weapon with a [Blade Temple Guard](Blade_Temple_Guard.md) on [Isle of Vigils](Isle_of_Vigils.md).
 -   It is often theorized that their minds are somehow altered, similarly to the Mindless Servants in Duke’s Manor. This is Most likely done via a [Mental Veil](Lore.md) stronger than that placed by the Lord Regent on regular Etris Citizens. This is supported by the dialogue near Kennith’s body, in which the guard simply replies “You have an audience with the Lord Regent.” to anything the player says.

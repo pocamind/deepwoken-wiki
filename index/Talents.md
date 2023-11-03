@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80090
+revid: 80098
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2469,6 +2469,7 @@ File:Thresherquest1.png
 
 ### Family Recipe
 
+-   _You can craft bombs at a crafting bench. (+2 Elemental Intensity)_
 -   NPC is located at Songseeker outside of the mineshaft entrance.
 -   They will ask you to go inside the mineshaft and kill ? Mineskippers disguised as barrels.
 

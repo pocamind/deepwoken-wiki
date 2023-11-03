@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 79709
+revid: 80134
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -27,7 +27,7 @@ Shoulder to shoulder, together, tall! ”
 
 ## Description
 
-The Ignition Union is a faction found throughout the Eastern Luminant and [The Depths](The_Depths.md). They are a renowned freelancer company and labour union that specializes in trade, technology research and development, and depths exploration.
+The Ignition Union is a faction found throughout the Eastern Luminant and [The Depths](The_Depths.md). They are a renowned freelancer company and labour union that specializes in trade, technology research and development, and Depths exploration.
 
 Their main base of operations is the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 
@@ -35,9 +35,9 @@ The Union is also responsible for producing weapons such as the [Ignition Deepcr
 
 They are one of the three factions contracted by [The Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
 
-The Union maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects, and the former serves as both a direct competitor to the Summer Company's technology and a hindrance to their monopoly on the arms trade.
+The Union maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects. They also have various ideological differences, which was ultimately what resulted in the Ignition Union's instigation of hostilities.
 
-The Ignition Union also share an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md) arrogantly refers to them as "[Mudskippers](Mudskipper.md)" after brutally murdering several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot.
+The Ignition Union also share an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot.
 
 ## Reputation
 

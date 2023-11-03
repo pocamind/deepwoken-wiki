@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 80000
+revid: 80122
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -82,5 +82,7 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
     -   ResoIv3
     -   bluesword08
     -   Doctor5
+
+## References
 
 1.  [↑](#cite-ref-1) [Diver Journal, I](Books.md#diver-journal-i)

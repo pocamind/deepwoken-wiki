@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 79320
+revid: 80102
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -31,4 +31,4 @@ categories: [Weapons, Fists]
 
 ## Notes
 
--   Currently the best cestus in-game due to its high base damage and scaling.
+-   Currently the best non-seasonal Cestus in-game, due to its high base damage and scaling.

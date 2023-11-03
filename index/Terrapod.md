@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 79908
+revid: 80103
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,7 @@ categories: [Monsters]
 
 # Terrapod
 
-“ Uh.. Why do I feel like it's gonna jump on my face? Zombies don't exist.. right? ”
-
-― a worried Kevin Atedra
-
-**Also known as Headcrabs.**
+**Also known as Headcrabs and Turtles.**
 
 **Normal:**
 

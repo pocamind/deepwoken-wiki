@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 80023
+revid: 80127
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -565,7 +565,6 @@ Tornado Spark
 
  | 
 
--   Fire Blade (Might be or might not be broken as of the 1st of May 2022)
 -   Champion's Whirlthrow
 -   Storm Blades
 -   Dark Blade
