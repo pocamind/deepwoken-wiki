@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 80110
+revid: 80145
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,11 +19,11 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Silentheart** is one of the 11 obtainable Oaths in _Deepwoken._ It sacrifices [Mantras](Mantras.md) and [Attunement](Attunements.md) as a whole in exchange for significantly higher damage and a unique set of attacks.
+**[Oath](Oaths.md): Silentheart** is one of the 11 obtainable Oaths in _Deepwoken._ It sacrifices [Mantras](Mantras.md) and [Attunements](Attunements.md) as a whole in exchange for significantly higher damage and a unique set of attacks integrated into your moveset.
 
 ## Obtainment
 
-Meet the following requirements:
+Meet the following requirements in any order:
 
 -   Be [Attunement-less](Attunement-less.md).
 -   Have at least 75 Weapon (uncap is not needed), have 40 points in Strength and 40 points on either Charisma **or** Agility.
@@ -40,9 +40,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 -   +15% mantra resistance.
 -   +10% weapon damage.
--   Entirely lose access to mantras, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
+-   **Entirely lose access to mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
 -   Attunements are unable to be used or obtained.
--   You gain red veins coursing over your arm and torso.
+-   You gain glowing red veins coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
 
 ## Upgrading
@@ -76,19 +76,22 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
         -   Is activated by using ctrl + M2.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
-        -   Damage scales on your weapon, however, light weapon deal increased damage and heavy weapon deal reduced damage.
+        -   Damage scales on your weapon; light weapons scale harder than heavy weapons, yielding more and less damage respectively.
         -   Does not target allies.
         -   12 seconds cooldown.
 
 ## Notes
 
 -   Dying to an attunement user does not necessarily mean being gripped. Being burnt alive also works, as well as presumably other method of execution.
--   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for immense combat potential.
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
     -   You're also still able to be given a whisper on level up.
--   This oath is the only oath that does not give any mantra slots.
--   The Ironsing Trainer, Adar, and the Attunementless Trainer, Regek, cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This is likely due to the fact they do not "abuse" the song like the other attunement trainers.
--   [Beatra](Beatra.md) also cannot be killed for progression due to her old age.
--   A very strong oath, it alters the playstyle of the game, however.
+    -   As usual, the Mantra from [Kelsius](Kelsius.md) cannot be exchanged for talents.
+-   The Ironsing trainer [Adar](Adar,_Master_of_Metal.md), and the Attunementless trainer Regek cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers.
+-   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.
+
+## Trivia
+
+-   This oath is the only Oath that does not give any mantra slots.
+-   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential.

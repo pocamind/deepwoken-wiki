@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 79727
+revid: 80147
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -34,17 +34,27 @@ It returned this year on October 27th. The first Hallowtide added...
 -   [Hallowscleave](Hallowscleave.md) (Sword)\*
 -   [Skyreap Blade](Skyreap_Blade.md) (Greataxe)\*
 
-(\*-only available from the second week of Hallowtide.)
+The second Hallowtide added...
+
+-   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist)\*\*
+-   [Bloodtide Trident](Bloodtide_Trident.md) (Spear)\*\*
+-   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer)\*\*
+-   New Helmets
+-   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>)
+
+(\*-only available from the second week of the first Hallowtide.)
+
+(\*\*-unique crit available from the second week of the second Hallowtide.)
 
 ## New Content
 
 ### The Floating Keep
 
-[The Floating Keep](The_Floating_Keep.md) was a floating island near the [Isle of Vigils](Isle_of_Vigils.md) that can be accessed by talking to the Hallowtide Caller (a pumpkin) near the mantra shop at the Isle of Vigils.
+[The Floating Keep](The_Floating_Keep.md) was a floating island near the [Isle of Vigils](Isle_of_Vigils.md) and [Greathive Aratel](Greathive_Aratel.md) that can be accessed by talking to the Hallowtide Caller (a pumpkin) near the mantra shop at the Isle of Vigils or by the corner of the waterfall area at Greathive Aratel. The Floating Keep is also currently the "Battle Bus" of the battle royale mode.
 
 ### Joy
 
--   Joy had been obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E.
+-   Joy had been obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E, you also gain 15 joy for completing the trial of the gourdskipper.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
 
@@ -54,6 +64,8 @@ It returned this year on October 27th. The first Hallowtide added...
     -   The Familiar Priest Helmet is an exact replica of the [Church Knight Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
     -   The Familiar Heretic Helmet is an exact replica of the [Dark Sigil Knight (Wraith Knight) Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
     -   The Familiar Knight Helmet is an exact replica of the [Sigil Helmet](https://rogue-lineage.fandom.com/wiki/Helmets?so=search) from Rogue Lineage.
+    -   The Shroom helmets are a remodeled version of the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) from Rogue Lineage.
+    -   The Pumpkin Head is a a replica of the heads on the [Gourdskippers](Pumpkin_Head.md).
 
 ### Race Variants
 
@@ -86,7 +98,7 @@ It returned this year on October 27th. The first Hallowtide added...
 
 ### The Hallowtide Calling
 
-The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
+The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra Training Equipment or the waterfall area at Greathive Aratel. When the player interacts with it when [The Floating Keep](The_Floating_Keep.md) hasn't been spawned yet, it will trigger a set of dialogue.
 
 #### Dialogue
 
