@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 69669
+revid: 80157
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]

@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 79917
+revid: 80150
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -262,7 +262,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Guide**: Talk to [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md), then go to Fort Merit. Event occurs near the lift. Kill some Authority Peacekeepers then return to Meteor Isle.
 
-**Reward/s**: EXP, Talent Hand, 2 [Knowledge](Knowledge.md)
+**Reward/s**: EXP, Bravery, 2 [Knowledge](Knowledge.md)
 
 **Kiley's Promise:**
 

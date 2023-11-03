@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80098
+revid: 80156
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1797,7 +1797,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
--   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
+-   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. the spine cutter negation does not work
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
 ### Shipwright
