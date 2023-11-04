@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 80051
+revid: 80165
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -36,6 +36,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !
 -   AD BREAK: Stream Naktigonis. Please. You know you want to.
 -   AD BREAK: selling cbow 2k
+-   A Felinor can have a little bit of salami. As a treat.
 -   Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, I was just singing the menu theme.
 -   Condiments are calories... never forget that.
 -   Did you know I'm actually your twin brother? I know it sounds cliche but I have a 500 page lore document in the works to explain how.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80156
+revid: 80163
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -284,7 +284,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility or obtained through outfits
 
--   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 50% PEN for 5 seconds. (+1 Passive Agility)
+-   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
     -   Prerequisite: 20 Agility
 
@@ -1472,6 +1472,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture).
     -   Affected targets takes 200% extra posture damage and take 25% more damage.
+    -   Affected targets deals 15% less posture damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 
 -   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)

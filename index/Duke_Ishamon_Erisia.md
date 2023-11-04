@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 79958
+revid: 80159
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -115,6 +115,7 @@ In terms of strategy to avoid his attacks as much as possible;
 -   If you attempt to assassinate him, the fight will automatically start.
 -   Since the Mindless Servants can hinder your attack and serve as a nustance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
 -   As The Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
+-   The Duke is protrayed as a Anti-Hero type of person, showed by his evil acts in pursued of stopping Regent.
 
   
 

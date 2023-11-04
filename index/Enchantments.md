@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 80088
+revid: 80169
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -56,7 +56,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
   <td><div><p>Deal 15% more damage in PVE.<sup><a href="#cite-note-1">[1]</a></sup><br>
-  Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a dev.</p></div></td>
+  Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Heroism<div></div></font></center></td>
   <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (1.20x damage at 100% HP)<br>
-  When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP)<br>
+  When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP) It's currently bugged and the damage buff only applies at 5% health.<br>
   <br>
   </p></div></td>
   <td><div>Weapon turns completely yellow and is covered in a yellow glow.</div></td>
@@ -604,6 +604,7 @@ Static flaming purple.
 -   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 -   **August 25th, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
 -   **September 29th, 2023** - Astral is made publicly available.
+-   **November 3rd, 2023** - Hallowtide Enchant: Harrowing is made publicly available.
 
 ## Trivia
 
