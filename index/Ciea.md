@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 67603
+revid: 80310
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Alchemy, Starswept Valley, NPCs]

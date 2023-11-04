@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 79921
+revid: 80318
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]

@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 79146
+revid: 80303
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -31,7 +31,7 @@ The Kyrsglaive is a [Medium Weapon](Weapons.md) obtained from Layer 2. It is a s
 
 The Kyrsglaive does 25.4 damage at 100 Medium Weapon and with the addition of bleed damage, it's total damage adds up to 33.1 damage.
 
-Has a 360° hitbox
+No longer has a 360° hitbox
 
 ## Trivia
 

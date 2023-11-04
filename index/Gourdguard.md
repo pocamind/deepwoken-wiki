@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 80186
+revid: 80309
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -13,14 +13,14 @@ categories: [Weapons, Shields]
 | type | Shield |
 | requirements | 50 FTD |
 | offhand | Offhand only |
-| selling price | ? |
+| selling price | 50 |
 | weight | 1.9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt |
-| description | ? |
+| description | N/A |
 
 ## Description
 
@@ -28,4 +28,4 @@ The Gourdgard is a pumpkin shaped [Shield](Weapons.md). It has a requirement of 
 
 ## Trivia
 
--   Popular among Shrine of Order users, as shields are not unequipped after using the Shrine of Order and 50 Fortitude is an important milestone for obtaining Reinforce and talents like Turtle Shell and Unfazed.
+-   It is identical to the [Ethiron Curseshield](Ethiron_Curseshield.md) in both stats and requirements, only difference being looks.

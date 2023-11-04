@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 80289
+revid: 80301
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -115,7 +115,8 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Harrowing<div></div></font></center></td>
   <td><div><p>Coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
-  This effect lasts for 4 seconds.</p></div></td>
+  This effect lasts for 4 seconds.<br>
+  Can only be obtained from the Hallowtide event.</p></div></td>
   <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
 </tr>
 <tr>
@@ -168,7 +169,7 @@ There are two variants that enchantments come in:
   <td><div><p>Apply <b>Cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
   (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
-  Lose thirst equal to 20% of damage taken.</p></div></td>
+  Lose thirst equal to 20% of damage taken. Sear's PEN stacks are currently bugged causing it to be the same as Old Sear.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>

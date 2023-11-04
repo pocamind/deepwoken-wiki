@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 79909
+revid: 80291
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -161,6 +161,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Frozone, Saint Jay)**_
 -   _I seek the elegance of a glassdancer. **(Glassdancer)**_
 -   _I seek the qualities of FlashFreeze._ **(FlashFreeze)**
+-   _I seek the qualities of Cold Phantom._ **(_Cold Phantom)_**
 
 ### [Thundercall](Thundercall.md)
 

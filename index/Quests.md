@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 80150
+revid: 80311
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -70,7 +70,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: Starswept Valley
 
-**Guide**: Talking to Ciea in the Starswept Valley (near the Widow's Hollow). She will ask you to make some potions. Each repeat gives EXP but the 3rd? repeat gives the talent.
+**Guide**: Talking to Ciea in the Starswept Valley, near the Widow's Hollow, next to the Shrine of Mastery. She will ask you to make some potions. Each repeat gives EXP but the 3rd? repeat gives the talent.
 
 **Reward/s**: Harvester
 
