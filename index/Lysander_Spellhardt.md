@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 80256
+revid: 80261
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -134,7 +134,7 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
   <td>?</td>
   <td>?</td>
   <td>Here you are... a very, very special Joy! With this medal, seek out a blacksmith and they should be able to assist you in recreating the joys of Hallowtide at any time.</td>
-  <td>?</td>
+  <td>Here you are... a very, very special Joy! With this medal, seek out a Blacksmith and they should be able to assist you in recreating the joys of Hallowtide at any time.</td>
 </tr>
 <tr>
   <td>End</td>

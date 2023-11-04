@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80177
+revid: 80286
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2020,7 +2020,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] - If an enemy is on fire when you flourish, blast them away with a fire blast. (+2 Elemental Intensity)
     -   Prerequisite: 45 Flamecharm
 
--   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish them. (+2 Elemental Intensity)
+-   Flaming Flourish \[Common Talent, Flamecharm Exclusive\] - Set enemies on fire when you flourish or uppercut them. (+2 Elemental Intensity)
     -   Prerequisite: 30 Flamecharm
 
 ### The Emperor's Blade

@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 80194
+revid: 80279
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -49,6 +49,7 @@ Example hellmode server
 -   Elegant
 -   Fashionable
 -   Flaming
+-   Frozen
 -   Furious
 -   Genius
 -   Goated
@@ -78,10 +79,13 @@ Example hellmode server
 -   Vainglorious
 -   Warm
 -   Wayward
+-   Willful
 
 **Nouns:**
 
 -   Adret
+-   Brainsucker
+-   Brick
 -   Canor
 -   Capra
 -   Castle
@@ -90,11 +94,13 @@ Example hellmode server
 -   Church
 -   Crab
 -   Demon
+-   Enforcer
 -   Etrean
 -   Executioner
 -   Felinor
 -   Fence
 -   Fish
+-   Fisherman
 -   Flamecharmer
 -   Frostdrawer
 -   Galebreather
@@ -107,15 +113,19 @@ Example hellmode server
 -   Horror
 -   House
 -   Hound
+-   House
 -   Ironsinger
 -   Island
 -   Khan
 -   Lightborn
+-   Lightkeeper
 -   Magician
 -   Megalodaunt
 -   Mountain
 -   Mudskipper
 -   Ocean
+-   Paladin
+-   Rodent
 -   Rogue
 -   Ruffian
 -   Sea

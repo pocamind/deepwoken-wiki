@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 78941
+revid: 80275
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -222,6 +222,25 @@ _Toss a nimble dagger._
 
 -   Breaks certain tiles.
     -   Ex. Hidden Village Door & [Pathfinder's Respite](<Pathfinder's_Respite.md>) Door Barricade.
+
+ |
+| 
+
+ | 
+
+Relentless Flames
+
+(★★☆)
+
+ | 
+
+_Bear down on your foes with repeated fiery slashes._
+
+ | User releases a flurry of seven slashes.
+
+-   Only slashes once when an enemy isn't hit.
+-   Inflicts burn.
+-   Isn't cancellable.
 
  |
 |  | 

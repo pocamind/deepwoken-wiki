@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 80123
+revid: 80276
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -96,7 +96,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 
 -   The Nautilodaunt can spawn several times in the same place during [Hell Mode](Hell_Mode.md).
 -   The Nautilodaunt resembles Cthulhu from the _Cthulhu Mythos_ by H.P Lovecraft.
-    -   They are also heavily reminiscent of Dagon from the anime and manga series, _Jujutsu Kaisen_.
+    -   They are also heavily reminiscent of [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from the anime and manga series, _Jujutsu Kaisen_.
 -   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](Enforcer.md).
 -   If you are inexperienced with fighting Nautilodaunts, get him stuck behind a thin wall (for example, the wall of a building) and just spam your critical attack.
 -   Despite their vastly different HP pools, it is commonly agreed that the Nautilodaunt is harder than most of the bosses in Deepwoken.
@@ -111,7 +111,6 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   If you are very skilled (or you cheese him), you can actually get good [Bell/Resonance progression](Resonance.md) from him, **but be aware**. You are still in the Depths and might get wiped. (Examples being: Players (in a group or solo), Angels, Monsters or even bad ping)
 -   Mortus mentions his wife was killed when they fished up an octopus. Since no octopuses are present in Deepwoken, he may have been referring to a Nautilodaunt. He also says that he no longer fishes up octopuses, indicating that there won't be a Nautilodaunt bait in the game anytime soon.
 -   The nickname "Squid Hoss" is a reference to the Rogue Lineage martial artist Big Hoss, who teaches you all 3 stages of the Oni class.
--   Nautilodaunt are probably inspired by [Dagon from the Jujutsu Kaisen manga](<https://villains.fandom.com/wiki/Dagon_(Jujutsu_Kaisen)>) as they are both squid monsters, have an identical model and are very intellectual in hand to hand combat.
 -   The Fury Nautilodaunt originally had 1200 HP, which was then shadow buffed to 1800.
 -   The vent he uses was the old vent before Deepwoken's release.
 -   If you somehow encounter it in the overworld, do not try to swim away, it CAN swim, though it doesn't have a unique swimming animation.

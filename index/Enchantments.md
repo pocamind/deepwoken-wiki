@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 80169
+revid: 80289
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
 
 -   Any gear you find can already be enchanted. (Except ring, neck and face slot gear, which cannot be enchanted.)
--   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md).
+-   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards is **not** rollable, such as Stormbreaker.
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
 -   Using an [Enchant Stone](Enchant_Stone.md).
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
@@ -113,11 +113,17 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
+  <font>Harrowing<div></div></font></center></td>
+  <td><div><p>Coats the enemy's posture, health, and armor bar in a purple and orange pattern, which hides how full or empty each bar is.<br>
+  This effect lasts for 4 seconds.</p></div></td>
+  <td><div>Weapon turns translucent and emits purple smoke with orange-ish particles.</div></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure><center><br>
   <font>Heroism<div></div></font></center></td>
-  <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (1.20x damage at 100% HP)<br>
-  When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (1.20x damage at 0% HP) It's currently bugged and the damage buff only applies at 5% health.<br>
-  <br>
-  </p></div></td>
+  <td><div><p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (20% more damage at 100% HP)<br>
+  When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (20% more damage at 0% HP)<br>
+  It's currently bugged and the damage buff only applies at 5% health.</p></div></td>
   <td><div>Weapon turns completely yellow and is covered in a yellow glow.</div></td>
 </tr>
 <tr>
