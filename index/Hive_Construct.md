@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 78891
+revid: 80249
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -92,30 +92,28 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 
 ### Finishers
 
--   Executing Punch - The construct walks up to it's opponent and punches them, immediately killing them.
+-   Executing Punch - The construct walks up to its opponent and punches them, immediately killing them.
     
 
 ## Tips
 
--   Can easily kill you even at Power 20 if alone or inexperienced.
--   Usually not worth fighting head-on. Even if you try, this Construct will obscure your vision with trees all the time.
--   Be careful if fighting alongside the Hive Constructs; if you get downed they will not bother about collateral, and will most definitely kill you.
+-   These things do unrelenting damage even at Power 20. Do not take them lightly. Pay attention to undodgeable cues and stay wary for the blue particles around the fist signifying a Meteor Punch usage.
+-   Be careful if fighting alongside Hive Constructs; if you get downed, there's a solid chance you will get instantly executed in the crossfire.
 -   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Hive Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.
--   There are many ledges on Minitrysa that allow you to easily cheese the construct without taking damage.
--   If your going to fight them head on you will need to dodge all of their punches.
+-   There are many ledges on Minitrysa that allow you to easily cheese the Rogue Construct without taking damage.
     
     A hive golem talking.
     
 
 ## Trivia
 
--   Technically the most powerful and hard-hitting enemy in the entire game when fought directly.
--   The Rogue Construct in [Minityrsa](Minityrsa.md) will not aggro/fight the [Meteor Knights](Stone_Knight.md), the opposite is also true.
+-   It was virtually impossible to fight these directly for years after Deepwoken's release due to their animations being heavily bugged. They were fixed at an unknown date.
+-   The Rogue Construct in [Minityrsa](Minityrsa.md) will not aggro/fight the [Meteor Knights](Stone_Knight.md); the opposite is also true.
 -   Works with Stone Knight, even prioritizes it above an [Authority Captain](Authority_Captain.md).
 -   Hive Constructs can drop [Pomars](Pomar.md) upon death.
 -   Can win every fight with another [monster](Monsters.md) in [Starswept Valley](The_Starswept_Valley.md).
 -   They will mock The Central Authority after defeating an [Authority Captain](Authority_Captain.md) during the **Hive Construct vs Authority Captain** event.
+    -   Hive Constructs will always win these events without player intervention.
 -   Hive Constructs have an idle animation similar to the Ninja Animation pack.
--   Hive Construct are unable to swim, and will instantly drown if they attempt to enter water.
--   Hive Construct will always win against an [Authority Captain](Authority_Captain.md).
+-   Hive Constructs are unable to swim, and will instantly drown if they attempt to enter water.
 -   Unlike most monsters, they have cancollide on, which means you can touch their model without phasing through them.

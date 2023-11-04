@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 80152
+revid: 80255
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -29,7 +29,11 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained from either the [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) or from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Joy](Joy.md).
+The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained from either the [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) or from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Joy](Joy.md). This weapon's unique critical sends out a blockbreaking AoE around the user and two orbs that can be aimed with the mouse cursor.
+
+## Critical
+
+The user spins around their staff and summons a green colored mist that surrounds them and damages anyone in the area, almost always blockbreaking instantly. Afterwards, three spirits emerge from the mist and launch green orbs at the player's cursor.
 
   
   

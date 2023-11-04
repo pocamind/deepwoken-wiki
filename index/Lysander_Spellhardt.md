@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 79619
+revid: 80256
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -95,21 +95,21 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
 <table>
 <tbody>
 <tr>
-  <td colspan="10">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="10">Off to spread the holiday cheer I hope! How many new people have you scared since we last spoke?</td>
+  <td colspan="12">Off to spread the holiday cheer I hope! How many new people have you scared since we last spoke?</td>
 </tr>
 <tr>
-  <td colspan="9">Well I'd say around... _, maybe?</td>
+  <td colspan="11">Well I'd say around... _, maybe?</td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="8">If more than 1 person scared</td>
+  <td colspan="10">If more than 1 person scared</td>
   <td>If less than 1 person scared</td>
 </tr>
 <tr>
-  <td colspan="8">Hmm.. <b>_ people</b>, you say? A good start! Now, what would you like to spend that Hallowtide Joy on?</td>
+  <td colspan="10">Hmm.. <b>_ people</b>, you say? A good start! Now, what would you like to spend that Hallowtide Joy on?</td>
   <td>No one? Really? Come on, get out there and scare some people!</td>
 </tr>
 <tr>
@@ -120,6 +120,8 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
   <td>Hallowtide Variant [70 Joy]</td>
   <td>Pumpkin Head [50 Joy]</td>
   <td>Mushroom Costume [100 Joy]</td>
+  <td>Hallowtide '23 Medal [300 Joy]</td>
+  <td>Hallowtide '22 Medal [200 Joy]</td>
   <td>End</td>
   <td>End</td>
 </tr>
@@ -131,8 +133,12 @@ Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_
   <td>Here you are... a very, very special Joy! Since I'm feeling generous today, I can induce the transformation now if you wish. Just pay me another visit.</td>
   <td>?</td>
   <td>?</td>
+  <td>Here you are... a very, very special Joy! With this medal, seek out a blacksmith and they should be able to assist you in recreating the joys of Hallowtide at any time.</td>
+  <td>?</td>
 </tr>
 <tr>
+  <td>End</td>
+  <td>End</td>
   <td>End</td>
   <td>End</td>
   <td>End</td>

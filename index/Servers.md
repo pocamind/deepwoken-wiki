@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 76797
+revid: 80194
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -118,6 +118,7 @@ Example hellmode server
 -   Ocean
 -   Rogue
 -   Ruffian
+-   Sea
 -   Shadowcaster
 -   Shark
 -   Sky

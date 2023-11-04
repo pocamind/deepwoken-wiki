@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 77500
+revid: 80240
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer, Chaser, Scion of Ethiron, (~1%), Pure Astruline/Umbrite Turn-ins, Chime of Conflict |
+| obtainment | Second Layer, Chaser, Scion of Ethiron, (~1%), Pure Astruline/Umbrite Turn-ins, Chime of ConflictUnknown Chance, First Layer - The Depths Collapse chests |
 | description | "Call forth the void to your location. Those who die within its field will be sent straight to the Depths." |
 
 ## Description

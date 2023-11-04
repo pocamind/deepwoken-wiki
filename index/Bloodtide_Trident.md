@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 80075
+revid: 80235
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -33,6 +33,6 @@ The Bloodtide Trident is a Medium Weapon in the Spear category. It is obtained b
 
 ## Trivia
 
--   This weapon has the same critical as the [Gremorian Longspear](Gremorian_Longspear.md).
+-   Prior to the addition of unique critical attacks for the Hallowtide 2023 Weapons, this weapon had the same critical as the [Gremorian Longspear](Gremorian_Longspear.md).
 -   As with all Hallowtide weapons, this weapon possesses a special effect upon successfully gripping a humanoid NPC or player, that being a grave appearing along with a [Taco Bell Bell sound](https://www.youtube.com/watch?v=kLvGB3Ol2p4).
 -   The end of the spear sports the Deepwoken logo.

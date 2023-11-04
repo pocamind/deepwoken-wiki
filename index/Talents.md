@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80163
+revid: 80177
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -285,7 +285,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 20 Agility or obtained through outfits
 
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
-    -   You immediately reach the default PEN cap (50%). Million Ton Piercer will be required to benefit from any other PEN bonuses.
+    -   This talent used to give 50% PEN, but was nerfed down to 25% during November 3rd, 2023.
     -   Prerequisite: 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)

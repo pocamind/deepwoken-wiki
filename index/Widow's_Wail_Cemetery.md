@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 79886
+revid: 80254
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,7 +22,7 @@ The Widow's Wail Cemetery is a location that players can teleport to with many p
 
 ## Trial of the Gourdskipper
 
-The Trial of the Gourdskipper a trial where you must survive 8 waves of [Gourdskippers](Gourdskipper.md) using only the Pumpkin Pitch Mantra that replaces your M1's. On certain waves, chests containing Hallowtide weapons & equipment will spawn where players are standing. When you complete all 8 waves you are awarded with 15 [Joy](Joy.md).  
+The Trial of the Gourdskipper a trial where you must survive 8 waves of [Gourdskippers](Gourdskipper.md) using only the Pumpkin Pitch Mantra that replaces your M1's. On certain waves, chests containing Hallowtide weapons & equipment will spawn where players are standing. Each Gourdskipper takes 3 hits to kill with Pumpkin Pitch, and when you complete all 8 waves you are awarded with 15 [Joy](Joy.md).  
 
 If you get hit by a Gourdskipper during the event, you become infected, and your M1's resemble that of a regular Mudskippers. If you are hit by Pumpkin Pitch twice when you are infected you are teleported outside of the Widow's Wail Cemetery to the portal you came in through. If you are infected and the only person doing the trial then the trial immediately ends and you must wait for it to come off of the cooldown. If you are infected and not doing the trial solo, then you can infect other players for 1 [Joy](Joy.md) per person.  
 
@@ -57,12 +57,12 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 </tr>
 <tr>
   <td>5</td>
-  <td>3</td>
+  <td>2</td>
   <td><font>◯</font></td>
 </tr>
 <tr>
   <td>6</td>
-  <td>3</td>
+  <td>2</td>
   <td><font>✗</font></td>
 </tr>
 <tr>
@@ -72,11 +72,18 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 </tr>
 <tr>
   <td>8</td>
-  <td>4</td>
+  <td>3</td>
   <td><font>◯</font></td>
 </tr>
 </tbody>
 </table>
+
+### Rewards
+
+-   [Hallowtide Weapons](Hallowtide.md#description)
+-   [Umbral Obsidian](Umbral_Obsidian.md)
+-   [Gems](Treasures.md)
+-   [Mantra Modifiers](Mantra_Modifiers.md)
 
 ## Points of Interest
 
@@ -91,4 +98,4 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 ## Trivia
 
 -   When attempting the Trial of the Gourdskipper, gaining altitude by climbing the trees is a great idea so that you don't get hit by the mudskippers
--   Barricading the entrance of the houses with barrels so that the mudskippers don't enter them is also a good idea so that you don't have to risk going down to kill them.
+-   Stacking barrels on a tree to gain altitude is a good idea so that Gourdskippers can't jump up and hit

@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 79575
+revid: 80188
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -30,6 +30,10 @@ Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floatin
 [Bloodtide Trident](Bloodtide_Trident.md) (Spear) \[100 Joy\]
 
 [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist) \[100 Joy\]
+
+[Gourdguard](Gourdguard.md) (Shield) \[80 Joy\]
+
+Harrowing Enchant Stone \[150 Joy\]
 
 Pumpkin Pitch (Mantra) \[300 Joy\]
 
