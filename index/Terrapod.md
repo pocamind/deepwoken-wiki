@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 80205
+revid: 80368
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Terrapod
 
-**Also known as Headcrabs and Turtles.**
+**Also known as Headcrabs, Turtles and Bedbuges.**
 
 **Normal:**
 

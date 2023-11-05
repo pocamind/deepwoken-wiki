@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 79558
+revid: 80349
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -400,6 +400,27 @@ Found from:
 
 -   [Second Layer](Second_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+
+ | N/A |
+|  | 
+
+[Bloodforged Crown](Bloodforged_Crown.md)
+
+ | 
+
++1 Rare Pip
+
++1 Legendary Pip
+
+_+Talent: Cauterized Wounds'_
+
+**Requires Power 15**
+
+ | 
+
+Found from:
+
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  | N/A |
 | File:Static-assets-upload12843990363310254802.png | 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 80301
+revid: 80361
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
 
--   Any gear you find can already be enchanted. (Except ring, neck and face slot gear, which cannot be enchanted.)
+-   Any gear you find can already be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards is **not** rollable, such as Stormbreaker.
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
 -   Using an [Enchant Stone](Enchant_Stone.md).

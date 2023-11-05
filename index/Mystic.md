@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 80291
+revid: 80359
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -82,7 +82,7 @@ _"No money, friend? How ever will I feed myself?_
 ### [Willpower](Attributes.md#willpower)
 
 -   _I am a slayer of beasts. **(Beast Slayer; Giantslayer)**_
--   _I have never lost. **(Champion) (Note; Cannot give Champion's Regalia, Defiance)**_
+-   _I have never lost. **(Champion; Underdog) (Note; Cannot give Champion's Regalia, Defiance)**_
 -   _I will save my people. **(Liberator; Savior)**_
 -   _I go beyond my limits. **(Limitbreaker) (Note; Cannot give Dirty Boxing, Lose your Mind, Piercing Will)**_
 -   _My mind is indomitable. **(Mental Fortress)**_

@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 77961
+revid: 80374
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Quests]
@@ -12,12 +12,6 @@ categories: [Pages with broken file links, NPCs, Quests]
 |---|---|
 | name | Chef Odiolavoro |
 | location | Etris |
-
-“ 0/10, just looking at the food makes me feel like I just got botulism. ”
-
-― Chef Odiolavoro, probably
-
-  
 
 Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) chef that's opened up shop in Etris recently and is hoping to one day be able to compete with the Leshi brothers.
 
@@ -110,6 +104,7 @@ File:UllaOmlette.png
 
 ## Trivia
 
--   He actually acknowledges [Lance's Brother](<Lance's_Brother.md>), and unlike Stratos he is not in contact with him daily, making him possibly the only one to do so.
+-   Despite desiring to outperform [Lance Leshi](Lance.md) and [Lance's Brother](<Lance's_Brother.md>), he requests cheese dishes, despite the only method of obtaining cheese being to purchase it from Lance's Brother, thus giving his direct competition business and money. As this is never addressed, it's likely there is no lore reason and he is simply stupid.
+-   He actually acknowledges Lance's Brother, and unlike Stratos he is not in contact with him daily, making him possibly the only one to do so.
 -   It's implied he's actually not that skilled as a cook, as his criticisms of the player's food include him thinking the food should be burnt to ash.
 -   In Italian, "Odio" translates to "hate," and "Lavoro" to work, corresponding with his actions of asking the player to cook for him instead of actually learning how to cook for himself.
