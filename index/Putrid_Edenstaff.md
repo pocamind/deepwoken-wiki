@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 80358
+revid: 80389
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -29,7 +29,7 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained from either the [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) or from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Joy](Joy.md). This weapon's unique critical sends out a blockbreaking AoE around the user and two orbs that can be aimed with the mouse cursor.
+The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained from either the [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) or from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Joy](Joy.md). This weapon's unique critical sends out a blockbreaking AoE around the user and three orbs that can be aimed with the mouse cursor.
 
 ## Critical
 
@@ -48,3 +48,6 @@ The user spins around their staff and summons a green colored mist that surround
 ## Trivia
 
 -   This weapon was teased on the Deepwoken Twitter, within the post where they announced 2023 Hallowtide's release date.
+-   The Orbs are able to knockback players if they get hit.
+-   When a player or any npc is gripped by one of the other Hallowtide weapons, the majority of them will cause a grave to appear and emit a Taco Bell bell sound.
+-   The old critical attack were greathammers usual critical attack.

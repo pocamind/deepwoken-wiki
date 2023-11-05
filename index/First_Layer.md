@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 80293
+revid: 80394
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -228,6 +228,8 @@ Below is a list of potential items that can spawn in chests in Scyphozoa. Scypho
 -   Avoid Deep Owls at all costs because they can wipe a player who isn't strong enough to take them on. If you see dark feathers in a path, just avoid it and play it safe.
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider while your character is shivering or scratching, you may fall off the Glider.
 -   Watchers and Angels are a threat to low-level players, so exercise extreme caution if you are a low-level player.
+-   If you are experiencing severe lag on a particular server, consider switching to another one. Depending on the monster you are facing, a single lag spike or being on a bad server can result in your death.
+-   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 80363
+revid: 80388
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,7 +25,7 @@ You can get the [Spell Shout](Valikor.md) talent by talking to him.
 
 **TYPE "/e shout" TO DISABLE SPELL SHOUTING (This is out dated)**
 
-Go to settings on Deepwoken in order to disable Spell Shouting.
+Go to settings in order to disable Spell Shouting. (Not Roblox Settings)
 
 ## Dialogue
 

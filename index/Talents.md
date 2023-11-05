@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80379
+revid: 80400
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1732,10 +1732,19 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of the Scrapsinger."**_
 
--   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds.
-    -   Prerequisite: Scrapsinger, 45 Ironsing
--   Scrapsinger \[Common Talent, Ironsing Exclusive\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
+-   Gilded Path: Scrapsinger \[Common Talent, Ironsing Exclusive\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
     -   Prerequisite: 35 Ironsing
+-   Refine and Reuse \[Common Talent, Ironsing Exclusive\] - Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
+    -   Prerequisite: Gilded Path: Scrapsinger, 45 Ironsing
+-   Artisan's Blade \[Common Talent, Ironsing Exclusive\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
+    -   Prerequisite: Gilded Path: Scrapsinger, 45 Ironsing
+-   Songs Unforged \[Common Talent, Ironsing Exclusive\] - Your weapon criticals will now activate scrapsinger.
+    -   Prerequisite: Gilded Path: Scrapsinger, 50 Ironsing
+-   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal slightly more damage.
+    -   Prerequisites: Artisan's Blade, 60 Ironsing
+
+-   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +10% damage.
+    -   Prerequisites: All Scrapsinger talents, 70 Ironsing
 
 ### Seeker of Sound
 

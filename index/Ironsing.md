@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 80326
+revid: 80405
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -278,6 +278,70 @@ These are talents found in "_Metallurgist_" Category.
 | 
  | 
 
+Intuitive Repairs  
+(Iron Skin, METAL 25)
+
+ | 
+
+Your 'Iron Skin' repairs armor while it's active.
+
+ | 
+
+Iron Skin regenerates your regular armor's and your natural armor's durability(from Chitin and Exoskeleton).
+
+ |
+| 
+
+ | 
+
+Metal Absorption  
+(STR 15, METAL 45)
+
+ | 
+
+Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
+
+ | 
+
+Guardbreaking an opponent will them from receiving speed boost for 5 seconds.
+
+ |
+| 
+
+ | 
+
+Metal Shackles  
+(Iron Hug, METAL 45)
+
+ | 
+
+Your 'Iron Hug' also absorbs armor from the enemy.
+
+ | 
+
+Landing the Iron Hug mantra will absorb armor from the enemy.
+
+ |
+| 
+
+ | 
+
+Laced Traps  
+(Caltrops, METAL 45)
+
+ | 
+
+People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
+
+ | 
+
+People hit by your 'Caltrops' mantra cannot jump and are slowed for a small duration.
+
+ |
+| 
+
+ | 
+
 Ironclad Punishment  
 (METAL 45)
 
@@ -304,6 +368,102 @@ Getting flourished applies a metal rod on your attacker.
  | 
 
 Apply rods on your attacker when **you** are flourished.
+
+ |
+| 
+
+ | 
+
+Metal Eater  
+(METAL 50)
+
+ | 
+
+When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Insanity)
+
+ | 
+
+You can sacrifice some of your armor durability to cast mantras when you're out of ether.
+
+ |
+| 
+
+ | 
+
+Metal Thief  
+(METAL 50)
+
+ | 
+
+Pulling an opponent absorbs a portion of their current Armor durability.
+
+ | 
+
+Pulling an opponent absorbs a portion of their current Armor durability.
+
+ |
+| 
+
+ | 
+
+Heavy Shoulders  
+(METAL 55)
+
+ | 
+
+If your opponent has 3 or more rods, their dodges are slower.
+
+ | 
+
+If your opponent has 3 or more rods, their dodges are slower.
+
+ |
+| 
+
+ | 
+
+Oh the Irony  
+(Taunt, CHAR 40, METAL 55)
+
+ | 
+
+Opponents affected by 'Taunt' receive double iron rods for the duration.
+
+ | 
+
+The debuff given by the "Taunt" Mantra now doubles incoming iron rods.
+
+ |
+| 
+
+ | 
+
+Piercing Metal  
+(POWER 13, METAL 60)
+
+ | 
+
+Deal additional armor damage to enemies per metal rod affecting them.
+
+ | 
+
+Deal _(???)_ more armor damage to enemies per metal rod affecting them.
+
+ |
+| 
+
+ | 
+
+Polished Armor  
+(METAL 75)
+
+ | 
+
+You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
+
+ | 
+
+When your armor durability is above 90%, you recieve 10% less damage that would be affected by your armor.
 
  |
 | 
@@ -394,6 +554,108 @@ Your weapon M1's have +0.25 range.
  | 
 
 Increased weapon range.
+
+ |
+
+**Scrapsinger:**
+
+These are talents found in "_Scrapsinger_" Category.
+
+| Media | Talent | Card Description | Effect |
+| --- | --- | --- | --- |
+| 
+ | 
+
+Gilded Path: Scrapsinger  
+(METAL 35)
+
+ | 
+
+Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
+
+ | 
+
+When flourishing an enemy, you consume any rod on they have and steal their armor. Also turns your Ironsing mantras gold / yellow.
+
+ |
+| 
+
+ | 
+
+Refine and Reuse  
+(Gilded Path: Scrapsinger, METAL 45)
+
+ | 
+
+Consuming rods with Scrapsinger reduces incoming PEN against you for 14 seconds. Each rod reduces PEN by 5% multiplicatively.
+
+ | 
+
+When consuming an enemy's rod, their PEN against you is reduced for 14 seconds by 5% for each rod multiplicatively
+
+ |
+| 
+
+ | 
+
+Artisan's Blade  
+(Gilded Path: Scrapsinger, METAL 45)
+
+ | 
+
+Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
+
+ | 
+
+Activating Scrapsinger summons a metal blade for each 2 rod consumed that will fire at the target when landing an ironsing or a metal infused attack.
+
+ |
+| 
+
+ | 
+
+Songs Unforged  
+(Gilded Path: Scrapsinger, METAL 50)
+
+ | 
+
+Your weapon criticals will now activate scrapsinger.
+
+ | 
+
+Your weapon's critical attack activates scrapsinger abilities.
+
+ |
+| 
+
+ | 
+
+Masterwork  
+(Artisan's Blade, METAL 60)
+
+ | 
+
+Successful hits from Artisan's Blades will proc metal rods and deal slightly more damage.
+
+ | 
+
+Sucessful hits from your Artisan's Blades will proc metal rods and deal slightly more damage.
+
+ |
+| 
+
+ | 
+
+Reshape and Remold  
+(All Scrapsinger talents, METAL 70)
+
+ | 
+
+Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +10% damage.
+
+ | 
+
+When sucessfully proccing Scrapsigner, your opponent takes increased armor damage until it reaches a cap of _???_. When reaching the cap, your opponent takes +10% damage for _???_ seconds.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 80359
+revid: 80399
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -161,7 +161,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Frozone, Saint Jay)**_
 -   _I seek the elegance of a glassdancer. **(Glassdancer)**_
 -   _I seek the qualities of FlashFreeze._ **(FlashFreeze)**
--   _I seek the qualities of Cold Phantom._ **(_Cold Phantom)_**
+-   _I seek the qualities of Cold Phantom._ **(_Cold Phantom,_** Gives Freezing Wight, however for some reason in the Deepwoken Builder it is listed as an "unknown category" so some do not know this.)
 
 ### [Thundercall](Thundercall.md)
 
@@ -197,6 +197,7 @@ _"No money, friend? How ever will I feed myself?_
 ### [Ironsing](Ironsing.md)
 
 -   _I seek the qualities of Metallurgist. **(Metallurgist)**_
+-   _I seek the qualities of Scrapsinger. **(Scrapsinger)**_
 -   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal) (Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
 
 ### **Dual Attunement**
