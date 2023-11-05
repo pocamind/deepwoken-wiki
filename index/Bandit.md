@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 77948
+revid: 80406
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -46,5 +46,5 @@ A Bandit executes the player after knocking them:
 -   Check your ping before fighting one of them or you could die easily.
 -   "Sea Adventurer" was created by Renji.
 -   Bandits, despite their reputation of being savage thieves, still have a hierarchy system. Bandits have [leaders](Bandit_Leader.md), however they are probably just a stronger bandit.
--   Please do not spare them if they say "No! Wait! I'll do anything" or they will get up and proceed to stab you.
--   Bandits are the dumbest enemy not even parrying half the time. They are just freshies in npc form.
+-   Bandits can somewhat coax new players into letting them go by saying things like "No! Wait! I'll do anything!" When the player doesn't grip them, the Bandits will get back up and continue to attack.
+-   Bandits do not have the "experienced fighter" boon, which means they cannot block, parry or dodge intentionally. (However, they may accidentally parry or dodge a move)

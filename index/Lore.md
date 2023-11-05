@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 80052
+revid: 80408
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -135,7 +135,7 @@ The Duke
 -   He is respectful towards those who save his Vigils, and even feels as if he is in their debt while also valuing strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 -   His main weapon type is medium, but he is also a master of the other two.
 -   Kelsius, the keeper of the Vigil library, is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
--   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" talent which infuses Galebreathe upon inhaling a spell.
+-   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" Talent which infuses Galebreathe upon inhaling a spell.
 -   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions allow him to activate Tempest Eye.[\[1\]](#cite-note-rag-1)
 -   User of Tempest Eye. The only ability that Tempest Eye is currently known to grant to its user is the ability to parry any attack, including attacks that are normally not able to be parried, such as a [Megalodaunt](Megalodaunt.md) kick. [\[1\]](#cite-note-rag-1)
 
@@ -966,7 +966,7 @@ An Authority Captain
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of Races, presumably because they see more merit in combat proficiency and intelligence and thus are less cautious of the sudden arrival of other Races in their kingdom.
--   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry talents (Galebreathe exclusive) make mention of the vigils.
+-   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry Talents (Galebreathe exclusive) make mention of the vigils.
 -   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
     -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
@@ -1055,7 +1055,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunments:** _Flamecharm._
 -   **Alliances:** _Amorus Pleeksty(?)_
 -   **Enemies:** _The Depths(?)_
--   **Lore Sources:** _Ploom, Worshipper Shield, Flamecharmer Worshipper Outfit, Ragoozer (Discord), Talent cards (Amoran seeker talent cards, falling star guard talent cards), Mystic._
+-   **Lore Sources:** _Ploom, Worshipper Shield, Flamecharmer Worshipper Outfit, Ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards), Mystic._
 
 -   A group of Flamecharmers who follow the teachings of the Drowned Diver Amorus Pleeksty.
 -   One of the few faiths from the Canticlysm that survived the Tides and its still spreading today. (Book Vows by the sea: Inheritance)
@@ -1305,7 +1305,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
 -   It was invented when Pleeksty consumed a chunk of Korilfiend's flesh, allowing him to speak to and thus 'charm' fire.
--   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
+-   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple alents with his name in them, and he is mentioned by Plume in Etris.
     -   Pleeksty was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the third layer of the Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
 -   (Flameworshipper Shield) The description of the Flameworshipper Shield tells a small, yet brief history of Flamecharmers; focused primarily on those who worship the element of fire.
@@ -1322,7 +1322,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Frostdraw freezes the surrounding air and molecules around it; creating ice.
     -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization. In a sense, it's the ability to manipulate temperature, rather than manipulate a substance.[\[2\]](#cite-note-arch-2)
 -   Navae was a great pioneer of it and could weave protective magic into frigid prisms used in clothing.
--   Saint Jay was a major figure to Frostdrawers, as a Talent is named after him that is a part of the Frostdraw talent tree.
+-   Saint Jay was a major figure to Frostdrawers, as a Talent is named after him that is a part of the Frostdraw Talent tree.
     -   It is presumed that similar to Pleeksty, Saint Jay was a cultivator of magic who taught his ways to others.
     -   He did not invent it, neither did Navae.
 
