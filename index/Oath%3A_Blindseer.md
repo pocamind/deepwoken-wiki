@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 79169
+revid: 80423
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 80294
+revid: 80419
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -112,7 +112,7 @@ The fight is split into two phases, with phase two starting once he hits half he
 
 Each section describing the phases explains in great detail how to deal with his moves in each respective phase.
 
-Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be lost if hit by Ferryman's minions; only his direct damage (e.g. lightning assault, javelins, etc.) counts against it.
+Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be lost if hit by Ferryman's minions or vent; only his direct damage (e.g. lightning assault, javelins, etc.) counts against it.
 
 **In General:**
 
@@ -152,7 +152,7 @@ Phase two is where it gets real -- the true fight. All of his previous attacks g
 -   **Grand Volley** - Ferryman's most reliably dangerous attack. He has a significant wind-up when throwing his Javelins, and they seem to be slower than normal Javelins, but they are still massive, infinite range projectiles that he locks onto you with. At the beginning of the move there is a sound cue to help with identifying the attack and direction it can be coming from if the Ferryman has displaced himself out of your sight. Getting hit by one easily leads to you being steamrolled by the additional javelins. It's very important to make distance if healing is required, so that he cannot just obliterate you with an unexpected Pulse & Grand Volley combo. The sound comes a bit before the attacks, giving you time to react at melee range. They are relatively easy to react to at distance as they move quite slowly. It should be noted that **he will target ALL PLAYERS in the arena with this attack**, making it significantly more difficult to dodge with multiple players.
     
 
-As with most other boss fights in Deepwoken, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
+As with most other boss fights, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
 
 The best way to damage The Ferryman is to spam M1s whenever his Lightning Strikes Attack is done. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and instead must rely on your ability to be strategic with parrying and defense.
 
@@ -166,7 +166,7 @@ The best way to damage The Ferryman is to spam M1s whenever his Lightning Strike
     -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
 
-In addition to the seasonal rewards, The Ferryman will leave 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a Stormseye or a [Relic](Relics.md).
+In addition to the seasonal rewards, The Ferryman will leave 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a [Stormseye](Stormseye.md) or a [Relic](Relics.md).
 
 > _Drop chances are based on conjecture and may be incorrect._
 
@@ -174,11 +174,11 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
 -   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of less than 1%.
 -   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost. (22.5% drop chance)
 -   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs. (Very common drop.)
--   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - The **Idol of Yun'shul** is a ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (12.5% drop chance)
+-   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (12.5% drop chance)
 -   [**Smith’s Alloy**](<Smith's_Alloy.md>) - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars. (5% drop chance)
 -   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (Unknown drop chance.)
 -   [**Justicar's Armor**](<Justicar's_Armor.md>) - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint. (7.5% drop chance)
--   [**Ardour Manifestation**](Ardour_Manifestation.md) - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory,, not in chests.
+-   [**Ardour Manifestation**](Ardour_Manifestation.md) - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   [**Pluripotent Alloy**](Pluripotent_Alloy.md) - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
 
 ## Dialogue

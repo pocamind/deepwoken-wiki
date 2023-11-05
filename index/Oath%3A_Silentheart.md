@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 80145
+revid: 80424
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -95,3 +95,4 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 
 -   This oath is the only Oath that does not give any mantra slots.
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential.
+-   If you have even one mantra from cards or other sources it will be removed upon Oath obtainment

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 79809
+revid: 80416
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -90,7 +90,12 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
 | 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
 | 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) Gamemode | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
-| 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
+| 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md)
+(Combat)
+
+[Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat)
+
+ | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
 | TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | Miner's Landing Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |

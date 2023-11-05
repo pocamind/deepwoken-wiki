@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 77258
+revid: 80427
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -72,7 +72,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 -   How To Make Friends - Template:Cost / **200 uses**
 
 \- LOCATION: [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, Next to the Crafting Station inside [Summer Isle](Summer_Isle.md) Shop, and [Castle Light](Castle_Light.md) Library  
-\- HOW TO TRAIN EFFICIENTLY: Use around NPCs or Players, Sell Items, Gain Positive [Reputation](Reputation.md) for any faction
+\- HOW TO TRAIN EFFICIENTLY: Use [How To Make Friends](How_to_Make_Friends.md) around NPCs or Players, Sell Items, Gain Positive [Reputation](Reputation.md) for any faction
 
 ### Light/Medium/Heavy Weapons
 

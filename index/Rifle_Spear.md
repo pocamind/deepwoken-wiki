@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 79222
+revid: 80421
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -42,6 +42,6 @@ The weapon itself is different from the typical Spear, as its critical is differ
 
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.
--   The current model of the Rifle Spear has an Central Authority logo etched onto the blade.
+-   The current model of the Rifle Spear has a Central Authority logo etched onto the blade.
 
 The original Rifle Spear up close

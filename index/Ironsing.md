@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 80405
+revid: 80426
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -506,22 +506,6 @@ Deal 10% more damage to opponents with no armor durability left.
  | 
 
 Increased damage talent
-
- |
-| 
-
- | 
-
-Intuitive Repairs  
-(METAL 25)
-
- | 
-
-Your 'Iron Skin' repairs armor while it's active.
-
- | 
-
-It repairs both your armor and natural armor.
 
  |
 | 
