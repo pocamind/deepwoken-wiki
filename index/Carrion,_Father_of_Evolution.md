@@ -1,6 +1,6 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 76787
+revid: 80489
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]
@@ -27,7 +27,7 @@ Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eye
 
  | (★☆☆) | Megalodaunt Coral |
 | Beast Burrow | Similiar to [Thresher](Thresher.md) Burrow attack. Disappear underground for a period of time and jump out dealing AOE damage. Grants i-frames. | ◯ | ✗ | ◯ | (★☆☆) | Thresher Talon |
-| Enforcer Pull | When in proximity, pulls victim towards the user. | ✗ | ✗ | ◯ | (★☆☆) | Enforcer Eye |
+| Enforcer Pull | When in proximity, pulls victim towards the user. | ◯ | ◯ | ◯ | (★☆☆) | Enforcer Eye |
 | Dread Breath | Turns user's head into a head of a [Dread Serpent](Dread_Serpent.md), breathing out ice beam for the duration of the mantra. | ◯ | ◯ | ◯ | (★★☆) | Dread Serpent Tooth |
 | Brachial Spear | Throws a giant femur towards selected area. Deals high damage and high knockback, high wind-up time. | ◯ | ✗ | ◯ | (★★★) | Giant Femur |
 | Mecha Gatling | Mounts a gatling gun upon the player's shoulder and fires it forwards, multi-hit. | ◯ | ◯ | ◯ | (★★☆) | Broken Gatling Gun |

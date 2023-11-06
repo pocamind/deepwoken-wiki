@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 80451
+revid: 80514
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -93,6 +93,8 @@ There are 24 (known) potion ingredients, though only 15 have an effect strong en
 
 Most ingredients have a positive and a negative effect - one of these effects is the stronger primary effect, which will name the potion if used alone, and the other is a weaker secondary effect, which is always present, but will only name the potion if the primary effect is weakened by another ingredient. A couple ingredients have one or three effects.
 
+Eating an ingredient by itself will give you a weaker version of the effect it'd normally give you if brewed in a potion. Likely doesn't have any substantial uses. (Tested by eating a Bamboo Bundle by itself)
+
 -   Alestrian Coral - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Hastening**; Increases speed for 15 seconds. Tertiary effect is **Weakening(?)**: Decreases posture damage.
     -   The Hastening effect, despite being secondary, is the strongest
     -   The posture damage decrease cannot be the strongest effect, so it's true name is unknown.
@@ -102,7 +104,7 @@ Most ingredients have a positive and a negative effect - one of these effects is
 -   Beeswax - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Decelerate(?)**; Reduces movement speed.
     -   Since beeswax's Invigorating effect is so powerful, and the only effect that cancels it is the weak Grueling from Plumfruit, it is very difficult to find the name of the secondary effect. It appears to be a slowing effect, however.
 
--   Bluecap - Primary effect is **Heartening**; Rapidly restores Sanity. (The potion also restores reservoir (**Soothing**) and deals a small amount of damage (**Disgusting**), though these may technically be part of the Heartening effect.)
+-   Bluecap - Primary effect is **Heartening**; Rapidly restores Sanity. (The potion also restores ether (**Soothing**) and deals a small amount of damage (**Disgusting**), though these may technically be part of the Heartening effect.)
     -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion, and which are secondary effects.
     -   The Heartening effect is so strong that 1 Bluecap is able to overpower 3 Urchins
 
@@ -110,15 +112,14 @@ Most ingredients have a positive and a negative effect - one of these effects is
     -   The damage from Disgusting is very small - even when brewed with every bonus, thrown potions are unlikely to deal more than 5% to opponents of similar strength.
     -   The secondary Strengthening effect is also very small.
 
--   Calabash - Primary effect is **Steadfast**; Increases your maximum posture. Secondary effect is **Icky**; Drains Ether and prevents Reservoir draw for 15 seconds.
+-   Calabash - Primary effect is **Steadfast**; Increases your maximum posture. Secondary effect is **Icky**; Drains Ether over time for 15 seconds.
     -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
 -   Crustacean Meat - Primary effect is **Dulling**; decreases damage dealt. Also increases duration of effects by a small amount.
 
 -   Dentifilo - Primary effect is **Soothing**; Instantly restores ether. Secondary effect is **Disgusting**; Deals a small amount of damage.
 
--   Gathered Wheat - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Focus-Enhancing**; Drastically increases the rate that Reservoir is turned into Ether for 15 seconds.
+-   Gathered Wheat - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Focus-Enhancing**; Drastically increases Ether regeneration for 15 seconds.
     -   Focus-Enhancing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focus Enhancing effect.
-    -   Even after running out of reservoir, the Focus-Enhancing effect will still increase ether regeneration, though the opposite is not true - reservoir is not drained if the ether bar is full.
 
 -   Gobletto - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Decelerate(?)**; Reduces movement speed.
     -   It is very difficult to find the secondary effect of this ingredient. Invigorating can only be cancelled out with Grueling, but this can only be done using three Plumfruit, which then changes the prefix to Strengthening. Strengthening can only be cancelled using wheat (taking the last ingredient slot), and the wheat's Focus Enhancing effect is more powerful than whatever the Gobletto secondary effect is. ~The name is not shown, however the resulting potion when thrown provides yellow particles that increase your speed.~ i was tired when i wrote this and forgot ingredients dont contain 2 positives, and noticed it was more of a dilluted orange (weak disgusting potion) rather than a hastening yellow
@@ -131,7 +132,7 @@ Most ingredients have a positive and a negative effect - one of these effects is
 
 -   Pomar - Primary effect is **Hastening**; Increases speed for 15 seconds. Secondary effect is **Disgusting**; Deals a small amount of damage.
 
--   Redd - Primary effect is **Icky**; Drains Ether and prevents Reservoir draw for 15 seconds. Secondary effect is **Rejuvenating**; Instantly restores a small amount of health. Tertiary effect **shortens** duration of other effects.
+-   Redd - Primary effect is **Icky**; Drains Ether over time for 15 seconds. Secondary effect is **Rejuvenating**; Instantly restores a small amount of health. Tertiary effect **shortens** duration of other effects.
     -   Like Focus-Enhancing, Rejuvenating can't be brewed using only a single ingredient. The rejuvenating effect is very weak, but it is possible to brew a Rejuvenating potion using exactly three Redd's and one Wheat.
 
 -   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. No secondary effect.
@@ -141,6 +142,8 @@ Eggs, fish meat, scallops, spider eggs, sticks and minerals (coal, iron, stone, 
 
 Sap is unique as an ingredient which creates Nothing Potions when used alone but can be combined with other ingredients to change the prefix of the potion. More testing is required to figure out exactly what it does.  
 Crustacean meat is supposedly similar, though more testing is needed.
+
+Upon testing with Appalling, Sticks are able to slightly lower the strength of a potion. This was tested with 2 potions. One with only 2 Bamboo Bundles and another with 2 Bamboo Bundles and 3 Sticks. At 373 ether and potencies at 38%, the potion with no sticks drained 12% of my ether meanwhile the potion with 3 sticks drained 11%. This was tested repeatedly with the same results. A similar test was done with Dentifilo for their Soothing Effect. After draining my ether with the Icky effect, I ran the previous test again but this time replaced the Bamboo Bundles with Dentifilo. The potion with no Sticks gave me 25% of my ether meanwhile the potion with 3 Sticks only gave me 21%
 
 ## Effects
 
@@ -172,7 +175,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Dentifilo<br>
   Bluecap</td>
   <td>Instantly increase ether</td>
-  <td>Opposite effect of <b>Appalling</b>.<p>Used to affect resevoir. Post verse 2, instantly restores ether.</p></td>
+  <td>Opposite effect of <b>Appalling</b>.<p>Used to affect reservoir. Post verse 2, instantly restores ether.</p></td>
 </tr>
 <tr>
   <td><b>Disgusting</b></td>
@@ -184,7 +187,9 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Pomar</td>
   <td>Instantly deals a small amount of damage.</td>
   <td>Opposite effect to <b>Rejuvenating</b>.<br>
-  The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option.<p>Does nothing when drank. Only deals damage when thrown</p></td>
+  The damage dealt when thrown is very small (less than 5% to similar power opponents even when brewed as strong as possible), so these potions aren't a good combat option.<br>
+  <br>
+  Does nothing when drank. Only deals damage when thrown</td>
 </tr>
 <tr>
   <td><b>Rejuvenating</b></td>
@@ -244,7 +249,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   Elixir</td>
   <td>Bluecap</td>
   <td>Rapidly restores Sanity.<br>
-  Might also instantly restore reservoir and deal a small amount of damage, though it's possible this comes from other effects on the bluecap.</td>
+  Might also instantly restore Ether and deal a small amount of damage, though it's possible this comes from other effects on the bluecap.</td>
   <td>Opposite effect to <b>Mindbreaker</b>.<br>
   Since it's such a powerful effect that can only be cancelled out by Mindbreaker (both of which need rare ingredients), it's difficult to test if bluecaps have many different effects, or if the Heartening effect just does many different things.</td>
 </tr>
@@ -286,7 +291,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Calabash<br>
   Bamboo Bundle</td>
   <td>Increases maximum posture for 15 seconds.</td>
-  <td>Opposite effect is <b>Buckling</b>.</td>
+  <td>Opposite effect is <b>Buckling</b>.<p>Causes the target to lose ether while blocking?</p></td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>
@@ -343,22 +348,22 @@ The best potions for a timed effect (like Grueling or Hastening) either use thre
 When brewing potions for an instant effect (like Rejuvenation or Soothing), potions should use three of the strongest ingredient and two of the second strongest ingredient. Sometimes this isn't possible, so the last two ingredients should be used to add a second useful effect.
 
 -   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
-    -   Also deals a small amount of damage and instantly restores reservoir.
+    -   Also deals a small amount of damage and instantly restores Ether.
 -   **Insanity** (Mindbreaker) - 3 Urchins + 2 Spider Eggs
     -   With the Exterminator talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
     -   This potion reduces sanity over time and doesn't stack - replacing the spider eggs with a second effect (like ether drain) still allows you to drain sanity at the same speed, though you'll need to land more potions to kill someone.
 -   **Ether Restoration** (Focus-Enhancing) - 3 Wheat + 2 Spider Eggs
     -   The Focus Enhancing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or browncaps) are added to reduce this effect.
 -   **Fast Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
-    -   Rapidly drains ether and prevents reservoir draw for 15 seconds. Will almost immediately drain target's entire ether bar.
+    -   Rapidly drains ether for 15 seconds. Will almost immediately drain target's entire ether bar.
 -   **Fast Ether Drain** (Icky Bane) - 1 Calabash + 1 Spider Eggs
     -   A cheap alternative of Fast Ether Drain. Works effectively with Exterminator.
 -   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Eggs
-    -   Even a small icky effect is enough to completely prevent ether from being drawn from the reservoir. Compared to Fast Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained, but will keep them empty for much longer.
+    -   Even a small icky effect is enough to completely prevent ether from being drawn. Compared to Fast Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained, but will keep them empty for much longer.
     -   Particularly fun against gun users, who need ether to use their M1.
--   **Instant Reservoir** (Soothing) - 3 Bluecaps + 2 Dentifilos
-    -   Almost a full reservoir restore - deals ~5% of your health in damage.
--   **Instant Reservoir Drain** (Appalling) - 3 Bamboo Bundle
+-   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
+    -   Almost a full Ether restore - deals ~5% of your health in damage.
+-   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle
     -   Not very effective - usually drains less than 20%. Ether draining potions are recommended instead.
 -   **Instant Health** (Rejuvenating) - 3 Redd + 2 Beeswax
     -   Only redds have an instant health effect, and it's not very strong. The last two ingredients can be beeswax or goblettos to restore additional health over time, or wheat can be added to cancel out the ether drain.

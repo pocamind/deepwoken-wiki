@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 80167
+revid: 80487
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -74,11 +74,11 @@ Murmur: Tacet can be obtained in three ways; one of them being that you don't ha
 
 #### Method One - Fetch Quest
 
-Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests requiring a certain amount of Charisma. You can also complete bounties from Summer Isle, Etris and others. You need about 10 Kills to Obtain Tacet.
+Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests, he will give you a random player in the server's current location and name asking you to kill him, asking for a bounty from him requires a certain amount of Charisma. You need 5 Kills to Obtain Tacet.
 
 #### **Method Two - Born Assassin**
 
-By completing 5 Bounty Hunting Contracts, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method.
+By completing 5 Bounty Hunting Contracts from any Bounty Board, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method.
 
 A screenshot of the Stranger NPC, found by Restative.
 

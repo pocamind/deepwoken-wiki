@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 79617
+revid: 80510
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -120,7 +120,7 @@ do a small amount of damage and steal a large amount of ether.
 -   Shares a cooldown with Shadow Meteors.
 -   If attacked while casting, the Shadow Seekers will dissipate
 -   You cannot use any mantras after using this mantra until the orbs have either hit the target or despawned.
--   If managed to hit, Shadow Seekers with replenish equal or more ether cost.
+-   If managed to hit, Shadow Seekers will replenish equal or more ether cost.
 -   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
 
  |

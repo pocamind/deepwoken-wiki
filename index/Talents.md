@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80437
+revid: 80497
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -1524,7 +1524,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Frenzied Dance \[Common Talent, Rapier Exclusive\] - \[Rapier\] When your posture is about to collapse, you deal greater chip and posture damage.
     -   Prerequisites: Using Rapier, 50 Light Weapon
 -   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your M1's to deal additional blood loss until you take damage.
-    -   While active, also grants +25% cheap damage.
+    -   While active, also grants +25% chip damage.
     -   Prerequisites: Using Rapier, 40 Light Weapon
 
 ### Nimble Blade

@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 80377
+revid: 80504
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ Currently, the only Medals ingame are the Hallowtide 22 and Hallowtide 23 Medals
 
 ### Items
 
-With the Hallowtide 22 Medal, you can obtain:
+With the **Hallowtide '22 Medal**, you can obtain:
 
 -   [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>) - 3 Knowledge
 -   [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>) - 3 Knowledge
@@ -22,3 +22,7 @@ With the Hallowtide 22 Medal, you can obtain:
 -   [Skyreap Blade](Skyreap_Blade.md) - 7 Knowledge
 -   [Skullpiercer](Skull_Piercer.md) - 7 Knowledge
 -   [Hallowscleave](Hallowscleave.md) - 7 Knowledge
+
+With the **Hallowtide '23 Medal**, you can obtain:
+
+-   Nothing yet as the event is currently ongoing.

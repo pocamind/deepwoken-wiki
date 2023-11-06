@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 80426
+revid: 80482
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -57,6 +57,8 @@ Deals high posture. Heavily reminiscent to the legacy Frostdraw mantra, Ice Erup
 
 Modifiable with a Blast Spark to increase amount of needles fired but removing the jump. This variant keeps momentum.
 
+Applies Metal Rods on hit.
+
  |
 |  | 
 
@@ -73,12 +75,20 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 (★★☆)
 
- | Unleash a rain of metal rods down below. | 50 Ether | Rain down a incredible amount of metal rods dealing high damage, hitting around 10 times. Applies metal rods dependent on hits. |
+ | Unleash a rain of metal rods down below. | 50 Ether | Rain down a incredible amount of metal rods dealing high damage, hitting around 10 times.
+
+Applies Metal Rods on hit.
+
+ |
 |  | Caltrops
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Throws 10 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if casted closely to target. May be blocked or even parried of the ground. Has the potential to apply many iron rods. |
+ | Sharp metal traps. | 50 Ether | Throws 10 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if casted closely to target. May be blocked or even parried of the ground.
+
+Applies Metal Rods on hit.
+
+ |
 |  | Firing Line
 
 (★★☆)
@@ -87,24 +97,32 @@ Modifiable with a Spring Spark to replace it with a faster drop-kick variant tha
 
 Drift and Rush Shards do not increase the firing speed or projectile speed.
 
+Apply Metal Rods on hit.
+
  |
 |  | Oxidizing Rush
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them | 50 ether | The user spins 4 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible. |
+ | Conjure metal swords and rush forward with them | 50 ether | The user spins 4 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
+
+Applies Metal Rods on hit.
+
+ |
 |  | Metal Armament
 
 (★★★)
 
- | Summon a blade of metal to swing alongside you. | 40 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of a Kyrscleave) appears as you M1 with an interval of 3 seconds; the greatsword deals fixed damage. Each hit is parriable and doesn't apply any Metal Rods. Doesn't proc enchants. (Unlike the gif shows, it only procs when hitting an enemy) |
+ | Summon a blade of metal to swing alongside you. | 40 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of a Kyrscleave) appears as you M1 with an interval of 3 seconds; the greatsword deals fixed damage. Each hit is parriable but applies Metal Rods. Doesn't proc enchants. (Unlike the gif shows, it only procs when hitting an enemy) |
 |  | Metal Gatling
 
 (★★★)
 
- | A deadly rush of several metallic rods. | 50 Ether | The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked, applies metal rods dependent on hits.
+ | A deadly rush of several metallic rods. | 50 Ether | The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked.
 
 Cannot be modified for whatever reason. (No mantra ingredients work)
+
+Applies Metal Rods on hit.
 
  |
 |  | Iron Slam
@@ -116,7 +134,11 @@ Cannot be modified for whatever reason. (No mantra ingredients work)
 
 (★★★)
 
- | Crush your opponents bones with an iron infused grab. | 40 Ether | The user has a short windup and grabs the opponent, dealing damage and sets spikes in the afflicted target, then throws them. The spell locks on to targets within close frontal radius. |
+ | Crush your opponents bones with an iron infused grab. | 40 Ether | The user has a short windup and grabs the opponent, dealing damage, then throws them.
+
+The spell locks on to targets within close frontal radius. Applies Metal Rods on hit.
+
+ |
 |  | Rocket Lance
 
 (★★★)
@@ -139,7 +161,11 @@ The height of the pillar will depend on what is above you.
 
 (★★☆)
 
- | Create a metal ball and rush forward. | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent. |
+ | Create a metal ball and rush forward. | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent.
+
+Applies Metal Rods on hit.
+
+ |
 
 ### **Support Mantras**
 
@@ -657,6 +683,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore, Gold is the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect using Irithine gives a green particle effect but no boost using Erisore gives a blue particle effect but no boost as well.
 -   Oxidizing rush highly resembles Junker Queen's "Rampage" from Overwatch 2.
--   Just like Flamecharm, Frostdraw and Thundercall having their paths, Ironsing will also receive it's own path: Scrapsinger.
+-   Just like Flamecharm, Frostdraw and Thundercall having their paths, Ironsing also has its own path: Scrapsinger
+-   It is NOT called Metalspeak, and was NEVER called Metalspeak.
     
     K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.
