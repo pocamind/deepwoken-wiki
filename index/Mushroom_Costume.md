@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 80500
+revid: 80515
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -35,3 +35,4 @@ The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" categ
 -   This [Equipment](Equipment.md) item is dyeable, but the white spots and skin will be unaffected.
 -   This item is undroppable.
 -   You cannot turn it's vanity off at a campfire.
+-   Zapshroom seems the most rare with Charmshroom before it
