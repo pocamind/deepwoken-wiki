@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 80188
+revid: 80519
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,27 +15,20 @@ categories: [NPCs]
 
 ## Description
 
-Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floating keep](The_Floating_Keep.md). He sells you [Hallowtide](Hallowtide.md) weapons for Joy such as:
+Glaive is a Lightborn NPC located in the Upper Hall/Second Floor of [The Floating Keep](The_Floating_Keep.md). He sells you various [Hallowtide](Hallowtide.md)\-related items for Joy, such as:
 
-[Master schematics](Outfits.md) \[20 Joy\]
-
-[Skyreap Blade](Skyreap_Blade.md) (Greataxe) \[60 Joy\]
-
-[Hallowscleave](Hallowscleave.md) (Sword) \[60 Joy\]
-
-[Skull piercer](Skull_Piercer.md) (Rapier) \[60 Joy\]
-
-[Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer) \[100 Joy\]
-
-[Bloodtide Trident](Bloodtide_Trident.md) (Spear) \[100 Joy\]
-
-[Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist) \[100 Joy\]
-
-[Gourdguard](Gourdguard.md) (Shield) \[80 Joy\]
-
-Harrowing Enchant Stone \[150 Joy\]
-
-Pumpkin Pitch (Mantra) \[300 Joy\]
+-   Random [Master Schematic](Outfits.md#master) \[20 Joy\]
+-   [Skyreap Blade](Skyreap_Blade.md) (Greataxe) \[60 Joy\]
+-   [Hallowscleave](Hallowscleave.md) (Sword) \[60 Joy\]
+-   [Skullpiercer](Skull_Piercer.md) (Rapier) \[60 Joy\]
+-   [Putrid Edenstaff](Putrid_Edenstaff.md) (Greathammer) \[100 Joy\]
+-   [Bloodtide Trident](Bloodtide_Trident.md) (Spear) \[100 Joy\]
+-   [Drakemaw Gauntlets](Drakemaw_Gauntlets.md) (Fist) \[100 Joy\]
+-   [Gourdguard](Gourdguard.md) (Shield) \[80 Joy\]
+-   [Harrowing Enchant Stone](Enchant_Stone.md) \[150 Joy\]
+-   Pumpkin Pitch (Mantra) \[300 Joy\]
+-   [Hallowtide '22 Medal](Seasonal_Medals.md) \[200 Joy\] (ON DISCOUNT)
+-   Hallowtide '23 Medal \[300 Joy\]
 
 ## Dialogue
 
@@ -66,7 +59,7 @@ Pumpkin Pitch (Mantra) \[300 Joy\]
   <td colspan="10">Oh! Look at all that joy within you! How many souls have you scared?</td>
 </tr>
 <tr>
-  <td colspan="9">Well I'd say around... _, maybe?</td>
+  <td colspan="9">Well I'd say around... [number], maybe?</td>
   <td>End</td>
 </tr>
 <tr>

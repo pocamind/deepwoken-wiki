@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80497
+revid: 80552
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -2229,6 +2229,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 20 Agility
 
 ### Vigil of Winds
+
+> _**"I survive from the teachings of Master Stratos."**_
 
 -   Maestro's Blade \[Common Talent\] - Inhaling a spell will cause the wind to be applied to your M1's. (+4 Elemental Intensity)
     -   Prerequisites: Inhale, 60 Galebreathe

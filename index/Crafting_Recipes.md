@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 77765
+revid: 80517
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ These are recipes that are not used to produce food or potions.
 -   **Flint** - _1 Coal, 1 Rock_
 -   **Umbral Flint** - _1 Coal, 1 Umbral Obsidian_
 -   **Bullets (20x)** - _1 Iron_
--   **[Chum](Chum.md)** - _2 Fishmeat/2 Crustacean Meat/1 Pufferfish_
+-   **[Chum](Chum.md)** - _2 Fish Meat/ 2 Crustacean Meat/ 1 Pufferfish_
 -   **Monster Bait** - (Can be obtained from [Mortus](Mortus.md)) 2/3 _Chum_
 -   **Void Feather** - _3 Dark Feather(s), 1 Umbral Obsidian_
 
@@ -69,8 +69,8 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 
 -   **\[G\] [Noodles](Food.md)** - _1 Egg, 2 Gathered Wheat_
 -   **\[G\] [Redd Juice](Food.md)** - _3 Redd_
--   **\[V\] [Fruit Salad](Food.md)** - _3 different fruits and 1 from each kind. (example: 1 Pomar, 1 Plum Fruit, 1 Redd; increases heal rate)_
--   **\[C\] [Sushi](Food.md)** - _1 Fishmeat, 1 Seaweed Bundle_
+-   **\[V\] [Fruit Salad](Food.md)** - _3 Unique fruits. (example: 1 Pomar, 1 Plumfruit, 1 Redd; increases heal rate)_
+-   **\[C\] [Sushi](Food.md)** - _1 Fish Meat, 1 Seaweed Bundle_
 -   **\[G\] [Grilled Cheese](Food.md)** _\- 1 Cheese, 1 Bread_
 -   **\[C\] [Crab Pizza](Food.md)** - _1 Crustacean Meat, 1 Bread, 1 Cheese_
 -   **\[C\] [Krysdog](Food.md)** - _1 Bread, 1 Frozen Membrane, 1 Ongo_
@@ -83,19 +83,19 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[C\] [Omelette](Food.md)** - _2 Eggs_
 -   **\[C\] [Cooked Egg](Food.md)** - _1 Egg_
 -   **\[N\] [Mushroom Omelette](Food.md)** - _2 Eggs 1 Mushroom (Any)_ (Increased weapon damage)
--   **\[C\] [Fish Omelette](Food.md) - _1 Fishmeat, 2 Eggs_ (Buffs Mantra damage)**
+-   **\[C\] [Fish Omelette](Food.md)** - _1 Fish Meat, 2 Eggs_ **(Buffs Mantra damage)**
 -   **\[V\] [Sticky Bun](Food.md)** - 1 _Sap, 3 Gathered Wheat_ (Makes your ether regen faster.)
--   **\[C\] [Cooked Fishmeat](Food.md)** - _1 Fishmeat_
+-   **\[C\] [Cooked Fish Meat](Food.md)** - _1 Fish Meat_
 -   **\[G\] [Plumfruit Muffin](Food.md)** - _1 Plumfruit, 1 Gathered Wheat_
--   **\[V\] [Fruit Cake](Food.md)** - _2 different Fruits, 1 Gathered Wheat_
+-   **\[V\] [Fruit Cake](Food.md)** - _2 Unique Fruits, 1 Gathered Wheat_
 -   **\[V\] [Dried Seaweed](Food.md)** - _1 Seaweed Bundle_
 -   **\[V\] [Candied Fruit](Food.md)** - 1 _of any fruit, 1 Sap_ (Buff: Enchant)
 -   **\[C\] [Urchin Stew](Food.md)** - _3 Urchin_
--   **\[C\] [Seafood Suprise](Food.md)** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
+-   **\[C\] [Seafood Surprise](Food.md)** - _1 Squid, 1 Fish Meat, 1 Urchin OR 1 Crustacean Meat_
 -   **\[C\] [Seafood Boil](Food.md)** - _1 Squid, 1 Fish Meat, 1 Crustacean Meat_ (Reduces hunger loss)
 -   **\[C\] [Fish Stew](Food.md)** - _1 Squid, 1 Fish Meat OR 1 Seaweed, 2 Fish Meat_
 -   **\[C\] [Calamari](Food.md)** - _1 Squid, 1 Gathered Wheat_
--   **\[C\] [Glazed Fish](Food.md) -** _1 Fishmeat, 1 Sap_ (Increased weapon damage)
+-   **\[C\] [Glazed Fish](Food.md) -** _1 Fish Meat, 1 Sap_ (Increased weapon damage)
 -   **\[C\] [Sauteed Scallops](Food.md)** - _2 Scallops_
 -   **\[G\] [Cake](Food.md)** - 1 _Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased agility)
 
