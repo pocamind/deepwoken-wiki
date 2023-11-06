@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 80182
+revid: 80451
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -104,6 +104,7 @@ Most ingredients have a positive and a negative effect - one of these effects is
 
 -   Bluecap - Primary effect is **Heartening**; Rapidly restores Sanity. (The potion also restores reservoir (**Soothing**) and deals a small amount of damage (**Disgusting**), though these may technically be part of the Heartening effect.)
     -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion, and which are secondary effects.
+    -   The Heartening effect is so strong that 1 Bluecap is able to overpower 3 Urchins
 
 -   Browncap - Primary effect is **Disgusting**; Deals a small amount of damage. Secondary effect is **Strengthening**; Slightly increases damage dealt.
     -   The damage from Disgusting is very small - even when brewed with every bonus, thrown potions are unlikely to deal more than 5% to opponents of similar strength.

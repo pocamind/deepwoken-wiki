@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 78013
+revid: 80433
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -23,6 +23,8 @@ Warning: Entering ecological dead zone. Adding report to databank.
 The **Voidsea** is an extremely dangerous region. It is speculated to be an ecological deadzone. It is incredibly easy to mistakenly sail into during travelling, as it covers the surrounding sea of the Luminants and will appear when you sail too far off from the surrounding islands.
 
 Dying to the environment while in Voidsea will send you to [The Depths](The_Depths.md) immediately. This does not happen when killed by a player.
+
+Sometimes, when you are sailing through Voidsea, you may be teleported to a random location in Voidsea.
 
 ## Points of Interest
 

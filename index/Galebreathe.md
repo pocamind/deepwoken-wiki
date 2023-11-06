@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 78195
+revid: 80431
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -200,7 +200,6 @@ _Grab your opponent and toss them with the power of gale._
 -   Forcible Block Break (Only When Upgraded To Level 5)
 -   Applies knockback.
     -   Needs more testing.
--   Hyper-armor
 -   Can be upgraded with the "_Skull Crusher_" Talent
 
  |  |

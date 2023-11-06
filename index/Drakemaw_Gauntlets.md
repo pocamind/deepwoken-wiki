@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 80339
+revid: 80447
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -13,7 +13,7 @@ categories: [Weapons, Fists]
 | type | Fist |
 | requirements | 75 LHT |
 | damage | 15 + 4.5 BLD |
-| scaling | 7 |
+| scaling | 7.5 |
 | range | 6 |
 | swing speed | 0.82 |
 | penetration | 10% |
@@ -28,7 +28,7 @@ categories: [Weapons, Fists]
 
 ## Description
 
-The Drakemaw Gauntlets is a Light Weapon in the Fists category. It is obtained by purchasing it from [Glaive](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or as a reward from a chest in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>).
+The Drakemaw Gauntlets is a Light Weapon in the Fists category. It is obtained by purchasing it from [Glaive](Glaive_Spellhardt.md) for 100 [Hallowtide](Hallowtide.md) Joy or as a reward from a chest in the [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md>). This weapon deals 30.47 damage at 75 light weapon, and 34.12 damage at 100 light weapon.
 
 ## Critical
 

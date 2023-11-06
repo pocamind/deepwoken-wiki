@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80407
+revid: 80437
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -761,8 +761,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Phoenix Impact \[Common Talent, Flamecharm Exclusive\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether. (+3 Elemental Intensity)
     -   Prerequisite: Meteor Impact, 40 Flamecharm
-
-### Fish
 
 -   _Fishman_ \[Generic Talent,Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)
 

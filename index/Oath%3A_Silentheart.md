@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 80424
+revid: 80442
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -28,7 +28,6 @@ Meet the following requirements in any order:
 -   Be [Attunement-less](Attunement-less.md).
 -   Have at least 75 Weapon (uncap is not needed), have 40 points in Strength and 40 points on either Charisma **or** Agility.
 -   Die to a player that uses an attunement. Chime of Conflict does not count.
--   Witness a ghost event on the [Beloved Zofia](Beloved_Zofia.md) by interacting with the ghosts found there.
 
 Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
@@ -90,6 +89,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.
+-   Killing the five attunement trainers will give you bad rep for whichever faction that they are located in, except for Nostor and Amashi. (Ex. Killing Friid in the Isle of Vigils will grant you bad rep with Etrea.)
 
 ## Trivia
 

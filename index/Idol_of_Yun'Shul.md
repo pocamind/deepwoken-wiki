@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 79948
+revid: 80430
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Pages with broken file links]
@@ -34,5 +34,6 @@ _(one-time use, re-obtainable)_
 -   Can't be used in Combat. Dialogue appears saying "The Idol won't respond to a panicked heart."
 -   Cannot be used to talk to Yun'Shul for [Contractor](Oath%253A_Contractor.md) Progression
 -   Idol of Yun'Shul design is inspired by Buddhist Shakujo's Ringed Staff [\[1\]](#cite-note-1)
+-   It functions without the need of a resonance, and will not provide you a resonance.
 
 1.  [↑](#cite-ref-1) File:Idol of ynshul ral life!!.png

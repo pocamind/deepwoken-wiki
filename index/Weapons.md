@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 80162
+revid: 80446
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -331,7 +331,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.88x</td>
-  <td>29.9</td>
+  <td>30.25</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Light's_Final_Toll"><font>Light's Final Toll</font></a></td>
@@ -353,7 +353,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>4</td>
   <td>6</td>
   <td>0.82x</td>
-  <td>32.8(<b>Bleed</b>)</td>
+  <td>34.12(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
