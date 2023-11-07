@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 79581
+revid: 80563
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -39,7 +39,7 @@ Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial p
 
 -   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
 -   Enemies with [The Kingdom of Etrea](Etrea.md).
--   Dislikes [The Hive](The_Hive.md), but not direct enemies. They do not directly attack each other on each other's bases (tested with fort merit guards, authority captains, hive foot soldiers, and hive guards. Results: Merit guards wont attack ANY hive NPC, hive guards wont attack any authority npc, authority captain will ONLY hurt hive soldiers and the hive mechs).
+-   Dislikes [The Hive](The_Hive.md), but not direct enemies.
 -   Enemies with [The Ministry](The_Ministry.md).
 -   Provides funding for [The Divers](The_Divers.md).
 -   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).

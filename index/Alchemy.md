@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 80516
+revid: 80575
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -77,7 +77,7 @@ Finally, potions have a greater effect when brewed by a character with high inte
 
 ### Talents
 
-The Apothecary and Exterminator talents both increase the effects of potions by an unknown amount (perhaps 50%?). While the talents claim this only applies when the potion is drunk or thrown for Apothecary and Exterminator respectively, this is not true - potions brewed with these talents will **always** have stronger effects, regardless of if they are thrown or drunk.
+The Apothecary and Exterminator talents both increase the effects of potions by an unknown amount (perhaps 50%?). ~While the talents claim this only applies when the potion is drunk or thrown for Apothecary and Exterminator respectively, this is not true - potions brewed with these talents will **always** have stronger effects, regardless of if they are thrown or drunk.~ Not true. This was easily debunked with appalling, icky, grueling, invigorating, and soothing potions. Drinking a potion will improve its positive effects meanwhile throwing a potion will improve its negative effects.
 
 These talents do not change the suffix of the potion, but it can change the prefix. For example, if you have the Apothecary talent but not the Exterminator talent, potions brewed with Plumfruit will have the Strengthening prefix, as Apothecary increases that effect but not the negative Grueling effect which is otherwise stronger.
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 80408
+revid: 80558
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -2113,13 +2113,10 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 ## Trivia
 
 -   Despite the often unclear nature of the lore, with developers at time contradicting each other, there is indeed some form of document that contains it all.
--   The Central Authority was sometimes referred to as the Adretian Authority ingame at release, though this has since been corrected by the devs.
--   Mudskippers can talk to each other, but it was declared that it was a Dialogue bug.
+-   The Central Authority was sometimes referred to as the Adretian Authority in-game at release, though this has since been corrected by the devs.
 -   The writing of the Gideshu March is the earliest known event in Deepwoken with a confirmed date, as well as the only event with a confirmed date that took place prior to 1271, the year of the game's release.
 -   Ragoozer likes using anagrams to drop lore hints. An example of this would be Nilsa being an anagram of Alsin.
--   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the old world and is most likely why there were so few Oaths at the beginning of the game. Though, vow of mastery and murmurs potentially use vow magic as only one can be obtained or made.
-
-Talking Mudskippers
+-   Deepwoken's [Vow of Mastery](Vow_of_Mastery.md) is not too dissimilar to [Oaths](Oaths.md) and [Resonances](Resonance.md) due to the fact they all use "vow magic". Vow magic was much more prominent in the Old World and is most likely why there were so few Oaths at the beginning of the game. Though, Vow of Mastery and Murmurs potentially use vow magic, as only one can be obtained or made.
 
 ## References
 

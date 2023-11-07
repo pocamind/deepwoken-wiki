@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 80421
+revid: 80579
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -36,12 +36,8 @@ The Rifle Spear is a MED weapon. It can be obtained from Depths chests; Erisore 
 
 The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots an invisible blast similar to regular [guns](Flintlock.md). It has the same speed and sound effect as any other gun.
 
-  
-
 ## Trivia
 
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.
 -   The current model of the Rifle Spear has a Central Authority logo etched onto the blade.
-
-The original Rifle Spear up close
