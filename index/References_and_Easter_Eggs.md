@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 77354
+revid: 80628
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -90,7 +90,7 @@ categories: [Deepwoken]
         -   The trainer, **Samael**, is an angel in Judaism
         -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
         -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
-        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death
+        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death. Or [Minos Prime](https://ultrakill.fandom.com/wiki/Minos_Prime) from ULTRAKILL.
         -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology
     -   **Ascension,** much like **Ice Eruption,** has a wind-up noise that references _Sekiro: Shadows Die Twice's_ perilous attack noise.
 -   **Silentheart** takes inspiration from the _Fire Emblem_ series:

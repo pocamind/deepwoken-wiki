@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 79418
+revid: 80627
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -24,7 +24,7 @@ The siege of Etris is a large event in which [the Authority](The_Central_Authori
 
 At the beginning of the event, [Seraphina](Seraphina.md) talks about the Authority ceasing their operations in the East, as if they're preparing for something. Soon after, the docks are greeted by a large number of both [Etrean](Etrean_Guardsmen.md) and [Authority](Authority_Officer.md) soldiers fighting as a deafening explosion rings throughout the island. Slowly, the Authority crawls up into the city of Etris, causing more and more havoc to break out.
 
-Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will specifically target an Authority Commander. [Nell](Nell,_Master_of_Frost.md), unless provoked by the Authority, will proceed to assist Etrea in the siege as well.
+Within the town, significant NPCs like [Polis](Polis.md) will attempt to fight off Authority soldiers that are crowding him, but will specifically target an Authority Commander. [Nell](Nell,_Master_of_Frost.md) the Ice Trainer will stay neutral unless provoked, in which he will help fight off the Authority.
 
 If you participate in this event and defeat all of the [Authority Guards](Authority_Officer.md), 3 Large Chests will spawn at the city's center, yielding **high-tier [Depths](The_Depths.md)** Loot, sometimes including [Deep Gems](Deep_Gems.md), Legendary Rings, and the schematic containing [Justicar's Armor](<Justicar's_Armor.md>).
 
@@ -58,8 +58,8 @@ Up to nine NPCs are in this event.
 
 One of the only places that will never burn in the Etris Raid Event is [Lord Regents](The_Lord_Regent.md) Palace.
 
--   The Children Of Navae will not target Etreans as of now and will target Central Authority.
-
+-   The Children Of Navae subconsciously helps Etrea by attacking any Authority NPCS that come too close.
+-   If you encounter this event and are too weak to fight, camp at the nearby Navae nomad camp.
 -   In a nutshell, the lore behind this event is the Central Authority trying to stop Lord Regent from drowning [Etris](Etris.md) like the [Celtor](Celtor_Wastes.md).
 
 ## Images & Videos
