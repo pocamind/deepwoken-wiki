@@ -1,9 +1,9 @@
 ---
 title: Iron Blunderbuss
-revid: 79224
+revid: 80645
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Rifles]
+categories: [Weapons, Rifles]
 ---
 
 # Iron Blunderbuss
@@ -31,7 +31,7 @@ categories: [Weapons, Pages with broken file links, Rifles]
 
 ## Description
 
-The Iron Blunderbuss is a Medium Weapon for the Verse 2 content update. It is among first medium weapon guns, including the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>). The Iron Blunderbuss has 20 Base Damage and a scaling of 7 so it deals 30.5 damage at 75 MED, and 34 damage at 100 MED. The Iron Blunderbuss, like the Rosen's Peacemaker, has a blunt swinging attack and firing attack in it's M1 string. Like light weapon guns, the Iron Blunderbuss does have ranged bullets, but only if the user has bullets.
+The Iron Blunderbuss is a Medium Weapon for the Verse 2 content update. It is among first medium weapon guns, including the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>). The Iron Blunderbuss has 20 Base Damage and a scaling of 7 so it deals 30.5 damage at 75 MED, and 34 damage at 100 MED. The Iron Blunderbuss, like the Rosen's Peacemaker, has a blunt swinging attack and firing attack in its M1 string. Like light weapon guns, the Iron Blunderbuss does have ranged bullets, but only if the user has bullets.
 
 ## Trivia
 
@@ -39,5 +39,3 @@ The Iron Blunderbuss is a Medium Weapon for the Verse 2 content update. It is am
     -   In PVP, if willing to account for the bullet requirement, the Iron Blunderbuss is a superior option due to having 25% penetration.
 -   The critical's speed is very similar to the regular swingspeed, meaning it can cause some very interesting mixups when combined with the M1 bullet.
 -   The maker of the **Iron Blunderbuss** and the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is [Gunsmith Rosen](Lore.md).
-    
-    File:BlunderbussStats.png

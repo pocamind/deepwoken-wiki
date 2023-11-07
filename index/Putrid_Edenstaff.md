@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 80632
+revid: 80640
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -19,21 +19,28 @@ categories: [Weapons, Greathammers]
 | endlag | 0.1s |
 | penetration | 15% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | 50 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Widow's Wail CemeteryGlaive Spellhardt [100 Joy] |
+| obtainment | Widow's Wail Cemetery, Glaive Spellhardt [100 Joy] |
 
 ## Description
 
-The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained from either the [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) or from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Joy](Joy.md). This weapon's unique critical sends out a blockbreaking AoE around the user and three orbs that can be aimed with the mouse cursor.
+The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained from either the [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) or from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Joy](Joy.md).
 
 ## Critical
 
-The user spins around their staff and summons a green colored mist that surrounds them and damages anyone in the area, almost always blockbreaking instantly. Afterwards, three spirits emerge from the mist and launch green orbs at the player's cursor.
+The user spins around their staff and summons a green colored mist that surrounds them and damages anyone in the area, almost always block-breaking instantly. Afterwards, three spirits emerge from the mist and launch green orbs at the player's cursor.
+
+<table>
+<tbody>
+<tr>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
   
   
@@ -50,4 +57,4 @@ The user spins around their staff and summons a green colored mist that surround
 -   This weapon was teased on the Deepwoken Twitter, within the post where they announced 2023 Hallowtide's release date.
 -   The Orbs are able to knockback players if they get hit.
 -   When a player or any npc is gripped by one of the other Hallowtide weapons, the majority of them will cause a grave to appear and emit a Taco Bell bell sound.
--   The old critical attack were greathammers usual critical attack.
+-   Used the default greathammer critical before receiving the one it has now.

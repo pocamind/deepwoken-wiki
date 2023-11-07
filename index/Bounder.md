@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 80626
+revid: 80667
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -40,7 +40,7 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
 ## Trivia
 
--   Despite it's resemblance to the Megalodaunt, its anatomy more-so reassembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey. Without the whole tongue sticking business.
+-   Despite its resemblance to the Megalodaunt, its anatomy more-so reassembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
 -   Like every other Layer 2 monster, [Mute](Https://deepwoken.fandom.com/wiki/Regalias?so=search#Mute) has no effect on Bounders.
 -   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
 -   It was said by Archmage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.

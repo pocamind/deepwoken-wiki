@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 80309
+revid: 80653
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -24,7 +24,7 @@ categories: [Weapons, Shields]
 
 ## Description
 
-The Gourdgard is a pumpkin shaped [Shield](Weapons.md). It has a requirement of 50 FTD to use, and has 1.9 Weight.
+The Gourdgard is a pumpkin shaped [Shield](Weapons.md). It has a requirement of 50 FTD to use and has 1.9 Weight.
 
 ## Trivia
 

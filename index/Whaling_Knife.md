@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 76047
+revid: 80657
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -40,7 +40,7 @@ categories: [Weapons, Daggers]
 | penetration | 15% |
 | special effect | Has a unique critical attack consisting of a single forward slash with a red trail. This critical benefits from Knife's Journey greatly. |
 | stances | 1 Handed |
-| selling price | ? Notes |
+| selling price | ??? |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
@@ -51,17 +51,17 @@ categories: [Weapons, Daggers]
 
 **Base:**
 
-## Description
-
-The Whaling knife is a dagger type weapon with a requirement of 40 LHT. It has a base damage of 15 and a weapon scaling of 5. This weapon can be upgraded with [Pluripotent Alloy](https://deepwoken.fandom.com/wiki/Pluripotent_Alloy), allowing it to match endgame daggers such as the [Krulian Knife](Krulian_Knife.md). It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md) And [Duke Erisia](Duke_Ishamon_Erisia.md).
-
-Instead of the normal dagger critical, this dagger has a [unique critical attack](https://www.youtube.com/watch?v=ATWhKvZbPNs&ab_channel=Lethal) consisting of a single forward slash with a red trail. This attack passively benefits from the talent _Knife's Journey_, which has a 30% chance to deal 1.2x, signified by red sparks on hit. Having the talent stacks the chance to 40%.
-
 **Alloyed:**
 
 ## Description
 
-The alloyed version of the Whaling Knife. Just the normal Whaling Knife with increased stats. It has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
+The Whaling knife is a midgame dagger type weapon. It is dropped often from the ship battle event in the [Aratel Sea](The_Aratel_Sea.md) And [Duke Erisia](Duke_Ishamon_Erisia.md). It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+
+## Critical
+
+The user slashes forward with a red trail. This attack passively benefits from the talent _Knife's Journey_, which has a 30% chance to deal 1.2x, signified by red sparks on hit. Having the talent stacks the chance to 40%.
+
+  
 
 ## Trivia
 
@@ -71,3 +71,5 @@ The alloyed version of the Whaling Knife. Just the normal Whaling Knife with inc
 -   At max LHT, the non-alloyed damage is (22.5)
 -   Meeting the alloyed requirement, the damage is (24)
 -   At max LHT, the alloyed damage is (27)
+-   The alloyed version has been shown to be one of the weapons most likely to win a match in [Chime of Conflict](Chime_of_Conflict.md), with a win rate of around 50%.
+-   Available on the Roblox catalog as a [waist accessory](https://www.roblox.com/catalog/14542129946/Whaling-Knife).

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 80562
+revid: 80639
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -125,5 +125,6 @@ It is said by The Nestmind that visionshapers in a point of their life tries to 
 -   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
 -   (Probably) Unintentional, Resemble Owlbears from Dungeons and Dragons
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
+-   If talked to with a Hallowtide mask and Mute (Atleast in the Lordsgrove, needs further testing.), it will give unique dialog, being: "The creature tilts it's head curiously".
 
 1.  [↑](#cite-ref-1) [\[1\]](https://www.youtube.com/watch?v=J9OIBuv2Tl4)

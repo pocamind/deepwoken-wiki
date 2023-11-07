@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 80628
+revid: 80635
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -24,6 +24,7 @@ categories: [Deepwoken]
 -   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from Guilty Gear Strive.
 -   Every Familiar Helmet from the Hallowtide event are helmets taken from [_Rogue Lineage_](https://rogue-lineage.fandom.com/wiki/).
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight helmet**, respectively.
+-   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the race [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) from [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/)
 
 ## Attunements
 
@@ -90,7 +91,7 @@ categories: [Deepwoken]
         -   The trainer, **Samael**, is an angel in Judaism
         -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
         -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
-        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death. Or [Minos Prime](https://ultrakill.fandom.com/wiki/Minos_Prime) from ULTRAKILL.
+        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death
         -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology
     -   **Ascension,** much like **Ice Eruption,** has a wind-up noise that references _Sekiro: Shadows Die Twice's_ perilous attack noise.
 -   **Silentheart** takes inspiration from the _Fire Emblem_ series:
@@ -142,7 +143,7 @@ categories: [Deepwoken]
 -   The **Vow of Mastery** line of Talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** could be a reference to Haoshoku (Conqueror's) haki from _One Piece._
--   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similar use. Abyssal Scream itself used to be called [Ardor Scream](https://cdn.discordapp.com/attachments/927738116175986728/1083995144258338846/image.png), Referring to one of the Gods in Rogue Lineage.
+-   **Ardour Scream** is a reference to Abyssal Scream from Rogue Lineage, both have the same animation and similar use. Abyssal Scream itself used to be called [Ardor Scream](https://i.imgur.com/Bz5xxxm.png), Referring to one of the Gods in Rogue Lineage.
 -   **Ice Age** talent section name may be a reference to _[Aokiji's](https://onepiece.fandom.com/wiki/Kuzan) Ice Age_ ability name.
 -   A bit of a stretch, but the **Safety Dance** talent can be referencing [a song with the same name by Men Without Hats](https://www.youtube.com/watch?v=0QDKLglEP5Y).
 -   The **Lord Commander** Talent is probably a reference to the [Lord Commander of the Nights Watch/Kingsguard/City Watch](https://gameofthrones.fandom.com/wiki/Lord_Commander) in _Game of Thrones._
