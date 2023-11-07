@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 80406
+revid: 80589
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Bandits can be found in [Erisia](Erisia.md), [Etris](Etris.md), [Isle of Vigils,](Isle_of_Vigils.md) and [Summer Isle](Summer_Isle.md). They spawn in groups of 3 in [Erisia](Erisia.md), spawn in a pair in [Etris](Etris.md) and [Vigils](Isle_of_Vigils.md) and can spawn in groups of 3-7 on [Summer Isle](Summer_Isle.md).
+Bandits can be found in [Erisia](Erisia.md), [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md) and [Summer Isle](Summer_Isle.md). They spawn in groups of 3 in [Erisia](Erisia.md), spawn in a pair in [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md) and can spawn in groups of 3-7 on [Summer Isle](Summer_Isle.md).
 
-A Bandit wears the unobtainable "Sea Adventurer" outfit with their [race](Aspects.md) and gender varying.
+A Bandit wears the unobtainable "Sea Adventurer" outfit with their [Race](Aspects.md) and gender varying.
 
 ## Moves
 
@@ -43,8 +43,5 @@ A Bandit executes the player after knocking them:
 ## Trivia
 
 -   They have turned to a life of crime due to the war in the East, causing jobs to become scarce.
--   Check your ping before fighting one of them or you could die easily.
 -   "Sea Adventurer" was created by Renji.
 -   Bandits, despite their reputation of being savage thieves, still have a hierarchy system. Bandits have [leaders](Bandit_Leader.md), however they are probably just a stronger bandit.
--   Bandits can somewhat coax new players into letting them go by saying things like "No! Wait! I'll do anything!" When the player doesn't grip them, the Bandits will get back up and continue to attack.
--   Bandits do not have the "experienced fighter" boon, which means they cannot block, parry or dodge intentionally. (However, they may accidentally parry or dodge a move)

@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 76682
+revid: 80586
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -86,7 +86,8 @@ He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 -   Gunsmith Sevenine Hierka Caesar, The Horseman
 -   Slayer Fungrath Caesar, The Heretic
 -   Haz Caesar, The Eradicator
--   Radahn Caesar, The Sunken Star
+-   Julius Caesar, The Sunken Star (Formerly known as Radahn Caesar, The Sunken Star)
+-   Yhwach Caesar, The Unrivaled
 
 ### yayafino (Zithori Vhemm Rybak Diri)
 

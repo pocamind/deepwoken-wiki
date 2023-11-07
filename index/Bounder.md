@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 72324
+revid: 80626
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -14,7 +14,7 @@ categories: [Monsters, Layer 2]
 
 Template:Creature Info Box v2
 
-_Also known as 'El Chupacabra' or 'Frank'_
+_Also known as 'Frank'_
 
 ## Overview
 
@@ -31,12 +31,12 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Leap | Bounder leaps either a long or a short distance towards their prey, slamming down to damage and disorientate them. | ✗ | ✗ | (★★☆) |
-| Slash | Bounder slashes their arms at their prey either once or twice, utilizing their claws to tear through them. | ◯ | ✗ | (★☆☆) |
+| Slash | Bounder slashes their arms at their prey either once or twice, utilizing their claws to tear through them. | ◯ | ◯ | (★☆☆) |
 | Charge | The Bounder will lowers its head and continuously stomps it's foot before charging in the direction of their prey, knocking them down and damaging them in the process. | ✗ | ✗ | (★★★) |
 
 ### **Passives**
 
--   **Monster Resistance** - Physical attacks deal ??? less damage to Bounders.
+-   **Strong Monster Resistance** - Physical attacks deal 50% less damage to Bounders.
 
 ## Trivia
 
@@ -44,4 +44,4 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 -   Like every other Layer 2 monster, [Mute](Https://deepwoken.fandom.com/wiki/Regalias?so=search#Mute) has no effect on Bounders.
 -   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
 -   It was said by Archmage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
--   There is an in detail guide on how to fight bounders in this video: [https://www.youtube.com/watch?v=iQe71nCEUpk](https://www.youtube.com/watch?v=iQe71nCEUpk).
+-   There is an in detail guide on how to fight bounders in [this video](https://www.youtube.com/watch?v=iQe71nCEUpk).

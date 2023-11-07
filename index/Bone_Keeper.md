@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 79230
+revid: 80625
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -42,7 +42,7 @@ Slash
 
 ### **Passives**
 
--   **Monster Resistance** - Physical attacks deal ??? less damage to the Bone Keeper.
+-   **Monster Resistance** - Physical attacks deal 20% less damage to the Bone Keeper.
 
 ## Trivia
 

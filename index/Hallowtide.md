@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 80493
+revid: 80584
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -45,6 +45,8 @@ The second Hallowtide added...
 (\*-only available from the second week of the first Hallowtide.)
 
 (\*\*-unique crit available from the second week of the second Hallowtide.)
+
+\[./[Https://media.discordapp.net/attachments/1093629651840155761/1171234665982591077/1170853853898494053remix-1699235230895.png%3Fex%3D655bf048%26is%3D65497b48%26hm%3D0b61ee9c3ee7d4ed52f30414c45e048562a7aac216018473b2bcb17d85c0d7c7%26](Https://media.discordapp.net/attachments/1093629651840155761/1171234665982591077/1170853853898494053remix-1699235230895.png%3Fex%3D655bf048%26is%3D65497b48%26hm%3D0b61ee9c3ee7d4ed52f30414c45e048562a7aac216018473b2bcb17d85c0d7c7%26) hollowtide weapons exclusive\]
 
 ## New Content
 
