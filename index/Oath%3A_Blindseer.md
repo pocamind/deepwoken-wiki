@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 80733
+revid: 80736
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -8,7 +8,7 @@ categories: [Oaths]
 
 # Oath: Blindseer
 
-| Oath: Bseer | |
+| Oath: Blindseer | |
 |---|---|
 | oath_req | 40 Willpower, 3 Mental Fortress Talents |
 | effects | +1 Support Mantra, +1 Wildcard Mantra, +10 Sanity |

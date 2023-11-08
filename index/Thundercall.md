@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 79902
+revid: 80745
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -1000,7 +1000,9 @@ N/A
  | 
 
 Kickstart  
-(THUNDER 50, FORT 50)
+(THUNDER 50, FORT 40
+
+)
 
  | 
 
