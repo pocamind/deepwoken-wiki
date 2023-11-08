@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 80575
+revid: 80674
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -142,8 +142,6 @@ Chum. eggs, fish meat, scallops, seaweed, spider eggs, sticks and minerals (coal
 
 Sap is unique as an ingredient which creates Nothing Potions when used alone but can be combined with other ingredients to change the prefix of the potion. More testing is required to figure out exactly what it does.  
 Crustacean meat is supposedly similar, though more testing is needed.
-
-Upon testing with Appalling, Sticks are able to slightly lower the strength of a potion. This was tested with 2 potions. One with only 2 Bamboo Bundles and another with 2 Bamboo Bundles and 3 Sticks. At 373 ether and potencies at 38%, the potion with no sticks drained 12% of my ether meanwhile the potion with 3 sticks drained 11%. This was tested repeatedly with the same results. A similar test was done with Dentifilo for their Soothing Effect. After draining my ether with the Icky effect, I ran the previous test again but this time replaced the Bamboo Bundles with Dentifilo. The potion with no Sticks gave me 25% of my ether meanwhile the potion with 3 Sticks only gave me 21%
 
 ## Effects
 

@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 79362
+revid: 80670
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]

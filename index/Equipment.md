@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 80662
+revid: 80721
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -4867,3 +4867,4 @@ Found from:
 -   The Max amount of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12th, 2023)
 -   Mythicial Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
+-   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)

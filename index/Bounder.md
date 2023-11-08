@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 80667
+revid: 80705
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 _Also known as 'Frank'_
 
-## Overview
+## Description
 
 Bounders are monsters that dwell within the Layer 2 of The Depths. They are infamously known for their lethality, with an equally horrific appearance.
 
@@ -40,8 +40,8 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
 ## Trivia
 
--   Despite its resemblance to the Megalodaunt, its anatomy more-so reassembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
--   Like every other Layer 2 monster, [Mute](Https://deepwoken.fandom.com/wiki/Regalias?so=search#Mute) has no effect on Bounders.
+-   Despite its resemblance to the Megalodaunt, its anatomy more-so resembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
+-   Like every other Layer 2 monster, [Mute](Regalia.md#mute) has no effect on Bounders.
 -   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
--   It was said by Archmage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
+-   It was said by Arch\_Mage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   There is an in detail guide on how to fight bounders in [this video](https://www.youtube.com/watch?v=iQe71nCEUpk).

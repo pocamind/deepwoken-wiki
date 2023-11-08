@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 79147
+revid: 80734
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -31,6 +31,16 @@ categories: [Weapons, Daggers]
 ## Description
 
 Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category and was added in the [Layer 2](Second_Layer.md) update. Not much is known at this time.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 ## Trivia
 

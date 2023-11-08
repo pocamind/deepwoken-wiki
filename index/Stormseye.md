@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 79218
+revid: 80696
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -37,21 +37,7 @@ The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It c
 
 ## Critical Attack
 
-<table>
-<tbody>
-<tr>
-  <td></td>
-</tr>
-</tbody>
-</table>
-
--   The user shoots a bullet before beginning to circle the opponent at lightspeed, appearing in short flashes to fire more shots at them. Ragdolls the opponent at the end.
-
-## Tricks
-
--   If you use the critical while falling, it will cancel all fall damage that you would normally recieve.
--   If the critical is used while in the windup for a Wayward Gem's activation, if timed correctly the teleportation of the Wayward Gem will be nullified entirely.
--   This weapon has the only critical attack in the game that can be cancelled early, as holding M2 during the critical allows you to shoot 2 shots and disengage sooner than normal.
+The user shoots a bullet before beginning to circle the opponent at highspeed, appearing in short flashes to fire more shots at them. Ragdolls the opponent at the end.
 
 ## Trivia
 
@@ -63,13 +49,3 @@ The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It c
 -   [Funke](Funke,_Master_of_Thunder.md), the [Thundercall](Thundercall.md) trainer does not use this weapon. He uses the [Hero Blade of Lightning](Hero_Blades.md).
     -   According to Arch\_Mage, mobs were not coded to use rifles, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.
 -   The special aerial attack effect will also apply to your [Crazy Slots](Crazy_Slots.md) weapon.
-
-## Gallery
-
-<table>
-<tbody>
-<tr>
-  <td></td>
-</tr>
-</tbody>
-</table>
