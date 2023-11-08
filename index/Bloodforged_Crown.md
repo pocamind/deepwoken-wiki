@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 80758
+revid: 80781
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -13,7 +13,7 @@ categories: [Equipment]
 | type | Head |
 | rarity | Legendary |
 | selling price | 50 |
-| requirements | Power 15 |
+| requirements | LVL 15 |
 | weight | 1 |
 | innate stats | 5 Health |
 | innate talent | Cauterized Wounds |
@@ -26,11 +26,9 @@ categories: [Equipment]
 
 ## Description
 
-The Bloodforged Crown is an [Equipment](Equipment.md) item under the "Head" category. It is found as a drop from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md). It has an innate 5 Health, as well as 1 (possibly 2?) rare pip and 1 legendary pip. It has the innate talent [Cauterized Wounds](Flamecharm.md#flame-warden).
+The Bloodforged Crown is an [Equipment](Equipment.md) item under the "Head" category. It is found as an exceedingly rare drop from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md). It has an innate 5 Health, as well as 1 rare pip and 1 legendary pip. It has the innate talent [Cauterized Wounds](Flamecharm.md#flame-warden).
 
-## Gallery
-
-[Swirling Visual Effect idk how to embed so cry about it](https://youtu.be/pZGkBDSMJqc)
+When equipped, even while its visibility is toggled off, it will play an animation of a red swirling particle around the wearer's head.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 80711
+revid: 80770
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -28,6 +28,12 @@ categories: [Weapons, Greatswords]
 | description | ... |
 
 ## Description
+
+The Kyrscleave is an Endgame [Heavy Weapon](Weapons.md) obtained from the [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). it uses a unique Critical Attack shared with the [Crescent Cleaver](Crescent_Cleaver.md), which consists of a forward lunge in an attempt to impale the first target hit, then slamming them on the ground.
+
+## Trivia
+
+Template:Header2
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), **Kyrscleave**)
 -   Deals roughly 44.4 + 13.32 (BLEED) (For a total of 57.72) Damage at 100 Heavy.

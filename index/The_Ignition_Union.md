@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 80637
+revid: 80782
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -37,7 +37,7 @@ They are one of the three factions contracted by [The Authority](The_Central_Aut
 
 The Union maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects. They also have various ideological differences, which was ultimately what resulted in the Ignition Union's instigation of hostilities.
 
-The Ignition Union also share an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. The most iconic lines of Deepwoken comes from one of these conflicts between the Ignition Union and the Divers. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot.
+The Ignition Union also share an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot.
 
 ## Reputation
 
@@ -86,4 +86,3 @@ Enemy-Neutral Reputation
 -   [Miner's Landing](<Miner's_Landing.md>) is the only city in-game to be focused on industrialism more than medievalism.
 -   The Ignition Union is one of the four factions who have an [Oath](Oaths.md) tied to them.
 -   One of two factions to create and utilise [Monsters](Monsters.md), the other being [The Hive](The_Hive.md).
--   The Ignition Union is the only faction that sends a monster after you if your reputation is low enough.

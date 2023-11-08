@@ -1,6 +1,6 @@
 ---
 title: Suspicious Skeleton
-revid: 79497
+revid: 80784
 source: https://deepwoken.fandom.com/wiki/Suspicious_Skeleton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
