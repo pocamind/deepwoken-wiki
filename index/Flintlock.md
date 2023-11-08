@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 77937
+revid: 80760
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -25,8 +25,6 @@ categories: [Weapons, Guns]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Bought at Summmer Isle for 100 notes |
-| description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every... |
+| description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every luminant |
 
-**The Flintlock** is a [gun](Guns.md) that can be purchased for 100 [notes](Notes.md) in [Summer Isle](Summer_Isle.md). It can also be obtained from Primadon. It requires is 20 Light Weapon to equip.
-
-The **Flintlock** deals 10 base damage and has 8 range compared to the other guns whom have a range of 12. It attacks extremely fast (1.3x) and has a unique attack cycle. After you fire one shot you can fire another shot from the [Gun](Guns.md) in your off hand (If you have one). You can also fire the [Gun](Guns.md) in your off hand 2 times in quick succession. When you attack with any [Gun](Guns.md) it will use Ether Bullets unless you have Bullets. Bullets can be bought in the general and weapon store in Etris for 5 notes. Bullets can also be crafted with 1 Iron (creates 20).
+**The Flintlock** is a [gun](Guns.md) that can be purchased for 100 [notes](Notes.md) in [Summer Isle](Summer_Isle.md). It can also be obtained from [Primadon](Primadon,_Titan_of_the_East.md).

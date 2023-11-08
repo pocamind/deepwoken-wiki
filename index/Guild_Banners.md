@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 77360
+revid: 80768
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -16,7 +16,18 @@ categories: [Objects]
 
 ## Overview
 
-**Guild Banners** are banners found around the map. They reward the guild controlling them with 15-20 notes every 30 seconds and give higher note rewards if there is more competition in the server. If one guild has multiple banners under their control, they will make notes from all of them, however it may become difficult to defend all of your banners if you have many under your guilds control.
+**Guild Banners** are banners found around the map. They reward the guild controlling them with 8-20 notes every 30 seconds depending on how many players from other guilds are in the server.
+
+Once a guild banner is captured by a guild, the banner will take on the guild main color and have the guild icon displayed on it and on the capture marker.
+
+The marker on top of the flag will change color to reflect its current situation:
+
+-   White if uncontested
+-   Red if contested by enemies
+-   Green if owner is present
+-   Orange if contested by enemies and owner
+
+Standing near the banner will gradually empty the banner, at which point the banner is captured by the guild the player is in. Afterward, staying near the owned banner will revert capture progress. Banners passively revert capture progress to their owner as long that they arent contested by enemies.
 
 (All known) Locations:
 
