@@ -1,9 +1,9 @@
 ---
 title: Bloodforged Crown
-revid: 80822
+revid: 80829
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment]
+categories: [Equipment, Helmets]
 ---
 
 # Bloodforged Crown
@@ -11,8 +11,8 @@ categories: [Equipment]
 | Bloodforged Crown | |
 |---|---|
 | type | Head |
-| rarity | Mythical |
-| selling price | 100 |
+| rarity | Legendary |
+| selling price | 50 |
 | requirements | LVL 15 |
 | weight | 1 |
 | innate stats | 5 Health |
@@ -32,4 +32,5 @@ When equipped, even while its visibility is toggled off, it will play an animati
 
 ## Trivia
 
--   It is the only "Head" equipment to have a LVL requirement, as every other head equipment that has a requirement to wear only requires FTD.
+-   It is the only "Head" [Equipment](Equipment.md) piece to have a LVL requirement, as every other head equipment that has a requirement to wear only requires FTD.
+-   This [Equipment](Equipment.md) piece shares the same innate stats as [Celtor Commander Helm](Celtor_Commander_Helm.md).

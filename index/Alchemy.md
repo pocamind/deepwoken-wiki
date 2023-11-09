@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 80674
+revid: 80828
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -358,7 +358,6 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   A cheap alternative of Fast Ether Drain. Works effectively with Exterminator.
 -   **Ether Disable** (Icky) - 2 Calabash + 3 Spider Eggs
     -   Even a small icky effect is enough to completely prevent ether from being drawn. Compared to Fast Ether Drain, this potion may let your opponent get an extra mantra in before their ether is drained, but will keep them empty for much longer.
-    -   Particularly fun against gun users, who need ether to use their M1.
 -   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
     -   Almost a full Ether restore - deals ~5% of your health in damage.
 -   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle

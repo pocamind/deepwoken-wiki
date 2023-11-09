@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 77182
+revid: 80831
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -36,6 +36,6 @@ This Outfit's Schematic can be found in:
 
 ## Trivia
 
--   Richocheted bullets do not proc enchants. (Broken atm and it can proc)
+-   Richocheted bullets can proc enchants (Bugged)
 -   At the time its best to server hop the free chests that **arent inside a building or near one**
 -   Dragoons were mounted infantrymen that existed from the 16th-18th centuries, wielding a [similarly named firearm](Dragoon.md).
