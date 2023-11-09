@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 80697
+revid: 80815
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -34,8 +34,17 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 -   Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_
 -   Can be used with a gun. _**If the gun is enchanted, the enchant will be removed while used with Light's Final Toll and will return upon unequipping the Light's Final Toll.**_
 
+## Critical
+
+Light's Final Toll has 4 different Criticals. The Critical starts off with the Default punch Critical or the Legion Kata Grab depending on your current stance. After landing it, your next critical will be a jumping slam. To reach the final Critical, you must land 2 jumping Criticals. Upon using the Final Critical both players are sent upwards as the user punches the target away.
+
+**NOTE: The cycle progresses even if your Critical was blocked.**
+
+**The Blue Eye that pops up from the Final Critical signifies that it is undodgeable.**
+
 ## Trivia
 
+-   Likely inspired by **Shoot McMahon**'s _Hotel Rafflesia_ from Hunter x Hunter.
 -   This is the first weapon to scale from an attribute (Willpower) other than weapon or an attunement.
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
@@ -43,7 +52,9 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 -   One of the only two weapons (with the other being the Flareblood Kamas) that can gain scaling past 100, as with +2 WLP races, you can get to a "weapon stat" of 102.
 -   With its abnormally small base damage of 12, Akira's Ring will only provide an extra 1.44 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its effective hotbox.
--   As of the October 20th, 2023 weekly update LFT now has a Unique 4-Hit Critical combo, locking out its initial critical from Way of Navae's Guardbreak and Legion Kata's Grab.
+-   As of the October 20th, 2023 weekly update LFT now has a Unique 4-Hit Critical combo.
+-   Starts off with the Default/Legion Kata Critical, then switches to a Jumping Critical when landed. Landing 2 Jumping Criticals will give you the Final Crit. (Goes in order of: 1 > 2 > 2 > 3)
+-   The Critical Cycle progresses even if the previous Critical was blocked.
 -   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
 -   It is one of three known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Railblade](Railblade.md).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 80678
+revid: 80824
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -616,6 +616,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.4s | [Linkstrider](Oath%253A_Linkstrider.md) [Mantras](Mantras.md) (2nd Sound) |
 |  | 2.3s | [Dawnwalker](Oath%253A_Dawnwalker.md) [Mantras](Mantras.md) \[1\] |
 |  | 1.4s | [Dawnwalker](Oath%253A_Dawnwalker.md) [Mantras](Mantras.md) \[2\] |
+|  | 5.1s | [Judgment](Oath%253A_Contractor.md) (Stun & Release) |
 |  | 1.0s | [Equalizer](Oath%253A_Contractor.md) (Windup) |
 |  | 1.1s | [Equalizer](Oath%253A_Contractor.md) (Full Windup) |
 |  | 0.9s | [Equalizer](Oath%253A_Contractor.md) (Reel) |

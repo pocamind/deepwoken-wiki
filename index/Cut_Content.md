@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 80786
+revid: 80827
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -48,6 +48,8 @@ notices:
 -   **Mantra Core -** Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation.
 -   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantras' properties on the Mantra Table.
 -   **Announced Casting -** Move names were once announced in a red highlight on the screen whenever used. This is NOT to be confused with **Spell Shout** which is obtained by paying 50 notes to NPC in Isle of Vigil's library.
+-   **Flame Pillars** (1 Star Flame) - Created a pillar of flame at the cursor location, acting similarly to the Nautilodaunt stomp. Was replaced by Fire Eruption in early updates.
+-   **(OLD)** Tornado (1 Star Wind) - tornado. Reworked into the current iteration on (XX/XX/XX)
 
 ## Monsters
 
