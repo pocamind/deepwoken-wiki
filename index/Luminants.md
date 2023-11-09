@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 70725
+revid: 80849
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Mantras, Locations]
@@ -19,6 +19,8 @@ Though these two Luminants are often referred to as each other by characters (I.
 ## Central Luminant
 
 A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large savannah where [Felinors](Felinor.md) originated from is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers as well as the home of what is seemingly a university of sorts.
+
+Off the coast of Markor is the Lullaby Isles, an area with a dense mountain range that's surrounded by smaller islands and inhabited by [Chrysids](Chrysid.md).
 
 ## Western Luminant
 

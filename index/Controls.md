@@ -1,6 +1,6 @@
 ---
 title: Controls
-revid: 77107
+revid: 80836
 source: https://deepwoken.fandom.com/wiki/Controls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helpful, Mechanics, Character, Browse]
@@ -53,7 +53,7 @@ _This page lists the controls that can be used in Deepwoken._
 | Space (near small obstacle) | Vault | Parkour. Player quickly slides over obstacle, grants speed boost. |
 | W+Space (airborne near a wall) | Wall Jump | Parkour. Player performs two small hops on a wall, automatically hops up and over ledges if holding W. |
 | Space (airborne near a wall) | Wall Kick | Parkour. Player performs a kick up and away from wall. |
-| M1, M1, M1 | Flourish | Player finishes combo by kicking opponent away. |
+| M1, M1, M1, M1, M1 | Flourish | Player finishes combo by kicking opponent away. |
 | M1 (crouching behind a humanoid) | Assassinate | Player performs stealth attack that deals damage and ragdolls. |
 | Z, X, C, V | Ritual Cast | Required inputs for Mantras with Ritual Casting. |
 | G | Vent | Player performs a special attack that blasts any enemies backwards with a knockback effect, comes from built up Tempo. |
