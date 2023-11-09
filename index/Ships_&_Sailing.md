@@ -1,6 +1,6 @@
 ---
 title: "Ships & Sailing"
-revid: 79049
+revid: 80798
 source: https://deepwoken.fandom.com/wiki/Ships_%26_Sailing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -96,13 +96,11 @@ For more information on Ship Control and Sailing, click [here](Ships_&_Sailing.m
 ## Trivia & Notes
 
 -   You can't cook [Food](Food.md) using Boat Lanterns, nor can you place [Campfire](Campfire_Pit.md) on Boats.
--   You can respawn on any Boat.
--   You can't create new Boats through Shipwright Poles.
 -   You can only have a maximum of 9 Boats.
 -   You can't delete/get rid of Boats that you've purchased, meaning buying 8+ Sloops is unfortunately not a good idea.
 -   It is recommended to buy a Boat like the Merchant Schooner, due to being the earliest with a Lantern and being cheap to repair if broken.
 -   Ironclads are always travelling at max speed, since they don't use flag sails to take advantage of the wind.
 -   Cannons are viable in combat, whether it be for PVP or PVE.
--   Mantras that can damage the environment/terrain are capable of hurting Boats. Though the best way to destroy a Boat is sailing one into a Whirlpool, which instantly destroys it.
+-   Mantras that can damage the environment/terrain are capable of hurting Boats. However, the best way to destroy a Boat is sailing one into a Whirlpool, which instantly destroys it.
 -   When Boats are below 50% Health, they'll gradually move slower, and you can't respawn on it until it is over 50% Health again.
 -   [Seafarer's Chime](<Seafarer's_Chime.md>) is obtained upon purchasing your first Boat.

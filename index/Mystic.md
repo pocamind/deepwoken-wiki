@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 80399
+revid: 80792
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -13,9 +13,7 @@ categories: [NPCs, Talents]
 | name | Mystic |
 | location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils, Guild Bases, Meteor Isle |
 
-**You can press "Ctrl + F or G" (Windows)/"Cmd + F"(Mac) to search for prompts!**
-
-This is a browser function, but all mainstream browsers should have it.
+**You can press "Ctrl + F" & "\[F3\]"(Windows) or "Cmd + F"(Mac) to search for prompts!**
 
 “ Ah, traveler! Come, come and sit! For a small price I will surmise your great destiny! ”
 

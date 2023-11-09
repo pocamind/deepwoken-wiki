@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80763
+revid: 80802
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -503,7 +503,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am a master of creating openings."**_
 
 -   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 1.2 x damage with daggers.
-    -   Prerequisite: 30 Light (?)
+    -   Prerequisite: 30 Light
 
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   While the effect is active, gain a red trail on your weapon.
@@ -1577,6 +1577,7 @@ _**"I enjoy sea food."**_
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Rapid Fire \[Common Talent\] - \[Pistols\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
     -   Prerequisites: 50 Light Weapon, using a Gun
+    -   Works with rifles including [Stormseye](Stormseye.md)
 -   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
     -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
     -   Prerequisites: 50 Light Weapon, using a Gun
@@ -1584,6 +1585,8 @@ _**"I enjoy sea food."**_
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast. (Play Ultrakill)
     -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Gun
+
+  
 
 ### Politician
 
@@ -1731,7 +1734,7 @@ _**"I enjoy sea food."**_
 ### Scholar of the Cloud
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
-    -   Grant the speed from Wind Gates to the boat you are driving for a short duration.
+    -   Unintuitive to most the community, using Windwaker is meant to grant a further speed boost only inside a Wind Gate.
     -   Prerequisite: Sail along in the direction of the wind for roughly 20 minutes, 50 Galebreathe
 
 ### Scrapsinger

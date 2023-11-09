@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 80165
+revid: 80801
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -46,7 +46,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Every good thing that happens to you in this game is preplanned like a show. There's an audience waiting for your downfall.
 -   Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
 -   Flamecharm? Daring today, aren't we?
--   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
+-   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret seventh attunement.
 -   HINT: Don't tell the Internal Revenue Sharkos that I'm here. Why? No particular reason.
 -   HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse.
 -   HINT: I should be rising in the sky...
@@ -155,7 +155,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The tooltip "Flamecharm? Daring today, aren't we?" may be a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
 -   The tooltip “I’m smart, you’re dumb; I’m big, you're little; I’m right, you're wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name and is said by the one and only; our lord and saviour Danny Devito.
--   The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath magic.
+-   ~The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath magic.~ Destroyman is never wrong.
 -   He is based on a sticker in the discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy) a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.

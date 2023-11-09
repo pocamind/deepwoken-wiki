@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 80766
+revid: 80789
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -24,7 +24,7 @@ You can wield 2 pistols at the same time by equipping two of any flintlock-type 
 
 ### One-Handed (1H)
 
-When using a singular gun you will gain an ammo counter resembling a revolver chamber above your posture bar which is **reloaded by pressing Y or Z.** without bullets, your M1's will do more posture damage and have a slow and wide pistol whip attack (2-hit flourish). When your gun is loaded, attacks will do less posture damage but gain a 15% damage multiplier and have the M1 cycle changed to a faster, 3-hit flourish that fires the gun. Each attack will consume one bullet
+When using a singular gun you will gain an ammo counter resembling a revolver chamber above your posture bar which is **reloaded by pressing Y or Z.** without bullets, your M1's will do more posture damage and have a wide pistol whip attack (2-hit flourish). When your gun is loaded, attacks will do less posture damage but gain a 15% damage multiplier and have the M1 cycle changed to a 3-hit flourish that fires the gun. Each attack will consume one bullet
 
 #### Reloading
 

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 71215
+revid: 80786
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -73,6 +73,8 @@ notices:
 -   **Aerial Shot \[Common Priority Talent\] -** \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
 -   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
 -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
+-   **Agitating Static \[Common Talent, Thundercall exclusive\] -** Using Discovery of Fire will light nearby downed enemies aflame.
+    -   in 10/06/23 update, Agitating Static was merged into Discovery of Fire.
 -   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the 08/15/23 update, Black Out was merged into Sightless Still.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
@@ -97,12 +99,18 @@ notices:
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   In the 10/24/22 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
+-   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
+    -   The talent was removed from the game with 10/28/23 update, as it became a base behavior for Ice Skate.
 -   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
     -   In the 08/15/23 update, Graceful Landing was merged into Kick Off.
 -   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
     -   In the 12/20/22 update, Heartbreaker was merged into Lethal Precision.
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   Was removed with Verse 2 update.
+-   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.
+    -   in the 10/06/23 update, Third Interrogation was merged into Second Interrogation.
+-   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
+    -   The talent was removed from the game with 10/06/23 update, as it became a base behavior for Flame Repulsion.
 -   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
     -   In the 12/13/22 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
@@ -118,10 +126,14 @@ notices:
     -   With Verse 2 update most Legendary talents have turned into Advanced talents, while other - decreased in rarity to Rare.
 -   **Lethal Force \[Common Talent\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
+-   **Lethal Precision \[Common Talent\] -** When you attack an enemy much weaker than you, you kill them instantly.
+    -   In the 10/06/23, Lethal Precision was changed into the quest talent Mercy Kill.
 -   **Lord Commander \[Rare Talent\] -** Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   In the 08/15/23 update, Lord Commander was merged into Grand Support.
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
+-   **Pyromania \[Common Talent\] -** Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
+    -   in the 10/06/23 update, Pyromania was merged into Immolation.
 -   **Quick Link \[Common Talent, Thundercall exclusive\]** - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
     -   In the 08/15/23 update, Quick Link was merged into Static Link.
 -   **Quick Recovery \[Common Talent, Agility\]** - You move faster after doing a wall jump. (+1 Passive Agility)
