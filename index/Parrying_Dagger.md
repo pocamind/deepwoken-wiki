@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 78999
+revid: 80903
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers]
@@ -25,7 +25,7 @@ categories: [Weapons, Parrying Daggers]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Obtained from Etris Store, Erisia, Depths. |
+| obtainment | Obtained from Etris Store, Erisia, Depths, Primadon, Deep Widow, Bounties. |
 | description | A dagger that is used more as a pivot for parrying than as a weapon of its own right. |
 
 ## Description

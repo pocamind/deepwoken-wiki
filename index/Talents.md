@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80802
+revid: 80901
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1577,7 +1577,7 @@ _**"I enjoy sea food."**_
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Rapid Fire \[Common Talent\] - \[Pistols\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
     -   Prerequisites: 50 Light Weapon, using a Gun
-    -   Works with rifles including [Stormseye](Stormseye.md)
+    -   Works with all rifles excluding [Stormseye](Stormseye.md)
 -   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
     -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
     -   Prerequisites: 50 Light Weapon, using a Gun

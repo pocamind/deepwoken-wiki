@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 80386
+revid: 80898
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -247,7 +247,7 @@ _Form an ice spear and lunges forward._
 
 -   During the windup pressing F cancels the impale.
 -   Deals moderate damage.
--   Does not inflict Chill.
+-   Does inflict Chill. (6/12/23 update logs, needs testing)
 -   User gains considerable forward momentum on use.
 
  |
