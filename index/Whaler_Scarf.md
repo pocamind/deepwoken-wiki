@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 74041
+revid: 80876
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -13,7 +13,6 @@ categories: [Equipment, Torso, Scarves]
 | type | Torso |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
 | weight | 0.5 |
 | innate stats | 3% Elemental Armor |
 | innate talent | None |
@@ -21,12 +20,12 @@ categories: [Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests From: |
+| obtainment | Etrea VS Eylis Sea Event (~10%) , Primadon (Unconfirmed) |
 | description | The scarf of an elite Knife of Eylis. Signifies the bearer's mastery over the Void. |
 
 ## Description
 
-The Whaler Scarf is an [Equipment](Equipment.md) item under the "Torso" category. Equipping this grants you 3% elemental Armor and an unknown number of Pips. They are rarely found in Primadon Chests and Etrea vs The Knives of Eylis event's chest.
+The Whaler Scarf is an [Equipment](Equipment.md) item under the "Torso" category. Equipping this grants you 3% elemental Armor and an unknown number of Pips. They are rarely found in [Primadon](Primadon,_Titan_of_the_East.md) Chests(?) and [Etrea VS Eylis Sea Event](Knife_of_Eylis.md) chests.
 
 ## Trivia
 

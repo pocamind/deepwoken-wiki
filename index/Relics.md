@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 80749
+revid: 80864
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -103,7 +103,7 @@ File:Sinner's Ash.png
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~1%)**
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~1%)**
 
  |
 | 
@@ -121,7 +121,7 @@ It grants the user +20 knowledge on subsequent uses.
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~1%)**
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~1%)**
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
  |

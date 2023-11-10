@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 80356
+revid: 80883
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1519,6 +1519,7 @@ You can choose your first name from any available, but your choices of last name
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only "Usopp" was added.[\[1\]](#cite-note-1)
 -   The names "Ornstein" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough).
     -   Initially, the name "Ornstein" was erroneously spelled as "Orstein."
+-   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
     -   Funnily enough, they are both technically the same person.
 -   Names such as "Kaladin" and "Adolin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.

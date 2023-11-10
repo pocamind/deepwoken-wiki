@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 80635
+revid: 80878
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -269,6 +269,7 @@ categories: [Deepwoken]
 -   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath.
 -   "Hoss" emote is a reference to Akuma from Street Fighter, while the name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
 -   When enemies spot you there is a chance to play the alert sound effect from _Metal Gear Solid_.
+-   Voideye's Teleportation animation bears a striking resemblance to Final Fantasy XIV's teleport animation.
 
 ## References
 

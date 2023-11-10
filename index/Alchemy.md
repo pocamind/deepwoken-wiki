@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 80828
+revid: 80894
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -289,7 +289,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Calabash<br>
   Bamboo Bundle</td>
   <td>Increases maximum posture for 15 seconds.</td>
-  <td>Opposite effect is <b>Buckling</b>.<p>Causes the target to lose ether while blocking?</p></td>
+  <td>Opposite effect is <b>Buckling</b>.</td>
 </tr>
 <tr>
   <td><b>Buckling</b></td>

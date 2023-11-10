@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 80127
+revid: 80854
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -1047,7 +1047,7 @@ Revenge
 
  | 
 
--   This modifier is compatible with the "Revenge" mantra, causing it to deal no damage.
+-   This modifier is compatible with the "Revenge" mantra, causing it to deal no damage, but always teleport.
 
  |
 | 

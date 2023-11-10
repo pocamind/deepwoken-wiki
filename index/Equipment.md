@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 80721
+revid: 80877
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -406,13 +406,17 @@ Found from:
 
 [Bloodforged Crown](Bloodforged_Crown.md)
 
+(Legendary)
+
  | 
+
+_+5 Health_
 
 +1 Rare Pip
 
 +1 Legendary Pip
 
-_+Talent: Cauterized Wounds'_
+_+Talent: Cauterized Wounds_
 
 **Requires Power 15**
 
