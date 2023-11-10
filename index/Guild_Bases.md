@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 79172
+revid: 80909
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Locations]
@@ -80,7 +80,7 @@ Bandits raiding a Guild Base.
 
 -   Carry-able items (Artifacts, Explosive Crates, Barrels, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   Grand skewer is disabled while inside, as it could throw people out the base.
--   Full Guild Base is hard to achieve for small guilds since the price of adding rooms increases exponentially.
+-   Full Guild Base is hard to achieve for small guilds since the price of adding rooms increases exponentially. Could be more achievable with the use of [Guild Banners](Guild_Banners.md).
 -   Bandits can spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it was a bug.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.

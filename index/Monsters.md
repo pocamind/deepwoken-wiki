@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 79168
+revid: 80904
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -50,7 +50,6 @@ Certain Monsters thematically already have an attunement tied to them (such as T
 
 Certain Monsters have unique visual effects when attuned.
 
--   [Prime Golem](Rock_Golem.md) (Thunderstruck Variant, Red)
 -   [Gigamed](Gigamed.md), [King Gigamed](Gigamed.md) (Thunderstruck Variant, Blue)
 
 ## Humanoid Monsters
