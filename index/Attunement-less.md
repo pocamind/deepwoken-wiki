@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 78880
+revid: 80927
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -77,6 +77,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Rapid Punches scales with your Strength attribute.</li>
     <li>Victims struck by the last punch are pushed away.</li>
     <li>NPCs using Rapid Punches does not give the auto parry frames from the mantra being used by a player.</li>
+    <li>can be upgraded with crystal lenses and aeon logstones</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -208,6 +209,7 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
     -   Scales with the user's Power Level and Agility Attribute.
     -   With the [Pursuit](Talents.md) talent, Revenge can be used twice in a row if the first use hits.
     -   **THIS MOVE NOW APPLIES HITSTUN, WAYWARD DOESNT PROC**
+    -   can be upgrade with cloudstones and drift shards
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 80584
+revid: 80915
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -95,7 +95,7 @@ The second Hallowtide added...
 
 ### Trivia
 
--   The Floating Keep is the only place in the game where you can actually see NPC [Lightborns](Lightborn.md). (Aside from [Kaide](Kaide,_the_Drowned_Light.md) in [New Kyrsa.](Second_Layer/New_Kyrsa.md))
+-   The Floating Keep is the only place in the game where you can actually see NPC [Lightborns](Lightborn.md). (Aside from Kaide in [New Kyrsa.](Second_Layer/New_Kyrsa.md))
 -   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
 
 ### The Hallowtide Calling
