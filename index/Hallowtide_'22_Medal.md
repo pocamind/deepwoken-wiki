@@ -1,6 +1,6 @@
 ---
 title: "Hallowtide '22 Medal"
-revid: 80826
+revid: 81045
 source: https://deepwoken.fandom.com/wiki/Hallowtide_'22_Medal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Medals](Medals%253Fredirect=no.md)
+-   [Hallowtide Medals](Hallowtide_Medals%253Fredirect=no.md)

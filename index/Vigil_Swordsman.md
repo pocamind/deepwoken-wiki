@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 80105
+revid: 81038
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Ambush Enemies]
@@ -39,4 +39,4 @@ A Vigil Swordsman executes it's opponent after knocking them:
 ## Trivia
 
 -   If you happen to come across an Authority/Hive Footsoldiers vs Vigil Swordsmen event, killing the Vigil Swordsmen will be easier as they are already low.
--   Their armor is identical to the Etrean Soldier's armor, but white instead of purple.
+-   Their armor is identical to the [Etrean Soldier](Etrean_Soldier.md)'s armor, but white instead of purple.

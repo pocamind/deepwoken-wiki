@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 80753
+revid: 81042
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -55,7 +55,7 @@ Located at the [Hidden Village](The_Hidden_Village.md) of Erisia, obscured by vi
 ## Benefits/Penalties
 
 -   **(BENEFIT)** Instantly obtain 3 Power Levels, totalling 45 Attribute Points to spend
--   **(PENALTY)** Gain one random Flaw you have unlocked upon accepting the deal (You can choose which flaw it rolls), and lose 5 knowledge. You also have to gain 45 Investment Points to reach the next level.
+-   **(PENALTY)** Gain one random Flaw you have unlocked upon accepting the deal, and lose 5 knowledge. You also have to gain 45 Investment Points to reach the next level.
 
 ## Pros/Cons
 

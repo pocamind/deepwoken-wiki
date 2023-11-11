@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 77643
+revid: 81037
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -37,7 +37,7 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 
 ### One Handed Crit; Propelling Whirlwind
 
-The user propels in a whirlwind of air, gravitating towards their cursor. Applies suffocated if collided with.
+The user propels in a whirlwind of air, gravitating towards their cursor. Applies suffocated if collided with. jamazing
 
 ### Two Handed Crit; Aerial Blast
 

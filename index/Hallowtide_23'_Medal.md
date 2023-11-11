@@ -1,6 +1,6 @@
 ---
 title: "Hallowtide 23' Medal"
-revid: 80825
+revid: 81044
 source: https://deepwoken.fandom.com/wiki/Hallowtide_23'_Medal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Medals](Medals%253Fredirect=no.md)
+-   [Hallowtide Medals](Hallowtide_Medals%253Fredirect=no.md)
