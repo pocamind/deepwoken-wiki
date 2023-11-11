@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 80864
+revid: 80946
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -53,7 +53,8 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)  
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)  
       
     
 

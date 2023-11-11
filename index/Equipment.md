@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 80877
+revid: 80953
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -3558,6 +3558,8 @@ Shrouded Capes
  | 
 
 _+5% Stealth_  
+
++1 Rare Pip  
 
 +1 Legendary Pip
 

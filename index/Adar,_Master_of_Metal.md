@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 77175
+revid: 80997
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -19,7 +19,7 @@ notices:
 
 Adar is an NPC who acts as the Ironsing trainer.
 
-In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md). If you have obtained the [Silentheart](Oath%253A_Silentheart.md) oath, you can't fight Adar. Instead he will say, "Huh? What're you giving me that look for?". They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
+In order to obtain [Ironsing](Ironsing.md), you must bring the 6 main [Ores](Ores.md) to Adar (Iron, Gold, Erisore, Irithine, Astruline, and Umbrite). You can only do this when you have talked to Rudral and shown him a [Pluripotent Alloy](Pluripotent_Alloy.md). They can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
@@ -142,5 +142,4 @@ _(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. M
 -   Adar's appearance, specifically his hair, derives from one of K1LLUAA's outfits.
     -   His hair combo can be found here: [1](https://www.roblox.com/catalog/7392396295/Black-Anime-Delinquent-Hair), [2](https://www.roblox.com/catalog/11308491438/Black-Messy-Anime-Hairstyle-17-0), [3](https://www.roblox.com/catalog/11104022976/Cursed-Hair)
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
--   The reason why Adar is not required to be fought for Silentheart progression is simply because Ironsing released after Silentheart’s talents were finalized. In-universe, it is most likely because he doesn’t “abuse” the Song, as he is a researcher rather than a trainer.
-    -   Talking to him as Silentheart will prompt him to say, "What are you giving me those looks for?"
+-   Formerly, Adar could not be killed for Silentheart progression and when talking to him while being one would prompt a message of him saying: ''Huh? Why are you giving me those looks for?''. The 11/10/23 update finally allowed him to be fought and killed.

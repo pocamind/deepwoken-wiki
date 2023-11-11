@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 79846
+revid: 80984
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment]
@@ -25,7 +25,7 @@ categories: [Head, Helmets, Equipment]
 
 ## Description
 
-The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category. A head of a Pumpkin that was released during 2023 [Hallowtide](Hallowtide.md). You can only obtain this through the [Hallowtide](Hallowtide.md) Event.
+The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category. A head of a Pumpkin that was released during 2023 [Hallowtide](Hallowtide.md). You can obtain this by buying this from [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Metal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide) for 3 knowledge anytime.
 
 ## Trivia
 

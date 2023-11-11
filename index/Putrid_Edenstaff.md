@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 80640
+revid: 80992
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -28,7 +28,7 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. It is obtained from either the [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) or from [Glaive Spellhardt](Glaive_Spellhardt.md) for 100 [Joy](Joy.md).
+The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](Weapons.md) in the Greathammer category. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) if you have brought "Hallowtide 23 Metal" (from [Glaive Spellhardt](Glaive_Spellhardt.md) during Hallowtide again) for 7 knowledge anytime.
 
 ## Critical
 

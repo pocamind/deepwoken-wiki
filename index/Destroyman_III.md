@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 80850
+revid: 80952
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -170,8 +170,8 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to Outer Wilds. (Yippee!)
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
 -   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQtR2w](https://youtu.be/nVm0QQ-tR2w))
--   The sound played when Destroyman III first appears comes straight from No More Heroes.
--   The tooltip: "Moe..." could be a reference to the same quote by Travis Touchdown from No More Heroes. He could just be randomly moaning tho…
+-   The sound played when Destroyman III first appears comes straight from _No More Heroes_.
+-   The tooltip: "Moe..." is a reference to [Travis Touchdown saying the same line in his morning routine](https://www.youtube.com/watch?v=TQ3lh97fDVY) in _No More Heroes_.
 -   We LOVE Destroyman III.
 -   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to an obscure meme “Getting mugged? Just say no, criminals can't legally steal from you without your consent.”
 -   The tooltip "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" is a reference to the influx of Youtubers having sponsored ad segments following this template in their videos, with some of the most well-known being NordVPN, Raid: Shadow Legends and HelloFresh (probably.)

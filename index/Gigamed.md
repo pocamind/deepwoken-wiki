@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 80923
+revid: 80996
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -31,7 +31,7 @@ Electric Stun Pulse
 
 ## Trivia
 
--   You can sit on a Gigamed, as seen in the Gallery above.
+-   You can sit on a Gigamed.
 -   Easiest mob to kill in the Depths, As it has the lowest health and only knows 1 attack. It's easy to avoid their upcoming attack by preparing a block whenever they approach you.
 -   Gigameds can do small leaps to send out an aerial pulse attack if they feel it is necessary.
 -   A key enemy for players in the Depths who took the _**Carnivore**_ and _**Conquer your fears**_ [Talents](Talents.md).
@@ -59,12 +59,12 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 | 
 Greater Stun Pulse
 
- | Emits a large pulse attack that can target one player per use, Deals ~30 damage. After the mob uses this attack, they will back away if a player is close to them, and come closer if a player isn't close to them. | ✗ | ◯ | ◯ | (★) |
+ | Emits a large pulse attack that can target one player per use, Deals ~30 damage. After they use this attack, they will back away if a player is close to them, and come closer if a player isn't close to them. | ✗ | ◯ | ◯ | (★) |
 | 
 
 Static Discharge
 
- | The King screeches and releases a purple AoE attack that pushes you away from the mob and stuns you for a short duration. However, this attack deals little to no damage. Be cautious when fighting this mob near cliffs. | ✗ | ◯ | ◯ | (★★) |
+ | The King screeches and releases a purple AoE attack that pushes you away from them and stuns you for a short duration. However, this attack deals little to no damage. Be cautious when fighting them near cliffs. | ✗ | ◯ | ◯ | (★★) |
 | 
 
 Summon Gigameds

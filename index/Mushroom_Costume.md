@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 80819
+revid: 81000
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -25,7 +25,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category. When worn, A mushroom hat is put on top on your head, it changes your skin color to a bright white, and you become faceless. This was released during 2023 [Hallowtide](Hallowtide.md) as an exclusive event item, so you can only obtain this through the [Hallowtide](Hallowtide.md) Event.
+The Mushroom Costumes are [Equipment](Equipment.md) items under the "Head" category. When worn, A mushroom hat is put on top on your head, it changes your skin color to a bright white, and you become faceless. You can obtain this during Hallowtide [Trial of Gourdskipper](<Widow's_Wail_Cemetery.md>) (during Hallowtide only), [Lysander Spellhardt](Lysander_Spellhardt.md) (during Hallowtide only), or by going to the [Blacksmith](Blacksmith.md) **if** you have brought "Hallowtide 23 Metal" (from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide again) for 5 knowledge anytime.
 
 ## Rarities
 
@@ -39,6 +39,7 @@ Here are estimated chances for each shroom variant, after finding 100 shroom cos
 
 ## Gallery
 
+-   This was released during [Hallowtide](Hallowtide.md) 2023 as a head equipment
 -   This item costs 100 Joy in the Hallowtide Shop, but can be alternatively obtained through the Trial of Gourdskipper (much more preferable).
 -   The Costumes are based on the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) races from Rogue Lineage.
 -   The Glowshroom & Metalshroom variants are slightly more rarer than the normal Mushroom variant.

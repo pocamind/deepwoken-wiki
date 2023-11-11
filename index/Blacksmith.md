@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 79470
+revid: 80993
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Armors]
@@ -30,6 +30,11 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
     -   Ores like iron and gold do not work.
     -   Erisore chests are the plain wooden chests, and they usually give blindfolds.
     -   If you turn in a pure ore 5 times, you get the excavator talent.
+
+### Craft event items with knowledge
+
+-   Craft items with knowledge along you have brought Hallowtide metal 22 and 23 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide
+    -   Craft armor and weapons and even enchants and mantras.
 
 ## Trivia
 

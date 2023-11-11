@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 80915
+revid: 80960
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Events]
@@ -46,17 +46,17 @@ The second Hallowtide added...
 
 (\*\*-unique crit available from the second week of the second Hallowtide.)
 
-\[./[Https://media.discordapp.net/attachments/1093629651840155761/1171234665982591077/1170853853898494053remix-1699235230895.png%3Fex%3D655bf048%26is%3D65497b48%26hm%3D0b61ee9c3ee7d4ed52f30414c45e048562a7aac216018473b2bcb17d85c0d7c7%26](Https://media.discordapp.net/attachments/1093629651840155761/1171234665982591077/1170853853898494053remix-1699235230895.png%3Fex%3D655bf048%26is%3D65497b48%26hm%3D0b61ee9c3ee7d4ed52f30414c45e048562a7aac216018473b2bcb17d85c0d7c7%26) hollowtide weapons exclusive\]
+\[./[Https://media.discordapp.net/attachments/1093629651840155761/1171234665982591077/1170853853898494053remix-1699235230895.png%3Fex%3D655bf048%26is%3D65497b48%26hm%3D0b61ee9c3ee7d4ed52f30414c45e048562a7aac216018473b2bcb17d85c0d7c7%26](Https://media.discordapp.net/attachments/1093629651840155761/1171234665982591077/1170853853898494053remix-1699235230895.png%3Fex%3D655bf048%26is%3D65497b48%26hm%3D0b61ee9c3ee7d4ed52f30414c45e048562a7aac216018473b2bcb17d85c0d7c7%26) Hallowtide weapons exclusive\]
 
 ## New Content
 
 ### The Floating Keep
 
-[The Floating Keep](The_Floating_Keep.md) was a floating island near the [Isle of Vigils](Isle_of_Vigils.md) and [Greathive Aratel](Greathive_Aratel.md) that can be accessed by talking to the Hallowtide Caller (a pumpkin) near the mantra shop at the Isle of Vigils or by the corner of the waterfall area at Greathive Aratel. The Floating Keep is also currently the "Battle Bus" of the battle royale mode.
+[The Floating Keep](The_Floating_Keep.md) is a floating island near the [Isle of Vigils](Isle_of_Vigils.md) and [Greathive Aratel](Greathive_Aratel.md) that can be accessed by talking to the Hallowtide Caller (a pumpkin) near the mantra shop at the Isle of Vigils or by the corner of the waterfall area at Greathive Aratel. The Floating Keep is also currently the "Battle Bus" of the battle royale mode.
 
 ### Joy
 
--   Joy had been obtained by putting on a Hallowtide Mask obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink, and scaring any Passive/Neutral NPC that has a dialogue option by pressing E, you also gain 15 joy for completing the trial of the gourdskipper.
+-   Joy can be obtained by putting on a Hallowtide Mask (obtained from turning in 1 Shell Stock, 1 Paperette, and 1 Fine Ink), and scaring any Passive/Neutral NPC that has a dialogue option by pressing E. You also gain 15 joy for completing the Trial of the Gourdskipper.
     -   Common NPCs (ex. Blacksmiths, Bankers, Antiquarians) that can be found in almost any town can only be scared once for each. (For example, scaring the blacksmith at Etris means you cannot scare any other blacksmiths until the scaring cooldown is over for that NPC.
     -   Experienced characters, such as [The Ferryman](The_Ferryman.md), [The Lord Regent](The_Lord_Regent.md), [Polis](Polis.md), Evengarde Rest, and many others have unique interactions when you attempt to scare them.
 
@@ -71,7 +71,7 @@ The second Hallowtide added...
 
 ### Race Variants
 
--   The Hallowtide update added a special new variant for each race in the game. To unlock the Hallowtide race variants, you will have to turn in 70 "Joy" to [Lysander Spellhardt](Lysander_Spellhardt.md) who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by wiping and choosing your Hallowtide Variant in the character customization screen.
+-   The Hallowtide update added a special new variant for each race in the game. To unlock the Hallowtide race variants, you will have to turn in 70 "Joy" to [Lysander Spellhardt](Lysander_Spellhardt.md) who can be found in the hallway directly in front of the entrance. Once you purchase this option, all of your slots will be able to change their race variant to the Hallowtide variant upon speaking to him, though you will need to get a Hallowtide Mask to speak to him. You can also switch variants by going to a [Barber](Barber.md) and asking them to change your variant, or by wiping and choosing your Hallowtide Variant in the character customization screen.
 
 ### Exclusive NPCs and Variants:
 

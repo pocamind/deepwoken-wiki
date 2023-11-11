@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 80878
+revid: 80998
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -130,6 +130,7 @@ categories: [Deepwoken]
 -   **Shard Bow** may be a possible reference to the [Grandbows](https://stormlightarchive.fandom.com/wiki/Grandbow) from _The Stormlight Archive._
     -   It's triple-shot variant is also a bit similar to [Huntress's](https://riskofrain2.fandom.com/wiki/Huntress) [Ballista](https://riskofrain2.fandom.com/wiki/Huntress#Ballista) from _Risk of Rain 2_, although this is a bit of a stretch.
 -   **Jar of Souls** is possibly a reference to _The Binding Of Isaac: Repentance_ item, [Urn of Souls](https://bindingofisaacrebirth.fandom.com/wiki/Urn_of_Souls).
+    -   It may also be a reference to an [item of the same name](https://riskofrain.fandom.com/wiki/Jar_of_Souls) from _Risk of Rain._
 
 ## Talents
 

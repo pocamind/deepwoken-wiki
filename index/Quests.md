@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 80311
+revid: 81001
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -322,7 +322,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Guide**: Save a hostage from Fort Merit and give them to the Etrean Guardmaster outside of the fort on a dinghy.
 
-**Reward/s**: Exclusive Hive Loot, EXP
+**Reward/s**: Exclusive Fort Merit Loot, EXP
 
 **Homeless Villagers:**
 

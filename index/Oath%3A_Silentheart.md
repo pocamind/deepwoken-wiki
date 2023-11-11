@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 80794
+revid: 80978
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -46,9 +46,9 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Upgrading
 
-This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding [Adar](Adar,_Master_of_Metal.md), Regek, and [Beatra](Beatra.md)).
+This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding Regek and [Beatra](Beatra.md)).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md) and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), Adar and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
 ## Abilities
 
@@ -57,11 +57,11 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
         -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
-    -   Parrying, landing Criticals, and flourishes now give you stacks of Dread. Each stack of Dread increases your Mantra resistance, however, upon being hit by a Mantra, you lose one stack of Dread.
+    -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 15%, and mantra resistance up to 25%, however, upon being hit by a Mantra, you lose one stack of Dread.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
         -   Stacks up to ? times and each stacks grant ?% mantra resist.
 -   **Lodestar - Passive**
-    -   Parrying a Mantra will temporarily silence the caster of that Mantra, disabling them from using Mantras for a short amount of time.
+    -   Landing criticals, flourishes, and uppercuts now silences your enemy for 5 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
@@ -78,6 +78,9 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
         -   Damage scales on your weapon; light weapons scale harder than heavy weapons, yielding more and less damage respectively.
         -   Does not target allies.
         -   12 seconds cooldown.
+-   **Vengeful Pursuit - Passive**
+    -   Your running attacks that miss send out a mid-range crescent projectile that slows on hit.
+        -   6 seconds cooldown.
 
 ## Notes
 
@@ -86,10 +89,11 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
     -   You're also still able to be given a whisper on level up.
     -   As usual, the Mantra from [Kelsius](Kelsius.md) cannot be exchanged for talents.
 -   The Ironsing trainer [Adar](Adar,_Master_of_Metal.md), and the Attunementless trainer Regek cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers.
+    -   As of 10/11/23, Adar the Ironsing trainer can now be killed for Oath progression.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.
--   Killing the five attunement trainers will give you bad rep for whichever faction that they are located in, except for Nostor and Amashi. (Ex. Killing Friid in the Isle of Vigils will grant you bad rep with Etrea.)
+-   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for Nostor and Amashi. (Ex. Killing Friid in the Isle of Vigils will grant you bad rep with Etrea.)
 
 ## Trivia
 
