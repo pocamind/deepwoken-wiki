@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 80108
+revid: 81030
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies]
@@ -64,6 +64,7 @@ A Legion Captain executes its opponent after knocking them:
 
 -   By completing the [Legion Kata](Legion_Kata.md) quest, the names of some of them are revealed:
     -   Captain Acheron
+    -   Captain Xavos
     -   Captain Zash
 -   The weapon they spawn with appears to affect their chance of winning:
     -   [Fists](Fists.md) (**Legion Kata**): Almost always results in victory.

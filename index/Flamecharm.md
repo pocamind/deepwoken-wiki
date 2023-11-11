@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 80778
+revid: 81029
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -301,6 +301,22 @@ _Strike the ground, turning it to ash._
 -   Deals moderate damage.
 -   Inflicts Burn.
 -   Similar to Fire Eruption, but with more mobility and less endlag
+
+ |
+| 
+
+File:FlameBallista-.gif
+
+ | Flame Ballista
+
+(★★★)
+
+ | _Conjure a flaming arrow and fire it at your target._ | user gathers fire in their hands and twists their arms in a circle, then fires a large x shaped projectile.
+
+-   has a unique effect where it ricochets when blocked.
+-   fires where cursor is aimed.
+-   inflicts burn.
+-   when procced while directed at an enemy, a white crosshair will appear on their head, which makes the arrow follow and track down the target, this means this mantra cannot be dodged.
 
  |
 
