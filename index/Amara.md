@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 77196
+revid: 81004
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
@@ -27,7 +27,7 @@ Amara and the 11th Legion seem to come all the way out west, as suggested by Gai
 
 According to Arch\_Mage, she's just a normal Centurion.
 
-When giving the recommendation to Amara, she mentions that you were recommended by Captain Acheron, not only meaning that the [Acheron's Warspear](<Acheron's_Warspear.md>) is owned by said Captain, who might've lost it to a corrupted King [Thresher](Thresher.md) during a fight or something of the sort, but that Acheron is still alive.
+When giving the recommendation to Amara, she might mention that you were recommended by Captain Acheron, not only meaning that the [Acheron's Warspear](<Acheron's_Warspear.md>) is owned by said Captain, who might've lost it to a corrupted King [Thresher](Thresher.md) during a fight or something of the sort, but that Acheron is still alive.
 
 ## Trivia
 

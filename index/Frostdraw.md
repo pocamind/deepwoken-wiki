@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 80898
+revid: 81005
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -424,13 +424,12 @@ Ice Skate
 
 _Skate freely on paths of ice._
 
- | While on or above water, create a frozen platform to slide on at a high velocity.
+ | Create a frozen platform to slide on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active.
--   Can be used on land since Frozone is base
-    -   This includes the [First Layer](First_Layer.md) and the [Second Layer](Second_Layer.md).
 
-  
+-   Gradually lose height similar to gliders while active.  
+    
 
  |
 

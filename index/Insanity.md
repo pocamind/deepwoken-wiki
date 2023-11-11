@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 75956
+revid: 81009
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -64,3 +64,4 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 
 -   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 436 sanity, which equals to just below 2 hours (118 minutes) in The Depths before tier 3 insanity.
 -   Each point of sanity equals to 30 extra seconds in the depths before reaching 100% insanity.
+-   If you fall below 50% sanity while having [Curse of the No Life King](Enchantments.md) equipped and you're losing sanity (For example being in the depths) you immediately pop.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 80978
+revid: 81012
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,7 +38,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 ## Effects
 
 -   +10% mantra resistance.
--   +10% weapon damage.
 -   **Entirely lose access to mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red veins coursing over your arms and torso.
@@ -59,7 +58,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   **Dread Fighter - Passive**
     -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 15%, and mantra resistance up to 25%, however, upon being hit by a Mantra, you lose one stack of Dread.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
-        -   Stacks up to ? times and each stacks grant ?% mantra resist.
+        -   Stacks up to 5 times and each stacks grant 5% mantra resist and 3% damage multiplier.
 -   **Lodestar - Passive**
     -   Landing criticals, flourishes, and uppercuts now silences your enemy for 5 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
@@ -89,7 +88,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
     -   You're also still able to be given a whisper on level up.
     -   As usual, the Mantra from [Kelsius](Kelsius.md) cannot be exchanged for talents.
 -   The Ironsing trainer [Adar](Adar,_Master_of_Metal.md), and the Attunementless trainer Regek cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers.
-    -   As of 10/11/23, Adar the Ironsing trainer can now be killed for Oath progression.
+    -   As of 11/10/23, Adar the Ironsing trainer can now be killed for Oath progression.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.

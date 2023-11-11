@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 80953
+revid: 81015
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -3666,7 +3666,6 @@ Found from:
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
--   [Miner's Landing](<Miner's_Landing.md>)
 -   [Hell Mode](Hell_Mode.md)
 
  | Default (Black), Red & White |

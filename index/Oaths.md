@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 79980
+revid: 81007
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -82,7 +82,7 @@ Proof of Time Magic's existance and it being an "Oath"
 ## Trivia
 
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
--   You cant shrine of order with an Oath, the only exception being Oathless.
+-   You can't Shrine of Order with an Oath, the only exception being Oathless.
 -   Currently, the only Oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 80970
+revid: 81011
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -261,6 +261,7 @@ There are two variants that enchantments come in:
   Permanently stained health bar while the weapon is equipped. (If you unequip the weapon, then your bar should become unstained)<br>
   2x blood damage taken in the overworld.<br>
   When unsheathed in The Depths, lose 100 sanity. You will immediately die upon using the curse in the Depths if you don't have the sanity to use it (Same thing applies to the illusionary realm).<br>
+  While equipped, if you drop below 50% sanity and continue to lose sanity you will immediately die.<br>
   <b>Disabled in Arena.</b><br>
   <b>Viscosity is disabled.</b><br>
   <b>Conditioned runner is disabled.</b><br>
@@ -280,9 +281,8 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>On proc, 5% of your max health adds to your damage.<br>
-  Rarely, proc its normal effect but lose 10% HP.<br>
-  Has a 10 second cooldown.</p></div></td>
+  <td><div><p>On proc, 5% of your max health is added to your damage.<br>
+  Rarely on proc, lose 10% hp and have 10% of your max health added to your damage.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
 </tr>
