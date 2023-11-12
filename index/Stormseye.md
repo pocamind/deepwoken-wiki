@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 81034
+revid: 81062
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -46,5 +46,10 @@ The user shoots a bullet before beginning to circle the opponent at highspeed, a
 -   This weapon procs all static and electrified talents as well as all [Thundercall](Thundercall.md) status effects, including Static Blade and Stratoshock buffs. It does a gargantuan amount of damage with all of them procced.
 -   Doing a max base damage of 36.1, and 1.5x stun with Authority Interrogator talents. This, along with Resolve Crusher makes for **DEADLY** damage.
 -   Landing an aerial attack with the rifle teleporting you behind the enemy is similar to the behavior of the Static Fakeout talent.
-    -   According to Arch\_Mage, mobs were not coded to use rifles, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.
+-   Originally, [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) did not use this weapon and instead used the [Hero Blade of Lightning](Hero_Blades.md).
+    -   According to Arch\_Mage, mobs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[1\]](#cite-note-1)
 -   The special aerial attack effect will also apply to your [Crazy Slots](Crazy_Slots.md) weapon.
+
+## References
+
+1.  [↑](#cite-ref-1)

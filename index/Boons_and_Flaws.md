@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 79711
+revid: 81057
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -31,7 +31,7 @@ Does not generate points over the total maximum, and instead, takes them away fr
 | Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
 | Scrapper | "You gain an extra ace every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to gain an extra ace. | 1 |
 | Packmule | "You have a much higher max. carry load." | Carry load is increased by 50, item stack limits are increased by 25% (rounded), and food max quantity is slightly increased. | 1 |
-| Sly | "You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes." | Reduces amount of negative rep gained.
+| Sly | "You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes." | Reduces amount of negative rep gained and makes it so Guards wont kill you when they get you downed. This only works if you are not an enemy.
 
 Unlocked from paying off your negative reputation with any faction.
 

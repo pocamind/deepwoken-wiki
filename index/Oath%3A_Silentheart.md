@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 81035
+revid: 81055
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,7 +47,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding Regek and [Beatra](Beatra.md)).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), Adar and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](https://deepwoken.fandom.com/wiki/Adar?so=search), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
 ## Abilities
 
@@ -87,8 +87,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   While all mantras are voided and the mantra tab becomes unavailable, the character will still have them within their character data. Consult the Shrine of Division to convert them into 2 random talents.
     -   You're also still able to be given a whisper on level up.
     -   As usual, the Mantra from [Kelsius](Kelsius.md) cannot be exchanged for talents.
--   The Ironsing trainer [Adar](Adar,_Master_of_Metal.md), and the Attunementless trainer Regek cannot be killed for progression despite Ironsing and Attunementless Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers.
-    -   As of 11/10/23, Adar the Ironsing trainer can now be killed for Oath progression due to Vengeful Pursuit being added.
+-   The Attunement-less trainer Regek cannot be killed for progression despite Attunement-less Mantras also using the song. This may be due to the fact they do not "abuse" the song like the other attunement trainers.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.

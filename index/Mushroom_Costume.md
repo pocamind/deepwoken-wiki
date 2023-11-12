@@ -1,9 +1,9 @@
 ---
 title: Mushroom Costume
-revid: 81000
+revid: 81069
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Pages with broken file links, Equipment, Head, Helmets]
 ---
 
 # Mushroom Costume
@@ -47,3 +47,8 @@ Here are estimated chances for each shroom variant, after finding 100 shroom cos
 -   This item is undroppable.
 -   You cannot turn it's vanity off at a campfire.
 -   Zapshroom seems to be the rarest variant, with the Charmshroom being the 2nd rarest.
+-   File:Baldkhan.png
+    
+    A khan self, Bald due to the costume
+    
+    In the Fragments of Self, The costumes are often very buggy, missing the lower mesh, wrong skin tone on the hands, etc

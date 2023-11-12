@@ -1,6 +1,6 @@
 ---
 title: Fleet Warden Cape
-revid: 77249
+revid: 81052
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Capes, Torso]
@@ -21,7 +21,7 @@ categories: [Equipment, Capes, Torso]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Summer Isle |
+| obtainment | Summer Isle Fishing |
 | description | "..." |
 
 ## Description
