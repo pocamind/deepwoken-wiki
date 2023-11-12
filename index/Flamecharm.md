@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 81097
+revid: 81121
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -295,7 +295,7 @@ Ash Slam
 
 _Strike the ground, turning it to ash._
 
- | User imbues their fist with flames that explode on impact with the ground. strikes twice in front of the user and creates an bursting explosion each time.
+ | User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates an bursting explosion each time.
 
 -   Requires at least 30 Strength and 50 Flamecharm.
 -   Deals moderate damage.
@@ -305,18 +305,16 @@ _Strike the ground, turning it to ash._
  |
 | 
 
-File:FlameBallista-.gif
-
  | Flame Ballista
 
 (★★★)
 
- | _Conjure a flaming arrow and fire it at your target._ | user gathers fire in their hands and twists their arms in a circle, then fires a large x shaped projectile.
+ | _Conjure a flaming arrow and fire it at your target._ | User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
--   has a unique effect where it ricochets when blocked.
--   fires where cursor is aimed.
--   inflicts burn.
--   when procced while directed at an enemy, a white crosshair will appear on their head, which makes the arrow follow and track down the target, this means this mantra cannot be dodged.
+-   Has a unique effect where it ricochets when blocked.
+-   Fires where cursor is aimed.
+-   Inflicts burn.
+-   Homes onto enemies.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 74113
+revid: 81114
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Core-Attribute based weapons", Daggers]
@@ -30,6 +30,10 @@ categories: [Weapons, "Core-Attribute based weapons", Daggers]
 ## Description
 
 The Moon Blades are a weapon skin for the [Flareblood Kamas](Flareblood_Kamas.md) that was given to Team Supekis (ValekisYT & s\_supaa), the first place winners of the second Deepwoken YouTuber Tournament.
+
+## Critical
+
+The critical unleashes an explosion of purple energy around the cursor, launching the target into the air and ragdolling them for a short duration.
 
 ## Trivia
 

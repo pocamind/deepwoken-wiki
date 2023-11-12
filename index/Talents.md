@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 80963
+revid: 81120
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -454,7 +454,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 25 Charisma, Charismatic Cast
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Prerequisites: All Charm Caster talents & mantras
+    -   Prerequisites: All Charm Caster talents & mantras and 1 charisma
+    -   Mutual Exclusives: Bulldozer
+    -   Notes: you can get all the charm caster talents except this one and then do shrine since this only has 1 charisma requirement
 
 ### Cloudwalker
 
