@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 80792
+revid: 81089
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -194,7 +194,7 @@ _"No money, friend? How ever will I feed myself?_
 
 ### [Ironsing](Ironsing.md)
 
--   _I seek the qualities of Metallurgist. **(Metallurgist)**_
+-   _Metal itself is my shield, whichever form it may take. **(Metallurgist)**_
 -   _I seek the qualities of Scrapsinger. **(Scrapsinger)**_
 -   _I seek the qualities of Adaptive Arsenal. **(Adaptive Arsenal) (Note; Cannot give An Ironsinger's Instinct, Phantom Edge)**_
 

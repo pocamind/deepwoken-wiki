@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 81067
+revid: 81071
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -49,6 +49,7 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 -   [Wishbound](Developer_Specs.md) Flaw during nighttime.
 -   Heretic's Sutra
 -   Using Blindseer Mantras
+-   Being hit by a player with Insanity thats using Shared Misery
 
 ## Sanity Restoring Effects
 
