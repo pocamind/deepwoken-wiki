@@ -1,6 +1,6 @@
 ---
 title: "Erisor's Church"
-revid: 61687
+revid: 81100
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Lower Erisia]
@@ -14,13 +14,13 @@ Why does this name speak to me and why do I know it so well?
 
   
 
-**Erisor's Church** is a location in _Deepwoken_. It is a landmark found in [Lower Erisia](Lower_Erisia.md).
+**Erisor's Church** is a location in _Deepwoken_. It is a landmark found in [Lower Erisia](Lower_Erisia.md), perpendicular to the entrance of Towerstruck Lands.
 
 ## Overview
 
 Erisor's Church
 
-Erisor's Church is a small, abandoned church. On the right watchtower, there is a small chest with typical [Erisia loot](Erisia.md) inside and Erisae, a bandit that allows you to spend on an equipment gacha. Inside the church, there is a small, ruined platform with rows of seats on both sides like a standard church. Below the platform, there is a permanent campfire in the middle, with the three [forgotten villagers](Forgotten_Villager.md) sitting around it. Talking with the one on the left and waiting for ~3 seconds will start the event.
+Erisor's Church is a small, abandoned church. On the right watchtower, there is a small chest with typical [Erisia loot](Erisia.md) inside and Erisae, a passive bandit that allows you to spend on an equipment gacha. Inside the church, there is a small, ruined platform with rows of seats on both sides like a standard church. Below the platform, there is a permanent campfire in the middle, with the three [forgotten villagers](Forgotten_Villager.md) sitting around it. Talking with the one on the left and waiting for ~3 seconds will activate the event.
 
 It can be found by the entrance to the [Towerstruck Lands](Towerstruck_Lands.md).
 

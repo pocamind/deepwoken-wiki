@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 81033
+revid: 81097
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -964,7 +964,7 @@ N/A
  | 
 
 Pleeksty's Faith  
-(FLAME 1, WILL 15, CHARISMA 15)
+(FLAME 25, WILL 15, CHARISMA 15)
 
  | 
 

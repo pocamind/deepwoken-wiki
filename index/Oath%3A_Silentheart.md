@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 81055
+revid: 81096
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,9 +31,9 @@ Meet the following requirements in any order:
 
 Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
-_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._
+(If for some unknown reason [The Dreadstar](The_Dreadstar.md) didn't appear at boat, do a ghost event and come back to place where [The Dreadstar](The_Dreadstar.md) should be)
 
-(You must to talk to the guy at the Isle of Vigils library that talks about seeing ghosts on a ship to spawn the Beloved Zofia, if it hasn't been spawned already. Also doubles as a Curiosity talent quest.)
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._
 
 ## Effects
 
@@ -60,7 +60,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
         -   Stacks up to 5 times and each stacks grant 5% mantra resist and 3% damage multiplier.
 -   **Lodestar - Passive**
-    -   Landing criticals, flourishes, and uppercuts now silences your enemy for 5 seconds, disabling their ability to cast mantras.
+    -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
