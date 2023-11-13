@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 69303
+revid: 81265
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -60,3 +60,4 @@ Serena executes her opponent after knocking them:
 -   One of [two enemies](Authority_Captain.md) that utilizes the unobtainable "Glacial Shower" mantra.
 -   One of [four](Eastern_Nomad_Leader.md) [enem](Songseeker_Frostdrawer.md)[ies](Teacher.md) that utilizes the old "Ice Eruption" mantra.
 -   She is basically an [Authority Captain](Authority_Captain.md), but has half of their HP.
+-   Her Shotel animation is glitched as she does pull it out but it not in her hand.

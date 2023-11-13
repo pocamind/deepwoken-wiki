@@ -1,6 +1,6 @@
 ---
 title: Hearthgem
-revid: 32396
+revid: 81199
 source: https://deepwoken.fandom.com/wiki/Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Training Items](Training_Items%253Fredirect=no.md)
+-   [Training Items#Attunement Training](Training_Items%253Fredirect=no.md#attunement-training)

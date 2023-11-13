@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 81148
+revid: 81208
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -27,11 +27,11 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Worshipper Longsword is a midgame [sword](https://deepwoken.fandom.com/wiki/Weapons#Swords) obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widows](Deep_Widow.md). The [weapon](Weapons.md) has a base damage of 19, and a scaling of 4.
+The Worshipper Longsword is a midgame weapon obtainable from [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [Deep Widows](Deep_Widow.md). it has a base damage of 19, and a scaling of 4.
 
   
 
 ## Notes & Trivia
 
--   Not too viable in comparison to other midgame [Medium Weapons](https://deepwoken.fandom.com/wiki/Weapons#Medium_Weapons).
+-   Not too viable in comparison to other midgame Medium Weapons.
 -   Outclassed by the [Mace](Mace.md) and [Katana](Katana.md).

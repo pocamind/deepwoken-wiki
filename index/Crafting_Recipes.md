@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 80517
+revid: 81232
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -73,7 +73,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[C\] [Sushi](Food.md)** - _1 Fish Meat, 1 Seaweed Bundle_
 -   **\[G\] [Grilled Cheese](Food.md)** _\- 1 Cheese, 1 Bread_
 -   **\[C\] [Crab Pizza](Food.md)** - _1 Crustacean Meat, 1 Bread, 1 Cheese_
--   **\[C\] [Krysdog](Food.md)** - _1 Bread, 1 Frozen Membrane, 1 Ongo_
+-   **\[C\] [Kyrsdog](Food.md)** - _1 Bread, 1 Frozen Membrane, 1 Ongo_
 
 ### _Campfire Recipes_
 

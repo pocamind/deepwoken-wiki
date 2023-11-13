@@ -1,6 +1,6 @@
 ---
 title: Terrapod Shell
-revid: 80109
+revid: 81228
 source: https://deepwoken.fandom.com/wiki/Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monster Mantra Ingredients]
@@ -19,7 +19,7 @@ categories: [Monster Mantra Ingredients]
 
 ## Description
 
-Terrapod Shells are spiky shards dropped by [Terrapod](Terrapod.md)'s, with an approximate 5% (1 in 20) drop rate.
+Terrapod Shells are spiky shards dropped by a [Terrapod](Terrapod.md), with an approximate 5% (1 in 20) drop rate.
 
 It is used for getting "Whirling Blade" [Monster Mantra](Monster_Mantras.md) by talking to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) at [Castle Light](Castle_Light.md) after first meeting him in [Layer 2](Second_Layer.md)'s second floor, [New Kyrsa](Second_Layer/New_Kyrsa.md).
 

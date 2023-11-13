@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 80563
+revid: 81221
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]

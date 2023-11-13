@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 71312
+revid: 81275
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -24,7 +24,7 @@ Stranded has infinite durability (though is sometimes permanently empty) and gra
 
 ## Location
 
-This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the Castaway origin.
+This Outfit cannot be purchased by a Blacksmith, and is only equipped when the player spawns with the Castaway or Lone Warrior origin.
 
 ## Trivia/Notes
 

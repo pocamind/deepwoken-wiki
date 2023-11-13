@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 80261
+revid: 81225
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,7 +15,7 @@ categories: [NPCs]
 
 ## Description
 
-Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_Floating_Keep.md). If you have the necessary materials, he will craft a Hallowtide Mask for you so that you can collect [Joy](Joy.md) from scaring players. Once you have enough Joy, you can exchange it with him for rewards. Fine ink, Shell stock and Paperette can be found in any chest across the luminants. Locations like [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md), and [Miner's Landing](<Miner's_Landing.md>) are the best places to go for these materials since they spawn the most chests.
+Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_Floating_Keep.md). If you have the necessary materials, he will craft a [Hallowtide Mask](Hallowtide_Mask.md) for you so that you can collect [Joy](Joy.md) from scaring players. Once you have enough Joy, you can exchange it with him for rewards. Fine ink, Shell stock and Paperette can be found in any chest across the luminants. Locations like [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md), and [Miner's Landing](<Miner's_Landing.md>) are the best places to go for these materials since they spawn the most chests.
 
 ## Dialogue
 

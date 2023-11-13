@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 78877
+revid: 81210
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -103,7 +103,7 @@ The doors to enter the Lordsgrove.
 #### Observatory
 
 -   Players can find the Celestial Telescope here.
--   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD), and a [Ferrofluid](https://deepwoken.fandom.com/wiki/Training_Items) (MTL) here for.
+-   Players can buy a [Hearthgem](Training_Gear.md#attunement-training-gears) (FLM), [Hemafrost](Training_Gear.md#attunement-training-gears) (ICE), [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) (THD), [Gale Kata](Training_Gear.md#attunement-training-gears) (WND), [Pure Heart](Training_Gear.md#attunement-training-gears) (SHD), and a [Ferrofluid](Training_Gear.md#attunement-training-gears) (MTL) here for.
 
 ## Observatory
 
@@ -132,8 +132,8 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
 
 ## Trivia
 
--   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
--   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The music for this area is [Of Chitin, Kith And Kin](Deepwoken_OST.md) by Naktigonis
+-   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md) by Naktigonis
 -   According to Naktigonis, Greathive Aratel is one of _several_ Greathives in the world, meaning there may be more Greathives when new luminants are added. Lorewise, Regek tells us that this is one of four greathives.(Physical mantra trainer)
 -   Suri's Quest is most likely inspired by Hollow Knight, which also has a mission to deliver a delicate flower that will be destroyed upon taking damage, to a grave. This theory is also supported by many similarities between [Vesperians](Vesperian.md) and bugs in Hollow Knight.
 -   Everyone inside Greathive Aratel is a Hivekin (Vesperian, Ganymede, or Chrysid).

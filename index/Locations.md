@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 76288
+revid: 81231
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -186,19 +186,19 @@ Please add miscellaneous islands or named landmarks here
 **1v1:**
 
 -   [Echoes of Bloodshed](Echoes_of_Bloodshed.md)
--   [The Profane Cavern](The_Profane_Cavern.md)
+-   The Profane Cavern
 -   [New Kyrsan Arterial Rail](New_Kyrsan_Arterial_Rail.md)
     
 
 **2v2/3v3:**
 
 -   Forest Arena
--   [The Falcon's Hold](<The_Falcon's_Hold.md>)
--   [The Unearthed Colosseum](The_Unearthed_Colosseum.md)
+-   The Falcon's Hold
+-   The Unearthed Colosseum
     
 
 ## Trivia/Notes
 
 -   Do note that most of these locations are only in the Eastern Luminant (not to be confused with the East Luminant).
 -   The Crypt of the Unbroken was leaked by an exploiter on the discord who accessed an indev place.
--   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](https://deepwoken.fandom.com/wiki/Books#Stars_Above,_and_the_Blade_between),
+-   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](Books.md#stars-above-and-the-blade-between)

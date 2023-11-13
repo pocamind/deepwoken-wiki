@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 78523
+revid: 81244
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]

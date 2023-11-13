@@ -1,11 +1,11 @@
 ---
-title: Hemafrost
-revid: 81200
-source: https://deepwoken.fandom.com/wiki/Hemafrost
+title: Ferrofluid
+revid: 81198
+source: https://deepwoken.fandom.com/wiki/Ferrofluid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Hemafrost
+# Ferrofluid
 
 Redirect to:
 

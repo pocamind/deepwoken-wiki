@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 79264
+revid: 81267
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -34,17 +34,17 @@ To obtain the [Ironsing](Ironsing.md) Attunement, you need to unlock it with a s
 
 ### Starting Attunements
 
-Template:Testing Template:TestingTemplate:Testing Template:Testing Template:Testing Template:Testingㅤ
+Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing Template:Testingㅤ
 
 ### Unlockable Attunements
 
-Template:TestingTemplate:Testingㅤ
+Template:Testing Template:Testingㅤ
 
 _\[More information about [attunements](Attunements.md) can be found on their corresponding [page](Attunements.md).\]_
 
 ## Weapon Classes
 
-When customizing your character, there is a total of three [Weapon Classes](Weapons.md) you can choose from: [Heavy Weapons](Weapons.md#heavy-weapons), _([Battleaxe](Battleaxe.md), [Avenger](Avenger.md))_ [Medium](Weapons.md#medium-weapons), _([Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md))_ and [Light](Weapons.md#light-weapons), _([Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md) + [Way of Navae](https://deepwoken.fandom.com/wiki/Fists?so=search#Way_of_Navae) if formerly unlocked)_.
+When customizing your character, there is a total of three [Weapon Classes](Weapons.md) you can choose from: [Heavy Weapons](Weapons.md#heavy-weapons), _([Battleaxe](Battleaxe.md), [Avenger](Avenger.md))_ [Medium](Weapons.md#medium-weapons), _([Sword](<Sword_(weapon).md>), [Irontusk](Irontusk.md))_ and [Light](Weapons.md#light-weapons), _([Stiletto](Stiletto.md), [Quickfang](Quickfang.md), [Silversix](Silversix.md), [Way of Navae](Way_of_Navae.md), [Legion Kata](Legion_Kata.md), and [Jus Karita](Jus_Karita.md) if formerly unlocked)_.
 
 _([Weapon Manuals](Training_Gear.md#lightmediumheavy-weapons) do not teach you a new Weapon Classes, but they allow you to train the type of style of the Weapon you are currently using. To change your Weapon Class, you need to equip the specific Weapon corresponding to your desired style)_
 
@@ -56,7 +56,7 @@ Template:Testing Template:Testing Template:Testing
 
 _\[More information about [weapons and combat styles](Weapons.md) can be found on their corresponding [page](Weapons.md).\]_
 
-Template:Testing Template:Testing Template:Testing Template:TestingTemplate:Testing Template:Testing
+Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing Template:Testing
 
 -   _As of the update on 3/12/22, learning the [Way of Navae](Way_of_Navae.md) on a character will unlock that combat style as an option on that slot for the next characters._
 -   _As of the release of Verse 2, you could use 25 [Echoes](Echoes.md)_ _(each)_ _to unlock the four new starting weapons shown above._
@@ -71,7 +71,7 @@ You are required to have at least one Boon and one Flaw to create your character
 
 There are four total [Origins](Origins.md) you can decide between. **These can be very important.**
 
-### [Castaway](https://deepwoken.fandom.com/wiki/Origins#Castaway)
+### [Castaway](Origins.md#castaway)
 
 Castaway is an Origin granted by joining Deepwoken for the first time, and gives a blank slate for starting your character; no pros or cons.
 
@@ -81,9 +81,9 @@ Etris is a large set of islands and land formations and is very simply layout. T
 
 Here is what makes Etris unique:
 
--   At the central tree island, there is a [Vesperian](Vesperian.md) [Justicar](Polis.md) cleaning his [Greatsword](https://deepwoken.fandom.com/wiki/Darksteel_Greatsword) with a rag, who gives you a [Gold Ring](https://deepwoken.fandom.com/wiki/Armors?so=search#Rings) for talking to him. Most players sell this, meaning you can start with a few extra Notes.
+-   At the central tree island, there is a [Vesperian](Vesperian.md) [Justicar](Polis.md) cleaning his [Darksteel Greatsword](Darksteel_Greatsword.md) with a rag, who gives you a [Gold Ring](Equipment.md#rings) for talking to him. Most players sell this, meaning you can start with a few extra Notes.
 -   The NPC who greets you grants, unlike the NPC in Vigils who only gives.
--   You can do the [Lord Regent Quest](<https://deepwoken.fandom.com/wiki/Etris_(Starting_Island)#Lord_Regent_Quest>) in order to get the [Manor Key](<Duke_Erisia's_Manor.md>) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
+-   You can do the [The Lord Regent's Quest](Etris.md#the-lord-regents-quest) in order to get the [Manor Key](Manor_Key.md) at an early level here if you repeatedly buy wood at the General Store/Blacksmith, and sell it to the wood quest NPC.
 -   You can talk to an NPC outside of the Blacksmith, who if you don't rat out will reward you with a 50% discount at the [Etris](Etris.md) blacksmith.
 -   The NPC at the Docks teaches you the Repair Kit recipe, unlike the Vigils variant.
 -   [Calabash](Calabash.md).

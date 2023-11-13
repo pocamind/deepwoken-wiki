@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 79914
+revid: 81230
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -46,7 +46,7 @@ The Isle of Vigils is a collection of small islands that hold the [Temple Approa
 -   Players can find the [Barber](Barber.md), who can change your looks.
 -   Players can also purchase two schematics here:
     -   [Wandering Swordsman](Vigil_Initiate.md) for.
-    -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for 40.
+    -   [Cutthroat Light Armor](Cutthroat_Light_Armor.md) for.
 
 -   Near the Mantra Shop, there is a destructible wall.
 

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 77090
+revid: 81207
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -42,7 +42,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Catching [Golden Fish](Fishing.md), awarding 1 Knowledge per catch, maximum being 5 catches.
 -   Killing [Primadon](Primadon,_Titan_of_the_East.md) for the first time, awarding 2 Knowledge.
     -   Killing [Primadon](Primadon,_Titan_of_the_East.md) while having dealt at least 8000 damage (20% of his HP). This rewards 1 Knowledge and can be repeated.
--   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge.
+-   Killing [The Ferryman](The_Ferryman.md) for the first time, awarding 2 Knowledge after taking the exit portal.
     -   Talking to [The Ferryman](The_Ferryman.md) in Spring after killing him. This rewards 1 Knowledge and can be repeated.
 -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) for the first time, awarding 2 Knowledge.
     -   Killing [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) while having dealt at least 35% of his HP. This rewards 1 Knowledge and can be repeated.

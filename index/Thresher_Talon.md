@@ -1,6 +1,6 @@
 ---
 title: Thresher Talon
-revid: 73019
+revid: 81226
 source: https://deepwoken.fandom.com/wiki/Thresher_Talon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monster Mantra Ingredients]
@@ -11,7 +11,7 @@ categories: [Monster Mantra Ingredients]
 | Thresher Talon | |
 |---|---|
 | value | 75 |
-| weight | Placeholder |
+| weight | None |
 | type | Monster Material |
 | bankable | Yes |
 | droppable | Yes |

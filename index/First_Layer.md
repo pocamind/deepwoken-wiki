@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 81036
+revid: 81250
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -31,7 +31,7 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 
 Detailed map of the entire Depths First Layer
 
-There are two methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. The other method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, and select this wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." Using this method can get you out of the Depths without having to go through the trial.
+There are three methods to escape the Depths. One way to escape is to access the tower, which houses the Trial, in the center of the city. There are two methods used to reach The Trial within the central bastion of the city, one of which you must use in order to escape Scyphozia: you can either ring the bells to open the bastion gate or climb the wall to drop down into the bastion from above. Another method to escape, which is not available to to people without a bell, is to go and talk to Yun'Shul, then select the wish, "The trials ahead of me fill me with trepidation, I wish to escape this place." The use of this method can get you out of the Depths without having to go through the trial. An additional method exists if the player chooses to communicate to Yun'Shul through the use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic and selecting the choice "Release me from the depths". The player will be subsequently released from the depths without having to complete the trial. Using this method to escape does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Be informed that this method can **NOT** be used in combat as the idol would respond "The Idol won't respond to a panicked heart".
 
 Note: The Map shows the diver camp being in the South, however, it was recently moved to the North.
 

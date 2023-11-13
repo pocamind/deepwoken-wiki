@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 81184
+revid: 81235
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -622,8 +622,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   Though the denizens of the City are aware of the Trial, many feel they are too weak to attempt it.
     -   Ironically, if the Voices of the Deep deem you too weak, they would let you go free.
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
--   Contrary to popular belief, it was not sunk due to the people's greed or a lust for power, it was just unlucky.
-    -   The City of Celtor was just one of the many victims of the Tides.[\[2\]](#cite-note-arch-2)
+    -   While many places throughout the world have sunk into The Depths, the city of Celtor is one of the largest and most notable.[\[2\]](#cite-note-arch-2)
     -   The Ministry were responsible for this drowning, and used the city as an offering to Yun'Shul.
 -   The Depths became the place souls went to after death after the Great Drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
@@ -703,7 +702,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
 -   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, The Knives of Eylis, The Central Authority, The Kingdom of Etrea_
--   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
+-   **Lore Sources:** _Gremorian Longspear Description, Arch Mage (Discord)_
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
     -   Navae is personified female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.[\[2\]](#cite-note-arch-2)
         -   In the Etrean Luminant (East), The Compass points to Navae; to the West. While in The Depths however, the Compass points to the Surface.

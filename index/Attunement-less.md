@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 81017
+revid: 81268
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -464,6 +464,17 @@ File:Attunement-less icon.png
 -   If in range, locks on to the closest target/player/humanoid enemy
 -   Dash forward and do a large AOE slice with your sword.
 -   Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.
+
+ |
+| 
+
+File:Attunement-less icon.png
+
+ | Flahsdraw Strike  
+(☆☆☆) | _Switftly unsheathe your blade and deliver an upwards strike._ | ? Ether | 
+
+-   **Requirements:** _**60 Medium Weapon, 25 Agility**_ _Combat Mantra_
+-   Send the caster up into the air on hit into an uppercut like state
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 80972
+revid: 81274
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -49,6 +49,8 @@ You can donate notes to other guilds by talking to their treasurer.
 
 ## Rooms
 
+\- Image of the Arena Extension -
+
 A guild base can be increased in size through different rooms. Some provide practical uses, while others purely cosmetic.
 
 -   **Mess Hall** ( ) \[XL\] - Requires 2 Slots worth of Rooms; a large cafeteria with 2 long tables. This is a cosmetic room that does not serve food.
@@ -71,6 +73,8 @@ A guild base can be increased in size through different rooms. Some provide prac
 -   **Library** ( ) \[XL\] - A room that features many bookshelves.
     -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored, and shows the name and surname of each book's first donator.
         -   There is a cooldown on turning in books which lasts for around 1 minute and 15 seconds.
+
+-   **Arena Extension** ( ) \[XXL\] - A Giant room consisting of 4 Campfires, one in each corner, as well as a giant fighting pit as the center piece.
 
 Library's Donated Books
 
