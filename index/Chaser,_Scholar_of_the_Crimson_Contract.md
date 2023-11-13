@@ -1,9 +1,9 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 80470
+revid: 81281
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
+categories: [Pages with broken file links, Enemies, NPCs, Bosses, Layer 2, Floor 1]
 ---
 
 # Chaser, Scholar of the Crimson Contract
@@ -12,7 +12,7 @@ categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
 
 ― Chaser
 
-Template:EnemyInfobox1.0
+File:Chaser scholar of burning blood.png
 
 ## Description
 

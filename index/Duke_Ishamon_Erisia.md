@@ -1,9 +1,9 @@
 ---
 title: Duke Ishamon Erisia
-revid: 80511
+revid: 81285
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses]
+categories: [Pages with broken file links, Enemies, NPCs, Bosses]
 ---
 
 # Duke Ishamon Erisia
@@ -12,7 +12,9 @@ categories: [Enemies, NPCs, Bosses]
 
 ― Duke Erisia
 
-_Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
+_Also known as the Stonelife Lord and Lord Erisia._
+
+File:The duke .png
 
 ## Description
 
