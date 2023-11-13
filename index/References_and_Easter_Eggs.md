@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 80998
+revid: 81129
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -141,6 +141,7 @@ categories: [Deepwoken]
     -   The name is maybe a reference to a race of the same name from the anime _One Piece_, who, as the name suggests, are a race of fish people.
     -   The description is a reference to the [famous quote](https://www.youtube.com/watch?v=bjQRTFX1Lp4) made by [Qui Gon Jinn](https://starwars.fandom.com/wiki/Qui-Gon_Jinn) in _Star Wars: A Phantom Menace_.
 -   The **One Eyed King** is possibly a reference to [The One Eyed King](https://tokyoghoul.fandom.com/wiki/One-Eyed_King?so=search) in _Tokyo Ghoul._
+    -   One Eyed King is the category name for the talent "Strength Unbound", possibly referencing the one-eyed swordsman [Guts](https://berserk.fandom.com/wiki/Guts) due to his profound strength.
 -   The **Vow of Mastery** line of Talents is a possible reference to [Lelouch vi Britannia's](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) ability from _Code Geass._
     -   The **Command: Live** also reinforces this fact, as during one of the episodes [Lelouch](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia) tries [commanding someone to live.](https://www.youtube.com/watch?v=qvbHFXm5XbA)
 -   **Murmur: Ardour** could be a reference to Haoshoku (Conqueror's) haki from _One Piece._

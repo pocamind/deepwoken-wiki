@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 75325
+revid: 81149
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

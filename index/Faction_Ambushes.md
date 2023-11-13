@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 81078
+revid: 81134
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -28,7 +28,7 @@ The enemies sent differ depending on the faction sending them. Below is a list o
  |
 | [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md) | "Target sighted. Commencing operation." |
 | [Authority](The_Central_Authority.md) | 1 [Authority Commander](<Authority_Commander_(Enemy).md>) | "Commencing mission." |
-| [Ignition Union](The_Ignition_Union.md) | 1 [Mechaloduant](Megalodaunt.md#mechalodaunt) | None |
+| [Ignition Union](The_Ignition_Union.md) | 1 [Mechaloduant](Megalodaunt.md#mechalodaunt) | "GROARRRRRR!" |
 | [Ignition Union](The_Ignition_Union.md) | 3 Arcwarders | "There's the scab, lads!" |
 | [Hundred Legions](The_Hundred_Legions.md) | 3 [Legion Captains](Legion_Captain.md) | "You won't stand long before our might!"
 

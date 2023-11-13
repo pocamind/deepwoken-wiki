@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 71956
+revid: 81175
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]

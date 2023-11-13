@@ -1,6 +1,6 @@
 ---
 title: Tutorial
-revid: 63958
+revid: 81127
 source: https://deepwoken.fandom.com/wiki/Tutorial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guides]
@@ -23,11 +23,12 @@ The player will wake up at the lower front of a departing pirate [ship](Ships_&_
 
 Coming out of the cannon bay, Orlandeau will inform the player of the [Luminant's](Luminants.md) currency, [Notes](Notes.md). He further demonstrates currency by giving the player his Emerald and telling them to sell it at an [Antiquarian](Antiquarian.md), soon buying a [Dumbbell](Training_Gear.md) to simulate purchasing items and training with said Dumbbell, levelling up their [Strength](Attributes.md) by one. The captain informs the player about [Power](Power.md) and its advantages before going up to the upper deck. If the player is [Attunementless](Attunement-less.md) and the first/second strongest [Attribute](Attributes.md) is Strength, it will give you your third strongest attribute Training Item OR a random Training Item upon spawn.
 
-The captain sends the player off to talk to the fellow crewmembers. Speaking to all of the crewmembers and returning to the captain will teach you about [Talents](Talents.md) and [Mantras](Mantras.md), being given a Mantra of the player's respective [attunement](Attunements.md). Shortly after, the chanting of the Gideshu March can be heard, and what the captain assumes to be [the Authority](The_Central_Authority.md) explodes the upper deck with cannons, downing the player with their vision fading black. The backstory concludes with the player presumably washing up ashore, being rescued by either of the starter NPCs.
+The captain sends the player off to talk to the fellow crewmembers. Speaking to all of the crewmembers and returning to the captain will teach you about [Talents](Talents.md) and [Mantras](Mantras.md), being given a Mantra of the player's respective [attunement](Attunements.md) or [attribute](Attributes.md). Shortly after, the chanting of the Gideshu March can be heard, and what the captain assumes to be [the Authority](The_Central_Authority.md) explodes the upper deck with cannons, downing the player with their vision fading black. The backstory concludes with the player presumably washing up ashore, being rescued by either of the starter NPCs.
 
 Talking to Kelsius inside of the [Temple of the Blade's](Temple_of_the_Blade.md) library will give you unique dialogue and instantly complete his quest, but you will not recieve a free mantra hand due to already getting one during the tutorial.
 
 ## Trivia
 
 -   Orlandeau's Emerald is worth 30 Notes.
--   By leaving during the tutorial you can redo it, wich has a number of effects in it. The most notable one is Orlandeau's Emerald being renamed to "Orlandeau's Pity Emerald", it's description going from "The non-chaotic variety" to "Smart one, huh?" and being worth only 1 Notes, to avoid the player using this as an infinite money glitch (found randomly through experimenting)
+-   By leaving during the tutorial you can redo it, which has a number of effects in it. The most notable one is Orlandeau's Emerald being renamed to "Orlandeau's Pity Emerald", it's description going from "The non-chaotic variety" to "Smart one, huh?" and being worth only 1 Notes, to avoid the player using this as an infinite money glitch (found randomly through experimenting). You will only be given "Orlandeau's Pity Emerald" once.
+-   You cannot sell the Dumbbell to the antiquarian as it would be a net profit of 2 notes.

@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 79756
+revid: 81156
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

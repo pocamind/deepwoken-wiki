@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 77146
+revid: 81141
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]

@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 58825
+revid: 81148
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]

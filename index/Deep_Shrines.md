@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 81042
+revid: 81183
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -155,7 +155,10 @@ Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's Landing](<Miner's_L
 ## Pros/Cons
 
 -   Lets you take a card if you accidentally burnt it.
-    
+
+  
+
+Shrine of Conceit is located up the cliff on the left
 
 **Shrine of Division:**
 
@@ -163,7 +166,7 @@ Shrine Of Division
 
 “ VERY WELL. WHICH WORDS WILL BE FORGOTTEN? ”
 
-― Shrine Of Divison
+― Shrine Of Division
 
   
 Located in [The Lordsgrove](The_Lordsgrove.md) in the absurd large tunnel system with Astruline, down the hole near the Lordsgrove entrance.
