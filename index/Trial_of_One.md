@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 77297
+revid: 81331
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -99,6 +99,5 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   After testing, beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha sharko, you simply get sent back.
 -   Deepbound freshies that somehow make it out of the depths at level one are not able to enter Trial of One
 -   If you're Attunement-less, the campfire goes down and lets you place the 10 points before starting the trial.
--   The orbs in the last trial deal 0 posture damage and stop after about four minutes. (This might've been patched)
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.

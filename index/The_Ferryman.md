@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 81286
+revid: 81327
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -15,7 +15,7 @@ The flames have called the Ferryman! ”
 
 ― [Naktigonis](https://www.youtube.com/watch?v=pFGSUuOLWQI)
 
-File:Ferryman.png
+Template:Creature Infobox V3
 
 ## Description
 

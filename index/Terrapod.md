@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 80368
+revid: 81335
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,12 @@ categories: [Monsters]
 
 # Terrapod
 
-**Also known as Headcrabs, Turtles and Bedbuges.**
+“ Ah yes... I know just the ones. Caught one of the freaks the other day. Blasted thing kept slicin' me line, so I swapped it out for a metal one. Got that from a mermaid, I did. Worked a treat. Meat isn't good on the purples one though. ”
+
+― Mortus, on the Terrapod
+
+  
+**Also known as Headcrabs, Turtles and Bedbugs.**
 
 **Normal:**
 

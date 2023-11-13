@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 80487
+revid: 81351
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -21,7 +21,7 @@ Using Ardour Scream.
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 
-Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). You can only obtain a Murmur if your Character is at least [Power](Power.md) 6. However if the requirement to unlock the Murmur can be completed with the help of someone power 6 or above you can obtain the Murmur at Power one (Mostly notably fighting the Dread Serpent)
+Currently, there are three known obtainable Murmurs; [Ardour](#murmur-ardour), [Tacet,](#murmur-tacet) and [Rhythm](#murmur-rhythm). There is no power requirement to obtain a Murmur.
 
 ## Murmurs Strengths
 

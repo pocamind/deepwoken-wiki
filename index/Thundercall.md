@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 81288
+revid: 81308
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -15,8 +15,6 @@ _Thundercall icon_
 _A Thundercall infused sword_
 
 The Attunement "Thundercall" grants the user the ability to control, conjure and create thunder and electricity, giving them abilities, which focus on combat, stunning, and movement.
-
-File:Image 2023-11-13 025742546.png
 
 Thundercall makes use of a highly unpredictable nature due to it's speed and high slow/stun potential.
 

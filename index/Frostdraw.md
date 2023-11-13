@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 81301
+revid: 81336
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -109,7 +109,7 @@ _Revolving blades of ice._
 -   Deals light damage.
 -   Rotation does not inflict Chill, but a sword shot does.
 -   Hits multiple times in a row.
--   Incredibly good with crystallization.
+-   Incredibly good with Crystallization.
 
  |
 | [Frozen Soldiers gif](https://deepwoken.fandom.com/wiki/File:Frozen%20Soldiers%20gif.gif) | 
@@ -247,8 +247,8 @@ _Form an ice spear and lunges forward._
 
 -   During the windup pressing F cancels the impale.
 -   Deals moderate damage.
--   Does inflict Chill. (6/12/23 update logs, needs testing)
 -   User gains considerable forward momentum on use.
+-   Sometimes used in conjunction with Glacial Arc to fling the player skywards.
 
  |
 |  | 
@@ -264,8 +264,6 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
 -   Doesn't apply chill (may be a bug)
 -   Deals moderate damage
-
-  
 
  |
 |  | 
@@ -296,7 +294,9 @@ _Send ice rippling out in a shockwave._
 
  | Forms a beacon infront of the player.
 
--   A wave of ice periodically ripples out of the beacon, applying frost damage and pushing back anyone hit.
+-   Up to three beacons can be active at any time.
+-   Recasting this mantra near an active beacon causes it to explode.
+-   Outdated gif, please replace
 
  |
 
@@ -1003,7 +1003,9 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the most Mantras out of all attunements in the game.
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
+
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
+-   NPCs still use the old version of the Ice Eruption mantra.
 
 ## References
 

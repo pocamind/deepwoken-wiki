@@ -1,18 +1,21 @@
 ---
 title: The Lord Regent
-revid: 81284
+revid: 81309
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests]
+categories: [NPCs, Quests]
 ---
 
 # The Lord Regent
 
+| The Lord Regent | |
+|---|---|
+| name | The Lord Regent |
+| location | Etris Palace |
+
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me. ”
 
 ― The Lord Regent
-
-File:Image 2023-11-13 024749532.png
 
 ## Description
 

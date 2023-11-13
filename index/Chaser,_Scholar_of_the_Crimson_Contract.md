@@ -1,9 +1,9 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 81281
+revid: 81313
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Enemies, NPCs, Bosses, Layer 2, Floor 1]
+categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
 ---
 
 # Chaser, Scholar of the Crimson Contract
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Enemies, NPCs, Bosses, Layer 2, Floor
 
 ― Chaser
 
-File:Chaser scholar of burning blood.png
+Template:EnemyInfobox1.0
 
 ## Description
 
@@ -22,13 +22,13 @@ He was once an aspiring Diver, graduating as one of the greatest of his generati
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
 
-Appearance wise, he is a young male [Adret](Adret.md) characterized by his unique eye color and facial markings. The outfit he has equipped is the updated [black diver](Black_Diver.md) one. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered by the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
+Appearance-wise, he is a young male [Adret](Adret.md) characterized by his unique eye color and facial markings. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered from the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
 
 ## Moveset
 
 Despite being a humanoid boss and his status as a Black Diver, he doesn't perform any physical attacks, instead using long-range blood related [Mantras](Mantras.md) which are channeled through the jars of blood located around the cathedral.
 
-_For a visual guide consider watching [this video](https://youtu.be/YT_9pdWcAOI)._
+_For a visual guide, consider watching [this video](https://youtu.be/YT_9pdWcAOI)._
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -102,7 +102,7 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 
 -   When Chaser has fewer than 6,000 HP, he will use his desperation attack, in an attempt to take the player with him. (Note that this is not static. It is not immediately after 6,000HP is reached.)
     -   During this phase, the entire arena becomes a danger zone that deals damage to the player that cannot be avoided in any way. Players must stay below Chaser to not be affected by this.
-    -   Chaser will attempt to push the player away from the safe zone below him by slamming himself on the ground. This attack can be blocked (albeit it needs a good shield), parried or dodge.
+    -   Chaser will attempt to push the player away from the safe zone below him by slamming himself on the ground. This attack can be blocked (albeit it needs a good shield), parried or dodged.
     -   Be extremely careful, as Chaser will use his regular attacks in between his ground slams. The blood wave attack becomes threatening in this phase as you are given little reaction time to jump.
     -   Chaser will eventually die by himself, completing the fight.
 
@@ -110,20 +110,20 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 
 After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium sized [chest](Chests_&_Sacks.md) is spawned which contains:
 
--   Many Kyrs-series weapons.
+-   Many Kyrsan weapons.
 -   2 Knowledge on first kill, 1 knowledge per kill if contributing 35% or more damage.
 -   Very high odds of Deep Gems.
 -   A variety of Rare and Legendary [equipment](Equipment.md), [weapons](Weapons.md), rings and [outfits](Outfits.md), including Ironsinger Heavy Plates, all guaranteed to be at least 1 star quality.
 -   Rarely, the [Flareblood Kamas](Flareblood_Kamas.md), a legendary weapon uniquely dropped by Chaser.
--   Rarely, enchantment stones.
+-   Rarely, [Enchantment Stones](Enchant_Stone.md).
 -   Rarely, any legendary weapon(s) except for the [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Stormseye](Stormseye.md).
 -   Extremely Rarely, [The Bloodforged Crown](Bloodforged_Crown.md).
 
-Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as [Diver](The_Divers.md) reputation.
+Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as some positive [Diver](The_Divers.md) reputation.
 
 **Roughly** fourteen Chasers solo, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
 
-Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
+Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
 
 ## Dialogue
 
@@ -167,9 +167,9 @@ Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Trium
 
 ## Trivia
 
--   Chaser is voiced by YouTuber [DemStormz](https://www.youtube.com/watch?v=VedRxDf8QNs).[\[4\]](#cite-note-4)
+-   Chaser is voiced by YouTuber DemStormz.[\[4\]](#cite-note-4)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
--   There was a period of time where rumors claimed that this boss was called Minerva or that it was the avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
+-   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
 -   Chaser is seen wielding six Resonances, presumably stolen from divers he betrayed and killed. However he cant use them.
 -   Chaser grants a fairly large amount of Resonance progression.
@@ -184,7 +184,6 @@ Doing Chaser without Light Hook will grant you the "Hookless Eternal Gale" Trium
 -   Used to have the title, Scholar of the Crimson Contract.
 -   His hair ID is 77799954 & The beard ID is 4995497755
 -   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
--   Chaser unbounds attunement and weapons.
 
 ## References
 

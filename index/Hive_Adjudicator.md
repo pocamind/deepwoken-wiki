@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 80087
+revid: 81337
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, Exclusive Outfits]
@@ -29,11 +29,11 @@ This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which in
 This Outfit's Schematic can be found in:
 
 -   Battle Royale
--   \[Master Schematic\] from Hallowtide Joyshop
--   Given to all users due to a bug
+-   \[Master Schematic\] from Hallowtide Joyshop (Was removed from it roughly 3 days after Hallowtide began)
+-   Given to all users due to a bug (Has since been taken from Everyone's Schematics, If it was crafted it stays in the user's Outfits)
 
 ## Trivia
 
 -   During the [Hallowtide](Hallowtide.md) of 2023, Hive Adjudicator was made obtainable. This was a bug, but developer Arch\_Mage has shown no interest in fixing it.
-    -   Afterwards, a bug occurred that gave the schematic to all users.
+    -   Afterwards, a bug occurred that gave the schematic to all users. This has since been fixed, likely by another Developer since Arch\_Mage's previous statement shows he didn't want to fix it.
 -   As far as stats go, this is just a reskin of the old [Hive Drone](Hive_Drone.md) outfit with a higher Power requirement with the only difference being that it lacks the Megalodaunt Hide requirement. Treat it as such.
