@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 68080
+revid: 81434
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -27,7 +27,7 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Log while in combat. (Internet disconnection, being kicked, being banned, etc.)
 -   Speak to [Yun’shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>) without a [bell.](Resonance.md) (Results in a Insta-grip)
 -   Die to the [Blood Scourge](Blood_Scourge.md) bell, turning your body into a shriveled husk.
--   Die to [Soul Jar](Jar_of_Souls.md) bell, disintegrating your body with white flames.
+-   Die to [Jar of Souls](Jar_of_Souls.md) or Corrupted [Shard Bow](Shard_Bow.md) bell, disintegrating your body with white flames.
 -   Enter the Lord Regent's Throne Room without an audience. This includes talking to him after completing - or failing - the quest.
 -   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) meteor in [The Hive](The_Hive.md).
 -   Get skewered by a Grand Skewer-modified [Grand Javelin](Thundercall.md) at low enough health, from a [Legion Sniper](Legion_Sniper.md). Having too many people get hit by this will also auto-execute everyone.

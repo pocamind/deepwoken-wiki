@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 80189
+revid: 81430
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -165,7 +165,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
     <li><b><a href="Duke_Ishamon_Erisia.md">The Duke</a></b> gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.</li>
   </ul>
   <ul>
-    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>. <u>MUST READ</u>: HE HAS BEEN KNOWN TO NOT GIVE PROGRESS SOMETIMES (bug)</b></li>
+    <li><b><a href="The_Ferryman.md">The Ferryman</a></b> gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. <b>Side: The Ferryman now provides Knowledge. See <a href="Knowledge.md">more</a>.</b></li>
   </ul>
   <ul>
     <li><b><a href="Dread_Serpent.md">Dread Serpent</a></b> has a high Progress reward, but is hard to find without an <a href="Ardour_Manifestation.md">Ardour Manifestation</a>. As a bonus, finishing him will provide you with the <b><a href="Murmur.md">Ardour</a></b> murmur if you do not already have a murmur. <i><b><u>Do not</u> fight him if you intend to get <a href="Murmur.md">Tacet</a> or <a href="Murmur.md">Rhythm</a>.</b></i></li>

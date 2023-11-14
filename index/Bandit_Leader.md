@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 68317
+revid: 81433
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -40,8 +40,8 @@ A Bandit Leader executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | \[[Battleaxe](Battleaxe.md), [Messer](Messer.md), [Gilded Knife](Gilded_Knife.md) & Iron Sword\] User pins down the opponent and slices their throat with their blade.
-\[[Mace](Mace.md)\] User pins down opponent while raising their mace before firmly bashing the opponent's face in.
+| Execute | \[[Messer](Messer.md), [Gilded Knife](Gilded_Knife.md) & Iron Sword\] User pins down the opponent and slices their throat with their blade.
+\[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] User pins down opponent while raising their weapon before firmly bashing the opponent's face in.
 
  |
 

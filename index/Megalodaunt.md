@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 80631
+revid: 81435
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -299,6 +299,7 @@ Kick
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+-   This ability is only used in the Slash + Kick combo.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
@@ -311,6 +312,7 @@ Blazing Kick
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
 -   Missing the dodge means you'll waste a roll putting out the flames.
 -   Simply do not roll cancel and always roll to the side so that if you miss the roll, the Sharko will still miss the kick.
+-   This ability is only used by itself and will not be used in the Slash + Kick combo.
 
  | ✗ | ✗ | ◯ | (★★★) |
 | 
