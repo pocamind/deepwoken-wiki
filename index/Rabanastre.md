@@ -1,9 +1,9 @@
 ---
 title: Rabanastre
-revid: 81349
+revid: 81383
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -15,4 +15,11 @@ notices:
 | name | Rabanastre |
 | location | Second Layer |
 
+## Description
 
+Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer.md) by the Nest Corridor.
+
+## Trivia
+
+-   He is a reference to Patches, a recurring character in games developed by _Fromsoftware_. The character often attempts to gain the trust of the player or trick them into pursuing treasure, before kicking them off a cliff. Attempting to return to him will often result in him grovelling or attempting to act as though nothing happened.
+    -   Developer Arch\_Mage even attempted to get a voice for him that was similar to the iconic character, but had trouble due to it being "too nasally."

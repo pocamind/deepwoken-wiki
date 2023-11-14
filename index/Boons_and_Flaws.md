@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 81057
+revid: 81358
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -48,7 +48,7 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 | Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching. | 1 |
 | Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
 | Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. The reduced regeneration is a flat number, meaning this flaw is more damaging at low Tempo and less at high Tempo | 1 |
-| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see.
+| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw does not provide protection from flame blind and gaze.
 -   Gremor's who are blind see better than others, being blessed by Navae.
 
 Gained from obtaining the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
@@ -126,7 +126,7 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
     -   Simple's EXP gain rate decrease is not problematic for the patient, but it can be annoying to power up at higher levels. It'll also mean it takes more time to get back your first life via powering up. It is one of very few flaws that essentially has no downside at power 20 which makes it somewhat okay.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.
     -   Vegetarian’s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items but picking this card will make it impossible to obtain the Carnivore Talent, which is very useful.
-    -   Blind gives you the Blinded effect. All of the time. If you can live through it and get Blindseer, you can negate the problem the flaw gives.
+    -   Blind gives you the Blinded effect. All of the time. If you can live through it and get Blindseer, you can negate the problem the flaw gives. This flaw does not provide protection from flame blind and gaze.
 -   Some boons are more worth taking than others:
     -   Autodidact is useful to help level up certain stat quicker or level up stats that are annoying to do manually. If you die, you can also power up to restore your two lives. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Also becomes useless once you reach power 20. Although this boon stacks with the Adret racial buff.
     -   Gourmet is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. Not worth picking if you're going to choose Carnivore, though.

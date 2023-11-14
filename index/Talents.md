@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81133
+revid: 81370
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -486,8 +486,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 25 Heavy Weapons Mastery, 15 Strength
 
 ### Comrade
-
-> _**"I am a friend to others."**_
 
 -   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**

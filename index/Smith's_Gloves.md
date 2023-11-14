@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 81013
+revid: 81371
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -26,9 +26,9 @@ categories: [Equipment]
 
 ## Description
 
-Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you +5 Health, and 2 Pips. They are commonly found in chests at [Summer Isle](Summer_Isle.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [Deep Widow](Deep_Widow.md), and both the [first](First_Layer.md) and [second](Second_Layer.md) layers of The Depths.
+Smith's Gloves are an [Equipment](Equipment.md) item under the "Arms" category. Equipping them grants you +5 Health, and 2 Pips. They are uncommonly found in chests at [Summer Isle](Summer_Isle.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md), [Deep Widow](Deep_Widow.md), and both the [first](First_Layer.md) and [second](Second_Layer.md) layers of The Depths.
 
 ## Trivia
 
 -   Smith's Gloves are part of the "Smith" set, along with the [Smith's Bandana](<Smith's_Bandana.md>) and [Smith's Goggles](<Smith's_Goggles.md>).
--   Worn by all Blacksmith NPCs, alongside the rest of the set.
+-   Worn by all [Blacksmith](Blacksmith.md) NPCs, alongside the rest of the set.

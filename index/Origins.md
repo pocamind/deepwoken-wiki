@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 80214
+revid: 81374
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -71,6 +71,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
 -   Grants the Deepbound Contract talent "Call of the Deep"
     -   Plays a short animation of the player sinking into the ground before teleporting them into [The Depths](The_Depths.md).
+-   If you accidently use said Call of the Deep you can menu and you wont be in [The Depths](The_Depths.md).
 
 ## Voidwalker
 

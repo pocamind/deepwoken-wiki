@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 80586
+revid: 81379
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -83,13 +83,13 @@ He also has a [Heliodar](Heliodar.md) slot which also has Skeleton Key.
 -   Zoltorias Caesar, Inferno Fist
 -   Carti Caesar, King Vamp
 -   Ace Caesar, The Final Act
--   Gunsmith Sevenine Hierka Caesar, The Horseman
+-   Gunsmith Sevenine Caesar, The Horseman (Formerly known as Gunsmith Sevenine Hierka Caesar, The Horseman)
 -   Slayer Fungrath Caesar, The Heretic
 -   Haz Caesar, The Eradicator
 -   Julius Caesar, The Sunken Star (Formerly known as Radahn Caesar, The Sunken Star)
 -   Yhwach Caesar, The Unrivaled
 
-### yayafino (Zithori Vhemm Rybak Diri)
+### yayafino (Gift of Life, formerly known as Zithori Vhemm Rybak Diri)
 
 -   Wears [Hive Leader's Garment](<Hive_Leader's_Garment.md>)
 

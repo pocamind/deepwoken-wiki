@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 80441
+revid: 81373
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -22,7 +22,7 @@ A full list of all NPCS can be found [Here](https://docs.google.com/spreadsheets
 | ??? (FalseMan) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Catapults you into a door that requires a [bell](Resonance.md) to open | Once thrown enough times she will stop throwing you |
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter |
-| [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) | If you choose the second option without 100 charisma you will have your head exploded |
+| [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) | If you choose the second option without 75 charisma you will have your head exploded |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives Glider schematic, gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |
 | [Alirian](Alirian.md) | [The Kingdom of Etrea](Etrea.md) | [Minitrysa](Minityrsa.md) | Gives the player the [Jetstriker](Oath%253A_Jetstriker.md) [Oath](Oaths.md). | Accepts orbs in exchange for Jetstriker talents |
 | [Amara](Amara.md) | [The Hundred Legions](The_Hundred_Legions.md) | [Lower Erisia](Lower_Erisia.md), Viper's Jaw | Grants [Legion Kata](Fists.md) fist style | Requires you to help win Legion events in [Aratel Island](Aratel_Island.md) |
