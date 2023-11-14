@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81370
+revid: 81409
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -49,12 +49,12 @@ Some talents are **mutually exclusive** with other talents, meaning picking one 
 _When it comes to mutually exclusive talents, you can have either:_
 
 -   _Everchanging Aegis_ **or** _Return to the Dark Ages;_
--   _Risky Moves_ **or** _Safety Dance/Observation; ~Dark Rift will lock you out of Risky Moves~_
+-   _Risky Moves_ **or** _Safety Dance/Observation;_
 -   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
--   _Singularity_ **or** _Sightless Still._
--   Million Ton Piercer **or** Ether Overdrive
--   Bulldozer **or** Dazing Finisher
+-   _Singularity_ **or** _Sightless Still;_
+-   Million Ton Piercer **or** Ether Overdrive;
+-   Bulldozer **or** Dazing Finisher.
 
 Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -173,7 +173,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown.
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
-    -   Prerequisites: 25 Intelligence
+    -   Prerequisites: 15 Intelligence, Apothecary
     -   The head equipment "[Strapped Hat](Strapped_Hat.md)" has this talent.
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.

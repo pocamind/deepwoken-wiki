@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 81274
+revid: 81418
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -42,6 +42,7 @@ The pricing list is as follows: (Assuming you have the Treasurer)
 -   Room 10:
 -   Room 11:
 -   Room 12:
+-   Room Extension 1:
 
 From this, the total cost of all rooms and NPCs would be a whopping.
 

@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 76998
+revid: 81390
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -45,4 +45,4 @@ When obtained, Blood Scourge will spend its points on the following stats:
 
 -   The Blood Scourge Resonance does NOT give you I-frames while doing the animation, you can get cancelled while doing it if other players/NPCs attack you.
 -   Shortly after the mechanic was added, Corrupted Blood Scourge could send people below Power 12 to The Depths. This was quickly patched.
--   Most likely a reference to Dinakeri's/Wraith Knight's Soul Rip skill from Rogue Lineage.
+-   Most likely a reference to Dinakeri's/Wraith Knight's Soul Rip skill from Rogue Lineage, which itself is a reference to the [Dark Hand](https://darksouls.fandom.com/wiki/Dark_Hand) from the _Dark Souls_ franchise.
