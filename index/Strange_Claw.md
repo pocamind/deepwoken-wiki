@@ -1,6 +1,6 @@
 ---
 title: Strange Claw
-revid: 77612
+revid: 81476
 source: https://deepwoken.fandom.com/wiki/Strange_Claw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -23,4 +23,4 @@ A Strange Claw is an item only dropped by [Terrapods](Terrapod.md) which can be 
 
 ## Trivia
 
-You can summon [Primadon](Primadon,_Titan_of_the_East.md) by offering 5 Strange Claws to the campfire.
+-   You can summon [Primadon](Primadon,_Titan_of_the_East.md) by offering 5 Strange Claws to the campfire.

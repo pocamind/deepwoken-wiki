@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 81139
+revid: 81468
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -37,7 +37,7 @@ Notably, this weapon have the highest weight stat of any daggers, at 5. Most oth
 
 ## Trivia
 
--   Despite the name, it's not actually made from a Canor's fang. (who would think of this)
+-   Despite the name, it's not actually made from a Canor's fang.
 -   Instead of this, it's recommended to use a [Whaling Knife](Whaling_Knife.md) or a [Gilded Knife.](Gilded_Knife.md)
 -   Meeting the requirement of LHT, damage is (15.4)
 -   At max LHT, the damage is (22)

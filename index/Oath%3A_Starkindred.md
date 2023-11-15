@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 80096
+revid: 81466
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -79,7 +79,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 
 ## Trivia
 
--   Starkindred's mantras scale on Strength.
+-   Starkindred's mantras scale with Strength.
 -   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain, they also have a long history of bloodshed in the name of their faith.
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 -   This oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.

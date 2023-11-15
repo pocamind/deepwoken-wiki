@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 80496
+revid: 81463
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -71,7 +71,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
     -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required)
 
 -   **Arc Module: Null - Passive**
-    -   When your Arc Suit is active, outgoing and incoming enchant effects are nullified. (+10 Health)
+    -   When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
     -   Can be toggled by pressing N when Arc Suit is active.
 
 ## Effects

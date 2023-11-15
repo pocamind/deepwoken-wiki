@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 80958
+revid: 81441
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -20,7 +20,7 @@ In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) 
 
 ## Moveset
 
-Funke's arsenal consists of a [Hero Blade of Thunder](Hero_Blades.md) along with the [Thundercall](Thundercall.md) attunement:
+Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thundercall](Thundercall.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

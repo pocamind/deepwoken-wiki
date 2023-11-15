@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 80130
+revid: 81459
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -35,7 +35,7 @@ The **Crypt Blade** is a dark gray [Greatsword](Weapons.md) with symbols on it, 
 
 The user goes in a pride stance with their sword facing down, and releases an AOE circle surrounding the player inflicting shadow and chaining everyone within it.
 
--   If hit when chained, the chain will break and the opponent will receive DOT damage with the shadow side effect.
+-   If hit when chained, the chain will break and the opponent will receive 3 consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow.
     -   Blocking, and Parrying will not cancel out this effect.
 -   If the opponent goes beyond the length of the chain, they will be dragged back to the chains original position.
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 81303
+revid: 81446
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -405,7 +405,7 @@ Metal Eater
 
  | 
 
-When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Insanity)
+When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
 
  | 
 

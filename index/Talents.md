@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81409
+revid: 81445
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1425,7 +1425,7 @@ _**"I enjoy sea food."**_
     -   Prerequisite: 45 Ironsing
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
     -   Prerequisite: Iron Hug mantra, 30 Ironsing
--   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Insanity)
+-   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
     -   Prerequisite: 50 Ironsing
 -   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
     -   Prerequisites: 40 Ironsing, 15 Strength
