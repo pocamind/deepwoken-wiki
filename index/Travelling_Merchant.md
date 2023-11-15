@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 81397
+revid: 81481
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -115,10 +115,10 @@ Chili's Ship
 -   Chili always spawns in a boat with light-blue sails. This boat is un-sailable and un-damageable. It's a relatively safe zone.
 -   Decoy Ships which bare striking resemblance to Chili's ship may spawn around the map. Approaching these ships results in a large explosion, spawning several Cloaked Assassins.
     -   Given how ludicrously powerful these enemies are in high numbers, they can easily kill even the most powerful of PvE builds. To avoid this, simply look inside the ship through the port side. A decoy ship will not have Chili present.
-
--   There is a Decoy Ship that can have Voidwalkers to ambush players like the Cloaked Assassins. (Unsure if this is a rare event or not.)
-
-A merchant ship being raided by Assassins.
+    -   Some of them spawn several undocumented enemies affiliated with the Knives of Eylis, but this is a lot rarer.
+        
+        A merchant ship being raided by Assassins.
+        
 
 ## References
 

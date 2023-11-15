@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 81268
+revid: 81500
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -470,7 +470,7 @@ File:Attunement-less icon.png
 
 File:Attunement-less icon.png
 
- | Flahsdraw Strike  
+ | Flashdraw Strike  
 (☆☆☆) | _Switftly unsheathe your blade and deliver an upwards strike._ | ? Ether | 
 
 -   **Requirements:** _**60 Medium Weapon, 25 Agility**_ _Combat Mantra_
