@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 81235
+revid: 81507
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -390,14 +390,14 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 
 ### **Drowned Gods**
 
-**Lore Sources:** _Lightborn King, Yun'Shul, Klaris, Arch\_Mage (Discord), Ragoozer (Discord)_
+**Lore Sources:** Kaide_, Yun'Shul, Klaris, Arch\_Mage (Discord), Ragoozer (Discord)_
 
 -   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 -   They are not fighters, but more so natural disasters waiting to happen.[\[2\]](#cite-note-arch-2)
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
 -   If the drowned gods were to fully gain consciousness, existence as we know it would end.[\[2\]](#cite-note-arch-2)
 -   Becoming one is the ultimate goal of the Ministry.[\[1\]](#cite-note-rag-1)
--   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as the Lightborn King in Layer 2 stated that they were in a war against the Depths and Drowned gods that the Celestials and Lightborn's lost when the Celestials fled.
+-   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as Kaide has stated that they were in a war against the Drowned Gods that the Celestials and Lightborn's lost when the Celestials fled.
 -   It is most likely that they have a great relation with Krulian's, similar to how Celestials are to Lightborns.
 -   There is not a Drowned God for each attunement.[\[2\]](#cite-note-arch-2)
 -   Two theories to what they are have been remarked as 'close:'[\[1\]](#cite-note-rag-1)
