@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 80083
+revid: 81599
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -109,7 +109,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   Blessed, Wind, Wayward, and Insignia Gems will still proc if you hit Primadon with one. Bloodless also does, but due to it now scaling off of your damage, unless your mantra is physical you will heal _very_ little due to Primadon's immunity to elemental damage resistance.
     -   Debuffs from Mantras do affect Primadon.
 -   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
-    -   **WAIT FOR YOUR FRIEND TO STAND UP BECAUSE IF PRIMADON DOES A STOMP OR GRABS THEM, THEY WILL DIE.**
+    -   **WAIT FOR YOUR FRIEND TO STAND UP BECAUSE IF Primadon DOES A STOMP OR GRABS THEM, THEY WILL DIE.**
 
 ### General Combat
 

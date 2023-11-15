@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 81359
+revid: 81555
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -78,7 +78,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
         -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusionary Servant's casting, Beast Burrow and Portal.
-    -   Doesn't work on the [Tacet Murmur](https://deepwoken.fandom.com/wiki/Murmur), but allows for further detection radius.
+    -   Doesn't work on the [Tacet Murmur](Murmur.md#murmur-tacet), but allows for further detection radius.
     -   Obtaining: 4 Pathfinders helped in the Depth Trial (must be alive)
 
 ## Effects

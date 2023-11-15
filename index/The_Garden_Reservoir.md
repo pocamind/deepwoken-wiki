@@ -1,6 +1,6 @@
 ---
 title: The Garden Reservoir
-revid: 76804
+revid: 81548
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -20,7 +20,7 @@ File:GardenEther.png
 
 ## Overview
 
-The Garden Reservoir is a location down below [Burning Stone Gardens](Burning_Stone_Gardens.md). It is a gloomy area covered with pillars of stone and acid running along everywhere, possibly the main cause of acid in [Burning Stone Gardens](Burning_Stone_Gardens.md). Going into the acid will end up with you taking damage and being put into combat, unless you are an [Etrean](Etrean.md) or you have the [Survivalist](https://deepwoken.fandom.com/wiki/Boons_and_Flaws?so=search#List_of_Boons) boon.
+The Garden Reservoir is a location down below [Burning Stone Gardens](Burning_Stone_Gardens.md). It is a gloomy area covered with pillars of stone and acid running along everywhere, possibly the main cause of acid in [Burning Stone Gardens](Burning_Stone_Gardens.md). Going into the acid will end up with you taking damage and being put into combat, unless you are an [Etrean](Etrean.md) or you have the [Survivalist](Boons_and_Flaws.md) boon.
 
 ## Points of Interest
 
@@ -34,6 +34,6 @@ A map can be found [here](Maps.md#surface)
 
 ## Trivia/Notes
 
--   The music for this area is [In Shade, Hollow](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
--   Players can find [Irithine](https://deepwoken.fandom.com/wiki/Ore?so=search#Irithine) here, which is a metal used in crafting some [Outfits](Outfits.md).
+-   The music for this area is [In Shade, Hollow](Deepwoken_OST.md) by Naktigonis
+-   Players can find [Irithine](Ores.md#irithine) here, which is a metal used in crafting some [Outfits](Outfits.md).
 -   Very common place for experienced players to grind, due to the amount of [Golems](Rock_Golem.md) and [Megalodaunts](Megalodaunt.md) found here, as they can be a low risk/high reward for skilled players.

@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 76920
+revid: 81603
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons, World]
@@ -17,7 +17,7 @@ Home to the Rotten Lot, a vessel carrying crew members of countless origins hopi
   
 Template:Areainfobox
 
-**The Scoundrel's Bounty** is a dungeon that takes the form of a populated ship in what seems to be the middle of nowhere on the open sea, it does not function as a [boat](Ships_&_Sailing.md), and is an immovable location, similar to an island. This is where the events of the [Tutorial](Tutorial.md) take place.
+**The Scoundrel's Bounty** is a dungeon that takes the form of a populated ship in what seems to be the middle of nowhere on the open sea. It does not function as a [boat](Ships_&_Sailing.md) and is an immovable location, similar to an island. This is where the events of the [Tutorial](Tutorial.md) take place.
 
 ## Contents
 
@@ -29,8 +29,8 @@ Template:Areainfobox
 ## NPCs
 
 -   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
-    -   A tall Felinor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md), the Celtor Commander Plate and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat, resting and equipment, how Antiquarians work, and Talent and Mantra hands. Captain of the ship.
-    -   After the events of the tutorial, he drowns and ends up in [New Kyrsa](Second_Layer.md#new-kyrsa-f2).
+    -   A tall Felinor wearing [Flame Worshipper Armor](Flame_Worshipper_Armor.md), the [Celtor Commander Plate](Celtor_Commander_Plate.md) and a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>). He teaches the player the basics of combat, resting and equipment, how Antiquarians work, and Talent and Mantra hands. Captain of the ship.
+    -   After the events of the tutorial, he drowns and ends up in [Castle Light](Castle_Light.md), where he is then kicked out by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) and sent to [New Kyrsa](Second_Layer.md#new-kyrsa-f2).
 -   Flabbermaster Filigree
     -   A Gremor wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit. First Mate of the ship. Appears to be well-versed in combat, considering how she devastated the player in sparring the day before.
 -   Frank F'alzone
@@ -46,7 +46,11 @@ Template:Areainfobox
 
 -   Despite Mr. Quarters' status, _halfmaster_ doesn't exist, instead he would realistically be the _quartermaster_, being responsible for steering and signals.
 -   You can drop barrels into the water.
--   Although Serendi claims to be short, she is the same height as everyone else. This means she actually towers over you being on those boxes
--   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.
+-   Although Serendi claims to be short, she is the same height as everyone else. This means she actually towers over you being on those boxes.
+-   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.[\[1\]](#cite-note-1)
 
-Etrea vs Knives of Eylis event
+## References
+
+1.  [↑](#cite-ref-1)
+    
+    Etrea vs Knives of Eylis event

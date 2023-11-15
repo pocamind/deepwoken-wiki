@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 79857
+revid: 81527
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -24,7 +24,7 @@ _Overview of the small village in Meteor Isle._
 
 ## Points of Interest
 
--   Ata, the Celtor - Mantra Spark Vendor
+-   [Ata](Ata.md) - Mantra Spark Vendor
 -   [Beiruul](Beiruul.md), the Gremor - Quest Giver
 -   [Cestis](Cestis.md), the Ganymede - Tacet Obtainment
 -   [Eres](Eres.md), Etrean Outcast - Etrea Lore

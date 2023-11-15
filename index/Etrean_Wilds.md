@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 79640
+revid: 81573
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, World]
@@ -44,5 +44,5 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia/Notes
 
--   The music for this area is [Solivagant](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The music for this area is [Solivagant](Deepwoken_OST.md) by Naktigonis
 -   During the 2023 Hallowtide event there was a floating skull near the Nomad camp.

@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 77273
+revid: 81551
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -31,7 +31,7 @@ Proceeding will lead to an altar with the [Shrine of Yun'shul](<Shrine_of_Yun'Sh
 
 #### [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 
--   A shrine to the [Drowned God](https://deepwoken.fandom.com/wiki/Lore?so=search#Drowned_Gods), which will grant those with a [Resonance](Resonance.md) wishes.
+-   A shrine to the [Drowned God](Lore.md#drowned-gods), which will grant those with a [Resonance](Resonance.md) wishes.
 
 #### [Deep Shrines](Deep_Shrines.md)
 

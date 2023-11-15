@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 75701
+revid: 81581
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
@@ -110,7 +110,7 @@ Various weapons can be found around the map floating, some of the weapons found 
 
 ## Trivia
 
--   The music for this area is [Blood And Thunder](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The music for this area's loading screen is [Blood And Thunder](Deepwoken_OST.md) by Naktigonis
 -   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
 -   Battle Royale is separate from the main game, you cannot choose a slot.
 -   You cannot obtain Warrior's Respite from totems.

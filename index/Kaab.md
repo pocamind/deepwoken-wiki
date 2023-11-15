@@ -1,9 +1,11 @@
 ---
 title: Kaab
-revid: 80366
+revid: 81528
 source: https://deepwoken.fandom.com/wiki/Kaab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Candidates for deletion, NPCs]
+notices:
+  - Marked by the Central Authority This page has been marked by the Central Authority for termination from the Wiki.
 ---
 
 # Kaab

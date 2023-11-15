@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 42050
+revid: 81533
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Megalodaunt](Megalodaunt.md)
+-   [Megalodaunt#Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt)

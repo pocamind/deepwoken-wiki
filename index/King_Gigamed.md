@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 42051
+revid: 81532
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Gigamed](Gigamed.md)
+-   [Gigamed#King Gigamed](Gigamed.md#king-gigamed)

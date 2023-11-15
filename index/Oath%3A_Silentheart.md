@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 81128
+revid: 81547
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,7 +47,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 This oath is upgraded via the killing of [Spelltrainers](Attunement_Trainers.md) (excluding Regek and [Beatra](Beatra.md)).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](https://deepwoken.fandom.com/wiki/Adar?so=search), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their positions.
 
 ## Abilities
 

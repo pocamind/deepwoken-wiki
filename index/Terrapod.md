@@ -1,9 +1,9 @@
 ---
 title: Terrapod
-revid: 81504
+revid: 81602
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Pages with broken file links]
+categories: [Monsters]
 ---
 
 # Terrapod
@@ -13,7 +13,7 @@ categories: [Monsters, Pages with broken file links]
 ― Mortus, on the Terrapod
 
   
-**Also known as Headcrabs, Turtles and Bedbuges**[\[1\]](#cite-note-1)**.**
+**Also known as Headcrabs, Turtles or Bedbuges.**
 
 **Normal:**
 
@@ -82,7 +82,3 @@ Crimson Terrapods are similar to their purple counterparts but are dyed a crimso
 ## Trivia
 
 -   The Terrapod is actually a turtle, despite all features suggesting that it may be a crab.
-
-1.  [↑](#cite-ref-1)
-    
-    File:Bedbuge.jpg

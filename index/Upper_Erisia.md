@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 79201
+revid: 81549
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -31,7 +31,7 @@ Upper Erisia is home to many sub-locations and is home to a variety of NPCs and 
 -   [Erisor's Church](<Erisor's_Church.md>)
 -   [The Hidden Village](The_Hidden_Village.md)
 -   The Garden Reservoir
--   [The Birdcage](https://deepwoken.fandom.com/wiki/The_Birdcage)
+-   [The Birdcage](The_Birdcage.md)
 -   [The Rat's Den](<Rat's_Den.md>)
 
 ## Missions
@@ -109,10 +109,10 @@ _This list is incomplete, please contribute **correct** information._
  | 
 
 -   Three to eight [Sapphires](Treasures.md).
--   Three to eight [Amethysts.](https://deepwoken.fandom.com/wiki/Gems?so=search)
--   Three to seven [Rubies](https://deepwoken.fandom.com/wiki/Gems?so=search).
--   Three to seven [Emeralds](https://deepwoken.fandom.com/wiki/Gems?so=search).
--   Three to eleven [Gold Bars](https://deepwoken.fandom.com/wiki/Gems?so=search).
+-   Three to eight [Amethysts](Treasures.md).
+-   Three to seven [Rubies](Treasures.md).
+-   Three to seven [Emeralds](Treasures.md).
+-   Three to eleven [Gold Bars](Treasures.md).
 -   One to four [Mantra Modifiers](Mantra_Modifiers.md).
 
  |

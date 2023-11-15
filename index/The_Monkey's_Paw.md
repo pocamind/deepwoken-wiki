@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 71554
+revid: 81564
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -32,6 +32,6 @@ On the edge of the ridge there's a fire that is always burning. You can interact
 
 ## Trivia
 
--   The music for this area when fighting [Primadon](Primadon,_Titan_of_the_East.md) is [A Symphony Of Strife](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The music for this area when fighting [Primadon](Primadon,_Titan_of_the_East.md) is [A Symphony Of Strife](Deepwoken_OST.md) by Naktigonis
 -   The location's name is likely a reference to the story "The Monkey's Paw" by W.W. Jacobs, where a family receives a monkey's paw with three wishes, but each wish comes with a terrible consequence.
     -   The wish in this game is the items used in the Sacrificial Flame, and the "consequence" is the [Primadon](Primadon,_Titan_of_the_East.md) coming up from out of the water.
