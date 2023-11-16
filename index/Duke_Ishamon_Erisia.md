@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 81458
+revid: 81681
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -143,6 +143,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   
 
 ## Dialogue
+
+Duke's Dialogue before fighting him will change depending on certain factors about your character:
 
 Normal Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 80946
+revid: 81676
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
