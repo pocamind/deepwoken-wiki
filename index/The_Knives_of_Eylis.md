@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 77173
+revid: 81612
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]

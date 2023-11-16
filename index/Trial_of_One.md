@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 81331
+revid: 81643
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -77,7 +77,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching power 6 with 85 investment point used.
--   The [Lone Warrior Origin](https://deepwoken.fandom.com/wiki/Origins#Lone_Warrior) when creating a character for getting past the half-way point (Thresher)
+-   The [Lone Warrior Origin](Origins.md#lone-warrior) when creating a character for getting past the half-way point (Thresher)
 
 ## Tips and Tricks
 
@@ -87,7 +87,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ## Trivia
 
--   Greater Angels use _[Crazy Slots](https://deepwoken.fandom.com/wiki/Crazy_Slots?file=Divine_Spear.png#Gallery)_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
+-   Greater Angels use _Crazy\_Slots?_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
 -   Dying in Trial of One with the Lone Warrior origin now sends you to [The Depths](The_Depths.md).
 -   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.

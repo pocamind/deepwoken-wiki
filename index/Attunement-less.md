@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 81500
+revid: 81639
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -511,6 +511,21 @@ File:Attunement-less icon.png
     -   Upon activation, a white circle will appear on the torso, if hit during the circle's animation, it'll turn red. Then proceed to go on a short cooldown. If not activated in time the effect will fade away.
     -   After the cooldown of punishment, activating it again will proceed to do a big AOE swing that affects everyone nearby.
     -   Deals low damage, is parryable.
+
+ |
+| 
+
+File:Attunement-less icon.png
+
+ | Onslaught
+
+(☆☆☆)
+
+ | _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._ | **Requirements:** _**45-50 Heavy Weapon(unsure),**_ _Combat Mantra_
+
+-   When activated character does an initial swing with a second long windup, then kicks enemy into air and kicks them away.
+-   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
+-   Ragdolls and flings opponent away.
 
  |
 

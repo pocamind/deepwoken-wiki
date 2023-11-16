@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81445
+revid: 81642
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -74,11 +74,11 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I once performed in a Circus."**_
 
--   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds and 20 if it's a player (+1 Passive Agility)
+-   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisite: 5 Agility
 
--   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after jumping over a wall. (+6 Passive Agility)
+-   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
     -   Prerequisite: 15 Agility
 
@@ -191,7 +191,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I skulk in alleyways, looking for my next prize."**_
 
--   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, you gain a speed boost. (+2 Passive Agility)
+-   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
     -   Prerequisite: 5 Agility
 
@@ -200,7 +200,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 25 Agility, 25 Fortitude
     -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" have this talents.
 
--   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting and under 75% health. (+1 Passive Agility)
+-   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
     -   Prerequisites: All Alley Cat talents
 
@@ -326,20 +326,20 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
--   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+10 Sanity, +1 Posture)
+-   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+1 Posture, +10 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
     -   Prerequisites: 25 Fortitude
 
--   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are cut in half. (+5 Sanity)
+-   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
     -   Negate movement speed penalty of blocking.
     -   Prerequisite: 5 Fortitude
 
--   Perseverance \[Common Talent, Fortitude\] - When knocked down, you get back up again more quickly. (+5 Sanity)
+-   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)
     -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
@@ -384,8 +384,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapons Mastery
 
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds.
-
--   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
+    -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
 
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
     -   Prerequisite: Use a Greataxe, 40 Heavy Weapons Mastery
@@ -399,7 +398,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
     -   Prerequisite: 15 Agility
 
--   _Evasive Expert_ \[Rare Talent\] - Speed boost granted from dodging is increased. (+1 Passive Agility)
+-   _Evasive Expert_ \[Rare Talent\] - Your speed boost granted from dodging is increased. (+1 Passive Agility)
     -   Prerequisites: 15 Agility, Swift Rebound
 
 -   _Risky Moves_ \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
@@ -421,7 +420,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
     -   Prerequisite: 50 Willpower
 
--   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 50% extra posture damage for 10 seconds. (+1 Carry Load)
+-   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character.
     -   Does not work on non humanoid monsters..
     -   Prerequisite: 25 Strength
@@ -479,7 +478,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Destructive Recovery_ \[Rare Talent\] - \[Heavy Weapons\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapons Mastery, Harsh Response, Use a Greatsword.
 
--   Harsh Response \[Common Talent\] - Enemies receive less posture back when they parry your attacks.
+-   Harsh Response \[Common Talent\] - Enemies receive less posture back when parrying your attacks.
     -   Prerequisite: 25 Strength
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
@@ -502,8 +501,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am a master of creating openings."**_
 
--   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 1.2 x damage with daggers.
-    -   Prerequisite: 30 Light
+-   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 20% more damage with daggers.
+    -   Crit procs are rolled for each individual target, not per swing.
+    -   Crit procs are indicated by a red visual effect.
+    -   Only works on daggers.
+    -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
+        -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
+    -   Prerequisite: 30 Light Weapon
 
 -   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
     -   While the effect is active, gain a red trail on your weapon.
@@ -639,7 +643,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
     -   Prerequisite: Obtaining the talent from [Valkior](Valikor.md)
 
--   The Sounds from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound beneath the waves. Will you respond? (+1 Health)
+-   The Sounds from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
     -   Prerequisite: Power 2.
 
 ### Doomsday Engine
@@ -654,12 +658,12 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Concussion_ \[Rare Talent\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. (+8 Carry Load)
     -   Prerequisites: 20 Strength, 15 Fortitude
 
--   Concussive Force \[Common Talent\] - Enemies you knocked remain down longer than usual. (+9 Carry Load)
+-   Concussive Force \[Common Talent\] - Enemies you knocked remain downed longer than usual. (+9 Carry Load)
     -   Enemies remain knocked for 15 seconds instead of 10.
     -   Prerequisite: 15 Strength
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this talent.
 
--   Duelist's Dance \[Common Talent\] - Parrying opponents gives you back 25% more posture back. (+1 Posture, +4 Carry Load)
+-   Duelist's Dance \[Common Talent\] - Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
     -   Prerequisites: 20 Strength
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
@@ -667,7 +671,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 25 Strength, 15 Agility
     -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" have this talent
 
--   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash. ( +6 Carry Load, +2 Passive Agility)
+-   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. ( +6 Carry Load, +2 Passive Agility)
     -   Deals true damage.
         -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers, essentially dealing another fresh hit for free.
     -   Can proc from physical mantras
@@ -1030,7 +1034,7 @@ _**"I enjoy sea food."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
--   _All the Dead Gods_ \[Rare Talent\] - Your M1s now apply anti-heal. (+7 Sanity)
+-   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 8s. (+7 Sanity)
     -   Whenever you land an M1, you disable every source of your opponent's healing for 8 seconds.
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
@@ -1146,8 +1150,8 @@ _**"I enjoy sea food."**_
 -   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.
 
--   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly. You take less damage from acid rain.
-    -   Status effects, good or bad, are shorter. Acid rain damage is reduced.
+-   Molt \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
+    -   Status effects, good or bad, are shorter.
 
 -   Mothwing Dust \[[Chrysid](Chrysid.md) Exclusive\] - Being attacked causes you to release Mothwing Dust, granting you vision of your attacker, not to be confused with the band name.
 
@@ -1227,13 +1231,13 @@ _**"I enjoy sea food."**_
 -   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
     -   Prerequisites: 30 Medium, Using a spear
 
--   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% Penetration for 3 seconds.
+-   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% PEN for 3 seconds.
     -   Prerequisites: 50 Medium, Using a spear
 
 -   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage.
     -   Prerequisites: 30 Medium, Using a spear
 
--   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. (+4 Passive Agility)
+-   Lancer's Impale \[Common Talent\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium, Using a spear
 
 ### Lava Serpent
@@ -1284,8 +1288,7 @@ _**"I enjoy sea food."**_
 -   Air Pressure \[Common Talent\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
--   Hoplite \[Common Talent\] - Posture damage is reduced when wielding a spear and holding still. (+2 Passive Agility)
-    -   Reduce posture damage taken by 50% (as much as a 2 weight shield) while standing still and using a spear.
+-   Hoplite \[Common Talent\] - Posture damage is reduced by 30% when wielding a spear and standing still. (+2 Passive Agility)
     -   Stacks with shield.
     -   Prerequisites: 15 Fortitude, Using a spear
 
@@ -1319,17 +1322,18 @@ _**"I enjoy sea food."**_
     -   Prerequisites: [Power](Power.md) 8
 
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
-    -   Players with this talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
-    -   Stacks with Last Second Negotiation
+    -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
+    -   Stacks with Last Second Negotiation.
     -   Prerequisite: 20 Willpower
 
--   Last Resort \[Common Talent\] - Deal more damage when your health is significantly low. (+10 Sanity)
+-   Last Resort \[Common Talent\] - Deal 10% more damage when your health is significantly low. (+10 Sanity)
     -   When below 25% HP, gain +10% damage.
+    -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
 
 -   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
     -   Grant 15% extra damage when below 70% insanity.
-    -   Deepbound's sanity gain from killing mobs in the depths is reduced.
+    -   Deepbound's Sanity gain from killing mobs in the Depths is reduced.
     -   Prerequisite: 30 Strength, 30 Fortitude
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
@@ -1339,7 +1343,7 @@ _**"I enjoy sea food."**_
 -   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 5 seconds. (30 Second Cooldown) (+10 Sanity)
     -   Prerequisite: 35 Willpower
 
--   Uproar \[Common Talent\] - When struck 3 or more times within 3 seconds, go into a state of uproar where you cannot be stunned for a short duration. (Hyperarmor Benefit)
+-   Uproar \[Common Talent\] - When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. (Hyperarmor Benefit)
     -   Prerequisite: 35 Fortitude
 
 ### Marauder
@@ -1373,7 +1377,7 @@ _**"I enjoy sea food."**_
 
 ### Meditative Trance
 
--   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds increases your health regeneration.
+-   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds in order to initiate healing.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. (This was not the case a long time ago, and was overpowered)
     -   Prerequisite: 15 Fortitude
 
@@ -1500,12 +1504,10 @@ _**"I enjoy sea food."**_
 
 > _**"I seek the qualities of Natural Armor."**_
 
--   Padded Armor \[Common Talent\] - You take 5% less damage when your armor is broken. (+1 Passive Agility)
+-   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     -   Prerequisites: [Power](Power.md) 8
-    -   Adds +3% Blunt Armor.
 
--   Steel Scales \[Common Talent\] - You take an additional 5% less damage when your armor is broken. (+1 Passive Agility)
-    -   Adds 3% Slash Armor.
+-   Steel Scales \[Common Talent\] - You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
     -   Prerequisites: [Power](Power.md) 8, Padded Armor
 
 ### Navaen Nomad
@@ -1539,7 +1541,7 @@ _**"I enjoy sea food."**_
 
 > _**"I seek the qualities of Nimble Blade."**_
 
--   Fast Blade \[Common Talent\] - Extend the speed boost off parrying. (+1 Passive Agility)
+-   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
@@ -1646,7 +1648,7 @@ _**"I enjoy sea food."**_
 
 > _**"My attack is unstoppable."**_
 
--   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall has a chance of breaking the wall and are guard broken on impact.
+-   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
     -   Prerequisite: 25 Strength
     -   Mutual Exclusives: Dazing Finisher
 
@@ -1664,7 +1666,7 @@ _**"I enjoy sea food."**_
     -   Prerequisite: 60 Strength
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
 
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% Less. (+1 Posture, +4 Carry Load)
+-   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% less. (+1 Posture, +4 Carry Load)
     -   Prerequisite: 40 Strength
 
   
@@ -1821,7 +1823,7 @@ _**"I enjoy sea food."**_
     -   Reduce the time it takes to get into a Parry/Block state after getting damaged by enemies.
         -   Prerequisites: 30 Fortitude, 10 Willpower, Use a Shield.
 
--   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter. the spine cutter negation does not work
+-   Turtle Shell \[Common Talent\] - If your shield is on your back, take reduced backstab damage and negate Spine Cutter.
     -   Prerequisites: 50 Fortitude, Knight's Rally
 
 ### Shipwright
@@ -1888,12 +1890,12 @@ Prerequisite: Charisma
 
 ### Soul Converter
 
--   _Bloodiron Spirit_ \[Rare Talent\] - You regain some armor upon killing enemies. (+5 Health)
+-   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
 
 ### Soverign of Slaughter
 
 -   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
-    -   Prerequisite: Speak to Yamaketzal, lvl 5
+    -   Prerequisite: Speak to Yamaketzal, Power 5
 
 ### Static Weaver
 
@@ -2223,17 +2225,16 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I fight for Maestro Evengarde Rest."**_
 
--   Bear Trap \[Common Talent\] - Landing a hit with your critical against an opponent makes them unable to jump for a duration and slows them. (+1 Passive Agility)
+-   Bear Trap \[Common Talent\] - Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)
     -   The status effect is represented by blood pouring from the legs.
     -   Prerequisites: 20 Strength, 20 Agility
 
--   Blade Dancer \[Common Talent\] - Landing a hit removes your roll cooldown. (+1 Passive Agility)
+-   Blade Dancer \[Common Talent\] - Landing an M1 removes your roll cooldown. (+1 Passive Agility)
     -   Prerequisite: 25 Agility
 
--   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. (+1 Passive Agility)
+-   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     -   "Bleed" gives a 30% damage bonus, is not accounted for in the damage cap, and bypasses armor.
     -   Works with M1s and criticals.
-    -   1 second cooldown.
     -   Prerequisite: 25 Agility
 
 -   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
@@ -2295,13 +2296,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Warrior
 
--   _Chronostasis_ \[Rare Talent\] - Landing an M1 puts target [resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
+-   _Chronostasis_ \[Rare Talent\] - Landing an M1 or Critical Strike puts target [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisite: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
--   Engage \[Common Talent\] \[Quest Talent\] - Landing M1 attacks restores some of your Ether. (+1 Posture)
+-   Engage \[Common Talent\] \[Quest Talent\] - Landing an M1 slightly restores some of your Ether. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
 ### Waterborne
@@ -2311,7 +2312,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Conditioned Swimmer \[Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 1
 
--   _Scuba Drowner_ \[Rare Talent\] - You may not get downed while in waters. (+3 Passive Agility, +5 Health)
+-   _Scuba Drowner_ \[Rare Talent\] - You won't always drown to death when downed in water. (+3 Passive Agility, +5 Health)
     -   Prevent death by drowning.
     -   Prerequisite: [Power](Power.md) 5
 
@@ -2332,11 +2333,14 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
     -   Prerequisite: 20 Strength, 5 Agility
 
+-   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
+    -   Prerequisite: Unbound Element or Weapon
+
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   Grants you the ability to equip an offhand while one-handing
     -   Prerequisite: 40 Heavy Weapons Mastery
 
--   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby.
+-   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
 
 -   Successive Throw \[Common Talent\] \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
@@ -2393,7 +2397,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"Uh..."**_
 
--   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered.
+-   Anxious Guard \[Common Talent\] - Hitting an enemies block causes their parry window to be lowered for a short duration.
     -   Prerequisite: [Power](Power.md) 10
 
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
@@ -2434,13 +2438,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   If the enemy have the talent Replenishing Knockout, both talents negate each other, resulting in a normal health pack.
     -   Prerequisites: [Power](Power.md) 3
 
--   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when bellow 20% HP) (+1 Passive Agility)
+-   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 1
 
--   Ready or Not \[Common Talent\] - The first attack you get struck by while out of combat deals half of its damage.
+-   Ready or Not \[Common Talent\] - The first attack to hit you while out of combat has its damage cut in half.
     -   Prerequisite: [Power](Power.md) 1, 20 Fortitude
 
--   Replenishing Knockout \[Common Talent\] - You gain more health and posture when you knock them.
+-   Replenishing Knockout \[Common Talent\] - You gain more health and posture from downing enemies.
     -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
     -   If the target have the talent Martyr, both talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3

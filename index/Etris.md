@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 79425
+revid: 81615
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -108,7 +108,7 @@ General store
 
 #### Lance's Food
 
--   [Lance Leshi](Lance.md) and [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest) can be found here.
+-   [Lance Leshi](Lance.md) and [Ploom](#flamecharmer-ploom-quest) can be found here.
 -   Mushroom Omelettes can be purchased for.
 -   Mushroom Bisque can be purchased for.
 -   Megurgers can be purchased for.
@@ -177,7 +177,7 @@ General store
 
 Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and properly equipped players.
 
--   To begin this quest, you must have a positive reputation in [Etrea](Etrea.md). Can be achieved by helping the Etrean Guards in the [Etrea vs Authority](https://deepwoken.fandom.com/wiki/Random_Encounters#X_vs_X) event or the Etrean Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
+-   To begin this quest, you must have a positive reputation in [Etrea](Etrea.md). Can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) event or the Etrean Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
 -   Once you've become popular with the residence of [Etrea](Etrea.md) (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the The Lord Regent's Reputation as a Ruler.
 -   Talk to the Bookworm in the Bookstore.
@@ -272,7 +272,7 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 
 ## NPCs
 
--   [Ploom](https://deepwoken.fandom.com/wiki/Etris#Flamecharmer_Ploom_Quest)
+-   [Ploom](#flamecharmer-ploom-quest)
 -   [Polis](Polis.md)
 -   Theadre
 -   [Lord Regent](The_Lord_Regent.md)

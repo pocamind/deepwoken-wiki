@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 81463
+revid: 81608
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -55,7 +55,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 -   **Arc Module: Eject - Passive**
     -   When blockbroken with Arc Suit active, eject from the armor.
-    -   Immediatly end Arc Suit but prevent the guardbreak and reset your posture.
+    -   Immediately end Arc Suit but prevent the guardbreak and reset your posture.
 
 -   **Arc Module: Guard - Passive**
     -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind.
