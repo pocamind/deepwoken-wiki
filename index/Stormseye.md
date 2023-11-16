@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 81062
+revid: 81655
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]

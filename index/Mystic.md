@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 81089
+revid: 81667
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -140,7 +140,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _None will escape my flames. **(Flame Warden) (Note; Cannot give Warding Radiance)**_
 -   _I am a master of the flame._ _**(Pyromancer)**_
 -   _All must burn. **(Inferno)**_
--   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames, Pyromania)**_
+-   _I burn so that I may succeed. **(Immolator; Agitating Spark, Immolation, Phoenix Flames)**_
 -   _I seek the path of the Serpent. **(Lava Serpent)**_
 -   _My unholy blade works for no man. **(The Demon Blade)**_
 -   _My blade burns through my foes._ _**(The Emperor's Blade) (Note; Cannot give Mirage Clone)**_
@@ -179,7 +179,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I walk the skies. **(Cloudwalker; Gale Leap)**_
 -   _I speak to the winds. **(Galebreather)**_
 -   _I use the winds to enforce my will. **(Galeforce) (Note; Cannot give Skull Crusher)**_
--   _I fight for the Legion. **(Legion Shock Trooper) (Note; Cannot give Gale Dash)**_
+-   _I fight for the Legion. **(Legion Shock Trooper)**_
 -   _I am a master of the winds. **(Aeromancer) (Note; Cannot give Aerogliding, Stifled Jump)**_
 -   _A whisper in the dark. **(Whisper; Haunted Gale)**_
 -   _The song shall be silenced. **(Silencer) (Note; Cannot give Silencer's Blade)**_

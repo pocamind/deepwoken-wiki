@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 81173
+revid: 81654
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]

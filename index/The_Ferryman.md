@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 81327
+revid: 81661
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -23,7 +23,7 @@ Template:Creature Infobox V3
 
 According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. In reality, the Ferryman actively despises the mortals who dwell on the surface and toys with them, playing "games" that involve their life and death.
 
-An amalgamation of souls[\[1\]](#cite-note-1) dredged up from the "dregs of the dregs", he was mistreated by the people of the surface and returns the favour by tormenting them.
+An amalgamation of souls dredged up from the "dregs of the dregs", he was mistreated by the people of the surface and returns the favour by tormenting them.
 
 #### Summoning The Ferryman
 
@@ -254,14 +254,14 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   Ferryman Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
--   The Ferryman is confirmed by Arch\_Mage[\[2\]](#cite-note-2) to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
+-   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
--   Arch\_Mage has stated that the Ferryman is "probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality)".[\[3\]](#cite-note-3)
+-   Arch\_Mage has stated that the Ferryman is "probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality)".
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
@@ -276,9 +276,3 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
 -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.
 -   The Ferryman's Lightning Assault will speed up if he pathfinds into a wall during the previous Lightning Assaults.
-
-## References
-
-1.  [↑](#cite-ref-1) [https://discord.com/channels/920707638034067486/972707935484538911/1096468055065890916](https://discord.com/channels/920707638034067486/972707935484538911/1096468055065890916)
-2.  [↑](#cite-ref-2) [https://discord.com/channels/920707638034067486/921965510671872030/928516244607496253](https://discord.com/channels/920707638034067486/921965510671872030/928516244607496253)
-3.  [↑](#cite-ref-3) [https://discord.com/channels/920707638034067486/920721426632294521/946057708296097892](https://discord.com/channels/920707638034067486/920721426632294521/946057708296097892)
