@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 81308
+revid: 81683
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -379,7 +379,8 @@ Lightning Assault
  | A rush of lightning. |  | You quickly imbue electricity and dash forward, and attack those you pass by during your dashes.
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
--   Can be upgraded with Cloudstones.
+-   Can be upgraded with Cloudstones and Stratus Stones.
+-   Note that the mantra can clip through walls, sending you into unwanted places, and even leading to your death.
 
  | Damage:
 
@@ -1170,9 +1171,7 @@ After successfully casting lightning impact, strike down countless thunder at th
     -   Surge is a more purple shade compared to Oldwoken Thundercall, which was a light blue.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
 -   Rising Thunder is a reference to Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
--   With Lightning Impact: Rains Of Static, variation. You can lower your elevation by sliding, making the windup on your slam way shorter but at the same time keeping you at an unsafe level. You can also increase your elevation off the ground through any means like aerial combos or hopping off a wall to make the windup on your slam longer, not letting opponents auto-parry it due to parrying the projectiles.  
-    
--   Using this attunment takes no skill and you should just quit the game
+-   With Lightning Impact: Rains Of Static, variation. You can lower your elevation by sliding, making the windup on your slam way shorter but at the same time keeping you at an unsafe level. You can also increase your elevation off the ground through any means like aerial combos or hopping off a wall to make the windup on your slam longer, not letting opponents auto-parry it due to parrying the projectiles.
 
 Virudhaka's Sword
 
