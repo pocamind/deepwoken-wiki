@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81642
+revid: 81700
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -367,7 +367,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 > _**"I do not need a weapon."**_
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
-    -   If you have both Way of Navae and Legion Kata, you can press Y to easily swap between them instead of having to use the tool.
+    -   Procs by pressing Y (Works with one Fist Style)
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
@@ -434,7 +434,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I use the song to charm others."**_
 
 -   Chaotic Charm \[Common Talent, Charisma\] - When attacked at low health enemies deal less damage to you and more to anyone else.
-    -   Prerequisite 55 Charisma
+    -   Prerequisite 55 Charisma, Charismatic Cast
     -   When below 25% HP, Every hit taken will apply Chaotic Charm to the opponent, reducing your incoming damage by 20%, and increasing their damage by 20% to players that aren't you.
     -   Effect Lasts 15s
     -   Proc Cooldown: 0.25s
@@ -699,7 +699,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Concussive Flash \[Common Talent, Flamecharm Exclusive\] - Your blinding light now concusses foes. (+10 Carry Load, +3 Elemental Intensity)
     -   People blinded by Blinding Flame are Dazed for 2 seconds.
-    -   Prerequisites: Flame Blind, 30 Flamecharm,25 Strength
+    -   Prerequisites: Flame Blind, 30 Flamecharm, 25 Strength
 
 ### Elementalist
 

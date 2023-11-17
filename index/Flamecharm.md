@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 81302
+revid: 81686
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1260,6 +1260,7 @@ Standing close to your graceful flame will slowly restore sanity for others in t
     -   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
     -   The "Fire Gun" mantra is most likely a nod to "Higan", one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece**.
     -   The "Flame Blind" mantra is most likely a reference to the Valorant character Phoenix's blinding move.
+    -   The Flame Ballista mantra is heavily inspired by Sukuna's fire arrow from Jujutsu Kaisen
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "_Meteor Impact"_ on another Flamecharm user who also has the talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
 -   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of Denial" mantra which can restore some sanity upon use, while also allowing you to not die.

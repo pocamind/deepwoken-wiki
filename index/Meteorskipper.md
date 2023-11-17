@@ -1,6 +1,6 @@
 ---
 title: Meteorskipper
-revid: 81460
+revid: 81688
 source: https://deepwoken.fandom.com/wiki/Meteorskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -31,6 +31,7 @@ Critical
 ### Boons
 
 -   Skilled Fighter - Can block and parry common attacks and Mantras, as well as roll away from criticals and feint their own attacks.
+-   Skilled Watcher - Can detect an enemy quickly, regardless behind them or sneaking up on them.
 
 ## Finisher
 

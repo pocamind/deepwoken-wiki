@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 81585
+revid: 81692
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -209,7 +209,7 @@ Once you select your card, using C will activate your **Resonance**.
 
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
--   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md).**
+-   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa (tested)](Second_Layer/New_Kyrsa.md).**
 
 ## Rerolling & Resonance Doors
 
