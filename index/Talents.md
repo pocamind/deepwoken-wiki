@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81700
+revid: 81702
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2279,7 +2279,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Effect: Buff speed slightly and major power boost
 
 -   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
-    -   Prerequisites: 75 Charisma, other Vow of Mastery talents
+    -   Prerequisites: 75 Charisma, ALL of the command talents in Vow of Mastery.
     -   Effect: Will fully heal your servant if they have lower than 40% hp
 
 -   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side.
