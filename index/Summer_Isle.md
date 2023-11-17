@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 81572
+revid: 81703
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -57,7 +57,7 @@ On the first floor of the Summer Company's castle, the [Thundercall](Thundercall
 
 -   To unlock Thundercall, the player must bring 5 [Spark Glands](Spark_Gland.md) to the trainer to be crushed into a vial, obtaining a [Sparkblood](Attunement_Potions.md) potion.
 -   You can upgrade your Thundercall mantras for 100 notes each, the price increasing by 100 notes with each upgrade on the specific mantra.
--   Funke wields a [Hero Blade of Lightning](Hero_Blades.md) when encountered in the [Silentheart](Oath%253A_Silentheart.md) progression.
+-   Funke wields the [Stormseye](Stormseye.md) when encountered in the [Silentheart](Oath%253A_Silentheart.md) progression.
 -   Summer Isle's [cauldron](Cauldron.md) is located in the same room as Funke.
 
   

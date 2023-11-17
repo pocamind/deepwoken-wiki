@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81702
+revid: 81708
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -714,6 +714,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 60 [Element](Attunements.md)
 
 ### Empath
+
+> _**"I feel the pain of those around me."**_
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.
     -   Guildmates, people who are in a Vow of Mastery or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
@@ -2279,7 +2281,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Effect: Buff speed slightly and major power boost
 
 -   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
-    -   Prerequisites: 75 Charisma, ALL of the command talents in Vow of Mastery.
+    -   Prerequisites: 75 Charisma, other Vow of Mastery talents
     -   Effect: Will fully heal your servant if they have lower than 40% hp
 
 -   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 81007
+revid: 81704
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -35,6 +35,10 @@ Every character begins as a Pathfinder, otherwise known as one who has yet to sw
 -   [Silentheart](Oath%253A_Silentheart.md): +10% Weapon Damage, +15% Mantra Resistance, +10 HP, +5 Posture \[Attunement-less, 75 Weapon, 40 Strength, 40 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
+
+**There is currently 1 fully confirmed upcoming Oath in _Deepwoken_:**
+
+-   [Saintsworn](Oath%253A_Saintsworn.md): ?
 
 ## Lore Oaths
 
