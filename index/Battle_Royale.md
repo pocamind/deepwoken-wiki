@@ -1,18 +1,12 @@
 ---
 title: Battle Royale
-revid: 81581
+revid: 81916
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
 ---
 
 # Battle Royale
-
-“ This is definitely a GPO copy ”
-
-― Everyone
-
-  
 
 ## Description
 
@@ -116,5 +110,3 @@ Various weapons can be found around the map floating, some of the weapons found 
 -   You cannot obtain Warrior's Respite from totems.
 -   As of August 29th 2023, Battle Royale is closed for more maintinence on the gamemode itself and squad/duos updates.
 -   Battle Royale was accessible to youtubers during the Content Creator Royale on July 1st, 2023 and it was released to the public on August 25th, 2023 for limited-time testing.
-
-Info tba

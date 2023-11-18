@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 81735
+revid: 81912
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -63,6 +63,5 @@ A Celtorian Guard executes it's opponent after knocking them:
 -   They may have unreleased variants of a Celtor.
 -   Celtorian Guards can battle other depths monsters, but they must be triggered by that monster. For example If they are hit by a Megalodaunt Thousand Needles attack by accident, they will target that Megalodaunt.
 -   They will only be triggered by depths monsters if they have been hit many times.
--   If a depth monster is on the verge of killing a Celtorian Guard, it will trigger nearby Celtorian Guards to target that depth monster.
+-   If a Depths Monster is on the verge of killing a Celtorian Guard, it will trigger nearby Celtorian Guards to target the Depths Monster.
 -   Before 7/9/2023, all Lesser Angels would be attacked by Celtorian Guards. It was noted in the update log which caused the change that the guards and Angels were "locked in an eternal blood feud", though it seems that they have now made up.
--   They can talk during the random dialogue events between npcs.

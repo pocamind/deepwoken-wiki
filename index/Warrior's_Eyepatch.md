@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Eyepatch"
-revid: 77171
+revid: 81944
 source: https://deepwoken.fandom.com/wiki/Warrior's_Eyepatch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face, Equipment]
@@ -20,9 +20,13 @@ categories: [Face, Equipment]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | First Layer, Starswept Valley |
+| obtainment | First Layer, Starswept Valley, Aelita |
 | description | "..." |
 
 ## Description
 
-The Warrior's Eyepatch is an [Equipment](Equipment.md) item under the "Face" category. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) and in the [First Layer](First_Layer.md).
+The Warrior's Eyepatch is an [Equipment](Equipment.md) item under the "Face" category. It can be obtained in [Starswept Valley](The_Starswept_Valley.md) and in the [First Layer](First_Layer.md), and [Aelita](Aelita.md).
+
+## Trivia
+
+-   Upon closer inspection, the eyepatch actually doesn't cover the wearer's eye.

@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 81873
+revid: 81932
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
@@ -53,4 +53,4 @@ _Overview of the small village in Meteor Isle._
 -   [Cestis](Cestis.md), who was previously located in [The Hidden Village](The_Hidden_Village.md) was moved here in the Verse 2 update.
 -   Meteor Isle is a unique piece of land; rumored to be an Oasis of greenery and peace. Meteor Isle is entirely a neutral location due to the equilibrium of Hivekin, Etreans and Navaens.
     -   Although there _are_ mixed relationships between each other, they refrain themselves from violence in Meteor Isle.
--   You cannot set a spawn point in the Inn as they will tell the player that they are closed. (Need comfirming)
+-   You cannot set a spawn point in the Inn as they will tell the player that they are closed.

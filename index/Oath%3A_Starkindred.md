@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 81466
+revid: 81909
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,3 +89,5 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
 -   Dyeing your hair as a Starkindred will also dye your wings to the same color.
     -   Dyeing your hair with your wings active will not change their color until they disappear and are reactivated.
+
+-   Due to recent updates (as of 18th of November 2023) you may now dye Starkindred's neck-halo, added along with being able to dye Silentheart's tattoos.

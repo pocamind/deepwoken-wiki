@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 81803
+revid: 81911
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -64,7 +64,7 @@ Players eyes will turn a blue shade on obtainment
 
 ## Effects
 
-This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace.
+This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their eyes a light blue color (as of 18th Nov. 2023)
 
 ## Notes
 

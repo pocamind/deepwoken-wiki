@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 81899
+revid: 81928
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ _Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Erisia is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+Duke Ishamon Erisia (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
@@ -30,14 +30,19 @@ _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
-| **Assault** | Firmly pummels opponent before finishing up the combo by flourishing them. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Assault** | Firmly pummels opponent before finishing up the combo by flourishing them.
+-   Duke will always start using Assault after using Strong Left.
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
 | **Critical** | Attempts to grab his victim before slamming them into the ground head-first.
+
 -   Does not do posture damage but will still grab
 
  | ◯ | ✗ | ◯ | (★★☆) |
 | **Counter** | The Duke shields himself in a glowing wind shield. Any attacks against the shield during this time will be reflected back to the attacker- dealing significant damage and ragdolling them backwards.
 
 -   He laughs afterward when something strikes his counter.
+-   No range limit, damage is always induced if the counter is hit.
 
  | ◯ | N/A | N/A | (★★★) |
 | **Feint** | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
@@ -47,29 +52,37 @@ _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)
  | ✗ | ✗ | ◯ | (★☆☆) |
 | **Binding Tempest** | The Duke rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, the Duke teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
+-   Telegraphed by the lack of sound while rising and longer cast time, compared to Aero Spear.
+-   Will daze targets if they hit a wall while ragdolled.
+-   Projectiles have good tracking but have a limited turn angle, possibly delaying the hit if it orbits around you.
+
 **This move will insta-grip you if you are hit by the second hit on low health/knocked**
 
  | ◯ | ✗ | ◯ | (★★☆) |
 | **Aero Spear** | The Duke flies into the air and shoots a singular decently sized Wind Lance at whoever he's provoked/aggroed on to.
+
+-   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 
 **This move will insta-grip if it hits you while knocked or at low health**
 
  | ◯ | ✗ | ◯ | (★★☆) |
 | **Gale Stomp** | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
+-   Will daze targets if they hit a wall while ragdolled.
+
 **This move will insta-grip if it hits you while knocked or at low health**
 
  | ✗ | ◯ | ◯ | (★★★) |
 | **Cyclone Bomb** | The Duke flies into the air, raising his hands above him to conjure a huge ball of wind before throwing it down, dealing massive damage and may one shot you if not dodged or parried. however it is a very rare attack.
 
-\- Covers a large Area of Effect. **This move will insta-grip if it hits you while knocked or at low health**
+-   Covers a large Area of Effect.
+
+**This move will insta-grip if it hits you while knocked or at low health**
 
  | ◯ | ✗ | ◯ | (★★★) |
 | **Strong Left** | Duke will charge up a punch, and teleport to his target,
 
-just to hit them.
-
-After this attack he will use his fists for around 30 seconds.
+-   Duke transition to Assault after using Strong Left.
 
  | ◯ | ✗ | ◯ | (★★★) |
 | **Summon Mindless Servants** | The Duke snaps his fingers, summoning 2-3 mindless servants from the pods around the boss room.
@@ -86,8 +99,6 @@ After this attack he will use his fists for around 30 seconds.
 
 ### Talents
 
--   Experienced Fighter - Can block and parry common attacks and mantras.
--   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white, it will immediately teleport Duke to a random player as soon as the wind up is done, it is unknown if this also increases the damage of the mantra or if it is just a reskin.
 -   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well. Grip him while you can.
 -   Breathing Impact - When knocked into objects by wind mantras you will take additional blunt damage based off of how hard you are hit.
 -   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage dealt to you again. If an attack was a mantra, it does 5% damage instead.

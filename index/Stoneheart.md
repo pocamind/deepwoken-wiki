@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 81896
+revid: 81941
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -42,3 +42,4 @@ This weapon's critical by default charged up to create a massive [golem-beam](Ro
 
 -   The Stoneheart is a physical drop, not a chest drop, meaning its drop chance can be increased via [Vow Of Thorns](Echoes.md) and the Lootskipper talent.
 -   It does 49.7 damage at 100 Heavy and 6 Proficiency making it a viable endgame choice.
+-   The Stoneheart's head was designed by Nuttoons, while the handle was designed by Es, which is why the handle is missing on the concept art.

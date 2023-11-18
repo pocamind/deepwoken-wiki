@@ -1,11 +1,10 @@
 ---
 title: Black Diver (NPC)
-revid: 77933
+revid: 81929
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, In progress with reason, InProgressPages, Enemies]
+categories: [In progress with reason, InProgressPages, Enemies, Cut Content]
 notices:
-  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
   - "This page is still in progress! Please have patience, and aid the creation of this page!"
 ---
 
@@ -15,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Black Divers acted as guards for [Castle Light](Castle_Light.md) before being replaced by [Journeyman Diver Guards](Journeyman_Diver_Guard.md) on the **1/16/2023** update.
+Black Divers are enemies that can appear as part of a high level Ambush events from The Divers.
 
 ## Moveset
 
@@ -47,12 +46,33 @@ Gale Lunge
 
 Jolt Grab
 
- | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+ | Teleports to the nearest target before sending out a shocking AoE.
 
-### Boons:
+-   Uses the Magnet Spark variant of Jolt Grab
 
--   Experienced Fighter - Can block and parry common attacks and mantras.
--   Mantra Modification - A Black Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+ | ◯ | ◯ | (★★☆) |
+
+### Talents
+
+-   Battle Tendency - Black Divers recover posture 20% faster.
+-   Brick Wall - Black Divers are immune to all form of ragdolls, beside being knocked. Knockdowns duration are reduced by 30%
+-   Surge Path: Unstable Capacitor - Black Divers Lightning mantras apply Surge instead of Shock. At maximum stack, target become Overloaded, which sends arcs of lightning in all directions.
+-   Firmly Planted - Slow debuff toward Black Divers are reduced by 30%.
+-   Braced Collapse - Black Divers take reduced damage from the next hit they take after being guard broken.
+-   Showstopper - Black Divers stomp the grounds when an attack is dodged, dazing those nearby.
+-   Strong Stern - Black Divers are Dazed for half the time if wall banged.
+-   Perseverance - Black Divers wake up from being knocked faster.
+-   Giantslayer - Black Divers deal +10% more damage to Monsters.
+-   Underdog - Black Divers deal more against enemies with more HP than them.
+-   Defiance - Negative Status effects are halved when Black Divers are below 35% HP.
+-   Last Resort - Black Divers gain +10% damage while below 25% HP.
+-   Steady Footing - Black Divers resist knockback effects and do not slide on ice.
+-   Suffocating Impact - Black Divers apply Suffocation and Winded after a wall bang.
+-   Heavy Hitter - Black Divers deal +25% posture damage.
+-   Concussion - Being flourished into a wall by a Black Diver alter vision and Daze for longer.
+-   Static Link - Black Divers landing a Flourish or Uppercut apply a static link.
+-   Storm Link - Black Divers apply Shock (Surge because of Surge Path) to enemies with a static link if hit with a Wind mantra.
+-   Chronostasis - Black Divers put target's Resonance on a short cooldown when they land hits.
 
 ## Finisher
 
@@ -67,6 +87,7 @@ A Black Diver executes it's opponent after knocking them:
 
 ## Trivia
 
--   They were added to make Castle Light feel more protected, but were replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) due to their presence contradicting the established low number and high power level of actual Black Divers.
+-   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on the **1/16/2023** due to their presence contradicting the established low number and high power level of actual Black Divers.
+    -   They then went unused until the **5/15/2023** update, which brought faction ambushes, which reintroduced them as part of high level ambush.
 -   They use the Magnet Spark variant of Jolts Grab.
 -   When they were at the game it was believed that they were one of the hardest npc's to fight due to their high stats.

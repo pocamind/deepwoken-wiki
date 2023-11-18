@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 81844
+revid: 81908
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -44,7 +44,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Clones disappear if caster takes any kind of damage.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
-    -   **The clones deal real damage now** unlike previously when they dealt 1/4 real damage.
+    -   The clonea deal standard, real damage.
     -   Clones do apply hitstun, allowing one to trip up enemies and possibly fail parries.
     -   This mantra is similar to lightning clones, although it works slightly different in execution (Lightning clones dissapear after being hit or hitting once) also Lightning clones and Illusory Servants can be used together.
 
