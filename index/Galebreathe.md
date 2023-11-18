@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 81815
+revid: 81833
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -134,6 +134,7 @@ _A rushing current of wind._
 -   Moves forward on its own after 2 seconds.
 -   Deals light damage and hits multiple times.
 -   Projectile is short-ranged.
+-   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
 
  |  |
 |  | 

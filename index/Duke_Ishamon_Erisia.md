@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 81793
+revid: 81849
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -276,7 +276,8 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
 
 ## Trivia
 
--   The music for this area is [Sin-Smelted Scoriae](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The music for his bossfight is [Sin-Smelted Scoriae](Deepwoken_OST.md) by Naktigonis.
+    -   Naktigonis also provides the voice of the Duke, first heard in [a twitter post](https://twitter.com/Hautedeserte/status/1722426327989473791) posted over a week before his voice was actually added.
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.
@@ -287,10 +288,10 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
 -   The Duke's health scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
--   His first name is unknown, leading to it becoming a meme in the community.
+-   His first name remains unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
-    -   The [Stoneheart](Stoneheart.md) refers to him as Ishamon.
+    -   The [Stoneheart](Stoneheart.md)'s description refers to him as Ishamon.
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance

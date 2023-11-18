@@ -1,6 +1,6 @@
 ---
 title: Squid
-revid: 79226
+revid: 81886
 source: https://deepwoken.fandom.com/wiki/Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -16,7 +16,10 @@ Look mum, I caught a Squid!
 
 A squid can be caught by [Fishing](Fishing.md).
 
+You can also cook it.
+
   
+
 There's not much information about the squid so far. Add what you know about it!
 
 mmm... tasty...

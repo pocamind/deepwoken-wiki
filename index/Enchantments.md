@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 81586
+revid: 81874
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -638,6 +638,7 @@ File:Vamparism shield.png
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag.[\[3\]](#cite-note-3)
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
@@ -658,3 +659,4 @@ File:Vamparism shield.png
 
 1.  [↑](#cite-ref-1) File:Astral15.png
 2.  [↑](#cite-ref-2) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
+3.  [↑](#cite-ref-3)

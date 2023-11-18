@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 71297
+revid: 81860
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies]
@@ -30,9 +30,17 @@ Their arsenal is composed of an Officer Sabre/Adretian Axe along with the [Flame
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
 | Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ◯ | (★★★) |
 
-### Boons
+### Talents
 
--   Experienced Fighter - Can block and parry common attacks and mantras.
+-   Azure Flames - Many of their flames turn blue, signifying their increased intensity.
+-   Mirage Clone - Dodging attacks will leave behind a heat mirage clone that sets their enemy on fire.
+-   Agitating Spark - Flame attacks spread to anybody nearby, including themselves.
+-   The Final Act - Flame mantras landed after a flourish will explode their opponent.
+-   Uproar - Upon getting hit 3 times within 3 seconds they gain full hyperarmor.
+-   Immolation - Hitting their opponent while on fire will apply fire damage, while also taking 50% less damage from self inflicted flames.
+-   Phoenix Flames - Any time an Authority Lieutenant would burn to death, they instead revive with half of their health restored.
+-   Corpse Explosion - Bodies they burn to death instantly detonate dealing damage to anybody nearby.
+-   Controlled Combustion - Their Agitating Spark no longer spreads to those allied with them.
 
 ## Finisher
 

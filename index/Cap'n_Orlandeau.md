@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 74820
+revid: 81842
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) captain of the [Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appeared as a tutorial guide for the game upon talking to him (in the form of a fragment of your memory) in the [Fragments of Self](Fragments_of_Self.md) and taking the [Castaway Origin](Origins.md). Once manned a crew of seven in his ship, his ship was scuttled by [The Authority](The_Central_Authority.md) leaving his fate unknown.
+**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appeared as a tutorial guide for the game upon talking to him (in the form of a fragment of your memory) in the [Fragments of Self](Fragments_of_Self.md) and taking the [Castaway Origin](Origins.md). Once manned a crew of seven in his ship, his ship was scuttled by [The Authority](The_Central_Authority.md) leaving his fate unknown.
 
 As of the Post-Verse 2 update, he is confirmed to have survived the scuttling, sank into the oceans, and found his way to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the Second Layer, leaving him as the sole survivor among the Scoundrel's Bounty crew. Believing this may be his final plunder, he explores the sleeping city in search of treasures, fame, and glory.
 

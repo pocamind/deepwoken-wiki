@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 81597
+revid: 81881
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -115,3 +115,4 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   The vent he uses was the old vent before Deepwoken's release.
 -   If you somehow encounter it in the overworld, do not try to swim away, it CAN swim, though it doesn't have a unique swimming animation.
 -   They are named after the Nautilus, a family of shelled cephalopods.
+-   **SIDE TIP:** Attunement-free fortitude mantra "Brace" is very useful when fighting a Nautilodaunt because you have hyper armor for at least 5 seconds and can get some free hits in because the hyper armor won't allow you to be interrupted, but it is very useless when fighting a Fury Nautilodaunt because its fist is capable of removing hyper armor.

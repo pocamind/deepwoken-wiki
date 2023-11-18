@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 81804
+revid: 81869
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -65,7 +65,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Bleed:** 10% of the weapon's max damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage. Bleed causes extra blood loss as well. The "**Max Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which cant be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down without the use of echoes.
--   **Boss Weapon:** Weapons that can only be obtained by killing certain bosses.
+-   **Boss Weapon:** Weapons that can only be obtained by killing certain bosses. Can be enchanted despite being a **Legendary**. Does not soulbind on equip.
 
 ## Types of Weapons
 
@@ -901,7 +901,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>30.1</td>
 </tr>
 <tr>
-  <td><a href="Serrated_Warspear.md">Serrated Warspear</a> (<b>Bleed</b>)</td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Serrated_Warspear"><font>Serrated Warspear</font></a> (<b>Bleed</b>)</td>
   <td>65 MED</td>
   <td>18</td>
   <td>20%</td>
@@ -1602,7 +1602,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>8.5</td>
   <td>0.6x</td>
   <td>0.1</td>
-  <td>47.4</td>
+  <td>49.7</td>
 </tr>
 <tr>
   <td><a href="Hivelord's_Hubris.md">Hivelord's Hubris</a></td>
@@ -1944,10 +1944,10 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Hivelord's Hubris (100 HVY)
     -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
-    -   Penetration: Shattered Katana/First Light (30%)
+    -   Penetration: Shattered Katana/First Light/Stoneheart (30%)
     -   Chip damage: Night Axe (60%)
     -   Scaling: Revolver, Divine Flintlock (15)
-    -   Weight: Enforcer Hammer (12)
+    -   Weight: Enforcer Hammer/Stoneheart (12)
     -   Range: Revolver, Divine Flintlock (12)
     -   Swing Speed: Divine Flintlock (1.3x)
     -   Highest DPS: Divine Flintlock

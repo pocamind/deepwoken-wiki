@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 81797
+revid: 81868
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -118,14 +118,15 @@ The Duke
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes says: "Vermin! You seek to let Celtor repeat?"
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
 -   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens, Duke seems to have good motives, believing that all he is doing is to save Lumen. Worth noting, but in no way justifies his actions.
--   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone.
+-   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone. These Golems were sustained by his own power, and it was observed that he could only upkeep a handful at a time to guard his estate in Celtor before he acquired the Forge of Sin.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the Temple Of The Forgotten Flame after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
-    -   However, this does not explain why the Golems were largely docile for a good period of Erisia's history. It may be that using human souls lead to them becoming more powerful and aggressive so that The Duke could further his goals more easily. He also may have always been murdering Erisian citizens for their souls, but only stepped up production to protect the Forge.
+    -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[2\]](#cite-note-arch-2)
--   Nobody knows his real name.
+
+  
 
 ### **"Maestro" Evengarde Rest**
 
@@ -308,7 +309,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
 -   Despite cutting all relations with the song, a silentheart is still able to obtain both a murmur and resonance; applications of the song which in a small way of breaks the Oath, but this is just a small contradiction in the game.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against the song and to the five attunement trainers (A recent update now made The Dreadstar send the player after the ironsing trainer, the attuntementless trainer remains unaffected by The Dreadstar)
+-   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer or the Ironsinger trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful. This has yet had to be confirmed.
 

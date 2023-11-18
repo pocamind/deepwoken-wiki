@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81750
+revid: 81887
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2357,6 +2357,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Haunted Gale \[Common Talent\] - Every 3 hits landed by perfectly casted Galebreathe mantras will cause the target to be quickly struck by a phantom of wind. (+5 Elemental Intensity)
     -   Prerequisite: 40 Galebreathe, [Power](Power.md) 8
+    -   3 hits landed is reduced to 2 if Gale Wisp is active.
+    -   There is a cap of 2 strikes per mantra, per enemy.
 
 ### Windrunner
 
