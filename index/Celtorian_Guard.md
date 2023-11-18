@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 77783
+revid: 81735
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -31,6 +31,12 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 \[[Trident Spear](Trident_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
  | ◯ | ✗ | (★☆☆) |
+
+### Talents
+
+-   Giantslayer
+-   Braced Collapse
+-   Charged Return
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 80838
+revid: 81803
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,6 +36,8 @@ categories: [Oaths]
     4.  Return 4 [Scarlet Lotuses](Pristine_Lotus.md) to [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
 The only way to obtain each ability is to grip a player with an Oath, this however does not need to be done with The Entropy Catalyst, you get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain on the Third And finally Parasitic Leech on the fourth grip.
+
+Players eyes will turn a blue shade on obtainment
 
 ## Abilities
 

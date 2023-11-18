@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 81673
+revid: 81746
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -99,6 +99,13 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 (★☆☆)
 
  | **I**/**II** |
+
+### Talents
+
+-   First Interrogation
+-   Second Interrogation
+-   Authority Intimidation
+-   Resolve Crusher
 
 ### Finishers
 
@@ -269,6 +276,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
 -   The Ferryman is voiced by [Demstormz](https://www.youtube.com/@demstormz).
+-   Has talents now (too lazy to list all of them i just know that there are sum authority talents and such)
 
 ## Bugs
 

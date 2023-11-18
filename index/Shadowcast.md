@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 81304
+revid: 81748
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -126,19 +126,6 @@ do a small amount of damage and steal a large amount of ether.
 -   You cannot use any mantras after using this mantra until the orbs have either hit the target or despawned.
 -   If managed to hit, Shadow Seekers will replenish equal or more ether cost.
 -   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
-
- |
-| 
-
- | 
-
-Encircle  
-(★☆☆)
-
- | Conjure shadows around your enemy before warp-striking to them. | 150 Ether | The user will summon shadows around their target and teleport to them after a short wait.
-
--   Attacks done before teleporting will continue after the teleport. for instance, a mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or mantras, such as Eclipse Kick
--   Will still teleport the user if parried/dodged
 
  |
 | 
@@ -273,7 +260,26 @@ Shade Wisp
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
+| 
+ | 
+
+Encircle  
+(★☆☆)
+
+ | Conjure shadows around your enemy before
+
+warp-striking to them.
+
+ | 150 Ether | 
+
+The user will summon shadows around their target and teleport to them after a short wait.
+
+-   Attacks done before teleporting will continue after the teleport. for instance, a mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or mantras, such as Eclipse Kick
+-   Will still teleport the user if parried/dodged
+
+ |
 |  | 
+
 Shadow Assault  
 (★★☆)
 

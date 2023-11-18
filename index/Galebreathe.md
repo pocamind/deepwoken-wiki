@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 81307
+revid: 81815
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -130,6 +130,8 @@ _A rushing current of wind._
 
  |  | Conjure a small vortex around yourself, M1 to cast it forward.
 
+-   Can be modified with logstones to increase duration, but caps at 1 or 2.
+-   Moves forward on its own after 2 seconds.
 -   Deals light damage and hits multiple times.
 -   Projectile is short-ranged.
 
@@ -181,6 +183,7 @@ _Form a punch of wind in your fist and release it._
 
  |  | Conjure a wind AoE punch that deals damage and knocks opponents away.
 
+-   Can be modified with cloudstones and stratus stones to increase size.
 -   Can break objects.
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
 

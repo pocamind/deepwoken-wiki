@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 81686
+revid: 81794
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -265,28 +265,6 @@ _A rising tornado of flames._
 
  | 
 
-Flame Assault
-
-(★★☆)
-
- | 
-
-_Burst forward in flames._
-
- | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
-
--   Deals light damage.
--   Throws back the opponent and sets them on fire.
--   Compatible with Cast Speed and Visibility Modifiers.
--   Provides adequate mobility.
--   Moves in a straight path.
-    -   Can propel the user midair.
-
- |
-| 
-
- | 
-
 Ash Slam
 
 (★★★)
@@ -317,6 +295,20 @@ _Strike the ground, turning it to ash._
 -   Homes onto enemies.
 
  |
+|  | Flaming Scourge
+
+(★★★)
+
+ | _Lash out with flames._ | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
+
+-   Grabs any enemies In range of it.
+-   Inflicts burn.
+-   Deals moderate-high damage.
+    
+    > _INSTA POSTURE BREAKS ON THE SECOND SLASH HIT_
+    
+
+ |
 
 ### **Mobility Mantras**
 
@@ -342,6 +334,20 @@ _Leap up leaving behind a burst of flames._
 -   Is able to proc _Meteor Impact,_ as long as the initial leap hits and the opponent(s) are sent upwards with you.
 -   Shares similar traits to the Strong Leap mantra.
 -   The Mantra will not summon flames nor do damage if used in [bodies of water](https://deepwoken.fandom.com/wiki/The_Depths).
+
+ |
+|  | Flame Assault
+
+(★★☆)
+
+ | _Burst forward in flames._ | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
+
+-   Deals light damage.
+-   Throws back the opponent and sets them on fire.
+-   Compatible with Cast Speed and Visibility Modifiers.
+-   Provides adequate mobility.
+-   Moves in a straight path.
+    -   Can propel the user midair.
 
  |
 

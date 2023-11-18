@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 78124
+revid: 81813
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -8,32 +8,34 @@ categories: [Weapons, Daggers]
 
 # Silver Dagger
 
-| Silver Dagger | |
+| Holocaust Dagger (Silver Dagger) | |
 |---|---|
-| type | Dagger |
-| requirements | 35 LHT |
-| damage | 12 |
-| scaling | 6 |
-| range | 6.5 |
-| swing speed | 0.98x |
-| endlag | 0.05s |
-| penetration | None |
-| stances | 1 Handed |
-| selling price | 10 notes |
-| weight | 2 |
+| type | Holocaust |
+| requirements | 35 PEE |
+| damage | Varies on Religion |
+| scaling | 49 |
+| range | 1942 |
+| swing speed | 12045015x |
+| endlag | -0.05s |
+| penetration | 50% |
+| chip damage | 120% |
+| special effect | Burn damage and bleed damage to those of Jewish religion. |
+| selling price | 2 |
+| weight | -32 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia , Purchased in Summer Isle |
-| description | A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable. |
+| obtainment | idk , Purchased in Germany |
+| description | A dagger containing the undead spirit of a certain Fuher. |
 
 ## Description
 
-The Silver Dagger is a LHT dagger weapon that can be purchased at [Summer Isle](Summer_Isle.md) for 50 Notes and can be rarely found in [Erisia](Erisia.md). It is a decent dagger to use from early to mid game. However, it is highly suggested to use the Gilded Knife _(If you have one)_ as it outranks the Silver Dagger in everything except the swing speed (only .02x faster).
+The Holocaust was faked. The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.The Holocaust was faked.
 
 ## Notes
 
--   The design of the guard looks similar to a [Worshipper Longsword](Worshipper_Longsword.md).
--   Meeting the requirement of LHT, the damage is (14.52)
--   At max LHT, the damage is (19.2)
+-   The design of the guard looks similar to a [Holocaust Baton](Oath%253A_Silentheart.md).
+-   Meeting the requirement of PEE, the damage is okay i guess
+-   At max PEE, the damage is enough to kill a pickle
+-   oh yeah if you want the person who did this it was tj119012 dm me LMAOO

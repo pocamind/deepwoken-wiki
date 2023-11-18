@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 75896
+revid: 81738
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -42,6 +42,13 @@ Flame Assault
 #### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+
+### Talents
+
+-   Nullifying Clarity
+-   Hard Read
+-   Flaming Flourish
+-   Lightspeed Reflexes
 
 ## Finisher
 

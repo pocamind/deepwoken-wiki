@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 81681
+revid: 81793
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -89,6 +89,28 @@ After this attack he will use his fists for around 30 seconds.
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 -   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white, it will immediately teleport Duke to a random player as soon as the wind up is done, it is unknown if this also increases the damage of the mantra or if it is just a reskin.
 -   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well. Grip him while you can.
+-   Breathing Impact
+-   After Cut
+-   Suffocating Impact
+-   Gale Coil
+-   Stifled Jump
+-   Air Pressure
+-   Pressure Break
+-   Silencer's Edge
+-   Silencer's Blade
+-   A World Without Song
+-   Collapsed Lung
+-   Dirty Boxing
+-   Concussion
+-   Concussive Force
+-   Bulldozer
+-   Million Ton Piercer
+-   Shield Breaker
+-   Audacity
+-   Matador
+-   Showstopper
+-   Berserker
+-   Charged Return
 
 ## Finisher
 
@@ -268,6 +290,7 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
 -   His first name is unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
+    -   The [Stoneheart](Stoneheart.md) refers to him as Ishamon.
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance

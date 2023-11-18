@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 77531
+revid: 81741
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -59,6 +59,16 @@ Gale Lunge
 ### Boons
 
 -   Mantra Modification - A Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+
+### Talents
+
+-   Battle Tendency
+-   Braced Collapse
+-   Firmly Planted
+-   Perseverance
+-   Giant Slayer
+-   Underdog
+-   Defiance
 
 ## Finisher
 

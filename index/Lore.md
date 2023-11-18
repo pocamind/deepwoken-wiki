@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 81507
+revid: 81797
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -47,7 +47,7 @@ _The Lord Regent, sitting atop his throne of coral._
     -   Lord Regent has his power increased by an incredible amount by sitting on his throne. He is able to go from barely defeating Akira to easily defeating Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.[\[1\]](#cite-note-rag-1)
     -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely immortal.
 -   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
--   The Lord Regent's power is unique and the attunement it's associated with is unknown, assuming it's even associated with an attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) Oath.
+-   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) Oath.
     -   Though it is not Shadowcast,[\[2\]](#cite-note-arch-2) it is similar in appearance to it and after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
 -   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
@@ -162,9 +162,10 @@ _"The Eternal Flame, and the failure of man..." -One of Amorus Pleeksty books._
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.[\[1\]](#cite-note-rag-1)
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
 -   'Would beat Akira up and down the eastern lum.'[\[1\]](#cite-note-rag-1)
--   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwokens.
+-   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
 -   His Race is unclear, do to undergoing constant revisions during development. The three known Races he could be are: Ganymede, Vesperian or Tiran.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
 -   Is or was a very prestigious Black Diver, having the respect of most of the Divers, however his actual relation to The Divers is unknown.
+-   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
 -   Apparently, he also writes books, with the only known one being "Flame and the failure of man."
@@ -307,7 +308,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
 -   Despite cutting all relations with the song, a silentheart is still able to obtain both a murmur and resonance; applications of the song which in a small way of breaks the Oath, but this is just a small contradiction in the game.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer or the Ironsinger trainer)
+-   Has a deep hatred against the song and to the five attunement trainers (A recent update now made The Dreadstar send the player after the ironsing trainer, the attuntementless trainer remains unaffected by The Dreadstar)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful. This has yet had to be confirmed.
 
@@ -385,7 +386,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   His existence created Korilfiend's garden, which is seen as his 'essence.'
     -   This garden contains meteor flowers, which are seen as a part of him.
     -   He takes the form of a large fiery serpent.
--   One of the meteor flowers was eaten by Black Diver Amorus Pleeksty.
+-   One of the meteor flowers was eaten by Amorus Pleeksty, some time before the Divers were established.
 -   Confirmed to be male.
 
 ### **Drowned Gods**
@@ -1360,7 +1361,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
 -   The only lightkeeper that we know of is the one mentioned by Nimea, Viqh, the Lightkeeper of the Eastern Lighthouse.
 -   Apparently Lightkeepers can't leave their light house by any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
--   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
+-   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'Petra's Dawn' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
 -   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
 -   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
@@ -1379,7 +1380,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
 -   The book _The Lament of Cirryn_ expands up on it
-    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave, the process is initially successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage.
+    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave. The process at first seems successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage. It is implied that Cirryn's soul was never truly resurrected, but that something else had taken its place.
     -   It also mentions that "Lifeweave is not the act of generating new life, it is the transfer of life".
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
@@ -1813,6 +1814,13 @@ This category lists new lore that has been added into Deepwoken through updates 
 
 -   A shrine is erected in memorial of those who lost their lives in the Sharko Rumbling.
 
+### Year 1387
+
+(Verse 2 \[4/1/2023\])
+
+-   A pandemic of Coral Fever breaks out, a disease contracted from Megalodaunts. Common symptoms include a change in facial appearance and [a very conversational friend](Destroyman_III.md).
+    -   Coral Fever is shortly eradicated, though you can still contract the latter symptom.
+
 ## Monsters
 
 The various fauna of the Deepwoken world, the bizarre environment shaping even stranger animals.
@@ -2010,7 +2018,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   Pufferfish
             -   Pufferfish survived Lionfish by being too poisonous for consumption.
         -   Possibly more
-    -   Due to the existence of cheese, there must be some animal being milked. The fact that only Lance's brother stocks it implies it is a foreign import of some kind.
+    -   Due to the existence of cheese, there must be some animal being milked. The fact that only Lance Leshi's brother stocks it implies it is a foreign import of some kind.
         -   There are cows, though we can't see them.
     -   Lionfish have been a major cause for the extinction of many sea predators.
 

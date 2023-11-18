@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 80216
+revid: 81739
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -58,3 +58,8 @@ Flame Assault
 #### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+
+### Talents
+
+-   Nullifying Clarity
+-   Hard Read

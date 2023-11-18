@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 81547
+revid: 81792
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,7 +40,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 -   +10% mantra resistance.
 -   **Entirely lose access to mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
 -   Attunements are unable to be used or obtained.
--   You gain glowing red veins coursing over your arms and torso.
+-   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.
 
 ## Upgrading

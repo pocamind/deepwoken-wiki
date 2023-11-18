@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 80962
+revid: 81720
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -20,7 +20,7 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 ### Dual-Wielding
 
-You can wield 2 pistols at the same time by equipping two of any flintlock-type weapon in both the main and side weapon slot. when using two guns, your M1's will consist of three or two consecutive shots before flourishing.
+You can wield 2 pistols at the same time by equipping two of any pistols in both the main and side weapon slot. when using two guns, your M1's will consist of three or two consecutive shots before flourishing.
 
 ### One-Handed (1H)
 

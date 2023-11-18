@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 77560
+revid: 81732
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,3 +21,5 @@ Beiruul offers the user a [Quest](Quests.md). This quest involves raiding [Fort 
 Once you complete the quest, return to Beriuul and she will grant you two knowledge.
 
 When fighting, Beiruul uses the [Way Of Navae](Fists.md) fist fighting style and [Frostdraw](Frostdraw.md) mantras, similar to a regular [Gremor Nomad](Eastern_Nomad.md).
+
+She has Fists of Fortitude and Fists of Navae as [talents](Talents.md).

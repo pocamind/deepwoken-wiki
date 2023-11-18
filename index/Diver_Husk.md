@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 81372
+revid: 81807
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -37,6 +37,7 @@ Diver Husks has an arsenal of weapons known across the Lumen to equip from, but 
 -   They can become very problematic should a [Carbuncle](Carbuncle.md) join the fight.
 -   Despite their monstrous features and post-mortem of The Eternal Gale's Parasites, they act just as any humanoid enemy act and perform. They don't have the ability to parry, block and dodge so you can just try and m1 them to death on a wall.
 -   Be careful of their Strong Left knocking you off bridges or ledges.
+-   They often do Strong Left first as there attack so you should be prepare to parry.
 
 ## Trivia
 

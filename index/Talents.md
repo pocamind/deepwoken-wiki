@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81708
+revid: 81750
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -514,7 +514,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
 
--   _Thresher Fangs_ \[Rare Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
+-   Thresher Fangs \[Common Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
     -   Prerequisite: Knife's Journey
 
 -   _True Pain_ \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health)
@@ -621,7 +621,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am the one who speaks to death."**_
 
--   _Black Hole_ \[Rare Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity)
+-   Blackhole \[Common Talent, Shadowcast Exclusive\] Your singularity pulls everyone nearby in. (+1 Elemental Intensity)
     -   Prerequisite: Singularity, 60 Shadowcast, Power 13
 
 -   Energy Siphon \[Shadowcast Exclusive\] Your singularity now pulls ether from the extra players affected. (+1 Elemental Intensity)
@@ -1352,7 +1352,7 @@ _**"I enjoy sea food."**_
 
 > _**"I often attack others."**_
 
--   _Aggressive Posture_ \[Rare Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
+-   Aggressive Posture \[Common Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
     -   Prerequisites: [Power](Power.md) 13
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)

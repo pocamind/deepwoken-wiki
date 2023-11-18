@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 75639
+revid: 81733
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -34,6 +34,15 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 ### Boons
 
 -   Experienced Fighter - Can parry, block, and dodge common attacks and mantras.
+
+### Talents
+
+-   Uproar
+-   Bulldozer
+-   Shield Breaker
+-   Unwavering Resolve
+-   Bear Trap
+-   Fear
 
 ## Finisher
 

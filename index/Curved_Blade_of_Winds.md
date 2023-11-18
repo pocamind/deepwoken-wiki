@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 81657
+revid: 81777
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -56,3 +56,4 @@ The user shoots a blast of air, similar to the VFX of **Pressure Blast**, and on
 -   This is by far the most nerfed weapon in the game, followed by the Railblade and the Shattered Katana.
 -   It is one of three known weapons to have multiple critical attacks, the others being [Railblade](Railblade.md) and [Light's Final Toll.](<Light's_Final_Toll.md>)
 -   Curved has runes on its blade, barely noticeable, the runes near the grip translate to "FUEOSOFEI" and the other runes near the tip are a mix of different ancient runic dialects, that still don't translate to anything, its gibberish.
+-   Using The Curved Blade of Winds completely disables your shields posture buff. However, if you have the Turtle Shell talent and are 2 handing the weapon, you can still negate Spine Cutter as the shield appears on your back.8

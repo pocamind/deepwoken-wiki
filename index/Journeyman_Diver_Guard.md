@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 77427
+revid: 81743
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -44,6 +44,17 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 ### Boons:
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+
+### Talents
+
+-   Battle Tendency
+-   Brick Wall
+-   Firmly Planted
+-   Braced Collapse
+-   Showstopper
+-   Strong Stern
+-   Frozen Pin-Cushion
+-   Perseverance
 
 ## Finisher
 

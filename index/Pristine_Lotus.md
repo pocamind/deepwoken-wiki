@@ -1,6 +1,6 @@
 ---
 title: Pristine Lotus
-revid: 77418
+revid: 81721
 source: https://deepwoken.fandom.com/wiki/Pristine_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -24,6 +24,6 @@ Pristine Lotuses are items that can be found scattered around the [Entropy Catal
 
 ## Trivia
 
--   Pristone Lotuses drop upon death, but Scarlet Lotuses are soulbound.
+-   Pristine Lotuses drop upon death, but Scarlet Lotuses are soulbound.
 -   This was introduced on the 10th of July 2023 update, as an alternative to the usual Linkstrider obtainment of knocking and carrying 4 [Oath](Oaths.md) users to the catalyst and sacrificing them, sending them to [The Depths](The_Depths.md) due to it being a [Voidzone](Voidzones.md).
     -   This was often very difficult to do solo, not only would you usually have to carry someone a very long distance to get to the catalyst, but many people knocked would simply combat log, as just dying was preferable than being sacrificed and sent to The Depths.
