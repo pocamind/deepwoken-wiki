@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 81885
+revid: 81889
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -521,7 +521,7 @@ File:Attunement-less icon.png
 
 (☆☆☆)
 
- | _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._ | **Requirements:** _**55 Heavy Weapon,**_ _Combat Mantra_
+ | _Reel back and swing your weapon, unleashing an onslaught of blows if it hits._ | **Requirements:** _**50 Heavy Weapon,**_ _Combat Mantra_
 
 -   When activated character does an initial swing with a second long windup, then kicks enemy into air and kicks them away.
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.

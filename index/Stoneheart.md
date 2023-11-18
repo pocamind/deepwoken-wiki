@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 81870
+revid: 81896
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -17,7 +17,7 @@ categories: [Weapons, Greathammers]
 | range | 8.5 |
 | swing speed | 0.6 |
 | endlag | 0.1x |
-| penetration | 30% |
+| penetration | 10% |
 | chip damage | 10% |
 | special effect | Crit can charge up. Unparryable, and large AOE |
 | weight | 12 |
@@ -30,12 +30,15 @@ categories: [Weapons, Greathammers]
 
 ## Description
 
-The Stoneheart is a Heavy Greathammer that is obtained from the [Duke of Erisia](Duke_Ishamon_Erisia.md). This weapon's critical by default charged up to create a massive [golem-beam](Rock_Golem.md) AOE blast. However, it can be cancelled mid-way through for a partially charged variant by either pressing R, M1 + M2, or by getting hit during the windup. You cannot move when charging the critical.
+The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 Despite its [Legendary](Weapons.md) rarity, it can be [enchanted](Enchantments.md) much like other "legendary" weapons (i.e: [Petra's Anchor](<Petra's_Anchor.md>))
+
+## Critical
+
+This weapon's critical by default charged up to create a massive [golem-beam](Rock_Golem.md) AOE blast. However, it can be cancelled mid-way through for a partially charged variant by either pressing R, M1 + M2, or by getting hit during the windup. You cannot move when charging the critical.
 
 ## Trivia
 
 -   The Stoneheart is a physical drop, not a chest drop, meaning its drop chance can be increased via [Vow Of Thorns](Echoes.md) and the Lootskipper talent.
--   Elaborated by its description, The Duke's first name is Ishamon.
--   It does 49.7 damage at 100 heavy and 6 proficiency making it a viable endgame choice.
+-   It does 49.7 damage at 100 Heavy and 6 Proficiency making it a viable endgame choice.

@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 77963
+revid: 81894
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -27,6 +27,7 @@ It drops a Lionfish Scale, which is used for crafting armor sets.
 | **Name** | **Description** | **Parry-able?** | **Danger** |
 | --- | --- | --- | --- |
 | **Bite** | The Lionfish opens its jaws, biting down the foes in its direction 3 times in repeating succession, dealing _**25 damage**_. (Roughly 40+ damage if corrupted) Uses this move to grip players in the Overworld. | ◯ | (★☆☆) |
+| **Ram** | The Lionfish positions itself sideways, before ramming into a ship at full speed. This damages your ship and may damage you too if within range. (This is only used while you are on a ship) | ✗ | (★☆☆) |
 | **Dive** | The Lionfish dives below the waves, lurking beneath its prey as it prepares to ambush its opponent. (**Etrean Luminant Exclusive**) | **N/A** | (☆☆☆) |
 | **Cero** | The Lionfish raises its entire body upwards, opening its jaws to begin charging up what seems to be a purple-orb. Once fully charged, the beast will slam downwards, firing a massive laser beam at its opponent, dealing _**55 damage**_. (Corrupted Lionfish deal _**165 damage**_ with this move.) Lionfishes also use Cero specifically to grip knocked players with an extremely reduced windup. This also has an auditory difference as the sound of the charge up will be a sped up higher pitched version. If the opponent is low enough, It will **AUTO-GRIP** the player. (**Depths Exclusive**) | ✗ | (★★☆) |
 

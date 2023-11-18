@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 81849
+revid: 81899
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -89,28 +89,28 @@ After this attack he will use his fists for around 30 seconds.
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 -   Gale Enhancement - The color of Duke Erisia's "Strong Left" mantra is light green instead of white, it will immediately teleport Duke to a random player as soon as the wind up is done, it is unknown if this also increases the damage of the mantra or if it is just a reskin.
 -   Impervious Slumber - Hitting knocked Duke won't reset his time knocked, he cannot be carried as well. Grip him while you can.
--   Breathing Impact
--   After Cut
--   Suffocating Impact
--   Gale Coil
--   Stifled Jump
--   Air Pressure
--   Pressure Break
--   Silencer's Edge
--   Silencer's Blade
--   A World Without Song
--   Collapsed Lung
--   Dirty Boxing
--   Concussion
--   Concussive Force
--   Bulldozer
--   Million Ton Piercer
--   Shield Breaker
--   Audacity
--   Matador
--   Showstopper
--   Berserker
--   Charged Return
+-   Breathing Impact - When knocked into objects by wind mantras you will take additional blunt damage based off of how hard you are hit.
+-   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage dealt to you again. If an attack was a mantra, it does 5% damage instead.
+-   Suffocating Impact - When flourished into walls by Duke, you are suffocated and winded for a short duration.
+-   Gale Coil - Duke's suffocates last twice as long.
+-   Stifled Jump - If you jump while suffocated by Duke you will be dazed.
+-   Air Pressure - When Duke dodges an attack or hits your block his next dash will be a Gale Dash.
+-   Pressure Break - When Duke breaks your posture, you will take intense wind pressure damage and be flung backwards.
+-   Silencer's Edge - If Duke melees you while you are 'Suffocated' he will gain a speed boost.
+-   Silencer's Blade - If Duke melees you while you are 'Suffocated' it will extend the duration of the Suffocation.
+-   A World Without Song - Duke's wind mantras will now apply 'Suffocate'.
+-   Collapsed Lung - When block broken by Duke you are unable to Vent for 3s.
+-   Dirty Boxing - If Duke hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
+-   Concussion - When Duke flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
+-   Concussive Force - Ennemies knocked by Duke will remain downed longer than usual.
+-   Bulldozer - If flourished into a wall by Duke, you have a chance to break the wall and be guard broken on impact.
+-   Million Ton Piercer - Duke has 5% extra PEN and has no PEN cap.
+-   Shield Breaker - Blunt damage from Duke now deals full posture damage to shields (essentially your shield is useless for blocking).
+-   Audacity - When Duke starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation.
+-   Matador - Duke deals +20% more damage to human enemies with hyperarmor.
+-   Showstopper - When you roll through one of Duke's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
+-   Berserker - When Duke knocks an ennemy, he gains 20% DMG resistance for 15 seconds.
+-   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
 
 ## Finisher
 
@@ -137,7 +137,6 @@ In terms of strategy to avoid his attacks as much as possible;
 -   If you attempt to assassinate him, the fight will automatically start.
 -   Since the Mindless Servants can hinder your attack and serve as a nustance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
 -   As The Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
--   The Duke is protrayed as a Anti-Hero type of person, showed by his evil acts in pursued of stopping Regent.
 
   
 

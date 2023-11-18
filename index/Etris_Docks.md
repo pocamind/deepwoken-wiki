@@ -1,9 +1,9 @@
 ---
 title: Etris Docks
-revid: 74084
+revid: 81903
 source: https://deepwoken.fandom.com/wiki/Etris_Docks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, World]
+categories: [Pages with broken file links, World]
 ---
 
 # Etris Docks
@@ -23,6 +23,10 @@ File:Etris docks srping.jpg
 ## Overview
 
 Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Sailing.md) in among other things.
+
+## Potential Enemies
+
+-   [Etrean Guardsmen](Etrean_Guardsmen.md)
 
 ## Contents
 
@@ -48,14 +52,10 @@ Etris Docks are docks in Etris that players can dock their [boats](Ships_&_Saili
 -   "May The Depths be merciful to the souls we lost on that dreadful day"
     -   Using any Emote next to the shrine will summon [Destroyman III](Destroyman_III.md), he can be unsummoned by Emoting again.
 
-## Potential Enemies
-
--   [Etrean Guardsmen](Etrean_Guardsmen.md)
-
 ## Maps
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Trivia/Notes
+## Trivia
 
--   Although some food can be seen nearby the Fishing shop, they can't be taken nor bought. Quite a missed opportunity if I do say so myself.
+-   Although some food can be seen nearby the Fishing shop, they can't be taken nor bought.

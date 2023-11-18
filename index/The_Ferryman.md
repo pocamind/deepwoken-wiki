@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 81847
+revid: 81892
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -102,10 +102,10 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 ### Talents
 
--   First Interrogation
--   Second Interrogation
--   Authority Intimidation
--   Resolve Crusher
+-   First Interrogation - Attacks from players who are Electrified will give the Ferryman ether proportional to their initial damage.
+-   Second Interrogation - Electrified attacks do 50% less damage and posture damage to the Ferryman.
+-   Authority Intimidation - All moves that apply electricity slow you more.
+-   Resolve Crusher - All the Ferryman's lightning moves apply "Electrify", attacks from electrified players are converted into lightning damage, but will deal 10% less damage to the Ferryman.
 
 ### Finishers
 
