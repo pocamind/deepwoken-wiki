@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 81940
+revid: 82082
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -49,11 +49,12 @@ The user shoots a blast of air, similar to the VFX of **Pressure Blast**, and on
     -   34.9125 damage with the After Cut effect included.
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
--   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or Voided.
+-   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or voided if not equipped.
 -   When using the weapon one-handed it becomes 2 swords, changing it's animations.
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds has a swing speed of 0.78x when one-handed and 0.8x when two-handed.
 -   This is by far the most nerfed weapon in the game, followed by the Railblade and the Shattered Katana.
+    -   However, this does not mean the weapon is bad, but simply the most changed.
 -   It is one of three known weapons to have multiple critical attacks, the others being [Railblade](Railblade.md) and [Light's Final Toll.](<Light's_Final_Toll.md>)
 -   Curved has runes on its blade, barely noticeable, the runes near the grip translate to "FUEOSOFEI" and the other runes near the tip are a mix of different ancient runic dialects, that still don't translate to anything, its gibberish.
 -   Using The Curved Blade of Winds completely disables your shields posture buff. However, if you have the Turtle Shell talent and are 2 handing the weapon, you can still negate Spine Cutter as the shield appears on your back.

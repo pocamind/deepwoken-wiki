@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 80132
+revid: 82062
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -45,6 +45,19 @@ Old Ice Eruption
 Glacial Shower
 
  | Rains down shards of ice. | ◯ | ◯ | (★★☆) |
+
+## Talents
+
+-   Glass Path: Crystallization - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them.
+-   Cryostasis - When block broken, fragile freeze yourself, negating the damage of the next attack.
+-   Rude Awakening - Rude Awakening
+-   Preceding Chill - Enemies hit during the last moments of your ice beam are frozen.
+-   Frozen Legs - Your slow effect prevents your opponents from rolling.
+-   Crystal Shrapnel - Your crystal explosions now have an AoE that applies crystals to all hit.
+-   Frostbite - Enemies no longer heal when under the effect of your chill.
+-   Saint Jay - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
+-   Berserker - Knocking an enemy grants you 20% damage resistance for 15 seconds.
+-   Anxious Guard - Hitting an enemies block causes their parry window to be lowered for a short duration.
 
 ## Finisher
 

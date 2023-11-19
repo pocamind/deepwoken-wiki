@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 79951
+revid: 82037
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -13,9 +13,11 @@ notices:
 
 ## Description
 
-Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere.
+Random encounters are randomly spawning events that occur throughout target areas in Deepwoken. Although some encounters are specific to certain areas, the majority can be found anywhere. Furthermore, when 2 or more different encounters meet each other, it will often end up in a large battle.
 
 **Note:** This is not a comprehensive list of every single random encounter: more will be added.
+
+A mother Thresher, Hive Construct, and an Authority Captain fighting each other at Starswept Valley.
 
 ## Overworld Encounters
 
@@ -190,7 +192,7 @@ A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas _
 
 #### **False Merchant Ship**
 
-A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is (to my knowledge) extremely rare, and drops high tier loot. When approached, the boat sets on fire and the player is swarmed by [Cloaked Assassins](Cloaked_Assassin.md).
+A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is pretty rare, and drops high tier loot. When approached, the boat will burst into flames and spawn 3 [Cloaked Assassins](Cloaked_Assassin.md) after you.
 
 #### **Divers vs Monster**
 

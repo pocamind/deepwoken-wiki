@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 81608
+revid: 82085
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,7 +47,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
     -   To achieve the maximum damage reduction, use 3 Vibrant Gems, which will give the suit a 10% damage reduction.
     -   The suit has iframes on the second half of its windup.
     -   Orbital Ice is less effective when used in conjunction with it.
-    -   The Arc Suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a equipment dye. “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
+    -   The Arc Suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a [Dye Packet](Dye_Packet.md). “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
 
 -   **Arc Module: Dash - Passive**
     -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther.

@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 81437
+revid: 82041
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -69,13 +69,13 @@ A guild base can be increased in size through different rooms. Some provide prac
 
 -   **Armory** ( ) - A room that features a **blacksmith** (You have to hire them, costing )where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
 
--   **Fishing Room** ( ) - A room consisting of a small pond in the center which you can fish from. If you drink this water you will throw up.
+-   **Fishing Room** ( ) - A room consisting of a small pond in the center which you can fish from. You can drink the water or fill a canteen with it, but it will make you throw up.
 
 -   **Library** ( ) \[XL\] - A room that features many bookshelves.
     -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored, and shows the name and surname of each book's first donator.
         -   There is a cooldown on turning in books which lasts for around 1 minute and 15 seconds.
 
--   **Arena Extension** ( ) \[XXL\] - A Giant room consisting of 4 Campfires, one in each corner, as well as a giant fighting pit as the center piece.
+-   **Arena Extension** ( ) \[XXL\] - A Giant room consisting of 4 Campfires, one in each corner, as well as a giant circular arena in the center meant for you to fight your guildmates.
 
 Library's Donated Books
 
@@ -87,5 +87,7 @@ Bandits raiding a Guild Base.
 -   Grand skewer is disabled while inside, as it could throw people out the base.
 -   Full Guild Base is hard to achieve for small guilds since the price of adding rooms increases exponentially. Could be more achievable with the use of [Guild Banners](Guild_Banners.md).
 -   Bandits can spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it was a bug.
+-   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still [fish](Fishing.md) up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fishing Room.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
+-   Guild bases are very useful. They can be placed anywhere, and can offer healing, protection against enemies or Voidwalkers, safety to train with your guildmates, and allows you to fish without any disturbance.

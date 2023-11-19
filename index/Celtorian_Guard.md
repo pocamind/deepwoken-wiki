@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 81912
+revid: 82070
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -34,9 +34,9 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 
 ### Talents
 
--   Giantslayer
--   Braced Collapse
--   Charged Return
+-   Giantslayer - Deal more damage to larger foes. (10% more damage to Monsters)
+-   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
+-   Charged Return - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
 
 ## Finisher
 

@@ -1,9 +1,9 @@
 ---
 title: "Oath: Silentheart"
-revid: 82017
+revid: 82068
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Silentheart
@@ -101,3 +101,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential.
 -   If you have even one mantra from cards or other sources it will be removed upon Oath obtainment
 -   You may now dye Silentheart's arm-tattoos/markings.
+
+File:Pinkheart.png
+
+Silentheart veins dyed pink.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 81692
+revid: 82088
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -46,7 +46,7 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 
 **Resonances** have a set amount of unseen _**Resonance** points_ when they are obtained. They are randomly distributed to different attributes of the **Resonance** to achieve uniqueness between players and inspire creativity. Due to this, even if two people have the same exact **Resonance**, the properties may likely differ between them- such as Active Time, Speed, or Purpose Fulfillment. However, these points aren't infinite, and where one property of a **Resonance** might get high allocation, that would equally mean that other properties aren't getting much attention. For example, a high-healing reaper bell is less likely to have massive AOE unless the system is in your favor. **Corrupted Resonances** have more points to spend, resulting in more potent attributes for a Resonance.
 
-**Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. Both the color and the shape of the bell are chosen randomly. Rerolling your **Resonance** will alter the appearance of your bell. You can use a dye packet to color your bell according to your preference.
+**Resonances** are physically manifested as instruments; though, in-game, the player is currently only able to obtain a bell-shaped **Resonance**. Both the color and the shape of the bell are chosen randomly. Rerolling your **Resonance** will alter the appearance of your bell. You can use a [Dye Packet](Dye_Packet.md) to color your bell according to your preference.
 
 ## Variants
 

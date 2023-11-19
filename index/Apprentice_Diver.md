@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 55928
+revid: 82073
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -55,6 +55,16 @@ Gale Lunge
 ### Boons
 
 -   Mantra Modification - An Apprentice Diver's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+
+### Talents
+
+-   Battle Tendency - You can breathe more easily with +20% faster posture regen.
+-   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
+-   Firmly Planted - All slow debuffs towards you are reduced by 30%.
+-   Perseverance - When you're knocked down, you get back up again more quickly.
+-   Giant Slayer - Deal more damage to larger foes. (10% more damage to Monsters)
+-   Underdog - You deal slightly more damage to those with higher HP than you.
+-   Defiance - Negative status effects are half as effective when you are below 35% HP.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 71294
+revid: 82063
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies]
@@ -29,6 +29,25 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 -   Mantra Modification - An Authority Commander's "Flame Repulsion" mantra is modified with either 3 [Cloudstones](Mantra_Modifiers.md) or 2 [Stratus Stones](Mantra_Modifiers.md).
+
+### Talents
+
+-   Eruption Path: Lava Serpent - Your fire abilities proc an eruption under the enemies feet instead of burn.
+-   Empowered Eruption - Your next Eruption after landing a critical is empowered with increased range and damage.
+-   Flash Point - Block-breaking an enemy with a fire mantra applies Burning.
+-   Molten Defense - Upon being block broken, you erupt.
+-   The Floor is Lava - Your Eruptions leave lethal pools of lava beneath them.
+-   Scorched Earth - Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s.
+-   Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
+-   Azure Flames - Many of your flames turn blue, signifying their increased intensity.
+-   Riot Breaker - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
+-   Uproar - When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration.
+-   Immolation - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
+-   Phoenix Flames - Any time you would burn to death, you instead rise again with 50% of your health restored.
+-   Corpse Explosion - Bodies that you burn to death immediately explode dealing massive damage.
+-   Controlled Combustion - Your Agitating Spark no longer spreads to your allies.
+-   Audacity - Once you've brought down your prey, instill fear into all those who would separate you from claiming it.
+-   Impervious Slumber - Getting hit while knocked no longer resets your time knocked.
 
 ## Tips
 

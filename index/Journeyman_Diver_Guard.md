@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 81743
+revid: 82075
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -47,14 +47,25 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 
 ### Talents
 
--   Battle Tendency
--   Brick Wall
--   Firmly Planted
--   Braced Collapse
--   Showstopper
--   Strong Stern
--   Frozen Pin-Cushion
--   Perseverance
+-   Battle Tendency - You can breathe more easily with +20% faster posture regen.
+-   Brick Wall - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious.
+-   Firmly Planted - All slow debuffs towards you are reduced by 30%.
+-   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
+-   Showstopper - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
+-   Strong Stern - The duration you are dazed from wall bangs is cut in half
+-   Frozen Pin-Cushion - Ice Daggers now freeze opponents.
+-   Perseverance - When you're knocked down, you get back up again more quickly.
+-   Giant Slayer - Deal more damage to larger foes. (10% more damage to Monsters)
+-   Underdog - You deal slightly more damage to those with higher HP than you.
+-   Defiance - Negative status effects are half as effective when you are below 35% HP.
+-   Moving Fortress - Blocking no longer slows you down as much.
+-   Charged Return - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
+-   Champion's Regalia - Flourishing an opponent grants you 1.5x posture damage for 10 seconds.
+-   Nullifying Clarity - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Scorched Peak - Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
+-   Frozen Web - Landing a critical with a Static Link on your opponent applies Chilled.
+-   Static Link - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long.
+-   Storm Link - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
 
 ## Finisher
 

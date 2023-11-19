@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 82011
+revid: 82059
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -28,6 +28,14 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 | Assault | Firmly swings blade at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Performs a windup before thrusting blade forward. | ◯ | ✗ | (★★☆) |
 | Flare | Conjures a ball of fire before throwing it at an opponent. | ◯ | ◯ | (★★☆) |
+
+## Talents
+
+-   Hell's Partisan - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.
+-   Warding Radiance - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
+-   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
+-   To The Finish - You take 10% less damage when below 30% health.
+-   Immolation - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
 
 ## Tips
 

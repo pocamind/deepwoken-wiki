@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 81948
+revid: 82061
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies]
@@ -54,6 +54,15 @@ Thunder Kick
 
 -   Experienced Fighter - Can parry and and block common attacks and mantras.
 -   Mantra Modification - An Authority officer's "Jolt Grab" mantra is modified with a [Magnet Spark](Mantra_Modifiers.md).
+
+### Talents
+
+-   First Interrogation - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
+-   Second Interrogation - Electrified attacks do 50% less damage and posture damage to you.
+-   Authority Intimidation - All moves that apply electricity slow the opponent more.
+-   Resolve Crusher - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+-   Surge Path: Unstable Capacitor - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
+-   Showstopper - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
 
 ## Finisher
 

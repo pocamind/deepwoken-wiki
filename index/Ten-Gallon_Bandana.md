@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Bandana"
-revid: 77163
+revid: 82057
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face]
@@ -20,9 +20,9 @@ categories: [Equipment, Face]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer, Songseeker Wilds |
+| obtainment | Duke Erisia, First Layer, Songseeker Wilds, Minityrsa |
 | description | "..." |
 
 ## Description
 
-The Ten-Gallon Bandana is an [Equipment](Equipment.md) item under the "Face" category. It can be obtained from [Songseeker Wilds](Songseeker_Wilds.md) and the [First Layer](First_Layer.md).
+The Ten-Gallon Bandana is an [Equipment](Equipment.md) item under the "Face" category. It can be obtained from [Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md), [Duke](Duke_Ishamon_Erisia.md) [Erisia](Duke_Ishamon_Erisia.md) and the [First Layer](First_Layer.md).

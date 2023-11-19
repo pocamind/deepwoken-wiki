@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 81738
+revid: 82079
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -45,10 +45,10 @@ Flame Assault
 
 ### Talents
 
--   Nullifying Clarity
--   Hard Read
--   Flaming Flourish
--   Lightspeed Reflexes
+-   Nullifying Clarity - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Hard Read - Hitting your opponent during a feint will cause them to be dazed.
+-   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
+-   Lightspeed Reflexes - Feinting gives a very brief auto-parry window.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 81737
+revid: 82080
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -40,12 +40,12 @@ A Hive Adjudicator's arsenal only consists of a [Katana](Katana.md):
 
 ### Talents
 
--   Nullifying Clarity
--   Hard Read
--   Flaming Flourish
--   Lightspeed Reflexes
--   All the Dead Gods
--   Emperor Flame
+-   Nullifying Clarity - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Hard Read - Hitting your opponent during a feint will cause them to be dazed.
+-   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
+-   Lightspeed Reflexes - Feinting gives a very brief auto-parry window
+-   All the Dead Gods - Your M1's now apply anti-heal for 8s.
+-   Emperor Flame - Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic explosive finish flourish.
 
 ## Finisher
 

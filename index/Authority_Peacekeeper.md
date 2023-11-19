@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 81222
+revid: 82060
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -29,6 +29,14 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md) along with the [Fla
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+
+### Talents
+
+-   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
+-   Speed Demon - Your attacks now inflict bleed while you have a speed boost.
+-   The Final Act - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+-   All-Consuming Flame - Your flames will incinerate unconscious Targets much faster.
+-   Corpse Explosion - Bodies that you burn to death immediately explode dealing massive damage.
 
 ## Finisher
 

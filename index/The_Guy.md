@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 82010
+revid: 82058
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -84,7 +84,7 @@ The Guy is a Canor that works for the [Summer Company](The_Summer_Company.md), f
 
 -   The Guy's Eyeglasses have the exact same model as the Polarized Eyeglasses.
 -   The Great Megalodaunt Rising is what he is referring to when he says "The Rumbling of 1291".
--   The Guy's hair ID is [4735347390](tel:4735347390)
--   The Top G of Deepwoken
--   Apparently is good friends with Destroyman III
--   After taking his sunglasses, his name changes from "The Guy" to simply "Guy", also his voice becomes high-pitched, like if he lost all of his testosterone upon loosing his glasses.
+-   The Guy's hair ID is [4735347390](tel:4735347390).
+-   The Top G of Deepwoken.
+-   Apparently is good friends with Destroyman III.
+-   After taking his sunglasses, his name changes from "The Guy" to simply "Guy", also his voice becomes high-pitched, like if he lost all of his testosterone upon losing his glasses.
