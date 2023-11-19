@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 81928
+revid: 81994
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -110,6 +110,7 @@ _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)
 -   Silencer's Edge - If Duke melees you while you are 'Suffocated' he will gain a speed boost.
 -   Silencer's Blade - If Duke melees you while you are 'Suffocated' it will extend the duration of the Suffocation.
 -   A World Without Song - Duke's wind mantras will now apply 'Suffocate'.
+    -   Note that this only works on his Cyclone Bomb move.
 -   Collapsed Lung - When block broken by Duke you are unable to Vent for 3s.
 -   Dirty Boxing - If Duke hits you after feinting you with his fist, you will suffer slight bleed and have your vision obscured slightly.
 -   Concussion - When Duke flourishes you into walls you will have your vision altered for a short duration and will be dazed longer than usual.
@@ -287,7 +288,7 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
 ## Trivia
 
 -   The music for his bossfight is [Sin-Smelted Scoriae](Deepwoken_OST.md) by Naktigonis.
-    -   Naktigonis also provides the voice of the Duke, first heard in [a twitter post](https://twitter.com/Hautedeserte/status/1722426327989473791) posted over a week before his voice was actually added.
+    -   Naktigonis also provides the voice of the Duke, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.
 -   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.
