@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81887
+revid: 81964
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1833,12 +1833,12 @@ _**"I enjoy sea food."**_
 These Talent are meant to make maintaining your ship easier.
 
 -   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load)
-    -   Repairing restores ??% more HP to the boat when it's below ??% HP.
+    -   Repairing restores 25% more HP to the boat when it's below 25% HP.
         -   Prerequisite for emergency repairs: Automatically gained after using the Repair Hammer 11 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" have this talent.
 
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load)
-    -   Repairing restores ?? HP instead of 250 HP.
+    -   Repairing restores 400 HP instead of 250 HP.
         -   Prerequisite for spare nails: Automatically gained after using the Repair Hammer 51 times.
         -   the head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" have this talent.
 

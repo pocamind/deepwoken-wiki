@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 79865
+revid: 81961
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -64,6 +64,7 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 
 -   Lightning has a wide variety of useful spells for PvE and exploring the world.
 -   Typically used mid/long range.
+-   Surge path can be obtained at 40 thundercall. Adding stacks of surge to an enemy which deal somewhat heavy damage with the removal of its stun.
 -   Great pressure.
 -   A lot of fight control and escape mantras.
 -   Most thundercall mantras work with blast spark.
@@ -105,6 +106,7 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 Ironsing provides the widest ranged mantras in the game and the best damage output based on your opponent's mistakes and missteps.
 
 -   Offers mantras that favor the user, benefits both short and long distance.
+-   Scrapsinger can be obtained at 40 ironsing. Instead of metal rods pulling enemies towards you when pressing the x key, instead it increases the amount of armor damage opponents take.
 -   Tunes in well with the metal enchantment, as the metal path gives you benefits depending on how much armor your opponent has.
 -   Applies metal rods, which can be used in different ways by the user who applied it, enabling different strategies and forms of combat.
 

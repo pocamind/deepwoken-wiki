@@ -1,6 +1,6 @@
 ---
 title: Moderator Cap
-revid: 76856
+revid: 81974
 source: https://deepwoken.fandom.com/wiki/Moderator_Cap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Developer Spec]
@@ -28,5 +28,5 @@ Moderator Cap is an unobtainable [Equipment](Equipment.md) item under the "Head"
 
 ## Trivia
 
--   This item is undroppable by the user.
+-   This item cannot be dropped by the user.
 -   Moderator Cap is one of the five [Equipment](Equipment.md) pieces obtained through the Mod Shop. The others being [A Lot of Hats](A_Lot_of_Hats.md), [MICROWAVETM](MICROWAVETM.md), [THE MACHINE](THE_MACHINE.md), and [Tied Tie](Tied_Tie.md).

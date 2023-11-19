@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 81313
+revid: 81988
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -53,7 +53,7 @@ _For a visual guide, consider watching [this video](https://youtu.be/YT_9pdWcAOI
 | **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit. | ✗ | ✗ | ✗ | (★★☆) |
 | **Stalactite Fall** | Chaser drops many stalactites from the ceiling. Does low posture damage.
 
--   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the reminder of the fight. He may attempt to use it again, but it will fail.
+-   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
 
  | ✗ | ◯\* | ◯ | (★★★) |
 | **Sanguine Repulsion** | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.

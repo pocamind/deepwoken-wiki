@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 77080
+revid: 81982
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -140,7 +140,7 @@ _verb_
 
 _verb_
 
-1.  To die permanently and truly, getting killed in The Depths.
+1.  To die permanently and truly, getting killed in The Depths by a non contractor.
 
 ### Knock-up
 
@@ -234,6 +234,44 @@ _verb, noun_
     1.  Ex. This man's dripping out!
     2.  Ex. Your drip doesn't look that good. Maybe you should try this out instead.
 
+## Enemies / Monsters
+
+### **Sharko**
+
+_noun_
+
+1.  Refers to a [Megalodaunt](Megalodaunt.md), originates from the Pathfinder Gathering event's unique NPC-NPC conversation.
+
+### Squibbo
+
+_noun_
+
+1.  Refers to a [Nautilodaunt](Nautilodaunt.md).
+
+### Kaido
+
+_noun_
+
+1.  Refers to the [Dread Serpent](Dread_Serpent.md), the name comes from [Kaido](https://onepiece.fandom.com/wiki/Kaidou?so=search) from One Piece who has a similar appearance to the Dread Serpent in his dragon form.
+
+### Jelly / Jellyfish
+
+_noun_
+
+1.  Refers to a [Gigamed](Gigamed.md). Also known as Health Packs to players strong enough to one-shot them.
+
+### Croc / Crocodile
+
+_noun_
+
+1.  Refers to a [Thresher](Thresher.md).
+
+### Monkey / Monke
+
+_noun_
+
+1.  Refers to the [Primadon](Primadon,_Titan_of_the_East.md).
+
 ## Acronyms/Short Forms
 
 ### HVY
@@ -288,12 +326,6 @@ _adjective_
 
 1.  Short form of "Do a 1v1". 1v1s refer to the act of sparring another player with or without murderous intent. This phrase= mostly indicates friendly spars
     1.  Ex. Yo bro can we run a 1?
-
-### **sharko**
-
-_noun_
-
-1.  Refers to [Megalodaunts](Megalodaunt.md), originates from the Pathfinder Gathering event's unique NPC-NPC conversation.
 
 ### **DvM**
 

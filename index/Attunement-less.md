@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 81947
+revid: 81957
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -181,7 +181,7 @@ File:Attunement-less icon.png
 -   **Requirements:** _**35 Fortitude**_, _Mobility Mantra_
     -   User quickly charges forward with their shoulder, stopping after the duration is over, or when they collide with an object or an entity,
     -   Deals light damage.
-    -   Shoulder Bash scales with your Strength attribute.
+    -   Shoulder Bash scales with your Fortitude attribute.
     -   The charge is cancelled upon getting parried or dodged.
     -   Can collide with and break parts of the map.
     -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply knockback.

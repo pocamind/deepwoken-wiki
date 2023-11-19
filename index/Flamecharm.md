@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 81878
+revid: 81971
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -305,6 +305,7 @@ _Strike the ground, turning it to ash._
 -   Inflicts burn.
 -   Deals moderate-high damage.
 -   Can **NOT** use any type of mantra ingredients.
+-   Has 0.2 Seconds of Endlag
 -   Mantra continues if the second hit isnt parried.
     -   _Autoparry frames for the second hit **DONT** count._
     -   _Mantra also continues after the user gets knocked._

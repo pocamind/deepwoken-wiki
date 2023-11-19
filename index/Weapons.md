@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 81933
+revid: 81977
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -65,7 +65,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Bleed:** 10% of the weapon's max damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage. Bleed causes extra blood loss as well. The "**Max Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which cant be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down without the use of echoes.
--   **Boss Weapon:** Weapons that can only be obtained by killing certain bosses. Can be enchanted despite being a **Legendary**. Does not soulbind on equip.
+-   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md). Can be enchanted despite being a **Legendary**. Does not soulbind on equip.
 
 ## Types of Weapons
 
@@ -1593,15 +1593,15 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Stoneheart"><font>Stoneheart</font></a></td>
-  <td>80 HVY, 30 STR</td>
+  <td>80 HVY, 20 STR</td>
   <td>24</td>
-  <td>30%</td>
+  <td>10%</td>
   <td>10%</td>
   <td>HVY: 10</td>
   <td>12</td>
   <td>8.5</td>
   <td>0.6x</td>
-  <td>0.1</td>
+  <td>0.1s</td>
   <td>49.7</td>
 </tr>
 <tr>
@@ -1944,7 +1944,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Hivelord's Hubris (100 HVY)
     -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
-    -   Penetration: Shattered Katana/First Light/Stoneheart (30%)
+    -   Penetration: Shattered Katana/First Light (30%)
     -   Chip damage: Night Axe (60%)
     -   Scaling: Revolver, Divine Flintlock (15)
     -   Weight: Enforcer Hammer/Stoneheart (12)

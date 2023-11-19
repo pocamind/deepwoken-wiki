@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 81941
+revid: 81986
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -32,7 +32,7 @@ categories: [Weapons, Greathammers]
 
 The Stoneheart is a Heavy Greathammer that is obtained from [Duke Erisia](Duke_Ishamon_Erisia.md).
 
-Despite its [Legendary](Weapons.md) rarity, it can be [enchanted](Enchantments.md) much like other "legendary" weapons (i.e: [Petra's Anchor](<Petra's_Anchor.md>))
+It is a Mythic - as such, it is enchantable.
 
 ## Critical
 
