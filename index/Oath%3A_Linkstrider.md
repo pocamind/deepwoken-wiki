@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 81911
+revid: 82019
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,8 +37,6 @@ categories: [Oaths]
 
 The only way to obtain each ability is to grip a player with an Oath, this however does not need to be done with The Entropy Catalyst, you get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain on the Third And finally Parasitic Leech on the fourth grip.
 
-Players eyes will turn a blue shade on obtainment
-
 ## Abilities
 
 -   **Entropy Link**
@@ -64,7 +62,7 @@ Players eyes will turn a blue shade on obtainment
 
 ## Effects
 
-This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their eyes a light blue color (as of 18th Nov. 2023)
+This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their irises a light cyan.
 
 ## Notes
 

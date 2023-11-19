@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 80883
+revid: 82023
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1522,6 +1522,7 @@ You can choose your first name from any available, but your choices of last name
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
     -   Funnily enough, they are both technically the same person.
+-   The name "Inari" is a reference to the _Rogue Lineage_ races _Vind_ and _Fischeran._
 -   Names such as "Kaladin" and "Adolin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.

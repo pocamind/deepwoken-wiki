@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 80119
+revid: 82011
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -36,3 +36,5 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 ## Trivia
 
 -   They are one of two Authority mobs that can be non-Adrets, the other being the [Authority Peacekeeper](Authority_Peacekeeper.md).
+-   During Beiruul's Fort Merit raid quest, they seem to have a flame mantra that slashes forward with the testing sword m1 animation.
+-   They're also named "Authority Private" in the Fort Merit raid quest.

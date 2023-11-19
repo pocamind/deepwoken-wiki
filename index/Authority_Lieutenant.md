@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 81860
+revid: 82012
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies]
@@ -57,4 +57,4 @@ An Authority Lieutenant executes its opponent after knocking them:
 
 -   Along with the [Authority Captain](Authority_Captain.md), they are the only Authority soldiers not to wear helmets.
 -   The Authority Lieutenant's dialogue when they are being executed is usually "you're pretty strong...", "how is this even possible?" or "what is someone of your strength doing here...?" the same as the Authority Captain.
--   Authority Lieutenants may not spawn with a weapon, due to a bug, forcing it to parry and block most attacks. They are, however, still capable of using mantras (however fire blade won't deal damage or posture).
+-   ~Authority Lieutenants may not spawn with a weapon, due to a bug, forcing it to parry and block most attacks. They are, however, still capable of using mantras~ this bug has now been patched.

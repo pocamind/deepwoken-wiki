@@ -1,6 +1,6 @@
 ---
 title: THE MACHINE
-revid: 81652
+revid: 82016
 source: https://deepwoken.fandom.com/wiki/THE_MACHINE
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Developer Spec]
@@ -32,8 +32,4 @@ The item itself is a Fax Machine that is placed on top of your head when worn.
 
 -   This item cannot be dropped by the user.
 -   THE MACHINE is one of the five [Equipment](Equipment.md) pieces obtain through the mod shop, the others being: [A Lot of Hats](A_Lot_of_Hats.md), [MICROWAVETM](MICROWAVETM.md), [Moderator Cap](Moderator_Cap.md), and [Tied Tie](Tied_Tie.md).
--   THE MACHINE is also seen lying around in [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md).[\[1\]](#cite-note-1)
-
-## References
-
-1.  [↑](#cite-ref-1)
+-   THE MACHINE is also seen lying around in [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md).
