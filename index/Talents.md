@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82142
+revid: 82181
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -275,7 +275,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I prefer to attack unseen."**_
 
 -   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
-    -   Prerequisites: 85 Agility
+    -   Prerequisites: 85 Agility, Assassin (talent)
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
@@ -286,7 +286,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   This talent used to give 50% PEN, but was nerfed down to 25% during November 3rd, 2023.
-    -   Prerequisite: 20 Agility
+    -   Prerequisite: 20 Agility, Assassin (talent)
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
@@ -565,6 +565,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   Prerequisite: 30 Agility, 20 assassinations (maybe less?)
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this equipment.
+    -   Unlocks a couple talents in the Assassin talent tree.
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
     -   Prerequisite: 45 Agility

@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 82144
+revid: 82178
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -36,7 +36,7 @@ It is a Mythic - as such, it is enchantable.
 
 ## Critical
 
-This weapon's critical by default charged up to create a massive [golem-beam](Rock_Golem.md) AOE blast. However, it can be cancelled mid-way through for a partially charged variant by either pressing R, M1 + M2, or by getting hit during the windup. You can walk while charging the critical.
+This weapon's critical by default charged up to create a massive [golem-beam](Rock_Golem.md) AOE blast. However, it can be charged by holding down R, releasing it at any point during the critical causes it to release the blast.
 
 ## Trivia
 

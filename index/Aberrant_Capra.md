@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 82055
+revid: 82185
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races, Character]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Races, Exclusive Races, Character]
 
 Template:Races-Main
 
-"???"
+"and you know, is an awful person instead of helpful" - sudomesh
 
 ## Description
 
