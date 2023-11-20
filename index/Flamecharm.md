@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 82123
+revid: 82147
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1264,14 +1264,14 @@ Standing close to your graceful flame will slowly restore sanity for others in t
 ## Trivia
 
 -   Some mantras are inspired from pyromancy and attacks from games created by the _**FromSoftware Inc.**_ game company, the company also happens to be a large inspiration for the entirety of Deepwoken.
-    -   The "Flame of Denial" mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls3.wiki.fextralife.com/Tears+of+Denial) Miracle from Dark Souls 3, preventing the player from dying to one-shot moves.
-    -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within) from Dark Souls 1, boosting overall damage while draining health.(May also be a reference to Demon Slayer "Set yourself ablaze")
+    -   The "Flame of Denial" mantra is named and acts in a similar way to the [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial) Miracle from _Dark Souls III_, preventing the player from dying to one-shot moves.
+    -   Flame Within is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
     -   Although the "Fire Palm" mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
-    -   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
-    -   The "Fire Gun" mantra is most likely a nod to "Higan", one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece**.
-    -   The "Flame Blind" mantra is most likely a reference to the Valorant character Phoenix's blinding move.
-    -   The Flame Ballista mantra is heavily inspired by Sukuna's fire arrow from Jujutsu Kaisen
-    -   The "Flaming Scourge" mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece**.
+-   Although the "Flame Blind" mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
+-   The "Fire Gun" mantra is most likely a nod to "Higan", one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece**.
+-   The "Flame Blind" mantra is most likely a reference to the Valorant character Phoenix's blinding move.
+-   The Flame Ballista mantra is heavily inspired by Sukuna's Fire Arrow from _Jujutsu Kaisen._[\[3\]](#cite-note-3)
+-   The "Flaming Scourge" mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece**.
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "_Meteor Impact"_ on another Flamecharm user who also has the talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
 -   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the "Flame of Denial" mantra which can restore some sanity upon use, while also allowing you to not die.
@@ -1287,3 +1287,4 @@ Standing close to your graceful flame will slowly restore sanity for others in t
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=USPLPJLZQiw](https://www.youtube.com/watch?v=USPLPJLZQiw)
 2.  [↑](#cite-ref-2) With the opponent having 42 Posture and Murmur: Ardour, they will receive 96% of their posture.
+3.  [↑](#cite-ref-3)

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 80854
+revid: 82162
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -346,7 +346,7 @@ Gem
 
 Deep Gems (not to be confused with the Vibrant Gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped on a single mantra.
 
-Deep Gems are rare Gems that are dropped in The Depths and by Primadon. You can also get deep gems from the Duke, but this is much less consistent and rarer than the other two methods. You get Deep Gems more often from the Depths than from Primadon or the Duke, especially from chests spawned from Enforcers or Nautilodaunts during Hell Mode. They can also be obtained as a reward from the Halloween Event for 15 Joy. You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you do kill it quickly Needs to be proven. You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
+Deep Gems are rare Gems that are dropped in The Depths and by Bosses. Rarely, you can get deep gems from the Duke, The Ferryman, and Primadon, and more commonly from Layer 1 chests and Layer 2. You get Deep Gems more often from chests spawned during Hell Mode in Layer 1. They can also be obtained as a reward from the Halloween Event for 15 Joy. You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you do kill it quickly Needs to be proven. You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
 To remove a Deep Gem from your mantra, you need to Recall the mantra. This will return it to your inventory.
 

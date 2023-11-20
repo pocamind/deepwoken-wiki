@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 82131
+revid: 82176
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -195,9 +195,9 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Redd</td>
   <td>Instantly restores a small amount of health.</td>
   <td>Opposite effect to <b>Disgusting</b>. Signified by a green flash. Strangely, seems to only work when thrown.<br>
-  The strongest effect on a redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with Focus Enhancing from Wheat.<br>
+  The strongest effect on a redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with Focus Enhancing from Wheat.<p>Has seemingly no effect on <a href="Enemies.md">enemies</a><br>
   <br>
-  Only one recipe for a potion with the Rejuvenating name is known - 3 redds and 1 wheat. Any other ratio causes a different effect to be more powerful.</td>
+  Only one recipe for a potion with the Rejuvenating name is known - 3 redds and 1 wheat. Any other ratio causes a different effect to be more powerful.</p></td>
 </tr>
 <tr>
   <td><b>Dulling</b></td>
@@ -269,7 +269,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Beeswax<br>
   Gobletto</td>
   <td>Applies a 15 second regeneration effect.</td>
-  <td>Opposite effect to <b>Grueling</b>.</td>
+  <td>Opposite effect to <b>Grueling</b>.<p>Has seemingly no effect on <a href="Enemies.md">enemies</a></p></td>
 </tr>
 <tr>
   <td><b>Grueling</b></td>
@@ -322,14 +322,14 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Salve</td>
   <td>Ongo</td>
   <td>Increases posture damage dealt.</td>
-  <td></td>
+  <td>Opposite effect is <b>Weakening(?)</b></td>
 </tr>
 <tr>
   <td><b>Weakening (?)</b></td>
   <td>???</td>
   <td>Alestrian Coral</td>
   <td>Decreases posture damage dealt.</td>
-  <td>True name unknown.</td>
+  <td>Opposite effect of <b>Staggering</b><p>True name unknown.</p></td>
 </tr>
 </tbody>
 </table>

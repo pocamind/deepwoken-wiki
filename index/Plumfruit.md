@@ -1,6 +1,6 @@
 ---
 title: Plumfruit
-revid: 80078
+revid: 82173
 source: https://deepwoken.fandom.com/wiki/Plumfruit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -17,6 +17,7 @@ A consumable fruit with a purple gradient and a curved stem. It can commonly be 
 ## Recipes used in
 
 -   [Fruit Salad](Food.md) (Three fruits that are different. ex: Calabash, Pomar, Ongo)
+-   Plumfruit Muffin (Plumfruit + Gathered Wheat)
 -   Candied Fruit (Any Fruit, Sap)
 
 ## Trivia

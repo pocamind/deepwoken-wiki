@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 81710
+revid: 82177
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -10,7 +10,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
 
 | Ignition Deepcrusher | |
 |---|---|
-| type | Club |
+| type | Club/Sword |
 | requirements | 60 MED; 75 MTL |
 | damage | 18 + 5.4 BLD (1H) , 18 (2H) |
 | scaling | Ironsing: 4 Medium: 3 |
@@ -18,7 +18,6 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
 | swing speed | 0.79x |
 | penetration | 15% |
 | special effect | 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
-| stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
