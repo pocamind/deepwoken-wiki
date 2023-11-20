@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 77397
+revid: 82120
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -29,6 +29,14 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
  | ◯ | ✗ | (★☆☆) |
 | Rapid Punches | User unleashes a barrage of blows at their opponent. | ◯ | ◯ | (★★☆) |
 | Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
+
+### Talents
+
+-   Steady Footing - You're much more resistant to being pushed around.
+-   Sunken Predator - Enemies you hit in the water have their speed buffs nullified and are slowed.
+-   Low Blow - Your attacks against ragdolled enemies no longer deal reduced damage.
+-   Triathlete - You swim faster in water.
+-   _**Audacity - Once you've brought down your prey, instill fear into all those who would separate you from claiming it.**_
 
 ## Finisher
 

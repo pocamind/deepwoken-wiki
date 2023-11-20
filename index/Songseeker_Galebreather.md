@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 58232
+revid: 82115
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -47,6 +47,20 @@ Rising Wind
 
 -   Third Eye - A Songseeker Galebreather cannot be assassinated.
 -   High Supply - A Songseeker Galebreather has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
+
+### Talents
+
+-   Everchanging Aegis - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
+-   Perfect Flash - Having full health causes your mantras to do 25% extra damage.
+-   Gale Trap - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.
+-   Suffocating Impact - When flourishing enemies into walls they are suffocated and winded for a short duration.
+-   Gale Coil - Your suffocates last twice as long.
+-   Stifled Jump - Enemies who jump while suffocated by you are dazed.
+-   After Cut - If an attack is physical and wind it will apply an after cut that does 10% of the damage you dealt. If an attack was a mantra, it does 5% damage instead.
+-   Breathing Impact - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
+-   Silencer's Edge - Meleeing a 'Suffocated' opponent will grant you a speed boost.
+-   Silencer's Blade - Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
+-   _**A World Without Song - Landing Wind mantras will now apply 'Suffocate'.**_
 
 ## Finisher
 

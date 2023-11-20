@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 81733
+revid: 82121
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -37,12 +37,12 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 
 ### Talents
 
--   Uproar
--   Bulldozer
--   Shield Breaker
--   Unwavering Resolve
--   Bear Trap
--   Fear
+-   Uproar - When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration. (
+-   Bulldozer - Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
+-   Shield Breaker - Blunt damage now deals full posture damage to shields.
+-   Unwavering Resolve - Getting parried punishes your posture 50% less.
+-   Bear Trap - Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent.
+-   Fear - Enemies will briefly hang in place when they run from you. (shadowcast)
 
 ## Finisher
 

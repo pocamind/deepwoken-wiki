@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 63564
+revid: 82112
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -72,8 +72,22 @@ User dashes forward covered in flames; hitting anyone in their path.
 
 -   Third Eye - A Songseeker Flamecharmer cannot be assassinated.
 -   High Supply - A Songseeker Flamecharmer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
--   Phoenix Flames - Instead of burning to death, Songseeker Flamecharmers are revived with some of their health in a fiery explosion.
 -   Mantra Modifications - A Songseeker Flamecharmer's "Flame Repulsion" mantra is modified with 3 [Cloudstones](Mantra_Modifiers.md).
+
+### Talents
+
+-   Everchanging Aegis - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
+-   Perfect Flash - Having full health causes your mantras to do 25% extra damage
+-   Immolation - fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
+-   Agitating Spark - If you hit an opponent that you've lit on fire, it spreads to yourself and others around you.
+-   Controlled Combustion - Your Agitating Spark no longer spreads to your allies.
+-   Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
+-   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
+-   All-Consuming Flame - Your flames will incinerate unconscious Targets much faster.
+-   Corpse Explosion - Bodies that you burn to death immediately explode dealing massive damage.
+-   The Final Act - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+-   Uproar - When hit 3 or more times within 3 seconds go into an uproar where you cannot be stunned for a short duration.
+-   Phoenix Flames - Any time you would burn to death, you instead rise again with 50% of your health restored.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 81379
+revid: 82135
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -135,7 +135,7 @@ Also, more notably, Spookeree permanently has the distinct **Coral Fever** face 
 
 Furthermore, it appears that he has a spec that allows him to "spawn in" [Bandits](Bandit.md) at will, even in the Eastern Luminant, where [Bandits](Bandit_Leader.md) do not naturally spawn. Bandits spawned act as normal NPC's, and can grip, be gripped, and give EXP on death.
 
-### Exclusive Dev items
+## Exclusive Otems
 
 [Eternal Restraints](Eternal_Restraints.md) - Exclusive to Arch Mage
 
@@ -145,11 +145,11 @@ Furthermore, it appears that he has a spec that allows him to "spawn in" [Bandit
 
 [Hive Greatlord's Royal Adornment](<Hive_Greatlord's_Royal_Adornment.md>) - Exclusive to yayafino (Hive Leader)
 
-[A Lot of Hats](A_Lot_of_Hats.md) - Dev shop only
+[A Lot of Hats](A_Lot_of_Hats.md) - Mod shop only
 
-[MICROWAVETM](MICROWAVETM.md) - Dev shop only
+[MICROWAVETM](MICROWAVETM.md) - Mod shop only
 
-[Moderator Cap](Moderator_Cap.md) - Dev shop only
+[Moderator Cap](Moderator_Cap.md) - Mod shop only
 
 [Inquisitor's Duster](<Inquisitor's_Duster.md>) - Dev interaction (?)
 

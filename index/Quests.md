@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 81001
+revid: 82143
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -45,6 +45,14 @@ These quests, when completed, give talents that will be unlocked on every charac
 **Guide**: Talk to an NPC in Starswept Valley. They will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.
 
 **Reward/s**: Thresher Scales
+
+**Chain of Perfection:**
+
+**Quest Location**: N/A
+
+**Guide**: Defeat any boss without taking any damage
+
+**Reward/s**: Chain of Perfection
 
 ## Talent Quests
 

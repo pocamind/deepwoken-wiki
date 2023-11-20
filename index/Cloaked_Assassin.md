@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 76542
+revid: 82119
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -32,6 +32,27 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
 -   Experienced Fighter - Can parry and block common attacks and mantras.
 
+### Talents
+
+-   Precise Swing - After landing a critical your next light attack will chip past your
+-   Pressure Succession
+-   Cheap Shot - Your attacks gain 10% PEN when you have an active speed boost.
+-   Frozen Pin-Cushion - Ice Daggers now freeze opponents.
+-   Frostbite - Enemies no longer heal when under the effect of your chill.
+-   Time To Go - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.
+-   Steady Footing - You're much more resistant to being pushed around.
+-   Scaredy Cat(XD?) - When enemies initiate a fight first, gain a speed boost.
+-   Sunken Predator - Enemies you hit in the water have their speed buffs nullified and are slowed.
+-   Low Blow - Your attacks against ragdolled enemies no longer deal reduced damage.
+-   Triathlete - You swim faster in water.
+-   Swift Rebound - Move faster after successfully dodging an attack.
+-   Evasive Expert - Your speed boost granted from dodging is increased.
+-   Risky Moves - When you successfully dodge, you'll automatically dodge the next attack.
+-   _**Ghost - Dodging a move will briefly make you invisible until you attack.**_
+-   Strong Stern - The duration you are dazed from wall bangs is cut in half
+-   In a Hurry - You grip faster with a movement speed boost.
+-   Chronostasis - Landing an M1 or Critical Strike puts target [Resonance](Resonance.md) on cooldown for a short duration.
+
 ## Finisher
 
 A Cloaked Assassin executes it's opponent after knocking them:
@@ -43,3 +64,4 @@ A Cloaked Assassin executes it's opponent after knocking them:
 ## Trivia
 
 -   Cloaked Assassin's wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.
+-   For some strange reason Cloaked Assassin's don't have **[Audacity](Talents.md#tyrant)** but [Bounty hunters](<Bounty_Hunter_(NPC).md>) do.

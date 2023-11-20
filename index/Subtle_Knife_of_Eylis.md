@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 81968
+revid: 82108
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -34,6 +34,19 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
+
+### Talents
+
+-   Knife's Journey - You now have a 10% chance to do 20% more damage with daggers.
+-   Decisive Blow - Dodging an attack increases your Knife's Journey critical chance by 30%.
+-   Thresher Fangs - Your Knife's Journey critical hits now deal 2x damage to armor.
+-   True Pain - Critical Strike can attack twice
+-   Swift Rebound - Move faster after successfully dodging an attack.
+-   Evasive Expert - Your speed boost granted from dodging is increased.
+-   Risky Moves - When you successfully dodge, you'll automatically dodge the next attack.
+-   Finishing Touch - Instantly execute enemies finished with the critical attack of your dagger.
+-   Matador - Deal +20% more damage to human enemies with hyperarmor.
+-   Ghost(¿?) - Dodging a move will briefly make you invisible until you attack.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 69336
+revid: 82096
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -38,6 +38,12 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
 ### Boons
 
 -   Experienced Fighter - Can parry and block common attacks and mantras.
+
+### Talents
+
+-   Air Pressure - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
+-   Cyclone Blade - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block.
+-   Pressure Break - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards.
 
 ## Finisher
 

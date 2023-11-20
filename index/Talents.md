@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 81964
+revid: 82142
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1174,10 +1174,24 @@ _**"I enjoy sea food."**_
     -   Most ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods.
 -   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
     -   Prerequisite: 20 Ironsing
+
+-   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
+    -   Prerequisites: 55 Ironsing
+
+-   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
+    -   Prerequisites: 45 Ironsing
+
 -   Expert Ironsinger \[Common Talent\] - You can now obtain 2-star Ironsinger mantras.
     -   Prerequisite: 30 Ironsing
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
     -   Prerequisite: 50 Ironsing
+-   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
+    -   Prerequisites: 40 Ironsing, 15 Strength
+
+-   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
+    -   Prerequisites: 60 Ironsing, Power 13
+-   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
+    -   Prerequisite: 45 Ironsing
 
 ### Iron Will
 
@@ -1411,36 +1425,26 @@ _**"I enjoy sea food."**_
 
 ### Metallurgist
 
-> _**"I seek the qualities of Metallurgist."**_
+> _**"Metal itself is my shield, whichever form it may take."**_
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
     -   Bleed damage now only deals 15% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
     -   Prerequisite: 100 Ironsing
--   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
-    -   Prerequisites: 55 Ironsing
--   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
-    -   Prerequisites: 45 Ironsing
 -   Intuitive Repairs \[Common Talent, Ironsing Exclusive\] - Your 'Iron Skin' repairs armor while it's active.
     -   Iron Skin also repairs natural armor from Chitin and Exoskeleton.
     -   Prerequisite: Iron Skin mantra, 25 Ironsing
 -   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
     -   Prerequisite: Caltrops mantra, 45 Ironsing
--   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
-    -   Prerequisite: 45 Ironsing
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
     -   Prerequisite: Iron Hug mantra, 30 Ironsing
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
     -   Prerequisite: 50 Ironsing
--   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
-    -   Prerequisites: 40 Ironsing, 15 Strength
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
     -   Prerequisite: 50 Ironsing
 -   Oh the Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
     -   Prerequisites: Taunt, 60 Ironsing, 40 Charisma
--   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
-    -   Prerequisites: 60 Ironsing, Power 13
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
     -   Prerequisite: 75 Ironsing
 

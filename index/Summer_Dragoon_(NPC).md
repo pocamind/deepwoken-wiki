@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 82006
+revid: 82134
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Enemies, Ambush Enemies]
@@ -16,6 +16,16 @@ _This page is for the Enemy. For the Outfit, see [Summer Dragoon](Summer_Dragoon
 
 Summer Dragoons are higher ranking members of the [Summer Company](The_Summer_Company.md) that wear their respective armor [Summer dragoon](Summer_Dragoon.md) and use [Rosen's peacemakers](<Rosen's_Peacemaker.md>).
 
+## Talents
+
+-   Armor Piercing - Your bullets now ignore 20% of an opponent's physical armor.
+-   Safety Dance - Your base dodge frames are increased by 25%.
+-   Ready or Not - The first attack to hit you while out of combat has its damage cut in half.
+
 ## Trivia
 
--   Archmage himself stated that NPCS with rifles aren't finished coding, however this is obviously false (the Summer Dragoon.)
+-   Arch\_Mage once stated that NPCS with rifles weren't coded as an explanation for why [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) didn't use a [Stormseye](Stormseye.md), however this was false given the existence of this NPC.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 65183
+revid: 82101
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -36,6 +36,16 @@ An Eastern Nomad Leader's kit consists of a [Gremorian Longspear](Gremorian_Long
 ### Boons
 
 -   Experienced Fighter - Can parry and block common attacks and mantras.
+
+### Talents
+
+-   Fists of Fortitude - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%.
+-   Fists of Navae - You have a larger flourishing window.
+-   Blade's Edge - Damage dealt with the tip of the spear is increased by 10%
+-   Defensive Sweep - Posture breaking an opponent grants you +50% PEN for 3 seconds.
+-   Driving Impact - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage.
+-   Lancer's Impale - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.
+-   Chief's Will - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
 
 ## Finisher
 

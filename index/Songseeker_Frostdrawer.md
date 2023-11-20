@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 78133
+revid: 82113
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -50,6 +50,18 @@ Ice Eruption
 -   Frozen Pincushion - If the victim is hit by every dagger from Ice Daggers, they will become completely frozen for a short period of time.
 -   Emergency Extinguisher - The Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
 -   Mantra Modification - A Songseeker Frostdrawer's "Ice Eruption" (Verse 1) mantra is modified with a [Round Spark](Mantra_Modifiers.md).
+
+### Talents
+
+-   Everchanging Aegis - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
+-   Perfect Flash - Having full health causes your mantras to do 25% extra damage.
+-   Fragile Freeze - Your ice Mantras will freeze opponents upon blockbreaking them.
+-   Cool Head - If set on fire while on ice, immediately put it out and enter a state of chill. During this state, you cannot be lit on fire
+-   Rude Awakening - When hit in Cryostasis inflict frost damage to the enemy who hit you.
+-   Preceding Chill - Enemies hit during the last moments of your ice beam are frozen.
+-   Glacial Ice - Your frost is now considerably more intense.
+-   Orbital Ice - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage.
+-   Cryostasis - When block broken, fragile freeze yourself, negating the damage of the next attack.
 
 ## Finisher
 

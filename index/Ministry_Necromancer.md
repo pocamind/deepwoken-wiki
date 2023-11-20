@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 79843
+revid: 82111
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -48,6 +48,17 @@ Necro-skippers
 
 -   Third Eye - User cannot be assassinated under any circumstances.
 -   Experienced Fighter - Can parry and block common attacks and mantras. It can also parry trade.
+
+### Talents
+
+-   Finishing Touch - Instantly execute enemies finished with the critical attack of your dagger.
+-   Successive Throw - When you successfully flourish an enemy, you throw out a dagger afterwards
+-   Pressure Detonation - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
+-   Dark Hours - Shadowcast mantras deal more damage at night.
+-   Dark Rift - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   Dark Synergy - Engulf your enemy in shadows when flourishing them.
+-   Singularity - Enemies will briefly hang in place when hit by a shadow move.
+-   Blackhole - Your singularity pulls everyone nearby in.
 
 ## Trivia
 

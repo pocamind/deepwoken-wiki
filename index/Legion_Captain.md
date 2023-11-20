@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 81030
+revid: 82099
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies]
@@ -44,8 +44,20 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Suffocating Impact - Enemies the user flourishes into walls are Suffocated and Winded for a short duration.
--   Concussion - Enemies the user flourishes into walls have their vision altered for a short duration and are dazed longer than usual.
+
+### Talents
+
+-   Drifting Winds
+-   Suffocating Impact - When flourishing enemies into walls they are suffocated and winded for a short duration.
+-   Concussion - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual.
+-   Air Pressure - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
+-   Cyclone Blade - After a successful Gale Dash you wrap your weapon in wind essence causing your next Light attack to do bleed damage and chip through your opponents block.
+-   Pressure Break - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards.
+-   Hoplite - Posture damage is reduced by 30% when wielding a spear and standing still.
+-   Blade's Edge - Damage dealt with the tip of the spear is increased by 10%.
+-   Posture breaking an opponent grants you +50% PEN for 3 seconds.
+-   Driving Impact - The first hit of your Spear's Critical Attack will deal the posture damage of the second hit as well. The second hit no longer deals posture damage
+-   Lancer's Impale - Hitting an enemy after a perfect dodge makes your next attack deal bleed damage. If that attack would already bleed, it adds +10% chip damage instead.
 
 ## Finisher
 

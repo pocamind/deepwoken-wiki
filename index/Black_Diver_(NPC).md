@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 82089
+revid: 82090
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Cut Content]
@@ -73,6 +73,17 @@ Jolt Grab
 -   Static Link - Black Divers landing a Flourish or Uppercut apply a static link.
 -   Storm Link - Black Divers apply Shock (Surge because of Surge Path) to enemies with a static link if hit with a Wind mantra.
 -   Chronostasis - Black Divers put target's Resonance on a short cooldown when they land hits.
+
+## Finisher
+
+A Black Diver executes it's opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[⁣[Forgotten Gladius](Forgotten_Gladius.md)\] Pins down opponent before impaling the opponent's chest with their spear.
+\[⁣[Markor's Inheritor](<Markor's_Inheritor.md>) & [Pale Morning](Pale_Morning.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+
+ |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 76415
+revid: 82095
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -27,6 +27,18 @@ An Arcwarder's arsenal consists of a [Railblade](Railblade.md), along with the [
 | Aerial Critical | While in the air, performs a fiery downwards sweep, applying Knockdown and Burn. | ◯ | ✗ | (★★☆) |
 | Arcwave | Performs a quick stomp on the ground that releases a wave of energy around the user, dealing both fire and lightning damage. | ◯ | ◯ | (★★★) |
 | Arc Beam | Shoots out a laser from the user's eyes that explode after a second, dealing both fire and lightning damage. | ◯ | ◯ | (★★☆) |
+
+## Talents
+
+-   Brutal Momentum - Successfully dodging will give your next swing hyperarmor.
+-   Harsh Response - Enemies receive less posture back when parrying your attacks.
+-   Destructive Recovery - Causes your enemies to regenerate significantly less posture when they parry you.
+-   **Arc Module: Eject**
+    -   **When blockbroken with Arc Suit active, eject from the armor.**
+    -   **Immediately end Arc Suit but prevent the guardbreak and reset your posture.**
+
+-   **Arc Module: Guard - Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind.**
+-   **Arc Module: Null - When Arc Suit is active, outgoing and incoming enchant effects are nullified.**
 
 ## Trivia
 

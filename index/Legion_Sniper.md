@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 80220
+revid: 82100
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -44,11 +44,12 @@ Grand Javelin
  | ◯ | ✗ | (★★★) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
-### Boons
+### Talents
 
--   Grand Skewer - A Legion Sniper's "Grand Javelin" mantra carries opponents with it through the skies.
--   Lightning Fragmentation - The Grand Javelin will harmlessly explode on contact with walls or floors.
--   Trained Javelin Thrower - If you're far away enough, the Sniper can aim their Grand Javelin upwards/downwards to account for possible height differences.
+-   Grand Skewer - Your Grand Javelin now carries opponents through the air.
+-   Fists of Fortitude - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%.
+-   Pocket Sand - Feinting into an uppercut blinds and dazes your opponent briefly.
+-   Resolve Crusher - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
 
 ## Tips
 
