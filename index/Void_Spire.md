@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 80947
+revid: 82239
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -33,5 +33,5 @@ The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Ra
 -   The theme that plays in the Void Spire is the same one that plays in the [Fragments of Self](Fragments_of_Self.md).
 -   When trying to use the Spire during cooldown, dialogue appears saying "The Spire has not yet reformed."
 -   Void Spire isn't placeable in Towns. When attempting to do so, Dialogue appears saying "You cannot conjure this Spire here."
--   Void Spire can't be used by players below Power 15.
--   In the update log, It's claimed that those who are knocked at the time of the Void Spire being summoned won't be affected by it.
+-   The Void Spire can't be used by players below Power 15.
+-   The Void Spire can send people who were knocked before it was placed to The Depths.

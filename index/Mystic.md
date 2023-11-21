@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 81667
+revid: 82241
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -113,6 +113,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I always shoot first. **(Gunslinger) (Note; Cannot give True Ether Bullets, Armor Piercing)**_
 -   _I am a master with my hands._ _**(Bruiser)**_
 -   _I seek the qualities of Outlaw. **(Outlaw)**_
+-   _I seek the qualities of Needle. **(Needle)**_
 
 ### Miscellaneous
 

@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 82165
+revid: 82242
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -63,8 +63,6 @@ An Immortal Guardian executes the player after knocking them.
 -   Nightmares have a chance to replace the regular guardians on the first floor, so tread with caution when the guardians on the first floor respawn.
 -   Once you knock them it's advisable to carry them to the exit as gripping them inside the voidzone would alert nearby NPCS. Worst case scenario you're gonna alert all of them including the Alpha Megalodaunt and the nightmare guardians in the second floor.
 -   **THERE IS A BUG WHERE IMMORTAL GUARDIANS ALONGSIDE CARBUNCLES SPAWN AS AN EVENT IN LOWER ERISIA (Unknown whether this occurs anywhere else).**
--   Immortal Guardians can be a high threat in numbers. Not only will you have to deal with many Immortal Guardians, but if they group up it will be difficult to parry each of them. However, because they can feint, they can catch you off guard, so take on one at a time if you know you can't handle three or two Immortal Guardians.
--   Nightmare Immortal Guardians are a very high threat in numbers due to their increased HP and ability to parry a lot more often. They have a little more posture than regular Immortal Guardians and it is very advised to face one Nightmare Immortal Guardians anymore than that they can easily take down a player who is not prepared to take them on.
 
 ## Trivia
 
