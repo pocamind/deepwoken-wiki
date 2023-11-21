@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82181
+revid: 82210
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -275,18 +275,18 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I prefer to attack unseen."**_
 
 -   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
-    -   Prerequisites: 85 Agility, Assassin (talent)
+    -   Prerequisites: 85 Agility
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Prerequisites: assassinate 10 enemies, 10 Agility
+    -   Prerequisites: assassinate around 20 enemies, 10 Agility
 
 -   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility or obtained through outfits
 
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   This talent used to give 50% PEN, but was nerfed down to 25% during November 3rd, 2023.
-    -   Prerequisite: 20 Agility, Assassin (talent)
+    -   Prerequisite: assassinate around 20 enemies, 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
@@ -1835,7 +1835,7 @@ _**"I enjoy sea food."**_
 
 ### Shipwright
 
-These Talent are meant to make maintaining your ship easier.
+> _**"I repair ships."**_
 
 -   Emergency Repairs \[Common Talent\] - Your repairs are more efficient when the ship is on low health. (+2 Carry Load)
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.

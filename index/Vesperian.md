@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 81637
+revid: 82195
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -90,13 +90,15 @@ A layer of protective armor that regenerates at rest.
 -   Zeneki
     
 
-## Vesperian Masks
+## Gallery
+
+### Vesperian Masks
 
 **Normal:**
 
 **Hallowtide:**
 
-## Note
+## Trivia
 
 -   Vesperians may be somewhat based off Bombardier Beetles. Their name however is based off of the Vespa, the largest eusocial beetle.
 -   Vesperians were inspired by the game Hollow Knight.
@@ -109,11 +111,8 @@ File:Similar Last Names.png
 
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
     -   Hallowtide Vesperians have the same purple eye color as Hallowtide Ganymede.
-
-This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
-
-Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
-
+    -   This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
+-   Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
 -   During the 4/1/2022 April Fools update (Mudwoken), Vesperian race name was changed to Maskskipper.
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it
 

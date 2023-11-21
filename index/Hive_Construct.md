@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 81882
+revid: 82198
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -102,9 +102,6 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
 -   If you are being chased by a Thresher, King Thresher, Sand Knight, etc. and there's a Hive Construct nearby, try going to the Construct as it will aggro onto the mob trying to kill you.
 -   There are many ledges on Minitrysa that allow you to easily cheese the Rogue Construct without taking damage.
 -   Meteor Punch and Stomp can be parried, but if you miss, you will take heavy damage. Engage them at your own risk.
-    
-    A hive golem talking.
-    
 
 ## Trivia
 

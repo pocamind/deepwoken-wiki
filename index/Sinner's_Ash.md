@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 80867
+revid: 82213
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -31,3 +31,4 @@ _(one-time use, re-obtainable)_
 -   Holding Sinner's Ash will surround your player in a purple highlight.
 -   Using Sinner's Ash whilst already having a Corrupted Resonance or not having any Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."
 -   The person writing this has recorded ~110 Dukes & 60 Chasers worth of loot, and has yet to find a Sinner's Ash or [Moonseye Tome](Moonseye_Tome.md).
+-   Another person writing this has recorded ~150 Dukes and 20 Chasers worth of loot, and has yet to find a Sinner's Ash or Moonseye Tome. It appears that the actual chance for either of these relics are rarer than the estimated 1%
