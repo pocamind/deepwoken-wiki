@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 82080
+revid: 82225
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -18,7 +18,7 @@ A Hive Adjudicator is a NPC that can be found in [Greathive Aratel](Greathive_Ar
 
 Hive Adjudicators also have a chance of spawning in the Vigil Swordsmen vs Hive encounter in the [Starswept Valley](The_Starswept_Valley.md).
 
-A Hive Adjudicator wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, a pair of Dewdrop Earrings and a Dark Gumshoe Longcoatt, or a [Hive Adjudicator](Hive_Adjudicator.md) outfit, a pair of Tracker's Boots and Blacksteel Pauldrons, with their Race either being [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
+A Hive Adjudicator wears a [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit, a pair of Dewdrop Earrings and a Dark Gumshoe Longcoat, or a [Hive Adjudicator](Hive_Adjudicator.md) outfit, a pair of Tracker's Boots and Blacksteel Pauldrons, with their Race either being [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) or [Chrysid](Chrysid.md).
 
 ## Moveset
 

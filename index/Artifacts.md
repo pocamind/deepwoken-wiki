@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 81685
+revid: 82218
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -22,7 +22,7 @@ Artifacts are generally found around [Lower](Lower_Erisia.md) and [Upper Erisia]
 
 When you pick up an Artifact it will make a loud noise and will then stop making further loud pulsating noises as well as losing the purple rings that would appear around it before.
 
-**An artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).If you can handle the challenge I highly recommend it, I did it 4 times and got 4 enchants.**
+**An artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md), if you're prepared for a challenge.**
 
 ## Rewards
 

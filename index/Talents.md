@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82210
+revid: 82219
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1170,6 +1170,8 @@ _**"I enjoy sea food."**_
 -   Versatile \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of [equipment](Equipment.md) quicker than others. You can equip things at 3 points lower than the requirement. (Power level doesn't count)
 
 ### Ironsinger
+
+> _**"I obtained the lost art of Ironsinging."**_
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
     -   Most ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods.

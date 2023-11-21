@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 82093
+revid: 82223
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -57,3 +57,4 @@ An Ignition Union Guard executes the player after knocking them:
 ## Trivia
 
 -   One of the few enemies that have alloyed weaponry.
+-   Despite them being a guard they can fight in Summer Isle in the Ignition Union vs Summer Goon encounter.

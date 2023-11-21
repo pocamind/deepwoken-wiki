@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 82085
+revid: 82226
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -45,6 +45,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
         -   Cooldown scales with the duration of the suit.
     -   For the suit to last a full minute, use 3 Aeon Longstones and 3 Eternal Longstones.
     -   To achieve the maximum damage reduction, use 3 Vibrant Gems, which will give the suit a 10% damage reduction.
+    -   If you decide to use the Aeon Longstones and Eternal Longstones, as well as the Vibrant Gems this cost around 200 ether, a Blue Gem can help reduce the cost to 100 ether, similar to the amount of Reinforce.
     -   The suit has iframes on the second half of its windup.
     -   Orbital Ice is less effective when used in conjunction with it.
     -   The Arc Suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a [Dye Packet](Dye_Packet.md). “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”

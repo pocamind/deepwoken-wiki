@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 81117
+revid: 82217
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -67,8 +67,8 @@ Does not have a racial ability.
   
 
 -   Spellhardt
-
-Moros
+-   Moros
+    
 
 ## Notes
 
