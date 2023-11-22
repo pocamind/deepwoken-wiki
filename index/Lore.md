@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 81868
+revid: 82266
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -66,6 +66,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
     -   When asked, developer ragoozer simply stated that it is up the interpretation of the reader.
 -   Even more powerful than the Lord Regent.[\[1\]](#cite-note-rag-1)
+-   A Theory stated as "Close to the actual lore" says that Drallis Ehr is controlled by Celestials or a singular Celestial, with the objective of unite all Lumen under one banner to fight of the Drowned Gods like the Celestials did in the past.
 
 ### **The First Prophet**
 
@@ -75,6 +76,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   A Deepwoken, along with Pleeksty.[\[1\]](#cite-note-rag-1)
 -   It is said that the First Prophet created the Ministry since the tides came, suggesting he is as old as Pleeksty or even more.[\[1\]](#cite-note-rag-1)
 -   It is speculated that he lost his humanity.[\[1\]](#cite-note-rag-1)
+-   Presumably located in the Depths in an unkown layer.
 
 ### **The Second Prophet**
 
@@ -124,6 +126,7 @@ The Duke
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
+    -   Presumably, he was spied upon other Celtor nobles, meaning that duke was not very trusted probably for being more powerfull than most of the nobles.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[2\]](#cite-note-arch-2)
 
   
@@ -222,6 +225,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 -   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
 -   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems.
+-   He uses a unique weapon called the "Moonseye Scapel."
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
@@ -634,20 +638,20 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
   
 
--   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer. Secluded within the outskirts of Celtor Waste behind a light-green barrier, Castle Light is not to be confused with Markor Citadel, the Diver base located in the surface.
--   The barrier, being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by deaths cannot bypass this barrier, and instead rejects them and drains of their Ether whilst those who are alive can go through with no harm done.
+-   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer. Secluded within the outskirts of Celtor Waste behind a light-green barrier, Castle Light is not to be confused with Markor Citadel, the Diver base located on the surface.
+-   The barrier, being both doors to Castle Light and the Celtor Wastes, grants passage to only living beings; mortal bodies with a soul. Those who drowned by death cannot bypass this barrier and instead rejects them and drains their Ether whilst those who are alive can go through with no harm done.
     -   There are no clues or evidence of the origins of this barrier, or what kind of magics it uses.
 
 #### **The Eternal Gale, The Second Layer**
 
--   The Second layer of the depths is a cold wasteland with never-ending winds that lies directly below the first layer.
+-   The Second layer of the depths is a cold wasteland with never-ending winds that lies non-linearly below the first layer.
 
 ##### Ethironal Shrine (First floor)
 
 -   A shrine dedicated to Ethiron, built by the Kyrsgarde.
 -   The snow is not actually snow, but instead parasite eggs.
--   The Ignition union have set up a base within the shrine, along with lanterns to burn the parasitic snow off.
-    -   This means that even though the divers are well funded and have way more control over layer 1 compared to the ignition union, the ignition union is much more equipped to handle layer 2. This could possibly mean that they are funded by the authority to explore the deeper parts of the depths and settle there efficiently while the divers are more research based and only go to layer 2 for more information that the ignition union is ordered not to do. This could be why they are both funded by the authority for maximum efficiency.
+-   The Ignition Union has set up a base within the shrine, along with lanterns to burn the parasitic snow off.
+    -   This means that even though the divers are well funded and have way more control over layer 1 compared to the Ignition Union, the Ignition Union is much more equipped to handle layer 2. This could possibly mean that they are funded by the authority to explore the deeper parts of the depths and settle there efficiently while the divers are more research-based and only go to layer 2 for more information that the Ignition Union is ordered not to do. This could be why they are both funded by the authority for maximum efficiency.
 
 ##### New Kyrsa (Second Floor)
 
@@ -815,7 +819,7 @@ A Dark Mage, located in Minityrsa.
 -   **Encountered In:** _Etris_
 -   **Attunements:** _Unknown_
 -   **Alliances:** _The Ministry (Neutral) File:Eylisiconfactoin.png_
--   **Enemies:** _The Central Authority, The Warmasters._
+-   **Enemies:** _The Central Authority, The Warmasters, The Divers._
 -   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, Ragoozer (Discord)_
 
 -   The Contractors are a group of individuals that have taken an Oath, attaching puppet strings to their souls that tie them to Zi'eer.
@@ -857,7 +861,7 @@ A Dark Mage, located in Minityrsa.
 -   The Darksteel Greatsword[\[9\]](#cite-note-dsgs-9), the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
--   Deepdelver is a special rank in the Ignition union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there still strong Deepdelvers such as Colonel Hoffa.
+-   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others, however there still strong Deepdelvers such as Colonel Hoffa.
 -   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
 -   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[11\]](#cite-note-alpha-11) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[2\]](#cite-note-arch-2)
     -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
@@ -926,7 +930,7 @@ An Authority Captain
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
--   The Hive has Lifeweavers within their ranks, individuals who utilized the song to create life.
+-   The Hive has Lifeweavers within their ranks, individuals who utilized the song to manipulate life, but not creating life as many people think.
 -   There is a High chance that there are Ironsingers in their ranks due to the Hive Tactician armor description.
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
@@ -943,13 +947,13 @@ An Authority Captain
 -   They were founded shortly after the Tides.[\[2\]](#cite-note-arch-2)
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in Etris, who could easily go insane and kill someone close to her.
 -   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
--   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder".
+-   (The Authority) The Divers has a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
 -   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower rungs, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on...
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located in the Central Luminant.
     -   It's possible that as a Deepbound you are in the 1st layer to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
--   The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition union has a drill to get to the Second Layer, using it like a elevator.[\[2\]](#cite-note-arch-2)
+-   The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[2\]](#cite-note-arch-2)
 -   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris and Akira.
 -   Black Divers are allowed more freedom than their lower-ranked peers. This can be both a blessing and a curse for the organization, as Divers like Carrion can act without restriction, but it also leads to them prioritizing their own goals over those of the Divers.
 
@@ -1479,6 +1483,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the arts of the Radiant Tones by way of binding themselves to her ways, and using the powers of the Oath to defeat the encroaching darkness of the world.
     -   The repercussions of such an Oath is unknown, as the player may just as well bind themselves in service of Klaris herself. Though Klaris doesn't seem to be interested in using this kind of power to her own benefit.
         -   This is only appearance by surface - the true nature and goal of Klaris is yet to be revealed.
+        -   However it is stated by Klaris that "They cant lift the burden from the Lightkeepers for now" meaning that Dawnwalker is more of a "prototype", before reaching the same exact powers as a Lightkeeper through the Radiant Tones.
 -   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Krysan Medallions to Klaris.
     -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order banish darkness from the world.
 -   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[12\]](#cite-note-yaya-12)
@@ -1525,10 +1530,12 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
 -   It also results in unknown physical changes.[\[2\]](#cite-note-arch-2)
+-   It may have the chance to make you to "Lose your humanity" like the First Prophet did, however this is unkown since Amrous Pleeksty hasnt lost his humanity yet.
 -   It is also known that becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
 -   The consequences of becoming a Deepwoken are yet to be known, but their are drawbacks.[\[2\]](#cite-note-arch-2)
     -   Though similar to Starkindred (As Deepwoken are technically it's polar opposite), it is not entirely impossible to theorize that becoming a Deepwoken is also an act of invoking the power of Oaths, hence binding the user's soul to an ideal.
 -   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain Talent cards being directly under the tree "Deepwoken".
+-   It is stated that the Drowned God wich the Deepwoken has consumed a piece of, can influence in the thoughts and actions of their Deepwoken, meaning that for example: Amorus Pleeksty could be influence by Korilfiend to do certain actions.
 
 ### **Voidwalker/Void Oath**
 
@@ -1598,6 +1605,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
 -   Their names are tied to rocks, suggesting that while other races worshipped animals, the Adret are tied to the land.
+-   A Theory stated as "Close", says that the Adrets did a heraditary vow with Celestials instead of animals like the rest of the races did, explaining that during the Old World many of them were located in the skies, explaining why Mudskippers came from Meteors.
 
 ### Currency
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 82232
+revid: 82267
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -77,6 +77,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   Keep in mind that you will not be sent to layer 2 if you are gripped during the progression of your oath, instead you will go to fragments, so do not be overconfident when progressing this oath.
 -   Before 25/08/23, 4 specific Deep Shrines deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
 -   You are able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements.
+-   Fighting Duke "Ishamon" Erisia is not a requirement, despite popular belief, but is suggested due to bell EXP.
 
 ## Trivia
 

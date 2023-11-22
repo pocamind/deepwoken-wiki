@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82219
+revid: 82263
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2179,6 +2179,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 65 Agility
 
 ### Tyrant
+
+> _**"I seek the qualities of Tyrant."**_
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.

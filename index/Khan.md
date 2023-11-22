@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 82126
+revid: 82262
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -87,6 +87,6 @@ May have increased rep with The 11th Legion
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme.
 -   Hair dye affects the sideburns.
     
-    Monkskippers
+    Monkskipperkk
     
-    File:Monkskipper.png
+-   Khans may be a refence to the mongols, as Gengis Khan has khan in it, and the leader of a village in very old times is called the Khan. these khan also tend to build a army of strength just like the mongols.
