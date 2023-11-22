@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82263
+revid: 82275
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -405,7 +405,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   User is covered in a blue highlight when the effect is active.
     -   Effect may inconsistently fail to manifest despite the visual effect. Attacking will cancel the effect early.
     -   Prerequisite: 25 Agility
-    -   Mutual Exclusive: _Leaf in the Wind_ Talents
+    -   Mutual Exclusive: _Leaf in the Wind_ Talents (Observation, Safety Dance)
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (3 seconds).
@@ -417,7 +417,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I have never lost."**_
 
--   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
+-   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you. (About 10% extra damage)
     -   Prerequisite: 50 Willpower
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
@@ -461,7 +461,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I walk the skies."**_
 
--   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Jumping off a cliff launches you forwards. (+1 Elemental Mastery)
+-   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Slide-jumping off a cliff launches you forwards. (+1 Elemental Mastery)
     -   Prerequisite: 25 Galebreathe
 
 ### Cold Phantom
@@ -740,6 +740,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Charged Return \[Common Talent\] - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
     -   Prerequisites: 20 Willpower, 15 Strength
+        -   Pairs well with the [Flame Within](Flamecharm.md) talent.
 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load, +2 Elemental Intensity)
     -   Prerequisites: 15 Intelligence
@@ -1099,10 +1100,11 @@ _**"I enjoy sea food."**_
 > _**"I burn so that I may succeed."**_
 
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. (+3 Elemental Intensity)
-    -   Self fire damage is reduced
     -   Prerequisites: 40 Flamecharm
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity, +2 Elemental Intensity)
+    -   Flame Within also count as being on fire.
+    -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   Prerequisite: Agitating Spark, 40 Flamecharm
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
