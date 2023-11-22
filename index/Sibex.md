@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 77901
+revid: 82244
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -74,7 +74,7 @@ Where Sibex can be found
 </tr>
 <tr>
   <td colspan="9">Great! See you soon!</td>
-  <td colspan="3">-</td>
+  <td colspan="3">Great! see you soon!</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

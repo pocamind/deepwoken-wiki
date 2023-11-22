@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 82075
+revid: 82249
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Journeyman Diver Guards are NPCs that act as the guards of [Castle Light](Castle_Light.md).
+Journeyman Diver Guards are NPCs that act as the guards of [Castle Light](Castle_Light.md) as well as ambushing "Hunted" reputation players.
 
 They are able to use all four standard Attunements at a time, the only NPCs in the game capable of doing so.
 

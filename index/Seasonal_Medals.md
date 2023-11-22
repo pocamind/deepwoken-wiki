@@ -1,6 +1,6 @@
 ---
 title: Seasonal Medals
-revid: 80967
+revid: 82254
 source: https://deepwoken.fandom.com/wiki/Seasonal_Medals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 Hallowtide medals are special tags that allow you to redeem Hallowtide event items from Blacksmiths in exchange for [Knowledge](Knowledge.md).
 
-During Hallowtide 2023, you could purchase Hallowtide '22 for 200 Joy and the Hallowtide '23 Medal for 300 Joy. Both allow you to obtain [Hallowtide](Hallowtide.md) items from the respective year.
+During Hallowtide 2023, you could purchase Hallowtide '22 for 200 Joy and the Hallowtide '23 Medal for 300 Joy. Both allow you to obtain [Hallowtide](Hallowtide.md) items from the respective year. While in future, other events may be released, there are currently only Hallowtide Medals.
 
 ### Items
 

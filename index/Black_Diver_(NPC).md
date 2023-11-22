@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 82090
+revid: 82251
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Cut Content]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Black Divers are enemies that can appear as part of a high level Ambush events from The Divers.
+Black Divers are enemies that appear as part of "Villian" reputation [ambush events](Faction_Ambushes.md) from The Divers.
 
 ## Moveset
 
