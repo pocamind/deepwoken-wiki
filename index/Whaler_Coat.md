@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 81196
+revid: 82280
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -34,4 +34,4 @@ This Outfit's Schematic can be found in:
 
 -   This Outfit is worn by [Knives of Eylis](The_Knives_of_Eylis.md).
 -   A downgraded version of this armor is granted for free upon starting with the [Voidwalker Origin](Origins.md#voidwalker).
--   This Outfit appears near-identical to the Whaler Initiate Outfit.
+-   This Outfit used to appear near-identical to the Whaler Initiate Outfit.

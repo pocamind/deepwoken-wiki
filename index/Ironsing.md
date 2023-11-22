@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 81888
+revid: 82279
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -330,7 +330,7 @@ Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds
 
  | 
 
-Guardbreaking an opponent will them from receiving speed boost for 5 seconds.
+Guardbreaking an opponent will prevents them from receiving speed boost for 5 seconds.
 
  |
 | 

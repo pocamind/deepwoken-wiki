@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 81506
+revid: 82278
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Pages with broken file links]
@@ -14,6 +14,12 @@ notices:
 |---|---|
 | oath_req | ? |
 | effects | ? |
+
+“ The Heroes of the Blade may have fallen in ages past, but in taking up their blades, the torch is carried once again. ”
+
+― Deepwoken Twitter
+
+(note: add a quote from in-game here once oath comes out)
 
 ## Description
 
