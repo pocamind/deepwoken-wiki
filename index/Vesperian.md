@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 82195
+revid: 82299
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -108,6 +108,8 @@ A layer of protective armor that regenerates at rest.
 File:Similar Last Names.png
 
   
+
+-   The race variants for Vesperian are based on various armour pieces typically worn by knights. A sabaton is a shoe, a besague is a type of rondel that protects the shoulder, and a plackart is a type of torso armour/chestplate.
 
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
     -   Hallowtide Vesperians have the same purple eye color as Hallowtide Ganymede.
