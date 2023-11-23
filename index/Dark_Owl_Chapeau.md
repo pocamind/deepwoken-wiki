@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Chapeau
-revid: 77224
+revid: 82293
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Chapeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats]
@@ -29,4 +29,5 @@ The Dark Owl Chapeau is an [Equipment](Equipment.md) item under the "Head" categ
 
 ## Trivia
 
--   Part of the Dark Owl series; the other pieces being the [Dark Owl Cloak](Dark_Owl_Cloak.md) and [Dark Owl Cape](https://deepwoken.fandom.com/wiki/Capes?so=search#Dark_Owl_Cape_)
+-   Part of the Dark Owl series; the other pieces being the [Dark Owl Cloak](Dark_Owl_Cloak.md) and Dark Owl Cape.
+-   "Chapeau" is French for "Hat."

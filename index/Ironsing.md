@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 82279
+revid: 82284
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -192,7 +192,7 @@ Does not negate deferred or fire damage.
 
  | 
 
-Metal wisp  
+Metal Wisp  
 (★★☆)
 
  | A servant of metal | 70 Ether | Summon a metal wisp that regenerates armor and applies rods on vent
