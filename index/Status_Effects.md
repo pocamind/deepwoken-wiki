@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 82344
+revid: 82357
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -48,6 +48,10 @@ Restore your health to maximum and get up if you are unconscious. Applied by the
 
 All posture damage given to you will instead be sent to the person who used [Rally.](Attunement-less.md) Signified by your character emitting white circles.
 
+### Cool Head
+
+For the duration, you are unable to be lit on fire.
+
 ### Engulfed by Lightning
 
 Applied by the mantra [Lightning Cloak.](Thundercall.md) Have your swing speed and movement speed increased while active.
@@ -84,6 +88,10 @@ These status effects won't kill you, but they can give you a negative buff or dr
 
 This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move or by the Ignition Downside on [Corrupted Resonances](Resonance.md). Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling.
 
+### Winded
+
+This effect can be applied by being hit with Galebreathe mantras or Galeforced monsters, it reduces your attack speed for its duration.
+
 ### Suffocated
 
 Can be applied by being hit by [Wind Gun](Galebreathe.md) or by any Galebreath mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users head.
@@ -99,6 +107,10 @@ Have your body completely engulfed in ice and lose the ability to do anything to
 ### Shocked
 
 Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarly throught [Thundercall](Thundercall.md) mantras
+
+### Overloaded
+
+Inflicted by Thundercall Surge Path mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you.
 
 ### Electrified
 
@@ -119,6 +131,14 @@ Deal 10% less damage to the player who charmed you. If the charmer has the talen
 ### Bottom Freeze
 
 Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchant.](Enchantments.md)
+
+### Silenced
+
+This is applied by having your mantras parried by a [Silentheart](Oath%253A_Silentheart.md) user and prevents the usage of mantras for its duration.
+
+### Harrowing
+
+This is applied by being hit by the Harrowing enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
 
 ### Angry
 
@@ -172,6 +192,6 @@ This effect happens when you are low on hunger/food. When this occurs, you will 
 
 Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will loose a small amount of your health at a time. If your health ever depletes while standing in Acid, your character instantly dies. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
 
-### Tier 3 [Insanity](Insanity.md)
+### Tier 3 Insanity
 
-This effect happens when you've reached Tier 3 of Insanity where your character will start scratching their body and face which deals some damage. If you don't have enough health left when scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. Due to how long it takes to get to max insanity, you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
+This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where your character will start scratching their body and face which deals some damage. If you don't have enough health left when scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. Due to how long it takes to get to max insanity, you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.

@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 82248
+revid: 82364
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -27,7 +27,11 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 
  |
 | [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md) | "Target sighted. Commencing operation." |
-| [Authority](The_Central_Authority.md) | 1 [Authority Commander](<Authority_Commander_(Enemy).md>) | "Commencing mission." |
+| [Authority](The_Central_Authority.md) | 1 [Authority Commander](<Authority_Commander_(Enemy).md>) | "Commencing mission"
+
+"Give up now - you stand against the Central Authority!"
+
+ |
 | [Ignition Union](The_Ignition_Union.md) | 1 [Mechaloduant](Megalodaunt.md#mechalodaunt) | "GROARRRRRR!" |
 | [Ignition Union](The_Ignition_Union.md) | 3 Arcwarders | "There's the scab, lads!" |
 | [Hundred Legions](The_Hundred_Legions.md) | 3 [Legion Captains](Legion_Captain.md) | "You won't stand long before our might!"
@@ -47,3 +51,4 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 | [Hive](The_Hive.md) | 1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>) | ??? |
 | [Hive](The_Hive.md) | 1(?) [Hive Construct](Hive_Construct.md) | "YOUR REMAINS ARE TO BE SCATTERED." |
 | [The Divers](The_Divers.md) | 3 [Diver Journeymen](Journeyman_Diver_Guard.md) | "You stand against the world, worm." |
+| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Guard Knives | "Boss'll be pleased about this one." |
