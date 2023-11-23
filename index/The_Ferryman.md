@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 81892
+revid: 82332
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -127,6 +127,8 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 
 -   A near necessity for the fight is using [Campfires](Campfire_Pit.md) to heal, which you must place manually. Always place at least one before the fight, as the purple ritual fires cannot be used to heal. Always keep something to light a campfire with, as if you run out mid-fight, you won't be able to conventionally heal. It is also recommended that you place a campfire behind cover so his Grand Volley does not hit you while healing.
     -   _Try to heal at most one bar before continuing the fight. If in dire need, try to go for two._
+-   The Ferryman will teleport immediatly to initiate his next attack once you get in range for m1s after most of his attacks were not fully parried. However this can be used to your advantage, if you know you have missed a parry on Lightning Assault for example, you can go rest at a campfire, which will give you time to heal before he attacks again, similarly, if he uses Lightning Clones, you can also rest at a campfire if you have a friend stalling by running around and having the clones aggro, if you are alone, you can let them come to you, get up to block/parry/hit them then sit back down to continue healing. Even with his Lightning Strikes, if he is too far for you to hit and interrupt, you can get up from resting, parry all the strikes (since the rythm is consistent, this isn't too hard) and sit back down. Lastly, his teleport being based on proximity can be taken advantage of by attacking him with long range mantras like Ice Beam, which won't cause him to teleport away instantly.
+-   If The Ferryman is stuck in a weird spot where you are safe from most of his attacks (like down the hill or behind the log or a pillar) leave him be and use this time to heal if you aren't full. This is the perfect opportunity to do so and he will eventually unstuck himself when he uses his next Lightning Assault.
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to six specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
 -   Ferryman seems to become "angered" if you try and delay by healing/staying away for too long, in which he will aggressively teleport incredibly close to you and attack immediately, causing massive damage or even death if he chooses a particularly damaging attack. Always be prepared to get up from a fire to react accordingly.
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
@@ -265,6 +267,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
+-   It can be inferred from The Ferryman and the [Scion Of Ethiron](Scion_of_Ethiron.md)'s attacks using Thundercall and Galebreathe, that "awakaned" or "primal" forms of attunements are colored purple. This is further reinforced by the fact that the Forge of Sin contains purple flames which may be the "awakened" Flamecharm.
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"

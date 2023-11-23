@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 81537
+revid: 82320
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -95,8 +95,10 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
--   Megalodaunts in Trials have a possibility of being corrupted, since spawn mechanics in the Depths randomly decide if a whitelisted mob can be corrupted or not, the Megalodaunt being on the whitelist.
-    -   This will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
+-   Any monster in Trials have a possibility of being corrupted, be careful.
+-   Adding on to this, any monster (excluding [Mudskipper Knights](Mudskipper.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
+-   Furthermore, in rare (and unlucky) cases, monsters can simultaniously spawn **Attuned** **AND** Corrupted.
+    -   This Corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players randomly butting or tagging along in the cathedral's elevator, especially if they have set a trap for you to fight not one but two corrupted Trial monsters.
         -   It is also advised to also know the risks of fighting a corrupted monster in the trial, and there is no turning back (unless you glitch out) once they spawn in. **Fight or wipe.**
 -   The moment the monster spawns, you will automatically be locked in combat, and even if you somehow don't get hit or parry/dodge anything for the next three minutes, such as glitching outside the trial, the combat tag in the Depths trial takes 10 minutes to despawn.

@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 81061
+revid: 82328
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -43,6 +43,25 @@ Slash
 ### **Passives**
 
 -   **Monster Resistance** - Physical attacks deal 20% less damage to the Bone Keeper.
+
+  
+**Fighting Tips**
+
+-   Fighting a Bone Keeper might seem difficult, but the only real danger is being hit, as the damage from Bone Keepers is espicially high on their Grab and their Leap. Their patterns are not particularly complex and can easily be learned with a few attempts.
+
+-   The parry timing for the shoulder bash can take a bit of time to get used to. If you cannot parry it consistently, it's advised to just dodge it instead to minimize the risk.
+
+-   Keep in mind the Bone Keeper will only use his Bone Carpet and Femur Throw attacks when you are a far enough distance away, if you keep close to the Bone Keeper, it will not use these two moves.
+
+-   If you were downed by a Bone Keeper and you are fighting alongside friends, they can take aggro for you and spare you from death, because the Bone Keeper cannot grip you and has to use his Grab move to grip you once you are downed. (keep in mind however, that being taken to 0% HP by the grab or the leap will auto grip you, making you unable to be saved by this method)
+
+-   If you have lag, don't attempt to parry the triple punch, as your timing will likely be messed up and you will end up blocking (and subsequently be posture broken) instead, which can cost you your life.
+
+-   For the Triple Punch + Leap: Either parry the punch, then jump to avoid the leap, or, alternatively dodge the punch then jump.
+
+-   For the Femur Throw: Wait a couple seconds (when you see the Bone Keeper visibly coiling his arm back, ready to throw) before rolling to the side to avoid it, you **can parry it** but it's generally not recommended as the timing is weird and the attack is relatively fast, being hard to react to.
+
+-   If you want to parry the shoulder bash, press F as soon as the Bone Keeper has fully gotten into running stance, essentially parrying it as SOON as he would start dashing.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 82137
+revid: 82300
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -149,6 +149,6 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 ## Trivia
 
 -   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
--   With the exception of both the Rain Spire and Void Spire, all other Relics are a one-time use.
+-   With the exception of both the Rain Spire and Void Spire, all other Relics are consumables and will disappear after one use.
 -   Relics can drop from [Hell Mode](Hell_Mode.md), but it is uncertain if it's some Relics or all of them.
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) Percentage Rates were assisted by [this video](https://www.youtube.com/watch?v=0HbS2iFOAb8). Note that the percentage rates are very likely skewed or accompanied by a margin of error due to statistics not being as reliable as hard-confirmed rates.

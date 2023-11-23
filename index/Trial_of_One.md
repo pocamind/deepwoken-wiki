@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 81643
+revid: 82312
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -52,11 +52,11 @@ If you fail to dodge the digging attack or get launched by the tail swipe, make 
 
 **2 Greater Angels:**
 
-Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. (7 sword hits per Angel)
+Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. (7 sword hits per Angel) Also keep in mind that Greater Angels will very likely spawn with Enchanted weapons, which can make this part more daunting if they use something like Deffered or Blazing.
 
 **Weakened Enforcer:**
 
-Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP. (16 sword hits, consistent with all variants)
+Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP. The Enforcer you get can be any variant: Axe, Sword or Hammer. (16 sword hits, consistent with all variants)
 
 **Weakened Desert Knight:**
 
@@ -84,14 +84,17 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
+-   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch some players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
+-   You may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with talents/mantra choosing early on.
 
 ## Trivia
 
--   Greater Angels use _Crazy\_Slots?_ spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
+-   Greater Angels use _[Crazy Slots's](Crazy_Slots.md)_ Divine Spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
 -   Dying in Trial of One with the Lone Warrior origin now sends you to [The Depths](The_Depths.md).
 -   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
+-   If you hold an armor piece in your hand when the trial would force you to discard it, will allow you to keep it. (this might be a bug)
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
 -   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
