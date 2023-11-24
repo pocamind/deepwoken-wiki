@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 82395
+revid: 82405
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -151,7 +151,7 @@ Unable to move during the duration while active while still being able to block,
 
 ### Silenced
 
-This is applied by having your mantras parried by a [Silentheart](Oath%253A_Silentheart.md) user and prevents the usage of mantras for its duration.
+This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's crit, uppercut, or flourish and prevents the usage of mantras for its duration.
 
 ### Harrowing
 
