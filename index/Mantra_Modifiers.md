@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 82162
+revid: 82378
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -332,8 +332,7 @@ Gem
 #### Cloudstone
 
 -   Causes the projectiles from the "Ice Lasers" mantra to shoot multiple bullets consecutively.
-
-  
+-   Causes "Shadow Seekers" to summon more projectiles
 
 #### Glass Stone
 
