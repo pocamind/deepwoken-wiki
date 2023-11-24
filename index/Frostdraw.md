@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 81336
+revid: 82404
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -957,18 +957,16 @@ Hitting an opponent with your Ice Daggers causes them to freeze.
 
  | 
 
- | 
-
-Unyielding Frost  
-(ICE 100)
+Frozone  
+(ICE ??, Ice Skate)
 
  | 
 
-Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
+You are no longer required to be over water to use Ice Skate.
 
  | 
 
-N/A
++5 Elemental Intensity
 
  |
 | 

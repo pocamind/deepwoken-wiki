@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 81410
+revid: 82398
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -68,7 +68,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
 
 Not much has been revealed about the race but it is described to be more aware of the world around them, having old knowledge and experience to offer. They also align with three symbols or entities that are presumably the sources of their racial abilities, the Moonseye, the Mother and the First Beast.
 
-A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseekers in Derelict Highchurch. He also calls himself a follow of Ku, and his Capra variant is also the one called Ku. If this guy isn't insane, it's most likely the reason why Capras have different abilities depending on their variant is because each variant has the power of a Celestialor similarly powerful being. Jurik would have powers related to insanity/sanity gain, and Nemit would most likely be a god of farming and food, further proven with the weapon NEMIT'S Sickle; sickles are mostly used as farming tools.
+A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseekers in Derelict Highchurch. He also calls himself a follow of Ku, and his Capra variant is also the one called Ku. If this guy isn't insane, it's most likely the reason why Capras have different abilities depending on their variant is because each variant has the power of a Celestial or similarly powerful being. Jurik would have powers related to insanity/sanity gain, and Nemit would most likely be a god of farming and food, further proven with the weapon NEMIT'S Sickle; sickles are mostly used as farming tools.
 
 **Strengths:**
 

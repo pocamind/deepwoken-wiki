@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 82357
+revid: 82395
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -98,7 +98,7 @@ Can be applied by being hit by [Wind Gun](Galebreathe.md) or by any Galebreath m
 
 ### Chilled
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra.
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled ennemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cero
 
 ### Frozen
 
@@ -112,9 +112,26 @@ Hitstun of the attack that apply shock is increased, meaning you will spend more
 
 Inflicted by Thundercall Surge Path mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you.
 
+### Metal Rods
+
+Inflicted by being hit by Ironsing mantras. Effect varies depending on which path the Ironsinger uses:
+
+-   Normally: Allows you to be pulled in towards them when they press X
+-   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing mantra
+-   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
+-   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on talents they might have.)
+
+### Poisonned
+
+This can be applied by being hit by the Deep Widow's venomous bite. While poisonned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage.
+
 ### Electrified
 
 Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) mantra with the talent Resolve Crusher. Signifed by a swirling lightning effect in the users torso.
+
+### Sapped
+
+This can be applied by being flourished by someone using Thunder Wisp. While Sapped, your mantra cooldowns are increased, you will also be shocked when Sapping ends.
 
 ### Dazed
 
@@ -159,6 +176,10 @@ Screen turns slightly black around the edges and have your vision obscured. Gain
 ### Cauterized
 
 Applied by being hit by the [Sear](Enchantments.md) enchant. Incoming attacks have increased PEN, which is increased every time you get hit by the Sear enchant until it caps out at +40% PEN. No visual effect.
+
+### Solar Mark
+
+Applied by being flourished or hit by critical attacks from weapons with the Solar enchant. Reduces tempo and ether gain/regeneration.
 
 ### Grim
 

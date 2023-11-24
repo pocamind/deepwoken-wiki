@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 82280
+revid: 82386
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -35,3 +35,4 @@ This Outfit's Schematic can be found in:
 -   This Outfit is worn by [Knives of Eylis](The_Knives_of_Eylis.md).
 -   A downgraded version of this armor is granted for free upon starting with the [Voidwalker Origin](Origins.md#voidwalker).
 -   This Outfit used to appear near-identical to the Whaler Initiate Outfit.
+-   Based on the outfit used by the assassin, Volke, in Fire Emblem: Radiant Dawn.
