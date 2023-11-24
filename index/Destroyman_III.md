@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 81368
+revid: 82367
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -43,6 +43,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
 -   Does this game upset you? Me too.
 -   Don't you get tired of being nice?
+-   Ever worked a night shift? You don't want to. Actually, have you ever worked at all?
 -   Every good thing that happens to you in this game is preplanned like a show. There's an audience waiting for your downfall.
 -   Fish names can be so silly. Did you know there's a seabream species calls "Boops Boops"? There's a "Dumb Gulper Shark" too. How mean!
 -   Flamecharm? Daring today, aren't we?

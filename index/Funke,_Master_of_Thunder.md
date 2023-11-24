@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 81441
+revid: 82370
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -25,7 +25,7 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
-| Critical | Slams blade into the ground, conjuring a thin volley of lightning strikes forward. | ◯ | ✗ | (★★☆) |
+| Critical | Charges the rifle up before circling around the opponent, appearing in short flashes as they fire shots. | ◯ | ◯ | (★★★) |
 | Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
 | Thunder Kick | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
 | Strong Left | User performs a wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
