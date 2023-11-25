@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 60719
+revid: 82427
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -14,7 +14,7 @@ categories: [Monsters, Layer 2, Floor 1]
 
 Template:Creature Info Box v2
 
-## Overview
+## Description
 
 Carbuncles are a enemy Humanoid NPC of [Layer 2](Second_Layer.md) and in certain locations of the Lumen; the final form that [Diver Husks](Diver_Husk.md) will transform into.
 

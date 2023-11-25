@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 81874
+revid: 82462
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -77,7 +77,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
-  <td><div><p>Weapon deals 1.1x damage over time.<br>
+  <td><div><p>Weapon deals 1.07x damage over time.<br>
   The victim takes 1/10 of the initial damage every 0.25s 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
@@ -86,7 +86,7 @@ There are two variants that enchantments come in:
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is effected by damage modifiers and bypasses armor.(doesnt knock back)<br>
+  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is not effected by damage modifiers and bypasses armor.(doesnt knock back) All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon turns orange, depending on material. Metal and Blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
@@ -107,7 +107,7 @@ There are two variants that enchantments come in:
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  the target is afflicted with Grim for 4 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.<br>
+  the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.<br>
   More testing required to confirm how much hits it takes for light to proc Grim.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red mist.</div></td>
 </tr>
@@ -137,7 +137,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>On hit, a red eye marker is placed on the enemy. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
+  <td><div><p>On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
   <b>Nemesis critical can still trigger critical talents like bear trap, manipulator, etc.<br>
   </b><b>The range of this is 65-70 studs</b></p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
@@ -147,7 +147,7 @@ There are two variants that enchantments come in:
   <font>Obfuscation<div></div></font></center></td>
   <td><div><p>Weapon gain 50%/35%/25% chip damage (HVY/MED/LHT).<br>
   Weapon deals less posture damage.<br>
-  Landing hits give a speed boost.<br>
+  Landing close range hits give a speed boost.<br>
   </p>
   <p>Note that if you have obfuscation, your chip damage is capped at 50%. It is not capped at 50% for non-obfuscation weapons. Confirmed by tester.<br>
   </p></div></td>
@@ -170,7 +170,7 @@ There are two variants that enchantments come in:
   <td><div><p>Apply <b>Cauterize</b> on hit. Cauterized targets:<br>
   have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
   (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
-  Lose thirst equal to 20% of damage taken. Sear's PEN stacks are currently bugged causing it to be the same as Old Sear.</p></div></td>
+  Lose thirst equal to 20% of damage taken. Sear additionally provides 5% PEN at all times.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
-  <td><div><p>On hit, deal 50% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
+  <td><div><p>On hit, deal 75% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
   M1s to allies deals 50% damage.</p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
@@ -283,7 +283,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p>On proc, 5% of your max health is added to your damage.<br>
-  Rarely on proc, lose 10% hp and have 10% of your max health added to your damage.</p></div></td>
+  Rarely on proc, lose 7% hp and have 10% of your max health added to your damage.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
 </tr>

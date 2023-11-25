@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 82399
+revid: 82431
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -133,6 +133,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Just a game, right?
 -   Lol
 -   You can use two sticks and one fiber to make a fishing rod at a workbench. Fishing's more relaxing than whatever it is you're doing right now.
+-   Armor durability is essential during combat - you can talk to a blacksmith to repair yours next time.
 
 ## Gripping Quotes
 
@@ -183,3 +184,4 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III). He is everywhere.
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
+-   on 11/24/23, Deepwoken Partnered with Makeship in order to bind Destroyman in a cotton prison with the [Sharko Plush](https://www.makeship.com/products/sharko-plush).

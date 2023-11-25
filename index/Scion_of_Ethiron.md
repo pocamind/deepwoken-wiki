@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 81680
+revid: 82414
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -96,8 +96,6 @@ Try to be conservative when it comes to ether usage, as with the new Tempo mecha
 After beating the boss, it's mostly running until you reach the city. White orbs will spawn in random places at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Ice Lancer's means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Killing those Ice Lancers doesn't guarantee your death, but it isn't the preferred way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is a slower, although much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the Scion of Ethiron, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
 
 The Scion of Ethiron is often said to be extremely difficult, when in reality the opinion comes due to lack of experience. Fighting this boss is necessary in order to truly master its moveset and make it out of Layer 2 in one piece.
-
-  
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82275
+revid: 82479
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1590,7 +1590,6 @@ _**"I enjoy sea food."**_
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Rapid Fire \[Common Talent\] - \[Pistols\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
     -   Prerequisites: 50 Light Weapon, using a Gun
-    -   Works with all rifles excluding [Stormseye](Stormseye.md)
 -   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
     -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
     -   Prerequisites: 50 Light Weapon, using a Gun
@@ -1598,8 +1597,6 @@ _**"I enjoy sea food."**_
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast. (Play Ultrakill)
     -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Gun
-
-  
 
 ### Politician
 
@@ -2225,14 +2222,23 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 -   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
--   Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
-    -   Sapped effect causes the duration of mantra cooldowns to increase, which acts similar to [Thunder Wisp](Thundercall.md).
+
+### Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
+
+-   -   Sapped effect causes the duration of mantra cooldowns to increase, which acts similar to [Thunder Wisp](Thundercall.md).
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
     -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple. May affect Arcwarder in the future.
     -   Prerequisite: 40 Thundercall
+
+### Ferguson
+
+**"However long I must edge, Ferguson will never be reamincipated throughout its unbenouncted restamintrix"**
+
+-   Ferg's Dwelling \[Common Talent, Galebreathe exclusive\]- After every parry, all Galebreath cooldowns will be lowered by 75% and vent bar will be automatically filled. Prerequisites: Ferguson Path: Restamintrix Truth, 5 Galebreathe
+-   Blessed STDs \[Common Talent, Galebreathe exclusive\]- Guardbreaking enemies will transmit a random STD; causing different debuffs which last for 45 seconds each. Having [Gale Wisp](Galebreathe.md) equipped will give take away enemy health and pass it to the user Prerequisites: Ferguson Path: Restaminitrix Truth, 5 Galebreathe
 
 ### Vigil Swordsman
 

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 81833
+revid: 82473
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -189,6 +189,17 @@ _Form a punch of wind in your fist and release it._
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
 
  |  |
+| ??????????????? | 
+
+  
+Wind Forge  
+(★☆☆)
+
+ | _"Encircle your foes with blades of wind that halt their escape_
+
+_until they respond"_
+
+ |  | ???????????????????????????????????????????? |  |
 |  | 
 
 Champion's Whirlthrow  

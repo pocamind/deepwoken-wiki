@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 82245
+revid: 82411
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1947,7 +1947,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Penetration: Shattered Katana/First Light (30%)
     -   Chip damage: Night Axe (60%)
     -   Scaling: Revolver, Divine Flintlock (15)
-    -   Weight: Enforcer Hammer/Stoneheart (12)
+    -   Weight: Hivelord's Hubris (14)
     -   Range: Revolver, Divine Flintlock (12)
     -   Swing Speed: Divine Flintlock (1.3x)
     -   Highest DPS: Divine Flintlock
