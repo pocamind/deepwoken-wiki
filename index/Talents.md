@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82502
+revid: 82511
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -275,7 +275,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I prefer to attack unseen."**_
 
 -   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
-    -   Prerequisites: 85 Agility
+    -   Prerequisites: 60 Agility, Assasin
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
@@ -569,15 +569,14 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
     -   Prerequisite: 45 Agility
--   Deep Wound \[Common Talent, Light\] - Assassinating a target with a dagger applies anti-heal for 20 seconds. ( )
--   Hidden Blade \[Common Talent, Agility\] - Assassinations now leave enemies on the ground longer. (+2 Passive Agility)
-    -   Prerequisite: 30 Agility
+-   Deep Wound \[Common Talent, Light\] - Assassinating a target with a Light Weapon applies anti-heal for 20 seconds.
+    -   Prerequisite: 45 Light Weapon
 
 -   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
     -   Prerequisite: Assassin, 30 Agility
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
-    -   Prerequisite: 70 Agility, Hidden Blade
+    -   Prerequisite: 60 Agility
 
 ### Dark Siphon
 
@@ -690,7 +689,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
 
--   _Tap Dancer_ \[Rare Talent, Agility\] - Roll again immediately after a roll cancel. (+1 Passive Agility)
+-   _Tap Dancer_ \[Rare Talent, Agility\] - Roll immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
     -   Your Roll cooldown is refunded when you perform a roll cancel. Does not proc on the subsequent roll cancel.
     -   Prerequisite: 60 Agility
 
