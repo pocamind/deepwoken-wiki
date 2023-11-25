@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 82460
+revid: 82504
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -35,11 +35,11 @@ This weapon is permanently under the effect of the **After Cut** Galebreathe tal
 
 ## Critical Attacks
 
-### One Handed Crit; Propelling Whirlwind
+### Two Handed Crit; Propelling Whirlwind
 
 The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
 
-### Two Handed Crit; Aerial Blast
+### One Handed Crit; Aerial Blast
 
 The user shoots a blast of air, similar to the VFX of **Pressure Blast**, and on collision or after a short amount of time it will proceed to explode.
 
@@ -58,3 +58,4 @@ The user shoots a blast of air, similar to the VFX of **Pressure Blast**, and on
 -   It is one of three known weapons to have multiple critical attacks, the others being [Railblade](Railblade.md) and [Light's Final Toll](<Light's_Final_Toll.md>).
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI" and the other runes near the tip are a mix of different ancient runic dialects, that still don't translate to anything.
 -   Using The Curved Blade of Winds completely disables your shield's Posture buff. However, if you have the Turtle Shell Talent and are two handing the weapon, you can still negate Spine Cutter, as the shield appears on your back.
+-   The very first curved model was a Warden Ceremonial Sword with inhale particles.

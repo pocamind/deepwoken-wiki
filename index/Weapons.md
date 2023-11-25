@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 82411
+revid: 82506
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1611,7 +1611,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>5%</td>
   <td>N/A</td>
   <td>HVY: 10</td>
-  <td>10</td>
+  <td>14</td>
   <td>10</td>
   <td>0.45x</td>
   <td>N/A</td>
@@ -1735,7 +1735,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 WND, 25 MED, LVL 10</td>
   <td>17.5</td>
   <td>15%</td>
-  <td>MED: 5, WND: 4</td>
+  <td>MED: 5, WND: 5</td>
   <td>5</td>
   <td>8</td>
   <td>0.8x</td>

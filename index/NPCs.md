@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 82191
+revid: 82499
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -20,7 +20,7 @@ A full list of all NPCS can be found [Here](https://docs.google.com/spreadsheets
 | --- | --- | --- | --- | --- |
 | ??? (Coral Clump) | Unaligned | [The Depths](First_Layer.md), [Celtor Wastes](Celtor_Wastes.md) | None |  |
 | ??? (FalseMan) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
-| [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Catapults you into a door that requires a [bell](Resonance.md) to open | Once thrown enough times she will stop throwing you |
+| [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Being a bitch. | Once thrown enough times she will stop throwing you |
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) | If you choose the second option without 75 charisma you will have your head exploded |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives Glider schematic, gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |

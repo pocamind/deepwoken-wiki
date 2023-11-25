@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 82431
+revid: 82500
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -14,6 +14,10 @@ categories: [NPCs]
 “ Mudwoken? What are you talking about? That's so 91 years ago. Get with the times. ”
 
 ― Destroyman III
+
+## Limited Time Offer
+
+You can buy an official Sharko Plush made by makeship in [here!](https://www.makeship.com/products/sharko-plush)
 
 ## Description
 

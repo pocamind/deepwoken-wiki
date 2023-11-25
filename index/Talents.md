@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82479
+revid: 82502
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1905,6 +1905,25 @@ Prerequisite: Charisma
 -   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
     -   Prerequisite: Speak to Yamaketzal, Power 5
 
+### Specter
+
+> _**"I seek the qualities of Specter."**_
+
+-   Haunted Path: Specter \[Common Talent, Galebreathe Exclusive\] - Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.
+    -   Prerequisites: Haunted Gale, 50 Galebreathe
+
+-   Apparitions \[Common Talent, Galebreathe Exclusive\] - Instead of Haunted Gale Phantoms, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'.
+    -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
+
+-   Phantom Step \[Common Talent, Galebreathe Exclusive\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 20% Spectral Gauge)
+    -   Prerequisites: Haunted Path: Specter, 55 Galebreathe
+
+-   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
+    -   Prerequisites: Phantom Step, 60 Galebreathe
+
+-   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - Dodging an attack will send an apparition towards your attacker. \[Must be above 50% Spectral Gauge\]
+    -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
+
 ### Static Weaver
 
 > _**"I weave webs of lightning."**_
@@ -2221,24 +2240,16 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 -   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
-    -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
+    -   Prerequisites: Surge Path: Unstable Capacitor, 50 ThundercalFried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
 
-### Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
-
--   -   Sapped effect causes the duration of mantra cooldowns to increase, which acts similar to [Thunder Wisp](Thundercall.md).
+-   Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
+    -   Sapped effect causes the duration of mantra cooldowns to increase, which acts similar to [Thunder Wisp](Thundercall.md).
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Human Battery \[Common Talent, Thundercall Exclusive\] - When you are out of Ether, convert the Surge stacks of nearby enemies into Ether to pay the cost of your Mantras.
     -   Prerequisites: Surge Path: Unstable Capacitor, 60 Thundercall
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
     -   Turns all Thundercall mantras, Jumpstart, [Stormseye](Stormseye.md) and [Hero Blade of Lightning](Hero_Blades.md) blurple. May affect Arcwarder in the future.
     -   Prerequisite: 40 Thundercall
-
-### Ferguson
-
-**"However long I must edge, Ferguson will never be reamincipated throughout its unbenouncted restamintrix"**
-
--   Ferg's Dwelling \[Common Talent, Galebreathe exclusive\]- After every parry, all Galebreath cooldowns will be lowered by 75% and vent bar will be automatically filled. Prerequisites: Ferguson Path: Restamintrix Truth, 5 Galebreathe
--   Blessed STDs \[Common Talent, Galebreathe exclusive\]- Guardbreaking enemies will transmit a random STD; causing different debuffs which last for 45 seconds each. Having [Gale Wisp](Galebreathe.md) equipped will give take away enemy health and pass it to the user Prerequisites: Ferguson Path: Restaminitrix Truth, 5 Galebreathe
 
 ### Vigil Swordsman
 
