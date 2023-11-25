@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 82019
+revid: 82533
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -64,7 +64,7 @@ The only way to obtain each ability is to grip a player with an Oath, this howev
 
 This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their irises a light cyan.
 
-## Notes
+## Trivia
 
 -   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
 -   Highly recommended for more support-based builds (e.g., Flame Vow of Mastery).

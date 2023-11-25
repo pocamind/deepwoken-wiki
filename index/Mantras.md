@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 82192
+revid: 82525
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -86,6 +86,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
 -   It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world.
+-   Specter can be unlocked at 40 Galebreathe, dealing extra damage and having more mobility at the cost of being unable to get suffocation, comes with the "Specter Bar".
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.

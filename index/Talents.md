@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82511
+revid: 82531
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1496,10 +1496,6 @@ _**"I enjoy sea food."**_
     -   Affected targets takes 200% extra posture damage and take 25% more damage.
     -   Affected targets deals 15% less posture damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
-
--   **Heartbeat Sensor** \[Common Talent\] - When using Rhythm, you can hear the subtle heartbeat of all living things nearby. (+10 Sanity)
-    -   Entities that are close enough give a constant ping.
-    -   Prerequisite: Murmur: Rhythm, 40 Willpower, [Power](Power.md) 16
 
 -   _**Murmur: Ardour** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the Murmur into raw strength. Press H._
     -   _Prerequisites: Kill the [Dread Serpent](Dread_Serpent.md)._
