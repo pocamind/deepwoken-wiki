@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 82555
+revid: 82582
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -97,6 +97,8 @@ Cooldown: 10 Seconds
 Properties:
 
 Modifiers:
+
+Blast Spark Magnet Spark
 
  |
 |  | 
@@ -220,7 +222,7 @@ Cooldown: 12 Seconds
 
 Properties:
 
-Modifiers:
+Modifiers: Tornado Spark
 
  |
 |  | 

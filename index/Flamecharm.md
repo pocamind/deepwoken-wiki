@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 82548
+revid: 82584
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -891,7 +891,7 @@ Pyromania
 
  | 
 
-Self-inflicted fire damage is reduced.
+Self-inflicted fire damage is reduced. ( This talent no longer exists and is merged with Immolation. )
 
  | 
 
