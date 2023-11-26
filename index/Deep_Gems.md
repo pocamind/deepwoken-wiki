@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 81048
+revid: 82551
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -44,7 +44,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Bloodless Gem</td>
-  <td>Heals user by 30% of the damage dealt by the Mantra. Healing is reduced against multiple targets.<p>Reduces damage of mantra by 20%.</p></td>
+  <td>Damage reduced by 20%. Heal user for 75% of damage dealt. Cap of 15 HP per seconds.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>

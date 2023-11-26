@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 82266
+revid: 82570
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -61,12 +61,12 @@ _The Lord Regent, sitting atop his throne of coral._
 ### **Drallis Ehr**
 
 -   Grand Sovereign of The Central Authority.[\[1\]](#cite-note-rag-1)
--   Presumably an Adret, given the bias' of the Authority.
+-   Presumably an Adret, given the biases of the Authority.
 -   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
     -   When asked, developer ragoozer simply stated that it is up the interpretation of the reader.
 -   Even more powerful than the Lord Regent.[\[1\]](#cite-note-rag-1)
--   A Theory stated as "Close to the actual lore" says that Drallis Ehr is controlled by Celestials or a singular Celestial, with the objective of unite all Lumen under one banner to fight of the Drowned Gods like the Celestials did in the past.
+-   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the Celestials with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
 
 ### **The First Prophet**
 
@@ -76,7 +76,6 @@ _The Lord Regent, sitting atop his throne of coral._
 -   A Deepwoken, along with Pleeksty.[\[1\]](#cite-note-rag-1)
 -   It is said that the First Prophet created the Ministry since the tides came, suggesting he is as old as Pleeksty or even more.[\[1\]](#cite-note-rag-1)
 -   It is speculated that he lost his humanity.[\[1\]](#cite-note-rag-1)
--   Presumably located in the Depths in an unkown layer.
 
 ### **The Second Prophet**
 
@@ -126,7 +125,6 @@ The Duke
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
-    -   Presumably, he was spied upon other Celtor nobles, meaning that duke was not very trusted probably for being more powerfull than most of the nobles.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[2\]](#cite-note-arch-2)
 
   
@@ -930,8 +928,8 @@ An Authority Captain
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
--   The Hive has Lifeweavers within their ranks, individuals who utilized the song to manipulate life, but not creating life as many people think.
--   There is a High chance that there are Ironsingers in their ranks due to the Hive Tactician armor description.
+-   The Hive has Lifeweavers within their ranks, individuals who utilized the song to manipulate and transfer life.
+-   They were initially the only users of the Ironsing attunement, killing off anyone else who used it until [Adar, Master of Metal](Adar,_Master_of_Metal.md), escaped to the Ignition Union.
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
 
@@ -1481,9 +1479,6 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 ### Dawnwalker
 
 -   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the arts of the Radiant Tones by way of binding themselves to her ways, and using the powers of the Oath to defeat the encroaching darkness of the world.
-    -   The repercussions of such an Oath is unknown, as the player may just as well bind themselves in service of Klaris herself. Though Klaris doesn't seem to be interested in using this kind of power to her own benefit.
-        -   This is only appearance by surface - the true nature and goal of Klaris is yet to be revealed.
-        -   However it is stated by Klaris that "They cant lift the burden from the Lightkeepers for now" meaning that Dawnwalker is more of a "prototype", before reaching the same exact powers as a Lightkeeper through the Radiant Tones.
 -   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Krysan Medallions to Klaris.
     -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order banish darkness from the world.
 -   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[12\]](#cite-note-yaya-12)
@@ -1530,12 +1525,10 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
 -   It also results in unknown physical changes.[\[2\]](#cite-note-arch-2)
--   It may have the chance to make you to "Lose your humanity" like the First Prophet did, however this is unkown since Amrous Pleeksty hasnt lost his humanity yet.
 -   It is also known that becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
--   The consequences of becoming a Deepwoken are yet to be known, but their are drawbacks.[\[2\]](#cite-note-arch-2)
+-   The consequences of becoming a Deepwoken aren't yet known, but their are drawbacks.[\[2\]](#cite-note-arch-2)
     -   Though similar to Starkindred (As Deepwoken are technically it's polar opposite), it is not entirely impossible to theorize that becoming a Deepwoken is also an act of invoking the power of Oaths, hence binding the user's soul to an ideal.
 -   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain Talent cards being directly under the tree "Deepwoken".
--   It is stated that the Drowned God wich the Deepwoken has consumed a piece of, can influence in the thoughts and actions of their Deepwoken, meaning that for example: Amorus Pleeksty could be influence by Korilfiend to do certain actions.
 
 ### **Voidwalker/Void Oath**
 
@@ -1564,7 +1557,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
     -   It can be obtained by performing a handful of assassinations for [Cestis](Cestis.md), a Ganymede located in [Meteor Isle](Meteor_Isle.md).
 
 -   Ministry Agents or Scouts can utilize this Murmur.
--   Alpha Megalodaunts ~and Hive Constructs~ can somehow use its power too. (Hive Constructs are not confirmed to use Tacet.)
+-   Alpha Megalodaunts can somehow use its power too.
 -   Some Kyrsgarde are able to use this Murmur.
 -   Despite suppressing their own Murmur, Blindseers are able to see Tacet users despite suppressing it.
 
@@ -1605,7 +1598,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
     -   Canors were once a major part of the Authority's fighting force, which may be a reference to the close relationship between dog and man.
     -   The Authority is comprised mainly of Adrets, which could be a metaphor for humanity's desire for war and conquest.
 -   Their names are tied to rocks, suggesting that while other races worshipped animals, the Adret are tied to the land.
--   A Theory stated as "Close", says that the Adrets did a heraditary vow with Celestials instead of animals like the rest of the races did, explaining that during the Old World many of them were located in the skies, explaining why Mudskippers came from Meteors.
+-   A theory stated as "close", says that the Adrets created a hereditary vow with Celestials, instead of animals like the rest of the Races did, explaining their unique appearance.[\[1\]](#cite-note-rag-1)
 
 ### Currency
 
@@ -2136,7 +2129,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) Developer ragoozer
+1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) [1.77](#cite-ref-rag-1-77) Developer ragoozer
 2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) Developer Arch\_Mage
 3.  ↑ [3.0](#cite-ref-kamas-3-0) [3.1](#cite-ref-kamas-3-1) [3.2](#cite-ref-kamas-3-2) [3.3](#cite-ref-kamas-3-3) [Flareblood Kamas](Flareblood_Kamas.md) description
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [4.2](#cite-ref-firstlight-4-2) [4.3](#cite-ref-firstlight-4-3) [4.4](#cite-ref-firstlight-4-4) [4.5](#cite-ref-firstlight-4-5) [4.6](#cite-ref-firstlight-4-6) [4.7](#cite-ref-firstlight-4-7) [First Light](First_Light.md) description

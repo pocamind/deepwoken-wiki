@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 82462
+revid: 82565
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -167,10 +167,10 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Sear<div></div></font></center></td>
-  <td><div><p>Apply <b>Cauterize</b> on hit. Cauterized targets:<br>
-  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40%.<br>
-  (LHT: 10, MED: 6, HVY: 4) to get to around 40% PEN, the PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
-  Lose thirst equal to 20% of damage taken. Sear additionally provides 5% PEN at all times.</p></div></td>
+  <td><div><p>Weapon gain +5% PEN and apply <b>Cauterize</b> on hit. Cauterized targets:<br>
+  have increased incoming PEN, with each hit increasing the PEN bonus, up to +40% (LHT: 4%, MED: 6.66%, HVY: 10% per hit).<br>
+  The PEN it gives also counts for mantra damage and it bypasses the 50% PEN cap.<br>
+  Lose thirst equal to 20% of damage taken.</p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
@@ -283,7 +283,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p>On proc, 5% of your max health is added to your damage.<br>
-  Rarely on proc, lose 7% hp and have 10% of your max health added to your damage.</p></div></td>
+  Rarely on proc, lose 7% hp and have 7% of your max health added to your damage.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
 </tr>

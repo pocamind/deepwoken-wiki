@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 69114
+revid: 82566
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -9,10 +9,6 @@ notices:
 ---
 
 # Crab
-
-“ Not into the pit! IT BURNS! ”
-
-― Crab as Ragoozer throws it into the Cut Content bin
 
 Template:Creature Infobox V3
 

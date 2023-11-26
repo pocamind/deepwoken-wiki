@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 82504
+revid: 82563
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -45,8 +45,8 @@ The user shoots a blast of air, similar to the VFX of **Pressure Blast**, and on
 
 ## Trivia
 
--   This weapon deals 33.25 damage with 100 MED and 100 WND
-    -   34.9125 damage with the After Cut effect included.
+-   This weapon deals 34.5 damage with 100 MED and 100 WND
+    -   36.2 damage with the After Cut effect included.
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or voided if not equipped.

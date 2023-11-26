@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 82378
+revid: 82552
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -363,11 +363,7 @@ Gem
 
 Bloodless Gem
 
- | Heals user by 50% of the damage dealt by the mantra. Healing reduced on multi hit mantras.
-
-Reduces damage of the mantra by 20%.
-
- |
+ | Damage reduced by 20%. Heal user for 75% of damage dealt. Cap of 15 HP per seconds. |
 | 
 
  | 

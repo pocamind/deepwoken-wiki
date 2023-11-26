@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82531
+revid: 82573
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1057,7 +1057,7 @@ _**"I enjoy sea food."**_
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
     -   Reduce knockdowns (like heavy weapon crit, ascension, etc) duration by 30%.
-    -   Prerequisites: 100 Fortitude, 100 Willpower and Perseverance (and maybe Mental Fortress talents, need testing)
+    -   Prerequisites: 100 Fortitude, 100 Willpower and Perseverance
 
 ### Hunter
 
@@ -2235,7 +2235,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 -   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
-    -   Prerequisites: Surge Path: Unstable Capacitor, 50 ThundercalFried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
+    -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 
 -   Fried Circuits \[Common Talent, Thundercall Exclusive\] - Overloading an enemy applies Sapped for 5s.
     -   Sapped effect causes the duration of mantra cooldowns to increase, which acts similar to [Thunder Wisp](Thundercall.md).

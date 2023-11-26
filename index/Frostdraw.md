@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 82404
+revid: 82550
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1001,7 +1001,6 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the most Mantras out of all attunements in the game.
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
-
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   NPCs still use the old version of the Ice Eruption mantra.
 

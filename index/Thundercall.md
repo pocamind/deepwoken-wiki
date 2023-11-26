@@ -1,9 +1,9 @@
 ---
 title: Thundercall
-revid: 81683
+revid: 82555
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mantras, Attunement]
+categories: [Pages with broken file links, Attunement]
 ---
 
 # Thundercall
