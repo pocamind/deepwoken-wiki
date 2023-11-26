@@ -1,17 +1,14 @@
 ---
 title: Samael
-revid: 67672
+revid: 82603
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Samael
 
-| Samael | |
-|---|---|
-| name | Samael |
-| location | Derelict Highchurch |
+File:Terrified.png
 
 “ Do you wish to join the Starkindred, and feast upon the Holy Ichor of our God? It will be irreversible. You will be... born anew, lamb. ”
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 81908
+revid: 82600
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -30,7 +30,7 @@ categories: [Oaths]
 -   Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
 -   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void will send you to Layer 2, and refusing to become the [Nestmind](The_Nestmind.md)'s food will steal your dark feather and teleport you back.
 
-To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills, and one separate talent being available through a talent roll, needing no void feathers.
+To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock the mantras and talents, 5 in total for all skills.
 
 The abilities below are listed in order of obtainment.
 
@@ -70,12 +70,10 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   The monster can be a: Nautilodaunt, Megalodaunt, King Thresher or Deep Owl.
 
 -   **Cheap Trick - Passive**
-    -   When hit while below 50% health, turn invisible and summon an Illusory Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 30s cooldown, tested.)
 
-The following talent is obtained by leveling up after obtaining and maxing out Visionshaper:
+-   When hit while below 50% health, turn invisible and summon an Illusory Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 30s cooldown, tested.)
 
--   **Vanishing Closure - \[Rare talent, Visionshaper\]**
-    -   Become invisible for 2.5 seconds whenever you knock an enemy. (grants iframes for the duration of the effect.)
+-   Become invisible for 2.5 seconds whenever you knock an enemy. (grants iframes for the duration of the effect.)
 
 ## Effects
 

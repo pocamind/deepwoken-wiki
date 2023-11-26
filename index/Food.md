@@ -1,16 +1,12 @@
 ---
 title: Food
-revid: 79048
+revid: 82604
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
 ---
 
 # Food
-
-“ I guess the moral of the story is: Raw food is... it's... uh... You should cook sometime. ”
-
-― Jaleel Nephidra
 
 ## Description
 

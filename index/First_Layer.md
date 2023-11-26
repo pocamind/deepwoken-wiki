@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 82554
+revid: 82606
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -89,8 +89,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 3.33-6.33 | [Mudskipper Knight](Mudskipper.md) |
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
-| 16.99+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| Drowned 20+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
+| 16.66+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| Drowned 15+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
@@ -233,6 +233,7 @@ Below is a list of potential items that can spawn in chests in Scyphozoa. Scypho
 -   Watchers and Angels are a threat to low-level players, so exercise extreme caution if you are a low-level player.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. Depending on the monster you are facing, a single lag spike or being on a bad server can result in your death.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire.
+-   Overall, don't trust players. Remember, you're in the depths, and if you die fighting a player, you'll wipe, so be cautious of them and avoid them at all costs.
 
 ## Trivia
 
