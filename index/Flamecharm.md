@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 82584
+revid: 82586
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -859,11 +859,12 @@ Immolation
 
  | 
 
-Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage.
+Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames.
 
  | 
 
-+8 Sanity
++8 Sanity  
++2 Elemental Insanity
 
  |
 | 
@@ -880,22 +881,6 @@ Any time you would burn to death, you instead rise again with 50% of your health
  | 
 
 +2 Elemental Intensity
-
- |
-| 
-
- | 
-
-Pyromania  
-(FLAME 40, Agitating Spark)
-
- | 
-
-Self-inflicted fire damage is reduced. ( This talent no longer exists and is merged with Immolation. )
-
- | 
-
-+3 Elemental Intensity
 
  |
 | 

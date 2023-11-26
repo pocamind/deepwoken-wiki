@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 82580
+revid: 82595
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -46,15 +46,14 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 | Media | Name | Card Description | Ether Cost | Effect | Stats |
 | --- | --- | --- | --- | --- | --- |
 |  | 
-Wind Blade
-
+Wind Blade  
 (☆☆☆)
 
  | 
 
 _Slicing blades of wind._
 
- |  | Launch a wind projectile at cursor's position.
+ | Work in Progress | Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
@@ -63,21 +62,20 @@ _Slicing blades of wind._
  |  |
 |  | 
 
-Air Force
-
+Air Force  
 (☆☆☆)
 
  | 
 
 _Shoots out an air blast._
 
- |  | Conjure a strong blast of air from the user's hands in the direction of your mouse that staggers target.
+ | Work in Progress | Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
 
 -   Deals high damage.
 -   Knocks opponents back and stuns them.
 -   Deals immense posture damage.
 -   Can break objects.
--   Can be upgraded with cloudstones.
+-   Can be upgraded with Cloudstones.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
 -   Shoots straight if shift lock is enabled.
 
@@ -86,31 +84,29 @@ _Shoots out an air blast._
 
  | 
 
-Tornado Kick
-
+Tornado Kick  
 (☆☆☆)
 
  | 
 
 _Slicing blades of wind._
 
- |  | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AOE projectiles if the mantra lands.
+ | Work in Progress | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
 
--   Deals moderate-high damage (If the whole move hits).
+-   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
 -   Projectile is medium-ranged and explodes on impact.
 
  |  |
 |  | 
 
-Gale Lunge
-
+Gale Lunge  
 (★☆☆)
 
  | 
 
 _A rush of piercing wind._
 
- |  | User lunges forward with their weapon coated in wind.
+ | Work in Progress | Lunge forward with your weapon coated in wind.
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
@@ -128,7 +124,7 @@ Tornado
 
 _A rushing current of wind._
 
- |  | Conjure a small vortex around yourself, M1 to cast it forward.
+ | Work in Progress | Conjure a small vortex around yourself, M1 to cast it forward.
 
 -   Can be modified with logstones to increase duration, but caps at 1 or 2.
 -   Moves forward on its own after 2 seconds.
@@ -146,11 +142,11 @@ Heavenly Wind
 
 _A strike from the heavens._
 
- |  | Leap high into the air before diving down, striking any targeted opponent.
+ | Work in Progress | Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.
-    -   Turn off shiftlock to do this.
+    -   Highly recommended to turn off Shift-Lock to do this.
 -   Good mobility.
 -   Feinting it leaves the user unable to use mantras for three seconds.
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
@@ -166,7 +162,7 @@ Galetrap
 
 _Toss a wind landmine._
 
- |  | Deploy a small green landmine at the cursor's location.
+ | Work in Progress | Deploy a small green landmine at your cursor's location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
@@ -182,7 +178,7 @@ Gale Punch
 
 _Form a punch of wind in your fist and release it._
 
- |  | Conjure a wind AoE punch that deals damage and knocks opponents away.
+ | Work in Progress | Conjure a wind AoE punch that deals damage and knocks targets away.
 
 -   Can be modified with cloudstones and stratus stones to increase size.
 -   Can break objects.
@@ -196,7 +192,12 @@ _Form a punch of wind in your fist and release it._
 Wind Forge  
 (★☆☆)
 
- | _"Encircle your foes with blades of wind that halt their escape_ _until they respond"_ | 60 Ether | ???????????????????????????????????????????? |  |
+ | _"Encircle your foes with blades of wind that halt their escape_ _until they respond"._ | 60 Ether | Perform a quick gesture with your hands, conjuring up a line of 4 wind projectiles before sending them towards your target.
+
+-   Projectiles are homing.
+-   Medium-far range.
+
+ |  |
 |  | 
 
 Champion's Whirlthrow  
@@ -204,15 +205,15 @@ Champion's Whirlthrow
 
  | 
 
-_Grab your opponent and toss them with the power of gale._
+_Grab your target and toss them with the power of gale._
 
- |  | Caster grabs opponent and proceeds to spin them in 360 degrees before tossing the opponent.
+ | Work in Progress | Grab your target before spinning them in 360 degrees and then tossing them.
 
 -   Deals good-high damage.
--   Forcible Block Break (Only When Upgraded To Level 5)
+-   Forcible Block Break (Only When Upgraded To Level 5).
 -   Applies knockback.
-    -   Needs more testing.
--   Can be upgraded with the "_Skull Crusher_" Talent
+    -   Requires more testing.
+-   Can be upgraded with the "_Skull Crusher_" Talent.
 
  |  |
 |  | 
@@ -224,14 +225,14 @@ Rising Wind
 
 _Use wind to uppercut and propel yourself into the air._
 
- |  | Caster ascends and uppercuts their opponent, rapidly damaging them.
+ | Work in Progress | Ascend while uppercutting your target, rapidly damaging them.
 
 -   Blocking sends only the user into the air.
 -   Rapidly deals light damage to the opponent while rising.
 -   Missing will not send the user into the air.
 -   Can be upgraded with the "_Reverse Gale Kick"_ Talent.
     -   Applies Knockdown frames on proc.
--   I-Frames
+-   Gives I-Frames throughout the duration of the mantra.
 
  |  |
 |  | 
@@ -243,7 +244,7 @@ Wind Gun
 
 _A powerful wind blast._
 
- |  | Fires a penetrating bullet of wind.
+ | Work in Progress | Fire a penetrating bullet of wind.
 
 -   Deals heavy damage and flings opponents.
 -   Applies the _"Suffocate"_ status effect.
@@ -261,13 +262,14 @@ Wind Carve
 
 _A quick swirl of sharp winds._
 
- |  | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+ | Work in Progress | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size.
 -   Pushes opponents hit by the final slash away.
--   Cannot be canceled once the attack initiates. (so it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent)
+-   Cannot be canceled once the mantra initiates.
+    -   So it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent.
 
  |  |
 |  | 
@@ -279,7 +281,7 @@ Astral Wind
 
 _A rapid delivery of consecutive attacks._
 
- |  | The user casts several fast, wind-enhanced slashes in a form of a star.
+ | Work in Progress | Cast several fast, wind-enhanced slashes that form a star.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
@@ -296,11 +298,11 @@ Pillars of Erisia
 
 _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp."_
 
- | 70 Ether | The user raises their left leg and stomps on the ground, summoning huge pillars of wind.
+ | 70 Ether | Raise your left leg and stomp the ground, conjuring up a huge volley of wind.
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Deals _possibly moderate-heavy_ damage.
--   Needs 20 Strength
+-   Requires 20 Strength.
 
  |  |
 
@@ -312,22 +314,23 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
   <th>Image</th>
   <th>Spell</th>
   <th>Card Description</th>
+  <th>Ether Cost</th>
   <th>Effect</th>
 </tr>
 <tr>
   <td></td>
-  <td><center><p>Wind Passage<br>
-  (★★★)</p>
-  <p><br>
-  </p></center></td>
-  <td><center><p><i>A rush of wind</i></p>
-  <p><br>
-  </p></center></td>
-  <td>The user instantly teleports to the position that they are facing, leaving much wind after cuts in the position they left.
+  <td><center>Wind Passage<br>
+  (★★★)</center></td>
+  <td><center><i>A rush of wind</i></center></td>
+  <td>Work in Progress</td>
+  <td>Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
   <ul>
-    <li>Can be modified with crystal and perfect lenses to increase the distance.</li>
-    <li>Uses the shadow assault startup sound.</li>
-    <li>It's also compatible with logstones, but the effect is minimal. (Needs to be tested)</li>
+    <li>Can be modified with Crystal/Perfect Lenses to increase the distance travelled.</li>
+    <li>Uses the <a href="Shadowcast.md">Shadow Assault</a> startup sound.</li>
+    <li>It's also compatible with Logstones, but the effect is minimal.
+  <ul>
+    <li>Requires more testing.</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>
@@ -335,8 +338,8 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 
 ### **Support Mantras**
 
-| Image | Spell | Card Description | Effect |
-| --- | --- | --- | --- |
+| Image | Spell | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 |  | 
 Gale Wisp  
 (★★☆)
@@ -345,10 +348,10 @@ Gale Wisp
 
 _A servant of wind._
 
- | Spawns a spherical wisp of wind. Must use ritual casting.
+ | Work in Progress | Spawns a spherical wisp of wind. Requires ritual casting.
 
 -   Grant 30% fall damage resist.
--   Haunted Gale requires one less perfect cast to activate (3 to 2)
+-   Haunted Gale requires one less perfect cast to activate (3 to 2).
 -   Can be modified with logstones to extend it's usage.
     -   Note using logstones will force you to cast more signs.
 
