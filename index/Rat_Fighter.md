@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 80331
+revid: 82631
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -39,4 +39,4 @@ A Rat Fighter executes the player after knocking them.
 
 -   It will drop a "Gold Plate" upon being killed, which, 5 of can be turned in to the Golden Rat Bouncer for mid-tier Erisia loot.
 -   The Golden Rat Bouncer outside of the [Rat's Den](<Rat's_Den.md>) says he'll offer you something if you bring him 5 Gold Plates, being a small chest containing high-tier loot for Burning Stone Gardens.
--   One of [f](Golden_Warrior.md)i[v](Immortal_Guardian.md)[e](https://deepwoken.fandom.com/wiki/Immortal_Guardian#Nightmare) mobs able to wield a Divine Axe, which can only be obtained by the player having the [Crazy Slots Resonance](Crazy_Slots.md).
+-   One of [f](Golden_Warrior.md)i[v](Immortal_Guardian.md)[e](Immortal_Guardian.md#nightmare) mobs able to wield a Divine Axe, which can only be obtained by the player having the [Crazy Slots Resonance](Crazy_Slots.md).

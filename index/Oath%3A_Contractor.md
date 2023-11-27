@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 82351
+revid: 82613
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -89,4 +89,6 @@ Up close Contractor strings
 -   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
 -   Changes dialogue with Duke.
+-   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
+-   In lore Contractor is one of the most cruel, heartless, and emotionless being in the world of Lumen due to them not having free will. This was because they literally giving up their souls and will to the prophet to become their literal living puppets. Also the fact Zi'eer ordered the Contractor player to slay people with oath in depth and accepting it without hint of remorse or questioning its morality is already a hint that the Contractor player has lost part its humanity.
 -   If you for some reason do this quest while you already have an Oath, instead of giving you Contractor he will say, "Then you are a fool" and kill you instantly.

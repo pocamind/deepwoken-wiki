@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 81064
+revid: 82638
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -40,6 +40,7 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
 ## Trivia
 
+-   It's considered the spiritual successor to [Jack](Jack.md), the second Monster ever created for Deepwoken.
 -   Despite its resemblance to the Megalodaunt, its anatomy more-so resembles a frog, evident by their posture and ability to leap long distance, and the way they attack prey.
 -   Like every other Layer 2 monster, [Mute](Regalia.md#mute) has no effect on Bounders.
 -   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.

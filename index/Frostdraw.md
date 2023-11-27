@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 82550
+revid: 82621
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -275,7 +275,7 @@ Ice Cubes
 
 _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cubes._
 
- | User summons 3 Ice Cubes and throws them to where their cursor is. Also, homes in on nearby targets.
+ | User summons three Ice Cubes and throws them to where their cursor is. Also, homes in on nearby targets.
 
 -   Compatible with a Multiplying Spark to instead send them one by one.
 -   Deals moderate damage.
@@ -292,10 +292,11 @@ Ice Fissure
 
 _Send ice rippling out in a shockwave._
 
- | Forms a beacon infront of the player.
+ | Forms an Obelisk in front of the player.
 
--   Up to three beacons can be active at any time.
--   Recasting this mantra near an active beacon causes it to explode.
+-   Up to three Obelisks can be active at any time.
+-   Recasting this Mantra near an active Obelisk causes it to explode.
+-   Creating an Obelisk on top of someone will stun them for ten seconds.
 -   Outdated gif, please replace
 
  |

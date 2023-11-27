@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 77431
+revid: 82627
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -33,7 +33,7 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 
 ### **Armor Schematics:**
 
--   [Mercenary Armor](Hired_Mercenary.md) (?? )
+-   [Mercenary Armor](Hired_Mercenary.md) (80 )
 -   [Ignition Union Uniform](Ignition_Union_Uniform.md) (80 )
 -   [Hired Mercenary](Hired_Mercenary.md) (80 )
 -   [Eager Tradesman](Eager_Tradesman.md) (200)
@@ -48,7 +48,7 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Prophet's Cloak](<Prophet's_Cloak.md>) (?? )
 -   [Vigil Cloak](Cloak_of_Winds.md) (?? )
 -   [Tactician](Hive_Tactician_Armor.md) (80 )
--   [Pathfinder Journeyman](Pathfinder_Cloak.md) (?? )
+-   [Pathfinder Journeyman](Pathfinder_Cloak.md) (200 )
 -   [Whaler Coat](Whaler_Coat.md) (200 )
 -   [Pathfinder Sorcerer](Pathfinder_Arch-Sorcerer.md) (200 )
 -   [Flame Worshipper](Flame_Worshipper_Armor.md) (80 )

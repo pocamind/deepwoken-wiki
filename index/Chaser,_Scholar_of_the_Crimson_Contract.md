@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 82599
+revid: 82612
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -182,6 +182,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 -   Chaser does not spawn if the bounders at the Nest Corridor do not spawn.
 -   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Used to have the title, Scholar of the Crimson Contract.
+-   If the player is a [Contractor](Oath%253A_Contractor.md) it seems Chaser had no idea what they're or rather the dev hasn't implemented this unlike [Duke](Duke_Ishamon_Erisia.md)
 -   His hair ID is 77799954 & The beard ID is 4995497755
 -   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 

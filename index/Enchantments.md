@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 82597
+revid: 82615
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -282,7 +282,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>On proc, 5% of your max health is added to your damage.<br>
+  <td><div><p>Chance to proc adding 5% of your max health to your damage.<br>
   Rarely on proc, lose 7% hp and have 7% of your max health added to your damage.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>

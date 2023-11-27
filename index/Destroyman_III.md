@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 82500
+revid: 82646
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -138,6 +138,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Lol
 -   You can use two sticks and one fiber to make a fishing rod at a workbench. Fishing's more relaxing than whatever it is you're doing right now.
 -   Armor durability is essential during combat - you can talk to a blacksmith to repair yours next time.
+-   Maybe it's time for a new strategy?
 
 ## Gripping Quotes
 
