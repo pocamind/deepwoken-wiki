@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 82646
+revid: 82660
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -139,6 +139,8 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   You can use two sticks and one fiber to make a fishing rod at a workbench. Fishing's more relaxing than whatever it is you're doing right now.
 -   Armor durability is essential during combat - you can talk to a blacksmith to repair yours next time.
 -   Maybe it's time for a new strategy?
+-   IT'S JUST ONE OF THOSE DAYS.
+-   Uh. Sorry, I guess?
 
 ## Gripping Quotes
 
@@ -163,6 +165,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)", along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by Agamatsu in one of his streams (same goes for the April fools lobby music)
 -   The tooltip "Flamecharm? Daring today, aren't we?" is a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
+    -   He's escaped both into the real and overworlds, nowhere is safe.
 -   The tooltip “I’m smart, you’re dumb; I’m big, you're little; I’m right, you're wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name and is said by the one and only; our lord and saviour Danny Devito.
 -   ~The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman III apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath.~ Destroyman III is never wrong.
     -   This was later corrected to say seventh.
@@ -175,7 +178,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   Destroyman III plays Super Mario Brothers apparently.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion or will be unable to pay his taxes and is currently on the run from the Megalodaunt IRS.
--   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to Outer Wilds. (Yippee!)
+-   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to Outer Wilds.
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
 -   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQtR2w](https://youtu.be/nVm0QQ-tR2w))
 -   The sound played when Destroyman III first appears comes straight from _No More Heroes_.
@@ -189,4 +192,4 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III). He is everywhere.
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
--   on 11/24/23, Deepwoken Partnered with Makeship in order to bind Destroyman in a cotton prison with the [Sharko Plush](https://www.makeship.com/products/sharko-plush).
+-   Deepwoken partnered with Makeship in order to craft for Destroyman a vessel in the form of the [Sharko Plush](https://www.makeship.com/products/sharko-plush).

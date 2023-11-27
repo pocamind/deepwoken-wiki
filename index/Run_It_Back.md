@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 81041
+revid: 82662
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -53,6 +53,4 @@ Run it Back has randomized attunements upon obtaining the bell.
 ## Trivia/Notes
 
 -   This is a reference to _Phoenix_ from _Valorant_, who's ultimate is also called "Run it Back".
--   NOTE: This bell differs between users, it is possible to get a 3 second "Run it back" while it is also possible to get a 9 second "Run it back." I have gotten a 9 second version of this, so I am able to confirm the times are different per player.
--   Having a "Shadowcast" variant does not engulf players in Shadow.
 -   If your health goes to 0% during Run it Back, you will die, run it back WILL NOT save you.

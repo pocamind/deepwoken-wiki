@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 82645
+revid: 82651
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -18,15 +18,15 @@ categories: [World, Items]
 | pass down | No |
 | desc | An organ responsible for the production of electricity. |
 
-**Spork Glands** are an item in _Deepwoken_.
+**Spark Glands** are an item in _Deepwoken_.
 
 ## Description
 
-Spork Glands are used to get [Thundercall](Thundercall.md), one of the six Attunements by giving them to the Thundercall [Trainer](Attunement_Trainers.md). They can also be consumed, though they will barely give any hunger or thirst.
+Spark Glands are used to get [Thundercall](Thundercall.md), one of the six Attunements by giving them to the Thundercall [Trainer](Attunement_Trainers.md). They can also be consumed, though they will barely give any hunger or thirst.
 
 ## Obtainment
 
-Spork Glands drop from any NPC that uses the [Thundercall](Thundercall.md) attunement.
+Spark Glands drop from any NPC that uses the [Thundercall](Thundercall.md) attunement.
 
 ### NPCs
 
@@ -36,4 +36,4 @@ Spork Glands drop from any NPC that uses the [Thundercall](Thundercall.md) attun
 
 ## Trivia/Notes
 
--   Prior to the Verse 2 Update, Spork Glands used to give [Reservoir](Reservoir.md) upon consumption.
+-   Prior to the Verse 2 Update, Spark Glands used to give [Reservoir](Reservoir.md) upon consumption.
