@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 82290
+revid: 82687
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -171,3 +171,4 @@ Par's cat maid: [https://youtu.be/EXmgA9FJ20g?t=566](https://youtu.be/EXmgA9FJ20
 
 -   yayafino's spec was the original version of the Dawnwalker Oath.
 -   While not technically a spec, popular YouTuber Agamatsu was given 1000+ Fortitude, making him invincible and causing the damage on the mantra Shoulder Bash, which scales off of Fortitude, to be comically high.
+-   Zartania's Skeleton Key spec was inspired by the Barrier-Barrier Fruit from One Piece and by the Ekranas scroll from Tales From The Valley, which he was notorious for abusing.

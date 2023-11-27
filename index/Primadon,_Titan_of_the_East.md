@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 82666
+revid: 82701
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -91,6 +91,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   **16 [Chests](Chests_&_Sacks.md) -** Drops 16 Chests with medium - high tier loot. Most Chests have 1-6 [Umbral Obsidian](Umbral_Obsidian.md) in them.
 -   **Small chest -** Has 1-3 [Umbral Obsidian](Umbral_Obsidian.md) in it and a low chance of 1-2 Deep Gems or Legendary Rings, and can rarely include the [Stormseye](Stormseye.md).
 -   **Resonance progression -** Gives the second best resonance progress (7-10 solo Primadon kills are enough to get a [Resonance](Resonance.md), **however this is random and could be more/less. It is generally a good idea to do other methods, in addition to Primadon, to easily get [bell](Resonance.md).)**
+-   **2 [Knowledge](Knowledge.md) -** On first kill, Primadon will reward you with 2 knowledge. Subsequent kills will reward 1 knowledge, however if you decide to defeat Primadon with multiple people you must do 20% (8,000) of his health to get the reward of one knowledge.
 
 ## Strategies & Tips
 
@@ -134,4 +135,3 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   The Providence's Thorn [enchant](Enchantments.md) is a great way to cheese Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.
--   The Deep Calls is extremely finicky and will have a chance to not activate.

@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 79002
+revid: 82691
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -33,11 +33,11 @@ Despite him lacking in the experience department due to his young age, he's one 
 
 Akira is first found in the [Celtor Wastes](Celtor_Wastes.md), protecting an area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in an event that isn't guaranteed, meaning you may need to server hop to meet him.
 
-You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is on the second floor of the castle. He gives you the option to [unbound](Attributes_Unbound.md) your [willpower](https://deepwoken.fandom.com/wiki/Attributes?so=search#Willpower), and the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
+You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is on the second floor of the castle. He gives you the option to [unbound](Attributes_Unbound.md) your [willpower](Attributes.md#willpower), and the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
 
 ## Akira vs. Ignition Union Event
 
-This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens them to leave and creating a line of ice with an unique ice-beam spell. The Ignition Union claim that "This ones sanity must've already crumbled..." before approaching him and walking past the line, which causes their heads to burst open.
+This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens their lives if they don't leave and creates a line of ice with a unique mantra. The leader of the Union research platoon claims that "This one's sanity must've already crumbled," and seems unfazed before approaching him and walking past the line, which causes Akira to say "So be it," and uses his Corrupted Top-Pop to cause their heads to explode.
 
 After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 75 required to pass it.) Once you talk to him, he asks if you're an another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
 
@@ -45,7 +45,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 
 > Akira: Another one..? You've got to be kidding me.
 
-| 1\. Wait, I'm not with them. | 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[75 [Charisma](https://deepwoken.fandom.com/wiki/Attributes?so=search#Charisma) requirement\] |
+| 1\. Wait, I'm not with them. | 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[75 [Charisma](Attributes.md#cha) requirement\] |
 | --- | --- |
 | Akira: _\*The menacing-looking man scans you up and down skeptically for a moment, \*_Well, either way it seems you know your place.
 1.  What are you doing down here?
@@ -144,8 +144,13 @@ There is no level requirement to joining [the Divers](The_Divers.md).
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
 -   Akira's bell is officially called "Top-pop."
 -   Akira's bell flashes purple when he kills the Ignition Union officers.
--   Akira has an unobtainable necklace, it's hard to see with the current image of him
+-   Akira has an unobtainable necklace, it's hard to see with the current image of him.
 -   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace
 -   If you are a Deepbound, Akira will still talk about you wanting to join The Divers.
+-   For some reason, the Ignition Union research platoon members are still interactable during Akira's event, functioning as normal Ignition Union Guards. They can also be moved around by sliding underneath them, although this will not change the outcome of the event.
+    -   Like [Kennith](Kennith.md) after he gets dismembered, the prompt to interact with the guards will remain after their heads explode, but they will all have no dialogue as a likely result of being dead.
+-   Even more strangely, they all seem to be linked in some way or another, as they will only ever spawn with all four of them having [Enchanted](Enchantments.md) weapons or none at all.
+
+## References
 
 1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)

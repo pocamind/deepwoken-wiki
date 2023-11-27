@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 82239
+revid: 82699
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -35,3 +35,4 @@ The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Ra
 -   Void Spire isn't placeable in Towns. When attempting to do so, Dialogue appears saying "You cannot conjure this Spire here."
 -   The Void Spire can't be used by players below Power 15.
 -   The Void Spire can send people who were knocked before it was placed to The Depths.
+-   You can't place Void Spire in [The Interstice](The_Interstice.md).

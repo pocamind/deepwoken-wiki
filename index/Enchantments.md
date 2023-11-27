@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 82615
+revid: 82697
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 # Enchantments
 
-**Enchantments** are rare and powerful upgrades for your [Weapons](Weapons.md) & [Equipment](Equipment.md).
+[https://streamable.com/0aqqsd](https://streamable.com/0aqqsd)
 
 ## Acquirement Methods
 
@@ -41,7 +41,8 @@ There are two variants that enchantments come in:
 
 ## List of Enchantments
 
-**Weapons:**
+-   **Weapons:**
+    
 
 **Blessings:**
 
@@ -325,8 +326,6 @@ There are two variants that enchantments come in:
 </tbody>
 </table>
 
-**Equipment:**
-
 | **Name** | **Description** | **Visual Effect** |
 | --- | --- | --- |
 | 
@@ -481,8 +480,6 @@ The user cannot be knocked or executed unless they are hit while at 1% HP.
 None
 
  |
-
-**Removed:**
 
 | **Name** | **Description** | **Visual Effect** |
 | --- | --- | --- |
