@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 81414
+revid: 82713
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -98,25 +98,13 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 Template:ImageCaption Infobox_"An application of the Song that enables the user to perceive the subtle Murmur emanating from all things. Press G while crouched."_
 
-**Murmur: Rhythm** is a Murmur that, when activated, will point out players who make noise in a certain range. Similar to ESP, but range-limited.
+**Murmur: Rhythm** is a Murmur that, when activated, will point out entities nearby. Similar to ESP, but range-limited.
 
-Pressing G while crouched, the player will be granted vision of entities performing actions and chests. Entities will emit a white ping, while chest will emite a yellow ping (yellow ping are very buggy and often lead to nothing).
+Pressing G while crouched, the player will be granted vision of entities and where their event origin is. Entities, such as players, will emit a white ping, while event origin locations beat at 1/4 the speed of normal heartbeats and are yellow.
 
 The detection range scales with the user level: higher level means the player will be able to point out sound from further away.
 
-Entities who do nothing will not emit a pulse and thus, can "hide" from Rhythm.
-
-### Heartbeat Sensor
-
-_"While using Rhythm, you can hear the subtle heartbeat of all living things nearby."_
-
-Heartbeat Sensor is an upgrade to Murmur: Rhythm that can be obtained with 40 Willpower and Power 15 or more.
-
-With this upgrade, entities in range (shorter than the max range for regular white pings) will emit a constant ping, no matter what they are doing.
-
-This allow the user to track down those who stay silent or are trying to hide from them. This even detects players who are using Murmur: Tacet, resulting in a white ping pointing at nothing.
-
-This also allows the user to see a estimate of entities health(orange for 65%, red for under 33%(tested))
+This also allows the user to see a estimate of entities health (orange for 65%, red for under 33%(tested)).
 
 ### Obtainment
 

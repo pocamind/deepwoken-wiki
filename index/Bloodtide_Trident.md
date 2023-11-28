@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 81651
+revid: 82727
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]

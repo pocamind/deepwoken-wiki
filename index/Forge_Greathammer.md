@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 79139
+revid: 82751
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]

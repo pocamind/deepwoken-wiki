@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 76990
+revid: 82765
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -18,7 +18,7 @@ Once powered up, players will be given a selection of cards to choose from which
 
 Fold cards will postpone the player's reception of a Card until their next Power up. If you fold, you will receive an additional hand on your next Power Increase. This second hand will be randomized and differ from the previously folded one.
 
-To keep progressing, however, you will need regular EXP, obtained by killing things:
+To keep progressing, however, you will need regular EXP, obtained by killing things, visiting new places, turning in artifacts, and more:
 
 -   The white sparkling particles mean you are getting EXP, the density showing the amount obtained.
 -   The yellow/golden sparkling particles mean you have reached an EXP threshold, meaning that further progress is (sometimes) available.

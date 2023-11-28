@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 82589
+revid: 82709
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -62,8 +62,6 @@ A good method of easily defeating it while using heavy weapons without much risk
 -   Fight it like how you fight players. Don't just parry trade and instead use feints and hold your parries. When it feints, you will be able to block or dodge the attacks.
 -   Instead of holding block after every attack you do, you shouldn't attack unless you have parried his axe. It is the wisest method of going about killing the Enforcer, because attacking while the Enforcer is attacking is counterintuitive.
 -   Avoid getting posture broken at all costs. A single whirlwind while stunned could be lethal.
--   The Enforcer will only do Whirlwind if it has kicked you meaning you need to be aware and be ready to run.
--   Whirlwind can be parried with ease but it is risky if you are not confident in your skill to parry then run.
 
 All in all, keep your nerves hardened, don't be fooled by its intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so its better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future.
 

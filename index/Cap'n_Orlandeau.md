@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 82024
+revid: 82712
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,9 +19,9 @@ categories: [NPCs]
 
 ## Description
 
-**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appeared as a tutorial guide for the game upon talking to him (in the form of a fragment of your memory) in the [Fragments of Self](Fragments_of_Self.md) and taking the [Castaway Origin](Origins.md). Once manned a crew of seven in his ship, his ship was scuttled by [The Authority](The_Central_Authority.md) leaving his fate unknown.
+**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appeared as a tutorial guide for the game upon talking to him (in the form of a fragment of your memory) in the [Fragments of Self](Fragments_of_Self.md) and taking the [Castaway Origin](Origins.md). Once manned a crew of seven in his ship, his ship was scuttled by [The Authority](The_Central_Authority.md), seemingly resulting in his death.
 
-As of the Post-Verse 2 update, he is confirmed to have survived the scuttling, sank into the oceans, and found his way to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the Second Layer, leaving him as the sole survivor among the Scoundrel's Bounty crew. Believing this may be his final plunder, he explores the sleeping city in search of treasures, fame, and glory.
+He navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the Scoundrel's Bounty crew. After a minor disagreement with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she had him damned the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the Second Layer. Believing this may be his final plunder, he explores the sleeping city in search of treasures, fame, and glory.
 
 The player can run into him atop of one of the balconies in the city. His dialogue changes depending on if you did the tutorial or not.
 

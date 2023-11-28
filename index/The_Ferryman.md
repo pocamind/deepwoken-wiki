@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 82332
+revid: 82716
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -267,7 +267,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
--   It can be inferred from The Ferryman and the [Scion Of Ethiron](Scion_of_Ethiron.md)'s attacks using Thundercall and Galebreathe, that "awakaned" or "primal" forms of attunements are colored purple. This is further reinforced by the fact that the Forge of Sin contains purple flames which may be the "awakened" Flamecharm.
+-   It can be inferred from The Ferryman and the [Scion Of Ethiron](Scion_of_Ethiron.md)'s attacks using Thundercall and Galebreathe, that "awakened" or "primal" forms of attunements are colored purple. This is further reinforced by the fact that the Forge of Sin contains purple flames which may be the "awakened" Flamecharm.
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"

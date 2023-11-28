@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 82533
+revid: 82760
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -42,19 +42,20 @@ The only way to obtain each ability is to grip a player with an Oath, this howev
 -   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
     -   You can carry objects and people during teleportation. If you are carrying a player, they can die after teleporting.
-        -   Current known teleportation locations are...
-            1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md))
-            2.  Eunomia (Above [Sibex](Sibex.md))
-            3.  Ceres (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
-            4.  Europa (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
-            5.  Pallas (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s gate)
-            6.  Fortuna (Above [Erisor's Church](<Erisor's_Church.md>))
+    -   Teleportation locations:
+        -   Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
+        -   Eunomia (Above [Sibex](Sibex.md))
+        -   Ceres (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
+        -   Europa (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right.)
+        -   Pallas (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
+        -   Fortuna (Above [Erisor's Church](<Erisor's_Church.md>))
+    -   You cannot travel across Luminants. You can only use the locations of the Luminant you are in.
 -   **Symbiotic Link**
     -   Activate while hovering over an ally to buff them or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally or you're too far from the linked. This ability lets you activate 1 other ability depending on if the cord is connected to an ally or an enemy.
         -   Blue Cords (Allies) Gain a speed boost.
         -   Red Cords (Enemies) Gain a speed debuff.
-    -   **Symbiotic Sustain**
-        -   If linked to an ally (signified by blue cord), lose 7% of your HP to restore 15% of the target's HP.
+-   **Symbiotic Sustain**
+    -   If linked to an ally (signified by blue cord), lose 7% of your HP to restore 15% of the target's HP.
 
 -   **Parasitic Leech**
     -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move. The amount of HP you get from Leech is a % of the targets total HP.

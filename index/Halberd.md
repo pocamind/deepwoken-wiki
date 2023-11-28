@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 82633
+revid: 82715
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -53,5 +53,5 @@ The Halberd is a Greataxe used by the Central Authority. It utilizes a unique cr
 
 ## Trivia
 
--   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from [Dark Souls 3](https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki).
+-   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from _Dark Souls III_.
 -   The Halberd’s critical counts as a basic attack, meaning it procs talents such as Spine Cutter and M1-based enchants.

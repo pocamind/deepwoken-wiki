@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 82241
+revid: 82706
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -25,6 +25,7 @@ Mystics are [Chrysid](Chrysid.md) NPCs that appears in multiple locations around
 
 -   Mystics affect Shrine of Chance: they will not guarantee a category but will raise the chances.
 -   Cannot give Rare Talent Cards.
+-   CAN give Advanced Talent Cards.
 -   Mystics affects mantra rarity (i.e., stars).
 -   If a category is comprised entirely of Rare Talent Cards, it will not appear as an option. (EX: Frozen Warrior)
 
@@ -50,7 +51,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I am an everlasting bastion. **(Bastion)**_
 -   My shield is my ally. _**(Shieldmaster; Knights Rally & Turtle Shell)**_
 -   _In nature, I am at home. **(Survivor)**_
--   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To the Finish, Potion Quaffer)**_
+-   _I'm built different. **(Freak of Nature) (Note; Cannot give Exoskeleton, To The Finish, Potion Quaffer)**_
 
 ### [Agility](Attributes.md#agility)
 
@@ -82,7 +83,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I am a slayer of beasts. **(Beast Slayer; Giantslayer)**_
 -   _I have never lost. **(Champion; Underdog) (Note; Cannot give Champion's Regalia, Defiance)**_
 -   _I will save my people. **(Liberator; Savior)**_
--   _I go beyond my limits. **(Limitbreaker) (Note; Cannot give Dirty Boxing, Lose your Mind, Piercing Will)**_
+-   _I go beyond my limits. **(Limitbreaker) (Note; Cannot give Dirty Boxing, Lose Your Mind, Piercing Will)**_
 -   _My mind is indomitable. **(Mental Fortress)**_
 -   _My will stands strong. **(Sturdy Resolve)**_
 -   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
@@ -157,7 +158,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _My ice protects like a flower growing thorns. **(Frostthorn)**_
 -   _I speak to the frost. **(Frostdrawer)**_
 -   _Those that step on my ice know they have made a grave error. **(Cryoni) (Note; Cannot give Preceding Chill)**_
--   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Frozone, Saint Jay)**_
+-   _I would see this world freeze. **(Ice Age) (Note; Cannot give Frozen Pin-Cushion, Saint Jay)**_
 -   _I seek the elegance of a glassdancer. **(Glassdancer)**_
 -   _I seek the qualities of FlashFreeze._ **(FlashFreeze)**
 -   _I seek the qualities of Cold Phantom._ **(_Cold Phantom,_** Gives Freezing Wight, however for some reason in the Deepwoken Builder it is listed as an "unknown category" so some do not know this.)
@@ -184,6 +185,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I am a master of the winds. **(Aeromancer) (Note; Cannot give Aerogliding, Stifled Jump)**_
 -   _A whisper in the dark. **(Whisper; Haunted Gale)**_
 -   _The song shall be silenced. **(Silencer) (Note; Cannot give Silencer's Blade)**_
+-   _I seek the qualities of Specter. **(Specter)**_
 -   _I survive from the teachings of Master Stratos. **(Vigil of Winds)**_
 
 ### [Shadowcast](Shadowcast.md)
@@ -201,7 +203,7 @@ _"No money, friend? How ever will I feed myself?_
 
 ### **Dual Attunement**
 
--   _I seek the qualities of Lichtenberg. **(Scorched peak)**_
+-   _I seek the qualities of Lichtenberg. **(Scorched Peak)**_
 -   _I seek the qualities of Heat Column. **(Heat Column)**_
 -   _I seek the qualities of Doomsday Engine. **(Doomsday Engine)**_
 

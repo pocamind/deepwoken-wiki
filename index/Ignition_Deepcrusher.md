@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 82644
+revid: 82766
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -49,6 +49,6 @@ The user shoves their weapon into the floor and releases a metal eruption of spi
 -   The weapon is inspired by the [Kirkhammer](https://bloodborne.fandom.com/wiki/Kirkhammer) from [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne).[\[1\]](#cite-note-1)
 -   Based on the similar leftover weapon which required 55 HVY to wield and was in the game for a short period of time, this was most likely supposed to be a heavy weapon at some point during development.
 
-## References
+## Navigation
 
 1.  [↑](#cite-ref-1)

@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 82689
+revid: 82710
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -30,6 +30,7 @@ _(one-time use, re-obtainable)_
 -   You can hold more than one of this item.
 -   Holding Sinner's Ash will surround your player in a purple highlight.
 -   Using Sinner's Ash whilst already having a Corrupted Resonance or not having any Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."
+-   Unless you are going for Krysweapons and Blood items, Duke is recommended for farming Sinner's Ash, as it is overall faster.
 -   The person writing this has recorded ~110 Dukes & 60 Chasers worth of loot, and has yet to find a Sinner's Ash or [Moonseye Tome](Moonseye_Tome.md).
 -   Another person writing this has recorded ~150 Dukes and 20 Chasers worth of loot, and has yet to find a Sinner's Ash or Moonseye Tome. It appears that the actual chance for either of these relics are rarer than the estimated 1%
 -   Another person writing this has recorded ~100 Dukes and has yet to find a Sinner's Ash or Moonseye Tome.
