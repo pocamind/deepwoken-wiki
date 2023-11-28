@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 81358
+revid: 82786
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -133,7 +133,7 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
     -   Maverick's exp boost is a nice bonus but is too poor to be viable and is negated by playing with some friends. Also it becomes useless once you reach power 20.
     -   Scrapper give your more control over your build. It can be worth taking if you are okay with omitting a long-lasting boon like Survivalist, Gourmet or Steadfast.
     -   Steadfast is very niche, especially considering _every_ character can get [Thresher Scales](Talents.md) now.
--   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armor and race by default, it can prove invaluable for spending time there. It also reduces incoming fall damage which can save you in certain situations. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. In addition, it decreases the rate at which parasites in the Second Layer kill you. ([This Video Demonstrates this fact.](https://www.youtube.com/watch?v=QK2l_fndlBo))
+-   Survivalist's immunity to Acid Rain might seem limited in usage since acid rain only happens in Upper Erisia, but being an ability usually limited to a single armor and race by default, it can prove invaluable for spending time there. It also avoids the dangerous event of gliding into acid rain only for the glider to stop working. In addition, it decreases the rate at which parasites in the Second Layer kill you. ([This Video Demonstrates this fact.](https://www.youtube.com/watch?v=QK2l_fndlBo))
 -   Prior to the official release of the game, Blind was a selectable flaw for 1 point. This was removed during testing for unknown reasons, although was it was brought back during the 16/08/22 update, being unlocked after gaining Blindseer.
 -   Deepbound used to be a flaw but was changed to be an unlockable [origin](Origins.md).
 -   There used to be more boons and flaws. The currently known ones are Adept (likely the original version of the talent) and Seasick.
