@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 82785
+revid: 82792
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1951,7 +1951,6 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Range: Revolver, Divine Flintlock (12)
     -   Swing Speed: Divine Flintlock (1.3x)
     -   Highest DPS: Divine Flintlock
--   You gain fucks by parrying shits.
 
 ## References
 
