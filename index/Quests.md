@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 82143
+revid: 82769
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -260,7 +260,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Quest Location**: Between Meteor Isle and Bluster Rift
 
-**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 5 spider eggs.
+**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 3 spider eggs.
 
 **Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
 
