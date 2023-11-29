@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 82366
+revid: 82794
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -34,6 +34,8 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 **_Obtainment_:** Enter the [Trial of One](Trial_of_One.md) at [Minityrsa](Minityrsa.md), and successfully defeat the pre-halfway point of the trial- the [Thresher](Thresher.md).
 
 **Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
+
+With simply doing Trial of One, you end up at Power 6 with 5 points remaining. With the Autodidact boon, you end up at Power 7 with 2 points remaining. With the race Adret and the boon Autodidact, you end up at Power 8 with 3 points remaining.
 
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.

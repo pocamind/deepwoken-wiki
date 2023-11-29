@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 82285
+revid: 82815
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -22,7 +22,7 @@ They chiefly serve to further define the player character's potential, personali
 
 -   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in the [Fragments of Self](Fragments_of_Self.md).**
 
-Every character begins as a Pathfinder, otherwise known as one who has yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
+Every character begins as a just a Pathfinder, having yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
 **There are currently 11 obtainable Oaths in _Deepwoken_:**
 
@@ -87,6 +87,7 @@ Proof of Time Magic's existance and it being an "Oath"
 
 ## Trivia
 
+-   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true, Pathfinder is merely treated as being without an Oath for gameplay purposes as _Oathless_ cannot be used as a term given it is an actual Oath, and "person without an Oath" would be too long to fit onto a Wanted Poster. The term Pathfinder just refers to adventurers, someone who finds literal paths in the wilderness. Unless you were to instantly stop playing the game or never leave the nearest city every again upon obtaining your Oath, you're still a Pathfinder after having obtained one.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
 -   You can't Shrine of Order with an Oath, the only exception being Oathless.
 -   Currently, the only Oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
@@ -96,13 +97,14 @@ Proof of Time Magic's existance and it being an "Oath"
 -   Visionshaper and Blindseer Oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
 -   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angel's.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
-    -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
-    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
-    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
-    -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
+    -   [wp:Samael Samael](https://en.wikipedia.org/wiki/Samael_Samael) is an Angel from Judaism.
+    -   [wp:Abaddon Abaddon](https://en.wikipedia.org/wiki/Abaddon_Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
+    -   The mythological Cretan king [wp:Minos Minos](https://en.wikipedia.org/wiki/Minos_Minos) became a judge of the underworld after death.
+    -   In demonology, [wp:Astaroth Astaroth](https://en.wikipedia.org/wiki/Astaroth_Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
 -   Most Oaths change your character's eye color.
+    -   Linkstrider gives the user Cyan eyes.
     -   Visionshaper gives the user Bright Magenta eyes.
     -   Jetstriker gives the user Silver eyes.
     -   Dawnwalker gives the user White eyes.

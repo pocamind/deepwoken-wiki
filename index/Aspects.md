@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 79707
+revid: 82811
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -61,6 +61,8 @@ These races are currently exclusive to NPCs and are **UNOBTAINABLE** by current 
 
 ## Trivia
 
+-   One method to get rarer races is to keep a common race whenever you reroll so that your chances of getting a rare race increase because you're holding a common race "hostage".
+    -   For example, if you reroll to a Vesperian but can switch to Etrean, switch back to Etrean only if you plan to keep rerolling.
 -   NPCs may treat the player differently depending on their race, but most of the time, enough points in the Charisma stat- or otherwise having positive rep will overwrite the NPC's aggression towards the player. Many of the factions in _Deepwoken_ are inherently xenophobic/racist to other races.
 -   Race rarity does not make the race inherently better- it only means that there's less of your kind in a typical server.
     -   However, do note that some races are better suited for certain builds, such as Felinor for Agility/Speedrun builds, or Vesperian for builds that require more Exoskeleton Durability.

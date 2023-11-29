@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 82793
+revid: 82797
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -69,3 +69,4 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   Despite most of the community calling the Dread Serpent Kaido, Arch-Mage and some developers have express distaste to using the name and wish that people call it Dread Serpent.
 -   It's possible that the Dread Serpent will receive a rework to its appearance and moveset in a future update.
 -   Was bugged and unable to spawn from 05/08/23 to 05/13/23.
+-   Another bug was present since release until around October 2023, which made the Dread Serpent unable to spawn if anyone contained "(any letter)drago". This was because Ardour Manifestation checked for ".drago" which allowed anyone with drago at the start of their name to spawn but not drago with a letter before it.

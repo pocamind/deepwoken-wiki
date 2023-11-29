@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82573
+revid: 82812
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -242,8 +242,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 ### **Annihilator**
 
--   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
-    -   Prerequisite: 100 Strength
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 4s.
+    -   Prerequisite: 90 Strength
 
 ### Apex Predator
 
@@ -251,8 +251,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   Prerequisite: 5 Strength & 5 Willpower
-    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore
+    -   Prerequisite: 25 Strength & 25 Willpower
+    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore, Triathlete
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
@@ -330,7 +330,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
-    -   Prerequisites: 25 Fortitude
+    -   Prerequisites: 30 Fortitude, 20 Willpower
 
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
@@ -343,9 +343,9 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
--   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
+-   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 60%. (+5 Health)
     -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN
-    -   Prerequisites: 90 Fortitude, 30 Willpower, **all** common Bastion talents.
+    -   Prerequisites: 90 Fortitude, 50 Willpower, **all** common Bastion talents.
 
 ### Blindseer
 
@@ -408,8 +408,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutual Exclusive: _Leaf in the Wind_ Talents (Observation, Safety Dance)
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
-    -   Provides I-frames for the duration of the invisibility (3 seconds).
-    -   Has a 9 second cooldown.
+    -   Provides I-frames for the duration of the invisibility (2 seconds).
+    -   Has a 8 second cooldown.
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory.
     -   Prerequisites: 40 Agility, All Butterfly talents
 
@@ -761,7 +761,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Intelligence
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
-    -   Prerequisites: 15 Strength, 5 Intelligence
+    -   Prerequisites: 20 Strength
 
 ### Falling Star Guard
 
@@ -824,7 +824,7 @@ _**"I enjoy sea food."**_
     -   Prerequisites: 20 Flamecharm
 
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. ( +2 Elemental Intensity)
-    -   Prerequisites: 40 Willpower, 70 Flamecharm
+    -   Prerequisites: 25 Willpower, 70 Flamecharm
         -   Azure Flames burn deals 8 damage per second.
         -   If you have the lava serpent path, the explosion will have more posture damage and more range with this talent.
 
@@ -1037,17 +1037,17 @@ _**"I enjoy sea food."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
--   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 8s. (+7 Sanity)
-    -   Whenever you land an M1, you disable every source of your opponent's healing for 8 seconds.
+-   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 4s. (+7 Sanity)
+    -   Whenever you land an M1, you disable every source of your opponent's healing for 4 seconds.
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
-    -   Prerequisite: 65 Willpower, 40 Intelligence
+    -   Prerequisite: 65 Willpower, 65 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   Prerequisite: 80 Willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
+    -   Prerequisite: 75 Willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
 
 ### Human Architecture
 
@@ -2109,7 +2109,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 5 Agility, 10 Charisma
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
-    -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
+    -   Prerequisites: 50 Agility, 35 Charisma, All Thief talents
     -   Cap Artist requires 25 Agility despite the 10 Agility requirement of this Talent.
     -   If the player you are mugging doesn't have any notes, you will stop taking unequipped equipment.
     -   Does not take enchanted items.
