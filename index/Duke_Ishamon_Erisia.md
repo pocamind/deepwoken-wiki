@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 82236
+revid: 82821
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -164,10 +164,9 @@ Phases begin in sequence, depending on the Bosses' Max HP.
 Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 -   Rare Items & Equipment
--   Rare/Common Schematics.
 -   Relics (Idol of Yun'Shul, Smith's Alloy, Sinner's Ash)
 -   [Rare Weapons](Weapons.md)
--   [Magic Uncap](Attributes_Unbound.md) (If the requirements are met.)
+-   [Attunement Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   The ability to obtain the [Pillars of Erisia](Galebreathe.md) Mantra in a Whisper hand with sufficient Galebreathe.
 -   You also gain [Resonance](Resonance.md) (Bell) progression.

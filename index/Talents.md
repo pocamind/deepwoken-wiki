@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82812
+revid: 82832
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -251,7 +251,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
-    -   Prerequisite: 25 Strength & 25 Willpower
+    -   Prerequisite: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore, Triathlete
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
@@ -345,7 +345,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 60%. (+5 Health)
     -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN
-    -   Prerequisites: 90 Fortitude, 50 Willpower, **all** common Bastion talents.
+    -   Prerequisites: 90 Fortitude, **all** common Bastion talents.
 
 ### Blindseer
 
@@ -761,7 +761,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 20 Intelligence
 
 -   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
-    -   Prerequisites: 20 Strength
+    -   Prerequisites: 15 Strength, 5 Intelligence
 
 ### Falling Star Guard
 
@@ -1042,7 +1042,7 @@ _**"I enjoy sea food."**_
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
-    -   Prerequisite: 65 Willpower, 65 Intelligence
+    -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from talents that require insanity to use (namely Lose Your Mind)

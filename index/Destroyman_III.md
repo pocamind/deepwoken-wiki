@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 82767
+revid: 82829
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -142,6 +142,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   IT'S JUST ONE OF THOSE DAYS.
 -   Uh. Sorry, I guess?
 -   You didn't see that one? Uh. Nevermind.
+-   Dying in the Overworld can be a viable strategy to travel to the Depths faster! Dying in the Depths - not so much!
 
 ## Gripping Quotes
 

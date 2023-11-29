@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 82794
+revid: 82823
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -131,6 +131,11 @@ The following is speculation:
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base. (In case the origin becomes before the Central Luminant)
 -   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae.
 -   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with npcs, having the adret race (and possibly canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely doesnt matter if you rank up to Commander.
+
+### Hive Origin.
+
+-   A Hive Origin confirmed by the Developer Yayafino to come out possibly in a weekly update.
+-   Most information regarding the Origin is not known, however its known that apart from being related with the Hive, it will **not** come out with Lifeveawe, but it was stated by Yayafino that there are high chances to this Origin to come with a new boss.
 
 ## Trivia
 

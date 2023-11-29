@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 82561
+revid: 82817
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -112,3 +112,4 @@ A Stone Knight executes the player:
 -   Terra Eruption and Kick can be blocked with enough posture.
 -   Desert Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
+-   They seem to be some sort of robotic being just like Hive Constructs due to the way they speak. Some examples of their dialogues from a Star Knight is: ''OUTSIDE INTERFERENCE PROBABLE.'' ''DIRECTIVE: ELIMINATE THREAT. RETURN ARTIFACT TO CONTAINMENT.''
