@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 82464
+revid: 82873
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,10 +24,10 @@ categories: [Oaths]
 ## Obtainment
 
 1.  Have 40 Strength and grip any player. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
-2.  Talk to Samael, located in the [church](Derelict_Highchurch.md) above the Voidzone in Ancient Rotlands.
-    1.  Walk up to the stairs to the Flamecharm trainer and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
+2.  Talk to Samael, located in the [Derelict Highchurch](Derelict_Highchurch.md) above the Voidzone in Ancient Rotlands.
+    1.  Walk up to the stairs to the [SongSeeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
-3.  Kill [Iblis, The Fallen Ange**l**](Iblis,_The_Fallen_Angel.md)**,** located above the Starfield grove Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
+3.  Kill [Iblis, The Fallen Ange**l**](Iblis,_The_Fallen_Angel.md)**,** located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
     1.  If you lack the Union Hook, careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it.
 4.  Return to Samael to get the Oath.
 
@@ -51,7 +51,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   Can come in the color of your race's hair color.
     -   Some mantras have different properties while the user has their wings out:
-    -   **Fire Blade** now launches the user upward before releasing a large plume of flames.
+        -   The mantra **Fire Blade** now launches the user upward before releasing a large plume of flames.
 
 | Mantra Type | Media | Name | Card Description | Effect |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 76516
+revid: 82864
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -318,7 +318,7 @@ File:Ignition Union.png
 -   [The Ministry](The_Ministry.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
--   [Lost Celtor](Lost_Celtor.md) (reputation can now be gained in 10/6/23 update)
+-   [Lost Celtor](Lost_Celtor.md)
 
 ### Non-Reputable Factions
 
@@ -328,5 +328,5 @@ File:Ignition Union.png
 ## Trivia
 
 -   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
--   The "Diplomat" charisma talent significantly increases reputation gain.
+-   The "Diplomat" Charisma Talent significantly increases reputation gain.
 -   Spitting on a guard causes them to become aggressive regardless of your reputation. This will give you negative reputation with the faction.

@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 82823
+revid: 82868
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -111,12 +111,12 @@ Also, all of the kills need to be made on one single character.
     -   This ability has a 10-minute cooldown. _The cooldown automatically ends when a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.
 -   **\[PRO\]** You spawn with Whaler Initiate Armor.
--   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other voidwalkers)
+-   **\[PRO\]** Have access to the [Bounty Board](Bounty_Hunting.md) of the [Knives of Eylis](The_Knives_of_Eylis.md), which, uniquely to it, have bounties of player who have a bounty for any faction with a bounty board (including other Voidwalkers)
     -   Having a bounty for any of the following factions will also add the bounty this board: Kingdom of Etrea, The Authority, The Hive, The Ignition Union, The Summer Company, The Knives of Eylis.
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, and The Hundred Legions.
--   **\[CON\]** Due to your starting reputation, you can be bounty hunted by other voidwalkers early on.
+-   **\[CON\]** Due to your starting reputation, you can be bounty hunted by other Voidwalkers early on.
 
 ## Upcoming Origins
 
@@ -130,12 +130,12 @@ The following is speculation:
 -   Similar to how Voidwalker may have its own origin oath in a future, there are chances of the Authority origin also having its own oath, being the Warmaster oath.
 -   The spawn point will most likely be either Fort Merit, or a new location being a small Authority base. (In case the origin becomes before the Central Luminant)
 -   Very high chances you may start this origin. with negative reputation of many factions, such as Etrea or the Children of Navae.
--   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with npcs, having the adret race (and possibly canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely doesnt matter if you rank up to Commander.
+-   It may not affect the gameplay or the origin, but they may be some changes depending on the race with this origin in terms of dialogue with NPCs, having the Adret race (and possibly Canor due to being a big part of the authority in the past.) being more liked by Authority NPCs, but this will likely doesn't matter if you rank up to Commander.
 
-### Hive Origin.
+### **Hive Origin**
 
--   A Hive Origin confirmed by the Developer Yayafino to come out possibly in a weekly update.
--   Most information regarding the Origin is not known, however its known that apart from being related with the Hive, it will **not** come out with Lifeveawe, but it was stated by Yayafino that there are high chances to this Origin to come with a new boss.
+-   A Hive Origin confirmed by the Developer yayafino to come out possibly in a weekly update.
+-   Most information regarding the Origin is not known, however its known that apart from being related with the Hive, it will **not** come out with Lifeweave, but it was stated by yayafino that there are high chances to this Origin to come with a new boss.
 
 ## Trivia
 
@@ -144,7 +144,7 @@ The following is speculation:
     -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
--   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Mintrysa, you might as well go Stealth unless you can actually see the outline of your target.
+-   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Minityrsa, you might as well go Stealth unless you can actually see the outline of your target.
 -   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
 

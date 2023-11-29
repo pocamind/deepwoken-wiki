@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 82369
+revid: 82857
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -35,18 +35,10 @@ The Putrid Edenstaff is a [Hallowtide-Exclusive](Hallowtide.md) [Heavy Weapon](W
 The user spins around their staff and summons a green colored mist that surrounds them and damages anyone in the area, almost always block-breaking instantly. Afterwards, three spirits emerge from the mist and launch green orbs at the player's cursor.
 
   
-  
-  
-  
-  
-  
-  
-  
-  
 
 ## Trivia
 
 -   This weapon was teased on the Deepwoken Twitter, within the post where they announced 2023 Hallowtide's release date.
 -   The Orbs are able to knockback players if they get hit.
--   When a player or any npc is gripped by one of the other Hallowtide weapons, the majority of them will cause a grave to appear and emit a Taco Bell bell sound.
+-   When a player or any NPC is gripped by one of the other Hallowtide weapons, the majority of them will cause a grave to appear and emit a Taco Bell bell sound.
 -   Used the default greathammer critical before receiving the one it has now.

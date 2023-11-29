@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82832
+revid: 82869
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -243,7 +243,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 ### **Annihilator**
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 4s.
-    -   Prerequisite: 90 Strength
+    -   Prerequisite: 100 Strength
 
 ### Apex Predator
 
@@ -824,7 +824,7 @@ _**"I enjoy sea food."**_
     -   Prerequisites: 20 Flamecharm
 
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. ( +2 Elemental Intensity)
-    -   Prerequisites: 25 Willpower, 70 Flamecharm
+    -   Prerequisites: 70 Flamecharm, 40 Willpower
         -   Azure Flames burn deals 8 damage per second.
         -   If you have the lava serpent path, the explosion will have more posture damage and more range with this talent.
 
@@ -1965,7 +1965,7 @@ Prerequisite: Charisma
 -   Grasp on Reality \[Common Talent\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity, Scratching.
     -   Prerequisites: 25 Fortitude, 5 Willpower
-    -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" have this talent.
+    -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" has this talent.
 
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
     -   Contrary to the card's description, effect of insanities are delayed by a full tier.

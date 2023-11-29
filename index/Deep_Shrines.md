@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 82835
+revid: 82842
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -163,7 +163,7 @@ Shrine of Conceit is located up the cliff on the left
 
 Shrine Of Division
 
-“ VERY WELL. WHICH WORDS WILL BE FORGOTTEN? ”
+“ ANY FURTHER - BEYOND ATOM. BEYOND QUARK. BEYOND MATTER. BEYOND HUMAN UNDERSTANDING. ”
 
 ― Shrine Of Division
 

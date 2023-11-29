@@ -1,6 +1,6 @@
 ---
 title: Aratel Island
-revid: 76323
+revid: 82865
 source: https://deepwoken.fandom.com/wiki/Aratel_Island
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Locations, Eastern Luminant]
@@ -10,7 +10,7 @@ categories: [World, Locations, Eastern Luminant]
 
 ## Overview
 
-Aratel Island is the name given to a large land mass found in the Eastern Luminant, due to it existing in the [Aratel Sea](The_Aratel_Sea.md)s.
+Aratel Island is the name given to a large land mass found in the Eastern Luminant, due to it existing in the [Aratel Sea](The_Aratel_Sea.md).
 
 Most of its surface is either part of the [Starswept Valley](The_Starswept_Valley.md) or the [Bluster Rift](Bluster_Rift.md).
 
