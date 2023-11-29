@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 82709
+revid: 82838
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -75,12 +75,12 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A blade that is not considered too good, as it does not break the enemy's posture instantly.
 -   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Boasts high posture damage, and requires 80 HVY and 25 STR to use.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
--   **[Enforcer's Eye](Enforcer_Eye.md):** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This good ol' eye of theirs can be used so you can bully your friends with the Deepwoken equivalent of a jedi force pull.
+-   **[Enforcer's Eye](Enforcer_Eye.md):** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This eye can be used at Carrion to obtain ‘Enforcer Pull.’ Similar to a Jedi pull, it is the same move the Enforcer uses. It can be used for catching runners and trackstars alike, or, as shown by many clips on the web, for trolling purposes.
 
 ## Trivia
 
 -   All of The Enforcer's damaging attacks are parryable, and blockable.
--   The Enforcer is one of the only monsters that can be both guard broken (the other being the [Nautilodaunt](Nautilodaunt.md))
+-   The Enforcer is one of the two monsters that can be guard broken (the other being the [Nautilodaunt](Nautilodaunt.md))
 -   The Enforcer can also be found in the Trial of One.
 -   You can easily run, or even walk away from its Whirlwind, easily giving you time to rest or use consumables.
 -   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Griddy" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.
@@ -89,7 +89,7 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 -   The Enforcer's clothing may be a reference to ''King'' from One Piece.
 -   As of 18/07/2022, The Enforcer cannot use its pull attack when Hell Mode is active, due to too many Enforcers pulling people into the void.
 -   During the weekly update for 21/11/2022, The Enforcer could temporarily spawn as corrupted variants. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many players.
--   With the Enforcer's Eye, You are able to gain the Space Pull and use it in combat.
+-   With the Enforcer's Eye, You are able to gain the Enforcer Pull mantra and use it in combat.
 -   Enforcer's Eye and Giant Femur are the only Monster Mantra Drops to have boosted drop rates out of the other mobs that have one.
 -   Enforcer (Blade Variant) is smaller than Enforcer (Axe Variant), Meanwhile Enforcer (Hammer Variant) is bigger than Enforcer (Axe Variant).
 

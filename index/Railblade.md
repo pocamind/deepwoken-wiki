@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 78992
+revid: 82837
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -52,6 +52,7 @@ The Railblade is unique because of its two different critical attacks, along wit
 -   This weapon was modelled by contributor oNoodlez.
     -   They took inspiration from Nagoriyuki's sword from _Guilty Gear -Strive-_ and Jetstream Sam's Murasama high-frequency blade from _Metal Gear Rising: Revengeance_.[\[1\]](#cite-note-railorigin-1)
 -   This weapon's running attack does not deal knockback **(GLITCH)**?
+-   Appearance wise Railblade resembles that of am Nodachi or Ōdachi a great katana from Japan
 -   The Railblade was originally a Thundercall Elemental Legendary, hence the name Railblade, as railguns utilise electricity.[\[1\]](#cite-note-railorigin-1)
 -   This weapon can only be used one-handed.
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
