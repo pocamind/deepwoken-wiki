@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 81210
+revid: 82898
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -98,7 +98,7 @@ The doors to enter the Lordsgrove.
 
 #### Canopy Peak
 
--   Currently no use. Only thing of slight note is a [Hive Guard](Hive_Guard.md).
+-   The office of the current Hivelord. Features a [Hive Guard](Hive_Guard.md) and a being of [immense power](Destroyman_III.md).
 
 #### Observatory
 

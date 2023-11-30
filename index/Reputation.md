@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 82864
+revid: 82900
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -31,7 +31,10 @@ Certain aspects of the game, such as certain NPCs dialogues or certain quests, r
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
 | Hero | 300 |  |
-| Ally | 150 to 299 |  |
+| Ally | 150 to 299 | NPCs that belong to a faction you are an Ally (or greater) with can be buffed by you.
+Buffs can include; Reinforce, Charm, Overcharm, etc.
+
+ |
 | Friend | 1 to 149 |  |
 | Neutral | 0 | N/A |
 | Enemy | ⁣-149 to -1 | NPCs tied to the relevant faction will attack on sight, including town guards.  
@@ -244,6 +247,8 @@ File:Gudrin.png
 File:DiversSymbol.png
 
 [The Divers](The_Divers.md)
+
+  
 
   
 
