@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 82881
+revid: 82904
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -50,9 +50,9 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 
 ## Warmaster
 
--   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, confirmed by Ragoozer, and is very possible to come or be realted alongside the Authority Origin.
--   One notorious user of this Oath is Warden Jericho (Also confirmed by Ragoozer), as seen in his journal and by the dialogue of the Windrunner.
--   Similar to Blindseer is the counter oath to Visionshaper, there are high chances to this oath be the counter part of the Contractor Oath due to the fact that the windrunner explains that this two oaths are against each other, and in the journal of Jericho explaining that the Warden is trying to stop the Contractors, being Zi'eer (Lord regent) and his puppets (Contractor Players).
+-   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, confirmed by Ragoozer, and is very possible to come alongside or be related to the Authority Origin.
+-   One notorious user of this Oath is Warden Jericho (Also confirmed by Ragoozer), as seen in his journal and by the dialogue of the [Windrunner](Windrunner.md).
+-   Similar to Blindseer being the counter-oath to Visionshaper, there is a high chance of this oath having the same relationship the Contractor Oath due to the fact that the Windrunner explains that the two oaths are inherently against each other, and in the [Journal of Jericho](Tomb_of_the_Nameless_Warrior.md) explaining that the Warden is trying to stop the Contractors, being Zi'eer (Lord regent) and his puppets (Contractor Players).
 -   It is known that the source of power of the Oath is something called "The Circle of Honor", it is not known if its related to the Authority or not, but they are confirmed to be the source and creators of the Warmaster Oath.
     
 
@@ -60,11 +60,11 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 
 ## Time Magic
 
-Proof of Time Magic's existance and it being an "Oath"
+Proof of Time Magic's existence and it being an "Oath"
 
 -   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an oath by Arch\_Mage.
 -   It is very likely to be the Oath mentioned by Eylis when you ask her about her Oath as a Voidwalker.
--   It is not confirmed, but its very probably that this oath can manipulate time in a very similar way as the Void sea due to the relation of the Voidwalkers and the Voidsea, meaning, that more like a "Time magic" oath, it can be more like a "Void oath" being time manipulation just a part of the oath.
+-   It is not confirmed, but its very probably that this oath can manipulate time in a very similar way as the Voidsea due to the relation of the Voidwalkers and the Voidsea, meaning, that instead like a "time magic" oath, it could be more like a "Void oath" where time manipulation is just one part of the oath.
     
 
 **Lifeweave:**
@@ -75,34 +75,33 @@ Proof of Time Magic's existance and it being an "Oath"
 
 -   Lifeweave is potentially an Oath described in the game's lore, but could be an Attunement.
 -   Individuals of The Hive who utilize the Song to manipulate life itself, leading the construction of the 4 Greathives, such as [Greathive Aratel](Greathive_Aratel.md).
-    -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
--   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
+    -   Lifeweave has also been shown to be able to create constructs, such as the [Golems](Hive_Construct.md) from the Hive.
+-   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves - to equally match the rising tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
--   The book _The Lament of Ciryyn_ expands up on it
-    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Ciryyn, with Lifeweave, the process is initially successful but Ciryyn soon suffers from aggressive mutations and goes on a murderous rampage.
+-   The book _The Lament of Cirryn_ expands up on it
+    -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave, the process is initially successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage.
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
         
 
 ## Trivia
 
--   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true, Pathfinder is merely treated as being without an Oath for gameplay purposes as _Oathless_ cannot be used as a term given it is an actual Oath, and "person without an Oath" would be too long to fit onto a Wanted Poster. The term Pathfinder just refers to adventurers, someone who finds literal paths in the wilderness. Unless you were to instantly stop playing the game or never leave the nearest city every again upon obtaining your Oath, you're still a Pathfinder after having obtained one.
+-   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true, Pathfinder is merely treated as being without an Oath for gameplay purposes as _Oathless_ cannot be used as a term given it is an actual Oath, and "person without an Oath" would be too long to fit onto a Wanted Poster. The term Pathfinder just refers to adventurers, someone who finds literal paths in the wilderness. Unless you were to instantly stop playing the game or never leave the nearest city ever again upon obtaining your Oath, you're still a Pathfinder after having obtained one.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
 -   You can't Shrine of Order with an Oath, the only exception being Oathless.
 -   Currently, the only Oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   Unequipping your facial accessory while having Blindseer will automatically give you a cosmetic-only version of the normal Blindfold, which is pale in color.
--   Visionshaper and Blindseer Oaths are opposites, with Visionshaper creating illusions and Blindseer denying them.
--   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angel's.
+-   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angels.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
-    -   [wp:Samael Samael](https://en.wikipedia.org/wiki/Samael_Samael) is an Angel from Judaism.
-    -   [wp:Abaddon Abaddon](https://en.wikipedia.org/wiki/Abaddon_Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
-    -   The mythological Cretan king [wp:Minos Minos](https://en.wikipedia.org/wiki/Minos_Minos) became a judge of the underworld after death.
-    -   In demonology, [wp:Astaroth Astaroth](https://en.wikipedia.org/wiki/Astaroth_Astaroth) was the "Great Duke of Hell".
+    -   [Samael](https://en.wikipedia.org/wiki/Samael) is an Angel from Judaism.
+    -   [Abaddon](https://en.wikipedia.org/wiki/Abaddon) appears in the Bible as a place of destruction and an angel of the abyss. In addition, Abaddon is the name of a demon in the _Acts of Thomas_.
+    -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
+    -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
--   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the song itself.
+-   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the Song itself.
 -   Most Oaths change your character's eye color.
     -   Linkstrider gives the user Cyan eyes.
     -   Visionshaper gives the user Bright Magenta eyes.
@@ -119,4 +118,4 @@ Proof of Time Magic's existance and it being an "Oath"
 -   Arcwarder armor is similar to Bulats "Incursio" From Akame Ga Kill!
 -   Arcwarder's Oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.
 -   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons and later added back into the game as an Oath after the game's release.
--   In Battle Royal Gamemode, Oaths can be obtained by collecting Oath Shards from chests, requiring 3 to obtain a random Oath and more shards to progress it.
+-   In the Battle Royale gamemode, Oaths can be obtained by collecting Oath Shards from chests, requiring 3 to obtain a random Oath and more shards to progress it.

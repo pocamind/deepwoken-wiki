@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 80414
+revid: 82910
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Cloak of Winds** is an Expert [Outfit](Outfits.md) in _De
 
 ### _Requirements_
 
-This Outfit has no cost and requires five (5) Cloth, ten (10) pieces of Erisore, two (2) Strange Claws and one (1) Vibrant Gem.
+This Outfit has no cost and requires five (5) Cloth, ten (10) pieces of [Erisore](Ores.md), two (2) [Strange Claws](Strange_Claw.md) and one (1) [Vibrant Gem](Mantra_Modifiers.md).
 
 This Outfit requires [Power Level](Power.md) 10.
 

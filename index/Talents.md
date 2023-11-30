@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82869
+revid: 82907
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -241,6 +241,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
 
 ### **Annihilator**
+
+> _**"I seek the qualities of Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 4s.
     -   Prerequisite: 100 Strength
@@ -2349,7 +2351,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: \[name\] quest at the Pathfinders Respite
 
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. ( )
-    -   Prerequisite: 50 Heavy Weapons Mastery, Greathammer equipped
+    -   Prerequisite: 50 Heavy Weapons Mastery, Greatsword/Greathammer equipped
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped

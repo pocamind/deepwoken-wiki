@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 82556
+revid: 82908
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -690,6 +690,7 @@ Enemies will briefly hang in place when hit by a shadow move.
 ## Trivia
 
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
+-   In the lore having shadowcast is a taboo. If one is caught with said attunement they will be either executed or exiled on the spot.
 -   Shadowcast has a talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
     -   Additionally, several Shadowcast moves charge up with a white light.
         
