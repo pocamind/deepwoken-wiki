@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 81579
+revid: 82903
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]
@@ -63,6 +63,15 @@ _Main page: [Saramaed Summit](Saramaed_Summit.md)_
 ## **Points of Interest**
 
 Miner's Landing contains a variety of locations containing chests. These chests contain loot from the Miner's Landing loot table, which is to be made.
+
+The Chests are in the Following Locations:
+
+(Photos to come in future)
+
+1.  The Pub near the blacksmith.
+2.  Behind the Water Wheel next too the NPC with the dialogue mentioning the Summer Company causing trouble on the second floor.
+3.  In the rooms too the right of the Water wheel there can be up to 5 chests, 2 Below the NPC stated above, 1 in the same room as the NPC and then 2 in the rooms behind the NPC.
+4.  behind the window on a ledge near where the Darksteel Greatsword is sold and where the NPC tells you about delivery sabotage
 
   
 
