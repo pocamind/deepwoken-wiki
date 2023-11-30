@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 82842
+revid: 82884
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -103,7 +103,7 @@ File:Legendary Roll.png
 -   Useful for trying to get a better talent if you have some undesired ones. This makes it one of the most important shrines, as it lets you improve your build after reaching power 20. Also lets you change your build if a once good talent is nerfed. E.g. Finesse used to give +5 Health, but was stripped of it when merged with Now You See Me.
 -   Advanced talents can be obtained through this if you have all the required cards even by rerolling a common card, and if you trade in a rare card, you will get a chance of getting other rare cards. (might be less than 3 if less than 3 available from attributes), and if you trade in a common card, you will only get common card choices.
 -   _You can get Legendary talents if you have all the needed requirements. Simply trade a common card, and you will get your Legendary in return._
--   _You can get [Murmur](Murmur.md) talents. Go to [Mystic](Mystic.md) and select "I speak to the depths/deep"._
+-   _You can get [Murmur](Murmur.md) talents. Go to a [Mystic](Mystic.md) and select "My soul is an instrument with it's own frequency._
     
 
 **Shrine of Order:**
