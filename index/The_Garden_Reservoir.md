@@ -1,6 +1,6 @@
 ---
 title: The Garden Reservoir
-revid: 81914
+revid: 82947
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -20,12 +20,15 @@ File:GardenEther.png
 
 ## Overview
 
-The Garden Reservoir is a location down below [Burning Stone Gardens](Burning_Stone_Gardens.md). It is a gloomy area covered with pillars of stone and acid running along everywhere, possibly the main cause of acid in [Burning Stone Gardens](Burning_Stone_Gardens.md). Going into the acid will end up with you taking damage and being put into combat, unless you are an [Etrean](Etrean.md) or you have the [Survivalist](Boons_and_Flaws.md) boon.
+The Garden Reservoir is a location directly underneath the [Burning Stone Gardens](Burning_Stone_Gardens.md). It seems to hold a resemblance and possibly be connected through unreachable tunnels to [The Viper's Jaw](<The_Viper's_Jaw.md>), possibly from underneath the acid. It is a gloomy area covered with pillars of stone, [Irithine](Ores.md) deposits and acid running along everywhere, possibly the main cause of acid in [Burning Stone Gardens](Burning_Stone_Gardens.md). Going into the acid will end up with you taking damage and being put into combat.
+
+There is a small cave within the Reservoir that contains multiple Soul Hearthgems, which are a necessary part of the [Intelligence Unbound](https://deepwoken.fandom.com/wiki/Attributes_Unbound?so=search#Intelligence_Unbound) process.
 
 ## Points of Interest
 
 -   [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>)
--   [Burning Stones Garden](Burning_Stone_Gardens.md)
+-   [Soul Hearthgems (Intelligence Unbound process)](https://deepwoken.fandom.com/wiki/Attributes_Unbound?so=search#Intelligence_Unbound)
+-   [Burning Stone Gardens](Burning_Stone_Gardens.md)
     -   [Rat's Den](<Rat's_Den.md>)
 
 ## Maps

@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 82041
+revid: 82941
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -25,6 +25,8 @@ Currently, there are **3** NPCs that can join your Guild Base (particularly in t
 -   The [Mystic](Mystic.md), which can be hired after getting 3+ rooms for Notes.
 -   The [Barber](Barber.md), which can be hired after getting 6+ rooms for Notes.
 -   The [Antiquarian](Antiquarian.md), which can be hired after getting 9+ rooms for Notes.
+-   The Librarian, which can be hired after getting (?)+ rooms for Notes.
+-   The (guy who can smelt items together), which can be hired after getting (?)+ rooms for Notes.
 
 The Leader/Officers may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase.
 

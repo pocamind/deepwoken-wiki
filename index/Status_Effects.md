@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 82405
+revid: 82943
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -121,7 +121,7 @@ Inflicted by being hit by Ironsing mantras. Effect varies depending on which pat
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
 -   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on talents they might have.)
 
-### Poisonned
+### Poisoned
 
 This can be applied by being hit by the Deep Widow's venomous bite. While poisonned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage.
 
@@ -215,4 +215,4 @@ Not to be confused with Acid Rain, this effect refers to the large pools of Acid
 
 ### Tier 3 Insanity
 
-This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where your character will start scratching their body and face which deals some damage. If you don't have enough health left when scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. Due to how long it takes to get to max insanity, you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
+This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where your character will start scratching their body and face which deals some damage. If you don't have enough health left when scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. Due to how long it takes to get to max insanity, (unless you have [manic](Boons_and_Flaws.md)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
