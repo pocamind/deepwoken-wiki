@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 82564
+revid: 82929
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -99,6 +99,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 -   The word "tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis.
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.
+-   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the race at all.
 -   Tiran eyes may be inspired from Makimas eyes of the anime "Chainsaw man", having a very similar eye patern. Or, be inspired from Big Bird of Lobotomy Corporation. They all have eyes with multiple overlapping circles.
 -   The Jay variant shares many similarities (Hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or felinor and having a little more darker eyes, it may be an unintentional reference made by the devs explaining why it's a Tiran variant and not a Felinor variant.
