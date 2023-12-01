@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82907
+revid: 82911
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -218,7 +218,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
     -   Gain +10/20% damage and increased movement speed while the fire is active.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling. Reactivate Flame Within to clear the flames.
-    -   Generally dangerous to use without Agitating Spark’s self damage reduction.
+    -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 seconds cooldown when the flames are cleared.
     -   Prerequisite: 25 Flamecharm
 

@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 82708
+revid: 82915
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -39,3 +39,4 @@ A Blade Temple Guard executes the player after knocking them:
 -   Easier to kill than Etrean Guards
 -   Despite having a small health pool, they appear to be extremely resistant to most forms of damage, thus making them formidable enemies even at higher levels.
 -   Their dialogue won't change depending on the player's reputation with Etrea.
+-   They will use Gale Lunge like the Etrean Guards. (They can do this move now which if you do not believe then attack them and your see.)
