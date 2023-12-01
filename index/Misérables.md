@@ -1,6 +1,6 @@
 ---
 title: Misérables
-revid: 82653
+revid: 82931
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 2]
@@ -21,7 +21,7 @@ Template:NPC name
 Upon interaction with the player, Misérables has the ability to grant wishes to the player, similarly to [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) inside [Scyphozia](First_Layer.md), indicated by two dialogue options:
 
 -   **I seek power in my upcoming battles.**
-    -   Grants additional 30% damage boost towards [Scion of Ethiron](Scion_of_Ethiron.md) for the duration of the exploration, at the cost of 3 [Kyrsan Medallions](Kyrsan_Medallions.md).
+    -   Grants additional 30% damage boost towards [Scion of Ethiron](Scion_of_Ethiron.md) for the duration of the exploration, at the cost of 5 [Kyrsan Medallions](Kyrsan_Medallions.md).
 -   **I seek clarity.**
     -   Grants a Yun'Shul wish and removes [Tarnished](Resonance.md) flaw from the player, at the cost of 15 [Knowledge](Knowledge.md).
 

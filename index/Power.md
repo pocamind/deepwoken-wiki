@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 82901
+revid: 82935
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -46,12 +46,13 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 -   Flamecharm (**FLM**)
 -   Frostdraw
--   Galebreathe
+-   Galebreathe (**WND**)
 -   Thundercall
 -   Shadowcast
--   Ironsing
+-   Ironsing **(MTL)**
 
 ## Trivia
 
 -   Before the Verse 2 update, the required amount of investment points was 5. However, this was increased to 15 after Verse 2. This was changed with the Power 60 to Power 20 compression.
 -   You deal about 30% of your base damage of any weapon or mantra added to your NPC damage per Power level. Remember this when fighting high-level mobs like Golems, Stone Knights, and King Threshers.
+-   free palestine pomni ohio skibidi toilet kokus boban tiny black bobans lord flat
