@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 82824
+revid: 83094
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -8,13 +8,13 @@ categories: [Pages with broken file links, Community]
 
 # Books
 
-## Description
-
 File:Adret reading.png
 
 A lone Adret reading Diver Journal 2
 
-Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Currently, Upon opening a book, player's are given a small sum of intelligence XP. Besides that, books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [intelligence training items](Training_Gear.md#intelligence) and [weapon training items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading.
+## Description
+
+Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [intelligence training items](Training_Gear.md#intelligence) and [weapon training items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
 
   
 
@@ -112,6 +112,440 @@ Books are items that are found in the world of Deepwoken and are a separate cate
 > In truth, we do not know for certain what the future holds. Perhaps the world as it is may not exist for very long. Perhaps none are exempt from the fate that befell the city of Celtor, the Great Jewel - but from the shared, traumatic experience of the surviving Celtorian people, rebuilding will be a much easier task if at least a small ember of the past remains burning.
 > 
 > This is my ember, brought to the altar of time. Never again may we suffer alone, in the dark.
+
+### A Deathscribe's Journal
+
+> Journal belongs to Memorial Mason Simeon Rasimof, of the Citadel of Markor
+> 
+> note to self: started a new notebook for the year, since I ran out of space in first one. remember to engrave all names from last book before engraving these! two croses = crosed out
+> 
+> remember, don't have to take note of their ranks unless it's a black diver, leave the carving of rank symbols next to names to Uriel or Svarn
+> 
+> • Chance Kernel ++
+> 
+> • Julian Huuli ++
+> 
+> • Ulla Kereshi ++
+> 
+> • Pyrrha Ratra ++
+> 
+> • Oscar Kalvika
+> 
+> • Vinney Golbor
+> 
+> • Santiago Rico
+> 
+> • Judith Holden
+> 
+> • Dante Sahet
+> 
+> • Anthony Praadet
+> 
+> • Nestor Bykof
+> 
+> • Cadaver Tarsus - MIA (hahaha, talk about irony!)
+> 
+> • Aesop Trikali
+> 
+> • Indra Era
+> 
+> • Keith Talo
+> 
+> • Ryan Vendet
+> 
+> • Ogrim Vendet (siblings?)
+> 
+> • Zeke Vendet (is this a whole family??)
+> 
+> • Shem Vendet
+> 
+> • Harley Vendet
+> 
+> • Arno Vendet
+> 
+> • Aemilius Vendet
+> 
+> • Sandra Vendet
+> 
+> • Olivia Vendet (that's the last one... tsk!)
+> 
+> • Nia Atamli
+> 
+> • Neo Theodra - MIA
+> 
+> • Aaron Baranof
+> 
+> • Simone Edgli
+> 
+> • Nestor Calico - MIA
+> 
+> • Ste ++ (?? ink?)
+> 
+> sphinx of black quartz judge my vow sphinx of black qua damned bottle. ink ran out, had to get a new one note to self: get something to eat after all this, then get names from old Helsen
+> 
+> • Steven Dise ++ (wrong spelling!)
+> 
+> • Stephen Dise (with a •PH', like in philosophy. or philology. or phenomenal... phobia. phase. phony. phonetics... Phlegm?.. i'm getting sidetracked)
+> 
+> • Scar Drameus
+> 
+> • Gaspard Trikal
+> 
+> • Graham Rethige
+> 
+> • Gregor Olof
+> 
+> • Desdemona Dusselden (black diver, gild the name)
+> 
+> • Laura Sero
+> 
+> • Estelle Galvigi
+> 
+> • Ivan Ivanel - MIA (old Helsen says the guys been mising for 40 years, but they don't wanna declare him dead because some black diver reported maybe seeing him in the eastern luminant? Wild)
+> 
+> • Drew Disii - MIA
+> 
+> • David Zeshi
+> 
+> • Acedia Leshi
+> 
+> • Charles Bobrof - MIA
+> 
+> • Peter Donnet
+> 
+> • Rick Ashet (old Helsen said this one got napped in half by a king crab. Yikes!)
+> 
+> • Aspen Hira (black diver, gild the name)
+> 
+> • John Ishel
+> 
+> • Rhys Nemira
+> 
+> • Black Diver Selim (no surname? old Helsen says he was a solo agent with no fanuly. gild the name)
+> 
+> • Carol Palo
+> 
+> • Hector Corbet - MIA
+> 
+> • Izzy Sehlka
+> 
+> • David Truad
+> 
+> • Austin Munet
+> 
+> • Ripley Raanad (black diver, gild the name - feels weird actually recognising one of the names! this was that one vegetarian girl, gave me a crab bisque lunch she didn't want back when she was an apprentice. kind of sad...)
+> 
+> • Leo Nemises
+> 
+> • Maxos Atedra
+> 
+> • John Ferad - MIA
+> 
+> • Agnes Yuset
+> 
+> • David Arad
+> 
+> note to self: tell the new apprentice (what was his name? Arun?) to fetch me a new chisel when i have a moment
+> 
+> also, it's been a while since i last saw that lout Uriel around... is he on sick leave? why isn't he working with this week?
+> 
+> • Lena Ixatoke
+> 
+> • Josue Casatra - MIA ++ (came back from dead after a few days??? old Helsen says they didn't expect him to pass the interstice trial)
+> 
+> • Armand Isket
+> 
+> • Seth Enega - MIA
+> 
+> • Sandra Rephika
+> 
+> • Taliah Sokolof
+> 
+> • Sapphire Evus
+> 
+> • Harold Veshi - MIA
+> 
+> • Ishmael Nephidra - MIA (black diver, gild the name)
+> 
+> • John Adaset
+> 
+> • August Praadet - MIA
+> 
+> • Dimitri Kernel
+> 
+> • Faris Arad (wasn't this that one kid that said he wanted to be Klaris's apprentice?)
+> 
+> • Olivia Ymara
+> 
+> • Rhys Ouli
+> 
+> • Phoenix Ratra
+> 
+> • Miles Edgli - MIA
+> 
+> • Richard Gumshi
+> 
+> • Dylan Kanreshi
+> 
+> • Crow Akarad (black diver, gild the name - heh, "in akarad's steps" is right, aye?)
+> 
+> • Enk Sec ++ (ugh messed it up)
+> 
+> had to pause work due to wristt pain. maybe i should see the folks in the ambulatory wing about this or maybe i just need a break. i've been carving names all day, and the bloody list never ends! old Helsen just dropped like twenty names on me and Svarn, and i'm not even done crossing out names from my last rotebook yet! those divers need to stop dying so fast.
+> 
+> • Erik Sekhige
+> 
+> • Cassius John Canden (whys this got two names?)
+> 
+> • Cassius Edgar Canden (oh.)
+> 
+> • Yasuke Kereshi
+> 
+> • Esker Massi
+> 
+> • Abigail Atedra (black diver, gild the name)
+> 
+> • Patricia Niildra - MIA
+> 
+> • Byron Disii
+> 
+> • Elliott Helsen (any relation to the high mason, i wonder?- hope not!)
+> 
+> • Ariana Ishel
+> 
+> • Aspen Etudi
+> 
+> • Eileen Loritad - MIA
+> 
+> • Julian Theus
+> 
+> • June Janus - MIA
+> 
+> • Sigurd Sekhigi (black diver, gild the name)
+> 
+> • Rasman Kalashor (i remember this one - loud-mouthed apprentice who wouldn't shut up in the hall of memory! funny how he ends up here all quiet now)
+> 
+> • Chert Bobrof
+> 
+> • Alicia Saali - MIA
+> 
+> • John Nothli
+> 
+> • Albion Enegi
+> 
+> • Ulla Amarico
+> 
+> • Veronica Nephidra
+> 
+> • Thalassa Ashi - MIA
+> 
+> • Douglas Douglas Vondren (not a mistake, that's his actual name)
+> 
+> • Tamerlane Trige (black diver, gild the name)
+> 
+> • Cyrus Juno - MIA
+> 
+> • Ryan Hira
+> 
+> • Logan Rashet
+> 
+> • Esker Emuli
+> 
+> • Ingrid Ouli
+> 
+> • Shem Praadet - MIA
+> 
+> • Sirius Ashet
+> 
+> • Jim Trige - MIA
+> 
+> • Zeke Aethuda
+> 
+> large gaggle of apprentices just pased by and interrupted my work, led on a small tour by one of the new black divers, Isma. if you didn't know any better, with her bright hair and mean scowl, yotrd think she was Klaris' daughter. seeing her makes me miss going to castle light to do maintenance work... having a cushy job as a designated memorial mason isn't so bad either, though.
+> 
+> either way, cheeky gits asked me a bunch of questions before they left for the next stop on their tour. they seemed a little scared of me, like a death omen. i mean... i guess we \*do\* wear all black, have rugged hands, and come off as rather nonchalant in such a morbid place...
+> 
+> bright-eyed, hapless naive... i'd bet Uriel and Svarn a month's worth of dinner each that at least 3/4ths of the rookies Will have their names on the wall by next year. though, i'm not sure they'd take the bet. Uriel's a cheapskate, and Svarn knows better than that. anyway, back to work
+> 
+> • Saeko Leeli
+> 
+> • Joy Mora - MIA (joy, nussrng among the divers? haha, no kidding)
+> 
+> • Price Era
+> 
+> • Gertrude Nemises - MIA
+> 
+> • Kestrel Kamali (catchy!)
+> 
+> • Misaka Ytreshi
+> 
+> • Sage Dise
+> 
+> • Timur Dise
+> 
+> • Fox Palo ('fox', like the old world animal? i remember Scholar Tullius giving a public lecture on those. what else will they come up with next? am i going to be carving 'Horse Etudi' on the monument with the next batch of names? or maybe 'Thresher Tarsus' in a few years? groan)
+> 
+> • Andros Zeneke
+> 
+> • Faye Aethuda (black diver, gild the name)
+> 
+> • Nico Jaegen - MIA ++ (found his way back to castle light days after his squad got wiped out. impressive!)
+> 
+> • Sarah Dusselden
+> 
+> • Ulmer Trikali - MIA
+> 
+> • Chesed Eiad - MIA
+> 
+> • Daedalus Eldra
+> 
+> • Tristram Trigi (black diver, gild the name)
+> 
+> • Fitz Rethige
+> 
+> • Remus Narsus - MIA
+> 
+> • Aspen Etudi - MIA
+> 
+> • Gilbert Etudi
+> 
+> • Samantha Golubof
+> 
+> • Ernest Huuli
+> 
+> • Leon Nuren
+> 
+> • Gabbro Scarsen (black diver, gild the name)
+> 
+> note to self: ask old Helsen to teach the new apprentices how to work new monoliths into shape; we've got only a couple left in storage, and Song knows well fill its sides up with names soon enough. Uriel came back this week; i don't know what he's been doing on his time off, but he smells awful, like really bad and stagnant morning breath. Svarn's away on a depths work summons, apparently castle light had an emergency and needs extra hands for maintenance. and then young Helsen nicked her finger quite badly while working with a chisel, so she's out of commission for a week or so. there go the two people i could have a decent conversation with in this place during lunch, aside from whenever old Helsen graces me with his brief presence, once in a blue moonseye. lousy week!
+> 
+> also note to self: buy celebratory diner for the memorial mason crew when you finish crossing out names in the old notebook!
+> 
+> • James Konoli (black diver, gild the mme)
+> 
+> • Sam Gatli - MIA
+> 
+> • Pippin Tuuli
+> 
+> • Aspen Estedra
+> 
+> • Quartz Evus
+> 
+> • Gael Isket
+> 
+> • Dylan Sahet - MIA
+> 
+> • Karl Kavinel
+> 
+> • Connie Ivanel
+> 
+> • Grace Aethuda - MIA
+> 
+> • Lucia Disii - MIA
+> 
+> • Sylvester Staelen (black diver, gild the name)
+> 
+> • Murphy Etudi
+> 
+> • Otto Barad
+> 
+> • Pandora Cassatra - MIA
+> 
+> • Rickard Atamli (NOT richard! C and K. cook in a kitchen. catch a kestrel. cram a... kennel? i should ask Svarn for more mnemonics like this, he probably knows. could make a game out of it, too)
+> 
+> • Alaia Bobrof
+> 
+> • Alder Bobrof - MIA
+> 
+> • Beatrix Enege
+> 
+> • Buster Huuli (buster huuli.„ shoulda worked in the central authority navy as a gunner with that kind of name, haha)
+> 
+> • Harper Holden (surprised this one wasn't in the scholars' orchestra with that name! who names these kids?)
+> 
+> • Hats Kaluka
+> 
+> • Samantha Eko
+> 
+> • Vincent Kavinel - MIA
+> 
+> • Miles Ven
+> 
+> • Gabbro Sokel
+> 
+> • Graham Mirad - MIA
+> 
+> OLD NOTEBOOK FINISHED! dinner's on me tonight! time to start carving the names in this notebook now. i can see old Helsen coming this way, must be more names...
+> 
+> • Nestor Nemises - MIA
+> 
+> • Jim Etudi - MIA
+> 
+> • John Kalvika
+> 
+> • Ingrid Adaset
+> 
+> • Elmer Praadet
+> 
+> • Uriel Ixatoke (black diver, gild the mme)
+> 
+> • Bran Bren (WHO NAMES THESE KIDS??)
+> 
+> • Simone Keldra - MIA ++ (reached the surface after a few days, successfully escaped through interstice)
+> 
+> • Lem Ytreshi
+> 
+> • Timothy Huuli
+> 
+> • Esther Era
+> 
+> • Victor Nemises
+> 
+> • Naomi Isket
+> 
+> • Charles Yuset - MIA
+> 
+> • Wilford Trikali
+> 
+> • Gully Galvigi (cool name, i'd be this guys friend. er, if he were alive, anyway.)
+> 
+> • Jane Ishel (black diver, gild the name)
+> 
+> • Vanda Mora
+> 
+> • Poe Holden - MIA
+> 
+> • Gabriella Helsen (definitely unrelated to the high mason - i asked young Helsen about it)
+> 
+> • Lim Hasteshi
+> 
+> • Joseph Theus - MIA
+> 
+> • Sophodon Surad (THIS ONE'S IMPORTANT! black diver, gilded name, two symbols of rank either side, add sub-heading - "Retired after 43 years of honourable service in the Black Divers' Division, turning down a promotion to the High Convocation of the Citadel of Markor." add motto "TO THE DEEPEST FATHOMS". oh my!!!)
+> 
+> • Romeo Janus (some luck, to be some random death right under \*a retirement name\*! good thing us memorial masons get our own individual carved monuments...)
+> 
+> • Woodrow Eldra - MIA
+> 
+> • Wormwood Veshi (what kind of a name is that?)
+> 
+> • Xenon Vondren
+> 
+> • Nera Atedra
+> 
+> • Sinbad Munet - MIA
+> 
+> • Galahad Galvigi (black diver, gild the name)
+> 
+> • Gwyn Niildra - MIA
+> 
+> • Hannah Adra
+> 
+> • Kayla Rico (black diver, gild the name)
+> 
+> my my, it's been literal years since i've seen someone retire! didn't think old Surad was going to see the day, heard from old Helsen that the fellow's been getting on in years now. thought he'd have died either on the field, or of old age. figured he wouldn't become a convocant if he lasted this long, though. Svarn's not here today, i'll have to tell him all about it when he's back!
+> 
+> running out of space on the notebook now. Will have to get a new one from young Helsen over at storage before old Helsen dumps more names on Uriel and i. who am i kidding, he Will be dumping them on \*me\* - Uriel's away somewhere, being useless as usual. which notebook is this? my fourth one this year? i'm losing track...
 
 ### Diver Journal, I
 
@@ -392,6 +826,85 @@ Shoulder to shoulder, together, tall!
 > Over the coming decades, the song would gain popularity among the Union labourers - with empowering lyrics and a steady rhythm, "The Hammer's Call" provided a convenient means for simultaneously keeping a consistent pace of labour between a group of people, as well as keeping up worker morale.
 > 
 > Of interest to present day scholars is the emergence of this song in the context of the Union's identity - similarly to the Central Authority, the Ignition Union is also a boiling pot of ethnicities and cultures. Unlike the Central Authority, however, the Union's identity is not defined wholly by internal hierarchy, lingering military traditions, and loyalty to power. Instead, it is rooted in the solidarity of toil - a sense of kinship among those working for the same goal.
+
+  
+
+### The Song of Fathoms / Oscillation
+
+> from Vincent Zeneke's monograph cycle "Song of the Sea"
+> 
+>    Hail to the Tides!  
+>    Honoured by the sea,  
+>    Journey to the fathoms in bravery!  
+>   
+>    Us you will guide,  
+>    Bravest of the brave!  
+>    Even should the ocean become your grave!  
+>   
+>    May you return,  
+>    Victory in hand,  
+>    May you once again trad on steady land!  
+>   
+>    Glory you'll learn,  
+>    Echo shall your name  
+>    In the books of history, crowned in fame!  
+>   
+>    Onward, to the darkest chasms!  
+>    May you never falter,  
+>    And may your way be led by Song!  
+>   
+>    Onward, to the deepest fathoms!  
+>    May the light protect you,  
+>    May you return triumphant, strong!  
+>  
+> 
+> \------------
+> 
+> "The Song of Fathoms", colloquially also known as "Oscillation", is a popular tune well-known around Lumen. Despite this, it remains a musical piece surrounded by discussion and dispute. In spite of the fact that we know exactly how old the piece is, and who the original author is, certain events and clauses of history mean that we cannot reliably verify its true arrangement and original text. Thanks to the robust access to the Citadel of Markor's historic archives provided to this monograph's author, this and more shall be elaborated on in the following paragraphs, with useful historical context provided for the reader.
+> 
+> The roots of "The Song of Fathoms" reach to the first days of the Divers organisation, and the early attempts at Depths-delving made by the Citadel of Markor. After the Citadel was founded in what is now broadly considered to be Year o, or o CE (Citadel Era), the institution's research to better understand the Depths for the purpose of combatting them reached a plateau within mere decades. To further their knowledge in the area, the High Convocation of the Citadel - a council of Citadel's seniority, composed of Convocants, retired high-ranking officers of the Citadel's various divisions, - turned to some of the surviving Old World treatises they had access to. These texts, it should be noted, were obtained via a tentative cooperation project with the Society of Luminance (often abbreviated as 'The Solum'), one of the now-defunct precursor organisations to the Old Stewards. The Old World records and writings on the Song were some benefit, as they offered some theoretical insights on how a realm such as the Depths may function.
+> 
+> Nonetheless, despite the initial usefulness of these sources, they were still problematic. The Old World texts touched more so on the metaphysical concepts of the Song than the practicalities of the Depths, and did not prove of much use beyond understanding some of the elementary forces that work within them. Realising the stagnation that befell their efforts of fighting the Depths, the High Convocation launched the first inquiries into a more practical approach towards combating the Depths. Scholars and agents were soon dispatched to scour the Luminants for any knowledge regarding the dead and the drowned.
+> 
+> And indeed, these efforts bore fruits, as the High Convocation soon began receiving unusual reports of individuals seemingly returning from the dead. At the time, it was speculated that when a person died on the surface, their soul - and sometimes bodies - are dragged to the Depths. Now, the Citadel had proof that this was the case in the form of testimony. Indeed, certain strong enough individuals, having woken from their deathly slumber, now told the Citadel's agents of the strangest things, which the High Convocation had a hard time believing.
+> 
+> Regardless, the Citadel's finest scholars were set to work processing these testimonies of the formerly drowned, to see if they were of any substance. The drowned were of ten either still in shock, or displayed mild signs of mania or insanity - therefore the reliability of their testimonies individually was questionable. However, after dozens of testimonies, singular details kept emerging - an enormous sub-aquatic cavern system, the drowned city of Celtor, its sunken streets, vile beasts beyond our ken, a sky-piercing cathedral in the city's centre, and other most outlandish things. However, most curiously, in some testimonies, the drowned recall noticing tunnels high above in the ceilings of the caverns, from which rays of light - and seemingly bubble-pocket of air - were filtering through.
+> 
+> This greatly piqued the interest of the Convocants. A new theory was posited - if what these resurrected individuals were saying was true, there is likely a direct physical connection between the surface and the Depths. Another theory came to be - if this truly were the case, and return were a possibility, a well-trained team of agents could be sent down into the Depths for exploration, reconnaissance, and combat. With enough effort, perhaps a permanent forward operating base could be established. The fight against the Depths could, therefore, theoretically be taken to the Depths themselves.
+> 
+> Thus, in the year 57 CE, a new branch of the Citadel of Markor was established - formally called 'The Citadel Divers', the organisation soon became colloquially known as simply 'the Divers'. Their seniority came to be known as the 'Black Divers' division', or simply 'the Black Divers'. With the stated mission of learning to better understand the Depths in order to combat them, the Divers were established as a Citadel branch intended for field research, exploration, and combat operations - so to say, a militant counterpart of the Scholars of Markor.
+> 
+> Training of new recruits began immediately, with the Divers utilising what knowledge they had available to them. In the meantime, Black Diver agents would be sent on numerous surface missions around the Central Luminant, with the goal of potentially finding a cave system that would physically connect to the Depths. Success was achieved when the High Convocation eventually received reports of a cave from which beasts of the Depths were occasionally emerging - creatures that were little known at the time, but that are now known to us as 'threshers', 'mudskippers' and 'megalodaunts'.
+> 
+> A small outpost, now known as Fortress Vinda, was established outside the cave, and within two years of the organisation's founding, in 59 CE, the first expedition of the Divers was set to take place. It was intended to be led by the first leader of the Black Divers, Deukalion Akarad, nicknamed "father Diver" by apprentice Divers at the time. As the first foray was considered to be a historic moment for the Citadel, some pomp and ceremony was afforded for the event. Each of the Convocants gave speeches on the momentous occasion, followed by an inspiring speech from Akarad. Then, following the formalities, as the observers cheered on, the first expedition force - 'The Pioneers', with Akarad at the fore - descended the cave system and dived into its waters, following the path until they disappeared from sight. At their descent, a musical piece, then called "The Song of Fathoms", was performed by Scholars' Orchestra of the Scholars of Markor. The piece itself was commissioned for the ceremony collectively by the High Convocation, and the performance was conducted by the Chambermaster of the orchestra, Ingrid Jura.
+> 
+> This sing was the last sound the Pioneer Divers heard before descending the caverns. Tragically, however, all of the Pioneers perished during the expedition. Based on the notes brought back to the surface by Akarad, some of the group perished in the Depths after the group seemingly pushed too far into unknown territory and were caught off-guard by the beasts of the Depths. The surviving Divers that did reach the surface perished very suddenly, not long after stepping out of the waters of the cave, as "The Song of Fathoms" started - and quickly horrifiedly stopped - playing again.
+> 
+> Although this contextual foray is already far outside the original scope of the monograph, we shall divulge some more details on this occurrence - the author refuses to miss an opportunity such as this, to freely peruse the Citadel's historic archives unde the High Convocation's blessing. Though it was not well understood at the time, it is now believed the cause of the Pioneers' demise was what is now known to be 'boundary death'. For a simplified layfolk explanation - as a quasi-metaphysical realm, the Depths is believed to exert a pulling force on one's soul, based on one's proximity to the deep. So to say, once one is in the Depths, their soul experiences a constant downward pull. If one tries to leave the Depths by simply physically exiting it upwards, without the aid of ritual or other preparation, they will cross what is known as 'the boundary' - a limit beyond which a soul cannot continue physically travelling in your body. Ergo, the body continues upwards, while the soul is pulled downwards, until the two are wholly separated, and the person dies. And, since the person's soul is in the Depths at the time of their death, they therefore perish wholly, without a chance to return to the surface.
+> 
+> The name of the Pioneers who died, as well as the names of subsequent Divers who have since retired, or perished in the line of duty, are forever carved on a series of tremendously size monoliths in a vast memorial hall within the Citadel of Markor. With the estimate (or, some say, rumored) 98% yearly casualty rate of the Divers, the Citadel has appointed a small subdivision of skilled stonemasons for the purpose of keeping the memory of the deceased alive, as mere Divers give up their lives in the fight against the Depths. Though formally referred to as 'Memorial Masons', led by a 'High Mason', they are often colloquially called 'Deathscribes', led by a 'Head Deathscribe'. Their main job is maintaining the so-called Hall of Memory, and carving new names on the monoliths practically daily.
+> 
+> According to the current High Mason, Horus Helsen, the Hall of Memory has seen twenty-five expansions since it was built, with a twenty-sixth currently underway. Although grim, it stands as a defiant reminder to the world on the Divers behalf - that humanity's pathto victory is paved with many valiant dead, and that neither the Divers nor the Citadel intend to surrender to the Tides without a fight any time soon.
+> 
+> Regardless, returning from the historic anecdotes to the matter of the "The Song of Fathoms", the song is known to have had lyrics at the time of its creation - however, their true version remains disputed. The lyrics, as well as nuances of authorship, are still hotly debated topics among certain scholars. During a small fire in the Citadel archives in 108 CE, a few of the early records of the Citadel's history were lost, alongside the original songbook of "The Song of Fathoms".
+> 
+> A reconstruction of the songbook was attempted by Scholar Marcille Samico, an attendant of the first foray ceremony, and a close friend of Chambermaster Jura, who had already passed in 98 CE. Scholar Samico's version attributes the song's authorship to Jura, and it is also the version that the author has chosen to display in this monograph, as it is considered to be the most accurate one by many historians. Scholar Samico was closely familiar with Jura's work, and although detractors of her version insist she was rumored to experience bouts of mental deterioration towards the end of her life, contemporaries mark her as 'keen-minded and sharp until her death'.
+> 
+> Soon after Scholar Samico's version was published and instated in the archives, a different version emerged, written by a different Citadel member - an apprentice of Chambermaster Jura, the young Scholar Mephisto Massi. With slightly different lyrics, and a different melodic and a compositional arrangement, Scholar Massi insisted his version was based on an old original draft of the piece that Jura had shown him, and which he committed to memory. Whether the text truly was an original draft by Jura, or if it was Massi's invention in an attempt to upstage Scholar Samico for a shot at personal fame, remains hotly debated.
+> 
+> The veracity of Scholar Massi's claim remains difficult to verify to this day, and it was challenged even his time, as some of the notes of notes of Chambermaster Jura have been lost in the years following her death in 98 CE due to recordkeeping errors. It is not unlikely that Jura's notes have been mislabelled and tucked away in the vast collective of documents in the Citadel's enormous library - however, to rediscover them would be not too dissimilar to finding a needle in a haystack, given the size of the archives.
+> 
+> Nevertheless, as Scholar Samico's claim is more verifiable than Scholar Massi's, the monograph shall discuss the former version in greater detail - furthermore, it is also the one that gained the most popularity after Chambermaster Jura's death. The opening line, "Hail to the Tides!", is often misinterpreted as the author praising or worshipping the rising sea, which sometimes confuses novice scholars. However, any historian, anthropologist, folklorist or musicologistworth their salt will know that the line signifies a warlike greeting of the Divers' foe - the Depths. The Divers, knowing that each expedition might result in their deaths, face the prospect with a grim determination and defiance, embodied by the song.
+> 
+> Lending further credibility to Scholar Samico's version as the 'correct' version, in the author's opinion, are lines XIII and XVI of the song. They contain the motto of the Divers, "To The Darkest Chasms", and the motto of the Black Divers, "To The Deepest Fathoms". In Scholar Massi's version, the adjectives of the two mottos are swapped with one another - though Massi himself attributes this Jura's own error, claiming the similarity of the mottos, coupled with recentness of the Divers' existence as an organisation at the time, caused the Chambermaster confusion, upon which she allegedly remarked in her missing notes.
+> 
+> In the decadeds following the Pioneers' expedition, "The Song of Fathoms" gained popularity among the ranks of Divers, who saw it as a grim yet hopeful reminder of their goal, their cause, and the rewards their work may reap. As time passed, the song remained popular among the ranks of the Divers, and was often used for certain ceremonies, especially at the start of large expeditions, before the establishment of Castle Light. After Castle Light was established and made operational, a new musical piece was commissioned by Convocant Kyntair Pahaset to commemorate the occasion. Called "In Akarad's Steps", after Deukalion Akarad, the previously mentioned first leader of the Black Divers, it became an official anthem of the Divers. Although, "The Song of Fathoms" never quite went out of style in the organisation, and can be heard sung by even apprentice Divers to this day.
+> 
+> Once individual adventurers, as well as other groups and powers, began to make their own forays into the Depths in the coming centuries, the song spread among the ranks of the new Deep-delvers as well. Its catchy, melodically oscillating refrain of V-B|-N|-ZZ-N|-ZZ-N|-B-B| earned it the colloquial name "Oscillation" among non-Divers, and its repeating lead melody solidified the song's status as an iconic classic of modern folklore. For certainly, in our time, if one calls "Hail to the Tide!" at any port or tavern in any Luminant, they are sure to hear the hearty response of "Honoured by the sea!"
+> 
+> My great thanks goes to Convocant Aurelia Imari, one of the key present day member of the High Convocation, for granting me access to the Citadel of Markor's historic archive. I am endlessly appreciative of the honour bestowed upon me to be permitted to write and publish this monograph, containing never before seen historic elements of the Citadel's past. I am also forever grateful for the great hospitality provided to me by the High Convocation, the Citadel Divers, and the Scholars of Markor - my research stay within the Citadel was most enjoyable and informative.
+
+  
 
 ### Lament of Cirryn
 
@@ -1079,7 +1592,13 @@ I weep for them still, my tears bitter as salt...
 > 
 > If races emerged from Vows, we can also suppose that our far-flung ancestors would have had appearances more closely in line with one another. Working backwards, we might suppose that - with the common features shared between the races - our ancestors may have once resembled the Adret. This is of course a matter of some dispute as, were the Adret a ‘vowless’ race, they would have been ‘bred out’ over the generations due to Vows taking precedence. It’s possible that some trait of the Adret was not shared by our common ancestors, and that that is why they continue to exist today.
 
+  
+
 ## Trivia
 
 -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
 -   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
+-   The book 'A Deathscribe's Journal' contains numerous Easter Eggs and references.
+    -   Black Diver Selim is a reference to Houseless Selim, a member of the _Rogue Lineage_ community who desired to be, but was not made, a part of the game's lore.
+    -   Douglas Douglas Vondren is a reference to YouTuber DougDoug.
+    -   Rick Ashet is a reference to a leak where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md)

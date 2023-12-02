@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 80866
+revid: 83088
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -24,6 +24,10 @@ categories: [Relics]
 
 The **Moonseye Tome** is a [Relic](Relics.md) containing the scrawled and raving account of the prophetic dream received by the Prophet Pariah, reading this book will grant the user +99 knowledge on the first usage. All future uses of this book will grant the user +20 knowledge.  
 _(one-time use, re-obtainable)_
+
+## Moonseye Tome Dialogue
+
+"The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed."
 
 ## Trivia
 

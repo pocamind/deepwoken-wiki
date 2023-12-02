@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83004
+revid: 83092
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -244,7 +244,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I seek the qualities of Annihilator."**_
 
--   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 4s.
+-   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
     -   Prerequisite: 100 Strength
 
 ### Apex Predator
@@ -2224,7 +2224,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Flame of Denial
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
-    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
+    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame, AND at least 1 Mental Fortress Talent
 
 -   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restores sanity and health to those around it. Stacks with sitting next to it.

@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 83029
+revid: 83070
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -26,7 +26,7 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia chest , Chaser chest , The depths |
+| obtainment | Duke Erisia chest , Chaser chest , The depthsPrimadon chest |
 | description | [REQUIRES A KICK STYLE] |
 
 ## Description

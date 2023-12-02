@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 82969
+revid: 83048
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -71,6 +71,7 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 
 ## Trivia
 
+-   While often attributed to him by the community, [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is not the cause of Insanity, rather it's the First Layer's status of an Eldritch Location that does not obey the laws of physics. This is why the Second Layer does not cause Insanity, as despite its variety of Monsters its more grounded in reality.
 -   With just sanity increases (blindfold, Mental Fortress Talent deck, 100 willpower and Blindseer Oath) and no randomly rolled sanity stat on gear and no potions, players can reach 436 sanity, which equals to just below 2 hours (118 minutes) in The Depths before tier 3 insanity.
 -   Each point of sanity equals to 30 extra seconds in the Depths before reaching 100% insanity.
 -   If you fall below 50% sanity while having [Curse of the No Life King](Enchantments.md) equipped and you're losing sanity you immediately pop and die.

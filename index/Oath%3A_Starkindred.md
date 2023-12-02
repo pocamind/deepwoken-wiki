@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 82958
+revid: 83062
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,7 +29,7 @@ categories: [Oaths]
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
 3.  Kill [Iblis, The Fallen Ange**l**](Iblis,_The_Fallen_Angel.md)**,** located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
     1.  If you lack the Union Hook, careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it.
-4.  Return to Samael to give him head and get the Oath.
+4.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 

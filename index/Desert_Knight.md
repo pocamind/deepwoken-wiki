@@ -1,6 +1,6 @@
 ---
 title: Desert Knight
-revid: 82936
+revid: 83077
 source: https://deepwoken.fandom.com/wiki/Desert_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Stone Knight](Stone_Knight.md)
+-   [Stone Knight#Desert Knight](Stone_Knight.md#desert-knight)
