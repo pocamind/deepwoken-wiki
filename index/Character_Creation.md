@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 81387
+revid: 83027
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -11,6 +11,8 @@ notices:
 # Character Creation
 
 In _Deepwoken_, you are provided many options to customize your character. There is a variety of [Attunements](Attunements.md), [Races](Aspects.md), [Weapons](Weapons.md) and more for you to choose from.
+
+The character creation screen.
 
 ## Races
 

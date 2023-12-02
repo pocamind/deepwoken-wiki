@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 82953
+revid: 83024
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -174,7 +174,7 @@ Applies Metal Rods on hit.
 |  | Iron Skin
 (★☆☆)
 
- | Coat your skin with cum to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
+ | Coat your skin with cum to negate incoming damage. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
 -   Can be upgraded with the "Intuitive Repairs" talent, which causes armor and natural armor to be restored during the mantra's duration.
 -   Can negate around 80% of fall damage.

@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 83017
+revid: 83029
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -36,6 +36,7 @@ The Anklets of Alsin are a light weapon that can be found in [Hellmode](Hell_Mod
 ## Notes
 
 -   This is the first weapon released for the [Jus Karita](Jus_Karita.md) fighting style.
+-   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
 
 ## Benefits
 

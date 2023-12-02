@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 82582
+revid: 83032
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -83,9 +83,11 @@ Modifiers:
 |  | 
 
 Electro Carve  
-(☆☆☆)
+(★☆☆)
 
- | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Creates a yellow orb in front of the user.
+ | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Used to be a 0 star mantra
+
+Creates a yellow orb in front of the user.
 
 -   Shocks opponents inside of it while dealing damage.
 -   Moves with the user

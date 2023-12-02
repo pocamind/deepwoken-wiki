@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 82941
+revid: 83038
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -20,13 +20,14 @@ Entering the guild base for the first time, you will be met with a glowing outli
 
 -   Once hired, the Treasurer question can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot.
 
-Currently, there are **3** NPCs that can join your Guild Base (particularly in the main room) with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
+Currently, there are **6** NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
 -   The [Mystic](Mystic.md), which can be hired after getting 3+ rooms for Notes.
 -   The [Barber](Barber.md), which can be hired after getting 6+ rooms for Notes.
 -   The [Antiquarian](Antiquarian.md), which can be hired after getting 9+ rooms for Notes.
 -   The Librarian, which can be hired after getting (?)+ rooms for Notes.
--   The (guy who can smelt items together), which can be hired after getting (?)+ rooms for Notes.
+-   The Artisan, which can be hired after getting (?)+ rooms for Notes.
+-   The [Blacksmith](Blacksmith.md), which can be hired after getting (?)+ rooms for Notes.
 
 The Leader/Officers may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase.
 

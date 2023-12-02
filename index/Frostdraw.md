@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 82621
+revid: 83036
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -283,7 +283,7 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 -   Inflicts Chill.
 
  |
-| [IceFissure](https://deepwoken.fandom.com/wiki/File:IceFissure.gif) | 
+|  | 
 
 Ice Fissure  
 (★★★)
@@ -297,7 +297,6 @@ _Send ice rippling out in a shockwave._
 -   Up to three Obelisks can be active at any time.
 -   Recasting this Mantra near an active Obelisk causes it to explode.
 -   Creating an Obelisk on top of someone will stun them for ten seconds.
--   Outdated gif, please replace
 
  |
 

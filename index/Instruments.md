@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 83022
+revid: 83044
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]
@@ -10,20 +10,11 @@ notices:
 
 # Instruments
 
-Instruments were added that you can use to play songs
+Instruments, or Shanties, is a feature that was added on the 1st of December update. Purchasing any instrument gives you the "worn songbook" item, which you can use to play songs together with your friends. There are currently 4 instruments: The Accordion, Drum, Trumpet, and Violin. Playing along with others staves off hunger and thirst, grants you a blood regen buff, and slightly improves your passive HP regen, however you cannot move or draw your weapon. They can be purchased at [Etris](Etris.md) for 25 [Notes](Notes.md) each.
 
-Buying an instrument gives you the Worn Songbook tool which lets you select between instruments and the song you play
+Playing an instrument on your own will be different, but playing a song together with other players while playing the same song will make the instruments sync together. Playing instruments is more of a cosmetic feature than anything, it won't help in combat.
 
-Currently there is: Accordion, Drum, Trumpet, and Violin
+  
+**The following songs can be played on the instruments:**
 
-Playing along with others staves off hunger and thirst, grants you a blood regen buff, and slightly improves your passive HP regen
-
-Instruments can be bought at [Etris](Etris.md) for 25 [Notes](Notes.md) each.
-
-The following songs can be played on the instruments:
-
-[https://youtu.be/IZgNo7Pv0hA](https://youtu.be/IZgNo7Pv0hA) The Gideshu March
-
-[https://youtu.be/I6rD5jW1qv0](https://youtu.be/I6rD5jW1qv0) The Song of Fathoms
-
-[https://www.youtube.com/watch?v=Zu9uDHqFcS8](https://www.youtube.com/watch?v=Zu9uDHqFcS8) A Memory of Tides
+[_the Gideshu March_](https://youtu.be/IZgNo7Pv0hA), [_The song of Fathoms_](https://youtu.be/I6rD5jW1qv0), and [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8).

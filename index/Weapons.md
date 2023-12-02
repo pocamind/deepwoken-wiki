@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 82972
+revid: 83045
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -273,6 +273,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -283,6 +284,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><a href="Fists.md">Fist (Way of Navae/Legion Kata)</a></td>
   <td>0 LHT</td>
   <td>12</td>
+  <td>N/A</td>
   <td>N/A</td>
   <td>LHT: 7</td>
   <td>3</td>
@@ -295,6 +297,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>0 LHT</td>
   <td>13.5</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>LHT: 7</td>
   <td>5</td>
   <td>6</td>
@@ -306,6 +309,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>30 LHT</td>
   <td>15</td>
   <td>5%</td>
+  <td>N/A</td>
   <td>LHT: 9</td>
   <td>5</td>
   <td>6</td>
@@ -314,9 +318,22 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 </tr>
 <tr>
   <td><a href="Jus_Karita.md">Jus Karita</a></td>
-  <td>40 LHT</td>
+  <td>40 LHT, LVL 5</td>
   <td>13.5</td>
   <td>20%</td>
+  <td>N/A</td>
+  <td>LHT: 9</td>
+  <td>3</td>
+  <td>7</td>
+  <td>0.9x</td>
+  <td>25.3</td>
+</tr>
+<tr>
+  <td><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></td>
+  <td>40 LHT, LVL 5</td>
+  <td>13.5</td>
+  <td>20%</td>
+  <td>10%</td>
   <td>LHT: 9</td>
   <td>3</td>
   <td>7</td>
@@ -328,6 +345,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>65 LHT</td>
   <td>15.5</td>
   <td>5%</td>
+  <td>N/A</td>
   <td>LHT: 9.5</td>
   <td>5</td>
   <td>6</td>
@@ -339,6 +357,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>65 WLL</td>
   <td>12</td>
   <td>5%</td>
+  <td>N/A</td>
   <td>WLL: 13</td>
   <td>5</td>
   <td>7</td>
@@ -349,6 +368,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><p><a href="https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets"><font>Drakemaw Gauntlets</font></a> (<b>Bleed</b>)</p></td>
   <td>75 LHT</td>
   <td>15</td>
+  <td>10%</td>
   <td>10%</td>
   <td>LHT: 7.5</td>
   <td>4</td>
@@ -901,7 +921,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>30.1</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Serrated_Warspear"><font>Serrated Warspear</font></a> (<b>Bleed</b>)</td>
+  <td><a href="Serrated_Warspear.md">Serrated Warspear</a> (<b>Bleed</b>)</td>
   <td>65 MED</td>
   <td>18</td>
   <td>20%</td>

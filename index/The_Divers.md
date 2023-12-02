@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 80122
+revid: 83042
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -23,9 +23,9 @@ notices:
 
 ## Description
 
-The Divers are a faction implanted in The Central Luminant at the Island of Markor. They are more notably seen in [The Depths](The_Depths.md). They are an organization focused on the traversal and research of The Depths, discovering and reporting valuable data to the surface to their father faction, The Citadel. They were founded by Niyuki, Yreol, both of whom branched off into the Scholars of Markor, Volt, who later left the Divers, Shirafune and [Dr. Carrion](Carrion,_Father_of_Evolution.md), after the Tides came about.
+The Divers are a faction implanted in The Central Luminant at the Island of Markor. More notably seen in [The Depths](The_Depths.md), they are focused on the traversal and research of the realm, discovering and reporting valuable data to the surface to their father faction, The Citadel. They were founded in 57 CE (Citadel Era) by Niyuki, Yreol, both of whom branched off into the Scholars of Markor, Volt, who later left the Divers, Shirafune and [Dr. Carrion](Carrion,_Father_of_Evolution.md), after the Tides came about.
 
-The Divers are a group of researchers and scholars funded by the Central Authority to explore the world, particularly the Depths, and bring back retrieved information back to the Citadel, which is located on the island of Markor in the Central Luminant. Their sole purpose is to gain information on the world and protect the surface from the creatures of the Deep. The Divers consist of a variety of ranks given to each and every diver based on their strength and knowledge; the standard Diver is the vast majority of the Divers, typically normal scholars and researchers who are interested in various facets of the world. They do not typically live long and make up about 95% of the Divers. The other 5% consist of more powerful Divers including Black Divers, which are prestigious and extremely strong individuals who appear very few in every generation of Divers. They assist the Divers by taking on foes a normal Diver wouldn’t be able to handle, typically representing one squad of normal Divers on their own. Notable Black Divers include Amorus Pleeksty, who keeps very loose relations with the Divers, and Akira. The Divers utilize the Song to fight primarily when their lives are in danger, but some Divers are selfish and do not hesitate to fight for their own research and interest, even against other Divers. Therefore, there is frequent conflict within the ranks.
+Their sole purpose is to gain information on the world and protect the surface from the creatures of the Deep. The Divers consist of a variety of ranks given to each and every diver based on their strength and knowledge; the standard Diver is the vast majority of the Divers, typically normal scholars and researchers who are interested in various facets of the world. They do not typically live long and make up about 95% of the Divers. The other 5% consist of more powerful Divers including Black Divers, which are prestigious and extremely strong individuals who appear very few in every generation of Divers. They assist the Divers by taking on foes a normal Diver wouldn’t be able to handle, typically representing one squad of normal Divers on their own. Notable Black Divers include Amorus Pleeksty, who keeps very loose relations with the Divers, and Akira. The Divers utilize the Song to fight primarily when their lives are in danger, but some Divers are selfish and do not hesitate to fight for their own research and interest, even against other Divers. Therefore, there is frequent conflict within the ranks.
 
 ## Gameplay
 
