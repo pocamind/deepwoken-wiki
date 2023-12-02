@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 80824
+revid: 82950
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -396,7 +396,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 1.3s | Unable To Cast [Mantra](Mantras.md) (Not Enough Ether) |
 |  | 1.0s | Strong Left, Pressure Blast, Master's Flourish (Windup) / [Light Hook](Second_Layer.md) Rise |
 |  | 1.6s | Strong Left (Unleash) \[1\] |
-|  | 1.6s | Strong Left (Unleash) \[2\] |
+|  | 1.6s | Strong Left (Unleash) \[2\] (Sped up version used in Iron Hug) |
 |  | 3.0s | Master's Flourish (Unleash) |
 |  | 2.1s | Strong Left (Full) |
 |  | 2.5s | Strong Leap / Ash Slam + Rising Thunder (Impact) |
