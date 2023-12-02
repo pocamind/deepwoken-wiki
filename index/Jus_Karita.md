@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 82634
+revid: 83012
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -45,3 +45,4 @@ To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Li
 
 -   **Jus Karita** cannot equip any cestus, including [Light's Final Toll](<Light's_Final_Toll.md>).
 -   If you have two fist styles and try to equip a cestus on **Jus Karita**, the game will forcibly switch you to the [Way of Navae](Way_of_Navae.md) fist style.
+-   Jus Karita is now able to use a weapon [Anklets of Alsin](Anklets_of_Alsin.md) which is only for Jus Karita.

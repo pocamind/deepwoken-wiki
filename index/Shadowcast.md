@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 82908
+revid: 82965
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -191,7 +191,7 @@ Eclipse Kick
 
  | Show your foes your strength. | 35 Ether | The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back.
 
--   Requires 20 Strength and 50 Shadowcast.
+-   Requires 15 Strength[\[1\]](#cite-note-1) and 50 Shadowcast.
 -   Deals a massive amount of posture and health damage.
 -   Can also break certain tiles and fell trees.
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
@@ -698,3 +698,7 @@ Enemies will briefly hang in place when hit by a shadow move.
     -   An interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
 -   Just like every other attunement other than Flamecharm, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast.
 -   Shadowcast is the only attunement to have 2 trainers, [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md).
+
+## References
+
+1.  [↑](#cite-ref-1) 2/12/2023 Patch Notes for version

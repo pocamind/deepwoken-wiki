@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 82911
+revid: 83004
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1320,7 +1320,7 @@ _**"I enjoy sea food."**_
 -   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
     -   While in combat, this ability cost Ether to use.
-    -   Prerequisites: 50 Galebreathe, Gale Leap
+    -   Prerequisites: 40 Galebreathe, Gale Leap
 
 ### Liberator
 

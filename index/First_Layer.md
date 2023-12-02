@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 82606
+revid: 82975
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -90,7 +90,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
 | 10-16.33 | [Megalodaunt](Megalodaunt.md) |
 | 16.66+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| Drowned 15+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
+| Drowned 20+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.

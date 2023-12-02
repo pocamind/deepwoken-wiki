@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 82952
+revid: 82990
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -224,6 +224,13 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
 -   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems.
 -   He uses a unique weapon called the "Moonseye Scapel."
+
+### **Deukalion Akarad, the First Black Diver.**
+
+-   Deukalion Akarad, or commonly known as Akarad, was the first Black Diver, and leader of the Black Divers appointed into an expedition to the Depths by the High Convocation into the unkown, being also the first documented expedition from the recently formed "Citadel Divers" or more known as "The Divers".
+-   He is presummed to be dead along with all of his expedition team when they venture too far into the unkown.
+-   Made a great inspiration to the rest of the Apprentice Divers, being able to inspire the apprentice Divers even in his death.
+-   The name of his expedition team was the "Pioneer Divers", the ones who heard the "Song of Fathoms" for the first time.
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
