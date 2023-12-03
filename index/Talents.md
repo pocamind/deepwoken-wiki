@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83144
+revid: 83153
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -167,7 +167,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified.
-    -   Prerequisite: 90 Intelligence
+    -   Prerequisite: 80 Intelligence
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
     -   Prerequisite: 80 Intelligence
 
@@ -491,7 +491,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
--   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed slightly.
+-   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed and heals you slightly.
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Cosmic Wind
@@ -868,7 +868,7 @@ _**"I enjoy sea food."**_
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
     -   Drink potions faster. (~0.5 seconds faster)
-    -   Prerequisites: Drank potion, 15 Fortitude, 15 Willpower
+    -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude

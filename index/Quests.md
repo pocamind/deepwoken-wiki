@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 82769
+revid: 83152
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -174,7 +174,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: N/A
 
-**Guide**: Unbound your weapon mastery.
+**Guide**: Unbound your weapon mastery through either completing the lost brother quest or killing the duke of erisia boss.
 
 **Reward/s**: Mercy Kill
 
@@ -296,7 +296,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Reward/s**: EXP
 
-## Repeatable Ordinary Quests
+##### Repeatable Ordinary Quests
 
 These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
@@ -312,7 +312,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: Starswept Valley
 
-**Guide**: Turn in the bags found around Starswept Valley to Mercille near Meteor Isle.
+**Guide**: Turn in the bags found around Starswept Valley to Mercille near The guy at the outpost near Meteor Isle.
 
 **Reward/s**: Small Hive Chest
 
@@ -378,4 +378,4 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Guide**: Talk to an NPC on the left side of the gate to the upper level of [The Lordsgrove](The_Lordsgrove.md). They will ask you to kill a monster. Kill one and return.
 
-**Reward/s**: EXP, Hive Reputation
+**Reward/s**: EXP, Hive Reputation and a chest with loot.

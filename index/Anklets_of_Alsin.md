@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 83114
+revid: 83157
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -26,12 +26,12 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia chest , Chaser chest , The DepthsPrimadon chest |
+| obtainment | Duke Erisia chest, Chaser chest, Deep Widow chest, Primadon chest, and The Depths |
 | description | [REQUIRES A KICK STYLE] |
 
 ## Description
 
-The Anklets of Alsin are a light weapon that can be found in [Hellmode](Hell_Mode.md) chests, [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) chest, and [Duke's](Duke_Ishamon_Erisia.md) chest. The only requirement is a Kick Style. As of now, the only Kick Style is [Jus Karita](Jus_Karita.md).
+The Anklets of Alsin are a light weapon that can be found in [Hellmode](Hell_Mode.md) chests, [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) chest, [Deep Widow's](Deep_Widow.md) chest and [Duke's](Duke_Ishamon_Erisia.md) chest. The only requirement is a Kick Style. As of now, the only Kick Style is [Jus Karita](Jus_Karita.md).
 
 ## Notes
 
