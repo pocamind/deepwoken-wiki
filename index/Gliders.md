@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 81125
+revid: 83164
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Utilities, Items]
 | Gliders | |
 |---|---|
 | usage | Allows the user to glide across long distances. |
-| recipe | x2 Stick, x2 Cloth, x2 Stick, x2 Megalodaunt Hide |
+| recipe | x2 Stick, x2 Cloth, or x2 Stick, x2 Megalodaunt Hide |
 
 **Gliders** are utility items in _Deepwoken_ that give the player the ability to glide.
 

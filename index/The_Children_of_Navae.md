@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 82893
+revid: 83166
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -30,6 +30,12 @@ Good Reputation:
 -   "By my eyes... I am not worthy to have a prophet of Navae in my presence." (Only the Eastern Tribal Leader will say this if you have almost max reputation with them)
 
 -   "Ah, Bloodkin \[Name\]. I am honored to have your assistance." (Only the Eastern Camp Master will say this if you have almost max reputation with them.)
+
+Friend Reputation:
+
+-   "Be aware homelander, those murderers could strike at any moment."
+
+-   "Ah homelander, what might you need?"
 
 ## Lore
 

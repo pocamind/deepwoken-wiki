@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 83162
+revid: 83167
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -76,6 +76,7 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 -   Can easily be run past or cheesed as she is not the brightest when it comes to getting stuck between two rock pillars in her own home. You can also sneak past her by crouching and walking behind her.
 -   Attempt to avoid combat with her while she's corrupted **unless** you possess an end-game/PvE build. This caution is warranted because her web attacks contribute a significant dose of insanity, rapidly propelling you to tier 2 [insanity](Insanity.md#insanity-effects). When at tier 2 insanity, you are vulnerable to twitching and scratching, which indirectly increases your vulnerability to her attacks due to the stun effect they impose.
 -   It is recommended to put Bloodless Gems on some mantras when fighting her solo.
+-   Have a campfire ready as you will need to heal a lot as her poison does massive amount of damage if not checked.
 
 ## **Item Pool**
 
