@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 82923
+revid: 83119
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -69,9 +69,9 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
-  <td><div><p>Weapon does 1.05x on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown).<br>
+  <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown).<br>
   If the user has Crystallization, apply an ice crystal. Can only apply a total of 1 crystal. Cannot apply any more crystals until the crystals break.<br>
-  In PvE this instead applies a Chill effect with a duration of 0.4s (only without crystal). This causes a second hit to happen granting 4% extra damage.</p></div></td>
+  In PvE this instead applies a Chill effect with a duration of 0.4s (only without crystal).</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>
@@ -282,7 +282,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>Chance to proc adding 5% of your max health to your damage.<br>
+  <td><div><p>Chance to proc adding 5% of your max health to your damage. 10 Second CD per victim.<br>
   Rarely on proc, lose 7% hp and have 7% of your max health added to your damage.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>

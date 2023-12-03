@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 83075
+revid: 83117
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-Instruments, or Shanties, is a feature that was added on the December 1st update. Purchasing any instrument gives you the "Worn Songbook" item, which you can use to play songs together with your friends or alone. There are currently 4 instruments: The Accordion, Drum, Trumpet, and Violin. Playing along with others staves off hunger and thirst, grants you a blood regen buff, and slightly improves your passive HP regen, however you cannot move or draw your weapon. They can be purchased at [Etris](Etris.md) inside the Antiquarian's store, or at [Castle Light](Castle_Light.md) for [Notes](Notes.md) each.
+Instruments, or Shanties, is a feature that was added on the December 1st update. Purchasing any instrument gives you the "Worn Songbook" item, which you can use to play songs together with your friends or alone. There are currently 4 instruments: The Accordion, Drum, Trumpet, and Violin. Playing along with others staves off hunger and thirst, grants you a blood regen buff, and slightly improves your passive HP regen, however you cannot move or draw your weapon. They can be purchased at [Etris](Etris.md) inside the [Antiquarian](Antiquarian.md)'s store, at [Castle Light](Castle_Light.md) near the campfire or at [Miner's Landing](<Miner's_Landing.md>) under a staircase for each.
 
 Attempting to play a song near another player playing the same song will allow you to join them, syncing your instrument with theirs.
 

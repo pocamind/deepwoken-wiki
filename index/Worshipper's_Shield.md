@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 81176
+revid: 83113
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -11,7 +11,7 @@ categories: [Weapons, Shields]
 | Worshipper's Shield | |
 |---|---|
 | type | Shield |
-| requirements | 45 Fortitude |
+| requirements | 40 Fortitude |
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
 | selling price | 45 notes |
@@ -25,9 +25,9 @@ categories: [Weapons, Shields]
 
 ## Description
 
-The Worshipper's Shield can be obtained by buying it from Lance's Food in [Etris](Etris.md) or getting it from a [Songseeker](Songseeker_Wilds.md) chest and requires 45 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md) and [Kite Shield](Kite_Shield.md), but it is still lower than the [Khan Shield](Legion_Shield.md).  
+The Worshipper's Shield can be obtained by buying it from Lance's Food in [Etris](Etris.md) or getting it from a [Songseeker](Songseeker_Wilds.md) chest and requires 45 fortitude to wield. It boasts a higher posture buff than the [Targe](Targe.md) and [Kite Shield](Kite_Shield.md), but it is still lower than the [Khan Shield](Legion_Shield.md).
 
-## Notes
+## Trivia
 
--   Can be bought inside Lance's Food in [Etris](Etris.md) to Ploom's right
--   Can also be obtained from [Songseeker Wilds](Songseeker_Wilds.md) chests
+-   Can be bought inside Lance's Food in [Etris](Etris.md) to Ploom's right.
+-   Can also be obtained from [Songseeker Wilds](Songseeker_Wilds.md) chests.

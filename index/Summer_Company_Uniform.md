@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 72070
+revid: 83123
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits]
@@ -24,7 +24,7 @@ This Outfit requires [Power Level](Power.md) 5.
 
 This Outfit has 1500 durability and grants +10% Physical resistance, +5% Elemental resistance, +10% Slash resistance and +25% Shadow resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Armor Piercing_, which adds 25% penetration (used to be 50% before nerf) to all guns you use.
+This Outfit also grants the [Talent Card](Talents.md) _Armor Piercing_, which causes your bullets to ignore 20% of an opponent's physical armor.
 
 ## Location
 
@@ -36,5 +36,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Innate talent is very nice if you aren't looking to waste a Talent hand on Armor Piercing, but is mostly overshadowed by the October 17, 2022 update that adds 20% PEN to your guns if you have bullets in your inventory.
+-   Innate talent is very nice if you aren't looking to waste a Talent hand on Armor Piercing.
 -   The Summer Company Uniform is a clear reference to the [Crowfeather Garb](https://bloodborne.wiki.fextralife.com/Crowfeather+Garb) from Bloodborne, albeit without the black cloak.

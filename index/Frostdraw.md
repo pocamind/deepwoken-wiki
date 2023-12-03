@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 83036
+revid: 83121
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -296,7 +296,8 @@ _Send ice rippling out in a shockwave._
 
 -   Up to three Obelisks can be active at any time.
 -   Recasting this Mantra near an active Obelisk causes it to explode.
--   Creating an Obelisk on top of someone will stun them for ten seconds.
+-   Summons wherever your mouse is pointed, at a range.
+-   Creating an Obelisk on top of someone will stun them for ten seconds. (needs testing)
 
  |
 
