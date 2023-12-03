@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 82733
+revid: 83137
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -17,7 +17,8 @@ categories: [Weapons, Swords]
 | range | 8 |
 | swing speed | 0.77x |
 | endlag | ? |
-| penetration | ? |
+| penetration | 0% |
+| chip damage | 0% |
 | selling price | ? |
 | weight | 4 |
 | bankable | Yes |
@@ -34,5 +35,4 @@ The Champion's sword is a mid-game Sword obtained from [Starswept Valley](The_St
 ## Trivia
 
 -   The description contains a minor grammatical error. The full stop should be inside the apostrophes, rather than outside.
--   Not to be confused with [Hero Blades](Hero_Blades.md).
--   The inferior version of the [Forgotten Gladius](Forgotten_Gladius.md).
+-   Considered to be an exceptional weapon at high elo due to being able to save around 40-50 points in medium

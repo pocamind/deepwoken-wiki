@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 83099
+revid: 83138
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -113,7 +113,6 @@ File:Similar Last Names.png
 
 -   Vesperians have Ganymede eyes underneath the mask, as in the lore they came from the same ancestors who branched away from one another.
     -   Hallowtide Vesperians have the same purple eye color as Hallowtide Ganymede.
-    -   This also explains the similar last names. (Gany: Sekhige. Vesp: Sekhigi.)
 -   Arch\_Mage has also mentioned the masks are organic, meaning they grow over time.
 -   During the 4/1/2022 April Fools update (Mudwoken), Vesperian race name was changed to Maskskipper.
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it
@@ -123,3 +122,4 @@ A Vesperian with Blindseer
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
 -   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 13% physical damage.
 -   Vesperian and Lightborn are the first races to receive a cosmetic in the UGC Avatar Shop.
+-   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhige, Ganymede: Sekhigi, Chrysid: Sehika)

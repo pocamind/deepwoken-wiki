@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 82220
+revid: 83132
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -428,6 +428,16 @@ File:Attunement-less icon.png
 -   **Requirements: 50 Light Weapon, Combat Mantra**
     -   Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4)
     -   Can be somewhat used as a mobility mantra due to it's compatibility with rush and drift shards.
+
+ |
+| 
+
+File:Attunement-less icon.png
+
+ | Karita Leap (★★★) | Launch yourself into a flying kick, backflipping into the air if you hit a wall. | 
+
+-   **Requirements: 25 Light Weapon, Combat Mantra**
+    -   Hitting a wall causes you to backflip
 
  |
 

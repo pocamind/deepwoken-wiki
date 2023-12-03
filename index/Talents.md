@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83100
+revid: 83144
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2433,8 +2433,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 8
     -   Does not affect Natural Armor from Exoskeleton and Chitin
 
--   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
-    -   Prerequisite: 35 Fortitude, 30 Strength
+-   Berserker \[Common Talent. Fortitude\] - Knocking an enemy takes away 30% of you're health while making you do 100% more damage for 15 seconds. (+15 Carry Load)
+    -   Prerequisite: 75 Fortitude, 35 Charisma
 
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains

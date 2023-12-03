@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 83045
+revid: 83128
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1798,49 +1798,54 @@ Offhand tools/weapons, are tools/weapons that you wield in your offhand and in o
 
 **Shields:**
 
-Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Shield divide posture damage taken by their weight. Certain talents and mantras will also require having a shield.
+Shields are defensive tools that you wield in your offhand in order to gain more posture. Shields typically have a fortitude requirement, and do not have any scaling. Certain talents and mantras will also require having a shield.
 
 <table>
 <tbody>
 <tr>
   <td><b>Name</b></td>
   <td><b>Requirements</b></td>
-  <td><b>Weight</b></td>
+  <td><b>Posture</b></td>
 </tr>
 <tr>
   <td><a href="Targe.md">Targe</a></td>
   <td>10 FTD</td>
-  <td>1.5</td>
+  <td>4</td>
 </tr>
 <tr>
   <td><a href="Old_World_Greatshield.md">Old World Greatshield</a></td>
   <td>20 FTD</td>
-  <td>1.6</td>
+  <td>4.5</td>
 </tr>
 <tr>
   <td><a href="Kite_Shield.md">Kite Shield</a></td>
   <td>30 FTD</td>
-  <td>1.75</td>
+  <td>5</td>
 </tr>
 <tr>
   <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>
-  <td>45 FTD</td>
-  <td>1.85</td>
+  <td>40 FTD</td>
+  <td>6</td>
 </tr>
 <tr>
   <td><a href="Ethiron_Curseshield.md">Ethiron Curseshield</a></td>
   <td>50 FTD</td>
-  <td>1.9</td>
+  <td>7</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Gourdguard"><font>Gourdguard</font></a></td>
+  <td>50 FTD</td>
+  <td>7</td>
 </tr>
 <tr>
   <td><a href="Legion_Shield.md">Khan Shield</a></td>
   <td>60 FTD</td>
-  <td>2</td>
+  <td>8</td>
 </tr>
 <tr>
   <td><a href="The_Path's_Defender.md">The Path's Defender</a></td>
   <td>75 FTD</td>
-  <td>2.35</td>
+  <td>10</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 82821
+revid: 83140
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ _Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
 
 ## Description
 
-Duke Ishamon Erisia (commonly shortened to Duke Erisia or just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+Duke Erisia (commonly shortened to the Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
@@ -301,7 +301,7 @@ Duke: You're right. There's no reasoning with a monster like you. For Lumen's sa
 -   His first name remains unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
-    -   The [Stoneheart](Stoneheart.md)'s description refers to him as Ishamon.
+    -   ~The [Stoneheart](Stoneheart.md)'s description refers to him as Ishamon.~ The Duke is simply referred to as the Duke of Erisia in the weapon description.
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
