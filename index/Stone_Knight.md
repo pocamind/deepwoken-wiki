@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 82956
+revid: 83229
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -81,6 +81,11 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Star K
 -   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
 
  | ✗ | ◯\* | ◯ | (★★☆) |
+| 
+
+**Astral Rain (STAR KNIGHT EXCLUSIVE)**
+
+ | Rains down white flaming javelins from the sky, similarly to a Crimson Megalodaunt's Pyroclastic Roar/First Light's critical. | ✗ | ◯\* | ◯ | (★★☆) |
 
 \* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture
 
@@ -112,4 +117,5 @@ A Stone Knight executes the player:
 -   Terra Eruption and Kick can be blocked with enough posture.
 -   Desert Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
--   They seem to be some sort of robotic being just like Hive Constructs due to the way they speak. Some examples of their dialogues from a Star Knight is: ''OUTSIDE INTERFERENCE PROBABLE.'' ''DIRECTIVE: ELIMINATE THREAT. RETURN ARTIFACT TO CONTAINMENT.''
+-   They seem to be some sort of robotic being just like Hive Constructs due to the way they speak. Some examples of their dialogues from a Star Knight is: ''OUTSIDE INTERFERENCE PROBABLE.'' ''DIRECTIVE: ELIMINATE THREAT. RETURN ARTIFACT TO CONTAINMENT.'' and "DIRECTIVE; ELIMINATE THREAT, RESTABLISH COMMUNICATIONS. RECIEVE FURTHER INSTRUCTIONS."
+-   Star Knights might be of Celestial origin, specifically, from the Celestial city: Constellia. Given how they are the only variant capable of speech, seem to have a mission and come from the sky.
