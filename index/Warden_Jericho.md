@@ -1,20 +1,12 @@
 ---
 title: Warden Jericho
-revid: 83208
+revid: 83234
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, NPCs, Lore]
+categories: [NPCs, Lore]
 ---
 
 # Warden Jericho
-
-| Warden Jericho | |
-|---|---|
-| weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
 
 ## Description
 
@@ -23,21 +15,3 @@ Warden Jericho is a high ranking official in the Central Authority's military, h
 Much like the rest of him, his personality is still a mystery. Unlike most members of The Authority, he appears to actually pity the [Etreans](Etrea.md), knowing that it's [their leader](The_Lord_Regent.md) who is dragging them into this 'war they cannot understand' and sees [Lord Regent](The_Lord_Regent.md) as a 'thing' rather than a person. He also appears to value [physical strength](Attributes.md), writing in his journal 'you no need book, you have strong muscles.'
 
 At one point he was positioned in [The Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), but left it and a journal behind after the Etrean navy became wise to its position. The journal itself seems to have been left with the intention of it being found, addressing the reader directly.
-
-  
-_**"Those who stood before him froze in shock, in complete horror it was like they had seen a ghost."**_
-
-_**"He murmured under his breath:"**_
-
-_**"Thou shall never prosper against me..."**_
-
-_**"Domain Expansion:..."**_
-
-_**"Abyussus Vacuum Foramen Iunctura: Expell!"**_
-
-_**"They all perished, reduced to electrons, and they were erased with no trace left behind them."**_
-
-_**"Sigh."**_
-
-  
-\-**King of All Belch**

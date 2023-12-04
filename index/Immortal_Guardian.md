@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 83232
+revid: 83235
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -70,7 +70,6 @@ An Immortal Guardian executes the player after knocking them.
 -   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
 -   They speak in all capital letters, much like the [Golem Constructs](Hive_Construct.md).
     -   The only exception to this is when they say "Thanks," which is in lowercase.
-    -   They will tell you off for hitting them in lowercase letters, like other town guards.
 -   According to TheRealPunchee, the armor that Immortal Guardians wear was actually the original design of the Arc Suit for the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md), created before the sketches for the current Arc Suit were even a thing.
-    -   The "Crypt Arcwawrder" as it's called in the video was ultimately scrapped due to not fitting the current artstyle of Deepwoken
--   Mute/Animal King happens to work on them. Use it to you advantage.
+    -   The "Crypt Arcwarder" as it's called in the video was ultimately scrapped due to not fitting the current artstyle of Deepwoken.
+-   [Mute](Regalia.md)/Animal King works on them. Use it to your advantage.
