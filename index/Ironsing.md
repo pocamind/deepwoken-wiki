@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 83141
+revid: 83172
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -57,7 +57,7 @@ Deals high posture. Heavily reminiscent to the legacy Frostdraw mantra, Ice Erup
 
 Modifiable with a Blast Spark to increase amount of needles fired but removing the jump. This variant keeps momentum.
 
-Applies Shit Rods on hit.
+Applies Metal Rods on hit.
 
  |
 |  | 

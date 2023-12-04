@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83153
+revid: 83192
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1849,12 +1849,9 @@ _**"I enjoy sea food."**_
 
 > _**"The song shall be silenced."**_
 
--   Silencer's Edge \[Galebreathe Exclusive, Common Talent\] Meleeing a 'Suffocated' opponent will grant you a speed boost. (+1 Elemental Intensity)
-    -   Prerequisite: 60 Galebreathe
-
--   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. (+1 Elemental Intensity)
+-   _Silencer's Blade_ \[Galebreathe Exclusive, Rare Talent\] Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation and grant a speed boost. (+1 Elemental Intensity)
     -   Landing M1 attacks on suffocated targets apply a new stack of suffocation.
-    -   Prerequisites: 60 Galebreath, [Power](Power.md) 10, Silencer's Edge
+    -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
@@ -2433,8 +2430,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 8
     -   Does not affect Natural Armor from Exoskeleton and Chitin
 
--   Berserker \[Common Talent. Fortitude\] - Knocking an enemy takes away 30% of you're health while making you do 100% more damage for 15 seconds. (+15 Carry Load)
-    -   Prerequisite: 75 Fortitude, 35 Charisma
+-   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
+    -   Prerequisite: 35 Fortitude, 30 Strength
 
 -   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains

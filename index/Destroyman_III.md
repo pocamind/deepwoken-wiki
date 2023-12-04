@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 83146
+revid: 83185
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -123,6 +123,12 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   I don't feel so good..
 -   Uh oh...
 -   I regret to announce this is the end! I am going now.
+-   Don't forget me.
+-   I'll be back.
+-   You're so cringe for this.
+-   You can see that light in the sky, too, right? Right?
+-   Journey before destination.
+-   The Depths will not hold me. Just watch.
 
 ## Death Quotes
 
@@ -183,7 +189,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion or will be unable to pay his taxes and is currently on the run from the Megalodaunt IRS.
 -   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to Outer Wilds.
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
--   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([https://youtu.be/nVm0QQtR2w](https://youtu.be/nVm0QQ-tR2w))
+-   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([\[1\]](https://youtu.be/nVm0QQ-tR2w))
 -   The sound played when Destroyman III first appears comes straight from _No More Heroes_.
 -   The tooltip: "Moe..." is a reference to [Travis Touchdown saying the same line in his morning routine](https://www.youtube.com/watch?v=TQ3lh97fDVY) in _No More Heroes_.
 -   We LOVE Destroyman III.
@@ -196,5 +202,6 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
 -   Deepwoken partnered with Makeship in order to craft for Destroyman a vessel in the form of the [Sharko Plush](https://www.makeship.com/products/sharko-plush).
-    -   The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repurcussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.
+    -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repurcussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ False information, Destroyman III can solo every Drowned God at once.
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
+-   The removal line "The Depths will not hold me. Just watch." _might_ be Destroyman III parodying a similar line from [Duke Erisia](Duke_Ishamon_Erisia.md) during the player's rematch with him.
