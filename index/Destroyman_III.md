@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 83185
+revid: 83194
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -202,6 +202,5 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
 -   Deepwoken partnered with Makeship in order to craft for Destroyman a vessel in the form of the [Sharko Plush](https://www.makeship.com/products/sharko-plush).
-    -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repurcussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ False information, Destroyman III can solo every Drowned God at once.
+    -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repurcussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ False information, I, Destroyman III, can solo every Drowned God at once.
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
--   The removal line "The Depths will not hold me. Just watch." _might_ be Destroyman III parodying a similar line from [Duke Erisia](Duke_Ishamon_Erisia.md) during the player's rematch with him.

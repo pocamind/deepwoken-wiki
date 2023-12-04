@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 79392
+revid: 83204
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -104,7 +104,8 @@ Zana acts as an encounter in the places you're suppose to challenge him; so it'l
 
 ## Trivia
 
--   He is a reference to the “metamancer,” playertype, specifically those from near release. He uses a shattered katana and Royal Pathfinder and hints at being a Flamecharmer (probably Azure flames), not to mention the fact you fight him at all the ganking spots. Even the race he is pokes fun at how common these breeds of players are as Vesperians. All that's missing is Blindseer.
+-   He can drop Frigid Prisms, even though he isn't meant to be killed.
+-   He is a reference to the “metamancer,” playertype, specifically those from near release. He uses a Shattered Katana and Royal Pathfinder and hints at being a Flamecharmer (probably Azure flames), not to mention the fact you fight him at all the ganking spots. Even the Race he is pokes fun at how common these breeds of players are as Vesperians. All that's missing is Blindseer.
 -   He has 500 HP and deals 20 damage per hit (more on criticals) in all locations, Recommend Power: (It doesn't necessarily matter what power you are, if you are able to handle the Isle of Vigils Temple Guards, that closely resembles Zana, but with stronger hits and tanky health)
 -   A decent cheese method I doubt anyone will need given how easy he is. Requires Strong Left. You literally just circle until Strong Left is off cooldown and do it again. Repeat 3-4 times and he's dead.
 -   When encountered in one of the ganking spots, his mask will switch into a random vesperian mask and his Royal Pathfinder coat will be removed.

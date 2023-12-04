@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 82943
+revid: 83195
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -26,7 +26,7 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defence. If you Reinforce others, gain 10% damage and defence increase. Signified by pale yellow particles sorrounding the body.
+Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow particles sorrounding the body.
 
 ### Blood Shadow
 

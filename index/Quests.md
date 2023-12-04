@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 83152
+revid: 83209
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -112,7 +112,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Guide**: Give Ploom at the food shop in Etris 3 dying embers.
 
-**Reward/s**: Pleeksty's Will
+**Reward/s**: Pleeksty's Will, Curiosity
 
 **Armor Piercing:**
 
