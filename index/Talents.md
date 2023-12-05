@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83192
+revid: 83263
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1706,21 +1706,16 @@ _**"I enjoy sea food."**_
 
 -   _Family Recipe \[Unlockable Talent\] - You can now craft bombs at a crafting bench. (+2 Elemental Intensity)_
 
--   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force.
+-   Incendiary Formula \[Common Talent\] - Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal increased damage to burning enemies
     -   Prerequisite: Family Recipe
 
--   And They'll Be Dust \[Common Talent\] - Bombs will deal increased damage to burning enemies
-    -   Prerequisite: Incendiary Formula
-
 -   Explosive Efficiency \[Common Talent\] - Crafting a bomb will yield two bombs. Chance to make three.
-    -   Prerequisite: Incendiary Formula
--   Explosive Jester \[Common Talent\] - Your bombs have a chance to detonate twice. (+2 Elemental Intensity)
     -   Prerequisite: Incendiary Formula
 
 -   Sulphur Surprise \[Common Talent\] - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
     -   Prerequisite: Incendiary Formula
 
--   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. (+2 Elemental Intensity, +6 Passive Agility)
+-   Hot Potato \[Common Talent\] - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+2 Elemental Intensity, +6 Passive Agility)
     -   Prerequisite: Family Recipe
 
 -   Pocket Bombs \[Common Talent\] - You have a chance to activate a bomb in your inventory when damaged. (+5 Health, +1 Elemental Intensity)

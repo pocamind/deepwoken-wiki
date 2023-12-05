@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 81426
+revid: 83262
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -99,9 +99,10 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 -   Beatra was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" means "Spark" in German.
 -   Nostor wears a ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
--   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers, excludes Regek, Adar, and Beatra.
+-   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers, excludes Regek and Beatra.
     -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).
     -   Flamecharm trainer Amashi wields the [Hero Blade of Flame](Hero_Blades.md).
     -   Thundercall trainer Funke wields the [Stormseye](Stormseye.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).
+    -   Ironsinger trainer Adar wields the [Darksteel Greatsword](Darksteel_Greatsword.md)
