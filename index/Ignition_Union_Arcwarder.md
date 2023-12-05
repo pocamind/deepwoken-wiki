@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 82095
+revid: 83268
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -25,7 +25,7 @@ An Arcwarder's arsenal consists of a [Railblade](Railblade.md), along with the [
 | Assault | Firmly swings sword at opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Ground Critical | Enters a stance before rushing forward, unleashing a fiery whirlwind on enemy contact. | ◯ | ✗ | (★★☆) |
 | Aerial Critical | While in the air, performs a fiery downwards sweep, applying Knockdown and Burn. | ◯ | ✗ | (★★☆) |
-| Arcwave | Performs a quick stomp on the ground that releases a wave of energy around the user, dealing both fire and lightning damage. | ◯ | ◯ | (★★★) |
+| Arc Wave | Performs a quick stomp on the ground that releases a wave of energy around the user, dealing both fire and lightning damage. | ◯ | ◯ | (★★★) |
 | Arc Beam | Shoots out a laser from the user's eyes that explode after a second, dealing both fire and lightning damage. | ◯ | ◯ | (★★☆) |
 
 ## Talents
@@ -35,15 +35,13 @@ An Arcwarder's arsenal consists of a [Railblade](Railblade.md), along with the [
 -   Destructive Recovery - Causes your enemies to regenerate significantly less posture when they parry you.
 -   **Arc Module: Eject**
     -   **When blockbroken with Arc Suit active, eject from the armor.**
-    -   **Immediately end Arc Suit but prevent the guardbreak and reset your posture.**
-
+    -   **Immediately end Arc Suit, but prevent the guardbreak and reset your posture to 50%.**
 -   **Arc Module: Guard - Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind.**
 -   **Arc Module: Null - When Arc Suit is active, outgoing and incoming enchant effects are nullified.**
 
 ## Trivia
 
 -   Their Arc Suit eventually deactivates, which reveals them wearing the [Igniton Union Uniform](Ignition_Union_Uniform.md).
--   They can sometimes spawn with a black dyed suit.
 -   For some really bizarre reason, they can wield **enchanted** [Railblades](Railblade.md). There is something very wrong with that.[\[1\]](#cite-note-1)
 
 ## References

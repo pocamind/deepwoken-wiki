@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 81556
+revid: 83270
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -55,6 +55,10 @@ Castle Light is a safe area within the [First Layer](First_Layer.md) belonging t
 -   Cloth
 -   Fiber
 -   Boulder (located next to the tree near the door)
+-   Accordion
+-   Violin
+-   Drums
+-   Trumpet
 
 ## Notes
 

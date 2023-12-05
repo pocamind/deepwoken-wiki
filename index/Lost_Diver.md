@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 79123
+revid: 83272
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -51,9 +51,12 @@ A Lost Diver executes it's opponent after knocking them:
 
 ## Trivia
 
--   The Lost Divers will continuously chant the following phrases in no particular order before being disturbed by the player.
+-   The Lost Divers will continuously chant the following phrases when they are not aggroed.
     -   From softer skies...
-    -   Our lord Ethiron...
     -   To fearsome gales...
+    -   Our lord Ethiron...
     -   Will wake to this world...
+-   When they are alerted to the player's position, they will say these lines before attacking:
+    -   Help us.
+    -   Help us. Please.
 -   They only use [Galebreathe](Galebreathe.md), fitting as they are trapped in the Layer 2, The Eternal Gale.

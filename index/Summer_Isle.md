@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 81703
+revid: 83271
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -88,7 +88,7 @@ File:Red Crate.png
 
 Within the tower on the left side of the castle's entrance stairs, Scope needs to recover crates filled with explosives that have been stolen by the bandits/Ignition Union, and what other better way to retrieve the crates is there than just sending you to do it.
 
-These boxes of explosives can be found all across the Summer Isle, usually being tended to by Summer Company guards post offscreen battle. Returning to Scope with one of these boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
+These boxes of explosives can be found all across Isle, usually being tended to by Summer Company guards post offscreen battle. Returning to Scope with one of these boxes in hand, will net you a chest that will have loot from the item table below, and a small amount of positive reputation with the Summer Company.
 
 -   Scope could be a pun based on sniper rifles and other guns that have a "scope".
 

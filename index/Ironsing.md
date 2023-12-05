@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 83172
+revid: 83269
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -662,11 +662,11 @@ Reshape and Remold
 
  | 
 
-Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +10% damage.
+Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +5% damage.
 
  | 
 
-When sucessfully proccing Scrapsigner, your opponent takes increased armor damage until it reaches a cap of _???_. When reaching the cap, your opponent takes +10% damage for _???_ seconds.
+When sucessfully proccing Scrapsigner, your opponent takes increased armor damage until it reaches a cap of _???_. When reaching the cap, your opponent takes +5% damage for _???_ seconds.
 
  |
 
