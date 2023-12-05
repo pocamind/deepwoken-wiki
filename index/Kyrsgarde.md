@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 82535
+revid: 83267
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -145,7 +145,7 @@ These aren't your typical stupid brute guys, they are an oddity when it comes to
 | 
 Clenching Assault
 
- | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. | ✗ | ✗ | ◯ |
+ | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. If you are hit by this, the Kyrsan Brute will grab you and drill its arm into you for a few seconds, dealing rapid damage, before throwing you away. | ✗ | ✗ | ◯ |
 | 
 
 Slam

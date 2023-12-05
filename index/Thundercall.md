@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 83180
+revid: 83266
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -55,11 +55,25 @@ Lightning Blade
 
  | Damage:
 
-Cooldown: 10 Seconds
+Cooldown:
+
+10 Seconds
 
 Properties:
 
+N/A
+
 Modifiers:
+
+Cloud Stone
+
+Stratus Stone
+
+Aeon Logstone
+
+Eternal Logstone
+
+Magnet Spark
 
  |
 |  | 
@@ -70,14 +84,25 @@ Jolt Grab
  | An electrified chokehold. | 60 Ether | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands. Applies knockdown frames. 12 Second cooldown.
 
 -   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range. Does not apply knockdown frames.
+-   Crystal and Perfect Lenses do not increase the range if you have a [Magnet Spark](Mantra_Modifiers.md) on it.
 
  | Damage:
 
-Cooldown: 10 Seconds
+Cooldown:
+
+10 Seconds
 
 Properties:
 
+N/A
+
 Modifiers:
+
+Crystal Lens
+
+Perfect Lens
+
+Magnet Spark
 
  |
 |  | 
@@ -91,16 +116,27 @@ Creates a yellow orb in front of the user.
 
 -   Shocks opponents inside of it while dealing damage.
 -   Moves with the user
+-   Putting on Cloudstones and/or Stratus Stones will decrease the damage but will provide a bigger AoE.
 
  | Damage:
 
-Cooldown: 10 Seconds
+Cooldown:
+
+10 Seconds
 
 Properties:
 
+N/A
+
 Modifiers:
 
-Blast Spark Magnet Spark
+Cloudstone
+
+Stratus Stone
+
+Blast Spark
+
+Magnet Spark
 
  |
 |  | 
@@ -115,11 +151,13 @@ Lightning Beam
 
  | Damage:
 
-Cooldown: 10 Seconds
+Cooldown:
+
+10 Seconds
 
 Properties:
 
-Modifiers:
+Modifiers: N/A
 
  |
 |  | 
@@ -136,11 +174,17 @@ Lightning Impact
 
  | Damage:
 
-Cooldown: 12 Seconds
+Cooldown:
 
-Properties: Knockup
+12 Seconds
+
+Properties:
+
+Knockup
 
 Modifiers:
+
+N/A
 
  |
 |  | 
@@ -158,13 +202,23 @@ Lightning Clones
 
  | Damage:
 
-Cooldown: 15 Seconds
+Cooldown:
+
+15 Seconds
 
 Properties:
+
+N/A
 
 Modifiers:
 
 Aeon Logstone
+
+Eternal Logstone
+
+Multiplying Spark
+
+Blast Spark
 
  |
 |  | 
@@ -175,17 +229,29 @@ Lightning Strike
  | A strike of thunder at your desired location. | 50 Ether | Caster waves their arm, summoning bolts of lightning.
 
 -   Lightning strikes where the user's cursor is pointing.
--   Deals _possibly light_ damage.
+-   Deals moderate damage.
 -   Can strike a total of 1-7 times, but can be cancelled by user damage.
 -   Spell can hit you, causing the spell to cancel itself midway.
 
  | Damage:
 
-Cooldown: 10 Seconds
+Cooldown:
+
+10 Seconds
 
 Properties:
 
+Knockdown
+
 Modifiers:
+
+Cloudstone
+
+Stratus Stone
+
+Aeon Logstone
+
+Eternal Logstone
 
  |
 |  | 
@@ -204,7 +270,11 @@ Cooldown: 8 Seconds
 
 Properties:
 
+Insta Guardbreak
+
 Modifiers:
+
+N/A
 
  |
 |  | 
@@ -224,7 +294,15 @@ Cooldown: 12 Seconds
 
 Properties:
 
-Modifiers: Tornado Spark
+N/A
+
+Modifiers:
+
+Cloudstone
+
+Stratus Stone
+
+Tornado Spark
 
  |
 |  | 
@@ -248,7 +326,11 @@ Cooldown:
 
 Properties:
 
-Modifiers: Multiplying Spark
+Daze if hit against a wall
+
+Modifiers:
+
+Multiplying Spark
 
  |
 |  | 
@@ -268,7 +350,11 @@ Cooldown:
 
 Properties:
 
+N/A
+
 Modifiers:
+
+N/A
 
  |
 |  | 
@@ -293,7 +379,11 @@ Cooldown:
 
 Properties:
 
+N/A
+
 Modifiers:
+
+N/A
 
  |
 
@@ -312,11 +402,21 @@ Lightning Stream
 
  | Damage:
 
-Cooldown: 15 Seconds
+Cooldown:
+
+15 Seconds
 
 Properties:
 
+N/A
+
 Modifiers:
+
+Crystal Lens
+
+Perfect Lens
+
+Blast Spark
 
  |
 | File:ThunderWisp.png | 
@@ -339,9 +439,13 @@ Cooldown: Unknown
 
 Properties:
 
+N/A
+
 Modifiers:
 
-Eternal/Aeon logstones
+Eternal Logstones
+
+Aeon Logstones
 
  |
 |  | 
@@ -362,13 +466,21 @@ Spark Swap
 -   Very good for escaping situations, as shown in this video [https://www.youtube.com/watch?v=ohcVRP5oz5w](https://www.youtube.com/watch?v=ohcVRP5oz5w)
 -   Range scales with health
 
- | Damage: N/A
+ | Damage:
+
+N/A
 
 Cooldown:
 
 Properties:
 
+N/A
+
 Modifiers:
+
+Cloud Stones
+
+Stratus Stones
 
  |
 
@@ -388,11 +500,19 @@ Lightning Assault
 
  | Damage:
 
-Cooldown: 10 Seconds
+Cooldown:
+
+10 Seconds
 
 Properties:
 
+N/A
+
 Modifiers:
+
+Cloudstones
+
+Stratus Stones
 
  |
 | 
@@ -408,13 +528,17 @@ Lightning Cloak
 -   A combative action, such as blocking parrying or attacking, must be used within 8 seconds or the mantra is deactivated and goes on cooldown.
 -   Cannot last longer than 60 seconds.
 
- | Duration: 3.5-60 secs
+ | Duration: 6.5-60 secs
 
 Cooldown:
 
 Properties:
 
+N/A
+
 Modifiers:
+
+N/A
 
  |
 
