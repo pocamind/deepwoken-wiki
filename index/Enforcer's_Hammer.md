@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 82742
+revid: 83242
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -39,7 +39,7 @@ The Enforcer's Hammer is a [Greathammer](Weapons.md) that can be dropped from th
 ## Notes & Trivia
 
 -   Rare drop from the [Enforcer](Enforcer.md).
--   Boasts the highest posture damage out of every weapon so far.
+-   Boasts the highest posture damage alongside the Stoneheart, both of which have 12 weight.
 -   It has the critical attack of an [Enforcer's Axe](<Enforcer's_Axe.md>), which also guarantee a guard break.
     -   With the addition of [Murmur: Ardour](Murmur.md), Heavy Hitter and if you want to compensate- a Heavy Hands Ring, M1 attacks can do an ungodly amount of posture damage, able to posture break almost all humanoid enemies upon block (Potentially even being able to instantly posture break the [Duke](Duke_Ishamon_Erisia.md) with just Heavy Hitter.)\*
     -   Despite stacking all ways to deal more posture damage, the devs implemented a posture damage cap. Meaning that once you reached the cap, you can't deal more posture damage, but still the cap can deal at least half posture bar for [Path's Defender](<The_Path's_Defender.md>) users, so it is possible to one shot the posture of people with no shields.

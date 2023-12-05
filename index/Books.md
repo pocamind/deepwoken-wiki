@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 83159
+revid: 83244
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -1603,3 +1603,4 @@ I weep for them still, my tears bitter as salt...
     -   Douglas Douglas Vondren is a reference to YouTuber and streamer DougDoug.
     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md).
     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
+    -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
