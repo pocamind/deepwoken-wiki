@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 75411
+revid: 83292
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -66,6 +66,7 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 -   +2 Charisma
 -   Increased health for owned ships
 -   Cheaper ship prices at the shipwright
+-   Increased bell progression. (Tested on over 6 times on 3 different accounts, ~3 dukes for bell at power 20.)
     
 
 **Surnames:**

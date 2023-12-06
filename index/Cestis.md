@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 77900
+revid: 83291
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -108,6 +108,23 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md) presumably wo
 </tbody>
 </table>
 
+**Completed 5 Bounties:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Oooo scary.. I felt your malicious presence far before you walked over... Do you not know how to use <font>Tacet</font> or do you purposefully let your prey feel the eyes on their back?</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
 -   For those trying to get [Tacet](Murmur.md), Doing bounties from territories like [Etris](Etris.md), [Summer Isle](Summer_Isle.md), or even [Fort Merit](Fort_Merit.md) will count towards your required number of assassinations in order to obtain Tacet from Cestis.
+    -   Furthermore, if you already have 5 bounties completed you will still be able to obtain Tacet with positive Etrean Reputation. After teaching you he will revert to his Good Etrean Reputation Dialogue.
