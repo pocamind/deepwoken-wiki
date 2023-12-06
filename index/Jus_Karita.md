@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 83028
+revid: 83278
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -31,7 +31,7 @@ categories: [Weapons, Fists]
 
 ## Description
 
-Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. Despite all this, Jus Karita is rather unpopular due to its inability to use cestus weapons and giving it worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique talents](Talents.md#justicar), slightly more range, and synergizes with the mantra Tacet Drop Kick. Plus, the [Justicar](<Justicar_(Origin).md>) armor talent gives it a 20% damage boost, a tiny bit better than the other fist-style armor talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs. Additionally, using it will save you from having to obtain a weapon, and there are some who swear on this fighting style for how fun it may be.
+Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique talents](Talents.md#justicar), slightly more range, and synergizes with the mantra Tacet Drop Kick. Plus, the [Justicar](<Justicar_(Origin).md>) armor talent gives it a 20% damage boost, a tiny bit better than the other fist-style armor talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs. Additionally, using it will save you from having to obtain a weapon, and there are some who swear on this fighting style for how fun it may be.
 
 ### Critical
 
@@ -43,6 +43,5 @@ To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Li
 
 ## Notes & Trivia
 
--   **Jus Karita** cannot equip any cestus, including [Light's Final Toll](<Light's_Final_Toll.md>).
--   If you have two fist styles and try to equip a cestus on **Jus Karita**, the game will forcibly switch you to the [Way of Navae](Way_of_Navae.md) fist style.
+-   **Jus Karita** cannot equip [Light's Final Toll](<Light's_Final_Toll.md>).
 -   Jus Karita is now able to use a weapon [Anklets of Alsin](Anklets_of_Alsin.md) which is only for Jus Karita.

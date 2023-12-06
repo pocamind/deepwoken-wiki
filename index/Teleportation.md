@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 82009
+revid: 83277
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -60,3 +60,4 @@ When obtained, Teleportation will spend its points on the following stats:
     
 -   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be instakilled if they were not in the Duke quest.
     -   Prior to the Verse 2 update splitting Luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.
+-   It _may_ be possible to escape the [Fragments of Self](Fragments_of_Self.md) if you have multiple teleport tags placed in the Depths and a quick reaction time for logging out of the server to prevent being TP'ed back to Fragments.
