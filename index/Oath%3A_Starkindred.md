@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 83062
+revid: 83286
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,7 +25,7 @@ categories: [Oaths]
 
 1.  Have 40 Strength and grip any player. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
 2.  Talk to Samael, located in the [Derelict Highchurch](Derelict_Highchurch.md) above the Voidzone in Ancient Rotlands.
-    1.  Walk up to the stairs to the [SongSeeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
+    1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
 3.  Kill [Iblis, The Fallen Ange**l**](Iblis,_The_Fallen_Angel.md)**,** located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
     1.  If you lack the Union Hook, careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it.
@@ -84,7 +84,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 -   This oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.
--   Stratus Stones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
+-   Stratus Stones and Cloudstones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
 -   Wing Variant Fire Blade is probably a reference to "Mugetsu" in Bleach.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
 -   Dyeing your hair as a Starkindred will also dye your wings to the same color.

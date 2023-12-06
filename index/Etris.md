@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 81615
+revid: 83279
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -77,6 +77,7 @@ Weaponry
         -   [Messer](Messer.md) (requires 10 MED) for.
         -   [Mace](Mace.md) (requires 10 MED) for.
         -   [Ritual Spear](Ritual_Spear.md) (requires 35 MED) for.
+        -   Sword
     -   Heavy Weapon users can purchase:
         -   [Battleaxe](Battleaxe.md) for.
         -   [Steel Maul](Steel_Maul.md) (requires 20 HVY, 10 STR) for.
