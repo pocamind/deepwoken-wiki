@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 82687
+revid: 83304
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -134,6 +134,22 @@ Spookeree's spec has been extremely rarely documented, but has been seen to be a
 Also, more notably, Spookeree permanently has the distinct **Coral Fever** face from the 2023 April Fools update, thus having a slot named "[**Destroyman III**](Destroyman_III.md)". All of his slots have this.
 
 Furthermore, it appears that he has a spec that allows him to "spawn in" [Bandits](Bandit.md) at will, even in the Eastern Luminant, where [Bandits](Bandit_Leader.md) do not naturally spawn. Bandits spawned act as normal NPC's, and can grip, be gripped, and give EXP on death.
+
+  
+
+### CEOofIsaac / Isaac3523 (Destroyman IV)
+
+The spec doesnt have any functional uses as its meant to be a gift from Synce to Isaac
+
+  
+
+  
+
+  
+
+  
+
+Like Synce, Isaac also has the coral fever face from april 2023
 
 ## Exclusive Items
 

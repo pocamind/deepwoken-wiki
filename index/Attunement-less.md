@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 83293
+revid: 83308
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -58,7 +58,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <ul>
     <li>A powerful left jab that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
     <li>Strong Left scales with your Strength attribute.</li>
-    <li>Can fell trees With <a href="Talents.md">Treefelling Blow</a> talent, they can gain wood from fallen trees.</li>
+    <li>Can fell trees. With <a href="Talents.md">Treefelling Blow</a> talent, you can gain wood from fallen trees.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -77,7 +77,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Rapid Punches scales with your Strength attribute.</li>
     <li>Victims struck by the last punch are pushed away.</li>
     <li>NPCs using Rapid Punches does not give the auto parry frames from the mantra being used by a player.</li>
-    <li>can be upgraded with crystal lenses and aeon logstones</li>
+    <li>Can be upgraded with Crystal Lenses.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -110,7 +110,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
     <li>Inflicts knockdown.</li>
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>
-    <li>Pairs well with Glare.</li>
+    <li>In game it is still labeled as a light weapon mantra.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -209,7 +209,7 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
     -   Scales with the user's Power Level and Agility Attribute.
     -   With the [Pursuit](Talents.md) talent, Revenge can be used twice in a row if the first use hits.
     -   **THIS MOVE NOW APPLIES HITSTUN, WAYWARD DOESNT PROC**
-    -   can be upgrade with cloudstones and drift shards
+    -   Can be upgraded with Stones and Shards.
 
  |
 | 
@@ -290,62 +290,57 @@ File:Attunement-less icon.png
 
 Willpower mantras are mainly based on enhancing the user's sanity, and dishing insanity and damage to others. To train it, use your prayer beads and meditate, witness the death of others or players/NPCs, or lose your own sanity through various means.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th><b>Media</b></th>
-  <th><b>Name</b></th>
-  <th><b>Card Description</b></th>
-  <th><b>Effect &amp; info</b></th>
-</tr>
-<tr>
-  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
-  <td>Gaze<p>(☆☆☆)</p></td>
-  <td><i>Gaze into your opponent's souls.</i></td>
-  <td>
-  <ul>
-    <li><big>Requirements: 30 Willpower Support Mantra</big>
-  <ul>
-    <li><big>User constantly summons invisible projectiles, inflicting a considerable amount of 'insanity' on an opponent upon collision. The "insanity" inflicted by this move does not count towards the target's actual insanity, so does not contribute to any Insanity based talents a target has.</big>
-  <ul>
-    <li><big>Despite this, it can still cause users of <a href="Enchantments.md">Curse of the No Life King</a> to be instantly killed.</big></li>
-  </ul></li>
-    <li><big>Creates rotating white rings around the user's eyes.</big></li>
-    <li><big>Upgrading this Mantra extends the duration.</big></li>
-    <li><big>Can be countered by holding block or wearing a <a href="Blindfold.md">Blindfold</a>(does not work with blindseer oath)</big></li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
-  <td>Glare<p>(☆☆☆)</p></td>
-  <td><i>Opponents facing you are briefly rendered immobile.</i></td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>5 Willpower, 25 Charisma,</b> Support Mantra</i>
-  <ul>
-    <li>User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it.</li>
-    <li>May still combat tag opponents who are not facing you.</li>
-    <li>This move causes humanoid NPCs to block less.</li>
-  </ul></li>
-  </ul></td>
-</tr>
-<tr>
-  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
-  <td>Exhaustion Strike<p>(☆☆☆)</p></td>
-  <td><i>A melee strike that removes your posture's damage on hit.</i></td>
-  <td>
-  <ul>
-    <li><b><u>Requirements:</u></b> <i><b>40 Willpower,</b></i> <i>Combat Mantra</i>
-  <ul>
-    <li>The user empties their posture damage, and transfers it to their opponent.</li>
-    <li>Exhaustion Strikes scales with your Willpower attribute.</li>
-    <li>Incredibly quick windup</li>
-  </ul></li>
-  </ul></td>
-</tr>
-</tbody>
-</table>
+| **Media** | **Name** | **Card Description** | **Effect & info** |
+| --- | --- | --- | --- |
+| 
+File:Attunement-less icon.png
+
+ | Gaze
+
+(☆☆☆)
+
+ | _Gaze into your opponent's souls._ | 
+
+-   **Requirements:** _**30 Willpower**_ _Support Mantra_
+    -   User constantly summons invisible projectiles, inflicting a considerable amount of 'insanity' on an opponent upon collision. The "insanity" inflicted by this move does not count towards the target's actual insanity, so does not contribute to any Insanity based talents a target has.
+        -   Despite this, it can still cause users of [Curse of the No Life King](Enchantments.md) to be instantly killed.
+    -   Creates rotating white rings around the user's eyes.
+    -   Upgrading this Mantra extends the duration.
+    -   Can be countered by holding block or wearing a [Blindfold](Blindfold.md).
+
+ |
+| 
+
+File:Attunement-less icon.png
+
+ | Glare
+
+(☆☆☆)
+
+ | _Opponents facing you are briefly rendered immobile._ | 
+
+-   **Requirements:** _**5 Willpower, 25 Charisma,** Support Mantra_
+    -   User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it.
+    -   May still combat tag opponents who are not facing you.
+    -   This move causes humanoid NPCs to block less.
+
+ |
+| 
+
+File:Attunement-less icon.png
+
+ | Exhaustion Strike
+
+(☆☆☆)
+
+ | _A melee strike that removes your posture's damage on hit._ | 
+
+-   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
+    -   The user empties their posture damage, and transfers it to their opponent.
+    -   Exhaustion Strikes scales with your Willpower attribute.
+    -   Incredibly quick windup
+
+ |
 
 ### _**Charisma Mantras**_
 

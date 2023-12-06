@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 83190
+revid: 83297
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -123,6 +123,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 
 ## **Trivia**
 
+-   The general format and delivery of the lines that your character speaks is a possible reference to the _Animal Crossing_ series.
 -   Some spots won't let you fish.
 -   There is no height limit, you can fish from the top of cliff faces.
 -   Some locations are better for fishing than others.
