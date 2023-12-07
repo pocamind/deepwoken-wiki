@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 82990
+revid: 83329
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -312,13 +312,13 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 ### **The Dreadstar**
 
--   Located behind Minityrsa with in the lost ship in the Voidsea.
+-   Located in the [Beloved Zofia](Beloved_Zofia.md).
 -   Its appearance is similar to the shrine of Yun'Shul, only the eye colors are inverted, but there is no indication of it being related to the Drowned God.
 -   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the song.
--   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, possibly making it to cut all connections with the song.
--   Despite cutting all relations with the song, a silentheart is still able to obtain both a murmur and resonance; applications of the song which in a small way of breaks the Oath, but this is just a small contradiction in the game.
+-   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making The Song in you suppressed.
+-   Despite cutting all relations with the song, a silentheart is still able to obtain both a murmur and resonance due to the fact that it doesnt completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against the song and to the five attunement trainers (not counting the Attunement-less trainer or the Ironsinger trainer)
+-   Has a deep hatred against the song and to the six Attunement trainers (not counting the Attunement-less trainer)
     -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of the song by attunement users or by other means, but this is just a speculation.
 -   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful. This has yet had to be confirmed.
 
@@ -537,8 +537,8 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 #### Markor Citadel
 
--   A building used as the headquarters of The Divers.
--   It's also treated as a great place for scholars and learning. A hub of information.
+-   A building located in Markor, where texts of the Old World are studied.
+-   The Divers are a branch of the Markor Citadel.
 -   They taught the [Barber](Barber.md) plastic surgery.
 
 #### Lullaby Isles
@@ -662,7 +662,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   New Kyrsa is a city built by the Kyrsgarde, meaning the city did not suffer the same fate as Celtor.
 -   New Kyrsa was built above the chamber of the Drowned God Ethiron, explaining why the time and space in the city often restarts unless the 5 lanterns of the city are activated, this can mean that the lanterns are part of the ritual to calm Ethiron so it doesn't wake up, also explaining why it is necessary to activate them to fight its Scion.
--   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosper city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the tram station below the town, and high buildings with signs of industrial advancement towards the surface.
+-   Before the last ritual of the Kyrsgarde towards Ethiron failed, it was considered a prosperous city showing the proud efforts of the Kyrsgarde, showing how they created new technology such as the train station below the town, and high buildings with signs of industrial advancement towards the surface.
 -   The City fell due to the last ritual (the bone statues in the boss fight) to keep Ethiron asleep, and failed due to the "Foolishness" of the Kyrsgarde, told by the only Kyrsgarde survivor outside the city in floor 2.
 -   Right now the city alongside its citizens are controlled by the Scion of Ethiron due to the white mist that surrounds the city, making both Kyrsgarde and anyone who stays in the city for too long puppets of the Scion of Ethiron, attacking anyone nearby so they don't disturb Ethiron's awakening.
 -   Apparently, after you defeat the Scion of Ethiron, the city is "torn of eternity" as Klaris says when you defeat the Scion of Ethiron
@@ -712,7 +712,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
--   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, Summer Company, The Knives of Eylis, The Central Authority, The Kingdom of Etrea_
+-   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, The Knives of Eylis, The Central Authority_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch Mage (Discord)_
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
     -   Navae is personified female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.[\[2\]](#cite-note-arch-2)
@@ -762,7 +762,7 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   **Encountered In:** _[Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _N/A_
 -   **Alliances:** _[The Central Authority](The_Central_Authority.md) (Business Relations)_
--   **Enemies:** _The Children of Navae, The Ignition Union, [The Ministry](Minityrsa.md) File:Eylisiconfactoin.png_
+-   **Enemies:** _The Ignition Union, [The Ministry](Minityrsa.md) File:Eylisiconfactoin.png_
 -   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), Arch\_Mage (Discord)_
 
 -   A Faction that resides in Summer Isles. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
@@ -1460,7 +1460,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 
 -   People who have made an Oath to try to "fix" this "fragile world" with their powers becoming the support of their allies.
 -   Linkstriders wield parasitic powers, being able to steal the life, or heal people with their symbiotic powers.
--   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the Eastern Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Sun,** wich are mark of Celestials.
+-   It is known this Oath is tied to the Celestials/Stars similar to the Starkindreds, due to the Linkstriders being able to teleport between the meteorites found across the Eastern Luminant, while also at the same time the ritual to become a Linkstrider has the marks of the **Moonseye and the Sun,** which are marks of Celestials.
 
 ### Starkindred
 
@@ -1561,10 +1561,10 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 ### Whispers of Tacet
 
 -   An application of the Song that enables the user to suppress their Murmur, turning themselves invisible to the naked eye.
-    -   It can be obtained by performing a handful of assassinations for [Cestis](Cestis.md), a Ganymede located in [Meteor Isle](Meteor_Isle.md).
+    -   It can be obtained by performing a handful of assassinations for [Cestis](Cestis.md), a Ganymede located in the outskirts of [Meteor Isle](Meteor_Isle.md).
 
 -   Ministry Agents or Scouts can utilize this Murmur.
--   Alpha Megalodaunts can somehow use its power too.
+-   Alpha and Crimson Megalodaunts can somehow use its power too.
 -   Some Kyrsgarde are able to use this Murmur.
 -   Despite suppressing their own Murmur, Blindseers are able to see Tacet users despite suppressing it.
 
