@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 83166
+revid: 83316
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -37,6 +37,11 @@ Friend Reputation:
 
 -   "Ah homelander, what might you need?"
 
+Neutral Reputation:
+
+-   "Ah, a homelander."
+-   "Keep your distance from my people. I do not wish for this to be violent."
+
 ## Lore
 
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
@@ -47,6 +52,7 @@ Friend Reputation:
 -   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
 -   Inventors of the fist style 'The Way of Navae,' only the Eastern Tribal Leaders are shown using it.
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one.
+-   Eastern Camp Master does have a rare dialogue which does not matter if you are neutral or good reputation as he will say "You... You remind me of someone I once knew. I can't quite put my finger on it, but Navae's presence is strong with you. So that I may fulfill my part in prophecy, please allow me to share some of our knowledge with you..."
 
 ## NPCs
 

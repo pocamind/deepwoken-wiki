@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 83244
+revid: 83320
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -15,6 +15,12 @@ A lone Adret reading Diver Journal 2
 ## Description
 
 Books are items that are found in the world of Deepwoken and are a separate category from loot, tools, weapons, etc. Books can be obtained by looting the various bookshelves around the world (10%-15% chance) or as a guaranteed item sold at a Traveling Merchant Ship. Upon opening a book, player's are given a small sum of Intelligence XP. Besides that, most books have no purpose besides providing additional lore and information regarding Deepwoken's world and history; excluding [intelligence training items](Training_Gear.md#intelligence) and [weapon training items](Training_Gear.md#lightmediumheavy-weapons). Books can also be donated in a [Guild Bases](Guild_Bases.md)' library for future reading. With a select few books, you can read them and gain the ability to perform it's song, without lyrics.
+
+Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
+
+-   Our Fortess (Of Smoke And Steel), Summer Isle
+-   A Deathscribe's Journal, Castle Light[\[1\]](#cite-note-1)
+-   Debriefing Log on Operator Polaris Enigvidion,
 
   
 
@@ -1598,9 +1604,12 @@ I weep for them still, my tears bitter as salt...
 
 -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
 -   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
+-   The canjolin instrument could be loosely based off of the [mandolin](https://en.wikipedia.org/wiki/Mandolin).
 -   The book 'A Deathscribe's Journal' contains numerous Easter Eggs and references.
     -   Black Diver Selim is a reference to Houseless Selim, a member of the _Rogue Lineage_ community who desired to be, but was not made, a part of the game's lore.
     -   Douglas Douglas Vondren is a reference to YouTuber and streamer DougDoug.
     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md).
     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
+
+1.  [↑](#cite-ref-1) Needs clarification if it's only found in castle light

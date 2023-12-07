@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 83266
+revid: 83319
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -252,6 +252,10 @@ Stratus Stone
 Aeon Logstone
 
 Eternal Logstone
+
+Crystal Lens
+
+Perfect Lens
 
  |
 |  | 
@@ -1294,6 +1298,9 @@ After successfully casting lightning impact, strike down countless thunder at th
 
 -   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
 -   Static Fakeout can be used with Spine Cutter.
+-   In the book Our Fortress, Vincent Zeneke notes that the Thundercaller's use of the Canjolin instrument spawned a method of overdrive.
+    -   Linking music theory, the use of overdrive is made to alter the sound of an electrical instrument.
+        
 -   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
 -   In Deepwoken testing, known as Oldwoken, Thundercall used to be blue instead of yellow. Even with the addition of Surge Path, the original color is still lost to the ages.
     -   Surge is a more purple shade compared to Oldwoken Thundercall, which was a light blue.

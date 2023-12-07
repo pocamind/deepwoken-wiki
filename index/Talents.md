@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83263
+revid: 83318
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -362,7 +362,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Deal 10% more damage to larger foes.
     -   "Larger foes" being anything that isn't a humanoid NPC. Essentially, anything in the monster category that is not a Mudskipper or Angel.
     -   Prerequisite: 20 Willpower
-    -   The head equipment "[Dark Owl Chapeau](Dark_Owl_Chapeau.md)" have this talent.
+    -   The head equipment "[Dark Owl Chapeau](Dark_Owl_Chapeau.md)" has this talent.
 
 ### Brawler
 
@@ -877,6 +877,8 @@ _**"I enjoy sea food."**_
     -   Prerequisite: 80 Intelligence, Potion Quaffer.
 
 ### Frost Forger
+
+**"I survive of the frozen Elements" (something like that)**
 
 -   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
     -   Prerequisites: Ice Smash, 35 Frostdraw

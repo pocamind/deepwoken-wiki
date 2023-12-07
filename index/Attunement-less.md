@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 83308
+revid: 83309
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -434,9 +434,9 @@ File:Attunement-less icon.png
 
 File:Attunement-less icon.png
 
- | Karita Leap (★★★) | Launch yourself into a flying kick, backflipping into the air if you hit a wall. | 
+ | Karita Leap (☆☆☆) | Launch yourself into a flying kick, backflipping into the air if you hit a wall. | 
 
--   **Requirements: 25 Light Weapon, Combat Mantra**
+-   **Requirements: 20 Light Weapon, Combat Mantra**
     -   Hitting a wall causes you to backflip
 
  |
