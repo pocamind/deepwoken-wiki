@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 69250
+revid: 83322
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -37,7 +37,6 @@ All races were formerly human before they made their hereditary vows which cause
 
 ## Trivia
 
--   Humans are the only known beings in Deepwoken to have access to Instruments.
 -   Humans are mostly extinct. If not completely, it is unknown if some managed to survive.
 -   The songs that Humans in-game are able to perform are:
     -   72 Seasons - Metallica
