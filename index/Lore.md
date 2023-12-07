@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 83329
+revid: 83330
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -924,6 +924,7 @@ An Authority Captain
 -   **Lore Sources:** _Regek_
 
 -   They are lead various Hivelords that act under a Greatlord.[\[12\]](#cite-note-yaya-12)
+    -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[12\]](#cite-note-yaya-12)
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
     -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysid residing within the Hive, this is because most of the Chrysid were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysid wanted, most of them decided to leave the Hive, but still some Chrysid believed in the Hive and decided to stay.
@@ -1223,6 +1224,8 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   A race that shares traits with snails, who are well known for their intelligence and wisdom. Their science still leads the field.
 -   Distantly related to their separate branch, the Vesperians, due to their similar eyes and surnames.
 -   A race that lived below the surface and in the Depths, which might explain why they have resistance to insanity.
+-   Ganymede evolved to all posses baldness, but a millennium ago, the first Greatlord modified their species to give them their innate white hair.[\[12\]](#cite-note-yaya-12)
+-   Ganymede have a closer connection to Lifeweave, so learn it more easily.[\[12\]](#cite-note-yaya-12)
 
 ### Chrysid
 
@@ -1389,11 +1392,12 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
     -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
--   The book _The Lament of Cirryn_ expands up on it
+-   The book _The Lament of Cirryn_ expands up on it:
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave. The process at first seems successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage. It is implied that Cirryn's soul was never truly resurrected, but that something else had taken its place.
     -   It also mentions that "Lifeweave is not the act of generating new life, it is the transfer of life".
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
     -   Once again, this book's status as a work of either fiction or non-fiction has yet to be established, so do not take all this information at face value.
+-   Lifeweave allows users to reverse aging processes, effectively allowing anyone with a mastery over it to be immortal.
 
 ### Ironsing
 
@@ -2147,4 +2151,4 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 9.  ↑ [9.0](#cite-ref-dsgs-9-0) [9.1](#cite-ref-dsgs-9-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
 10.  [↑](#cite-ref-railblade-10-0) [Railblade](Railblade.md) description
 11.  [↑](#cite-ref-alpha-11-0) [Alpha](Alpha.md)
-12.  ↑ [12.0](#cite-ref-yaya-12-0) [12.1](#cite-ref-yaya-12-1) [12.2](#cite-ref-yaya-12-2) [12.3](#cite-ref-yaya-12-3) [12.4](#cite-ref-yaya-12-4) Developer yayafino
+12.  ↑ [12.0](#cite-ref-yaya-12-0) [12.1](#cite-ref-yaya-12-1) [12.2](#cite-ref-yaya-12-2) [12.3](#cite-ref-yaya-12-3) [12.4](#cite-ref-yaya-12-4) [12.5](#cite-ref-yaya-12-5) [12.6](#cite-ref-yaya-12-6) [12.7](#cite-ref-yaya-12-7) Developer yayafino

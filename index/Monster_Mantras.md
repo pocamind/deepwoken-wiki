@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 78924
+revid: 83336
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -63,7 +63,7 @@ Mecha Gatling
 
 (★★☆)
 
- | A chitinous scythe to cut through your foes in a whirl. | The user grows a terrapod claw from their left arm and begins to spin forward after a short windup. Dealing moderate damage if hit by entire spin. Cancels if parried. (_Requires a [Terrapod Shell](Terrapod_Shell.md)\] to obtain_) | Combat Mantra |
+ | A chitinous scythe to cut through your foes in a whirl. | The user grows a Terrapod claw from their left arm and begins to spin forward after a short windup. Dealing moderate damage if hit by entire spin. Cancels if parried. (_Requires a [Terrapod Shell](Terrapod_Shell.md) to obtain_) | Combat Mantra |
 | 
 
  | 
@@ -98,7 +98,7 @@ Enforcer Pull
 
 (★★☆)
 
- | A powerful gravitational pull. | Conjure strings of the [Enforcer](Enforcer.md), auto-tracking onto enemies and pulling them in. Missing still takes ether and does not put this mantra on cooldown. (Requires a Enforcer Eye to obtain) | Support Mantra |
+ | A powerful gravitational pull. | Conjure strings of the [Enforcer](Enforcer.md), auto-tracking onto enemies and pulling them in. Missing still takes ether and does not put this mantra on cooldown. (Requires a [Enforcer Eye](Enforcer_Eye.md) to obtain) | Support Mantra |
 
 ## Trivia
 

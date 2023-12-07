@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 82037
+revid: 83351
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -214,7 +214,7 @@ The player can interact with Akira if they have neutral or good [reputation](Rep
 
 After taking the right option, Akira can be found at [Castle Light](Castle_Light.md), where he can be talked to again to join the [Lore Guild](Guilds.md), The Divers.
 
-If the player were to have 100 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 100 Charisma will get you killed.
+If the player were to have more than 75 charisma, you can side with The Union and insult him. You will not be gripped and Akira will flee. However this means he will not be able to let you join his faction. Doing this with anything less than 75 Charisma will get you killed.
 
 ### [Blizzard Knights](Stone_Knight.md)
 

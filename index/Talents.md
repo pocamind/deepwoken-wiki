@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83326
+revid: 83354
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -162,26 +162,20 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   you need to have made and drunk at least one potion for the talents to start showing up.
 
--   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed.
+-   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and aplified negative effects when trown
     -   Prerequisites: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
+    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
+        -   This talent was merged with the old Exterminator talent.
 
--   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified.
+-   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
     -   Prerequisite: 80 Intelligence
+        -   This talent was merged with the old Taste Test talent.
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
     -   Prerequisite: 80 Intelligence
 
--   Exterminator \[Common Talent, Intelligence\] - Potions you create will have amplified negative effects when thrown.
-    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
-    -   Prerequisites: 15 Intelligence, Apothecary
-    -   The head equipment "[Strapped Hat](Strapped_Hat.md)" has this talent.
-
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
     -   Prerequisites: 55 Intelligence
-
--   _Subsistence_ \[Rare Talent, Intelligence\] - As a skilled apothecarian, you are more accustomed to potions and gain greater benefits from their ingestion.
-    -   Improved version of Apothecary.
-    -   Prerequisite: 10 Fortitude or 10 Willpower, 30 Intelligence
 
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed.
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
@@ -866,15 +860,13 @@ _**"I enjoy sea food."**_
     -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
     -   Prerequisite: 40 Fortitude.
 
--   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less.
+-   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less, you are more accustomed to potions and gain greater benefits from their ingestion.
     -   Drink potions faster. (~0.5 seconds faster)
     -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
+        -   This talent was merged with the old Subsistence talent.
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude
-
--   Taste Test \[Common Talent\] - When consuming a potion you have a 25% chance of not depleting the potion you consumed.
-    -   Prerequisite: 80 Intelligence, Potion Quaffer.
 
 ### Frost Forger
 
@@ -2131,6 +2123,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Lightning Impact (Mantra)
 
 ### Thunderblade
+
+> _**"My blade conducts the skies wrath."**_
 
 -   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load, +4 Elemental Intensity)
     -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Sword

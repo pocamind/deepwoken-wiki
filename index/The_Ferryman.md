@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 82716
+revid: 83340
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -183,7 +183,7 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
 -   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests, at a drop rate of less than 1%.
 -   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost. (22.5% drop chance)
 -   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs. (Very common drop.)
--   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (12.5% drop chance)
+-   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (11.1% drop chance)
 -   [**Smith’s Alloy**](<Smith's_Alloy.md>) - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars. (5% drop chance)
 -   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (Unknown drop chance.)
 -   [**Justicar's Armor**](<Justicar's_Armor.md>) - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint. (7.5% drop chance)
