@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 81645
+revid: 83397
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -38,7 +38,7 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 
 Light's Final Toll has 4 different Criticals. The Critical starts off with the Default punch Critical or the Legion Kata Grab depending on your current stance. After landing it, your next critical will be a jumping slam. To reach the final Critical, you must land 2 jumping Criticals. Upon using the Final Critical both players are sent upwards as the user punches the target away.
 
-**NOTE: The cycle progresses even if your Critical was blocked.**
+**NOTE: With _[Way of Navae](Way_of_Navae.md) the_ cycle progresses even if your Critical was blocked. With _[Legion Kata](Legion_Kata.md)_ the cycle progresses only with successful critical grab (NOT posture break).**
 
 **The Blue Eye that pops up from the Final Critical signifies that it is undodgeable.**
 

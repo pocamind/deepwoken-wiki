@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 83297
+revid: 83368
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Fishing, Mechanics]
@@ -16,11 +16,11 @@ notices:
 
 To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for from a fishing pond room in a Guild Base.
 
-The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster and louder.
+The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key in the direction you are leaning (A if leaning left, D if leaning right, S if leaning back.), as you are doing this, start clicking rapidly, this will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. Clicking with the wrong leaning direction can also lose you the fish. You can tell when the fish is almost caught/escaped as the reeling sound gets faster, although this is false in some occasions as the sound will stay the same for a while.
 
-Though bait is not required for fishing, it is highly recommended. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
+Though bait is not required for fishing, it is highly recommended as you are able to get better loot and catch fish slightly faster. To equip bait, hold out your fishing rod and attempt to hold out any uncooked edible food, such as fruit, mushrooms and fish meat. Some baits have moderate changes in catch rarity and/or slight changes in catch speed, but it's not super significant.
 
-Fishing can also level each physical attribute given enough time. Notably, it provides a large amount of willpower experience in comparison to other stats.
+Fishing can also level each physical attribute (except weapon) given enough time. Notably, it provides a large amount of willpower experience in comparison to other stats.
 
 The frequency and quality of loot from fishing is also heavily based on the location you are fishing in. Even slight angle adjustments in the same spot can lead to significantly better results.
 
@@ -111,7 +111,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   Pomar Effect: Mainly caught bigger fish like tunas or red snappers.
 -   Gobletto Effect: Getting bites was quite fast. Results of testing: 7 Goblettos. 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
 -   Squid Effect: Seemed to get a lot of squid using squid. Results from 3 Squids: 2 Squids, 1 Miss, 1 Sea Bass, 1 Pufferfish
--   Dentiflo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from 8 Dentiflos: 2 Seaweed, 6 Misses
+-   Dentifilo Effect: Unfortunately tested it in a laggy server. Effects: Received bites quick seemingly. Results from 8 Dentiflos: 2 Seaweed, 6 Misses
 -   Seaweed Bundle Effect: Fast catches. 2 seaweeds gave: 2 Seabass and 1 Miss.
 -   Urchin Effect: Decent speed of bites. Result from 4 Urchins gave: 2 Sea Bass, 1 Squid, 1 Miss
 -   Browncap Effect: Average bite times. Results from 10 Browncaps gave: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
@@ -126,7 +126,7 @@ Bait Testing: (A lot of stuff here is just speculation and pure data, and the "H
 -   The general format and delivery of the lines that your character speaks is a possible reference to the _Animal Crossing_ series.
 -   Some spots won't let you fish.
 -   There is no height limit, you can fish from the top of cliff faces.
--   Some locations are better for fishing than others.
+-   Some locations are better for fishing than others, for example the Vigils Docks.
 -   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
 -   If you would rather not get carpal tunnel while fishing, you can use an auto clicker with its interval being set at 2 milliseconds for the best optimization (Tested.) be careful, as making a mistake can result in the "Catch" escaping.

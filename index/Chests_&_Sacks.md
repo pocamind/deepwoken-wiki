@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 74078
+revid: 83370
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -12,7 +12,7 @@ categories: [Mechanics]
 
 An image of an opened chest
 
-Chests are in-game boxes that spawn at the end of (almost) every [event](Random_Encounters.md). They contain loot ranging from general items, [armor pieces](Outfits.md), outfit schematics, weapons, mantra modifiers, and very rarely, enchanted gear. Every area has their own lootpool, some items being exclusive to one area, while others being found across several areas. For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as the Katana, the Canor Fang or the Glassdancer Wraps. However, chests that have dropped over in Erisia would contain items such as the Stilleto or the Pathfinder Arch-Sorcerer schematic. Though, you can find a Blindfold in both areas.
+Chests are in-game boxes that spawn at the end of (almost) every [event](Random_Encounters.md). They contain loot ranging from general items, [armor pieces](Outfits.md), [outfit schematics](Outfits.md), [weapons](Weapons.md), [mantra modifiers](Mantra_Modifiers.md), and very rarely, [enchanted gear](Enchantments.md). Every area has their own lootpool, some items being exclusive to one area, while others being found across several areas. For example: A chest dropped from a [Songseeker Wilds](Songseeker_Wilds.md) random event may contain items such as the Katana, the Canor Fang or the Glassdancer Wraps. However, chests that have dropped over in [Erisia](Erisia.md) would contain items such as the Stilleto or the Pathfinder Arch-Sorcerer schematic. Though, you can find a Blindfold in both areas.
 
 Loot inside a chest is shown with different colors depending on their rarity, ranging from common to enchanted:
 
@@ -27,12 +27,12 @@ Loot inside a chest is shown with different colors depending on their rarity, ra
 The color of a chest depends on where you got it from, consisting of four variations as of current version.
 
 -   A brown chest with silver metal parts, found commonly in the Etrean Luminant.
--   A gold chest with gold metal parts, found commonly in the East or from turning in pure ores.
+-   A gold chest with gold metal parts, found commonly in the East or from turning in [pure ores](Ores.md).
 -   A cyan chest with green-white metal parts, found commonly in the Depths/Boss Fights.
-    -   This chest, along with the gold chest, can also be found through fishing.
+    -   This chest, along with the gold chest, can also be found through [fishing](Fishing.md).
 -   A neon pink chest, found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
 
-**Chest mimics** (more commonly known as **trick chests**) can spawn around the [Eastern Luminant](Luminants.md), and releasing beasts that were even thought to just stay around [the Depths](The_Depths.md). These include:
+**Chest mimics** (more commonly known as **mimics** or **trick chests**) can spawn around the [Eastern Luminant](Luminants.md), and releasing beasts that were even thought to just stay around [the Depths](The_Depths.md). These include:
 
 A Mimic Chest
 
@@ -41,7 +41,7 @@ A Mimic Chest
 -   [Alpha Megalodaunt](Megalodaunt.md)
 -   [Terrapod](Terrapod.md)
 -   [Thresher](Thresher.md)
--   [Nautilodaunt](Nautilodaunt.md) (WHY IS HE HERE? WHO LET RAG COOK?)
+-   [Nautilodaunt](Nautilodaunt.md)
 
 ## Sacks
 
