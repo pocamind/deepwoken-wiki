@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83361
+revid: 83404
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -136,6 +136,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   _Aerogliding_ \[Rare Talent, Galebreathe Exclusive\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility, +5 Elemental Intensity)
     -   Reduces falling speed and prevents fall damage. Unreliable on high ping.
     -   Automatically ends after 5 seconds.
+    -   The Old Wind has been merged into Aerogliding. \[Galebreathe Exclusive\] -
+        -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
     -   Prerequisites: 35 Galebreathe, 30 Agility
 
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds. (+4 Elemental Intensity)
@@ -947,10 +949,6 @@ _**"I enjoy sea food."**_
 
 -   Reverse Gale Kick \[Galebreathe Exclusive\] - Pressing \[F\] after hitting an opponent with Wind Rising will cause your follow up kick to impale them to the ground. (+1 Passive Agility)
     -   Prerequisites: Rising Wind (Galebreathe Mantra)
-
--   The Old Wind \[Galebreathe Exclusive\] - Glide straight with the power of Gales. {+4 Elemental Intensity}
-    -   Prerequisites: 55 Galebreathe
-    -   Greatly reduce vertical velocity with glider, allowing you to go MUCH further than before. Can even glide from major islands to another nearby.
 
 ### Galeforce
 

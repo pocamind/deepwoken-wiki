@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 83385
+revid: 83402
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,11 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Visionshaper** _"You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands."_ It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
+**[Oath](Oaths.md): Visionshaper**
+
+_**"You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands."**_
+
+It is the opposing Oath to [Blindseer](Oath%253A_Blindseer.md).
 
 ## Obtainment
 

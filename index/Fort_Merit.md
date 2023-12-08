@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 81567
+revid: 83403
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -117,6 +117,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   [Apprentice Rapier](Apprentice_Rapier.md)
 -   [Inquisitor's Thorn](<Inquisitor's_Thorn.md>)
 -   [Shattered Katana](Shattered_Katana.md)
+-   [Anklets of Alsin](Anklets_of_Alsin.md)
 
  | 
 

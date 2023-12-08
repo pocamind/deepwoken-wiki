@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 83367
+revid: 83406
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -33,9 +33,9 @@ _(one-time use, re-obtainable)_
 
 -   You can only hold one of this item.
 -   In your inventory, the Moonseye Tome has a Weight of 1.
--   The item was suggested by youtuber _Agamatsu_, who conceptually named it "Book of Smartass \[N-Word\]"
+-   The item was suggested by YouTuber Agamatsu, who conceptually named it "Book of Smartass \[N-Word\]."
+    -   Agamatsu posits that the Tome is a reference to his mad, often nonsensical, rambles and suggestions, and the journey the Cult went on is a reference to his attempts to find an entrance to [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) in the [Voidsea](Voidsea.md).
 -   The max knowledge a player can have is 99.
 -   When used at max knowledge, it won't work, and dialogue appears saying "Your mind is too full to take in the knowledge within.", as seen in the Gallery above.
--   The secret image when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye, fitting of the "Lunar Cult" the Tome belonged to.
--   The person writing this has recorded ~110 Dukes & 60 Chasers worth of loot, and has yet to find a Moonseye Tome or [Sinner's Ash](<Sinner's_Ash.md>).
--   Using the time while inside of the Voidsea will make the "Mural" far, far clearer.
+-   The secret image when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye, fitting considering the "Lunar Cult" the Tome belonged to.
+-   Using the tome while inside of the Voidsea will make the "Mural" far, far clearer.
