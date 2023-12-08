@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83354
+revid: 83361
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1844,7 +1844,7 @@ _**"I enjoy sea food."**_
 
 -   _**A World Without Song**_ \[Galebreathe Exclusive, Advanced Talent\] - Landing Wind mantras will now apply 'Suffocate'. (+1 Elemental Intensity)
     -   Suffocation prevent the victim from casting mantras and deal damage overtime.
-    -   Prerequisites: 75 Galebreathe
+    -   Prerequisites: 75 Galebreathe, Silencer's Blade
 
 ### Silvertongue
 

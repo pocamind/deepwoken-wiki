@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 82252
+revid: 83363
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -27,9 +27,11 @@ To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Lan
 
 -   One is at Fort Merit, in a house near the elevator.
 -   One is at Meteor Isle, in the house with a cauldron.
--   One is at Summer Isle, in the house where you set your inn.
+-   One is at Summer Isle, on the second floor of the guildhall.
 
 After talking to all three of their disciples, return to the person in the cave and talk to them to receive the Oath.
+
+The reccomended path is Fort Merit - Meteor Isle - Summer isle
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=6NQX0V8mmAM)._
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 82114
+revid: 83357
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -102,4 +102,4 @@ A Songseeker Thundercaller executes it's opponent after knocking them:
 -   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
 -   Whenever they land Lightning Stream, they are likely to use Thunder Kick right after.
 -   Songseeker Thundercallers can pose a significant threat if they team up with a Songseeker Flamecharmer or a Songseeker Frostdrawer. Always block Lightning Stream since their range and landing the Mantra is quite high, grabbing you back to them.
--   Songseeker Running away from Thundercallers is difficult since they will immediately use Lighting Stream with no cooldown if you try to do so. As such, you must engage them because getting away from them is difficult.
+-   Running away from Thundercallers can be difficult since they will immediately use Lighting Stream with no cooldown if you try to do so.
