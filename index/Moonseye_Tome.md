@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 83406
+revid: 83416
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -27,15 +27,17 @@ _(one-time use, re-obtainable)_
 
 ## Moonseye Tome Dialogue
 
-"The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed."
+First Interaction, _"The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed."_ This will grant +99 knowledge.
+
+Second Interaction, _"The Voices reach out to you more gently now, ffering their sympathies in a vast procession of guilt."_ This will grant +20 knowledge.
+
+Attempting to use at knowledge Cap (99), _"Your mind is too full to take in the knowledge within."_ This will not grant knowledge and The Tome will not be consumed.
 
 ## Trivia
 
 -   You can only hold one of this item.
 -   In your inventory, the Moonseye Tome has a Weight of 1.
 -   The item was suggested by YouTuber Agamatsu, who conceptually named it "Book of Smartass \[N-Word\]."
-    -   Agamatsu posits that the Tome is a reference to his mad, often nonsensical, rambles and suggestions, and the journey the Cult went on is a reference to his attempts to find an entrance to [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) in the [Voidsea](Voidsea.md).
--   The max knowledge a player can have is 99.
--   When used at max knowledge, it won't work, and dialogue appears saying "Your mind is too full to take in the knowledge within.", as seen in the Gallery above.
--   The secret image when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye, fitting considering the "Lunar Cult" the Tome belonged to.
+    -   Agamatsu posits that the Tome is a reference to his mad, often nonsensical, rambles and suggestions, and the journey the Cult went on may be a reference to his attempts to find an entrance to [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) in the [Voidsea](Voidsea.md)
+-   The secret "Mural" when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye, fitting considering the "Lunar Cult" the Tome belonged to.
 -   Using the tome while inside of the Voidsea will make the "Mural" far, far clearer.
