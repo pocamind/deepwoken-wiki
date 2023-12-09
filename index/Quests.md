@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 83209
+revid: 83435
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -118,7 +118,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: Summer Isle
 
-**Guide**: Talk to the NPC outside the Inn at Summer Isle. They'll have you bully a guy near the shore. After bullying the guy, talk to the NPC at the inn to finish the quest.
+**Guide**: Talk to the NPC outside the Inn at Summer Isle. They'll have you bully a guy near the shore. After bullying the Guy, talk to the NPC at the inn to finish the quest.
 
 **Reward/s**: Armor Piercing (Added to Talent pool, not given instantly.)
 
@@ -312,7 +312,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: Starswept Valley
 
-**Guide**: Turn in the bags found around Starswept Valley to Mercille near The guy at the outpost near Meteor Isle.
+**Guide**: Turn in the bags found around Starswept Valley to Mercille near the Guy at the outpost near Meteor Isle.
 
 **Reward/s**: Small Hive Chest
 

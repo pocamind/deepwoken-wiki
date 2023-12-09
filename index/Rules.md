@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 59480
+revid: 83431
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -26,7 +26,7 @@ A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division 
 
 | Violation | Description | Warnings | Consequence |
 | --- | --- | --- | --- |
-| **Offensive Words** | Usage of derogative words aimed at another wiki member(s) or organization(s). | 
+| **Offensive Words** | Usage of derogative words, such as slurs, aimed at another wiki member(s) or organization(s). | 
 1
 
  | 1 Day Namespace Block |

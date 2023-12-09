@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 83359
+revid: 83436
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -14,7 +14,7 @@ Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Dee
 
 Loud and enormous, the **Primadon** is a giant sea monkey [Boss](Bosses.md). It is an apelike creature, standing at roughly 21 meters (68.9 feet), with some features of marine life, featuring webbed feet and fins on its arms and head.
 
-It can be summoned by making an offering (Most monster drops work, to a varying degree) to the large bonfire located in the center cliff of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 12-minute cooldown and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
+It can be summoned by making an offering (Most monster drops work, to a varying degree) to the large bonfire located in the center cliff of [The Monkey's Paw](<The_Monkey's_Paw.md>). Spawning Primadon has a 3-minute cooldown and is received by summoning or hitting Primadon during the fight (You only get the cooldown by hitting it if it dies, if it despawns you won't be on cooldown). This is a global cooldown; it cannot be bypassed through alternate slots or servers.
 
 <table><caption>Known Offerings</caption>
 <tbody>

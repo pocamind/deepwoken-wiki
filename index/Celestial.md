@@ -1,9 +1,9 @@
 ---
 title: Celestial
-revid: 72168
+revid: 83426
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Races]
+categories: [Races]
 ---
 
 # Celestial
@@ -25,9 +25,3 @@ categories: [Pages with broken file links, Races]
 ## Trivia
 
 -   Celestials are referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
-
-## Gallery
-
-The crucified celestial in the area where Samael is.
-
-The crucified celestial in the area where Samael is.

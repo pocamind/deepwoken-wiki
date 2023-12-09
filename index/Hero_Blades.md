@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 80045
+revid: 83437
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | type | Elemental Weapon |
 | requirements | 75 FIR, LVL 11 |
 | damage | 20 |
-| scaling | FIR: 6.5 |
+| scaling | FIR: 5.5 |
 | range | 8 |
 | swing speed | 0.75x |
 | weight | 5 |
@@ -29,7 +29,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | type | Elemental Weapon |
 | requirements | 75 ICE, LVL 11 |
 | damage | 20 |
-| scaling | 6.5 |
+| scaling | 5.5 |
 | range | 8 |
 | swing speed | 0.75x |
 | weight | 5 |
@@ -45,7 +45,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | type | Elemental Weapon |
 | requirements | 75 LTN, LVL 11 |
 | damage | 20 |
-| scaling | LTN: 6.5 |
+| scaling | LTN: 5.5 |
 | range | 8 |
 | swing speed | 0.75x |
 | weight | 5 |
@@ -61,7 +61,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | type | Elemental Weapon |
 | requirements | 75 WND, LVL 11 |
 | damage | 20 |
-| scaling | 6.5 |
+| scaling | 5.5 |
 | range | 8 |
 | swing speed | 0.75x |
 | weight | 5 |
@@ -77,7 +77,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | type | Elemental Weapon |
 | requirements | 75 SHD, LVL 11 |
 | damage | 20 |
-| scaling | 6.5 |
+| scaling | 5.5 |
 | range | 8 |
 | swing speed | 0.75x |
 | weight | 5 |

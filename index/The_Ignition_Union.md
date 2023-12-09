@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 83305
+revid: 83433
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions]
@@ -35,7 +35,7 @@ The Union is also responsible for producing weapons such as the [Ignition Deepcr
 
 They are one of the three factions contracted by [The Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and the [Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
 
-The Union maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects. They also have various ideological differences, which was ultimately what resulted in the Ignition Union's instigation of hostilities. (The Summer Company are quite opaque capitalists. Conversely, the Ignition Union upholds traditional ideals of communism. It's just like in real life with the United States of America and the Soviet Union.)
+The Union maintains a mutually hostile relationship with the Summer Company; the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects. They also have various ideological differences, which was ultimately what resulted in the Ignition Union's instigation of hostilities.
 
 The Ignition Union also share an unfriendly rivalry with the Divers, and they frequently engage in petty, violent squabbles over territory in the Depths. [Akira](Akira.md), who does not view them as human beings anymore, refers to them as "[Mudskippers](Mudskipper.md)" after killing several of them with his [Resonance](Resonance.md), and the aforementioned members of the Union that engaged him in combat seemed prepared to callously kill him on the spot.
 

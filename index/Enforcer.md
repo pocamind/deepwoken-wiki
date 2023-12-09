@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 82913
+revid: 83434
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -75,7 +75,7 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 -   **[Enforcer's Blade](<Enforcer's_Blade.md>):** A blade that is not considered too good, as it does not break the enemy's posture instantly.
 -   **[Enforcer's Hammer](<Enforcer's_Hammer.md>):** Like the Enforcer's Blade, their Hammer is also a rare drop. Boasts high posture damage, and requires 80 HVY and 25 STR to use.
 -   **[Progress](Resonance.md):** The Enforcer gives a moderate amount of Progress, and more if fought with the corresponding Nature.
--   **[Enforcer's Eye](Enforcer_Eye.md):** Due to the new Layer 2 Update and Monster Mantras being added, Enforcer gained a new drop. This eye can be used at Carrion to obtain ‘Enforcer Pull.’ Similar to a Jedi pull, it is the same move the Enforcer uses. It can be used for catching runners and trackstars alike, or, as shown by many clips on the web, for trolling purposes.
+-   **[Enforcer Eye](Enforcer_Eye.md):** A rare drop used to obtain the Enforcer Pull [Monster Mantra.](Monster_Mantras.md)
 
 ## Trivia
 

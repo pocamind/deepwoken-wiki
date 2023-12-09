@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 81820
+revid: 83430
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Core-Attribute based weapons", Daggers]
@@ -42,5 +42,3 @@ The critical unleashes an explosion of purple energy around the cursor, launchin
 -   The Elder Futhark runes present on the swords translate to "Supaa Valekis" (though Valekis' name uses the Latin alphabet V).
 -   The weapon had a bug that made all scalings to the weapon void in PvE, causing a 20 minute solo Chaser fight in the Dev Spec Progression Finale by Supaa.
     -   This was fixed almost on the spot.
-
-Runes on Moon Blades

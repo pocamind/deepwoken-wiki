@@ -1,6 +1,6 @@
 ---
 title: Luck
-revid: 65612
+revid: 83421
 source: https://deepwoken.fandom.com/wiki/Luck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Luck, Mechanics]
@@ -45,8 +45,8 @@ Gripping a player stole their luck (Luck/2), if:
 
 Bounty Boards will have posters of various players that are seen as criminals in their towns and you'll be able to take up these bounties as jobs. Successful bounties reward luck.
 
--   Killing the Voidwalker that's hunting you rewards you with a chest and EXP scaled off of the Voidwalker's level.
-    -   You must be the Voidwalker's target to be the one who receives the reward
+-   Killing the [Voidwalker](Origins.md) that's hunting you rewards you with a chest and EXP scaled off of the [Voidwalker's](Origins.md) level.
+    -   You must be the [Voidwalker's](Origins.md) target to be the one who receives the reward
 
 ### From NPCs
 
@@ -54,7 +54,7 @@ All players who kill a mob that rewards Luck will receive the Luck if they contr
 
 #### Bosses
 
-Killing the following Boss NPCs provided you with luck:
+Killing the following [Boss](Bosses.md) NPCs provided you with luck:
 
 -   [Blizzard Knights](Stone_Knight.md) (Desert Knights don't give luck)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -62,7 +62,7 @@ Killing the following Boss NPCs provided you with luck:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Ferryman](The_Ferryman.md)
 
-Killing any Boss immediately gave you max luck.
+Killing any [Boss](Bosses.md) immediately gave you max luck.
 
 #### Monsters
 
