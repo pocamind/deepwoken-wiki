@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 82300
+revid: 83491
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -90,6 +90,7 @@ Can be used in any location.
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%, statistic-based, expect a large margin of error when compared to real rates)**
 -   [The Ferryman](The_Ferryman.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Gem Chest)
 -   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)
 
  |
