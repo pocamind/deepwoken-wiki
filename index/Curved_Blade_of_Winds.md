@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 83352
+revid: 83571
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -17,6 +17,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | range | 8 |
 | swing speed | 0.8x, 0.78x (one-handed) |
 | penetration | 15% |
+| chip damage | 5% |
 | special effect | Aftercut is applied to all attacks. |
 | stances | 2 Handed, 1 Handed |
 | weight | 5 |

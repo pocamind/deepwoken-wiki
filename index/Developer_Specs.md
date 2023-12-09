@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 83304
+revid: 83542
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -149,6 +149,7 @@ The spec doesnt have any functional uses as its meant to be a gift from Synce to
 
   
 
+  
 Like Synce, Isaac also has the coral fever face from april 2023
 
 ## Exclusive Items
@@ -182,6 +183,8 @@ Hive Leader (yayafino): [https://www.youtube.com/watch?v=KEgU7U0Sdh8](https://ww
 Zartaina Skeleton Key: [https://www.youtube.com/watch?v=rlDQvIqu-Bs](https://www.youtube.com/watch?v=rlDQvIqu-Bs)
 
 Par's cat maid: [https://youtu.be/EXmgA9FJ20g?t=566](https://youtu.be/EXmgA9FJ20g?t=566)
+
+CeoofIsaac's Destroyman IV and Synce's Destroyman III [https://twitter.com/CEOofIsaacs/status/1728239463451783358](https://twitter.com/CEOofIsaacs/status/1728239463451783358)
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 83320
+revid: 83569
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -18,9 +18,9 @@ Books are items that are found in the world of Deepwoken and are a separate cate
 
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
--   Our Fortess (Of Smoke And Steel), Summer Isle
--   A Deathscribe's Journal, Castle Light[\[1\]](#cite-note-1)
--   Debriefing Log on Operator Polaris Enigvidion,
+-   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
+-   A Deathscribe's Journal: [Castle Light](Castle_Light.md)[\[1\]](#cite-note-1)
+-   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
 
   
 
@@ -425,9 +425,9 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 > 
 > note to self: ask old Helsen to teach the new apprentices how to work new monoliths into shape; we've got only a couple left in storage, and Song knows well fill its sides up with names soon enough. Uriel came back this week; i don't know what he's been doing on his time off, but he smells awful, like really bad and stagnant morning breath. Svarn's away on a depths work summons, apparently castle light had an emergency and needs extra hands for maintenance. and then young Helsen nicked her finger quite badly while working with a chisel, so she's out of commission for a week or so. there go the two people i could have a decent conversation with in this place during lunch, aside from whenever old Helsen graces me with his brief presence, once in a blue moonseye. lousy week!
 > 
-> also note to self: buy celebratory diner for the memorial mason crew when you finish crossing out names in the old notebook!
+> also note to self: buy celebratory dinner for the memorial mason crew when you finish crossing out names in the old notebook!
 > 
-> • James Konoli (black diver, gild the mme)
+> • James Konoli (black diver, gild the name)
 > 
 > • Sam Gatli - MIA
 > 
@@ -493,7 +493,7 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 > 
 > • Elmer Praadet
 > 
-> • Uriel Ixatoke (black diver, gild the mme)
+> • Uriel Ixatoke (black diver, gild the name)
 > 
 > • Bran Bren (WHO NAMES THESE KIDS??)
 > 
@@ -1611,5 +1611,6 @@ I weep for them still, my tears bitter as salt...
     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md).
     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
+    -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.
 
 1.  [↑](#cite-ref-1) Needs clarification if it's only found in castle light

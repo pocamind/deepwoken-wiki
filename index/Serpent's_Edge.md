@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 81206
+revid: 83575
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -16,7 +16,7 @@ categories: [Weapons, Swords]
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.73x |
-| penetration | 5 |
+| penetration | 5% |
 | special effect | Has a unique critical attack consisting of three one-handed heavy slashes, each coming out a little less than a second from the last. Propels the user forward with every slash, making it difficult to land all three slashes. |
 | weight | 6 |
 | bankable | Yes |
@@ -28,7 +28,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), known for its iconic curved design resembling a snake. At 100 MED, the Serpent's Edge does 35.2 damage. At 75 MED, the Serpent's Edge does 31.9 damage
+The Serpent's Edge is an endgame [Medium Weapon](Weapons.md#medium-weapons), known for its iconic curved design resembling a snake. At 100 MED, the Serpent's Edge does 31.9 damage. At 75 MED, the Serpent's Edge does 29.42 damage
 
 ## Trivia
 

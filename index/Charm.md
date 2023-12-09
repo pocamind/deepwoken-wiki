@@ -1,6 +1,6 @@
 ---
 title: Charm
-revid: 79041
+revid: 83492
 source: https://deepwoken.fandom.com/wiki/Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Talents]
@@ -46,7 +46,7 @@ Charm talents can be split into two categories; those that give enemies charm an
 
 Vow of Mastery is obtainable at 20 Charisma.
 
-You start with three commands when you obtain [Vow of Mastery,](Vow_of_Mastery.md) Say, Sleep, Drop and Eat.
+You start with four commands when you obtain [Vow of Mastery,](Vow_of_Mastery.md) Say, Sleep, Drop and Eat.
 
 Sing has a fairly large hitbox.
 

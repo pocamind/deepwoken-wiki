@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 83261
+revid: 83560
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,18 +14,6 @@ categories: [Monsters]
 
 Stone Knights are a type of Giant [Monster](Monsters.md) encountered primarily in the [Valley of Heroes](The_Valley_of_Heroes.md) and [Starswept Valley](The_Starswept_Valley.md) under their 2 respective variants: Blizzard Knight and Desert Knight, the latter also being present in the [Trial of One](Trial_of_One.md). Blizzard Knights can only spawn in from falling meteors, while the Desert Knights can spawn in randomly or from a falling meteor. Another variant, the Star Knight, can be encountered in a rare event, the [Resonant Dawn](Random_Encounters.md#resonant-dawn), where defeating it will reward the player with a random Resonance, regardless of their bell progression, as well as with the coveted [Astral](Enchantments.md) [Enchant Stone](Enchant_Stone.md).
 
-**Blizzard Knight:**
-
-Template:Creature Info Box v2
-
-## **Description**
-
-Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of six.
-
-They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
-
-Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Ministry_Cloak.md).
-
 **Desert Knight:**
 
 Template:Creature Info Box v2
@@ -37,6 +25,18 @@ Recognizable by their yellow body, blue eyes and blue sword, the Desert Knights 
 They may spawn anywhere within Starswept Valley and some of its surrounding areas, Yes they can spawn by blue meteors, but sometimes these things can spawn whenever they want to, and that's WITHOUT the meteors.
 
 **Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
+
+**Blizzard Knight:**
+
+Template:Creature Info Box v2
+
+## **Description**
+
+Recognizable by their white body, red eyes and red sword, the Blizzard Knights are the variant encountered in the [Valley of Heroes](The_Valley_of_Heroes.md). This is the more powerful version of the two, boasting a ridiculous health pool, almost 3x that of the Desert Knight, a _complete_ immunity to the effects of the [Bloodless Gem](Deep_Gems.md) which disables the heals you gain from it, and spawning in a group of six.
+
+They may only spawn in the area during the Winter [Season](Seasons.md). This will replace Aelita's event.
+
+Defeating the whole group will spawn a chest near the frozen river that's guaranteed to contain at least one of the five [Hero Blades](Hero_Blades.md) and/or possibly one of the many variants of the equally sought-after [Ministry Cloak](Ministry_Cloak.md).
 
 **Star Knight:**
 

@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 82121
+revid: 83544
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -25,6 +25,7 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 | Strong Left | _A powerful, flinging punch that shatters the air._ | ◯ | ✗ | (★★★) |
 | Rapid Punches | _User unleashes a barrage of blows at their opponent._ | ◯ | ◯ | (★★☆) |
 | Shadow Assault | _Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness._ | ◯ | ◯ | (★★☆) |
+| Pressure Blast | A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback. | ◯ | ◯ | (★★☆) |
 | Assault | _Firmly swings weapon at opponent and finishing the combo by kicking them._ | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
 \[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward. \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
@@ -54,6 +55,11 @@ A Blacksteel pirate executes the player after knocking them:
 \[[Sword](<Sword_(weapon).md>) & [Messer](Messer.md)\] Pins down opponent and slices their throat with their blade.
 
  |
+| Drown | Since they do not have the Fishman talent, when you are knocked out in the water, they will spam mantras at you, eventually most
+
+likely drowning you in the water. It is possible to survive this with the help of talents such as Scuba Drowner and Impervious Slumber.
+
+ |
 
 ## Tips
 
@@ -69,3 +75,4 @@ A Blacksteel pirate executes the player after knocking them:
 -   The Tower Event drops 2 chests. First, at the top of the tower and the second can only be obtained when tower sinks as it is blocked by blocks.
 -   They don't actually wear a [Blacksteel Helm](Blacksteel_Helm.md) or [Blacksteel Pauldrons](Blacksteel_Pauldrons.md), despite being able to drop them and sharing their namesake, "Blacksteel".
 -   If no one attacks the Wooden Tower, the Blacksteel Pirates will despawn, but the top of the tower will still spawn a chest and the Wooden Tower will sink.
+-   The Wooden Tower can despawn while someone's actively fighting the pirates, not granting any XP and not spawning the chest at the bottom of the tower.

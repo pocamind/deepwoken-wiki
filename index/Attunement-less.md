@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 83309
+revid: 83577
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -94,7 +94,6 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Altitude travelled decreases significantly as the user loses health.</li>
     <li>Drops carried players/NPCs when used.</li>
     <li>The user will take no fall damage upon using it.</li>
-    <li>You can modify Strong Leap with a Magnet Spark, which drags the player towards the nearest ally upon activating.</li>
   </ul></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 82922
+revid: 83553
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, NPCs, Quests]
@@ -23,7 +23,7 @@ Kennith is an [Etrean](Etrean.md) working for law enforcement in [Etris](Etris.m
 
 -   Having read the [Operation 'Puppet Master' Report](Books.md) will unlock unique dialogue with Kennith in the Kyrsan Wilds.
 -   The reason he's in the [Second Layer](Second_Layer.md) is because a [satirical video](https://www.youtube.com/watch?v=wd7Qp4SlxTM) was made, showing him bonding with and then entering in a relationship with Ambrosius. Developer Arch\_Mage saw this video, and decided to add Kennith to Layer 2 as a result.[\[1\]](#cite-note-1)
-    -   Ironically, the video shows Kennith in [Firfire](Firfire.md), while he was ultimately place in the Kyrsan Wilds.
+    -   Ironically, the video shows Kennith in [Firfire](Firfire.md), while he was ultimately placed in the Kyrsan Wilds.
 
 ## References
 

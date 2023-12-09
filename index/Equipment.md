@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 81963
+revid: 83567
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -524,7 +524,7 @@ Found from:
 
 _+5 Health_
 
-+1 Rare Pip
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -1848,9 +1848,11 @@ File:Gauthority.png
 
  | 
 
-_+8 Health_  
+_+8 Health_
 
-+1 Rare Pip  
++1 Uncommon Pip
+
++1 Rare Pip
 
 +1 Legendary Pip
 
@@ -1929,10 +1931,13 @@ Found from:
 
  | 
 
-_+5 Health_  
-_+2 Posture_  
+_+5 Health_
 
-+1 Rare Pip  
+_+2 Posture_
+
++1 Uncommon Pip
+
++1 Rare Pips
 
 +1 Legendary Pip
 
@@ -2098,10 +2103,11 @@ Found from:
 
  | 
 
-_+6 Health_  
-_+2 Posture_  
+_+6 Health_
 
-+1 Rare Pip  
+_+2 Posture_
+
++2 Rare Pips
 
 +1 Legendary Pip
 
@@ -2194,9 +2200,9 @@ Found from:
 
  | 
 
-_+6% Stealth_  
+_+6% Stealth_
 
-+1 Rare Pip  
++2 Rare Pip
 
 +1 Legendary Pip
 
@@ -2244,9 +2250,9 @@ Found from:
 
  | 
 
-_+5% Damage vs. Monsters_  
+_+5% Damage vs. Monsters_
 
-+1 Rare Pip  
++2 Rare Pip
 
 +1 Legendary Pip
 
@@ -2861,7 +2867,9 @@ Found from:
 
  | 
 
-_+4 Health_  
+_+4 Health_
+
++1 Uncommon Pip
 
 +2 Rare Pips
 
