@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 83264
+revid: 83443
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -698,6 +698,7 @@ Enemies will briefly hang in place when hit by a shadow move.
     -   An interesting example of this would be using a blast spark on Shadow Gun, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
 -   Just like every other attunement other than Flamecharm, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast.
 -   Shadowcast is the only attunement to have 2 trainers, [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md).
+-   Currently the only attunement to not have a "path." (Thundercall has Surge Path: Unstable Capacitor, Flamecharm has Eruption Path: Lava Serpent, Ironsing has Gilded Path: Scrapsinger, etc.)
 
 ## References
 

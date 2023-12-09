@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 82099
+revid: 83465
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies]
@@ -37,8 +37,8 @@ A Legion Captain's arsenal consists of either a [Champion's Sword](<Champion's_S
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
 | Heavenly Wind | User leaps high into the air before striking down. | ◯ | ◯ | (★☆☆) |
-| Rising Wind | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★☆☆) |
-| Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+| Wind Carve | User empowers their weapon before elegantly releasing a cut that forms a small controllable tempest. | ◯ | ◯ | (★☆☆) |
+| Astral Wind | User casts several fast, wind-enhanced slashes that form a star. | ◯ | ◯ | (★★★) |
 | Rapid Punches | User unleashes a barrage of blows at their opponent. | ◯ | ◯ | (★★☆) |
 
 ### Boons

@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 82758
+revid: 83485
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -37,8 +37,9 @@ Here are estimated chances for each shroom variant, after finding 100 shroom cos
 -   Charmshroom Costume: **~3%**
 -   Zapshroom Costume: **~2%**
 
-## Gallery
+## Trivia
 
+-   You cannot obtain the special variants through the 23 Medal Shop.
 -   This was released during [Hallowtide](Hallowtide.md) 2023 as a head equipment
 -   This item costs 100 Joy in the Hallowtide Shop, but can be alternatively obtained through the Trial of Gourdskipper (much more preferable).
 -   The Costumes are based on the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) races from Rogue Lineage.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 83401
+revid: 83473
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,11 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Starkindred**
-
-_**"You vow to feel the knowledge of all the is, all at once. Your heart beats with the world itself, as the Stars above watch over you."**_
-
-It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
+**[Oath](Oaths.md): Starkindred** is one of the 11 obtainable Oaths in _Deepwoken_. It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
 
 ## Obtainment
 

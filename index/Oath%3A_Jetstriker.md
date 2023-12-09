@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 83396
+revid: 83476
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,11 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Jetstriker**
-
-_**"You vow to flow with the Song itself drifting across where the trails may take you. If the Song permeates everything then let it be your conduit, and you it's master."**_
-
-It is highly praised (and hated) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath.
+**[Oath](Oaths.md): Jetstriker** is one of the 11 obtainable Oaths in _Deepwoken_. It is highly praised (and hated) for its fluentness in agility. This results in "Trackstar" Builds almost exclusively using this Oath.
 
 ## Obtainment
 

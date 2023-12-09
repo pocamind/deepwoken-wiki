@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 82132
+revid: 83486
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies]
@@ -28,7 +28,8 @@ Their arsenal is composed of an Officer Sabre/Adretian Axe along with the [Flame
 
  | ◯ | ◯ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
-| Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ◯ | (★★★) |
+| Flame Grab | User lunges forward for a grab that slams and burns incoming opponents into the ground. | ◯ | ◯ | (★★☆) |
+| Ash Slam | User imbues their fist with flames that explode on impact with the ground. | ◯ | ◯ | (★★★) |
 
 ### Talents
 
@@ -48,7 +49,7 @@ An Authority Lieutenant executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | (Officier Sabre):Pins down opponent before slicing their throat.
+| Execute | (Officer Saber):Pins down opponent before slicing their throat.
 (Adretian Axe):Pins down the opponent before splitting their skull with the weapon.
 
  |

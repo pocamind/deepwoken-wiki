@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 79144
+revid: 83438
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -24,7 +24,7 @@ categories: [Weapons, Pages with broken file links, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Etris weapon store |
+| obtainment | Etris weapon store, The Depths |
 | description | "A spear that was once utilised in Gremor rituals pledged to Navae, but has now been appropriated across the Eastern Luminant" |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 82100
+revid: 83464
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Legion Snipers are Humanoid NPCs who appear to wear a [Legion Centurion](Legion_Centurion.md) outfit along with a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots. They only use a single attack, that being the "[Grand Javelin](Thundercall.md)" mantra. This encounter is exclusive to [Starswept Valley](The_Starswept_Valley.md). Killing one will reward the player with a chest.
+Legion Snipers are Humanoid NPCs who appear to wear a [Legion Centurion](Legion_Centurion.md) outfit along with a Khan Helmet, a pair of Khan Pauldrons and a pair of Khan Boots. They wield the [Thundercall](Thundercall.md) attunement and are capable of using several high level mantras. This encounter is exclusive to [Starswept Valley](The_Starswept_Valley.md). Killing one will reward the player with a chest.
 
 According to [Amara](Amara.md), these Legion Snipers are hostile to "outlanders", which is what the Legion calls people outside of their Empire.
 
@@ -34,7 +34,7 @@ Assault
  | ◯ | ◯ | (★☆☆) |
 | 
 
-Grand Javelin
+> Grand Javelin
 
  | User throws a spear made of pure lightning in front of them.
 
@@ -42,7 +42,26 @@ Grand Javelin
 -   This move has a very short cooldown with them able to use it after around just 2.5s.
 
  | ◯ | ✗ | (★★★) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
+| 
+
+> Bolt Piercer
+
+ | User fires an arrow of lightning at the sky, causing multiple drops of thunder to rain at the location of their foes. | ◯ | ◯ | (★★☆) |
+| 
+
+> Thunder Kick
+
+ | User heavily kicks forward, producing an unrelenting kick like a clap of thunder. | ◯ | ◯ | (★★★) |
+| 
+
+> Electro Carve
+
+ | User produces a highly potent field of electromagnetism, shocking all inside. | ◯ | ◯ | (★☆☆) |
+| 
+
+> Vent
+
+ | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### Talents
 
@@ -58,7 +77,7 @@ Grand Javelin
 -   Grand Javelin can be blocked with high enough posture.
 -   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health.**
 -   They will parry all of your attacks, so expect to get in a very very long parry trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
--   Its better to engange in parry trades than fight them at distance so they dont have the chance to spam Grand Javelin, which deals a huge amount damange, pushes you away and last but not less instagrips if you are low.
+-   It's better to engage in parry trades than fight them at distance so they don't have the chance to spam Grand Javelin, which deals a huge amount of damage, pushes you away and will instantly grip you if you are low.
 
 ## Trivia
 
