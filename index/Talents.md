@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83725
+revid: 83753
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -77,6 +77,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisite: 5 Agility
+    -   Note: Killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
@@ -871,7 +872,7 @@ _**"I enjoy sea food."**_
 
 ### Frost Forger
 
-**"I survive of the frozen Elements" (something like that)**
+**"I survive of the frozen Elements."**
 
 -   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
     -   Prerequisites: Ice Smash, 35 Frostdraw

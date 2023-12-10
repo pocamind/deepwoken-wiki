@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 83435
+revid: 83750
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -296,7 +296,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Reward/s**: EXP
 
-##### Repeatable Ordinary Quests
+## Repeatable Ordinary Quests
 
 These quests have EXP, chests and/or reputation as rewards and are repeatable.
 

@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 82283
+revid: 83760
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Cut Content]
@@ -14,7 +14,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Black Divers are enemies that appear as part of "Villian" reputation [ambush events](Faction_Ambushes.md) for high level players from The Divers.
+Black Divers are town guard reinforcements that can appear within Castle Light.
+
+They are also enemies that appear as part of "Villian" reputation [ambush events](Faction_Ambushes.md) for high level players from The Divers.
 
 ## Moveset
 
