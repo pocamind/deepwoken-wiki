@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 83328
+revid: 83729
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -39,6 +39,8 @@ The Anklets of Alsin are a light weapon that can be found in all depths chests, 
 -   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
 
 ## Benefits
+
+Serves as a stat-stick to give players:
 
 -   Access to [Stars](Weapons.md).
 -   Access to [Enchants](Enchantments.md).

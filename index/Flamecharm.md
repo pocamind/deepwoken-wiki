@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 83627
+revid: 83731
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -398,7 +398,8 @@ _Conjure an undying flame for the caster and their comrades to rest by._
 -   Lasts one minute without Duration Modifiers.
 -   Compatible with Duration, Intensity and Mantra Size modifiers.
 -   Ritual casting.
--   Does not work in The Depths unless used with the Undying Flame Talent.
+-   Does not work in Layer 1 of the Depths unless used with the Undying Flame Talent.
+-   Does not work in Layer 2 of the Depths at all.
 
  |
 |  | 

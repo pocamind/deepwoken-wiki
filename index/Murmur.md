@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 82713
+revid: 83730
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -33,7 +33,7 @@ Murmurs scale with the user's Power, reaching their maximum potential at Power 2
 
 Template:ImageCaption Infobox_"An application of the Song that enables one to channel the Murmur into raw strength. Press H."_
 
-**Murmur: Ardour**, is a Murmur that when active doubles all outgoing posture damage and reduces incoming posture damage by 15%. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum as long as it is active. It will also add a vibrato to the sound of your weapon's swings. While having the Murmur active, you can't crouch and listen until you deactivate it or the Murmur runs out (if you're not at Power 20).
+**Murmur: Ardour**, is a Murmur that when active doubles all outgoing posture damage and reduces incoming posture damage by 15%. Activating the Murmur will release gentle purple particles from your weapon, and will make a quiet hum as long as it is active. It will also add a vibrato to the sound of your weapon's swings.
 
 By default, it drains a large amount of [ether](Ether.md) when used; however, at Power 19 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your ether regen won't be affected.
 
