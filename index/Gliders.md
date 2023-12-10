@@ -1,6 +1,6 @@
 ---
 title: Gliders
-revid: 83164
+revid: 83693
 source: https://deepwoken.fandom.com/wiki/Gliders
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Utilities, Items]
@@ -11,11 +11,11 @@ categories: [Pages with broken file links, Utilities, Items]
 | Gliders | |
 |---|---|
 | usage | Allows the user to glide across long distances. |
-| recipe | x2 Stick, x2 Cloth, or x2 Stick, x2 Megalodaunt Hide |
+| recipe | x2 Stick, x2 Cloth, x2 Stick, x2 Megalodaunt Hide |
 
 **Gliders** are utility items in _Deepwoken_ that give the player the ability to glide.
 
-## Overview
+## Description
 
 Gliders are a utility that can be crafted with a schematic given in [Pathfinder's Respite](<Pathfinder's_Respite.md>). It gives the player the ability to glide, allowing easy travel through terrain. There is also a special Feathered Glider, which is given to [Tirans](Tiran.md) as an innate talent.
 

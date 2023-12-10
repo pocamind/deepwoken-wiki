@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 83595
+revid: 83722
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -33,7 +33,7 @@ It has no practical functions and merely acts as a safe place for moderators to 
 ### Gallery
 
 -   A gallery containing the illustrations of Moderators is hung around the walls.
--   At the end of the hall, there is a sword in stone.
+-   At the end of the hall, there is a sword in a stone.
 -   Other than being a gallery, this also serves as an arena for Moderators to fight.
 
 ### Kitchen
@@ -48,14 +48,20 @@ It has no practical functions and merely acts as a safe place for moderators to 
 ### Office Creature
 
 -   Jeffery the Office Creature is a flying cat that ragdolls anyone hit by him.
+-   He releases a "Meow" sound effect whenever he hits someone or a surface.
+
+### HorribleTM
+
+-   An entity resembling head moderator HorrorTM.
 
 ## Maps
 
 A map can be found at [Maps#The\_Hall\_of\_Shattered\_Wills](Maps.md#the-hall-of-shattered-wills)
 
-## Trivia/Notes
+## Trivia
 
--   The music for this area is [The Hall of Shattered Wills](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [The Hall of Shattered Wills](Deepwoken_OST.md) by Naktigonis.
+-   The sword is from one of Nuttoon's previous projects.[\[1\]](#cite-note-1)
 -   The room is located at the coordinates X 40000, Y 40000, Z 40000.
 -   The cooldown and nutritional values of the YUM YUM BAR are made in such a way that it is impossible to subtain oneself with just YUM YUM BAR. Mods often accidently starve to death while performing moderation work.
 -   Moderator can use the points they gain through moderation actions to:
@@ -63,3 +69,7 @@ A map can be found at [Maps#The\_Hall\_of\_Shattered\_Wills](Maps.md#the-hall-of
         -   Top contributors get their own desk.
     -   Buy a picture frames for a drawing of their character to be displayed in the office.
 -   If a non-moderator is found in this room, whether it be by methods such as Wayward Gem, or alternative methods, they will be forcibly reset back to their spawn, or worse.
+
+## References
+
+1.  [↑](#cite-ref-1)

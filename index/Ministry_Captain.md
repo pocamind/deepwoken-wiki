@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 82110
+revid: 83667
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -25,8 +25,11 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 | Assault | Firmly swings dagger at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
-| Void Lance | Caster opens a gate allowing a void tentacle to attack at an aimed opponent. | ◯ | ◯ | (★☆☆) |
+| Dark Blade | The caster dashes forward and does 3 shadow infused slashes with their weapon. | ◯ | ◯ | (★☆☆) |
 | Shadow Roar | Releases a roar of shadow and Debris in the direction of the enemy doing minor damage. | ◯ | ◯ | (★☆☆) |
+| Shadow Eruption | The user makes a swipe with their right hand before releasing a large sphere of shadow. |  |  |  |
+| Clutching Shadow | The caster raises their their hand and lifts one target in the air, then proceeds to slam them in the ground. |  |  |  |
+| Encircle | The caster conjures shadows around the enemy that deals damage and teleports the caster towards them. |  |  |  |
 
 ### Boons
 
@@ -52,7 +55,6 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 ## Trivia
 
--   Their "Void Lance" ability is a reskin of the [Glacial Arc](Frostdraw.md) mantra, and it's apparently only exclusive to them and the scouts.
 -   Ministry Captains are identical an appearance to [Ministry Scouts](Ministry_Scout.md), yet hold a higher rank.
     -   This trend can also be seen with [Apprentice Divers](Apprentice_Diver.md) and regular [Divers](Diver.md).
     -   They are NOT to be confused with their scout variant, as using a light approach on them will almost always result in death for their higher HP pool and their variety of attacks along with them spawning in packs of 3.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83662
+revid: 83725
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -679,8 +679,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Restore 5% Posture on a successful dodge.
     -   Prerequisite: 15 Strength, 45 Agility.
 
--   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced. (+9 Carry Load, +1 Passive Agility)
-    -   Reduce posture damage taken by 10% while two handing.
+-   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
     -   The head equipment "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this talent.
 
@@ -1041,7 +1040,7 @@ _**"I enjoy sea food."**_
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   Prerequisite: 75 Willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
+    -   Prerequisite: 80 Willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
 
 ### Human Architecture
 
@@ -2038,13 +2037,13 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _**"I enjoy a good meal."**_
 
--   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%.
+-   Artisan Chef \[Common Talent\] - The food you cook now becomes Artisan food, increasing its hunger and thirst gained by +30%. (+3 Elemental Intensity)
     -   Increases food nutritional value by 25%.
-    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 80 of your own Dishes
+    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
 
--   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%.
+-   Master Chef \[Common Talent\] - Buffs applied by food you cook now have their buff effects amplified by +30%. (+5 Elemental Intensity)
     -   Increases food boosts by 30%.
-    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked and **EATEN** 80 of your own Dishes
+    -   Confirmed Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 Dishes
 
 ### The Demon Blade
 

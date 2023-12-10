@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 83641
+revid: 83723
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -74,7 +74,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~6%, statistic-based, expect a large margin of error when compared to real rates)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~5%, statistic-based, expect a large margin of error when compared to real rates)**
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 
@@ -106,8 +106,8 @@ File:Sinner's Ash.png
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~1%, unconfirmed chance, expect a possible large margin of error)**
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~1%, unconfirmed chance, expect a possible large margin of error)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
 
  |
 | 
@@ -124,8 +124,8 @@ It grants the user +20 knowledge on subsequent uses.
  | 
 
 -   [The Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~1%, unconfirmed chance, expect a possible large margin of error)**
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~1%, unconfirmed chance, expect a possible large margin of error)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.5%, unconfirmed chance, expect a possible large margin of error)**
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.5%, unconfirmed chance, expect a possible large margin of error)**
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 82223
+revid: 83712
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -27,6 +27,11 @@ An Ignition Union Guard is equipped with either a [Falchion](Falchion.md) or an 
 \[[Alloyed Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
  | ◯ | ✗ | (★★☆) |
+| Metal Eruption | The user stomps on the, and spawns a furry of metal spikes. | ? | ? | (☆☆☆) |
+| Firing Line | The user spawns 5 gun behind them witch will start firing at the target immediately. | ◯ | ? | (★★☆) |
+| Rocket Lance | Create a lance, impale your opponent, and see them flying. | ? | ? | (★★★) |
+| Chain Pull | Conjure a chain to pull your opponent. | ? | ? | (★☆☆) |
+| Metal Ball | Form yourself into a metal ball and rush forward. | ? | ? | (★★☆) |
 
 ### Boons
 

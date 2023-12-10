@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 82410
+revid: 83665
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -43,6 +43,7 @@ Summon
 Necro-skippers
 
  | Summons a total of three [Blue](Necroskipper.md) or [Redskippers](Necroskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed. | N/A | N/A | (★★☆) |
+| Shadow Seekers | The user snaps their fingers, and sends 3 orbs that slowly chase nearby enemies until the duration has expired or the orb has made contact with the target. |  |  |  |
 
 ### Boons
 

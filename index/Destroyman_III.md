@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 83194
+revid: 83683
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -73,6 +73,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   If you don't feed me, I will die. Can you live with that guilt?
 -   If you thought the rumbling was bad, wait until you hear about taxes.
 -   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking.
+-   I've been thinking of starting a band recently. Might call it Lore Tornado. What do you think?
 -   Just wait until I'm freed from the coil of your monitor.
 -   Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
 -   MISSION: Determine if it's possible to prompt the sun to explode.
@@ -169,7 +170,8 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 
 ## Trivia
 
--   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your attunement
+-   The trailer promoting the Destroyman III ~plushie~ physical form, was rather controversial, as it used AI generated backgrounds for several scenes. TheRealPunchee, who made the trailer, apologized, stating he was forced to due to time constraints.
+-   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your Attunement.
 -   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the game "[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)."
 -   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)", along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by Agamatsu in one of his streams (same goes for the April fools lobby music)
 -   The tooltip "Flamecharm? Daring today, aren't we?" is a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"

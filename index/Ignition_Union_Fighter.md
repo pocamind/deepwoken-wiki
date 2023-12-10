@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 82094
+revid: 83684
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -31,6 +31,9 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
  | ◯ | ✗ | (★★☆) |
+| Needle Barrage | A barrage of metal rods | ? | ? | (☆☆☆) |
+| Firing Line | The user spawn 5 gun's behind them witch will start firing the target immediately | ◯ | ◯ | (★★☆) |
+| Oxidizing Rush | conjur metal swords and rush them forward | ◯ | ? | (★★☆) |
 
 ### Boons
 

@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 83663
+revid: 83681
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -46,7 +46,7 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 -   Frostbite - Enemies no longer heal when under the effect of your chill.
 -   Time To Go - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration.
 -   Steady Footing - You're much more resistant to being pushed around.
--   Scaredy Cat(XD?) - When enemies initiate a fight first, gain a speed boost.
+-   Scaredy Cat - When enemies initiate a fight first, gain a speed boost.
 -   Sunken Predator - Enemies you hit in the water have their speed buffs nullified and are slowed.
 -   Low Blow - Your attacks against ragdolled enemies no longer deal reduced damage.
 -   Triathlete - You swim faster in water.

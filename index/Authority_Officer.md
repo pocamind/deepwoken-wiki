@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 82061
+revid: 83724
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Authority Enemies]
@@ -49,6 +49,7 @@ Jolt Grab
 Thunder Kick
 
  | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
+| Lightning Blade | Arcing blades of electricity. | ? | ? | (☆☆☆) |
 
 ### **Boons:**
 
