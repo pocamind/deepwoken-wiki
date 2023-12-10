@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 74804
+revid: 83617
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -35,7 +35,7 @@ A race of nomadic dragons from the North.
     <li>You regenerate health at a decreased rate when out of combat.</li>
   </ul></li>
   </ul></li>
-  </ul><figure><figcaption><p>A Drakkard using Teachings of the Edenkite.</p></figcaption></figure></td>
+  </ul></td>
 </tr>
 <tr>
   <td><center><font>+2</font></center></td>

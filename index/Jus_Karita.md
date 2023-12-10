@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 83278
+revid: 83649
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -31,7 +31,7 @@ categories: [Weapons, Fists]
 
 ## Description
 
-Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique talents](Talents.md#justicar), slightly more range, and synergizes with the mantra Tacet Drop Kick. Plus, the [Justicar](<Justicar_(Origin).md>) armor talent gives it a 20% damage boost, a tiny bit better than the other fist-style armor talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs. Additionally, using it will save you from having to obtain a weapon, and there are some who swear on this fighting style for how fun it may be.
+Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique talents](Talents.md#justicar), slightly more range, and synergizes with the mantra Tacet Drop Kick. Plus, the [Justicar](<Justicar_(Origin).md>) armor talent gives it a 20% damage boost, a tiny bit better than the other fist-style armor talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs. Additionally, using the new Jus Karita exclusive Weapon [Anklets Of Alsin](Anklets_of_Alsin.md) will allow you access to stars (pen, dmg, weight) and [Enchantments](Enchantments.md) and give you chip damage (10%). Having the [Justicar](<Justicar's_Armor.md>) armor and 100 light weapon stat you will deal 30.36 damage.
 
 ### Critical
 

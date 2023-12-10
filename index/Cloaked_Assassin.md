@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 82119
+revid: 83663
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -22,11 +22,16 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| Critical | Throws spear at opponent and then pulling them in with a white chain. | ◯ | ✗ | (★★☆) |
+| Assault | Attacks with their weapon and finishes the combo with a kick. | ◯ | ◯ | (★☆☆) |
+| Critical | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★★☆) |
 | Ice Daggers | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
 | Shadow Assault | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
-| Strong Left | the user rears their hand and punches, ragdolls | ◯ | ✗ |  |
+| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+| Ice Eruption | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze.
+  
+
+ | ✗ | ✗ | (★★☆) |
+| Revenge | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
@@ -61,7 +66,11 @@ A Cloaked Assassin executes it's opponent after knocking them:
 | --- | --- |
 | Execute | Pins down opponent before slicing their throat with their blade. |
 
+## Tips
+
+-   S-holding and constantly rolling and blocking is heavily recommended, as they WILL spam mantras.
+
 ## Trivia
 
--   Cloaked Assassin's wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.
+-   Cloaked Assassins wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.
 -   For some strange reason Cloaked Assassin's don't have **[Audacity](Talents.md#tyrant)** but [Bounty hunters](<Bounty_Hunter_(NPC).md>) do.

@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 79151
+revid: 83583
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -15,7 +15,7 @@ categories: [Weapons, Fists]
 | damage | 12 |
 | scaling | 7 |
 | range | 7 |
-| swing speed | 0.75x |
+| swing speed | 0.85x |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |

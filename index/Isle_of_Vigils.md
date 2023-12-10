@@ -1,6 +1,6 @@
 ---
 title: Isle of Vigils
-revid: 83168
+revid: 83598
 source: https://deepwoken.fandom.com/wiki/Isle_of_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -135,5 +135,3 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Vigils has one of the best [fishing](Fishing.md) spots which is near the docks. There is a high chance of a fishing up a chest.
 -   The Isle of Vigils used to be attached to [Etris](Etris.md), but now they are separate.
 -   Due to its relative lack of popularity, the Isle of Vigils is less targeted by those who search to kill players, which makes it generally safer than Etris.
--   New players have a tendency to die to the temple guards. you may occasionally find their corpses just outside the gates.
--   The leader of the Isle of Vigils guild is eetrean.

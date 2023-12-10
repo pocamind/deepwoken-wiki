@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 83577
+revid: 83647
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -435,8 +435,22 @@ File:Attunement-less icon.png
 
  | Karita Leap (☆☆☆) | Launch yourself into a flying kick, backflipping into the air if you hit a wall. | 
 
--   **Requirements: 20 Light Weapon, Combat Mantra**
-    -   Hitting a wall causes you to backflip
+-   **Requirements: 20 Light Weapon, Combat Mantra (Requires [Jus Karita](Jus_Karita.md))**
+    -   Hitting a wall causes you to backflip.
+
+ |
+| 
+
+File:Attunement-less icon.png
+
+ | Karita Divebomb
+
+(☆☆☆)
+
+ | Launch into the air and deliver a devastating divebomb kick. Chains from Karita Leap. | 
+
+-   **Requirements: 20 Light Weapon, Combat Mantra (Requires [Jus Karita](Jus_Karita.md))**
+    -   Jump into air and slam down.
 
  |
 

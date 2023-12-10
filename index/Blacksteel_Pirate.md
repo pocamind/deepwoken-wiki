@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 83544
+revid: 83603
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -26,6 +26,7 @@ Their arsenal consists of either a [Darksteel Greatsword](Darksteel_Greatsword.m
 | Rapid Punches | _User unleashes a barrage of blows at their opponent._ | ◯ | ◯ | (★★☆) |
 | Shadow Assault | _Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster while applying darkness._ | ◯ | ◯ | (★★☆) |
 | Pressure Blast | A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback. | ◯ | ◯ | (★★☆) |
+| Exhaustion Strike | A melee strike that removes your posture's damage on hit. | ◯ | ◯ | (★☆☆) |
 | Assault | _Firmly swings weapon at opponent and finishing the combo by kicking them._ | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
 \[[Sword](<Sword_(weapon).md>)\] Performs a windup before thrusting blade forward. \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.

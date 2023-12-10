@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 82108
+revid: 83646
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -30,6 +30,10 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 | Assault | Swiftly swings dagger at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | The knife uses the Whaling Knife's special critical, creating a wave of red energy as they slash forward. | ◯ | ✗ | (★★☆) |
 | Time-Slowing Orb | Stops and conjures a growing orb that slows down the movement of everyone except Knives of Eylis members. | ✗ | ✗ | (★★☆) |
+| Dash | An agile dash | ◯ | ◯ | (☆☆☆) |
+| Adrenaline Surge | An adrenaline rush of mobility | ◯ | ◯ | (☆☆☆) |
+| Rapid Slashes | Rush down your opponent cutting them apart | ◯ | ◯ | (☆☆☆) |
+| Revenge | A vengeful rush | ◯ | ◯ | (☆☆☆) |
 
 ### Boons
 

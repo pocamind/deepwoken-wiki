@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 82583
+revid: 83661
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -25,7 +25,7 @@ A Ministry Scout's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and t
 | Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing medium damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
-| Shadow Arc | Caster conjures an arc of shadow and pierces the opponent. | ◯ | ◯ | (★☆☆) |
+| Dark Blade | The caster dashes forward and does 3 shadow infused slashes with their weapon. | ◯ | ◯ | (★☆☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### Boons

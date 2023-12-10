@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 82788
+revid: 83589
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -34,11 +34,17 @@ The enemies sent differ depending on the faction sending them. Below is a list o
  |
 | [Ignition Union](The_Ignition_Union.md) | 1 [Mechaloduant](Megalodaunt.md#mechalodaunt) | "GROARRRRRR!" |
 | [Ignition Union](The_Ignition_Union.md) | 3 Arcwarders | "There's the scab, lads!" |
-| [Hundred Legions](The_Hundred_Legions.md) | 3 [Legion Captains](Legion_Captain.md) | "You won't stand long before our might!"
+| [Hundred Legions](The_Hundred_Legions.md) | 3 [Legion Captains](Legion_Captain.md)
+
+3 [Legion Soldiers](Legion_Soldier.md)
+
+ | "You won't stand long before our might!"
 
 "For the Hundred Legions!"
 
 "Kneel before the might of the Legions, worm!"
+
+"Tread no further west, worm!"
 
  |
 | [Summer Company](The_Summer_Company.md) | 3(?) [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | ??? |

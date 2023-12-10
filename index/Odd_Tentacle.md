@@ -1,6 +1,6 @@
 ---
 title: Odd Tentacle
-revid: 83335
+revid: 83608
 source: https://deepwoken.fandom.com/wiki/Odd_Tentacle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
