@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 82113
+revid: 83792
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0 **Songseeker Frostdrawers** are a [humanoid enemy](Enem
 
 Songseeker Frostdrawers are enemy NPCs that can be found in [Songseeker Wilds](Songseeker_Wilds.md) and on [Minityrsa](Minityrsa.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md). As for [Minityrsa](Minityrsa.md), they can only spawn in Random Encounters.
 
-Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit, varying with their [Race](Aspects.md) and gender.
+Songseeker Frostdrawers wear a Royal Guard Mask (Blue) and an Unknown/Unlisted outfit, Varying with their [Race](Aspects.md) and gender.
 
 ## Moveset
 
@@ -22,26 +22,14 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| 
-Assault
-
- | Firmly pummels opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
-
-Ice Spikes
-
- | Conjure a spike of ice from the ground at cursor location. | ◯ | ◯ | (★★☆) |
-| 
-
-Ice Daggers
-
- | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
-| 
-
-Ice Eruption
-
- | Forms a path of ice spikes in front of user. | ✗ | ◯ | (★★☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
+| Assault | Firmly pummels opponent before finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Raises left leg before slamming it to the ground below. | ◯ | ✗ | (★★☆) |
+| Ice Spikes | Conjure a spike of ice from the ground at cursor location. | ◯ | ◯ | (★☆☆) |
+| Ice Daggers | User forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
+| Ice Blade | Creates two blades of ice and rushes forward rapidly slashing. | ◯ | ◯ | (★☆☆) |
+| Ice Eruption | Erupts ice from the ground trapping anyone caught in it. | ✗ | ✗ | (★★★) |
+| Ice Smash | Creates a giant mace of to smash opponents with. | ◯ | ✗ | (★★☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
 ### **Boons:**
 
@@ -49,7 +37,6 @@ Ice Eruption
 -   High Supply - A Songseeker Frostdrawer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
 -   Frozen Pincushion - If the victim is hit by every dagger from Ice Daggers, they will become completely frozen for a short period of time.
 -   Emergency Extinguisher - The Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
--   Mantra Modification - A Songseeker Frostdrawer's "Ice Eruption" (Verse 1) mantra is modified with a [Round Spark](Mantra_Modifiers.md).
 
 ### Talents
 

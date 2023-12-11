@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 82115
+revid: 83801
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0**Songseeker Galebreathers** are a [humanoid enemy](Enem
 
 A Songseeker Galebreather is an enemy NPC that can be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Galebreather wears a [Royal Guard Mask (Green)](Aspirant_Mask.md) and an Unknown/Unlisted outfit with their [Race](Aspects.md) and gender varying.
+A Songseeker Galebreather wears a [Royal Guard Mask (Green)](Aspirant_Mask.md) and an Unknown/Unlisted outfit, Varying with their [Race](Aspects.md) and gender.
 
 ## Moveset
 
@@ -22,26 +22,12 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| 
-Assault
-
- | Firmly pummels at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
-| 
-
-Gale Lunge
-
- | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
-| 
-
-Heavenly Wind
-
- | Leap high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
-| 
-
-Rising Wind
-
- | Caster uppercuts their opponent, rapidly damaging them. | ✗ | ◯ | (★★☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
+| Assault | Firmly pummels at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Raises left leg before slamming it to the ground below. | ◯ | ✗ | (★★☆) |
+| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+| Heavenly Wind | Leap high into the air before diving down, striking any targeted opponent. | ◯ | ◯ | (★★☆) |
+| Air Force | A burst of air directly in front of the user. | ◯ | ◯ | (★☆☆) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
 ### **Boons:**
 
@@ -83,3 +69,4 @@ A Songseeker Galebreather executes it's opponents after knocking them:
 -   They're relatively easy to fight, even at low Power.
 -   They look exactly like [Thunder Songseekers](Songseeker_Thundercaller.md).
 -   They were originally not in the game. When added, it was stated in the update log that they had 'been on vacation.'
+-   They are the only songseekers to have only 3 mantras.

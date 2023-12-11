@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 83759
+revid: 83784
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -178,111 +178,46 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 Duke's Dialogue before fighting him will change depending on certain factors about your character:
 
-Normal Dialogue
+First Fight
 
-Duke: So you're the one running about tripping my alarms. Care to explain yourself?
+-   Duke: So you're the one running about tripping my alarms. Care to explain yourself?
+    1.  The Lord Regent sent me to retrieve the Forge.
+        -   Duke: That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
+            1.  That 'thing'? Agent?
+                -   Duke: _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter. \*_
+                    1.  What?
+                        -   [**Deepbound**](Origins.md) **\-** Duke: _\*The Duke Smiles\*_ I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...
+                            1.  What are you talking about?
+                                -   Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
+                                    1.  \[End Dialogue\]
+                        -   [**Voidwalker**](Origins.md) **\-** Duke: _\*The Duke smiles.\*_ Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...
+                            1.  What are you talking about?
+                                -   Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
+                                    1.  \[End Dialogue\]
+                        -   **Other -** Duke: _\*The Duke Smiles\*_ I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...
+                            1.  What are you talking about?
+                                -   Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
+                                    1.  \[End Dialogue\]
+    2.  What are you doing with the Forge?
+        -   Duke: _\*He narrows his eyes, deathly cold\*_ Everything I can do to stop the oncoming catastrophe, you _indolent worm_. With it, I turn _useless fools_ like you into something of use... _You don't know what I do for mankind._
 
-1: The Lord Regent sent me to retrieve the Forge.
-
-Duke: That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
-
-1: That 'thing'? Agent?
-
-Duke: _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter. \*_
-
-2:What are you doing with the Forge?
-
-Duke: _\*He narrows his eyes, deathly cold\*_ Everything I can do to stop the oncoming catastrophe, you _indolent worm_. With it, I turn _useless fools_ like you into something of use... _You don't know what I do for mankind._
-
-1: What?
-
-Duke: _\*The Duke Smiles\*_ I'd thought for sure you were an agent, but you're what- let me guess, some notable Etrean adventurer or something? That island's prospects are certainly grim...
-
-1: What are you talking about?
-
-Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
-
-1: \[End Dialogue\]
-
-Diver Dialogue
-
-This dialogue is only obtainable through having the [Deepbound](Origins.md) Origin.
-
-Duke: So you're the one running about tripping my alarms. Care to explain yourself?
-
-1: The Lord Regent sent me to retrieve the Forge.
-
-Duke: That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
-
-1: That 'thing'? Agent?
-
-Duke: _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter. \*_
-
-1: What?
-
-Duke: _\*The Duke Smiles\*_ I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...
-
-1: What are you talking about?
-
-Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
-
-1: \[End Dialogue\]
-
-Knives of Eylis Dialogue
-
-This dialogue is only obtainable through having the [Voidwalker](Origins.md) Origin.
-
-Duke: So you're the one running about tripping my alarms. Care to explain yourself?
-
-1: The Lord Regent sent me to retrieve the Forge.
-
-Duke: That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.
-
-1: That 'thing'? Agent?
-
-Duke: _\*The Duke eyes you up and down for a moment before bursting into a roaring laughter. \*_
-
-1: What?
-
-Duke: _\*The Duke smiles.\*_ Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...
-
-1: What are you talking about?
-
-Duke: There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.
-
-1: \[End Dialogue\]
-
-Contractor Dialogue
+[Contractor](Oath%253A_Contractor.md) Dialogue
 
 This dialogue is only obtainable through having the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
-Duke: So you're the one running about tripping my alarms. Care to explain yourself?
-
-1: Let's skip the pleasantries, you know why I'm here.
-
-Duke: You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
-
-1: \[End Dialogue\]
+-   Duke: So you're the one running about tripping my alarms. Care to explain yourself?
+    1.  Let's skip the pleasantries, you know why I'm here.
+        -   Duke: You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
+            1.  \[End Dialogue\]
 
 Rematch
 
-Duke: The ruins of that city will **never** cage me. And with what's at stake... I can't stop now.
-
-1: Let's get on with it.
-
-Duke: You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for fools who would deny it.
-
-1: \[End Dialogue\]
-
-Rematch while being a Contractor
-
-Duke: The ruins of that city will **never** cage me. And with what's at stake... I can't stop now.
-
-1: Let's get on with it.
-
-Duke: You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
-
-1: \[End Dialogue\]
+-   Duke: The ruins of that city will **never** cage me. And with what's at stake... I can't stop now.
+    1.  Let's get on with it.
+        -   **Contractor** - Duke: You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.
+            1.  \[End Dialogue\]
+        -   **Other -** Duke: You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for fools who would deny it.
+            1.  \[End Dialogue\]
 
 ## Trivia
 

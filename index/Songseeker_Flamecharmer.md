@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 82112
+revid: 83797
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0 **Songseeker Flamecharmers** are a [humanoid enemy](Ene
 
 ## Description
 
-A Songseeker Flamecharmer is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns.
+A Songseeker Flamecharmer is an enemy NPC that can only be found in [Songseeker Wilds](Songseeker_Wilds.md). They can appear in Random Encounters or on fixed spawns in [Songseeker Wilds](Songseeker_Wilds.md).
 
-A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted outfit with their [Race](Aspects.md) and gender varying.
+A Songseeker Flamecharmer wears a Royal Guard Mask (Red) and an Unknown/Unlisted outfit, Varying with their [Race](Aspects.md) and gender.
 
 ## Moveset
 
@@ -22,57 +22,19 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| 
-Assault
-
- | 
-
-Firmly pummels opponent and finishing up the combo by kicking them.
-
- | ◯ | ◯ | (★☆☆) |
-| 
-
-Fire Blade
-
- | 
-
-User slams down with their blade coated in flames.
-
- | ◯ | ✗ | (★★★) |
-| 
-
-Flame Repulsion
-
- | 
-
-After a wind-up of ~2 seconds, user releases a burning AoE blast.
-
- | ✗ | ◯ | (★★☆) |
-| 
-
-Rising Flame
-
- | 
-
-User spins and releases a fury of flames that sends both the user and opponent vertically into the air.
-
- | ◯ | ◯ | (★★☆) |
-| 
-
-Flame Assault
-
- | 
-
-User dashes forward covered in flames; hitting anyone in their path.
-
- | ◯ | ◯ | (★★☆) |
-| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
+| Assault | Firmly pummels opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
+| Critical | Raises left leg before slamming it to the ground below. | ◯ | ✗ | (★★☆) |
+| Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★★) |
+| Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ◯ | ◯ | (★☆☆) |
+| Fire Palm | Conjures a wave of fire from the palm of the users hand. | ◯ | ◯ | (★★☆) |
+| Fire Eruption | An eruption of flame under the user hitting anyone nearby. | ◯ | ✗ | (★☆☆) |
+| Flame Ballista | Conjures a blazing arrow that tracks opponents. | ◯ | ✗ | (★★★) |
+| Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
 ### **Boons:**
 
 -   Third Eye - A Songseeker Flamecharmer cannot be assassinated.
 -   High Supply - A Songseeker Flamecharmer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
--   Mantra Modifications - A Songseeker Flamecharmer's "Flame Repulsion" mantra is modified with 3 [Cloudstones](Mantra_Modifiers.md).
 
 ### Talents
 
