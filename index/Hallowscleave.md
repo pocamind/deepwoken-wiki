@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 81662
+revid: 83782
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -30,7 +30,7 @@ categories: [Weapons, Swords]
 
 The Hallowscleave is a MED weapon in the Swords category. It is obtained by getting 70 [Hallowtide](Hallowtide.md) Joy and talking to [Glaive](Glaive_Spellhardt.md). Only obtainable second week of [Hallowtide](Hallowtide.md) in 2022, or anytime in Hallowtide 2023. After gripping an opponent with the Hallowscleave, a bell will play and a temporary, collideble gravestone will spawn.
 
-## Trivia/Notes
+## Trivia
 
 -   Cannot be dropped (same properties as a Soulbound weapon, but you can still pass it down).
 -   Might be a refrence to Horseman's Blade from Terraria.

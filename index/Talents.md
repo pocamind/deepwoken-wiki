@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83753
+revid: 83768
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -251,7 +251,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, sate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst when you are credited for the death of a monster, NPC or player.
     -   Prerequisite: 5 Strength, 5 Willpower
-    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore, Triathlete
+    -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md), Herbivore.
 
 -   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
@@ -1746,7 +1746,7 @@ _**"I enjoy sea food."**_
 -   _Masterwork_ \[Rare Talent, Ironsing Exclusive\] Successful hits from Artisan's Blades will proc metal rods and deal slightly more damage.
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
--   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +10% damage.
+-   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +5% damage.
     -   Prerequisites: All Scrapsinger talents, 70 Ironsing
 
 ### Seeker of Sound

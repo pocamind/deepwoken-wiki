@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 83712
+revid: 83775
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -53,9 +53,7 @@ An Ignition Union Guard executes the player after knocking them:
 
 ## Tips
 
--   When you're fighting an Ignition Union Guard, treat them like an [Bandit Captain](Bandit_Leader.md) but with more health.
 -   Apply standard humanoid fighting tactics.
--   They don't use mantras. It is easy to escape them when you're getting low.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
 -   Make sure to roll when you see them use their **Critical** as hitting them during the **Critical** won't cancel it.
 

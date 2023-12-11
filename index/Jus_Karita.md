@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 83649
+revid: 83778
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -31,17 +31,22 @@ categories: [Weapons, Fists]
 
 ## Description
 
-Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique talents](Talents.md#justicar), slightly more range, and synergizes with the mantra Tacet Drop Kick. Plus, the [Justicar](<Justicar_(Origin).md>) armor talent gives it a 20% damage boost, a tiny bit better than the other fist-style armor talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs. Additionally, using the new Jus Karita exclusive Weapon [Anklets Of Alsin](Anklets_of_Alsin.md) will allow you access to stars (pen, dmg, weight) and [Enchantments](Enchantments.md) and give you chip damage (10%). Having the [Justicar](<Justicar's_Armor.md>) armor and 100 light weapon stat you will deal 30.36 damage.
+Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique Talents](Talents.md#justicar), slightly more range, and synergizes with the mantra Tacet Drop Kick. Plus, the [Justicar](<Justicar_(Origin).md>) armor Talent gives it a 20% damage boost, a tiny bit better than the other fist-style armor Talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs. Additionally, using the Jus Karita exclusive Weapon [Anklets of Alsin](Anklets_of_Alsin.md) will allows access to stars, [Enchantments](Enchantments.md) and give Chip Damage. Having the [Justicar](<Justicar's_Armor.md>) armor and 100 Light Weapon stat you will deal 30.36 damage.
 
 ### Critical
 
-Dash forward while performing a kick. Can be upgraded with a talent to remove the cooldown after landing.
+Dash forward while performing a kick. Can be upgraded with a Talent to remove the cooldown after landing.
 
 ## Obtainment
 
 To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Light Weapon Mastery. Then, you talk to the Justicar named [Polis](Polis.md) at [Etris](Etris.md) seen leaning on the biggest tree at the center of the city. Do his first dialogue option and obtain the ring, then ask him about Justicar. Upon getting Jus Karita, you also unlock it in the weapons tab when starting a new character (you do not need the 40 light weapon or power 5 requirement)
 
-## Notes & Trivia
+## Trivia
 
 -   **Jus Karita** cannot equip [Light's Final Toll](<Light's_Final_Toll.md>).
--   Jus Karita is now able to use a weapon [Anklets of Alsin](Anklets_of_Alsin.md) which is only for Jus Karita.
+-   Jus Karita is able to use a weapon [Anklets of Alsin](Anklets_of_Alsin.md) which is only for Jus Karita.
+-   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

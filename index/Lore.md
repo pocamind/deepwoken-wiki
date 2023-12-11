@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 83330
+revid: 83781
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -973,7 +973,7 @@ An Authority Captain
 -   **Alliances:** _The Kingdom of Etrea_
 -   **Enemies:** _N/A_
 -   **Lore Sources:** _Apprentice Kj_
--   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Reste, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Reste, and a Keeper of the Scholars of the Cloud.
+-   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Reste, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of Races, presumably because they see more merit in combat proficiency and intelligence and thus are less cautious of the sudden arrival of other Races in their kingdom.

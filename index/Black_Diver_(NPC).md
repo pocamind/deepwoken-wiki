@@ -1,11 +1,9 @@
 ---
 title: Black Diver (NPC)
-revid: 83760
+revid: 83776
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Enemies, Cut Content]
-notices:
-  - "This page is still in progress! Please have patience, and aid the creation of this page!"
+categories: [Enemies, Cut Content]
 ---
 
 # Black Diver (NPC)
@@ -16,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Black Divers are town guard reinforcements that can appear within Castle Light.
 
-They are also enemies that appear as part of "Villian" reputation [ambush events](Faction_Ambushes.md) for high level players from The Divers.
+They are also enemies that appear as part of "Villain" reputation [ambush events](Faction_Ambushes.md) for high level players from The Divers.
 
 ## Moveset
 
@@ -92,4 +90,3 @@ A Black Diver executes it's opponent after knocking them:
 -   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on the **1/16/2023** due to their presence contradicting the established low number and high power level of actual Black Divers.
     -   They then went unused until the **5/15/2023** update, which brought faction ambushes, which reintroduced them as part of high level ambush.
 -   They use the Magnet Spark variant of Jolts Grab.
--   When they were at the game it was believed that they were one of the hardest npc's to fight due to their high stats.
