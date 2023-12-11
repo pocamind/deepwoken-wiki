@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 83269
+revid: 83816
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -177,7 +177,6 @@ Applies Metal Rods on hit.
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
 -   Can be upgraded with the "Intuitive Repairs" talent, which causes armor and natural armor to be restored during the mantra's duration.
--   Can negate around 80% of fall damage.
 -   Can be upgraded with eternal logstones for increased duration
 
 Does not negate deferred or fire damage.
@@ -684,6 +683,6 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Metal Gatling could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore, Gold is the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect using Irithine gives a green particle effect but no boost using Erisore gives a blue particle effect but no boost as well.
 -   Oxidizing rush highly resembles Junker Queen's "Rampage" from Overwatch 2.
--   Just like Flamecharm, Frostdraw and Thundercall having their paths, Ironsing also has its own path: Scrapsinger
+-   Just like Flamecharm, Frostdraw, Galebreathe, and Thundercall having their paths, Ironsing also has its own path: Scrapsinger
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 83057
+revid: 83823
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -63,9 +63,9 @@ _Deepwoken_ currently has 1 Unique Outfit that has been discovered.
 
 _Deepwoken_ currently has 6 Confirmed spec/mod armor that has been discovered.
 
-### **Removed**
+### **Unavailable**
 
-_Deepwoken_ currently has 2 Removed armor that has been discovered.
+_Deepwoken_ currently has 2 Unavailable armor that has been discovered.
 
 ## Trivia
 
