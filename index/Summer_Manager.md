@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 82103
+revid: 83845
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -26,6 +26,8 @@ A Summer Manager's arsenal only consists of a [Flintlock](Flintlock.md) pistol:
 | --- | --- | --- | --- | --- |
 | Assault | Pulls the trigger and fires short-ranged a bullet at opponent. | ◯ | ◯ | (★★☆) |
 | Critical | Fires a long-ranged bullet at opponent. | ◯ | ✗ | (★★☆) |
+| Taunt | Taunts those around the caster, causing opponents to be unable to jump and to take more damage. However, in their rage they do extra damage. | ? | ? | (★★★) |
+| Exhaustion Strike | A melee strike that removes the casters posture's damage on hit. | ◯ | ? | (★★☆) |
 
 ### Boons
 

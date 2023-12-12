@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 83792
+revid: 83847
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -31,14 +31,13 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 | Ice Smash | Creates a giant mace of to smash opponents with. | ◯ | ✗ | (★★☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (☆☆☆) |
 
-### **Boons:**
+### Boons:
 
+-   Experienced Fighter - Can block, parry and dodge common attacks and mantras.
 -   Third Eye - A Songseeker Frostdrawer cannot be assassinated.
--   High Supply - A Songseeker Frostdrawer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
--   Frozen Pincushion - If the victim is hit by every dagger from Ice Daggers, they will become completely frozen for a short period of time.
--   Emergency Extinguisher - The Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
+-   Emergency Extinguisher - The Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished(Needs to be retested).
 
-### Talents
+### Talents:
 
 -   Everchanging Aegis - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
 -   Perfect Flash - Having full health causes your mantras to do 25% extra damage.
@@ -70,5 +69,4 @@ A Songseeker Frostdrawer executes it's opponents after knocking them:
 ## Trivia
 
 -   They are considered one of the most dangerous and tedious to fight humanoid NPCs, **especially** at a low power.
--   If they knock you while you are in water and you have Scuba Drowner, their ice eruption can keep you trapped underwater while their other moves continually knock you after you recover with no way to escape.
--   One of the 4 enemies that use the old ice eruption.
+-   One of the 4 enemies that used to use the old ice eruption.

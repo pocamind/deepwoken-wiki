@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 83719
+revid: 83831
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1761,7 +1761,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>0.8x</td>
   <td>No</td>
   <td>N/A</td>
-  <td>32.9</td>
+  <td>34.6</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Crypt_Blade"><font>Crypt Blade</font></a></td>

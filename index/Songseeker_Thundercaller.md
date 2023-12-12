@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 83795
+revid: 83848
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -35,9 +35,8 @@ A Songseeker Thundercaller's arsenal consists of [Fists](Fists.md) **(Way of Nav
 
 ### **Boons:**
 
+-   Experienced Fighter - Can block, parry and dodge common attacks and mantras.
 -   Third Eye - A Songseeker Thundercaller cannot be assassinated.
--   High Supply - A Songseeker Thundercaller has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
--   Mantra Modification - A Songseeker Thundercaller's "Jolt Grab" and "Lightning Stream" mantra are modified with a [Magnet Spark](Mantra_Modifiers.md) and [Blast Spark](Mantra_Modifiers.md).
 
 ### Talents
 

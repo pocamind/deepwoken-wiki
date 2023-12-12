@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 83824
+revid: 83857
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -41,15 +41,17 @@ The user shoots a bullet before beginning to circle the opponent at highspeed, a
 
 ## Trivia
 
+-   The Stormseye was inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from the _Destiny_ franchise and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from the _Call of Duty_ franchise.[\[1\]](#cite-note-1)
 -   Elaborated on in its description, the Stormseye is the combination of the technology of guns and the energy of [Kyrsan Medallions](Kyrsan_Medallions.md) stolen from the Ignition Union, channeled using Thundercall.
     -   The object in the middle of the gun has a [Kyrsan Medallion](Kyrsan_Medallions.md), furthering its connection to Layer 2.
 -   This weapon procs all static and electrified talents as well as all [Thundercall](Thundercall.md) status effects, including Static Blade and Stratoshock buffs. It does a gargantuan amount of damage with all of them procced.
 -   Doing a max base damage of 36.1, and 1.5x stun with Authority Interrogator talents. This, along with Resolve Crusher makes for **DEADLY** damage.
 -   Landing an aerial attack with the rifle teleporting you behind the enemy is similar to the behavior of the Static Fakeout talent.
 -   Originally, [Funke, Master of Thunder](Funke,_Master_of_Thunder.md) did not use this weapon and instead used the [Hero Blade of Lightning](Hero_Blades.md).
-    -   According to Arch\_Mage, NPCs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[1\]](#cite-note-1)
+    -   According to Arch\_Mage, NPCs were not coded to use rifles at the time, despite [Summer Dragoons](<Summer_Dragoon_(NPC).md>) existing.[\[2\]](#cite-note-2)
 -   The special aerial attack effect will also apply to your [Crazy Slots](Crazy_Slots.md) weapon.
 
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2)

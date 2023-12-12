@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83768
+revid: 83851
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1454,7 +1454,7 @@ _**"I enjoy sea food."**_
     -   Gain a 4% damage boost against PVE enemies for every hit against at close range.
     -   Can stack up to 25 time, for a 100% damage boost. [\[1\]](#cite-note-1)
         -   This effect is not accounted for in the 75% damage boost cap.
-    -   Lose the entirety of the damage boost after taking damage.
+    -   Lose the entirety of the damage boost after taking damage. (Ex. Self damage from Jumpstart and possibly others like Flame Within.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
     -   Requirement: Power 2
 -   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)

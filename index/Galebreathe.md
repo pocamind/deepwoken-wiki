@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 83213
+revid: 83863
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -825,6 +825,82 @@ Windwaker
  | 
 
 Call upon a gust of wind to propel your boat even faster.
+
+ | 
+
+N/A
+
+ |
+
+**Specter:**
+
+These talents are found in the _Specter_ category.
+
+| Media | Talent | Card Description | Effects |
+| --- | --- | --- | --- |
+|  | 
+Haunted Path: Specter  
+(Haunted Gale, 50 Galebreathe)
+
+ | 
+
+Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.
+
+ | 
+
+N/A
+
+ |
+| 
+
+Apparitions  
+(Haunted Path: Specter, 50 Galebreathe)
+
+ | 
+
+Instead of Haunted Gale Phantoms, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'.
+
+ | 
+
+N/A
+
+ |
+|  | 
+
+Phantom Step  
+(Haunted Path: Specter, 55 Galebreathe)
+
+ | 
+
+Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 20% Spectral Gauge)
+
+ | 
+
+N/A
+
+ |
+|  | 
+
+Vanishing Wraith  
+(Phantom Step, 60 Galebreathe)
+
+ | 
+
+Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
+
+ | 
+
+N/A
+
+ |
+|  | 
+
+Possession  
+(Haunted Path: Specter, 75 Galebreathe)
+
+ | 
+
+Dodging an attack will send an apparition towards your attacker. \[Must be above 50% Spectral Gauge\]
 
  | 
 

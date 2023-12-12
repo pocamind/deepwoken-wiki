@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 77109
+revid: 83844
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -14,9 +14,9 @@ The Guildhouse in Etris
 
 Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds are an influential part of Deepwoken and a lot of Talents and Mantras can be enhanced or require a guild member in order to operate. (i.e. [Rally](Attunement-less.md))
 
-Once you are **Power 5**, a guild can be founded for free (if you have over a 100 notes) by talking to the Guild Clerk in the Guild House at either Etris, east of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md). Talking to the Guild Clerk will prompt you with a window that allows you to name your Guild, set its primary color and make an emblem. The guild color you chose becomes the color of your sails, and the emblem you make will be on the flag of the ship.
+Once you are **Power 5**, a guild can be founded for free (if you have over 100 notes) by talking to the Guild Clerk in the Guild House at either Etris, east of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md). Talking to the Guild Clerk will prompt you with a window that allows you to name your Guild, set its primary color and make an emblem. The guild color you chose becomes the color of your sails, and the emblem you make will be on the flag of the ship.
 
-Once you've founded your guild, you are given the Guild Officer tool. This tool allows you to invite, promote or exile a member from your guild. If your guild leader has been terminated from Roblox, you can reclaim it at a Guild Hall.
+Once you've founded your guild, you are given the Guild Officer tool. This tool allows you to invite, promote or exile a member from your guild. If your guild leader has been terminated from Roblox or has left the guild, you can reclaim leadership at a Guild Hall.
 
 Members of a guild including its leader will stay in their guild after death. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. Being in the same guild as someone with a spawned boat will allow you to spawn on their boat upon dying or resetting your character. Other benefits/changes from being in a guild are currently absent, but being in the same guild would help separate enemies from allies for support [Mantras](Mantras.md) such as [Rally](Attunement-less.md). [Canor's](Canor.md) also have a damage reduction buff for their allies within the same guild.
 

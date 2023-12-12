@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 83797
+revid: 83850
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -33,8 +33,8 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 
 ### **Boons:**
 
+-   Experienced Fighter - Can block, parry and dodge common attacks and mantras.
 -   Third Eye - A Songseeker Flamecharmer cannot be assassinated.
--   High Supply - A Songseeker Flamecharmer has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
 
 ### Talents
 

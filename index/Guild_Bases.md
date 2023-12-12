@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 83038
+revid: 83854
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -33,21 +33,21 @@ The Leader/Officers may expand the Guild Base by using either their personal not
 
 The pricing list is as follows: (Assuming you have the Treasurer)
 
--   Room 1:
--   Room 2:
--   Room 3:
--   Room 4:
--   Room 5:
--   Room 6:
--   Room 7:
--   Room 8:
--   Room 9:
--   Room 10:
--   Room 11:
--   Room 12:
--   Room Extension 1:
-
-From this, the total cost of all rooms and NPCs would be a whopping.
+| Room | Price | Total Spent |
+| --- | --- | --- |
+| Room 1 | 2,600 | 2,600 |
+| Room 2 | 4,100 | 6,700 |
+| Room 3 | 6,600 | 13,300 |
+| Room 4 | 10,500 | 23,800 |
+| Room 5 | 16,800 | 40,600 |
+| Room 6 | 26,900 | 67,500 |
+| Room 7 | 43,000 | 110,500 |
+| Room 8 | 68,800 | 179,300 |
+| Room 9 | 110,000 | 289,300 |
+| Room 10 | 176,000 | 465,300 |
+| Room 11 | 281,500 | 746,800 |
+| Room 12 | 450,400 | 1,197,200 |
+| Extension | 500,000 | 1,697,200 |
 
 You can donate notes to other guilds by talking to their treasurer.
 

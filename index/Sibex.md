@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 82244
+revid: 83832
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,12 +11,6 @@ categories: [NPCs]
 | Sibex | |
 |---|---|
 | name | Sibex |
-
-“ What in the Drowned Gods happened to your so- Oh, wait. Someone said something about that being cute, but not true. ”
-
-― Sibex talking to a Vacant Canor
-
-  
 
 ## Description
 

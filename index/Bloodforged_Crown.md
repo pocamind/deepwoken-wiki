@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 81429
+revid: 83861
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Helmets]
 
 The Bloodforged Crown is an [Equipment](Equipment.md) item under the "Head" category. It is found as an exceedingly rare (<2%) drop from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md). It has an innate 5 Health, as well as 1 rare pip and 1 legendary pip. It has the innate talent [Cauterized Wounds](Flamecharm.md#flame-warden).
 
-When equipped, even while its visibility is toggled off, it will play an animation of a red swirling particle around the wearer's head, currently unknown if this transfers to smelted equipment? (PLEASE FIND OUT, THIS METHOD WORKS WITH ENCHANT PARTICLES)
+When equipped, even while its visibility is toggled off, it will play an animation of a red swirling particle around the wearer's head.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 83801
+revid: 83849
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -31,8 +31,8 @@ A Songseeker Galebreather's arsenal consists of [Fists](Fists.md) **(Way of Nava
 
 ### **Boons:**
 
--   Third Eye - A Songseeker Galebreather cannot be assassinated.
--   High Supply - A Songseeker Galebreather has plenty of moves that apply hyperarmor at no cost of [Ether](Ether.md), making them a difficult enemy to face.
+-   Experienced Fighter - Can block, parry and dodge common attacks and mantras.
+-   Third Eye - A Songseeker Galebreather cannot be assassinated..
 
 ### Talents
 
