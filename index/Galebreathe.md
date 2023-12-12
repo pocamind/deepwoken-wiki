@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 83863
+revid: 83878
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -16,7 +16,7 @@ _A gremor using Gale Lunge_
 
 .
 
-"Galebreathe" is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control wind, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
+"Galebreathe" is an [Attunement](Attunements.md) that grants the user the ability to manipulate, conjure and control winds, giving them access to abilities that focus on movement, projectiles, and large AoE. As well as possessing the ability to lower attack speed when hitting an opponent with a gale mantra.
 
 Galebreathe also has Talents attributed to it as well, allowing the user to fully expand their connection with the atmosphere.
 
@@ -746,25 +746,11 @@ All of your wind attacks apply 'Suffocate'.
 |  | 
 
 Silencer's Blade  
-(GALE 60, POWER 10, Silencer's Edge)
+(GALE 60, POWER 10)
 
  | 
 
 Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation.
-
- | 
-
-+1 Elemental Intensity
-
- |
-|  | 
-
-Silencer's Edge  
-(GALE 60)
-
- | 
-
-Meleeing a 'Suffocated' opponent will grant you a speed boost.
 
  | 
 
@@ -840,7 +826,7 @@ These talents are found in the _Specter_ category.
 | --- | --- | --- | --- |
 |  | 
 Haunted Path: Specter  
-(Haunted Gale, 50 Galebreathe)
+(Haunted Gale, 50 GALE)
 
  | 
 
@@ -851,10 +837,10 @@ Build up spectral energy by performing successful dodges and landing Wind mantra
 N/A
 
  |
-| 
+|  | 
 
 Apparitions  
-(Haunted Path: Specter, 50 Galebreathe)
+(Haunted Path: Specter, 50 GALE)
 
  | 
 
@@ -868,7 +854,7 @@ N/A
 |  | 
 
 Phantom Step  
-(Haunted Path: Specter, 55 Galebreathe)
+(Haunted Path: Specter, 55 GALE)
 
  | 
 
@@ -882,7 +868,7 @@ N/A
 |  | 
 
 Vanishing Wraith  
-(Phantom Step, 60 Galebreathe)
+(Phantom Step, 60 GALE)
 
  | 
 
@@ -896,7 +882,7 @@ N/A
 |  | 
 
 Possession  
-(Haunted Path: Specter, 75 Galebreathe)
+(Haunted Path: Specter, 75 GALE)
 
  | 
 

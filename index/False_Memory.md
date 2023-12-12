@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 82746
+revid: 83864
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -35,7 +35,7 @@ categories: [Weapons, Swords]
 
 The False Memory is a near exact replica of the basic [Sword](<Sword_(weapon).md>), but with slightly higher medium weapon scaling. It is obtained by going to the Hippocampal pool and selecting the "False Memory" option.
 
-## Notes
+## Trivia
 
 -   The weapon does not stay with you when creating a new character, and cannot be passed down. Instead, it's only known purpose is to allow you to switch weapons at [Fragments of Self](Fragments_of_Self.md) in order to pass down your current weapon
 -   When attempting to create a new character with False Memory in your character's inventory, upon being reborn, the False Memory will be replaced by a regular Sword with stats identical to those of the False Memory. Any Stars on the False Memory will also be present on the Sword.
