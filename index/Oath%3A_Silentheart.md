@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 83638
+revid: 83900
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths]
 
 | Oath: Silentheart | |
 |---|---|
-| oath_req | Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility, Gripped by Attunment user |
+| oath_req | Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility, Gripped by Attunment user, Complete Ghost event on Beloved Zofia |
 | effects | +5 Posture, +10 Health, +10% Mantra Resistance, +10% Weapon Damage |
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
@@ -28,17 +28,18 @@ Meet the following requirements in any order:
 -   Be [Attunement-less](Attunement-less.md).
 -   Have at least 75 Weapon (uncap is not needed), have 40 points in Strength and 40 points on either Charisma **or** Agility.
 -   Die to a player that uses an attunement. Chime of Conflict does not count.
+-   Talk to one of the ghosts around the ship, and defend against the ghosts that spawn. Only needs to be done once (Not required to talk to boy in library)
 
-Once met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
+Once **all** met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.
 
-(If for some unknown reason [The Dreadstar](The_Dreadstar.md) didn't appear at boat, do a ghost event and come back to place where [The Dreadstar](The_Dreadstar.md) should be)
+Failing to meet any of the first 3 will cause [The Dreadstar](The_Dreadstar.md) to say you do not have aptitude. He will simply not appear if the ghost event has not been completed.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/AkCxWCQTCrE)._
 
 ## Effects
 
 -   +10% mantra resistance.
--   **Entirely lose access to mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires.
+-   **Entirely lose access to cast mantras**, including learned (or future) mantras, recalled mantras as well as the Mantra tab at campfires. (Any previously had mantras, or learnt will **not show in the inventory but can still be used at Shrine of Division**)
 -   Attunements are unable to be used or obtained.
 -   You gain glowing red tattoos coursing over your arms and torso.
 -   Your eye color becomes duller and darker.

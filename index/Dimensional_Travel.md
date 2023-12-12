@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 77889
+revid: 83909
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -51,6 +51,7 @@ When obtained, Dimensional Travel will spend its points on the following stats:
     -   Distance travelled in The Interstice will be multiplied to then place you properly in the overworld.
         -   The math behind it is complicated, but at its simplest form, these distance multipliers are in 0.33 increments. The minimum and maximum distance multiplers are 1.33x and 5x.
         -   An explanation (and a way to find your distance multiplier) can be found in the [Deepwoken Info Discord](https://discord.com/channels/883838743172218891/883840765644660736/1096193166169874462).
+        -   To travel without looking out of the Dimensional Travel, you can use [this](https://docs.google.com/document/d/1NgO8UEaPPCDxv1CiVzfERxjHIU0Q2p7GxjtoyPeCm9I/edit) Google document. It contains x and z coordinates, in order to see them, press Shift + F3 --> Shift + 1 --> Shift + 1 --> Shift + 1 --> Shift + 1.
 
 ## Trivia
 
