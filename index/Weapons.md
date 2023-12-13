@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 83831
+revid: 83911
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1655,7 +1655,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Alloy-able</b></td>
   <td><b>Endlag</b></td>
   <td><b>Max Damage</b></td>
 </tr>
@@ -1668,7 +1667,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>32.7</td>
 </tr>
@@ -1681,7 +1679,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>32.7</td>
 </tr>
@@ -1694,7 +1691,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>32.7</td>
 </tr>
@@ -1707,7 +1703,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>32.7</td>
 </tr>
@@ -1720,7 +1715,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>32.7</td>
 </tr>
@@ -1733,7 +1727,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>36.6</td>
 </tr>
@@ -1746,7 +1739,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>6</td>
   <td>8.5</td>
   <td>0.62x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>52.1</td>
 </tr>
@@ -1759,7 +1751,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>5</td>
   <td>8</td>
   <td>0.8x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>34.6</td>
 </tr>
@@ -1772,7 +1763,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>9</td>
   <td>9</td>
   <td>0.64x</td>
-  <td>No</td>
   <td>0.15s</td>
   <td>49.9</td>
 </tr>
@@ -1785,7 +1775,6 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>4</td>
   <td>8</td>
   <td>0.79x</td>
-  <td>No</td>
   <td>N/A</td>
   <td>30.3</td>
 </tr>
