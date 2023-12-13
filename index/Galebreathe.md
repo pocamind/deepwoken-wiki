@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 83918
+revid: 83944
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -376,7 +376,7 @@ When falling from a high place, hold spacebar to generate wind currents until yo
  | 
 
 +2 Passive Agility  
-+5 Elemental Intensity
++5 Elemental Intensity (The Old Wind has been merged into Aerogliding)
 
  |
 |  | 
@@ -562,20 +562,6 @@ Pressing \[F\] after hitting an opponent with Rising Wind will cause your follow
 +1 Passive Agility
 
  |
-|  | 
-
-The Old Wind  
-(GALE 55, Gale Leap)
-
- | 
-
-Glide straight with the power of Gales.
-
- | 
-
-+4 Elemental Intensity
-
- |
 
 **Gale Duelist:**
 
@@ -732,7 +718,7 @@ These talents are found in the _Silencer_ category.
 | --- | --- | --- | --- |
 | File:A World Without Song.jpg | 
 A World Without Song  
-(GALE 75, POWER 10, All Silencer talents)
+(GALE 60, POWER 10, All Silencer talents)
 
  | 
 

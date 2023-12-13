@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 83816
+revid: 83943
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -84,9 +84,11 @@ Applies Metal Rods on hit.
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Throws 10 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if casted closely to target. May be blocked or even parried of the ground.
+ | Sharp metal traps. | 50 Ether | Throws 6 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if casted closely to target. May be blocked or even parried of the ground.
 
-Applies Metal Rods on hit.
+Applies Metal Rods on every 2 hits.
+
+Adds 1 caltrop per lvl up of the mantra (10 at lvl 5)
 
  |
 |  | Firing Line

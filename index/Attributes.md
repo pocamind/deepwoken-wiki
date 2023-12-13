@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 83941
+revid: 83942
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -54,7 +54,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
     -   Does **not** add damage resistance.
     -   Some types of equipment, such as shields, some helmets, and the _Ironsinger Heavy Plate_, have a fortitude requirement to wield.
         -   _These helmets tend to have better stats than those without a fortitude requirement._
--   Unlocks Fortitude-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
+-   Unlocks Fortitude-related [Talents](Talents.md) and [Mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Fortitude_Mantras).
 -   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder (this will train your Strength at the same time).
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Fortitude_Unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md).**_
 
@@ -84,7 +84,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
 
 -   Your character's mental integrity and ability to keep a steady mind. _Increases **Sanity** and **Tempo** per point._
     -   One point in Willpower gives +3 sanity and (Likely) +.5 tempo.
--   Unlocks Willpower-related [talents](Talents.md) and [mantras](Attunement-less.md#willpower-mantras), and the legendary weapon [Light's Final Toll](<Light's_Final_Toll.md>) with a requirement of 65 Willpower.
+-   Unlocks Willpower-related [Talents](Talents.md) and [Mantras](Attunement-less.md#willpower-mantras), and the legendary weapon [Light's Final Toll](<Light's_Final_Toll.md>) with a requirement of 65 Willpower.
 -   Gain Willpower EXP via foraging, fighting sea monsters, throwing up from consuming raw materials, losing sanity, roaming in the [Voidsea](Voidsea.md) and [The Depths](The_Depths.md), and using Prayer Beads.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Willpower_Unbound) by talking to [Akira](Akira.md) at the Akira Event, then going to [Castle Light](Castle_Light.md) to talk to him again on the upper floor.**_
 
@@ -95,7 +95,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
     -   Charisma can be used in certain dialogue checks that require charisma.
     -   NPCs and players will positively respond to your citations from _How To Make Friends_ at 33 charisma, and eagerly at 66 charisma.
 -   Gain Charisma EXP by selling items, getting good reputation with a faction, using the Encyclopedia (this will train your Intelligence at the same time) and using the _How To Make Friends_ book.
--   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to Etris.**_
+-   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Charisma_Unbound) by completing the [Karliah](Karliah.md) quest and telling her to return to [Etris](Etris.md).**_
 
 ## Weapon Attributes
 
