@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 81338
+revid: 83986
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -15,9 +15,9 @@ categories: [Deepwoken]
 -   The style of the **Double Strapped Hat** seems to take inspiration from _Bloodborne_.
 -   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry series_.
 -   The mod spec Outfit **[Hive Leader's Garment](<Hive_Leader's_Garment.md>)** along with the [companion hat](<Hive_Greatlord's_Royal_Adornment.md>) is [Scaramouche's](https://genshin-impact.fandom.com/wiki/The_Balladeer) outfit from open world RPG _Genshin Impact_.
--   The Outfit **Black Diver's** original design was [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd)'s outfit from [Made In Abyss](https://madeinabyss.fandom.com/wiki/Made_in_Abyss_Wiki).
+-   The Outfit **Black Diver's** original design was [Bondrewd's](https://madeinabyss.fandom.com/wiki/Bondrewd) outfit from [Made in Abyss](https://en.wikipedia.org/wiki/Made_in_Abyss).
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
--   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.wiki.fextralife.com/Big+Hat+Logan) from _Dark Souls_.
+-   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.fandom.com/wiki/Big_Hat_Logan) from _Dark Souls_.
 -   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter X Hunter._
 -   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
 -   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
@@ -249,7 +249,7 @@ categories: [Deepwoken]
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   Regarding their culture, they have similarities to Eastern civilizations, in architecture, and names.
--   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry#Obligator) from _Mistborn_.
+-   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry%23Obligator) from _Mistborn_.
     -   While both have markings on their face, Adrets markings are specifically referenced from Obligators.
 -   **Canors** are confirmed to be based on the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
     -   On a broader reference, Canor surnames are German. Zweihanders, a weapon of German creation in real life, are used by Canor Borderwatchers.
@@ -257,7 +257,7 @@ categories: [Deepwoken]
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[race\]" it says "Return to Khan"
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
     -   On the same note, **Ganymedes** are a more likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans), from the same game. They are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
--   Although this was likely unintentional, **Tiran**'s Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.
+-   Although this was likely unintentional, Tiran's Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.
     -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
 
 ### **Misc**
@@ -266,14 +266,19 @@ categories: [Deepwoken]
     -   Perceiving them drives you to insanity.
     -   They are too great to interact with the world normally, and must interact with it via shrines, avatars and vessels.
     -   They have to be summoned via rituals.
--   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne#Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
+-   **Sudaruska the Undying** may be a reference to [Undyne the Undying](https://undertale.fandom.com/wiki/Undyne%23Genocide_Route) from the Undertale Genocide route, given that they have similar names and held themselves together by determination until the end.
 -   The **Emerald** item's description is a reference to the Chaos Emeralds from the Sonic franchise.
 -   The sound that [the Forge](Artifacts.md) emitted was taken from Asura Wrath.
--   "Hoss" emote is a reference to Akuma from Street Fighter, while the name of emote is also a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss?so=search) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
+-   The "Hoss" emote is a reference to Akuma from Street Fighter, while the name of emote is a reference to [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss) from Rogue Lineage, the trainer of Oni and Sunaikinti's Blessed classes.
 -   When enemies spot you there is a chance to play the alert sound effect from _Metal Gear Solid_.
 -   Voideye's Teleportation animation bears a striking resemblance to Final Fantasy XIV's teleport animation.
+
+## Trivia
+
+-   Despite his heavy referencing of it, yayafino has not played Genshin Impact.[\[3\]](#cite-note-3)
 
 ## References
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3)

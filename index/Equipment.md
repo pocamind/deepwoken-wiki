@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 83951
+revid: 84009
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -18,7 +18,7 @@ Equipment is a type of item found in chests, exchanged for using an [Artifact](A
 
 There are 7 different types of equipment: Head, Arms, Legs, Torso, Face, Ears, and Rings.
 
-Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents associated with them (only some Head, Legs and Arms items can have these). _These stats and talents are displayed in grey._
+Most equipment comes with innate stats that always appear, for example: **+1 Posture** for the Star Dusters or **+8 Health** from an Authority Helm. Some can even have talents (These talents cannot yet be used to obtain the talents for which they are required), (only some Head, Legs and Arms items can have these). _These stats and talents are displayed in grey._
 
 All equipment (with few exceptions), when obtained, will roll for random stats. These stats are displayed in beige. These random stats are dictated by Pips, indicated at the bottom right of the tooltip. These Pips represent the bonus stats of an item and what amount of the stat they grant.  
 All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and Legendary

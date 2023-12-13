@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 83241
+revid: 83983
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -14,7 +14,7 @@ notices:
 
 NPCs are the various inhabitants of the Deepwoken world. While some serve functions such as being merchants or giving quests, some just exist to make the world feel more alive, as well as giving special titbits of information. Sometimes, having a higher [Charisma](Attributes.md#charisma) or Intelligence stat will unlock special interactions with them.
 
-A full list of all NPCS can be found [Here](https://docs.google.com/spreadsheets/d/14hI7BQMCzl0N1XftfcAVVcXt6ASjil2B7Jf2uGmoaIM/edit?usp=sharing).
+A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets/d/14hI7BQMCzl0N1XftfcAVVcXt6ASjil2B7Jf2uGmoaIM/edit?usp=sharing).
 
 | NPC | Faction | Location | Purpose | Notes |
 | --- | --- | --- | --- | --- |
@@ -72,8 +72,8 @@ Check the rest out for yourself
 | [The Lord Regent](The_Lord_Regent.md) | [The Kingdom of Etrea](Etrea.md), [The Ministry](The_Ministry.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | Lord Regent questline, [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) obtainment | Kills the player instantly if they are not permitted to enter |
 | Lucien | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | None |  |
-| Mag | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
-| Malte | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
+| [Mag](Mag.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
+| [Malte](Malte.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | The best NPC in the game. | Marcus. |
 | Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |

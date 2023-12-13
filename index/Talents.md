@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83879
+revid: 83995
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2557,7 +2557,8 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
     -   Also available as a common talent.
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md) or [Cloak of Winds](Cloak_of_Winds.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
--   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) - Your [Jus Karita](Jus_Karita.md) attacks deal 20% more damage. (+3 Passive Agility)
+-   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
+-   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 20% more damage. (+3 Passive Agility)
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 
 ## Blacklisted Talents

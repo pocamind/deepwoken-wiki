@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 83961
+revid: 83984
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -27,15 +27,15 @@ categories: [Oaths]
 2.  Talk to Samael, located in the [Derelict Highchurch](Derelict_Highchurch.md) above the Voidzone in Ancient Rotlands.
     1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
-3.  Kill **Iblis, The Fallen Angel**, located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
+3.  Kill **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md)**, located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
     1.  If you lack the Union Hook, careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it.
 4.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
 
--   **Abaddon, Sinner of Ice,** at Starfield Veldt.
--   **Minos, Sinner of Flame,** right next to the inn at Summer Isle.
--   **Astaroth, Sinner of Wind**, at Songseeker, at the twin derelict bastions.
+-   **[Abaddon, Sinner of Ice](Abaddon,_Sinner_of_Ice.md)** at Starfield Veldt.
+-   **[Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md)** right next to the inn at Summer Isle.
+-   **[Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md)**, at Songseeker, at the twin derelict bastions.
 
 You will get a mantra for each kill, and a chest containing [Songseeker](Songseeker_Wilds.md) loot.
 

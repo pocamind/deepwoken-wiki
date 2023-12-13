@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 83890
+revid: 83980
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -44,6 +44,10 @@ It has no practical functions and merely acts as a safe place for moderators to 
     -   DETERMINATION: DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
     -   SURVIVAL: SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
 -   There is also a "Coffee Machine", which is actually bags of blood connecting to a jar.
+
+### Cosmetics Room
+
+-   A room populated by Fadetrimmer entities.
 
 ### Office Creature
 

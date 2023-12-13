@@ -1,6 +1,6 @@
 ---
 title: Miasmera
-revid: 82569
+revid: 83987
 source: https://deepwoken.fandom.com/wiki/Miasmera
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -21,3 +21,4 @@ They were bipedal jellyfish-like entities with a gaping maw on their dome. Suspe
 ## Trivia
 
 -   Their appearance is very similar to that of the [Kyrsgarde](Kyrsgarde.md).
+-   It's design was a product of developer Arch\_Mage trying to figure out how to make things look "otherworldly and weird."

@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 83747
+revid: 84010
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -35,3 +35,4 @@ _(one-time use, re-obtainable)_
 -   Another person writing this has recorded ~150 Dukes and 20 Chasers worth of loot, and has yet to find a Sinner's Ash or Moonseye Tome. It appears that the actual chance for either of these relics are rarer than the estimated 1%
 -   Another person writing this has recorded ~100 Dukes and has yet to find a Sinner's Ash or Moonseye Tome.
 -   Final person recording this, it took 300~+ Dukes for a Sinner's Ash.
+-   A person writing this has confirmed you can obtain Sinner's ash from Layer 2 Floor 1 chests. Unsure about Floor 2 chests.

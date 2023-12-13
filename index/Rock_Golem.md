@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 81534
+revid: 84005
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -77,7 +77,7 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 | --- | --- |
 | Crushing Stomp | A Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
 
-## Trivia & Notes
+## Trivia
 
 -   The regular version of these Golems are fairly easy to kill with its moves being very slow and predictable. (Stat Check level: Power 8)
 -   Occasionally a [Megalodaunt](Megalodaunt.md) (or [Terrapod](Terrapod.md)) will spawn near a Golem, causing a fight to break out. It's a good idea to use ranged mantras to sneak in a bit of EXP and when one loses, go in for the kill on the other as it will be weakened from the fight.
