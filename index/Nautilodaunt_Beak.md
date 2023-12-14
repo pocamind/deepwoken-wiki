@@ -1,8 +1,9 @@
 ---
 title: Nautilodaunt Beak
-revid: 83644
+revid: 84025
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Beak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Monster Mantra Ingredients]
 ---
 
 # Nautilodaunt Beak

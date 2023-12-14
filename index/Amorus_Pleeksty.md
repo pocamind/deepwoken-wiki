@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 84003
+revid: 84031
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -27,7 +27,7 @@ He is also the only known person to go to Layer 3. He is worshipped by the Coven
 
 ## Trivia
 
--   He has some disciples, the most notable being Venn Kaelhand, who is the original wielder of the First Light.
--   Ploom, an NPC found in Lance Leshi's shop, can be seen reading a book of Amorus'.
+-   He has some disciples, the most notable being Venn Kaelhand, who is the original wielder of the [First Light](First_Light.md).
+-   Ploom, an NPC found in Lance Leshi's shop, can be seen reading a book of Amorus.
     -   Additionally, Ploom says that not many competent Flamecharmers are out in the East Luminant, signifying that Amorus may be from the West Luminant.
 -   Pleeksty has been refered to as Pleeksty, Pleektsy and Pleetsky. For the sake of consistency, the page will use Pleeksty.
