@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 83828
+revid: 84046
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -55,7 +55,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 15% more damage in PVE.<sup><a href="#cite-note-1">[1]</a></sup><br>
+  <td><div><p>Deal 15% more weapon damage in PVE.<sup><a href="#cite-note-1">[1]</a></sup><br>
   Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
@@ -70,8 +70,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Chilling<div></div></font></center></td>
   <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown).<br>
-  If the user has Crystallization, apply an ice crystal. Can only apply a total of 1 crystal. Cannot apply any more crystals until the crystals break.<br>
-  In PvE this instead applies a Chill effect with a duration of 0.4s (only without crystal).</p></div></td>
+  If the user has Crystallization, apply an ice crystal. Can only apply a total of 1 crystal. Cannot apply any more crystals until the crystals break. This applies a 0.4 second chill effect (only without crystal).</p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
 </tr>
 <tr>

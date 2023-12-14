@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 82233
+revid: 84036
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -138,7 +138,7 @@ Eating an ingredient by itself will give you a weaker version of the effect it'd
 -   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. No secondary effect.
     -   Mindbreaker potions are notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
 
-Chum. eggs, fish meat, scallops, seaweed, spider eggs, sticks and minerals (coal, iron, stone, irithine, etc.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
+Chum, eggs, fish meat, galewax, scallops, seaweed, spider eggs, sticks and minerals (coal, iron, stone, irithine, etc.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
 
 Sap is unique as an ingredient which creates Nothing Potions when used alone but can be combined with other ingredients to change the prefix of the potion. More testing is required to figure out exactly what it does.  
 Crustacean meat is supposedly similar, though more testing is needed.

@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 83833
+revid: 84049
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -560,6 +560,22 @@ These talents are found in the _Surge Path: Unstable Capacitor_ category.
 | Media | Talents | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+ | 
+
+Surge Path: Unstable Capacitor  
+(40 Thundercall)
+
+ | 
+
+Your lightning no longer applies Shock, instead applying Surge. At maximum statics of Surge, your opponents will Overload, sending arcs of lightning in every direction.
+
+ | 
+
+N/A
+
+ |
+| 
+
  | 
 
 Fried Circuits  

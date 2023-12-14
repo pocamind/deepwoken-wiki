@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 83995
+revid: 84039
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1023,6 +1023,8 @@ _**"I enjoy sea food."**_
         -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
 
 ### Heat Column
+
+_**"I seek the qualities of Heat Column."**_
 
 -   Fan the Flames \[Common Talent, Dual Attunement\] - Your stored Wind mantras can now empower your Fire mantras.
     -   Prerequisites: Inhale, 40 Flamecharm

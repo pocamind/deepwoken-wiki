@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 83731
+revid: 84041
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1269,6 +1269,7 @@ Standing close to your graceful flame will slowly restore sanity for others in t
 -   The "Flame Leap" mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
 -   Flamecharm's **Burn** damage scales off Elemental intensity, Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
 -   Flamecharm is currently the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md).
+-   If the character has the "Azure Flames" talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
 
 ## References
 
