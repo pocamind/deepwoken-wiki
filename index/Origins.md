@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 84013
+revid: 84085
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -52,7 +52,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 -   You don't actually need to join the Divers to obtain Deepbound. Just starting a talk with him at Castle Light is fine.
 
-**Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
+**Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
 
 -   Your starting location is in [Castle Light](Castle_Light.md), located in [The Depths](The_Depths.md).
 -   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
@@ -71,7 +71,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
--   Grants the Deepbound Contract talent "Call of the Deep"
+-   Grants the Deepbound Contract Talent "Call of the Deep"
     -   Plays a short animation of the player sinking into the ground before teleporting them into [The Depths](The_Depths.md).
 -   If you accidentally use said Call of the Deep you can return to the main menu during the animation and you wont be in [The Depths](The_Depths.md).
 
@@ -88,15 +88,15 @@ Also, all of the kills need to be made on one single character.
 -   Chime of Conflict does not affect the amount of progress towards this Origin.
 -   You can grip guildmates for Voidwalker obtainment kills.
 
-**Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate talent, which solidifies your connection to Eylis.
+**Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate Talent, which solidifies your connection to Eylis.
 
--   Grants the Knives of Eylis talent "Voidwalker Contract"
+-   Grants the Knives of Eylis Talent "Voidwalker Contract"
     -   Your starting location is [The Voidheart](Voidheart.md).
         -   Talk to the [Voidmother](The_Voidmother.md) to leave, taking you to [Lower Erisia](Lower_Erisia.md) initially, but upon next encounter, taking you to where you last used the Voideye.
         -   You can always teleport through the Voidmother no matter what, even in combat. Use it if you are getting attacked in a fight you can't win, as it is VERY unlikely that you teleport to the same place as your attacker.
     -   **\[PRO\]** Increased EXP Gain from bounties...
     -   **\[CON\]** ...but reduced EXP Gain from events.
--   Grants the Knives of Eylis talent "Grasp of Eylis"
+-   Grants the Knives of Eylis Talent "Grasp of Eylis"
     -   **\[PRO\]** Using the Grasp of Eylis teleport you near a bounty target of your choice...
     -   **\[CON\]** ...but is only available if they are higher power than you or at most 4 power less than you, along with only being able to teleport from the Voidheart.
     -   **\[PRO/CON\]** If your target runs too far away and is no longer in combat, or likewise if you get away from your target, you are brought back to the [Voidheart](Voidheart.md).
@@ -105,7 +105,7 @@ Also, all of the kills need to be made on one single character.
         -   **\[CON\]** ...but you will gain a very obvious looking particle effect that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
         -   **\[PRO\]** With the Stealth option, you do not make a sound, do not receive the particle effects until you engage your target and can approach player that are further away from Ferocity's range...
         -   **\[CON\]** ...but you do not gain vision of your target.
--   Grants the Knives of Eylis talent "Voideye".
+-   Grants the Knives of Eylis Talent "Voideye".
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability has a 10-minute cooldown. _The cooldown automatically ends when a bounty is completed._
     -   Talking to the [Voidmother](The_Voidmother.md) brings you back to where you used the Voideye to return to the Voidheart.

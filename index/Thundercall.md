@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 84049
+revid: 84087
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -543,7 +543,9 @@ N/A
 
 Modifiers:
 
-N/A
+Aeon Logstones
+
+Eternal Logstones
 
  |
 
@@ -551,7 +553,7 @@ N/A
 
 ## Talents
 
-Bellow is a list of every single Thundercall exclusive talent.
+Below is a list of every single Thundercall exclusive talent.
 
 **Surge Path: Unstable Capacitor:**
 

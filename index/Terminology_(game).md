@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 82296
+revid: 84089
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -114,7 +114,7 @@ _verb_
 
 _verb_
 
-1.  To incapacitate a player or humanoid [enemy](Enemies.md) usually by reducing their health to 0%, ragdolling them. When a player is **knocked**, they can be gripped or executed. When a player is knocked, they are unable to do anything for the most part.
+1.  To incapacitate a player or humanoid [enemy](Enemies.md) usually by reducing their health to 0%, ragdolling them. When a player is **knocked**, they can be gripped/executed (B) or carried (V). When a player is knocked, they are unable to do anything for the most part.
 
 ### Pdodge
 
@@ -154,7 +154,7 @@ _verb_
 
 _verb_
 
-1.  To perfectly block a mantra / attack. This means hitting "F" key when you see the opponent swing at you. You will see a large, yellow spark appear at the clash of the weapons, and stun the opponent for an extremely short duration. Parrying will reduce your posture faster, and you won't take damage.
+1.  To perfectly block a mantra / attack. This means pressing "F" key when you see the opponent swing at you. You will see a large, yellow spark appear at the clash of the weapons, and stun the opponent for an extremely short duration. Parrying will reduce your posture faster, and you won't take damage.
 
 1.  Ex. You cannot parry the [Megalodaunt's](Megalodaunt.md) kick without a [Hunter's Brace](<Hunter's_Brace.md>), you can only dodge it.
 

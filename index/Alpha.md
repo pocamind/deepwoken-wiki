@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 73016
+revid: 84076
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1]
@@ -19,7 +19,7 @@ notices:
 
 Alpha is an old [Canor](Canor.md) working for [The Ignition Union](The_Ignition_Union.md) in the [Second Layer](Second_Layer.md).
 
-His main use is to give you the Union Hook [Talent](Talents.md). He will also task you to rescue [Epsi](Epsi.md). Doing this is needed for the [Arcwarder](Oath%253A_Arcwarder.md) oath, and it also gives you some positive ignition union rep.
+His main use is to give you the Union Hook [Talent](Talents.md). He will also task you to rescue [Epsi](Epsi.md). Doing this is needed for the [Arcwarder](Oath%253A_Arcwarder.md) oath, and it also gives you some positive Ignition Union rep.
 
 ## Trivia
 
