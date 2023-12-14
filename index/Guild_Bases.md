@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 83854
+revid: 84056
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -33,52 +33,206 @@ The Leader/Officers may expand the Guild Base by using either their personal not
 
 The pricing list is as follows: (Assuming you have the Treasurer)
 
-| Room | Price | Total Spent |
+| Room |  |  |
 | --- | --- | --- |
-| Room 1 | 2,600 | 2,600 |
-| Room 2 | 4,100 | 6,700 |
-| Room 3 | 6,600 | 13,300 |
-| Room 4 | 10,500 | 23,800 |
-| Room 5 | 16,800 | 40,600 |
-| Room 6 | 26,900 | 67,500 |
-| Room 7 | 43,000 | 110,500 |
-| Room 8 | 68,800 | 179,300 |
-| Room 9 | 110,000 | 289,300 |
-| Room 10 | 176,000 | 465,300 |
-| Room 11 | 281,500 | 746,800 |
-| Room 12 | 450,400 | 1,197,200 |
-| Extension | 500,000 | 1,697,200 |
+| Room 1 |  |  |
+| Room 2 |  |  |
+| Room 3 |  |  |
+| Room 4 |  |  |
+| Room 5 |  |  |
+| Room 6 |  |  |
+| Room 7 |  |  |
+| Room 8 |  |  |
+| Room 9 |  |  |
+| Room 10 |  |  |
+| Room 11 |  |  |
+| Room 12 |  |  |
+| Extension |  |  |
 
 You can donate notes to other guilds by talking to their treasurer.
 
 ## Rooms
 
-\- Image of the Arena Extension -
-
 A guild base can be increased in size through different rooms. Some provide practical uses, while others purely cosmetic.
 
--   **Mess Hall** ( ) \[XL\] - Requires 2 Slots worth of Rooms; a large cafeteria with 2 long tables. This is a cosmetic room that does not serve food.
+| Preview | Name | Cost | Size | Description |
+| --- | --- | --- | --- | --- |
+| 
+ | 
 
--   **Training Hall** ( ) \[XL\] - An arena meant for dueling your guild members, serves no actual purpose and is purely cosmetic.
+Mess Hall
 
--   **Trophy Room** ( ) - A room mostly of decor; consisting a stationary globe in the center alongside display cases, tables and bookshelves.
-    -   Artisan - An upgrade to the Trophy Room that costs Notes for hire. For Notes, allows the Player to merge attributes and appearance of an Item through **smelting**.
+ | 
 
--   **Quarters** ( ) - A room with a campfire, **crafting table**, and some beds where your guild members can rest, if you die or join in the server and the guild base is active you can **spawn** in the room (You cannot cook at the campfire).
+ | 
 
--   **Laboratory** ( ) - A room that features an **alchemy pot** where you can brew potions along with various (possibly) purely cosmetic empty plant pots.
+2 Rooms  
+\[XL\]
 
--   **Song Room** ( ) - A room that features a **mantra** **table** where you can modify your mantras along with a campfire where you can rest & recall mantras, as well as a [Mystic](Mystic.md) NPC that can be purchased for.
+ | 
 
--   **Armory** ( ) - A room that features a **blacksmith** (You have to hire them, costing )where you can buy new armor, repair current armor, turn in schematics, or turn in ores for profit.
+A large cafeteria with 2 long tables. This is a cosmetic room that does not serve food.
 
--   **Fishing Room** ( ) - A room consisting of a small pond in the center which you can fish from. You can drink the water or fill a canteen with it, but it will make you throw up.
+ |
+| 
 
--   **Library** ( ) \[XL\] - A room that features many bookshelves.
-    -   Librarian - For Notes, of whom you donate [lore books](Books.md) to. You can only have one of each book stored, and shows the name and surname of each book's first donator.
-        -   There is a cooldown on turning in books which lasts for around 1 minute and 15 seconds.
+ | 
 
--   **Arena Extension** ( ) \[XXL\] - A Giant room consisting of 4 Campfires, one in each corner, as well as a giant circular arena in the center meant for you to fight your guildmates.
+Training Hall
+
+ | 
+
+ | 
+
+2 Rooms  
+\[XL\]
+
+ | 
+
+An arena meant for dueling your guild members. This room is purely cosmetic.
+
+ |
+| 
+
+ | 
+
+Trophy Room
+
+ | 
+
+ | 
+
+1 Room  
+
+ | 
+
+Allows the hiring of an Artisan for. For, allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md).
+
+ |
+| 
+
+ | 
+
+Quarters
+
+ | 
+
+ | 
+
+1 Room  
+
+ | 
+
+If you die or join in the server and the guild base is active you can spawn in the room. A room with a [campfire](Campfire_Pit.md), [crafting station](Crafting_Station.md), and some beds.  
+(You cannot cook at the campfire)
+
+ |
+| 
+
+ | 
+
+Laboratory
+
+ | 
+
+ | 
+
+1 Room  
+
+ | 
+
+A room that features an alchemy pot where you can [brew potions](Alchemy.md), along with various cosmetic empty plant pots.
+
+ |
+| 
+
+ | 
+
+Song Room
+
+ | 
+
+ | 
+
+1 Room  
+
+ | 
+
+Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras.
+
+ |
+| 
+
+ | 
+
+Armory
+
+ | 
+
+ | 
+
+1 Room  
+
+ | 
+
+Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit.
+
+ |
+| 
+
+ | 
+
+Fishing Room
+
+ | 
+
+ | 
+
+1 Room  
+
+ | 
+
+A room featuring a small pond for [fishing](Fishing.md) and a purchasable fishing rod for.  
+(You can drink the water or fill a canteen with it, but it will make you throw up)
+
+ |
+| 
+
+ | 
+
+Library
+
+ | 
+
+ | 
+
+2 Rooms  
+\[XL\]
+
+ | 
+
+Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator.  
+(There is a 1 minute 15 second cooldown on turning in books)
+
+ |
+| 
+
+ | 
+
+Arena Extension
+
+ | 
+
+ | 
+
+? Rooms  
+\[XXL\]
+
+ | 
+
+A giant room consisting a large circular arena in the center to fight your guildmates, as well as a campfires in each of the four corners.
+
+ |
 
 Library's Donated Books
 
@@ -90,7 +244,7 @@ Bandits raiding a Guild Base.
 -   Grand skewer is disabled while inside, as it could throw people out the base.
 -   Full Guild Base is hard to achieve for small guilds since the price of adding rooms increases exponentially. Could be more achievable with the use of [Guild Banners](Guild_Banners.md).
 -   Bandits can spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it was a bug.
--   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still [fish](Fishing.md) up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fishing Room.
+-   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fishing Room.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
 -   Guild bases are very useful. They can be placed anywhere, and can offer healing, protection against enemies or Voidwalkers, safety to train with your guildmates, and allows you to fish without any disturbance.
