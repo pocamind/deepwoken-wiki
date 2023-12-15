@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 84074
+revid: 84116
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1663,62 +1663,61 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 FIR, LVL 11</td>
   <td>20</td>
   <td>10%</td>
-  <td>FIR: 6.5</td>
+  <td>FIR: 5.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>32.7</td>
+  <td>28.25</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
   <td>75 THD, LVL 11</td>
   <td>20</td>
   <td>10%</td>
-  <td>THD: 6.5</td>
+  <td>THD: 5.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>32.7</td>
+  <td>28.25</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Frost</font></a></td>
   <td>75 ICE, LVL 11</td>
   <td>20</td>
   <td>10%</td>
-  <td>ICE: 6.5</td>
+  <td>ICE: 5.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>32.7</td>
+  <td>28.25</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Wind</font></a></td>
   <td>75 WND, LVL 11</td>
   <td>20</td>
   <td>10%</td>
-  <td>WND: 6.5</td>
+  <td>WND: 5.5</td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>32.7</td>
+  <td>28.25</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Shadow</font></a></td>
   <td>75 SDW, LVL 11</td>
   <td>20</td>
   <td>10%</td>
-  <td>SHD: 6.5</td>
+  <td>SHD: 5.5</td>
   <td>5</td>
-  <td>8</td>
+  <td></td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>32.7</td>
-</tr>
-<tr>
+  <td>28.25</td>
+  <td></td>
   <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
   <td>75 THD, 25 MED</td>
   <td>19.5</td>
