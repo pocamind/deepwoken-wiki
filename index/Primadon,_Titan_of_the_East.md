@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 83881
+revid: 84135
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -110,6 +110,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
     -   Debuffs from Mantras do affect Primadon.
 -   Primadon cannot actually grip you, unless he stomps or throws you. You can abuse this mechanic to have a friend with Primadon chasing them get downed to the rock throws and get Primadon on their downed body to be able to heal up.
     -   **WAIT FOR YOUR FRIEND TO STAND UP BECAUSE IF Primadon DOES A STOMP OR GRABS THEM, THEY WILL DIE.**
+-   If you need to retreat from Primadon, either wait before it Disengages first before running away (be aware that it will keep throwing rocks at you quite often, which you will need to dodge.) or have a friend try and take the aggro for you, be warned, however, that Primadon's aggro priority is unlike most mobs, and it may ignore other people hitting him in favour of pursuing you while you escape, so be careful.
 
 ### General Combat
 

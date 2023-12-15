@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 80903
+revid: 84158
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers]
@@ -32,11 +32,7 @@ categories: [Weapons, Parrying Daggers]
 
 The Parrying Dagger is an offhand weapon used for better parry capability. Found in the weapons shop in Etris and can be purchased for. Additionally, it can be dropped from [Deep Widow](Deep_Widow.md) or [Primadon](Primadon,_Titan_of_the_East.md) chests. It requires 10 Agility to equip.
 
-The Parry Dagger does the following:
-
--   More posture damage dealt on parry.
--   More posture restored (+15%) on parry.
--   Less posture damage received when parried.
+The Parry Dagger allow the user to recover 15% more posture from parries.
 
 ## Trivia
 

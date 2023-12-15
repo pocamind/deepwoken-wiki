@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 82505
+revid: 84147
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -54,11 +54,11 @@ Whirlpools can also rarely spawn on the edges of highways and other random locat
 
 ## Layers
 
-The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Scyphozia, and [Second Layer](Second_Layer.md), aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) resides, but it is not in the game and likely will not be added due to conflicting with the lore.
+The Depths contains nine layers, though you can reach only two in game: [The First Layer](First_Layer.md), aka Schizophrenia, and [Second Layer](Second_Layer.md), aka The Eternal Gale. There is also a Third layer, aka The Vents, a lava covered hellscape where [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) resides, but it is not in the game and likely will not be added due to conflicting with the lore.
 
 Please visit their respective pages below by clicking on them for more information:
 
-**\- [First Layer (Scyphozia)](First_Layer.md)** for information on the first layer you are sent to, including info on Yun'Shul and the Depths Trial.
+**\- [First Layer (Schizophrenia)](First_Layer.md)** for information on the first layer you are sent to, including info on Yun'Shul and the Depths Trial.
 
 **\- [Second Layer (The Eternal Gale)](Second_Layer.md)** for information on the layer you are sent to after falling into the void or diving deeper via the interaction with Klaris, including info on Chaser and New Kyrsa.
 

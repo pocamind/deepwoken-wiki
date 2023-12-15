@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 83380
+revid: 84156
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -168,6 +168,7 @@ A Kyrsgarde Brute executes it's opponent:
 
 -   They are quite similar to the [Miasmera](Miasmera.md), a scrapped Monster.
 -   Having the Brick Wall talent, makes the fight with the lancers **trivially** easy, being able to easily kill 4 of them at the same time with no difficulty or risk at all.
+-   Be EXTREMELY careful fighting any kind of **Attuned** Krysgarde as if they are **Flamewreathed** or **Thunderstruck**, you could die without the possibility of even fighting back.
 -   The Kyrsan Brutes seem restless, when attacking they seem a little desperate and mindlessly swing their arms, let alone the fact they walk like they are tired. This is evidenced by the fact that one of the NPCs in Layer 2 remark how brutes started patrolling when rumbling was heard from the "roof" as Chaser killed himself.
 -   The Kyrsgarde are enslaved by presumably Ethiron themselves or something related to Ethiron, having their will morphed to Ethiron's, this may be due to the fact that the puppet known as the "Scion of Ethiron" had done something to them using some sort of "mist". Or the fact they built Kyrsa City on top of Ethiron's Bedchamber. However it also could've been the fact that their foolishness lead to a failure related to some sort of ritual to prevent the Scion of Ethiron in someway. Keep in mind this is information was from an Outsider of the Kyrsgarde.
 -   The Kyrsans in Firfire are not hostile, due to how far they are from the Ethiron's mist presence. They are actually quite funny as when you pick the dialogue option of giving them a dumb name, they will albeit no hard feelings retaliate by when interacting the leader, they will give you a name similar to themselves, which will happen to depend on the player's name (unknown if it's the same throughout all slots).

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 84004
+revid: 84149
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -161,7 +161,7 @@ When initially obtaining this [Oath](Oaths.md), the [Nestmind](The_Nestmind.md),
 
 ## Loot Table
 
-Below is a list of potential items that can spawn in chests in Scyphozoa. Scyphozoa is the best place in the game for loot and corrupted monsters give better loot than normal monsters.
+Below is a list of potential items that can spawn in chests in Scyphozia. Scyphozia is the best place in the game for loot and corrupted monsters give better loot than normal monsters.
 
 | [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
 | --- | --- | --- | --- |

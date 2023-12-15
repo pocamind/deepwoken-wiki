@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 83945
+revid: 84123
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -361,6 +361,10 @@ Roar
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Megalodaunts.
 
+_**Bold**_\==Gallery==
+
+  
+
 ## **Trivia**
 
 -   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount and will likely block break you in one or two hits as a freshspawn.
@@ -392,3 +396,4 @@ Roar
 -   Megalodaunts are likely carnivores, as seen from their teeth. They have claws to grab and rip into their prey. What contrasts this is that usually large predators don't use their legs for combat. Along with this, they also have eyes on the side of their heads. which could potentially be a sign that they are prey animals to something much bigger. Sharks in real life also have eyes on the sides of their heads despite being apex predators, although this is arguable as even the largest known predatory shark (Great Whites) still get predated by Orcas.
 -   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts.
 -   Megalodaunts apparently CAN talk via the dialogue bug that occurs when NPC's are left alone together. The more you know.
+-   Clip of the tacet dropkick and proof of attack. - [https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO?invite=cr-MSxBVzEsMjAxODY4NjAyLA](https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO?invite=cr-MSxBVzEsMjAxODY4NjAyLA)

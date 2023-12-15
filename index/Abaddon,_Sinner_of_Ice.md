@@ -1,8 +1,9 @@
 ---
 title: "Abaddon, Sinner of Ice"
-revid: 83976
+revid: 84132
 source: https://deepwoken.fandom.com/wiki/Abaddon%2C_Sinner_of_Ice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enemies]
 ---
 
 # Abaddon, Sinner of Ice

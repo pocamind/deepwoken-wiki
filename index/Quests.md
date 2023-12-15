@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 84104
+revid: 84140
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -218,9 +218,17 @@ These quests usually give XP, Reputation and/or an item.
 
 **Quest Location**: Isle of Vigils
 
-**Guide**: Give an NPC in the Isle of Vigils dojo a weapon manual. (It removes one use but won't take it away)
+**Guide**: Give an NPC in the Isle of Vigils dojo a Weapon Manual. (It removes one use but won't take it away)
 
 **Reward/s**: EXP
+
+**Food delivery:**
+
+**Quest location**: Isle of Vigils
+
+**Guide**: Talk to the [Lance's Brother](<Lance's_Brother.md>) on Isle of Vigils, choosing the second dialogue option will spawn a red box with the text 'Food' on it. To finish the quest, give the box to [Stratos](Stratos.md), located in the courtyard of the [Temple of the Blade](Temple_of_the_Blade.md).
+
+**Reward/s**: 25 notes and positive reputation EXP with Etrea.
 
 **Zana:**
 
