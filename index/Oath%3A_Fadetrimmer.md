@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 83471
+revid: 84103
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,11 +67,11 @@ This oath is fully upgraded once you get it.
 
 ## Trivia
 
--   The Fadetrimmer oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The oath was added to the game on the July 24, 2023, almost a year later.
+-   The Fadetrimmer Oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The Oath was added to the game on the July 24, 2023, almost a year later.
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
 -   Revitalizing can be used on more than one ally, offering a good amount of support, on par with Reinforce.
--   Fadetrimmer's haircuts will stay on the opponent for 10 minutes, or when you leave the server.
-    -   It also bears similarities to a few attunementless moves. For example, Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash, and Precision Cuts is very similar to Exhaustion Strike, but with more hits.
+-   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server.
+    -   It also bears similarities to a few Attunement-less moves. For example, Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash, and Precision Cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description of this Oath is a reference to the "Ginger Fringe Incident" meme.
 -   Charming Hair Product is virtually useless due to the existence of Charismatic Cast.
     -   Likewise, Flammable Hair Product is a fairly slow option to apply fire that does no damage by itself- using Flamecharm mantras applies fire while dealing actual damage at the same time. Flammable can proc Lava Serpent, if that's any bonus...

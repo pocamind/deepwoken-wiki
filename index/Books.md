@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 84001
+revid: 84106
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -18,9 +18,10 @@ Books are items that are found in the world of Deepwoken and are a separate cate
 
 Some books are obtained in specific areas only, and cannot be found outside of it. Such books include:
 
--   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
--   A Deathscribe's Journal: [Castle Light](Castle_Light.md)[\[1\]](#cite-note-1)
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
+-   The Gideshu March: [Fort Merit](Fort_Merit.md)
+-   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
+-   Our Fortess (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
 
   
 
@@ -1614,9 +1615,8 @@ I weep for them still, my tears bitter as salt...
     -   Rick Ashet is a reference to [a leak](https://www.youtube.com/watch?v=3BOFcygKtM4) where an [Adret](Adret.md) named Rick Ashest fights a [Crustaceous Rex](Crustaceous_Rex.md).
     -   Sylvester Staelen is a nod to American filmmaker [Sylvester Stallone](https://en.wikipedia.org/wiki/Sylvester_Stallone).
     -   Jossue Cassatra, who came back from the dead after a few days, is a reference to [Jesus Christ](https://en.wikipedia.org/wiki/Jesus).
-    -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[2\]](#cite-note-2)
+    -   Ivan Ivanel was a slot owned by Naktigonis during Deepwoken's testing period.[\[1\]](#cite-note-1)
 
 ## References
 
-1.  [↑](#cite-ref-1) Needs clarification if it's only found in castle light
-2.  [↑](#cite-ref-2)
+1.  [↑](#cite-ref-1)

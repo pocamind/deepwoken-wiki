@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 82429
+revid: 84097
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -85,3 +85,6 @@ Summon Gigameds
 -   King Gigamed has an intentionally cowardly behavior, meaning it will jump around objects and move in ways that makes it harder for you to fight it.
 -   Despite not looking like it, The King Gigamed has a back, meaning you can proc [Spine Cutter](Talents.md) on it.
 -   King Gigamed is one of the only monsters, with the [Nautilodaunt](Nautilodaunt.md), that can regen health over time. (??? Unconfirmed)
+    
+
+vid proof that both hat and jellyfish jam can happen at the same time [https://youtu.be/VGw1ElVCtMM](https://youtu.be/VGw1ElVCtMM)

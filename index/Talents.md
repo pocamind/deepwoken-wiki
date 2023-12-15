@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84039
+revid: 84092
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -448,7 +448,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Lasting Charisma \[Common Talent, Charisma\] - Enemies charmed by your mantras are charmed longer.
     -   Prerequisite: 55 Charisma, Charismatic Cast
 
--   Tough Love \[Common Talent, Charisma\] - Deal +10% damage to players charmed by you.
+-   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same race or oath as you charms them briefly.
     -   Prerequisite: 25 Charisma, Charismatic Cast
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.

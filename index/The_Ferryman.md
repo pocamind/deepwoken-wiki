@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 83558
+revid: 84096
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -171,7 +171,7 @@ The best way to damage The Ferryman is to spam M1s whenever his Lightning Strike
 
 -   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with another reward in addition to the standard 5 chests.
     -   Spring - One [Knowledge](Knowledge.md). Repeatable.
-    -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
+    -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Justicar Schematic,** **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
     -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
 

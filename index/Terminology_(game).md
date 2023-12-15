@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 84089
+revid: 84094
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -277,6 +277,14 @@ _noun_
 _noun_
 
 1.  Refers to the [Primadon](Primadon,_Titan_of_the_East.md).
+
+### Health pack
+
+noun
+
+1.  Depends on the context.
+    1.  If it's in the [First Layer](First_Layer.md) of the depth, it refers to the [Gigamed](Gigamed.md) (Small version)
+    2.  If it's during the [Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
 
 ## Acronyms/Short Forms
 

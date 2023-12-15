@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 83778
+revid: 84105
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -43,8 +43,7 @@ To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Li
 
 ## Trivia
 
--   **Jus Karita** cannot equip [Light's Final Toll](<Light's_Final_Toll.md>).
--   Jus Karita is able to use a weapon [Anklets of Alsin](Anklets_of_Alsin.md) which is only for Jus Karita.
+-   **Jus Karita** cannot equip any cestuses (Including [Light's Final Toll](<Light's_Final_Toll.md>)) but can equip the [Anklets of Alsin](Anklets_of_Alsin.md), a **Jus Karita** exclusive weapon.
 -   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
 
 ## References

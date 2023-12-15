@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 83750
+revid: 84104
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -360,7 +360,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: Miner's Landing
 
-**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out Summer Company Guards invading the upper reactor room. As far as we know, the player has to kill Summer Guards OR Mechalodaunts. Needs testing.
+**Guide**: Talk to an NPC named Orion near the Arcwarder Oath giver. He will ask you to help clear out the Mechalodaunt invading the upper reactor room by the Ignition Union vs Summer Company event spawn.
 
 **Reward/s**: Reputation, EXP, "Bravery," Door Unlock.
 

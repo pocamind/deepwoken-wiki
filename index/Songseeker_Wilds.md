@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 81570
+revid: 84095
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -119,7 +119,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 
  |
 
-## Trivia/Notes
+## Trivia
 
 -   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md) by Naktigonis
 -   The combat music for this area is [Thrill of the Hunt](Deepwoken_OST.md) by Naktigonis
