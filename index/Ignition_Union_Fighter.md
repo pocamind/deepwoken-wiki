@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 83774
+revid: 84274
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -18,7 +18,7 @@ An Ignition Union Fighter is a type of enemy NPC that can spawn in the following
 -   Ignition Union Fighters vs Summer Company Guards ([Summer Isle](Summer_Isle.md))
     -   **Interactable only after event finishes.**
 
-They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit.
+They only wear an [Ignition Union Uniform](Ignition_Union_Uniform.md) outfit with their gender and race varying.
 
 ## Moveset
 

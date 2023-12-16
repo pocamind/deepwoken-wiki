@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 84165
+revid: 84284
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -404,9 +404,11 @@ _Conjure an undying flame for the caster and their comrades to rest by._
  |
 |  | 
 
-Denial of Flames
+Flame of Denial
 
 (☆☆☆)
+
+  
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 84191
+revid: 84230
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -43,7 +43,7 @@ Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you 
 -   [Cestis](Cestis.md)
 -   The Stranger
 -   [Nostor, Master of Shadow](Attunement_Trainers.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) (Formerly belonged to [The Divers](The_Divers.md))
+-   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Formerly belonged to [The Divers](The_Divers.md))
 -   Emel
 -   Imel
 -   Rimil

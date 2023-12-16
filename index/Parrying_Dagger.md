@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 84158
+revid: 84273
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers]
@@ -18,7 +18,7 @@ categories: [Weapons, Parrying Daggers]
 | swing speed | 1.05x |
 | endlag | N/A |
 | penetration | N/A |
-| special effect | Decreases your posture gain. Increases your opponents posture gain. Slight damage increase. |
+| special effect | increase your posture gain from parries by 15% |
 | offhand | Offhand only |
 | weight | 1 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 82243
+revid: 84237
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, NPCs]
@@ -59,3 +59,4 @@ Dialogue
 -   It's probably impossible to obtain the legendary boot. It's just a joke.
 -   Perhaps, we don't know yet what it means to be worthy.
 -   Justicar will get attention soon -Arch Mage
+    -   This is the anklets of alsin + mantras

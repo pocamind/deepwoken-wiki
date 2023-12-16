@@ -1,9 +1,9 @@
 ---
 title: The Divers
-revid: 84193
+revid: 84232
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
+categories: [In progress with reason, InProgressPages, Pages with broken file links, Guilds, Reputation, Factions]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---
@@ -55,7 +55,7 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 **Amorus Pleeksty:** As a former Black Diver, Pleeksty still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He is currently residing in the third layer of the Depths. He consumed a part of the Drowned god of fire Korilfiend in the form of a flower, causing him to ascend to a near-godlike state. This newfound enlightenment allowed him to become the first Flamecharmer. He would then go on to establish a group known as “The Covenant of Flame,” a group of passionate Flamecharmers who wish to follow the same path as Amorus Pleeksty, almost religiously studying his books and practicing his teachings such as the Flame Within. Pleeksty, however, only sees them as a fan club. Despite his tremendous power and age, he is described as a "chill" guy, meaning that if anyone encounters him, Pleeksty will most likely be very amicable.
 
-**[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who secretly possess the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his true goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but would later reveal that he had betrayed the Divers long ago. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was a part of.[\[2\]](#cite-note-2) He then slaughtered the other Divers that were involved in expeditions following that one.<ref>>\[\[Books#Diver Journal, II\]|Diver Journal, II and Diver Journal, III\]\] The players later encounter him as the first boss of The Second Layer. Technically Ministry aligned.
+**[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who secretly possess the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his true goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but would later reveal that he had betrayed the Divers long ago. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was a part of.[\[2\]](#cite-note-2) He then slaughtered the other Divers that were involved in expeditions following that one.<ref>>\[\[Books#Diver Journal, II\]|Diver Journal, II and Diver Journal, III\]\] The players later encounter him as the first boss of The Second Layer. Technically Ministry aligned.
 
 **Funke (Thundercall trainer) and Nell (Frostdraw trainer):** Funke and Nell are wearing Black Diver uniforms and can be found in the Eastern Luminant and the Etrean Luminant respectively. Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
 
@@ -67,21 +67,36 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 **[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md):** A Canorian Black Diver who resides in Castle Light. Apparently, she was trained underneath a Lightkeeper. She is able to give the player the [Dawnwalker](Oath%253A_Dawnwalker.md) [Oath](Oaths.md) should they have the requirements. She also gives the player a Light Hook as they are transported to Second Layer. She is one of the strongest Divers.
 
+## Associated Enemies
+
+File:Trasferimento (2).jpeg
+
+\[\[The Real Slim Shady\]\]
+
+File:Sbobba culo.png
+
+\[\[Il culo di un signore a caso\]\]
+
+File:Makeitmeme EpZya.gif
+
+File:Frusc.jpeg
+
+\[\[IL VERO FREDDY FAZBEAR CHE CANTA FORZA JUVE\]\]
+
+File:Signore bestia.jpeg
+
+SIGNORE BESTIA UWUWUWUWUWUWUWUWUWUWU
+
+  
+
 ## Trivia
 
--   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
--   The official Divers server is held at Discord.gg/divers
--   Upon reaching the title of "Black Diver" within the guild, players are rewarded with the status of “Guild Officer.”
--   The current leader of The Divers in-game is R0bustic.
--   The Divers are led by the Black Diver Council, consisting of Resolve, Doc, and Rhimirim.
--   The current Black Divers (officers) of The Divers in-game are:
-    -   R0bustic
-    -   ViolaIsSilent
-    -   H26O
-    -   colddeathmaker
-    -   ResoIv3
-    -   bluesword08
-    -   Doctor5
+-   **GABRIELE SUCA CAZZONI ENORMI PORCO DIO**
+    
+
+File:Trasferimento (1).jpeg
+
+\[\[Winnie The Pooh incazzato canta forza juve\]\]
 
 ## References
 

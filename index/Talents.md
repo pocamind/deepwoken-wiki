@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84224
+revid: 84285
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -55,6 +55,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Singularity_ **or** _Sightless Still;_
 -   Million Ton Piercer **or** Ether Overdrive;
 -   Bulldozer **or** Dazing Finisher.
+-   Wraith Path: Twisted Puppets **or** Azure Flames
 
 Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -2170,6 +2171,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek the qualities of twisted puppets"**_
 
+-   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
+    -   Turns all flame mantras black.
+    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead.
+    -   Flame Within deals less self damage, but drains ether.
+    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
+    -   Mutually Exclusive: Azure Flames, Eruption Path: Lava Serpent
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.
@@ -2177,13 +2184,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
-    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
--   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
-    -   Turns all flame mantras black.
-    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead.
-    -   Burn from shadow mantras deals less damage than regular burn; doesn't spawn puppets. Burn damage can still be increased with Azure Flames.
-    -   Flame Within deals less self damage, but drains ether.
-    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcas
 
 ### Tyrant
 
@@ -2561,7 +2562,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
 -   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
     -   Also available as a common talent.
--   Paired Soul: [Vigil Initiate](Vigil_Initiate.md) or [Cloak of Winds](Cloak_of_Winds.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%.
+-   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 20% more damage. (+3 Passive Agility)

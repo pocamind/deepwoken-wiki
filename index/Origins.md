@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 84219
+revid: 84239
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -31,7 +31,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 > 
 > ― Flavor Text
 
-**_Obtainment_:** Enter the [Trial of One](Trial_of_One.md) at [Minityrsa](Minityrsa.md), and successfully defeat the pre-halfway point of the trial- the [Thresher](Thresher.md).
+**_Obtainment_:** Wipe for the first time OR Defeat the [Tresher](Thresher.md) in the [Trial of One](Trial_of_One.md)
 
 **Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
 
@@ -81,12 +81,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 ― Flavor Text
 
-**_Obtainment_:** Grip any 5 players. Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
-
-Also, all of the kills need to be made on one single character.
-
--   Chime of Conflict does not affect the amount of progress towards this Origin.
--   You can grip guildmates for Voidwalker obtainment kills.
+**_Obtainment_:** On a single character, grip any 5 players. Chime of Conflict grips count for 0.5 grip. Afterwards, talk to Eiris- who will reside under the deck of non-burning boat during the Kingdom of Etrea VS. Knives of Eylis event. Speak using the 2nd dialogue option- which will unlock itself given that you have the grips required, then enter a [Knife Captain's](https://deepwoken.fandom.com/wiki/Knives_of_Eylis_Captain) Time Bubble.
 
 **Voidwalker** grants players a PvP focused style of progression, greatly favoring- but not mandating- killing bounty targets for EXP. Those under this Origin can partake in PvE for EXP as well but will experience a lesser return of EXP compared to those of a different Origin. This Origin provides the _Grasp of Eylis_ innate Talent_,_ which will allow you to teleport around the vicinity of a bounty as long as you are teleporting from the Voidheart, the _Voideye_, which allows you to return to the Voidheart from most locations given that you aren't in combat, and the _Voidwalker Contract_ innate Talent, which solidifies your connection to Eylis.
 
@@ -115,7 +110,7 @@ Also, all of the kills need to be made on one single character.
 -   Your starting reputations are:
     -   Friend of The Knives of Eylis and Lost Celtor
     -   Enemy of The Kingdom of Etrea, The Children of Navae, The Hive, The Ministry, and The Hundred Legions.
--   **\[CON\]** Due to your starting reputation, you can be bounty hunted by other Voidwalkers early on.
+-   **\[CON\]** Due to your starting reputation, you can be bounty hunted by other Voidwalkers once you reach Power 5 unless you work on your reputation before that.
 
 ## Upcoming Origins
 

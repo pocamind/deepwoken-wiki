@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 84116
+revid: 84246
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1717,7 +1717,8 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>0.75x</td>
   <td>N/A</td>
   <td>28.25</td>
-  <td></td>
+</tr>
+<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
   <td>75 THD, 25 MED</td>
   <td>19.5</td>

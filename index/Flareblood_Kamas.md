@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 84188
+revid: 84263
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -26,14 +26,14 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract |
+| obtainment | Chaser, Scholar of the Burning Blood |
 | description | A twisted weapon devised by the Scholar of the Burning Blood, Chaser, during his apprenticeship under the Second Prophet. A seething concoction of tainted blood swirls within, waiting to be unburdened of its prison. |
 
 ## Description
 
 The **Flareblood Kamas** is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. It has a unique critical that summons a blood explosion that appears at your cursor.
 
-It is only obtainable from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), making it the only Legendary weapon obtainable from a single source.
+It is only obtainable from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md), making it the only Legendary weapon obtainable from a single source.
 
 Wielding it requires 60 Light and 30 Intelligence. It does 13 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it one of the best daggers in the game.
 
