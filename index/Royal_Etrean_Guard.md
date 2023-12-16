@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 84278
+revid: 84292
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -20,7 +20,7 @@ This Outfit requires [Power Level](Talents.md) 20.
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +30% Physical resistance, +30% Elemental resistance, +5% Ether Regen.
+This Outfit has 3000 durability and grants +30% Physical resistance, +30% Elemental resistance, +5% Slash Armor.
 
 This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases the damage of the Katana by 25% and the damage of the Shattered Katana by 5%.
 
@@ -29,6 +29,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which incre
 This Outfit's Schematic can be found in:
 
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
+-   Pure Umbrinite chests only
 
 ## Trivia
 

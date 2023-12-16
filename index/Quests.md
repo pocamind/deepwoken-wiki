@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 84140
+revid: 84288
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -250,7 +250,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Quest Location**: Viper's Jaw (Lower, Legion Camp)
 
-**Guide**: Talk to one of the legionaries, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
+**Guide**: Talk to Atra, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
 
 **Reward/s**: EXP, talent hand if no other "Compassion" quests done yet.
 

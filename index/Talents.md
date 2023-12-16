@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84285
+revid: 84289
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1481,7 +1481,7 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"My soul is an instrument with its own frequency."**_
 
--   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity, +1 Posture).
+-   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity).
     -   Affected targets takes 200% extra posture damage and take 25% more damage.
     -   Affected targets deals 15% less posture damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
@@ -2075,10 +2075,10 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: 5 Agility, 10 Charisma
 
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
-    -   Prerequisites: 50 Agility, 35 Charisma, All Thief talents
+    -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
     -   Cap Artist requires 25 Agility despite the 10 Agility requirement of this Talent.
-    -   If the player you are mugging doesn't have any notes, you will stop taking unequipped equipment.
-    -   Does not take enchanted items.
+    -   ~If the player you are mugging doesn't have any notes, you will stop taking unequipped equipment.~(TESTED) you still take equipment.
+    -   Does not take enchanted items
 
 ### Thunder Brawler
 
@@ -2184,7 +2184,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
-    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcas
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 
 ### Tyrant
 
