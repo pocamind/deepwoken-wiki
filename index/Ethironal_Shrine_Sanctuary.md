@@ -1,6 +1,6 @@
 ---
 title: Ethironal Shrine Sanctuary
-revid: 64136
+revid: 84196
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Sanctuary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, The Depths, Locations, Layer 2, World]
@@ -23,7 +23,7 @@ Template:Areainfobox
 -   [Firfire](Firfire.md)
 -   [The Maw of Ethiron](The_Maw_of_Ethiron.md)
 -   [Cathedral of Ethiron](Cathedral_of_Ethiron.md)
--   [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ## Contents
 

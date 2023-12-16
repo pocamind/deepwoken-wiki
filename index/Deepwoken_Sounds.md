@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 82950
+revid: 84200
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -96,7 +96,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat)
 
  | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
-| TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
 | TBA | Miner's Landing Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
 | TBA | Scion of Ethiron Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |

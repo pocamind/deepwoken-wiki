@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 84030
+revid: 84167
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -28,12 +28,12 @@ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstr
 ## Obtainment
 
 1.  Speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) in Castle Light and ask to learn the secret of "radiant magic". This Costs 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and gives you the base Oath along with its Blinding Dawn Mantra.
-2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 60 Medallions in total from base to max. The order you get the upgrades is:
+2.  You can upgrade the oath in exchange for 15 [Kyrsan Medallions](Kyrsan_Medallions.md) (per skill) by speaking to Klaris again. The oath costs 75 Medallions in total from base to max. The order you get the upgrades is:
 
--   Blinding Dawn upon Oath obtainment
--   Radiant Kick
--   Protagonist Syndrome and Radiant Dawn
--   Absolute Radiance
+-   Blinding Dawn upon Oath obtainment (30 medallions)
+-   Radiant Kick (15 medallions)
+-   Protagonist Syndrome and Radiant Dawn (15 medallions)
+-   Absolute Radiance (15 medallions)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
 

@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 72431
+revid: 84209
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -29,6 +29,21 @@ Amashi's uses a [Hero Blade of Flame](Hero_Blades.md) along with the [Flamecharm
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★★) |
 | Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ✗ | ◯ | (★★☆) |
 | Flame Assault | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ | (★★☆) |
+
+### Talents
+
+-   Perfect Flash
+-   Impervious Slumber
+-   Flaming Uppercut
+-   The Final Act
+-   Unyielding Inferno
+-   Agitating Spark
+-   Immolation
+-   Phoenix Flames
+-   Explosive Finish
+-   Flaming Flourish
+-   Emperor Flame
+-   Mirage Clone
 
 ### Boons
 

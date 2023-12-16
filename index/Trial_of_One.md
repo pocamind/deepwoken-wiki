@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 83405
+revid: 84168
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -85,6 +85,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 -   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch some players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
+-   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resitiance.
 -   You may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with talents/mantra choosing early on.
 
 ## Trivia

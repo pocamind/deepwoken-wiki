@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 84144
+revid: 84185
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -22,7 +22,7 @@ categories: [Weapons, Swords, Katanas]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, Aelita, Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Burning Blood, Meteor Isle |
+| obtainment | Chests from:, Starswept Valley, The Depths, Duke Erisia, Primadon, Aelita, Rogue Construct, Fishing, Fort Merit, Chaser, Scholar of the Crimson Contract, Meteor Isle |
 | description | Fashioned after the legendary blade said to be wielded by the King of Etrea, the Splinterblade. An exceptionally lethal blade that makes short work of heavy armor. |
 
 ## Description

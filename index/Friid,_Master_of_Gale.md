@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 72430
+revid: 84210
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -28,6 +28,19 @@ Friid's arsenal consists of a [Curved Blade of Winds](Curved_Blade_of_Winds.md) 
 | Critical | Performs a short wind-up before conjuring a vicious whirlwind of slashes that moves forward. | ◯ | ✗ | (★★☆) |
 | Rising Wind | User uppercuts their opponent, rapidly damaging them. | ◯ | ◯ | (★★☆) |
 | Strong Left | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+
+### Talents
+
+-   Perfect Flash
+-   Impervious Slumber
+-   Gale Trap
+-   Suffocating Impact
+-   Gale Coil
+-   Stifled Jump
+-   Air Pressure
+-   Silencer's Edge
+-   Silencer's Blade
+-   A World Without Song
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 80827
+revid: 84228
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -113,12 +113,16 @@ notices:
     -   in the 10/06/23 update, Third Interrogation was merged into Second Interrogation.
 -   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
     -   The talent was removed from the game with 10/06/23 update, as it became a base behavior for Flame Repulsion.
+-   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
+    -   In the 12/16/23 update, True Pain was removed due to Knife's Journey rework.
+-   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
+    -   In the 12/16/23 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
 -   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
     -   In the 12/13/22 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   In the 02/06/23 update, Finesse was merged into Now You see Me.
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
--   _Gale Dash_ \[Rare Talent\] - After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
+-   **Gale Dash \[Rare Talent\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
     -   In the 5/16/23 update, Gale Dash was merged into Air Pressure.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)

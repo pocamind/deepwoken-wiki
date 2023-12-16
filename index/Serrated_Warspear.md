@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 82167
+revid: 84166
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -24,12 +24,12 @@ categories: [Weapons, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Corrupted king threshers, corrupted threshers, and nightmare threshers |
+| obtainment | Corrupted King Threshers, Corrupted Threshers, and Nightmare Threshers |
 | description | N/A |
 
 ## Description
 
-The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted king [threshers](Thresher.md), corrupted [threshers](Thresher.md), and nightmare [threshers](Thresher.md), it is directly dropped by the threshers. It is on the rarer side of weapons due to being a direct drop from a boss, next to the True Seraph's Spear (from Corrupted King Threshers.) This weapon deals 26.8 (+8 BLEED) damage at 75 MED for a total of 34.8. At 100 MED it deals 27.1 (+11.5 BLEED) damage for a total of 38.6.
+The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtained from Corrupted [King Threshers](Thresher.md), corrupted [Threshers](Thresher.md), and Nightmare [Threshers](Thresher.md), it is directly dropped by the Threshers. It is on the rarer side of weapons due to being a direct drop from a mob, next to the True Seraph's Spear (from Corrupted King Threshers.) This weapon deals 26.8 (+8 BLEED) damage at 75 MED for a total of 34.8. At 100 MED it deals 27.1 (+11.5 BLEED) damage for a total of 38.6.
 
   
 
@@ -37,3 +37,4 @@ The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtain
 
 -   Heavily resembles the [Acheron's Warspear](<Acheron's_Warspear.md>).
 -   Direct upgrade of the [Archeron's Warspear.](<Acheron's_Warspear.md>)
+-   This weapon used to be dropped by [Duke Erisia](Duke_Ishamon_Erisia.md), although it was removed in favor of the [Stoneheart](Stoneheart.md).

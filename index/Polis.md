@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 74514
+revid: 84220
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Kingdom of Etrea Enemies]
@@ -35,6 +35,41 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
 
+#### Talents
+
+-   Collapsed Lung
+-   Bulldozer
+-   Audacity
+-   Braced Collapse
+-   Firmly Planted
+-   Perseverance
+-   Impervious Slumber
+-   Moving Fortress
+-   Battle Tendency
+-   Reinforced Armor
+-   Matador
+-   Uproar
+-   Brutal Momentum
+-   Showstopper
+-   Warrior's Swing
+-   Destructive Recovery,
+-   Harsh Response
+-   Heavy Hitter
+-   Punishing Blow
+-   Hard Read
+-   Swift Rebound
+-   Evasive Expert
+-   Ghost
+-   Concussive Force
+-   Strong Stern
+-   Concussion
+-   Return to the Dark Ages
+-   Risky Moves
+-   Wyvern's Claw
+-   Chronostasis
+-   In a Hurry
+-   Grand Support
+
 ## Finisher
 
 Polis executes his opponent after knocking them:
@@ -50,4 +85,4 @@ Polis executes his opponent after knocking them:
 -   Though Polis can be killed, doing so will not affect him respawning back in his usual spot and acting like nothing happened.
 -   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "I may be old, but I'm still brave, young one." "Nice try."
--   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and dose not give you a Gold Ring or any other dialogue
+-   When having Jus Karita as a starting weapon Polis will say "How strange that our Paths should cross again so soon..." and does not give you a Gold Ring or any other dialogue

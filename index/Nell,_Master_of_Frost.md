@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 75583
+revid: 84211
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -43,6 +43,24 @@ Old Ice Eruption
 Rapid Punches
 
  | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ◯ | (★★☆) |
+
+### Talents
+
+-   Perfect Flash
+-   Impervious Slumber
+-   Fragile Freeze
+-   Chilling Flourish
+-   Cool Head
+-   Cryostasis
+-   Rude Awakening
+-   Cold Front
+-   Glacial Ice
+-   Orbital Ice
+-   Frozen Legs
+-   Bottom Freeze
+-   Frostbite
+-   Saint Jay
+-   Unyielding Frost
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Cathedral of Ethiron
-revid: 71880
+revid: 84198
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Layer 2]
@@ -20,7 +20,7 @@ The Cathedral of Ethiron is a landmark in [The Maw of Ethiron](The_Maw_of_Ethiro
 
 ## Contents
 
-[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) can be found here. Once defeated, an opening leading to [New Kyrsa](Second_Layer/New_Kyrsa.md) and a light hook embroidered by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) will appear.
+[Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) can be found here. Once defeated, an opening leading to [New Kyrsa](Second_Layer/New_Kyrsa.md) and a light hook embroidered by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) will appear.
 
 ## Trivia
 

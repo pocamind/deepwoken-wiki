@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 82021
+revid: 84213
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Spelltrainers]
@@ -134,6 +134,28 @@ Adar: That's it. you've nailed it!
 _(Not enough notes) Adar: Oh, err. Afraid I can't help you for free right now. Money's a bit tight._
 
 1.  \[End Dialogue\]
+
+### Talents
+
+-   Perfect Flash
+-   Impervious Slumber
+-   Gilded Path: Scrapsinger
+-   Refine and Reuse
+-   Artisan's Blade
+-   Songs Unforged
+-   Masterwork
+-   Reshape and Remold
+-   Exposed Durability
+-   An Ironsinger's Instinct
+-   Phantom Edge
+-   Heavy Shoulders
+-   Ironclad Punishment
+-   Thornmail
+-   Metal Shackles
+-   Piercing Metal
+-   Polished Armor
+-   Laced Traps
+-   Metal Absorption
 
   
 

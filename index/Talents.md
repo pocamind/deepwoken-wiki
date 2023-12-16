@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84092
+revid: 84224
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -325,7 +325,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 These Talents are designed to make defensive gameplay easier by improving your defense, blocking, and posture.
 
--   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+1 Posture, +10 Sanity)
+-   Battle Tendency \[Common Talent, Fortitude\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
@@ -334,7 +334,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
--   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
+-   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+2 Posture)
     -   Negate movement speed penalty of blocking.
     -   Prerequisite: 5 Fortitude
 
@@ -500,24 +500,16 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I am a master of creating openings."**_
 
--   _Knife's Journey_ \[Rare Talent, Light\] - You now have a 10% chance to do 20% more damage with daggers.
-    -   Crit procs are rolled for each individual target, not per swing.
-    -   Crit procs are indicated by a red visual effect.
+-   _Knife's Journey_ \[Rare Talent, Light\] - Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage
     -   Only works on daggers.
-    -   Alloyed Whaling Knife can passively proc this effect on its Critical Attack with a 30% chance.
-        -   Stacking the talent add the chances together for 40% instead of making 2 separate rolls.
     -   Prerequisite: 30 Light Weapon
 
--   Decisive Blow \[Common Talent, Light\] - Dodging an attack increases your Knife's Journey critical chance by 30%.
+-   Decisive Blow \[Common Talent, Light\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
     -   While the effect is active, gain a red trail on your weapon.
     -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
 
 -   Thresher Fangs \[Common Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
-    -   Prerequisite: Knife's Journey
-
--   _True Pain_ \[Rare Talent, Light\] - Your Critical Strikes Can Now Crit (+2 Health)
-    -   Critical Strike can attack twice.
     -   Prerequisite: Knife's Journey
 
 ### Cryomancer
@@ -662,7 +654,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 15 Strength
     -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this talent.
 
--   Duelist's Dance \[Common Talent\] - Parrying an opponent gives you 25% more posture back. (+1 Posture, +4 Carry Load)
+-   Duelist's Dance \[Common Talent\] - Parrying an opponent gives you 25% more posture back. (+2 Posture, +4 Carry Load)
     -   Prerequisites: 20 Strength
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
@@ -1579,7 +1571,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: 60 Light Weapon, using a Gun
 -   One in the Chamber \[Common Talent\] - \[1H Guns\] After fully reloading, the last bullet in your gun will do more damage. This damage buff scales with number of bullets up to 20%.
     -   Prerequisites: 50 Light Weapon, using a Gun
--   Rapid Fire \[Common Talent\] - \[Pistols\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
+-   Rapid Fire \[Common Talent\] - \[1H Guns\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
     -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
@@ -1622,13 +1614,6 @@ _**"I seek the qualities of Heat Column."**_
 -   Under The Radar \[Common Talent\] - The negative reputation threshold for a faction to put out posters of you is now higher. (+1 health)
     -   Prerequisite: 60 Charisma
 
-### Puppet Master
-
-> _**"I control those around me."**_
-
--   Twisted Puppets \[Common Talent, Dual Attunement\] - Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
-    -   Prerequisites: Corpse Explosion, 50 Flamecharm & 70 Shadowcast
-
 ### Pyroclast
 
 > _**"I seek the qualities of Pyroclast."**_
@@ -1665,7 +1650,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: 60 Strength
     -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
 
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% less. (+1 Posture, +4 Carry Load)
+-   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% less. (+2 Posture, +4 Carry Load)
     -   Prerequisite: 40 Strength
 
   
@@ -1681,14 +1666,14 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Conductor's Cable \[Common Talent, Ironsing Exclusive\] - Applying Conductor rods on opponents steals some of their armor to you.
     -   Prerequisite: Rending Needle: Conductor
--   _Rending Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage. (+1 Posture)
+-   _Rending Impact: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
     -   Ironsing Pull is activated by pressing X.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Jailer
--   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return. (+1 Posture)
+-   _Rending Needle: Conductor_ \[Rare Talent, Ironsing Exclusive\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Impact: Impaler, Rending Needle: Jailer
--   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them. (+1 Posture)
+-   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
@@ -1871,14 +1856,6 @@ Prerequisite: Charisma
 -   Unnecessary Theatrics \[Common Talent, Charisma Exclusive\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly. (Does not proc "Golden Tongue" Talent).
     -   Prerequisites: Charismatic Cast, 75 Charisma
 
-### Toxic Personality
-
-> _**"I seek the qualities of Toxic Personality."**_
-
--   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
-    -   Works insanely well with Talent "Unnecessary Theatrics" as it reapplies the charm.
-    -   Prerequisites: Charismatic Cast, 60 Charisma
-
 ### Soul Converter
 
 -   _Bloodiron Spirit_ \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
@@ -1898,7 +1875,7 @@ Prerequisite: Charisma
 -   Apparitions \[Common Talent, Galebreathe Exclusive\] - Instead of Haunted Gale Phantoms, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'.
     -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
 
--   Phantom Step \[Common Talent, Galebreathe Exclusive\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 20% Spectral Gauge)
+-   Phantom Step \[Common Talent, Galebreathe Exclusive\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)
     -   Prerequisites: Haunted Path: Specter, 55 Galebreathe
 
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
@@ -2176,10 +2153,37 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Thundercaller \[Common Talent, Thundercall Exclusive\] - Grants you the ability to command Lightning as a Thundercaller. (+3 Elemental Intensity, +1 Health)
     -   Prerequisite: Thundercall with [Power](Power.md) 1 (1 Thundercall) or obtain from Thundercall trainer (Funke)
 
+### Toxic Personality
+
+> _**"I seek the qualities of Toxic Personality."**_
+
+-   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
+    -   Works insanely well with Talent "Unnecessary Theatrics" as it reapplies the charm.
+    -   Prerequisites: Charismatic Cast, 60 Charisma
+
 ### Trickster
 
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Prerequisite: 65 Agility
+
+### Twisted Puppets
+
+> _**"I seek the qualities of twisted puppets"**_
+
+-   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+-   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.
+    -   Prerequisites: Wraith Path: Twisted Puppets, Emperor Flame
+-   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+-   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
+    -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+-   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
+    -   Turns all flame mantras black.
+    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead.
+    -   Burn from shadow mantras deals less damage than regular burn; doesn't spawn puppets. Burn damage can still be increased with Azure Flames.
+    -   Flame Within deals less self damage, but drains ether.
+    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
 
 ### Tyrant
 

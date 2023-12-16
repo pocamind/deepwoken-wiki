@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 80928
+revid: 84208
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -43,6 +43,18 @@ Shadow Assault
 Rapid Punches
 
  | User unleashes a barrage of blows against their foes. | ◯ | ◯ | (★★☆) |
+
+### Talents
+
+-   Perfect Flash
+-   Impervious Slumber
+-   Dark Hours
+-   Dark Rift
+-   Singularity
+-   Black Hole
+-   Fear
+-   Lasting Sorrow
+-   Blackhole
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 77650
+revid: 84229
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -58,9 +58,8 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
     -   tl;dr Its very difficult to run from a thresher the lower level you are, but still possible. Log if you are not ready.
 -   You can use Thresher bait to spawn Threshers near water, just like Megalodaunt bait. So you could spawn a bunch at Lower Erisia for whatever purposes you have. Just know that there is basically no point to this as the spawned Thresher will not drop a chest and mostly ends up as an inconvenience to anybody who comes across it.
 -   Prior to 10/1/2023, the Thresher Spine item had no description, making it the only monster drop not to have one.
--   No Thresher can swim, if they end up in the sea they will sink and despawn.
--   Threshers are very hostile towards Desert Knights so in case you need to get Threshers off of you lure them to a Desert Knight.
--   Threshers do not attack Megalodaunt so the both of them can attack the players together.
+-   Originally, no Thresher could swim, if they ended up in the sea they would sink and despawn.
+-   Threshers are very hostile towards Desert Knights, so in case you need to get Threshers off of you, lure them to a Desert Knight.
     
 
 **King Thresher:**
@@ -135,7 +134,6 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 
 ## Trivia
 
--   The indicator sound from the Ram attack is the perilous attack sound from Sekiro: Shadows Die Twice.
 -   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
 -   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
 -   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.

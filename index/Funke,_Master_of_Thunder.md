@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 82370
+revid: 84212
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -29,6 +29,26 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 | Jolt Grab | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
 | Thunder Kick | User performs an empowered lightning kick, shocking and knocking away any opponents. | ◯ | ◯ | (★★☆) |
 | Strong Left | User performs a wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+
+### Talents
+
+-   Perfect Flash
+-   Impervious Slumber
+-   Authority Intimidation
+
+8Resolve Crusher
+
+-   First Interrogation
+-   Second Interrogation
+-   Jolting Current
+-   Static Link
+-   Jumper Cables
+-   Static Allure
+-   Static Blade
+-   Overcharge
+-   Gathering Electricity
+-   Static Withdraw
+-   Stratoshock
 
 ## Finisher
 

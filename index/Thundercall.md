@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 84087
+revid: 84199
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1315,17 +1315,17 @@ After successfully casting lightning impact, strike down countless thunder at th
 
 ## Trivia
 
--   _Lightning Strike_ prints out the coordinates of where the strike was in the F9 log. This means that you can use _Lightning Strike_ as a makeshift or bootleg compass.
--   Static Fakeout can be used with Spine Cutter.
+-   **Lightning Strike** prints out the coordinates of where the strike was in the F9 log. This means that you can use **Lightning Strike** as a makeshift or bootleg compass.
+-   "Static Fakeout" can be used with Spine Cutter.
 -   In the book Our Fortress, Vincent Zeneke notes that the Thundercaller's use of the Canjolin instrument spawned a method of overdrive.
     -   Linking music theory, the use of overdrive is made to alter the sound of an electrical instrument.
         
--   The Mantra _**Grand Javelin**_ is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
+-   The Mantra **Grand Javelin** is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from the Dark Souls, having a shared sound effect and casting animation.
 -   In Deepwoken testing, known as Oldwoken, Thundercall used to be blue instead of yellow. Even with the addition of Surge Path, the original color is still lost to the ages.
     -   Surge is a more purple shade compared to Oldwoken Thundercall, which was a light blue.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.
--   Rising Thunder is a reference to Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
--   With Lightning Impact: Rains Of Static, variation. You can lower your elevation by sliding, making the windup on your slam way shorter but at the same time keeping you at an unsafe level. You can also increase your elevation off the ground through any means like aerial combos or hopping off a wall to make the windup on your slam longer, not letting opponents auto-parry it due to parrying the projectiles.
+-   **Rising Thunder** is a reference to Kakashi's Raikiri: Sōraishin from the videogame _Naruto: Ultimate Ninja Storm_.
+-   With **Lightning Impact**: Rains Of Static, variation. You can lower your elevation by sliding, making the windup on your slam way shorter but at the same time keeping you at an unsafe level. You can also increase your elevation off the ground through any means like aerial combos or hopping off a wall to make the windup on your slam longer, not letting opponents auto-parry it due to parrying the projectiles.
 
 Virudhaka's Sword
 

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 83858
+revid: 84201
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -992,19 +992,19 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 ## Trivia
 
 -   The Chilling [Enchantment](Enchantments.md) used to inflict the same effect that this attunement has, however this has been changed to work only in PVE.
--   The "Ice Fissure" mantra is a reference to the Roblox game Strife, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
--   The "Warden's Blades" mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
+-   The **Ice Fissure** mantra is a reference to the Roblox game Strife, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
+-   The **Warden's Blades** mantra is likely a reference to Devil May Cry, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing Warden's blade does.
     
--   The "Ice Chain" Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
--   The "Ice Eruption" Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.
--   The "Ice Smash" Mantra is a reference to one of Cirno's spell cards in Touhou 12.3.
+-   The **Ice Chain** Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
+-   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.
+-   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in Touhou 12.3.
 -   Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning.
     -   Which translates to the fact that the Mantra would fit well to people who has a defensive approach to combat.
 -   Frostdraw mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Commanders in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
--   The "Ice Chains" mantra was reworked into a new ability on the 8th of February 2022.
+-   The **Ice Chains** mantra was reworked into a new ability on the 8th of February 2022.
 -   The now-removed "Frozone" Talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from [The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles).
--   The "Iceberg" Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in [Overwatch](https://en.wikipedia.org/wiki/Overwatch).
+-   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in [Overwatch](https://en.wikipedia.org/wiki/Overwatch).
 -   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the most Mantras out of all attunements in the game.
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
