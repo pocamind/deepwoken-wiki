@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 84211
+revid: 84303
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -46,21 +46,21 @@ Rapid Punches
 
 ### Talents
 
--   Perfect Flash
--   Impervious Slumber
--   Fragile Freeze
--   Chilling Flourish
--   Cool Head
--   Cryostasis
--   Rude Awakening
--   Cold Front
--   Glacial Ice
--   Orbital Ice
--   Frozen Legs
--   Bottom Freeze
--   Frostbite
--   Saint Jay
--   Unyielding Frost
+-   Perfect Flash - If Nell has full Health his mantras do 25% more damage.
+-   Impervious Slumber - If Nell is being hit while knocked his time knocked isn't reset.
+-   Fragile Freeze - If Nell blockbreaks with his ice Mantra the opponent will be frozen.
+-   Chilling Flourish - If Nell flourishes an enemy they leave behind a trail of ice in the direction he send them.
+-   Cool Head - If Nell is set on fire while on ice, he will immediately put it out and enter state of chill, During this state he cannot be lit on fire.
+-   Cryostasis - If Nell gets block broken, Nell fragile freezes himself negating the damage of the next attack.
+-   Rude Awakening - If Nell gets hit in Cryostasis he will inflict frost damage to the enemy who hit him.
+-   Cold Front - Nells vents are imbued with glacial frost.
+-   Glacial Ice - Nell's frost is now considerably more intense.
+-   Orbital Ice - If Nell Lands a parry while standing on ice, automatically form a gravitational ring of ice that absorbs 15% of the physical damage. The ring breaks after sustaining a certain amount of damage.
+-   Frozen Legs - Nell's slow effect prevents the enemy from rolling.
+-   Bottom Freeze - If Nell hits a chilled enemy with projectile while they are on ice, Freeze them to the ground.
+-   Frostbite - Enemies no longer heal under chill effect.
+-   Saint Jay - If a chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they on ice Nell's healing is increased.
+-   Unyielding Frost - Nell's chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
 
 ## Finisher
 

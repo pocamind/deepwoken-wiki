@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 84223
+revid: 84307
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -88,10 +88,11 @@ Clutching Shadow
 Shadow Chains  
 (★☆☆)
 
- | Chains of shadow. | 15 Ether | The user swipes with their right hand before conjuring multiple portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
+ | Chains of shadow. | 15 Ether | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. When hit, the chains will latch on to their opponent, dealing a small amount of damage, slowing them and draining their ether based on the number of chains applied for a duration of 3 seconds
 
 -   Duration of the chain effect can be increased with Logstones
 -   Chain projectile speed and range can be increased with Drift shards and Crystal lenses
+-   Casts an extra chain at level 5 \[Testing needed\]
 
  |
 | 

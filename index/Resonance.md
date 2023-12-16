@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 84176
+revid: 84309
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -159,7 +159,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <ul>
     <li><b><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></b> gives the highest Progress reward of all boss monsters, allowing the player obtain a resonance in just 2-3 runs as well as dropping the best loot in the game. However, his fight brings a lot of risk as the player is incredibly prone to wiping in the Second Layer.<br>
   </li>
-    <li><b><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser</a></b> grants a great amount of progress, which becomes even higher when done without a Light Hook. It can be a good way to farm great loot as well as get Progress along the way. Can be risky if the player is fighting Chaser for the first time.</li>
+    <li><b><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser</a></b> grants a great amount of progress, which becomes even higher when done without a Light Hook. It can be a good way to farm great loot as well as get Progress along the way. Can be risky if the player is fighting Chaser for the first time, as the player can be wiped in the Second Layer.</li>
   </ul>
   <ul>
     <li><b><a href="Duke_Ishamon_Erisia.md">The Duke</a></b> gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.</li>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84289
+revid: 84313
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -55,7 +55,7 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Singularity_ **or** _Sightless Still;_
 -   Million Ton Piercer **or** Ether Overdrive;
 -   Bulldozer **or** Dazing Finisher.
--   Wraith Path: Twisted Puppets **or** Azure Flames
+-   Wraith Path: Twisted Puppets **or** Eruption Path: Lava Serpent
 
 Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -565,8 +565,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: 45 Light Weapon
 
 -   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
-    -   Prerequisite: Assassin, 30 Agility
+    -   Reduce grip time by 0.5 seconds (16.67% faster)
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
+    -   Prerequisite: Assassin, 30 Agility
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
     -   Prerequisite: 60 Agility
 
@@ -671,6 +672,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
     -   Restore 5% Posture on a successful dodge.
+    -   Unlisted: Gain 4% Tempo on a successful dodge.
     -   Prerequisite: 15 Strength, 45 Agility.
 
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility)
@@ -2176,7 +2178,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead.
     -   Flame Within deals less self damage, but drains ether.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
-    -   Mutually Exclusive: Azure Flames, Eruption Path: Lava Serpent
+    -   Mutually Exclusive: Eruption Path: Lava Serpent, Azure Flames
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 83944
+revid: 84306
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -91,7 +91,7 @@ Tornado Kick
 
 _Slicing blades of wind._
 
- | Work in Progress | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
+ | 50 Ether | Perform a kick that sends out a surging projectile of wind, leap up and send out 3 more AoE projectiles if the mantra hits a registered target.
 
 -   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
 -   Projectile is medium-ranged and explodes on impact.
@@ -106,7 +106,7 @@ Gale Lunge
 
 _A rush of piercing wind._
 
- | Work in Progress | Lunge forward with your weapon coated in wind.
+ | 40 Ether | Lunge forward with your weapon coated in wind.
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
@@ -142,7 +142,7 @@ Heavenly Wind
 
 _A strike from the heavens._
 
- | Work in Progress | Leap high into the air before diving down, striking any targeted opponent.
+ | 50 Ether | Leap high into the air before diving down, striking any targeted opponent.
 
 -   Deals moderate damage.
 -   User moves towards the cursor.
@@ -244,7 +244,7 @@ Wind Gun
 
 _A powerful wind blast._
 
- | Work in Progress | Fire a penetrating bullet of wind.
+ | 40 Ether | Fire a penetrating bullet of wind.
 
 -   Deals heavy damage and flings opponents.
 -   Applies the _"Suffocate"_ status effect.
@@ -844,7 +844,7 @@ Phantom Step
 
  | 
 
-Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 20% Spectral Gauge)
+Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)
 
  | 
 
