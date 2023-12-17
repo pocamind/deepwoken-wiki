@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 84306
+revid: 84468
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -207,7 +207,7 @@ Champion's Whirlthrow
 
 _Grab your target and toss them with the power of gale._
 
- | Work in Progress | Grab your target before spinning them in 360 degrees and then tossing them.
+ | 60 Ether | Grab your target before spinning them in 360 degrees and then tossing them.
 
 -   Deals good-high damage.
 -   Forcible Block Break (Only When Upgraded To Level 5).
@@ -322,7 +322,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
   <td><center>Wind Passage<br>
   (★★★)</center></td>
   <td><center><i>A rush of wind</i></center></td>
-  <td>Work in Progress</td>
+  <td>50 Ether</td>
   <td>Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
   <ul>
     <li>Can be modified with Crystal/Perfect Lenses to increase the distance travelled.</li>
@@ -348,7 +348,7 @@ Gale Wisp
 
 _A servant of wind._
 
- | Work in Progress | Spawns a spherical wisp of wind. Requires ritual casting.
+ | 60 Ether | Spawns a spherical wisp of wind. Requires ritual casting.
 
 -   Grant 30% fall damage resist.
 -   Haunted Gale requires one less perfect cast to activate (3 to 2).

@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 83589
+revid: 84478
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -57,4 +57,5 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 | [Hive](The_Hive.md) | 1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>) | "Those who stand in the way of our research won't live to tell the tale." |
 | [Hive](The_Hive.md) | 1(?) [Hive Construct](Hive_Construct.md) | "YOUR REMAINS ARE TO BE SCATTERED." |
 | [The Divers](The_Divers.md) | 3 [Diver Journeymen](Journeyman_Diver_Guard.md) | "You stand against the world, worm." |
+| [The Divers](The_Divers.md) | 1 [Black Diver](<Black_Diver_(NPC).md>) | "We've got research to get back to so let's make this quick." |
 | [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Guard Knives | "Boss'll be pleased about this one." |

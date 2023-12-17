@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 83730
+revid: 84443
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]

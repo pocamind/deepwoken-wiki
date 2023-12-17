@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 81720
+revid: 84475
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,7 +14,7 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are a category of weapons that focus on range. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is a advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops. There are several different types of **guns** in game.
+**Guns** are a category of weapons that focus on range. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
 
 ## Moveset
 
@@ -72,7 +72,7 @@ _**Stats:**_
 
 [**Summer Rifle:**](Summer_Rifle.md) **17** damage, 8 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
 
-**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (25 MED, 75 Thundercall req)
+**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (25 MED, 75 [Thundercall](Thundercall.md) req)
 
 ### Trivia:
 

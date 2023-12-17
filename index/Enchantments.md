@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 84046
+revid: 84396
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -64,7 +64,7 @@ There are two variants that enchantments come in:
   <font>Blazing<div></div></font></center></td>
   <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). This can be used to trigger Flamecharm talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.</p></div></td>
-  <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames.</div></td>
+  <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -646,6 +646,9 @@ File:Vamparism shield.png
     Azure Flames with the "Blazing" enchant
     
     -   Curse of the Umbral Knight **→** Umbral Knight, (does not have the down sides of Curse of the Umbral Knight).
+        
+        Twisted Puppets with the "Blazing" enchant.
+        
 -   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
 -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.

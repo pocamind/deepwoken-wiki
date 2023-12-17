@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 83138
+revid: 84467
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -117,7 +117,9 @@ File:Similar Last Names.png
 -   During the 4/1/2022 April Fools update (Mudwoken), Vesperian race name was changed to Maskskipper.
 -   Wearing a helmet (such as the Authority Helm) does not remove the mask, and instead opts to clip into it
 
-A Vesperian with Blindseer
+File:Baltazavr.png
+
+A Vesperian with Blindseer. Mask color: #3E4450
 
 -   Instead of the usual blindfold, Vesperian [Blindseers](Oaths.md) acquire a special black colored mask with a gold pattern that resembles an eye. Additionally, their original skin color is changed to a more Ganymede-like appearence, instead having black skin and dark gray hair. This pattern can also be found on one of the Vesperian statues inside of [The Lordsgrove](The_Lordsgrove.md).
 -   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 13% physical damage.
