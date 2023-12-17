@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 84396
+revid: 84498
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -597,7 +597,7 @@ Static flaming purple.
 
 ## Changelogs
 
--   **January 2nd, 2022** - Hero Blade of Flame, Frost, Lightning, Shadow & Wind can no longer be enchanted.
+-   **January 2nd, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
 -   **February 18th, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
 -   **March 27th, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
 -   **April 11th, 2022** - Enchant rates have been buffed by an unknown amount.
@@ -611,7 +611,7 @@ Static flaming purple.
 -   **February 13th, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 -   **August 25th, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
 -   **September 29th, 2023** - Astral is made publicly available.
--   **November 3rd, 2023** - Hallowtide Enchant: Harrowing is made publicly available.
+-   **November 3rd, 2023** - [Hallowtide](Hallowtide.md) Enchant: Harrowing is made publicly available.
 -   **November 10th, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
 
 ## Trivia
@@ -622,7 +622,11 @@ File:Vamparism shield.png
 
 "Curse of Umbral Knight" enchant on a Hero's Blade of Shadow
 
--   A few enchants are based on other series and shows.
+-   File:Blazing enchant on a Twisted Puppets path.png
+    
+    Twisted Puppet (Shadow Falme) with the "Blazing" enchant
+    
+    A few enchants are based on other series and shows.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._

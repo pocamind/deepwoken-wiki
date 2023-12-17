@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84436
+revid: 84502
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1822,7 +1822,7 @@ _**"I seek the qualities of Heat Column."**_
 -   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load)
     -   Repairing restores 400 HP instead of 250 HP.
         -   Prerequisite for spare nails: Automatically gained after using the Repair Hammer 51 times.
-        -   the head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" have this talent.
+        -   the head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this talent.
 
 ### Silencer
 

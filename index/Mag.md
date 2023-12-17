@@ -1,8 +1,9 @@
 ---
 title: Mag
-revid: 84359
+revid: 84489
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [NPCs]
 ---
 
 # Mag

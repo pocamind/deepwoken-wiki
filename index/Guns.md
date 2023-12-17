@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 84475
+revid: 84479
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -72,7 +72,7 @@ _**Stats:**_
 
 [**Summer Rifle:**](Summer_Rifle.md) **17** damage, 8 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
 
-**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (25 MED, 75 [Thundercall](Thundercall.md) req)
+**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (25 MED, 75 Thundercall req)
 
 ### Trivia:
 

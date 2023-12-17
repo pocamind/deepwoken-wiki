@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 83963
+revid: 84483
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,7 +22,7 @@ Template:Creature Info Box v2
 
 Recognizable by their yellow body, blue eyes and blue sword, the Desert Knights are the variant encountered in [Starswept Valley](The_Starswept_Valley.md). They are much weaker than their Blizzard counterpart, featuring a lot less HP. Unlike their Blizzard variant, they only spawn individually. Killing them will spawn a chest with loot usually more on the rare side. This chest will not drop if the knight came from a meteor, it will only spawn a chest if the knight spawned without a meteor.
 
-They may spawn anywhere within Starswept Valley and some of its surrounding areas, Yes they can spawn by blue meteors, but sometimes these things can spawn whenever they want to, and that's WITHOUT the meteors. **Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
+They may spawn anywhere within Starswept Valley and some of its surrounding areas, Yes, they can spawn by blue meteors, but sometimes these things can spawn whenever they want to, and that's WITHOUT the meteors. **Tip**: If you see **Blue Fragments** falling from the sky, that's probably an area where a **Desert Knight** can spawn.
 
 ## **Moveset**
 
