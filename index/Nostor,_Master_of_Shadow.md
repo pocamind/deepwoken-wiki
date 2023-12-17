@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 84208
+revid: 84350
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 Nostor is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Shadowcast](Shadowcast.md) trainer.
 
-In order to obtain [Shadowcast](Shadowcast.md), you must bring 5 [Umbral Obsidian](Umbral_Obsidian.md) to Nostor. Alternatively, if you have obtained the [Silentheart](Oaths.md) oath, you must kill them in order to get one of five oath talents. They are found in the [City of the Drowned](The_Depths.md) inside a sewer underneath a building.
+In order to obtain [Shadowcast](Shadowcast.md), you must bring 5 [Umbral Obsidian](Umbral_Obsidian.md) to Nostor. Alternatively, if you have obtained the [Silentheart](Oaths.md) Oath, you must kill them in order to get one of five Oath Talents. They are found in the [City of the Drowned](The_Depths.md) inside a sewer underneath a building.
 
 ## Moveset
 
@@ -46,15 +46,14 @@ Rapid Punches
 
 ### Talents
 
--   Perfect Flash
--   Impervious Slumber
--   Dark Hours
--   Dark Rift
--   Singularity
--   Black Hole
--   Fear
--   Lasting Sorrow
--   Blackhole
+-   _Perfect Flash_ - If Nostor has full Health their mantras do 25% more damage.
+-   _Impervious Slumber_ - If Nostor gets hit while knocked, their knocked timer isn't reset.
+-   _Dark Hours_ - Nostor's Shadowcast mantras deal more damage at night.
+-   _Dark Rift_ - If Nostor successfully dodges an attack they enter a rifted state where they can't be damaged until its duration ends. Can be cancelled if they attack or feint.
+-   _Singularity_ - If Nostor hits an enemy, the enemy will briefly hang in place when hit by a shadow move.
+-   Black Hole - Nostor's singularity pulls everyone nearby in.
+-   _Fear_ - Enemies will briefly hang in place if they try to run from Nostor.
+-   _Lasting Sorrow_ - Shadows last longer on Nostor's opponents.
 
 ## Finisher
 

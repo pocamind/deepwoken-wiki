@@ -1,9 +1,9 @@
 ---
 title: The Divers
-revid: 84232
+revid: 84314
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Guilds, Reputation, Factions]
+categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
 notices:
   - This page is currently being worked on. Some things may still be incomplete
 ---
@@ -67,36 +67,21 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 **[Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md):** A Canorian Black Diver who resides in Castle Light. Apparently, she was trained underneath a Lightkeeper. She is able to give the player the [Dawnwalker](Oath%253A_Dawnwalker.md) [Oath](Oaths.md) should they have the requirements. She also gives the player a Light Hook as they are transported to Second Layer. She is one of the strongest Divers.
 
-## Associated Enemies
-
-File:Trasferimento (2).jpeg
-
-\[\[The Real Slim Shady\]\]
-
-File:Sbobba culo.png
-
-\[\[Il culo di un signore a caso\]\]
-
-File:Makeitmeme EpZya.gif
-
-File:Frusc.jpeg
-
-\[\[IL VERO FREDDY FAZBEAR CHE CANTA FORZA JUVE\]\]
-
-File:Signore bestia.jpeg
-
-SIGNORE BESTIA UWUWUWUWUWUWUWUWUWUWU
-
-  
-
 ## Trivia
 
--   **GABRIELE SUCA CAZZONI ENORMI PORCO DIO**
-    
-
-File:Trasferimento (1).jpeg
-
-\[\[Winnie The Pooh incazzato canta forza juve\]\]
+-   The Divers is the only faction capable of having players join that survived since testing, with all other lore factions removed. Upon joining, players will have max reputation with the Divers on their next character.
+-   The official Divers server is held at Discord.gg/divers
+-   Upon reaching the title of "Black Diver" within the guild, players are rewarded with the status of “Guild Officer.”
+-   The current leader of The Divers in-game is R0bustic.
+-   The Divers are led by the Black Diver Council, consisting of Resolve, Doc, and Rhimirim.
+-   The current Black Divers (officers) of The Divers in-game are:
+    -   R0bustic
+    -   ViolaIsSilent
+    -   H26O
+    -   colddeathmaker
+    -   ResoIv3
+    -   bluesword08
+    -   Doctor5
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84313
+revid: 84333
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -53,9 +53,9 @@ _When it comes to mutually exclusive talents, you can have either:_
 -   _Eruption Path: Lava Serpent_ **or** _The Final Act;_
 -   _Orbital Ice_ **or** _Fists of Fortitude;_
 -   _Singularity_ **or** _Sightless Still;_
--   Million Ton Piercer **or** Ether Overdrive;
--   Bulldozer **or** Dazing Finisher.
--   Wraith Path: Twisted Puppets **or** Eruption Path: Lava Serpent
+-   _Million Ton Piercer_ **or** _Ether Overdrive;_
+-   _Bulldozer_ **or** _Dazing Finisher;_
+-   _Wraith Path: Twisted Puppets_ **or** _Eruption Path: Lava Serpent/Azure Flames_
 
 Certain cards lie in "Priority Talents" - the type of talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards often upon powering up.
 
@@ -1938,6 +1938,7 @@ Prerequisite: Charisma
 -   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
     -   Contrary to the card's description, effect of insanities are delayed by a full tier.
         -   You now Shiver at Tier 2 insanity instead of Tier 1.
+        -   Shiver slows movement, but does not cancel M1/Mantra.
         -   You now Scratch yourself at Tier 3 insanity instead of Tier 2.
     -   Prerequisites: Grasp on Reality, 50 Willpower, 50 Fortitude
 
@@ -2178,7 +2179,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead.
     -   Flame Within deals less self damage, but drains ether.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
-    -   Mutually Exclusive: Eruption Path: Lava Serpent, Azure Flames
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.

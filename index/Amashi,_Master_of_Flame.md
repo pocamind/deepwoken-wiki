@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 84209
+revid: 84348
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -32,18 +32,18 @@ Amashi's uses a [Hero Blade of Flame](Hero_Blades.md) along with the [Flamecharm
 
 ### Talents
 
--   Perfect Flash
--   Impervious Slumber
--   Flaming Uppercut
--   The Final Act
--   Unyielding Inferno
--   Agitating Spark
--   Immolation
--   Phoenix Flames
--   Explosive Finish
--   Flaming Flourish
--   Emperor Flame
--   Mirage Clone
+-   _Perfect Flash_ - If Amashi has full Health his mantras do 25% more damage.
+-   _Impervious Slumber_ - If Amashi gets hit while knocked, his knocked timer isn't reset.
+-   _Flaming Uppercut_ - If Amashi uppercuts he ignites his enemy on fire
+-   _The Final Act_ - If Amashi Lands a fire mantra immediately after flourishing an enemy will cause them to explode.
+-   _Unyielding Inferno_ - Amashi's flames burn just as strong even in the fiercest of storms.
+-   _Agitating Spark_ - If Amashi hits an opponent that has been lit on fire, it'll spread to anyone nearby, including himself.
+-   _Immolation_ - Amashi's Fire spells cost 70% less while on fire. If he hits someone while on fire, he applies fire damage. He take 50% less damage from self-inflicted flames.
+-   _Phoenix Flames_ - If Amashi would burn to death, he instead rises again with 50% of his health restored.
+-   _Explosive Finish_ - If Amashi has an enemy set on fire when he flourishes, he blows them away with a fire blast.
+-   _Flaming Flourish_ - If Amashi flourishes an enemy, they get set on fire.
+-   _Emperor Flame_ - Amashi can absorb fire produced, once he reaches 5 stacks his next attack will automatic explosive finishing flourish.
+-   _Mirage Clone_ - If Amashi dodges he leaves behind a heat mirage clone that sets enemies that swung at him on fire.
 
 ### Boons
 

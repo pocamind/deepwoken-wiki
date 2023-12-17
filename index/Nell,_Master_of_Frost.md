@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 84303
+revid: 84349
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 Nell is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the Frostdraw trainer.
 
-In order to obtain [Frostdraw](Frostdraw.md), you must bring 5 [Frigid Prisms](Frigid_Prism.md) to Nell. Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five oath talents. They are found near the guildhouse (follow the path to the right) in [Etris](Etris.md).
+In order to obtain [Frostdraw](Frostdraw.md), you must bring 5 [Frigid Prisms](Frigid_Prism.md) to Nell. Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents. She is found near the guildhouse (follow the path to the right) in [Etris](Etris.md).
 
 ## Moveset
 
@@ -46,25 +46,25 @@ Rapid Punches
 
 ### Talents
 
--   Perfect Flash - If Nell has full Health his mantras do 25% more damage.
--   Impervious Slumber - If Nell is being hit while knocked his time knocked isn't reset.
--   Fragile Freeze - If Nell blockbreaks with his ice Mantra the opponent will be frozen.
--   Chilling Flourish - If Nell flourishes an enemy they leave behind a trail of ice in the direction he send them.
--   Cool Head - If Nell is set on fire while on ice, he will immediately put it out and enter state of chill, During this state he cannot be lit on fire.
--   Cryostasis - If Nell gets block broken, Nell fragile freezes himself negating the damage of the next attack.
--   Rude Awakening - If Nell gets hit in Cryostasis he will inflict frost damage to the enemy who hit him.
--   Cold Front - Nells vents are imbued with glacial frost.
--   Glacial Ice - Nell's frost is now considerably more intense.
--   Orbital Ice - If Nell Lands a parry while standing on ice, automatically form a gravitational ring of ice that absorbs 15% of the physical damage. The ring breaks after sustaining a certain amount of damage.
--   Frozen Legs - Nell's slow effect prevents the enemy from rolling.
--   Bottom Freeze - If Nell hits a chilled enemy with projectile while they are on ice, Freeze them to the ground.
--   Frostbite - Enemies no longer heal under chill effect.
--   Saint Jay - If a chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they on ice Nell's healing is increased.
--   Unyielding Frost - Nell's chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
+-   _Perfect Flash_ - If Nell has full Health her mantras do 25% more damage.
+-   _Impervious Slumber_ - If Nell gets hit while knocked, her knocked timer isn't reset.
+-   _Fragile Freeze_ - Getting blockbroken by any of Nell's Frostdraw mantras will freeze you.
+-   _Chilling Flourish_ - If Nell flourishes an enemy, they leave behind a trail of ice.
+-   _Cool Head_ - If Nell is set on fire while standing on ice, she will immediately put it out and gain immunity to burn for a set amount of time.
+-   _Cryostasis_ - If Nell gets block broken, Nell fragile freezes herself negating the damage of the next attack.
+-   _Rude Awakening_ - If Nell gets hit in Cryostasis, she will deal frost damage to the enemy who hit her.
+-   _Cold Front_ - Nell's vents inflicts chilled.
+-   _Glacial Ice_ - Nell's Elemental intensity is higher.
+-   _Orbital Ice_ - Whenever Nell parries while standing on ice, she gains breakable armor that gives 15% damage resistance.
+-   _Frozen Legs_ - Nell's chill effect prevents rolling.
+-   _Bottom Freeze_ - If Nell hits a chilled enemy with projectile while they are on ice, Freeze them to the ground.
+-   _Frostbite_ - Enemies no longer heal under chill effect.
+-   _Saint Jay_ - If a chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they're on ice, Nell's healing is increased.
+-   _Unyielding Frost_ - Nell can proc chilled through block, but lasts 20% less.
 
 ## Finisher
 
-Nell executes it's opponent after knocking them:
+Nell executes her opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -72,45 +72,47 @@ Nell executes it's opponent after knocking them:
 
 ## Dialogue
 
-**\[Without Frostdraw, First Encounter\]**
+**Without Frostdraw:**
+
+**First Encounter:**
 
 **"Can you really protect anything that you hold dear as you are now?"**
 
-**\[1\] -** What do you mean?
+-   **\[1\]** What do you mean?
 
 **"You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?"**
 
-**\[1\] -** Yes, what would you have me do?
+-   **\[1\]** Yes, what would you have me do?
 
 **"Bring me 5 Frigid Prisms, Then we can continue"**
 
-End of Dialogue
+-   End of Dialogue
+    
 
-**\[Without Frostdraw, Second Encounter\]**
+**Second Encounter:**
 
 **"Have you done what I asked?"**
 
-**\[1\] (Consumes 5 Frigid Prisms) -** Here.
+-   **\[1\] (Consumes 5 Frigid Prisms)** Here.
 
 **\*They take the crystals and crush each of them into a glass vial, glittering dust falling in.\***
 
-**\[1\] -** What is that you're doing?
+-   **\[1\]** What is that you're doing?
 
 **"The vial I gave you. You must drink it."**
 
 (These dialogues are unfinished)
 
-**\[With Frostdraw\]**
+**With Frostdraw:**
 
-**\*"Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?"**
+**"Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?"**
 
-**\[1\] -** Yes, I have.
-
-**\[No Upgradeable mantras\]**
+-   **\[1\]** Yes, I have.
+-   **\[No Upgradeable mantras\]**
 
 **"The fire spits embers, content to burn..."**
 
-End of Dialogue
+-   End of Dialogue
 
 (These dialogues are also unfinished)
 
@@ -119,7 +121,7 @@ End of Dialogue
 -   Both she and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
     -   If they are indeed Divers, this would make she and Funke the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
 -   Her eyes are unique, having a dark blue sclera.
--   Nell is equipped with a Gran Sudaruska. In the lore, only one Gran Sudaruska exists, so it can be assumed that Nell weilds _the_ Gran Sudaruska since she is the closest to a lore NPC. Though, it is most likely that she isn't in possession of the Gran, and probably has it for the games' sake; being so she has a unique, legendary weapon when shes fought.[\[2\]](#cite-note-2)
+-   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so she has a unique, legendary weapon when she's fought.[\[2\]](#cite-note-2)
 
 ## References
 

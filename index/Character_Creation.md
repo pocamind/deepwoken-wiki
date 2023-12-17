@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 83027
+revid: 84317
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -103,7 +103,7 @@ Here is what makes the Isle of Vigils unique:
 
 ### [Lone Warrior](Origins.md#lone-warrior)
 
-The Lone Warrior [Origin](Origins.md) is unlocked on all slots upon reaching the halfway point in the [Trial of One](Trial_of_One.md), that being the [Thresher](Thresher.md).
+The Lone Warrior [Origin](Origins.md) is unlocked on all slots upon wiping a character at least once or reaching the halfway point in the [Trial of One](Trial_of_One.md), that being the [Thresher](Thresher.md).
 
 Here is what makes the Lone Warrior [Origin](Origins.md) unique:
 
@@ -128,7 +128,7 @@ Here is what makes the [Deepbound Origin](Origins.md#deepbound) unique:
 
 ### [Voidwalker](Origins.md#voidwalker)
 
-The [Voidwalker Origin](Origins.md#voidwalker) is unlocked on all slots upon getting 15 player grips, and talking to Eylis using the second dialogue option in the cargo hold of a ship in the [Etrean Soldiers](Etrean_Soldier.md) versus [Knives of Eylis](The_Knives_of_Eylis.md) [event](The_Aratel_Sea.md#enemies-and-encounters) in [The Aratel Sea](The_Aratel_Sea.md). After using the second dialogue option with Eylis, run through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
+The [Voidwalker Origin](Origins.md#voidwalker) is unlocked on all slots upon getting 5 player grips, and talking to Eylis using the second dialogue option in the cargo hold of a ship in the [Etrean Soldiers](Etrean_Soldier.md) versus [Knives of Eylis](The_Knives_of_Eylis.md) [event](The_Aratel_Sea.md#enemies-and-encounters) in [The Aratel Sea](The_Aratel_Sea.md). After using the second dialogue option with Eylis, run through a [Knife Captain](Subtle_Knife_of_Eylis.md)'s Time Bubble.
 
 Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
 
