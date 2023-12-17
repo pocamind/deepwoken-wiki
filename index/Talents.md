@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84333
+revid: 84361
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -964,6 +964,8 @@ _**"I enjoy sea food."**_
     -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 Galebreathe
 
 ### Genius Intellect
+
+**"My brains are my strength."**
 
 -   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
