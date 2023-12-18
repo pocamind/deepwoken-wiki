@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84502
+revid: 84520
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2177,8 +2177,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"I seek the qualities of twisted puppets"**_
 
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
-    -   Turns all flame mantras black.
-    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead.
+    -   Turns [Hero Blade of Flame](Hero_Blades.md), [Blazing](Enchantments.md), [Railblade's](Railblade.md) criticals and all flame mantras black.
+    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead; burn from shadow mantras deal slightly less damage than base burn and doesn't spawn puppets.
     -   Flame Within deals less self damage, but drains ether.
     -   Prerequisites: 40 Flamecharm & 40 Shadowcast
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames

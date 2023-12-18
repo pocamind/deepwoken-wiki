@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 84201
+revid: 84518
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -952,22 +952,6 @@ Hitting an opponent with your Ice Daggers causes them to freeze.
  | 
 
 +3 Elemental Intensity
-
- |
-| 
-
- | 
-
-Frozone  
-(ICE ??, Ice Skate)
-
- | 
-
-You are no longer required to be over water to use Ice Skate.
-
- | 
-
-+5 Elemental Intensity
 
  |
 | 

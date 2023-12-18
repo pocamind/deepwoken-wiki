@@ -1,6 +1,6 @@
 ---
 title: Dwelling Charm
-revid: 82789
+revid: 84514
 source: https://deepwoken.fandom.com/wiki/Dwelling_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Items]
@@ -20,4 +20,4 @@ categories: [Guilds, Items]
 
 ## Description
 
-Dwelling Charms can be purchased at Guild Halls and at Guild Bases for. A Dwelling charm has 10 summons of your guild base before it runs out.
+Dwelling Charms can be purchased at Guild Halls for and at Guild Bases for. A Dwelling charm has 10 summons of your guild base before it runs out.

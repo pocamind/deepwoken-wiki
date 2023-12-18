@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 83262
+revid: 84524
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -73,7 +73,7 @@ File:B7624e4fd89708c9b9612665c1835545.png
 
  | [Thundercall](Thundercall.md) | [Funke](Funke,_Master_of_Thunder.md) | [Summer Isle](Summer_Isle.md) | He is located in the second floor of the castle. | Funke is a [Canor](Canor.md) who uses [Thundercall](Thundercall.md).
 
-When fought, he uses a [Hero Blade of Lightning](Hero_Blades.md).
+When fought, he uses a [Stormseye.](Stormseye.md)
 
  |
 | 
@@ -89,7 +89,11 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 
  |
 | File:Screenshot 3.png | [Attunement-less](Attunement-less.md) | Regek | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
-|  | [Ironsing](Ironsing.md) | [Adar](Adar,_Master_of_Metal.md) | [Miner's Landing](<Miner's_Landing.md>) | He can be found inside a lab which can be reached using hidden platforms. | Adar is an [Etrean](Etrean.md) who uses [Ironsing](Ironsing.md). |
+|  | [Ironsing](Ironsing.md) | [Adar](Adar,_Master_of_Metal.md) | [Miner's Landing](<Miner's_Landing.md>) | He can be found inside a lab which can be reached using hidden platforms. | Adar is an [Etrean](Etrean.md) who uses [Ironsing](Ironsing.md).
+
+When fought he uses a Darksteel Greatsword
+
+ |
 |  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch. | Beatra is a [Tiran](Tiran.md) who uses [Shadowcast](Shadowcast.md). |
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 84468
+revid: 84522
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -865,7 +865,7 @@ Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your ta
 N/A
 
  |
-|  | 
+| File:Possesion specter talent.gif | 
 
 Possession  
 (Haunted Path: Specter, 75 GALE)

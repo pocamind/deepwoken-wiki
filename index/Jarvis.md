@@ -1,6 +1,6 @@
 ---
 title: Jarvis
-revid: 84488
+revid: 84511
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -17,7 +17,7 @@ categories: [NPCs]
 
 Jarvis is an NPC located in the basement of [Summer Isle](Summer_Isle.md)'s castle.
 
-His main use is to smelt two pieces into one - the first keeping its attributes, the second being its overall appearance for 1000 Notes.
+His main use is to smelt two pieces of equipment into one - the first keeping its attributes, the second being its overall appearance for 1000 Notes.
 
 ## Trivia
 

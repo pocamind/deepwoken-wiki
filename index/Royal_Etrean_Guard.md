@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 84487
+revid: 84513
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -29,7 +29,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which incre
 This Outfit's Schematic can be found in:
 
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
--   Pure Umbrite chests only
+-   Pure [Umbrite](https://deepwoken.fandom.com/wiki/Ore#Umbrite) chests only
+-   [Ministry Enforcer](Ministry_Enforcer.md) [Ambush](Faction_Ambushes.md) event
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 83321
+revid: 84510
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -211,7 +211,6 @@ Main Faction - [Summer Company](The_Summer_Company.md)
 ### NPC Relationship
 
 -   Basically everyone hates everyone, if it's on their side, they wont attack.
--   The Children of Navae and Summer Company will not attack each other, but will instead attack the Ministry Scouts.
 
 ### NPC Events
 

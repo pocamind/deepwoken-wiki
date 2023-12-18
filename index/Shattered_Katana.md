@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 84261
+revid: 84503
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -38,6 +38,6 @@ The Shattered Katana across various updates has been nerfed and is debatably no 
 -   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
 -   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.
     -   Despite its blade being much longer than the Katana, both weapons have 8 range.
--   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md) and [Cloak of Winds](Cloak_of_Winds.md) outfits) buffs the Shattered Katana's damage by 5%, instead of the Katana's 25% dealing 35.7 damage.
+-   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5%, instead of the Katana's 25% dealing 35.7 damage.
     -   This causes both weapons to deal very similar damage at equivalent attribute levels. Their main differences become the PEN and swing speed.
 -   On release, the Shattered Katana had 50% PEN and 0.75x swing speed. It also received the full 25% damage buff from Paired Soul.

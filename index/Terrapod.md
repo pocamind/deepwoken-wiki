@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 81610
+revid: 84525
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -75,9 +75,10 @@ Crimson Terrapods are similar to their purple counterparts but are dyed a crimso
     -   By landing a few hits and running to avoid its attacks, you can kill one of these without blocking, parrying or dodging.
 -   This monster is hostile towards every other monster in Upper Erisia.
 -   Terrapods are one of the only monsters that _cannot_ be snuck up on from any direction.
--   There are two guaranteed spawns for a Terrapod:
+-   There are three guaranteed spawns for a Terrapod:
     -   One near the entrance of The Garden Reservoir
     -   One in front of the ruins near the Legendary Boot
+    -   One sitting under a tree behind the Bandit Camp
 
 ## Trivia
 
