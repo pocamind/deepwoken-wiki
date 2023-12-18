@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 84265
+revid: 84532
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,7 +82,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
 
 ## Effects
 
-This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. Certain spots on the helmet and breastplate both glow yellow. The suit also functions as a dim source of light.
+This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appearance, when casted a suit of armor appears around the user. The visor and breastplate both glow yellow. The suit also functions as a dim source of light.
 
 ## Trivia
 
