@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 82627
+revid: 84550
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -45,7 +45,7 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Ignition Coat](Ignition_Union_Uniform.md) (?? )
 -   [Keeper](Keeper.md) (80 )
 -   [Legion Centurion](Legion_Centurion.md) (?? )
--   [Prophet's Cloak](<Prophet's_Cloak.md>) (?? )
+-   [Prophet's Cloak](<Prophet's_Cloak.md>) (200 )
 -   [Vigil Cloak](Cloak_of_Winds.md) (?? )
 -   [Tactician](Hive_Tactician_Armor.md) (80 )
 -   [Pathfinder Journeyman](Pathfinder_Cloak.md) (200 )

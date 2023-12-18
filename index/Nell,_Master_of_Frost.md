@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 84349
+revid: 84553
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -30,19 +30,64 @@ Assault
  | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
 | 
 
+Iceberg
+
+ | Nell encases herself in ice and starts to recover health, hitting her in this state causes her to parry that attack and ends this mantra. | ◯ | ◯ | (★☆☆) |
+| 
+
+Ice Lance
+
+ | Nell summons a lance and rushes towards the opponent. She rarely uses this in close combat, only using it to catch out of range opponents. | ◯ | ◯ | (★☆☆) |
+| 
+
+Dread Breath
+
+ | Nell fires off a frost beam from her mouth, dealing constant damage and spreading ice around. | ◯ | ◯ | (★☆☆) |
+| 
+
 Critical
 
- | Spins their axe with rapid succession, freezing the floor and sending them and their opponent into the air. | ◯ | ✗ | (★★☆) |
+ | Spins her axe with rapid succession, freezing the floor and sending her and her opponent into the air. | ◯ | ✗ | (★★☆) |
 | 
 
-Old Ice Eruption
+Ice Eruption
 
- | User stomps the ground, causing thick needles of ice to form around them. | ◯ | ◯ | (★★☆) |
+ | Nell stomps the ground, causing large ice to form in front of her and encasing opponents. | ✗ | ✗ | (★★☆) |
 | 
 
-Rapid Punches
+Warden's Blades
 
- | User performs a short wind-up before throwing a powerful, flinging punch that shatters the air. | ◯ | ◯ | (★★☆) |
+ | Nell summons 4 rotating blades around her that deals constant damage and ends with them becoming a projectile. | ◯ | ◯ | (★★☆) |
+| 
+
+Rising Frost
+
+ | Nell summons a glaive of ice and does a barrage attack that raises both her and the opponent into the air. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Blade
+
+ | Nell summons dual blades and does a barrage of attacks using both of them. Cancels on parry. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Daggers
+
+ | Nell throws 3 small ice daggers that auto tracks into the opponent, freezing them if they're standing on ice. She mostly uses these when she is out of range for her other moves or when she wants to trick the opponent after she gets parried. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Fissure
+
+ | Nell summons an ice obelisk on top of the opponent, turning the floor into ice. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Cubes
+
+ | Nell conjures 3 ice cubes behind her. After a set amount of time or recasting, all 3 gets thrown towards the opponent. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Smash
+
+ | Nell summons a huge ice club and hits the ground, guardbreaking anyone that it hits. This is especially punishing since she has Fragile Freeze. | ◯ | ✗ | (★★★) |
 
 ### Talents
 
@@ -120,8 +165,10 @@ Nell executes her opponent after knocking them:
 
 -   Both she and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
     -   If they are indeed Divers, this would make she and Funke the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
+    -   Her having Dread Breath might confirm her status as a Black Diver, as [Dr Carrion](Carrion,_Father_of_Evolution.md) is the only NPC present that can give [monster mantras](Monster_Mantras.md).
 -   Her eyes are unique, having a dark blue sclera.
 -   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so she has a unique, legendary weapon when she's fought.[\[2\]](#cite-note-2)
+-   Nell used to have Rapid Punches before the NPC mantra changes.
 
 ## References
 

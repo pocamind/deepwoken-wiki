@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 84426
+revid: 84551
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -55,7 +55,7 @@ _Deepwoken_ currently has 8 Master Outfits that have been discovered.
 
 ### Unique
 
-_Deepwoken_ currently has 2 Unique Outfits that have been discovered.
+_Deepwoken_ currently has 1 Unique Outfits that have been discovered.
 
   
 
@@ -69,9 +69,9 @@ _Deepwoken_ currently has 2 Unavailable armor that has been discovered.
 
 ## Trivia
 
--   The only [Deep Gem](Mantra_Modifiers.md) that is not used in any armor set is the Insignia Gem.
+-   The only [Deep Gem](Deep_Gems.md) that is not used in any armor set is the Insignia Gem.
 -   Most of Deepwoken's clothing is made by [Rengi](https://www.roblox.com/catalog?Category=3&CreatorName=Rengi).
--   With Verse 2, a large number of Outfits were reworked. While this caused a lot of fan outrage, it was due to their original creator being a predator, and thus will not return to the game.
+-   With Verse 2, a large number of Outfits were reworked. While this caused a lot of fan outrage, it was due to their original creator being a predator, attempting to be in relations with a young minor while being an adult, and thus will not return to the game.
     -   Despite this, [Aelita](Aelita.md) still wears her Verse 1 Outfit.
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
 -   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
