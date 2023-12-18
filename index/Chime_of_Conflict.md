@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 76377
+revid: 84536
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -64,7 +64,7 @@ Being set in an alternative reality, deaths in the arena are less impactful on t
 
 Rankings are the accumulated rank of one's PVP Skill; determined only in Chime of Conflict. Your Ranking is account-wide.
 
-All accounts start at 800 Ranking, and increases and decreases based on your victories and losses.
+All accounts start at 800 Ranking, and increases or decreases based on your victories and losses.
 
 ### Rank Titles
 
