@@ -1,9 +1,9 @@
 ---
 title: Railblade
-revid: 84517
+revid: 84564
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Legendary Weapons]
+categories: [Weapons, Pages with broken file links, Greatswords, Legendary Weapons]
 ---
 
 # Railblade
@@ -43,6 +43,18 @@ The railblade is the only greatsword that does NOT have Hyperarmor on parry swin
 </table>
 
 The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
+
+#### **Twisted puppets path Critical**
+
+File:Untitled video - Made with Clipchamp (10).gif
+
+  
+
+  
+
+  
+
+  
 
 ## Trivia
 

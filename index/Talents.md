@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84520
+revid: 84566
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -166,7 +166,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   you need to have made and drunk at least one potion for the talents to start showing up.
 
--   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and aplified negative effects when trown
+-   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown
     -   Prerequisites: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
     -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
@@ -330,7 +330,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
-    -   Prerequisites: 30 Fortitude, 20 Willpower
+    -   Prerequisites: 25 Fortitude
 
 -   Firmly Planted \[Common Talent, Fortitude\] - All slow debuffs towards you are reduced by 30%. (+5 Sanity)
     -   Prerequisites: 15 Fortitude, 15 Willpower
@@ -2176,12 +2176,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek the qualities of twisted puppets"**_
 
--   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
-    -   Turns [Hero Blade of Flame](Hero_Blades.md), [Blazing](Enchantments.md), [Railblade's](Railblade.md) criticals and all flame mantras black.
-    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead; burn from shadow mantras deal slightly less damage than base burn and doesn't spawn puppets.
-    -   Flame Within deals less self damage, but drains ether.
-    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
-    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.
@@ -2190,6 +2184,12 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
 -   Moths to a Flame \[Common Talent, Dual Attunement\] - You summon a puppet of black flames that homes onto enemies with black flames. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
+-   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. (+4 Elemental Intensity)
+    -   Turns [Hero Blade of Flame](Hero_Blades.md), [Blazing](Enchantments.md), [Railblade's](Railblade.md) criticals and all flame mantras black.
+    -   Burn from flame mantras deals no damage, but drains ether and spawn puppets instead; burn from shadow mantras deal slightly less damage than base burn and doesn't spawn puppets.
+    -   Flame Within deals less self damage, but drains ether.
+    -   Prerequisites: 40 Flamecharm & 40 Shadowcast
+    -   Mutual Exclusives: Eruption Path: Lava Serpent, Azure Flames
 
 ### Tyrant
 
@@ -2434,7 +2434,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Berserker \[Common Talent. Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   Prerequisite: 35 Fortitude, 30 Strength
 
--   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables your ability to cast mantras. You take reduced damage from enemies while this is applied.
+-   Blighted Song \[Common Talent, Shadowcast Exclusive\] Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Prerequisite: Shadow Chains
 
 -   Blinded \[Common Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth. (+20 Sanity)
