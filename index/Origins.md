@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 84445
+revid: 84572
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -31,7 +31,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 > 
 > ― Flavor Text
 
-**_Obtainment_:** Wipe for the first time OR Defeat the [Tresher](Thresher.md) in the [Trial of One](Trial_of_One.md)
+**_Obtainment_:** Wipe for the first time OR Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
 
 **Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
 
@@ -67,7 +67,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
--   \[**PRO**\] You can still go in castle of light even though you went to depths through grips
+-   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (Going to the Depths through death means you don't have a soul and therefore cannot access Castle Light, unless you are a Deepbound.
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
@@ -99,7 +99,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
         -   **\[PRO\]** With the Ferocity option you will gain vision of your selected target through walls for a moment when teleporting...
         -   **\[CON\]** ...but you will gain a very obvious looking particle effect that will alert your target of your immediate intentions, alongside a loud whirring sound effect that initially plays when you get teleported near your bounty.
         -   **\[PRO\]** With the Stealth option, you do not make a sound, do not receive the particle effects until you engage your target and can approach player that are further away from Ferocity's range...
-        -   **\[CON\]** ...but you do not gain vision of your target.
+        -   **\[CON\]** ...but you do not gain vision of your target. It should be noted you can still tell where they generally are using the bounty itself.
 -   Grants the Knives of Eylis Talent "Voideye".
     -   Using this ability brings you backs to the [Voidheart](Voidheart.md).
     -   This ability has a 10-minute cooldown. _The cooldown automatically ends when a bounty is completed._
@@ -134,11 +134,11 @@ The following is speculation:
 ## Trivia
 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin during the 8/22/2022 update.
-    -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tacky mobs to progress unless you're down to fight an enforcer for 10 minutes in order to leave instead.
+    -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tacky mobs to progress - unless, of course, you're down to fight an Enforcer for 10 minutes in order to leave instead.
     -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)
--   Grasp of Eylis only had the ferocity option in the past, which made the bounties difficult because most people would immediately log before a Voidwalker could attack them. Luckily, this was changed in a future update, adding the stealth option. This enabled Voidwalkers to engage in surprise attacks, thus leaving their bounty targets unaware until they are already engaged in combat. It should, however, be noted that if you are hunting a bounty in a place like Minityrsa, you might as well go Stealth unless you can actually see the outline of your target.
+-   Initially, the Grasp of Eylis tool only had the option to hunt with Ferocity. This naturally made bounties unreasonably difficult and annoying, as the large particle effects that gave your intentions away immediately allowed people an abundant amount of time to log out before you could fight them. Fortunately, this was redone to add the Stealth option, allowing you to trade the initial sight of your bounty for the ability to attack and leave the target unaware until they were already fighting you. However, in some cases, it is simply better to go Stealth in places where the outline from Ferocity would be too difficult to see anyways, such as Minitrysa.
 -   Cap'n Orlandeau's dialogue if you have the Tutorial Origin. Doesn't change that much from the original, but it's a cool secret.
     -   A clip of the new dialog can be found here: [https://streamable.com/v3hxte](https://streamable.com/v3hxte)
 

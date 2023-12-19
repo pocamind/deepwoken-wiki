@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 84305
+revid: 84589
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,13 +8,13 @@ categories: [Pages with broken file links, Attunement]
 
 # Flamecharm
 
-Your ability to call upon Fire, Magma, and Ash. Burn all around you.
+Your ability to call upon Fire, Magma, and Ash. Burn all around you. (and commit arson.)
 
 ## Description
 
 Flamecharm icon
 
-Flamecharm grants the user the ability to create combustion using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
+Flamecharm (arson) grants the user the ability to create combustion using ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a comparatively greater damage potential against other mantras, as well as a notable amount of utility.
 
 ## Training Flamecharm
 

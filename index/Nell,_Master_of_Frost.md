@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 84553
+revid: 84574
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -27,7 +27,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 | 
 Assault
 
- | Performs 4 basic attacks before sending the opponent away with a flourish. | ◯ | ◯ | (★☆☆) |
+ | Performs 4 basic attacks before sending the opponent away with a flourish. After 4 hits, multiple ice shards starts to rain down. | ◯ | ◯ | (★☆☆) |
 | 
 
 Iceberg
@@ -107,7 +107,7 @@ Ice Smash
 -   _Saint Jay_ - If a chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they're on ice, Nell's healing is increased.
 -   _Unyielding Frost_ - Nell can proc chilled through block, but lasts 20% less.
 
-## Finisher
+### Finisher
 
 Nell executes her opponent after knocking them:
 
@@ -123,26 +123,25 @@ Nell executes her opponent after knocking them:
 
 **"Can you really protect anything that you hold dear as you are now?"**
 
--   **\[1\]** What do you mean?
+**\[1\]** What do you mean?
 
 **"You lack the means to protect anything at all. I can teach you how. Will you take up the mantle of the Frostdrawer?"**
 
--   **\[1\]** Yes, what would you have me do?
+**\[1\]** Yes, what would you have me do?
 
 **"Bring me 5 Frigid Prisms, Then we can continue"**
 
--   End of Dialogue
-    
+End of Dialogue
 
 **Second Encounter:**
 
 **"Have you done what I asked?"**
 
--   **\[1\] (Consumes 5 Frigid Prisms)** Here.
+**\[1\] (Consumes 5 Frigid Prisms)** Here.
 
 **\*They take the crystals and crush each of them into a glass vial, glittering dust falling in.\***
 
--   **\[1\]** What is that you're doing?
+**\[1\]** What is that you're doing?
 
 **"The vial I gave you. You must drink it."**
 
@@ -152,12 +151,27 @@ Nell executes her opponent after knocking them:
 
 **"Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?"**
 
--   **\[1\]** Yes, I have.
--   **\[No Upgradeable mantras\]**
+**\[1\]** Yes, I have.
 
-**"The fire spits embers, content to burn..."**
+**Mantras available**
 
--   End of Dialogue
+**"What is it you wish to focus on?"**
+
+(Any level 1 Frostdraw Mantra)
+
+**"A heart of crystal beats, layered sheets of ice protecting it. I can reinforce it for 100 Notes."**
+
+**\[1\]** Draw it out.
+
+**"It is done. The heartbeat grows even duller"**
+
+End of Dialogue
+
+**Mantras unavailable**
+
+**"Only a subtle chill, not enough to freeze..."**
+
+End of Dialogue
 
 (These dialogues are also unfinished)
 

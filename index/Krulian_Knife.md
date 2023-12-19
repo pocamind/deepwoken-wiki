@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 78911
+revid: 84587
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -18,7 +18,7 @@ categories: [Weapons, Daggers]
 | swing speed | 0.98x |
 | endlag | 0.05s |
 | penetration | 20% |
-| weight | 3 |
+| weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

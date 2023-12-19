@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84566
+revid: 84586
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1612,6 +1612,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: Friends in High Places, 45 Charisma
     -   The player will say "Hey, over here!" when this effect activates, attracting guards to the attacker. This is similar to guards calling for help.
     -   This is very useful as a [Deepbound](https://deepwoken.fandom.com/wiki/Origins?so=search#Deepbound) as [Castle Light](Castle_Light.md) guards have extremely high health and will help you kill attackers.
+    -   With the buffs to the npcs this make this talent very useful.
 
 -   Celebrity \[Common Talent\] - Your natural skill in mediating conflict makes people think more highly of you. Your base reputation with factions is higher and your reputation caps out higher.
     -   Prerequisite: 40 Charisma

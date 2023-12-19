@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 79266
+revid: 84573
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -40,3 +40,4 @@ You will be able to tell her this once you meet the following requirements ( do 
 ## Trivia
 
 -   If you have already beaten Chaser before you have done the Galewax quest and obtained the Journals, you do not have to beat him again, so you can Lighthook out once you have obtained the Journal and done the Galewax quest and talk to [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) to get the Deepshore fossil.
+-   REMINDER: You can only do this quest **ONCE**
