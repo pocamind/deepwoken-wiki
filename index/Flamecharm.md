@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 84589
+revid: 84590
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -290,6 +290,8 @@ _Strike the ground, turning it to ash._
 
  | _Conjure a flaming arrow and fire it at your target._ | User gathers fire in their hands and twists it into an arrow head, unleashing a powerful projectile.
 
+-   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage increases with each charge.
+    -   M1'ing whilst the mantra is charging will shoot the projectile with the amount of charge it has at that point.
 -   Has a unique effect where it ricochets when blocked.
 -   Fires where cursor is aimed.
 -   Inflicts burn.

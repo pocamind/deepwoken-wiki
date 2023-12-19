@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 84565
+revid: 84591
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Royal Etrean Guard** is a Master [Outfit](Outfits.md) in 
 
 This Outfit costs and requires five (5) Cloth and Fiber, one (1) five (5) [Vibrant Gems](Mantra_Modifiers.md), ten (10) [Umbral Obsidian](Umbral_Obsidian.md), one (1) [Void Feather](Dark_Feather.md) and one (1) [King Thresher Spine](King_Thresher_Spine.md).
 
-This Outfit requires [Power Level](Talents.md) 20.
+This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 
