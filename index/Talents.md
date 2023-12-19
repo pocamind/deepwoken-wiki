@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84586
+revid: 84612
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -307,7 +307,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I work for the Authority."**_
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
-    -   Prerequisites: Power 10, 60 Thundercall, Thundercaller
+    -   Prerequisites: 60 Thundercall
 
 -   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
     -   Prerequisites: 65 Thundercall, First Interrogation
@@ -315,7 +315,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
     -   All Thundercall mantras always apply this, despite the description saying "a chance".
-    -   Prerequisites: 65 Thundercall, Thundercaller
+    -   Prerequisites: 65 Thundercall
 
 -   First Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
     -   Prerequisites: 65 Thundercall, Resolve Crusher
@@ -1925,6 +1925,8 @@ Prerequisite: Charisma
     -   Prerequisite: Lightning Blade
 
 ### Stormcaller
+
+> _**"I seek the qualities of Stormcaller."**_
 
 -   Storm Link \[Common Talent, Dual Attunement\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
     -   Prerequisite: Static Link, 60 Thundercall, 50 Galebreathe

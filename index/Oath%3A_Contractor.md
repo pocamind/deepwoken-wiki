@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 84088
+revid: 84596
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -35,7 +35,7 @@ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstr
 3.  Go to Lord regent and choose the special dialogue “Bite your tongue." (You can do all of these out of order before step 4)
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md). Any Deep Shrines Prior to doing the regent quest count towards contractor. (Shrine of conceit has been tested and it works.)
 5.  Unlock your [Resonance](Resonance.md).
-6.  Go to the Depths and talk to Yun'Shul. Ask it "What happened to this place?" (Talking to Yun'Shul without a bell WILL kill you) (You can for some reason do this step before doing step 4, as long as when you eventually return to regent, you do step 4 and then proceed to do step 8 to receive contractor.)
+6.  Go to the Depths and talk to Yun'Shul. Ask it "What happened to this place?" (Talking to Yun'Shul without a bell WILL kill you UNLESS you're a deepbound) (You can for some reason do this step before doing step 4, as long as when you eventually return to regent, you do step 4 and then proceed to do step 8 to receive contractor.)
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you won't be locked out of obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
 
 _Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
