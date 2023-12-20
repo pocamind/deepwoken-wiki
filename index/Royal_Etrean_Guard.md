@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 84597
+revid: 84651
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
