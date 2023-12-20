@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 84614
+revid: 84631
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -24,25 +24,23 @@ They chiefly serve to further define the player character's potential, personali
 
 Every character begins as a just a Pathfinder, having yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
-<table>
-<tbody>
-<tr>
-  <td><h3><b>CURRENT OATHS</b></h3></td>
-</tr>
-</tbody>
-</table>
+**There are currently 11 obtainable Oaths in _Deepwoken_:**
 
-<table>
-<tbody>
-<tr>
-  <td><h3><b>UPCOMING OATHS</b></h3></td>
-</tr>
-</tbody>
-</table>
+-   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
+-   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
+-   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra \[+10 Ether\]
+-   [Dawnwalker:](Oath%253A_Dawnwalker.md) +2 Combat Mantra \[No Stat Requirements\]
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
+-   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra \[50 Agility\]
+-   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
+-   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +15% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
+-   [Silentheart](Oath%253A_Silentheart.md): +10% Weapon Damage, +15% Mantra Resistance, +10 HP, +5 Posture \[Attunement-less, 75 Weapon, 40 Strength, 40 Agility/Charisma\]
+-   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
+-   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
 **There is currently 1 fully confirmed upcoming Oath in _Deepwoken_:**
 
--   [Saintsworn](Oath%253A_Saintsworn.md)
+-   [Saintsworn](Oath%253A_Saintsworn.md): ?
 
 ## Lore Oaths
 

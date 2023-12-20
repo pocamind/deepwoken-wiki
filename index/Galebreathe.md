@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 84546
+revid: 84634
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -718,7 +718,7 @@ These talents are found in the _Silencer_ category.
 | --- | --- | --- | --- |
 | File:A World Without Song.jpg | 
 A World Without Song  
-(GALE 60, POWER 10, All Silencer talents)
+(GALE 75, POWER 10, All Silencer talents)
 
  | 
 

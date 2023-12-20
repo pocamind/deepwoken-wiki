@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 84279
+revid: 84636
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Kingdom of Etrea Enemies]
@@ -39,6 +39,10 @@ An Etrean Royal Guard executes its opponent:
 | Name | Description |
 | --- | --- |
 | Execute | User pins down the opponent and slices their throat with their blade. |
+
+## Tips
+
+-   To avoid dealing with them, simply refrain from attacking anyone in Etris.
 
 ## Trivia
 

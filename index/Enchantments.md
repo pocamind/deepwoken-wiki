@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 84592
+revid: 84620
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -106,8 +106,7 @@ There are two variants that enchantments come in:
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
   After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
-  the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.<br>
-  More testing required to confirm how much hits it takes for light to proc Grim.</p></div></td>
+  the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red mist.</div></td>
 </tr>
 <tr>

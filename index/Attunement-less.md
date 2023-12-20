@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 83647
+revid: 84638
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -582,6 +582,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
 -   Some Attunement-less have a lot of utility that you can use to your advantage to help you survive.
 -   Although Reinforce is a little costly for a mantra, a [Blue Gem](Deep_Gems.md) can reduce it to around 50 ether, which can help with ether cost.
+-   Strong Left should be used in the middle of an M1 combo attack because, in non-close quarters, it is easy to miss a strike with Strong Left due to the wind-up attack.
 
 ## Trivia
 

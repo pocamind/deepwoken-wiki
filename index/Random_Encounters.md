@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 84494
+revid: 84615
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -126,7 +126,7 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Etrean Footsoldiers Etreaiconfaction vs Authority Footsoldiers Authorityiconfaction ([Erisia](Erisia.md))
 -   Etrean Guards Etreaiconfaction vs Authority Footsoldiers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   Legion Soldiers vs Authority Footsoldiers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   Legion Captain + Legion Soldier vs Authority Footsoldiers Authorityiconfaction (The Vipers Jaw)
+-   Legion Captain + Legion Soldier vs Authority Footsoldiers Authorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>))
 -   Summer Company Guards Summericonfaction vs Bandits ([Summer Isle](Summer_Isle.md))
 -   Summer Company Guards Summericonfaction vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
 -   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))

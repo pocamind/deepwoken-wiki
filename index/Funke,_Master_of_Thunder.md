@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 84212
+revid: 84627
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -32,25 +32,23 @@ Funke's arsenal consists of a [Stormseye](Stormseye.md) along with the [Thunderc
 
 ### Talents
 
--   Perfect Flash
--   Impervious Slumber
--   Authority Intimidation
+-   _Perfect Flash_ - If Funke has full Health, his mantras do 25% more damage.
+-   _Impervious Slumber_ - If Funke gets hit while knocked, his knocked timer isn't reset.
+-   _Authority Intimidation_ - All of Funke's Thundercall mantras slow opponents more.
+-   _Resolve Crusher_ - Funke's Thundercall mantras has a chance to inflict 'Electrify', which converts Electrified targets' attacks into lightning damage and reduces damage against Funke by 10%.
+-   _First Interrogation_ - Getting attacked by Electrified targets restores Funke's ether.
+-   _Second Interrogation_ - Electrified targets deal 50% less damage and posture against Funke.
+-   _Jolting Current_ - Funke's Thundercall mantras strikes other people in the water.
+-   _Static Link_ - If Funke lands a flourish or uppercut, a link between him and the opponent gets created. While the link is active, his Thundercall mantras stun 50% more.
+-   _Jumper Cables_ - If Funke takes fatal damage while Static Link is active, he steals some of the linked victim's HP and remains unknocked.
+-   _Static Allure_ - If Funke is linked to 2 targets, both of the targets get pulled together and deals blunt damage to each other.
+-   _Static Blade_ - Hitting blocks, blocking or parrying hits will give Funke's a speed buff stack that caps at 10 stacks.
+-   _Overcharge_ - After Static Blade procs, Funke's next dash is enhanced by lightning.
+-   _Gathering Electricity_ - Upon reaching 10 stacks with Static Blade, Funke's Stormseye gets buffed.
+-   _Static Withdraw_ - Bodies that Funke knocks will shock anyone that picks them up.
+-   _Stratoshock_ - Funke's Thundercall mantras deal more damage in the rain.
 
-8Resolve Crusher
-
--   First Interrogation
--   Second Interrogation
--   Jolting Current
--   Static Link
--   Jumper Cables
--   Static Allure
--   Static Blade
--   Overcharge
--   Gathering Electricity
--   Static Withdraw
--   Stratoshock
-
-## Finisher
+### Finisher
 
 Funke executes his opponent after knocking them:
 
@@ -62,7 +60,6 @@ Funke executes his opponent after knocking them:
 
 -   Funke is the only trainer to be a percieved "threat" due to his ability to use decent [Thundercall](Thundercall.md) moves.
 -   Fight Funke on the balcony next to the room he is in, unless getting Silentheart at max level.
--   He is one of the few trainers to use Strong Left.
 -   **Heavy Users:** M1, feint, critical, repeat. This will stunlock him. This is the Duke effect. On vent, feint the air. He'll try to parry. If he doesn't, hit him anyways. He will either block or parry, and you'll be able to start the combo again
 -   **Fist Users:** Fight him like you would an enforcer.
 -   _**Do not let him crit you. I'm serious.**_

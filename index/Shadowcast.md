@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 84307
+revid: 84632
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,20 +14,20 @@ File:Shadowcast icon.png
 
 Shadowcast icon
 
-Shadowcast is an attunement that the player is required to unlock and cannot start with. It is unique due to the fact that it drains ether from those that are hit by its mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain, obscuring vision and AoE.
+Shadowcast is an attunement that the player is required to unlock and cannot start with. It is unique due to the fact that it drains ether from those that are hit by its Mantras and returns the drained ether to the caster. This does come at a cost to its damage output, which tends to be quite low. Shadowcast applies a black particle effect on hit that can be stacked. Many Shadowcast talents are centered on ether drain, obscuring vision and AoE.
 
 ## Obtainment & Training
 
-Shadowcast can be trained with a combination of the Pure Heart and Shadowcast mantras.
+Shadowcast can be trained with a combination of the Pure Heart and Shadowcast Mantras.
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
--   At Shadowcast level 1, players will receive the _Shadowcaster_ Talent. This allows players to use 0-star Shadowcast mantras
--   At Shadowcast level 20, players will receive the _Adept Shadowcaster_ Talent. This allows players to use 1-star Shadowcast mantras
--   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast mantras
+-   At Shadowcast level 1, players will receive the _Shadowcaster_ Talent. This allows players to use 0-star Shadowcast Mantras
+-   At Shadowcast level 20, players will receive the _Adept Shadowcaster_ Talent. This allows players to use 1-star Shadowcast Mantras
+-   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast Mantras
 -   Finally, at Shadowcast level 50, players will receive the _Master Shadowcaster_ Talent. This finally allows Shadowcast users to unlock the last category, 3-star Mantras
 
-The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), using five [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after unlock. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), using five [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after unlock. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
@@ -124,7 +124,7 @@ do a small amount of damage and steal a large amount of ether.
 
 -   Shares a cooldown with Shadow Meteors.
 -   If attacked while casting, the Shadow Seekers will dissipate
--   You cannot use any mantras after using this mantra until the orbs have either hit the target or despawned.
+-   You cannot use any Mantras after using this Mantra until the orbs have either hit the target or despawned.
 -   If managed to hit, Shadow Seekers will replenish equal or more ether cost.
 -   Cloudstones and Stratus Stones increase the amount of shadow seekers, to around 3 times more.
 
@@ -180,7 +180,7 @@ Shade Bringer
 
 -   Adding 1 multiplying spark will slash three times instead of once.
 
--   You ~cannot~ **can** combine spring and multiplying sparks on this mantra
+-   You ~cannot~ **can** combine spring and multiplying sparks on this Mantra
 
  |
 | 
@@ -196,7 +196,7 @@ Eclipse Kick
 -   Deals a massive amount of posture and health damage.
 -   Can also break certain tiles and fell trees.
 -   When maxed out (Lv. 5), has the ability to blockbreak the opponent.
--   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
+-   If a [Multiplying Spark](Mantra_Modifiers.md) is added the kick will be replaced with a fast short ranged and low damage high kick. if this move lands, it will daze the opponent and casting the Mantra again shortly after will cast the default Eclipse Kick. If whiffed, you will have to wait for the full duration of the cooldown to cast again.
 
  |
 | 
@@ -206,7 +206,7 @@ Eclipse Kick
 Shadow Vortex  
 (★★★)
 
- | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The mantra doesn't combat tag and has no vertical range cap.
+ | Create a shadow vortex that pulls in everything in its surrounding. | 100 Ether | The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too. The Mantra doesn't combat tag and has no vertical range cap.
 
 Firing shadow gun at this causes it to explode, dealing extra damage
 
@@ -241,7 +241,7 @@ Shade Devour
 Devouring Eye  
 (★★☆)
 
- | Summons a fragile eye that consumes the ether of those who try to cast mantras within its gaze. | 40 Ether | Creates an Eye that steals the ether of anybody that casts a mantra within its gaze |
+ | Summons a fragile eye that consumes the ether of those who try to cast Mantras within its gaze. | 40 Ether | Creates an Eye that steals the ether of anybody that casts a Mantra within its gaze |
 | 
 
  | 
@@ -275,7 +275,7 @@ warp-striking to them.
 
 The user will summon shadows around their target and teleport to them after a short wait.
 
--   Attacks done before teleporting will continue after the teleport. for instance, a mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or mantras, such as Eclipse Kick
+-   Attacks done before teleporting will continue after the teleport. for instance, a Mantra cast during the windup of encircle will continue to be cast after the teleport, allowing you to mitigate the high windup of certain criticals or Mantras, such as Eclipse Kick
 -   Will still teleport the user if parried/dodged
 
  |
@@ -691,16 +691,17 @@ Enemies will briefly hang in place when hit by a shadow move.
 ## Trivia
 
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
--   In the lore having shadowcast is a taboo. If one is caught with said attunement they will be either executed or exiled on the spot.
+-   In the lore having Shadowcast is a taboo. If one is caught with said attunement they will be either executed or exiled on the spot.
+-   Shade Wisp is arguably one of the most controversial Mantras ever added to the game, as its purpose is to hide animations. The reason this was added was, according to its creator yayafino, because he hated "parry bots," though he would later clarify this was him trolling. This came shortly after the appearances of the [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) were reworked by co-owner ragoozer himself due to them hiding animations, which some came to view as a direct betrayal of the ethos of the game's very owners. Not helping this was that, according to tester MrTheBest2, almost every tester was staunchly against Shade Wisp's inclusion, it didn't even get past testing, but it was added to the game.
+    -   Not helping its case was that yayafino would then release Flame Scourge, a Mantra which could not be reliably blocked, parried or dodged, and could result in those being hit by it being, at best, flung and killed unfairly, or at worst, banned from the game. Once again, this Mantra had not passed testing, on account of it banning all the testers who had been trying to test it.
 -   Shadowcast has a Talent which blinds the victim on consecutive shadow stacks, however this blind ironically turns the victim's screen white.
     -   Additionally, several Shadowcast moves charge up with a white light.
         
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
     -   An interesting example of this would be using a blast spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
 -   Just like every other attunement other than Flamecharm, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast.
--   Shadowcast is the only attunement to have 2 trainers, [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md).
--   ~Currently the only attunement to not have a "path." (Thundercall has Surge Path: Unstable Capacitor, Flamecharm has Eruption Path: Lava Serpent, Ironsing has Gilded Path: Scrapsinger, etc.)~ Has Wraith Path: Twisted Puppets, but the trivia still technically applies since it does not have its own, pure path.
+-   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md).
 
 ## References
 
-1.  [↑](#cite-ref-1) 2/12/2023 Patch Notes for version
+1.  [↑](#cite-ref-1) 2/12/2023 Patch Notes

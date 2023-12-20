@@ -1,6 +1,6 @@
 ---
 title: Calabash
-revid: 69099
+revid: 84635
 source: https://deepwoken.fandom.com/wiki/Calabash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Ingredients, Items]
@@ -22,6 +22,7 @@ A consumable fruit that can be found in [Etris](Etris.md), [Isle of Vigils](Isle
 
 ## Trivia
 
+-   It is most commonly found at Summer Isle
 -   The Calabash has become quite a meme in the Deepwoken community, referred to as the Food of the Gods.
     -   It has a counterpart called the Red Calabash, similar to the Heroism Egg hoax that went around a few days earlier in April 2022. The Heroism Egg's genuine existence was disproved by Arch\_Mage, stating that whoever made it "has a good sense of humour... and Synapse."
         -   This exists through one of _Key Exploits_'s livestreams. He pulled out the aforementioned Red Calabash and said "Agamatsu! Yoo, if you ever want to make a Red Calabash unsolved video, hit me up. I can give you all the _gifs_ and _videos_ you need!" He then proceeds to float around and eat the fruit.

@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 84574
+revid: 84625
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -91,11 +91,11 @@ Ice Smash
 
 ### Talents
 
--   _Perfect Flash_ - If Nell has full Health her mantras do 25% more damage.
+-   _Perfect Flash_ - If Nell has full Health, her mantras do 25% more damage.
 -   _Impervious Slumber_ - If Nell gets hit while knocked, her knocked timer isn't reset.
 -   _Fragile Freeze_ - Getting blockbroken by any of Nell's Frostdraw mantras will freeze you.
 -   _Chilling Flourish_ - If Nell flourishes an enemy, they leave behind a trail of ice.
--   _Cool Head_ - If Nell is set on fire while standing on ice, she will immediately put it out and gain immunity to burn for a set amount of time.
+-   _Cool Head_ - If Nell is set on fire while standing on ice, she will immediately put it out and gain immunity against burn for a set amount of time.
 -   _Cryostasis_ - If Nell gets block broken, Nell fragile freezes herself negating the damage of the next attack.
 -   _Rude Awakening_ - If Nell gets hit in Cryostasis, she will deal frost damage to the enemy who hit her.
 -   _Cold Front_ - Nell's vents inflicts chilled.

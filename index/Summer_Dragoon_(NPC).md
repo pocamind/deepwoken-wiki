@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 83298
+revid: 84618
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Enemies, Ambush Enemies]
@@ -15,6 +15,48 @@ _This page is for the Enemy. For the Outfit, see [Summer Dragoon](Summer_Dragoon
 ## Description
 
 Summer Dragoons are higher ranking members of the [Summer Company](The_Summer_Company.md) that wear their respective armor [Summer Dragoon](Summer_Dragoon.md) and use [Rosen's Peacemakers](<Rosen's_Peacemaker.md>).
+
+## Moves
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Description</th>
+  <th>Parryable?</th>
+  <th>Blockable?</th>
+  <th>Danger</th>
+</tr>
+<tr>
+  <td>Assault</td>
+  <td>Slams with the stock of its rifle and then shoots a bullet</td>
+  <td>◯</td>
+  <td>◯</td>
+  <td>(★★☆)</td>
+</tr>
+<tr>
+  <td>Critical</td>
+  <td>Fires a long ranged bullet</td>
+  <td>◯</td>
+  <td>◯</td>
+  <td>(★★☆)</td>
+</tr>
+<tr>
+  <td>Taunt</td>
+  <td>Affected entities receive 20% more damage. Affected entities deal 10% more damage Disables jumping</td>
+  <td>✗</td>
+  <td>◯</td>
+  <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td>Revenge</td>
+  <td>A quick dash signified by a red-line effect.</td>
+  <td>◯</td>
+  <td>◯</td>
+  <td>(★☆☆)</td>
+</tr>
+</tbody>
+</table>
 
 ## Talents
 

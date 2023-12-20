@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 84531
+revid: 84637
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -85,11 +85,10 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 | _Trial_ Power | Enemy(s) |
 | --- | --- |
-| 0-3 | Nothing (you are sent up without a fight) |
-| 3.33-6.33 | [Mudskipper Knight](Mudskipper.md) |
-| 6.66-9.66 | [Angel](Hollow_Angel.md) (Lesser) |
-| 10-16.33 | [Megalodaunt](Megalodaunt.md) |
-| 16.66+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 0-9 | Nothing (you are sent up without a fight) |
+| 10-13 | [Megalodaunt](Megalodaunt.md) |
+| 14-15 | Corrupted [Megalodaunt](Megalodaunt.md) |
+| 16+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | Drowned 20+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster, which can be any combination of [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), both of which can spawn corrupted, or [Fury Nautilodaunt](Nautilodaunt.md) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
