@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 83030
+revid: 84646
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -60,7 +60,7 @@ When the lines are said close to an NPC or a player, the receiving player / NPC 
 
 ## Notes/Trivia
 
--   You can train charisma when not near an NPC or player. (not true as of the most recent update)
+-   You can train charisma when not near an NPC or player.
 -   A helpful tool to use is [https://charisma-trainer.vercel.app](https://charisma-trainer.vercel.app) as it is faster than copying phrases from a notepad.
 -   Many of the phrases in How To Make Friends are really corny and often reference a race.
     -   For example, Hivekin refers to the [Vesperian](Vesperian.md), [Ganymede](Ganymede.md) and [Chrysid](Chrysid.md) races (as they live in the hive)
