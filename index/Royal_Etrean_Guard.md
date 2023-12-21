@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 84651
+revid: 84655
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -16,7 +16,7 @@ Template:ArmorInfobox**Royal Etrean Guard** is a Master [Outfit](Outfits.md) in 
 
 This Outfit costs and requires five (5) Cloth and Fiber, one (1) five (5) [Vibrant Gems](Mantra_Modifiers.md), ten (10) [Umbral Obsidian](Umbral_Obsidian.md), one (1) [Void Feather](Dark_Feather.md) and one (1) [King Thresher Spine](King_Thresher_Spine.md).
 
-This Outfit requires [Power Level](Talents.md) 20.
+This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 
@@ -36,6 +36,7 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   A darkened version of this is worn by the [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>).
+-   The Outfit originally had a requirement of Power 20 but it was shortly lowered to 15.
 -   This Outfit is a superior version of the [Cloak Of Winds](Cloak_of_Winds.md), boasting an extra 10% Physical Armor, 5% Slash Armor and 20% Ether Regen but loses the 25% Shadow Armor.
 -   Originally, this was an Adept Outfit that existed in the files since the very release of Deepwoken. It was eventually added nearly two years after the game released during the 12/15/2023 update, reworked into a Master Outfit due to there being no Outfits with the Paired Soul Talent that could be used effectively.
 -   This is the first Master outfit to not require a [Deep Gem](Deep_Gems.md) to craft. It is also the first outfit to require a [King Thresher Spine](King_Thresher_Spine.md) to craft, thus giving the first use for a [King Thresher Spine](King_Thresher_Spine.md).

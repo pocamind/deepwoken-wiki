@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 84632
+revid: 84656
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -271,7 +271,7 @@ Encircle
 
 warp-striking to them.
 
- | 150 Ether | 
+ | 90 Ether | 
 
 The user will summon shadows around their target and teleport to them after a short wait.
 
