@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 84579
+revid: 84680
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,16 +19,20 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Starkindred** is one of the 11 obtainable Oaths in _Deepwoken_. It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
+### **[Oath](Oaths.md): Starkindred**
+
+_**"You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself. as the Stars above watch over you"**_
+
+It is a balanced [Oath](Oaths.md), having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
 
 ## Obtainment
 
 1.  Have 40 Strength and grip any player. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
-2.  Talk to Samael, located in the [Derelict Highchurch](Derelict_Highchurch.md) above the Voidzone in Ancient Rotlands.
+2.  Talk to Samael, located in the [Derelict Highchurch](Derelict_Highchurch.md) above the [Voidzone in Ancient Rotlands.](Ancient_Rotlands.md)
     1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
-3.  Kill **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md)**, located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
-    1.  If you lack the Union Hook, careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it.
+3.  Kill **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md)**, located above the [Starfield Grove](Starfield_Grove.md) Voidzone in [Starswept Valley.](The_Starswept_Valley.md) The angel will only be here if you have the quest active.
+    1.  If you lack the Union Hook, careful parkour on the right of the [Starfield Grove](Starfield_Grove.md) (outside of it) can allow you to reach the higher parts of it.
 4.  Return to Samael to get the Oath.
 
 To obtain the mantras, you must kill the 3 Sinners spread around the East Luminant. These will only appear if you have the quest active.
@@ -81,12 +85,12 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 ## Trivia
 
 -   Starkindred's mantras scale with Strength.
--   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain, they also have a long history of bloodshed in the name of their faith.
+-   According to an NPC named Ezra in [Songseeker Wilds](Songseeker_Wilds.md), Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain, they also have a long history of bloodshed in the name of their faith.
 -   As of 12/31/22, wayward gem does NOT work with Ascension. Whether or not it is a bug has yet to be confirmed.
 -   This oath has a few religious references in the names of the angels, and the most obvious being the entity on a modified cross.
 -   The wings will occasionally bug, causing them to disappear before the full duration ends. This is purely a visual bug, and air dash will still behave as if the wings are active until the duration actually ends.
 -   Stratus Stones and Cloudstones cannot affect Starkindred mantras such as Fire Blade variant and Sinister Halo.
--   Wing Variant Fire Blade is probably a reference to "Mugetsu" in Bleach.
+-   Wing Variant Fire Blade is probably a reference to "[Mugetsu](https://bleach.fandom.com/wiki/Saigo_no_Getsuga_Tensh%C5%8D)" in Bleach.
 -   The requirement for this Oath was accidentally leaked by a tester before Verse 2, this presumably caused it to be increased to 50 Strength from the original requirement of 40, though this was reverted a few months after Verse 2.
 -   Dyeing your hair as a Starkindred will also dye your wings to the same color.
     -   Dyeing your hair with your wings active will not change their color until they disappear and are reactivated.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84668
+revid: 84675
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -169,7 +169,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown
     -   Prerequisites: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
-    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown.
+    -   Appalling, Disgusting, Dulling, Icky, Mindbreaker, Grueling and Buckling potions now have stronger effects when thrown. (More info on the [potions](Alchemy.md) page.)
         -   This talent was merged with the old Exterminator talent.
 
 -   Chain Reaction \[Common Talent, Intelligence\] - When applying a potion effect to someone who already has one, the new effect is amplified. You have a 25% chance not to deplete potions when drinking them.
@@ -689,7 +689,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Elementalist
 
-> _**"I seek the qualities of Elemetalist."**_
+> _**"I seek the qualities of Elementalist."**_
 
 -   _Ether Overdrive_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
