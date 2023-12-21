@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 81248
+revid: 84663
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -74,7 +74,7 @@ Unknown
 
   
 
--   " " (blank space)
+-   Heliodars don't actually spawn in with surnames, which sets them apart from every other race in Deepwoken.
     
 
 ## Users

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 84363
+revid: 84660
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -63,7 +63,8 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 
 ### Finisher
 
--   **"Mudskipperification"** - The Nautilodaunt punches the now-incapactiated player one final time, turning them into a [Mudskipper](Mudskipper.md).
+-   **"Mudskipperification"** - The Nautilo
+-   aunt punches the now-incapactiated player one final time, turning them into a [Mudskipper](Mudskipper.md).
 
 ### Talents
 

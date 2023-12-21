@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84612
+revid: 84664
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -456,13 +456,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
     -   Notes: This talent only requires 1 Charisma, so you can get all the talents, Shrine of Order, and still be able to obtain this.
-
-### Cloudwalker
-
-> _**"I walk the skies."**_
-
--   Gale Leap \[Galebreathe Exclusive, Common Talent\] - Slide-jumping off a cliff launches you forwards. (+1 Elemental Mastery)
-    -   Prerequisite: 25 Galebreathe
 
 ### Cold Phantom
 
@@ -1308,10 +1301,10 @@ _**"I seek the qualities of Heat Column."**_
 -   Pressure Break \[Common Talent\] - Breaking an enemy's posture will cause them take intense wind pressure damage and be flung backwards. (+8 Carry Load, +2 Passive Agility)
     -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreath
 
--   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. (+4 Elemental Intensity)
+-   Wind Step \[Common Talent\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. (+4 Elemental Intensity)
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
     -   While in combat, this ability cost Ether to use.
-    -   Prerequisites: 40 Galebreathe, Gale Leap
+    -   Prerequisites: 40 Galebreathe
 
 ### Liberator
 

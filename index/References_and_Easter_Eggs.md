@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 83986
+revid: 84662
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -33,9 +33,9 @@ categories: [Deepwoken]
 -   **Flame of Denial** and **Flame Within** are inspired by similar spells in _Dark Souls_.
     -   **Flame of Denial** works similarly to [Tears of Denial.](https://darksouls3.wiki.fextralife.com/Tears+of+Denial)
     -   **Flame Within** works similarly to [Power Within](https://darksouls3.wiki.fextralife.com/Power+Within).
-
 -   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
-    -   Moreover, the talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
+    -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
+-   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) flame arrow move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo).
 
 ### **Thundercall**
 
