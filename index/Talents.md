@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84664
+revid: 84668
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -935,9 +935,6 @@ _**"I enjoy sea food."**_
 -   Master Galebreather \[Galebreathe Exclusive\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+3 Elemental Intensity, +5 Health)
     -   Prerequisites: 50 Galebreathe
 
--   Reverse Gale Kick \[Galebreathe Exclusive\] - Pressing \[F\] after hitting an opponent with Wind Rising will cause your follow up kick to impale them to the ground. (+1 Passive Agility)
-    -   Prerequisites: Rising Wind (Galebreathe Mantra)
-
 ### Galeforce
 
 > **"I use the winds to enforce my will."**
@@ -1752,6 +1749,11 @@ _**"I seek the qualities of Heat Column."**_
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart.
     -   Prerequisite: 35 Thundercall, Jumpstart
 
+### Sapper
+
+-   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
+    -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
+
 ### Shadowcast Master
 
 -   _Shadowcast Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)_
@@ -1885,10 +1887,8 @@ Prerequisite: Charisma
 
 ### Static Weaver
 
-> _**"I weave webs of lightning."**_
+> _**"I weave webs of lightning.**_
 
--   Dark Receiver \[Common Talent, Dual Attunement\] - Shadow moves will also steal Ether from those you are Static Linked tethered to.
-    -   Prerequisites: Static Link, 40 Thundercall, 40 Shadowcast
 -   Static Link \[Common Talent, Thundercall exclusive\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy. Your lightning stuns enemies for 1.5x as long. (+4 Elemental Intensity)
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 

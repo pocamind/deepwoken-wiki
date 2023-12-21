@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 83277
+revid: 84667
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -56,7 +56,7 @@ When obtained, Teleportation will spend its points on the following stats:
 -   You can Teleport entities if placed correctly. This includes the Deep Widow.
 -   This resonance is occasionally referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named Minato in the anime-manga series "Naruto."
     -   Although the mark-placement mechanic is similar to the powers of Minato, the actual visuals represent the "Accompany On" ability in HxH, or, as a stretch, Kizaru's flight ability in One Piece.
--   In some circumstances, when attempting to teleport, you're met with the message 'something is interfering with your resonance.' This occurs in dungeons like the Duke's and Layer 2.
+-   In some circumstances, when attempting to teleport, you're met with the message 'something ancient is interfering with your resonance.' This occurs in dungeons like the Duke's and Layer 2.
     
 -   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be instakilled if they were not in the Duke quest.
     -   Prior to the Verse 2 update splitting Luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.
