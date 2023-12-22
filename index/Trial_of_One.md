@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 84704
+revid: 84709
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -77,7 +77,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching power 6 with 85 investment point used.
--   The [Lone Warrior Origin](Origins.md#lone-warrior) when creating a character after dying doing TO1
+-   The [Lone Warrior Origin](Origins.md#lone-warrior) after defeating the Thresher OR alternatively, wiping once.
 
 ## Tips and Tricks
 
@@ -86,7 +86,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 -   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch some players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
 -   If you are playing attunement-less and encounter a Shadowmeld version of any monster, play it safe. they effectively have double health, due to their 50% Physical Resitiance.
--   You may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with talents/mantra choosing early on.
+-   if you have the Lone Warrior Origin, you may use the [Shrine of Solitude](Deep_Shrines.md) before leveling up to help with talents/mantra choosing early on.
 
 ## Trivia
 
