@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 84679
+revid: 84683
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -49,7 +49,6 @@ May have more to it, needs testing.
 
 -   For almost the entirety of the game's lifespan, Mute was the only Regalia known to exist, until Arch\_Mage told the community about the others and the obtainment method.[\[1\]](#cite-note-archinfo-1)
 -   Regalia, as a definition, are the emblems or insignia of royalty, especially the crown, scepter, and other ornaments used at a coronation.
--   In trial of one mobs are automaticly atracted to you so don't worry if you dont think you have it.(mute)
 
 ## References
 
