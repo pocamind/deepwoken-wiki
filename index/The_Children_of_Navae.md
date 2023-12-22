@@ -1,6 +1,6 @@
 ---
 title: The Children of Navae
-revid: 83950
+revid: 84691
 source: https://deepwoken.fandom.com/wiki/The_Children_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -23,7 +23,7 @@ notices:
 
 ### **Dialogue**
 
-Good Reputation:
+Ally Reputation:
 
 -   "Ah, Bloodkin \[Name\]. It's good to have you with us."
 
@@ -31,6 +31,13 @@ Good Reputation:
 
 -   "Ah, Bloodkin \[Name\]. I am honored to have your assistance." (Only the Eastern Camp Master will say this if you have almost max reputation with them.)
 
+Good Reputation: (Close to ally reputation)
+
+-   "Navae guide you, homelander."
+
+-   "Blessing of Navae upon you, homelander." (Both the Eastern Tribal Leader and the Eastern Camp Master will say this.)
+
+  
 Friend Reputation:
 
 -   "Be aware homelander, those murderers could strike at any moment."

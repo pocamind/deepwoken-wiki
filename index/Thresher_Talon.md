@@ -1,6 +1,6 @@
 ---
 title: Thresher Talon
-revid: 81226
+revid: 84694
 source: https://deepwoken.fandom.com/wiki/Thresher_Talon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monster Mantra Ingredients]
@@ -20,3 +20,7 @@ categories: [Monster Mantra Ingredients]
 ## Description
 
 A Thresher Talon is an item only dropped by [Threshers](Thresher.md) which can be found on [Aratel Island](Aratel_Island.md) and in the [First Layer](First_Layer.md). It's purpose is to serve as a material to obtain the Beast Burrow mantra from [Carrion](Carrion,_Father_of_Evolution.md).
+
+## Trivia
+
+-   The item is actually the model used for the claws of a King Thresher, being noticeably darker in color compared to the regular Thresher's brown talons. Ironically, King Threshers do not drop a Thresher Talon.

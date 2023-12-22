@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 84156
+revid: 84695
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]

@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 83853
+revid: 84693
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -54,7 +54,7 @@ An Immortal Guardian executes the player after knocking them.
 | --- | --- |
 | Execute | Splits the enemy's head in two with their Divine Weapon. |
 
-## Notes/Tips
+## Tips
 
 -   Immortal Guardians are rather tanky, especially Nightmare ones, and have one of the highest posture pools in the game, surpassing some bosses in terms of posture. It's easy to get overwhelmed by them, considering they spawn in groups, so be careful and make sure to isolate each one.
 -   Best way to kill them is either Parry-Trading or using weapons with high chip damage, as they do have a habit of blocking attacks rather than parrying due to their high posture pool
@@ -62,12 +62,12 @@ An Immortal Guardian executes the player after knocking them.
 -   Nightmares will always spawn with a random [Enchant](Enchantments.md) on their weapons, so pay close attention to the visual effect that their weapon will have to see what you're fighting against, as some of these enchants, will punish you far harder than you'd expect from an NPC.
 -   Nightmares have a chance to replace the regular guardians on the first floor, so tread with caution when the guardians on the first floor respawn.
 -   Once you knock them it's advisable to carry them to the exit as gripping them inside the voidzone would alert nearby NPCS. Worst case scenario you're gonna alert all of them including the Alpha Megalodaunt and the nightmare guardians in the second floor.
--   **THERE IS A BUG WHERE IMMORTAL GUARDIANS ALONGSIDE CARBUNCLES SPAWN AS AN EVENT IN LOWER ERISIA (Unknown whether this occurs anywhere else).**
--   A minor bug occurs when assasinating Immortal Guardians, where they will speak as if you just hit town NPCs from a faction like Etris, saying stuff like "This joke is of poor taste, cut it out."
 
 ## Trivia
 
--   Their helmet _could_ be a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
+-   Removing their armor reveals them to be [Etreans](Etrean.md) sporting the Authority Peacekeeper Armour. This was likely done simply because they look visually appealing when combined with the armor, rather than as anything lore significant.
+    -   The regular Guardians are the Vile Etrean variant while the Nightmare Guardians are Vile Etreans with a slightly darker skin tone, reinforcing that there is no real significance to them being Etrean.
+-   Their helmet is a reference to that of [Bondrewd’s](https://madeinabyss.fandom.com/wiki/Bondrewd).
 -   They speak in all capital letters, much like the [Golem Constructs](Hive_Construct.md).
     -   The only exception to this is when they say "Thanks," which is in lowercase.
 -   According to TheRealPunchee, the armor that Immortal Guardians wear was actually the original design of the Arc Suit for the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md), created before the sketches for the current Arc Suit were even a thing.
