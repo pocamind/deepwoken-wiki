@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 84585
+revid: 84706
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -93,7 +93,7 @@ This Oath grants 1 Wildcard Mantra Slot and 2 Combat Mantra Slots. As for appear
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md).
 -   This Oath was created by Dexerius, along with [Visionshaper](Oath%253A_Visionshaper.md).[\[2\]](#cite-note-2)
 -   "From each according to their ability, to each according to their needs" Is a quote by Karl Marx's 'Critique of the Gotha Program.'
--   By taking your helmet off, you can get Arcwarder with hair.[\[3\]](#cite-note-3)
+-   By taking your helmet off via pressing P, you can get Arcwarder with hair.[\[3\]](#cite-note-3)
 
 ## References
 

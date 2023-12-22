@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 84168
+revid: 84704
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -77,11 +77,11 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 -   Free Points to spend on [attributes](Attributes.md) after each challenge.
     -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching power 6 with 85 investment point used.
--   The [Lone Warrior Origin](Origins.md#lone-warrior) when creating a character for getting past the half-way point (Thresher)
+-   The [Lone Warrior Origin](Origins.md#lone-warrior) when creating a character after dying doing TO1
 
 ## Tips and Tricks
 
--   It is recommended to first enter when you can relatively consistently kill a sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
+-   It is recommended to first enter when you can relatively consistently kill a Sharko without requiring a stat check. Don’t be ashamed if you die on the first few trials— it happens to everyone. It can take weeks or possibly months to beat the trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The trial is almost a necessity for improving past a certain point.
 -   Keep in mind this challenge is optional and is not a requirement to play the game to its fullest. This challenge is designed to help experienced players by giving them a quick progression boost by reaching power 6 in roughly 10 minutes.
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective power scaling that they are encountered at.
 -   **KEEP IN MIND EVERY MOB IN THE TRIAL OF ONE CAN BE ATTUNED.** This can catch some players off-guard and they might die to an unexpected Thunderstruck or Flamewreathed Enforcer.
