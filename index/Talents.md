@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84751
+revid: 84765
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -181,6 +181,10 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
     -   Prerequisites: 55 Intelligence
 
+-   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less, you are more accustomed to potions and gain greater benefits from their ingestion.
+    -   Drink potions faster. (~0.5 seconds faster)
+    -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
+        -   This talent was merged with the old Subsistence talent.
 -   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed.
     -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
     -   Prerequisites: 25 Intelligence
@@ -853,11 +857,6 @@ _**"I enjoy sea food."**_
     -   Vesperians will only gain 8% armor from this talent, totalling to 13% with their own natural armor.
     -   Natural Armors can be affected by PEN, but its effectiveness is reduced by 75%.
     -   Prerequisite: 40 Fortitude.
-
--   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less, you are more accustomed to potions and gain greater benefits from their ingestion.
-    -   Drink potions faster. (~0.5 seconds faster)
-    -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
-        -   This talent was merged with the old Subsistence talent.
 
 -   _To the Finish_ \[Rare Talent\] - You take 10% less damage when below 30% health.
     -   Prerequisite: 50 Fortitude
