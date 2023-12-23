@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 76174
+revid: 84753
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -42,7 +42,7 @@ Raw materials harvested from the environment.
 
 -   [Calabash](Calabash.md) - Similar to gourds, but green. They grow on bushes and hold water very well. They mainly restore thirst than hunger.
 -   Redd - Small round, orange fruit. They don't grow during summer.
--   Ongo - Red, roundish fruit. Basically, an apple.
+-   Ongo - Red, roundish fruit. Basically, an apple. Most commonly found in the [Etrean Wilds](Etrean_Wilds.md)
 -   Pomar - Large yellow fruit. Also occasionally damages you slightly when eaten.
 -   [Plumfruit](Plumfruit.md) - It's a plum, what did you expect?
 
