@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 84098
+revid: 84717
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 | Stormseye | |
 |---|---|
 | type | Rifle |
-| requirements | 25 Medium, 75 Thunder |
+| requirements | 40 Medium, 75 Thunder |
 | damage | 19.5 |
 | scaling | 3 Medium, 6 Thunder |
 | range | 8 |

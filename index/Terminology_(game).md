@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 84094
+revid: 84716
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -364,7 +364,7 @@ _noun_
 
 _noun_
 
-1.  Short form for [Shattered Katana](Shattered_Katana.md), an upgraded version of the Katana that requires 100 MED to be used
+1.  Short form for [Shattered Katana](Shattered_Katana.md), an upgraded version of the Katana that requires 90 MED to be used
 
 ### BMing
 

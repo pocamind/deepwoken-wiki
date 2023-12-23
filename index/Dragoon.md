@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 84080
+revid: 84718
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -12,7 +12,7 @@ categories: [Weapons, Guns]
 |---|---|
 | type | Flintlock |
 | requirements | 65 LHT |
-| damage | 17 |
+| damage | 16 |
 | scaling | 12 |
 | range | 11 |
 | swing speed | 0.8x |
@@ -29,4 +29,4 @@ categories: [Weapons, Guns]
 
 ## **Description**
 
-The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip.
+The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip. The max ammo in 1H mode is 4 bullets

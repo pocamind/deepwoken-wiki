@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 84472
+revid: 84728
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -432,13 +432,13 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
   <td>65 LHT</td>
-  <td>17</td>
+  <td>16</td>
   <td>N/A</td>
   <td>LHT: 12</td>
   <td>1</td>
   <td>11</td>
   <td>0.8x</td>
-  <td>36.9</td>
+  <td>34.7</td>
 </tr>
 </tbody>
 </table>
@@ -1720,7 +1720,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>
-  <td>75 THD, 25 MED</td>
+  <td>75 THD, 40 MED</td>
   <td>19.5</td>
   <td>N/A</td>
   <td>THD: 6, MED: 3</td>

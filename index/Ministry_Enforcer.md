@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 83905
+revid: 84725
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -29,7 +29,11 @@ A Ministry Enforcer's arsenal consists of a [Krulian Knife](Krulian_Knife.md) an
 | Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
 | Shadow Assault | Windup before turning invisible and dashing forward, dealing medium damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
-| Shadow Arc | Caster conjures an arc of shadow and pierces the opponent. | ◯ | ◯ | (★☆☆) |
+| Encircle | Conjure shadows around your enemy before
+warp-striking to them.
+
+ | ◯ | ◯ | (★★☆) |
+| Eclipse Kick | Show your foes your strength. | ? | ✗ | (★★★) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
@@ -100,3 +104,4 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 
 -   Rather ironically, the stronger variants use [Way of Navae](Way_of_Navae.md), despite the Ministry engaging in an ethnic cleansing of Navaen Nomads, as can be observed during their battles around [Summer Isle](Summer_Isle.md).
 -   The stronger variants can use Judgment, from the [Oath: Contractor](Oath%253A_Contractor.md). Despite this, they lack the strings or red eyes that indicate the presence of the Oath.
+-   The reward chest for the Ministry ambush has a small chance of yielding a Gran Sudaruska

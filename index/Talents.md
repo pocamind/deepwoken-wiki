@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84675
+revid: 84722
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -243,6 +243,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I seek the qualities of Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
+    -   Scales with investment up to it's requirement, with 75 STR lasing 2s and scaling up to 100 STR being 3s
     -   Prerequisite: 100 Strength
 
 ### Apex Predator
@@ -274,14 +275,16 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I prefer to attack unseen."**_
 
--   Low Blow \[Common Talent, Agility Exclusive\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
+-   Low Blow \[Common Talent, Agility\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
     -   Prerequisites: 60 Agility, Assasin
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
     -   Prerequisites: assassinate around 20 enemies, 10 Agility
 
--   Now You See Me \[Common Talent\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
+-   Muffled Scream \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of talents that slow your executions. (+1 Passive Agility)
+    -   Prerequisite: 50 Agility
+-   Now You See Me \[Common Talent, Agility\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
     -   Prerequisite: 20 Agility or obtained through outfits
 
 -   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
@@ -344,6 +347,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 60%. (+5 Health)
+    -   Scales with investment up to it's requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
     -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN
     -   Prerequisites: 90 Fortitude, **all** common Bastion talents.
 
@@ -1025,6 +1029,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
+    -   Scales with investment up to it's requirement. If you have less WLL/INT than required then it will lower the antiheal amount. However, it will still prevent passive regen.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieves the following:
@@ -1418,6 +1423,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Bleed damage now only deals 15% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
+    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction
     -   Prerequisite: 100 Ironsing
 -   Intuitive Repairs \[Common Talent, Ironsing Exclusive\] - Your 'Iron Skin' repairs armor while it's active.
     -   Iron Skin also repairs natural armor from Chitin and Exoskeleton.
@@ -2161,6 +2167,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   Works insanely well with Talent "Unnecessary Theatrics" as it reapplies the charm.
+    -   Prerequisites: Charismatic Cast, 60 Charisma
+-   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
 ### Trickster

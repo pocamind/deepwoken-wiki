@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 84199
+revid: 84715
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -107,6 +107,27 @@ Magnet Spark
  |
 |  | 
 
+Lightning Beam  
+(☆☆☆)
+
+ | Fire a beam of lightning. | 50 Ether | Sends out a straight beam of lightning forwards from your chest.
+
+-   With the Shocking Finish talent, Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteed hit after flourish.
+-   Appears after a second of casting.
+
+ | Damage:
+
+Cooldown:
+
+10 Seconds
+
+Properties:
+
+Modifiers: N/A
+
+ |
+|  | 
+
 Electro Carve  
 (★☆☆)
 
@@ -137,27 +158,6 @@ Stratus Stone
 Blast Spark
 
 Magnet Spark
-
- |
-|  | 
-
-Lightning Beam  
-(☆☆☆)
-
- | Fire a beam of lightning. | 50 Ether | Sends out a straight beam of lightning forwards from your chest.
-
--   With the Shocking Finish talent, Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteed hit after flourish.
--   Appears after a second of casting.
-
- | Damage:
-
-Cooldown:
-
-10 Seconds
-
-Properties:
-
-Modifiers: N/A
 
  |
 |  | 
