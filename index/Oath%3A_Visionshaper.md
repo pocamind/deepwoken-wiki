@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 84642
+revid: 84742
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,7 +24,7 @@ categories: [Oaths]
 ## Obtainment
 
 -   Meet the following requirements:
-    -   50 [charisma](Attributes.md)
+    -   50 [Charisma](Attributes.md)
     -   Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once
     -   Have a Dark Feather in your possession
 -   Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
@@ -40,21 +40,21 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 -   **Illusory Servants - Combat Mantra**
     -   Turn invisible with I-frames then spawn an illusion of yourself that targets the closest enemy.
-    -   Only they and yourself can see it.
-    -   Clones disappear if caster takes any kind of damage.
+    -   Only they and you can see it.
+    -   Clones disappear if the caster takes any kind of damage.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
-    -   The clonea deal standard, real damage.
-    -   Clones do apply hitstun, allowing one to trip up enemies and possibly fail parries.
-    -   This mantra is similar to lightning clones, although it works slightly different in execution (Lightning clones dissapear after being hit or hitting once) also Lightning clones and Illusory Servants can be used together.
+    -   The clones deal standard, real damage.
+    -   Clones do apply hit-stun, allowing one to trip up enemies and possibly fail parries.
+    -   This mantra is similar to lightning clones, although it works slightly differently in execution (Lightning clones disappear after being hit or hitting once) also Lightning clones and Illusory Servants can be used together.
 
 -   **Illusory Realm - Support Mantra**
-    -   After a slight delay, teleport you and a nearby players in an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones)
+    -   After a slight delay, teleport you and a nearby players to an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones)
         -   Cooldown is 2 minutes and 40 seconds.
     -   Cannot be used in water or Guildbases.
     -   When Illusory Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
         -   **Important Note:** Players cannot be knocked in the realm, instead, if knocked, they immediately die.
-    -   **Illusory Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordingly when the realm end).
+    -   **Illusory Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordingly when the realm ends).
     -   If any of the following conditions are met, Illusory Realm ends early:
         -   If the user fails to catch someone in the realm, they will be brought back after 5 seconds
         -   If the user start resting or runs too far away from the realms entrance, it ends immediatly

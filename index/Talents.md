@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84722
+revid: 84751
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1045,7 +1045,11 @@ _**"I seek the qualities of Heat Column."**_
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
     -   Reduce knockdowns (like heavy weapon crit, ascension, etc) duration by 30%.
-    -   Prerequisites: 100 Fortitude, 100 Willpower and Perseverance
+    -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
+
+-   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage.
+    -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
+    -   Prequisites: 20 Fortitude, 100 Willpower
 
 ### Hunter
 
@@ -1273,6 +1277,9 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Callout \[Common Talent\] - You can mark objects or enemies by pressing Z, which will mark them for all nearby allies.
     -   Prerequisites: 20 Charisma
+
+-   Spotter \[Common Talent\] - Marking enemies while in Rhythm will now indicate their health status to your allies.
+    -   Prerequisites: 40 Charisma, Rhythm, Callout
 
 ### Leaf in the Wind
 

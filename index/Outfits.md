@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 84687
+revid: 84743
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -14,15 +14,15 @@ Armor can refer to either [Equipment](Equipment.md) or Outfits (this page).
 
 ## Overview
 
-Outfits are craftable forms of defense that typically reduce oncoming damage by a certain percent, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to reobtain their outfit.
+Outfits are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in larger settlements. The player has a handful of basic outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their outfit.
 
 ## Transmoging
 
-You may also keep the stats of an outfit you are currently wearing while choosing the look of another outfit you already crafted. To do this, you must "Transmog" to a crafted outfit you want to have the appearance of instead of swapping to it. This way you can mis-lead players with the appearance of your outfit and max out your fashion stat.
+You may also keep the stats of an outfit you are currently wearing while choosing the look of another outfit you already crafted. To do this, you must "Transmog" to a crafted outfit you want to have the appearance of instead of swapping to it. This way you can mislead players with the appearance of your outfit and max out your fashion stat.
 
 ## Outfit Stats
 
--   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit will no longer grant its defensives values. However, other stats like ether regen, stealth and the associated talents will still be active.
+-   **Durability:** The "health" of the outfit. Depletes via taking damage from most sources. At 0% durability, the outfit will no longer grant its defensive values. However, other stats like ether regen, stealth and the associated talents will still be active.
 -   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks additively with the following:
     -   **Slash/Blunt Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes/from blunt weapons such as maces, fists, guns or hammers.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks additively with the following:
@@ -51,7 +51,7 @@ _Deepwoken_ currently has 10 Expert Outfits that have been discovered.
 
 ### Master
 
-_Deepwoken_ currently has 8 Master Outfits that have been discovered.
+_Deepwoken_ currently has 9 Master Outfits that have been discovered.
 
 ### Unique
 
@@ -61,11 +61,11 @@ _Deepwoken_ currently has 1 Unique Outfits that have been discovered.
 
 ### **Spec/Mod**
 
-_Deepwoken_ currently has 6 Confirmed spec/mod armor that has been discovered.
+_Deepwoken_ currently has 12 Confirmed spec/mod armor that has been discovered.
 
 ### **Unavailable**
 
-_Deepwoken_ currently has 2 Unavailable armor that has been discovered.
+_Deepwoken_ currently has 3 Unavailable armor that has been discovered.
 
 ## Trivia
 
@@ -74,6 +74,6 @@ _Deepwoken_ currently has 2 Unavailable armor that has been discovered.
 -   With Verse 2, a large number of Outfits were reworked. While this caused a lot of fan outrage, it was due to their original creator being a predator, attempting to be in relations with a young minor while being an adult, and thus will not return to the game.
     -   Despite this, [Aelita](Aelita.md) still wears her Verse 1 Outfit.
 -   If you have crafted the outfit before, you can swap back to it again for no fee as long as you are using the same character.
--   Durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
+-   The durability of unequipped outfits is persistent. If you deplete an outfit's durability then equip a different outfit, your original outfit will still have lower durability upon being equipped again.
 -   The unobtainable Veteran Adventurer outfit's design was based off of [Sol Badguy](https://guiltygear.fandom.com/wiki/Sol_Badguy), specifically his design from _Guilty Gear -Strive-_.
 -   [Proof of the _Hive Leader's Garment_ does exist](https://www.youtube.com/watch?v=iJMNAX_K8Gc). - this outfit is based on the character "[Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche)" from [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact).

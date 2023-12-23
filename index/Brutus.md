@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 69735
+revid: 84739
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attributes]
@@ -17,7 +17,7 @@ categories: [NPCs, Attributes]
 
 ― Brutus
 
-## Overview
+## Description
 
 Brutus is an imprisoned Khan in the [Fort Merit](Fort_Merit.md) prison that allows you to unbind your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that'll knock you and leave you at barely any health.
 
