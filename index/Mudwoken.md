@@ -1,6 +1,6 @@
 ---
 title: Mudwoken
-revid: 84091
+revid: 84794
 source: https://deepwoken.fandom.com/wiki/Mudwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [April Fools]
@@ -10,6 +10,8 @@ categories: [April Fools]
 
 | Mudwoken | |
 |---|---|
+| date1 | 1296 |
+| date2 | 4/1/2022 |
 | effects | Majority of NPCs and all players become Mudskippers |
 | items | None |
 | type | April Fools Update |

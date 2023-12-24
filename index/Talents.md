@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84765
+revid: 84780
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -20,7 +20,7 @@ File:DeepwokenThumbnail.png
     -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
 -   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
     -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
--   FIND A GROUP OF TALENTS: Input a talent tree/category name to find talents pertaining to that tree/category.
+-   FIND A GROUP OF TALENTS: Input a t tree/category name to find talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find talents that are within Butterfly)_
 -   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
     -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
@@ -447,7 +447,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Effect Lasts 15s
     -   Proc Cooldown: 0.25s
 
--   Morale Booster \[Common Talent. Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
+-   Morale Booster \[Common Talent, Charisma\] - Allies recover twice as fast from being knocked when charmed by you.
     -   Prerequisite: 25 Charisma
     -   Allies who are charmed get up in 5 seconds instead of the usual 10 when knocked.
 
@@ -465,6 +465,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutual Exclusives: Bulldozer
     -   Notes: This talent only requires 1 Charisma, so you can get all the talents, Shrine of Order, and still be able to obtain this.
 
+### Christmas Miracle
+
+-   Christmas Miracle \[Common Talent\] - Christmas Mod Shop rewards. Regens hunger and thirst. "Thank you so much K1!" Heh, no problem guys. All in a day's work.
+    -   Prerequisite: MODSHOPREWARD
+    -   Using it creates a large Christmas tree that plays an instrumental of [We Wish You a Merry Christmas](https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas).
+    -   Exclusive to Deepwoken moderators, bought from the Mod Shop using Mod Points.
+
 ### Cold Phantom
 
 > _**"I seek the qualities of Cold Phantom."**_
@@ -477,7 +484,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I stand far above others, an insurmountable challenge."**_
 
 -   _Destructive Recovery_ \[Rare Talent\] - \[Heavy Weapons\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
-    -   Prerequisites: 25 Strength & 40 Heavy Weapons Mastery, Harsh Response, Use a Greatsword.
+    -   Prerequisites: 25 Strength & 40 Heavy Weapons Mastery, Harsh Response, Use a Greatsword
 
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when parrying your attacks.
     -   Prerequisite: 25 Strength
@@ -496,7 +503,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 ### Cosmic Wind
 
 -   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
-    -   Prerequisite: 40 Shadowcast, 60 Galebreathe.
+    -   Prerequisite: 40 Shadowcast, 60 Galebreathe
 
 ### Critical Specialist
 
@@ -2492,6 +2499,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
     -   Prerequisite: 25 Agility
+
+## Other
 
 -   Fold \[Obtained through Power\] - Discard your current hand of Talents. On your next Power Level, you are able to pick another hand of cards. (10 Cards total, 2 choices)
 

@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 84440
+revid: 84789
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -57,6 +57,8 @@ Attunements unlocked on spawn.
 
 _You may click upon any of these attunements to view their pages._Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
+Template:Testing
+
 ## Obtainable Attunements
 
 Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
@@ -71,3 +73,6 @@ _You may click upon any of these attunements to view their pages._Template:Testi
 -   Selecting a new starting Attunement, you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
 -   **Water will never become an Attunement available to the public due to specific lore reasons-** only extremely powerful beings have the ability to manipulate water, as stated by Arch\_Mage.
     -   _As an extension, he mentions that those who wield water magic have already lost their humanity._
+
+-   Addition to above, **Lightkeep will also never become an Attunement to the public due to specific lore reasons-** those who take the role of a Lightkeeper are restricted from the Song, you need to be born with this ability.
+-   Arch\_Mage stated, that Attunements shouldn't ressemble what Oaths are, e.g Illusion can't exist due to Visionshaper already existing and thus being an Illusion Oath.

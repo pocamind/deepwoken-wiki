@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 84518
+revid: 84774
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -264,6 +264,21 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
 -   Doesn't apply chill (may be a bug)
 -   Deals moderate damage
+
+ |
+|  | 
+
+Ice Carve  
+(★★☆)
+
+ | 
+
+_A disk of ice._
+
+ | User forms a disk of ice that rapidly cuts enemies.
+
+-   Deals moderate damage.
+-   Can be modified with Stratus stones and Cloudstones to increase its size.
 
  |
 |  | 

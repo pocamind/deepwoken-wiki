@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 84453
+revid: 84786
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -458,15 +458,17 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 -   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes have been confirmed to not be the wielders of the hero blades.[\[2\]](#cite-note-arch-2)
 -   It is said that before he was sealed, he was capable of drowning entire islands on his prime, possibly being the sins that the world will never forgive.[\[2\]](#cite-note-arch-2)
 
-### **Sudaruska the Undying**
+### **Sudaruska the Unbroken**
 
 _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore sources:** _Sudaruska Soul, Gran Sudaruska Description_
 
--   In her dying breaths, Sudaruska the Undying infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
+-   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
+-   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska home was Minityrsa, the place where the Crypt is, alongside the Crypt bing the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt either was Sudaruska's final resting place or her home.
+-   In case the Crypt is related to Sudaruska, there is high chance she had the Regalia "Mute" or also known as "Animal King," given how the automatons there treat those with it.
 
 ### **Songmaster Tzaraan**
 
