@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 84768
+revid: 84807
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -200,7 +200,7 @@ Metal Wisp
 
 -   Requires a ritual cast
 -   Allegedly does not require ether to regenerate armor, needs more testing. (It consumes a small amount of ether when repairing armor)
--   Stops regenerating armor at 90% (Needs more testing) (Tested, it regenerates armor until maximum durability)
+-   Stops regenerating armor at 90% (Needs more testing) (Tested, it regenerates armor until maximum durability) (Tested again, might be scaled with Ironsinger)
 
  |
 

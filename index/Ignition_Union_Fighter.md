@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 84274
+revid: 84799
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -31,9 +31,9 @@ An Ignition Union Fighter is equipped with either a [Falchion](Falchion.md) or [
 \[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Enters a stance before rushing forward and performing a quick upward strike.
 
  | ◯ | ✗ | (★★☆) |
-| Needle Barrage | A barrage of metal rods | ? | ? | (☆☆☆) |
-| Firing Line | The user spawn 5 gun's behind them witch will start firing the target immediately | ◯ | ◯ | (★★☆) |
-| Oxidizing Rush | conjur metal swords and rush them forward | ◯ | ? | (★★☆) |
+| Needle Barrage | User leaps into the air and pelts the enemy with a trio of metal rods. | ? | ? | (☆☆☆) |
+| Firing Line | User forms five rifles out of metal that open fire on their target. | ◯ | ◯ | (★★☆) |
+| Oxidizing Rush | User rushes forward while surrounded by an array of metal swords. | ◯ | ? | (★★☆) |
 
 ### Boons
 
@@ -52,7 +52,7 @@ An Ignition Union Fighter executes the player after knocking them:
 | Name | Description |
 | --- | --- |
 | Execute | \[[Razor Cutlass](Razor_Cutlass.md) & [Silver Dagger](Silver_Dagger.md)\] Pins down opponent before slicing their throat.  
-\[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face
+\[[Darksteel Greatsword](Darksteel_Greatsword.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
 
  |
 

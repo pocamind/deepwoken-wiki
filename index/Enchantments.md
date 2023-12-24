@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 84696
+revid: 84802
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -623,7 +623,7 @@ File:Vamparism shield.png
 
 -   File:Blazing enchant on a Twisted Puppets path.png
     
-    Twisted Puppet (Shadow Falme) with the "Blazing" enchant
+    Twisted Puppet (Shadow Flame) with the "Blazing" enchant
     
     A few enchants are based on other series and shows.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.

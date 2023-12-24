@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84780
+revid: 84804
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1495,7 +1495,10 @@ _**"I seek the qualities of Heat Column."**_
 > _**"My soul is an instrument with its own frequency."**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity).
-    -   Affected targets takes 200% extra posture damage and take 25% more damage.
+
+-   Affected targets takes ~200% extra posture damage and take~ 25% more damage.
+
+-   • It's was said that ''Ardour Scream posture bonus removed'' in 12/15/2023 (DD/MM/YY) in #updates.
     -   Affected targets deals 15% less posture damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 

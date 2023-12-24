@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 84351
+revid: 84806
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -78,6 +78,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
     -   Increases potion potency and damage with Iron Bombs.
 -   Unlocks Intelligence-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Intelligence_Mantras).
 -   Gain Intelligence EXP via foraging, fishing, brewing potions, discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
+    -   If you are using the Math Textbook, you will have to do a math problem.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Intelligence_Unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a Bluecap.**_
 
 ### **Willpower**
