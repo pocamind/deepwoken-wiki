@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 84759
+revid: 84812
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -63,6 +63,7 @@ Certain foods grant a Food Buff, indicated by a colored food bar and a descripti
 -   _"Your magic feels stronger..." =_ This buff increases the user's mantra damage.
 -   _"Your weapons feel stronger..." =_ This buff increases the user's melee damage.
 -   _"You feel ether surging into you..." =_ This buff increases the user's ether regeneration speed.
+-   _**"You feel quicker on your feet..."** =_ This buff increase the user's movement speed
 
 Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both can eat) - **\[N\]** - Neither
 
@@ -98,7 +99,7 @@ Keys: **\[V\]** - Vegetarian, **\[C\]** - Carnivore - **\[G\]** - Generic (Both 
 -   **\[C\] [Calamari](Food.md)** - _1 Squid, 1 Gathered Wheat_
 -   **\[C\] [Glazed Fish](Food.md) -** _1 Fish Meat, 1 Sap_ (Increased weapon damage)
 -   **\[C\] [Sauteed Scallops](Food.md)** - _2 Scallops_
--   **\[G\] [Cake](Food.md)** - 1 _Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased agility)
+-   **\[G\] [Cake](Food.md)** - 1 _Egg, 3 Gathered Wheat, 1 Sap_ (Grants increased speed)
 
 ## Alchemy
 

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 84805
+revid: 84811
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -216,7 +216,6 @@ A Stone Knight executes the player:
 -   When spawning Blizzard Knights on [Minityrsa](Minityrsa.md) (When the meteors fall), be sure to run all the way out of [Valley of Heroes](The_Valley_of_Heroes.md). If you aggravate one of the golems right when they spawn, all of them will aggro on you at once.
 -   **Blizzard Knights** are not affected by the "[Animal King](Regalia.md)" talent and will still attack if they spot you.
     -   If you are quick enough you can run away and get some of them off your tail, but the closest ones will still follow you.
-    -   Blizzard Knights will lock on to you if you aggro some of them, which means they will follow you no matter what until another npc is nearby to lock on to. If they kill the npc that they locked on to, they will respawn back where they came from and remain in their netural state until you get close.
 -   **Do note that Rogue Hive Constructs will not attack Blizzard Knights, they will instead team up on you if you decide to aggravate both of them.**
 -   Recommended to dodge all attacks and get 1-2 hits in depending on if your HVY, MED, or LHT weapon. Unless it does the double slash in that case you want to dodge the first and quickly parry the second and get 1-2 hits in.
 -   Usually when a **Blizzard Knight** swings once, he'll either use **Kick** or **Terra Eruption**, so be prepared to dodge.

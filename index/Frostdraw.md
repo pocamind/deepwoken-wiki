@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 84774
+revid: 84810
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -266,7 +266,9 @@ _Conjure a glaive of frost and launch your opponents skyward._
 -   Deals moderate damage
 
  |
-|  | 
+| 
+
+ | 
 
 Ice Carve  
 (★★☆)

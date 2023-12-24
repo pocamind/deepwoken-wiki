@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 83723
+revid: 84817
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -108,6 +108,7 @@ File:Sinner's Ash.png
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
+-   Hellmode Chests
 
  |
 | 
