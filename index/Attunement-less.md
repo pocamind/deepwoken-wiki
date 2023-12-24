@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 84647
+revid: 84832
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -148,7 +148,7 @@ File:Attunement-less icon.png
     -   Maximum duration is 60 seconds.
     -   Cooldown duration scales off the duration of the Mantra.
     -   _Can be upgraded_ with the _Fortitude Talent Cards 'Blood Shadow' and 'Grand Support'._
-    -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to people non-allies, including mobs, turning it green.
+    -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
         -   This increases the size of the buff to 15% damage resistance and 5% damage output.
     -   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).
 

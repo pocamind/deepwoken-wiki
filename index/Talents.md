@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84804
+revid: 84833
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -247,7 +247,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I seek the qualities of Annihilator."**_
 
 -   _**Collapsed Lung**_ \[Advanced Talent\] - Block breaking an opponent closes off their ability to Vent for 3s.
-    -   Scales with investment up to it's requirement, with 75 STR lasing 2s and scaling up to 100 STR being 3s
+    -   Having 75 STR will cause this to only last for ~2 seconds, as it scales based on your Strength up until its requirement.
     -   Prerequisite: 100 Strength
 
 ### Apex Predator
@@ -459,6 +459,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Being hit by someone the same race or oath as you charms them briefly.
     -   Prerequisite: 25 Charisma, Charismatic Cast
+    -   Mutual Exclusives: Narcissist
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prerequisites: All Charm Caster Talents
@@ -1496,9 +1497,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity).
 
--   Affected targets takes ~200% extra posture damage and take~ 25% more damage.
-
--   • It's was said that ''Ardour Scream posture bonus removed'' in 12/15/2023 (DD/MM/YY) in #updates.
+-   Affected targets takes 25% more damage.
     -   Affected targets deals 15% less posture damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 
@@ -2186,6 +2185,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisites: Charismatic Cast, 60 Charisma
 -   Narcissist \[Common Talent, Charisma Exclusive\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
     -   Prerequisites: Charismatic Cast, 60 Charisma
+    -   Mutual Exclusives: Tough Love
 
 ### Trickster
 

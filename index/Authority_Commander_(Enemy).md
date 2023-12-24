@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 84711
+revid: 84830
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies]
@@ -21,6 +21,8 @@ Their arsenal is composed of either a [Adretian Axe](Adretian_Axe.md) or [Office
 | Moves | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Flame Repulsion | An exertion of flames. | ? | ◯ | (★☆☆) |
+| Burning Servants | A legion of flames. | ◯ | ◯ | (★☆☆) |
+| Flame Grab | A fiery chokehold. | ◯ | ◯ | (★☆☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
 | Relentless Flames | Bear down on your foes with repeated fiery slashes | ◯ | ◯ | (★★☆) |
 | Ash Slam | Strike the ground, turning it to ash. | ◯ | ◯ | (★★★) |

@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 84725
+revid: 84829
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -28,12 +28,13 @@ A Ministry Enforcer's arsenal consists of a [Krulian Knife](Krulian_Knife.md) an
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings dagger at the opponent and finishes the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | User unleashes a quick flurry of slashes. | ◯ | ✗ | (★☆☆) |
-| Shadow Assault | Windup before turning invisible and dashing forward, dealing medium damage to anyone in front of caster while applying darkness. | ◯ | ◯ | (★★☆) |
+| Shade Devour | Gorge on your own health for raw strength | ? | ◯ | (★☆☆) |
+| Shadow Assault | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. | ◯ | ◯ | (★★☆) |
 | Encircle | Conjure shadows around your enemy before
 warp-striking to them.
 
  | ◯ | ◯ | (★★☆) |
-| Eclipse Kick | Show your foes your strength. | ? | ✗ | (★★★) |
+| Eclipse Kick | Show your foes your strength. | ◯ | ? | (★★★) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
@@ -68,30 +69,56 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
   <th>Description</th>
   <th>Parryable?</th>
   <th>Blockable?</th>
+  <th>Danger</th>
 </tr>
 <tr>
   <td>Assault</td>
   <td>Firmly pummels opponent before finishing up the combo by kicking them.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
+  <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Critical</td>
   <td>Raises right leg before firmly slamming it down into the ground below.</td>
   <td><font>◯</font></td>
   <td><font>✗</font></td>
+  <td>(★☆☆)</td>
 </tr>
 <tr>
-  <td>Shadow Arc</td>
-  <td>Caster conjures an arc of shadow and pierces the opponent.</td>
+  <td>Shade Devour</td>
+  <td>Gorge on your own health for raw strength</td>
+  <td><font>?</font></td>
   <td><font>◯</font></td>
-  <td><font>◯</font></td>
+  <td>(★☆☆)</td>
 </tr>
 <tr>
   <td>Shadow Assault</td>
-  <td>Windup before turning invisible and dashing forward, dealing medium damage to anyone in front of caster while applying darkness.</td>
+  <td>Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness.</td>
   <td><font>◯</font></td>
   <td><font>◯</font></td>
+  <td>(★★☆)</td>
+</tr>
+<tr>
+  <td>Encircle</td>
+  <td>Conjure shadows around your enemy before<p>warp-striking to them.</p></td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(★★☆)</td>
+</tr>
+<tr>
+  <td>Eclipse Kick</td>
+  <td>Show your foes your strength.</td>
+  <td><font>◯</font></td>
+  <td><font>?</font></td>
+  <td>(★★★)</td>
+</tr>
+<tr>
+  <td>Judgement</td>
+  <td>Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. The move will instantly execute if it brings HP to 0.</td>
+  <td><font>◯</font></td>
+  <td><font>◯</font></td>
+  <td>(★★☆)</td>
 </tr>
 </tbody>
 </table>
@@ -103,5 +130,5 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 ## Trivia
 
 -   Rather ironically, the stronger variants use [Way of Navae](Way_of_Navae.md), despite the Ministry engaging in an ethnic cleansing of Navaen Nomads, as can be observed during their battles around [Summer Isle](Summer_Isle.md).
--   The stronger variants can use Judgment, from the [Oath: Contractor](Oath%253A_Contractor.md). Despite this, they lack the strings or red eyes that indicate the presence of the Oath.
 -   The reward chest for the Ministry ambush has a small chance of yielding a Gran Sudaruska
+-   The stronger variants can use Judgment, from the [Oath: Contractor](Oath%253A_Contractor.md). Despite this, they lack the strings or red eyes that indicate the presence of the Oath.

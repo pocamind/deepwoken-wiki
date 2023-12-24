@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 81566
+revid: 84839
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Etrean Luminant]
@@ -77,6 +77,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 -   Master Hawk's Handaxe (Rogue Construct chest)
 -   [Night Axe](Night_Axe.md) (Rare drop from Necromancers or Brainsuckers)
 -   [Gran Sudaruska](Gran_Sudaruska.md) (Extremely rare drop in the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md))
+-   [Hivelord's Hubris](<Hivelord's_Hubris.md>) (Rare drop from [Rogue Constructs](Hive_Construct.md))
 
  | 
 
