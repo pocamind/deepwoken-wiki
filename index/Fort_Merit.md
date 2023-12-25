@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 84509
+revid: 84858
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -60,7 +60,7 @@ For more information, watch [this video](https://www.youtube.com/watch?v=eaygZAb
 -   A [Gremor](Gremor.md) sitting on a tree near [Meteor Isle](Meteor_Isle.md), right above the shipwright.
 -   Selecting the option "Very well. I can assist in the fight." will start the quest.
 -   With her assistance, you will have to fight 6 [Authority peacekeepers](Authority_Peacekeeper.md).
--   Gripping at least two signifies that you have completed the quest.
+-   Gripping at least five signifies that you have completed the quest.
 -   Return to Meteor Isle and gain 2 [knowledge](Knowledge.md).
 
 ## Rep Resets
@@ -89,7 +89,7 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 | [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
 | --- | --- | --- | --- |
 | 
--   [Authority Commander Uniform](Authority_Captain_Uniform.md)
+-   [Authority Captain Uniform](Authority_Captain_Uniform.md)
 
  | 
 
