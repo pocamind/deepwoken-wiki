@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 84263
+revid: 84888
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -40,6 +40,10 @@ Wielding it requires 60 Light and 30 Intelligence. It does 13 base damage and 4.
 ## Critical
 
 The critical unleashes an explosion blood around the cursor, launching the target into the air and ragdolling them for a short duration.
+
+## M1s
+
+There are 3 m1's before the final blow that is a kick which will flourish the enemy.
 
 ## Trivia
 
