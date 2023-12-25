@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 84650
+revid: 84847
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -32,7 +32,7 @@ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstr
     -   You must help the ministry 5-6 times at Summer Isle for them to not see worth fighting you anymore. (This dialogue grants you neutral reputation.)
     -   The Bounty version of the Ministry takes about 5-6 kills you need to deal approximately 60% of the dmg however bloodletter kills do not give you the kill(tested)
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline.
-3.  Go to Lord regent and choose the special dialogue “Bite your tongue." (You can do all of these out of order before step 4)
+3.  Go to Lord regent and choose the special dialogue “Bite your tongue" after killing Duke Erisia (You can do all of these out of order before step 4).
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md). Any Deep Shrines Prior to doing the regent quest count towards contractor. (Shrine of conceit has been tested and it works.)
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to Yun'Shul. Ask it "What happened to this place?" (Talking to Yun'Shul without a bell WILL kill you UNLESS you're a deepbound) (You can for some reason do this step before doing step 4, as long as when you eventually return to regent, you do step 4 and then proceed to do step 8 to receive contractor.)

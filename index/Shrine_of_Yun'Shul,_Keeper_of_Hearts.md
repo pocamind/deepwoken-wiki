@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 84809
+revid: 84852
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -59,4 +59,3 @@ If you meet all the criteria, you are able to make one of five wishes:
 -   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
 -   There is an [Enchantment](Enchantments.md) named after Yun'Shul.
 -   The objects in the shrine’s temple are [Deep Shrines](Deep_Shrines.md).
--   The name "Yun'Shul" is likely in reference to [英雄 (yīng xióng)](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/hero), which means "hero" in Chinese.

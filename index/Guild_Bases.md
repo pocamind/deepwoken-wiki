@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 84681
+revid: 84846
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -240,6 +240,7 @@ Bandits raiding a Guild Base.
 
 ## Trivia
 
+-   You do not need to have a maxed out guild base in order to buy the Arena Extension
 -   Carry-able items (Artifacts, Explosive Crates, Barrels, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   Grand skewer is disabled while inside, as it could throw people out the base.
 -   Full Guild Base is hard to achieve for small guilds since the price of adding rooms increases exponentially. Could be more achievable with the use of [Guild Banners](Guild_Banners.md).

@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 84625
+revid: 84851
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -143,9 +143,10 @@ End of Dialogue
 
 **\[1\]** What is that you're doing?
 
+**\*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you\***  
 **"The vial I gave you. You must drink it."**
 
-(These dialogues are unfinished)
+End of Dialogue
 
 **With Frostdraw:**
 
@@ -173,7 +174,7 @@ End of Dialogue
 
 End of Dialogue
 
-(These dialogues are also unfinished)
+(These dialogues are unfinished)
 
 ## Trivia
 

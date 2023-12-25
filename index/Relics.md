@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 84817
+revid: 84840
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Items]
 
 ## Obtainable Relics
 
-Relics that can be obtained & used by players.
+Relics that can be obtained & used by players. All Relics can be obtained in the [First Layer](First_Layer.md) but some have other obtainment methods as well.
 
 | Image | Description | Obtainment |
 | --- | --- | --- |
@@ -55,7 +55,6 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)  
       
     
@@ -93,7 +92,6 @@ Can be used in any location.
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%, statistic-based, expect a large margin of error when compared to real rates)**
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
--   [First Layer + Hell Mode (Brown Chests)](First_Layer.md)
 
  |
 | 
@@ -108,7 +106,6 @@ File:Sinner's Ash.png
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
--   Hellmode Chests
 
  |
 | 
@@ -154,5 +151,3 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 -   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
 -   With the exception of both the Rain Spire and Void Spire, all other Relics are consumables and will disappear after one use.
--   Relics can drop from [Hell Mode](Hell_Mode.md), but it is uncertain if it's some Relics or all of them.
--   [Duke Erisia](Duke_Ishamon_Erisia.md) Percentage Rates were assisted by [this video](https://www.youtube.com/watch?v=0HbS2iFOAb8). Note that the percentage rates are very likely skewed or accompanied by a margin of error due to statistics not being as reliable as hard-confirmed rates.

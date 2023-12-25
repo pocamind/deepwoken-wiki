@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 84010
+revid: 84855
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -30,9 +30,11 @@ _(one-time use, re-obtainable)_
 -   You can hold more than one of this item.
 -   Holding Sinner's Ash will surround your player in a purple highlight.
 -   Using Sinner's Ash whilst already having a Corrupted Resonance or not having any Resonance will do nothing, and Dialogue appears saying "The ashes don't seem to have any effect."
--   Unless you are going for Krysweapons and Blood items, Duke is recommended for farming Sinner's Ash, as it is overall faster.
+-   Unless you are going for Kyrsweapons and Blood items, Duke is recommended for farming Sinner's Ash, as it is overall faster.
 -   The person writing this has recorded ~110 Dukes & 60 Chasers worth of loot, and has yet to find a Sinner's Ash or [Moonseye Tome](Moonseye_Tome.md).
 -   Another person writing this has recorded ~150 Dukes and 20 Chasers worth of loot, and has yet to find a Sinner's Ash or Moonseye Tome. It appears that the actual chance for either of these relics are rarer than the estimated 1%
 -   Another person writing this has recorded ~100 Dukes and has yet to find a Sinner's Ash or Moonseye Tome.
 -   Final person recording this, it took 300~+ Dukes for a Sinner's Ash.
--   A person writing this has confirmed you can obtain Sinner's ash from Layer 2 Floor 1 chests. Unsure about Floor 2 chests.
+-   Final Final person writing this has recorded 400~ Dukes and has yet to find a Sinner's Ash or Moonseye Tome
+-   Final Final Final person writing this has recorded 35~ and has found a Sinner's Ash but not the Moonseye Tome
+-   A person writing this has confirmed you can obtain Sinner's ash from Layer 2 Floor 1 chests (very low chance). Unsure about Floor 2 chests.
