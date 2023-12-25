@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 84888
+revid: 84892
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -45,11 +45,15 @@ The critical unleashes an explosion blood around the cursor, launching the targe
 
 There are 3 m1's before the final blow that is a kick which will flourish the enemy.
 
+## Jumping Attack
+
+The character jumps into the air before performing a quick dash forward slicing with both daggers.
+
 ## Trivia
 
 -   This weapon model and Critical is a reference to [Izanami](https://smite.fandom.com/wiki/Izanami) one of the character in [SMITE](https://smite.fandom.com/wiki/Smite_Wiki).
 -   The weapon itself, "[Kama](<https://en.wikipedia.org/wiki/Kama_(tool)>)" is a traditional Japanese farming tool, used for harvesting crops, but also martial arts.
--   Finishing Touch only applies to the critical if the final hit to knock them is a critical. It does not work on knocked opponents.
+-   Finishing touch does work when using Flareblood Kamas.
 -   While its damage is high, it is only rivaled by the Alloyed Whaling Knife and the Alloyed Tanto. The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blade](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken battle royal tournament.

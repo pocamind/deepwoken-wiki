@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 84879
+revid: 84893
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -13,7 +13,7 @@ categories: [Monsters, Bosses]
 ― Lumen’s Folklore: Volume ‘North’
 
   
-_Commonly referred to as Kaido or the Danger Noodle._
+_Commonly referred to as Kaido or the Mega Schlong of the Void Sea._
 
 Template:Creature Infobox V3
 
