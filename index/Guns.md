@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 84910
+revid: 84925
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,7 +14,7 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are a category of weapons that focus on range. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
+**Guns** are a ranged weapon designed to shoot projectiles if the user has bullets in the inventory, which can add ranged capabilities as well as giving a +10% PEN bonus. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
 
 ## Moveset
 
@@ -62,7 +62,7 @@ _**Stats:**_
 
 **[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes (1).(65 LHT req)
 
-**[Dragoon](Dragoon.md):** **17** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
+**[Dragoon](Dragoon.md):** **16** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
 
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed (Requires the bell: [Crazy Slots](Crazy_Slots.md))
 
@@ -76,6 +76,7 @@ _**Stats:**_
 
 ### Trivia:
 
+-   You can buy bullets at the Etris weapon store and Summer Isle or craft them using 1 iron for 20 bullets
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   The [Stormseye](Stormseye.md) is the only legendary gun in game. It is obtained by killing bosses.
 -   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.

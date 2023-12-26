@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 84680
+revid: 84923
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]

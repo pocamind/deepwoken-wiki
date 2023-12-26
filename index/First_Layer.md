@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 84637
+revid: 84913
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -233,6 +233,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   If you are experiencing severe lag on a particular server, consider switching to another one. Depending on the monster you are facing, a single lag spike or being on a bad server can result in your death.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire.
 -   Overall, don't trust players. Remember, you're in the depths, and if you die fighting a player, you'll wipe, so be cautious of them and avoid them at all costs.
+-   If you lack enough Willpower points, prepare some Heartening Remedy potions to help buy you time while also restoring some sanity if you've been in Layer One for too long.
 
 ## Trivia
 
@@ -245,4 +246,4 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   An easy way to get out of the Depths is the "Barrel Method". An example of using the method can be found [here](https://www.youtube.com/watch?v=xJdIeGEklFM).
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
--   The Meteor Event in the Depths can create any of the Depths monsters, and killing all of the Depths monsters it has spawned will reward you with four chests filled with highly valuable loot.
+-   The Meteor Event in the Depths can create any of the Depths monsters, and killing all of the Depths monsters it has spawned will reward you with four chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight.

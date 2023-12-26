@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 83234
+revid: 84924
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
