@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 83195
+revid: 84907
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -26,15 +26,15 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow particles sorrounding the body.
+Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow particles surrounding the body.
 
 ### Blood Shadow
 
-When Reinforce is applied to an ally with the talent Blood Shadow, steal their HP until your are full HP. Signified by red and yellow particles sorrounding the body.
+When Reinforce is applied to an ally with the talent Blood Shadow, steal their HP until your are full HP. Signified by red and yellow particles surrounding the body.
 
 ### Hyperarmor
 
-Make your attacks uninterruptable and become immune to every form of stun. Signified by your character turning red. Can be applied with the critical attack of most heavy weapons, [Brace](Attunement-less.md) and many more.
+Make your attacks uninterruptible and become immune to every form of stun. Signified by your character turning red. Can be applied with the critical attack of most heavy weapons, [Brace](Attunement-less.md) and many more.
 
 ### Ordered to Fight
 
@@ -62,11 +62,11 @@ Have your movement and parkour speed increased by 15%. Applied by the [Adrenalin
 
 ### Gone Berserk
 
-Gain a 20% defence boost to all sources. Applied after knocking someone with the talent Berserk.
+Gain a 20% defense boost to all sources. Applied after knocking someone with the talent Berserk.
 
 ### Overcharm
 
-Apply charm per every m1, and mantra used, even without having the Charismatic Cast talent. Also amplifies the speed for an execute. Signifed by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) talent.
+Apply charm per every m1, and mantra used, even without having the Charismatic Cast talent. Also amplifies the speed for an execute. Signified by a pink circle around your head. Applied by either gripping someone with the [Rule Through Fear](Talents.md) talent or using [Sing](Attunement-less.md) with the [Propagandist](Talents.md) talent. (Can also be applied to self with the narcissist talent)
 
 ### Mark of Jurik
 
@@ -98,7 +98,7 @@ Can be applied by being hit by [Wind Gun](Galebreathe.md) or by any Galebreath m
 
 ### Chilled
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled ennemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cero
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cero.
 
 ### Frozen
 
@@ -106,7 +106,7 @@ Have your body completely engulfed in ice and lose the ability to do anything to
 
 ### Shocked
 
-Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarly throught [Thundercall](Thundercall.md) mantras
+Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarily through [Thundercall](Thundercall.md) mantras.
 
 ### Overloaded
 
@@ -123,19 +123,19 @@ Inflicted by being hit by Ironsing mantras. Effect varies depending on which pat
 
 ### Poisoned
 
-This can be applied by being hit by the Deep Widow's venomous bite. While poisonned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage.
+This can be applied by being hit by the Deep Widow's venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage.
 
 ### Electrified
 
-Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) mantra with the talent Resolve Crusher. Signifed by a swirling lightning effect in the users torso.
+Do 10% less damage and turn M1 attacks into lightning damage. Applied through being hit by a [Thundercall](Thundercall.md) mantra with the talent Resolve Crusher. Signified by a swirling lightning effect in the users torso.
 
 ### Sapped
 
-This can be applied by being flourished by someone using Thunder Wisp. While Sapped, your mantra cooldowns are increased, you will also be shocked when Sapping ends.
+This can be applied by being flourished by someone using Thunder Wisp. While Sapped, your mantra cool downs are increased, you will also be shocked when Sapping ends.
 
 ### Dazed
 
-Unable to roll and have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt mantras (eg. [Rising Shadow](Shadowcast.md)).
+Unable to roll and have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt mantras (ex. [Rising Shadow](Shadowcast.md)).
 
 ### Anti-Heal
 
@@ -151,7 +151,7 @@ Unable to move during the duration while active while still being able to block,
 
 ### Silenced
 
-This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's crit, uppercut, or flourish and prevents the usage of mantras for its duration.
+This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's critical, uppercut, or flourish and prevents the usage of mantras for its duration.
 
 ### Harrowing
 
@@ -191,7 +191,7 @@ Applied by standing in the time stasis bubble made by the [Eylis Captains.](Subt
 
 ### Audacity
 
-Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE around everyone near them making them stuck in place for around 5 seconds. Signifed by White Eyes in the moment of the execution.
+Applied by standing near someone with audacity when they're executing someone. Which inflicts a stun AOE around everyone near them making them stuck in place for around 5 seconds. Signified by White Eyes in the moment of the execution.
 
 ## **Deadly Status Effects**
 
@@ -199,7 +199,7 @@ These status effects cause certain death if nothing is done about them.
 
 ### Bleeding out
 
-This effect happens once your blood bar is **zero**. Once this happens both hunger and thirst will rapidly drop to replish your blood. You will also become slower and get your screen to blur and darken. Your blood can replenish to a point if you have enough food and water on you, but if you don't you will eventually die of starvation/dehydration as your body cannot live without food and water. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
+This effect happens once your blood bar is **zero**. Once this happens both hunger and thirst will rapidly drop to replenish your blood. You will also become slower and get your screen to blur and darken. Your blood can replenish to a point if you have enough food and water on you, but if you don't you will eventually die of starvation/dehydration as your body cannot live without food and water. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
 
 ### Parched
 

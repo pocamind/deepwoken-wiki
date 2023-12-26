@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 83123
+revid: 84901
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Outfits]
@@ -36,5 +36,5 @@ This Outfit's Schematic can be found in:
 
 ## Trivia/Notes
 
--   Innate talent is very nice if you aren't looking to waste a Talent hand on Armor Piercing.
+-   Innate talent is very nice If you are looking to have Armor Piercing in the early stages of the game.
 -   The Summer Company Uniform is a clear reference to the [Crowfeather Garb](https://bloodborne.wiki.fextralife.com/Crowfeather+Garb) from Bloodborne, albeit without the black cloak.

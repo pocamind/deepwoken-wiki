@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 84556
+revid: 84904
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -27,8 +27,13 @@ Amashi's uses a [Hero Blade of Flame](Hero_Blades.md) along with the [Flamecharm
 | Assault | Firmly swings sword at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Impales blade into the ground, causing a burst of flame while conjuring the avatar of the Hero Blade of Flame. | ◯ | ✗ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★★) |
+| Flame Blind | Snap your fingers, shooting a projectile that blinds those who dare gaze at it. | ◯ | ◯ | (★★★) |
 | Flame Repulsion | After a wind-up of ~2 seconds, user releases a burning AoE blast. | ✗ | ◯ | (★★☆) |
 | Flame Assault | User dashes forward covered in flames; hitting anyone in their path. | ◯ | ◯ | (★★☆) |
+| Flame Leap | User emits a blast under them that propels the caster and nearby opponents up in the air. | ? | ? | (★☆☆) |
+| Ash Slam | Strike the ground, turning it to ash. | ◯ | ◯ | (★★★) |
+| Flaming Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
+| Flame Ballista | Conjure a flaming arrow and fire it at your target. | ◯ | ◯ | (★★☆) |
 
 ### Talents
 

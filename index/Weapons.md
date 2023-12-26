@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 84884
+revid: 84909
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -381,7 +381,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 **Guns:**
 
-Guns are a ranged weapon designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using 1 gun, giving you a pistol whip and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots with each guns. Guns can shoot projectiles if the user has [Bullets](Bullet_Casings.md) in the inventory, which can add ranged capabilities as well as giving a +20% PEN bonus. Guns can also be used by themself in your off hand slot to complement your main hand weapon. However, doing this with a non Light weapon in your main hand incur a -20% damage penalty.
+Guns are a ranged weapon designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using 1 gun, giving you a pistol whip and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots with each guns. Guns can shoot projectiles if the user has [Bullets](Bullet_Casings.md) in the inventory, which can add ranged capabilities as well as giving a +10% PEN bonus. Guns can also be used by themself in your off hand slot to complement your main hand weapon. However, doing this with a non Light weapon in your main hand incur a -20% damage penalty.
 
 <table>
 <tbody>
@@ -1958,7 +1958,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Base Damage: Hivelord Hubris, Divine Greatsword (30)
     -   Requirement: Hivelord's Hubris (100 HVY)
     -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
-    -   Penetration: Shattered Katana/First Light (30%)
+    -   Penetration: Shattered Katana/First Light/Kyrsedge/Kystreza (30%)
     -   Chip damage: Night Axe (60%)
     -   Scaling: Revolver, Divine Flintlock (15)
     -   Weight: Enforcer’s Hammer, Stoneheart (12)
