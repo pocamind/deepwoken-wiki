@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84854
+revid: 84931
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2540,7 +2540,7 @@ File:Thresherquest1.png
 
 ### Treefelling Blow
 
--   You can collect lumber from the trees you fell with your fists. It's only natural. (+1 Posture, +4 Carry Load)
+-   You can collect lumber from the trees you fell with your fists. It's only natural. (+4 Carry Load)
 -   Requires Strong left
 -   Quest giver located at [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md) they are the NPCs that gives you a free lumber axe. Tell them about your wood.
 -   Punch down 5 trees, then return.

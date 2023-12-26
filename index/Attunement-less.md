@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 84832
+revid: 84938
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -56,7 +56,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>20 Strength,</b></i> <i>Combat Mantra</i>
   <ul>
-    <li>A powerful left jab that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
+    <li>A powerful left cross that knocks your opponent away, inflicting ragdoll and a good amount of knockback in the process.</li>
     <li>Strong Left scales with your Strength attribute.</li>
     <li>Can fell trees. With <a href="Talents.md">Treefelling Blow</a> talent, you can gain wood from fallen trees.</li>
   </ul></li>
@@ -208,7 +208,7 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
     -   Scales with the user's Power Level and Agility Attribute.
     -   With the [Pursuit](Talents.md) talent, Revenge can be used twice in a row if the first use hits.
     -   **THIS MOVE NOW APPLIES HITSTUN, WAYWARD DOESNT PROC**
-    -   Can be upgraded with Stones and Shards.
+    -   Can be upgraded with Stones and Shards. (Increases range of the Mantra has been tested.)
 
  |
 | 
@@ -549,6 +549,7 @@ File:Attunement-less icon.png
 -   When activated character does an initial swing with a second long windup, then kicks enemy into air and kicks them away.
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
+-   Short Range
 
  |
 
@@ -583,6 +584,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Most Attunement-less mantras serve as utility in order to assist you in either combat or general survival.
 -   Although Reinforce is a little costly for a mantra, a [Blue Gem](Deep_Gems.md) can reduce it to around 50 ether, which can help with ether cost.
 -   Strong Left is best used during a parry trade in order to be as close as possible to your opponent due to its lackluster range but incredibly high damage and short wind-up.
+-   Rapid Punches has a short dash and should be used when doing a combo. Keep in mind that the punches can be parried right away, so players should only get a few punches in.
 
 ## Trivia
 

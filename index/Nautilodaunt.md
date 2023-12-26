@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 84842
+revid: 84935
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -117,3 +117,4 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 -   They are named after the Nautilus, a family of shelled cephalopods.
 -   **SIDE TIP:** Attunement-less fortitude mantra "Brace" is very useful when fighting a Nautilodaunt because you have hyper armor for at least 5 seconds and can get some free hits in because the hyper armor won't allow you to be interrupted, but it is very useless when fighting a Fury Nautilodaunt because its fist is capable of removing hyper armor.
 -   If you want to parry, you must press F **immediately** since the Nautilodaunt fist animation is much faster than the dagger attack animation.
+-   Fun Fact: Nautilodaunt can vent 100% of the time and has no cooldown which Mantras are very useless fighting against him.
