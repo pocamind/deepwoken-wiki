@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 84851
+revid: 84927
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -158,13 +158,21 @@ End of Dialogue
 
 **"What is it you wish to focus on?"**
 
-(Any level 1 Frostdraw Mantra)
+**Mantras available**
 
-**"A heart of crystal beats, layered sheets of ice protecting it. I can reinforce it for 100 Notes."**
+**"A heart of crystal beats, layered sheets of ice protecting it. I can reinforce it for 100 Notes."** (Price increases by 100 for every 1 level)
 
 **\[1\]** Draw it out.
 
+**Enough Notes**
+
 **"It is done. The heartbeat grows even duller"**
+
+End of Dialogue
+
+**Lacking Notes**
+
+**"It appears you lack the sufficient funds..."**
 
 End of Dialogue
 
@@ -173,8 +181,6 @@ End of Dialogue
 **"Only a subtle chill, not enough to freeze..."**
 
 End of Dialogue
-
-(These dialogues are unfinished)
 
 ## Trivia
 

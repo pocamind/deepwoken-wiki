@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 84786
+revid: 84930
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -106,7 +106,7 @@ _The Lord Regent, sitting atop his throne of coral._
 
   
 
-### **The Duke of Erisia**
+### **Duke Ishamon of Erisia**
 
 _"The ruins of that city will **never** cage me. And with what's at stake... I can't stop now." - The Duke of Erisia, talking to the Player_
 
