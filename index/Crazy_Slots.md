@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 84659
+revid: 85029
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -42,10 +42,6 @@ When obtained, Crazy Slots will spend its points on the following stats.
 When spending its points, Crazy Slots will favor spending them toward weapons in which you have the highest weapon attribute stat.
 
 -   **Duration:** The weapon conjured from Crazy Slots will last for a longer duration before being put on cooldown again.
-
-#### _Tarnished_
-
-If the owner of **Crazy Slots** is Tarnished, the weapon will take 2 extra seconds to be summoned which can be interrupted. The cooldown is also increased.
 
 ## Weapons
 

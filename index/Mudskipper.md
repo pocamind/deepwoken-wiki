@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 83231
+revid: 85031
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -341,3 +341,4 @@ Scratch
 -   Corrupted mudskippers can spawn in the depths.
 -   Corrupted mudskippers do not pose much of a threat they still do little damage.
 -   Mudskippers punch their enemy with light attacks, much like Nautillodaunts.
+-   If there are two un-agroed Mudskippers, they have a chance to start up a conversation among themselves.

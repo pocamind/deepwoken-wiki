@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85027
+revid: 85032
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2190,12 +2190,14 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Trickster
 
+**"I often like to play pranks on others."**
+
 -   _Cheap Shot_ \[Rare Talent, Agility\] - Your attacks gain 10% PEN when you have an active speed boost. (+6 Passive Agility)
     -   Prerequisite: 65 Agility
 
 ### Twisted Puppets
 
-> _**"I seek the qualities of twisted puppets"**_
+> _**"I seek the qualities of twisted puppets."**_
 
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
