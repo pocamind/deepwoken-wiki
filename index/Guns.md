@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 84925
+revid: 85023
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -76,7 +76,7 @@ _**Stats:**_
 
 ### Trivia:
 
--   You can buy bullets at the Etris weapon store and Summer Isle or craft them using 1 iron for 20 bullets
+-   You can buy bullets at the Etris weapon store and Summer Isle or craft them using 1 Iron for 20 bullets
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   The [Stormseye](Stormseye.md) is the only legendary gun in game. It is obtained by killing bosses.
 -   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.

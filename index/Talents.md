@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84987
+revid: 85027
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -379,23 +379,23 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Prerequisite: Trained Fist
 
 -   Trained Fist \[Common Talent\] - You can now equip Cestus.
-    -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Kata Quest & using fists (0 Light Weapons Mastery)
+    -   Prerequisite: Completing Navaen Tribe Rescue Quest or Legion Kata Quest & using fists (0 Light Weapons)
 
 ### Bruiser
 
 > _**"I am a master with my hands."**_
 
 -   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. (20 second cooldown).
-    -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapons Mastery
+    -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
-    -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapons Mastery
+    -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapon
 
 -   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic attacks will slightly slow your enemy for 2 seconds. Running attacks will slightly slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
-    -   Prerequisite: Use a Greataxe, 30 Heavy Weapons Mastery
+    -   Prerequisite: Use a Greataxe, 30 Heavy Weapon
 
 -   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
-    -   Prerequisite: Use a Greataxe, 40 Heavy Weapons Mastery
+    -   Prerequisite: Use a Greataxe, 40 Heavy Weapon
 
 ### Butterfly
 
@@ -485,13 +485,13 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I stand far above others, an insurmountable challenge."**_
 
 -   _Destructive Recovery_ \[Rare Talent\] - \[Heavy Weapons\] Causes your enemies to regenerate significantly less posture when they parry you. (+1 Posture, +2 Carry Load)
-    -   Prerequisites: 25 Strength & 40 Heavy Weapons Mastery, Harsh Response, Use a Greatsword
+    -   Prerequisites: 25 Strength & 40 Heavy Weapon, Harsh Response, Use a Greatsword
 
 -   Harsh Response \[Common Talent\] - Enemies receive less posture back when parrying your attacks.
     -   Prerequisite: 25 Strength
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 25%.
-    -   Prerequisites: 25 Heavy Weapons Mastery, 15 Strength
+    -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
 ### Comrade
 
@@ -1191,6 +1191,9 @@ _**"I seek the qualities of Heat Column."**_
 -   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
     -   Prerequisites: 40 Ironsing, 15 Strength
 
+-   Oh The Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
+    -   Prerequisites: 60 Ironsing, 40 Charisma, Taunt
+
 -   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
     -   Prerequisites: 60 Ironsing, Power 13
 -   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
@@ -1450,8 +1453,6 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: 50 Ironsing
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
     -   Prerequisite: 50 Ironsing
--   Oh the Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
-    -   Prerequisites: Taunt, 60 Ironsing, 40 Charisma
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
     -   Prerequisite: 75 Ironsing
 
@@ -2017,7 +2018,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisites: 20 Intelligence
 
 -   _Punishing Blow_ \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon.
-    -   Prerequisite: 20 Heavy Weapons Mastery
+    -   Prerequisite: 20 Heavy Weapons
 
 -   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free.
     -   This effect is signaled by a yellow halo.
@@ -2369,7 +2370,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: \[name\] quest at the Pathfinders Respite
 
 -   Brutal Momentum \[Common Talent\] - \[Greatswords/Greathammers\] Successfully dodging will give your next swing hyperarmor. ( )
-    -   Prerequisite: 50 Heavy Weapons Mastery, Greatsword/Greathammer equipped
+    -   Prerequisite: 50 Heavy Weapon, Greatsword/Greathammer equipped
 
 -   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
@@ -2383,7 +2384,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   Grants you the ability to equip an offhand while one-handing
-    -   Prerequisite: 40 Heavy Weapons Mastery
+    -   Prerequisite: 40 Heavy Weapon
 
 -   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
@@ -2392,7 +2393,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 35 Light Weapon
 
 -   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage if hit during Heavy swing hyperarmor.
-    -   Prerequisite: 30 Heavy Weapons Mastery.
+    -   Prerequisite: 30 Heavy Weapon,
 
 ### Whisper
 
