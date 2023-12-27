@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 82026
+revid: 85009
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -38,9 +38,14 @@ Critical
  | Performs a sideflip while swinging blade. | ◯ | ✗ | (★★☆) |
 | 
 
-Old Ice Eruption
+Ice Smash
 
- | Stomps the ground, causing thick needles of ice to form around the user. | ◯ | ◯ | (★★☆) |
+ | User performs a wind-up before slamming an ice club into the ground. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Eruption
+
+ | A flurry of ice spikes. | ✗ | ✗ | (★★★) |
 | 
 
 Glacial Shower
@@ -58,6 +63,5 @@ Serena executes her opponent after knocking them:
 ## Trivia
 
 -   One of [two enemies](Authority_Captain.md) that utilizes the unobtainable "Glacial Shower" mantra.
--   One of [four](Eastern_Nomad_Leader.md) [enem](Songseeker_Frostdrawer.md)[ies](Teacher.md) that utilizes the old "Ice Eruption" mantra.
 -   She is basically an [Authority Captain](Authority_Captain.md), but has half of their HP.
 -   Her Shotel animation is glitched: she does pull it out but it is not in her hand.

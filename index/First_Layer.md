@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 84913
+revid: 85008
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -114,7 +114,7 @@ Scyphozia, being a naturally hostile location, is especially difficult to surviv
 
 ### **Talents & Equipment**
 
--   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (if you have the Vegetarian flaw, you can't roll this talent at all) but in exchange, gripping Players, NPCs **AND** monsters will replenish your HP, Hunger and Thirst meters. With many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stats you need for this card to show up are **5 Willpower** and **5 Strength**.
+-   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. The gist of this talent is, that you cannot eat plants anymore (if you have the Vegetarian flaw, you can't roll this talent at all) but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. Even though many of the food in the Depths being especially poisonous or will cause you to vomit, the steady supply of blue Jellyfish is more than enough to keep you satiated. The stats you need for this card to show up are **5 Willpower** and **5 Strength**.
 -   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being between alive, and dead imposes. Though all Talents apart of the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity, this time replenishing it upon killing monsters of the Deep. You of course, need to level **Willpower** if you want it to appear.
 -   _**Giantslayer**_ lets you deal more damage to larger foes and monsters. Good for fighting Sharkos, Lionfish and Crabs. Obtained with Willpower, tested with a pure Willpower build.
 -   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through high Willpower and obtaining all 3 **Mental Fortress** cards, will allow somebody to survive Layer One without killing an enemy for over an hour. The Mental Fortress Talents help significantly in the depths.

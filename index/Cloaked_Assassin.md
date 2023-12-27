@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 84665
+revid: 85016
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -71,7 +71,7 @@ A Cloaked Assassin executes it's opponent after knocking them:
 
 ## Tips
 
--   S-holding and constantly rolling and blocking is heavily recommended, as they WILL spam mantras.
+-   S-holding and constantly rolling and blocking is heavily recommended, as they WILL spam Mantras.
 
 ## Trivia
 

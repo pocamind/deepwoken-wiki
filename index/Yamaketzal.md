@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 82240
+revid: 85007
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -31,7 +31,7 @@ Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" f
     -   Mentions [The Duke](Duke_Ishamon_Erisia.md), who got the ability to create [Rock Golems](Rock_Golem.md) with his Resonance.
 -   _"Me? Yer lookin' at the Lord Regent of Etrea... Real scary one I am... Watch it yeh?..."_
     -   Mentions [Lord Regent](The_Lord_Regent.md), the current and mysterious leader of [Etris](Etris.md).
--   _"Me? Jus' a washed up somebody... Or someone who used to be somebody... Keh heh..."_
+-   _Jus' a washed up somebody... Or someone who used to be somebody... Keh heh..."_
     -   Might tie in with the origins of the players, being found, washed up on the shore.
 -   _"Me? Ferryman's what I am... Dredged up from the dregs of the dregs... Tormenting mortal spirits 'n' that... Ironic... Coz they were the ones tormenting me..."_
     -   Mentions [The Ferryman](The_Ferryman.md) and his possible origins.
