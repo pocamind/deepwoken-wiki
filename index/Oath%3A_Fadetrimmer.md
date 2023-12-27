@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 84672
+revid: 84971
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Fadetrimmer**
+**[Oath](Oaths.md): Barber Oath (Fadetrimmer)**
 
 _**"You vow to forever hone your precision with the scissors. There will never be another fringe incident again."**_
 
@@ -64,6 +64,7 @@ This oath is fully upgraded once you get it.
             -   Flammable ignites the opponent
             -   Charming Charms the opponent
             -   Revitalizing heals a flat 10% HP of the target
+        -   (YOU CAN CHOOSE WHICH ONE YOU WANT TO USE AT THE MOMENT)
 
 -   **Hair Spray - Passive**
     -   ?

@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 83272
+revid: 84940
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -59,4 +59,6 @@ A Lost Diver executes it's opponent after knocking them:
 -   When they are alerted to the player's position, they will say these lines before attacking:
     -   Help us.
     -   Help us. Please.
+-   When a player is about to grip them, they will say one line.
+    -   The drowned shall never know peace.
 -   They only use [Galebreathe](Galebreathe.md), fitting as they are trapped in the Layer 2, The Eternal Gale.

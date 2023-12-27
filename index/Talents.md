@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 84931
+revid: 84966
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -350,7 +350,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
     -   Amount of time you stay knocked is reduced from 10 seconds to 7 seconds. Further scales with willpower
     -   Prerequisites: 30 Fortitude, 30 Willpower
 
--   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 60%. (+5 Health)
+-   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   Scales with investment up to it's requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
     -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN
     -   Prerequisites: 90 Fortitude, **all** common Bastion talents.
