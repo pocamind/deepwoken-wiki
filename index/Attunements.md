@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 84789
+revid: 85040
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -55,9 +55,7 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 Attunements unlocked on spawn.
 
-_You may click upon any of these attunements to view their pages._Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
-
-Template:Testing
+_You may click upon any of these attunements to view their pages._Template:TestingTemplate:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
 ## Obtainable Attunements
 

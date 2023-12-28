@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 83439
+revid: 85041
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -88,4 +88,5 @@ Loyalty makes combat practice and spars with housemates difficult as the Canor w
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's race name was changed to Muttskipper.
+-   Canor are colorblind, with your whole screen sharing a similar color spectrum to what dogs see in real life
 -   Arch\_Mage has confirmed Canor to be based on both Lions and dogs.

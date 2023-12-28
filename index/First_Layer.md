@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 85008
+revid: 85043
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -85,7 +85,9 @@ _Trial Power and Power are two different things; See above as well as below tabl
 
 | _Trial_ Power | Enemy(s) |
 | --- | --- |
-| 0-9 | Nothing (you are sent up without a fight) |
+| 1-4 | Nothing (you are sent up without a fight) |
+| 5-7 | Mudskipper Knight |
+| 8-10 | Lesser Angel |
 | 10-13 | [Megalodaunt](Megalodaunt.md) |
 | 14-15 | Corrupted [Megalodaunt](Megalodaunt.md) |
 | 16+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Random chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
@@ -147,7 +149,7 @@ Just some information to keep in mind and remember.
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
     -   You can confront Akira after he kills the Ignition Union, proposing 2 dialogue options.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
-        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (100). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
+        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
 
 ### **[Oath: Visionshaper](Oath%253A_Visionshaper.md)**
 
