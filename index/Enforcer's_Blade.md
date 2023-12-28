@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 82741
+revid: 85091
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -30,8 +30,11 @@ categories: [Weapons, Greatswords]
 
 The Enforcer's Blade is a Greatsword [Heavy Weapon](Weapons.md). Equipping this requires 80 HVY and 25 STR invested into your character. The Enforcer's Blade is rarely obtained through defeating [The Enforcer](Enforcer.md), only if it wields the blade.
 
+## Critical
+
+After a short windup, the user spins the Enforcer's Blade in a circle around themselves. This critical applies hyperarmor to the user for its full duration. This critical is also shared with [oth](<Enforcer's_Axe.md>)[er](<Enforcer's_Hammer.md>) Enforcer weapons, but the Enforcer's Blade critical uniquely doesn't guardbreak instantly.
+
 ## Trivia/Notes
 
--   This item used to be significantly rarer than the Enforcer’s Axe, but after Enforcer variants were added it became much more common, equal to the Enforcer’s Axe and [Enforcer’s Hammer](<Enforcer's_Hammer.md>)
--   It has the same critical attack as the [Enforcer's Axe](<Enforcer's_Axe.md>), however, it does not guardbreak instantly.
+-   This item used to be significantly rarer than the Enforcer’s Axe, but after Enforcer variants were added it became much more common, equal to the Enforcer’s Axe and Enforcer’s Hammer
 -   This weapon is equally good as it boasts higher attack speed unlike its sisters, as well as having better weight than the axe.

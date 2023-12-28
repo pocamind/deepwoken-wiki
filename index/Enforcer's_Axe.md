@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 82740
+revid: 85093
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -28,6 +28,10 @@ categories: [Weapons, Greataxes]
 ## Description
 
 The Enforcer's Axe is a [Heavy Weapon](Weapons.md) that is obtainable by defeating an [Enforcer](Enforcer.md) in [The Depths](The_Depths.md) or in the [Trial of One](Trial_of_One.md). It has 26 base damage, a Swing Speed of 0.57x, and 5% armor penetration.
+
+## Critical
+
+After a short windup, the user spins the Enforcer's Axe in a circle around themselves. This critical applies hyperarmor to the user for its full duration. This critical also instantly guardbreaks. Moreover, this critical is also shared with [oth](<Enforcer's_Hammer.md>)[er](<Enforcer's_Blade.md>) Enforcer weapons.
 
 ## Trivia/Notes
 

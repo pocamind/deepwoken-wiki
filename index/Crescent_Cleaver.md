@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 82734
+revid: 85094
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -45,18 +45,17 @@ categories: [Weapons, Greatswords]
 
 **Non-Alloyed:**
 
-## Description
-
-The Crescent Cleaver is a mid-game Heavy Weapon, it uses a unique Critical Attack shared with the [Kyrscleave](Kyrscleave.md), which consists of a forward lunge in an attempt to impale the first target hit, then slamming them on the ground. A Pluripotent Alloy can be used on this weapon, giving the weapon a purple tint and increasing it's stats.
-
 **Alloyed:**
 
 ## Description
 
-The Alloyed Crescent Cleaver is a mid-endgame weapon obtained by applying a [Pluripotent Alloy](Pluripotent_Alloy.md) on the Crescent Cleaver, giving it a purple tint and increasing its overall stats.
+The Crescent Cleaver is a mid-game Heavy Weapon. The Crescent Cleaver is [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a purple tint.
+
+## Critical
+
+After a short windup, the user lunges forward, impaling the target and then slamming them onto the ground. All 3 hits of this critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable. This critical is shared with the [Kyrscleave](Kyrscleave.md).
 
 ## Notes & Trivia
 
--   At 100 heavy weapon, bleed alone grants an extra 12.2 damage per swing.
--   All 3 hits of the critical are parriable (even after being hit by the grab), while the first is also blockable and dodgable.
+-   At 100 HVY, bleed alone grants an extra 12.2 damage per swing.
 -   Its Critical Attack is probably a reference to Shadow Fight 3's Shadow Ability, "Vane", as both share similar animations.

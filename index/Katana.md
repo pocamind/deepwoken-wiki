@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 84593
+revid: 85102
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,9 +27,11 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Katana is a Medium Weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md) and [Primadon](Primadon,_Titan_of_the_East.md). Additionally, it drops from [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) at an uncommon chance and it can be sold by [chili](Travelling_Merchant.md) for around 90 notes.
+The Katana is a Medium Weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md) and [Primadon](Primadon,_Titan_of_the_East.md). Additionally, it drops from [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) at an uncommon chance and it can be sold by [Chili](Travelling_Merchant.md) for around 90 notes. This weapon has a base damage of 18 and requires 25 MED to equip.
 
-This weapon has a base damage of 18 and requires 25 MED to equip. Instead of the regular sword critical attack, which is a forward stab, the katana will make the user lunge forward in a sweeping motion with their katana.
+## Critical
+
+The user sheaths their katana before lunging forward and slashing horizontally. This critical is shared with the [Shattered Katana](Shattered_Katana.md).
 
 ## Trivia
 

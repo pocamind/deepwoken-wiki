@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85070
+revid: 85081
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -771,16 +771,11 @@ _**"I enjoy sea food."**_
 
 -   _Fishman_ \[Generic Talent, Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)
 
-### Flame Brawler
+  
 
-> _**"My flames wrap my fists."**_
+### Flame dancer
 
--   Flaming Uppercut \[Common Talent, Flamecharm Exclusive\] - Ignite flames on an enemy when you uppercut them. (+4 Elemental Intensity)
-    -   Prerequisite: 35 Flamecharm
-
-### Flame Dancer
-
-> _**"I dance with the flames."**_
+_**"I dance with the flames."**_
 
 -   Dancing Steps \[Common Talent, Flamecharm Exclusive\] - Fire mantras now move you in the direction you're facing. (+3 Elemental Intensity)
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8

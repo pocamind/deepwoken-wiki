@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 85066
+revid: 85098
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -12,11 +12,11 @@ categories: [Enemies, NPCs, Bosses]
 
 ― Duke Erisia
 
-_Also known as Ishamon (his first name), the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
+_Also known as Ishamon (his first name), the Stonelife Lord, Lord Erisia, and Duke Erizzia_Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Erizzia** (commonly shortened to just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erizzia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erizzia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Erisia** (commonly shortened to just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
@@ -24,7 +24,7 @@ He is a noble who resided in the City of Celtor before the Great Drowning. In ap
 
 ## Moveset
 
-Duke Erizzia's arsenal consists of his [Fists](Fists.md) and with the **Legion Kata** fighting style along with the [Galebreathe](Galebreathe.md) attunement:
+Duke Erisia's arsenal consists of his [Fists](Fists.md) and with the **Legion Kata** fighting style along with the [Galebreathe](Galebreathe.md) attunement:
 
 _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)._
 
