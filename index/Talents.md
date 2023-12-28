@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85046
+revid: 85070
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -697,7 +697,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I seek the qualities of Elementalist."**_
 
--   _Ether Overdrive_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+-   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
     -   Note: Does not require any other Elementalist talents despite being an advanced talent.
@@ -975,7 +975,7 @@ _**"I enjoy sea food."**_
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusive: Unyielding Frost
 
--   _Crystal Shrapnel_ \[Advanced Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
+-   _**Crystal Shrapnel**_ \[Advanced Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
 
 -   Prerequisites: Glass Path: Crystallization, 85 Frostdraw
 
@@ -1041,12 +1041,13 @@ _**"I seek the qualities of Heat Column."**_
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
-    -   Reduce knockdowns (like heavy weapon crit, ascension, etc) duration by 30%.
+    -   Reduce knockdowns (like heavy weapon critical, ascension, etc) duration by 30%.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage.
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
-    -   Prequisites: 20 Fortitude, 100 Willpower
+    -   Makes mobility mantras and running more effective even at low HP, making 10% the same as 90% HP.
+    -   Prerequisites: 20 Fortitude, 100 Willpower
 
 ### Hunter
 
@@ -1430,6 +1431,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Bleed damage now only deals 15% more damage.
     -   Blood loss reduction is less effective if using Curse of the No Life King.
     -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
+    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
     -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction
     -   Prerequisite: 100 Ironsing
 -   Intuitive Repairs \[Common Talent, Ironsing Exclusive\] - Your 'Iron Skin' repairs armor while it's active.
