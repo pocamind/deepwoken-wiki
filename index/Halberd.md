@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 82715
+revid: 85054
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -49,9 +49,12 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Halberd is a Greataxe used by the Central Authority. It utilizes a unique critical attack, running forwards before performing a 360° slash. The Halberd is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats while giving it a purple tint. The critical procs [Spine Cutter](Talents.md#duelist).
+The Halberd is a Greataxe type weapon used by the Central Authority. The Halberd is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats while giving it a purple tint.
+
+## Critical
+
+The user runs forward before performing a 360° slash. The Halberd's critical counts as a basic attack, meaning it also talents such as [Spine Cutter](Talents.md#duelist) and M1-based enchants.
 
 ## Trivia
 
 -   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from _Dark Souls III_.
--   The Halberd’s critical counts as a basic attack, meaning it procs talents such as Spine Cutter and M1-based enchants.

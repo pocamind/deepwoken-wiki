@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 82737
+revid: 85053
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -49,20 +49,20 @@ categories: [Weapons, Greatswords]
 
 **Base:**
 
-## Description
-
-The Darksteel Greatsword is one of the many heavy weapons you can obtain in the game. This weapon has a very low drop rate in the overworld in places near [Aratel Island](Aratel_Island.md) / [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). as well as chests from [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) and [Miner's Landing](<Miner's_Landing.md>) aswell as bounty chests and pure ore. It can also be bought from [Miner's Landing](<Miner's_Landing.md>) for 200 notes. You can find it resting by a wall near the entrance of The [Saramaed Summit](Saramaed_Summit.md). has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. It has a unique crit that has full hyperarmor for the entire duration and knockbacks instead of applying knockdown.
-
 **Alloyed:**
 
 ## Description
 
-The Darkalloy Greatsword is one of the most popular alloyed weapons, just behind the [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) for its general versatility and existence as an alloyed Greatsword. As with most popular weapons, the unique crit helps it stand out from others.
+The Darksteel Greatsword is a midgame Greatsword used by The Ignition Union. This weapon has a very low drop rate in the overworld in places near [Aratel Island](Aratel_Island.md) / [Starswept Valley](The_Starswept_Valley.md) (Hive) and [Summer Isle](Summer_Isle.md), but a much higher drop rate from chests found in [The Depths](The_Depths.md). as well as chests from [The Duke](Duke_Ishamon_Erisia.md), [Primadon](Primadon,_Titan_of_the_East.md) and [Miner's Landing](<Miner's_Landing.md>) aswell as bounty chests and pure ore. It can also be bought from [Miner's Landing](<Miner's_Landing.md>) for 200 notes. You can find it resting by a wall near the entrance of the [Saramaed Summit](Saramaed_Summit.md). has 26 base damage and requires a minimum of 10 Strength and 40 Heavy Weapon to equip. The Darksteel Greatsword is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and giving it a glazed purple texture.
+
+## Critical
+
+After a short windup, the user preforms an upward slash, knocking back those successfully hit. This upward slash applies hyperarmor to the user for the full duration of the critical.
 
 ## Trivia
 
 -   This weapon is greatly inspired by _Dark Souls_; it closely resembles the [Darksword](https://darksouls.wiki.fextralife.com/Darksword), and its critical attack is most likely inspired by that of the [Black Knight Greatsword](https://darksouls.wiki.fextralife.com/Black+Knight+Greatsword).
 -   Just like [Enforcer's Axe](<Enforcer's_Axe.md>), the Darksteel Greatsword critical attack gives a full hyperarmor in the duration of the critical attack. This means that you can use the critical attack to escape combos.
--   One of the most popular and iconic weapons, even added in the roblox game Allusions(though only the older version where the critical would have been the normal greatsword critical).
--   The Alloyed version of the Darksteel Greatsword has a glazed purple texture.
+-   One of the most popular and iconic weapons, even added in the Roblox game Allusions (though only the older version where the critical would have been the normal Greatsword critical).
 -   Often referred to as "DSGS" by the community.
+-   The Darkalloy Greatsword is one of the most popular alloyed weapons, just behind the [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) for its general versatility and existence as an alloyed Greatsword.

@@ -1,9 +1,9 @@
 ---
 title: Railblade
-revid: 84980
+revid: 85061
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greatswords, Legendary Weapons]
+categories: [Weapons, Greatswords, Legendary Weapons]
 ---
 
 # Railblade
@@ -34,6 +34,8 @@ The railblade is the only greatsword that does NOT have Hyperarmor on parry swin
 
 ## Critical
 
+The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn. The flames created by the Railblade's critical become blue if the user has Azure Flames, and black if the user has Wraith Path: Twisted Puppets.
+
 <table>
 <tbody>
 <tr>
@@ -41,20 +43,6 @@ The railblade is the only greatsword that does NOT have Hyperarmor on parry swin
 </tr>
 </tbody>
 </table>
-
-The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn.
-
-#### **Twisted puppets path Critical**
-
-File:Untitled video - Made with Clipchamp (10).gif
-
-  
-
-  
-
-  
-
-  
 
 ## Trivia
 
@@ -68,7 +56,6 @@ File:Untitled video - Made with Clipchamp (10).gif
 -   The Railblade was originally a Thundercall Elemental Legendary, hence the name Railblade, as railguns utilise electricity.[\[1\]](#cite-note-railorigin-1)
 -   This weapon can only be used one-handed.
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
--   Having "Azure Flames" talent with [Flamecharm](Flamecharm.md) makes both of your critical flame visual appear azure while also applying azure flames instead of normal ones; same goes with "Wraith Path: Twisted Puppets" talent that makes criticals apply black flames.
 -   At one point, a Railblade dropping from Chaser was as rare as a Curved Blade of Winds dropping in Layer 1, thankfully, that has been adjusted.
 
 ## References

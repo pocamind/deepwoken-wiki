@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 80657
+revid: 85062
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -19,7 +19,7 @@ categories: [Weapons, Daggers]
 | endlag | 0.05s |
 | special effect | Has a unique critical attack consisting of a single forward slash with a red trail. This critical benefits from Knife's Journey greatly. |
 | stances | 1 Handed |
-| selling price | 50 Notes |
+| selling price | 50 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

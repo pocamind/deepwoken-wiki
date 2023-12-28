@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85032
+revid: 85046
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -15,16 +15,6 @@ File:DeepwokenThumbnail.png
 ## Foreword
 
 **Here's an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
-
--   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
-    -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
--   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
-    -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
--   FIND A GROUP OF TALENTS: Input a t tree/category name to find talents pertaining to that tree/category.
-    -   _(i.e "Butterfly" to find talents that are within Butterfly)_
--   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
-    -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
-        -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
 
 ## Overview
 

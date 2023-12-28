@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 84437
+revid: 85057
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -20,22 +20,147 @@ Boons are positive and helpful effects. They usually have less of an impact than
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Gourmet | "Foods are much more nutritional." | Increase Hunger/Thirst gain from food and drinks by an unknown amount. | 1 |
-| Autodidact | "You get a free attribute to invest in every level." | Gain 3 free points every Power up, consuming an investment each use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
+| 
+Gourmet
+
+ | 
+
+_"Foods are much more nutritional."_
+
+ | 
+
+Increase Hunger/Thirst gain from food and drinks by an unknown amount.
+
+ | 
+
+1
+
+ |
+| 
+
+Autodidact
+
+ | 
+
+_"You get a free attribute to invest in every level."_
+
+ | 
+
+Gain 3 free points every Power up, consuming an investment each use. Stacks with the bonus from [Adrets](Adret.md). (Cannot be used if you have 0 investment points)
+
   
+
 Does not generate points over the total maximum, and instead, takes them away from levels in the late-game.
 
- | 1 |
-| Maverick | "Doing things alone yields greater experience." | Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC. | 1 |
-| Survivalist | "You are more resistant to environmental effects." | Grants immunity to acid rain. Parasites also accumulate on you ~33% slower. | 1 |
-| Steadfast | "Your armor retains more durability when attacked." | Reduces the amount of armor durability lost from being damaged by an unknown amount. | 1 |
-| Scrapper | "You gain an extra ace every other Whisper roll." | Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to gain an extra ace. | 1 |
-| Packmule | "You have a much higher max. carry load." | Carry load is increased by 50, item stack limits are increased by 25% (rounded), and food max quantity is slightly increased. | 1 |
-| Sly | "You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes." | Reduces amount of negative rep gained and makes it so Guards wont kill you when they get you downed. This only works if you are not an enemy.
+ | 
+
+1
+
+ |
+| 
+
+Maverick
+
+ | 
+
+_"Doing things alone yields greater experience."_
+
+ | 
+
+Increases stat EXP gain by _possibly_ 10% if no players aid you in taking down an NPC.
+
+ | 
+
+1
+
+ |
+| 
+
+Survivalist
+
+ | 
+
+_"You are more resistant to environmental effects."_
+
+ | 
+
+Grants immunity to acid rain. Parasites also accumulate on you ~33% slower.
+
+ | 
+
+1
+
+ |
+| 
+
+Steadfast
+
+ | 
+
+_"Your armor retains more durability when attacked."_
+
+ | 
+
+Reduces the amount of armor durability lost from being damaged by an unknown amount.
+
+ | 
+
+1
+
+ |
+| 
+
+Scrapper
+
+ | 
+
+_"You gain an extra ace every other Whisper roll."_
+
+ | 
+
+Every **other** (2nd, 4th, 6th, etc.) card roll, you are able to gain an extra ace.
+
+ | 
+
+1
+
+ |
+| 
+
+Packmule
+
+ | 
+
+_"You have a much higher max. carry load."_
+
+ | 
+
+Carry load is increased by 50, item stack limits are increased by 25% (rounded), and food max quantity is slightly increased.
+
+ | 
+
+1
+
+ |
+| 
+
+Sly
+
+ | 
+
+_"You sweet talk your way out of trouble, gaining less bad reputation from commiting crimes."_
+
+ | 
+
+Reduces amount of negative rep gained and makes it so Guards wont kill you when they get you downed. This only works if you are not an enemy.
 
 Unlocked from paying off your negative reputation with any faction.
 
- | 1 |
+ | 
+
+1
+
+ |
 
 **Flaws:**
 
@@ -43,18 +168,122 @@ Flaws are negative and harmful effects. They usually have more of an impact than
 
 | Name | Description | Explanation/Comments | Points |
 | --- | --- | --- | --- |
-| Vegetarian | "You can't eat the flesh of animals." | You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator), but allows you to get the [Herbivore and Iron Gut Talents](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct) at 10 FTD. | 1 |
-| Squeamish | "Having to physically take the life of another makes you lose stomach." | Lose a tiny amount of hunger (2-3%) when gripping NPCs or other players. | 1 |
-| Obvious | "Enemies detect you more easily." | Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching. | 1 |
-| Haemophilia | "You bleed more." | Blood loss from all sources is increased by an unknown amount. | 1 |
-| Deficient | "You regenerate Ether more slowly." | Reduced Ether regeneration. The reduced regeneration is a flat number, meaning this flaw is more damaging at low Tempo and less at high Tempo | 1 |
-| Blind | "You cannot see." | You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw does not provide protection from flame blind and gaze.
+| 
+Vegetarian
+
+ | 
+
+_"You can't eat the flesh of animals."_
+
+ | 
+
+You can only eat plant-based foods, and cannot obtain the [Carnivore Talent](https://deepwoken.fandom.com/wiki/Talents#Apex_Predator), but allows you to get the [Herbivore and Iron Gut Talents](https://deepwoken.fandom.com/wiki/Talents#Survival_Instinct) at 10 FTD.
+
+ | 
+
+1
+
+ |
+| 
+
+Squeamish
+
+ | 
+
+_"Having to physically take the life of another makes you lose stomach."_
+
+ | 
+
+Lose a tiny amount of hunger (2-3%) when gripping NPCs or other players.
+
+ | 
+
+1
+
+ |
+| 
+
+Obvious
+
+ | 
+
+_"Enemies detect you more easily."_
+
+ | 
+
+Stationary Enemies/Monsters can spot you from a further distance, and with less difficulty when not crouching.
+
+ | 
+
+1
+
+ |
+| 
+
+Haemophilia
+
+ | 
+
+_"You bleed more."_
+
+ | 
+
+Blood loss from all sources is increased by an unknown amount.
+
+ | 
+
+1
+
+ |
+| 
+
+Deficient
+
+ | 
+
+_"You regenerate Ether more slowly."_
+
+ | 
+
+Reduced Ether regeneration. The reduced regeneration is a flat number, meaning this flaw is more damaging at low Tempo and less at high Tempo
+
+ | 
+
+1
+
+ |
+| 
+
+Blind
+
+ | 
+
+_"You cannot see."_
+
+ | 
+
+You have a less extreme version of the [Blinded Talent](Talents.md), with things further away than a short distance being very hard to see. This flaw does not provide protection from flame blind and gaze.
+
 -   Gremor's who are blind see better than others, being blessed by Navae.
 
 Gained from obtaining the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
 
- | 1 |
-| Fugitive | "All factions hate you." | Start with low reputation toward all factions.
+ | 
+
+1
+
+ |
+| 
+
+Fugitive
+
+ | 
+
+_"All factions hate you."_
+
+ | 
+
+Start with low reputation toward all factions.
 
 -   Low enough for guards to aggro on sight
 -   Not low enough to disable blacksmith and antiquarian
@@ -68,22 +297,96 @@ Paying to restore reputation only resets up to the default, low reputation.
 
 To get this flaw added to the flaw selection screen, grip a reputable member from any factions eg. Etrean guard.
 
- | 1 |
-| Manic | "All sanity gained from attacks is heavily amplified." | All incoming insanity and insanity damage is increased greatly. | 1 |
-| Glutton | "Your hunger and thirst is depleted faster." | Hunger and thirst depletion is increased to ~150-200% | 1 |
-| Simple | "You learn things at a slower rate than others." | Sharply increase the EXP curve, making leveling slower, especially on later levels.
+ | 
+
+1
+
+ |
+| 
+
+Manic
+
+ | 
+
+_"All sanity gained from attacks is heavily amplified."_
+
+ | 
+
+All incoming insanity and insanity damage is increased greatly.
+
+ | 
+
+1
+
+ |
+| 
+
+Glutton
+
+ | 
+
+_"Your hunger and thirst is depleted faster."_
+
+ | 
+
+Hunger and thirst depletion is increased to ~150-200%
+
+ | 
+
+1
+
+ |
+| 
+
+Simple
+
+ | 
+
+_"You learn things at a slower rate than others."_
+
+ | 
+
+Sharply increase the EXP curve, making leveling slower, especially on later levels.
 
 Count as 2 flaws, cannot be taken with another flaw.
 
- | 2 |
-| Restless | "Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly." | You regenerate slightly less at campfires.
+ | 
+
+2
+
+ |
+| 
+
+Restless
+
+ | 
+
+_"Something haunts your past. A fragmented memory of a promise you made to yourself? You find it harder to Rest properly."_
+
+ | 
+
+You regenerate slightly less at campfires.
 
 Given after removing Oath: Oathless at [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
 
 (Not an Unlockable Flaw)
 
- | 0 |
-| Tarnished | "Your Resonance is harder to call forth." | Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removed.
+ | 
+
+0
+
+ |
+| 
+
+Tarnished
+
+ | 
+
+_"Your Resonance is harder to call forth."_
+
+ | 
+
+Increases Resonance Startup by 1 second, along with a varying unique debuff, depending on the Resonance. This flaw prevents you from rerolling your resonance with Yun'Shul until it's removed.
 
   
 
@@ -91,8 +394,22 @@ Gained from rerolling a bell at Yun-Shul, and can not be selected in the charact
 
 (Not an Unlockable Flaw)
 
- | 0 |
-| Vacant | "Something's missing." | You lose your soul, which prevents you from doing any actions that require a soul like:
+ | 
+
+0
+
+ |
+| 
+
+Vacant
+
+ | 
+
+_"Something's missing."_
+
+ | 
+
+You lose your soul, which prevents you from doing any actions that require a soul like:
 
 -   Entering Castle Light
 -   Partaking in The Vow of Mastery, which means removing your vows and/or your vow owner.
@@ -103,8 +420,22 @@ Additionally, has a chance of being gained from making a deal with [Yun'Shul](<Y
 
 (Not an Unlockable Flaw)
 
- | 0 |
-| Wishbound | "Isn't this what you wanted?" | Gain insanity during the night.
+ | 
+
+0
+
+ |
+| 
+
+Wishbound
+
+ | 
+
+_"Isn't this what you wanted?"_
+
+ | 
+
+Gain insanity during the night.
 
   
 
@@ -112,7 +443,11 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
 
 (Not an Unlockable Flaw)
 
- | 0 |
+ | 
+
+0
+
+ |
 
 ## Trivia
 
