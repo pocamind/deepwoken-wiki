@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 84615
+revid: 85139
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -29,7 +29,7 @@ The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a r
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Scouts, Authority Footsoldiers, Authority Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
-Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of two sources of the [Justicar](<Justicar_(Origin).md>) armor schematic. (Ferryman chests also include the [Justicar](<Justicar_(Origin).md>) schematic, albeit very rarely)
+Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](<Justicar_(Origin).md>) armor schematic.
 
 During this event, most regular NPCs from the town will not be available. If you want higher chance for the raid to happen, join a new server that has "???" as its age. Wait at least two minutes at the Etris Docks. If you see the guard talking about the Authority, the raid will happen. Otherwise, leave and repeat. Note that the event won't happen if it's Winter.
 
@@ -52,6 +52,14 @@ Similar to bandit events, with three to four enemies spawning. They wield a dagg
 **Authority Scouts**
 
 In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use Thundercall and the Peacekeepers use an unknown Flamecharm mantra, identical to the one used by Red Necroskippers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Peacekeepers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
+
+**Voidwalkers**
+
+Unlike other random events, this event involves real players who are boo-boo heads and kill people for their benifit.
+
+PiGucci, if you are reading this,
+
+# **FUCK YOU STUPID BITCH!!!!!!!!!!!**
 
 #### **Lost Villagers**
 

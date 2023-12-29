@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 84709
+revid: 85137
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -52,6 +52,8 @@ If you fail to dodge the digging attack or get launched by the tail swipe, make 
 
 **2 Greater Angels:**
 
+If you fight this NPC it is recommended that you kill them before they kill you.
+
 Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. (7 sword hits per Angel) Also keep in mind that Greater Angels will very likely spawn with Enchanted weapons, which can make this part more daunting if they use something like Deffered or Blazing.
 
 **Weakened Enforcer:**
@@ -97,10 +99,9 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
 -   If you hold an armor piece in your hand when the trial would force you to discard it, will allow you to keep it. (this might be a bug)
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
--   Literally ONE lag spike during the parrying challenge and you die.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
 -   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed.
--   After testing, beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha sharko, you simply get sent back.
+-   Beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha sharko, you simply get sent back.
 -   Deepbound freshies that somehow make it out of the depths at level one are not able to enter Trial of One
 -   If you're Attunement-less, the campfire goes down and lets you place the 10 points before starting the trial.
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
