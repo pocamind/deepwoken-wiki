@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85144
+revid: 85156
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2205,8 +2205,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek the qualities of Tyrant."**_
 
--   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
-    -   You create an AoE stun and slow around you when you start gripping someone.
+-   _**Audacity**_ \[Advanced Talen
+
+t\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
+
+-   -   You create an AoE stun and slow around you when you start gripping someone.
     -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs.
     -   Prerequisites: 100 Charisma, 50 Strength
 
@@ -2242,8 +2245,11 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I seek to embrace the instability of lightning as a source of power."**_
 
--   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their Surge stack.
-    -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
+-   Catalytic Strike \[Common Talent, Thundercall Exclusive\] - Posture breaking an enemy will Overload their S
+
+u rge stack.
+
+-   -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 -   Closed Circuit \[Common Talent, Thundercall Exclusive\] - Surge Overloads that fail to arc to other opponents will deal additional damage to the Overloaded enemy.
     -   Prerequisites: Surge Path: Unstable Capacitor, 50 Thundercall
 
