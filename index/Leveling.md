@@ -1,6 +1,6 @@
 ---
 title: Leveling
-revid: 84848
+revid: 85118
 source: https://deepwoken.fandom.com/wiki/Leveling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -26,7 +26,7 @@ If you have the Autodidact Boon, for every Power Level after Power 1, you gain a
 
 **You can spend Free Points whilst sitting near a campfire (or anything that can substitute a campfire).**
 
-It is also noted that you can get free points even without Autodictact by getting white orbs that spawn out of humanoid and monster mobs (has a certain chance to do so) or you can talk to [Shrine of Courage](Shrine_of_Courage.md). It will not affect anything else after reaching Power 20 and using up all your investment points.
+It is also noted that you can get free points even without Autodidact by getting white orbs that spawn out of humanoid and monster mobs (has a certain chance to do so) or you can talk to [Shrine of Courage](Shrine_of_Courage.md). It will not affect anything else after reaching Power 20 and using up all your investment points.
 
 ## Notes/Trivia
 

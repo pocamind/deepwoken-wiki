@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 84572
+revid: 85103
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -68,6 +68,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
 -   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (Going to the Depths through death means you don't have a soul and therefore cannot access Castle Light, unless you are a Deepbound.
+-   **\[PRO\]** Mindbreaking potions cannot affect you. **(Needs further testing)**
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions

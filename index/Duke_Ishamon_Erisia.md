@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 85098
+revid: 85106
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -12,7 +12,7 @@ categories: [Enemies, NPCs, Bosses]
 
 ― Duke Erisia
 
-_Also known as Ishamon (his first name), the Stonelife Lord, Lord Erisia, and Duke Erizzia_Template:EnemyInfobox1.0
+_Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
 
 ## Description
 
@@ -69,8 +69,6 @@ _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)
 | **Gale Stomp** | The Duke stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
-
-This move destroys campfires.
 
 **This move will insta-grip if it hits you while knocked or at low health**
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 84930
+revid: 85104
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -40,7 +40,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   Nobody in Etris is sure of where he originates, but they accept him for his formidable power, and his actions **appearing** to be in the best interests of Etris.
 -   Lord Regent is the 4th Prophet out of 9 Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
 -   When talking to the Bookworm about Etris' previous rulers we learn all of their histories were recorded in books stored within the city's official history office, though said office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' past history.
--   Many locals believe that the Lord Regent is stricken with some kind of illness because he never leaves his palace even while remaing the ruler of Etrea.
+-   Many locals believe that the Lord Regent is stricken with some kind of illness because he never leaves his palace even while remaining the ruler of Etrea.
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
     -   The Lord Regent is not a Krulian.
     -   In the [book](Books.md#operation-puppet-master-report) "_Operation 'Puppet\_Master' Report_", we learn that after shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form:_"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ and breaking this veil also caused the guard's eyes to explode.

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 83534
+revid: 85113
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -25,14 +25,16 @@ categories: [Weapons, Swords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley (Chests) |
+| obtainment | Starswept Valley (Chests), Layer 2 (Chaser, Scholar of the Burning Blood's chest) |
 | description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
 
 ## Description
 
 The Champion's sword is a mid-game Sword obtained from [Starswept Valley](The_Starswept_Valley.md) chests, [Depths](The_Depths.md) chests and the Golden Rat.
 
+Can be easily obtained from Layer 2 Floor 1, not worth farming in the Starswept Valley.
+
 ## Trivia
 
 -   The description contains a minor grammatical error. The full stop should be inside the apostrophes, rather than outside.
--   Considered to be an exceptional weapon at high elo due to being able to save around 40-50 points in medium
+-   Considered to be an exceptional weapon at high ELO due to being able to save a lot of points in medium weapon that can be spent getting other important talents.

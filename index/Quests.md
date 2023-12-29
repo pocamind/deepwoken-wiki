@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 84288
+revid: 85121
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -213,6 +213,8 @@ These quests usually give XP, Reputation and/or an item.
 **Guide**: Talk to the librarian in the Isle of Vigils library. He will ask you to pick up some books. Go to the hut under Etris, talk to the NPCs there and come back to the librarian.
 
 **Reward/s**: Hand of Whispers
+
+Note: If you have done the tutorial from the Castaway origin, you cannot do this quest.
 
 **Weapon Manual:**
 
