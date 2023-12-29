@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 84739
+revid: 85151
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attributes]
