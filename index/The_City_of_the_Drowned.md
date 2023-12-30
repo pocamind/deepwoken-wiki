@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 83418
+revid: 85246
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations]
@@ -55,3 +55,5 @@ The city is patrolled by watchers that summon pairs of [Angels](Hollow_Angel.md)
 ## Loot Table
 
 Below is a list of loot that can be found in The City of the Drowned.
+
+-   [Odd Tentacle](Odd_Tentacle.md)

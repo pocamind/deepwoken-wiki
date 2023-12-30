@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 85209
+revid: 85244
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -91,8 +91,7 @@ Metal Kick
 
 -   May be blocked or even parried off the ground.
 -   With the [Laced Traps](Talents.md) talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
--   Can be destroyed by enemies and the creator by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
--   Stops the creator Metal Ball, and Shoulder Bash.
+-   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
 -   Can be modified with Cloud and Stratus Stones
 -   Applies Metal Rods on every 2 hits.
 -   Adds 1 caltrop per level up of the mantra, up to 8.
