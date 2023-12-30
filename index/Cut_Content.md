@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 84228
+revid: 85218
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -49,7 +49,8 @@ notices:
 -   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantras' properties on the Mantra Table.
 -   **Announced Casting -** Move names were once announced in a red highlight on the screen whenever used. This is NOT to be confused with **Spell Shout** which is obtained by paying 50 notes to NPC in Isle of Vigil's library.
 -   **Flame Pillars** (1 Star Flame) - Created a pillar of flame at the cursor location, acting similarly to the Nautilodaunt stomp. Was replaced by Fire Eruption in early updates.
--   **(OLD)** Tornado (1 Star Wind) - tornado. Reworked into the current iteration on (XX/XX/XX)
+-   **(OLD)** **Tornado** (1 Star Wind) - tornado. Reworked into the current iteration on (XX/XX/XX)
+-   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge. Now it absorbs some of the damage from your burn tick damage and turns it into healing; some of the damage from Lava Serpent eruptions is also converted into healing.
 
 ## Monsters
 
@@ -79,6 +80,8 @@ notices:
     -   in 10/06/23 update, Agitating Static was merged into Discovery of Fire.
 -   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
     -   In the 08/15/23 update, Black Out was merged into Sightless Still.
+-   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
+    -   in 12/30/23 update, Blood Shadow was removed and replaced by Lord's Tithe.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the 12/20/22 update, Boom, Headshot was merged into Lethal Precision.
 -   **Boot Wallet \[Common Talent\]** **\-** You no longer lose notes from dying.

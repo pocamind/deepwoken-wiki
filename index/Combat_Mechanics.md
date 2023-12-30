@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 81679
+revid: 85219
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -305,22 +305,21 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
 <tr>
   <th>Broken</th>
   <td>Represented by torn-up clothes of the victim. Lose all defensive bonuses from the equipped <a href="Outfits.md">outfit</a>.<p>Occurs when armor durability reaches 0%.</p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Charmed</th>
   <td>Represented by hearts on the victim's head.<p><br>
-  </p>
-  <p><br>
   <b>If your adversary is charmed, you can deal extra damage and take less damage from them by obtaining talents such as <i>Charismatic Cast</i> and <i>Tough Love.</i></b></p>
   <p><i>You can Charm opponents with various Charisma talents, such as Charismatic Cast and Unnecessary Theatrics, as well as the Sing Mantra.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Enraged</th>
   <td>Represented by red glowing sparks emitting from the head of the victim.<p><br>
-  </p>
-  <p><br>
   <b>The victim cannot jump. Damage output and intake is increased for both players.</b></p>
   <p><i>The only source is from the Charisma mantra, Taunt.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Chilled</th>
@@ -329,6 +328,7 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
   <p><br>
   <b>Speed is reduced.</b></p>
   <p><i>A common source is being hit by a Frostdraw Mantra, along with being hit by the bubbles of a <a href="Crustaceous_Rex.md">Crustaceous Rex</a>.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Burning</th>
@@ -337,34 +337,38 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
   <ul>
     <li>If the applier uses a Deepfire Ring, the burn status will become stronger.</li>
   </ul><p><i>A common source is being hit by a Flamecharm Mantra, along with being hit by one of <a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser's</a> moves.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Paralysis</th>
   <td>Represented by yellow sparks engulfing the victim's body.<p><br>
-  </p>
-  <p><br>
   <b>Stuns for a slight moment, usually enough to land an extra hit.</b></p>
   <p><i>A common source is being hit by a Thundercall Mantra, along with being hit by <a href="The_Ferryman.md">The Ferryman</a>.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Electrified</th>
   <td>Confusingly, also represented by yellow sparks buzzing around the victim's body.<p><b>All outgoing attacks are converted to Electric/Thunder damage. Caster of this effect tends to pair this with thunder damage reducing equipment/talents to further nullify the victim's damage.</b></p>
   <p><i>Common source is being hit by Thundercall Mantras from users with the Thundercall talent Resolve Crusher</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Winded</th>
   <td>Represented by green particles surrouding the victim's body.<p><b>Attack speed is significantly reduced.</b></p>
   <p><i>A common source is being hit by a Galebreathe Mantra.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Suffocate</th>
   <td>Represented by crosses spinning around the victim's neck violently.<p><b>While affected, the victim will take slight damage over time and be unable to cast mantras.</b></p>
   <p><i>A common source is being hit by a Galebreathe Mantra while the Galebreather has the World Without Song talent.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Dazed</th>
   <td>Represented by stars above the victim's head.<p><b>Speed greatly reduced. Cannot run or dodge until status wears off.</b></p>
   <p><i>A common source is being flourished against a wall, being flung and having your head hit a wall, or getting hit by the critical attack of a mace.</i></p></td>
+  <td></td>
 </tr>
 <tr>
   <th>Anti-heal</th>
@@ -378,8 +382,9 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
     <li>Campfire regeneration</li>
     <li>Blood Scourge</li>
     <li>Vampirism</li>
-  </ul><p>Does not proc/work on people in the same guild as yours.<b></b></p>
+  </ul><p>Does not proc/work on people in the same guild as yours.</p>
   <p><i>The only sources is being hit by a player that has the All the Dead Gods talent or Ring of Pestilence, which gives 50% healing reduction. Although, it doesn't emit any particles on the victim hit.</i></p></td>
+  <td></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85150
+revid: 85220
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -153,7 +153,7 @@ There are two variants that enchantments come in:
 </tr>
 <tr>
   <td><figure>File:Enchant Providence Thorns.gif<figcaption></figcaption></figure><center><br>
-  <font>Providence Thorns<div></div></font></center></td>
+  <font>Providence's Thorns<div></div></font></center></td>
   <td><div><p>PVE: parrying an attack deals damage to the attacker.<br>
   PVP: parrying 2 attacks within 3 seconds deals damage to the attacker after a delay.<br>
   Deal 4% HP damage, ignores all resistances.<br>
@@ -652,7 +652,7 @@ File:Vamparism shield.png
         
         Twisted Puppets with the "Blazing" enchant.
         
--   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
+-   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
 -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
 -   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
