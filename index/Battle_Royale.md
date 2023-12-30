@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 85173
+revid: 85227
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
@@ -65,7 +65,7 @@ Please note the island is located in the [Open Sea](Open_Sea.md).
 
 ### Chests
 
--   Idk
+-   your mum
 
 ## Trivia
 

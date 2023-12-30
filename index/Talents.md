@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85216
+revid: 85239
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -488,7 +488,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged. (For enemies you drain their Ether until you are hit. If they are blocking while you are draining their ether, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
--   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed and heals you slightly.
+-   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Cosmic Wind
@@ -2524,6 +2524,7 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 -   To obtain, you must defeat any [Bosses](Bosses.md) solo without taking any damage.
 -   You will automatically gain this at Power 2 on all new slots.
+-   You will deal ~2x damage in pve with max stacks
 
 ### Thresher Scales
 

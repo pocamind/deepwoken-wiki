@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 84907
+revid: 85230
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -143,7 +143,7 @@ Completely disallows healing from **any** source while active. This effect can b
 
 ### Charmed
 
-Deal 10% less damage to the player who charmed you. If the charmer has the talent Tough Love, take 10% more damage to the player who has charmed you. Having the Mental Fortress talent Unyielding Focus makes this last much shorter. Signified by hearts appearing around the user.
+Deal 10% less damage to the player who charmed you. If the charmer has the talent Tough Love, take 10% more damage to the player who has charmed you. Having the Mental Fortress talent Disbelief makes this last much shorter. Signified by hearts appearing around the user.
 
 ### Bottom Freeze
 

@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 84747
+revid: 85240
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -35,5 +35,4 @@ It can be obtained from multiple sources, uncommonly from [Layer 2 (Eternal Gale
 -   The name 'Evanspear' is the same as a Lore guild during testing, 'The 'Evanspear Legion.'
 -   Deals Bleed Damage. The true damage dealt with no proficiency and 100 HVY is approximately 61.75 DMG.
 -   Ever since the verse 2 update, this weapon has been made quite easy to obtain from layer 2 chests. [Crimson Terrapods](Terrapod.md) are quite rare, and as such the Eternal Gale has made it much easier to obtain.
--   This weapon is very good in PvE thanks to its high damage from bleed. Since the [Layer 2](Second_Layer.md) drop, it has consistently been top tier in the PvE meta due to more ease of access.
 -   Keep in mind that while using this weapon you will not be able to experience the effects of some [talents](Talents.md) such as Speed Demon.
