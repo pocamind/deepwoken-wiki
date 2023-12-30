@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 85026
+revid: 85217
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -48,7 +48,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <th><b>Effect &amp; info</b></th>
 </tr>
 <tr>
-  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Strong Left<p>(☆☆☆)</p></td>
   <td><i>Show your foes your strength.</i></td>
   <td>35 Ether</td>
@@ -82,7 +82,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   </ul></td>
 </tr>
 <tr>
-  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Strong Leap<p>(☆☆☆)</p></td>
   <td><i>Kick off of the ground with your strength, sending you into the air.</i></td>
   <td>70 ether</td>
@@ -98,7 +98,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   </ul></td>
 </tr>
 <tr>
-  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
+  <td><figure>File:Tacet drop kict.gif<figcaption></figcaption></figure></td>
   <td>Tacet Drop Kick<p>(☆☆☆)</p></td>
   <td><i>Disguise yourself in tacet and drop kick your enemies.</i></td>
   <td></td>
@@ -123,8 +123,6 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 | **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & Info** |
 | --- | --- | --- | --- | --- |
 | 
-File:Attunement-less icon.png
-
  | Rally
 
 (☆☆☆)
@@ -140,7 +138,7 @@ File:Attunement-less icon.png
 
 (☆☆☆)
 
- | _Buff those around you with extra defense and damage._ | 100 Ether | 
+ | _Buff those around you with extra defense and damage._ | 70 Ether | 
 
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
     -   Decreases damage received by 5% for allies and yourself for the duration of the effect.
@@ -154,8 +152,6 @@ File:Attunement-less icon.png
 
  |
 | 
-
-File:Attunement-less icon.png
 
  | Brace
 
@@ -252,8 +248,6 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
 | 
-File:Attunement-less icon.png
-
  | Summon Cauldron
 
 (☆☆☆)
@@ -268,8 +262,6 @@ File:Attunement-less icon.png
 
  |
 | 
-
-File:Attunement-less icon.png
 
  | Prediction
 
@@ -292,8 +284,6 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
 | 
-File:Attunement-less icon.png
-
  | Gaze
 
 (☆☆☆)
@@ -310,8 +300,6 @@ File:Attunement-less icon.png
  |
 | 
 
-File:Attunement-less icon.png
-
  | Glare
 
 (☆☆☆)
@@ -325,8 +313,6 @@ File:Attunement-less icon.png
 
  |
 | 
-
-File:Attunement-less icon.png
 
  | Exhaustion Strike
 
@@ -348,8 +334,6 @@ Charisma mantras are mainly based on AOE support: immobilizing and debuffing ene
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
 | 
-File:Attunement-less icon.png
-
  | Taunt
 
 (☆☆☆)
@@ -364,8 +348,6 @@ File:Attunement-less icon.png
  |
 | 
 
-File:Attunement-less icon.png
-
  | Sing
 
 (☆☆☆)
@@ -378,7 +360,7 @@ File:Attunement-less icon.png
  |  |
 | 
 
-File:Attunement-less icon.png
+File:Disguising .gif
 
  | Disguise
 
@@ -404,8 +386,6 @@ File:Attunement-less icon.png
 | **Media** | **Name** | **Card Description** | **Effect & info** |
 | --- | --- | --- | --- |
 | 
-File:Attunement-less icon.png
-
  | Rapid Slashes
 
 (☆☆☆)
@@ -420,8 +400,6 @@ File:Attunement-less icon.png
  |
 | 
 
-File:Attunement-less icon.png
-
  | Ceaseless Slashes (★★★) | _Click to reveal yourself and deliver a rapid flurry of slashes that can chain together._ | 
 
 -   **Requirements: 50 Light Weapon, Combat Mantra**
@@ -431,8 +409,6 @@ File:Attunement-less icon.png
  |
 | 
 
-File:Attunement-less icon.png
-
  | Karita Leap (☆☆☆) | Launch yourself into a flying kick, backflipping into the air if you hit a wall. | 
 
 -   **Requirements: 20 Light Weapon, Combat Mantra (Requires [Jus Karita](Jus_Karita.md))**
@@ -440,8 +416,6 @@ File:Attunement-less icon.png
 
  |
 | 
-
-File:Attunement-less icon.png
 
  | Karita Divebomb
 
@@ -459,8 +433,6 @@ File:Attunement-less icon.png
 | **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
 | --- | --- | --- | --- | --- |
 | 
-File:Attunement-less icon.png
-
  | Master's Flourish
 
 (☆☆☆)
@@ -474,8 +446,6 @@ File:Attunement-less icon.png
 
  |
 | 
-
-File:Attunement-less icon.png
 
  | Prominence Draw
 
@@ -522,8 +492,6 @@ File:Attunement-less icon.png
  |
 | 
 
-File:Attunement-less icon.png
-
  | Punishment
 
 (☆☆☆)
@@ -537,8 +505,6 @@ File:Attunement-less icon.png
 
  |
 | 
-
-File:Attunement-less icon.png
 
  | Onslaught
 

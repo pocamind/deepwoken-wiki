@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 81171
+revid: 85185
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -14,8 +14,8 @@ categories: [Weapons, Greathammers]
 | requirements | 65 HVY, 30 STR |
 | damage | 25 |
 | scaling | 8 |
-| range | 9 |
-| swing speed | 0.6 |
+| range | 8 |
+| swing speed | 0.64x |
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 10% |
@@ -33,7 +33,7 @@ The Great Maul is a greathammer that can be dropped from the [Rock Golem](Rock_G
 
   
 
-## Notes & Trivia
+## Trivia
 
 -   Rare drop from [Golems](Rock_Golem.md).
 -   Not dropped by Prime Golems.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 85160
+revid: 85163
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -38,9 +38,10 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
-**There is currently 1 fully confirmed upcoming Oath in _Deepwoken_:**
+**There are currently 2 fully confirmed upcoming Oath in _Deepwoken_:**
 
--   [Saintsworn](Oath%253A_Saintsworn.md): ?
+-   [Saintsworn](Oath%253A_Saintsworn.md):?
+-   Hive Oath
 
 ## Lore Oaths
 

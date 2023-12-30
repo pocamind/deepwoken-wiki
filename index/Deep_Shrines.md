@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 84969
+revid: 85200
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -128,6 +128,8 @@ Located in Songseeker Mines, through the passage containing mudskippers.
 -   You cannot use the Shrine of Order if you already have an [Oath](Oaths.md). Using it won't lock you out of getting an Oath.
 -   Innate (racial) attribute points do not count when redistributing your points, although attribute points you assign during character creation do.
 -   Incredibly strong as most [basic attributes](Attributes.md#basic-attributes) are primarily important for unlocking [talents](Talents.md) and [mantras](Mantras.md) rather than direct stat boosts.
+-   Certain talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
+-   Elemental Unbound Talents disappear after the attribute goes below 75.
 -   You can use it to obtain a variety of strong talents and mantras first, then use the shrine to put those points toward important attributes (ex. [weapon attributes](Attributes.md#weapon-attributes)) while keeping the talents and mantras you unlocked. **UPGRADED MANTRAS WILL BE LOWERED TO THE MAXIMUM LEVEL YOU CAN OBTAIN WITH YOUR BALANCED STATS**!
 -   Alternatively, you can obtain extremely powerful advanced talents that require a lot of points (ex. [Brick Wall](Talents.md#human-architecture)) before shrine, then use the shrine to refund those points and keep the talent.
     -   This is almost guaranteed to hit the cap of 25 moved points, but allows you to take advantage of the shrine not putting points into stats you have never leveled up before.
@@ -224,7 +226,7 @@ Located in [Trial of One](Trial_of_One.md) on the opposite wall of the entrance.
 
 ## Pros/Cons
 
--   Lone Warrior Exclusive
+-   Lone Warrior Exclusve
     
 
 * * *

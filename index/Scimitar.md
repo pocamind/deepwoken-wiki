@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 83815
+revid: 85202
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -15,7 +15,7 @@ categories: [Weapons, Swords]
 | damage | 15 |
 | scaling | 3 |
 | range | 8 |
-| swing speed | 0.85x |
+| swing speed | 0.82x |
 | penetration | N/A |
 | selling price | N/A |
 | weight | 5 |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85156
+revid: 85216
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -485,7 +485,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
--   _Blood Shadow_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
+-   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged. (For enemies you drain their Ether until you are hit. If they are blocking while you are draining their ether, the drain will be cut in half.)
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed and heals you slightly.
@@ -1018,6 +1018,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 4s. (+7 Sanity)
     -   Whenever you land an M1, you disable every source of your opponent's healing for 4 seconds.
+    -   Scales with investment up to its requirement, so if you have less WLL/INT than the req it procs less antiheal the lower your WLL/INT is. The antiheal proc still prevents passive regen.
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.

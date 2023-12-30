@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 85028
+revid: 85208
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -608,7 +608,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>MED: 3</td>
   <td>5</td>
   <td>8</td>
-  <td>0.85x</td>
+  <td>0.82x</td>
   <td>19.4</td>
 </tr>
 <tr>
@@ -642,7 +642,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>N/A</td>
   <td>N/A</td>
   <td>MED: 4.5</td>
-  <td>7</td>
+  <td>6</td>
   <td>8</td>
   <td>0.75x</td>
   <td>31.7</td>
@@ -1541,8 +1541,8 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td>10%</td>
   <td>HVY: 8.3</td>
   <td>10</td>
-  <td>9</td>
-  <td>0.6x</td>
+  <td>8</td>
+  <td>0.64x</td>
   <td>0.1s</td>
   <td>45.2</td>
 </tr>

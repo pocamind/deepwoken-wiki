@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 84803
+revid: 85197
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -373,7 +373,8 @@ _A servant of flames._
 
  | Caster summons a wisp of magma.
 
--   HP Recovery is lessened while in combat. Typically heals for about 10% of your max health while out of combat, and is reduced to 3% while in combat.
+-   Flame Wisp absorbs some of the damage from your burn tick damage and turns it into healing.
+    -   Lava Serpent eruptions that hit enemies also have some of their damage converted into healing for you.
     -   Heal amount may vary from player to player.
 -   Ignites nearby campfire pits if not busy healing you.
 -   Ritual casting.

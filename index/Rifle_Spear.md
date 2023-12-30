@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 82856
+revid: 85204
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -35,6 +35,10 @@ _Not to be confused with rifles such as [Rosen's Peacemaker](<Rosen's_Peacemaker
 The Rifle Spear is a MED weapon. It can be obtained from Depths chests; Erisore chests, which can be collected by turning in pure ore to a [Blacksmith](Blacksmith.md); and [Fort Merit](Fort_Merit.md) chests, which you get by bringing Etrean hostages to the boat.
 
 The weapon itself is different from the typical Spear, as its critical is different. Instead of a double slash, it shoots an invisible blast similar to regular [guns](Flintlock.md). It has the same speed and sound effect as any other gun.
+
+## Critical
+
+The user aims down sights and shoots the spear, unleashing a blast in front. If the blast doesn't hit anyone, a bullet projectile is fired off.
 
 ## Trivia
 

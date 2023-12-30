@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 85136
+revid: 85209
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -95,7 +95,7 @@ Metal Kick
 -   Stops the creator Metal Ball, and Shoulder Bash.
 -   Can be modified with Cloud and Stratus Stones
 -   Applies Metal Rods on every 2 hits.
--   Adds 1 caltrop per lvl up of the mantra (10 at lvl 5).
+-   Adds 1 caltrop per level up of the mantra, up to 8.
 
  |
 |  | Firing Line
