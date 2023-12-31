@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 84982
+revid: 85374
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -34,11 +34,15 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 -   Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_
 -   Can be used with a gun. _**If the gun is enchanted, the enchant will be removed while used with Light's Final Toll and will return upon unequipping the Light's Final Toll.**_
 
+The color of the lantern signifies what Critical will be used next: 1 > 2 > 2 > 3 (The 2nd Crit must be landed twice)
+
+White: Default (#1) | Blue: 1st Leap (#2) | Red: 2nd Leap (#2) | Purple: Final (#3) \[Even though the lantern will appear White, landing the counter automatically sets you to Blue.\]
+
 ## Critical
 
-Light's Final Toll has 4 different Criticals. The Critical starts off with the Default punch Critical or the Legion Kata Grab depending on your current stance. After landing it, your next critical will be a jumping slam. To reach the final Critical, you must land 2 jumping Criticals. Upon using the Final Critical both players are sent upwards as the user punches the target away.
+Light's Final Toll has 4 different Criticals. The Critical starts off with the Default punch Critical or the Legion Kata Grab depending on your current stance. After landing it, your next critical will be a jumping slam. To reach the final Critical, you must land 2 jumping Criticals. Upon using the Final Critical both players are sent upwards as the user punches the target away. It also functions as a counter: If hit during the windup before the punch, incoming damage is nullified. The user then kicks the target into the air while backflipping before punching them, dealing extra damage and skipping White and going to Blue. Missing the Final Crit resets the cycle to White.
 
-**NOTE: With _[Way of Navae](Way_of_Navae.md) the_ cycle progresses even if your Critical was blocked. With _[Legion Kata](Legion_Kata.md)_ the cycle progresses only with successful critical grab (NOT posture break).**
+**NOTE: _[Way of Navae](Way_of_Navae.md)_ is probably the best style to use as the cycle progresses even if any of your Criticals was blocked, parried, or dodged. With _[Legion Kata](Legion_Kata.md)_ the cycle progresses only with successful critical.**
 
 **The Blue Eye that pops up from the Final Critical signifies that it is undodgeable.**
 
@@ -53,8 +57,7 @@ Light's Final Toll has 4 different Criticals. The Critical starts off with the D
 -   With its abnormally small base damage of 12, Akira's Ring will only provide an extra 1.44 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its effective hotbox.
 -   As of the October 20th, 2023 weekly update LFT now has a Unique 4-Hit Critical combo.
--   Starts off with the Default/Legion Kata Critical, then switches to a Jumping Critical when landed. Landing 2 Jumping Criticals will give you the Final Crit. (Goes in order of: 1 > 2 > 2 > 3)
--   The Critical Cycle progresses even if the previous Critical was blocked.
+-   Starts off with the Default/Legion Kata Critical, then switches to a Jumping Critical when landed. Landing 2 Jumping Criticals will give you the Final Crit. (Goes in order of: 1 > 2 > 2 > 3
 -   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
 -   It is one of three known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Railblade](Railblade.md).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks.

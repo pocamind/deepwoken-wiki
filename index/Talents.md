@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85359
+revid: 85371
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2287,12 +2287,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ### Visionshaper
 
--   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear leaving behind an illusion clone to keep your opponent occupied.
+-   Cheap Trick \[Common Talent, Visionshaper Exclusive\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
 -   Mirage From the Deep \[Common Talent, Visionshaper Exclusive\] - Pressing X while in your Illusionary Realm will consume 10% of your current health, and cause you to leave early, leaving behind an illusion of a predator from the deep.
     -   Upon pressing X, you will leave Illusionary Realm early, leaving behind one of 3 creatures: [King Thresher](https://deepwoken.fandom.com/wiki/Thresher?so=search#King_Thresher), [Deep Owl](Deep_Owl.md) or [Nautilodaunt](Nautilodaunt.md)
-
--   _Vanishing Closure_ \[Rare talent, Visionshaper Exclusive\] - Briefly disappear after knocking an enemy.
-    -   Become invisible for 5 seconds whenever you knock an enemy.
 
 ### Vocalist
 

@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 84744
+revid: 85366
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -86,6 +86,11 @@ categories: [World]
   <td>Acid Pools</td>
   <td>Erisia</td>
   <td>Slow loss of HP, not negated with Survivalist <a href="Boons_and_Flaws.md">Boon</a>. Additionally, puts you in Danger.</td>
+</tr>
+<tr>
+  <td>Lava</td>
+  <td>Miner's Landing</td>
+  <td>Slow loss of HP, puts you in Danger.</td>
 </tr>
 </tbody>
 </table>
