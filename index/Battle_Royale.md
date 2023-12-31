@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 85227
+revid: 85261
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
@@ -27,13 +27,9 @@ Far to the west. warriors are forged in the heat of battle.
   
 This island serves as the map for Battle Royale.
 
-## Locations
+## Why?
 
-Template:Areainfobox
-
-### **[King's Colosseum](<King's_Colosseum.md>)**
-
-The center point of the map, ~this is the location the zone encloses.~ The zone actually closes in on random spaces, although the area is the center of the island and map.
+Template:Areainfobox The center point of the map, ~this is the location the zone encloses.~ The zone actually closes in on random spaces, although the area is the center of the island and map.
 
 -   **Little to no loot, High risk, one healing shrine in center**
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85243
+revid: 85264
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2090,6 +2090,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Cap Artist requires 25 Agility despite the 10 Agility requirement of this Talent.
     -   ~If the player you are mugging doesn't have any notes, you will stop taking unequipped equipment.~(TESTED) you still take equipment.
     -   Does not take enchanted items
+    -   Using this on Arch\_Mage will permaban you from both the game and the Discord server.
 
 ### Thunder Brawler
 

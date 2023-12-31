@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 84626
+revid: 85255
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -4349,6 +4349,7 @@ Gives every weapon 1.2 strength scaling when equipped.
 
 Found from:
 
+-   [Ferryman](The_Ferryman.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Deep Widow](Deep_Widow.md)
@@ -4514,6 +4515,7 @@ Found from:
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
  |
 |  | 
@@ -4583,6 +4585,7 @@ Gives every weapon 1.2 agility scaling when equipped.
 
 Found from:
 
+-   [Ferryman](The_Ferryman.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -4606,6 +4609,7 @@ Conceal your age, appearing as if you were younger than 40.
 
 Found from:
 
+-   [Ferryman](The_Ferryman.md)
 -   [Aelita](Aelita.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [First Layer](First_Layer.md)
@@ -4671,6 +4675,7 @@ Gives every weapon 1.2 charisma scaling when equipped.
 
 Found from:
 
+-   [Ferryman](The_Ferryman.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)
@@ -4796,6 +4801,7 @@ Gives every weapon 1.2 intelligence scaling when equipped.
 
 Found from:
 
+-   [Ferryman](The_Ferryman.md)
 -   [Summer Isle](Summer_Isle.md) (**Extremely Rare**)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) (**Very Rare**)
 -   [Second Layer](Second_Layer.md)
@@ -4838,6 +4844,7 @@ Conceal your youth, appearing as if you were older than 40.
 Found from:
 
 -   [Primadon](Primadon,_Titan_of_the_East.md)
+-   [Ferryman](The_Ferryman.md)
 -   [First Layer](First_Layer.md)
 -   [Second Layer](Second_Layer.md)
 -   [Ancient Rotlands](Ancient_Rotlands.md)

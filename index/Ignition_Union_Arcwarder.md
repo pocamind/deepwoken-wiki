@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 83268
+revid: 85291
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -42,7 +42,7 @@ An Arcwarder's arsenal consists of a [Railblade](Railblade.md), along with the [
 ## Trivia
 
 -   Their Arc Suit eventually deactivates, which reveals them wearing the [Igniton Union Uniform](Ignition_Union_Uniform.md).
--   For some really bizarre reason, they can wield **enchanted** [Railblades](Railblade.md). There is something very wrong with that.[\[1\]](#cite-note-1)
+-   For some really bizarre reason, they can wield **enchanted** [Railblades](Railblade.md) which isn't possible for players. There is something very wrong with that.[\[1\]](#cite-note-1)
 
 ## References
 

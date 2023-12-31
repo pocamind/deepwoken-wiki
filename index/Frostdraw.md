@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 84810
+revid: 85267
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -93,6 +93,7 @@ _An icy chokehold._
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
 -   Deals moderate damage.
 -   If damage is enough to reduce opponent's health to 0, Instantly kills upon posture break.
+-   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground.
 
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | 

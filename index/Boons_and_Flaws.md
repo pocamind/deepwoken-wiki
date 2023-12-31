@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 85057
+revid: 85294
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -101,7 +101,7 @@ _"Your armor retains more durability when attacked."_
 
  | 
 
-Reduces the amount of armor durability lost from being damaged by an unknown amount.
+Reduces the amount of armor durability lost from being damaged by 25%.
 
  | 
 
