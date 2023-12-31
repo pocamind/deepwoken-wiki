@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85363
+revid: 85365
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -19,6 +19,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
 -   Using an [Enchant Stone](Enchant_Stone.md).
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
+-   Fighting the Resonant Dawn event. (Only drops the astral enchant stone)
 
 ## Mechanics
 
