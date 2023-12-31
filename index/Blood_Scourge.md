@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 81390
+revid: 85315
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -19,7 +19,7 @@ categories: [Resonances]
 
 ## Description
 
-**Blood Scourge**, also referred to as **Reaper,** is a [Resonance](Resonance.md) or "bell" that players can obtain, and is uncommon to roll.
+**Blood Scourge**, also referred to as **Reaper,** is a [Resonance](Resonance.md) or "bell" that players can obtain and is uncommon to roll.
 
 ### _Appearance_
 
@@ -29,7 +29,7 @@ When used, a red circle appears around the user or projectile. Any knocked entit
 
 Pressing C will activate the **Blood Scourge** Resonance. **This combat tags the user.**
 
-**Blood Scourge** will near instantly execute any knocked entity within it's range (even allies) and will recover some of the player's HP depending on the level and health of the target, occurs within a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation or the target was picked up and moved out of the circle.
+**Blood Scourge** will near instantly execute any knocked entity within it's range (even allies) and will recover some of the player's HP depending on the level and health of the target, occurs within a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation, or the target was picked up and moved out of the circle.
 
 If Blood Scourge is corrupted, it can be charged by holding C, which prevent the user from moving but send all executed targets to The Depths if they are at least Power 12. This roughly takes three seconds to charge. Can be negated if the user is hit while charging.
 
@@ -39,7 +39,7 @@ When obtained, Blood Scourge will spend its points on the following stats:
 
 -   **Thrown:** If this stat is used, the player will launch a projectile ahead that then summon the AOE to grip entities. (The thrown version cannot be canceled)
 -   **Range:** The more points are spent on this stat, the further the range of the AOE becomes at the expense of a slower grip duration.
--   **Healing:** The more points are spent on this stat, the more health is given per grips.
+-   **Healing:** The more points are spent on this stat; the more health is given per grips.
 
 ## Trivia/Notes
 

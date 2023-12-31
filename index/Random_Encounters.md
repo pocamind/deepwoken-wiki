@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 85139
+revid: 85311
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -52,14 +52,6 @@ Similar to bandit events, with three to four enemies spawning. They wield a dagg
 **Authority Scouts**
 
 In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use Thundercall and the Peacekeepers use an unknown Flamecharm mantra, identical to the one used by Red Necroskippers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Peacekeepers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
-
-**Voidwalkers**
-
-Unlike other random events, this event involves real players who are boo-boo heads and kill people for their benifit.
-
-PiGucci, if you are reading this,
-
-# **FUCK YOU STUPID BITCH!!!!!!!!!!!**
 
 #### **Lost Villagers**
 

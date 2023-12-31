@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 82273
+revid: 85322
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

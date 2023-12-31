@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 81669
+revid: 85303
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -26,8 +26,8 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 
 ### Methods
 
--   Killing a boss for the first time (per character), if you contribute enough damage
--   Getting an alloyed weapon from a chest (rare drop)
+-   Killing a boss for the first time (per character), if you contribute enough damage.
+-   Getting an alloyed weapon from a chest (rare drop).
 
 ### Bosses that drop Pluripotent Alloys
 
@@ -40,7 +40,7 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 
 ## How to Use
 
-To use a Pluripotent Alloy, you must be at least power level 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.
+To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip an applicable weapon while being at the Weapon Attribute requirement, then use the alloy. The weapon will then transform into its "Alloyed" variant, signified by a white particle whirling around the weapon during the animation. This increases the weapon's requirement to 75. The alloy cannot be used on inapplicable weapons, and nothing will happen if you try to.
 
 ## Alloyable Weapons
 
@@ -52,6 +52,7 @@ To use a Pluripotent Alloy, you must be at least power level 10 and equip an app
 ### Medium Weapons
 
 -   [Messer](Messer.md)
+-   [Katana](Katana.md)
 -   [Falchion](Falchion.md)
 -   [Shotel](Shotel.md)
 -   [Vigil Longsword](Vigil_Longsword.md)
@@ -71,4 +72,4 @@ To use a Pluripotent Alloy, you must be at least power level 10 and equip an app
 
 -   Alloyed weapons will retain the enchant and the quality (stars + buffs) of the original weapon.
 -   The alloy itself cannot be dropped or lost on death, but the weapons can.
--   You do not lose the alloy when doing the Ironsing quest
+-   You do not lose the alloy when doing the Ironsing quest.

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 85241
+revid: 85296
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -40,7 +40,7 @@ W Rank being obtained
 | --- | --- |
 | W | 140 (441 w/ all Echoes Modifiers) |
 | S | 140 |
-| A | 115-139 |
+| A | 110-139 |
 | B | 90-114 |
 | C | 60-89 |
 | D | 30-59 |

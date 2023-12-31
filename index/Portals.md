@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 82886
+revid: 85320
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -53,6 +53,6 @@ When obtained, Portals will spend its points on the following stats:
 -   If you take damage/get assassinated during portals it forces you out of the portal.
 -   This Resonance can be used to exit the boundaries of [Guild Bases](Guild_Bases.md).[\[1\]](#cite-note-1)
 
-## References
+## Navigation
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=\_bq6CeNMLzE](https://www.youtube.com/watch?v=_bq6CeNMLzE)
