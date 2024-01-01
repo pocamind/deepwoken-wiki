@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 85355
+revid: 85413
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -302,6 +302,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Deals _possibly moderate-heavy_ damage.
+-   Gives hyperarmor when casting
 -   Requires 20 Strength.
 
  |  |
