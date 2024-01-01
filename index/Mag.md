@@ -1,6 +1,6 @@
 ---
 title: Mag
-revid: 84489
+revid: 85444
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,9 +15,9 @@ categories: [NPCs]
 
 ## Description
 
-Mag is an
+Mag is an NPC, under the employ of the [Summer Company](The_Summer_Company.md) who is found in the bowels of [Summer Isle](Summer_Isle.md).
 
-His main use is to
+His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two hundred Bullets into specialized Bullets using Ores for a price of up to, giving them different properties and playstyles.
 
 ## Trivia
 

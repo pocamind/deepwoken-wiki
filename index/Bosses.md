@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 84264
+revid: 85424
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -19,6 +19,7 @@ _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For 
 -   Unique Summoning System or Guaranteed Spawns
 -   Unique Drops
 -   End Game Drops
+-   [Grants Echoes](Echoes.md)
 -   [Resonance Progress](Resonance.md)
 -   [Knowledge](Knowledge.md)
 -   [Pluripotent Alloy](Pluripotent_Alloy.md)

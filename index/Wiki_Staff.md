@@ -1,6 +1,6 @@
 ---
 title: Wiki Staff
-revid: 83742
+revid: 85429
 source: https://deepwoken.fandom.com/wiki/Wiki_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Staff, Community]
@@ -68,3 +68,7 @@ Staff
 </tr>
 </tbody>
 </table>
+
+  
+
+Originators (Retired)

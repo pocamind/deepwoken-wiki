@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 85244
+revid: 85426
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -58,7 +58,7 @@ The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on 
  | A barrage of metal rods. | 20 Ether | The user jumps in the air and fires 3 projectiles towards where their cursor was BEFORE jumping.
 
 -   Modifiable with a Blast Spark to increase amount of needles fired but removing the jump. This variant keeps momentum.
--   Applies Metal Rods on hit.
+-   Applies Bloch Rods on hit.
 
  |
 |  | 

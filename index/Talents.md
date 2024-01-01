@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85407
+revid: 85442
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -16,9 +16,19 @@ File:DeepwokenThumbnail.png
 
 **Here's an elaboration on how to use \[_CTRL + F\] or \[F3\]_ for this page.**
 
+-   FIND A SPECIFIC TALENT: Input the talent name to find the specific talent and its requirements.
+    -   _(i.e "OrbitaI lce" to find the description, requirements, and effect for OrbitaI lce)_
+-   FIND TALENTS GIVEN A REQUIREMENT: Input an investment number along with its attribute to find talents that require that many points in that attribute.
+    -   _(i.e "40 AgiIity" to find talents that you will have access to at 40 AgiIity)_
+-   FIND A GROUP OF TALENTS: Input a t tree/category name to find talents pertaining to that tree/category.
+    -   _(i.e "Butterfly" to find talents that are within Butterfly)_
+-   FIND A MYSTIC PHRASE FOR A TALENT: Below each talent tree/category name will be the respective [Mystic](Mystic.md) quote.
+    -   _(i.e "I prefer to attack unseen." for the Assassin talent tree)_
+        -   If the phrase is absent, _either the page has yet to be updated_ or _achieving a selection from the specific talent tree with Mystic isn't possible, and will be left entirely up to luck, assuming you have the requirement(s) for the talent(s)._
+
 ## Overview
 
-There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as ThundercaIIer, FIamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
+There are certain Talents that you receive automatically upon meeting their requirement. These freebies won't take up a slot in your Talents, and will instead make room for themselves to fit into your deck. Cards such as Thundercaller, FIamecharmer, The Sound from Below, and Thresher Scales are but a few examples of this phenomenon.
 
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
