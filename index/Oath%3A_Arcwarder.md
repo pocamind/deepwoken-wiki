@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 84801
+revid: 85410
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -70,7 +70,7 @@ Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser
     -   Unlocks at the same time as Guard.
 
 -   **Arc Beam - Combat Mantra**
-    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage. Can be used in the air to shoot under yourself \[you can use arc beam in the air to insta-grip player if they're low health and aren't knocked\]
+    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage, it does a base damage of 20 and we have no knowledge of the actual scaling. Can be used in the air to shoot under yourself \[you can use arc beam in the air to insta-grip player if they're low health and aren't knocked\]
 
 -   **Arc Module: Leap - Passive**
     -   Allows you to double jump.

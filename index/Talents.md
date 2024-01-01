@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85371
+revid: 85407
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2005,7 +2005,7 @@ These Talents are designed to let you survive longer against starvation and thir
 -   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
     -   Prerequisites: 20 Intelligence
 
--   _Punishing Blow_ \[Rare Talent\] - Daze swinging opponents when hitting them with an M1 with a heavy weapon.
+-   _Punishing Blow_ \[Rare Talent\] - You now daze swinging opponents when hitting them with an M1 with a heavy weapon.
     -   Prerequisite: 20 Heavy Weapons
 
 -   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free.

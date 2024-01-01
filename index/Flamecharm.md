@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 85197
+revid: 85411
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -102,6 +102,7 @@ _A legion of flames._
 -   The Flamecharm counterpart to [Frostdraw's](Frostdraw.md) [Frozen Servants](Frostdraw.md#combat-mantras).
 -   Can be modified with [Cloudstones](Mantra_Modifiers.md) to add more warriors.
 -   Can be modified with a reversal spark to have the warriors attack outwards and rag doll.
+-   Deals exactly 20 posture damage
 
  |
 |  | 
