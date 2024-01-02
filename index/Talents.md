@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85442
+revid: 85497
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2304,7 +2304,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 ### Vocalist
 
 -   _Encore_ \[Rare Talent, Charisma Exclusive\] - Your sing will stun opponents who are already charmed.
-    -   On proc, apply 2s of "full stun".
+    -   On proc, apply 0.4s of "full stun".
     -   Doesn't affect allies.
     -   Prerequisite: 40 Charisma, Sing (Charisma Mantra)
 -   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.

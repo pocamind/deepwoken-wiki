@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 84797
+revid: 85491
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -88,6 +88,7 @@ Roar
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
 
 -   Blocking negates much of but not all the insanity gain.
+-   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
  | ✗ | ◯ | ◯ | (★★☆) |
 
@@ -165,6 +166,7 @@ Roar
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous unless you have Manic as it can cause a player to succumb to insanity during combat.
 
 -   Blocking negates much of but not all the insanity gain.
+-   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
@@ -242,6 +244,7 @@ Roar
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
+-   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
  | ✗ | ◯ | ◯ | (★★☆) |
 | 
@@ -348,6 +351,7 @@ Roar
  | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
 
 -   Blocking negates much of but not all the insanity gain.
+-   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
  | ✗ | ◯ | ◯ | (★★☆) |
 

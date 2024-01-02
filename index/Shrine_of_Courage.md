@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 84919
+revid: 85498
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]

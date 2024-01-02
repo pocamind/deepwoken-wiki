@@ -1,6 +1,6 @@
 ---
 title: "Metallica x Deepwoken '72 Seasons' Listening Party"
-revid: 76082
+revid: 85489
 source: https://deepwoken.fandom.com/wiki/Metallica_x_Deepwoken_'72_Seasons'_Listening_Party
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -43,7 +43,7 @@ The "Metalhead" badge
 
 ## Miscellaneous
 
--   Hosted from Fri, Apr 14, 3:00 AM - Sun, Apr 16, 2:59 AM.
+-   Hosted from Fri, Apr 14, 2023 - Sun, Apr 16, 2023
 -   Participants will unlock the "Headbang" emote/gesture, along with a badge named ["Metalhead"](https://www.roblox.com/badges/2143962474/Metalhead).
 -   Confirmed by Arch\_Mage to be an official collaboration.
 -   The event page is [here.](https://www.roblox.com/events/856435249379311646)
