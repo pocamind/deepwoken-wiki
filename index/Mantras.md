@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 85501
+revid: 85516
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -18,41 +18,41 @@ Mantras are obtained by receiving a [Whisper](Whisper_Draw.md) upon powering up,
 
 Mantras are divided into various categories based on their general application. By default, you can have up to **six** Mantras equipped:
 
--   Combat Mantras (3) - Mantras used for combat. These will be the mantras you will mainly be using to deal damage to your opponent.
+-   Combat Mantras (3) - Mantras used for combat. These will be the Mantras you will mainly be using to deal damage to your opponent.
 -   Support Mantras (1) - Mantras used for utility. Can range from healing, displacement, and all sorts of other things.
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 
-It is possible to have more mantras than mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or mantra tables. Additional mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra.
+It is possible to have more Mantras than Mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or Mantra tables. Additional Mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting [Neuroplasticity](Talents.md) for 35 intelligence/35 willpower/35 charisma to obtain 1 Wildcard Mantra.
 
 ## Combat Usage
 
-Mantras are a key aspect of combat, and it is incredibly important to master the usage of mantras while fighting to get the edge over your opponent. You can't get very far with just a weapon and skill alone; mantras can turn the tide of a battle easily and is what makes Deepwoken's combat very deep and engaging, with various mechanics to accompany them.
+Mantras are a key aspect of combat, and it is incredibly important to master the usage of Mantras while fighting to get the edge over your opponent. You can't get very far with just a weapon and skill alone; Mantras can turn the tide of a battle easily and is what makes Deepwoken's combat very deep and engaging, with various mechanics to accompany them.
 
 ### Perfect Casting
 
-Perfect Casting a mantra removes the wind-up from it and will instantly cast it. To perfect cast a mantra, you simply need to click as soon as you select the mantra that you used. There are also various talents that require you to perfect cast in order to make use of them, like Eureka, Jolt Cast, Haunted Gale etc. It will do you well to master this mechanic.
+Perfect Casting a Mantra removes the wind-up from it and will instantly cast it. To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are also various talents that require you to perfect cast in order to make use of them, like Eureka, Jolt Cast, Haunted Gale etc. It will do you well to master this mechanic.
 
 ### Mantra Cancelling
 
-Mantra Cancelling is exactly what it sounds. You cancel a mantra, which essentially feints the mantra you used. Cancelling a mantra will not put it in cooldown but will still take the Ether required to cast it. To cancel a mantra, you need to click M2 as soon as you cast it. Some mantras require you to perfect cast it before you are able to mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed mantra cancel can lead to some crazy mix-ups. Some talents even grant the user certain advantages when cancelling mantras, such as Galebreathe users being able to Inhale their mantras for buffs.
+Mantra Cancelling is exactly what it sounds. You cancel a Mantra, which essentially feints the Mantra you used. Cancelling a Mantra will not put it in cooldown but will still take the Ether required to cast it. To cancel a Mantra, you need to click M2 as soon as you cast it. Some Mantras require you to perfect cast it before you are able to Mantra cancel, so you will need to click M1 + M2 in quick succession. Mantra Cancelling is extremely effective for Mantras that have a loud SFX, or an obvious start-up, like Gale Lunge or Fire Blade. Most people will fall for it if they are not prepared. A well-placed Mantra cancel can lead to some crazy mix-ups. Some talents even grant the user certain advantages when cancelling Mantras, such as Galebreathe users being able to Inhale their Mantras for buffs.
 
 ### Ranged Mantra
 
 Ranged Mantra Resistance; Standing from the center of the green circle, their is no scaling while red is where ranged resistance scaling starts and ends, past that, full resistance is applied.
 
-Ranged mantras are any mantra that can deal damage from 30 studs away, these mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like [Scion](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Mobs such as the [bandit leader](Bandit_Leader.md), can roll and block ranged attacks, this does not apply to mobs like the Megalodaunts that cannot block and cannot roll.
+Ranged Mantras are any Mantra that can deal damage from 30 studs away, these Mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like [Scion](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Mobs such as the [bandit leader](Bandit_Leader.md), can roll and block ranged attacks, this does not apply to mobs like the Megalodaunts that cannot block and cannot roll.
 
 ## Types of Mantras
 
-A player's mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding mantra. Similarly, to weapons and armor, mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
+A player's Mantras are tied to their character's stats - the higher a given stat, the more likely you are to obtain a corresponding Mantra. Similarly, to weapons and armor, Mantras can also have 1-3 stars which correlate with their rarity and strength. Mantras with higher stars have higher stat requirements.
 
 ### [Flamecharm Mantras](Flamecharm.md)
 
 Large and threatening fire-based spells. Excels in crowd control and area denial as many spells have large range.
 
 -   Very good at close range
--   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any mantra for the removal of burn.
+-   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any Mantra for the removal of burn.
 -   Can be further upgraded with Azure Flame for even more damage.
 -   Decent mid-range presence
 -   Good pressure
@@ -66,8 +66,8 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 -   Typically used mid/long range.
 -   Surge path can be obtained at 40 thundercall. Adding stacks of surge to an enemy which deal somewhat heavy damage with the removal of its stun.
 -   Great pressure.
--   A lot of fight control and escape mantras.
--   Most thundercall mantras work with blast spark.
+-   A lot of fight control and escape Mantras.
+-   Most thundercall Mantras work with blast spark.
 -   Highest Base Damage, Lowest Scaling.
 
 ### [Frostdraw Mantras](Frostdraw.md)
@@ -77,7 +77,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
 -   Crystallization can be unlocked at 40 frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
 -   Typically used close/mid-range.
--   Has a very good mobility mantra "Ice Skate"
+-   Has a very good mobility Mantra "Ice Skate"
 -   Works with most Spike Modifiers.
 -   Has small cooldowns.
 
@@ -90,7 +90,7 @@ Wind utilizes the best all-rounder kit amongst the elements for movement, defens
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.
--   Applies suffocate, negating mantras of the opponent. Happens when using wind gun, gale trap or using world without song.
+-   Applies suffocate, negating Mantras of the opponent. Happens when using wind gun, gale trap or using world without song.
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
@@ -104,9 +104,9 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 
 ### [Ironsing Mantras](Ironsing.md)
 
-Ironsing provides the widest ranged mantras in the game and the best damage output based on your opponent's mistakes and missteps.
+Ironsing provides the widest ranged Mantras in the game and the best damage output based on your opponent's mistakes and missteps.
 
--   Offers mantras that favor the user, benefits both short and long distance.
+-   Offers Mantras that favor the user, benefits both short and long distance.
 -   Scrapsinger can be obtained at 40 ironsing. Instead of metal rods pulling enemies towards you when pressing the x key, instead it increases the amount of armor damage opponents take.
 -   Tunes in well with the metal enchantment, as the metal path gives you benefits depending on how much armor your opponent has.
 -   Applies metal rods, which can be used in different ways by the user who applied it, enabling different strategies and forms of combat.
@@ -115,13 +115,13 @@ Ironsing provides the widest ranged mantras in the game and the best damage outp
 
 There are Mantras that are based off of Core Attributes, rather than your Attunement. This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
 
-A mantra's type generally corresponds to its respective stat. Weapon mantras and Strength mantras tend to have more offensive capabilities, while Charisma and Fortitude are more defensive and supportive. Intelligence, Agility, and Willpower mantras are more or less split between the two roles.
+A Mantra's type generally corresponds to its respective stat. Weapon Mantras and Strength Mantras tend to have more offensive capabilities, while Charisma and Fortitude are more defensive and supportive. Intelligence, Agility, and Willpower Mantras are more or less split between the two roles.
 
 ### [Monster Mantras](Monster_Mantras.md)
 
-Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the mantra and what is the mantra is based off of.
+Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the Mantra and what is the Mantra is based off of.
 
-**MONSTER MANTRAS CANNOT BE TRADED AT SHRINE OF TEMPTATION**
+**MONSTER MantraS CANNOT BE TRADED AT SHRINE OF TEMPTATION**
 
 -   Megalodaunt -> Megalodaunt Coral -> Coral Spear (Thousand Needles)
 -   Dread Serpent -> Dread Serpent's Tooth -> Dread Breath (Dread's Ice Beam)
@@ -132,7 +132,7 @@ Mantras you get by turning in monster parts to a NPC in Castle Light. To get the
 -   Nautilodaunt -> Nautilodaunt Beak -> Abyssal Ridge (Grand Stomp)
 -   Terrapod -> Terrapod Shell -> Whirling Blade (Original Mantra)
 
-All mantras gained from this are 2 stars and some have special effects, as Dread Breath procs Chill, and will proc Crystals if you have the respective Frostdraw path. This also goes for Mecha Gatling, as it procs Fire and will proc Lava Serpent eruptions as a result if you have the respective path.
+All Mantras gained from this are 2 stars and some have special effects, as Dread Breath procs Chill, and will proc Crystals if you have the respective Frostdraw path. This also goes for Mecha Gatling, as it procs Fire and will proc Lava Serpent eruptions as a result if you have the respective path.
 
 ### [Oath Mantras](Oaths.md)
 
@@ -152,20 +152,20 @@ Add more if you find them.
 
 _Main Article - [Mantra Modifiers](Mantra_Modifiers.md)_
 
-To modify a mantra, the mantra must be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere which can be placed on a mantra table, located within populated islands.
+To modify a Mantra, the Mantra must be recalled at a campfire into the player's inventory. Once recalled they will take the form of a glowing sphere which can be placed on a Mantra table, located within populated islands.
 
--   Once a mantra is placed on the table, the player can also place modifiers such as gems and sparks.
--   The user can also modify their mantras with Deep Gems. These do not need to be used at a mantra table but can be directly applied to the mantra at a campfire.
--   Modifications will fail when you have placed incompatible ingredients on the table. The mantra placed will return to your inventory, however the ingredient(s) will be lost.
--   Most mantra modifiers increase the ether cost of a mantra. It is possible for a mantra to consume most or all of a player's ether upon one use.
--   You can also change the name of a mantra by putting it on a mantra table and saying the name you want it to be.
--   You can identify what modifiers you have on your mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual mantra.
+-   Once a Mantra is placed on the table, the player can also place modifiers such as gems and sparks.
+-   The user can also modify their Mantras with Deep Gems. These do not need to be used at a Mantra table but can be directly applied to the Mantra at a campfire.
+-   Modifications will fail when you have placed incompatible ingredients on the table. The Mantra placed will return to your inventory, however the ingredient(s) will be lost.
+-   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most or all of a player's ether upon one use.
+-   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
+-   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
 
 ## Upgrading Mantras
 
 _Main Article - [Spelltrainers](Attunement_Trainers.md)_
 
-All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your mantra(s).
+All Mantras can be upgraded from their respective element and trainer as long as you have the points allocated into them. Each 20 points allocated in your element/attribute will allow you to upgrade your Mantra(s).
 
 There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 
@@ -174,13 +174,13 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 -   Level 3: Expert (40+) \[Upgrade Cost: 200 Notes\]
 -   Level 4: Master (60+) \[Upgrade Cost: 300 Notes\]
 -   Level 5: Legendary (80+) \[Upgrade Cost: 400 Notes\]
--   Total cost to get one mantra from level 1 to level 5: 1,000 Notes
+-   Total cost to get one Mantra from level 1 to level 5: 1,000 Notes
 
-Each mantra level gives a approximately 20% boost to damage and effects from modifiers, and certain mantras have different effects at level 5, such as Thunder Kick becoming an Instant Guardbreak.
+Each Mantra level gives a approximately 20% boost to damage and effects from modifiers, and certain Mantras have different effects at level 5, such as Thunder Kick becoming an Instant Guardbreak.
 
 ## Elemental Intensity
 
-Elemental Intensity is the ability to affect the environment around you. If a mantra has a high enough intensity, it is able to break certain objects. For example, a more intense Flamecharm mantra will be able to melt metal.
+Elemental Intensity is the ability to affect the environment around you. If a Mantra has a high enough intensity, it is able to break certain objects. For example, a more intense Flamecharm Mantra will be able to melt metal.
 
 ### Obtaining more Elemental Intensity
 
@@ -188,10 +188,10 @@ Getting Talent Cards from your Attunement is a great way to obtain more intensit
 
 #### Vibrant Gems
 
-Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for those specific mantras.
+Modifying your Mantras with Vibrant Gems will grant more Elemental Intensity for those specific Mantras.
 
 ## Trivia
 
 -   Mantras _can_ be leveled beyond the normal limit of 5, but only via developer interaction.
 -   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Song keeper Temple](Songseeker_Temple.md).
--   Elemental Intensity once affected the damage of certain mantras, but no longer does.
+-   Elemental Intensity once affected the damage of certain Mantras, but no longer does.
