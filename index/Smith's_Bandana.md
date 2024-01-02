@@ -1,6 +1,6 @@
 ---
 title: "Smith's Bandana"
-revid: 74026
+revid: 85459
 source: https://deepwoken.fandom.com/wiki/Smith's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head]
@@ -21,7 +21,7 @@ categories: [Equipment, Head]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Erisia, Primadon |
+| obtainment | Chests from:, Erisia, Primadon, Pure Erisore turn in |
 | description | "..." |
 
 ## Description

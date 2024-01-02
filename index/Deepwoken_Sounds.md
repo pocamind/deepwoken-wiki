@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 84234
+revid: 85485
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -96,12 +96,21 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat)
 
  | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
-| TBA | Chaser Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
-| TBA | Miner's Landing Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
+| TBA | A God, Manufactured[\[1\]](#cite-note-naktimessage-1)
+
+[\[2\]](#cite-note-naktimessage2-2)
+
+ | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | Synthetic Deicide[\[2\]](#cite-note-naktimessage2-2) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
+| TBA | Class Struggle[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
 | TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
-| TBA | Scion of Ethiron Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
-| TBA | New Kyrsa Combat Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | TBA |
-| TBA | Sunken Railways Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md) | TBA |
+| TBA | ELEISON[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
+| TBA | New Kyrsa Combat Theme[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | The Prince Peripatetic[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [The Sunken Railways](The_Sunken_Railways.md) | TBA |
+| TBA | 11:59[\[2\]](#cite-note-naktimessage2-2) | TBA | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | Conquest Lobby Theme[\[2\]](#cite-note-naktimessage2-2) | TBA | TBA | TBA |
+| TBA | Wardens of the Valiant Dead[\[2\]](#cite-note-naktimessage2-2) | TBA | [Fort Merit](Fort_Merit.md) | TBA |
 | TBA | Our Fortress (Of Smoke And Steel) | TBA | TBA | TBA |
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
 
@@ -123,7 +132,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 3 | No Time For Paws | 1:26 | Felinor Theme | File:No Time For Paws (Project Deepwoken OST - Felinor Theme).mp3 |
 | 4 | Visions | 2:12 | Deepwoken Direct Theme | File:Visions (Deepwoken Direct Theme).mp3 |
 | 5 | Drownedabout | 0:25 | "Roundabout" by Yes - Cover Sketch | File:Drownedabout (Roundabout by Yes - Cover Sketch).mp3 |
-| 6 | Blood in the Shallows | 1:36 | Kiztatziki[\[2\]](#cite-note-2)
+| 6 | Blood in the Shallows | 1:36 | Kiztatziki[\[3\]](#cite-note-3)
 Boss Theme
 
  | File:Blood in the Shallows (Project Deepwoken - Kiztatziki Boss Theme).mp3 |
@@ -738,4 +747,5 @@ A large collection of sounds found in **Deepwoken**.
 ## References
 
 1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4) [1.5](#cite-ref-naktimessage-1-5) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-2.  [↑](#cite-ref-2) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".
+2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3) [2.4](#cite-ref-naktimessage2-2-4) [2.5](#cite-ref-naktimessage2-2-5) [2.6](#cite-ref-naktimessage2-2-6) [2.7](#cite-ref-naktimessage2-2-7) [2.8](#cite-ref-naktimessage2-2-8) [https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
+3.  [↑](#cite-ref-3) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

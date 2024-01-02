@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 84847
+revid: 85483
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -36,7 +36,7 @@ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstr
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md). Any Deep Shrines Prior to doing the regent quest count towards contractor. (Shrine of conceit has been tested and it works.)
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to Yun'Shul. Ask it "What happened to this place?" (Talking to Yun'Shul without a bell WILL kill you UNLESS you're a deepbound) (You can for some reason do this step before doing step 4, as long as when you eventually return to regent, you do step 4 and then proceed to do step 8 to receive contractor.)
-7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", pick the option that says you want to join him. If you click the option that says you want to stop him, you won't be locked out of obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
+7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you will be softlocked from obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
 
 _Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
 
@@ -44,7 +44,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Upgrading
 
-As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with Oaths in Layer 1, Scyphozia. This will send them to Layer 2. Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
+As tasked by Lord Regent, to obtain the talents and mantras, you must grip players with [Oaths](Oaths.md) in Layer 1, Scyphozia. This will send them to Layer 2. Pack tactics cannot be used: **you must be the sole contributor of damage** or they will not count.
 
 -   1st Grip - Hidden Tendril and Lords Slice
 -   2nd Grip - Equalizer
@@ -53,7 +53,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 ## Abilities
 
 -   **Hidden Tendril - Passive (+10 Ether)**
-    -   Applies a 'Hidden Tendril' onto enemies if the user lands a physical Mantra (such as most Attunementless ones) or a physical Critical attack. Only the user can see Hidden Tendrils. The Hidden Tendril does nothing directly, however allows the user to see the position of their enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
+    -   Applies a 'Hidden Tendril' onto enemies if the user lands a physical Mantra (such as most Attunement--less ones) or a physical Critical attack. Only the user can see Hidden Tendrils. The Hidden Tendril does nothing directly, however, allows the user to see the position of their enemy for the entire duration that the Hidden Tendril is on them, and also allows Lord's Slice to be used.
 
 -   **String Trick - Passive**
     -   If a hidden tendril is on multiple opponents, they are to be pulled together.
@@ -63,7 +63,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer. They are flung in opposite directions, much further than their original positions, being able to wallbang the enemy if they collide with a surface. After the pull is over, the enemy takes more damage and blood loss.
-        -   Only usable if the user has the 'Hidden Tendril' Talent, and also has a Hidden Tendril active.
+        -   Only usable if the user has the 'Hidden Tendril' applied, and also has a Hidden Tendril active.
 
 -   **Equalizer - Combat Mantra**
     -   Whips forward with a blue Tendril. If it connects, it deals damage to the target, and gives the user a blue aura. If the user is attacked while they have this blue aura, the attack will be ignored completely and also stun the attacker for about 2 seconds. Unlike Judgement, the user is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
@@ -94,5 +94,5 @@ Up close Contractor strings
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
 -   Changes dialogue with Duke.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
--   In lore Contractor is one of the most cruel, heartless, and emotionless being in the world of Lumen due to them not having free will. This was because they literally giving up their souls and will to the prophet to become their literal living puppets. Also the fact Zi'eer ordered the Contractor player to slay people with Oaths in the Depths and accepting it without hint of remorse or questioning its morality is already a hint that the Contractor player has lost part its humanity.
--   If you for some reason do this quest while you already have an Oath, instead of giving you Contractor he will say, "Then you are a fool" and kill you instantly.
+-   In lore Contractor is one of the most cruel, heartless, and emotionless being in the world of Lumen due to them not having free will. This was because they literally giving up their souls and will to the prophet to become their literal living puppets. Also, the fact Zi'eer ordered the Contractor player to slay people with [Oaths](Oaths.md) in [the Depths](The_Depths.md) and accepting it without hint of remorse or questioning its morality is already a hint that the Contractor player has lost part its humanity.
+-   If you for some reason does this quest while you already have an Oath, instead of giving you Contractor he will say, "Then you are a fool" and kill you instantly.

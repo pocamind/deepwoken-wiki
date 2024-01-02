@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 85294
+revid: 85446
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -441,7 +441,7 @@ Gain insanity during the night.
 
 Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellhardt) (Retired), a developer for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options.
 
-(Not an Unlockable Flaw)
+(Not an Unlockable Flaw) (Disabled)
 
  | 
 

@@ -1,17 +1,27 @@
 ---
 title: Mod Suit
-revid: 85272
+revid: 85454
 source: https://deepwoken.fandom.com/wiki/Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Outfits, Exclusive Outfits]
 ---
 
 # Mod Suit
 
-File:Mod Fit.png
+Template:ArmorInfobox**Mod Suit** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
-Killed a mod at greathive
+## Statistics
 
-Mod RatRemoval (vows by the sea group)
+Unknown
 
-lol
+### _Requirements_
+
+Unknown
+
+### _Armor Stats_
+
+Unknown
+
+## Location
+
+Purchased from the Mod Shop.

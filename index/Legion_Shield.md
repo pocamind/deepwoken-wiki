@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 81177
+revid: 85470
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -14,7 +14,7 @@ categories: [Weapons, Shields]
 | requirements | 60 Fortitude |
 | offhand | Offhand only |
 | selling price | ? |
-| weight | 2 |
+| weight | 8 Posture |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

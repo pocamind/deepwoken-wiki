@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 79154
+revid: 85473
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -15,7 +15,7 @@ categories: [Weapons, Shields]
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
 | selling price | 7 Notes |
-| weight | 1.5 |
+| weight | 4 Posture |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 84537
+revid: 85474
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -22,7 +22,7 @@ categories: [Weapons, Shields]
 | special effect | N/A |
 | offhand | Offhand only |
 | selling price | 7 Notes |
-| weight | 1.6 |
+| weight | 4.5 Posture |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

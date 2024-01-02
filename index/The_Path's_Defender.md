@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 83808
+revid: 85467
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Shields]
@@ -14,7 +14,7 @@ categories: [Weapons, Items, Shields]
 | requirements | 75 FTD |
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
-| weight | 2.35 (10 Posture) |
+| weight | 10 Posture |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

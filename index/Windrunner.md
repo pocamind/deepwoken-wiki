@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 85416
+revid: 85479
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -8,17 +8,18 @@ categories: [Pages with broken file links, NPCs]
 
 # Windrunner
 
+| Windrunner | |
+|---|---|
+| name | Windrunner |
+| location | Etrean Wilds |
+
 “ If you value your life, you will run. I can tell that you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror. ”
 
 ― Windrunner
 
-  
-
-## Overview
+## Description
 
 Windrunner is the NPC you talk to to uncap your agility. As of the layer 2 update it has been moved to Etris, on the mountain above the cave you take from the docks. Note you should use an alt account or have help from another person to infinite stack up here or use a flame leap or strong leap because it was very difficult to get up solo even with 77 agility and Jetstriker. You can also, with enough time, climb off the doorway created by a [Chime of Dwelling](Chime_of_Dwelling.md) to get to the top.
-
-Template:NPC name
 
 File:Great-View-With-WindRunner.png
 

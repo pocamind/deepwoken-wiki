@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 85413
+revid: 85480
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -162,7 +162,7 @@ Galetrap
 
 _Toss a wind landmine._
 
- | Work in Progress | Deploy a small green landmine at your cursor's location.
+ | 40 Ether | Deploy a small green landmine at your cursor's location.
 
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.

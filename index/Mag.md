@@ -1,6 +1,6 @@
 ---
 title: Mag
-revid: 85444
+revid: 85466
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -22,3 +22,4 @@ His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two
 ## Trivia
 
 -   Mag is implied to be an Ironsinger, as he deals in metals and the fact that the [Summer Dragoon](Summer_Dragoon.md) Outfit has resistance to Ironsing implies they have an Ironsinger among their ranks.
+-   His name, "Mag", is a reference to gun magazines.

@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 83426
+revid: 85448
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -11,6 +11,10 @@ categories: [Races]
 “ Every flickering light in the sky. All along, they were the ruins of long dead civilisations. A skeleton of shimmering pearl stretching out across the night sky. You remember the stories told of the Celestials. The people of the stars. It's said that they first came to us with the Canticlysm, drawn from the Heavens by the Song. ”
 
 ― Celestial Telescope
+
+_The stars call you back..._
+
+Template:Races-Main
 
 ## Description
 

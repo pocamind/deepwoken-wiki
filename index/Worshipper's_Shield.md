@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 83206
+revid: 85471
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -15,7 +15,7 @@ categories: [Weapons, Shields]
 | special effect | Reduces incoming blocking posture damage |
 | offhand | Offhand only |
 | selling price | 45 notes |
-| weight | 1.85 |
+| weight | 6 Posture |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

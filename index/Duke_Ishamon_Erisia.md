@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 85106
+revid: 85464
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -49,7 +49,7 @@ _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)
 
 -   Essentially an average Legion Kata feint.
 
- | ✗ | ✗ | ◯ | (★☆☆) |
+ | ✗ | ✗ | ◯ | (★★☆) |
 | **Binding Tempest** | The Duke rises slowly shortly before throwing homing balls of air that latch onto whoever fails to parry/dodge it. After the attack lands, the Duke teleports in front of the first person hit, containing them in the ball of air before launching them up from the ground and punching them away.
 
 -   Telegraphed by the lack of sound while rising and longer cast time, compared to Aero Spear.
@@ -84,7 +84,7 @@ _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)
 
 -   Duke transition to Assault after using Strong Left.
 
- | ◯ | ✗ | ◯ | (★★★) |
+ | ◯ | ✗ | ◯ | (★☆☆) |
 | **Summon Mindless Servants** | The Duke snaps his fingers, summoning 2-3 mindless servants from the pods around the boss room.
 
 -   Essentially health-packs and serve no real threat. They are just stronger Mudskippers

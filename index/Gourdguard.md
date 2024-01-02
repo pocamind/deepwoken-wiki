@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 80987
+revid: 85469
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -14,7 +14,7 @@ categories: [Weapons, Shields]
 | requirements | 50 FTD |
 | offhand | Offhand only |
 | selling price | 50 |
-| weight | 1.9 |
+| weight | 7 Posture |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
