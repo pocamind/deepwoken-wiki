@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 82403
+revid: 85499
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -40,7 +40,7 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 
 -   Flamewreathed - Applies Burn on hit, can additionally proc [Lava Serpent](Flamecharm.md) effects. Weak to Galebreathe, resists Flamecharm.
 -   Frostmantle - Places Ice and applies Chilled on hit. Weak to Flamecharm, resists Frostdraw.
--   Galeforced - Applies Winded and/or Suffocation on hit, deals Extra Knockback, and has Increased Movement Speed. Weak to Frostdraw, resists Galebreathe
+-   Galeforced - Applies Winded and/or Suffocation on hit, deals Extra Knockback, and has Increased Movement Speed. Weak to Thundercall, resists Galebreathe
 -   Thunderstruck - Applies Electrified on hit. Weak to Frostdraw, resists Thundercall
 -   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage. Weak to attunements, resists basic attacks.
 

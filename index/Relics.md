@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 85488
+revid: 85506
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -56,7 +56,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
--   First Layer (insanely rare)  
+-   [First Layer](First_Layer.md)  
     
 
 **(~1%, unconfirmed chance, expect a possible large margin of error)**

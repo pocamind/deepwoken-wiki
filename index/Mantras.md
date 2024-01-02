@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 85362
+revid: 85501
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -119,7 +119,7 @@ A mantra's type generally corresponds to its respective stat. Weapon mantras and
 
 ### [Monster Mantras](Monster_Mantras.md)
 
-Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the talent and what is the talent based off of.
+Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the mantra and what is the mantra is based off of.
 
 **MONSTER MANTRAS CANNOT BE TRADED AT SHRINE OF TEMPTATION**
 

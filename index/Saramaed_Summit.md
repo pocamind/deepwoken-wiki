@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 77975
+revid: 85500
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -30,6 +30,10 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 
 -   [Brilliant Lotus](Ingredients.md#lotuses)
 -   [Hellfire Lotus](Ingredients.md#lotuses)
+-   Iron
+-   Rock
+-   Coal
+-   Irithine
 
 ## Loot Table
 
