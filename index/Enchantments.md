@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85552
+revid: 85597
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -616,7 +616,7 @@ Static flaming purple.
 
 ## Trivia
 
-File:Vamparism shield.png
+File:Generic-received 160534369559650.gif
 
 "Vampirism" enchant on a Khan Shield
 

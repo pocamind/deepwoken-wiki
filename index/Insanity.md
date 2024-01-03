@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 83048
+revid: 85604
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -47,7 +47,6 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 
 -   Being in [The Depths](The_Depths.md) (-1 point of sanity every 30 seconds).
 -   [Megalodaunt](Megalodaunt.md)'s screech attack.
--   Being hit by Gaze.
 -   Drinking or being splashed by a Mindbreaking potion.
 -   Being hit by the [Deep Widow](Deep_Widow.md) web and bite attack.
 -   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general.

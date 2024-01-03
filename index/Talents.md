@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85558
+revid: 85602
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1026,7 +1026,7 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
--   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 4s. (+7 Sanity)
+-   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 3s. (+7 Sanity)
     -   Whenever you land an M1, you disable every source of your opponent's healing for 4 seconds.
     -   Scales with investment up to its requirement, so if you have less WLL/INT than the req it procs less antiheal the lower your WLL/INT is. The antiheal proc still prevents passive regen.
     -   Does not proc/work on people in the same guild as yours.
@@ -1038,7 +1038,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   Prerequisite: 80 Willpower, have HAD tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
+    -   Prerequisite: 80 Willpower, have HAVE tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
 
 ### Human Architecture
 
@@ -1053,7 +1053,8 @@ _**"I seek the qualities of Heat Column."**_
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage.
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
     -   Makes mobility mantras and running more effective even at low HP, making 10% the same as 90% HP.
-    -   Prerequisites: 20 Fortitude, 100 Willpower
+    -   Cancels grip? (bug?)
+    -   Prerequisites: 20 Fortitude, 80 Willpower
 
 ### Hunter
 
@@ -1835,7 +1836,7 @@ _**"I seek the qualities of Heat Column."**_
         -   Prerequisite for emergency repairs: Automatically gained after using the Repair Hammer 11 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" have this talent.
 
--   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load)
+-   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
     -   Repairing restores 400 HP instead of 250 HP.
         -   Prerequisite for spare nails: Automatically gained after using the Repair Hammer 51 times.
         -   the head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this talent.

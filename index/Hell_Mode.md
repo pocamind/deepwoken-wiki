@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 85071
+revid: 85593
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -24,7 +24,7 @@ A group of powerful adventurers must join forces in this hellish variant to obta
 
 ## Activation Method and Effects
 
-The Hell Mode Bell can be found within the Celtor Wastes. To activate Hell mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15. **The moment you ring the hell bell, your _Mute_ Regalia is disabled.**
+The Hell Mode Bell can be found within the Celtor Wastes. To activate Hell mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15. **The moment you ring the hell bell, your _Mute_ Regalia is disabled, (Note: you can still use this if you haven't rung the bell)**
 
 Once the conditions are met, The Depths (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
@@ -67,7 +67,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   If you have Blindseer Oath be sure to use Oath mantras such as Sightless beam since they deal extra damage to the depths monsters, also be sure to use Mindsoothe since it can heal allies in case there is not a graceful flame user.
 -   If you are fighting near the [Temple of Hearts](Temple_of_Hearts.md), you can go inside and only the [Nautilodaunts](Nautilodaunt.md) and [Threshers](Thresher.md) (maybe [Deep Owls](Deep_Owl.md), may be a bug) can get to you. This is while they are aggravated so its entirely safe if you aren't being attacked for healing, resting, etc.
 -   **Squibbo has the same health as a Megalodaunt.** A 100 HVY user with 0 proficency can still 3 tap squibbo (2 crits, a m1) if no attacks are parried. Sacred Field can act as a safety net if you start panicking and throwing your parries, or you and some friends can just gank him.
--   Detonation Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit that procs deto multiple times. It is dangerous near other players, however.
+-   Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit. It is dangerous near other players, however.
 -   If you are low on health try to kill a weaker monster, such as a [Lionfish](Lionfish.md), [Thresher](Thresher.md), or a [Megalodaunt](Megalodaunt.md).
 -   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack. Nautilodaunts are a lot easier to beat in a team.
 
