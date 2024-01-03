@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 85230
+revid: 85545
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -28,9 +28,9 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow particles surrounding the body.
 
-### Blood Shadow
+### Lord's Tithe
 
-When Reinforce is applied to an ally with the talent Blood Shadow, steal their HP until your are full HP. Signified by red and yellow particles surrounding the body.
+When Reinforce is applied to an ally with the talent Lord’s Tithe, steal their ether until your ether bar is full. Signified by red and yellow particles surrounding the body.
 
 ### Hyperarmor
 
@@ -42,7 +42,7 @@ Gain a 1.5x damage boost. Applied after given the [Vow of Mastery Command: Fight
 
 ### Ordered to Live
 
-Restore your health to maximum and get up if you are unconscious. Applied by the Live Command on Vow of Mastery. Signified by a large dark blue aura around your character.
+Restore your health to maximum and get up if you are unconscious. Applied by the [Vow of Mastery Command: Live](Vow_of_Mastery.md). Signified by a large dark blue aura around your character.
 
 ### Rallied
 
@@ -183,7 +183,7 @@ Applied by being flourished or hit by critical attacks from weapons with the Sol
 
 ### Grim
 
-Take 20% more damage from all sources for 4 seconds. Applied by being hit by the [Grim enchant.](Enchantments.md) Signified by red bubbles on your torso.
+Take 20% more damage and 50% more posture damage from all sources for 4 seconds. Applied by being hit by the [Grim enchant.](Enchantments.md) Signified by red bubbles on your torso.
 
 ### Time Stasis
 
@@ -211,8 +211,14 @@ This effect happens when you are low on hunger/food. When this occurs, you will 
 
 ### Acid
 
-Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will loose a small amount of your health at a time. If your health ever depletes while standing in Acid, your character instantly dies. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
+Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will lose a small amount of your health at a time. If your health ever depletes while standing in Acid, your character instantly dies. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
 
 ### Tier 3 Insanity
 
 This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where your character will start scratching their body and face which deals some damage. If you don't have enough health left when scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. Due to how long it takes to get to max insanity, (unless you have [manic](Boons_and_Flaws.md)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
+
+## Limited Edition Status Effects
+
+### Coral Fever
+
+This effect happened on April 1st of 2023 and it was obtained either when you got stabbed by a Megalodaunt's Coral Spear, got scratched by a Megalodaunt or you got sneezed on by a Megalodaunt or emoting near the Great Sharko Rumbling statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).

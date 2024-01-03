@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 84791
+revid: 85541
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -100,16 +100,16 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   TIP: Overconfidence is a slow and insidious killer.
 -   TIP: Press 'Spacebar' to jump! How many times have you jumped in real life recently? Something to think about.
 -   TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
--   TIP: Sesame oil is great in stirfries. Remember that.
--   TIP: Support your favourite artists, buy their albums. Streaming services pay .4 cents a play. A cup of coffee costs around 1,000 streams.
+-   TIP: Sesame oil is great in stir fries. Remember that.
+-   TIP: Support your favorite artists, buy their albums. Streaming services pay .4 cents a play. A cup of coffee costs around 1,000 streams.
 -   TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought.
 -   TIP: When was the last time you picked up a book? No, weapon manuals don't count.
 -   TIP: Why are you still playing this game? Go outside.
 -   TIP: Yamaketzal's favorite drink is grape juice.
 -   The path to becoming a firstrater is long and difficult. You are still just a third rater.
--   There is more to life than videogames. Developing hobbies can bring happiness.
+-   There is more to life than video games. Developing hobbies can bring happiness.
 -   They should add Freddy Fazbear to this game.
--   This is what sucks about videogames nowadays. It takes way too long to get to the fun part.
+-   This is what sucks about video games nowadays. It takes way too long to get to the fun part.
 -   When's that Ethiron theme coming along anyway?
 -   Why are you looking at me like that? Cut it out. You're creeping me out.
 -   Y'know I'm real good friends with The Guy. Bet your jealous.

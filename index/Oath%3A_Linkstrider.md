@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 84673
+revid: 85528
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,11 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Linkstrider**
-
-**_"The Entropy Catalyst generated enough force to fundamentally change your state of existence. You now exist between two states, your new found clarity making the imperceptible Bonds between all souls malleable to you."_**
-
-It heavily focuses on support and life-steal. Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Linkstrider** is one of the 11 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
 ## Obtainment
 

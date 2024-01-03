@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 84808
+revid: 85531
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,11 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Blindseer**
-
-_**"You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it."**_
-
-It is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat. It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
+**[Oath](Oaths.md): Blindseer** is one of the 11 obtainable Oaths in _Deepwoken._ It is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat. It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
 
 ## Obtainment
 
@@ -102,4 +98,3 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
 
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
--   There's a glitch that can occur that makes it so you get a Blindseer mantra when escaping the depths yourself (Not Fully Tested)
