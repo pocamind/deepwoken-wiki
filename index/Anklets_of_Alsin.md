@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 85368
+revid: 85648
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -40,3 +40,4 @@ The Anklets of Alsin are a light weapon that can be found in all Depths chests, 
     -   +10% Chip Damage.
 -   This is the first weapon released for the [Jus Karita](Jus_Karita.md) fighting style.
 -   This is also the first weapon to be modelled on the player's legs instead of hands and or arms.
+-   This weapon is named after a [Celestial](Celestial.md) Alsin due to Justicars worship the celestial [Celestial](Celestial.md) as its known from dialogue of [Polis](Polis.md)

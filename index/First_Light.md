@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 85238
+revid: 85646
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -20,7 +20,6 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | penetration | 30% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | TBA |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |

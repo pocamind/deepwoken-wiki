@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 84524
+revid: 85644
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -94,7 +94,11 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 When fought he uses a Darksteel Greatsword
 
  |
-|  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch. | Beatra is a [Tiran](Tiran.md) who uses [Shadowcast](Shadowcast.md). |
+|  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch.
+
+**NOTE: YOU CANNOT LEARN SHADOWCAST FROM BEATRA THE ONLY WAY TO LEARN SHADOWCAST IS FROM NOSTOR IN THE DEPTHS**
+
+ | Beatra is a [Tiran](Tiran.md) who uses [Shadowcast](Shadowcast.md). |
 
 ## Trivia
 

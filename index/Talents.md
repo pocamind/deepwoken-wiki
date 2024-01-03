@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85602
+revid: 85641
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1594,7 +1594,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: 50 Light Weapon, using a Gun
 -   Sleight of Hands \[Common Talent\] - \[1H Guns\] When you flourish an opponent you instantly load a bullet.
     -   Prerequisites: 50 Light Weapon, using a Gun
--   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast. (Play Ultrakill)
+-   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast.
     -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Gun
 
 ### Politician
