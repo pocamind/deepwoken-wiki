@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 85561
+revid: 85660
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -221,4 +221,4 @@ This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where 
 
 ### \[ Coral Fever \]
 
-This effect happened on April 1st of 2023 and it was obtained either when you got stabbed by a Megalodaunt's Coral Spear, got scratched by a Megalodaunt or you got sneezed on by a Megalodaunt or emoting near the Great Sharko Rumbling statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).
+This effect happened on April 1st of 2023 and it was obtained either when you got stabbed by a [Megalodaunt](Megalodaunt.md)'s Coral Spear, got scratched by a [Megalodaunt](Megalodaunt.md) or you got sneezed on by a [Megalodaunt](Megalodaunt.md) or emoting near the [Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) statue in [Etris Docks](Etris_Docks.md). When obtained, you were greeted by [Destroyman III](Destroyman_III.md) and you couldn’t get rid of him, unless you emoted near the same statue again, which will destroy [Destroyman III](Destroyman_III.md).

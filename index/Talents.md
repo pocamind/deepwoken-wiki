@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85641
+revid: 85655
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2616,8 +2616,8 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
 -   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
     -   Ironically, it then proceeds to write the name of the game incorrectly, as ULTRAKILL is meant to be written in all capitals.
--   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1)
--   The Card, "Exploding Mirage Clones" will always explode with the original red flames, even if you've obtained the Azure Flames card. This is also true for Fire Gun.
+-   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1).
+-   Hovering over the talent category in a campfire reveals the [Mystic](Mystic.md) prompt for it, even prompts for categories that cannot obtained via Mystic (Innate, Genius Intellect, Comrade etc.).
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
 -   The Pocket Sand talent, especially its description, is a reference to Rogue Lineage.
     -   Paying [someone](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the talent in this game, and speaking to them afterwards yields the same dialogue as found in the talent description, "So... We're even now, right?"

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 85531
+revid: 85659
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,7 +31,9 @@ categories: [Oaths]
 -   Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
     -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you.
--   Once inside the temple, proceed through a passage on the left.
+
+Once inside the temple, proceed through a passage on the left.
+
 -   Inside that room, an engraved message can be found. Interact with this text while blind (either from the flaw or from a blindfold)
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=76G3K8Ng9Q8)._
