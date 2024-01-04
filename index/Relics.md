@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 85506
+revid: 85723
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -35,7 +35,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
       
     
 
-**(~1%, unconfirmed chance, expect a possible large margin of error)**
+**(~1%)**
 
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -59,7 +59,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [First Layer](First_Layer.md)  
     
 
-**(~1%, unconfirmed chance, expect a possible large margin of error)**
+**(~1%)**
 
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
@@ -73,7 +73,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~5%, statistic-based, expect a large margin of error when compared to real rates)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~5%)**
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 
@@ -89,7 +89,7 @@ Can be used in any location.
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%, statistic-based, expect a large margin of error when compared to real rates)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%)**
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 
@@ -104,8 +104,8 @@ File:Sinner's Ash.png
 
  | 
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.33%, unconfirmed chance, expect a possible large margin of error)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.33%)**
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.33%)**
 
  |
 | 
@@ -122,8 +122,8 @@ It grants the user +20 knowledge on subsequent uses.
  | 
 
 -   [The Ferryman](The_Ferryman.md)
--   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.5%, unconfirmed chance, expect a possible large margin of error)**
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.5%, unconfirmed chance, expect a possible large margin of error)**
+-   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.5%)**
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.5%)**
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
  |

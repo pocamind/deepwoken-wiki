@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 85686
+revid: 85731
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -21,6 +21,16 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 ### _Armor Stats_
 
 This Outfit has 1000 durability grants the user +15% Physical resistance and +10% Elemental resistance.
+
+## Location
+
+This Outfit's Schematic can be found in:
+
+-   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)  
+    
+-   [The Depths](The_Depths.md)  
+    
+-   [Fishing](Fishing.md)
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 85681
+revid: 85733
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Outfits]
@@ -25,6 +25,14 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 This Outfit has 1000 durability and grants the user +10% Physical resistance and + 5% Elemental resistance.
 
 This Outfit also grants the [Talent Card](Talents.md) _Knack_, which makes trees yield more wood when felled and increases Repair speed.
+
+## Location
+
+This Outfit's Schematic can be found in:
+
+-   [The Depths](The_Depths.md)  
+    
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 
 ## Trivia
 

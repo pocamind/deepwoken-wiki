@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 82604
+revid: 85721
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -186,7 +186,7 @@ Witherald lifting The Meat Lord
 -   Cooked/Glazed Fish has a real-life counterpart, most resembling _sashimi_.
     -   Additionally, the Glazed Fish model is placed incorrectly on the hand compared to other plate dishes.
 -   Where did the garnish on the Omelettes come from? The world will never know.
--   Most food has a weight assigned to it, but uniquely, Sushi has no weight assigned to it. Alongside its relatively cheap recipe and cheaper price from the Meat Lord, this makes it one of the best generic food items in the game.
+-   Sushi used to be unique, in that it was completely weightless. However this is no longer the case, as it has now been assigned 2 weight.
 
 ## Bugs
 
