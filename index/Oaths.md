@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 85661
+revid: 85752
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -39,7 +39,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 **There are currently 2 fully confirmed upcoming Oaths in _Deepwoken_:**
 
 -   [Saintsworn](Oath%253A_Saintsworn.md):?
--   Hive Oath
+-   Unnamed Hive Oath
 
 ## Lore Oaths
 

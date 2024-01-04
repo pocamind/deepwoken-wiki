@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 83423
+revid: 85755
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -66,6 +66,14 @@ _Known for their eponymous city of Celtor, the home of legendary shipwrights and
 -   +2 Charisma
 -   Increased health for owned ships
 -   Cheaper ship prices at the shipwright
+    
+
+**Weaknesses:**
+
+  
+
+-   No combat passives.
+-   Jajo
     
 
 **Surnames:**

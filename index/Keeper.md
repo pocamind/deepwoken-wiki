@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 50696
+revid: 85743
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 61274
+revid: 85741
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -28,8 +28,8 @@ This Outfit also grants the [Talent Card](Talents.md) _Intrepid Flame_, which ex
 
 This Outfit's Schematic can be found in:
 
--   Etris, behind the food shop.
--   Beginner to mid-game chests.
+-   [Etris](Etris.md), behind the food shop.
+-   Beginner to mid-game Chests.
 
 ## Trivia/Notes
 
