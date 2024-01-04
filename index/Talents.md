@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85655
+revid: 85665
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1054,7 +1054,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
     -   Makes mobility mantras and running more effective even at low HP, making 10% the same as 90% HP.
     -   Cancels grip? (bug?)
-    -   Prerequisites: 20 Fortitude, 80 Willpower
+    -   Prerequisites: 20 Fortitude, 100 Willpower
 
 ### Hunter
 

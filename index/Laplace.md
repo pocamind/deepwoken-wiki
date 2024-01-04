@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 85657
+revid: 85671
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -15,7 +15,7 @@ categories: [World, NPCs]
 
 ## Description
 
-Laplace Diri is a Ganymede located in [Greathive Aratel](Greathive_Aratel.md) in the R&D section, the third floor (2nd for the British), on the right.
+Laplace Diri is a Ganymede located in [Greathive Aratel](Greathive_Aratel.md) in the R&D section, the third floor, on the right.
 
 He lets you trade three [enchantments](Enchantments.md) for a random enchant on your currently equipped weapon. He will explain you through dialogue a tutorial on what he does.
 

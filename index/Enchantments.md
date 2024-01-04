@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85597
+revid: 85674
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -616,17 +616,7 @@ Static flaming purple.
 
 ## Trivia
 
-File:Generic-received 160534369559650.gif
-
-"Vampirism" enchant on a Khan Shield
-
-"Curse of Umbral Knight" enchant on a Hero's Blade of Shadow
-
--   File:Blazing enchant on a Twisted Puppets path.png
-    
-    Twisted Puppet (Shadow Flame) with the "Blazing" enchant
-    
-    A few enchants are based on other series and shows.
+-   A few enchants are based on other series and shows.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
     -   Nemesis' visuals and sound effects are based off the cursed status from _Spiral Knights_.
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
@@ -644,15 +634,7 @@ File:Generic-received 160534369559650.gif
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
-    
-    File:Azure flames blazing.png
-    
-    Azure Flames with the "Blazing" enchant
-    
     -   Curse of the Umbral Knight **→** Umbral Knight, (does not have the down sides of Curse of the Umbral Knight).
-        
-        Twisted Puppets with the "Blazing" enchant.
-        
 -   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
 -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.

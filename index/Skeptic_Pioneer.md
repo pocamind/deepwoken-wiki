@@ -1,6 +1,6 @@
 ---
 title: Skeptic Pioneer
-revid: 50114
+revid: 85680
 source: https://deepwoken.fandom.com/wiki/Skeptic_Pioneer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -23,13 +23,6 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 This Outfit has 1200 durability and grants the user with +12% Physical resistance and +12% Elemental resistance.
 
 This Outfit also grants the [Talent Card](Talents.md) _Apothecary_, which makes potions that benefit the player more potent.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [Lower Erisia](Lower_Erisia.md)
--   At the weapon shop in Etris, along with the [Shadow Hunter](Shadow_Hunter.md) and [Experienced Adventurer](Experienced_Adventurer.md) armor schematics.
 
 ## Trivia/Notes
 

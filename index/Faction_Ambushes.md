@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 84478
+revid: 85668
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -48,7 +48,7 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 
  |
 | [Summer Company](The_Summer_Company.md) | 3(?) [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | ??? |
-| [Ministry](The_Ministry.md) | 1-3 [Strong Ministry Enforcer](Ministry_Enforcer.md#stronger-variant) | "We take this one's head or it'll be ours next."
+| [Ministry](The_Ministry.md) | 1-3 [Contractor](Oath%253A_Contractor.md) NPCS | "We take this one's head or it'll be ours next."
 
 "Pestilent wretch, you die early."
 

@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 84166
+revid: 85677
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -36,5 +36,5 @@ The Serrated Warspear is a midgame to endgame [Medium Weapon](Weapons.md) obtain
 ## Trivia
 
 -   Heavily resembles the [Acheron's Warspear](<Acheron's_Warspear.md>).
--   Direct upgrade of the [Archeron's Warspear.](<Acheron's_Warspear.md>)
+-   Direct upgrade of the [Acheron's Warspear](<Acheron's_Warspear.md>)
 -   This weapon used to be dropped by [Duke Erisia](Duke_Ishamon_Erisia.md), although it was removed in favor of the [Stoneheart](Stoneheart.md).
