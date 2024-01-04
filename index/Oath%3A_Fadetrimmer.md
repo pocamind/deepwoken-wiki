@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 85530
+revid: 85716
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,4 +76,5 @@ This oath is fully upgraded once you get it.
 -   Charming Hair Product is virtually useless due to the existence of Charismatic Cast.
     -   Likewise, Flammable Hair Product is a fairly slow option to apply fire that does no damage by itself- using Flamecharm mantras applies fire while dealing actual damage at the same time. Flammable can proc Lava Serpent, if that's any bonus...
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
--   Fadetrimmer's scissor-play may be a reference to Gwen from League of Legends specifically.
+
+-   ~Fadetrimmer's scissor-play may be a reference to Gwen from League of Legends specifically.~ Or the fact the oath is based on a barber??

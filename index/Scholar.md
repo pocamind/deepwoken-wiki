@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 85682
+revid: 85694
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -23,6 +23,13 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 This Outfit has 1000 durability and grants the user +8% Physical resistance and + 10% Elemental resistance.
 
 This Outfit also grants the [Talent Card](Talents.md) _Scholar's Intuition_, which makes INT, WILL and CHR training gear 50% more effective.
+
+## Location
+
+This Outfit's Schematic can be found in:
+
+-   [The Depths](First_Layer.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 
 ## Trivia
 

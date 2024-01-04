@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 64302
+revid: 85712
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -25,14 +25,6 @@ This Outfit has 1200 durability and grants no resistances.
 This Outfit also grants the [Talent Card](Talents.md) _Merchant's Accord;_ Merchants and Antiquarians will do business with you no matter how poor your reputation is.
 
 -   This talent does NOT allow you to use the antiquarian in the depths if you are not deepbound.
-
-## Location
-
-This Outfit's Schematic can be found in:
-
--   [The Depths](The_Depths.md)
--   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
--   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 

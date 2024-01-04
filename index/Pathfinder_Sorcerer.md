@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 79166
+revid: 85684
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -23,14 +23,6 @@ This Outfit requires [Intelligence](Attributes.md) 5.
 This Outfit has 1000 durability grants the user +5% Physical resistance and +10% Elemental resistance.
 
 This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your stealth while crouching.
-
-## Location
-
-This Outfit's schematic can be found in:
-
--   [The Depths](The_Depths.md)
--   [Fishing](Fishing.md) (Chest)
--   Sold by [Nyanna](Nyanna.md) at [Castle Light](Castle_Light.md)
 
 ## Trivia/Notes
 

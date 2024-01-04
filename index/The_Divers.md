@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 84314
+revid: 85715
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -55,7 +55,7 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 **Amorus Pleeksty:** As a former Black Diver, Pleeksty still kept loose connections with the Divers but mainly pursued his individual research until he went missing. He is currently residing in the third layer of the Depths. He consumed a part of the Drowned god of fire Korilfiend in the form of a flower, causing him to ascend to a near-godlike state. This newfound enlightenment allowed him to become the first Flamecharmer. He would then go on to establish a group known as “The Covenant of Flame,” a group of passionate Flamecharmers who wish to follow the same path as Amorus Pleeksty, almost religiously studying his books and practicing his teachings such as the Flame Within. Pleeksty, however, only sees them as a fan club. Despite his tremendous power and age, he is described as a "chill" guy, meaning that if anyone encounters him, Pleeksty will most likely be very amicable.
 
-**[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who secretly possess the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his true goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but would later reveal that he had betrayed the Divers long ago. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was a part of.[\[2\]](#cite-note-2) He then slaughtered the other Divers that were involved in expeditions following that one.<ref>>\[\[Books#Diver Journal, II\]|Diver Journal, II and Diver Journal, III\]\] The players later encounter him as the first boss of The Second Layer. Technically Ministry aligned.
+**[Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md):** Chaser is an Adretian Black Diver who secretly possess the gift of hemokinesis, granted to him by the Second Prophet of [the Ministry](The_Ministry.md) in order to achieve his true goals. He was a Black Diver that volunteered to lead an expedition into the Second Layer but would later reveal that he had betrayed the Divers long ago. With the assistance of the native Kyrsgarde, Chaser murdered all the Divers who went on him in the original expedition he was a part of.[\[2\]](#cite-note-2) He then slaughtered the other Divers that were involved in expeditions following that one.[\[3\]](#cite-note-3)[\[4\]](#cite-note-4) The players later encounter him as the first boss of The Second Layer. Technically Ministry aligned.
 
 **Funke (Thundercall trainer) and Nell (Frostdraw trainer):** Funke and Nell are wearing Black Diver uniforms and can be found in the Eastern Luminant and the Etrean Luminant respectively. Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
 
@@ -87,3 +87,5 @@ You can also complete [Layer 2](Second_Layer.md) Floor 1 to get a decent amount 
 
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [The Song of Fathoms / Oscillation](Books.md#the-song-of-fathoms--oscillation)
 2.  [↑](#cite-ref-2) [Diver Journal, I](Books.md#diver-journal-i)
+3.  [↑](#cite-ref-3) [Diver Journal, II](Books.md#diver-journal-ii)
+4.  [↑](#cite-ref-4) [Diver Journal, III](Books.md#diver-journal-iii)
