@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 85828
+revid: 85859
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Attunement]
 
 # Attunement-less
 
-“ Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as a "Chad". No light shows, no ice cubes, no static, no puffs of wind. Strength, Fortitude, Agility, Willpower, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all. ”
+“ Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as "King". No light shows, no ice cubes, no static, no puffs of wind. Strength, Fortitude, Agility, Willpower, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all. ”
 
 ― Journal of Jericho
 

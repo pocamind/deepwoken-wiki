@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 85044
+revid: 85843
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -72,3 +72,4 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 -   Another bug was present since release until around October 2023, which made the Dread Serpent unable to spawn if anyone contained "(any letter)drago". This was because Ardour Manifestation checked for ".drago" which allowed anyone with drago at the start of their name to spawn but not drago with a letter before it.
 -   It would take roughly 300-400 cannonball shots to kill a dread serpent.
 -   This is the preferred boss to fight if you are trying to obtain the [Echo Talent: Chain of Perfection](Talent_Quests.md), as he can mostly be cheesed by staying behind his back. However, be careful because when the Dread Serpent comes out of the water it might hit you so be sure to dodge.
+-   Some call it the "Danger Noodle" due to its shape and the amount of damage it was able to do. The other reason why it was called a danger noodle is thanks to Tank Fish.

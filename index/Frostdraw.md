@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 85267
+revid: 85857
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -276,7 +276,7 @@ Ice Carve
 
  | 
 
-_A disk of ice._
+_A sharp disk of ice._
 
  | User forms a disk of ice that rapidly cuts enemies.
 

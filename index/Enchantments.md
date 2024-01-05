@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85825
+revid: 85847
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -318,7 +318,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Unstable<div></div></font></center></td>
   <td><div><p>Every hit has a 10% chance to proc an enchant, allowing for multiple enchants to proc at once.<br>
-  <b>Only obtainable via Developer by reporting serious bugs/exploits</b></p></div></td>
+  <b>Previously obtainable via Developer by reporting serious bugs/exploits, but no longer given out</b></p></div></td>
   <td><div>Weapon is covered with combination of Multiplicity and Wild Enchant VFX.</div></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Dwelling Charm
-revid: 84514
+revid: 85844
 source: https://deepwoken.fandom.com/wiki/Dwelling_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Items]
@@ -10,7 +10,7 @@ categories: [Guilds, Items]
 
 | Dwelling Charm | |
 |---|---|
-| value | 50 |
+| value | 80 |
 | weight | N/A |
 | type | Consumable |
 | bankable | Yes |

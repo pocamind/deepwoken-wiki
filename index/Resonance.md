@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 84658
+revid: 85846
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -87,7 +87,7 @@ _(From data of 100 rerolls, the calculated chance of getting a Legendary Resonan
 
 ### Drowned Resonances
 
-These function identically to **Corrupted Resonances**, with the same chance of being obtained on a card. The only difference is that they can only be obtained on a **Legendary Resonance**. This, of course, makes these extremely rare. Only a **handful** of people have ever had the luck of obtaining these.
+These function identically to **Corrupted Resonances**, with the same chance of being obtained on a card. The only difference is that they can only be obtained on a **Legendary Resonance**. This, of course, makes natural obtainment of these extremely rare. They can be more easily obtained by using sinner's ash on a legendary resonance.
 
 _(From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333% (0.111% per card))_
 

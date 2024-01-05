@@ -1,6 +1,6 @@
 ---
 title: Flameguard Boots
-revid: 73924
+revid: 85856
 source: https://deepwoken.fandom.com/wiki/Flameguard_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Boots]
@@ -20,7 +20,7 @@ categories: [Equipment, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Hell Mode |
+| obtainment | Hell Mode, Megalodaunt On a Ship |
 | description | "..." |
 
 ## Description
