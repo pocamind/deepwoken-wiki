@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 83239
+revid: 85761
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Pages with broken file links]
@@ -19,13 +19,11 @@ notices:
 
 ― Deepwoken Twitter
 
-(note: add a quote from in-game here once oath comes out)
+  
 
 ## Description
 
-[Oath](Oaths.md): Saintsworn is an upcoming confirmed oath relating to Hero Blades. There is not much known about it besides its in-development appearance[\[1\]](#cite-note-1) and name.[\[2\]](#cite-note-2)
-
-  
+**[Oath](Oaths.md): Saintsworn** is an upcoming confirmed oath relating to Hero Blades. There is not much known about it besides its in-development appearance[\[1\]](#cite-note-1) and name.[\[2\]](#cite-note-2)
 
 ## References
 

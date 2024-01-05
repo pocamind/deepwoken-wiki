@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 85728
+revid: 85804
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Oaths]
 
 | Oath: Contractor | |
 |---|---|
-| oath_req | Positive reputation with Etrea, Positive reputation with The Ministry, Obtained Resonance |
+| oath_req | Positive reputation with Etrea, Positive or Neutral reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra , +10 Ether |
 
 “ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”

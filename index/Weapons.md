@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 85595
+revid: 85805
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -60,11 +60,11 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
 -   **Swing Speed:** Speed of basic weapon attacks (M1s).
 -   **Endlag:** Lingering duration after a basic weapon attack (Self-stun after M1s).
--   **Max Damage:** Weapon damage dealt with full attribute scaling (100/102 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
+-   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/102 points in each scaled attribute) and 6 [Proficiency](Traits.md) (including bleed). This doesn't account for any DMG stars on a weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
--   **Bleed:** 10% of the weapon's max damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage. Bleed causes extra blood loss as well. The "**Max Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
+-   **Bleed:** 10% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 30% more damage. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with bleed weapons is including the bleed damage. Multiply the final damage by 0.77 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
--   **Legendary:** Special weapons which cant be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down without the use of echoes.
+-   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down without the use of echoes.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 
 ## Types of Weapons
@@ -89,7 +89,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Stiletto.md">Stiletto</a></td>
@@ -278,7 +278,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Fists.md">Fist (Way of Navae/Legion Kata)</a></td>
@@ -394,7 +394,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Silversix.md">Silversix</a></td>
@@ -458,7 +458,7 @@ Rapiers are light weapons that bridge the gap between the Medium and Light plays
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Quickfang.md">Quickfang</a></td>
@@ -549,7 +549,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Sword_(weapon).md">Sword</a></td>
@@ -846,7 +846,7 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Irontusk.md">Irontusk</a></td>
@@ -1022,7 +1022,7 @@ Clubs are weapons that as opposed to most other weapons in the game, deal blunt 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Mace.md">Mace</a></td>
@@ -1064,7 +1064,7 @@ Rifles are two-handed guns that use melee attacks and incorporate the firing of 
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Summer_Rifle.md">Summer Rifle</a></td>
@@ -1123,7 +1123,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Battleaxe.md">Battleaxe</a></td>
@@ -1314,7 +1314,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Avenger.md">Avenger</a></td>
@@ -1505,7 +1505,7 @@ Greathammers are weapons with a heavy metal head mounted at right angles at the 
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="Steel_Maul.md">Steel Maul</a></td>
@@ -1656,7 +1656,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
   <td><b>Endlag</b></td>
-  <td><b>Max Damage</b></td>
+  <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Flame</font></a></td>

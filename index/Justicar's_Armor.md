@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 79254
+revid: 85783
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -28,12 +28,12 @@ This Outfit grants the [Talent Card](Talents.md) _The Path, Unveiled,_ which inc
 
 This Outfit's Schematic can be found in:
 
--   Etris War Event \[Super Rare\]
--   Fishing \[Very rare\]
--   Halloween weapon seller. \[20 Joy, No longer avaliable\]
--   Lightning Squibbo \[Common in hell mode\]
--   Crypt of the Unbroken \[Rare\]
--   Ferryman \[Uncommon\]
+-   [Etris: Siege](Cinders_of_Etris.md) \[Super Rare\]
+-   [Fishing](Fishing.md) \[Very rare\]
+-   [Glaive Spellhardt](Glaive_Spellhardt.md) \[20 Joy, No longer avaliable\]
+-   [Lightning Squibbo](Nautilodaunt.md) \[Common in hell mode\]
+-   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) \[Rare\]
+-   [The Ferryman](The_Ferryman.md) \[Uncommon\]
 
 ## Trivia
 

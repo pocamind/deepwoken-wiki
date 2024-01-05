@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 72910
+revid: 85766
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]

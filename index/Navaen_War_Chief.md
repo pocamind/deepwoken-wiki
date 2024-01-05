@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 83125
+revid: 85778
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -28,7 +28,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Chief's Will_, which gran
 
 This Outfit's Schematic is obtainable from:
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) (Chest)
+-   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [The Depths](The_Depths.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
 -   Either [Aratel Island](Aratel_Island.md) or [Greathive Aratel](Greathive_Aratel.md)

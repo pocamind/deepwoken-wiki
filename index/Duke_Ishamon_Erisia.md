@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 85701
+revid: 85799
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]

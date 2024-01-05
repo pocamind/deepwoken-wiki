@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 79792
+revid: 85768
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -31,7 +31,7 @@ This Outfit also grants the [Talent Card](Talents.md) _Devastating Power_, which
 This Outfit's Schematic can be found in:
 
 -   [Lower Erisia](Lower_Erisia.md)
--   Can be purchased for 45 notes on top of the mantra store at Etris.
+-   Can be purchased for 45 notes on top of the Mantra store at [Etris](Etris.md).
 
 ## Trivia
 
