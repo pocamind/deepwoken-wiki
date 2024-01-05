@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 85650
+revid: 85836
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game]
@@ -19,4 +19,4 @@ The Speculated Conquest Rewards are:
 -   [Bloodsworn Effigy](Bloodsworn_Effigy.md)
 -   [Oath: Saintsworn](Oath%253A_Saintsworn.md)
 
-Conquest is set to release within the month of January 2023.Template:AreainfoboxTemplate:Areainfobox
+Conquest is set to release within the month of January 2024.Template:AreainfoboxTemplate:Areainfobox

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 85660
+revid: 85813
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -94,7 +94,7 @@ This effect can be applied by being hit with Galebreathe mantras or Galeforced m
 
 ### Suffocated
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md) or by any Galebreath mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users head.
+Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users head.
 
 ### Chilled
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 85804
+revid: 85831
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -92,7 +92,8 @@ Up close Contractor strings
 -   Contractor strings are not actually solid dark red or black; the string's outside is red, and the interior is black.
 -   Contractor does not require 40 intelligence. The requirement was removed shortly after the obtainment method was discovered.
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
--   Changes dialogue with Duke.
+-   Changes dialogue with Duke Erisia.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
 -   In lore, a Contractor is seen as one of the most cruel, heartless, and emotionless beings in the world of Lumen, due to them not having free will. This was because they give up their souls and will to the prophet to become their living puppets. Also, the fact Zi'eer ordered the Contractor player to slay people with [Oaths](Oaths.md) in [the Depths](The_Depths.md), and they accept the quest without a hint of remorse or questioning it's morality is already a hint that the Contractor player has lost a part their humanity.
 -   If you for some reason do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are a fool" and kill you instantly.
+-   being a member of The Divers will prevent your reputation from being drained when you swear the Oath.
