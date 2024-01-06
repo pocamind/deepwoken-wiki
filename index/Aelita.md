@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 85231
+revid: 85891
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -66,6 +66,7 @@ WARNING: DO NOT CLICK 1 TO END DIALOGUE OR ELSE YOU FAIL, JUST CAST A MANTRA WHE
 -   Aelita is a [Felinor](Felinor.md).
     -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not make [oaths](Oaths.md).
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
+
 -   During Aelita's Encounter, and if you are part of the game (must follow her orders), her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E) will play.
 -   Aelita is a Visionshaper, she doesn't have the oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player. (Ever since Verse Two, Aelita has a chance to teleport you to locations where islands used to exist, but is now just the middle of nowhere in Voidsea)

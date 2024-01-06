@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 84096
+revid: 85890
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -280,6 +280,8 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
 -   The Ferryman is voiced by [Demstormz](https://www.youtube.com/@demstormz).
 -   The Ferryman now has First Interrogation, Second Interrogation, Authority Intimidation, and Resolve Crusher talents.
+-   The Ferryman is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
+
 -   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
 
 ## Bugs

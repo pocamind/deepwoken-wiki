@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 85835
+revid: 85892
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -31,7 +31,7 @@ Mantras are a key aspect of combat, and it is incredibly important to master the
 
 ### Perfect Casting
 
-Perfect Casting a Mantra removes the wind-up from it and will instantly cast it. To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are also various talents that require you to perfect cast in order to make use of them, like Eureka, Jolt Cast, Haunted Gale etc. It will do you well to master this mechanic.
+Perfect Casting a Mantra does not inherently do anything, it just activates certain talents (developer confirmed). To perfect cast a Mantra, you simply need to click as soon as you select the Mantra that you used. There are various talents that require you to perfect cast in order to make use of them, such as Eureka, Jolt Cast, Haunted Gale etc.
 
 ### Mantra Cancelling
 

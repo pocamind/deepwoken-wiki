@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 85882
+revid: 85893
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -108,7 +108,7 @@ Trophy Room
 
  | 
 
-Allows the hiring of an Artisan for. For, allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md).
+Allows the hiring of an Artisan for. For, allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md). Allows the hiring of a Banker for notes to access your safe deposit box, a box that allows you to transfer items accross your slots.
 
  |
 | 
@@ -177,7 +177,7 @@ Armory
 
  | 
 
-Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit.
+Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit. Allows the hiring of a Gunsmith for, allowing the Player to craft encased bullets.
 
  |
 | 
@@ -242,7 +242,8 @@ Bandits raiding a Guild Base.
 
 ## Trivia
 
--   -   You do not need to have every single guild base room in order to buy the Arena Extension
+-   It costs 1 knowledge to store soulbound items via the banker.
+-   You do not need to have every single guild base room in order to buy the Arena Extension
 -   Carry-able items (Artifacts, Explosive Crates, Barrels, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   Grand skewer is disabled while inside, as it could throw people out the base.
 -   Bandits can spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it is a bug.

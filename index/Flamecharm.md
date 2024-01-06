@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 85526
+revid: 85905
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -76,6 +76,7 @@ _An exertion of flames._
 
  | After a wind-up of 0.5 seconds, user releases a burning AoE blast.
 
+-   Reduces incoming damage by 75% in addition to reflecting it back
 -   Unable to move during wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 85831
+revid: 85887
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -19,24 +19,20 @@ categories: [Pages with broken file links, Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Contractor**
-
-_**"Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost."**_
-
-Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Contractor** is one of the 11 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
 
 ## Obtainment
 
 1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire.
     -   You can either get this through Imel, Emel, and Fimel's bounties if you choose, but you can also help the Ministry out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one Ministry Scout, waiting for the nomads to kill the other, and then assassinate them. This is far less efficient then doing bounties, only giving around half the reputation but double the time to complete.
-    -   You must help the ministry 5-6 times at Summer Isle for them to not see worth fighting you anymore. (This dialogue grants you neutral reputation.)
-    -   The Bounty version of the Ministry takes about 5-6 kills you need to deal approximately 60% of the dmg however bloodletter kills do not give you the kill(tested)
+    -   You must help the Ministry 5-6 times at Summer Isle for them to not see worth fighting you anymore.
+    -   The Bounty version of the Ministry takes about 5-6 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by the Bloodletter Talent will not count.
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline.
-3.  Go to Lord regent and choose the special dialogue “Bite your tongue" after killing Duke Erisia (You can do all of these out of order before step 4).
-4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md). Any Deep Shrines Prior to doing the regent quest count towards contractor. (Shrine of conceit has been tested and it works.)
+3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue" after killing Duke Erisia.
+4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md).
 5.  Unlock your [Resonance](Resonance.md).
-6.  Go to the Depths and talk to Yun'Shul. Ask it "What happened to this place?" (Talking to Yun'Shul without a bell WILL kill you UNLESS you're a deepbound) (You can for some reason do this step before doing step 4, as long as when you eventually return to regent, you do step 4 and then proceed to do step 8 to receive contractor.)
-7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you will be softlocked from obtaining Contractor, but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option that says you want to join him.
+6.  Go to the Depths and talk to Yun'Shul's shrine. Ask it "What happened to this place?"
+7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you will NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind.
 
 _Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
 
@@ -94,6 +90,5 @@ Up close Contractor strings
 -   Contractor mantras used to scale off of your intelligence stat, but as of the 5/15/23 update, they no longer scale with INT. The base damage of the mantras was increased in return.
 -   Changes dialogue with Duke Erisia.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
--   In lore, a Contractor is seen as one of the most cruel, heartless, and emotionless beings in the world of Lumen, due to them not having free will. This was because they give up their souls and will to the prophet to become their living puppets. Also, the fact Zi'eer ordered the Contractor player to slay people with [Oaths](Oaths.md) in [the Depths](The_Depths.md), and they accept the quest without a hint of remorse or questioning it's morality is already a hint that the Contractor player has lost a part their humanity.
--   If you for some reason do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are a fool" and kill you instantly.
--   being a member of The Divers will prevent your reputation from being drained when you swear the Oath.
+-   If you, for some reason, do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are a fool" and kill you instantly.
+-   Being a member of The Divers will prevent your reputation from being drained when you swear the Oath.
