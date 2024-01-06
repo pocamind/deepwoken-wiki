@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 85805
+revid: 85875
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1732,7 +1732,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Gran_Sudaruska"><font>Gran Sudaruska</font></a></td>
-  <td>75 ICE, 30 HVY, LVL 3</td>
+  <td>75 ICE, 30 HVY, LVL 10</td>
   <td>24</td>
   <td>N/A</td>
   <td>ICE: 8 HVY: 4</td>

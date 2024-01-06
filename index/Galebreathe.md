@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 85480
+revid: 85865
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -281,7 +281,7 @@ Astral Wind
 
 _A rapid delivery of consecutive attacks._
 
- | Work in Progress | Cast several fast, wind-enhanced slashes that form a star.
+ | 50 Ether | Cast several fast, wind-enhanced slashes that form a star.
 
 -   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85847
+revid: 85879
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -56,7 +56,8 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 15% more weapon damage in PVE.<sup><a href="#cite-note-1">[1]</a></sup><br>
+  <td><div><p>Deal 20% more weapon damage in PvE.<br>
+  This damage bonus bypasses the damage multiplier cap.<br>
   Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
@@ -185,7 +186,7 @@ There are two variants that enchantments come in:
   <font>Stone<div></div></font></center></td>
   <td><div><p>Posture damage is increased. Scales off weapon damage.<br>
   Deal bonus damage on a posture break.<br>
-  Scales linearly with weapon damage.<sup><a href="#cite-note-2">[2]</a></sup></p></div></td>
+  Scales linearly with weapon damage.<sup><a href="#cite-note-1">[1]</a></sup></p></div></td>
   <td><div>Metal parts are covered in a stone texture.</div></td>
 </tr>
 <tr>
@@ -630,7 +631,7 @@ Static flaming purple.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag.[\[3\]](#cite-note-3)
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag.[\[2\]](#cite-note-2)
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
@@ -644,6 +645,5 @@ Static flaming purple.
 
 ## References
 
-1.  [↑](#cite-ref-1) File:Astral15.png
-2.  [↑](#cite-ref-2) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
-3.  [↑](#cite-ref-3)
+1.  [↑](#cite-ref-1) The equation for posture damage is posture += (0.5 + clamp(damage/9.5,0,5))
+2.  [↑](#cite-ref-2)

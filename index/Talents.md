@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85837
+revid: 85878
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -120,7 +120,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   "Max ether" means having more than 95% ether.
     -   Prerequisite: 40 Intelligence
 
--   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having full health causes your mantras to do 25% extra damage.
+-   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
     -   Prerequisite: 25 Intelligence
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
     -   Prerequisites: 85 Intelligence

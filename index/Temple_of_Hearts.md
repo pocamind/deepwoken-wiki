@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 81551
+revid: 85874
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -36,6 +36,7 @@ Proceeding will lead to an altar with the [Shrine of Yun'shul](<Shrine_of_Yun'Sh
 #### [Deep Shrines](Deep_Shrines.md)
 
 -   6 of the 8 Deep Shrines present in the overworld are also present here.
+    -   They are (from right-to-left, facing Yun'Shul) the Shrines of Temptation, Order, Chance, Blasphemy, Mastery, and Conceit
     -   These shrines are primarily aimed at the Deepbound Origin, removing the need to leave The Depths early to use them. However, those with a Resonance can also use them for the convenience.
 
 ## Trivia

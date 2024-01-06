@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 84143
+revid: 85866
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -27,7 +27,7 @@ Keep in mind, not all mantra modifiers are obvious and may _**not**_ work correc
 
 ## Regular Modifiers
 
-Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesic Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Glass Stones_ and _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
+Most regular modifiers come in a basic version (ex. Cloudstones) and an upgraded version (ex. Stratus stones). Exceptions to this are the _Amnesic Driftwood_ and _Vibrant Gem_. Basic modifiers increase a mantra stat by (+2) and decrease a different stat by (-1) except for _Vibrant Gems_. Upgraded modifiers will increase a mantra stat by (+3) and will not decrease a different stat.
 
 A maximum of 18 mods total can be added to a mantra. Each mods can also only be added 3 (4 if using [Neural Overload](Talents.md)) times. Adding mods increase the ether cost of mantras by 10 and 20 Ether for T1 and T2 mods. The talent Neuroplasticity reduce this increased cost by 20%, down to 8 and 16 Ether.
 
@@ -251,15 +251,11 @@ Glass
 
 Stone
 
- | Applicable to all spells, and causes the primary projectile to be turned invisible.
+ | 
 
-+1 Size  
-+1 Range  
++2 AoE  
+\-1 Duration  
 +10 Ether Cost  
-
--   Does not turn additional FX on the spell invisible I.E. Tracers.
--   Certain spells are not turned invisible, I.E. Lightning Beam.
--   May also mod the spell with both Amnesic Driftwood and Drift shard.
 
  | 
 
@@ -275,10 +271,10 @@ Stone
 
 Magnifying Stone
 
- | Likely same as Glass Stone, just better
+ | Same as Glass Stone, just better
 
-+2 Size  
-+2 Range  
++3 AoE  
+\-1 Duration  
 +20 Ether Cost  
 
 "Images percieved through the stone seem to give off an expanding aura." -flavor text
