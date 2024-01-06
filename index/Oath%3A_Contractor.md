@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 85887
+revid: 85940
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -28,10 +28,10 @@ categories: [Pages with broken file links, Oaths]
     -   You must help the Ministry 5-6 times at Summer Isle for them to not see worth fighting you anymore.
     -   The Bounty version of the Ministry takes about 5-6 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by the Bloodletter Talent will not count.
 2.  Get positive reputation with [Etrea](Etrea.md), enough to start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline.
-3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue" after killing Duke Erisia.
+3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue" after killing [Duke Erisia](Duke_Ishamon_Erisia.md) and starting the fight against Duke Erisia with the 2nd dialogue.
 4.  Make a deal with 4 different [Deep Shrines](Deep_Shrines.md). Any Shrine except the Shrine of Order works, including those in the [Temple of Hearts](Temple_of_Hearts.md).
 5.  Unlock your [Resonance](Resonance.md).
-6.  Go to the Depths and talk to Yun'Shul's shrine. Ask it "What happened to this place?"
+6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?"
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you will NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind.
 
 _Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._

@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 85593
+revid: 85950
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -70,6 +70,7 @@ Although Hell Mode is scary, the rewards are worth the trouble due to both the c
 -   Enforcer's axe is good for wiping out large groups of mobs at once due to its hyperarmour crit. It is dangerous near other players, however.
 -   If you are low on health try to kill a weaker monster, such as a [Lionfish](Lionfish.md), [Thresher](Thresher.md), or a [Megalodaunt](Megalodaunt.md).
 -   If you are not proficient at killing [Nautilodaunts](Nautilodaunt.md) on your own, tell your teammates to help you with them, since you will not have any time to try running away for a health pack. Nautilodaunts are a lot easier to beat in a team.
+-   If most of your team wiped and you scared to wipe your slot, just get a health pack from weak monsters (such as [Thresher](Thresher.md) or [Lionfish](Lionfish.md)) and jump into the void. This trick will send you to [Second Layer](Second_Layer.md) and probably will save you from wiping. This trick also can be done when you obtained your [Resonance](Resonance.md) and after this immediately jumped into the void. **NOTE:** You will be send to [Second Layer](Second_Layer.md) only if your HP more than 50% (2,5 bars), if you jumped into the void and was below 50% HP you will wipe, so remember this before jumping.
 
 ## Trivia
 

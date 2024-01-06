@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 85644
+revid: 85946
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -10,16 +10,16 @@ categories: [Pages with broken file links, NPCs]
 
 ## Description
 
-Attunement Trainers are NPCs hidden around the map that level up mantras for money. Each trainer will increase a mantra level by one depending on which Attunement they train. (Ex: [Frostdraw](Frostdraw.md) Spelltrainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for leveling up mantras starts at 100 notes and increases by 100 depending on the mantra level. A leveled-up mantra's damage is increased.
+Spelltrainers are NPCs hidden around the map that level up Mantras for money. Each Trainer will increase a mantra level by one depending on which Attunement they train. (Ex: [Frostdraw](Frostdraw.md) Spelltrainer will level up Frostdraw [Mantras](Mantras.md), etc). The cost for leveling up Mantras starts at and increases by depending on the Mantra level. A leveled-up Mantra's damage will increase, as well as the potential for additional effects.
 
 A trainer needs intervals of 20 points in your Attunement to upgrade a mantra of the same elemental type as the trainer to upgrade.
 
 For example:
 
--   20 in an Attunement = Level 2 mantra
--   40 = Level 3 mantra
--   60 = Level 4 mantra
--   80 = Level 5 mantra (Attunement Unbound)
+-   20 in an Attunement = Level 2 Mantra
+-   40 = Level 3 Mantra
+-   60 = Level 4 Mantra
+-   80 = Level 5 Mantra (Attunement Unbound)
 
 An Attunement trainer **WILL NOT** train you if you do not have the element learned. However, you can learn different Attunements by giving a trainer 5 Elemental Ingredients of the respected Attunement. (See [Attunement Potions](Attunement_Potions.md))
 
@@ -94,19 +94,19 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 When fought he uses a Darksteel Greatsword
 
  |
-|  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch.
+|  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch.  
 
-**NOTE: YOU CANNOT LEARN SHADOWCAST FROM BEATRA THE ONLY WAY TO LEARN SHADOWCAST IS FROM NOSTOR IN THE DEPTHS**
+She is incapable of actually **teaching **Shadowcast, and can only be used to level up Shadowcast Mantras. Only Nostor can teach it.****
 
  | Beatra is a [Tiran](Tiran.md) who uses [Shadowcast](Shadowcast.md). |
 
 ## Trivia
 
--   Most of the attunement trainers have off-color eyes that match the attunement they teach. For example, Nell's blue eyes represent Frostdraw, and Funke's bright yellow eyes represent Thundercall.
+-   Most of the Attunement trainers have off-color eyes that match the Attunement they teach. For example, Nell's blue eyes represent Frostdraw, and Funke's bright yellow eyes represent Thundercall.
     -   Nostor is an exception due to being a [Ganymede](Ganymede.md).
 -   Beatra was promised to be added by Ragoozer on 1/1/23 but was added on 7/10/23.
 -   The name "Funke" means "Spark" in German.
--   Nostor wears a ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
+-   Nostor wears a Ministry outfit and as a Shadowcaster, they are likely indirectly linked to [the Ministry](The_Ministry.md).
 -   For [Silentheart](Oaths.md) progression, the player must kill all of the main Spelltrainers, excludes Regek and Beatra.
     -   Frostdraw trainer Nell wields the [Gran Sudaruska](Gran_Sudaruska.md).
     -   Galebreath trainer Friid wields the [Curved Blade of Winds](Curved_Blade_of_Winds.md).

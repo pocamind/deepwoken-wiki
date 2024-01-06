@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 85200
+revid: 85960
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -61,8 +61,8 @@ Located at the [Hidden Village](The_Hidden_Village.md) of Erisia, obscured by vi
 
 -   This shrine will force you to draw 3 power levels worth of cards _**before**_ you spend the 45 Attribute Points. This can potentially ruin builds if you need certain cards that require stats. Ensure you have the stats for the cards you want before using the shrine!
 -   If you are Power 17 or have already used the deal, he rerolls one of your flaws for 5 Knowledge.
--   The daunting amount of Attribute Points you need to make up (Usually in the range of 45-60 total Attribute Points to spend) for will be a hassle-- and may pose a problem to Players that rely on Powering up to remain in the Overworld.
--   Since you are levelling up, you gain 3 knowledge points, so the cost is technically 2.
+-   The daunting amount of Attribute Points you need to make up for, (Usually in the range of 45-60 total Attribute Points to spend,) will be a hassle-- and may pose a problem to Players that rely on Powering up to remain in the Overworld.
+-   Since you are levelling up, you gain 3 knowledge points, so the cost is technically 2. This also means that your PvE scaling will scale to your new Power, which may be somewhat helpful.
     
 
 **Shrine of Mastery:**

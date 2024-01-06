@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 85865
+revid: 85945
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -43,8 +43,8 @@ The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](At
 
 ### **Combat Mantras**
 
-| Media | Name | Card Description | Ether Cost | Effect | Stats |
-| --- | --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 |  | 
 Wind Blade  
 (☆☆☆)
@@ -53,13 +53,13 @@ Wind Blade
 
 _Slicing blades of wind._
 
- | Work in Progress | Launch a wind projectile at cursor's position.
+ | 40 Ether | Launch a wind projectile at cursor's position.
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
 -   Shoots straight if shift lock is enabled.
 
- |  |
+ |
 |  | 
 
 Air Force  
@@ -79,7 +79,7 @@ _Shoots out an air blast._
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
 -   Shoots straight if shift lock is enabled.
 
- |  |
+ |
 | 
 
  | 
@@ -96,7 +96,7 @@ _Slicing blades of wind._
 -   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
 -   Projectile is medium-ranged and explodes on impact.
 
- |  |
+ |
 |  | 
 
 Gale Lunge  
@@ -112,7 +112,7 @@ _A rush of piercing wind._
 -   Can be used as mobility to push the user forward.
 -   Has a relatively long hitbox.
 
- |  |
+ |
 | 
 
  | 
@@ -124,7 +124,7 @@ Tornado
 
 _A rushing current of wind._
 
- | Work in Progress | Conjure a small vortex around yourself, M1 to cast it forward.
+ | 15 Ether | Conjure a small vortex around yourself, M1 to cast it forward.
 
 -   Can be modified with logstones to increase duration, but caps at 1 or 2.
 -   Moves forward on its own after 2 seconds.
@@ -132,7 +132,7 @@ _A rushing current of wind._
 -   Projectile is short-ranged.
 -   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
 
- |  |
+ |
 |  | 
 
 Heavenly Wind  
@@ -152,7 +152,7 @@ _A strike from the heavens._
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
 
- |  |
+ |
 |  | 
 
 Galetrap  
@@ -168,7 +168,7 @@ _Toss a wind landmine._
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 -   Applies the _"Suffocate"_ status effect.
 
- |  |
+ |
 |  | 
 
 Gale Punch  
@@ -178,13 +178,13 @@ Gale Punch
 
 _Form a punch of wind in your fist and release it._
 
- | Work in Progress | Conjure a wind AoE punch that deals damage and knocks targets away.
+ | 60 Ether | Conjure a wind AoE punch that deals damage and knocks targets away.
 
 -   Can be modified with cloudstones and stratus stones to increase size.
 -   Can break objects.
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
 
- |  |
+ |
 | 
 
  | 
@@ -197,7 +197,7 @@ Wind Forge
 -   Projectiles are homing.
 -   Medium-far range.
 
- |  |
+ |
 |  | 
 
 Champion's Whirlthrow  
@@ -215,7 +215,7 @@ _Grab your target and toss them with the power of gale._
     -   Requires more testing.
 -   Can be upgraded with the "_Skull Crusher_" Talent.
 
- |  |
+ |
 |  | 
 
 Rising Wind  
@@ -225,16 +225,16 @@ Rising Wind
 
 _Use wind to uppercut and propel yourself into the air._
 
- | Work in Progress | Ascend while uppercutting your target, rapidly damaging them.
+ | 60 Ether | Ascend while uppercutting your target, rapidly damaging them.
 
 -   Blocking sends only the user into the air.
 -   Rapidly deals light damage to the opponent while rising.
 -   Missing will not send the user into the air.
--   Can be upgraded with the "_Reverse Gale Kick"_ Talent.
+-   This mantra could formerly be upgraded with the "_Reverse Gale Kick"_ Talent which would apply knockdown when pressing F during the mantra’s cast but is now base behavior.
     -   Applies Knockdown frames on proc.
 -   Gives I-Frames throughout the duration of the mantra.
 
- |  |
+ |
 |  | 
 
 Wind Gun  
@@ -252,7 +252,7 @@ _A powerful wind blast._
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
 -   Both Sparks can be combined, making three consecutive short-range bullet rounds.
 
- |  |
+ |
 |  | 
 
 Wind Carve  
@@ -262,7 +262,7 @@ Wind Carve
 
 _A quick swirl of sharp winds._
 
- | Work in Progress | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
+ | 40 Ether | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
 -   Deals _possibly light_ damage.
@@ -271,7 +271,7 @@ _A quick swirl of sharp winds._
 -   Cannot be canceled once the mantra initiates.
     -   So it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent.
 
- |  |
+ |
 |  | 
 
 Astral Wind  
@@ -288,7 +288,7 @@ _A rapid delivery of consecutive attacks._
 -   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
 -   Can be modified with rush and drift shards to increase the speed of the slashes.
 
- |  |
+ |
 |  | 
 
 Pillars of Erisia  
@@ -305,7 +305,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 -   Gives hyperarmor when casting
 -   Requires 20 Strength.
 
- |  |
+ |
 
 ### **Mobility Mantras**
 

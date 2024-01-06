@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 85928
+revid: 85938
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -16,8 +16,8 @@ categories: [Pages with broken file links, Items]
 
 Relics that can be obtained & used by players. All Relics can be obtained in the [First Layer](First_Layer.md) but some have other obtainment methods as well.
 
-| Image | Description | Obtainment |
-| --- | --- | --- |
+| Image | Description | Obtainment | Can be stored in an [Item Bank](Item_Bank.md)? |
+| --- | --- | --- | --- |
 | 
  | **[Rain Spire](Rain_Spire.md)** - A reusable Relic that summons [Rain](Environmental_Hazards.md) for 4 minutes within a massive radius of the Relic.
 
@@ -40,7 +40,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- |
+ | No |
 | 
 
  | **[Void Spire](Void_Spire.md)** - A reusable Relic that summons a [Voidzone](Voidzones.md) for 6 minutes within a massive radius of the Relic.
@@ -64,7 +64,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [Pure Astruline/Umbrite Turn-ins](Blacksmith.md)
 -   [Chime of Conflict](Chime_of_Conflict.md)
 
- |
+ | No |
 | 
 
  | **[Smith's Alloy](<Smith's_Alloy.md>)** - A cruder form of the famed Pluripotent Alloy that adds a quality star to your currently held weapon, or rerolls the quality-type of your currently held weapon if it already has 3 stars.
@@ -77,7 +77,7 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 
- |
+ | Yes |
 | 
 
  | **[Idol of Yun'Shul](<Idol_of_Yun'Shul.md>)** - A ritual idol that is used to redeem a [Yun'Shul Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) without the need of a [Resonance](Resonance.md).
@@ -93,7 +93,7 @@ Can be used in any location.
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 
- |
+ | Yes |
 | 
 
 File:Sinner's Ash.png
@@ -107,7 +107,7 @@ File:Sinner's Ash.png
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.33%)**
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.33%)**
 
- |
+ | Yes |
 | 
 
 File:Moonseye Tome.png
@@ -126,7 +126,7 @@ It grants the user +20 knowledge on subsequent uses.
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.5%)**
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 
- |
+ | No |
 
 ## Lore Relics
 
@@ -151,4 +151,3 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 -   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
 -   With the exception of both the Rain Spire and Void Spire, all other Relics are consumables and will disappear after one use.
--   As of the 1/5/23 update, you can now store relics for use across all slots via the Item Bank.
