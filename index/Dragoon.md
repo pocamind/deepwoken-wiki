@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 85147
+revid: 85925
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -16,8 +16,6 @@ categories: [Weapons, Guns]
 | scaling | 12 |
 | range | 11 |
 | swing speed | 0.8x |
-| endlag | ? |
-| penetration | None |
 | selling price | 14 |
 | weight | 1 |
 | bankable | Yes |
@@ -29,4 +27,8 @@ categories: [Weapons, Guns]
 
 ## **Description**
 
-The Dragoon is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) and requires 65 points in Light Weapon to equip. The max ammo in 1H mode is 4 bullets
+The **Dragoon** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 500 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md) or [Chime of Conflict](Chime_of_Conflict.md). It requires 65 points in Light weapons to be utilized.
+
+## Trivia
+
+-   A single Dragoon can fire three shots when loaded before requiring a reload.

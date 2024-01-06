@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 85423
+revid: 85907
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -31,4 +31,5 @@ To access songs, you must read the corresponding book, these books can be obtain
 
 -   [_The Gideshu March_](https://youtu.be/IZgNo7Pv0hA)
 -   [_The Song of Fathoms_](https://youtu.be/I6rD5jW1qv0)
--   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8).
+-   [_A Memory of Tides_](https://www.youtube.com/watch?v=Zu9uDHqFcS8)
+-   _[Carol of Resonances](https://www.youtube.com/watch?v=t89tvQBZhWQ)_

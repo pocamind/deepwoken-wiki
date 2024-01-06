@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 85723
+revid: 85928
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -151,3 +151,4 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 
 -   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
 -   With the exception of both the Rain Spire and Void Spire, all other Relics are consumables and will disappear after one use.
+-   As of the 1/5/23 update, you can now store relics for use across all slots via the Item Bank.

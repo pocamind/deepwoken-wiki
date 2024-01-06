@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 85373
+revid: 85922
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
