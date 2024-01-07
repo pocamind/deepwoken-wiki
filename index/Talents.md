@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 85878
+revid: 86010
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -565,7 +565,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Assassin \[Common Talent, Agility\] - Assassination damage now scales with level. (+2 Passive Agility)
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   Prerequisite: 30 Agility, 20 assassinations (maybe less?)
-    -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this equipment.
+    -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this talent.
     -   Unlocks a couple talents in the Assassin talent tree.
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
@@ -1120,6 +1120,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
+    -   Does not proc with flames produced by the user with Flame Within or Agitating Spark
 
 -   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Prerequisites: "Flamecharmer Ploom" Quest in Etris with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
