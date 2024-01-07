@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 86001
+revid: 86022
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -192,7 +192,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 <tr>
   <td><b>Rejuvenating</b></td>
   <td>Salve</td>
-  <td>Redd</td>
+  <td>Redd<p>Elixir</p></td>
   <td>Instantly restores a small amount of health.</td>
   <td>Opposite effect to <b>Disgusting</b>. Signified by a green flash. Strangely, seems to only work when thrown.<br>
   The strongest effect on a redd is Icky, so a potion with the Rejuvenating name can only be brewed by cancelling out the Icky effect with Focus Enhancing from Wheat.<p>Has seemingly no effect on <a href="Enemies.md">enemies</a><br>

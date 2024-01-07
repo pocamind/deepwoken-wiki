@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86010
+revid: 86023
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2569,7 +2569,7 @@ File:Thresherquest1.png
 
 ### Mercy Kill
 
--   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat.
+-   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat. (May also be unlocked by Unbounding just any stat)
 -   This talent lets you instagrip enemies weaker than you with a swing.
 
 ## Outfit Talents

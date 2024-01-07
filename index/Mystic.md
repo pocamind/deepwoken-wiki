@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 85922
+revid: 86034
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -191,7 +191,7 @@ _"No money, friend? How ever will I feed myself?_
 ### [Shadowcast](Shadowcast.md)
 
 -   _I speak to the shadows. **(Shadowcaster) (Note; Cannot give Shadow Travel)**_
--   _I am the one who speaks to death. **(Death Speaker) (Note; Cannot give Black Hole)**_
+-   _I am the one who speaks to death. **(Death Speaker)**_
 -   _I control those around me. **(Puppet Master)**_
 -   _I feed on the soul of my enemies. **(Dark Siphon.)**_
 
