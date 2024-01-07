@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 85320
+revid: 86015
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -37,7 +37,7 @@ If Portals is corrupted, you move faster and can take objects and allied players
 
 When obtained, Portals will spend its points on the following stats:
 
--   **Dive:** If this stat is used, this resonance gains an alternative use: Press C again right before going into the portal to dive. When the duration ends or after pressing C again, kick out of the portal, dealing damage and sending the user and target into the air. The user can true combo with fast attacks.
+-   **Dive:** If this stat is used, this resonance gains an alternative use:. In order to activate dive, press C again once you've used the bell, then click m1 which makes your portals bell kick out of the portal, dealing damage and sending the user and target into the air. The user can true combo with fast attacks.
 -   **Duration:** The more points are spent on this stat, the longer the user can stay in the portal.
 -   **Speed:** The more points are spent on this stat, the faster the user move while inside the portal.
 

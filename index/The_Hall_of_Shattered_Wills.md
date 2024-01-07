@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 83980
+revid: 86017
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World]
@@ -28,7 +28,7 @@ It has no practical functions and merely acts as a safe place for moderators to 
 
 ### Yum-Yum Machine
 
--   A machine with a big button that says "HUNGRY". Interacting with it gives a a YUM YUM BAR, with a cooldown of 10 minutes. The item restores 50 hunger and 50 thirst. Its food type is Plant / Meat / Yum. It is not droppable however.
+-   A machine with a big button that says "HUNGRY". Interacting with it gives a a YUM YUM BAR, with a cooldown of 10 minutes. The item restores 50 hunger and 50 thirst. Its food type is Plant / Meat / Yum. It is not droppable however. "A bar of what appears to be cement, wrapped in flimsy paper, I'm told that it's food, though my colleagues seem to be shaking their heads at me and mouthing 'no'."
 
 ### Gallery
 
