@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 85925
+revid: 85999
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -31,4 +31,4 @@ The **Dragoon** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_I
 
 ## Trivia
 
--   A single Dragoon can fire three shots when loaded before requiring a reload.
+-   A single Dragoon can fire four shots when loaded before requiring a reload.

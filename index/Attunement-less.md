@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 85859
+revid: 85969
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -145,7 +145,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
         -   Despite not being mentioned in the description, the effect also increases damage dealt by those affected by 3%.
     -   Maximum duration is 60 seconds.
     -   Cooldown duration scales off the duration of the Mantra.
-    -   _Can be upgraded_ with the _Fortitude Talent Cards 'Blood Shadow' and 'Grand Support'._
+    -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord's Tithe' and 'Grand Support'._
     -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
         -   This increases the size of the buff to 15% damage resistance and 5% damage output.
     -   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).

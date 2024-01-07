@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 85876
+revid: 85991
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -55,22 +55,19 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again.
 
-_You may click upon any of these attunements to view their pages._Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
+Template:TestingTemplate:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
 ## Obtainable Attunements
 
-Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account.
-
-_You may click upon any of these attunements to view their pages._Template:Testing Template:Testing
+Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account. Template:Testing Template:Testing
 
 ## Trivia
 
+-   Attunement-less, as the name suggests, isn't an Attunement, rather a lack thereof.
 -   Once you have selected an Attunement for the first time, it will be the only available Attunement in the character creation menu other than choosing Random or None until you either unlock more of them from their respective [trainers](Attunement_Trainers.md) or by choosing Random, obtaining one you haven't unlocked and wiping.
 -   You can choose up to 2 Attunements that've been unlocked before when creating a new character.
 -   When choosing a second Attunement to start with, you will only spawn in with the training item for the first Attunement- _whichever one has +6 points._ You can undo your selection by selecting Random or None.
 -   Selecting a new starting Attunement, you haven't unlocked yet on another slot will permanently unlock the Attunement across all your slots.
 -   **Water will never become an Attunement available to the public due to specific lore reasons-** only extremely powerful beings have the ability to manipulate water, as stated by Arch\_Mage.
     -   _As an extension, he mentions that those who wield water magic have already lost their humanity._
-
--   Addition to above, **Lightkeep will also never become an Attunement to the public due to specific lore reasons-** those who take the role of a Lightkeeper are restricted from the Song, you need to be born with this ability.
--   Arch\_Mage stated, that Attunements shouldn't ressemble what Oaths are, e.g Illusion can't exist due to Visionshaper already existing and thus being an Illusion Oath.
+-   There is a misconception that Lightkeeping is an a magic similar to Attunements, and the only reason it isn't in the game is arbitrary lore. In reality, Lightkeeping is more akin to a [Regalia](Regalia.md), and has no real combat application. The closest thing to light magic with a combat application is the [Dawnwalker Oath](Oath%253A_Dawnwalker.md).

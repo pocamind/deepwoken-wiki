@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 84036
+revid: 86001
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -105,7 +105,7 @@ Eating an ingredient by itself will give you a weaker version of the effect it'd
     -   Since beeswax's Invigorating effect is so powerful, and the only effect that cancels it is the weak Grueling from Plumfruit, it is very difficult to find the name of the secondary effect. It appears to be a slowing effect, however.
 
 -   Bluecap - Primary effect is **Heartening**; Rapidly restores Sanity. (The potion also restores ether (**Soothing**) and deals a small amount of damage (**Disgusting**), though these may technically be part of the Heartening effect.)
-    -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion, and which are secondary effects.
+    -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get (other than in The Viper's Jaw, where there is an abundance) so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion, and which are secondary effects.
     -   The Heartening effect is so strong that 1 Bluecap is able to overpower 3 Urchins
 
 -   Browncap - Primary effect is **Disgusting**; Deals a small amount of damage. Secondary effect is **Strengthening**; Slightly increases damage dealt.

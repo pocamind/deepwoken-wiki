@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85879
+revid: 85994
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -107,7 +107,7 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Grim<div></div></font></center></td>
   <td><div><p><br>
-  After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
+  After hitting the target up to (Rapier/Guns: 5, LHT: 7, MED: 5, HVY: 4) times, Grim will proc, which is signalled by red bubbles.<br>
   the target is afflicted with Grim for 6 seconds, which increases all damage taken by 1.2x, and all posture damage by 1.5x.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red mist.</div></td>
 </tr>
@@ -282,8 +282,9 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>Chance to proc adding 5% of your max health to your damage. 10 Second CD per victim.<br>
-  Rarely on proc, lose 7% hp and have 10% of your max health added to your damage.</p></div></td>
+  <td><div><p>Rarely add 5% of your max health to your damage. 10 Second CD per victim.<br>
+  Very rarely lose 7% hp and have 10% of your max health added to your damage.<br>
+  (80%~ and 20%~ respectively with F. Gladius)</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
 </tr>

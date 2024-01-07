@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 85957
+revid: 85962
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -882,7 +882,7 @@ Fire spells cost 70% less while on fire. If you hit someone while on fire, apply
  | 
 
 Phoenix Flames  
-(FLAME 40, WILL 20, All Immolator talents)
+(FLAME 40, All Immolator talents)
 
  | 
 

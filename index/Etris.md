@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 85360
+revid: 85982
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -37,7 +37,7 @@ Etris is the capital of the Etrean Kingdom, being on top of a tall mountain with
 
 #### Bank
 
--   Players can find a Banker they can turn found Artifacts in to.
+-   Players can find a [Banker](Banker.md) they can turn found Artifacts in to, as well as store items across all of their slots.
 
 #### Antiquarian
 

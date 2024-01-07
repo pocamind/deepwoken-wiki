@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 85938
+revid: 85998
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -31,7 +31,8 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)  
+-   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Fishing](Fishing.md)  
       
     
 
@@ -56,7 +57,8 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
--   [First Layer](First_Layer.md)  
+-   [First Layer](First_Layer.md)
+-   [Fishing](Fishing.md)  
     
 
 **(~1%)**
@@ -92,6 +94,7 @@ Can be used in any location.
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%)**
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
+-   [Fishing](Fishing.md)
 
  | Yes |
 | 
@@ -125,6 +128,7 @@ It grants the user +20 knowledge on subsequent uses.
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~0.5%)**
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.5%)**
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
+-   [Fishing](Fishing.md)
 
  | No |
 
