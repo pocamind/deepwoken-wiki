@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 85890
+revid: 86069
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -272,6 +272,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
 -   Arch\_Mage has stated that the Ferryman is "probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality)".
+
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
@@ -280,8 +281,6 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
 -   The Ferryman is voiced by [Demstormz](https://www.youtube.com/@demstormz).
 -   The Ferryman now has First Interrogation, Second Interrogation, Authority Intimidation, and Resolve Crusher talents.
--   The Ferryman is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
-
 -   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
 
 ## Bugs

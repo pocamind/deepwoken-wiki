@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 83844
+revid: 86072
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics, Character, World, Deepwoken]
@@ -27,4 +27,3 @@ Members of a guild including its leader will stay in their guild after death. Cu
 -   If a Guild Leader leaves the guild, an Officer can take their place as the Guild Leader. If there are no Officers in the Guild, anyone in the Guild can take ownership. You must go to the guild NPC to claim leadership once the guild leader has left; it's not given to anyone randomly.
 -   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md) near a wall. However not all surfaces can be used to create a door.
 -   Guild bases require a massive amount of notes but can be extremely helpful and potentially save you from wiping.
--   If you leave your Guild, you will have a cooldown of roughly 5 minutes before you can create another guild.
