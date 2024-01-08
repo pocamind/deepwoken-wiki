@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 85979
+revid: 86076
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -93,6 +93,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.
 -   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for Nostor and Amashi. (Ex. Killing Friid in the Isle of Vigils will grant you bad rep with Etrea.)
+-   Due to this, you should keep some notes handy to pay off your rep so voidwalkers won't come after you. (If you are unable to fight them.)
 
 ## Trivia
 
@@ -102,6 +103,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
 -   If you have even one mantra from cards or other sources it will be removed upon Oath obtainment
 -   You may now dye Silentheart's arm-tattoos/markings.
+-   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands. ([https://www.youtube.com/watch?v=ggRX1zqDccI](https://www.youtube.com/watch?v=ggRX1zqDccI))
 
 File:Pinkheart.png
 

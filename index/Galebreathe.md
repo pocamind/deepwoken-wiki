@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 85964
+revid: 86077
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -658,7 +658,7 @@ Air Pressure
 
  | 
 
-If you hit an enemy's block, your next dash will be an empowered wind dash.
+Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 86074
+revid: 86082
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -24,8 +24,8 @@ Currently, there are **8** NPCs that can join your Guild Base with a certain amo
 
 -   The [Mystic](Mystic.md), which can be hired after building 3+ rooms for Notes.
 -   The [Barber](Barber.md), which can be hired after building 6+ rooms for Notes.
--   The Banker, which can be hired after building 6+ rooms for Notes.
--   The Gunsmith, which can be hired after building ?+ rooms for Notes.
+-   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for Notes.
+-   The Gunsmith, which can be hired in the Armory after building ?+ rooms for Notes.
 -   The [Antiquarian](Antiquarian.md), which can be hired after building 9+ rooms for Notes.
 -   The Librarian, which can be hired after building the Library for Notes.
 -   The Artisan, which can be hired after building the Trophy Room for Notes.
@@ -250,4 +250,4 @@ Bandits raiding a Guild Base.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fishing Room.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
--   Guild bases are very useful. They can be placed anywhere, and can offer healing, protection against enemies or Voidwalkers, safety to train with your guildmates, and allows you to fish without any disturbance.
+-   Guild bases are very useful. They can be placed anywhere besides the depths and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.

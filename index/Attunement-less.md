@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 85969
+revid: 86084
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -292,8 +292,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
  | _Gaze into your opponent's souls._ | 
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   User constantly summons invisible projectiles, inflicting a considerable amount of 'insanity' on an opponent upon collision. The "insanity" inflicted by this move does not count towards the target's actual insanity, so does not contribute to any Insanity based talents a target has.
-        -   Despite this, it can still cause users of [Curse of the No Life King](Enchantments.md) to be instantly killed.
+    -   There is a running myth that Gaze will have invisible orbs hit you and increase your sanity, sadly if you believe that you are a gullible fool.
     -   Creates rotating white rings around the user's eyes.
     -   Upgrading this Mantra extends the duration.
     -   Can be countered by holding block or wearing a [Blindfold](Blindfold.md).
