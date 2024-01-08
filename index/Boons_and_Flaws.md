@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 86038
+revid: 86062
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -348,7 +348,7 @@ _"You learn things at a slower rate than others."_
 
 Sharply increase the EXP curve, making leveling slower, especially on later levels.
 
-Count as 2 flaws, cannot be taken with another flaw.
+Count as 2 flaws, cannot be taken with another flaw. May lower the progress gains required to awaken Resonance (Needs testing)
 
  | 
 
