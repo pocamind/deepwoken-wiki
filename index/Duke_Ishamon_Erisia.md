@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 85855
+revid: 86042
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -44,7 +44,7 @@ _For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)
 -   He laughs afterward when something strikes his counter.
 -   No range limit, damage is always induced if the counter is hit.
 
- | ◯ | N/A | N/A | (★★★) |
+ | ◯ | N/A | N/A | (★★☆) |
 | **Feint** | The Duke pulls his fist back before it hits you, only to hit you again with his other hand.
 
 -   Essentially an average Legion Kata feint.
@@ -236,7 +236,7 @@ Rematch
 -   His first name remains unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
-    -   The [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, but this was later reverted.
+    -   The [Stoneheart](Stoneheart.md)'s description refers him as Ishamon.
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance

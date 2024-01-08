@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 82981
+revid: 86058
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -19,13 +19,13 @@ categories: [Weapons, Daggers]
 | endlag | 0.05s |
 | penetration | None |
 | stances | 1 Handed |
-| selling price | 10 notes |
+| selling price | 10 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia , Purchased in Summer Isle |
+| obtainment | Erisia , Sold at Summer Isle for 50 |
 | description | A gleaming dagger with a dusting of silver. Beloved by outlaws who fancy themselves fashionable. |
 
 ## Description

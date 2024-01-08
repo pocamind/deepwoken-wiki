@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 85319
+revid: 86051
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -31,7 +31,7 @@ Pressing C will activate the **Payback** Resonance.
 
 **Payback** reflects all damage inflicted within the Resonance's timeframe to the user's opponents.
 
-If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 50% of damage dealt.
+If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 50% of damage dealt and bypasses all forms of anti-heal.
 
 One of the best combat bells because it's mostly used while getting combo I-frames and free damage.
 

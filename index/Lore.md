@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 86009
+revid: 86057
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -228,7 +228,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 
 ### **Deukalion Akarad, the First Black Diver.**
 
--   Deukalion Akarad, or commonly known as Akarad, was the first Black Diver, and leader of the Black Divers appointed into an expedition to the Depths by the High Convocation into the unkown, being also the first documented expedition from the recently formed "Citadel Divers" or more known as "The Divers".
+-   Deukalion Akarad, or commonly known as Akarad, was the first Black Diver, and leader of the Black Divers appointed into an expedition to the Depths by the High Convocation into the unknown, being also the first documented expedition from the recently formed "Citadel Divers" or more known as "The Divers".
 -   He is presummed to be dead along with all of his expedition team when they venture too far into the unkown.
 -   Made a great inspiration to the rest of the Apprentice Divers, being able to inspire the apprentice Divers even in his death.
 -   The name of his expedition team was the "Pioneer Divers", the ones who heard the "Song of Fathoms" for the first time.
@@ -468,7 +468,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 -   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
--   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska home was Minityrsa, the place where the Crypt is, alongside the Crypt bing the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt either was Sudaruska's final resting place or her home.
+-   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska home was Minityrsa, the place where the Crypt is, alongside the Crypt being the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt either was Sudaruska's final resting place or her home.
 -   In case the Crypt is related to Sudaruska, there is high chance she had the Regalia "Mute" or also known as "Animal King," given how the automatons there treat those with it.
 
 ### **Songmaster Tzaraan**
