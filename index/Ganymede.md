@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 84244
+revid: 86113
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -95,4 +95,3 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
     -   They are the only race to have their racial talent updated.
 -   Ganymede's name and the names of its variants are taken from the moons of celestial bodies.
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
-    -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.

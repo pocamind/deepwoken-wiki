@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 82721
+revid: 86115
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -23,7 +23,7 @@ categories: [Weapons, Daggers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Starter Weapon, Etris, Lower Erisia |
-| description | "A remarkably thin blade often likened to (and used as) a toothpick." |
+| description | A remarkably thin blade often likened to (and used as) a toothpick. |
 
 ## Description
 

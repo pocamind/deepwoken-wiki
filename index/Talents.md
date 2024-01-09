@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86102
+revid: 86111
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2104,17 +2104,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   ~If the player you are mugging doesn't have any notes, you will stop taking unequipped equipment.~(TESTED) you still take equipment.
     -   Does not take enchanted items
     -   Using this on Arch\_Mage will permaban you from both the game and the Discord server.
-
-### Niger
-
-> _**"Destroy the damn whites!"**_
-
--   Segregation \[Common Talent, Ironsing Exclusive\] - When over 50% posture, enemies testicles will be separated causing a 25% debuff against attacks in the air.
-    -   Requirement: 30 Ironsing, 30 Intelligence
-
--   The Niga's Final Testimony \[Common Talent, Ironsing Exclusive\] - After successfully casting an Ironsing attack, user will gain "Dildos" which go into enemies. +3 Dildos required to cause a burst attack dealing 5% of total health.
-    -   When casting The Niga's Final Testimony, hover over enemies and launch dildos. Afterward, you strike down normally.
-    -   Prerequisite: Ferguson (Mantra)
 
 ### Thunder Brawler
 

@@ -1,6 +1,6 @@
 ---
 title: Leather Pauldrons
-revid: 73966
+revid: 86120
 source: https://deepwoken.fandom.com/wiki/Leather_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]

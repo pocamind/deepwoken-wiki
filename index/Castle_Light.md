@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 86098
+revid: 86112
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -72,5 +72,5 @@ Castle Light is a safe area within the [First Layer](First_Layer.md) belonging t
 -   Used to have normal divers, then got replaced by Black divers, then got replaced with journeyman divers.
 -   This is the only [Antiquarian](Antiquarian.md) in Castle Light that will not allow you to sell even if you have ally reputation with the divers you must be a Deepbound to be able to interact the [Antiquarian](Antiquarian.md) in Castle Light.
 -   It is possible to enter despite drowning, but it requires being knocked and dropped into a certain spot that bounces you against the barrier until you glitch through
-    -   Do note that if you defeat chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the depths via a whirlpool
-        -   This may also work by defeating Ethiron, but it has not yet been confirmed
+    -   Do note that if you defeat chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the depths via a whirlpool. _\[Potentially outdated, needs confirmation\]_
+-   Defeating Ethiron spawns you in Castle Light if you entered via the Layer 1 void, but you still will not be allowed to pass through the barrier, forcing you to reset.

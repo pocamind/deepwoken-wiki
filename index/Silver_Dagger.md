@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 86058
+revid: 86117
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -17,9 +17,8 @@ categories: [Weapons, Daggers]
 | range | 6.5 |
 | swing speed | 0.98x |
 | endlag | 0.05s |
-| penetration | None |
 | stances | 1 Handed |
-| selling price | 10 |
+| selling price | 7 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
