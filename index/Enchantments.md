@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 85994
+revid: 86131
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -59,7 +59,7 @@ There are two variants that enchantments come in:
   <td><div><p>Deal 20% more weapon damage in PvE.<br>
   This damage bonus bypasses the damage multiplier cap.<br>
   Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer.</p></div></td>
-  <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
+  <td><div>Weapon is covered with glowing blue galaxy with stars around. (Bugged)</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>

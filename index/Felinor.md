@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 86031
+revid: 86128
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -65,7 +65,7 @@ Practically not affected by "Obvious" Flaw.
 **Weaknesses:**
 
   
-Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors without good weaponry and armor are usually the subject of ganking due to their race.
+Felinors do not have game stats-wise weaknesses, yet fresh-spawned Felinors without good weaponry and armor are usually the subject of being killed due to their race. Overall, your chances of being attacked is higher than other races and most of your chances of survival is skill based. You'll have to hope that other players aren't hostile to your races, most specifically the highly skilled ones.
 
 **Surnames:**
 
