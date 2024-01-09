@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 85668
+revid: 86145
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -22,11 +22,19 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 | --- | --- | --- |
 | Any | 3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>) | "This'll be a good one!" |
 | Any | 3 [Cloaked Assassins](Cloaked_Assassin.md) | "There they are!" |
-| [Etrea](Etrea.md) | 3 [Vigil Swordsmen](Vigil_Swordsman.md) | "Under decree of the Lord Regent, your life is forfeit!"
+| [Etrea](Etrea.md) | 3 [Vigil Swordsmen](Vigil_Swordsman.md)
+3 [Etrean Soldier](Etrean_Soldier.md)
+
+ | "Under decree of the Lord Regent, your life is forfeit!"
+
 "You won't get away with what you've done!"
 
  |
-| [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md) | "Target sighted. Commencing operation." |
+| [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md) | "Target sighted. Commencing operation."
+
+”Let’s go men!”
+
+ |
 | [Authority](The_Central_Authority.md) | 1 [Authority Commander](<Authority_Commander_(Enemy).md>) | "Commencing mission"
 
 "Give up now - you stand against the Central Authority!"
@@ -47,7 +55,7 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 "Tread no further west, worm!"
 
  |
-| [Summer Company](The_Summer_Company.md) | 3(?) [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | ??? |
+| [Summer Company](The_Summer_Company.md) | 3(?) [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | “This one’s target practice.” |
 | [Ministry](The_Ministry.md) | 1-3 [Contractor](Oath%253A_Contractor.md) NPCS | "We take this one's head or it'll be ours next."
 
 "Pestilent wretch, you die early."
@@ -56,6 +64,10 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 | [Ministry](The_Ministry.md) | 3 [Weak Ministry Enforcers](Ministry_Enforcer.md#weaker-variant) | "This one must die." |
 | [Hive](The_Hive.md) | 1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>) | "Those who stand in the way of our research won't live to tell the tale." |
 | [Hive](The_Hive.md) | 1(?) [Hive Construct](Hive_Construct.md) | "YOUR REMAINS ARE TO BE SCATTERED." |
-| [The Divers](The_Divers.md) | 3 [Diver Journeymen](Journeyman_Diver_Guard.md) | "You stand against the world, worm." |
+| [The Divers](The_Divers.md) | 3 [Diver Journeymen](Journeyman_Diver_Guard.md) | "You stand against the world, worm."
+
+"Yield, traitor to mankind."
+
+ |
 | [The Divers](The_Divers.md) | 1 [Black Diver](<Black_Diver_(NPC).md>) | "We've got research to get back to so let's make this quick." |
 | [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Guard Knives | "Boss'll be pleased about this one." |

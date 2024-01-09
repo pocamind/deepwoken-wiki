@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86111
+revid: 86141
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1038,7 +1038,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Gives a burst of insanity to yourself, which achieves the following:
         -   You start benefitting from talents that require insanity to use (namely Lose Your Mind)
         -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds (namely Shared Misery and Piercing Will)
-    -   Prerequisite: 80 Willpower, have HAVE tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
+    -   Prerequisite: 80 Willpower, have had tier 1 insanity (shivering), and talk to Kasen, located in Layer 2 Floor 1.
 
 ### Human Architecture
 

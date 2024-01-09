@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 85443
+revid: 86134
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Guns]
@@ -10,7 +10,9 @@ categories: [Items, Guns]
 
 ## Description
 
-Bullet Casings can be used in combination with some [ores](Ores.md), like [Erisore](Ores.md) or [Umbrite](Ores.md), to make special bullets with [effects](Status_Effects.md) that can aid you in battle, though they do have downsides. These can be found in [Summer Isle](Summer_Isle.md), in The Furnace by talking to an NPC named Mag. You require 1 Note for 5 Bullets Encased, rounding up to the nearest note. (ex. You need 27 notes for 133 bullets encased, rounded up to 135) It should be important to state that the maximum number of Bullets you can encase with just a single ore is 200.
+Bullet Casings can be used in combination with some [ores](Ores.md), like [Erisore](Ores.md) or [Umbrite](Ores.md), to make special bullets with [effects](Status_Effects.md) that can aid you in battle, though they do have downsides. These can be found in [Summer Isle](Summer_Isle.md), in The Furnace by talking to an NPC named Mag. You can also get a gunsmith in your Guild Base's blacksmith room for 1000 notes, which does the same things as Mag. You require 1 Note for 5 Bullets Encased, rounding up to the nearest note. (ex. You need 27 notes for 133 bullets encased, rounded up to 135) It should be important to state that the maximum number of Bullets you can encase with just a single ore is 200.
+
+The maximum amount of cased bullets you can have in your inventory is capped at 999, and you can't have more than one type of cased bullets at a time.
 
 ### Dialogue:
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 86042
+revid: 86140
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -26,7 +26,7 @@ He is a noble who resided in the City of Celtor before the Great Drowning. In ap
 
 Duke Erisia's arsenal consists of his [Fists](Fists.md) and with the **Legion Kata** fighting style along with the [Galebreathe](Galebreathe.md) attunement:
 
-_For a visual guide consider watching [this video](https://youtu.be/CiVvOQ_zFuA)._
+_For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
