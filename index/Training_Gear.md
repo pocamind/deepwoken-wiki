@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 80856
+revid: 86089
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -41,7 +41,7 @@ A boulder in front of the Antiquarian shop at Etris
 -   Boulder - Template:Cost / **200 uses**
 
 \- BOULDER LOCATION: Right outside of [Etris](Etris.md) Antiquarian, right next to [Stratos](Stratos.md) in [Isle of Vigils](Isle_of_Vigils.md), First floor [Greathive Aratel](Greathive_Aratel.md) Library, Outside of [Summer Isle](Summer_Isle.md) Shop in the pathway, and right outside of [Castle Light](Castle_Light.md)  
-\- HOW TO TRAIN EFFICIENTLY: Use it lol, but also getting hurt overall works
+\- HOW TO TRAIN EFFICIENTLY: Use it, getting hurt overall also works (using it in water will crush you to death)
 
 ### Agility
 

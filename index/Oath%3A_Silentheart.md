@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 86076
+revid: 86095
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -97,7 +97,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 
 ## Trivia
 
--   The red lines that adorn a Silentheart's arms are markings, not veins.
+-   The red lines that adorn a Silentheart's arms are tattoos, not veins.
     -   Despite this, they will lose their coloration should the Silentheart be killed by [Blood Scourge](Blood_Scourge.md), which specifically drains blood.
 -   This Oath is the only Oath that does not give any mantra slots.
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
