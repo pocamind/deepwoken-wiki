@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 86145
+revid: 86175
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -53,6 +53,8 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 "Kneel before the might of the Legions, worm!"
 
 "Tread no further west, worm!"
+
+"On our honor...You perish here, worm."
 
  |
 | [Summer Company](The_Summer_Company.md) | 3(?) [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | “This one’s target practice.” |

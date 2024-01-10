@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86141
+revid: 86181
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1026,8 +1026,8 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I do not hold the beliefs of the common people."**_
 
--   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 3s. (+7 Sanity)
-    -   Whenever you land an M1, you disable every source of your opponent's healing for 4 seconds.
+-   _All the Dead Gods_ \[Rare Talent\] - Your M1's now apply anti-heal for 8s. (+7 Sanity)
+    -   Whenever you land an M1, you disable every source of your opponent's healing for 8 seconds.
     -   Scales with investment up to its requirement, so if you have less WLL/INT than the req it procs less antiheal the lower your WLL/INT is. The antiheal proc still prevents passive regen.
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).

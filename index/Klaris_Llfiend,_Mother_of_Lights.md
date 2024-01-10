@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 82700
+revid: 86170
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,7 +25,7 @@ She is a young Canor, who sports curly bangs that end onto her shoulders. Her pu
 
 Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
-She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her.[\[3\]](#cite-note-3)
+She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her and how she reacts to players under power 15 talking to her.[\[3\]](#cite-note-3)
 
 ## Dialogue
 
