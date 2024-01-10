@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 86077
+revid: 86236
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -547,20 +547,6 @@ You can now obtain 3-star Galebreathe mantras.
  | 
 
 +5 Health
-
- |
-|  | 
-
-Reverse Gale Kick  
-(GALE 30, Rising Wind)
-
- | 
-
-Pressing \[F\] after hitting an opponent with Rising Wind will cause your follow up kick to impale them to the ground.
-
- | 
-
-+1 Passive Agility
 
  |
 

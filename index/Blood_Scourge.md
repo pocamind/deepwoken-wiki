@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 85315
+revid: 86233
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -31,7 +31,7 @@ Pressing C will activate the **Blood Scourge** Resonance. **This combat tags the
 
 **Blood Scourge** will near instantly execute any knocked entity within it's range (even allies) and will recover some of the player's HP depending on the level and health of the target, occurs within a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation, or the target was picked up and moved out of the circle.
 
-If Blood Scourge is corrupted, it can be charged by holding C, which prevent the user from moving but send all executed targets to The Depths if they are at least Power 12. This roughly takes three seconds to charge. Can be negated if the user is hit while charging.
+If Blood Scourge is corrupted, it can be charged by holding C, which prevents the user from moving but sends all executed targets to The Depths if they are at least Power 12. This roughly takes three seconds to charge. Can be negated if the user is hit while charging.
 
 ### _**Resonance Point usage**_
 

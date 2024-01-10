@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 86028
+revid: 86237
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -72,7 +72,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
   
 
- | _Strike down your foes with your blinding light._ | Dosen't proc absolute radiance but does proc deep gems effect (tested) |
+ | _Strike down your foes with your blinding light._ | 
+
+-   This mantra is unparriable and unblockable and will blockbreak anyone that attempts to do so.
+-   Doesn't proc Absolute Radiance.
+
+ |
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
 

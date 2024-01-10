@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 85479
+revid: 86239
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -44,7 +44,7 @@ If you talk to him with 75 agility, he will say:
 
 _"If you value your life, you will run. I can tell you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror."_
 
-If you talk to him with 75 agility and a oath he will say:
+If you talk to him with 75 agility and an oath he will say:
 
 You've taken an oath I see.
 

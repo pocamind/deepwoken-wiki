@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 86142
+revid: 86241
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -34,7 +34,7 @@ Crafted bombs deal true damage when they explode and scale with Intelligence alo
 
 Obtaining the ability to craft bombs will immediately allow you to get talents involving the bombs, which could potentially clog up your card hands with unneeded cards you don't want. Because of this, only get the talent if you _absolutely_ want to get the ability to use bombs.
 
-### Trivia
+## Trivia
 
 -   Bombs deal true damage along with having PvE scaling
 -   Bombs scale with Intelligence
