@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 84545
+revid: 86224
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -125,7 +125,7 @@ The Hero Blade of Frost is an elemental weapon and the Frostdraw variation of th
 
 **Lightning:**
 
-The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon has a unique critical in which the user and phantom summon a line of thunder in front of themselves, dealing damage and applying shock to targets.
+ets.The Hero Blade of Lightning is an elemental weapon and the Thundercall variation of the Hero Blades. This weapon has a unique critical in which the user and phantom summon a line of thunder in front of themselves, dealing damage and applying shock to targ
 
 ## Critical
 
