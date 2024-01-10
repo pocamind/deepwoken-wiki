@@ -1,6 +1,6 @@
 ---
 title: Warden Pauldrons
-revid: 74039
+revid: 86215
 source: https://deepwoken.fandom.com/wiki/Warden_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -16,13 +16,13 @@ categories: [Equipment, Arms, Pauldrons]
 | requirements | None |
 | weight | 2 |
 | innate stats | 10 Health2 Posture, 1 + 1 Pips |
-| innate talent | None |
+| innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Fort Merit |
-| description | Elegant and steadfast, these pauldrons are truly fit for one who protects the seas. |
+| description | "Elegant and steadfast, these pauldrons are truly fit for one who protects the seas." |
 
 ## Description
 

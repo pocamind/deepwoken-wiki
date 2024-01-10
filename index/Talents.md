@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86181
+revid: 86200
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -645,7 +645,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
         -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
     -   Prerequisite: Obtaining the talent from [Valkior](Valikor.md)
 
--   The Sounds from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
+-   The Sound from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
     -   Prerequisite: Power 2.
 
 ### Doomsday Engine

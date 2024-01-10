@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 74676
+revid: 86210
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -11,7 +11,8 @@ categories: [Equipment, Legs, Boots]
 | Leather Boots | |
 |---|---|
 | type | Legs |
-| rarity | ??? |
+| rarity | Common |
+| selling price | 7 |
 | requirements | None |
 | weight | 1 |
 | innate stats | + 2 Health |

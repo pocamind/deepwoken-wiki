@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 73822
+revid: 86213
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -22,7 +22,7 @@ categories: [Equipment, Arms, Coats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:Fort Merit |
-| description | ... |
+| description | "..." |
 
 ## Description
 

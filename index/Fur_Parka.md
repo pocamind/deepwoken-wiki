@@ -1,6 +1,6 @@
 ---
 title: Fur Parka
-revid: 73862
+revid: 86205
 source: https://deepwoken.fandom.com/wiki/Fur_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Parkas]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Parkas]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 2 |
 | innate stats | +2 Health, +1 Posture1 Rare Pip |
 | innate talent | Steady Footing |
@@ -21,8 +21,8 @@ categories: [Equipment, Arms, Parkas]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Aratel Island |
-| description | An essential winter coat to protect you against the cold. |
+| obtainment | Chests from:Aratel Island |
+| description | "An essential winter coat to protect you against the cold." |
 
 ## Description
 

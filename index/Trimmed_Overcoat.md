@@ -1,6 +1,6 @@
 ---
 title: Trimmed Overcoat
-revid: 73863
+revid: 86206
 source: https://deepwoken.fandom.com/wiki/Trimmed_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
 | weight | 2 |
 | innate stats | +2 Health, +1 Posture |
 | innate talent | N/A |
@@ -21,8 +21,8 @@ categories: [Equipment, Arms]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Summer Isle , Erisia , Hell Mode |
-| description | A thick coat to protect you against the elements. |
+| obtainment | Chests from:, Summer Isle, Erisia, Hell Mode |
+| description | "A thick coat to protect you against the elements." |
 
 ## Description
 

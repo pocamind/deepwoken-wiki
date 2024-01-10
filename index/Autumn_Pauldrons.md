@@ -1,6 +1,6 @@
 ---
 title: Autumn Pauldrons
-revid: 73842
+revid: 86204
 source: https://deepwoken.fandom.com/wiki/Autumn_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -21,8 +21,8 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Aratel Island, Erisia |
-| description | ... |
+| obtainment | Chests from:, Aratel Island, Erisia |
+| description | "..." |
 
 ## Overview
 

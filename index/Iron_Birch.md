@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 82382
+revid: 86197
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -22,7 +22,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from Minityrsa, Starswept Valley, Depths & Primadon |
+| obtainment | Chests from Minityrsa, Starswept Valley, Depths, Primadon, & Merchant Ships |
 | description | The smiths of the Hive will often decorate their weaponry with the unique flora of their homes. Some of the world's best existing botanical records are found on the heads of axes. |
 
 ## Description

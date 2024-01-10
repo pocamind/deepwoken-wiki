@@ -1,6 +1,6 @@
 ---
 title: "Rebel's Bandana"
-revid: 77166
+revid: 86211
 source: https://deepwoken.fandom.com/wiki/Rebel's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face]
@@ -11,8 +11,9 @@ categories: [Equipment, Face]
 | Rebel's Bandana | |
 |---|---|
 | type | Face |
-| rarity | ??? |
-| requirements | N/A |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | N/A |
