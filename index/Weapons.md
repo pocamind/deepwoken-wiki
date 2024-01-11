@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 85875
+revid: 86254
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -445,7 +445,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
 
 **Rapiers:**
 
-Rapiers are light weapons that bridge the gap between the Medium and Light playstyles. It has the damage of a Light Weapon combined with the lower speed of a Medium Weapon. They boast a powerful 4 hit critical attack that deals full damage.
+Rapiers are Light Weapons that bridge the gap between the Medium and Light playstyles. It has the rapid strikes of a Light Weapon combined with the extended range of a Medium Weapon. Utilizing the damage of a Light Weapon and the lower speed of a Medium Weapon, they boast a powerful 4 hit critical attack that deals full damage.
 
 <table>
 <tbody>
