@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 84117
+revid: 86262
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -1669,7 +1669,7 @@ I weep for them still, my tears bitter as salt...
 
 -   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
 -   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
--   Stars Above, and the Blade between was written by now disgraced developer iltria.
+-   Stars Above, and the Blade between was written by former developer iltria.
 -   'Vows by the Sea: Inheritance' is named after the group that made Deepwoken, Vows by the Sea.
 -   Currently there are four books that can't be obtained through the usual means. The Diver journals (1-3) can be acquired from corpses in [The Eternal Gale](Second_Layer.md). The Ministry Field Report can be found in [Outpost Antumbra](Outpost_Antumbra.md) as part of [Elykris](Elykris.md) quest.
 -   The canjolin instrument could be loosely based off of the [mandolin](https://en.wikipedia.org/wiki/Mandolin).
