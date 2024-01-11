@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 86252
+revid: 86263
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -83,7 +83,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 
 ### Passives
 
--   **Lifesteal Resistance** - Lifestealing effects such as the Vampirism Enchantment or Bloodless Gems are severly reduced against Primadon.
+-   **Lifesteal Resistance** - Lifestealing effects such as the Vampirism Enchantment or Bloodless Gems are severely reduced against Primadon.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Primadon.
 
 ## Rewards
