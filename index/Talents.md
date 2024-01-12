@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86277
+revid: 86306
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -82,7 +82,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
-    -   Prerequisite: 15 Agility
+    -   Prerequisite: 20 Agility
 
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
     -   Knockback effects are reduced. Friction reduction from ice sheets is negated.
@@ -502,6 +502,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Reinforce, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 ### Cosmic Wind
+
+_**"I seek the qualities of Cosmic Wind."**_
 
 -   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
     -   Prerequisite: 40 Shadowcast, 60 Galebreathe
@@ -1924,8 +1926,7 @@ Prerequisite: Charisma
     -   Each active link reduce mantra ether cost by 30%.
     -   Prerequisite: Static Link, 65 Thundercall
 
--   Static Ace \[Common Talent, Thundercall exclusive\] - Using stream core with an active tether link targets your closest active link.
-    -   Stream core is actually Lightning Stream.
+-   Static Ace \[Common Talent, Thundercall exclusive\] - Using Lightning Stream with an active tether link targets your closest active link.
     -   Using Lightning Stream with a tether will instantly grab the target.
     -   Prerequisite: Static Link, 70 Thundercall
 
