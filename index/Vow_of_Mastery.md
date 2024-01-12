@@ -1,6 +1,6 @@
 ---
 title: Vow of Mastery
-revid: 85012
+revid: 86279
 source: https://deepwoken.fandom.com/wiki/Vow_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Talents, Vows]
@@ -81,7 +81,7 @@ Works on knocked players, cancelling the knocked state and grips, but does not w
 
 _Has a range limit. (Roughly a bit before till the player's name can't be seen anymore.)_
 
- | 10 minutes. 40 minutes on same Subject. |
+ | 10 minutes. 40 minutes on the last subject used on. |
 
 ## Trivia
 
