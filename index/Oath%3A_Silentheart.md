@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 86259
+revid: 86286
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -59,7 +59,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   **Dread Fighter - Passive**
     -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 15%, and mantra resistance up to 25%, however, upon being hit by a Mantra, you lose one stack of Dread.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
-        -   Stacks up to 5 times and each stacks grant 5% mantra resist and 3% damage multiplier.
+        -   Stacks up to 5 times and each stacks grant 5% mantra resistance and 3% damage buff.
 -   **Lodestar - Passive**
     -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
@@ -72,8 +72,8 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
 -   **Mani Katti - Passive**
-    -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large aoe attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
-        -   Is activated by using ctrl + M2.
+    -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large A0E attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
+        -   Is activated by using Ctrl + M2.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
         -   Damage scales on your weapon; light weapons scale harder than heavy weapons, yielding more and less damage respectively.
         -   Does not target allies.

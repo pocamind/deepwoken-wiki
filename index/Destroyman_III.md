@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 85541
+revid: 86284
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -17,7 +17,9 @@ categories: [NPCs]
 
 ## Limited Time Offer
 
-You can buy an official Sharko Plush made by makeship in [here!](https://www.makeship.com/products/sharko-plush)
+You could buy an official Sharko Plush made by makeship in [here!](https://www.makeship.com/products/sharko-plush)
+
+they are sadly sold out.
 
 ## Description
 

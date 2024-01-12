@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 85872
+revid: 86281
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -44,6 +44,7 @@ The critical causes the user to spin the axe in the air, raining down ice shards
 ## Trivia
 
 -   Gran Sudaruska m1s do not apply crystal, nor does it apply chill. This is intended.
+    -   Prior to a patch, Gran Sudaruska used to convert **all** damage into Ice/Chill damage, leading to unintentional mechanics such as Basic attacks, any mantras, and even **Venting** to apply crystals, this was patched and removed, however the m1s used to apply crystal prior to a later hotfix.
 -   The first and only weapon that currently has the ability to speak.
     -   Some of her voice lines are:
         -   "Fall beneath our frost, drowned pawn."
