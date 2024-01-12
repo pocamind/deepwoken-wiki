@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 77960
+revid: 86278
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -39,7 +39,7 @@ Jeremiah is an Etrean that can be found in [The City of the Drowned](The_City_of
 </tr>
 <tr>
   <td colspan="6">*The man takes a deep breath in through his nose*. I smell a gem in your possession. If you'd like to trade for it, I can spare an item from my collection.</td>
-  <td colspan="6">?</td>
+  <td colspan="6">*The man takes a deep breath in through his nose*. You smell like empty pockets. Come back if you find something interesting.</td>
 </tr>
 <tr>
   <td colspan="6">Gem?</td>

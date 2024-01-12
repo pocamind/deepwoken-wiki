@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 86207
+revid: 86276
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face, Equipment]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86200
+revid: 86277
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -39,7 +39,7 @@ A handful amount of Talents are locked with a prerequisite. Depending on the pre
     -   For example: Picking a mentaI fortress card will make you more likely to pull another mentaI fortress talent in your next set of talents.
 
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
-    -   Drinking a lot of potions is a prerequisite for Potion Quaffer.
+    -   Drinking at least one potion is a prerequisite for Potion Quaffer.
 
 -   A high enough Power.
     -   Thresher CIaws requires [Power](Power.md) 13 as a prerequisite.
@@ -676,7 +676,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. ( +6 Carry Load, +2 Passive Agility)
     -   Deals true damage.
         -   You deal damage equivalent to 100% of your base damage, unaffected by any modifiers, essentially dealing another fresh hit for free.
-    -   Can proc from physical mantras
+    -   Can proc from some physical mantras
     -   Prerequisites: 20 Strength, 25 Agility
 
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
