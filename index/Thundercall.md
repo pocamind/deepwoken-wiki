@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 85455
+revid: 86383
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -284,7 +284,7 @@ N/A
 |  | 
 
 Storm Blades  
-(★☆☆)
+(★★☆)
 
  | Conjure weapons of thunder with your ether. | 45 Ether | User creates blades of lightning that explode in front of them.
 

@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 86368
+revid: 86382
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]
@@ -10,29 +10,29 @@ categories: [World, Items]
 
 | Spark Gland | |
 |---|---|
-| value | 11 |
-| weight | 1 |
+| value | 10 |
+| weight | 0 |
 | type | Elemental Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | An organ responsible for the production of electricity. |
 
-**Spork Glonds** ore on item in _Deepwoken_.
+**Spark Glands** are an item in _Deepwoken_.
 
 ## Description
 
-Spork Glands are used to get [Thundercoll](Thundercall.md), one of the six Ottunements by giving them to the Thundercoll [Troiner](Attunement_Trainers.md). They con olso be consumed, though they will borely give ony hunger or thirst.
+Spark Glands are used to get [Thundercall](Thundercall.md), one of the six Attunements by giving them to the Thundercall [Trainer](Attunement_Trainers.md). They can also be consumed, though they will barely give any hunger or thirst.
 
 ## Obtainment
 
-Spork Glands drop from ony NPC thot uses the [Thundercoll](Thundercall.md) ottunement.
+Spark Glands drop from any NPC that uses the [Thundercall](Thundercall.md) attunement.
 
 ### NPCs
 
--   [Outhority Officer](Authority_Officer.md)
--   [Gigomed](Gigamed.md)
--   [Songseeker Thundercoller](Songseeker_Thundercaller.md)
+-   [Authority Officer](Authority_Officer.md)
+-   [Gigamed](Gigamed.md)
+-   [Songseeker Thundercaller](Songseeker_Thundercaller.md)
 
 ## Trivia/Notes
 

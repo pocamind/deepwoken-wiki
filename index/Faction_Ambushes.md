@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 86175
+revid: 86378
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -20,9 +20,20 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 
 | Faction | Enemy(s) | Dialogue |
 | --- | --- | --- |
-| Any | 3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>) | "This'll be a good one!" |
-| Any | 3 [Cloaked Assassins](Cloaked_Assassin.md) | "There they are!" |
-| [Etrea](Etrea.md) | 3 [Vigil Swordsmen](Vigil_Swordsman.md)
+| Any | 3 [Lowly Bandits](Bandit.md)
+3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>)
+
+3 [Cloaked Assassins](Cloaked_Assassin.md)
+
+ | "This'll be a good one!"
+
+"There they are!"
+
+ |
+| [Etrea](Etrea.md) | 3 Vigil Captains
+
+3 [Vigil Swordsmen](Vigil_Swordsman.md)
+
 3 [Etrean Soldier](Etrean_Soldier.md)
 
  | "Under decree of the Lord Regent, your life is forfeit!"
@@ -40,7 +51,11 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 "Give up now - you stand against the Central Authority!"
 
  |
-| [Ignition Union](The_Ignition_Union.md) | 1 [Mechaloduant](Megalodaunt.md#mechalodaunt) | "GROARRRRRR!" |
+| [Ignition Union](The_Ignition_Union.md) | 1 [Mechaloduant](Megalodaunt.md#mechalodaunt) | "GROARRRRRR!"
+
+\*Kzzt!\* This one's REALLY nicked. \*Kzzt.\*
+
+ |
 | [Ignition Union](The_Ignition_Union.md) | 3 Arcwarders | "There's the scab, lads!" |
 | [Hundred Legions](The_Hundred_Legions.md) | 3 [Legion Captains](Legion_Captain.md)
 
@@ -58,7 +73,11 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 
  |
 | [Summer Company](The_Summer_Company.md) | 3(?) [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | “This one’s target practice.” |
-| [Ministry](The_Ministry.md) | 1-3 [Contractor](Oath%253A_Contractor.md) NPCS | "We take this one's head or it'll be ours next."
+| [Ministry](The_Ministry.md) | 1-3 [Strong Ministry Enforcers](Ministry_Enforcer.md)
+
+1-3 Ministry Footpads
+
+ | "We take this one's head or it'll be ours next."
 
 "Pestilent wretch, you die early."
 
@@ -72,4 +91,4 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 
  |
 | [The Divers](The_Divers.md) | 1 [Black Diver](<Black_Diver_(NPC).md>) | "We've got research to get back to so let's make this quick." |
-| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Guard Knives | "Boss'll be pleased about this one." |
+| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Knives of Eylis | "Boss'll be pleased about this one." |
