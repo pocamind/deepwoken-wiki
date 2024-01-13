@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 86325
+revid: 86357
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -53,7 +53,9 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 ## Base Attunements
 
-Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again.Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
+Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again.
+
+Template:TestingTemplate:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
 ## Obtainable Attunements
 

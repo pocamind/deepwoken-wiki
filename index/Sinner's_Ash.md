@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 86032
+revid: 86362
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, Chaser, First Layer, Deep Widow |
+| obtainment | Duke Erisia, Chaser |
 | description | "Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes." |
 
 ## Description

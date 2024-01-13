@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 85325
+revid: 86359
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -30,6 +30,8 @@ When used, an orange, red, blue, green or purple field will appear around the us
 Pressing C will activate the **Sacred Field** Resonance.
 
 **Sacred Field** will spawn an area that grants you and your allies defense against physical and elemental damage. **Sacred Field** has a random cooldown of 15-30 seconds. The area isn't a field, yet a sphere meaning you can be under and over the area and you will still get the effect of **Sacred Field.**
+
+If Sacred Field is corrupted, the field will follow its user instead of staying where it was placed.
 
 ### _Resonance Point usage_
 

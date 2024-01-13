@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 83358
+revid: 86364
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -22,7 +22,7 @@ categories: [Relics]
 
 ## Description
 
-The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Rain Spire](Rain_Spire.md) that allows its user to summon the Void and create an artificial [Voidzone](Voidzones.md) for six minutes, sending those that die within its field to [The Depths](The_Depths.md), only if they're Power 15 or above. It has infinite uses, but it has a 3 hour cooldown.
+The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Rain Spire](Rain_Spire.md) that allows its user to summon the Void and create an artificial [Voidzone](Voidzones.md) for 6 minutes, sending those that die within its field to [The Depths](The_Depths.md), only if they're Power 15 or above. It has infinite uses, but it has a 3 hour cooldown.
 
 ## Trivia
 

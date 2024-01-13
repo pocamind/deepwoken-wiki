@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 86326
+revid: 86353
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -31,8 +31,6 @@ Along with this ability comes several limitations, being that certain items of s
 -   To store any item that can be soulbound, including legendary [weapons](Weapons.md) and [enchants](Enchantments.md), you will be prompted to spend 1 [Knowledge](Knowledge.md) to perform a "Vow of Safekeeping".
 -   When storing any eligible [Relics](Relics.md), each individual relic will take up their own slot and cannot stack like regular items do.
 -   When storing weapons or armor, they will likewise take up their own slot and cannot stack like regular items do.
--   [Monster Mantra](Monster_Mantras.md) ingredients cannot be stored.
--   Certain [Relics](Relics.md) cannot be stored. This includes the [Moonseye Tome](Moonseye_Tome.md), [Void Spire](Void_Spire.md), and [Rain Spire](Rain_Spire.md).
 -   [Divers Light Plate](<Diver's_Light_Plate.md>) cannot be stored.
 -   Starter echoed items cannot be stored.
 -   You can store food that can be stacked.

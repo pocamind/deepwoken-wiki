@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 86280
+revid: 86358
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -19,7 +19,7 @@ categories: [Resonances]
 
 ## **Description**
 
-**Payback,** also known as Counter, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
+**Payback,** also known as Counter or Full Counter, is a [Resonance](Resonance.md) or "bell" that players can obtain, and is common to roll.
 
 ### Appearance when Used
 

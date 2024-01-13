@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 85334
+revid: 86361
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,7 +49,7 @@ When obtained, Teleportation will spend its points on the following stats:
 -   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around and persist through servers.
 -   **Travel Speed:** The more points are spent on this stat, the faster the players are taken from the starting point to the marker.
 -   **Charge Speed:** The more points are spent on this stat, the faster the teleportation starts.
--   **Ring Size:** The more points are spent on this stat, the larger the ring gets.
+-   **Ring Size + Capacity:** The more points are spent on this stat, the larger the ring gets and the more people can travel at once.
 
 ## Trivia
 

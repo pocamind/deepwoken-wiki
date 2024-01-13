@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86319
+revid: 86341
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -288,7 +288,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Prerequisites: assassinate around 20 enemies, 20 Agility
+    -   Prerequisites: 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
