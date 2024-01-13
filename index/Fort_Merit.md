@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 84858
+revid: 86307
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -142,3 +142,4 @@ Below is a list of potential items that can spawn in chests in Fort Merit.
 -   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "When are you gonna learn your lesson?" "Come on."
 -   Right now, it doesn't have too much importance apart from grinding exp and items from the Etrean guardmaster, but in a future alongside the Authority Origin it may get way more importance that it has now.
 -   Fort Merit can be an excellent place to farm early levels if you have good skills.
+-   The fort, being once of Etrean influence - does not happen to match the standard Etrean architecture. With the hexagonal buildings dotted around the fort, it is implied it may have been built by the [lost Celtorian](Lost_Celtor.md) nation.

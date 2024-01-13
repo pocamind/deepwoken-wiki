@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 85316
+revid: 86309
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -79,7 +79,7 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 -   If your weapon is [enchanted](Enchantments.md), its effects will also apply to your Crazy Slots weapons.
 -   If your weapon has stars, their effects will also apply to your Crazy Slots weapons.
 -   The Divine Longsword model highly resembles the "unsealed" version of _[Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto)_, a weapon from the _[Fate](https://typemoon.fandom.com/wiki/Fate_series)_ series.
--   The Divine Spear model highly resembles the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
+-   The old Divine Spear model highly resembled the _[Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear)_ from _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
 -   This resonance is inspired by a character from _[Hunter x Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_ named _"Kite"_, whose special ability is to summon a random weapon from a selection of nine. This ability is also called "Crazy Slots".
 -   This resonance also may be inspired by "_Shardblades"_ in _[The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_, as the wielders of said divine weapons can make them appear by holding out their arm, and when summoned they produce white mist.
 -   While Crazy Slots' roll chances are affected by your weapon stat, it is also possible that one of the two weapons for that stat may be more common depending on where the points were spent. This is just speculation, however.

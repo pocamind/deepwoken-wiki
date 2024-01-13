@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 85960
+revid: 86323
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -126,7 +126,8 @@ Located in Songseeker Mines, through the passage containing mudskippers.
 -   Grants a Random Flaw
     -   The Simple flaw cannot be granted
 -   You cannot use the Shrine of Order if you already have an [Oath](Oaths.md). Using it won't lock you out of getting an Oath.
--   Innate (racial) attribute points do not count when redistributing your points, although attribute points you assign during character creation do.
+-   Attribute points you assign during character creation, as well as Innate (racial) attribute points, get affected by points redistribution.
+-   Note: Shrine of Order will ignore racially boosted stats you haven't invested in, don't worry
 -   Incredibly strong as most [basic attributes](Attributes.md#basic-attributes) are primarily important for unlocking [talents](Talents.md) and [mantras](Mantras.md) rather than direct stat boosts.
 -   Certain talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
 -   Elemental Unbound Talents disappear after the attribute goes below 75.

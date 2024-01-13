@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86306
+revid: 86319
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -179,6 +179,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 80 Intelligence
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
+    -   You have 25% chance to apply the effect of your drank potion on your allies.
     -   Prerequisites: 55 Intelligence
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less, you are more accustomed to potions and gain greater benefits from their ingestion.
@@ -279,24 +280,20 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I prefer to attack unseen."**_
 
+-   Deep Wound \[Common Talent, Light\] - Assassinating a target with a Light Weapon applies anti-heal for 20 seconds.
+    -   Prerequisite: 45 Light Weapon
+
 -   Low Blow \[Common Talent, Agility\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
     -   Prerequisites: 60 Agility, Assasin
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
-    -   Prerequisites: assassinate around 20 enemies, 10 Agility
-
--   Muffled Scream \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of talents that slow your executions. (+1 Passive Agility)
-    -   Prerequisite: 50 Agility
--   Now You See Me \[Common Talent, Agility\] - Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
-    -   Prerequisite: 20 Agility or obtained through outfits
-
--   Vital Point \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
-    -   This talent used to give 50% PEN, but was nerfed down to 25% during November 3rd, 2023.
-    -   Prerequisite: assassinate around 20 enemies, 20 Agility
+    -   Prerequisites: assassinate around 20 enemies, 20 Agility
 
 -   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
+-   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
+    -   Prerequisite: 60 Agility
 
 ### Athlete
 
@@ -572,19 +569,16 @@ _**"I seek the qualities of Cosmic Wind."**_
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
     -   Prerequisite: 45 Agility
--   Deep Wound \[Common Talent, Light\] - Assassinating a target with a Light Weapon applies anti-heal for 20 seconds.
-    -   Prerequisite: 45 Light Weapon
-
 -   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
     -   Reduce grip time by 0.5 seconds (16.67% faster)
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
     -   Prerequisite: Assassin, 30 Agility
--   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
-    -   Prerequisite: 60 Agility
+-   Muffled Scream \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of talents that slow your executions. (+1 Passive Agility)
+    -   Prerequisite: 50 Agility
 
 ### Dark Siphon
 
-> **"_I feed on the soul of my enemies."_**
+> **"_I feed on the souls of my enemies."_**
 
 -   Dark God \[Common Talent, Shadowcast Exclusive\] If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. (+1 Elemental Intensity)
     -   Prerequisite: 20 Shadowcast
@@ -978,13 +972,12 @@ _**"I dance with the flames."**_
 > _**"I seek the elegance of a Glassdancer."**_
 
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent. (+4 Elemental Intensity)
-    -   Applying chill or freeze now applies ice crystals on the enemy instead. Stacking 5 ice crystals makes them explode.
+    -   Applying chill or freeze now applies red ice crystals on the enemy instead. Stacking 5 ice crystals makes them explode.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusive: Unyielding Frost
 
 -   _**Crystal Shrapnel**_ \[Advanced Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
-
--   Prerequisites: Glass Path: Crystallization, 85 Frostdraw
+    -   Prerequisites: Glass Path: Crystallization, 60 Frostdraw
 
 ### Great Wall
 
@@ -1388,6 +1381,7 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisite: 20 Willpower
 
 -   _Thresher Claws_ \[Rare Talent\] - All of your attacks have 10% more PEN.
+    -   Mantras receive only 5% more PEN.
     -   Prerequisites: [Power](Power.md) 13
 
 -   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
@@ -2579,9 +2573,9 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 
 -   Apothecary: [Skeptic Pioneer](Skeptic_Pioneer.md) - Potions you prepare will have amplified positive effects when consumed. (+2 Health)
     -   Also available as a common talent.
--   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 15% more damage.
+-   Centurion's Resolve: [Legion Centurion](Legion_Centurion.md) - Your [Legion Kata](Legion_Kata.md) attacks now deal 10% more damage.
 -   Chief's Will: [Navaen War Chief](Navaen_War_Chief.md) - Your [Way of Navae](Way_of_Navae.md) fist style has 25% armor PEN.
--   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 25% PEN.
+-   Crippling Darkness: [Prophet's Cloak](<Prophet's_Cloak.md>) - Your non-basic attacks have 20% PEN.
 -   Devastating Power: [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) - Gain extra Ether for every Mantra hit.
 -   Environmentalist: [Pathfinder Cloak](Pathfinder_Cloak.md) - Resist the effects of Weather Effects.
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
@@ -2592,12 +2586,12 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
 -   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
--   Now You See Me: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
+-   Lowstride: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
     -   Also available as a common talent.
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
--   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 20% more damage. (+3 Passive Agility)
+-   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 10% more damage. (+3 Passive Agility)
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) - Significantly reduces the time spent stunned when you are block broken.
 
 ## Blacklisted Talents

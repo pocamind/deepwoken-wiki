@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 86281
+revid: 86329
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -16,26 +16,26 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
 | scaling | ICE: 8, HVY: 4 |
 | range | 8.5 |
 | swing speed | 0.62x |
-| special effect | Rain down ice shards after 3 hits, Talks when killing Ministry Scouts or Players, Critical freezes enemy upon connection (Places crystals if the player has Glass Path:Crystallization) |
+| special effect | Rain down ice shards after 3 hits, Talks when killing Ministry NPCs or Players, Critical freezes enemy upon connection (Places crystals if the player has Glass Path:Crystallization) |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Layer 2, Ministry ambushes (chest) |
+| obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Chaser, Scholar of the Burning Blood (Chest), Layer 2, Ministry ambushes (chest) |
 | description | "In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the lost front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska." |
 
 ## Description
 
-Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 3. It does 24 base damage and has a swing speed of 0.62x. It has a maximum damage of 45.6 at 100 frostdraw and 100 heavy weapon. It is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
+Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 24 base damage and has a swing speed of 0.62x. She has a maximum damage of 45.6 at 100 frostdraw and 100 heavy weapon. She is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
 This weapon has 2 (or 3 with a talent) passives abilities:
 
 -   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
--   When killing a player with Oath: Contractor or a [Ministry Scout](Ministry_Scout.md), she will talk. (**See trivia for the lines**)
--   Gran Sudaruska Critical with crystal will apply crystals.
--   Gran Sudaruska Critical without crystal will freeze the victim.
+-   When killing a player with Oath: Contractor or any ministry NPCs (besides the necromancer), she will talk. (**See trivia for the lines**)
+-   Gran Sudaruska's Critical with crystal will apply crystals.
+-   Gran Sudaruska's Critical without crystal will freeze the victim.
 
 ## Critical
 
@@ -67,9 +67,10 @@ The critical causes the user to spin the axe in the air, raining down ice shards
 -   The runes on the blade are Elder Furthark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
     -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
 -   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry and it would just be... extremely ironic to use it.
-    -   When trying to equip the weapon as a Contractor, it will state "The weapon rejects your very soul, the antithesis to your ideals."
+    -   When trying to equip the weapon as a Contractor, the game will state "The weapon rejects your very soul, the antithesis to your ideals."
+    -   You can however, equip her before obtaining contractor, just don't unequip her after obtainment or you won't be able to re-equip her.
 -   The critical works with Meteor Impact.
 -   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
--   Strangely, Gran Sudaruska has a power requirement of 3, although it's impossible to meet the other requirements within Power 3.
+-   Strangely, Gran Sudaruska used to have a power requirement of 3, although it's impossible to meet the other requirements within Power 3.
 -   Gran Sudaruska can be used one handed even if you don't have One Handed Training.
 -   Gran Sudaruska's crit only has a hitbox in the direction that your character is facing, which can be used to gain advantage in fights.

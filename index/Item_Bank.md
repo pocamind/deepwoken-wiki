@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 86012
+revid: 86326
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -44,3 +44,5 @@ Along with this ability comes several limitations, being that certain items of s
 -   [Hallowtide](Hallowtide.md) weapons and equipment can be stored for free unless they are enchanted, then they will follow the soulbind rule.
 -   You cannot store [Campfires](Campfire_Pit.md).
 -   You cannot be attacked while in the GUI
+-   Using the item bank restricts you from accessing it again until you rejoin the server.
+-   Withdrawing an item from the bank prevents you from dropping it until you rejoin the server.

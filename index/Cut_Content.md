@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 85218
+revid: 86327
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -39,9 +39,9 @@ notices:
 -   **Spell Stacking -** A (possibly) unintended Mechanic that allowed Players to M1 and/or parry while performing Mantras, allowing them to either cancel the Mantra but continue the M1, or to parry an oncoming attack while performing a Mantra, both of which led to horrible interactions.
     -   Removed a month after release for allowing easy and unfair movestacks.
 -   **Legendary Talents -** Incredibly powerful and rare to appear cards with game-changing effects, which could make or break builds. While they could appear randomly, they would be guaranteed to appear at Powers 15, 30, and 60.
-    -   Replaced with Advanced Cards in the 12/23/22 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
+    -   Replaced with Advanced Cards in the December 23rd, 2022 Verse 2 Update. Others were turned into Rare Talents or completely removed from the game.
 -   **Luck -** A small currency/counter that could be gained from doing certain tasks like fighting and killing Players, Corrupted Monsters, or Bosses, which made Rares and Legendary Talents appear more often. A small amount would be lost upon picking a Rare and a larger amount on a Legendary Talent. Stacked up to a max of 45%.
-    -   Was removed on the 12/23/22 Verse 2 Update.
+    -   Was removed on the December 23rd, 2022 Verse 2 Update.
 
 ## Mantras
 
@@ -49,7 +49,7 @@ notices:
 -   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantras' properties on the Mantra Table.
 -   **Announced Casting -** Move names were once announced in a red highlight on the screen whenever used. This is NOT to be confused with **Spell Shout** which is obtained by paying 50 notes to NPC in Isle of Vigil's library.
 -   **Flame Pillars** (1 Star Flame) - Created a pillar of flame at the cursor location, acting similarly to the Nautilodaunt stomp. Was replaced by Fire Eruption in early updates.
--   **(OLD)** **Tornado** (1 Star Wind) - tornado. Reworked into the current iteration on (XX/XX/XX)
+-   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on (XX/XX/XX).
 -   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge. Now it absorbs some of the damage from your burn tick damage and turns it into healing; some of the damage from Lava Serpent eruptions is also converted into healing.
 
 ## Monsters
@@ -77,83 +77,87 @@ notices:
 -   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
 -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
 -   **Agitating Static \[Common Talent, Thundercall exclusive\] -** Using Discovery of Fire will light nearby downed enemies aflame.
-    -   in 10/06/23 update, Agitating Static was merged into Discovery of Fire.
+    -   in October 6th, 2023 update, Agitating Static was merged into Discovery of Fire.
 -   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
-    -   In the 08/15/23 update, Black Out was merged into Sightless Still.
+    -   In the August 15th, 2023 update, Black Out was merged into Sightless Still.
 -   **Blood Shadow \[Rare Talent\] -** Allies and enemies you Reinforce are drained of their HP until you are fully healed. (For enemies you drain their hp until you are hit. If they are blocking while you are draining their hp, the drain will be cut in half.)
-    -   in 12/30/23 update, Blood Shadow was removed and replaced by Lord's Tithe.
+    -   in December 30th, 2023 update, Blood Shadow was removed and replaced by Lord's Tithe.
 -   **Boom, Headshot \[Common Talent\] -** \[Guns\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   In the 12/20/22 update, Boom, Headshot was merged into Lethal Precision.
+    -   In the December 20th, 2022 update, Boom, Headshot was merged into Lethal Precision.
 -   **Boot Wallet \[Common Talent\]** **\-** You no longer lose notes from dying.
     -   Boot Wallet was merged into Robber Baron.
 -   **Command: Leech \[Common Talent\] -** Conjure the ether of your vow into essence and transfer it to yourself. (+4 Ether, +3 Health)
-    -   In the 03/13/23 update, Command: Leech is now a base Vow of Mastery command.
+    -   In the March 13th, 2023 update, Command: Leech is now a base Vow of Mastery command.
 -   **Command: Locate \[Common Talent\] -** Locate one of your vow members (+4 Ether, +3 Health)
-    -   In the 12/06/22 update, Command: Locate became a base Vow of Mastery command.
+    -   In the December 6th, 2022 update, Command: Locate became a base Vow of Mastery command.
 -   **The Cold Forge \[Common Talent\] -** Your forge more shurikens when casting on ice. (+5 Elemental Intensity)
     -   The talent was removed from the game with 05/15/23 update, as it became a base behavior for Ice Forge.
 -   **Concentrated Reload \[Common Talent\] -** Perfect Casting a mantra and flourishes reduce the cost of Ether Bullets for 5 seconds. (+4 Ether, +8 Reservoir)
 -   **Crystal Breaker \[Common Talent\] -** When breaking someone's posture detonate any active crystals on their body. (+5 Elemental Intensity, +3 Health)
     -   The talent was removed from the game with 05/15/23 update, as it became a base behavior for Crystal.
 -   **Diplomat \[Common Talent\] -** Your natural skill in mediating conflict makes people think more highly of you. (+3 Ether, +3 Health)
-    -   In the 12/13/22 update, Diplomat was merged into Celebrity.
+    -   In the December 13th, 2022 update, Diplomat was merged into Celebrity.
 -   **Drifting Winds \[Common Talent\] -** Wind mantras make enemies winded on hit, winded enemies have lowered attack speed. (+2 Passive Agility, +5 Elemental Intensity)
-    -   The talent was removed from the game with 05/15/23 update, Winded became a base effect of Galebreathe.
+    -   The talent was removed from the game with May 15th, 2023 update, Winded became a base effect of Galebreathe.
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
-    -   In the 01/03/23 update, Encouraging Presence was merged into Conquer Your Fears.
+    -   In the January 3rd, 2023 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
-    -   In the 10/24/22 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
+    -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
-    -   The talent was removed from the game with 10/28/23 update, as it became a base behavior for Ice Skate.
+    -   The talent was removed from the game with October 28th, 2023 update, as it became a base behavior for Ice Skate.
 -   **Graceful Landing \[Common Talent, Agility\] -** You easily brush off shorter falls, taking no fall damage. (+1 Passive Agility)
-    -   In the 08/15/23 update, Graceful Landing was merged into Kick Off.
+    -   In the August 15th, 2023 update, Graceful Landing was merged into Kick Off.
 -   **Heartbreaker \[Common Talent\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
-    -   In the 12/20/22 update, Heartbreaker was merged into Lethal Precision.
+    -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
     -   Was removed with Verse 2 update.
 -   **Third Interrogation \[Thundercall Exclusive\] -** Electrified attacks do 50% less damage to you.
-    -   in the 10/06/23 update, Third Interrogation was merged into Second Interrogation.
+    -   in the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
 -   **Thorns of Fire \[Common Talent, Flamecharm Exclusive\] -** Taking damage while using Flame Repulsion reflects the damage back to the attacker. (+2 Elemental Intensity)
-    -   The talent was removed from the game with 10/06/23 update, as it became a base behavior for Flame Repulsion.
+    -   The talent was removed from the game with October 6th, 2023 update, as it became a base behavior for Flame Repulsion.
 -   **True Pain \[Rare Talent, Light\] -** Your Critical Strikes Can Now Crit (+2 Health)
-    -   In the 12/16/23 update, True Pain was removed due to Knife's Journey rework.
+    -   In the December 16th, 2023 update, True Pain was removed due to Knife's Journey rework.
 -   **(Old) Twisted Puppets \[Common Talent, Dual Attunement\] -** Bodies affected by Corpse Explosion will lift into the air and track onto an enemy.
-    -   In the 12/16/23 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
+    -   In the December 16th, 2023 update, Twisted Puppets was removed and replaced with Wraith Path: Twisted Puppets.
 -   **Familiar Sight \[Common Talent, Charisma\]** **\-** Being hit by someone of the same race causes them to be charmed for a short duration.
-    -   In the 12/13/22 update, Familiar Sight was merged into Tough Love.
+    -   In the December 13th, 2022 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
-    -   In the 02/06/23 update, Finesse was merged into Now You see Me.
+    -   In the February 6th, 2023 update, Finesse was merged into Now You see Me.
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
 -   **Gale Dash \[Rare Talent\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
-    -   In the 5/16/23 update, Gale Dash was merged into Air Pressure.
+    -   In the May 16th, 2023 update, Gale Dash was merged into Air Pressure.
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
 -   **Inhuman Reactions \[Generic Talent, Common Talent\] -** You automatically vent when you roll. (+8 Health, +7 Ether)
 -   **In Twain \[Common Talent\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
-    -   In the 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
+    -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Legendary Echoes -** Receive a random Legendary Talent.
     -   With Verse 2 update most Legendary talents have turned into Advanced talents, while other - decreased in rarity to Rare.
 -   **Lethal Force \[Common Talent\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
-    -   In the 01/03/23 update, In Twain and Lethal Force were merged into Lethal Precision.
+    -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
 -   **Lethal Precision \[Common Talent\] -** When you attack an enemy much weaker than you, you kill them instantly.
-    -   In the 10/06/23, Lethal Precision was changed into the quest talent Mercy Kill.
+    -   In the October 6th, 2023, Lethal Precision was changed into the quest talent Mercy Kill.
 -   **Lord Commander \[Rare Talent\] -** Everyone you buff with Reinforce heals you by 1% (+5 Health)
-    -   In the 08/15/23 update, Lord Commander was merged into Grand Support.
+    -   In the August 15th, 2023 update, Lord Commander was merged into Grand Support.
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
+-   **Now You See Me \[Common Talent, Agility\] -** Your stealth when crouching is increased. You pull your weapon out silently. (+3 Passive Agility)
+    -   In the January 13th, 2024 update, Now You See Me was merged into Lowstride.
 -   **Perfect Cancel \[Generic Talent, Common Talent\] -** \[Gun\] Permanently cut your ether bar in half but remove the cost of mantra cancelling (+4 Ether, +7 Reservoir)
 -   **Pyromania \[Common Talent\] -** Self-inflicted fire damage is reduced. (+3 Elemental Intensity)
-    -   in the 10/06/23 update, Pyromania was merged into Immolation.
+    -   in the October 6th, 2023 update, Pyromania was merged into Immolation.
 -   **Quick Link \[Common Talent, Thundercall exclusive\]** - Landing an uppercut adds a static link to your opponent. (+4 Elemental Intensity)
-    -   In the 08/15/23 update, Quick Link was merged into Static Link.
+    -   In the August 15th, 2023 update, Quick Link was merged into Static Link.
 -   **Quick Recovery \[Common Talent, Agility\]** - You move faster after doing a wall jump. (+1 Passive Agility)
-    -   In the 12/13/22 update, Quick Recovery was merged into Kick Off.
+    -   In the December 13th, 2022 update, Quick Recovery was merged into Kick Off.
 -   **Salesperson \[Common Talent\] -** Vendors pay more for your sold items. Pretty sure they just pay extra to get you to leave them alone. (+2 Ether, +2 Health)
-    -   In the 12/13/22 update, Salesperson was merged into Snake Oil.
+    -   In the December 13th, 2022 update, Salesperson was merged into Snake Oil.
 -   **Shatter Spear \[Rare Talent\] -** Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
-    -   The talent was removed from the game with 05/15/23 update, as it became a base behavior for Ice Lance.
+    -   The talent was removed from the game with May 15th, 2023 update, as it became a base behavior for Ice Lance.
 -   **Unyielding Focus \[Common Talent\] -** Your conviction is true. No sugar-coated words or charms can sway you from your goals. You are resistant to charms and tricks. (+5 Sanity)
-    -   In the 01/03/23 update, Unyielding Focus was merged into Disbelief.
+    -   In the January 3rd, 2023 update, Unyielding Focus was merged into Disbelief.
 -   **Vanishing Follow-up \[Legendary Talent\] -** Upon a successful flourish, teleport to the opponent when they stop moving.
+-   **Vital Point \[Common Talent, Agility\] -** Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
+    -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
 
 ## Other
 
