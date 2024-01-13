@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 86000
+revid: 86373
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -20,7 +20,7 @@ Bankers are NPCs that a player can utilize to store items across slots. You can 
 They can be found in:
 
 -   [Isle of Vigils](Isle_of_Vigils.md) (right next to the antiquarian)
--   [Etris](Etris.md) (right across from the lance quest)
+-   [Etris](Etris.md) ( across from the lance quest)
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
@@ -33,9 +33,17 @@ They can be found in:
 
 Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player pulls them out.
 
-Players start with six free slots, each holding one item, and in each slot players and can put in almost all items and relics, but some items can't be put in banks. For example, a light plate can't be put in banks. For some items you must pay a fee of one knowledge to store them, some examples include [enchant stones](Enchant_Stone.md), legendary weapons, [relics](Relics.md), and enchanted gear.
+Players start with six free slots, each holding one item, almost all items can be put inside the bank slots, including Soulbound/Relic Items for a fee of 1 knowledge, the only known item unable to be banked is the [Diver's Light Plate](<Diver's_Light_Plate.md>).
 
-Players can pay 10,000 notes to unlock another slot, this action can be preformed an unknown number of times.
+### Paid Bank Slots
+
+Each slot will call a small, or large fee depending on how many slots you currently have. The listed prices below apply to every new slot, (e.g, the 15th slot would cost .)
+
+-   0-6, Free (Base Slots)
+-   7-12, ( )
+-   13-17, ( )
+-   18-23 ( )
+-   24-60 ( )
 
 If you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, [here is a great video](https://youtu.be/2m4qD3xfOAM).
 
