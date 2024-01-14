@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 86402
+revid: 86453
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -82,7 +82,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appeara
 
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
--   You can craft void feathers using 3 dark feathers and 1 umbral obsidian, void feathers are also droppable by normal owls but at low rate
+-   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Void feathers are also droppable by Non-Corrupted [Deep Owls](Deep_Owl.md) but at a low rate.
 
 ## References
 

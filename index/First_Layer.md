@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 85043
+revid: 86452
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -97,7 +97,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   If 5 or more players attempt to escape, the Voices may be disgusted by the players attempting to "make a mockery of the Trial using sheer numbers," and will tell each other to wait until they "thin their numbers." This means players are forced into a battle between themselves until only 3 or 2 remain, after that, remaining players will automatically pass the trial.
     -   Depending on the Power of each player, this may not be the case and either many Enforcers or Megalodaunts may spawn.
 -   Any monster in Trials have a possibility of being corrupted, be careful.
--   Funnily enough, really **ANY** monster can be corrupted if spawned in the trial, this includes normally never corrupted ennemies like [Bounders](Bounder.md),[Golems](Rock_Golem.md),[Brainsuckers](Brainsucker.md) ect, although if a normally never corrupted monster spawns corrupted, their AI will break. this can be seen in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
+-   Funnily enough, really **ANY** monster can be corrupted if spawned in the trial, this includes normally never corrupted enemies like [Bounders](Bounder.md),[Golems](Rock_Golem.md),[Brainsuckers](Brainsucker.md) ect, although if a normally never corrupted monster spawns corrupted, their AI will break. this can be seen in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
 -   Adding on to this, any monster (excluding [Mudskipper Knights](Mudskipper.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
 -   Furthermore, in rare (and unlucky) cases, monsters can simultaniously spawn **Attuned** **AND** Corrupted.
     -   This Corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.

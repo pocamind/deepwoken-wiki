@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 75710
+revid: 86454
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -23,7 +23,7 @@ categories: [Factions]
 
 A superpower native to the Western Luminant, the Hundred Legions are a powerful empire boasting, as the name implies, a hundred legions of soldiers. They once allied themselves with The Authority, but were betrayed, so tracked a weakened Authority force down to the Etrean Luminant and sent the 11th Legion there in order to gather Information regarding the Authority. Their ranks consist mainly of Khans, but they are open to recruiting other races. They are creators of the Legion Kata fighting style and masters of [Galebreathe](Galebreathe.md) as the only way to train your Galebreath is through Gale Kata, described to be made by the Legion.
 
-The Legion has several war heroes that are depicted by either their ornaments or their weapons, an example is the [Khan Shield](Legion_Shield.md). Examples of war heroes are Akilles and Acheron. Akilles, who was in charge of the 11th legion and brought them to the East when an imminent conflict in the was brewing, and Acheron who is the owner of the infamous [Acheron's Warspear](<Acheron's_Warspear.md>) who seemingly lost it to a [King Thresher](Thresher.md) and but survived and can be found in Aratel Island as part of the Legion Kata questline.
+The Legion has several war heroes that are depicted by either their ornaments or their weapons, an example being the [Khan Shield](Legion_Shield.md). Examples of war heroes are Akilles and Acheron. Akilles, who was in charge of the 11th Legion and brought them to the East when an imminent conflict was brewing, and Acheron who is the owner of the infamous [Acheron's Warspear](<Acheron's_Warspear.md>) who seemingly lost it to a [King Thresher](Thresher.md), but survived, and can be found in Aratel Island as part of the Legion Kata questline.
 
 ## Reputation
 

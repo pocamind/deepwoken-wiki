@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 86440
+revid: 86462
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -22,7 +22,7 @@ Entering the guild base for the first time, you will be met with a glowing outli
 
 Currently, there are **8** NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
--   The [Mystic](Mystic.md), which can be hired after building 3+ rooms for Notes.
+-   The [Mystic](Mystic.md), which can be hired in the Song Room after building 3+ rooms for Notes.
 -   The [Barber](Barber.md), which can be hired after building 6+ rooms for Notes.
 -   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for Notes.
 -   The Gunsmith, which can be hired in the Armory for Notes.
