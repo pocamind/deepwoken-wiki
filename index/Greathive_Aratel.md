@@ -1,9 +1,9 @@
 ---
 title: Greathive Aratel
-revid: 82898
+revid: 86431
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Eastern Luminant]
+categories: [Pages with broken file links, Locations, World, Eastern Luminant]
 ---
 
 # Greathive Aratel
@@ -34,6 +34,10 @@ If you washed your face in the lightkeeper temple and have already invoked from 
 Greathive Aratel is split up into 4 floors and will be categorized as such.
 
 ### Entrance
+
+File:Hive Fountain.png
+
+Hive Fountain
 
 #### Greathive Fountains
 
@@ -87,6 +91,12 @@ The doors to enter the Lordsgrove.
 
 ### Canopy Plaza
 
+#### Honey Pool
+
+-   Honey Pool
+    
+    Small pool of honey that can be used to fill up canteens
+
 #### Blacksmith
 
 -   Players can find a Blacksmith.
@@ -129,6 +139,10 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
     -   A white flower, located near the [Blacksmith](Blacksmith.md), facing in front of it.
     -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.
 -   Completing this quest gives a handful of EXP and access to upgrade [Physical Mantras](Attunement-less.md).
+
+### Soul Flower Locations
+
+Hive Test Tube
 
 ## Trivia
 

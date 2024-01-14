@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86341
+revid: 86412
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -976,8 +976,11 @@ _**"I dance with the flames."**_
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusive: Unyielding Frost
 
--   _**Crystal Shrapnel**_ \[Advanced Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
+-   Crystal Shrapnel \[Common Talent, Frostdraw Exclusive\] - Your crystal explosions now have an AoE that applies crystals to all hit. (+5 Elemental Intensity)
     -   Prerequisites: Glass Path: Crystallization, 60 Frostdraw
+
+-   Reclaimed Glass \[Common Talent, Frostdraw Exclusive\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds. (+5 Elemental Intensity)
+    -   Prerequisites: Crystal Shrapnel
 
 ### Great Wall
 

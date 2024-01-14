@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 86082
+revid: 86398
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -14,7 +14,7 @@ Template:Areainfobox
 
 ## Overview
 
-Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases and Guild Offices in towns, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 
@@ -25,7 +25,7 @@ Currently, there are **8** NPCs that can join your Guild Base with a certain amo
 -   The [Mystic](Mystic.md), which can be hired after building 3+ rooms for Notes.
 -   The [Barber](Barber.md), which can be hired after building 6+ rooms for Notes.
 -   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for Notes.
--   The Gunsmith, which can be hired in the Armory after building ?+ rooms for Notes.
+-   The Gunsmith, which can be hired in the Armory for Notes.
 -   The [Antiquarian](Antiquarian.md), which can be hired after building 9+ rooms for Notes.
 -   The Librarian, which can be hired after building the Library for Notes.
 -   The Artisan, which can be hired after building the Trophy Room for Notes.
@@ -108,7 +108,7 @@ Trophy Room
 
  | 
 
-Allows the hiring of an Artisan for. For, allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md). Allows the hiring of a Banker for notes to access your safe deposit box, a box that allows you to transfer items accross your slots.
+Allows the hiring of an Artisan for. For (a discount), allows the Player to merge attributes and appearance of an Item through [smelting](Transmogrification.md). Allows the hiring of a Banker for notes to access your Safe Deposit Box, a box that allows you to transfer items across your slots. You cannot turn in Artifacts to the Guild Banker.
 
  |
 | 
@@ -143,7 +143,7 @@ Laboratory
 
  | 
 
-A room that features an alchemy pot where you can [brew potions](Alchemy.md), along with various cosmetic empty plant pots.
+A room that features a cauldron where you can [brew potions](Alchemy.md), along with various cosmetic empty plant pots.
 
  |
 | 
@@ -160,7 +160,7 @@ Song Room
 
  | 
 
-Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras.
+Allows the hiring of a [Mystic](Mystic.md) for. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a campfire to rest & recall mantras. The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.
 
  |
 | 
@@ -177,7 +177,7 @@ Armory
 
  | 
 
-Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit. Allows the hiring of a Gunsmith for, allowing the Player to craft encased bullets.
+Allows the hiring of a [Blacksmith](Blacksmith.md) for, allowing the Player to craft [outfits](Outfits.md), repair their current outfit, turn in schematics, and turn in [ores](Ores.md) for profit. Allows the hiring of a Gunsmith for, allowing the Player to craft bullet casings.
 
  |
 | 
@@ -194,8 +194,8 @@ Fishing Room
 
  | 
 
-A room featuring a small pond for [fishing](Fishing.md) and a purchasable fishing rod for.  
-(You can drink the water or fill a canteen with it, but it will make you throw up)
+A room featuring a small pond for [fishing](Fishing.md) and a purchasable Fishing Rod for.  
+(You can drink the water or refill a canteen with it, but it will make you throw up unless you have a Purifying Ring equipped)
 
  |
 | 
@@ -213,7 +213,7 @@ Library
 
  | 
 
-Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator.  
+Allows the hiring of a Librarian for, whom the Player can donate/withdraw [lore books](Books.md) to/from. Only one of each book can be stored, and they are listed by their title, followed by the name and surname of the book's first donator. Only Guild members can access the Library collection.  
 (There is a 1 minute 15 second cooldown on turning in books)
 
  |
@@ -227,12 +227,12 @@ Arena Extension
 
  | 
 
-? Rooms  
+16 Rooms (4x4)  
 \[XXL\]
 
  | 
 
-A giant room consisting a large circular arena in the center to fight your guildmates, as well as a campfires in each of the four corners.
+A giant room consisting a large circular arena in the center to fight your guildmates, as well as a campfires in each of the four corners. The ceiling in the Arena Extension is much higher than all other rooms, and the central arena dips into the ground by about one room's height.
 
  |
 
@@ -242,10 +242,10 @@ Bandits raiding a Guild Base.
 
 ## Trivia
 
--   It costs 1 knowledge to store soulbound items via the banker.
--   You do not need to have every single guild base room in order to buy the Arena Extension
--   Carry-able items (Artifacts, Explosive Crates, Barrels, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
--   Grand skewer is disabled while inside, as it could throw people out the base.
+-   It costs 1 knowledge to store Soulbound items via the Bbanker.
+-   You do not need to have every single guild base room in order to buy the Arena Extension.
+-   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
+-   The Thundercall talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
 -   Bandits can spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it is a bug.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fishing Room.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)

@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 86284
+revid: 86426
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -169,6 +169,10 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   If you were hoping you could uninstall me, I have bad news.
 -   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
 -   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
+
+## Gallery
+
+Real Gremlin
 
 ## Trivia
 

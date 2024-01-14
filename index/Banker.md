@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 86379
+revid: 86420
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Banker | |
 |---|---|
 
-**Bankers** are NPCs where Players can turn found [Artifacts](Artifacts.md) found to receive notes and a various assortment of gear. In addition, they allow for players to store items across all slots.
+1.  **Bankers** are NPCs where Players can turn found [Artifacts](Artifacts.md) found to receive notes and a various assortment of gear. In addition, they allow for players to store items across all slots.
 
 ## Overview
 
@@ -29,13 +29,11 @@ They can be found in:
 -   [Voidheart](Voidheart.md)
 -   [The Floating Keep](The_Floating_Keep.md)
 
-## Safe Deposit Boxes
+#### Safe Deposit Boxes
 
 Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player pulls them out.
 
-Players start with six free slots, each holding one item, almost all items can be put inside the bank slots, including Soulbound/Relic Items for a fee of 1 knowledge, the only known item unable to be banked is the [Diver's Light Plate](<Diver's_Light_Plate.md>).
-
-### Paid Bank Slots
+Players start with six free slots, each holding one item, almost all items can be put inside the bank slots, including Soulbound/Relic Items for a fee of 1 knowledge.
 
 Each slot will call a small, or large fee depending on how many slots you currently have. The listed prices below apply to every new slot, (e.g, the 15th slot would cost .)
 
@@ -48,6 +46,12 @@ Each slot will call a small, or large fee depending on how many slots you curren
 It will cost you (or 27.5 note carry limit) to obtain all 60 bank slots.
 
 If you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, [here is a great video](https://youtu.be/2m4qD3xfOAM).
+
+#### Unstorable Items
+
+-   Diver's Light Plate
+-   Pluripotent Alloy
+-   Krysan Medallions (Itemized)
 
 ## Artifacts
 
