@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 86398
+revid: 86440
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -242,7 +242,7 @@ Bandits raiding a Guild Base.
 
 ## Trivia
 
--   It costs 1 knowledge to store Soulbound items via the Bbanker.
+-   It costs 1 knowledge to store Soulbound items via the Banker.
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
 -   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   The Thundercall talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.

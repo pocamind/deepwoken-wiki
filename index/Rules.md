@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 83431
+revid: 86443
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -138,6 +138,11 @@ None
 
  | Permanent Extended Block |
 | **Pornography** | Adding explicit content to this wiki. This includes: images, videos, text, links, etc. | 
+
+None
+
+ | Permanent Extended Block |
+| **NSFW** | Adding content to this wiki that is considered Not Safe For Work, such as depictions of gory, graphic violence (exceptions can be made for artwork based on Moderator discretion; exemptions are not made for any depictions of such content occurring in real life), pornography (detailed above) or the promotion of extremist groups. | 
 
 None
 
