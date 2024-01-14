@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 86461
+revid: 86473
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Eastern Luminant]
@@ -45,6 +45,7 @@ Hive Fountain
     -   The left will send you to [Summer Isle](Summer_Isle.md).
     -   The middle one will send you to [The Lordsgrove](The_Lordsgrove.md).
     -   The right one will send you to [Upper Erisia](Upper_Erisia.md).
+    -   Fountains likely have a cooldown of 25-30 seconds.
 -   Additionally, there are fountains around the Luminant that allows you to teleport back to Greathive Aratel:
     -   Somewhere within the [Hidden Village](The_Hidden_Village.md)
     -   The King's Garden, in the middle of the "maze"
@@ -67,8 +68,9 @@ The doors to enter the Lordsgrove.
 
 #### Cargo
 
--   A long corridor of empty rooms.
+-   A long corridor of rooms.
 -   At the end is a door that can be broken that leads to outside the Greathive.
+-   Banker can be found in the room to the right.
 
 #### Archive
 
@@ -87,15 +89,14 @@ The doors to enter the Lordsgrove.
 
 -   [Laplace](Laplace.md), the enchanter resides in this room. Hand in 3 armour enchants to enchant your currently equipped weapon, provided it's eligible.
 -   Behind the central metal bookshelf in the main R&D room, there are 2 breakable walls which if destroyed by a strong enough mantra reveals a hidden room with a phonograph playing, "[A memory of tides](Deepwoken_OST.md)" by Naktigonis.
-    
 
 ### Canopy Plaza
 
+Honey Pool (Presumably)
+
 #### Honey Pool
 
--   Honey Pool
-    
-    Small pool of honey that can be used to fill up canteens
+-   A pool of, presumably, honey that can be used to fill up canteens
 
 #### Blacksmith
 

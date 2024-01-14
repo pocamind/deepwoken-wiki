@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 81247
+revid: 86475
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -20,6 +20,8 @@ categories: [NPCs]
 The Barber allows customization to your character, (some) notes needed! (only if you are changing the name of your character)
 
 To use some of his features, a hair ID from the catalog is needed.
+
+Players with the [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md) Oath can use abilities similar to him.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 83688
+revid: 86470
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Exclusive Races, Races]
@@ -30,9 +30,9 @@ A race of nomadic dragons from the North.
   <ul>
     <li>Allows you to meditate, emitting a white aura and causing two white orbs to circle your head.
   <ul>
-    <li>Stops your thirst/hunger from depleting.</li>
-    <li>You gain passive EXP on stats you are actively training.</li>
-    <li>You regenerate health at a decreased rate when out of combat.</li>
+    <li>Very heavily reduces your hunger and thirst consumption.</li>
+    <li>You gain passive EXP on stats.</li>
+    <li>You regenerate health at a mediocre rate, which is slightly reduced when in combat.</li>
   </ul></li>
   </ul></li>
   </ul></td>
