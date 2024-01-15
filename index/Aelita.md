@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 86168
+revid: 86555
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -28,7 +28,7 @@ WARNING: DO NOT CLICK 1 TO END DIALOGUE OR ELSE YOU FAIL, JUST CAST A MANTRA WHE
 ## Event
 
 1.  _"Hey! It's cold up here, don't you agree? All the more reason to warm ourselves up with a game." ... "The game has two rules first being my words are absolute and lastly, ABSOLUTELY NO KILLING." ... "People come up here all the time... I wonder why they're always so disappointed to see me, everyone loves games, right? ... Anyway, I'm Aelita. Let's begin, shall we? "_
-2.  _"Use some of that magic you guys love."_
+2.  _"Use some of that magic you guys love.", or "Cast a mantra! Any mantra!"_
     -   This is your cue to cast a mantra.
 3.  _"Pick your favorite cat that isn't me."_
     -   Stand next to any of her clones, her clones do not have purple eyes.

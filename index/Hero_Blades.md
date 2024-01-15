@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 86350
+revid: 86547
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -11,9 +11,9 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | Hero Blade of Flame | |
 |---|---|
 | type | Elemental Weapon |
-| requirements | 75 FIR, LVL 11 |
+| requirements | 75 ELE, LVL 11 |
 | damage | 20 |
-| scaling | FIR: 5.5 |
+| scaling | ELE: 5.5 |
 | range | 8 |
 | swing speed | 0.75x |
 | weight | 5 |

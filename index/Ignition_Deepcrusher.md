@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 86504
+revid: 86560
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -48,7 +48,8 @@ The user stabs their weapon into the floor and releases a metal eruption of spik
 -   Meanwhile, the Club form (at 100 MED and 100 MTL) is the second-highest damage club in the game, beaten by the [Sacred Hammer](Sacred_Hammer.md) (27.5 vs. 29.7).
 -   The weapon is inspired by the [Kirkhammer](https://bloodborne.fandom.com/wiki/Kirkhammer) from [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne).[\[1\]](#cite-note-1)
 -   Based on the similar leftover weapon which required 55 HVY to wield and was in the game for a short period of time, this was most likely supposed to be a heavy weapon at some point during development.
--   You cannot use the stance swap feature while in battle royale mode unless you have the Ironsinger talent (achieved by getting an ironsinger mantra)
+-   You cannot use the stance swap feature while in the Battle Royale mode unless you have the Ironsinger Talent, which can be achieved by getting an Ironsing Mantra.
+    -   This makes sense, as the user would have to use Ironsing to reshape the hammer into a blade and vice versa.
 
 ## Navigation
 

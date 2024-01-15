@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 82729
+revid: 86556
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -21,7 +21,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw |
+| obtainment | Chests from:, Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Chili |
 | description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
 | Alloyed Canorian Axe | |
@@ -48,7 +48,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It has lore connecting to the Authority as said Adretian Empire. It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
+The Canorian Axe is a midgame Heavy Weapon and is a drop from chests in [Lower Erisia](Lower_Erisia.md), [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Merchant Ship](Travelling_Merchant.md) and [The Monkey's Paw](<The_Monkey's_Paw.md>). It has lore connecting to the Authority as said Adretian Empire. It is also [Alloyable](Pluripotent_Alloy.md), turning it into an endgame weapon by increasing its stats and providing a slight visual difference.
 
 ## Trivia
 
