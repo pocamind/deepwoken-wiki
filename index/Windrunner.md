@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 86318
+revid: 86511
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]

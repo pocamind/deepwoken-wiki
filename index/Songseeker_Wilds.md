@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 84095
+revid: 86520
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]

@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 86327
+revid: 86534
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -124,6 +124,8 @@ notices:
     -   In the December 13th, 2022 update, Familiar Sight was merged into Tough Love.
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
     -   In the February 6th, 2023 update, Finesse was merged into Now You see Me.
+-   **Flaming Uppercut \[Common Talent, Flamecharm Exclusive\] -** Ignite flames on an enemy when you uppercut them.
+    -   In the October 20th, 2023 update, Flaming Uppercut was merged into Flaming Flourish.
 -   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
 -   **Gale Dash \[Rare Talent\] -** After Dodging an attack successfully, your next dash will be a Gale Dash. As well as hitting a block, immediately follow them up with a Gale Dash. (+2 Passive Agility, +4 Elemental Intensity)
     -   In the May 16th, 2023 update, Gale Dash was merged into Air Pressure.

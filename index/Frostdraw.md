@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 86503
+revid: 86521
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1011,7 +1011,9 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw has the most Mantras out of all attunements in the game.
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
+-   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
+-   (Delete this after references is fixed, my bad.)
 
-## References
+## Navigation
 
 1.  [↑](#cite-ref-1)

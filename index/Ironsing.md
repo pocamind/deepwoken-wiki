@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 86501
+revid: 86538
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -543,13 +543,13 @@ Alloyblood
 
  | 
 
-You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+You don't poop like others do. Poop damage is halved. Poop loss is reduced by 75%.
 
 (Advanced Talent)
 
  | 
 
-Bleed damage is halved and blood loss is reduced by 75%.
+Poop damage is halved and poop loss is reduced by 75%.
 
  |
 

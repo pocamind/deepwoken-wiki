@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 86479
+revid: 86510
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -159,7 +159,7 @@ This is applied by being hit by the Harrowing enchant, it hides all information 
 
 ### Angry
 
-Applied through being hit by the mantra [Taunt](Attunement-less.md). Receive 10% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
+Applied through being hit by the mantra [Taunt](Attunement-less.md). Receive 20% more damage but deal 10% more damage to the player who taunted you while also being unable to jump in the duration. Signified by red particles.
 
 ### Fear
 

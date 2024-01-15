@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 84510
+revid: 86533
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -121,7 +121,7 @@ Trig is an NPC at the entrance of the Guildhall/Inn (if you have interest points
 
 File:RobloxScreenShot20211227 094500945.png
 
-Asius can be found under the circular structure (Landing point from Greathive Aratel fountain) found behind the Inn if you follow the path leading away from the Inn, in an alcove.
+Asius can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
 
 You will be given two quest dialogue options after answering why you're meeting him:
 
