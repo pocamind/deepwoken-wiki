@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86513
+revid: 86539
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1003,7 +1003,7 @@ _**"I dance with the flames."**_
     -   Prerequisites: 30 Intelligence and 20 light/medium weapon, Use a Gun / Rifle
         -   Landing 3 shots will make the 3rd shot deal elemental damage. Goes on a ??? second cooldown afterward.
             -   The 3rd shot apply your attunement's elemental effect:
-                -   Flamecharm: Your bulllets burn/create an explosion (Lava Serpent)
+                -   Flamecharm: Your bullets burn/create an explosion (Lava Serpent)
                 -   Frostdraw: Your bullets slow/applies crystal (Crystallization)
                 -   Thundercall: Your bullets electrify
                 -   Galebreathe Your bullets after cut
