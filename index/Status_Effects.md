@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 85813
+revid: 86479
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -211,7 +211,7 @@ This effect happens when you are low on hunger/food. When this occurs, you will 
 
 ### Acid
 
-Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will lose a small amount of your health at a time. If your health ever depletes while standing in Acid, your character instantly dies. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
+Not to be confused with Acid Rain, this effect refers to the large pools of Acid found in [Erisia](Erisia.md). When standing in these pools, you will lose a small amount of your health at a time. If your health reaches 0 or if you're unconscious while in Acid, your character will instantly die. This is relatively uncommon as the acid pools can easily be avoided by parkour or by jumping right after touch the acid, but it can pose a danger if you are being chased into a pool of acid.
 
 ### Tier 3 Insanity
 

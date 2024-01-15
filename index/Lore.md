@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 86057
+revid: 86505
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1321,7 +1321,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
 -   It was invented when Pleeksty consumed a chunk of Korilfiend's flesh, allowing him to speak to and thus 'charm' fire.
--   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple alents with his name in them, and he is mentioned by Plume in Etris.
+-   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
     -   Pleeksty was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the third layer of the Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
 -   (Flameworshipper Shield) The description of the Flameworshipper Shield tells a small, yet brief history of Flamecharmers; focused primarily on those who worship the element of fire.

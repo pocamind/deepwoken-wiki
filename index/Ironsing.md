@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 86464
+revid: 86501
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -69,7 +69,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
  | A barrage of metal rods. | 20 Ether | The user jumps in the air and fires 3 projectiles towards where their cursor was BEFORE jumping.
 
 -   Modifiable with a Blast Spark to increase amount of needles fired but removing the jump. This variant keeps momentum.
--   Applies metal sticks on hit.
+-   Applies metal rods on hit.
 
  |
 |  | 
@@ -90,8 +90,8 @@ Metal Kick
  | Swing your arm like a happy little boy swinging and singing through the streets, before raining hell on the mandem | 50 Ether | Rain down a incredible amount of metal rods dealing high damage, hitting around 10 times.
 
 -   Apples Metal Rods on hit.
--   Can be modified with Aeon and Eternal Logstones to extend its longity.
--   Can be modified with Crysal and Pefect Leses to extend its ran.
+-   Can be modified with Aeon and Eternal Logstones to extend its duration.
+-   Can be modified with Crystal and Perfect Lenses to extend its range.
 
  |
 |  | Caltrops
@@ -104,7 +104,7 @@ Metal Kick
 -   With the [Laced Traps](Talents.md) talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit. This poison comes from godknows where, and why not just sell the poison if you have an infinite amount, some of these players hella stupid
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
 -   Can be modified with ironclad and Straus Ses
--   Applies Metal Rods on every talCrop.
+-   Applies Metal Rods on every Caltrop.
 -   Adds 1 caltrop per level up of the mantra, up to 7.
 
  |
@@ -116,18 +116,18 @@ Metal Kick
 
 -   You cannot use other Mantras during its duration and you can't M1 while this is active.
 -   Can be modified with Drift and Rush Shards, however, it just might tickle your fancy for bullet speed.
--   Apply Me Rods on hit.
+-   Apply Metal Rods on hit.
 
  |
 |  | Oxidizing Rush
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them. | 50 ether | The user spins 3.5 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
+ | Conjure metal swords and rush forward with them. | 50 Ether | The user spins 3.5 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
 
 -   Applies Rods on hit.
--   Can e modified wih eon and Eteral Lostone, incrasing its longevty.
--   Can bemodified with Crstl and Pefect Lens icreasing its rage.
+-   Can be modified with Aeon and eternal Logstone, increasing its length.
+-   Can be modified with Crystal and Perfect Lens increasing its rage.
 
  |
 |  | Metal Armament
@@ -185,8 +185,8 @@ Metal Kick
 
  | Summon a large metal digderidoo | 50 Ether | Form a pillar below the user, you.
 
--   Can be mified with Clud and Stratus Stonesto extend its width.
--   Can bemodiied with Aeon andEternal Lostones to exend its longevity.
+-   Can be modified with Cloud and Stratus Stones to extend its width.
+-   Can be modified with Aeon and Eternal Logtones to extend its longevity.
 
  |
 |  | Metal Ball
@@ -195,7 +195,7 @@ Metal Kick
 
  | Create a metal ball and rush forward. | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent
 
--   Applies Metal Rodson hit.
+-   Applies Metal Rods on hit.
 
  |
 
@@ -209,7 +209,7 @@ Metal Kick
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
 -   With the [Intuitive Repairs](Talents.md) talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
--   Can be upgraded with eternal logstones for increased duratiom.
+-   Can be upgraded with eternal logstones for increased duration.
 
 Does not negate deferred or fire damage.
 

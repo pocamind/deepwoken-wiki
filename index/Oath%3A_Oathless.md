@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 85527
+revid: 86500
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,8 +25,14 @@ categories: [Oaths]
 
 To start the Oathless quest, head to the Docks at [Miner's Landing](<Miner's_Landing.md>), climb the wall past the log and turn right. Through a log is a cave, talk to the person in there, and they'll tell you to go to their three disciples (in no specific order).
 
+Location of the 'Tree cave'
+
+Aforementioned log tunnel
+
 -   One is at Fort Merit, in a house near the elevator.
+
 -   One is at Meteor Isle, in the house with a cauldron.
+
 -   One is at Summer Isle, on the second floor of the guildhall.
 
 After talking to all three of their disciples, return to the person in the cave and talk to them to receive the Oath.

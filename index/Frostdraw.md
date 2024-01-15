@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 86220
+revid: 86503
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -853,7 +853,7 @@ These talents are found in the _Glassdancer_ category.
  | 
 
 Crystal Shrapnel  
-(ICE 85, Glass Path: Crystallization)
+(ICE 60, Glass Path: Crystallization)
 
  | 
 
