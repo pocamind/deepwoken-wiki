@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 81995
+revid: 86583
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -32,3 +32,4 @@ A ghost can spawn at the helm of the ship. If you have not gripped a player, it 
 -   The area in which an antiquarian resided in the tutorial is replaced by the [The Dreadstar](The_Dreadstar.md).
 -   Has a chance to give deep gems but not confirmed.
 -   May be a reference to the Beloved Zofia sword from Fire Emblem Echoes.
+-   This could possibly be the ship in the tutorial

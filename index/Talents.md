@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86539
+revid: 86582
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -667,7 +667,7 @@ _**"I seek the qualities of Cosmic Wind."**_
 -   Precise Swing \[Common Talent\] - After landing a critical your next light attack will chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical hits a block, this talent will not work, nor will it work if you break the block with a critical (if your critical only consists of 1 hit)
     -   Prerequisites: 25 Strength, 15 Agility
-    -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" have this talent
+    -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this talent.
 
 -   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. ( +6 Carry Load, +2 Passive Agility)
     -   Deals true damage.
@@ -682,7 +682,7 @@ _**"I seek the qualities of Cosmic Wind."**_
 
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
-    -   The head equipment "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this talent.
+    -   The head equipments "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this talent.
 
 -   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
