@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 84688
+revid: 86579
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -76,8 +76,8 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
 -   Obtaining Knowledge through normal means is inefficient, and thus not recommended for grinding (unless you are in need of emergency Knowledge before using Shrine of Order).
 -   Power-gained Knowledge will be enough to make a deal with the Shrine of Order at Power 10.
 -   Ganymedes have a special racial bonus that make [Deep Shrines](Deep_Shrines.md) cost one less Knowledge point to make a deal with.
-    -   [Deep Shrines](Deep_Shrines.md) will cost 4 Knowledge.
-    -   [Shrine of Order](Deep_Shrines.md#shrine-of-order) will cost 9 Knowledge
+    -   [Deep Shrines](Deep_Shrines.md) will cost 5 Knowledge.
+    -   [Shrine of Order](Deep_Shrines.md#shrine-of-order) will cost 10 Knowledge
     -   [Shrine of Conceit](Deep_Shrines.md#shrine-of-conceit) will still cost 1 Knowledge.
     -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._
 -   An icon identical to knowledge was in the game during the early beta. Its purpose was unknown.

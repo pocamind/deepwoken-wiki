@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 86507
+revid: 86578
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -53,6 +53,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Pluripotent Alloy
 -   Krysan Medallions (Itemized)
 -   Ardour Manifestation
+-   Void Feather(s)
 
 ## Artifacts
 

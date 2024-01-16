@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 86056
+revid: 86581
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -385,7 +385,6 @@ _**Bold**_\==Gallery==
 -   It is easy to cheese it if you manage to either get to a place above it and hit it from above or go next to the roots of a tree (on a slope that keeps the Sharko standing above your elevation) and let the sharko stand on top, which will make the sharko miss all its attacks. It's very risky but it is profitable.
 -   Unless you're a high enough level to consistently stat check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting Roblox matchmaking do its thing.
 -   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
--   The [Tallers](https://cry-of-fear.fandom.com/wiki/Taller) from 'Cry of Fear' and the Megalodaunt both have similar attacks and characteristics Megalodaunt's instant kill 'Curb Stomp' may be a reference to the Taller's stomp once [Simon](https://cry-of-fear.fandom.com/wiki/Simon_Henriksson) is immobilized from its punch.
 -   In the Winter of 1291, an event (didn't) transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players (not) spamming this item and (not) spawning an unforeseen amount of Megalodaunts, which (never) proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
 -   Some mantras that need to mark a person/object to be able to cast, such as Ice Daggers or Shadow Seekers, don't work on Megalodaunts for some unknown reason, so don't waste ether.

@@ -1,9 +1,9 @@
 ---
 title: Meteor Isle
-revid: 81932
+revid: 86572
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, World, Locations, Eastern Luminant]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, World, Locations, Eastern Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -18,7 +18,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 
   
 
-_Overview of the small village in Meteor Isle._
+File:Meteor Isle.jpg
 
 **Meteor Isle** is a location in _Deepwoken_. It is an island that can be found in the [Aratel Sea](The_Aratel_Sea.md). It can be easily found by going to Fort Merit; where the Etrean Rescuer is.
 

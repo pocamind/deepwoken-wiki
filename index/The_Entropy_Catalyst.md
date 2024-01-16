@@ -1,6 +1,6 @@
 ---
 title: The Entropy Catalyst
-revid: 81574
+revid: 86571
 source: https://deepwoken.fandom.com/wiki/The_Entropy_Catalyst
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World]
@@ -13,6 +13,8 @@ LocationL The Entropy Catalyst LocationR
 The machina hisses ominously against the nature surrounding it, standing as a protest against life itself.
 
   
+
+File:Linkstrider Place.jpg
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 86538
+revid: 86567
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -69,7 +69,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
  | A barrage of metal rods. | 20 Ether | The user jumps in the air and fires 3 projectiles towards where their cursor was BEFORE jumping.
 
 -   Modifiable with a Blast Spark to increase amount of needles fired but removing the jump. This variant keeps momentum.
--   Applies metal rods on hit.
+-   Applies Metal Rods on hit.
 
  |
 |  | 
@@ -78,44 +78,44 @@ Metal Kick
 
 (★☆☆)
 
- | A powerful kick laced with metal | 20 Ether | Rise up and frontflip, before slamming down with an axe-kick dealing medium damage and applying knockdown to anyone hit.
+ | A powerful kick laced with metal | 20 Ether | Rise up and slam down with an axe-kick dealing medium damage and applying knockdown to anyone hit.
 
--   Modifiable with a Spring Spark to replace it with a faster drop-kick variant that looks really snazzy but doesnt stun.
+-   Modifiable with a Spring Spark to replace it with a faster drop-kick variant that doesn't apply knockdown.
 
  |
 |  | Metal Rain
 
 (★★☆)
 
- | Swing your arm like a happy little boy swinging and singing through the streets, before raining hell on the mandem | 50 Ether | Rain down a incredible amount of metal rods dealing high damage, hitting around 10 times.
+ | Unleash a rain of metal rods down below. | 50 Ether | Rain down a incredible amount of metal rods dealing high damage, hitting around 10 times.
 
--   Apples Metal Rods on hit.
--   Can be modified with Aeon and Eternal Logstones to extend its duration.
--   Can be modified with Crystal and Perfect Lenses to extend its range.
+-   Applies Metal Rods on hit.
+-   Can be modified with Aeon and Eternal Logstones to extend its longevity.
+-   Can be modified with Crystal and Pefect Lenses to extend its range.
 
  |
 |  | Caltrops
 
 (★★☆)
 
- | Sharp metal traps. Yeooouch! | 50 Ether | Throws 6 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if cast closely to the target.
+ | Sharp metal traps. | 50 Ether | Throws 6 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if cast closely to the target.
 
 -   May be blocked or even parried off the ground.
--   With the [Laced Traps](Talents.md) talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit. This poison comes from godknows where, and why not just sell the poison if you have an infinite amount, some of these players hella stupid
+-   With the [Laced Traps](Talents.md) talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
--   Can be modified with ironclad and Straus Ses
--   Applies Metal Rods on every Caltrop.
--   Adds 1 caltrop per level up of the mantra, up to 7.
+-   Can be modified with Cloud and Stratus Stones
+-   Applies Metal Rods on every 2 hits.
+-   Adds 1 caltrop per level up of the mantra, up to 8.
 
  |
 |  | Firing Line
 
 (★★☆)
 
- | Create a firing line of metal to light up the mandem. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target, immediately dealing high damage if not parried. The 5 rifles will fire 2.5 rounds each at the target.
+ | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target, immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target.
 
--   You cannot use other Mantras during its duration and you can't M1 while this is active.
--   Can be modified with Drift and Rush Shards, however, it just might tickle your fancy for bullet speed.
+-   You cannot use other Mantras during its duration however you can M1 while this is active.
+-   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
 -   Apply Metal Rods on hit.
 
  |
@@ -123,18 +123,18 @@ Metal Kick
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them. | 50 Ether | The user spins 3.5 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
+ | Conjure metal swords and rush forward with them | 50 ether | The user spins 4 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
 
--   Applies Rods on hit.
--   Can be modified with Aeon and eternal Logstone, increasing its length.
--   Can be modified with Crystal and Perfect Lens increasing its rage.
+-   Applies Metal Rods on hit.
+-   Can be modified with Aeon and Eternal Logstones, increasing its longevity.
+-   Can be modified with Crystal and Perfect Lens increasing its range.
 
  |
 |  | Metal Armament
 
 (★★★)
 
- | Summon alade of metal to swing alongside you. | 40 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of a Kyrscleave) appears as you M1 with an interval of 3 seconds; the greatsword deals fixed damage
+ | Summon a blade of metal to swing alongside you. | 40 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of a Kyrscleave) appears as you M1 with an interval of 3 seconds; the greatsword deals fixed damage
 
 -   Each hit is parriable but applies Metal Rods.
 -   Doesn't proc enchants. (Unlike the gif shows, it only procs when hitting an enemy)
@@ -144,9 +144,9 @@ Metal Kick
 
 (★★★)
 
- | Iron but every direction, heouxhc | 50 Ether | The user raies teir hand and swings it downard before summonng a barrage of metal-spikes impaling the tage from all als dealing high dmae. Cnbe parried and blocked.
+ | A deadly rush of several metallic rods. | 50 Ether | The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked.
 
--   Can be modifed by all mantra ingredients, however all have no effect.
+-   Cannot be modified for whatever reason. (No mantra ingredients work).
 -   Applies Metal Rods on hit.
 
  |
@@ -174,7 +174,7 @@ Metal Kick
 
 (★★★)
 
- | Crea una lanza de hierro y lánzate hacia adelante, lanzando a cualquiera que alcance a la distancia. | 35 Ether | After locating their fraudulent credit card, the user purchases an iron claw from cold steel uk and dashes forward this knock's back the opponent. |
+ | Create a lance, impale your opponent, and send them flying. | 35 Ether | After a small wind-up, user conjures an iron claw and dashes forward ragdoll's and knockback's the opponent. |
 
 ### **Mobility Mantras**
 
@@ -183,19 +183,21 @@ Metal Kick
 |  | Metal Rampart
 (☆☆☆)
 
- | Summon a large metal digderidoo | 50 Ether | Form a pillar below the user, you.
+ | Summon a large metal pillar | 50 Ether | Form a pillar bellow the user, which sends them upwards.
 
+-   The height of the pillar will depend on what is above you.
 -   Can be modified with Cloud and Stratus Stones to extend its width.
--   Can be modified with Aeon and Eternal Logtones to extend its longevity.
+-   Can be modified with Aeon and Eternal Logstones to extend its longevity.
 
  |
 |  | Metal Ball
 
 (★★☆)
 
- | Create a metal ball and rush forward. | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent
+ | Create a metal ball and rush forward. | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent.
 
 -   Applies Metal Rods on hit.
+-   Can be modified with Aeon and Eternal Logstones to extend its longevity.
 
  |
 
@@ -209,11 +211,9 @@ Metal Kick
  | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
 
 -   With the [Intuitive Repairs](Talents.md) talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
--   Can be upgraded with eternal logstones for increased duration.
+-   Can be upgraded with eternal logstones for increased duratiom.
 
 Does not negate deferred or fire damage.
-
-speing saspkark works on this,m it odoest nothing
 
  |
 |  | Chain Pull
@@ -543,13 +543,13 @@ Alloyblood
 
  | 
 
-You don't poop like others do. Poop damage is halved. Poop loss is reduced by 75%.
+You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
 
 (Advanced Talent)
 
  | 
 
-Poop damage is halved and poop loss is reduced by 75%.
+Bleed damage is halved and blood loss is reduced by 75%.
 
  |
 

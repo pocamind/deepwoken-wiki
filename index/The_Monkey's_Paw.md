@@ -1,9 +1,9 @@
 ---
 title: "The Monkey's Paw"
-revid: 84126
+revid: 86565
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, World, Eastern Luminant]
+categories: [Pages with broken file links, Locations, World, Eastern Luminant]
 ---
 
 # The Monkey's Paw
@@ -19,6 +19,8 @@ LocationL Primadon's Hunting Grounds LocationR
 You shrink like an ant in the face of a true predator.
 
   
+
+File:Monkeys Paw Interior.jpg
 
 ## **Description**
 
