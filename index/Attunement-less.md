@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 86546
+revid: 86598
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -65,7 +65,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Rapid Punches<p>(★☆☆)</p></td>
+  <td>Rapid Punches<p>(☆☆☆)</p></td>
   <td><i>Unleash a barrage of blows against your foes.</i></td>
   <td>30 Ether</td>
   <td>

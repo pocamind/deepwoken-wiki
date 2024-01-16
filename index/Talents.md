@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86582
+revid: 86605
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1985,9 +1985,6 @@ These Talents are designed to let you survive longer against starvation and thir
 
 > _**"In nature, I am at home."**_
 
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
-    -   Prerequisite: 5 Fortitude.
-
 -   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Obtained by equipping [Winter Corps Parka](Equipment.md).
     -   Increases the time it takes for parasites to kill you.
@@ -2503,6 +2500,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
     -   Prerequisite: 25 Agility
+
+-   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
+    -   Prerequisite: 5 Fortitude.
 
 ## Other
 

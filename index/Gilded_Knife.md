@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 79319
+revid: 86594
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -26,12 +26,12 @@ categories: [Weapons, Daggers]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia |
+| obtainment | ErisiaChili |
 | description | A knife of fine craftmanship, bearing an equally fine sharpness. |
 
 ## Description
 
-The Gilded Knife is a rare LHT dagger weapon obtainable through [Erisia](Erisia.md) chests. It is a very good weapon for early to mid game for its high base damage, low requirement and scaling.
+The Gilded Knife is a rare LHT dagger weapon obtainable through [Erisia](Erisia.md) chests and [Chili](Travelling_Merchant.md). It is a very good weapon for early to mid game for its high base damage, low requirement and scaling.
 
 ## Trivia
 

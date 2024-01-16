@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 83486
+revid: 86600
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 The Authority Lieutenant is a guard NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md).
 
-Their appearance consists of a Authority Captain Uniform, a Shrouded Cape and, unusually for an Authority member, Polarised Sunglasses. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](Authority_Commander.md).
+Their appearance consists of a Authority Captain Uniform, a Shrouded Cape and, unusually for an Authority member, Polarised Sunglasses. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>).
 
 ## Moveset
 

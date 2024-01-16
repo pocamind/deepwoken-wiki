@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 86578
+revid: 86597
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -26,7 +26,6 @@ They can be found in:
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Castle Light](Castle_Light.md) (but only people with the [Deepbound Origin](Origins.md) can interact with them)
 -   [Fort Merit](Fort_Merit.md)
--   [Voidheart](Voidheart.md)
 -   [The Floating Keep](The_Floating_Keep.md)
 
 #### Safe Deposit Boxes
@@ -51,7 +50,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 -   Diver's Light Plate
 -   Pluripotent Alloy
--   Krysan Medallions (Itemized)
+-   Kyrsan Medallions (Itemized)
 -   Ardour Manifestation
 -   Void Feather(s)
 

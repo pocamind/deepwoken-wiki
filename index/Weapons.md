@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 86544
+revid: 86599
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -40,8 +40,6 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 
 ### One-Handed
 
--   Recover increased posture from parrying.
--   Deal increased posture damage with parries.
 -   Can use offhand weapons such as shields, guns, or side daggers.
 
 ### Two-Handed
