@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 82217
+revid: 86590
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -80,6 +80,6 @@ Does not have a racial ability.
     3.  Around the arms (Halos are split in two)
 -   Devs have mentioned plans on this becoming an **Obtainable** race in the future, but not via the reroll system. Instead, the player would have to do something in order to obtain it and become a Lightborn (Agamatsu mentioned in a live stream of it already being obtainable, but obviously this hasn't been proven as of yet).
     -   Yet, obtaining the Lightborn race (even if it can be obtainable one day which will be unlikely) will be **difficult but possible** in terms of lore, due to the Lightborns being hybrids, meaning that creating a Lightborn is possible as long as you have contact with a celestial, being that very difficult.
--   Lightborn and Vesperian are the first races to receive a cosmetic in the UGC Avatar Shop.
+-   Lightborn and Capra are the first races to receive a cosmetic in the UGC Avatar Shop.
     -   It is listed under the [Deepwoken UGC group](https://www.roblox.com/groups/16769317/Deepwoken-UGC#!/about).
 -   The runes on the halo roughly translate to "Be the mysterious light the few whom were chosen"
