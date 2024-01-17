@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86605
+revid: 86621
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2217,7 +2217,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   _**Audacity**_ \[Advanced Talent\] - Once you've brought down your prey, instill fear into all those who would separate you from claiming it. 25s cooldown. (+1 Posture)
     -   You create an AoE stun and slow around you when you start gripping someone.
-    -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs.
+    -   Makes you immune to Defiant Until the End and Last Second Negotiation when it procs. (Bugged on NPCS)
     -   Prerequisites: 100 Charisma, 50 Strength
 
 -   No Survivors \[Common Talent, Charisma\] - Your allies and yourself execute faster when affected by Overcharm.

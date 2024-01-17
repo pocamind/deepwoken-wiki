@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 84599
+revid: 86613
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -13,7 +13,7 @@ Template:Races-Main
 _Tattooed when they come of age, their tattoo represents the path of life they seek.  
 Well-regarded as bureaucrats and keepers of coin._
 
-Chance of obtaining race: **15%**
+Chance of obtaining race: **17.8%**
 
 ## Description
 

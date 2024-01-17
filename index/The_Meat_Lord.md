@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 85135
+revid: 86619
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -10,6 +10,7 @@ categories: [Random Encounters, NPCs]
 
 | The Meat Lord | |
 |---|---|
+| name | The Meat Lord |
 
 “ Very well, you may rise. ”
 
@@ -62,6 +63,8 @@ _**(Work in progress, add more locations if you know any and remove this text wh
 -   In books, it is mentioned that The Meat Lord is related to Dr. Giggletouch.
 
 ## References
+
+  
 
 1.  [↑](#cite-ref-1)
     

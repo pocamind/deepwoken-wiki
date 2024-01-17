@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 83830
+revid: 86615
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -95,6 +95,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 
 ## Trivia
 
+-   Tirans are inspired by people of South and Central American descent.[\[1\]](#cite-note-1)
 -   The word "Tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis.
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.
 -   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
@@ -103,3 +104,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   The Jay variant shares many similarities (Hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or felinor and having a little more darker eyes, it may be an unintentional reference made by the devs explaining why it's a Tiran variant and not a Felinor variant.
 -   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on. Matching their hair color with their glider. Also meaning that their gliders are probably crafted with their own hair.
 -   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the tiran not possessing a beak, they could unintentionally be inspired from the Rito.
+
+## References
+
+1.  [↑](#cite-ref-1)
