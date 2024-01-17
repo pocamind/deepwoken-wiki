@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 86630
+revid: 86637
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -37,6 +37,5 @@ Pressing **B** while standing near a campfire with nothing in hand will make you
 -   An alternative to using a campfire is the Graceful Flame support mantra. It is not put out in rain and has a talent that makes it so it can be used in the depths, making it much more viable for late game players.
 -   With the [Disguise](Mime.md) mantra, you can turn into a campfire. This requires it to be modified with 1 Blast spark, and 1 Tornado spark.
     -   Whether the campfire is lit or not depends on the order of the sparks (blast then tornado is unlit campfire and tornado then blast is lit campfire)
-    -   Campfires despawn after 10 minutes. (Raguza eats them y'know so thats why they despawn)
+    -   Campfires despawn after 10 minutes.
 -   Four lit campfires are required to summon [The Ferryman](The_Ferryman.md).
--   Also campfires are the most hated ones. You can't drop them, you can't store them, you can't buy them. WHY DEEPWOKEN DEVS, I'm starting to lose my sanity.

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 86452
+revid: 86647
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -72,6 +72,10 @@ The method **requires no encounters with Watchers.**
 **Disclaimer: There is no guarantee that there will be no hostile players while using this method, so do at your own risk.**
 
 ## **First Layer: The Trial**
+
+“ As a quasi-metaphysical realm, the Depths is believed to exert a pulling force on one's soul, based on one's proximity to the deep. So to say, once one is in the Depths, their soul experiences a constant downward pull. If one tries to leave the Depths by simply physically exiting it upwards, without the aid of ritual or other preparation, they will cross what is known as 'the boundary' - a limit beyond which a soul cannot continue physically travelling in your body. Ergo, the body continues upwards, while the soul is pulled downwards, until the two are wholly separated, and the person dies. ”
+
+― "The Song of Fathoms / Oscillation" about death and the Depths.
 
 Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring some players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power player present when taking the trial. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
