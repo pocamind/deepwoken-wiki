@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 76968
+revid: 86662
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -26,6 +26,6 @@ categories: [Helmets, Equipment]
 
 ## Description
 
-The Authority Helm is an [Equipment](Equipment.md) item under the "Head" category. It can be found in [Erisia](Erisia.md), and can be dropped by Authority Commanders, Authority Officers and Authority Peacekeepers. It requires 10 Fortitude to wear.
+The Authority Helm is an [Equipment](Equipment.md) item under the "Head" category. It can be found in [Erisia](Erisia.md), merchant ships and can be dropped by Authority Commanders, Authority Officers and Authority Peacekeepers. It requires 10 Fortitude to wear.
 
 Grants the Talent "Strong Hold" \[**Medium Weapons**\] _When above half health and two-handing, posture damage taken is reduced._

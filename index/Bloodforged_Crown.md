@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 86086
+revid: 86653
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -34,4 +34,4 @@ When equipped, even while its visibility is toggled off, it will play an animati
 
 -   It is the only "Head" [Equipment](Equipment.md) piece to have a LVL requirement, as every other head equipment that has a requirement to wear only requires FTD.
 -   This [Equipment](Equipment.md) piece shares the same innate stats as [Celtor Commander Helm](Celtor_Commander_Helm.md).
--   Goes great with [No Life King](Enchantments.md) builds, due to the fact that the innate talent decreases blood loss.
+-   Goes great with [No Life King](Enchantments.md) builds, due to the fact that the innate Talent decreases blood loss, one of No Life King's greatest weaknesses.

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 85477
+revid: 86660
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -151,7 +151,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Flamecharm Talents](https://deepwoken.fandom.com/wiki/Flamecharm#Talents).
     -   Increases intensity of flames.
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using Hearthgem or eating [Dying Embers](Dying_Embers.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Frostdraw**
 
@@ -159,7 +159,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Frostdraw Talents](https://deepwoken.fandom.com/wiki/Frostdraw#Talents).
     -   Increases slow and freeze times of abilities.
 -   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using Hemafrost or eating [Frigid Prisms](Frigid_Prism.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Thundercall**
 
@@ -167,7 +167,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Thundercall Talents](https://deepwoken.fandom.com/wiki/Thundercall#Talents).
     -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using Self-Conducting Loop or eating [Spark Glands](Spark_Gland.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Galebreathe**
 
@@ -175,7 +175,7 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Galebreathe Talents](https://deepwoken.fandom.com/wiki/Galebreathe?so=search#Talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
 -   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using Gale Kata or eating [Gale Stones](Gale_Stone.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Shadowcast**
 
@@ -183,14 +183,14 @@ Attunement Attributes dictate the potential power and intensity of your current 
     -   Unlocks [Shadowcast Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
     -   Increases duration of blindness afflicting abilities.
 -   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using Pure Heart or eating [Umbral Obsidian](Umbral_Obsidian.md).
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ### **Ironsing**
 
 -   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing](Ironsing.md) [Talents](https://deepwoken.fandom.com/wiki/Shadowcast#Talents).
 -   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using Ferrofluid.
--   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any [boss](Bosses.md).**_
+-   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md).**_
 
 ## Tips
 

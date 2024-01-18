@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 86640
+revid: 86673
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -144,10 +144,10 @@ In terms of strategy to avoid his attacks as much as possible;
 -   Heavy-Hands Ring & Murmur: Ardour can drastically increase posture damage, making Duke's first phase much faster.
 -   After dealing enough posture damage, his shield will turn off, allowing you to hit him normally. If you're low on health, however, you'll still need to focus hard to avoid dying, as many of his mantras insta-grip. Focus on backing him into a corner and posture-breaking him as much as possible, but keep in mind he has a very high amount of Tempo and so he'll vent every time you flourish him into a wall.
 -   When you see him summon his servants, you've pretty much won, as you'll be able to regenerate back to full health immediately. Keep backing him into a corner so he cannot back out of your effective range, and attack him constantly until he dies.
--   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage. But Vampirism makes it safer.
+-   The best enchant to use for this fight, assuming you have an enchanted weapon, is Vampirism, as this allows you to heal off him in the second phase (sometimes, he won't spawn his servants in at all - this seems luck-dependant.) You can also use enchants like Detonation or Chilling to focus on high damage, but Vampirism makes it safer.
 -   You must STAY ALIVE whilst his shield is active, if you are knocked you cannot be saved as his shield blocks and parries every attack and any players who try to save you will have their attacks parried.
 -   If you attempt to assassinate him, the fight will automatically start.
--   Since the Mindless Servants can hinder your attack and serve as a nustance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
+-   Since the Mindless Servants can hinder your attack and serve as a nuisance, Mercy Kill is a very beneficial ability against them because it can instantly kill an enemy with little health, which is advantageous. If you do not have Mercy Kill you can bait out Duke's autogripping attacks to quickly deal with them.
 -   As The Duke tries to block a lot defensively in the second phase, the Enforcer Axe and Hammer are excellent candidates for Heavy Weapons because they can quickly rip through posture.
 
   
@@ -225,18 +225,19 @@ Rematch
     -   Naktigonis also provides the voice of the Duke, first heard in [an April Fools Twitter post](https://x.com/naktigonis/status/1509956038598053895?s=20) posted by Naktigonis, joking about _Sin-Smelted Scoriae's_ release.
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23.
--   When fighting in a group, it is recommended to make campfire pits around the Boss Room and have either [Flint](Flint.md), Umbral Flint or Talents that light campfires. Doing the fight with two or more people significantly reduces its' difficulty, as you'll be able to tap out and heal, with your partner swapping in whenever you get low.
--   A weapon or talent that instantly grips downed enemies is recommended, otherwise Phase 2 will be tedious. (Mercy Kill)
--   The Duke's room gets sealed off by a barrier upon triggering the fight.
--   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Par (Deepwoken Developer) is known for working on.
+-   When fighting in a group, it is recommended to:
+    -   Make sure your group catches up with you. If you enter first, they are likely to be locked out of the boss room.
+    -   Bring a campfire to the fight. This will allow you switch positions in combat, having your partner fight the Duke while you are healing up.
+    -   The Duke's health scales by 15,000 points for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
+-   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Deepwoken developer Par is known for working on.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   The Duke's health scales 15,000 for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   His first name remains unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
     -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
     -   The [Stoneheart](Stoneheart.md)'s description refers him as Ishamon.
+-   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance

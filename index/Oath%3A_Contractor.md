@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 86628
+revid: 86654
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -65,9 +65,9 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   **Equalizer - Combat Mantra**
     -   Whips forward with a blue Tendril. If it connects, it deals damage to the target, and gives the user a blue aura. If the user is attacked while they have this blue aura, the attack will be ignored completely and also stun the attacker for about 2 seconds. Unlike Judgement, the user is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
 
-## Notes
+## Trivia
 
--   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You **CANNOT** gain back reputation in any form (this could be a bug) (latest tested in 1/17/2024)
+-   Upon obtaining the Oath, your reputation with The Divers will be set to Hunted. You **CANNOT** gain back reputation in any form.
     -   This means entering Castle Light to look for people with Oaths returning from Layer 2 is ill advised, as you will be swarmed with Journeymen Divers guards.
 -   Since you need to go to the Depths for Yun'Shul anyways, Chaser is the best method of gaining your bell. If you cannot do Chaser, gain your bell progression from overworld bosses first as to have a better chance of not wiping.
 -   Having Contractor in the Depths can be outright deadly; as a Contractor's progression method is the most hostile out of any Oath, you will often be targeted for it in turn, even if passive.
@@ -79,8 +79,6 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   Before 25/08/23, 4 specific Deep Shrines deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
 -   You are able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements.
 -   Despite popular belief you can get contractor without fighting Duke Erisia, talking to regent after receiving the quest with the appropriate rep lets you bite your tongue right there and then.
-
-## Trivia
 
 File:Contractor String.png
 

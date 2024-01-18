@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 86534
+revid: 86664
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -45,16 +45,22 @@ notices:
 
 ## Mantras
 
--   **Mantra Core -** Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation.
--   **Mantra Creation -** Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantras' properties on the Mantra Table.
--   **Announced Casting -** Move names were once announced in a red highlight on the screen whenever used. This is NOT to be confused with **Spell Shout** which is obtained by paying 50 notes to NPC in Isle of Vigil's library.
+-   **Mantra Core** - Ties in with the the original Mantra Creation feature, NPCs and monsters would drop Mantra Cores that would then be the basis of your spell creation.
+-   **Mantra Creation** - Mantras used to be fully customizable and required interaction with the game world to develop. This was eventually replaced with 'Whisper Cards' every few levels and editing mantras' properties on the Mantra Table.
+-   **Announced Casting** - Move names were once announced in a red highlight on the screen whenever used. This is NOT to be confused with **Spell Shout** which is obtained by paying 50 notes to NPC in Isle of Vigil's library.
+-   **Ice Bolt** - User jumps into the air, claps their hands and launches a bolt towards their cursor that scatters ice sheets on the ground.
 -   **Flame Pillars** (1 Star Flame) - Created a pillar of flame at the cursor location, acting similarly to the Nautilodaunt stomp. Was replaced by Fire Eruption in early updates.
 -   **(OLD)** **Tornado** (1 Star Wind) - Created a giant long-lasting area of effect around where it was used, the user was unable to use any attacks but could roll, dodge, run, and parry/block. Anyone inside of the AoE had heavy amounts of AP frames, making it impractical for most fights. Reworked into the current iteration on (XX/XX/XX).
 -   **(OLD) Flame Wisp** (2 Star Flame) - Gave passive healing with each spent charge. Now it absorbs some of the damage from your burn tick damage and turns it into healing; some of the damage from Lava Serpent eruptions is also converted into healing.
 
+## Sparks
+
+-   **Ice Mirror** - A spark that could only be applied to Ice Bolt. Once applied, if the user had ice surfaces in the vacinity while casting Ice Bolt, each ice surface would cast an additional bolt of ice.
+    -   Was removed alongside the Mantra for being ridiculously powerful.
+
 ## Monsters
 
--   **[Crab](Crab.md) -** Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
+-   **[Crab](Crab.md)** - Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
 -   **[Isopods](Horseshoe_Crab.md) -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release. Ragoozer claimed it is in the game and the key is to find a parasol. Despite his insistence otherwise, Arch\_Mage revealed he had been lying. The parasol was still under heavy development and was nowhere near release. World Serpent will be released in the future.
 -   **Zombie Knights (name unknown) -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were most likely the early prototype for [Mudskippers](Mudskipper.md).

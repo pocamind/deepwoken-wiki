@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 86560
+revid: 86652
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -51,6 +51,6 @@ The user stabs their weapon into the floor and releases a metal eruption of spik
 -   You cannot use the stance swap feature while in the Battle Royale mode unless you have the Ironsinger Talent, which can be achieved by getting an Ironsing Mantra.
     -   This makes sense, as the user would have to use Ironsing to reshape the hammer into a blade and vice versa.
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1)

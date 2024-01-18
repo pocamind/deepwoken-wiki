@@ -1,6 +1,6 @@
 ---
 title: Ironsinger Heavy Plate
-revid: 83454
+revid: 86659
 source: https://deepwoken.fandom.com/wiki/Ironsinger_Heavy_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -21,12 +21,12 @@ categories: [Equipment, Arms, Plates]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:The Eternal Gale and Scyphozia |
+| obtainment | Chests from:The Eternal Gale and Scyphozia, Purchased from Chili |
 | description | ... |
 
 ## Description
 
-The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 5% Ironsing Armor, 2 Legendary Pips & 1 Rare Pip, and the [Talent](Talents.md) 'Defiant until the End', which causes your character to shout in defiance while being gripped, increasing the amount of time it takes for the grip animation to finish. It is rarely found in chests from [The Eternal Gale](Second_Layer.md), and almost guaranteed from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) & [Ethiron](Scion_of_Ethiron.md) Chests.
+The Ironsinger Heavy Plate is an [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 10 Health, 5% Ironsing Armor, 2 Legendary Pips & 1 Rare Pip, and the [Talent](Talents.md) 'Defiant until the End', which causes your character to shout in defiance while being gripped, increasing the amount of time it takes for the grip animation to finish. It is rarely found in chests from [The Eternal Gale](Second_Layer.md), and almost guaranteed from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) & [Ethiron](Scion_of_Ethiron.md) Chests; it can also be bought from the [Merchant Ship](Travelling_Merchant.md).
 
 ## Trivia
 
