@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 86642
+revid: 86678
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -464,7 +464,7 @@ File:Disguising .gif
 
 File:Attunement-less icon.png
 
- | Testicular
+ | Flashdraw
 
 Strike  
 (☆☆☆)

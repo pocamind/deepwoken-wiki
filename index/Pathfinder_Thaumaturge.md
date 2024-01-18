@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 85746
+revid: 86677
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -18,7 +18,7 @@ Template:ArmorInfobox
 
 This Outfit costs and requires (5) Fiber, (5) Cloth and (1) Rock.
 
-This Outfit requires 10 Intelligence and Power 15.
+This Outfit requires 10 Intelligence and Power 5.
 
 ### _Armor Stats_
 
