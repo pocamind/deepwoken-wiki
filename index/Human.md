@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 85840
+revid: 86718
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]

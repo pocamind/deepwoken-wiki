@@ -1,8 +1,9 @@
 ---
 title: Phoenix Duster
-revid: 86021
+revid: 86723
 source: https://deepwoken.fandom.com/wiki/Phoenix_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment]
 ---
 
 # Phoenix Duster

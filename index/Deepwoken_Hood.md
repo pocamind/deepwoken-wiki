@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Hood
-revid: 76909
+revid: 86724
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Armors, Character]
@@ -21,7 +21,7 @@ categories: [Equipment, Helmets, Armors, Character]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fort Merit, First Layer, Duke Erisia, Primadon |
+| obtainment | Chests from:, Fort Merit, First Layer, Duke Erisia, Primadon, Miner's Landing |
 | description | "..." |
 
 _If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
