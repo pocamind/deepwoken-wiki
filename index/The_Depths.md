@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 86672
+revid: 86698
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -20,7 +20,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
 ## Overview
 
-The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again.
+The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again. _**[I FARTED AND I CAN'T GET UP!!!!!](https://www.google.com/search?sca_esv=599271502&rlz=1C1ONGR_enUS986US986&sxsrf=ACQVn0_H2UChxwG1lBH8iXQ5xMImXKpA8w:1705532534081&q=Poop+pictures&tbm=isch&source=lnms&sa=X&ved=2ahUKEwil2eLmw-WDAxV-F1kFHdbzDTsQ0pQJegQIChAB&biw=1920&bih=957&dpr=1#imgrc=fdVEtnbHjdbDcM)**_
 
 Despite being a resting place for souls, The Depths is a physical location in the World of Deepwoken. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to The Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as Megalodaunts becoming better runners and jumpers but sacrificing their ability to swim well.
 

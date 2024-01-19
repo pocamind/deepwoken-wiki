@@ -1,14 +1,12 @@
 ---
 title: Maps
-revid: 85518
+revid: 86695
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World, Sailing, Locations, Map, Fishing, Deepwoken, Sky statues. What is this?]
+categories: [World, Sailing, Locations, Map, Deepwoken]
 ---
 
 # Maps
-
-Navigation in _Deepwoken_ can be confusing at first, especially if you are a new player to the game. However, don't worry, as the Deepwoken wiki got you covered.
 
 ## Interactive Maps
 
@@ -187,4 +185,3 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
 -   Islands named Lungfish Keep, Dink Island, Pov Land, Ironfist and Geoduck Cave do not exist or have been removed.
 -   [Boatman's Watch](<Boatman's_Watch.md>) exists where Dink Island would have been.
 -   Future Luminants are confirmed, it is just going to be a while before we see such massive updates.
--   There used to be a really bad map on this wiki page (which has been long since removed, the edit was on 25 March 2023 by Pxrxlyzxr1000 if your interested). Go to [this](https://youtu.be/AvTTRUe43OM?t=51) YouTube video if you wish to see it.

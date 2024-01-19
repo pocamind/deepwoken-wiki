@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86621
+revid: 86694
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1811,6 +1811,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Sightless Still \[Common Talent, Shadowcast Exclusive\] - The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras. (+5 Elemental Intensity)
     -   Prerequisite: 30 Shadowcast
+    -   This talent was merged with the old Black Out.
     -   Mutual Exclusive: Singularity
 
 -   Singularity \[Common Talent, Shadowcast Exclusive\] - Enemies will briefly hang in place when hit by a shadow move. (+1 Elemental Intensity)

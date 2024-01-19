@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 86388
+revid: 86693
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -586,24 +586,6 @@ File:Shadowcast icon.png
 
  | 
 
-Black Out  
-(SHADOW 30, Sightless Still)
-
- | 
-
-Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra.
-
- | 
-
-+5 Elemental Intensity
-
- |
-| 
-
-File:Shadowcast icon.png
-
- | 
-
 Blossoming Darkness  
 (SHADOW 30, Shadow Roar)
 
@@ -663,7 +645,7 @@ Sightless Still
 
  | 
 
-The more a person is affected by your shadowcast the more you obscure their vision.
+The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras.
 
  | 
 

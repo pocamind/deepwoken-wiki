@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 86521
+revid: 86686
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1003,7 +1003,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning.
     -   Which translates to the fact that the Mantra would fit well to people who has a defensive approach to combat.
 -   Frostdraw mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
--   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Commanders in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
+-   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
 -   The **Ice Chains** mantra was reworked into a new ability on the 8th of February 2022.
 -   The now-removed "Frozone" Talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from [The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles).
 -   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in [Overwatch](https://en.wikipedia.org/wiki/Overwatch).

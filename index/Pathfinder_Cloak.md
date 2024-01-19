@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 85745
+revid: 86685
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -31,3 +31,4 @@ This Outfit's Schematic can be found in:
 -   [Lower Erisia](Lower_Erisia.md)
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   Bought at the Wind Trainer in [Isle of Vigils](Isle_of_Vigils.md)
+-   Chests from [Primadon](Primadon,_Titan_of_the_East.md)
