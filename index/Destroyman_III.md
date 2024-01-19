@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 86696
+revid: 86707
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Destroyman III | |
 |---|---|
 
-“ Overconfidence is a slow and insidious killer. ”
+“ Mudwoken? What are you talking about? That's so 91 years ago. Get with the times. ”
 
 ― Destroyman III
 

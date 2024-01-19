@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 86597
+revid: 86704
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -53,6 +53,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Kyrsan Medallions (Itemized)
 -   Ardour Manifestation
 -   Void Feather(s)
+-   Deepshore Fossil
 
 ## Artifacts
 
