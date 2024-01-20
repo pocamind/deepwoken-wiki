@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 86693
+revid: 86784
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -36,7 +36,7 @@ The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](
 
 ## Mantras
 
-### **Combat**
+### **Support**
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |

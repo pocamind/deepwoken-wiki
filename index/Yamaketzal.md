@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 86190
+revid: 86793
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -23,29 +23,80 @@ After attaining "Chimes of Conflict", he will tell you your win to loss ratio in
 
 Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" flaw, Yamaketzal can remove it from the player for the price of 1000 [notes](Notes.md), making it possible to reroll their [Resonance](Resonance.md) again.
 
-### Below is dialogue of Yamaketzal responding when asked who he is.
+## Dialogue
 
--   _"Me? Drowned... Just like you. \*He looks you dead in the eyes and gives you a wry smile.\*"_
-    -   Mentions the act of Drowning, being sent to [The Depths](The_Depths.md).
--   _"Me? I'm Duke Erisia... Yeh... That one who done made all those rocks move... Heh heh..."_
-    -   Mentions [The Duke](Duke_Ishamon_Erisia.md), who got the ability to create [Rock Golems](Rock_Golem.md) with his Resonance.
--   _"Me? Yer lookin' at the Lord Regent of Etrea... Real scary one I am... Watch it yeh?..."_
-    -   Mentions [Lord Regent](The_Lord_Regent.md), the current and mysterious leader of [Etris](Etris.md).
--   _Jus' a washed up somebody... Or someone who used to be somebody... Keh heh..."_
-    -   Might tie in with the origins of the players, being found, washed up on the shore.
--   _"Me? Ferryman's what I am... Dredged up from the dregs of the dregs... Tormenting mortal spirits 'n' that... Ironic... Coz they were the ones tormenting me..."_
-    -   Mentions [The Ferryman](The_Ferryman.md) and his possible origins.
-        -   **Dredged** refer to the act of cleaning the bed (bottom) part of a body of water, be it a lake, a river or the sea.
--   _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny things y'learn when you discard everything in pursuit of your goals... Heh heh..."_
-    -   Mentions Gunsmith Rosen, the inventor of [Guns](Guns.md).
--   _"Me? Driver's what I am... Got some horses... Real nice ones... Travel way over land we do... Not a puddle in sight... Heh heh..."_
-    -   Mentions the Drivers, people riding horses in the other Luminants.
--   _"Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle... Heh heh..."_
-    -   Mentions the Wardens of the Authority. Mainly just talking about his drinking habits, though.
--   _"Me? Songmast'r Tz'araan, I am... The mighty Songseeker mistress... Think free for yerself, student... But not outside th' box!... Heh heh..."_
-    -   Mentions Songmaster Tz'araan, Songseeker mistress.
+**Initial:**
 
-### Yamaketzal has different dialogue depending on your win/lose ratio, please add his different dialogues below this line accordingly.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Hold no quarter...</td>
+</tr>
+<tr>
+  <td colspan="12">Huh?</td>
+</tr>
+<tr>
+  <td colspan="12">You a fighter?</td>
+</tr>
+<tr>
+  <td colspan="12">PLACEHOLDER</td>
+</tr>
+<tr>
+  <td colspan="12">PLACEHOLDER</td>
+</tr>
+<tr>
+  <td colspan="9">End</td>
+</tr>
+</tbody>
+</table>
+
+**1\. "Who are you?":**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Me? Drowned... Just like you. *He looks you dead in the eyes and gives you a wry smile.*</td>
+  <td colspan="6">Mentions the act of Drowning, being sent to <a href="The_Depths.md">The Depths</a>.</td>
+</tr>
+<tr>
+  <td colspan="6">Me? I'm Duke Erisia... Yeh... That one who done made all those rocks move... Heh heh...</td>
+  <td colspan="6">Mentions <a href="Duke_Ishamon_Erisia.md">The Duke</a>, who got the ability to create <a href="Rock_Golem.md">Rock Golems</a> with his Resonance.</td>
+</tr>
+<tr>
+  <td colspan="6">Me? Yer lookin' at the Lord Regent of Etrea... Real scary one I am... Watch it yeh?...</td>
+  <td colspan="6">Mentions <a href="The_Lord_Regent.md">The Lord Regent</a>, the current and mysterious leader of <a href="Etris.md">Etris</a>.</td>
+</tr>
+<tr>
+  <td colspan="6">Jus' a washed up somebody... Or someone who used to be somebody... Keh heh...</td>
+  <td colspan="6">Might tie in with the origins of the players, being found, washed up on the shore.</td>
+</tr>
+<tr>
+  <td colspan="6">Me? Ferryman's what I am... Dredged up from the dregs of the dregs... Tormenting mortal spirits 'n' that... Ironic... Coz they were the ones tormenting me...</td>
+  <td colspan="6">Mentions <a href="The_Ferryman.md">The Ferryman</a> and his possible origins. "Dredged" refers to the act of cleaning the bed (bottom) part of a body of water, be it a lake, a river or the sea.</td>
+</tr>
+<tr>
+  <td colspan="6">Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny things y'learn when you discard everything in pursuit of your goals... Heh heh...</td>
+  <td colspan="6">Mentions Gunsmith Rosen, the inventor of <a href="Guns.md">Guns</a></td>
+</tr>
+<tr>
+  <td colspan="6">Me? Driver's what I am... Got some horses... Real nice ones... Travel way over land we do... Not a puddle in sight... Heh heh...</td>
+  <td colspan="6">Mentions the Drivers, people riding horses in the other Luminants</td>
+</tr>
+<tr>
+  <td colspan="6">Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle... Heh heh...</td>
+  <td colspan="6">Mentions the Wardens of the Authority. Mainly just talking about his drinking habits, though.</td>
+</tr>
+<tr>
+  <td colspan="6">Me? Songmast'r Tz'araan, I am... The mighty Songseeker mistress... Think free for yerself, student... But not outside th' box!... Heh heh...</td>
+  <td colspan="6">Mentions <a href="Lore.md#songmaster-tzaraan">Songmaster Tz'araan</a>, the Songseeker mistress.</td>
+</tr>
+</tbody>
+</table>
+
+### Dialogue - After fighting in Chime of Conflict
 
 _"Hrmm... <number of battles won> tourneys won out of <total number of battles> fought..."_
 
@@ -53,7 +104,7 @@ _"Hrmm... <number of battles won> tourneys won out of <total number of battles> 
 -   _"Respectable... at the very least."_ (When W:L ratio is between 60% and 80%)
 -   _"Not bad... Not bad at all."_ (When W:L ratio is above 80%)
 
-### Yamaketzal's Dialogue When Approached with Tarnished Flaw
+### Dialogue - Tarnished
 
 -   _No place for a warrior like yourself havin' such a sorry excuse for an instrument... No place... Can fix that fer yer..._
     -   **1\. \[You can do that for me?\]**

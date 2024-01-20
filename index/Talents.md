@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86769
+revid: 86788
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1462,7 +1462,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage. (+1 Elemental Intensity)
     -   Gain a 4% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 25 time, for a 100% damage boost. [\[1\]](#cite-note-1)
+    -   Can stack up to 25 times, for a 100% damage boost. [\[1\]](#cite-note-1)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excluding Self damage from Jumpstart and possibly others like Flame Within.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -1959,6 +1959,14 @@ Prerequisite: Charisma
         -   Shiver slows movement, but does not cancel M1/Mantra.
         -   You now Scratch yourself at Tier 3 insanity instead of Tier 2.
     -   Prerequisites: Grasp on Reality, 50 Willpower, 50 Fortitude
+
+### Super Conductor
+
+"(someonefindoutmysticdialoguepls)"
+
+-   Voltaic Conductor \[Common Talent, Dual Attunement\] - Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
+    -   Prerequisites: Rending Needle: Conductor, 40 Thundercall, 75 Ironsing
+    -   This talent works with the ironsing & thundercall dual attunement mantra : iron tether
 
 ### Survival Instinct
 
