@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 82328
+revid: 86726
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -23,6 +23,8 @@ Bone Keepers are giant, humanoid creatures, with inhuman proportions, having sho
 These monsters are incredibly mobile and hard-hitting enemies. They are certainly a large difficulty step-up from the mobs found in Layer 1, however all of their attacks are well telegraphed and can be avoided with proper experience. They do large damage, so be wary of messing up. _(Especially when corrupted.)_
 
 ## Moveset
+
+If you would prefer a visual guide, consider watching _[this video](https://www.youtube.com/watch?v=gMXwczlX4YE)_.
 
 | Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |

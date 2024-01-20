@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 86383
+revid: 86746
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -527,11 +527,10 @@ Stratus Stones
 Lightning Cloak  
 (★★★)
 
- | A cloak of lightning |  | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | A cloak of lightning itself. |  | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   A combative action, such as blocking parrying or attacking, must be used within 8 seconds or the mantra is deactivated and goes on cooldown.
 -   Cannot last longer than 60 seconds.
--   Puts your ether bar at a standstill, tempo is still able to be gained.
 
  | Duration: 6.5-60 secs
 

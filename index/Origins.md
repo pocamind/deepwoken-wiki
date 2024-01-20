@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 86196
+revid: 86732
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -61,7 +61,8 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md), with the possibility of a [Nautilodaunt](Nautilodaunt.md); However, the trial will change depending on the amount of drowns your character has.
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
-    -   Can sell items at the Antiquarian at Castle Light.
+    -   Can sell items at the Antiquarian at Castle Light in the Library.
+    -   Can store and retrieve weapons and items at the Banker across from the Antiquarian.
     -   Have access to the furnace, a campfire on the second floor.
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
@@ -74,7 +75,8 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
 -   Grants the Deepbound Contract Talent "Call of the Deep"
     -   Plays a short animation of the player sinking into the ground before teleporting them into [The Depths](The_Depths.md).
--   If you accidentally use said Call of the Deep you can return to the main menu during the animation and you wont be in [The Depths](The_Depths.md).
+    -   Will spawn you in [Castle Light](Castle_Light.md).
+    -   Returning to the main menu during the animation will cancel the teleport and wont send you to [The Depths](The_Depths.md).
 
 ## Voidwalker
 

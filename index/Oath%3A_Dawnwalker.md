@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 86237
+revid: 86754
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,6 +80,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
  |
 
 -   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
+-   **Luminous Flash** (TBA)
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.

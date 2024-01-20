@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 86165
+revid: 86729
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -91,5 +91,6 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   Dyeing your hair as a Starkindred will also dye your wings to the same color.
     -   Dyeing your hair with your wings active will not change their color until they disappear and are reactivated.
 -   You may also dye Starkindred's neck-halo.
+-   the starkindred mantra "ascension" share similar effect with the winged attack of the crucible knights in Elden ring
 
 Starkindred halo dyed blue.

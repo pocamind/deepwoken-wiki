@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86694
+revid: 86757
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1467,8 +1467,6 @@ _**"I seek the qualities of Heat Column."**_
     -   Lose the entirety of the damage boost after taking damage. (Excluding Self damage from Jumpstart and possibly others like Flame Within.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
     -   Requirement: Power 2
--   Ether Kit \[Common Talent\] - It's extra Ether, do you need anything else? (+20 Ether)
--   Health Pack \[Common Talent\] - It's extra health, do you need anything else? (+10 Health)
 -   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
     -   Increases the odds of the item with the lowest rate appearing.
     -   This applies to the mob **DROP** and not the chest they spawn.
@@ -1664,9 +1662,9 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: 90 Strength, Unwavering Resolve, Shield Breaker
     -   Mutual Exclusive: Ether Overdrive
 
--   Shield Breaker \[Common Talent\] - Blunt damage now deals full posture damage to shields. (+4 Carry Load, +1 Posture)
+-   Shield Breaker \[Common Talent\] - Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)
     -   Prerequisite: 60 Strength
-    -   Bypass the reduced posture reduction of shields. Effectively, your enemy is stripped from their shield.
+    -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
 
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 50% less. (+2 Posture, +4 Carry Load)
     -   Prerequisite: 40 Strength
@@ -2243,7 +2241,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: Flame of Denial
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
-    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame, AND at least 1 Mental Fortress Talent
+    -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
 
 -   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restores sanity and health to those around it. Stacks with sitting next to it.
@@ -2467,8 +2465,6 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
     -   Prerequisite: [Power](Power.md) 5
-
--   Hardened Nerves \[Common Talent\] - Slightly Increases Posture. (+2 Posture)
 
 -   Heavy Haul \[Common Talent, Fortitude\] - Enemies who carry you move significantly slower.
     -   Prerequisite: 15 Strength
