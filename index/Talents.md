@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86757
+revid: 86769
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -281,7 +281,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I prefer to attack unseen."**_
 
 -   Deep Wound \[Common Talent, Light\] - Assassinating a target with a Light Weapon applies anti-heal for 20 seconds.
-    -   Prerequisite: 45 Light Weapon
+    -   Prerequisite: 45 Agility
 
 -   Low Blow \[Common Talent, Agility\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
     -   Prerequisites: 60 Agility, Assasin

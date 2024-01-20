@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 86754
+revid: 86782
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -33,7 +33,7 @@ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstr
 -   Blinding Dawn upon Oath obtainment (30 medallions)
 -   Radiant Kick (15 medallions)
 -   Protagonist Syndrome and Radiant Dawn (15 medallions)
--   Absolute Radiance (15 medallions)
+-   Absolute Radiance + Luminous Flash (15 medallions)
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/piwaILBXhqg)._
 
@@ -75,12 +75,18 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
  | _Strike down your foes with your blinding light._ | 
 
 -   This mantra is unparriable and unblockable and will blockbreak anyone that attempts to do so.
--   Doesn't proc Absolute Radiance.
+-   ~Doesn't proc Absolute Radiance.~ Now procs after some unknown update
 
  |
 
--   **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
--   **Luminous Flash** (TBA)
+-   Luminous Flash when it procs
+    
+    **Protagonist Syndrome - Passive:** The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.
+-   **Luminous Flash** **\- Passive:** After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
+    -   Each time you proc this talent the higher chance it will proc. (Unconfirmed)
+    -   Gives you max dmg on proc (1.75x), more tempo on m1, and daze
+    -   CD of ~30-50 seconds
+    -   Has a small aura on proc
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 86599
+revid: 86770
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -64,6 +64,24 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down without the use of echoes.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
+
+  
+Alloyed Inheritor
+
+  
+Damage: 25.4
+
+Pen 15%
+
+Scaling 8
+
+Posture 8
+
+range 8.5
+
+swing speed 0.64
+
+endlag 0.05s
 
 ## Types of Weapons
 

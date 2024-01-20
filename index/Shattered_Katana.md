@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 86258
+revid: 86766
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -33,10 +33,11 @@ The Shattered Katana across various updates has been nerfed and is debatably no 
 
 ## Trivia
 
+-   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
+    -   Fittingly, the two handed critical was inspired by Isshin the Sword Saint, who wields the blade.
 -   It is one of two weapons that comes with a sheathe, the other being the Katana.
     -   Therefore, it also works with the [Poser's Ring](Equipment.md#rings) and can be used to start [Zana's](Zana.md) quest.
 -   The Sheath of the Shattered Katana is facing up (Having the curves face down), most [Outfits](Outfits.md) in this game aren't really covered in armor, this is mostly accurate since those who wield the weapon without armor often have their sheath faced down as a traditional and practical method of drawing the sword quickly and efficiently, this allows the person to minimize the risk of getting caught in clothing or obstacles.
--   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
 -   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.
     -   Despite its blade being much longer than the Katana, both weapons have 8 range.
 -   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5%, instead of the Katana's 25% dealing 35.7 damage.

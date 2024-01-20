@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 82023
+revid: 86774
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1515,6 +1515,7 @@ You can choose your first name from any available, but your choices of last name
 ## Trivia
 
 -   Most names added after the release of the game somehow end up in all three options, despite it being meant to either be in Male, Female or Neutral, as, by default, names that can be in more than one category should be in Neutral.
+-   The name "Vergil" is a referance to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The name "Usopp" is a reference to [the _One Piece_ character of the same name](https://onepiece.fandom.com/wiki/Usopp).
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only "Usopp" was added.[\[1\]](#cite-note-1)
 -   The names "Ornstein" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough).

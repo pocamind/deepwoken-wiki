@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 86755
+revid: 86772
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -22,12 +22,9 @@ Silentheart veins dyed pink.
 
 -   [Equipment](Equipment.md)
 -   Hair
+-   Eyes
 -   [Resonance](Resonance.md)
--   [Silentheart](Oath%253A_Silentheart.md) Veins
--   [Starkindred](Oath%253A_Starkindred.md) Halo
--   [Arcwarder](Oath%253A_Arcwarder.md) Arc Suit
--   [Vesperian](Vesperian.md) Mask + Mask Markings  
-    
+-   Any visual [Oath](Oaths.md) change (Silentheart veins, Dawnwalker symbol, Arcwarder armor, etc.)
 
 ## Trivia
 
