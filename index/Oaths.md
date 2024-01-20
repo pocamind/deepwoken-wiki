@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 86697
+revid: 86799
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -29,7 +29,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
 -   [Dawnwalker:](Oath%253A_Dawnwalker.md) +2 Combat Mantra \[No Stat Requirements\]
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
--   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra \[50 Agility\]
+-   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +5 HP, +2 Posture \[50 Agility\]
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
 -   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +15% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
 -   [Silentheart](Oath%253A_Silentheart.md): +10% Weapon Damage, +10% Mantra Resistance, +10 HP, +5 Posture \[Attunement-less, 75 Weapon, 40 Strength, 40 Agility/Charisma\]

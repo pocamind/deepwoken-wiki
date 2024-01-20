@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 86753
+revid: 86811
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -12,10 +12,11 @@ categories: [Weapons, Fists]
 |---|---|
 | type | Light Weapon |
 | requirements | 40 LHT, PWR 5, Way Of Navae |
-| damage | 13.5 |
+| damage | 14 |
 | scaling | 9 |
 | range | 7 |
 | swing speed | 0.9x |
+| endlag | 0.05s |
 | penetration | 20% |
 | weight | 3 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Authority Helm
-revid: 86662
+revid: 86804
 source: https://deepwoken.fandom.com/wiki/Authority_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -22,7 +22,7 @@ categories: [Helmets, Equipment]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chests from:, Aratel IslandDrops from:, Authority Commanders, Authority Officers, Authority Peacekeepers |
-| description | "..." |
+| description | "The standard-issue helmet of the Central Authority. The bearer's identity is stripped away, leaving only a faceless soldier in service of the world's salvation under the guiding hand of Sovereign Drallis Ehr, Overseer of Epochs. None have ever seen the true face of Lumen's Savior, and so too are his proxy's faces shrouded. Truly, the world is only illuminated by the will and grace of the Sovereign of Ages. Within this dark a blazing light." |
 
 ## Description
 

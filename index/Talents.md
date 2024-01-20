@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86788
+revid: 86800
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2132,7 +2132,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"My blade conducts the skies wrath."**_
 
 -   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load, +4 Elemental Intensity)
-    -   Prerequisite: 65 Thundercall, 20 Strength / 20 Agility, Static Blade, Sword
+    -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Sword
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity)
     -   Prerequisite: Gathering Electricity

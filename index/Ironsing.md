@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 86676
+revid: 86805
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -117,6 +117,7 @@ Metal Kick
 -   You cannot use other Mantras during its duration however you can M1 while this is active.
 -   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
 -   Apply Metal Rods on hit.
+-   can be modified with a blast spark to make the mantra fire two cannons that fire one round each
 
  |
 |  | Oxidizing Rush

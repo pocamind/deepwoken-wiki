@@ -1,6 +1,6 @@
 ---
 title: Mod Suit
-revid: 85454
+revid: 86795
 source: https://deepwoken.fandom.com/wiki/Mod_Suit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Exclusive Outfits]
