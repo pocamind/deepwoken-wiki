@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 86766
+revid: 86879
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,19 +27,19 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip. It shares the [Katana's](Katana.md) unique critical. At 100 MED, it deals 34 damage.
+The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip. At 100 MED, it deals 34 damage. It shares the [Katana's](Katana.md) critical when wielded with one hand, though it boasts its own unique attack when wielded with two.
 
-The Shattered Katana across various updates has been nerfed and is debatably no longer the best Medium Weapon. The addition of the [Pluripotent Alloy](Pluripotent_Alloy.md) has made weapons such as the [Shotel](Shotel.md) or [Vigil Longsword](Vigil_Longsword.md) an easier option and, in some aspects, better weapons than the Shattered Katana.
+Across various updates, the Shattered Katana has received many balance changes and is debatably no longer the best Medium Weapon. The addition of the [Pluripotent Alloy](Pluripotent_Alloy.md) has made weapons such as the [Shotel](Shotel.md) or [Vigil Longsword](Vigil_Longsword.md) an easier option and, in some aspects, better weapons than the Shattered Katana.
 
 ## Trivia
 
 -   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
-    -   Fittingly, the two handed critical was inspired by Isshin the Sword Saint, who wields the blade.
+    -   Fittingly, the two-handed critical was inspired by Isshin the Sword Saint, who wields the blade.
 -   It is one of two weapons that comes with a sheathe, the other being the Katana.
     -   Therefore, it also works with the [Poser's Ring](Equipment.md#rings) and can be used to start [Zana's](Zana.md) quest.
--   The Sheath of the Shattered Katana is facing up (Having the curves face down), most [Outfits](Outfits.md) in this game aren't really covered in armor, this is mostly accurate since those who wield the weapon without armor often have their sheath faced down as a traditional and practical method of drawing the sword quickly and efficiently, this allows the person to minimize the risk of getting caught in clothing or obstacles.
+    -   It's appropriate that the scabbards of both the Shattered and regular Katana are placed cutting-edge facing upwards: many samurai preferred to draw their swords facing downward only if they were wearing armor, as that would prevent the blade from getting caught on it. Conversely, they would wear their katana facing upwards without armor since that wouldn't be an issue; as most [outfits](Outfits.md) in Deepwoken lack heavy armor, it makes sense for the scabbard to be facing up.
 -   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.
     -   Despite its blade being much longer than the Katana, both weapons have 8 range.
--   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5%, instead of the Katana's 25% dealing 35.7 damage.
+-   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5% instead of the Katana's 25%. This makes it deal 35.7 damage.
     -   This causes both weapons to deal very similar damage at equivalent attribute levels. Their main differences become the PEN and swing speed.
 -   On release, the Shattered Katana had 50% PEN and 0.75x swing speed. It also received the full 25% damage buff from Paired Soul.

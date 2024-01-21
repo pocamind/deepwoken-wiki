@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86861
+revid: 86872
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -182,7 +182,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   You have 25% chance to apply the effect of your drank potion on your allies.
     -   Prerequisites: 55 Intelligence
 
--   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions will slow you down less, you are more accustomed to potions and gain greater benefits from their ingestion.
+-   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions faster. (~0.5 seconds faster)
     -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
         -   This talent was merged with the old Subsistence talent.
@@ -572,7 +572,7 @@ _**"I seek the qualities of Cosmic Wind."**_
 -   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
     -   Reduce grip time by 0.5 seconds (16.67% faster)
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
-    -   Prerequisite: Assassin, 30 Agility
+    -   Prerequisite: 30 Agility
 -   Muffled Scream \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of talents that slow your executions. (+1 Passive Agility)
     -   Prerequisite: 50 Agility
 
