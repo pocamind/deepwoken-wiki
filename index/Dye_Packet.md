@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 86772
+revid: 86853
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -30,7 +30,7 @@ Silentheart veins dyed pink.
 
 -   Some equipment are just "tinted" instead of the actual color changing.
 -   Originally, they could only be obtained from Klaris. This was eventually changed on the 8/15/2023 update, making them available for purchase from Merchant Ships.
--   You do not receive a Dye Remover if you purchase a Dye Packet from a Merchant Ship.
+-   You do not receive a Dye Remover if you purchase a Dye Packet from a Merchant Ship..
 
 File:Dye merchant.png
 

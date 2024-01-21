@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 86713
+revid: 86854
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -94,7 +94,7 @@ Burning Servants
 
  | 
 
-_A legion of flames._
+_Summon a legion of flaming spearmen that lunge inwards._
 
  | User summons six blazing warriors armored with [Halberds](Halberd.md) in a circle and attacking one after the other in quick succession at the position of the caster. Before all striking one final time at the center and dissapearing in flames.
 
@@ -137,7 +137,7 @@ Flame Grab
 
  | 
 
-_A fiery chokehold._
+_Jet forwards with flames and slam anyone you catch in your clutches._
 
  | User lunges forward for a grab that slams and burns incoming opponents into the ground.
 
@@ -156,7 +156,7 @@ Flame Blind
 
  | 
 
-_Snap your fingers, shooting a projectile that blinds those who dare gaze at it._
+_Shoot a projectile that explodes after a short delay and blines those looking at it._
 
  | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 
