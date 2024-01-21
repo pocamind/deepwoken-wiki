@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86800
+revid: 86816
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -128,7 +128,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 ### Aerial Dancer
 
 -   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne.
-    -   Synergizes well with Aerial Stab or mantras that send the user and target in the air.
+    -   Synergizes well with Aerial Assault or mantras that send the user and target in the air.
     -   Prerequisites: 15 Strength, 25 Medium Weapon/25 Heavy Weapon/25 Light Weapon
 
 ### Aeromancer

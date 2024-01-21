@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 86505
+revid: 86813
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -58,9 +58,10 @@ _The Lord Regent, sitting atop his throne of coral._
     -   As it is unknown how long ago this event was it may have been caused by the same person. \[Speculation\]
 -   The [book](Books.md) _Stars Above, and the Blade Between_ features a mysterious [Shadowcaster](Shadowcast.md), who may well be linked to the [Ministry](The_Ministry.md), orchestrating the assassination of the King of Etrea and thus clearing the way for the Lord Regent, Zi'eer, to ascend into power.
 
-### **Drallis Ehr**
+### **Sovereign Drallis Ehr, Overseer of Epochs**
 
 -   Grand Sovereign of The Central Authority.[\[1\]](#cite-note-rag-1)
+-   Often called Lumens Savior.
 -   Presumably an Adret, given the biases of the Authority.
 -   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.

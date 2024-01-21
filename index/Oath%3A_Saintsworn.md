@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 85761
+revid: 86835
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Pages with broken file links]
@@ -24,6 +24,10 @@ notices:
 ## Description
 
 **[Oath](Oaths.md): Saintsworn** is an upcoming confirmed oath relating to Hero Blades. There is not much known about it besides its in-development appearance[\[1\]](#cite-note-1) and name.[\[2\]](#cite-note-2)
+
+## Trivia
+
+-   This Oath is created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
 
 ## References
 

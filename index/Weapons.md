@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 86770
+revid: 86834
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -64,24 +64,6 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down without the use of echoes.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
-
-  
-Alloyed Inheritor
-
-  
-Damage: 25.4
-
-Pen 15%
-
-Scaling 8
-
-Posture 8
-
-range 8.5
-
-swing speed 0.64
-
-endlag 0.05s
 
 ## Types of Weapons
 
@@ -294,6 +276,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
   <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
   <td><b>Scaled Damage</b></td>
 </tr>
 <tr>
@@ -306,6 +289,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>6</td>
   <td>0.85x</td>
+  <td>N/A</td>
   <td>20.2</td>
 </tr>
 <tr>
@@ -318,6 +302,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.87x</td>
+  <td>N/A</td>
   <td>22.7</td>
 </tr>
 <tr>
@@ -330,19 +315,21 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.87x</td>
+  <td>N/A</td>
   <td>28.2</td>
 </tr>
 <tr>
   <td><a href="Jus_Karita.md">Jus Karita</a></td>
   <td>40 LHT, LVL 5</td>
-  <td>13.5</td>
+  <td>14</td>
   <td>20%</td>
   <td>N/A</td>
   <td>LHT: 9</td>
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
-  <td>25.3</td>
+  <td>0.05s</td>
+  <td>26.2</td>
 </tr>
 <tr>
   <td><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></td>
@@ -354,6 +341,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
+  <td>N/A</td>
   <td>25.3</td>
 </tr>
 <tr>
@@ -366,6 +354,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>6</td>
   <td>0.88x</td>
+  <td>N/A</td>
   <td>30.25</td>
 </tr>
 <tr>
@@ -378,6 +367,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>5</td>
   <td>7</td>
   <td>0.85x</td>
+  <td>N/A</td>
   <td>27.5</td>
 </tr>
 <tr>
@@ -390,6 +380,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>4</td>
   <td>6</td>
   <td>0.82x</td>
+  <td>N/A</td>
   <td>34.12(<b>Bleed</b>)</td>
 </tr>
 </tbody>
@@ -1461,6 +1452,19 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>0.6x</td>
   <td>0.1s</td>
   <td>45</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Markor%27s_Inheritor#Alloyed"><font>Alloyed Inheritor</font></a></td>
+  <td><font>75 HVY</font>, 10 STR</td>
+  <td>24</td>
+  <td><font>15%</font></td>
+  <td>N/A</td>
+  <td><font>HVY: 8</font></td>
+  <td>8</td>
+  <td>8.5</td>
+  <td>0.64x</td>
+  <td>0.05s</td>
+  <td>42.72</td>
 </tr>
 <tr>
   <td><a href="Kyrscleave.md">Kyrscleave</a> (<b>Bleed</b>)</td>

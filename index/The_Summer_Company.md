@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 84323
+revid: 86839
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -76,4 +76,4 @@ Neutral-Bad Reputation:
     -   Trig is named after the trigger.
     -   Mag is named after the magazine.
 -   Even if you have [neutral reputation](Reputation.md), you can still get attacked by Summer Goons and Guards.
-    -   Therefore it's recommended that instead of sailing to the docks of Summer Isle, sail around to the back of the island and do Trig's [Quest](Quests.md) by the door of the inn, in order to gain a bit of Reputation so the guards won't attack you.
+    -   Therefore it may be recommended that instead of sailing to the docks of Summer Isle, that you instead sail around to the back of the island and do Trig's [Quest](Quests.md) by the door of the inn, in order to gain a bit of Reputation so the guards won't attack you. However, doing this quest may also unlock Armor Piercing and Bullet proof in your talent pool, which may interfere with your build.
