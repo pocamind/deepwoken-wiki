@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 86746
+revid: 86868
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -50,8 +50,9 @@ Lightning Blade
 
 -   Can be upgraded with a Magnet Spark, which makes the mantra perform a third teleporting slash. (Short range)
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   Can be upgraded with the Talent, Stormcaller Slash, which summons a third lightning slash if you press F while using the move.
+-   Summons a third lightning slash if you press F while using the move.
     -   This does not require you to hit anything with the first two slashes.
+    -   Used to be a talent called Stormcaller Slash.
 
  | Damage:
 

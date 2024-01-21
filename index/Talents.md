@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86816
+revid: 86861
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1962,11 +1962,11 @@ Prerequisite: Charisma
 
 ### Super Conductor
 
-"(someonefindoutmysticdialoguepls)"
+> _**"I seek the qualities of Superconductor."**_
 
 -   Voltaic Conductor \[Common Talent, Dual Attunement\] - Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
     -   Prerequisites: Rending Needle: Conductor, 40 Thundercall, 75 Ironsing
-    -   This talent works with the ironsing & thundercall dual attunement mantra : iron tether
+    -   Doesn't work on Iron tether because it goes through guard.
 
 ### Survival Instinct
 

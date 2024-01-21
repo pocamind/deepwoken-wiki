@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 86855
+revid: 86869
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Fadetrimmer** is one of the 11 obtainable Oaths in _Deepwoken._
+**[Oath](Oaths.md): Barber** is one of the 11 obtainable Oaths in _Deepwoken._
 
 ## Obtainment
 
@@ -67,14 +67,15 @@ This oath is fully upgraded once you get it.
 
 ## Trivia
 
--   The Fadetrimmer Oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The Oath was added to the game on the July 24, 2023, almost a year later.
--   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
+-   The Barber Oath was mentioned by the Barbers ever since they were added to the game, on August 22, 2022. The Oath was added to the game on the July 24, 2023, almost a year later.
+-   Barber originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
 -   Revitalizing can be used on more than one ally, offering a good amount of support, on par with Reinforce.
--   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server.
+-   Barber's haircuts will stay on the opponent for ten minutes, or when you leave the server.
     -   It also bears similarities to a few Attunement-less moves. For example, Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash, and Precision Cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description of this Oath is a reference to the "Ginger Fringe Incident" meme.
 -   Charming Hair Product is virtually useless due to the existence of Charismatic Cast.
     -   Likewise, Flammable Hair Product is a fairly slow option to apply fire that does no damage by itself- using Flamecharm mantras applies fire while dealing actual damage at the same time. Flammable can proc Lava Serpent, if that's any bonus...
--   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
+-   Due to Revitalizing, Barber is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
 
--   ~Fadetrimmer's scissor-play may be a reference to Gwen from League of Legends specifically.~ Or the fact the oath is based on a barber?? nuh uh its league of legends
+-   ~Barber's scissor-play may be a reference to Gwen from League of Legends specifically.~ Or the fact the oath is based on a barber?? nuh uh its league of legends
+-   The color of the scissors on your hips can be changed with a dye packet
