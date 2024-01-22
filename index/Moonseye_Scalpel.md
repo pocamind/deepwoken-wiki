@@ -1,6 +1,6 @@
 ---
 title: Moonseye Scalpel
-revid: 78966
+revid: 86963
 source: https://deepwoken.fandom.com/wiki/Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec]
@@ -40,9 +40,11 @@ The Moonseye Scalpel is just a [Rifle Spear](Rifle_Spear.md) with a fancy name a
 -   Despite being an unobtainable weapon, the Moonseye Scalpel doesn't actually come with any defining features that sets it apart from the average Rifle Spear, other than its unique name and description.
 -   The description of the Moonseye Scalpel was added after the weapon had accidently been added into the game, which mentions how the owner of the weapon had essentially won the lottery, due to how hard it was to obtain inside the short timeframe of it being added.
 -   This weapon was only obtainable for around an hour, making it one of the rarest weapons in all of Deepwoken.
+-   Has been removed/replaced with a normal Rifle Spear as of Version PV\_JAN\_19\_22:13 "This shit has to be targetted I swear to gods" \_Proud owner of a normal Rifle Spear.[\[4\]](#cite-note-4)
 
 ## References
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2)
 3.  [↑](#cite-ref-3)
+4.  [↑](#cite-ref-4)

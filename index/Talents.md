@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86922
+revid: 86965
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1085,6 +1085,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _Saint Jay_ \[Rare Talent, Frostdraw Exclusive\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. (+5 Elemental Intensity)
     -   The user doesn't steal healing from others if the user was the one that procced the healing (via [Revitalizing Hair Product](Oath%253A_Fadetrimmer.md), Grand Support talent etc.).
+    -   If using Glass Path: Crystallization then every crystal applied will proc Saint Jay for 2 seconds. (Doesn't stack)
     -   Prerequisite: Frostbite
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw Exclusive\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration. (+5 Elemental Intensity)
     -   Prerequisites: 100 Frostdraw
@@ -2311,6 +2312,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Encore_ \[Rare Talent, Charisma Exclusive\] - Your sing will stun opponents who are already charmed.
     -   On proc, apply 0.4s of "full stun".
     -   Doesn't affect allies.
+    -   Additionally if this talent is used with Propagandist and an ally is affected by your sing then they will proc Encore with every basic attack hit.
     -   Prerequisite: 40 Charisma, Sing (Charisma Mantra)
 -   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with basic attacks.
     -   Prerequisites: 75 Charisma, Sing (Charisma Mantra)

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 86022
+revid: 86961
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -10,7 +10,7 @@ notices:
 
 # Alchemy
 
-## Description
+## Description (Are you the nah id win because you're the strongest or are you the stand proud because you're the with this treasure I summon? Always bet on hakari)
 
 Alchemy is the process of creating potions at a [cauldron](Cauldron.md). Potions can have many different effects depending on the ingredients used and can be drunk or thrown.
 
