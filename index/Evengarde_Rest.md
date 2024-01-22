@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 86939
+revid: 86959
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -16,7 +16,7 @@ Template:NPC name
 
 Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's attribute.
 
-Evengarde has new dialogue as of the latest update, as the **Player** asks the maestro to help [Etrea](Etrea.md) against [The Lord Regent](The_Lord_Regent.md).
+Evengarde has new dialogue as of the latest update, as the **Player** asks the Maestro to help [Etrea](Etrea.md) against [The Lord Regent](The_Lord_Regent.md).
 
 ## Trivia
 

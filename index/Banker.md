@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 86902
+revid: 86957
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -59,3 +59,5 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 ## Artifacts
 
 Players can also give artifacts to banker NPCs, and in return the player will receive 200 notes and other moderate items, as rare armor, mantra ingredients, weapons, armor schematics, and some XP.
+
+**Note: Artifacts can only be turned in via normal bankers, not the ones in your Guild Base.**

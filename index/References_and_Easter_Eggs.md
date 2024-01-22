@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 86938
+revid: 86955
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -83,6 +83,9 @@ categories: [Deepwoken]
 -   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
 -   The description for **Arcwarder**, rather questionably, quotes Karl Marx.
 -   Starkindred has many references:
+-   An image showing the singular wing
+    
+    Typing "i will never be a memory" before using a starkindred mantra will activate only one of the wings. A reference so Sephiroth from Final Fantasy series.
     -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
         
         Arch's tweet
