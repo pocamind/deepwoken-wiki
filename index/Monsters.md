@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 85972
+revid: 86912
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -56,7 +56,7 @@ Certain Monsters have unique visual effects when attuned.
 
 ### Humanoid Monsters
 
-**Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**
+**Exclusive to the Etrean Luminant & The Depths: Scyphozia (Layer 1)**someone add ibliss the angel
 
 **Exclusive to Trial of One**
 

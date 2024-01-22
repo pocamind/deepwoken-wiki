@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 86865
+revid: 86924
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -91,7 +91,7 @@ _"No money, friend? How ever will I feed myself?_
 
 ### [Charisma](Attributes.md#charisma)
 
--   _I use the song to charm others. **(Charm Caster)**_
+-   _I use the song to rizz others. **(Charm Caster)**_
 -   _I seek the qualities of Showboater._ _**(Showboater; Unnecessary Theatrics)**_
 -   _I seek the qualities of Toxic Personality. **(Toxic Personality; Manipulator)**_
 -   _I seek the qualities of Leader. **(Leader; Callout)**_

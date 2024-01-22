@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 86761
+revid: 86946
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -17,7 +17,7 @@ Chance of obtaining race: **2.0%**
 
 ## Description
 
-Ganymedes are a snail-based race in Deepwoken that appear with black skin, abnormal eye figurations, and sometimes wearing their signature hat. Being one of the rarest races of Deepwoken, they are very gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +2 Willpower as well as resistance to the passive insanity gain of [Scyphozia](First_Layer.md).
+Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnormal eye figurations, and sometimes wearing their signature hat. Being one of the rarest races of Deepwoken, they are very gifted individuals and possess a deeper understanding of the [deep](The_Depths.md) than most. Ganymedes sport a stat bonus of +2 Intelligence and +2 Willpower as well as resistance to the passive insanity gain of [Scyphozia](First_Layer.md).
 
 ## Racial Traits
 
@@ -88,11 +88,11 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Ganymede's race name was changed to Hatskipper.
 -   Ganymede is one of the rarest obtainable races in the game, the other ones being [Capra](Capra.md) and [Tiran](Tiran.md).
 -   Ganymedes make up the main population of [the Hive](The_Hive.md) along with [Vesperians](Vesperian.md) and [Chrysids](Chrysid.md).
--   Ganymede begins with an unobtainable hat by default. It is undyeable & unsmeltable, and will be removed upon wearing any other headgear.
-    -   The mesh and texture for the hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).
+-   Ganymede begins with an unobtainable hat by default. It is dyeable & smeltable, and if not smelted will be removed upon wearing any other headgear.
+    -   The mesh and texture for the old Ganymede hat comes from the Roblox Catalog, being the ["Frumpled Wizard Hat of Old Coots"](https://www.roblox.com/catalog/13121508/Frumpled-Wizard-Hat-of-Old-Coots).
 -   In Greek mythology Ganymede was depicted as the "most beautiful of mortals" and a cupbearer of the gods.
 -   In the Verse 2 update, Ganymede had its racial trait updated. It added the extra effect of using less Knowledge on top of the pre-existing insanity resistance.
     -   They are the only race to have their racial talent updated.
 -   Ganymede's name and the names of its variants are taken from the moons of celestial bodies.
     -   [Ganymede](<https://en.wikipedia.org/wiki/Ganymede_(moon)>) is one of the many moons of Jupiter.
-    -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.
+    -   [Titan](<https://en.wikipedia.org/wiki/Titan_(moon)>), [Hyperion](<https://en.wikipedia.org/wiki/Hyperion_(moon)>), [Tethys](<https://en.wikipedia.org/wiki/Tethys_(moon)>) and [Enceladus](https://en.wikipedia.org/wiki/Enceladus) are the names of some of Saturn's moons.

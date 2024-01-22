@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 82449
+revid: 86939
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -15,6 +15,8 @@ Template:NPC name
 **"Maestro" Evengarde Rest** is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon proficiencies. He cannot be attacked and will not attack anyone.
 
 Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's attribute.
+
+Evengarde has new dialogue as of the latest update, as the **Player** asks the maestro to help [Etrea](Etrea.md) against [The Lord Regent](The_Lord_Regent.md).
 
 ## Trivia
 

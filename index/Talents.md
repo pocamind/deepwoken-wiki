@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 86872
+revid: 86922
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -980,7 +980,7 @@ _**"I dance with the flames."**_
     -   Prerequisites: Glass Path: Crystallization, 60 Frostdraw
 
 -   Reclaimed Glass \[Common Talent, Frostdraw Exclusive\] - Your Crystal Shrapnel explosions now grant you and any allies caught in them 10% Elemental Resistance for 10 seconds. (+5 Elemental Intensity)
-    -   Prerequisites: Crystal Shrapnel
+    -   Prerequisites: Crystal Shrapnel, 65 Frostdraw
 
 ### Great Wall
 

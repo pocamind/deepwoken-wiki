@@ -1,9 +1,9 @@
 ---
 title: "Petra's Anchor"
-revid: 86623
+revid: 86918
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers]
+categories: [Weapons, Pages with broken file links, Greathammers]
 ---
 
 # Petra's Anchor
@@ -39,5 +39,9 @@ The critical causes the user to lunge forward at their enemies and knock them do
 
 -   The **Petra's Anchor** is a reference to [May](https://guiltygear.fandom.com/wiki/May) from _[Guilty Gear](https://en.wikipedia.org/wiki/Guilty_Gear)._
 -   Your able to use mantras during the second part of your critical which cancels it it's pretty good for mix ups.
--   Deals 48.9 damage at 100 HVY and 6 proficiency.
+-   File:Image 2024-01-21 191315044.png
+    
+    Petra's Anchor in a merchant ship
+    
+    Deals 48.9 damage at 100 HVY and 6 proficiency.
 -   A Dread Serpent was responsible for the sinking of the Petra's Dawn, which is why it directly drops this weapon.
