@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 86304
+revid: 86911
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -65,7 +65,7 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance.
 -   Despite looking like a good place to 1v1, it is _**EXTREMELY DANGEROUS**_ to attempt to 1v1 in Kamui while being in the Depths. As you can be downed and you will be teleported to where you would be in conjunction to Kamui. This has lead to people wiping in the past.
 -   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice.
--   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in a random direction while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
+-   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in the direction of your momentum while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
 
 ## References
 

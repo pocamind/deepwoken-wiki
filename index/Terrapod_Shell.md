@@ -1,9 +1,9 @@
 ---
 title: Terrapod Shell
-revid: 85155
+revid: 86891
 source: https://deepwoken.fandom.com/wiki/Terrapod_Shell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monster Mantra Ingredients]
+categories: [Monster Mantra Ingredients, "Https://deepwoken.fandom.com/wiki/Terrapod"]
 ---
 
 # Terrapod Shell

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 85892
+revid: 86887
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -121,7 +121,7 @@ A Mantra's type generally corresponds to its respective stat. Weapon Mantras and
 
 Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the Mantra and what is the Mantra is based off of.
 
-**MONSTER MantraS CANNOT BE TRADED AT SHRINE OF TEMPTATION**
+**MONSTER MANTRAS CANNOT BE TRADED AT SHRINE OF TEMPTATION**
 
 -   Megalodaunt -> Megalodaunt Coral -> Coral Spear (Thousand Needles)
 -   Dread Serpent -> Dread Serpent's Tooth -> Dread Breath (Dread's Ice Beam)
@@ -137,6 +137,10 @@ All Mantras gained from this are 2 stars and some have special effects, as Dread
 ### [Oath Mantras](Oaths.md)
 
 Mantras you obtained through your Oath. Although it lacks the trainers to help level your Oath's Mantras, its exclusive abilities and uniqueness makes up for it.
+
+### [Hybrid Mantras](Hybrid_Abilities.md)
+
+Mantras that are unlocked upon reaching a certain level in 2 seperate attunements.
 
 ## Mantra IDs
 

@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 86261
+revid: 86895
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game]
@@ -18,6 +18,7 @@ The Confirmed Conquest Rewards are:
 
 -   [Bloodsworn Effigy](Bloodsworn_Effigy.md)
 -   [Inquisitor's Duster](<Inquisitor's_Duster.md>)
+-   [Moonseye Scalpel](Moonseye_Scalpel.md)
 
 The Official Conquest release might be within the month of February 2024.
 

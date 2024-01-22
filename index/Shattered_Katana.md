@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 86879
+revid: 86906
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,9 +27,11 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip. At 100 MED, it deals 34 damage. It shares the [Katana's](Katana.md) critical when wielded with one hand, though it boasts its own unique attack when wielded with two.
+The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip. At 100 MED, it deals 34 damage.
 
-Across various updates, the Shattered Katana has received many balance changes and is debatably no longer the best Medium Weapon. The addition of the [Pluripotent Alloy](Pluripotent_Alloy.md) has made weapons such as the [Shotel](Shotel.md) or [Vigil Longsword](Vigil_Longsword.md) an easier option and, in some aspects, better weapons than the Shattered Katana.
+While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. The user does a quick vertical and horizontal slash, which are followed with 2 additional delayed shockwave slashes, allowing the user to movestack another attack with them.
+
+Across various updates, the Shattered Katana has received many balance changes and is debatably no longer the best Medium Weapon. nonetheless it still remains a solid high investment pick thanks to its solid stats, high PEN, and additions such as the Posers Ring and a unique critical critical.
 
 ## Trivia
 

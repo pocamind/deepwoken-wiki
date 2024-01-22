@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 86854
+revid: 86905
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -351,7 +351,7 @@ _Leap up leaving behind a burst of flames._
 
 (★★☆)
 
- | _Burst forward in flames._ | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
+ | _Dash forward in a spiral of flames._ | User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
 -   Deals light damage.
 -   Throws back the opponent and sets them on fire.

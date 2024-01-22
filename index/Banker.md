@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 86704
+revid: 86902
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -54,6 +54,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Ardour Manifestation
 -   Void Feather(s)
 -   Deepshore Fossil
+-   Tools (Repair Hammer, Glider, Etc.)
 
 ## Artifacts
 
