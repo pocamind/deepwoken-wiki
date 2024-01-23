@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 86968
+revid: 86974
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -32,4 +32,4 @@ categories: [Weapons, Fists]
 ## Notes
 
 -   Currently the best non-seasonal Cestus in-game, due to its high base damage and scaling.
--   This weapon does 25.07 damage at 65 light weapon (its requirement). does 26.54 at 75 light weapon, and 30.25 at 100 light weapon, often accompanied by Destroyman III
+-   This weapon does 25.07 damage at 65 light weapon (its requirement). does 26.54 at 75 light weapon, and 30.25 at 100 light weapon.

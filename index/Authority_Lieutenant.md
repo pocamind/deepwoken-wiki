@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 86600
+revid: 86981
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies, Ambush Enemies]
@@ -12,9 +12,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Authority Lieutenant is a guard NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md).
+The Authority Lieutenant is an NPC found outside the shipwright hut in [Fort Merit](Fort_Merit.md), or fighting with [Legion Captains](Legion_Captain.md) in [Starswept Valley](The_Starswept_Valley.md).
 
-Their appearance consists of a Authority Captain Uniform, a Shrouded Cape and, unusually for an Authority member, Polarised Sunglasses. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>).
+Their appearance consists of a Authority Captain Uniform, a Shrouded Cape and, unusually for an Authority member, Polarised Sunglasses. They are similar in appearance to the [Authority Captain](Authority_Captain.md) and [Authority Commander](<Authority_Commander_(Enemy).md>).Their race being only [Adret](Adret.md).
 
 ## Moveset
 
@@ -22,7 +22,7 @@ Their arsenal is composed of an Officer Sabre/Adretian Axe along with the [Flame
 
 | Name | Desciption | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Hits 3 times before ending the combo with a kick. | ◯ | ◯ | (★☆☆) |
+| Assault | Firmly swings blade at opponent before finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | (Officier Sabre):Does a windup with the arm before hitting you with a lunge attack.
 (Adretian Axe):Does a windup by rising the weapon before slamming it's blade on you.
 

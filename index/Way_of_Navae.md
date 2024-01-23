@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 86268
+revid: 86983
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -23,6 +23,10 @@ categories: [Weapons, Fists]
 | pass down | Yes |
 | obtainment | Step 1: Find a Navaen Nomad Hostage. , Step 2: Turn it in to Eastern Camp Master , or Eastern Tribal Leader. |
 | description | Adopt the fighting stance of the Way of Navae. |
+
+You seem to be insisting on a fisting! - Tank Fish
+
+  
 
 ## Description
 

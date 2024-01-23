@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 86906
+revid: 86988
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,7 +27,9 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip. At 100 MED, it deals 34 damage.
+The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip.
+
+At 90 MED, it deals 29.45 damage. At 100 MED, it deals 30.5 damage. With the "Paired soul" Talent from [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits, buffing its damage by 5%, this becomes a 30.92 at 90 MED and 32.02 at 100 MED
 
 While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. The user does a quick vertical and horizontal slash, which are followed with 2 additional delayed shockwave slashes, allowing the user to movestack another attack with them.
 

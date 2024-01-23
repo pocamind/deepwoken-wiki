@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 83370
+revid: 86970
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,7 +16,7 @@ Chests are in-game boxes that spawn at the end of (almost) every [event](Random_
 
 Loot inside a chest is shown with different colors depending on their rarity, ranging from common to enchanted:
 
--   General items such as consumables, sellable gems, mantra modifiers, elemental ingredients, etc. are labelled as gray.
+-   General items such as consumables, sellable gems, mantra modifiers, elemental ingredients, etc. are labelled as green.
 -   Uncommon items are labelled as pastel yellow.
 -   Rare items are labelled as red. Though despite being rare, they're very common in The Depths and Hive
 -   Legendary Gear, Schematics or Rings are labelled as bright cyan.

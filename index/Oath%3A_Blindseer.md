@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 86212
+revid: 86984
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,7 +67,8 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
     -   The entire beam deals around 260 damage. With extra damage and posture dealt at the start of the beam.
-    -   Sightless beam can be canceled midway by pressing F.
+    -   This mantra can make you go insane if you use it too much.
+    -   Sightless Beam can be canceled midway by pressing F.
     -   Steals eyesight proccing the blind effect if enough hits land.
     -   Has a **high** windup.
         -   Hard to parry, entirely blockable. Can be used to bait vents by staying at a distance.

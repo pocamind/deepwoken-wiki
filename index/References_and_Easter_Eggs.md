@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 86955
+revid: 86987
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -81,7 +81,7 @@ categories: [Deepwoken]
 ## Oaths
 
 -   **Arcwarder's** activation animation is a reference to the [Iron Man suit](<https://en.wikipedia.org/wiki/Iron_Man%27s_armor_(Marvel_Cinematic_Universe)>) from _Marvel Comics_.
--   The description for **Arcwarder**, rather questionably, quotes Karl Marx.
+-   The description for **Arcwarder** quotes Karl Marx, a reference to the Ignition Union's socialist beliefs.
 -   Starkindred has many references:
 -   An image showing the singular wing
     
@@ -118,7 +118,7 @@ categories: [Deepwoken]
 -   **[The Enforcer's](Enforcer.md)** design is very similar to the [Kraeken Cyclops](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) from _Salt and Sanctuary._
     -   This may also be where the [Nautilodaunt](Nautilodaunt.md) comes from as it is very similar to The Enforcer, possessing a humanoid frame and similar AI intelligence, being able to parry and block. [Kraeken](https://saltandsanctuary.wiki.fextralife.com/Kraekan+Cyclops) themselves are derived from the [Kraken](https://en.wikipedia.org/wiki/Kraken), which are often depicted as squid monsters.
     -   Early in Deepwoken's development, the group the game was published under, Vows by the Sea, used the Kraeken Cyclops as its profile picture.
--   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft.
+-   [**Nautilodaunts**](Nautilodaunt.md) draw inspiration from [Cthulhu](https://lovecraft.fandom.com/wiki/Cthulhu), a fictional squid-faced monster first created by the writer H.P. Lovecraft. [**Nautilodaunts**](Nautilodaunt.md) also draw heavy inspiration from [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from [Jujutsu Kaisen](https://jujutsu-kaisen.fandom.com/f), with their physique being near identical.
 
 ## Resonance
 

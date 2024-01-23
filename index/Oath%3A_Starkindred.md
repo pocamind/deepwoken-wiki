@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 86926
+revid: 86982
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -92,6 +92,7 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
     -   Dyeing your hair with your wings active will not change their color until they disappear and are reactivated.
 -   You may also dye Starkindred's neck-halo.
 -   the starkindred mantra "ascension" share similar effect with the winged attack of the crucible knights in Elden ring
--   Typing "I will never be a memory" in chat before summoning your wings will make you have one wing only.
+-   Typing "I will never be a memory" in chat before summoning your wings will make you have one wing only. This is a reference to a line the main antagonist of Final Fantasy 7, 'Sephiroth' said during Advent Children and his reveal trailer for SSBU.
+-   Ascension and Sinister Halo are both extremely similar to the moves "Winger" and "Tandem Top" both used by Millia Rage in fighting game series Guilty Gear.
 
 Starkindred halo dyed blue.

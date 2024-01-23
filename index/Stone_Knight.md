@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 86574
+revid: 86997
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -65,6 +65,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 ### Passives
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
+-   **Artificial Construct-** [Bloodless Gem](Deep_Gems.md) doesn't work on Stone Knights.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights
 
 ## **Finisher**
@@ -131,7 +132,8 @@ Defeating the whole group will spawn a chest near the frozen river that's guaran
 ### Passives
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
--   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights
+-   **Artificial Construct-** [Bloodless Gem](Deep_Gems.md) doesn't work on Blizzard Knights.
+-   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights.
 
 ## **Finisher**
 
@@ -198,6 +200,7 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Star K
 ### Passives
 
 -   **Celestial Stone -** Stone Knights have 55% Slash Resistance.
+-   **Artificial Construct-** [Bloodless Gem](Deep_Gems.md) doesn't work on Astral Knights.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Stone Knights
 
 ## **Finisher**
