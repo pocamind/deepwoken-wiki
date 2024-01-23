@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 84523
+revid: 87064
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -126,7 +126,7 @@ A glowing, blue ore used for crafting certain armors. Found in Upper Erisia near
 
 ## Overview
 
-A vibrant green ore used for crafting certain armors. Found in [The Garden Reservoir](The_Garden_Reservoir.md) under the [Burning Stone Gardens](Burning_Stone_Gardens.md), and in [Saramaed Summit](Saramaed_Summit.md) within [Miner's Landing](<Miner's_Landing.md>). Can be consumed by [Ironsing](Ironsing.md) users, provides a green particle effect but no buffs.
+A vibrant green ore used for crafting certain armors. Found in [The Garden Reservoir](The_Garden_Reservoir.md) under the [Burning Stone Gardens](Burning_Stone_Gardens.md), and in [Saramaed Summit](Saramaed_Summit.md) within [Miner's Landing](<Miner's_Landing.md>). Additionally, it can also be found within [The Depths](The_Depths.md), close to the entrance of [The Chariot's Spire](<The_Chariot's_Spire.md>). It can be consumed by [Ironsing](Ironsing.md) users, providing them a green particle effect: Though currently, this does nothing else.
 
 **Astruline:**
 

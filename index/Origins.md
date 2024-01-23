@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 86732
+revid: 87066
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -48,7 +48,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 > 
 > ― Flavor Text
 
-**_Obtainment_:** Encounter [Akira](Akira.md) in the Celtor Wastes and inquire to him about joining The Divers. Reunite with him in Castle Light to obtain the Origin.
+**_Obtainment_:** Encounter [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md) and inquire to him about joining The Divers. Reunite with him in [Castle Light](Castle_Light.md) to obtain the Origin.
 
 -   You don't actually need to join the Divers to obtain Deepbound. Just starting a talk with him at Castle Light is fine.
 
@@ -69,7 +69,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
 -   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (Going to the Depths through death means you don't have a soul and therefore cannot access Castle Light, unless you are a Deepbound.
--   **\[PRO/CON\]** Mindbreaking potions are greatly nerfed against you.
+-   **\[PRO\]** Mindbreaking potions (and potentially all forms of overtime [sanity](Insanity.md) loss) are nullified or weakened while you're inside Castle Light.
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
