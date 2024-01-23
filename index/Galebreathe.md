@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 86236
+revid: 87103
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -57,7 +57,7 @@ _Slicing blades of wind._
 
 -   Deals light damage.
 -   Can be improved with the "_Tempest Wind" Talent_, a learnable talent.
--   Shoots straight if shift lock is enabled.
+-   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
  |
 |  | 
@@ -72,12 +72,13 @@ _Shoots out an air blast._
  | 20 Ether | Conjure a strong blast of air from the your hands in the direction of your mouse that staggers your target.
 
 -   Deals high damage.
--   Knocks opponents back and stuns them.
+-   Pushes people back and dazes them if they collide with something
+-   Does not apply hitstun from the blast.
 -   Deals immense posture damage.
 -   Can break objects.
--   Can be upgraded with Cloudstones.
+-   Can be upgraded with Cloudstones, Stratus stones, Perfect lenses and Crystal Lenses to make it bigger and longer.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md) to make it pull your opponents instead of blasting them away.
--   Shoots straight if shift lock is enabled.
+-   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
  |
 | 
@@ -95,6 +96,7 @@ _Slicing blades of wind._
 
 -   Deals moderate-high damage (If both the initial and follow-up projectiles hit).
 -   Projectile is medium-ranged and explodes on impact.
+-   Initial hit doesn't apply hit stun but pushes people away.
 
  |
 |  | 
@@ -110,7 +112,7 @@ _A rush of piercing wind._
 
 -   Deals moderate damage.
 -   Can be used as mobility to push the user forward.
--   Has a relatively long hitbox.
+-   Has a relatively large hitbox.
 
  |
 | 
@@ -128,9 +130,10 @@ _A rushing current of wind._
 
 -   Can be modified with logstones to increase duration, but caps at 1 or 2.
 -   Moves forward on its own after 2 seconds.
--   Deals light damage and hits multiple times.
+-   Deals high damage damage but over multiple hits.
 -   Projectile is short-ranged.
 -   Has a special interaction with Haunted Gale. Haunted gale caps at 2 strikes per mantra, but when Tornado moves, the cap resets, allowing another 2 strikes.
+-   Pulls people in if close to it (kinda buggy)
 
  |
 |  | 
@@ -148,7 +151,7 @@ _A strike from the heavens._
 -   User moves towards the cursor.
     -   Highly recommended to turn off Shift-Lock to do this.
 -   Good mobility.
--   Feinting it leaves the user unable to use mantras for three seconds.
+-   Feinting it leaves the user unable to use gale lunge and heavenly wind. (Needs testing with more mantras to see interaction, it seems like specific mantras only gets this behavior.)
 -   Can be used as sort of a double jump, though you need to grab onto a ledge with it.
 -   If missed, it results in endlag.
 
@@ -167,6 +170,7 @@ _Toss a wind landmine._
 -   Stepping on it creates a tornado that deals light damage over a few seconds.
 -   The trap can stick to players when thrown, having the tornado follow them for the full duration.
 -   Applies the _"Suffocate"_ status effect.
+-   Shoots where cursor is unless you have shift lock activated which in this case shoots in the direction your character is facing.
 
  |
 |  | 
@@ -180,7 +184,7 @@ _Form a punch of wind in your fist and release it._
 
  | 60 Ether | Conjure a wind AoE punch that deals damage and knocks targets away.
 
--   Can be modified with cloudstones and stratus stones to increase size.
+-   Can be modified with _Cloudstones_, _Stratus stones_, _Perfect Lenses_ and _Crystal lenses_ to increase size.
 -   Can break objects.
 -   Can be upgraded with the "_Vacuum Punch"_ Talent.
 
@@ -196,6 +200,8 @@ Wind Forge
 
 -   Projectiles are homing.
 -   Medium-far range.
+-   Forces you to stand still when casted
+-   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to increase the range.
 
  |
 |  | 
@@ -211,6 +217,8 @@ _Grab your target and toss them with the power of gale._
 
 -   Deals good-high damage.
 -   Forcible Block Break (Only When Upgraded To Level 5).
+-   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
+-   Procs "Breathing Impact" if thrown at a wall.
 -   Applies knockback.
     -   Requires more testing.
 -   Can be upgraded with the "_Skull Crusher_" Talent.
@@ -227,12 +235,13 @@ _Use wind to uppercut and propel yourself into the air._
 
  | 60 Ether | Ascend while uppercutting your target, rapidly damaging them.
 
--   Blocking sends only the user into the air.
+-   Blocking it sends only the user into the air but cancels it after a small bit if it doesn't hit anyone after.
 -   Rapidly deals light damage to the opponent while rising.
 -   Missing will not send the user into the air.
--   This mantra could formerly be upgraded with the "_Reverse Gale Kick"_ Talent which would apply knockdown when pressing F during the mantra’s cast but is now base behavior.
+-   Pressing F during the animation lets you kick them down into the ground which applies daze.
     -   Applies Knockdown frames on proc.
 -   Gives I-Frames throughout the duration of the mantra.
+-   Can be vented to cancel it early
 
  |
 |  | 
@@ -246,11 +255,11 @@ _A powerful wind blast._
 
  | 40 Ether | Fire a penetrating bullet of wind.
 
--   Deals heavy damage and flings opponents.
+-   Deals heavy damage, pushes and ragdolls opponen; however applies no hit stun.
 -   Applies the _"Suffocate"_ status effect.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) in order to shoot multiple bullets at once.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to shoot a round of short ranged bullets.
--   Both Sparks can be combined, making three consecutive short-range bullet rounds.
+-   Both Sparks can be combined, making three consecutive short-range bullet rounds. Additionally you can apply two of one spark.
 
  |
 |  | 
@@ -265,8 +274,8 @@ _A quick swirl of sharp winds._
  | 40 Ether | Empower your weapon before elegantly releasing a cut that forms a small controllable tempest.
 
 -   Rapidly damages the opponent.
--   Deals _possibly light_ damage.
--   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size.
+-   Deals light damage over multiple slashes.
+-   Can be modified with _Cloudstones_ and _Stratus Stones_ to increase it's size. Puts the Carve ball further away with _Perfect Lenses_ and _Crystal Lenses_.
 -   Pushes opponents hit by the final slash away.
 -   Cannot be canceled once the mantra initiates.
     -   So it's advised to avoid it being parried by turning away since it'll result in free hits for your opponent.
@@ -283,10 +292,10 @@ _A rapid delivery of consecutive attacks._
 
  | 50 Ether | Cast several fast, wind-enhanced slashes that form a star.
 
--   The user is invincible during casting.
 -   Deals _possibly moderate-heavy_ damage.
--   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes; possibly messing up the opponent's parry timing. It'll also make it harder to dodge unless your dodge frames are long enough.
+-   Can be modified with _Cloudstones_ and _Stratus Stones_ to decrease the speed of the slashes but increase the AoE of the slashes slightly.
 -   Can be modified with rush and drift shards to increase the speed of the slashes.
+-   Last hit of the mantra sends the opponent upwards, sometimes even when parried. (Only at Mantra Lv: 2+)
 
  |
 |  | 
@@ -304,6 +313,9 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 -   Deals _possibly moderate-heavy_ damage.
 -   Gives hyperarmor when casting
 -   Requires 20 Strength.
+-   Can be modified with _Perfect Lenses_ and _Crystal Lenses_.
+-   Applies Ragdoll
+-   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to make it reach further.
 
  |
 
@@ -326,6 +338,7 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
   <td>50 Ether</td>
   <td>Rush forward towards the direction you're facing in a blink of an eye, leaving much wind after cuts for the distance you travelled.
   <ul>
+    <li>Does heavy damage</li>
     <li>Can be modified with Crystal/Perfect Lenses to increase the distance travelled.</li>
     <li>Uses the <a href="Shadowcast.md">Shadow Assault</a> startup sound.</li>
     <li>It's also compatible with Logstones, but the effect is minimal.

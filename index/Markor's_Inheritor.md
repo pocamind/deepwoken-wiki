@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 87022
+revid: 87098
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -42,7 +42,7 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, PVP arena, Voidwalker Chest |
+| obtainment | Using a Pluripotent Alloy on the base weapon, Chest from:, The Depths, PVP arena, Bounty Chest |
 | description | ' The Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. ' |
 
 **Base:**
