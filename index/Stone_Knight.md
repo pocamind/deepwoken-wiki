@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 86997
+revid: 87028
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,8 +26,8 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 ## **Moveset**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 **Slash**
 
@@ -35,7 +35,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 -   **Insta-executes the player if health is low.**
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+ |  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 **Kick**
@@ -44,12 +44,12 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 -   **Deals extra damage and dazes if the player is slammed against a wall.**
 
- | ✗ | ◯\* | ◯ | (★★★) |
+ |  | ✗ | ◯\* | ◯ | (★★★) |
 | 
 
 **Energy Wave**
 
- | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. | ◯ | ◯ | ◯ | (★★☆) |
+ | Slashes at the air with its sword, creating a crescent-shaped projectile aimed at the opponent, identically to Wind Blade. |  | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 **Terra Eruption**
@@ -58,7 +58,7 @@ They may spawn anywhere within Starswept Valley and some of its surrounding area
 
 -   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
 
- | ✗ | ◯\* | ◯ | (★★☆) |
+ |  | ✗ | ◯\* | ◯ | (★★☆) |
 
 \* Note that the posture damage is very high on those moves, so dodge them unless you are confident in your posture
 

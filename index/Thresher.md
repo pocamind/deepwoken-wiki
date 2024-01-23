@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 86604
+revid: 87033
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,12 +26,12 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 
 ## Abilities
 
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Arm Swipe** | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
-| **Bite** | The Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
-| **Tail Swipe** | The Thresher brings his tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
-| **Burrow** | The Thresher burrows underground becoming intangible. It will dig toward the player and jump out dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. | ✗ | (★★☆) |
+| Name | Description | Gifs | Parryable? | Danger |
+| --- | --- | --- | --- | --- |
+| **Arm Swipe** | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. |  | ◯ | (★☆☆) |
+| **Bite** | The Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. |  | ◯ | (★☆☆) |
+| **Tail Swipe** | The Thresher brings his tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner. |  | ◯ | (★★☆) |
+| **Burrow** | The Thresher burrows underground becoming intangible. It will dig toward the player and jump out dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. |  | ✗ | (★★☆) |
 
 ## Passives
 
@@ -78,14 +78,14 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 
 ## Abilities
 
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Arm Swipe** | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage. | ◯ | (★☆☆) |
-| **Bite** | The King Thresher bites 3 times in quick succession. Deals moderate damage. | ◯ | (★☆☆) |
-| **Tail Swipe** | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
-| **Burrow** | The King Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
-| **Cursed Flame** | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged. | ✗ | (★★★) |
-| **Body Slam** | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage. | ✗ | (★★☆) |
+| Name | Description | Gifs | Parryable? | Danger |
+| --- | --- | --- | --- | --- |
+| **Arm Swipe** | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage. |  | ◯ | (★☆☆) |
+| **Bite** | The King Thresher bites 3 times in quick succession. Deals moderate damage. |  | ◯ | (★☆☆) |
+| **Tail Swipe** | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. |  | ◯ | (★★☆) |
+| **Burrow** | The King Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. |  | ✗ | (★★☆) |
+| **Cursed Flame** | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged. |  | ✗ | (★★★) |
+| **Body Slam** | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage. |  | ✗ | (★★☆) |
 
 ## Passives
 

@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 85923
+revid: 87023
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -22,7 +22,7 @@ categories: [Weapons, Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for 100 |
+| obtainment | Sold at Summer Isle for 100 , Pure erisore turn ins |
 | description | The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. The modern flintlock is an improved and lightweight version of Gunsmith's prototype now found in every luminant. |
 
 ## Description

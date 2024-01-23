@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 87003
+revid: 87038
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,9 +35,7 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 | 
 **Talon Swipe**
 
- | 
-
- | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat. | ◯ | ◯ | ◯ | (★☆☆) |
+ |  | Three slow, consecutive swipes. Can do this multiple times back-to-back. Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 **Feather Teleport**
@@ -50,16 +48,12 @@ Typically used after Talon Swipe. | ◯ | **Yes** | **Yes** | (★☆☆) |
 
 **Owl Dash**
 
- | 
-
- | Kneels on the ground for a moment before performing a spinning assault in the target's direction. | ◯ | ◯ | ◯ | (★☆☆) |
+ |  | Kneels on the ground for a moment before performing a spinning assault in the target's direction. | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 **Overhead Grab**
 
- | 
-
- | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
+ |  | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.  
 Can be telegraphed by a small cloud of feathers suddenly appearing around you, as well as looking up and spotting the owl coming down on you. | ✗ | ✗ | ◯ | (★★★) |
 | 
 

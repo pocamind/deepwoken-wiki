@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 86636
+revid: 87012
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Monsters, Ambush Enemies]
@@ -199,8 +199,8 @@ Despite all of the above, they behave like regular Megalodaunts.
 
 ## **Attacks**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 Slash
 
@@ -210,7 +210,7 @@ Slash
 -   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
 -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+ |  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Kick
@@ -222,12 +222,12 @@ Kick
 -   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
- | ✗ | ✗ | ◯ | (★★★) |
+ |  | ✗ | ✗ | ◯ | (★★★) |
 | 
 
 Jump
 
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. | ◯ | ◯ | ◯ | (★★☆) |
+ | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. |  | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Thousand Needles
@@ -236,7 +236,7 @@ Thousand Needles
 
 -   There is a shorter ranged AOE version and a single target version. Both function the same.
 
- | ◯ | ◯ | ◯ | (★☆☆) |
+ |  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
 
 Roar
@@ -246,7 +246,7 @@ Roar
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
 
- | ✗ | ◯ | ◯ | (★★☆) |
+ |  | ✗ | ◯ | ◯ | (★★☆) |
 | 
 
 Tacet Hug
@@ -255,12 +255,12 @@ Tacet Hug
 
 -   **Autogrips**
 
- | ✗ | ✗ | ◯ | (★☆☆) |
+ |  | ✗ | ✗ | ◯ | (★☆☆) |
 | 
 
 Tacet Drop Kick
 
- | Having received great training from the mighty god, Squid Hoss, the Alphas are also capable of tacet drop kicking the life out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) | ? | ? | ◯ | (★☆☆) |
+ | Having received great training from the mighty god, Squid Hoss, the Alphas are also capable of tacet drop kicking the life out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) |  | ? | ? | ◯ | (★☆☆) |
 
 ## **Finisher**
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 86958
+revid: 87041
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -61,7 +61,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         -   If the user start resting or runs too far away from the realms entrance, it ends immediatly
     -   Warrior's Respite is disabled while you have a realm active.
 -   **Illusory Counter** **\- Combat Mantra**
-    -   Do a pose. If hit during the pose, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of your previous location. Counter time can be extended with Mantra modifications.
+    -   Do a pose. If hit during the pose, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of your previous location.
     -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
     -   Active frames are larger while in the Illusory Realm.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
