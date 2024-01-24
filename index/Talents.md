@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87109
+revid: 87158
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -617,6 +617,8 @@ _**"I seek the qualities of Cosmic Wind."**_
 -   _Absolute Radiance \[Unlockable Talent, Dawnwalker Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period._
 
 -   _Protagonist Syndrome \[Unlockable Talent, Dawnwalker Exclusive\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast._
+
+-   Luminous Flash _\[Unlockable Talent, Dawnwalker Exclusive\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light._
 
 ### Death Speaker
 
@@ -2136,7 +2138,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 > _**"My blade conducts the skies wrath."**_
 
 -   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load, +4 Elemental Intensity)
-    -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Sword
+    -   Prerequisite: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Any Medium Weapon
 
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning (+2 Elemental Intensity)
     -   Prerequisite: Gathering Electricity

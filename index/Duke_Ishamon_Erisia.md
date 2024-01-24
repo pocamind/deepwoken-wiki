@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 87127
+revid: 87151
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -241,6 +241,8 @@ Rematch
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
+-   Duke canonically escapes the depths every time he dies. Can be seen from contractor dialogue.
+-   Duke **is** against the drowning and against **Lord Regent,** if it wasn't made obvious enough. So yes, technically you're the villain here, killing Duke (who wants to prevent the drowning of Etris.)
 
 ## Bugs
 
