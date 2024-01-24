@@ -1,6 +1,6 @@
 ---
 title: Royal Etrean Guard
-revid: 87104
+revid: 87112
 source: https://deepwoken.fandom.com/wiki/Royal_Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 This Outfit has 3000 durability and grants +30% Physical resistance, +30% Elemental resistance, +5% Slash Armor.
 
-This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases the damage of the [Katana](Katana.md) and [Shattered Katana](Shattered_Katana.md) by 5%.
+This Outfit also grants the [Talent Card](Talents.md) _Paired Soul_, which increases the damage of the [Katana](Katana.md) by 25% and [Shattered Katana](Shattered_Katana.md) by 5%.
 
 ## Location
 

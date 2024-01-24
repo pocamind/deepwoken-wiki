@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 86868
+revid: 87116
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -343,7 +343,7 @@ Multiplying Spark
 Bolt Piercer  
 (★★☆)
 
- | An arrow of lighting. |  | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
+ | An arrow of lighting. | 50 Ether | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
 
 -   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
 -   Self Damaging
@@ -497,7 +497,7 @@ Stratus Stones
 Lightning Assault  
 (★★☆)
 
- | A rush of lightning. |  | You quickly imbue electricity and dash forward, and attack those you pass by during your dashes.
+ | A rush of lightning. | 60 Ether | You quickly imbue electricity and dash forward, and attack those you pass by during your dashes.
 
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Can be upgraded with Cloudstones and Stratus Stones.
@@ -528,7 +528,7 @@ Stratus Stones
 Lightning Cloak  
 (★★★)
 
- | A cloak of lightning itself. |  | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | A cloak of lightning itself. | 20 Ether | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
 
 -   A combative action, such as blocking parrying or attacking, must be used within 8 seconds or the mantra is deactivated and goes on cooldown.
 -   Cannot last longer than 60 seconds.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 87069
+revid: 87106
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -69,7 +69,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 30 | Lacrimosa Dies Illa | 2:08 | [The Depths](The_Depths.md) (Combat) | File:DepthsCombatLoop.ogg |
 | 31 | Ascension (Interlude) | 0:16 | [The Depths](The_Depths.md) (Trial Completion) | File:Audio-ascension22.ogg |
 | 32 | The End. | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
-| 33 | On The Shoulder Of Giants | 5:24 | The light hook's sound (reversed) | File:On The Shoulders Of Giants.mp3 |
+| 33 | On The Shoulder Of Giants | 5:24 | Unknown | File:On The Shoulders Of Giants.mp3 |
 | 34 | A Memory of Tides | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) | File:A Memory Of Tides.mp3 |
 | 35 | Masters of the House | 2:06 | N/A (Cut track originally intended for use in [Corvus Manor](Cut_Content.md)) | File:Masters of the House.mp3 |
 | 36 | The Gideshu March | 1:57 | N/A (a short edit of the track can be heard at the end of the [tutorial](Tutorial.md)) | File:The Gideshu March.mp3 |

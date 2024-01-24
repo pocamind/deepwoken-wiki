@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 86813
+revid: 87115
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -64,6 +64,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   Often called Lumens Savior.
 -   Presumably an Adret, given the biases of the Authority.
 -   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
+-   The description of the Authority's helmet mentions that no one has seen the Sovereign's true face.
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
     -   When asked, developer ragoozer simply stated that it is up the interpretation of the reader.
 -   Even more powerful than the Lord Regent.[\[1\]](#cite-note-rag-1)

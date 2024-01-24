@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 86866
+revid: 87117
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1353,7 +1353,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><a href="Markor's_Inheritor.md">Markor's Inheritor</a></td>
   <td>30 HVY, 10 STR</td>
   <td>24</td>
-  <td>20%</td>
+  <td>10%</td>
   <td>N/A</td>
   <td>HVY: 7</td>
   <td>8</td>

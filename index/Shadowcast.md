@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 86847
+revid: 87114
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -66,6 +66,7 @@ Shadow Gun
 -   Adding Lenses will increase the range of the blast forward
 -   Adding Cloudstones will increase the height and width of the blast
 -   Its animation is identical to the Duelist's M2 from Rogue Lineage.
+-   Guardbreaks at Lvl 5.
 
  |
 | 

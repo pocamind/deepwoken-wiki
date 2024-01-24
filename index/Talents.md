@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87102
+revid: 87109
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1406,6 +1406,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds in order to initiate healing.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. (This was not the case a long time ago, and was overpowered)
+    -   Does not activate when on ships. Does activate when in water.
     -   Prerequisite: 15 Fortitude
 
 ### Mental Fortress

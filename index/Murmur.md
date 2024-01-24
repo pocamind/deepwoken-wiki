@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 87105
+revid: 87108
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -15,8 +15,9 @@ categories: [Talents, Character, Mechanics]
 Using Ardour Scream.
 
   
+**Murmurs** are [Talents](Talents.md) obtained by completing an objective or requirement that allows the user to channel the Song in various ways to gain special buffs or abilities.
 
-Huge shit
+## Overview
 
 Like [Oaths](Oaths.md), players can only obtain one Murmur.
 

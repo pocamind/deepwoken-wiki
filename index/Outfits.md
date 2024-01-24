@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 86849
+revid: 87111
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -66,6 +66,104 @@ _Deepwoken_ currently has 12 Confirmed spec/mod armor that has been discovered.
 ### **Unavailable**
 
 _Deepwoken_ currently has 3 Unavailable armor that has been discovered.
+
+## Faction Uniform Table
+
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Faction</th>
+  <th>Starter</th>
+  <th>Adept</th>
+  <th>Expert</th>
+  <th>Master</th>
+</tr>
+<tr>
+  <td>Pathfinders</td>
+  <td></td>
+  <td><a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a></td>
+  <td><a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Kingdom of Etrea<p>Vigils of Wind</p></td>
+  <td></td>
+  <td><a href="Vigil_Initiate.md">Vigil Initiate</a></td>
+  <td><a href="Cloak_of_Winds.md">Cloak of Winds</a></td>
+  <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></td>
+</tr>
+<tr>
+  <td>The Central Authority</td>
+  <td></td>
+  <td>Authority Peacekeeper Armour</td>
+  <td><a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a></td>
+  <td><a href="Authority_Commander.md">Authority Commander</a></td>
+</tr>
+<tr>
+  <td>The Divers</td>
+  <td></td>
+  <td><a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a></td>
+  <td><a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a></td>
+  <td><a href="Black_Diver.md">Black Diver</a></td>
+</tr>
+<tr>
+  <td>The Hive</td>
+  <td></td>
+  <td></td>
+  <td><a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>The Ignition Union</td>
+  <td></td>
+  <td><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></td>
+  <td></td>
+  <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
+</tr>
+<tr>
+  <td>The Summer Company</td>
+  <td></td>
+  <td><a href="Summer_Company_Uniform.md">Summer Company Uniform</a></td>
+  <td></td>
+  <td><a href="Summer_Dragoon.md">Summer Dragoon</a></td>
+</tr>
+<tr>
+  <td>Children of Navae</td>
+  <td></td>
+  <td><a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></td>
+  <td></td>
+  <td><a href="Navaen_War_Chief.md">Navaen War Chief</a></td>
+</tr>
+<tr>
+  <td>The Hundred Legions</td>
+  <td></td>
+  <td><a href="11th_Legion_Plate.md">11th Legion Plate</a></td>
+  <td></td>
+  <td><a href="Legion_Centurion.md">Legion Centurion</a></td>
+</tr>
+<tr>
+  <td>The Knives of Eylis</td>
+  <td>Whaler Initate</td>
+  <td></td>
+  <td><a href="Whaler_Coat.md">Whaler Coat</a></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Lost Celtor</td>
+  <td></td>
+  <td><a href="Duelist's_Attire.md">Duelist's Attire</a></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>The Ministry</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><a href="Prophet's_Cloak.md">Prophet's Cloak</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
