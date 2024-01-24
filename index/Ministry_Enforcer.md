@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 86802
+revid: 87133
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -8,21 +8,21 @@ categories: [Enemies, Ambush Enemies]
 
 # Ministry Enforcer
 
-A Ministry Enforcer is an NPC which only appears in [Faction Ambushes](Faction_Ambushes.md). It has two variants, One being ministry fedder and the stronger variant being ministry enforcer.
+A Ministry Enforcer is an NPC which only appears in [Faction Ambushes](Faction_Ambushes.md). It has two variants, One being ministry footpad and the stronger variant being ministry enforcer.
 
-**Ministy Fedder:**
+**Ministy footpad:**
 
 Template:EnemyInfobox1.0
 
 ## Description
 
-Ministy fedders are identical to [Ministry Scouts](Ministry_Scout.md), except they can only be found in [Faction Ambushes](Faction_Ambushes.md). They spawn in groups of 3 during [Ministry](The_Ministry.md) ambushes for lower-leveled players and/or players with a low reputation.
+Ministy footpads are identical to [Ministry Scouts](Ministry_Scout.md), except they can only be found in [Faction Ambushes](Faction_Ambushes.md). They spawn in groups of 3 during [Ministry](The_Ministry.md) ambushes for lower-leveled players and/or players with a low reputation.
 
-A Ministy fedders's appearance consists of a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit with their [race](Aspects.md) varying.
+A Ministy footpads's appearance consists of a [Vagabond's Bicorn](<Vagabond's_Bicorn.md>), either a [Blindfold](Blindfold.md) or Crimson Blindfold and a [Prophet's Cloak](<Prophet's_Cloak.md>) outfit with their [race](Aspects.md) varying.
 
 ## Moveset
 
-A Ministry Fedder's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
+A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

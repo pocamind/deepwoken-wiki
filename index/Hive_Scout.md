@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 82078
+revid: 87141
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -10,18 +10,20 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 Template:EnemyInfobox1.0
 
+  
+
 ## Description
 
-A Hive Scout is a variant of an [Hive Adjudicator](<Hive_Adjudicator_(NPC).md>) that only spawns in the following events:
+Hive scouts are footsoldiers of [The Hive](The_Hive.md) that can spawn in the following events:
 
 -   Hive Soldiers vs Etrean Footsoldiers ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Soldiers vs. [King Thresher](Thresher.md) (Starswept Valley)
 
-They wear pair of [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) and [Redsteel boots](Redsteel_Boots.md) along with a pair of either [Crystal Pendant](Crystal_Pendant_Earrings.md) or [Dew Drop Earrings](Dew_Drop_Earrings.md). In addition, they also wear the [Hive Drone](Hive_Drone.md) [outfit](Outfits.md).
+They wear pair of [Woodland pauldrons](Woodland_Pauldrons.md) and [Woodland boots](Woodland_Boots.md) along with a pair of either [Crystal Pendant](Crystal_Pendant_Earrings.md) or [Dew Drop Earrings](Dew_Drop_Earrings.md). In addition, they also wear the [Hive Drone](Hive_Drone.md) [outfit](Outfits.md).
 
 ## Moveset
 
-A Hive Arbiter's arsenal consists of either an [Iron Birch](Iron_Birch.md), [Katana](Katana.md) or [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
+A Hive Scout's arsenal consists of either an [Iron Birch](Iron_Birch.md) or a [Ritual Spear](Ritual_Spear.md) along with the [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -54,6 +56,11 @@ Fire Blade
 Flame Assault
 
  | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★★☆) |
+| 
+
+Revenge
+
+ | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★☆☆) |
 
 #### Boons
 

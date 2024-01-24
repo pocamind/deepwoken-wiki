@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 87068
+revid: 87131
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -31,7 +31,7 @@ The Katana is a Medium Weapon that can be obtained from chests found in [Minityr
 
 ## Critical
 
-The user sheaths their katana before lunging forward and slashing horizontally. This critical is shared with the [Shattered Katana](Shattered_Katana.md).
+The user sheaths their katana before lunging forward and slashing horizontally. This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
 
 ## Trivia
 

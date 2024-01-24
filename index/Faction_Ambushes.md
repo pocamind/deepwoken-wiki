@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 86378
+revid: 87132
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -56,7 +56,7 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\*
 
  |
-| [Ignition Union](The_Ignition_Union.md) | 3 Arcwarders | "There's the scab, lads!" |
+| [Ignition Union](The_Ignition_Union.md) | 3 [Ignition union arcwarders](Ignition_Union_Arcwarder.md) | "There's the scab, lads!" |
 | [Hundred Legions](The_Hundred_Legions.md) | 3 [Legion Captains](Legion_Captain.md)
 
 3 [Legion Soldiers](Legion_Soldier.md)
