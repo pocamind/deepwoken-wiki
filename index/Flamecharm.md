@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 86905
+revid: 87120
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -316,7 +316,6 @@ _Strike the ground, turning it to ash._
 -   Mantra continues if the second hit isnt parried.
     -   _Autoparry frames for the second hit **DONT** count._
     -   _Mantra also continues after the user gets knocked._
--   Cannot feint the mantra.
     -   _Insta Posture breaks on second hit._
 
  |
