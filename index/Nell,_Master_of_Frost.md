@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 87152
+revid: 87177
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -190,7 +190,7 @@ End of Dialogue
 -   Her eyes are unique, having a dark blue sclera.
 -   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so she has a unique, legendary weapon when she's fought.[\[2\]](#cite-note-2)
 -   Nell used to have Rapid Punches before the NPC mantra changes.
--   Is only aggravated when she senses a Silentheart player nearby, or during the [Etris Raid](Cinders_of_Etris.md) event, occasionally fighting off Authority troops if they somehow get to her.
+-   Unlike most Spelltrainer, she can be aggroed during the [Etris Raid](Cinders_of_Etris.md) event, occasionally fighting off Authority troops if they somehow get to her.
 
 ## References
 

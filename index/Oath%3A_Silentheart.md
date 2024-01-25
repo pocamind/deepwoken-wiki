@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 86692
+revid: 87176
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -61,7 +61,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
         -   Stacks up to 5 times and each stacks grant 5% mantra resistance and 3% damage buff.
 -   **Lodestar - Passive**
-    -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
+    -   Landing criticals, flourishes, and uppercuts now silences your enemy for 30 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
 -   **Ankle Cutter - Passive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
