@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 86589
+revid: 87204
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -34,3 +34,4 @@ This Outfit's Schematic can be found in:
 
 -   The talent [Riot Breaker](Talents.md#riot-breaker) is exclusive to the armor. This talent is somewhat similar to [Ardour](Murmur.md).
 -   The other two outfits of similar origin are the Authority Peacekeeper Armour and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
+-   This outfit its worn by the [Authority Commander](<Authority_Commander_(Enemy).md>)

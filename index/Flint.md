@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 81244
+revid: 87201
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -50,7 +50,7 @@ Alternatively, Flint can be bought for three notes at:
 
 ## Description
 
-Umbral Flint is a higher tier of flint with 150 uses, crafted by substituting the Rock for an [Umbral Obsidian](Umbral_Obsidian.md) while crafting.
+Umbral Flint is a higher tier of flint with 150 uses, crafted by substituting the Coal for an [Umbral Obsidian](Umbral_Obsidian.md) while crafting.
 
 They can also be sold by [merchant ships](https://deepwoken.fandom.com/wiki/Chili).
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 87176
+revid: 87202
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -105,11 +105,6 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   If you have even one mantra from cards or other sources it will be removed upon Oath obtainment
 -   You may now dye Silentheart's arm-tattoos/markings.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands. ([https://www.youtube.com/watch?v=ggRX1zqDccI](https://www.youtube.com/watch?v=ggRX1zqDccI))
--   File:Undyed Veins.png
-    
-    Undyed Veins
-    
-    Possibly a reference to [Heavenly Restriction](https://jujutsu-kaisen.fandom.com/wiki/Heavenly_Restriction) from the Anime [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen)
 
 File:Pinkheart.png
 

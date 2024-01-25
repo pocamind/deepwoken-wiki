@@ -1,6 +1,6 @@
 ---
 title: Fleet Warden Cape
-revid: 87193
+revid: 87200
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Capes, Torso]
@@ -29,5 +29,3 @@ categories: [Equipment, Capes, Torso]
 The Fleet Warden Cape is an [Equipment](Equipment.md) item under the "Torso" category. It can be obtained from [Fishing](Fishing.md) and [Summer Isle](Summer_Isle.md) chests. When equipped, you gain +3% Elemental Armor and 1 Legendary [pip](Equipment.md). Requires Power 13 to wear it.
 
 It has 6 variants which are: Emerald, Rose, Scarlet, Shade, Silver & Onyx.
-
--   Due to its scarcity, if you need a fast method to acquire this cape or one of its variants, server-hop the three chests that spawn in the abandoned castle on the island adjacent to Summer Isle. Remember to move to one edge of the island and leave there. Doing this will yield you a copy of this cape about every half-dozen to a dozen hops.

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 85819
+revid: 87205
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -81,7 +81,7 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 
 -   All of The Enforcer's damaging attacks are parryable, and blockable.
 -   The Enforcer can also be found in the Trial of One.
--   You can easily run, or even walk away from its Whirlwind, easily giving you time to rest or use consumables.
+-   You can easily run, or even walk away from its Whirlwind, easily giving you time to rest or use consumables (or ranged mantras).
 -   The Enforcer can pull you through emotes that don't anchor you down; for example, the "Griddy" emote will not affect Enforcer's pull, meanwhile the "Resting" emote will.
 -   The Enforcer has one of the most player-like movesets of all monsters in-game.
 -   It is possible to cheese it by just running away and throwing potions/bombs.
