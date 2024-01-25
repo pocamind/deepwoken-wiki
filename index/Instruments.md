@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 87184
+revid: 87190
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,21 +10,19 @@ categories: [Mechanics]
 
 ## Description
 
-Instruments, or Shanties, is a feature that was added on the 2023 December 1st update. Purchasing any instrument gives you the "Worn Songbook" item, which you can use to play songs together with your friends or alone. There are currently 4 instruments: The Accordion, Drum, Trumpet, and Violin. Playing along with others staves off hunger and thirst, grants you a blood regen buff, slightly improves your passive HP regen, and a resistance to insanity while in the depths and might regen sanity if you had a way to stop gaining insanity such as mark of jurik capra race talent or being deepbound in castle light. however you can only move in a minimal amount and you cannot draw your weapon.
+Instruments, or Shanties, is a feature that was added on the 2023 December 1st update. Purchasing any instrument gives you the "Worn Songbook" item, which you can use to play songs together with your friends or alone. There are currently 4 instruments: The Accordion, Drum, Trumpet, and Violin. Playing along with others staves off hunger and thirst, grants you a blood regen buff, slightly improves your passive HP regen, and a resistance to insanity while in the Depths. It may regen sanity if you have a way to stop gaining insanity, such as the Mark of Jurik [Capra](Capra.md) race talent or being [Deepbound](Origins.md#deepbound) and in [Castle Light](Castle_Light.md). However, movement is limited and you cannot use any other items.
 
-They can be purchased at:
+Instruments can be purchased, for each, at:
 
 -   [Etris](Etris.md) inside the [Antiquarian](Antiquarian.md)'s store.
--   At [Isle of Vigils](Isle_of_Vigils.md) inside the Inn.
--   At [Castle Light](Castle_Light.md) near the campfire.
--   At [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip.
--   In [Greathive Aratel](Greathive_Aratel.md) in the observatory
+-   [Isle of Vigils](Isle_of_Vigils.md) inside the Inn.
+-   [Castle Light](Castle_Light.md) near the campfire.
+-   [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip.
+-   [Greathive Aratel](Greathive_Aratel.md) in the observatory.
 
-All for each.
+If you are near another player, the prompt to play a song now adds Play Along, syncing your instrument with theirs. You can only play along with songs you currently have.
 
-Attempting to play a song near another player playing the same song will allow you to join them, syncing your instrument with theirs. However this only happens if you have access to the same song as that player.
-
-To access songs, you must read the corresponding book, these books can be obtained from either searching through a bookshelf or buying from a [Merchant Ship](Travelling_Merchant.md). The current books in the game that give you shanties are:
+To access songs, you must read the corresponding book. These books can be obtained from either searching through a bookshelf or buying them from a [Merchant Ship](Travelling_Merchant.md). The current books in the game that give you shanties are:
 
 -   [The Song of Fathoms / Oscillation](Books.md)
 -   [The Gideshu March](Books.md)
