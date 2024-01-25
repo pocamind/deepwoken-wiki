@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 87142
+revid: 87186
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -276,7 +276,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
--   The Ferryman's clones can drop luck particles which give you an investment point.
+-   ~The Ferryman's clones can drop luck particles which give you an investment point.~ Luck is no longer used or available, as of Verse 2.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
 -   The Ferryman is voiced by [Demstormz](https://www.youtube.com/@demstormz).

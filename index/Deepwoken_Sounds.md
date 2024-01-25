@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 87106
+revid: 87180
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -568,6 +568,7 @@ A large collection of sounds found in **Deepwoken**.
 |  | 0.7s | [Mudskipper](Mudskipper.md) Rising from the Ground |
 |  | 1.1s | [Mudskipper](Mudskipper.md) Groan (1) |
 |  | 1.0s | [Mudskipper](Mudskipper.md) Groan (2) |
+|  | 3.3s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Laugh |
 |  | 2.0s | [Mudskipper](Mudskipper.md) Hit / [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack \[1\] |
 |  | 1.0s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack \[2\] |
 |  | 2.9s | [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) Blood Attack \[3\] |

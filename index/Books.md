@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 86262
+revid: 87183
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -21,7 +21,9 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   Debriefing Log on Operator Polaris Enigvidion: [Greathive Aratel](Greathive_Aratel.md)
 -   The Gideshu March: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
--   Our Fortess (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
+-   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
+-   Diver Journal I, II, III: [Second Layer](Second_Layer.md)
+-   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
 
   
 

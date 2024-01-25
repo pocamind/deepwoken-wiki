@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 45423
+revid: 87185
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -29,13 +29,17 @@ Joshua is an NPC that provides a small amount of XP when spoken to. He is locate
 > 
 > Joshua: The Authority? Hmm. I'm not too politically minded myself, but the people here certainly don't take kindly to them. If you ask me, they should keep to themselves and leave us be. I don't see what all the fuss is about.
 
-If he is spoken to after initiating Karliah's Quest, a different dialogue is displayed:
+If spoken to after initiating Karliah's Quest, a different dialogue is displayed:
 
 > Joshua: Good day to you, youngster. Was there something you needed?
 > 
 > 1\. Do you know Karliah? I'm supposed to go on a research expedition with her soon.
 > 
 > Joshua: Oh, Karliah! Of course. She comes and cooks for little old me every now and then. She's truly a blessing
+
+If spoken to after finishing the third ending of Karliah's Quest, he'll start the conversation off with:
+
+> Joshua: Karliah seems a lot happier lately, thanks to you.
 
 ## Trivia
 

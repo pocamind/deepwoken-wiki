@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 85907
+revid: 87184
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -18,7 +18,9 @@ They can be purchased at:
 -   At [Isle of Vigils](Isle_of_Vigils.md) inside the Inn.
 -   At [Castle Light](Castle_Light.md) near the campfire.
 -   At [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip.
--   In [Greathive Aratel](Greathive_Aratel.md) in the observatory, for each.
+-   In [Greathive Aratel](Greathive_Aratel.md) in the observatory
+
+All for each.
 
 Attempting to play a song near another player playing the same song will allow you to join them, syncing your instrument with theirs. However this only happens if you have access to the same song as that player.
 
