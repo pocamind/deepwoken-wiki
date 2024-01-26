@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87221
+revid: 87242
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -286,8 +286,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Unlocks a couple talents in the Assassin talent tree.
     -   Prerequisite: 35 Agility
 
--   Low Blow \[Common Talent, Agility\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
-    -   Prerequisites: 60 Agility, Assassin
+-   Low Blow \[Common Talent, Agility\] - Those you assassinate are slowed and unable to jump for 3s. (+1 Passive Agility)
+    -   Prerequisites: 60 Agility, Deep Wound
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.
