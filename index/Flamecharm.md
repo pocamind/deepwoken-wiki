@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 87120
+revid: 87216
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -126,6 +126,7 @@ _A bullet of flames shot through each hand._
 -   Can propel the caster backward if it is cast while jumping/walking backward or in water.
 -   Clicking again while firing will fire additional bullets, at the cost of more ether.
 -   Adding a Round Spark causes the bullets to split in 2 after an unknown duration.
+-   Adding a Blast Spark causes bullets to occasionally explode when hitting an enemy, but will greatly reduce the base damage of the mantra.
 -   Fire bullets can light campfire pits
 
  |

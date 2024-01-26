@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 86887
+revid: 87217
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -41,7 +41,7 @@ Mantra Cancelling is exactly what it sounds. You cancel a Mantra, which essentia
 
 Ranged Mantra Resistance; Standing from the center of the green circle, their is no scaling while red is where ranged resistance scaling starts and ends, past that, full resistance is applied.
 
-Ranged Mantras are any Mantra that can deal damage from 30 studs away, these Mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like [Scion](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Mobs such as the [bandit leader](Bandit_Leader.md), can roll and block ranged attacks, this does not apply to mobs like the Megalodaunts that cannot block and cannot roll.
+Ranged Mantras are any Mantra that can deal damage from at least 30 studs away, these Mantras have their damage fall off, reaching fully ranged resistance past 60 studs, Certain enemies like [Scion](Scion_of_Ethiron.md) do not have this resistance while other enemies such as the [Megalodaunts](Megalodaunt.md) do have ranged resistance. Humanoid mobs such as the [Bandit Leader](Bandit_Leader.md) can roll and block ranged attacks, but this does not apply to most monster mobs like the Megalodaunt that cannot block or roll.
 
 ## Types of Mantras
 
@@ -57,6 +57,7 @@ Large and threatening fire-based spells. Excels in crowd control and area denial
 -   Decent mid-range presence
 -   Good pressure
 -   Great at dealing LOTS of damage.
+-   Has a hybrid path with [Shadowcast](Shadowcast.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Talents.md).
 
 ### [Thundercall Mantras](Thundercall.md)
 
@@ -64,10 +65,10 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 
 -   Lightning has a wide variety of useful spells for PvE and exploring the world.
 -   Typically used mid/long range.
--   Surge path can be obtained at 40 thundercall. Adding stacks of surge to an enemy which deal somewhat heavy damage with the removal of its stun.
+-   Surge path can be obtained at 40 Thundercall. Adding stacks of surge to an enemy which deal somewhat heavy damage with the removal of its stun.
 -   Great pressure.
 -   A lot of fight control and escape Mantras.
--   Most thundercall Mantras work with blast spark.
+-   Most Thundercall Mantras work with a Blast Spark.
 -   Highest Base Damage, Lowest Scaling.
 
 ### [Frostdraw Mantras](Frostdraw.md)
@@ -75,7 +76,7 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat.
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
--   Crystallization can be unlocked at 40 frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
+-   Glass Path: Crystallization can be unlocked at 40 Frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
 -   Typically used close/mid-range.
 -   Has a very good mobility Mantra "Ice Skate"
 -   Works with most Spike Modifiers.
@@ -86,11 +87,11 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
 -   It has a mix of close-range combo spells and long ranged options, along with multiple movement talents for moving around the world.
--   Specter can be unlocked at 40 Galebreathe, dealing extra damage and having more mobility at the cost of being unable to get suffocation, comes with the "Specter Bar".
+-   Haunted Path: Specter can be unlocked at 40 Galebreathe, dealing extra damage and having more mobility at the cost of being unable to utilize suffocation, comes with the "Specter Bar".
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.
--   Applies suffocate, negating Mantras of the opponent. Happens when using wind gun, gale trap or using world without song.
+-   Applies suffocate, negating Mantras of the opponent. Procs when using Wind Gun, Gale Trap, or can proc on any mantra if you have the talent "A World Without Song".
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
@@ -101,14 +102,15 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Goes well when paired with other elements.
 -   Applies obscured, obscuring the vision of the opponent.
 -   Typically used mid-range.
+-   Has a hybrid path with [Flamecharm](Flamecharm.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Talents.md).
 
 ### [Ironsing Mantras](Ironsing.md)
 
 Ironsing provides the widest ranged Mantras in the game and the best damage output based on your opponent's mistakes and missteps.
 
 -   Offers Mantras that favor the user, benefits both short and long distance.
--   Scrapsinger can be obtained at 40 ironsing. Instead of metal rods pulling enemies towards you when pressing the x key, instead it increases the amount of armor damage opponents take.
--   Tunes in well with the metal enchantment, as the metal path gives you benefits depending on how much armor your opponent has.
+-   Gilded Path: Scrapsinger can be obtained at 40 Ironsing. Instead of metal rods pulling enemies towards you when pressing the X key, instead it increases the amount of armor damage opponents take.
+-   Tunes in well with the Metal [enchantment](Enchantments.md), as the Metal [enchantment](Enchantments.md) gives you benefits depending on how much armor your opponent has.
 -   Applies metal rods, which can be used in different ways by the user who applied it, enabling different strategies and forms of combat.
 
 ### [Physical Mantras](Attunement-less.md)
@@ -121,7 +123,7 @@ A Mantra's type generally corresponds to its respective stat. Weapon Mantras and
 
 Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the Mantra and what is the Mantra is based off of.
 
-**MONSTER MANTRAS CANNOT BE TRADED AT SHRINE OF TEMPTATION**
+**MONSTER MANTRAS CANNOT BE TRADED AT THE SHRINE OF TEMPTATION**
 
 -   Megalodaunt -> Megalodaunt Coral -> Coral Spear (Thousand Needles)
 -   Dread Serpent -> Dread Serpent's Tooth -> Dread Breath (Dread's Ice Beam)
@@ -148,7 +150,31 @@ Mantra IDs are accessed using the built-in Roblox Dev-Console that can be activa
 
 _**(This may have been patched/removed)**_
 
-`Squad`\- Flame/Frost Servants
+`Squad`\- Flame / Frost / Illusion _**(Burning Servants, Frozen Servants, Illusory Servants)**_
+
+`StrongPunch`\- Fire / Shadow / Strength / WeaponMedium _**(Ash Slam, Eclipse Kick, Strong Left, Master's Flourish.)**_
+
+`Wisp`\- Fire / Shadow / Lightning / Wind / Frost _**(Flame Wisp, Shadow Wisp, Thunder Wisp, Gale Wisp, Frost Wisp.)**_
+
+`Zone-` Illusion _**(Illusory Realm.)**_
+
+`Toss`\- Lightning / Enforcer / Bonekeeper _**(Grand Javelin, Enforcer Pull, Brachial Spear.)**_
+
+`Strike`\- Fortitude _**(Shoulder Bash.)**_
+
+`Skate`\- Ice _**(Ice Skate)**_
+
+`RisingSlash`\- Fire / Lightning / Shadow / Wind _**(Rising Flame, Rising Thunder, Rising Shadow, Rising Wind)**_
+
+`Pierce`\- Wind / Ice _**(Gale Lunge, Ice Lance)**_
+
+`Palm`\- Fire / Shadow _**(Fire Palm, Shadow Meteors)**_
+
+`Eruption`\- Ice / Shadow _**(Ice Eruption, Shadow Eruption)**_
+
+`Blade`\- Fire / Ice / Lightning / Wind / Shadow _**(Fire Blade, Ice Blade, Lightning Blade, Wind Blade, Shadow Blade)**_
+
+`Kick`\- Lightning _**(Thunder Kick)**_
 
 Add more if you find them.
 

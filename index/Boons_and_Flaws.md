@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 86706
+revid: 87206
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -80,7 +80,7 @@ Survivalist
 
  | 
 
-_"You are more resistant to environmental effects."_
+_"You are resistant to environmental effects."_
 
  | 
 

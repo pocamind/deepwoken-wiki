@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 86014
+revid: 87213
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -27,7 +27,7 @@ Your ability to call upon Light, enlighten those around you and guide others thr
 -   The magic that is utilized by the [Dawnwalker oath](Oaths.md#dawnwalker) is an attempt at imitating **Lightkeeping** through the use of Radiant Tones.
 -   The **Lightkeepers'** base was located in [Starswept Valley](The_Starswept_Valley.md); named the [Lightkeeper's Temple](Lightkeeper_Temple.md).
     -   As of the Year 1271, it has been buried by the sands of the [Valley](The_Starswept_Valley.md) and is a breeding grounds for [Threshers](Thresher.md). Though despite the abandonment, the [Temple](Lightkeeper_Temple.md) looks to be intact.
-    -   By Year 1363, a jail cell in it has been torn open, and a connection to the [Deep Thresher Nest](Voidzones.md) established.
+    -   By Year 1363, a jail cell in it has been torn open, and a connection to the [Deep Thresher Nest](Deep_Thresher_Nest.md) established.
 -   The current Lightkeeper _(possibly Viqh)_ was kidnapped by [Etrea](Etrea.md) to prevent the [Authority](The_Central_Authority.md) entering the Etrean Luminant, stalemating a losing war.
 -   **Lightkeepers** are possibly important for nautical travel between [luminants](Luminants.md). Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra's Dawn' was the only ship that has made the expedition between [luminants](Luminants.md) without any blessing from a **Lightkeeper**.
 -   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), the teacher of the [Dawnwalker oath](Oaths.md#dawnwalker), was possibly able to discover the radiant tones thanks to Viqh, the **lightkeeper** of the [eastern lighthouse](Eastern_Interstitial_Lighthouse.md), as she stated that, "_She learned a lot from her gift_" meaning that Viqh possibly taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to create the [Dawnwalker Oath](Oaths.md#dawnwalker), and as we know that Oath can easily be used as a weapon.

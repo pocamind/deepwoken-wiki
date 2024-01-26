@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87158
+revid: 87221
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -280,14 +280,14 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I prefer to attack unseen."**_
 
--   Deep Wound \[Common Talent, Light\] - Assassinating a target with a Light Weapon applies anti-heal for 20 seconds. Assassination damage now scales with level. (+2 Passive Agility)
+-   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 3s. Assassination damage now scales with level.
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this talent.
     -   Unlocks a couple talents in the Assassin talent tree.
-    -   Prerequisite: 45 Agility(maybe less?)
+    -   Prerequisite: 35 Agility
 
 -   Low Blow \[Common Talent, Agility\] - Your attacks against ragdolled enemies no longer deal reduced damage. (+1 Passive Agility)
-    -   Prerequisites: 60 Agility, Assasin
+    -   Prerequisites: 60 Agility, Assassin
 
 -   Lowstride \[Common Talent, Agility\] - You suffer much less speed decrease from crouching. (+1 Passive Agility)
     -   Crouching is now as fast as walking.

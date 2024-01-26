@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 76234
+revid: 87211
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, World, Voidzones]
@@ -131,7 +131,7 @@ While inside a Voidzone:
 
 **Rewards:** Skyvalor Lotus
 
-### **Deep Thresher Nest**
+### **[Deep Thresher Nest](Deep_Thresher_Nest.md)**
 
 “ Woah, there's some big lizards right there I wanna pet them ”
 
