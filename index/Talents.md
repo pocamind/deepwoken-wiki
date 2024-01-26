@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87242
+revid: 87248
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -1282,7 +1282,7 @@ _**"I seek the qualities of Heat Column."**_
 -   Scorched Earth \[Common Talent, Flamecharm & Eruption Exclusive\] - Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
     -   Prerequisites: Eruption Path: Lava Serpent, 75 Flamecharm
 -   _**The Floor is Lava**_ \[Advanced Talent, Flamecharm & Eruption Exclusive\] - Your Eruptions leave lethal pools of lava beneath them.
-    -   Prerequisites: Eruption Path: Lava Serpent, 100 Flamecharm
+    -   Prerequisites: All Eruption Path: Lava Serpent Talents, 100 Flamecharm
 
 ### Leader
 

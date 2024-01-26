@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 87234
+revid: 87244
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -194,8 +194,6 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 -   After you defeat the Duke, if you visit The Lord Regent once again, he thanks you for your help and disposes of you, as you're no longer needed.
     -   If this happens you and you go back to try and get your loot, even if the guards are passive and you tell them you have an audience with The Lord Regent, the lord will execute you again if you try to enter his room.
 -   The reward of defeating the Duke unbounds the Attunements stat (75 before -> 100 after). Note that you only need to defeat the Duke; visiting the Regent and subsequently perishing to him will not do anything.
-
-ay regent you should KILL YOURSELF NOW!
 
 ### Diver Escort Quest
 
