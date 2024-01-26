@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 86555
+revid: 87236
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -64,10 +64,10 @@ WARNING: DO NOT CLICK 1 TO END DIALOGUE OR ELSE YOU FAIL, JUST CAST A MANTRA WHE
 
 -   When Talking to Aelita, the song [Catwhisker](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) starts playing
 -   Aelita is a [Felinor](Felinor.md).
-    -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not make [oaths](Oaths.md).
+    -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not take [oaths](Oaths.md).
 -   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
 
--   During Aelita's Encounter, and if you are part of the game (must follow her orders), her own [theme](https://www.youtube.com/watch?v=i256f1fJg4E) will play.
+-   During Aelita's Encounter (if you are participating in it), her own theme \["Catwhisker" [https://www.youtube.com/watch?v=i256f1fJg4E](https://www.youtube.com/watch?v=i256f1fJg4E)\] will play.
 -   Aelita is a Visionshaper, she doesn't have the oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player. (Ever since Verse Two, Aelita has a chance to teleport you to locations where islands used to exist, but is now just the middle of nowhere in Voidsea)
     
@@ -75,6 +75,7 @@ WARNING: DO NOT CLICK 1 TO END DIALOGUE OR ELSE YOU FAIL, JUST CAST A MANTRA WHE
     
 -   Aelita only says ''See? That was fun right? You can have a lot more fun if you come back during the winter.'' to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of [Blizzard Knights](Stone_Knight.md) will spawn.
 -   If going straight through the [Valley of Hereos](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard.
--   Silentheart's are unable to beat her game due to a lack of Mantra’s
+-   Silentheart's are unable to beat her game due to a lack of Mantras.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair)
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
+-   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md).

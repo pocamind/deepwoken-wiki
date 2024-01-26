@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 87222
+revid: 87234
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -205,7 +205,8 @@ To begin this quest, talk to [Karliah](Karliah.md), an [Adret](Adret.md) Diver. 
     -   You must have Charisma ~10 to charge Karliah.
 -   Save her from the [Mudskipper](Mudskipper.md) that is attacking her.
 -   Interact with her.
--   This quest is very easy to screw up, and if you do so there is no way to uncap charisma, so be careful.
+-   This quest is very easy to screw up, and if you do so there is no way to uncap charisma, so be careful.'
+    -   Failing will result in her dying to horseshoe crabs
 
 #### Ending 1: Promise Broken
 

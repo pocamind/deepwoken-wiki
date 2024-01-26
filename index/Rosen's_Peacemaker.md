@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 84115
+revid: 87229
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles]
