@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 74381
+revid: 87402
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -19,7 +19,7 @@ categories: [Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from Deep Owls |
+| obtainment | Rare Drop from Deep OwlsPure umbrite turn ins |
 | description | ... |
 
 ## Description

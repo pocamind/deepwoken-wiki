@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 86988
+revid: 87405
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -29,21 +29,22 @@ categories: [Weapons, Swords, Katanas]
 
 The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), dropping from chests in high-level locations like [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md). It has a base damage of 20 with 30% PEN, and requires 90 MED to equip.
 
-At 90 MED, it deals 29.45 damage. At 100 MED, it deals 30.5 damage. With the "Paired soul" Talent from [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits, buffing its damage by 5%, this becomes a 30.92 at 90 MED and 32.02 at 100 MED
+Taking scaling into account, it deals 29.45 damage at 90 MED. At 100 MED, it deals 30.5 damage. The "Paired Soul" talent from the [Cloak of Winds](Cloak_of_Winds.md) and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits buffs its damage by 5%; this results in 30.92 damage at 90 MED and 32.02 damage at 100 MED.
 
-While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. The user does a quick vertical and horizontal slash, which are followed with 2 additional delayed shockwave slashes, allowing the user to movestack another attack with them.
+While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. The user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts, allowing the user to movestack another attack with them.
 
-Across various updates, the Shattered Katana has received many balance changes and is debatably no longer the best Medium Weapon. nonetheless it still remains a solid high investment pick thanks to its solid stats, high PEN, and additions such as the Posers Ring and a unique critical critical.
+Across various updates, the Shattered Katana has received many balance changes and is debatably no longer the best Medium Weapon. Nonetheless it still remains a solid high investment pick thanks to its solid stats, high PEN, and additions such as the Poser's Ring and its unique critical.
 
 ## Trivia
 
 -   Its model resembles the Black Mortal Blade, a weapon from _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_.
     -   Fittingly, the two-handed critical was inspired by Isshin the Sword Saint, who wields the blade.
--   It is one of two weapons that comes with a sheathe, the other being the Katana.
-    -   Therefore, it also works with the [Poser's Ring](Equipment.md#rings) and can be used to start [Zana's](Zana.md) quest.
+-   It is one of two weapons that comes with a scabbard, the other being the Katana.
+    -   Therefore, it also works with the Poser's Ring and can be used to start [Zana's](Zana.md) quest.
     -   It's appropriate that the scabbards of both the Shattered and regular Katana are placed cutting-edge facing upwards: many samurai preferred to draw their swords facing downward only if they were wearing armor, as that would prevent the blade from getting caught on it. Conversely, they would wear their katana facing upwards without armor since that wouldn't be an issue; as most [outfits](Outfits.md) in Deepwoken lack heavy armor, it makes sense for the scabbard to be facing up.
 -   The incredible length of the blade would classify this weapon as an ōdachi, as opposed to a katana.
     -   Despite its blade being much longer than the Katana, both weapons have 8 range.
--   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5% instead of the Katana's 25%. This makes it deal 35.7 damage.
-    -   This causes both weapons to deal very similar damage at equivalent attribute levels. Their main differences become the PEN and swing speed.
--   On release, the Shattered Katana had 50% PEN and 0.75x swing speed. It also received the full 25% damage buff from Paired Soul.
+-   The talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5% instead of the Katana's 25%.
+    -   Both weapons deal very similar damage at equivalent attribute levels. Their main differences become the PEN and swing speed.
+    -   With its addition in the 1/26/24 update, the Alloyed Katana will actually _outdamage_ the Shattered—albeit only by a small margin. With that in mind, the Shattered Katana is still worth using if you if you favor high PEN or its unique crit.
+-   On rele.ase, the Shattered Katana had 50% PEN and 0.75x swing speed. It also received the full 25% damage buff from Paired Soul.

@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 87396
+revid: 87409
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment]
@@ -15,13 +15,13 @@ categories: [Equipment]
 | selling price | Unknown |
 | requirements | Unknown |
 | weight | 1 |
-| innate stats | Unknown |
+| innate stats | none |
 | innate talent | Immortality |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Enhanced Immortal Guardians |
+| obtainment | Immortal Guardian (gliched) |
 | description | "" |
 
 ## Description

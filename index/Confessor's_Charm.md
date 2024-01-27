@@ -1,6 +1,6 @@
 ---
 title: "Confessor's Charm"
-revid: 73881
+revid: 87419
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -20,7 +20,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser , Hell Mode |
+| obtainment | Chaser , Hell Mode , Merchant Ship |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: "Vigil's Mark"
-revid: 87078
+revid: 87416
 source: https://deepwoken.fandom.com/wiki/Vigil's_Mark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -10,19 +10,20 @@ categories: [Locations, World, Etrean Luminant]
 
 LocationL Vigil's Mark LocationR
 
-TERRITORY OF ETREA \[LAWLESS\]
+TERRITORY OF ETREA (LAWLESS AREA)
 
 A common spot for vigils-to-be to test both mettle and metal.
 
   
 Template:Areainfobox
 
-**Vigil's Mark** is a location in _Deepwoken_. It is a landmark of the [Temple of the Blade](Temple_of_the_Blade.md).
+**Vigil's Mark** is a location in _Deepwoken_. It is a landmark near the [Temple of the Blade](Temple_of_the_Blade.md).
 
 ## Overview
 
-Vigil's Mark is a small arena located near Vigil's Antiquarian and an entrance that leads into the [Temple of the Blade](Temple_of_the_Blade.md). This place acts as a area for freely fight with each other.
+Vigil's Mark is a small arena located near Vigil's Antiquarian and an entrance that leads into the [Temple of the Blade](Temple_of_the_Blade.md). This place acts as an arena for players to fight each other freely without having to worry about reputation.
 
 ## Trivia
 
--   This territory is marked as "Lawless". This means that combat in this area will not result in guards being alerted and will not negatively affect reputation with Etrea.
+-   This territory is marked as "Lawless". All laws (attacking other players, gripping town npcs, etc) will not be put in place in areas marked under "lawless." Committing crimes in lawless territory will not result in bad reputation with the faction.
+-   If you plan on gripping [Friid](Friid,_Master_of_Gale.md) for [Silentheart](Oath%253A_Silentheart.md), do it here as not to get any bad rep with Etrea.
