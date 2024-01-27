@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 87178
+revid: 87362
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -30,12 +30,15 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
 
 Gran Sudaruska is a Mythical [Greataxe](Weapons.md) that scales with both Heavy and [Frostdraw](Frostdraw.md). Wielding her requires 75 Frostdraw, 30 Heavy and Power 10. She does 24 base damage and has a swing speed of 0.62x. She has a maximum damage of 45.6 at 100 frostdraw and 100 heavy weapon. She is unable to be equipped by those with the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
-This weapon has 2 (or 3 with a talent) passives abilities:
+Gran Sudaruska comes with three passive abilities:
 
--   Hitting an enemy 3 times will cause ice shards to rain down that deals damage while leaving patches of ice.
--   When killing a player with Oath: Contractor or any ministry NPCs (besides the necromancer), she will talk. (**See trivia for the lines**)
--   Gran Sudaruska's Critical with crystal will apply crystals.
--   Gran Sudaruska's Critical without crystal will freeze the victim.
+-   **Sudaruska's Fury** - Landing three M1 attacks on an enemy makes ice crystals rain from the sky. The area that an ice crystal lands will have ice applied on the floor. 15 second cooldown.
+
+-   **Frost Affinity** - M1 attacks apply [Chilled](Status_Effects.md). If the user has Glass Path: Crystallization, apply a crystal per M1 instead.
+
+-   **Vengeful Soul** - After gripping a player with the Contractor oath or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them.
+
+  
 
 ## Critical
 

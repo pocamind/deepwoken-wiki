@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 87319
+revid: 87369
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -928,6 +928,23 @@ Found from:
 -   [Artifact Turn-ins](Artifacts.md)
 -   [Voidwalker Bounties](https://deepwoken.fandom.com/wiki/Origins#Voidwalker)
 -   [First Layer](First_Layer.md)
+
+ | N/A |
+| File:MinersHardHat.png | 
+
+[Miner's Hardhat](<Miner's_Hardhat.md>)
+
+ | 
+
+_+1 Posture_  
+
++2 Rare Pips
+
+ | 
+
+Found from:
+
+-   [Mineskippers](Mudskipper.md#mineskipper)
 
  | N/A |
 |  | 

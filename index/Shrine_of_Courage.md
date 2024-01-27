@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 85498
+revid: 87392
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]
@@ -18,7 +18,17 @@ The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cat
 
 ## Effects
 
-The Trial will have not only **1** wave, but 2-3 waves if you are high enough level. It can only spawn three monsters: Bonekeepers, Fury Nautilodaunts, and King Thresher.
+If you are power 9(needs testing) or under:
+
+You will have to fight an [Enforcer](Enforcer.md) if you have activated the shrine
+
+If you are power 10 or over:
+
+The Trial will have: Bonekeepers, Fury Nautilodaunts, or a King Thresher.
+
+If you are power ??? or over
+
+The Trial will have not only **1** wave, but 2-3 waves. It can only spawn three monsters: Bonekeepers, Fury Nautilodaunts, or a King Thresher.
 
 The Shrine of Courage can only be used once if you have completed it.  
 

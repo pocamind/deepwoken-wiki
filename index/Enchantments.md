@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 86750
+revid: 87337
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -213,7 +213,7 @@ There are two variants that enchantments come in:
   <td><figure>File:Umbralknightgif2.gif<figcaption></figcaption></figure><center><br>
   <font>Umbral Knight<div></div></font></center></td>
   <td><div><p><br>
-  On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown of 3 - 4 seconds.<br>
+  On hit, a red slash will follow up after a successful m1 on the target, before it goes on a short cooldown of 5 seconds.<br>
   The slash of Umbral Knight deals 20% damage of the weapon and is parryable.</p></div></td>
   <td><div>Weapon is covered in a black &amp; light red mist, just like Grim. Weapon's metal parts glow arctic blue.<br>
   When sheathed, the particles are completely invisible.</div></td>

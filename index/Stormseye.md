@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 86689
+revid: 87373
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
@@ -31,9 +31,15 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons]
 
 ## Description
 
-The Stormseye is a legendary rifle that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end. Using its aerial teleports you behind the person you hit and stuns them.
+The Stormseye is a legendary rifle that scales from Medium Weapons and [Thundercall](Thundercall.md). Its critical shoots a bullet, teleporting around the target while shooting in the middle and ragdolling the opponent at the end.
 
 The Stormseye is most common from the [Fury Nautilodaunt](Nautilodaunt.md). It can also be dropped by the [The Ferryman](The_Ferryman.md), [Primadon](Primadon,_Titan_of_the_East.md) (the chest containing deep gems) and is also a drop from [Fishing](Fishing.md) up treasure chests.
+
+The Stormseye comes with 2 passive abilities:
+
+-   **Medallion Shockwave** - Your flourish M1 now creates an explosion that knocks people away and applies [Electrified](Status_Effects.md). If the user has Surge Path: Unstable Capacitator, apply a surge stack with this flourish instead.
+
+-   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
 
 ## Critical Attack
 

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 86727
+revid: 87388
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -32,7 +32,14 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 The Curved Blade of Winds is the Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md), it is an extremely rare drop from the chests in [The Depths](The_Depths.md) and Scion of Ethiron. It scales with Medium Weapon, and [Galebreathe](Galebreathe.md).
 
-This weapon is permanently under the effect of the **After Cut** Galebreathe talent. Every hit will proc After Cut, dealing 5% of the original weapon's attack damage compared to the usual 10%. However, inhaling a Mantra will allow you to temporarily reach that 10% cap of After Cut again. (Having the **After Cut** Galebreathe talent provides no added effects)
+This weapon comes with two passive abilities:
+
+-   **Gale Aftercut** - M1 attacks now apply Aftercut, dealing 5% of the initial damage of the attack.
+    -   Inhaling a mantra will temporarily buff this up to the standard 10% that normal Aftercut would give.
+
+-   **Gale Affinity** - Your critical attack now applies Suffocate. If the user has Haunted Path: Specter, critical attacks will fill up the Specter gauge and summon Apparitions.
+
+  
 
 ## Critical
 

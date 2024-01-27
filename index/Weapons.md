@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 87333
+revid: 87399
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -815,7 +815,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>75 MED</font></td>
   <td><font>20</font></td>
   <td><font>10%</font></td>
-  <td>N/A</td>
+  <td><font>10%</font></td>
   <td><font>MED: 7</font></td>
   <td><font>6</font></td>
   <td>8</td>
@@ -1225,7 +1225,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td><a href="Night_Axe.md">Night Axe</a></td>
   <td>75 HVY</td>
-  <td>22</td>
+  <td>23</td>
   <td>5%</td>
   <td>60%</td>
   <td>HVY: 8</td>
@@ -1312,6 +1312,19 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>0.6x</td>
   <td>N/A</td>
   <td>42.7</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Adretian_Axe"><font>Alloyed Adretian Axe</font></a></td>
+  <td><font>75 HVY</font></td>
+  <td>24</td>
+  <td><font>10%</font></td>
+  <td><font>10%</font></td>
+  <td><font>HVY: 8</font></td>
+  <td><font>8</font></td>
+  <td>8</td>
+  <td><font>0.65x</font></td>
+  <td>N/A</td>
+  <td>42.72</td>
 </tr>
 </tbody>
 </table>
