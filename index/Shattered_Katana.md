@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 87405
+revid: 87464
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -31,9 +31,11 @@ The Shattered Katana is an endgame [Medium Weapon](Weapons.md#medium-weapons), d
 
 Taking scaling into account, it deals 29.45 damage at 90 MED. At 100 MED, it deals 30.5 damage. The "Paired Soul" talent from the [Cloak of Winds](Cloak_of_Winds.md) and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits buffs its damage by 5%; this results in 30.92 damage at 90 MED and 32.02 damage at 100 MED.
 
-While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. The user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts, allowing the user to movestack another attack with them.
-
 Across various updates, the Shattered Katana has received many balance changes and is debatably no longer the best Medium Weapon. Nonetheless it still remains a solid high investment pick thanks to its solid stats, high PEN, and additions such as the Poser's Ring and its unique critical.
+
+## Critical
+
+While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. The user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
 
 ## Trivia
 

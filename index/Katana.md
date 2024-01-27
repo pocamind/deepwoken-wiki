@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 87408
+revid: 87469
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -31,7 +31,7 @@ The Katana is a Medium Weapon that can be obtained from chests found in [Minityr
 
 When paired with the Poser's Ring, the damage of its M1s and critical will be suspended until it is sheathed, at which point all of that damage is inflicted at once.
 
-When [alloyed](Pluripotent_Alloy.md), its damage and scaling increases to 20 and 7 respectively, and it gains 10% chip damage and 10% PEN. With its associated outfits, the Alloyed Katana is one of the strongest high-damage picks for endgame builds.
+When [alloyed](Pluripotent_Alloy.md), its damage and scaling increases to 20 and 7 respectively, and it gains 10% chip damage and 10% PEN. _[Paired Soul](Talents.md#vigil)_ only give +5% damage when the katana is alloyed as it brings it closer to the Shattered Katana. Alloyed Katana is meant to be used over the Shattered Katana if you want to keep the normal katana crit when 2 handing it.
 
 ## Critical
 
@@ -42,4 +42,4 @@ The user sheaths their katana before lunging forward and slashing horizontally. 
 -   The [Blade Temple Guards](Blade_Temple_Guard.md) on the [Isle of Vigils](Isle_of_Vigils.md) use Katanas.
 -   It is one of two weapons that comes with a scabbard, the other being the [Shattered Katana](Shattered_Katana.md).
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.
-    -   Realistically, his katana simply floats behind him. This is more-than-likely just an oversight in his model.
+    -   His katana simply floats behind him. This is more-than-likely just an oversight in his model.

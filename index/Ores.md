@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 87398
+revid: 87475
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -138,7 +138,15 @@ A pink ore that comes from meteor deposits. Found in [Songseeker Caves](Songseek
 
 ## Overview
 
-A dark blue neon ore found in The Depths, specifically the Varicosa District in City of the Drowned, inside the cave where Nostor, the Shadowcast trainer, is located.
+A dark blue neon ore found in The Depths. Located in the Varicosa District in City of the Drowned, inside the cave where Nostor, the Shadowcast trainer, is seen. Two separate veins of Umbrite can also be seen near Castle Light, at a low edge next to the void. With the first vein being exactly near the surface, and the second a bit under.
+
+The first vein located near Castle Light
+
+The first vein from a height, showcasing the low ledge.
+
+The second vein of Umbrite.
+
+The vein located in Nostor's Cave.
 
 ## Trivia
 

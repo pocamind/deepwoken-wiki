@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 87183
+revid: 87474
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -22,6 +22,9 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   The Gideshu March: [Fort Merit](Fort_Merit.md)
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md)
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md)
+
+Some books are obtained as part of specific quests and cannot be found outside of them, and thus multiple copies cannot be obtained. Such books include:
+
 -   Diver Journal I, II, III: [Second Layer](Second_Layer.md)
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md)
 

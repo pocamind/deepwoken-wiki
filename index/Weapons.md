@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 87399
+revid: 87440
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -355,7 +355,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.88x</td>
   <td>N/A</td>
-  <td>30.25</td>
+  <td>29.9</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Light's_Final_Toll"><font>Light's Final Toll</font></a></td>
@@ -381,7 +381,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>6</td>
   <td>0.82x</td>
   <td>N/A</td>
-  <td>34.12(<b>Bleed</b>)</td>
+  <td>33.8(<b>Bleed</b>)</td>
 </tr>
 </tbody>
 </table>
@@ -520,7 +520,7 @@ Rapiers are Light Weapons that bridge the gap between the Medium and Light plays
   <td>4</td>
   <td>8.5</td>
   <td>0.81x</td>
-  <td>31.85(<b>Bleed</b>)</td>
+  <td>31.5(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Kyrstreza.md">Kyrstreza</a></td>
@@ -820,7 +820,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><font>6</font></td>
   <td>8</td>
   <td>0.75x</td>
-  <td>33.65</td>
+  <td>33.7</td>
 </tr>
 <tr>
   <td><a href="Kyrsblade.md">Kyrsblade</a></td>
@@ -844,7 +844,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.74x</td>
-  <td>33.65</td>
+  <td>33.7</td>
 </tr>
 </tbody>
 </table>
@@ -1233,7 +1233,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8.5</td>
   <td>0.59x</td>
   <td>N/A</td>
-  <td>39.2</td>
+  <td>40.9</td>
 </tr>
 <tr>
   <td>Master Hawk's HandAxe</td>
@@ -1324,7 +1324,7 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td>8</td>
   <td><font>0.65x</font></td>
   <td>N/A</td>
-  <td>42.72</td>
+  <td>42.7</td>
 </tr>
 </tbody>
 </table>
@@ -1489,7 +1489,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8.5</td>
   <td>0.64x</td>
   <td><font>N/A</font></td>
-  <td>42.72</td>
+  <td>42.7</td>
 </tr>
 <tr>
   <td><a href="Kyrscleave.md">Kyrscleave</a> (<b>Bleed</b>)</td>
@@ -1713,7 +1713,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>28.25</td>
+  <td>30.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Lightning</font></a></td>
@@ -1725,7 +1725,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>28.25</td>
+  <td>30.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Frost</font></a></td>
@@ -1737,7 +1737,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>28.25</td>
+  <td>30.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Wind</font></a></td>
@@ -1749,7 +1749,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>8</td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>28.25</td>
+  <td>30.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Hero_Blades"><font>Hero Blade of Shadow</font></a></td>
@@ -1761,7 +1761,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td></td>
   <td>0.75x</td>
   <td>N/A</td>
-  <td>28.25</td>
+  <td>30.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Stormseye"><font>Stormseye</font></a></td>

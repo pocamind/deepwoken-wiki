@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 87418
+revid: 87449
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -30,6 +30,6 @@ The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe catagory. It ca
 
 ## Trivia
 
--   Went from being a budget [Iron Birch](Iron_Birch.md) to objectively one of the best Heavy weapons in one update.
+-   Went from a tool of mass destruction to a budget [Iron Birch](Iron_Birch.md) in one update, then went from being a budget [Iron Birch](Iron_Birch.md) to objectively one of the best Heavy weapons in another.
     -   When Alloyed, it has a 0.65 swing speed, 10% Penetration, 10% Chip Damage.
     -   The scaling also increases by 1.

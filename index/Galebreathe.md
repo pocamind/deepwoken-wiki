@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 87330
+revid: 87476
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -698,11 +698,11 @@ Breaking an enemy's posture will cause them to take intense wind pressure damage
 |  | 
 
 Wind Step  
-(GALE 50)
+(GALE 40)
 
  | 
 
-Create a step of wind below you when jumping in the air.
+Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
 
  | 
 
