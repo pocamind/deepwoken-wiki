@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 83835
+revid: 87292
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -28,3 +28,7 @@ categories: [Weapons, Greataxes]
 ## Description
 
 The Relic Axe is a [Heavy Weapon](Weapons.md) of Legendary rarity that is only obtainable as a rare drop from [Sand Knights](Stone_Knight.md) found in the [Starswept Valley](The_Starswept_Valley.md).
+
+## Critical
+
+The critical is seemingly identical to that of standard Greataxes, only to generate three stone pillars of ascending height in front.

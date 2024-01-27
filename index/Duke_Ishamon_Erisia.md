@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 87250
+revid: 87267
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -8,7 +8,7 @@ categories: [Enemies, NPCs, Bosses]
 
 # Duke Ishamon Erisia
 
-“ amongus stroka my dik i got lotion on my dik rn man im strokin my shit ”
+“ There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this Manor's layout roam free. ”
 
 ― Duke Erisia
 
@@ -95,7 +95,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 
 -   He always vents whenever he gets flourished into a wall.
 
- | ◯ | ◯ | ✗ | (★☆☆) |
+ | ◯ | ◯ | ◯ | (★☆☆) |
 
 ### Talents
 

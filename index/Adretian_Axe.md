@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 82723
+revid: 87307
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -26,7 +26,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe catagory. It can be obtained through the [Fort Merit](Fort_Merit.md) Etrean Rescue quest. Its stats and requirements are similar to the [Canorian Axe](Canorian_Axe.md), however it cannot be alloyed.
+The Adretian Axe is a [Heavy Weapon](Weapons.md) of the Greataxe catagory. It can be obtained through the [Fort Merit](Fort_Merit.md) Etrean Rescue quest. Its stats and requirements are similar to the [Canorian Axe](Canorian_Axe.md), it can be alloyed.
 
 ## Trivia
 

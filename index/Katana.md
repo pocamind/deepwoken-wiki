@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 87131
+revid: 87274
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -40,3 +40,4 @@ The user sheaths their katana before lunging forward and slashing horizontally. 
 -   The Katana, along with the [Shattered Katana](Shattered_Katana.md), are the only weapons in the game with a sheath/scabbard.
 -   [Akira](Akira.md) carries this weapon on his back when sheathed, while all other characters carry it on their hip, though he actually does not carry it, rather he instead has it floating behind his back.
 -   The Katana can be paired with the Poser’s Ring, which makes your M1s deal no damage, stacking all of it until you put away your weapon.
+-   Can be alloyed.

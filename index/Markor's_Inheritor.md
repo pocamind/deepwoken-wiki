@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 87098
+revid: 87275
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -34,7 +34,7 @@ categories: [Weapons, Greatswords]
 | scaling | 8 |
 | range | 8.5 |
 | swing speed | 0.64x |
-| endlag | 0.05s |
+| endlag | N/A |
 | penetration | 15% |
 | special effect | Has a Navae fist style critical. |
 | weight | 8 |

@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 77137
+revid: 87316
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ring, Equipment]
@@ -14,7 +14,7 @@ categories: [Ring, Equipment]
 | rarity | ??? |
 | requirements | N/A |
 | weight | 0.1 |
-| innate talent | N/A |
+| innate talent | 1 Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -36,3 +36,4 @@ While using a Katana, the Poser's Ring makes it so that your Katana's attacks an
 -   The Poser Ring sheathe damage cannot be parried or nullified in any way.
 -   Damage from the Poser's Ring sheathe cannot exceed 70% of a player's health.
 -   It is possible to obtain this the moment Power 2 is achieved if [Attunement-less](Attunement-less.md) was chosen and only Weapon points were invested.
+-   Actually does a very little amount of dmg until sheathed rather than doing "0" dmg (around 10 or so if using shattered katana, a little less with normal katana)

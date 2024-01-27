@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 87117
+revid: 87333
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -811,6 +811,18 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>34.9</td>
 </tr>
 <tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Katana"><font>Alloyed Katana</font></a></td>
+  <td><font>75 MED</font></td>
+  <td><font>20</font></td>
+  <td><font>10%</font></td>
+  <td>N/A</td>
+  <td><font>MED: 7</font></td>
+  <td><font>6</font></td>
+  <td>8</td>
+  <td>0.75x</td>
+  <td>33.65</td>
+</tr>
+<tr>
   <td><a href="Kyrsblade.md">Kyrsblade</a></td>
   <td>75 MED</td>
   <td>22</td>
@@ -832,7 +844,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>5</td>
   <td>8</td>
   <td>0.74x</td>
-  <td>33.7</td>
+  <td>33.65</td>
 </tr>
 </tbody>
 </table>
@@ -1463,7 +1475,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>8</td>
   <td>8.5</td>
   <td>0.64x</td>
-  <td>0.05s</td>
+  <td><font>N/A</font></td>
   <td>42.72</td>
 </tr>
 <tr>

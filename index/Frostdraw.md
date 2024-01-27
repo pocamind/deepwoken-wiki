@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 86986
+revid: 87328
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -128,6 +128,7 @@ _A legion of frost._
 -   Inflicts Chill.
 -   Leaves ice where the Mantra is casted.
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
+-   Can be modified with [Blast Spark](Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
 
  |
 | 

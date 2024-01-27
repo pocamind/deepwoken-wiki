@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 85523
+revid: 87331
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, Game, Locations]
@@ -11,6 +11,8 @@ categories: [StubPages, Game, Locations]
 ## Description
 
 Battle Royale is a gamemode which takes place on Kingmaker's Isle in the Open Sea in which players spawn as freshies and jump onto the isle from off the [Floating Keep](The_Floating_Keep.md) to gather loot, talents, mantras, and more and fight to be the last pair/person standing and obtain the most points.
+
+There is no rewards or losses possible in Battle Royale mode
 
 ## Mechanics
 

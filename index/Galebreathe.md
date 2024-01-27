@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 87166
+revid: 87330
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -221,7 +221,7 @@ _Grab your target and toss them with the power of gale._
 -   Procs "Breathing Impact" if thrown at a wall.
 -   Applies knockback.
     -   Requires more testing.
--   Can be upgraded with the "_Skull Crusher_" Talent.
+-   The "Skull Crusher" talent is now innate with this mantra.
 
  |
 |  | 

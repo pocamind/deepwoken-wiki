@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 72978
+revid: 87269
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs]
@@ -28,4 +28,4 @@ Kana is an interactable NPC located in [Fort Merit](Fort_Merit.md). She is stand
 -   The Ball that Kana uses used to be blue, although it has been changed to become yellow to match the current [Thundercall](Thundercall.md).
 -   It was confirmed by Arch\_Mage on 04/09/2022 that Kana is cut content.
     -   Despite this, she is still in the game unlike her colleagues: Kiternon, Gartoth and [Commander Rayner](Commander_Rayner.md).
--   Kana's hair can be found here: [https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde](https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde)
+-   Kana's hair can be found here: [https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns](https://www.roblox.com/catalog/4101494205/Platinum-Messy-Buns)

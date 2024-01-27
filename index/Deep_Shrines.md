@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 86910
+revid: 87273
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -77,7 +77,7 @@ Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's 
 ## Benefits/Penalties
 
 -   **(BENEFIT)** You can move around your traits, for example, if you pick Songchant, it will remove 1 point from Songchant, and give you the option to put it into another trait, like Vitality.
--   **(PENALTY)** Lose 5 knowledge.
+-   **(PENALTY)** Lose 1 knowledge.
 
 ## Pros/Cons
 

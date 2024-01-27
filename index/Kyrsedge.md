@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 80774
+revid: 87280
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -13,12 +13,12 @@ categories: [Weapons, Daggers]
 | type | Light Dagger |
 | requirements | 75 LHT |
 | damage | 13 |
-| scaling | 9 LHT |
+| scaling | 8.5 LHT |
 | range | 6.5 |
 | swing speed | 0.98x |
 | endlag | 0.05s |
 | penetration | 30% |
-| chip damage | ? |
+| chip damage | 15% |
 | special effect | ? |
 | weight | 4 |
 | bankable | Yes |
@@ -40,4 +40,4 @@ The Kyrsedge is a [Light Weapon](Weapons.md) under the Dagger category obtained 
 
 -   Apart of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md)).
 -   Seems to be paired with Kyrstear.
--   At 75 LHT Weapons, it deals 21.78. Deals 24.7 at 100 LHT.
+-   Deals 23.77 damage at 100 LHT and 6 Proficiency.

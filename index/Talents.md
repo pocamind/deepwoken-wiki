@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87248
+revid: 87283
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -956,9 +956,6 @@ _**"I dance with the flames."**_
 -   Inhale \[Galebreathe Exclusive\] - [Cancelling a wind spell](Combat_Mechanics.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra. While also gaining a speed boost after a successful inhale. (+1 Elemental Intensity)
     -   Prerequisites: 50 Galebreathe, Breathing Impact
     -   Speed boost has a 2 second cooldown.
-
--   _Skull Crusher_ \[Rare Talent, Galebreathe Exclusive\] - Pressing F during Champion's Whirlthrow will toss your opponent straight down. (+6 carry load)
-    -   Prerequisites: Champion's Whirlthrow, 30 Strength and 50 Galebreathe
 
 ### Genius Intellect
 

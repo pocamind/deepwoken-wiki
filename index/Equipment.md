@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 85255
+revid: 87319
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -4647,7 +4647,8 @@ Poser’s Ring
 
 Damage dealt with a Katana isn't received until the user sheathes their weapon.  
 
-Stuns the opponent upon a successful damaging sheathe.
+Stuns the opponent upon a successful damaging sheathe.  
+1 Rare Pip
 
  | 
 
