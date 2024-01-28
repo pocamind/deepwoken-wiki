@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 87483
+revid: 87544
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mantras, Character, Attunement, Mechanics]
@@ -102,5 +102,5 @@ kick.
 
 ## Trivia
 
--   Tempest Blitz was the first hybrid mantra introduced into the game on 12/19/2023
+-   Tempest Blitz was the first hybrid mantra introduced into the game on 12/19/2023.
 -   Upon its release Permafrost Prison was incredibly powerful and had to quickly be nerfed causing it to be one of the quickest and harshest nerfs towards any mantra.

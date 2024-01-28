@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 86273
+revid: 87576
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -17,9 +17,9 @@ LocationL Viper's Jaw LocationR
 
 ## Overview
 
-Viper's Jaw is a cave found underneath Lower Erisia. A Legion camp is settled here, You can learn [Legion Kata](Legion_Kata.md) by giving Legion Captain’s Recommendation to the NPC named [Amara.](Amara.md)
+The Viper's Jaw is the general name of the [Lower Erisia](Lower_Erisia.md) cave system.
 
-The entrance can be found just past the Bandit village or underneath [The Birdcage](The_Birdcage.md).
+It is divided into two parts. One entrance is behind the bandit village, where [Megalodaunts](Megalodaunt.md) will be generated spawn; the other entrance is on the side of the bandit village. There are many [ores](Ores.md) inside, and there is a Library plays an important role in [intelligence unbound](Attributes_Unbound.md). A Legion camp is also settled here, You can learn [Legion Kata](Legion_Kata.md) by giving Legion Captain’s Recommendation to the NPC named [Amara.](Amara.md)
 
 ## Contents
 
@@ -27,15 +27,15 @@ The entrance can be found just past the Bandit village or underneath [The Birdca
 
 ## Potential Events
 
--   Legion vs The Central Authority
+-   [Legion Soldiers](Legion_Soldier.md) vs [Authority Officers](Authority_Officer.md)
 -   [Deep Owl](Deep_Owl.md)
 -   [Megalodaunt](Megalodaunt.md)
 -   [Terrapod](Terrapod.md)
--   Etrea vs The Central Authority
+-   Authority patrol
 -   [Bandit](Bandit.md) Camp
--   Knives of Eylis along with a Navaen Hostage
+-   [Knives of Eylis](The_Knives_of_Eylis.md) along with a Navaen Hostage
 -   [Hobo](Hobo.md)
--   Pathfinder Camp
+-   [Pathfinder](Pathfinder.md) Camp
 
 ## Maps
 

@@ -1,6 +1,6 @@
 ---
 title: Instruments
-revid: 87190
+revid: 87578
 source: https://deepwoken.fandom.com/wiki/Instruments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -17,7 +17,7 @@ Instruments can be purchased, for each, at:
 -   [Etris](Etris.md) inside the [Antiquarian](Antiquarian.md)'s store.
 -   [Isle of Vigils](Isle_of_Vigils.md) inside the Inn.
 -   [Castle Light](Castle_Light.md) near the campfire.
--   [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip.
+-   [Miner's Landing](<Miner's_Landing.md>) under a ladder in a room to the left of Parsnip and in the Pub (Why are there 2?).
 -   [Greathive Aratel](Greathive_Aratel.md) in the observatory.
 
 If you are near another player, the prompt to play a song now adds Play Along, syncing your instrument with theirs. You can only play along with songs you currently have.

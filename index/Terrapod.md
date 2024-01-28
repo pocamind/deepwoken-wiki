@@ -1,9 +1,9 @@
 ---
 title: Terrapod
-revid: 84525
+revid: 87554
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Pages with broken file links, Monsters]
 ---
 
 # Terrapod
@@ -33,11 +33,22 @@ It struggles with reaching high places due to not being able to jump very high. 
 
 ## **Moves**
 
-| Name |  | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **Quick Slash** | The Terrapod does a singular slice at its opponent and then quickly retreats. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | ◯ | ◯ | ◯ | (★★☆) |
-| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times. | ◯ | ◯ | ◯ | (★★★) |
+| Name |  | GIFs | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Quick Slash** | The Terrapod does a singular slice at its opponent and then quickly retreats. | 
+File:1 swing.gif
+
+ | ◯ | ◯ | ◯ | (★☆☆) |
+| **Triple Slash** | The Terrapod attacks three times in a row, similar to Relentless Strikes but much shorter. | 
+
+File:Headcrab 3 swings.gif
+
+ | ◯ | ◯ | ◯ | (★★☆) |
+| **Relentless Strikes** | The Terrapod begins slashing in front of itself for several seconds while moving towards it's victim. In total, the Terrapod slashes 10 times. | 
+
+File:A lot of swings (online-video-cutter.com).gif
+
+ | ◯ | ◯ | ◯ | (★★★) |
 
 **Crimson:**
 

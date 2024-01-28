@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt
-revid: 87012
+revid: 87565
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Monsters, Ambush Enemies]
+categories: [Pages with broken file links, OutdatedPages, Monsters, Ambush Enemies]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -40,8 +40,8 @@ In addition to be found wandering around various places or loitering around in s
 
 ## **Attacks**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name | Description | GIF | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 Slash
 
@@ -50,6 +50,8 @@ Slash
 -   Heavy posture damage. Will commonly block break after two hits.
 -   If the Megalodaunt slashes 2 times in a row, it will have a short period where it doesn't attack, letting you hit it 3 times with MED or LHT or 2 times with HVY. This attack chain never occurs twice in a row.
     -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
+
+ | 
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -65,12 +67,9 @@ Kick
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
+ | 
+
  | ✗ | ◯ | ◯ | (★★☆) |
-| 
-
-Jump
-
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used to catch up to players attempting to retreat from it by using height to their advantage. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Thousand Needles
@@ -79,6 +78,8 @@ Thousand Needles
 
 -   Easily parryable.
 -   There is a shorter ranged AOE version and a longer range, individual target version. Both function the same.
+
+ | 
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -89,6 +90,8 @@ Roar
 
 -   Blocking negates much of but not all the insanity gain.
 -   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
+
+ | 
 
  | ✗ | ◯ | ◯ | (★★☆) |
 
@@ -112,8 +115,8 @@ They are a significantly rarer sight, and are only found in selected locations a
 
 ## **Attacks**
 
-| Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
+| Name | Description | GIF | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 Slash
 
@@ -122,6 +125,10 @@ Slash
 -   Heavy posture damage.
 -   If the Crimson Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
 -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
+
+ | 
+
+File:12380435ffcad9ab148cc4efc0d2431d.gif
 
  | ◯ | ◯ | ◯ | (★☆☆) |
 | 
@@ -135,12 +142,11 @@ Kick
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
+ | 
+
+File:5cf51f97715cb446694e04e182b80cde.gif
+
  | ✗ | ✗ | ◯ | (★★★) |
-| 
-
-Jump
-
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after Kick. | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Thousand Needles
@@ -148,6 +154,10 @@ Thousand Needles
  | The Crimson Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
 -   There is a shorter ranged AOE version and a single target version. Both function the same.
+
+ | 
+
+File:B55204dfa9965dc0a031810bc2fd80e9.gif
 
  | ◯ | ◯ | ✗ | (★☆☆) |
 | 
@@ -158,22 +168,20 @@ Tacet Hug
 
 -   **Autogrips**
 
+ | 
+
+File:45ff19cd1d3ec14a54164a391764943e.gif
+
  | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-Roar
-
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). Not very dangerous unless you have Manic as it can cause a player to succumb to insanity during combat.
-
--   Blocking negates much of but not all the insanity gain.
--   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
-
- | ✗ | ◯ | ◯ | (★★☆) |
 | 
 
 Pyroclastic Roar
 
- | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict damage and set the player on fire. | ◯ | ◯ | ◯ | (★☆☆) |
+ | Similar to the standard **Roar**, but the rings surrounding the Megalodaunt are colored orange. Additionally, the roar also summons flaming swords from the sky that inflict damage and set the player on fire. | 
+
+File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
+
+ | ◯ | ◯ | ◯ | (★★☆) |
 
 ## **Finisher**
 
@@ -223,11 +231,6 @@ Kick
 -   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
 
  |  | ✗ | ✗ | ◯ | (★★★) |
-| 
-
-Jump
-
- | If the target is above it, the Megalodaunt will **Jump** at the direction of it's opponent, causing a multi-hit attack in a wide radius in front of it. Often used after kick. |  | ◯ | ◯ | ◯ | (★★☆) |
 | 
 
 Thousand Needles

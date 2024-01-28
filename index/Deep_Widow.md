@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 85490
+revid: 87571
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,17 +22,23 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
 ## Attacks
 
-| Name | Description | Parry-able | Danger |
-| --- | --- | --- | --- |
+| Name | Description | GIF | Parry-able | Danger |
+| --- | --- | --- | --- | --- |
 | **Deep Webbing** | The Widow spits webs onto her target, inflicting insanity and a new webby look onto them for a short duration. The more webs a player has, the slower they are. | 
+ | 
+
 ✗
 
  | (★★☆) |
 | **Venomous Bite** | The Widow delivers a crushing bite onto the victim, dealing moderate damage and inflict a lingering poison that damages over time.
 
+**This move will auto-grip if it hits you while knocked or at low health.**
+
+ | 
+
   
 
-**This move will auto-grip if it hits you while knocked or at low health.**
+  
 
  | 
 
@@ -41,15 +47,21 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
  | (★★★) |
 | **Swipe** | The Widow slashes using her right leg with long charge, dealing moderate slashing damage. | 
 
+ | 
+
 ◯
 
  | (★☆☆) |
 | **Impale** | The Widow lunges with both of her legs, dealing moderate damage. | 
 
+ | 
+
 ◯
 
  | (★☆☆) |
 | **Articulated Thrash** | The Widow charges up her leg and slashes her target three times in succession. | 
+
+ | 
 
 ◯
 
