@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 87094
+revid: 87504
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Thresher
 
-“ ..It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
+“ \[...\] It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
 
 ― Thresher Spine Description
 

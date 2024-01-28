@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 86468
+revid: 87503
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,7 @@ categories: [Monsters]
 
 # Lionfish
 
-“ ..The fossil record suggests that they may have been responsible for the extinction of many predatory fish species, completely outcompeting them and dwarfing them in size. ”
+“ \[...\] The fossil record suggests that they may have been responsible for the extinction of many predatory fish species, completely outcompeting them and dwarfing them in size. ”
 
 ― Lionfish Scale Description
 

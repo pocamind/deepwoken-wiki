@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 87328
+revid: 87515
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -94,6 +94,7 @@ _An icy chokehold._
 -   Deals moderate damage.
 -   If damage is enough to reduce opponent's health to 0, Instantly kills upon posture break.
 -   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground.
+-   Applies chill with logstones (max of one eternal or two aeon logstones)
 
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | 
@@ -179,7 +180,7 @@ _Chains of ice._
  | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
 
 -   Inflicts Chill.
--   Can be modified with both [Aeon & Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
+-   Can be modified with both [Aeon & Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing. (also increases chill duration up to one eternal or two aeon logstones)
 
  |
 | 
@@ -216,7 +217,7 @@ _Conjure and throw weapons of ice._
 
 -   Casting Ice Forge on Ice will summon more ice shuriken's. (currently bugged)
 -   Rapidly deals light damage.
--   Inflicts Chill.
+-   Inflicts Chill. (can be increased with a cap of one eternal or 2 aeon logstones)
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
@@ -234,6 +235,7 @@ _A colossal mace of ice._
 -   Breaks block at mantra level 5.
 -   Inflicts Chill.
 -   Can break objects.
+-   Can be modified for more chill duration with one eternal or two aeon logstones.
 
  |
 |  | 
@@ -251,6 +253,7 @@ _Form an ice spear and lunges forward._
 -   Deals moderate damage.
 -   User gains considerable forward momentum on use.
 -   Sometimes used in conjunction with Glacial Arc to fling the player skywards.
+-   Applies chill on the second hit (Shatter spear) if you add logstones (max of one eternal or two aeon logstones)
 
  |
 |  | 
@@ -299,7 +302,7 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 -   Compatible with a Multiplying Spark to instead send them one by one.
 -   Deals moderate damage.
 -   Has a good amount of range.
--   Inflicts Chill.
+-   Inflicts mediocre Chill. (0.2s)
 
  |
 |  | 
@@ -316,7 +319,7 @@ _Send ice rippling out in a shockwave._
 -   Up to three Obelisks can be active at any time.
 -   Recasting this Mantra near an active Obelisk causes it and all others placed to explode.
 -   Summons wherever your mouse is pointed, at a range.
--   Creating an Obelisk on top of someone will stun them for ten seconds.
+-   Creating an Obelisk on top of someone will stun them for ten seconds. (Applies a LONG chill effect)
 
  |
 

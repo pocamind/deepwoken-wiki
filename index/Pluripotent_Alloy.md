@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 87175
+revid: 87496
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -57,6 +57,7 @@ To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip 
 -   [Vigil Longsword](Vigil_Longsword.md)
 -   [Gremorian Longspear](Gremorian_Longspear.md)
 -   [Trident Spear](Trident_Spear.md)
+-   Katana
 
 ### Heavy Weapons
 

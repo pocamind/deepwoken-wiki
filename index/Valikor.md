@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 80388
+revid: 87509
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -21,11 +21,9 @@ categories: [NPCs]
 
 Valikor is an NPC that can be found in the [Isle of Vigils](Isle_of_Vigils.md) Library. He appears to be an elder [Etrean](Etrean.md) that's a member of Etris's Royal Guard, despite being old enough to retire from the Royal Guard and live comfortably. The reason as to why he is old because back then, in early closed testing for Deepwoken, you said the names of the mantras you casted.
 
-You can get the [Spell Shout](Valikor.md) talent by talking to him.
+You can get the [Spell Shout](Valikor.md) Talent by talking to him.
 
-**TYPE "/e shout" TO DISABLE SPELL SHOUTING (This is out dated)**
-
-Go to settings in order to disable Spell Shouting. (Not Roblox Settings)
+If you wish to turn it off, go to settings in order to disable Spell Shouting.
 
 ## Dialogue
 

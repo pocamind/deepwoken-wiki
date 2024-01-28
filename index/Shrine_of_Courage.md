@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 87392
+revid: 87502
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]
@@ -24,7 +24,7 @@ You will have to fight an [Enforcer](Enforcer.md) if you have activated the shri
 
 If you are power 10 or over:
 
-The Trial will have: Bonekeepers, Fury Nautilodaunts, or a King Thresher.
+The Trial will have a: Bonekeeper, Fury Nautilodaunt, or King Thresher.
 
 If you are power ??? or over
 
