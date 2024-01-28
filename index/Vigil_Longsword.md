@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 86609
+revid: 87533
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -19,6 +19,7 @@ notices:
 | range | 8 |
 | swing speed | 0.75x |
 | penetration | N/A |
+| selling price | 15 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
@@ -36,25 +37,22 @@ notices:
 | range | 8 |
 | swing speed | 0.75x |
 | penetration | 10% |
+| selling price | ??? |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Main source:, Using a Pluripotent Alloy on oneChests from:, Chime of Conflict, Voidwalkers |
+| obtainment | Main source:, Using a Pluripotent Alloy on oneChests from:, Chime of Conflict chests, Voidwalker chests |
 | description | Despite the popularity of the Katana, the Vigil Longsword represents Etrea's need for more cost-efficient production processes in blades. Regarded as an equally fine blade, nonetheless. |
 
 **Base:**
 
-## Description
-
-The Vigil Longsword is a [medium weapon](Weapons.md#medium-weapons) with a requirement of 40 MED, it is obtained through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Miner's Landing](<Miner's_Landing.md>) and the [First Layer](First_Layer.md), along with typical medium weapon range and is balanced across all attributes, becoming a very effective mid-tier weapon.
-
-## Trivia
-
 **Alloyed:**
 
 ## Description
+
+The Vigil Longsword is a [medium weapon](Weapons.md#medium-weapons) with a requirement of 40 MED, it is obtained through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [Miner's Landing](<Miner's_Landing.md>) and the [First Layer](First_Layer.md), along with typical medium weapon range and is balanced across all attributes, becoming a very effective mid-tier weapon.
 
 With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords are equal to, if not better than the [Shattered Katana](Shattered_Katana.md) making it an easy endgame weapon to acquire if you have a [Pluripotent Alloy](Pluripotent_Alloy.md).
 

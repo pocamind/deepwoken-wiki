@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 86556
+revid: 87540
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -16,12 +16,13 @@ categories: [Weapons, Greataxes]
 | scaling | 7 |
 | range | 8 |
 | swing speed | 0.62x |
+| selling price | 25 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Chili |
+| obtainment | Lower Erisia, Minityrsa, Songseeker Wilds, The Monkey's Paw, Chili |
 | description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
 | Alloyed Canorian Axe | |
@@ -34,12 +35,13 @@ categories: [Weapons, Greataxes]
 | swing speed | 0.62x |
 | penetration | 20% |
 | chip damage | 10% |
+| selling price | 50 |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Pluripotent Alloy |
+| obtainment | Use a Pluripotent Alloy on the base weapon |
 | description | An axe much like the ones once wielded by the Canor Swornfangs, loyal protectors of the early Adretian Empire. |
 
 **Base:**

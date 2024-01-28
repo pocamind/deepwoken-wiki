@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 80644
+revid: 87539
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -23,7 +23,7 @@ categories: [Weapons, Spears]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | The Depths, Summer Isle, Minityrsa, Primadon, Nyanna, Upper Erisia, Fishing, Deep Widow, Miner's Landing |
-| description | "A surprisingly effective weapon despite its previous use by fishermen." |
+| description | A surprisingly effective weapon despite its previous use by fishermen. |
 
 | Alloyed Trident Spear | |
 |---|---|
@@ -32,15 +32,15 @@ categories: [Weapons, Spears]
 | damage | 19 |
 | scaling | 7 |
 | range | 9 |
-| swing speed | 0.69 |
+| swing speed | 0.69x |
 | penetration | 25% |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Use a pluripotent Alloy, Chime of Conflict |
-| description | "A surprisingly effective weapon despite its previous use by fishermen." |
+| obtainment | Use a pluripotent Alloy on base weapon, Chime of Conflict |
+| description | A surprisingly effective weapon despite its previous use by fishermen. |
 
 **Base:**
 

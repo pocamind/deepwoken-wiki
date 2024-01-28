@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 87469
+revid: 87538
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -16,26 +16,50 @@ categories: [Weapons, Swords, Katanas]
 | scaling | 6 |
 | range | 8 |
 | swing speed | 0.75x |
-| penetration | 0% |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Obtained from chests found in Minityrsa, Songseeker Wilds, Merchant ships, and The Depths. |
-| description | "An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map." |
+| obtainment | Minityrsa chests, Merchant Ships, The Depths |
+| description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
+
+| Alloyed Katana | |
+|---|---|
+| type | Medium Sword |
+| requirements | 75 MED |
+| damage | 20 |
+| scaling | 7 |
+| range | 8 |
+| swing speed | 0.75x |
+| penetration | 10% |
+| chip damage | 10% |
+| weight | 6 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Using Pluripotent Alloy on the base weapon |
+| description | ??? |
+
+**Base:**
+
+**Alloyed:**
 
 ## Description
 
-The Katana is a Medium Weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md) and [Primadon](Primadon,_Titan_of_the_East.md). Additionally, it drops from [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) at an uncommon rate and can be bought from [Chili](Travelling_Merchant.md) for around 90 notes. It has a base damage of 18 and requires 25 MED to equip. Its damage is increased by 25% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#vigil)_.
+The Katana is a Medium Weapon that can be obtained from chests found in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Depths](The_Depths.md) and [Primadon](Primadon,_Titan_of_the_East.md). Additionally, it drops from [Etrean Royal Guard](<Etrean_Royal_Guard_(Enemy).md>) at an uncommon rate and can be bought from [Chili](Travelling_Merchant.md) for around 90 notes. It has a base damage of 18 and requires 25 MED to equip. Its damage is increased by 25% (5% when Alloyed) when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#vigil)_.
 
 When paired with the Poser's Ring, the damage of its M1s and critical will be suspended until it is sheathed, at which point all of that damage is inflicted at once.
-
-When [alloyed](Pluripotent_Alloy.md), its damage and scaling increases to 20 and 7 respectively, and it gains 10% chip damage and 10% PEN. _[Paired Soul](Talents.md#vigil)_ only give +5% damage when the katana is alloyed as it brings it closer to the Shattered Katana. Alloyed Katana is meant to be used over the Shattered Katana if you want to keep the normal katana crit when 2 handing it.
 
 ## Critical
 
 The user sheaths their katana before lunging forward and slashing horizontally. This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
+
+## Notes
+
+-   [Paired Soul](Talents.md#vigil) only gives a +5% damage buff with the Alloyed Katana to bring it closer to the [Shattered Katana](Shattered_Katana.md).
+-   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana crit when 2 handing.
 
 ## Trivia
 

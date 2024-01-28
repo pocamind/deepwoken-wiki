@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 86643
+revid: 87541
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -22,7 +22,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia (Chests), The Depths (Chests), Blacksteel Pirate (Chests) |
+| obtainment | Erisia, The Depths, Blacksteel Pirate |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
 | Alloyed Halberd | |
@@ -40,7 +40,7 @@ categories: [Weapons, Greataxes]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Pluripotent Alloy, The Depths (Chests), Chime of Conflict (Chests) |
+| obtainment | Using a Pluripotent Alloy on base weapon, The Depths, Chime of Conflict |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
 **Base:**
@@ -58,4 +58,3 @@ The user runs forward before performing a 360° slash. The Halberd's critical co
 ## Trivia
 
 -   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from _Dark Souls III_.
--   Does 37 dmg at 100 Heavy.

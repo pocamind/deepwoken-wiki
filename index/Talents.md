@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87486
+revid: 87543
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -33,7 +33,7 @@ There are certain Talents that you receive automatically upon meeting their requ
 A handful amount of Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
 -   A high enough [Core Attribute](Attributes.md), whether it be strength, fortitude, agility, intelligence, willpower, or charisma.
-    -   For example: Overflowing Dam requires 40 INT as a prerequisite.
+    -   For example: Overflowing Dam requires 40 INT as a prerequisite.y
 
 -   A certain Talent in a certain category.
     -   For example: Picking a mentaI fortress card will make you more likely to pull another mentaI fortress talent in your next set of talents.
@@ -503,7 +503,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Cosmic Wind
 
-_**"I seek the qualities of Cosmic Wind."**_
+> _**"I seek the qualities of Cosmic Wind."**_
 
 -   Pressure Detonation \[Common Talent, Dual Attunement\] - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
     -   Prerequisite: 40 Shadowcast, 60 Galebreathe
@@ -2106,9 +2106,8 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _**Another Man's Trash**_ \[Advanced Talent\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief talents
     -   Cap Artist requires 25 Agility despite the 10 Agility requirement of this Talent.
-    -   ~If the player you are mugging doesn't have any notes, you will stop taking unequipped equipment.~(TESTED) you still take equipment.
-    -   Does not take enchanted items
-    -   Using this on Arch\_Mage will permaban you from both the game and the Discord server.
+    -   If the player you are mugging doesn't have any notes, you will still take any unequipped equipment.
+    -   Does not take enchanted items.
 
 ### Thunder Brawler
 

@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 84023
+revid: 87534
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -16,12 +16,13 @@ categories: [Weapons, Swords]
 | scaling | 5 |
 | range | 8 |
 | swing speed | 0.73x |
+| selling price | 25 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Songseeker Wilds, Minityrsa and the Depths. |
+| obtainment | Songseeker Wilds, Minityrsa, First Layer |
 | description | A blade from Markor prized by warriors for its ability to effortlessly slip past the guards of foes. |
 
 | Alloyed Shotel | |
@@ -48,13 +49,11 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Shotel is a Medium Weapon. It has 22 Base Damage, 5 scaling and 20% chip damage (max damage is 33). It can be found through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [The Depths](The_Depths.md). This weapon **can** be alloyed, giving it a damascus steel-type texture and raising the stats to match late game tier weaponry.
+The Shotel is a Medium Weapon. It has 22 Base Damage, 5 scaling and 20% chip damage (max damage is 33). It can be found through chests in [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), and [The Depths](The_Depths.md). This weapon can be alloyed, giving it a damascus steel-type texture and raising the stats to match late game tier weaponry.
 
 ## Critical
 
 The user spins in a circle, then preforms a horizontal slash.
-
-  
 
 ## Trivia
 
