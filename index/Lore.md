@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 87115
+revid: 87491
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -345,6 +345,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Religious figure and Celestial.
 -   Worshiped by Polis, Alastir, and Pathfinders around the world.
+-   Related to Anklets of Alsin
 
 ### **Navae**
 

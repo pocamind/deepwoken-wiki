@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 87217
+revid: 87484
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -113,6 +113,14 @@ Ironsing provides the widest ranged Mantras in the game and the best damage outp
 -   Tunes in well with the Metal [enchantment](Enchantments.md), as the Metal [enchantment](Enchantments.md) gives you benefits depending on how much armor your opponent has.
 -   Applies metal rods, which can be used in different ways by the user who applied it, enabling different strategies and forms of combat.
 
+### [Hybrid Mantras](Hybrid_Abilities.md)
+
+Hybrid mantras are obtained upon reaching the required level in multiple attunement attributes, they provide unique opportunities to mix the capabilities of multiple elemental effects.
+
+-   Can provide powerful synergies between attunements allowing use of certain talents and paths in unique ways.
+-   Versatility due to their ability to inherit the effects of two attunement paths such as Surge and Wraith Path.
+-   Typically requires high investment into your attunement attributes.
+
 ### [Physical Mantras](Attunement-less.md)
 
 There are Mantras that are based off of Core Attributes, rather than your Attunement. This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
@@ -139,10 +147,6 @@ All Mantras gained from this are 2 stars and some have special effects, as Dread
 ### [Oath Mantras](Oaths.md)
 
 Mantras you obtained through your Oath. Although it lacks the trainers to help level your Oath's Mantras, its exclusive abilities and uniqueness makes up for it.
-
-### [Hybrid Mantras](Hybrid_Abilities.md)
-
-Mantras that are unlocked upon reaching a certain level in 2 seperate attunements.
 
 ## Mantra IDs
 

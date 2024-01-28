@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 87468
+revid: 87485
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Enemies that can wield Enchantments]
@@ -28,7 +28,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Nightmare Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the upper floor's halls.
+Nightmare Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the upper floor's halls or sometimes in the lower floors, replacing the normal Immortal Guardians.
 
 Immortal Guardians seem to wear what resembles [Arcwarder](Oath%253A_Arcwarder.md) armor, with a unique symbol located in their chest. Unlike the normal variant, the symbol and every glowing part turns red, raising their healthpool considerably while also seemingly increasing their tendency to parry attacks and wield [Enchanted](Enchantments.md) weapons.
 

@@ -1,6 +1,6 @@
 ---
 title: Ardour Manifestation
-revid: 86808
+revid: 87489
 source: https://deepwoken.fandom.com/wiki/Ardour_Manifestation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -12,7 +12,7 @@ categories: [Items]
 
 ― In game description
 
-**Doxy Viadinho** is a rare reward granted upon killing any bosses, even the [Dread Serpent](Dread_Serpent.md) themselves. **Upon use within the Voidsea, the [Dread Serpent](Dread_Serpent.md) will rise from the waters and combat with it shall ensue.**
+****Ardour Manifestation**** is a rare reward granted upon killing any bosses, even the [Dread Serpent](Dread_Serpent.md) themselves. **Upon use within the Voidsea, the [Dread Serpent](Dread_Serpent.md) will rise from the waters and combat with it shall ensue.**
 
 -   You can hold a max of four.
 -   You can still obtain an Ardour Manifestation while currently having a Murmur- including Ardour itself. _The only time this item is not granted is if you already own three of the item in your inventory._

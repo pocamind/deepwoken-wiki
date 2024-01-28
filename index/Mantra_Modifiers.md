@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 86459
+revid: 87487
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -1200,7 +1200,7 @@ Metal Kick
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Fire Blade
+Fire Blade (Incompatible as of January 27th, 2023, tested)
 
  | 
 
@@ -1213,7 +1213,7 @@ File:Fire Blade with Tornado Spark.gif
  | 
 
 -   Reduces Ether cost?
-    -   Might be or might not be broken as of the 1st of May 2022.
+    -   Might be or might not be broken as of the 1st of May 2022.(Confirmed incompatible by testing January 27th, 2023)
 
  |
 | 

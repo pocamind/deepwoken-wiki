@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 87463
+revid: 87492
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -30,7 +30,7 @@ File:Immortal HelmOnAPlayer.png
 
 The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category. The helmet of the [Immortal Guardians](Immortal_Guardian.md).
 
-Grants the [Talent](Talents.md) "Immortality", which grant knock prevention for 5 seconds when at 1% HP. 30 second cooldown.
+Grants the [Talent](Talents.md) "Immortality", which grant knock prevention for 1 hit when at 1% HP. Multi-hit attacks will knock you regardless. 30 second cooldown.
 
 ## Trivia
 

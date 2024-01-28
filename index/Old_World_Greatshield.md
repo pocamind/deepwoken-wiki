@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 85474
+revid: 87494
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -11,7 +11,7 @@ categories: [Weapons, Shields]
 | Old World Greatshield | |
 |---|---|
 | type | Shield |
-| requirements | 20 FTD |
+| requirements | 30 FTD |
 | damage | N/A |
 | scaling | N/A |
 | range | N/A |
@@ -22,7 +22,7 @@ categories: [Weapons, Shields]
 | special effect | N/A |
 | offhand | Offhand only |
 | selling price | 7 Notes |
-| weight | 4.5 Posture |
+| weight | 5 Posture |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -32,4 +32,4 @@ categories: [Weapons, Shields]
 
 ## Description
 
-The Old World Greatshield is a shield found in [Miner's Landing](<Miner's_Landing.md>) chests. It has 1.6 weight, and the requirement for the shield is 20 FTD. It has a black base color and a grey, ordained trim. In the middle of the shield is an engraved diamond connected to the sides by a bar, both the same color of the trim.
+The Old World Greatshield is a shield found in [Miner's Landing](<Miner's_Landing.md>) chests. It has 1.6 weight, and the requirement for the shield is 30 FTD. It has a black base color and a grey, ordained trim. In the middle of the shield is an engraved diamond connected to the sides by a bar, both the same color of the trim.
