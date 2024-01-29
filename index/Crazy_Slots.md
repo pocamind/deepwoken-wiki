@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 87247
+revid: 87662
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -40,6 +40,7 @@ If Crazy Slot is corrupted, it's cooldown is halved and the Divine Weapons will 
 When obtained, Crazy Slots will spend its points on the following stats.
 
 -   **Weapon roll Weight + Length:** The more points are spent on a weapon, the more likely it is to be obtained when using the resonance, along with its length.
+-   The lengh rolled into a weapon can be betwen 45 seconds to 1 minute and 45 seconds with differences of 15 seconds betwen varients such as rolling 1 minute on spear and 45 seconds on your dagger (unsure about corrupted max cap of time) for none corrupt its 7 minutes and 25 seconds that are spent across all weapons depending on your luck
 
 When spending its points, Crazy Slots will favor spending them toward weapons in which you have the highest weapon attribute stat.
 

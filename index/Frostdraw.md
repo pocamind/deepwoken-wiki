@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 87599
+revid: 87656
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -286,7 +286,7 @@ _Send forth a flock of ice_
 
  | 
 
--   N/A.
+-   Deals heavy damage
 -   N/A.
 
  |

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 87649
+revid: 87654
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -989,6 +989,8 @@ Frozen Servants
  | 
 
  | 
+
+File:FROZEN SERVANTS REVERSAL 2.gif
 
  | 
 

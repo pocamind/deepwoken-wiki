@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 87273
+revid: 87655
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -247,6 +247,7 @@ Located in [Trial of One](Trial_of_One.md) on the opposite wall of the entrance.
 -   The Shrine of Solitude is unique in that it:
     -   Is present in a dungeon.
     -   Has no visible "eyes".
+    -   Talks in lowercase, unlike all other shrines.
 
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
 -   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
