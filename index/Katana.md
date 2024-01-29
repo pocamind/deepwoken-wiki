@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 87538
+revid: 87620
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -40,7 +40,7 @@ categories: [Weapons, Swords, Katanas]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Using Pluripotent Alloy on the base weapon |
-| description | ??? |
+| description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
 
 **Base:**
 
@@ -66,4 +66,4 @@ The user sheaths their katana before lunging forward and slashing horizontally. 
 -   The [Blade Temple Guards](Blade_Temple_Guard.md) on the [Isle of Vigils](Isle_of_Vigils.md) use Katanas.
 -   It is one of two weapons that comes with a scabbard, the other being the [Shattered Katana](Shattered_Katana.md).
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.
-    -   His katana simply floats behind him. This is more-than-likely just an oversight in his model.
+    -   His katana simply floats behind him. This is canon.

@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 84550
+revid: 87615
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -52,8 +52,9 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Whaler Coat](Whaler_Coat.md) (200 )
 -   [Pathfinder Sorcerer](Pathfinder_Arch-Sorcerer.md) (200 )
 -   [Flame Worshipper](Flame_Worshipper_Armor.md) (80 )
--   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) (200)
+-   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) (200 )
 -   [Cloak of Winds](Cloak_of_Winds.md) ( )
+-   [Prophets Cloak](<Prophet's_Cloak.md>) (200 )
 
   
 
@@ -62,4 +63,3 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   You can check her wares, log and wait an hour or more to try to get a specific weapon or armor.
 -   Nyanna's name likely comes from the Japanese word for meow: '"Nyan"'.
 -   Nyanna's hair can be found here: [https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde](https://www.roblox.com/catalog/6875093956/Large-curly-messy-buns-in-blonde)
--   Armor schematics are currently broken for Nyanna, so you'll have to wait until she sells weapons.

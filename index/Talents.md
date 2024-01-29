@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 87543
+revid: 87616
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits]
@@ -2387,7 +2387,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 20 Strength, 5 Agility
 
 -   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: Unbound Element or Weapon
+    -   Prerequisite: Unbound Element or Weapon, or Kill Chaser.
 
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   Grants you the ability to equip an offhand while one-handing
@@ -2575,7 +2575,7 @@ File:Thresherquest1.png
 
 ### Mercy Kill
 
--   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat. (May also be unlocked by Unbounding just any stat)
+-   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat, or by Defeating Chaser.
 -   This talent lets you instagrip enemies weaker than you with a swing.
 
 ## Outfit Talents
@@ -2599,7 +2599,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Looter: [Experienced Adventurer](Experienced_Adventurer.md) - Get extra loot from items you turn in for rewards.
 -   Lowstride: [Hive Drone](Hive_Drone.md), [Shadow Hunter](Shadow_Hunter.md), other outfits - Increases stealth.
     -   Also available as a common talent.
--   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md) and [Alloyed Katana](Katana.md)_ damage by 5%.
+-   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) or [Royal Etrean Guard](Royal_Etrean_Guard.md) - Increases _[Katana](Katana.md)_ damage by 25% and _[Shattered Katana](Shattered_Katana.md) and [Alloyed Katana](Katana.md#alloyed)_ damage by 5%.
 -   Riot Breaker: [Authority Commander](Authority_Commander.md) - You receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) or [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 10% more damage. (+3 Passive Agility)
