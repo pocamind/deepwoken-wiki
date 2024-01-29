@@ -1,6 +1,6 @@
 ---
 title: "Hunter's Brace"
-revid: 83576
+revid: 87587
 source: https://deepwoken.fandom.com/wiki/Hunter's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -10,10 +10,9 @@ categories: [Equipment, Arms, Braces]
 
 | Hunter's Brace | |
 |---|---|
-| type | Arms |
+| type | N/A |
 | rarity | ??? |
 | requirements | N/A |
-| weight | 2 |
 | innate stats | N/A |
 | innate talent | N/A |
 | bankable | Yes |
@@ -25,7 +24,7 @@ categories: [Equipment, Arms, Braces]
 
 ## Description
 
-The Hunter's Brace is an [Equipment](Equipment.md) item under the "Arms" category. It can be purchased on the first floor of the castle on [Summer Isle](Summer_Isle.md). It allows you to parry attacks that can only be dodged including [Megalodaunt](Megalodaunt.md) Kick, [Thresher](Thresher.md) Burrow, as well as other unparryable attacks.
+this item is a uilitity It can be purchased on the first floor of the castle on [Summer Isle](Summer_Isle.md). It allows you to parry attacks that can only be dodged including [Megalodaunt](Megalodaunt.md) Kick, [Thresher](Thresher.md) Burrow, as well as other unparryable attacks.
 
 ## Trivia
 

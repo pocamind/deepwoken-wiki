@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 85399
+revid: 87604
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -60,7 +60,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Treefelling Blow:**
 
-**Quest Location**: Erisia
+**Quest Location**: Etris and Isle of Vigils
 
 **Guide**: Talk to the NPC that gives you the Lumber Axe at Etris with Strong Left. They will be utterly flabbergasted at your idea but you will have to use either Strong Left or Eclipse Kick to knock 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands. Keep in mind that you need to have Strong Left to initiate the quest, but it can be completed using Eclipse Kick.
 
@@ -274,7 +274,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
 
-**War Crimes, probably:**
+**Navae's Retribution:**
 
 **Quest Location**: Meteor Isle
 

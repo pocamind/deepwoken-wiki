@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 87515
+revid: 87599
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -269,6 +269,25 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
 -   Doesn't apply chill (may be a bug)
 -   Deals moderate damage
+
+ |
+| 
+
+File:Frost Flock.gif
+
+ | 
+
+Ice Flock  
+(★★☆)
+
+ | 
+
+_Send forth a flock of ice_
+
+ | 
+
+-   N/A.
+-   N/A.
 
  |
 | 
@@ -1016,7 +1035,6 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
--   (Delete this after references is fixed, my bad.)
 
 ## Navigation
 

@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 87554
+revid: 87588
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -90,7 +90,3 @@ Crimson Terrapods are similar to their purple counterparts but are dyed a crimso
     -   One near the entrance of The Garden Reservoir
     -   One in front of the ruins near the Legendary Boot
     -   One sitting under a tree behind the Bandit Camp
-
-## Trivia
-
--   The Terrapod is actually a turtle, despite all features suggesting that it may be a crab.
