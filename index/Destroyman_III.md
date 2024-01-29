@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 87624
+revid: 87635
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -174,7 +174,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
     -   He's escaped both into the real and overworlds, nowhere is safe.
 -   The tooltip “I’m smart, you’re dumb; I’m big, you're little; I’m right, you're wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name and is said by the one and only; our lord and saviour Danny Devito.
--   ~The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman III apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath.~ Destroyman III is never wrong.
+-   The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman III apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath.
     -   This was later corrected to say seventh.
 -   He is based on a sticker in the discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy), a freeware application of the time that was considered to be adware.
@@ -200,5 +200,5 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
 -   Deepwoken partnered with Makeship in order to craft for Destroyman a vessel in the form of the [Sharko Plush](https://www.makeship.com/products/sharko-plush).
-    -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repurcussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ False information, I, Destroyman III, can solo every Drowned God at once.
+    -   The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repurcussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).

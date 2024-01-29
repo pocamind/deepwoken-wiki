@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 87611
+revid: 87649
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -774,7 +774,17 @@ Needle Barrage
 -   This modifier causes the Needle Barrage mantra to fire more needles, but removing the initial jump. This version of the mantra also keeps your momentum.
 
  |
-| Frozen Servants |  |  | 
+| 
+
+Frozen Servants
+
+ | 
+
+ | 
+
+File:Frozen servants blast.gif
+
+ | 
 
 -   This modifier changes the circular formation of Frozen Servants, instead making you summon one gigantic Frozen servant that fires out a cone of frost.
 
