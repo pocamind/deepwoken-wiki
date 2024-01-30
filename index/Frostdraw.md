@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 87725
+revid: 87746
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -274,8 +274,6 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
  |
 | 
-
-File:Frost Flock.gif
 
  | 
 

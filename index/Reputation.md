@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 87514
+revid: 87734
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -31,15 +31,14 @@ Certain aspects of the game, such as certain NPCs dialogues or certain quests, r
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
 | Hero | 300 |  |
-| Ally | 150 to 299 | NPCs that belong to a faction you are an Ally (or greater) with can be buffed by you.
-Buffs can include; Reinforce, Charm, Overcharm, etc.
-
- |
+| Ally | 150 to 299 | NPCs that belong to a faction you are an Ally (or greater) now count as allies to you, allowing them to benefit from "on allies" effect, such as buffs or talent effects. |
 | Friend | 1 to 149 |  |
 | Neutral | 0 | N/A |
 | Enemy | ⁣-149 to -1 | NPCs tied to the relevant faction will attack on sight, including town guards.  
-Player will appear on bounty boards (starting from power 5) and if the player is enemies with Etrea, the Authority, the Hive, the Ignition Union, and/or the Summer Company, they can be hunted down by Voidwalkers regardless if the player has good reputation with the Knives of Eylis or not.  
-Player loses the ability to talk to certain faction tied NPCs, primarily Blacksmiths and Antiquarians. |
+Player will appear on bounty boards (starting from power 5) and if the player is enemies any of these factions, they can be hunted down by Voidwalkers.
+Player loses the ability to talk to certain faction tied NPCs, primarily Blacksmiths and Antiquarians.
+
+ |
 | Hunted | ⁣-150 to -299 | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
 | Villain | ⁣-300 | Player cannot pay the Bribe NPCs to reset their reputation. |
 
@@ -84,41 +83,9 @@ File:Screenshot 2021-12-24 222420.jpg
 
  | 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 File:EtreaSymbol.png
 
 [The Kingdom of Etrea](Etrea.md)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
  | Outside a house in the area above the Etris Antiquarian and near The Barber. |
 | 
@@ -127,33 +94,9 @@ File:Screenshot 2021-12-24 221619.jpg
 
  | 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 File:SummerCompanySymbol.png
 
 [Summer Company](The_Summer_Company.md)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
  | Leaning by the archway reached by going across a series of bridges behind the Summer Isle Castle. |
 | 
@@ -162,33 +105,9 @@ File:Zirik.png
 
  | 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 File:HiveSymbol.png
 
 [The Hive](The_Hive.md)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
  | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
 | 
@@ -197,33 +116,9 @@ File:Rashet.png
 
  | 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 File:AuthoritySymbol.png
 
 [The Central Authority](The_Central_Authority.md)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
  | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
 | 
@@ -232,41 +127,9 @@ File:Gudrin.png
 
  | 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 File:DiversSymbol.png
 
 [The Divers](The_Divers.md)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
  | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
 | 
@@ -275,37 +138,9 @@ File:IgnitionUnionRepReset.png
 
  | 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 File:Ignition Union.png
 
 [The Ignition Union](The_Ignition_Union.md)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
  | Standing inside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
 

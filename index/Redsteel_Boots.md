@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 74003
+revid: 87750
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -29,4 +29,4 @@ Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category. 
 ## Trivia
 
 -   The **Red** counterpart to [Bluesteel Boots](Bluesteel_Boots.md).
--   The Redsteel Pauldrons are part of the “**Redsteel**” set; with the only other piece being the [**Redsteel Pauldrons**](Redsteel_Pauldrons.md).
+-   Redsteel Boots are part of the “**Redsteel**” set; with the only other piece being the [**Redsteel Pauldrons**](Redsteel_Pauldrons.md).

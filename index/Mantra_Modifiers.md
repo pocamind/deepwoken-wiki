@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 87712
+revid: 87745
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -769,7 +769,7 @@ Needle Barrage
 
  | 
 
-File:Needle barrage blast spark.gif
+File:Needle barrage blast spark 2.gif
 
  | 
 
@@ -784,7 +784,7 @@ Frozen Servants
 
  | 
 
-File:Frozen servants blast.gif
+File:Frozen servants blast 2.gif
 
  | 
 
@@ -801,7 +801,7 @@ Firing Line
 
  | 
 
-File:Firing line blast spark.gif
+File:Firing line blast spark 2.gif
 
  | 
 
@@ -995,9 +995,7 @@ Frozen Servants
 
  | 
 
-File:FROZEN SERVANTS REVERSAL 2.gif
-
- | 
+File:Frozen servants reversal spark 3.gif
 
 -   This modifier causes the servants from the "Frozen Servants" mantra to face outwards instead of inwards.
 

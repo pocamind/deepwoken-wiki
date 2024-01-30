@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 87491
+revid: 87751
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -742,7 +742,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Territory:** Western Luminant
 -   **Encountered In:** _Erisia, Aratel Island_
 -   **Attunements:** _Galebreathe, Thundercall_
--   **Alliances:** _???_
+-   **Alliances:** _The Golden Rats?_
 -   **Enemies:** _[The Central Authority](The_Central_Authority.md)_
 -   **Lore Sources:** _[Amara](Amara.md), Brutus_
 

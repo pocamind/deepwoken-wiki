@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 85166
+revid: 87738
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -22,7 +22,7 @@ The **Trial of One** is a location in _Deepwoken_. It is currently the only wave
 
 The Trial of One is a dungeon designed to boost experienced players progress easily through early-game progression stat wise, The Trial consists of 9 respective challenges that contains 2 parry checks and 7 monsters (with a simultaneous parry check on the last challenge).
 
-The entrance is located under the Stronghold in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 regardless of the amount of used investment points or not a [Deepbound](Origins.md), otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life (It can be done again if you die on the first parry check).**
+The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 regardless of the amount of used investment points or not a [Deepbound](Origins.md), otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life (It can be done again if you die on the first parry check).**
 
 After the completion of each challenge, a glowing orb that functions similar to a campfire float down on the center of the room and gives you numbers of free points enough to power up (exact will be mentioned below) that you must use before continuing to the next challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 
@@ -100,7 +100,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
 -   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed.
 -   Beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha Sharko, you simply get sent back.
--   Deepbound freshies that somehow make it out of the depths at level one are not able to enter Trial of One
+-   Deepbounds that somehow make it out of The Depths at power 1 are not able to enter the Trial of One.
 -   If you're Attunement-less, the campfire goes down and lets you place the 10 points before starting the trial.
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
