@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 87641
+revid: 87711
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -39,4 +39,3 @@ The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Gua
 File:ImmortalHelmetDescription.png
 
 -   The Helmet is a reference to Bondrewd from Made In Abyss, as it closely resembles his style, and the talent seems similar to an ability of his that gives him "Immortality".
--   Might be inspired by OMORI with the game's main character's ability to become invincible when on the verge of death. Also might be inspired by every game that grants the character immortality.

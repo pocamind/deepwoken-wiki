@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 85952
+revid: 87704
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
@@ -433,5 +433,5 @@ _On paper, this looks like a lot to memorize-- but do not worry. These things wi
 
 -   The overall parry-based combat is heavily inspired by _Sekiro: Shadows Die Twice_, even possessing [Perilous Attacks](https://sekiroshadowsdietwice.wiki.fextralife.com/Perilous+Attacks) in the form of unparriable attacks. The inclusion and appearance of a [Posture Bar](https://sekiroshadowsdietwice.wiki.fextralife.com/Posture) is also very similar to _Sekiro_.
 -   The Health and Survival GUI has 5 separate bars in them that represent 20% each. This will help you to interpret damage dealt, health percentage, and help you to interpret the percentage of water and food each consumable fills.
--   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen. Spitting on guards angers them, but makes them say "Thanks." if you have high charisma
+-   Press T to spit. When you spit on someone, you recover 5% HP and recover a moderate chunk of your posture. Getting spat on temporarily blurs your screen. Spitting on guards angers them, but makes them say "Thanks." if you have high charisma (55 charisma).
 -   Blocking and Parrying shares the same hotkey (F), and will prioritize parrying first then blocking the 2nd.

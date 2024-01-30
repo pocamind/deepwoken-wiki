@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 87701
+revid: 87712
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -84,7 +84,7 @@ Stratus Stone
 -   Threshers
 
  |
-|  | 
+| File:Crystal lens new.png | 
 
 Crystal Lens
 
@@ -108,7 +108,7 @@ Crystal Lens
 -   Brainsuckers
 
  |
-|  | 
+| File:Perfect Lens New.png | 
 
 Perfect Lens
 
@@ -176,7 +176,7 @@ Eternal Logstone
 -   Threshers
 
  |
-| File:Drift & Rush shard.png | 
+|  | 
 
 Drift
 
@@ -202,7 +202,7 @@ Shard
 -   Brainsuckers
 
  |
-| File:Drift & Rush shard.png | 
+|  | 
 
 Rush Shard
 
@@ -332,7 +332,7 @@ Gem
 
 #### Glass Stone
 
--   Adds a massive AoE explosion of ice spikes for "Glacial Arc", and will apply to subsequent tendrils of ice produced by the attack if modified with Cloud/Stratus Stones.
+-   Adds a massive AoE explosion of ice spikes for "Glacial Arc."
     
 
 **Deep Gems:**
@@ -857,7 +857,7 @@ Lightning Stream
 
  | 
 
-This causes Lightning Stream to pull to closest enemy towards you.
+-   This causes Lightning Stream to pull to closest enemy towards you.
 
  |
 | 
@@ -873,20 +873,6 @@ Spark Swap
  | 
 
 -   This modifier seems to have no effect on the "Spark Swap" mantra.
-
- |
-| 
-
-Strong Leap
-
- | 
-
- | 
-
- | 
-
--   This modifier is compatible with the "Strong Leap" Strength mantra.
-    -   It appears to jump slightly more in the direction of an ally.
 
  |
 

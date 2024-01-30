@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 85988
+revid: 87705
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -26,6 +26,8 @@ notices:
 The Divers are a faction implanted in The Central Luminant at the Island of Markor. Formally known as 'The Citadel Divers', they are a sub-division of the Citadel of Markor, and their primary field of operation is [The Depths](The_Depths.md), where they are focused on the traversal and research of the realm, discovering and reporting valuable data to The Citadel. They were founded in 57 CE (Citadel Era) by the High Convocation of the Citadel, the governing council of the Citadel of Markor. The first leader of the Divers organisation was Deukalion Akarad, affectionately known as "Father Diver", who was assigned to train a core of field researchers and agents who would be sent to [The Depths](The_Depths.md).[\[1\]](#cite-note-0-1)
 
 Their stated purpose is to learning to better understand [The Depths](The_Depths.md) in order to combat their expansion, and protect the surface from the creatures of the Deep.[\[1\]](#cite-note-0-1) The Divers consist of a variety of ranks given to each and every diver based on their strength and knowledge; the standard Diver is the vast majority of the Divers, typically normal scholars and researchers who are interested in various facets of the world. They do not typically live long and make up about 95% of the Divers. The other 5% consist of more powerful Divers including Black Divers, which are prestigious and extremely strong individuals who appear very few in every generation of Divers. They assist the Divers by taking on foes a normal Diver wouldn’t be able to handle, typically representing one squad of normal Divers on their own. Notable Black Divers include Amorus Pleeksty, who keeps very loose relations with the Divers, and Akira. The Divers utilize the Song to fight primarily when their lives are in danger, but some Divers are selfish and do not hesitate to fight for their own research and interest, even against other Divers. Therefore, there is frequent conflict within the ranks.
+
+There are currently 5 books that pertain to the Divers, those being all 3 Diver Journals, A Deathscribe's Journal, and The Song of Fathoms / Oscillation. The book A Deathscribe's Journal reveals some sort of mortuary wing of the divers that specifically handles memorials and documents all divers who pass. Black Divers get gilded memorials.
 
 ## Gameplay
 
