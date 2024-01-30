@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 86964
+revid: 87731
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -184,7 +184,7 @@ Metal Kick
 |  | Metal Rampart
 (☆☆☆)
 
- | Summon a large metal pillar | 50 Ether | Form a pillar bellow the user, which sends them upwards.
+ | **Summon a large metal pillar** | 50 Ether | Form a pillar bellow the user, which sends them upwards.
 
 -   The height of the pillar will depend on what is above you.
 -   Can be modified with Cloud and Stratus Stones to extend its width.
@@ -195,7 +195,7 @@ Metal Kick
 
 (★★☆)
 
- | Create a metal ball and rush forward. | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent.
+ | _**Create a metal ball and rush forward.**_ | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent.
 
 -   Applies Metal Rods on hit.
 -   Can be modified with Aeon and Eternal Logstones to extend its longevity.

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 87656
+revid: 87725
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -14,7 +14,9 @@ Frostdraw icon
 
 A Hemafrosted Capra casting a beam of ice.
 
-Frostdraw grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on mobility, debuffs and high damage output.
+Frostdraw grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
+
+Landing Frostdraw mantras applies Chill, which slows down enemies and is able to be improved with certain talents.
 
 ## Training
 
@@ -284,10 +286,12 @@ Ice Flock
 
 _Send forth a flock of ice_
 
- | 
+ | Send birds of ice to fly directly in front of you, dealing damage if they hit an enemy.
 
--   Deals heavy damage
--   N/A.
+-   Deals moderate damage
+-   Deals high posture damage
+-   Low cooldown
+-   Good for area denial
 
  |
 | 
@@ -338,7 +342,7 @@ _Send ice rippling out in a shockwave._
 -   Up to three Obelisks can be active at any time.
 -   Recasting this Mantra near an active Obelisk causes it and all others placed to explode.
 -   Summons wherever your mouse is pointed, at a range.
--   Creating an Obelisk on top of someone will stun them for ten seconds. (Applies a LONG chill effect)
+-   Creating an Obelisk on top of someone will stun them for ten seconds.
 
  |
 
@@ -1022,9 +1026,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
     
 -   The **Ice Chain** Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the Fate series.
 -   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in Nioh 2.
--   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in Touhou 12.3.
--   Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning.
-    -   Which translates to the fact that the Mantra would fit well to people who has a defensive approach to combat.
+-   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in Touhou 12.3
 -   Frostdraw mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
 -   The **Ice Chains** mantra was reworked into a new ability on the 8th of February 2022.
