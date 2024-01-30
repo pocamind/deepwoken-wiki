@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 86984
+revid: 87681
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -47,7 +47,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 -   **Mindsoothe - Support Mantra**
     -   Heal nearby allies for 60 HP at the cost of your Sanity
         -   Allies include Guildmates, and those with whom you share a Vow of Mastery or Vow of Allegience.
-        -   The sanity cost is only deducted on a succesful heal.
+        -   The sanity cost is only deducted on a successful heal.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.

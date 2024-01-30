@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 87216
+revid: 87670
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -157,7 +157,7 @@ Flame Blind
 
  | 
 
-_Shoot a projectile that explodes after a short delay and blines those looking at it._
+_Shoot a projectile that explodes after a short delay and blinds those looking at it._
 
  | User snaps their fingers, summoning an orb of flames that implodes and blinds opponents temporarily.
 

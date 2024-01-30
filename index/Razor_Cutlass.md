@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 87233
+revid: 87693
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -36,4 +36,3 @@ The Razor Cutlass is a rare [Medium Weapon](Weapons.md#medium-weapons) primarily
     -   Bleed adds 10% of your current damage over 3 ticks making it 30% damage boost, this damage is not affected by modifiers.
 
 -   Often used by [Divers](Diver.md) at [Castle Light](Castle_Light.md).
--   ~Razor Cutlass could be a reference to Crab Cutlass from GPO.~ Its literally just a cutlass.

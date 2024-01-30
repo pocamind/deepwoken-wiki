@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 86536
+revid: 87669
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -130,6 +130,7 @@ It grants the user +20 knowledge on subsequent uses.
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.5%)**
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Fishing](Fishing.md)
+-   [First Layer](First_Layer.md)
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 87577
+revid: 87694
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -14,14 +14,13 @@ categories: [Weapons, Greataxes]
 | requirements | 75 HVY |
 | damage | 25 + 7.8[BLD] |
 | scaling | 9.5 |
-| range | 8 |
-| swing speed | 0.88x |
-| endlag | Baka |
+| range | 8.5 |
+| swing speed | N/A |
+| endlag | 0.1s |
 | penetration | 15 |
-| chip damage | 5 |
-| special effect | Sussy |
+| chip damage | N/A |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| weight | 9 |
+| weight | 8 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 87132
+revid: 87691
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -56,7 +56,7 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\*
 
  |
-| [Ignition Union](The_Ignition_Union.md) | 3 [Ignition union arcwarders](Ignition_Union_Arcwarder.md) | "There's the scab, lads!" |
+| [Ignition Union](The_Ignition_Union.md) | 3 [Ignition Union Arcwarders](Ignition_Union_Arcwarder.md) | "There's the scab, lads!" |
 | [Hundred Legions](The_Hundred_Legions.md) | 3 [Legion Captains](Legion_Captain.md)
 
 3 [Legion Soldiers](Legion_Soldier.md)
@@ -72,7 +72,7 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 "On our honor...You perish here, worm."
 
  |
-| [Summer Company](The_Summer_Company.md) | 3(?) [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | “This one’s target practice.” |
+| [Summer Company](The_Summer_Company.md) | 3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | “This one’s target practice.” |
 | [Ministry](The_Ministry.md) | 1-3 [Strong Ministry Enforcers](Ministry_Enforcer.md)
 
 1-3 Ministry Footpads
@@ -84,11 +84,11 @@ The enemies sent differ depending on the faction sending them. Below is a list o
  |
 | [Ministry](The_Ministry.md) | 3 [Weak Ministry Enforcers](Ministry_Enforcer.md#weaker-variant) | "This one must die." |
 | [Hive](The_Hive.md) | 1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>) | "Those who stand in the way of our research won't live to tell the tale." |
-| [Hive](The_Hive.md) | 1(?) [Hive Construct](Hive_Construct.md) | "YOUR REMAINS ARE TO BE SCATTERED." |
+| [Hive](The_Hive.md) | 1 [Hive Construct](Hive_Construct.md) | "YOUR REMAINS ARE TO BE SCATTERED." |
 | [The Divers](The_Divers.md) | 3 [Diver Journeymen](Journeyman_Diver_Guard.md) | "You stand against the world, worm."
 
 "Yield, traitor to mankind."
 
  |
 | [The Divers](The_Divers.md) | 1 [Black Diver](<Black_Diver_(NPC).md>) | "We've got research to get back to so let's make this quick." |
-| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Knives of Eylis | "Boss'll be pleased about this one." |
+| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Knife of Eylis | "Boss'll be pleased about this one." |

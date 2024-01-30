@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 87528
+revid: 87672
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -81,6 +81,8 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Has a very good mobility Mantra "Ice Skate"
 -   Works with most Spike Modifiers.
 -   Has small cooldowns.
+
+Also has a hybrid with Shadowcast called ''Primafrost Prison''.
 
 ### [Galebreathe Mantras](Galebreathe.md)
 
