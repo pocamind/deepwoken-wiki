@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 87302
+revid: 87799
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -48,15 +48,16 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 #### Unstorable Items
 
--   Diver's Light Plate
--   Pluripotent Alloy
--   Kyrsan Medallions (Itemized)
--   Ardour Manifestation
--   Void Feather(s)
--   Deepshore Fossil
+-   [Diver's Light Plate](<Diver's_Light_Plate.md>)
+-   [Pluripotent Alloy](Pluripotent_Alloy.md)
+-   [Kyrsan Medallions (Itemized)](Kyrsan_Medallions.md)
+-   [Ardour Manifestation](Ardour_Manifestation.md)
+-   [Void Feather(s)](Dark_Feather.md)
+-   [Deepshore Fossil](Deepshore_Fossil.md)
 -   Tools (Repair Hammer, Glider, Etc.)
--   Hallowtide Mask
--   Attunement potions / Lotuses
+-   [Hallowtide Mask](Hallowtide_Mask.md)
+-   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
+-   Poser's Ring
 
 ## Artifacts
 

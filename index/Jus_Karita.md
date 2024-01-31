@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 87660
+revid: 87805
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -32,7 +32,7 @@ categories: [Weapons, Fists]
 
 ## Description
 
-Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat.
+Jus Karita is a taekwondo-like fighting style obtained from [Polis](Polis.md) in [Etris](Etris.md). Compared to the other base fighting styles, it has higher scaling, swing speed, range, and a 20% penetration stat. But in turn has only one equippable weapon, the [Anklets of Alsin](Anklets_of_Alsin.md).
 
 Despite all this, Jus Karita is rather unpopular due to it having worse damage compared to the other fighting styles, which also catch up in swing speed. To make up for it, it has [unique talents](Talents.md#justicar), slightly more range, and synergizes with its mantras, Karita Leap, Karita Divebomb and Tacet Dropkick. Plus, the [Justicar](<Justicar_(Origin).md>) armor talent (The Path, Unveiled) gives it a 10% damage boost, about on par with the other fist-style armor Talents. While far from meta, its boons come from opponents not expecting it, players, or sometimes humanoid NPCs.
 
@@ -52,7 +52,6 @@ To obtain Jus Karita, you must first have Power 5 and 40 stats allocated into Li
 
 ## Trivia
 
--   **Jus Karita** cannot equip any cestuses (Including [Light's Final Toll](<Light's_Final_Toll.md>)) but can equip the [Anklets of Alsin](Anklets_of_Alsin.md), a **Jus Karita** exclusive weapon.
 -   Jus Karita was made by Dexerius.[\[1\]](#cite-note-1)
 
 ## References

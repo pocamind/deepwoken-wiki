@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 87751
+revid: 87806
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -2079,10 +2079,11 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
         -   The attunement trainers give you a vial of their blood to drink to unlock attunements.
         -   The Mad Steward gained knowledge when he consumed the heart of an Elder Edenkite, and after that became a Dread Serpent.
 -   Purple
-    -   The color purple is often a motif of Drowned Gods or those connected to Drowned gods
+    -   The color purple is often a motif of Drowned Gods or those connected to Drowned Gods
         -   Corrupted bells are purple in the card drawing screen and are commonly a purple color.
         -   The only known Krulian, The Ferryman, wields purple [Thundercall](Thundercall.md), though the only reason for him doing so is that he likes the color.
         -   Ethiron's Scion wields purple [Galebreathe.](Galebreathe.md)
+        -   Pieces of the forge as well as the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) sport purple fire, with both being connected to the Drowned God Korilfiend.
         -   The player, as they are not connected to any Gods, are unable to harness any sort of purple elements.
 
 ## Music
