@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 74372
+revid: 87753
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Equipment]
@@ -20,15 +20,15 @@ categories: [Boots, Equipment]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Starswept Valley, Arena |
+| obtainment | Chests from:, Songseeker, Arena |
 | description | "..." |
 
 ## Description
 
-Ranger's Boots are an [Equipment](Equipment.md) piece under the "_Boots_" category. They can be found through chests in [Starswept Valley](The_Starswept_Valley.md) and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).
+Ranger's Boots are an [Equipment](Equipment.md) piece under the "_Boots_" category. They can be found through chests in Song Seeker Wilds. and by winning matches in the [Chime of Conflict](Chime_of_Conflict.md).
 
 Ranger's Boots are part of the "**Ranger's**" set; with the only other armor piece being the **[Ranger's Brace](<Ranger's_Brace.md>)**.
 
 ## Trivia
 
--   These boots may have some correlation to the [First **Ranger** Duster](First_Ranger_Duster.md)?
+-   These boots may have some correlation to the [First **Ranger** Duster](First_Ranger_Duster.md)? Whoever put "Starswept" I hate you.

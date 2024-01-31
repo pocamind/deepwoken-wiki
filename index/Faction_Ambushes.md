@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 87691
+revid: 87777
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -44,6 +44,8 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 | [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md) | "Target sighted. Commencing operation."
 
 ”Let’s go men!”
+
+We've got them now.
 
  |
 | [Authority](The_Central_Authority.md) | 1 [Authority Commander](<Authority_Commander_(Enemy).md>) | "Commencing mission"

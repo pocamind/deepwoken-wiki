@@ -1,6 +1,6 @@
 ---
 title: Sandrunner Wraps
-revid: 76959
+revid: 87771
 source: https://deepwoken.fandom.com/wiki/Sandrunner_Wraps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Wraps]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Wraps]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Miner's Landing |
+| obtainment | Chests from:Miner's LandingFirst Layer |
 | description | "..." |
 
 ## Description

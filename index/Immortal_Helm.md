@@ -1,9 +1,9 @@
 ---
 title: Immortal Helm
-revid: 87711
+revid: 87762
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment]
+categories: [Equipment, Helmets]
 ---
 
 # Immortal Helm
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, Equipment]
 | selling price | 50 |
 | requirements | None |
 | weight | 1 |
-| innate stats | None |
+| innate stats | +1 Rare Pip , +1 Legendary Pip |
 | innate talent | Immortality |
 | bankable | Yes |
 | droppable | Yes |
@@ -24,18 +24,14 @@ categories: [Pages with broken file links, Equipment]
 | obtainment | Immortal Guardian |
 | description | "Helm of an Immortal Guardian. The product of Ministry experimentation, it's thought that these helmets enthrall their wielders by means of a Mind Veil, causing immediate death should they ever be removed. It seems that in prying this helmet off that this functionality has been disabled. You hope." |
 
-File:Immortal HelmOnAPlayer.png
-
 ## Description
 
-The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category. The helmet of the [Immortal Guardians](Immortal_Guardian.md).
+The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category. A helmet of the [Immortal Guardians](Immortal_Guardian.md).
 
-Grants the [Talent](Talents.md) "Immortality", which grant knock prevention for 1 hit when at 1% HP the talent also provide you with 5 seconds of Invincibility Frames on proc to prevent multi-hit attacks from knocking you. 30 second cooldown. along with this the helmet grants 1 rare and 1 legendary pip by default.
+This grants the [Talent](Talents.md) "Immortality", which grant knock prevention for 1 hit when at 1% HP the talent also provide you with 5 seconds of Invincibility Frames on proc to prevent multi-hit attacks from knocking you. 30 second cooldown.
 
 The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Guardian.md) and cannot drop from a chest.
 
 ## Trivia
 
-File:ImmortalHelmetDescription.png
-
--   The Helmet is a reference to Bondrewd from Made In Abyss, as it closely resembles his style, and the talent seems similar to an ability of his that gives him "Immortality".
+-   The Helmet is a reference to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from Made In Abyss, as it closely resembles his style, and the talent seems similar to an ability of his that gives him "Immortality".

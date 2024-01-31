@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 81565
+revid: 87773
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -10,7 +10,7 @@ categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
 
 LocationL Voidheart LocationR
 
-TERRITORY OF The Knives of Eylis
+TERRITORY OF The Knives of Eylis (Lawless)
 
 Halls of inscrutable architecture stretch as far as the eye can see. No human could've constructed this, almost defying the laws of the realm itself.
 

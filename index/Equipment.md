@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 87586
+revid: 87765
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -838,6 +838,25 @@ Found from:
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 
  | Normal & Big |
+| File:ImmortalHelm.png | 
+
+[Immortal Helm](Immortal_Helm.md)
+
+ | 
+
++1 Rare Pip
+
++1 Legendary Pip
+
+_+Talent: Immortality_
+
+ | 
+
+Found from:
+
+-   Mob drop from [Immortal Guardian](Immortal_Guardian.md)
+
+ | N/A |
 | File:Investigator's Hat1.png | 
 
 [Investigator's Hat](<Investigator's_Hat.md>)
@@ -930,7 +949,7 @@ Found from:
 -   [First Layer](First_Layer.md)
 
  | N/A |
-| File:MinersHardHat.png | 
+| File:That girls a miner.png | 
 
 [Miner's Hardhat](<Miner's_Hardhat.md>)
 
@@ -944,7 +963,7 @@ _+1 Posture_
 
 Found from:
 
--   [Mineskippers](Mudskipper.md#mineskipper)
+-   Mob drop from [Mineskippers](Mudskipper.md#mineskipper)
 
  | N/A |
 |  | 
@@ -965,7 +984,7 @@ Found from:
 
 -   [Hallowtide (Event)](Hallowtide.md)
 
- | Mushroom, Glowshroom, Metalshroom, & Charmshroom |
+ | Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
 |  | 
 
 [Phalanx Helmet](Phalanx_Helmet.md)
@@ -1972,7 +1991,25 @@ Found from:
 -   Buying from [Chili](Travelling_Merchant.md)
 
  | N/A |
-|  |
+|  | 
+
+[Hunter's Brace](<Hunter's_Brace.md>)
+
+ | 
+
+When worn, unparryable attacks become parryable.
+
+(e.g. Megalodaunt's Kick, Primadon's Kick, Rock Golem's Punch)
+
+_Disappears on death or leaving the game._
+
+ | 
+
+Found from:
+
+-   The Store at [Summer Isle](Summer_Isle.md)
+
+ | N/A |
 | File:Imperial Pauldrons.png | 
 
 [Imperial Pauldrons](Imperial_Pauldrons.md)
@@ -4888,4 +4925,5 @@ Found from:
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12th, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
--   Highest theoretical hp kit in game is 167 hp. (4x 9 HP Moon and Waning Rings, 51 HP Divers Light Plate (Drowned), 13 HP Scarf, 36 HP Knight's Helm, 31 HP Star Boots)
+-   Highest theoretical HP kit in game is 158 HP. (4x 9 HP Moon and Waning Rings, 47 HP Divers Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots, 2 HP Moonlit Earrings)
+-   Highest theoretical DvM kit in game is 63 DvM. (4x 4 DvM Rings, 18 DvM Delver's Duster/DLP (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings
