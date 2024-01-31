@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 87246
+revid: 87822
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -27,13 +27,23 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 | Ice Daggers | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
 | Shadow Assault | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
 | Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
-| Ice Eruption | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze. | ✗ | ✗ | (★★☆) |
+| Ice Eruption | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze. | ✗ | ✗ | (★★★) |
 | Lightning Cloak | The user's body is enveloped in a lightning-like cloak, improving agility, swing speed, and granting lightning dashes.
   
 
- | \- | \- | (★★☆) |
+ | \- | \- | (★★★) |
+| Revenge | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★★☆) |
+| Chain Pull | Summons a chain out of their hand that quickly pulls you towards them.
+
+  
+
+ | ◯ | ◯ | (★★☆) |
 | Clutching Shadow | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down. | ◯ | ◯ | (★☆☆) |
-| Revenge | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★☆☆) |
+| Lightning Stream | Grapples onto an enemy and pulls them in.
+
+  
+
+ | ◯ | ◯ | (★☆☆) |
 | Dash | A dash that sends the user a considerable distance forward. Deals no damage. | \- | \- | (☆☆☆) |
 
 ### Boons

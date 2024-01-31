@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 87382
+revid: 87811
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
@@ -27,7 +27,7 @@ categories: [Weapons, Clubs, Legendary Weapons, "Attunement-based Weapons"]
 
 ## Description
 
-The Ignition Deepcrusher is a Legendary medium weapon tied to the Ironsing Attunement.
+The Ignition Deepcrusher is a Legendary medium weapon tied to the [Ironsing](https://deepwoken.fandom.com/wiki/Ironsing) Attunement.
 
 This weapon has 1 passive by default:
 

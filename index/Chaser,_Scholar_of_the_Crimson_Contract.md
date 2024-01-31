@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 87143
+revid: 87820
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -22,7 +22,7 @@ He was once an aspiring Diver, graduating as one of the greatest of his generati
 
 He allied himself with the mysterious Kyrsgarde and volunteered to lead an expedition into the [Eternal Gale](Second_Layer.md). However, by the time they reached the Second Layer, he tore the expedition apart, though Apprentice [Diver](Diver.md) Azel Corbet managed to record his fears and suspicions before being lost. Another expedition would then be sent, but that too was lost. A third expedition arrived to the Second Layer, but they soon ran out of food. Its members grew suspicious, Journeyman Diver Skeli recording that Chaser could no longer be trusted or allowed to reach the '[Forbidden City](Second_Layer/New_Kyrsa.md)' and some tried to flee to the [Ignition Union's nearby holdout](The_Frontier_Furnace.md), though they would be killed by Chaser. Eventually that expedition too would be wiped out.[\[3\]](#cite-note-3)
 
-Appearance-wise, he is a young male [Adret](Adret.md) characterized by his unique eye color and facial markings. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered from the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
+Appearance-wise, he is a young male greymarch [Adret](Adret.md) characterized by his unique eye color and facial markings. He carries six [Bells](Resonance.md) which are assumed to have been brutally pilfered from the Divers who ventured originally with him in the Second Layer and those who met him after his betrayal. However, he is incapable of using them. His eyes are blood red and have a swirl pattern, likely as a result of his Oath.
 
 ## Moveset
 

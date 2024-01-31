@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 86510
+revid: 87821
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -16,9 +16,9 @@ Status effects are effects that can negatively affect the player or give the pla
 
 These status effects can be beneficial to the player.
 
-### Resting at Campfire
+### Resting
 
-This effect causes the player to regain lost health and blood much faster, but loses hunger and thirst much faster. This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md) or [Graceful Flame](Flamecharm.md).
+This effect causes the player to regain lost health and blood much faster, but loses hunger and thirst much faster. This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md), or the Stove.
 
 ### Bloodlusted
 
@@ -36,13 +36,17 @@ When Reinforce is applied to an ally with the talent Lord’s Tithe, steal their
 
 Make your attacks uninterruptible and become immune to every form of stun. Signified by your character turning red. Can be applied with the critical attack of most heavy weapons, [Brace](Attunement-less.md) and many more.
 
-### Ordered to Fight
+### Fight
 
 Gain a 1.5x damage boost. Applied after given the [Vow of Mastery Command: Fight](Vow_of_Mastery.md) is given to you. Signified by a large purple aura covering your character.
 
-### Ordered to Live
+### Live
 
 Restore your health to maximum and get up if you are unconscious. Applied by the [Vow of Mastery Command: Live](Vow_of_Mastery.md). Signified by a large dark blue aura around your character.
+
+### Run
+
+Gain a speed boost, and a unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of lines surrounding your character.
 
 ### Rallied
 
@@ -114,7 +118,7 @@ Inflicted by Thundercall Surge Path mantras. This makes you charged with electri
 
 ### Metal Rods
 
-Inflicted by being hit by Ironsing mantras. Effect varies depending on which path the Ironsinger uses:
+Inflicted by being hit by [Ironsing](https://deepwoken.fandom.com/wiki/Ironsing) mantras. Effect varies depending on which path the Ironsinger uses:
 
 -   Normally: Allows you to be pulled in towards them when they press X
 -   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing mantra
@@ -144,6 +148,10 @@ Completely disallows healing from **any** source while active. This effect can b
 ### Charmed
 
 Deal 10% less damage to the player who charmed you. If the charmer has the talent Tough Love, take 10% more damage to the player who has charmed you. Having the Mental Fortress talent Disbelief makes this last much shorter. Signified by hearts appearing around the user.
+
+### Drained
+
+Takes a certain amount to all of the ether that you possess. if the user used the [Vow of Mastery Command: Leech](Vow_of_Mastery.md), the ether in your possession will become theirs. If the effect was applied from [potions](Alchemy.md), the amount of ether and how fast your drained varies.
 
 ### Bottom Freeze
 
@@ -183,7 +191,7 @@ Applied by being flourished or hit by critical attacks from weapons with the Sol
 
 ### Grim
 
-Take 20% more damage and 50% more posture damage from all sources for 4 seconds. Applied by being hit by the [Grim enchant.](Enchantments.md) Signified by red bubbles on your torso.
+Take 20% more damage and 50% more posture damage from all sources for 6 seconds. Applied by being hit by the [Grim enchant.](Enchantments.md) Signified by red bubbles on your torso.
 
 ### Time Stasis
 
@@ -197,7 +205,7 @@ Applied by standing near someone with audacity when they're executing someone. W
 
 These status effects cause certain death if nothing is done about them.
 
-### Bleeding out
+### Bleeding
 
 This effect happens once your blood bar is **zero**. Once this happens both hunger and thirst will rapidly drop to replenish your blood. You will also become slower and get your screen to blur and darken. Your blood can replenish to a point if you have enough food and water on you, but if you don't you will eventually die of starvation/dehydration as your body cannot live without food and water. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
 

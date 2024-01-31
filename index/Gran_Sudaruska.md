@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 87362
+revid: 87824
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -34,9 +34,10 @@ Gran Sudaruska comes with three passive abilities:
 
 -   **Sudaruska's Fury** - Landing three M1 attacks on an enemy makes ice crystals rain from the sky. The area that an ice crystal lands will have ice applied on the floor. 15 second cooldown.
 
--   **Frost Affinity** - M1 attacks apply [Chilled](Status_Effects.md). If the user has Glass Path: Crystallization, apply a crystal per M1 instead.
+-   **Ice Age** - Gran Sudaruska crit's spawns ice floor by default. (You don't need frost forger talent)
 
 -   **Vengeful Soul** - After gripping a player with the Contractor oath or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them.
+-   **Icy Hold** - You can one-hand the mighty Gran Sudaruska without the talent One Handed Training.
 
   
 

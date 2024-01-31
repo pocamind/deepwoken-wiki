@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 87182
+revid: 87823
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -11,7 +11,7 @@ categories: [Mechanics]
 | Knowledge | |
 |---|---|
 | usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables |
-| obtainment | Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones |
+| obtainment | Purchasing from Klaris Llfiend, Mother of Lights, Completing quests and achieving milestones, Defeating certain bosses |
 
 “ Do you have the knowledge within you then, my dull friend? ”
 
