@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 87694
+revid: 87795
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -11,7 +11,7 @@ categories: [Weapons, Greataxes]
 | Evanspear Hand Axe | |
 |---|---|
 | type | Greataxe |
-| requirements | 75 HVY |
+| requirements | 70 HVY |
 | damage | 25 + 7.8[BLD] |
 | scaling | 9.5 |
 | range | 8.5 |

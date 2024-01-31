@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 87754
+revid: 87780
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -31,7 +31,7 @@ _Castaway_ is the default, intended way to play the game, and is available to th
 > 
 > ― Flavor Text
 
-**_Obtainment_:** Die from the gale virus in the second layer (stay there for too long) OR Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
+**_Obtainment_:** Wipe for the first time OR Defeat the [Thresher](Thresher.md) in the [Trial of One](Trial_of_One.md).
 
 **Lone Warrior** gives players a convenient way to access Trial of One from the get-go, allowing them to kickstart their progression.
 

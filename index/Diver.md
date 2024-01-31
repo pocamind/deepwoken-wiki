@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 82072
+revid: 87784
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-A Diver is an NPC that can only be found in The Depths during the following events:
+A Diver is an NPC that can be found in ambushes, or The Depths during the following events:
 
 -   Diver vs Monster ([The Depths](The_Depths.md))
 

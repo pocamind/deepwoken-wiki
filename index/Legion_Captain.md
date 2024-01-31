@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 84490
+revid: 87792
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](The_Starswept_Valley.md), The Vipers Jaw, and the [Aratel Island](Aratel_Island.md). They have two variants: A neutral one that is always seen fighting an [Authority Captain](Authority_Captain.md) and an aggressive one that attacks anyone on sight, dubbed the [Legion Sniper](Legion_Sniper.md).
+The Legion Captain is a type of enemy NPC that can only be found in [Starswept Valley](The_Starswept_Valley.md), Erisia, and the [Aratel Island](Aratel_Island.md). They have two variants: A neutral one that is always seen fighting an [Authority Captain](Authority_Captain.md) and an aggressive one that attacks anyone on sight, dubbed the [Legion Sniper](Legion_Sniper.md).
 
 A Legion Captain wears a [Legion Centurion](Legion_Centurion.md) outfit, a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md) with their [race](Aspects.md) varying.
 

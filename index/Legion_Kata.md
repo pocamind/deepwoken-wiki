@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 87716
+revid: 87786
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -44,7 +44,7 @@ To obtain it, you must help the Legion Centurion in the Legion vs. Adret event a
 
 Afterwards, once you obtain the commendation, you must go to [The Viper's Jaw](<The_Viper's_Jaw.md>) in [Erisia](Erisia.md) and turn it in to [Amara](Amara.md).
 
-Here is a link to a video that will help you obtain Legion Kata: [https://www.youtube.com/watch?v=MPJNETQac5Y&ab\_channel=\_res](https://www.youtube.com/watch?v=MPJNETQac5Y&ab_channel=_res)
+Here is a link to a video that will help you obtain Legion Kata: [https://www.youtube.com/watch?v=MPJNETQac5Y&ab\_channel=\_res](https://www.youtube.com/watch?v=MPJNETQac5Y&ab_channel=_res).
 
 ## Trivia
 

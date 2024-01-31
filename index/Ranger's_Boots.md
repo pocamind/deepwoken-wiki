@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 87753
+revid: 87782
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Equipment]
@@ -31,4 +31,4 @@ Ranger's Boots are part of the "**Ranger's**" set; with the only other armor pie
 
 ## Trivia
 
--   These boots may have some correlation to the [First **Ranger** Duster](First_Ranger_Duster.md)? Whoever put "Starswept" I hate you.
+-   These boots may have some correlation to the [First **Ranger** Duster](First_Ranger_Duster.md)?

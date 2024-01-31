@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 76879
+revid: 87793
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Oaths, World]
@@ -10,9 +10,7 @@ categories: [Mechanics, Items, Oaths, World]
 
 | Stardust | |
 |---|---|
-| value | ??? |
-| weight | ??? |
-| type | ??? |
+| type | Treasure |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

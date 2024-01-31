@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 87762
+revid: 87779
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -34,4 +34,5 @@ The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Gua
 
 ## Trivia
 
--   The Helmet is a reference to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from Made In Abyss, as it closely resembles his style, and the talent seems similar to an ability of his that gives him "Immortality".
+-   The Helmet is a reference to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from Made In Abyss, as it closely resembles his style, and the talent seems similar to an ability of his that gives him "Immortality."
+-   When held, the light deactivates, showing empty space rather than some sort of projector.

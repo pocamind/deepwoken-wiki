@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 87777
+revid: 87781
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -16,7 +16,7 @@ They occur when a player has the Hunted status or worse (-150 rep or below) with
 
 ## Types of Ambushes
 
-The enemies sent differ depending on the faction sending them. Below is a list of possible ambushes.
+The enemies sent and loot drops differ depending on the faction sending them. Below is a list of possible ambushes.
 
 | Faction | Enemy(s) | Dialogue |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 "There they are!"
 
  |
-| [Etrea](Etrea.md) | 3 Vigil Captains
+| [Etrea](Etrea.md) | 3 Vigil Captains(?)
 
 3 [Vigil Swordsmen](Vigil_Swordsman.md)
 
@@ -41,7 +41,11 @@ The enemies sent differ depending on the faction sending them. Below is a list o
 "You won't get away with what you've done!"
 
  |
-| [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md) | "Target sighted. Commencing operation."
+| [Authority](The_Central_Authority.md) | 3 [Authority Lieutenants](Authority_Lieutenant.md)
+
+3 [Authority Officers](Authority_Officer.md)
+
+ | "Target sighted. Commencing operation."
 
 ”Let’s go men!”
 
@@ -75,7 +79,7 @@ We've got them now.
 
  |
 | [Summer Company](The_Summer_Company.md) | 3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | “This one’s target practice.” |
-| [Ministry](The_Ministry.md) | 1-3 [Strong Ministry Enforcers](Ministry_Enforcer.md)
+| [Ministry](The_Ministry.md) | 1-3 [Ministry Enforcers](Ministry_Enforcer.md)
 
 1-3 Ministry Footpads
 
@@ -87,10 +91,20 @@ We've got them now.
 | [Ministry](The_Ministry.md) | 3 [Weak Ministry Enforcers](Ministry_Enforcer.md#weaker-variant) | "This one must die." |
 | [Hive](The_Hive.md) | 1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>) | "Those who stand in the way of our research won't live to tell the tale." |
 | [Hive](The_Hive.md) | 1 [Hive Construct](Hive_Construct.md) | "YOUR REMAINS ARE TO BE SCATTERED." |
-| [The Divers](The_Divers.md) | 3 [Diver Journeymen](Journeyman_Diver_Guard.md) | "You stand against the world, worm."
+| [The Divers](The_Divers.md) | 3 [Divers](Diver.md)
+
+3 [Diver Journeymen](Journeyman_Diver_Guard.md)
+
+ | "You stand against the world, worm."
 
 "Yield, traitor to mankind."
 
+"You're nothing compared to the horrors of the depths."
+
  |
 | [The Divers](The_Divers.md) | 1 [Black Diver](<Black_Diver_(NPC).md>) | "We've got research to get back to so let's make this quick." |
-| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Old Knife of Eylis | "Boss'll be pleased about this one." |
+| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Knives of Eylis
+
+3 Elite Knife of Eylis
+
+ | "Boss'll be pleased about this one." |

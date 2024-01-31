@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 87116
+revid: 87788
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -85,7 +85,7 @@ Jolt Grab
  | An electrified chokehold. | 60 Ether | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands. Applies knockdown frames. 12 Second cooldown.
 
 -   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range. Does not apply knockdown frames.
--   Crystal and Perfect Lenses do not increase the range if you have a [Magnet Spark](Mantra_Modifiers.md) on it.
+-   Crystal and Perfect Lenses DO increase the range if you have a [Magnet Spark](Mantra_Modifiers.md) on it. (Tested in game by hogwidah and Terraria\_HolySpirit)
 
  | Damage:
 
