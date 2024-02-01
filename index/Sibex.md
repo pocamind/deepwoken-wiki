@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 83832
+revid: 87857
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -144,7 +144,7 @@ Where Sibex can be found
 -   Getting either of the dialogues: "_Morphed like clay... The soul and Ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo._" or "_Well look at you, my friend! You're practically beaming with the song!_" **could** mean that you are ready to test for a Resonance, however getting neither of these dialogues guarantees a bell, though it is likely available for you if you get any of these dialogues.
 -   He used to wear [Hive Leader's Garment](<Hive_Leader's_Garment.md>); this was changed due to reasons unknown.
     -   It may have been because the outfit's design was lifted from [an outfit in Genshin Impact](References_and_Easter_Eggs.md), but this is speculation.
--   If you speak to Sibex with the [Dissonant modifier](https://deepwoken.fandom.com/wiki/Echoes#Modifiers), instead of regular dialogue he will say, "\*He sighs.\* Gods below, I can already hear... utter silence!"
+-   Back when the [Dissonant modifier](https://deepwoken.fandom.com/wiki/Echoes#Modifiers) prevented you from obtaining a bell, instead of regular dialogue he will say, "\*He sighs.\* Gods below, I can already hear... utter silence!"
 
 ## References
 

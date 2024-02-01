@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 87807
+revid: 87855
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -190,7 +190,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   He made a deal with the Kyrsgarde. The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethiron Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly diver apprentices so they couldn't cause any trouble for him.
 -   He killed two more expeditions after this, and may have killed even more, such as Ignition Union members.
-    -   -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
+    -   One of his victims was an Ignition Union Deepdelver, presumably named Beta.
 -   He somehow managed to scavenge bells from his deceased colleagues, though he can't use them.
 -   Though he is an Adret, he has a never before seen facial markings for the race.
 -   He can manipulate blood, a power gifted to him by the Second Prophet as an Oath.[\[1\]](#cite-note-rag-1)

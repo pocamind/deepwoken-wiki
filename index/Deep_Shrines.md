@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 87655
+revid: 87854
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -11,6 +11,10 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 ## Description
 
 **Deep Shrines** are a group of 9 shrines sharing identical appearance (excluding Solitude), scattered across Lumen. Each bestows different deals in exchange for the client's [knowledge](Knowledge.md).
+
+## Limitations
+
+**Deep Shrines** can only be interacted with after approximately 10~ minutes of spawning, so trying to Deepbound and do it wont work.
 
 ## Shrines
 
