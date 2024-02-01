@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 86577
+revid: 87838
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -21,7 +21,7 @@ categories: [Oaths]
 
 **[Oath](Oaths.md): Linkstrider** is one of the 11 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md), [Dawnwalker](Oath%253A_Dawnwalker.md), and [Contractor](Oath%253A_Contractor.md), it is one of 5 Oaths that have no direct stat requirements.
 
-## Obtainment
+Obtainment
 
 1.  Entropy Catalyst Method:
     1.  Get 4 different players with Oaths.
@@ -33,7 +33,9 @@ categories: [Oaths]
     1.  Collect 4 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
     2.  Grip 4 players that have an oath (You need to do some damage to the person and get the credit like bounties. Can be the same player over and over again, tested.)
     3.  Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
-    4.  Return 4 [Scarlet Lotuses](Pristine_Lotus.md) to [The Entropy Catalyst](The_Entropy_Catalyst.md).
+    4.  Return 4 [Scarlet Lotuses](Pristine_Lotus.md) to [The Entropy Catalyst](The_Entropy_Catalyst.md)
+
+## **Progression**
 
 The only way to obtain each ability is to grip a player with an Oath, this however does not need to be done with The Entropy Catalyst, you get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain on the Third And finally Parasitic Leech on the fourth grip.
 

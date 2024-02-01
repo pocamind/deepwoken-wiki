@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 87804
+revid: 87831
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -1847,14 +1847,14 @@ Shields are defensive tools that you wield in your offhand in order to gain more
   <td>4</td>
 </tr>
 <tr>
-  <td><a href="Old_World_Greatshield.md">Old World Greatshield</a></td>
-  <td>30 FTD</td>
-  <td>5</td>
-</tr>
-<tr>
   <td><a href="Kite_Shield.md">Kite Shield</a></td>
   <td>20 FTD</td>
   <td>4.5</td>
+</tr>
+<tr>
+  <td><a href="Old_World_Greatshield.md">Old World Greatshield</a></td>
+  <td>30 FTD</td>
+  <td>5</td>
 </tr>
 <tr>
   <td><a href="Worshipper's_Shield.md">Worshipper's Shield</a></td>

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 85500
+revid: 87828
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Voidzones]
@@ -54,6 +54,8 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 -   [Sandrunner Scarf](Sandrunner_Scarf.md)
 -   Duelist Mask
 -   [Deepwoken Cloak](Deepwoken_Cloak.md)
+-   Konga's Clutch Ring
+-   Seafarer Pendant
 -   TBA
 
  | 
