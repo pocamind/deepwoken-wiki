@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 87783
+revid: 87843
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -12,15 +12,15 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Diver Journeymen are NPCs that act as the guards of [Castle Light](Castle_Light.md) as well as ambushing "Hunted" reputation players.
+Journeyman Diver Guards are NPCs that act as the guards of [Castle Light](Castle_Light.md) as well as ambushing "Hunted" reputation players.
 
 They are able to use all four standard Attunements at a time, the only NPCs in the game capable of doing so.
 
-A Diver Journeyman's appearance only consists of a [Diver Journeyman Robes](Diver_Journeyman_Robes.md) outfit with their [race](Aspects.md) varying.
+A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes](Diver_Journeyman_Robes.md) outfit with their [race](Aspects.md) varying.
 
 ## Moveset
 
-A Diver Journeyman's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with either the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md) or [Flamecharm](Flamecharm.md) attunement:
+A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with either the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md) or [Flamecharm](Flamecharm.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

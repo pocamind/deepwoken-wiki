@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 87791
+revid: 87844
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -27,7 +27,7 @@ A mother Thresher, Hive Construct, and an Authority Captain fighting each other 
 
 The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. More information can be found [here](Cinders_of_Etris.md).
 
-The raid can be identified by the presence of Authority NPCs, specifically the Authority Scouts, Authority Footsoldiers, Authority Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
+The raid can be identified by the presence of Authority NPCs, specifically the Authority Soldiers, Officers, Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 
 Once the event is fully completed by killing all Authority NPCs, three large chest will spawn near the large tree in the middle of the town. These chests contain high tier loot, including end game weapons, [Deep Gems](Deep_Gems.md), legendary rings, and is one of the few sources of the [Justicar](<Justicar_(Origin).md>) armor schematic.
 
@@ -51,7 +51,7 @@ Similar to bandit events, with three to four enemies spawning. They wield a dagg
 
 **Authority Scouts**
 
-In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Footsoldiers and the other two will be Authority Peacekeepers. The Footsoldiers will use Thundercall and the Peacekeepers use an unknown Flamecharm mantra, identical to the one used by Red Necroskippers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Peacekeepers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
+In Upper Erisia, you may see four Authority members marching back and forth in unison. Two of them will be Authority Officers and the other two will be Authority Soldiers. Defeating them will reward you with EXP and a chest, but killing them also gives negative Authority Reputation. This can be avoided by letting the Soldiers set the corpses on fire, as that will cause them to die without you earning negative rep. They will not automatically engage you if you have neutral reputation.
 
 #### **Lost Villagers**
 
@@ -123,15 +123,15 @@ In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere 
 
 Groups of NPCs from different factions will spawn and attack each other. Helping a side will usually reward you with their respective reputation, though it may be bugged. Some of these events may include but are not limited to:
 
--   Etrean Footsoldiers Etreaiconfaction vs Authority Officers Authorityiconfaction ([Erisia](Erisia.md))
--   Etrean Guards Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
+-   Vigil Swordsmen Etreaiconfaction vs Authority Officers Authorityiconfaction ([Erisia](Erisia.md))
+-   Etrean Soldiers Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   Legion Soldiers vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   Legion Captain + Legion Soldier vs Authority Officers Authorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>), [Upper Erisia](Upper_Erisia.md))
 -   Summer Company Guards Summericonfaction vs Bandits ([Summer Isle](Summer_Isle.md))
 -   Summer Company Guards Summericonfaction vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
 -   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
--   Etrean Guards Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
--   Etrean Footsoldiers Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
+-   Vigil Swordsmen Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Legion Captain vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 
@@ -171,7 +171,7 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 
 #### **Feasting Megalodaunt**
 
-A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Footsoldier](Authority_Officer.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never despawn and are found in set locations. There are three locations they can be found at:
+A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Soldier](Authority_Soldier.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. The corpses never despawn and are found in set locations. There are three locations they can be found at:
 
 One in the [Towerstruck lands](Towerstruck_Lands.md).
 

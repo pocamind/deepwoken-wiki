@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 87833
+revid: 87852
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -323,7 +323,7 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 -   Compatible with a Multiplying Spark to instead send them one by one.
 -   Deals moderate damage.
 -   Has a good amount of range.
--   Inflicts mediocre Chill. (0.2s)
+-   Does not inflict chill
 
  |
 |  | 
