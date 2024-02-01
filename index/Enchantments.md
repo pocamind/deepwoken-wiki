@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 87776
+revid: 87863
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -257,16 +257,16 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Curse of the no life king.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the No Life King<div></div></font></center></td>
-  <td><div><p>While held and in combat, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
+  <td><div><p>While held, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
   <br>
-  Permanently stained health bar while the weapon is equipped. (If you unequip the weapon, then your bar should become unstained)<br>
-  2x blood damage taken in the overworld.<br>
-  When unsheathed in The Depths, lose 100 sanity. You will immediately die upon using the curse in the Depths if you don't have the sanity to use it (Same thing applies to the illusionary realm).<br>
-  While equipped, if you drop below 50% sanity and continue to lose sanity you will immediately die.<br>
+  Permanently stained health bar while the weapon is equipped. (If you unequip the weapon, then your bar should become unstained. Do note that this seems to be only visual and will not send you to The Depths if you're not at 1 life.)<br>
+  Take 2x blood damage from all sources when in the overworld.<br>
+  When unsheathed in The Depths, you will instantly lose 100 sanity. Unless you have a huge amount of willpower, this is guaranteed to kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
+  While equipped, if you drop below 50% sanity and continue to lose sanity you will immediately die. This includes being in the overworld.<br>
   <b>Disabled in Arena.</b><br>
-  <b>Viscosity is disabled.</b><br>
+  <b>Viscosity is disabled with this enchant.</b><br>
   <b>Conditioned runner is disabled.</b><br>
-  <b>Cauterized Wounds and Alloyblood have their effects significantly reduced.</b></p></div></td>
+  <b>Cauterized Wounds and Alloyblood talents will have their effects significantly reduced.</b></p></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
   When sheathed, the flame spikes are invisible.</div></td>
 </tr>

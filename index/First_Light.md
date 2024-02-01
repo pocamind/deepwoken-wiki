@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 87643
+revid: 87869
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -50,4 +50,4 @@ The user plunges their sword into the ground, similar to Flame Eruption, causing
 -   Back then, it had its own M1 animations. As it was later then removed, because "It was unfinished and buggy." However they have been recently remade.
 -   First Light was given a new critical along with it's reworked animations in an update, with the new critical having the ability to summon blades of fire from the sky.
 -   During the Deepwoken Youtuber Battle Royale Tournament on 7/1/2023, Youtuber "Trunks" used this sword to clutch out a victory during the 4th Round of the Tournament against "Floppingman" and "nogo" during the final circle.
-    -   This victory earned the necessary points for their duo to place second overall, giving Lightborn to both Trunks and Agamatsu.
+    -   This victory earned the necessary points for their duo to place second overall, giving [Lightborn](Lightborn.md) to both Trunks and Agamatsu.

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 87731
+revid: 87872
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -361,7 +361,7 @@ Iron Skin regenerates your regular armor's and your natural armor's durability(f
 
  | 
 
-Metal Absorption  
+Metal Shackles  
 (STR 15, METAL 45)
 
  | 
@@ -377,7 +377,7 @@ Guardbreaking an opponent will prevents them from receiving speed boost for 5 se
 
  | 
 
-Metal Shackles  
+Metal Absorption  
 (Iron Hug, METAL 45)
 
  | 

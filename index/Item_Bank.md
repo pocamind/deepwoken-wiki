@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 86353
+revid: 87861
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]

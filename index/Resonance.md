@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 87858
+revid: 87865
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -158,9 +158,11 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <ul>
     <li>Defeating bosses solo give more Progress.</li>
     <li>In a group, the MVP (most damage dealt) get Progress</li>
-    <li>In a group, dealing 80% of the damage of the MVP grant Progress.Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.</li>
+    <li>In a group, dealing 80% of the damage of the MVP grant Progress.</li>
+    <li>Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.</li>
   </ul><p><br>
-  <b>Listed from most to least preferred:</b></p>
+  </p>
+  <p><b>Listed from most to least preferred:</b></p>
   <ul>
     <li><b><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></b> gives the highest Progress reward of all boss monsters, allowing the player obtain a resonance in just 2-3 runs as well as dropping the best loot in the game. However, his fight brings a lot of risk as the player is incredibly prone to wiping in the Second Layer.<br>
   </li>
