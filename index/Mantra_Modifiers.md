@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 87868
+revid: 87874
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -997,6 +997,8 @@ Frozen Servants
  | 
 
 File:Frozen servants reversal spark 3.gif
+
+ | 
 
 -   This modifier causes the servants from the "Frozen Servants" mantra to face outwards instead of inwards.
 

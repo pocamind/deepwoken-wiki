@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 87781
+revid: 87877
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -78,7 +78,15 @@ We've got them now.
 "On our honor...You perish here, worm."
 
  |
-| [Summer Company](The_Summer_Company.md) | 3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>) | “This one’s target practice.” |
+| [Summer Company](The_Summer_Company.md) | 3 [Summer Dragoons](<Summer_Dragoon_(NPC).md>)
+
+3 [Summer Goons](Summer_Goon.md)
+
+ | “This one’s target practice.”
+
+"Sleep with the 'skippers."
+
+ |
 | [Ministry](The_Ministry.md) | 1-3 [Ministry Enforcers](Ministry_Enforcer.md)
 
 1-3 Ministry Footpads
