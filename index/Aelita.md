@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 87878
+revid: 87882
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -54,9 +54,6 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Mist Assassin Cloak (Extremely rare) (rarer than enchants)
 -   Gold Assassin Cloak (Extremely rare)
 -   Crimson Assassin Cloak (Extremely rare)
--   Mist Assassin Hood (Extremely rare)
--   Gold Assassin Hood (Extremely rare)
--   Crimson Assassin Hood (Extremely rare)
 
 ## Trivia/Notes
 

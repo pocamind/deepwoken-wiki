@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 87615
+revid: 87887
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -25,36 +25,36 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 ### **Weapons:**
 
 -   Uniquely to her, the weapon she sells have a chance to be enchanted.
-    -   [Trident Spear](Trident_Spear.md) (300 )
-    -   [Whaling Knife](Whaling_Knife.md) (300 )
-    -   [Adretian Axe](Adretian_Axe.md) (300 )
-    -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) (300 )
-    -   [Vigil Longsword](Vigil_Longsword.md) (300 )
+    -   [Trident Spear](Trident_Spear.md) ( )
+    -   [Whaling Knife](Whaling_Knife.md) ( )
+    -   [Adretian Axe](Adretian_Axe.md) ( )
+    -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) ( )
+    -   [Vigil Longsword](Vigil_Longsword.md) ( )
 
 ### **Armor Schematics:**
 
--   [Mercenary Armor](Hired_Mercenary.md) (80 )
--   [Ignition Union Uniform](Ignition_Union_Uniform.md) (80 )
--   [Hired Mercenary](Hired_Mercenary.md) (80 )
--   [Eager Tradesman](Eager_Tradesman.md) (200)
+-   [Mercenary Armor](Hired_Mercenary.md) ( )
+-   [Ignition Union Uniform](Ignition_Union_Uniform.md) ( )
+-   [Hired Mercenary](Hired_Mercenary.md) ( )
+-   [Eager Tradesman](Eager_Tradesman.md) ( )
 -   [Merchant Robe](Merchant_Robes.md) (?? )
--   Authority Uniform (80 )
--   [Authority Commander Uniform](Authority_Captain_Uniform.md) (80 )
+-   Authority Uniform ( )
+-   [Authority Commander Uniform](Authority_Captain_Uniform.md) ( )
 -   [Diver Apprentice](Diver_Apprentice_Robes.md) (?? )
--   [Hive Drone](Hive_Drone.md) (80 )
+-   [Hive Drone](Hive_Drone.md) ( )
 -   [Ignition Coat](Ignition_Union_Uniform.md) (?? )
--   [Keeper](Keeper.md) (80 )
+-   [Keeper](Keeper.md) ( )
 -   [Legion Centurion](Legion_Centurion.md) (?? )
--   [Prophet's Cloak](<Prophet's_Cloak.md>) (200 )
+-   [Prophet's Cloak](<Prophet's_Cloak.md>) ( )
 -   [Vigil Cloak](Cloak_of_Winds.md) (?? )
--   [Tactician](Hive_Tactician_Armor.md) (80 )
--   [Pathfinder Journeyman](Pathfinder_Cloak.md) (200 )
--   [Whaler Coat](Whaler_Coat.md) (200 )
--   [Pathfinder Sorcerer](Pathfinder_Arch-Sorcerer.md) (200 )
--   [Flame Worshipper](Flame_Worshipper_Armor.md) (80 )
--   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) (200 )
+-   [Tactician](Hive_Tactician_Armor.md) ( )
+-   [Pathfinder Journeyman](Pathfinder_Cloak.md) ( )
+-   [Whaler Coat](Whaler_Coat.md) ( )
+-   [Pathfinder Sorcerer](Pathfinder_Arch-Sorcerer.md) ( )
+-   [Flame Worshipper](Flame_Worshipper_Armor.md) ( )
+-   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) ( )
 -   [Cloak of Winds](Cloak_of_Winds.md) ( )
--   [Prophets Cloak](<Prophet's_Cloak.md>) (200 )
+-   [Prophets Cloak](<Prophet's_Cloak.md>) ( )
 
   
 

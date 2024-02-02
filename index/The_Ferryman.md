@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 87186
+revid: 87891
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -279,7 +279,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   ~The Ferryman's clones can drop luck particles which give you an investment point.~ Luck is no longer used or available, as of Verse 2.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
--   The Ferryman is voiced by [Demstormz](https://www.youtube.com/@demstormz).
+-   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
 -   The Ferryman now has First Interrogation, Second Interrogation, Authority Intimidation, and Resolve Crusher talents.
 -   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
 

@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 87820
+revid: 87892
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -167,7 +167,7 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 
 ## Trivia
 
--   Chaser is voiced by YouTuber DemStormz.[\[4\]](#cite-note-4)
+-   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.

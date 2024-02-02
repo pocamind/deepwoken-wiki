@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 86782
+revid: 87885
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -75,7 +75,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
  | _Strike down your foes with your blinding light._ | 
 
 -   This mantra is unparriable and unblockable and will blockbreak anyone that attempts to do so.
--   ~Doesn't proc Absolute Radiance.~ Now procs after some unknown update
+-   Procs Absolute Radiance.
 
  |
 
