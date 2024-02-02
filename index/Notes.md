@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 84011
+revid: 87909
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -37,3 +37,4 @@ The max amount of Notes you can carry is.
 ## Trivia/Notes
 
 -   Modifier buyers refer to Notes as "Sand Dollars," which is the same.
+-   The cap for the Notes were 10,000 but they extended it to 15,000.
