@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 87544
+revid: 87899
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mantras, Character, Attunement, Mechanics]
@@ -57,7 +57,7 @@ enemies.
     -   Compatible with Surge Path.
     -   Scales with both Ironsing and Thundercall.
     -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon more.
-    -   Can be upgraded with a [Spring Spark](Mantra_Modifiers.md) allowing it to move.
+    -   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.
 
  |
 | 

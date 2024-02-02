@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 84573
+revid: 87894
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -34,7 +34,7 @@ You will be able to tell her this once you meet the following requirements ( do 
 -   Had completed Galewax at least once.
 -   Had beaten Chaser at least once.
 -   Have 2 specific talents obtained exclusively from Layer 2;
-    -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the cave labyrinth, and talking to The Leader located at Fir-fire
+    -   Ethiron Gaze, which is obtained after interacting with an ice spear inside the cave labyrinth, and talking to The Leader located at Firfire
     -   Union Hook, which is obtained after you have turned on the generator located after the bridge where a Bone Keeper blocks it and prevents you from going through unless you kill him, so you can access The Frontier Furnace and talk to Alpha, the NPC who will give you the talent.
 
 ## Trivia

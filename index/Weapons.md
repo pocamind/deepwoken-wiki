@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 87831
+revid: 87895
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -334,15 +334,15 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 <tr>
   <td><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></td>
   <td>40 LHT, LVL 5</td>
-  <td>14</td>
+  <td>13.5</td>
   <td>20%</td>
   <td>10%</td>
   <td>LHT: 9</td>
   <td>3</td>
   <td>7</td>
   <td>0.9x</td>
-  <td>0.05s</td>
-  <td>26.2</td>
+  <td>N/A</td>
+  <td>25.3</td>
 </tr>
 <tr>
   <td><a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a></td>
