@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 73151
+revid: 88054
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1]
@@ -10,7 +10,7 @@ categories: [Locations, The Depths, Layer 1]
 
 LocationL Varicosa District LocationR
 
-TERRITORY OF celtor
+TERRITORY OF lost celtor
 
 It's sometimes mused that the greed, excess and petty politics of those in this district had already killed this city before it drowned.
 
@@ -26,5 +26,5 @@ The Varicosa District is a section of The City of the Drowned distinguished by i
 
 ## Trivia/Notes
 
--   In this district there is the Shadow trainer which can give you a nightblood potion for 5 umbral obsidians.
--   Umbrite can be found in the cave where [Nostor](Nostor,_Master_of_Shadow.md) resides, which can be used to obtain Ironsing.
+-   In this district there is the Shadow trainer which can give you a [Nightblood Potion](Attunement_Potions.md) for 5 [umbral Obsidian](Umbral_Obsidian.md).
+-   [Umbrite](Ores.md#umbrite) can be found in the cave where [Nostor](Nostor,_Master_of_Shadow.md) resides, which can be used to obtain Ironsing.

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 87111
+revid: 88067
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -86,77 +86,77 @@ _Deepwoken_ currently has 3 Unavailable armor that has been discovered.
   <td></td>
 </tr>
 <tr>
-  <td>Kingdom of Etrea<p>Vigils of Wind</p></td>
+  <td><a href="Etrea.md">Etrea</a></td>
   <td></td>
   <td><a href="Vigil_Initiate.md">Vigil Initiate</a></td>
   <td><a href="Cloak_of_Winds.md">Cloak of Winds</a></td>
   <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></td>
 </tr>
 <tr>
-  <td>The Central Authority</td>
+  <td><a href="The_Central_Authority.md">The Central Authority</a></td>
   <td></td>
   <td>Authority Peacekeeper Armour</td>
   <td><a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a></td>
   <td><a href="Authority_Commander.md">Authority Commander</a></td>
 </tr>
 <tr>
-  <td>The Divers</td>
+  <td><a href="The_Divers.md">The Divers</a></td>
   <td></td>
   <td><a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a></td>
   <td><a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a></td>
   <td><a href="Black_Diver.md">Black Diver</a></td>
 </tr>
 <tr>
-  <td>The Hive</td>
+  <td><a href="The_Hive.md">The Hive</a></td>
   <td></td>
   <td></td>
   <td><a href="Hive_Drone.md">Hive Drone</a>, <a href="Hive_Tactician_Armor.md">Hive Tactician Armor</a></td>
   <td></td>
 </tr>
 <tr>
-  <td>The Ignition Union</td>
+  <td><a href="The_Ignition_Union.md">The Ignition Union</a></td>
   <td></td>
   <td><a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a></td>
   <td></td>
   <td><a href="Ignition_Deepdelver.md">Ignition Deepdelver</a></td>
 </tr>
 <tr>
-  <td>The Summer Company</td>
+  <td><a href="The_Summer_Company.md">Summer Company</a></td>
   <td></td>
   <td><a href="Summer_Company_Uniform.md">Summer Company Uniform</a></td>
   <td></td>
   <td><a href="Summer_Dragoon.md">Summer Dragoon</a></td>
 </tr>
 <tr>
-  <td>Children of Navae</td>
+  <td>The Children Of Navae</td>
   <td></td>
   <td><a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></td>
   <td></td>
   <td><a href="Navaen_War_Chief.md">Navaen War Chief</a></td>
 </tr>
 <tr>
-  <td>The Hundred Legions</td>
+  <td><a href="The_Hundred_Legions.md">The Hundred Legions</a></td>
   <td></td>
   <td><a href="11th_Legion_Plate.md">11th Legion Plate</a></td>
   <td></td>
   <td><a href="Legion_Centurion.md">Legion Centurion</a></td>
 </tr>
 <tr>
-  <td>The Knives of Eylis</td>
+  <td><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></td>
   <td>Whaler Initate</td>
   <td></td>
   <td><a href="Whaler_Coat.md">Whaler Coat</a></td>
   <td></td>
 </tr>
 <tr>
-  <td>Lost Celtor</td>
-  <td></td>
-  <td><a href="Duelist's_Attire.md">Duelist's Attire</a></td>
+  <td><a href="Lost_Celtor.md">Lost Celtor</a></td>
   <td></td>
   <td></td>
+  <td></td>
+  <td><a href="Celtorian_Tideknight.md">Celtorian Tideknight</a></td>
 </tr>
 <tr>
-  <td>The Ministry</td>
+  <td><a href="The_Ministry.md">The Ministry</a></td>
   <td></td>
   <td></td>
   <td></td>

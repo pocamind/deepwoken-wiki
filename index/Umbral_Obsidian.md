@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 76385
+revid: 88080
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -32,7 +32,7 @@ By giving (5) Umbral Obsidian to the trainer located in the [Celtor Wastes](Celt
 
 ## Obtainment
 
-Umbral Obsidian can drop from certain monsters, chests, and enemies that use the [shadowcast](Shadowcast.md) attunement.
+Umbral Obsidian can drop from certain monsters, chests, and enemies that use the [Shadowcast](Shadowcast.md) attunement.
 
 ### NPCs
 
@@ -54,3 +54,4 @@ Umbral Obsidian can drop from certain monsters, chests, and enemies that use the
 -   Can be used to make an Umbral Flint that has 150 uses by combining an Umbral Obsidian and a Coal.
 -   Can be consumed so be careful when holding it.
 -   Roughly 10% chance to drop from Megalodaunts and Lionfishes.
+-   Eating Umbral Obsidians if you have Shadowcast will give EXP for Shadowcast, thus training it.

@@ -1,6 +1,6 @@
 ---
 title: Wyvern Officer
-revid: 83111
+revid: 88088
 source: https://deepwoken.fandom.com/wiki/Wyvern_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Exclusive Outfits, Outfits]
@@ -16,4 +16,4 @@ Template:ArmorInfobox**Wyvern Officer** is a Unique (Spec/Mod) [Outfit](Outfits.
 
 -   It's unknown what its stats where, but they were presumably great enough to be on par with late game Outfits, as many members chose to wear the Outfit rather than just Transmog it prior to it being purged, as well as the stats being significant enough for there to be a rule against leaking them.
 -   On the very day it was added, it was effectively deleted by turning it into the [Stranded](Stranded.md) Outfit, replacing both its stats and appearance. This was due to it being made with machine learning programs, as well as a general distaste for Guild exclusive gear.
-    -   Attempting to Transmog the Outfit results in it being voided and lost forever, not even allowing members of the guild to bear the Stranded Outfit as a mark of shame.
+    -   If you attempted to Transmog the Armor in an old server back when it was still around, it would actually work, with the player wearing Stranded in newer servers.

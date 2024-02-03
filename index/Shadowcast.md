@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 87114
+revid: 88077
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -18,7 +18,7 @@ Shadowcast is an attunement that the player is required to unlock and cannot sta
 
 ## Obtainment & Training
 
-Shadowcast can be trained with a combination of the Pure Heart and Shadowcast Mantras.
+Shadowcast can be trained with a combination of the Pure Heart and Shadowcast Mantras, or eating [Umbral Obsidian](Umbral_Obsidian.md).
 
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
@@ -27,7 +27,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Shadowcast level 30, players will receive the _Expert Shadowcaster_ Talent. This allows players to unlock 2-star Shadowcast Mantras
 -   Finally, at Shadowcast level 50, players will receive the _Master Shadowcaster_ Talent. This finally allows Shadowcast users to unlock the last category, 3-star Mantras
 
-The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), using five [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after unlock. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Nightblood potion](Attunement_Potions.md) obtained in the [First Layer](First_Layer.md) inside the [Varicosa District](Varicosa_District.md) of [The City of the Drowned](The_City_of_the_Drowned.md), using five [Umbral Obsidian](Umbral_Obsidian.md), and can upgrade spells for 100 Notes each. Shadowcast is unlocked permanently like other elements and can be started with after being unlocked. Each upgrade purchased will make the next upgrade for the same Mantra 100 notes more expensive.
 
 -   To upgrade a Shadowcast Mantra from level 1 to level 2 costs.
 -   To upgrade a Shadowcast Mantra from level 2 to level 3 costs.
@@ -684,7 +684,7 @@ Enemies will briefly hang in place when hit by a shadow move.
 -   Shadowcast has many moves that seem to be direct references to abilities in Rogue Lineage and Tales from the Valley, and the element seems to have much more general utility than the others.
     -   An interesting example of this would be using a blast spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash (and by extension, Cero Metralleta from Bleach).
 -   Just like every other attunement other than Flamecharm, Shadowcast has its own legendary weapon called the [Crypt Blade](Crypt_Blade.md). It is an elemental greatsword found in [The Depths](The_Depths.md), similarly to Shadowcast.
--   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md).
+-   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast mantras without going to Scyphozia.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Celtor Wastes
-revid: 88048
+revid: 88051
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
@@ -57,10 +57,17 @@ The main area of farming in the depths, outside the City of Drowned.
 -   [Gigameds](Gigamed.md)
 -   [Lionfish](Lionfish.md)
 -   [Megalodaunt](Megalodaunt.md)
+-   [Tresher](Thresher.md)
+-   [King Tresher](Thresher.md#king-thresher)
+-   [Deep Owl](Deep_Owl.md)
+-   [Deep Widow](Deep_Widow.md)
 
 ## Events
 
--   [Akira](Akira.md)  
+-   [Akira](Akira.md)
+-   [Lionfish](Lionfish.md) vs. Diver Apprentices
+-   [King Tresher](Thresher.md#king-thresher) vs. Diver Apprentices
+-   [Depths Collapse](Random_Encounters.md#the-depths-collapse)  
     
 
 ## Loot Table
@@ -71,3 +78,11 @@ Below is a list of loot that can be found in the Celtor Wastes.
 
 -   [Black Diver](Black_Diver.md)
 -   [Navaen War Chief](Navaen_War_Chief.md)
+-   [Prophet's Cloak](<Prophet's_Cloak.md>)
+-   [Legion Centurion](Legion_Centurion.md)
+-   [Eager Tradesman](Eager_Tradesman.md)
+-   [Keeper](Keeper.md)
+-   [11th Legion Plate](11th_Legion_Plate.md)
+-   [Diver Apprentice Robes](Diver_Apprentice_Robes.md)
+-   [Diver Journeyman Robes](Diver_Journeyman_Robes.md)
+-   [Hired Mercenary](Hired_Mercenary.md)

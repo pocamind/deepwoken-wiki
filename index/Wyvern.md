@@ -1,6 +1,6 @@
 ---
 title: Wyvern
-revid: 83109
+revid: 88087
 source: https://deepwoken.fandom.com/wiki/Wyvern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Exclusive Outfits, Outfits]
@@ -15,4 +15,4 @@ Template:ArmorInfobox**Wyvern** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _
 ## Trivia
 
 -   On the very day it was added, it was effectively deleted by turning it into the [Stranded](Stranded.md) Outfit, replacing both its stats and appearance. This was due to it being made with machine learning programs, as well as a general distaste for Guild exclusive gear.
-    -   Attempting to Transmog the Outfit results in it being voided and lost forever, not even allowing members of the guild to bear the Stranded Outfit as a mark of shame.
+    -   If you attempted to Transmog the Armor in an old server back when it was still around, it would actually work, with the player wearing Stranded in newer servers.

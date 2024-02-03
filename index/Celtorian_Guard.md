@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 82070
+revid: 88065
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 Celtorian Guards are an NPC that can only be found in [The Depths](The_Depths.md). They are found in and around Celtor. Having spent so long in [The Depths](The_Depths.md) has lead to them degrading overtime, referred to only as 'losing their self.'
 
-They wear a [Barrel Helm](Barrel_Helm.md) and don a [Duelist's Attire](<Duelist's_Attire.md>).
+They wear a [Barrel Helm](Barrel_Helm.md) and don a [Celtorian Tideknight](Celtorian_Tideknight.md).
 
 ## Moveset
 
@@ -37,6 +37,7 @@ Their arsenal consists of either a [Messer](Messer.md) or [Trident Spear](Triden
 -   Giantslayer - Deal more damage to larger foes. (10% more damage to Monsters)
 -   Braced Collapse - After being block broken, the next attack to hit you deals reduced damage.
 -   Charged Return - Being under an elemental status effect causes your M1's and critical attacks to do 20% more damage.
+-   Tidekeeper - Upon losing 25% of their health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents them from being knocked for 10 seconds.
 
 ## Finisher
 

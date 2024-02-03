@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 84716
+revid: 88100
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -228,7 +228,7 @@ _noun_
 
 _noun_
 
-1.  Acronym for the the [Portals](Portals.md) resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The resonance is similar to his ultimate ability.
+1.  Acronym for the [Portals](Portals.md) resonance, used to turn invisible and gain I-frames for a set duration. It is a reference to a Valorant character named Yoru. The resonance is similar to his ultimate ability.
 
 ## Outside Combat
 
@@ -282,8 +282,9 @@ _noun_
 
 noun
 
-1.  Depends on the context.
-    1.  If it's in the [First Layer](First_Layer.md) of the depth, it refers to the [Gigamed](Gigamed.md) (Small version)
+1.  Refers to a player, NPC or monster that is weak and only serves to replenish health, via the [Carnivore](Talents.md) talent, when killed.
+2.  Examples depends on the context.
+    1.  If it's in the [First Layer](First_Layer.md) of the depths, it refers to the [Gigamed](Gigamed.md) (Small version)
     2.  If it's during the [Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
 
 ## Acronyms/Short Forms
