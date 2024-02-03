@@ -1,6 +1,6 @@
 ---
 title: The Birdcage
-revid: 60419
+revid: 87928
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -17,7 +17,7 @@ Now abandoned, the floors still void of the ashes they so desparately crave.
 
 ## Overview
 
-The Birdcage resembles a lighthouse-like structure. It is on the other side of the island behind the Temple of Forgotten Flame.
+The Birdcage resembles a lighthouse-like structure. It is on the other side of the island to the northeast of the Temple of Forgotten Flame.
 
 Inside the Birdcage, there are four firepits that can only be lit with a Soul Hearthgem. You can interact with the firepits when you have the item equipped, and have to light the pits in a specific order.
 

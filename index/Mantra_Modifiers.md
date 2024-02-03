@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 87910
+revid: 87911
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -486,13 +486,10 @@ Reversal Spark
 -   Flame Leap
 -   Fire Blade
 -   Lightning Impact
--   Grand Javelin
 -   Air Force
--   Tornado
 -   Adrenaline Surge
 -   Dash
 -   Disguise
--   Revenge
 -   Burning Servants
 -   Frozen Servants
 
@@ -555,7 +552,6 @@ Tornado Spark
 
  | 
 
--   Champion's Whirlthrow
 -   Storm Blades
 -   Dark Blade
 

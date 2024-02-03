@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 86953
+revid: 87912
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -25,7 +25,7 @@ notices:
 
 ## Quests
 
--   **Chaser's Hemokinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet.
+-   **Chaser's Hemokinesis -** A quest was planned that would reveal how Chaser obtained his blood powers from the Ministry's Second Prophet via interacting with Ministry members hiding around the Second Layer's first floor.
 -   **Commander Rayner -** A quest that required travelling to the Isle of Crows and finding a basement. Though the Isle was removed, Rayner remained for a bit until eventually he too was removed.
 
 ## Player
