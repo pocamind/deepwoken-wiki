@@ -1,16 +1,12 @@
 ---
 title: "Attunement-less"
-revid: 86678
+revid: 88004
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
 ---
 
 # Attunement-less
-
-“ Some people use otherworldly powers to overcome obstacles. Cast flame upon enemies, strike them with lightning. Some use frozen monoliths to pass large bodies of water, use the wind to soften the fall. While some, use the tools they are given to overcome roadblocks. Train your strength to flatten enemies, use the power of momentum to ignite flames. Use massive battleships to cross water, train legs to become steel. Be what others define as "King". No light shows, no ice cubes, no static, no puffs of wind. Strength, Fortitude, Agility, Willpower, Charisma, Intelligence. Hone your body to the perfect specimen. Use your bare hands to overcome all. ”
-
-― Journal of Jericho
 
 File:Attunement-less icon.png
 
@@ -111,6 +107,16 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>
     <li>In game it is still labeled as a light weapon mantra.</li>
   </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Skyshatter Kick<p>(☆☆☆)</p></td>
+  <td><i>Unleash two devasting kicks with your brute strength.</i></td>
+  <td>60 Ether</td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
   </ul></td>
 </tr>
 </tbody>
@@ -431,50 +437,68 @@ File:Disguising .gif
 
 ### _**Medium Weapon Mantras**_
 
-| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
-| --- | --- | --- | --- | --- |
-| 
- | Master's Flourish
-
-(☆☆☆)
-
- | _A powerful slash that chips through block and slashes through armor._ | 45 Ether | 
-
--   **Requirements:** _**30 Medium Weapon,**_ _Combat Mantra_
-    -   A spinning double slice with your sword.
-    -   Deals Chip Damage.
-    -   Deals knock back
-
- |
-| 
-
- | Prominence Draw
-
-(☆☆☆)
-
- | _Close the distance and deliver a fast slash._ | 65 Ether | 
-
--   **Requirements:** **50 Medium Weapon.** _Combat Mantra_
--   If in range, locks on to the closest target/player/humanoid enemy
--   Dash forward and do a large AOE slice with your sword.
--   Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.
-
- |
-| 
-
-File:Attunement-less icon.png
-
- | Flashdraw
-
-Strike  
-(☆☆☆)
-
- | _Switftly unsheathe your blade and deliver an upwards strike._ | 40 Ether | 
-
--   **Requirements:** _**60 Medium Weapon, 25 Agility**_ _Combat Mantra_
--   Send the caster up into the air on hit into an uppercut like state
-
- |
+<table><caption></caption>
+<tbody>
+<tr>
+  <th><b>Media</b></th>
+  <th><b>Name</b></th>
+  <th><b>Card Description</b></th>
+  <th><b>Ether Cost</b></th>
+  <th><b>Effect &amp; info</b></th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Master's Flourish<p>(☆☆☆)</p></td>
+  <td><i>A powerful slash that chips through block and slashes through armor.</i></td>
+  <td>45 Ether</td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>30 Medium Weapon,</b></i> <i>Combat Mantra</i>
+  <ul>
+    <li>A spinning double slice with your sword.</li>
+    <li>Deals Chip Damage.</li>
+    <li>Deals knock back</li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Prominence Draw<p>(☆☆☆)</p></td>
+  <td><i>Close the distance and deliver a fast slash.</i></td>
+  <td>65 Ether</td>
+  <td>
+  <ul>
+    <li><u><b>Requirements:</b></u> <b>50 Medium Weapon.</b> <i>Combat Mantra</i></li>
+    <li>If in range, locks on to the closest target/player/humanoid enemy</li>
+    <li>Dash forward and do a large AOE slice with your sword.</li>
+    <li>Allows for move stacking an M1 strike which 100% guarantees the mantra or M1 hit.</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
+  <td>Flashdraw<p>Strike<br>
+  (☆☆☆)</p></td>
+  <td><i>Switftly unsheathe your blade and deliver an upwards strike.</i></td>
+  <td>40 Ether</td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u></b> <i><b>60 Medium Weapon, 25 Agility</b></i> <i>Combat Mantra</i></li>
+    <li>Send the caster up into the air on hit into an uppercut like state</li>
+  </ul></td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Twincleave<p>(☆☆☆)</p></td>
+  <td>...</td>
+  <td>25<p>Ether</p></td>
+  <td>
+  <ul>
+    <li><b><u>Requirements:</u> 40</b> <i><b>Medium Weapon</b></i></li>
+    <li><b>First slashes forward, then slash pushes you backwards</b></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 ### _**Heavy Weapon Mantras**_
 

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 87388
+revid: 88012
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -45,11 +45,11 @@ This weapon comes with two passive abilities:
 
 ### One Handed Critical
 
-The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
+The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
 
 ### Two Handed Critical
 
-The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
+The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
 
 ## Trivia
 

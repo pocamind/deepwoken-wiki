@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 87765
+revid: 88014
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -4361,6 +4361,7 @@ Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloo
 
 Found from:
 
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
@@ -4734,6 +4735,7 @@ Allows wearer to drink sea-water and acid without vomiting.
 
 Found from:
 
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
@@ -4754,6 +4756,7 @@ Mantra damage increased by 10%, but reduces melee damage by 10%.
 
 Found from:
 
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
@@ -4775,6 +4778,7 @@ This ring runs the random event check more frequently and partially ignores anti
 
 Found from:
 
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [Deep Widow](Deep_Widow.md)
 -   [First Layer](First_Layer.md)
@@ -4793,6 +4797,7 @@ Enemies you hit have their healing reduced by 50%
 
 Found from:
 
+-   [Etrea VS Eylis Sea Event](Knife_of_Eylis.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)

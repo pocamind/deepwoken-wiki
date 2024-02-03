@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 87799
+revid: 88015
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -58,6 +58,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   [Hallowtide Mask](Hallowtide_Mask.md)
 -   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
 -   Poser's Ring
+-   Manor's Key
 
 ## Artifacts
 

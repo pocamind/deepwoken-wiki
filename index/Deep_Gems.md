@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 84266
+revid: 88003
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -37,9 +37,9 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
   <th>Effect</th>
 </tr>
 <tr>
-  <td><figure>File:Gfggggg.png<figcaption></figcaption></figure></td>
-  <td>Insignia Gem</td>
-  <td>The next Mantra you cast within a short timeframe will have a 50% windup reduction.</td>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Blessed Gem</td>
+  <td>On hit, reduces the cooldown of the mantra it's on by half.</td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
@@ -48,13 +48,13 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
-  <td>Blessed Gem</td>
-  <td>On hit, reduces the cooldown of the mantra it's on by half.</td>
-</tr>
-<tr>
-  <td><figure><figcaption></figcaption></figure></td>
   <td>Blue Gem</td>
   <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.<p>This is the only gem that provide a tangible effects to mantras that do not hit enemies.</p></td>
+</tr>
+<tr>
+  <td><figure>File:Gfggggg.png<figcaption></figcaption></figure></td>
+  <td>Insignia Gem</td>
+  <td>The next Mantra you cast within a short timeframe will have a 50% windup reduction.</td>
 </tr>
 <tr>
   <td><figure>File:Screenshot 59.png<figcaption></figcaption></figure></td>

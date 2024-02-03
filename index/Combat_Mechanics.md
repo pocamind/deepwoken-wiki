@@ -1,9 +1,9 @@
 ---
 title: Combat Mechanics
-revid: 87704
+revid: 87958
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Deepwoken, Mechanics, Helpful]
+categories: [Deepwoken, Mechanics, Helpful]
 ---
 
 # Combat Mechanics
@@ -35,6 +35,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, so you should do your best to keep this bar as low as possible when engaging in combat. When the bar cannot hold anymore energy, the next blocked hit will instead guard break, dealing increased damage and stunning you.
   <ul>
     <li>Posture decreases if the player lands parries and/or stops blocking.</li>
+    <li>When blocking while in shaky/weak block frames your posture bar now glows red to indicate that your block isn't full yet</li>
     <li>Spitting <kbd>T</kbd> on NPCs also restores posture by a great amount. (Not recommended as you'll be forced to stand still for the taunt)</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
@@ -44,10 +45,14 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <ul>
     <li>The first icon represents roll/dodge cooldown.</li>
     <li>The second icon represents parrying cooldown.</li>
-    <li>The third icon represents cancels and feints cooldowns.</li>
-    <li>The fourth icon represents potion sickness cooldown.</li>
+    <li>The third icon represents when block is fully functional.</li>
+    <li>The fourth icon represents cancels and feints cooldowns.</li>
     <li>The fifth icon represents <a href="Resonance.md">Resonance</a> cooldown.</li>
-  </ul><figure>File:HDSymbols.png<figcaption></figcaption></figure></td>
+  </ul><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Cooldown Indicators</th>
+  <td>Cooldown Indicators represent the cooldown for mostly everything in-game, from talents like kick-off, propagandist, and audacity, to criticals, feints, resonances, and even special attacks like Sudaruska's fury. It has the name of the cooldown on the left side, and the amount of time until you can use it on the right.<figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <th>Ether Bar</th>
@@ -163,6 +168,11 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
     <li>For example, if the soft cap would be 240; the hard cap would be anything past that.</li>
   </ul></td>
   <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <th>Locking Items</th>
+  <td colspan="7">By right-clicking on a sellable/droppable item, you can lock it. By locking it you prevent the item from being sold or dropped while giving it an appearance of chained borders.</td>
+  <td><figure><figcaption></figcaption></figure><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

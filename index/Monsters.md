@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 87893
+revid: 87976
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -111,6 +111,8 @@ Certain Monsters have unique visual effects when attuned.
 **Trial of One:**
 
 **Duke's Manor:**
+
+**Diluvian Mechanism:**
 
 ## Monster Hunting Advice
 

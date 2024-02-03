@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 85735
+revid: 87940
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -30,3 +30,4 @@ This Outfit's Schematic can be found in:
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [The Depths](The_Depths.md) (Chest)
 -   [Deep Widow](Deep_Widow.md) (Chest)
+-   [Primadon](Primadon,_Titan_of_the_East.md) (Chest)
