@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 88004
+revid: 88027
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -573,7 +573,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 
 -   You can increase the distance travelled of dashes with [Drift Shard](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md), although this does not work with Strong Leap, this makes the spell a little too costly, a [Blue Gem](Deep_Gems.md) will help with this though.
 -   **Although many attunement-less mantras have relatively low requirements, it’s highly recommended to spec into those stats.**
--   You can increase the duration of Charisma related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); Doing this with some other mantras like Adrenaline Rush, Brace or Reinforce will not work, however.
+-   You can increase the duration of ~Charisma~ (Taunt cannot be modified, neither can be sing) related mantras with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md); Doing this with some other mantras like Adrenaline Rush, Brace or Reinforce will not work, however.
 -   Considering that the majority of players choose air stabbing as a way of closing distance, disabling it with Taunt will mess up their playstyle somewhat or even entirely.
 -   Charisma mantras are a very good choice for gunslinger related builds considering your enemy will resort to a "hit n'run" playstyle in order to defeat you.
 -   Most Attunement-less mantras serve as utility in order to assist you in either combat or general survival.

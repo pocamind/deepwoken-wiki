@@ -1,9 +1,9 @@
 ---
 title: Celtor Wastes
-revid: 87692
+revid: 88048
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations]
+categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -13,6 +13,18 @@ notices:
 LocationL Celtor Wastes LocationR
 
   
+  
+
+File:Image 2024-02-03 125503672.png
+
+  
+
+  
+
+  
+
+  
+
   
 
 **Celtor Wastes** is a location in _Deepwoken_. It is a region in [The Depths](The_Depths.md).

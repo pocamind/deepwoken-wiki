@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 86850
+revid: 88028
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -37,5 +37,5 @@ This Outfit's Schematic can be found in:
 -   Does not give you any abilities used by The Ferryman, nor does it affect your [thundercall](Thundercall.md) mantras.
 -   The shirt can be found [here](https://www.roblox.com/catalog/5825770743/Night-Walker)
 -   The pants can be found [here](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
--   The only known obtainable outfit in the game with the "Unique" tier as of now.
--   If you have thundercall with resolve crusher talent, when you electrify opponents (hit them with a mantra) all their attacks will be converted into lighting damage, meaning that the high lightning resistance will proc and basically make you a great resistance pretty easily.
+-   ~The only known obtainable outfit in the game with the "Unique" tier as of now.~ As 3/2/2024 Update, A new unique outfit **Tidekeeper** has been added to the game.
+-   If you have Thundercall with resolve crusher talent, when you electrify opponents (hit them with a mantra) all their attacks will be converted into lighting damage, meaning that the high lightning resistance will proc and basically make you a great resistance pretty easily.
