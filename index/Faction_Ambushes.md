@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 87877
+revid: 88208
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Reputation, Mechanics]
@@ -89,7 +89,7 @@ We've got them now.
  |
 | [Ministry](The_Ministry.md) | 1-3 [Ministry Enforcers](Ministry_Enforcer.md)
 
-1-3 Ministry Footpads
+1-3 [Ministry Footpads](Ministry_Footpad.md)
 
  | "We take this one's head or it'll be ours next."
 
@@ -110,9 +110,13 @@ We've got them now.
 "You're nothing compared to the horrors of the depths."
 
  |
-| [The Divers](The_Divers.md) | 1 [Black Diver](<Black_Diver_(NPC).md>) | "We've got research to get back to so let's make this quick." |
-| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 Knives of Eylis
+| [The Divers](The_Divers.md) | 1 [Black Diver](<Black_Diver_(NPC).md>) | "We've got research to get back to so let's make this quick."
 
-3 Elite Knife of Eylis
+"Yield, traitor to mankind."
+
+ |  |
+| [The Knives of Eylis](The_Knives_of_Eylis.md) | 3 [Knives of Eylis](Knife_of_Eylis.md)
+
+3 [Old Knife of Eylis](Old_Knife_of_Eylis.md)
 
  | "Boss'll be pleased about this one." |

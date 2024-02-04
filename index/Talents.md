@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88167
+revid: 88194
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -843,8 +843,6 @@ _**"I dance with the flames."**_
     -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
 
 ### Freak Of Nature
-
-> _**"I'm built different."**_
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Vesperians will only gain 8% armor from this talent, totalling to 13% with their own natural armor.

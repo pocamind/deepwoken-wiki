@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 87415
+revid: 88224
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -93,9 +93,8 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra.
--   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for Nostor and Amashi. (Ex. Killing Friid in the Isle of Vigils will grant you bad rep with Etrea.)
+-   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for Nostor and Amashi(Ex. Killing Friid in the Isle of Vigils will grant you bad rep with Etrea.)
 -   Due to this, you should keep some notes handy to pay off your rep so voidwalkers and faction ambushes won't come after you.
--   You can grip these trainers in "lawless areas" such as the Vigil's Mark at Isle Of Vigils. This ensures that you won't get bad reputation gripping them.
 
 ## Trivia
 

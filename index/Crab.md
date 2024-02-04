@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 88033
+revid: 88219
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Crabs are a Monster that were present during Deepwoken testing in the Overworld. They are small green crabs, barely above knee height, with seven light green eyes and slit pupils. They were re-added to the game, being an enemy in the Diluvian Mechanism dungeon in the depths.
+Crabs are a Monster that were present during Deepwoken testing in the Overworld, but were ultimately restricted to [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are small green crabs, barely above knee height, with seven light green eyes and slit pupils.
 
 ## Trivia
 

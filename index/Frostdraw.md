@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 87852
+revid: 88199
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -74,7 +74,7 @@ _Fire a beam of ice._
  | Fires a penetrating beam of ice.
 
 -   Deals light damage.
--   Inflicts Chill.
+-   Inflicts short chill. (2 seconds base, can be increased to 6 with one eternal max)
 -   Hits multiple times in a row.
 -   Knocks back
 -   Can be modified with cloudstones to make it wider.
@@ -96,7 +96,7 @@ _An icy chokehold._
 -   Deals moderate damage.
 -   If damage is enough to reduce opponent's health to 0, Instantly kills upon posture break.
 -   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground.
--   Applies chill with logstones (max of one eternal or two aeon logstones)
+-   Applies mediocre chill (0.5 second base, can go to 4.5 seconds with one eternal max)
 
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | 
@@ -111,7 +111,7 @@ _Revolving blades of ice._
  | User forms 4 ice blades around them, which rapidly rotate for a few seconds before shooting off into the distance.
 
 -   Deals light damage.
--   Rotation does not inflict Chill, but a sword shot does.
+-   Rotation and flying sword projectile apply a one second chill (does not stack you just refresh the chill, can't be modified)
 -   Hits multiple times in a row.
 -   Incredibly good with Crystallization.
 
@@ -128,7 +128,8 @@ _A legion of frost._
  | Conjures four to five frozen servants that emits two blasts of frost mist to the center.
 
 -   Deals Moderate damage if both blows hit.
--   Inflicts Chill.
+-   Inflicts short chill (2 seconds base, can't be increased)
+-   The blast spark version applies medium chill (4 seconds, can't be increased)
 -   Leaves ice where the Mantra is casted.
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
 -   Can be modified with [Blast Spark](Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
@@ -165,7 +166,7 @@ _A barrage of freezing blades._
  | User slashes forward rapidly with four swings.
 
 -   Deals light damage.
--   Inflicts Chill.
+-   Inflicts 1 second chill per hit (It doesn't stack you just refresh the chill effect, can't be increased with logstones)
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
 
@@ -181,8 +182,9 @@ _Chains of ice._
 
  | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
 
--   Inflicts Chill.
--   Can be modified with both [Aeon & Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing. (also increases chill duration up to one eternal or two aeon logstones)
+-   Inflicts God-tier chill (can be increased from 9 seconds to 13 seconds chill with one eternal max)
+-   Can be modified with both [Aeon & Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
+-   Can be modified with lens to increase the range of casting the mantra.
 
  |
 | 
@@ -199,7 +201,7 @@ _A flurry of ice spikes._
  | Forms a path of ice spikes in front of user.
 
 -   Deals moderate damage.
--   Inflicts Chill.[\[1\]](#cite-note-1)
+-   Inflicts mediocre Chill (0.2s).[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
@@ -219,7 +221,7 @@ _Conjure and throw weapons of ice._
 
 -   Casting Ice Forge on Ice will summon more ice shuriken's. (currently bugged)
 -   Rapidly deals light damage.
--   Inflicts Chill. (can be increased with a cap of one eternal or 2 aeon logstones)
+-   Inflicts Strong Chill. (Can be increased from 5 seconds to 9 seconds with one eternal max)
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
@@ -235,9 +237,8 @@ _A colossal mace of ice._
 
 -   Deals heavy damage and low knockback.
 -   Breaks block at mantra level 5.
--   Inflicts Chill.
+-   Inflicts strong chill (5 seconds base, can be increased to 9 with one eternal max)
 -   Can break objects.
--   Can be modified for more chill duration with one eternal or two aeon logstones.
 
  |
 |  | 
@@ -255,7 +256,7 @@ _Form an ice spear and lunges forward._
 -   Deals moderate damage.
 -   User gains considerable forward momentum on use.
 -   Sometimes used in conjunction with Glacial Arc to fling the player skywards.
--   Applies chill on the second hit (Shatter spear) if you add logstones (max of one eternal or two aeon logstones)
+-   Does not apply chill (you can make the second spear apply 4 seconds chill if you add one eternal logstone max)
 
  |
 |  | 
@@ -269,7 +270,7 @@ _Conjure a glaive of frost and launch your opponents skyward._
 
  | User conjures a glaive of ice and swings. If you hit an enemy, launch them in the air and slam them down.
 
--   Doesn't apply chill (may be a bug)
+-   Doesn't apply chill
 -   Deals moderate damage
 
  |
@@ -290,6 +291,7 @@ _Send forth a flock of ice_
 -   Deals high posture damage
 -   Low cooldown
 -   Good for area denial
+-   Does not apply chill
 
  |
 | 
@@ -306,7 +308,8 @@ _A sharp disk of ice._
  | User forms a disk of ice that rapidly cuts enemies.
 
 -   Deals moderate damage.
--   Can be modified with Stratus stones and Cloudstones to increase its size.
+-   Can be modified with Stratus stones and Cloudstones to increase its size. (It has no limit)
+-   Does not apply chill
 
  |
 |  | 
@@ -341,6 +344,7 @@ _Send ice rippling out in a shockwave._
 -   Recasting this Mantra near an active Obelisk causes it and all others placed to explode.
 -   Summons wherever your mouse is pointed, at a range.
 -   Creating an Obelisk on top of someone will stun them for ten seconds.
+-   Applies God-tier chill when you spawn the mantra (around 12 seconds base and 16 sec with one eternal) but the second hit does not apply chil.
 
  |
 
@@ -453,7 +457,7 @@ _An arc of ice._
 
 -   Can be used to scale walls and terrain.
 -   Deals heavy damage when it hits an opponent.
--   Inflicts Chill.
+-   Inflicts a 1 second chill ( can't be increased)
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to become wider.
 -   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
@@ -1035,6 +1039,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
+-   I recently found out the chilled effect does not stack, it instead gets removed and applies the next mantra that applies you just hit which leads to getting chilled gone in no time if you hit an ice mantra that had atleast 0.1s of chill, for that matter I recommend picking one or two ice mantra that apply Strong chill duration like Ice smash (Winning condition) or ice forge (Low posture but with enough projectiles to land atleast one that applies the whole chill duration, I don't recommend using this mantra but there isn't many options) and the rest ice mantras have 0 chill effect and only take them for their raw dmg.
 
 ## Navigation
 

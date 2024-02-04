@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88179
+revid: 88218
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,18 +17,10 @@ An inscrutable mechanism looms in the centre of the hall. Many hearts have been 
 
 You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. Ending at 50 waves, and granting rewards and exp every 5 waves, with a break at the end of it. To start and end a round, and leave midway, you would have to speak with the Diluvian Mechanism.
 
-### Waves
-
-Based on the power of the user(s), the waves will differ.
-
--   Power 1-12; Wave 1
--   Power 13-19(?); Wave 6
--   Power 20; Wave 16
-
 ## Monsters
 
 -   [Deep Widow](Deep_Widow.md) (Corrupt)
--   Mudskipper Knight (?)
+-   [Mudskipper Knight](Mudskipper.md#mudskipper-knight)
 -   [Deep Owl](Deep_Owl.md) (Corrupt)
 -   [Stone Knight](Stone_Knight.md) (All variants + Corrupt)
 -   [Thresher](Thresher.md) (All variants + Corrupt)
@@ -62,25 +54,32 @@ Brings up the dialogue, "The air feels thin..." Causing all players during the r
 
 ### Timebomb
 
-White orbs will be placed around the dungeon, and if not destroyed it'll explode. This'll provide some risks to players who are handling mobs as they also need to destroy the bombs.
+White orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs.
 
 ## Loot
 
 Depths Pool (1-50)  
 Deep Gems (10+)  
-Depths Chests (1-15(?))  
-Brown Chests (20-50)  
-So on so forth
+Depths Chests (1-15)  
+Brown Chests (20-50)
 
 ## Waves
 
+Based on the power of the user(s), the waves will differ;
+
+-   Power 1-12; Wave 1
+-   Power 13-19(?); Wave 6
+-   Power 20; Wave 11
+
+If during the waves, the text "Tick tick tick,,," appears, it means that the round will be progressively more difficult with a vast amount of corrupted, attuned, or hard to fight mobs.
+
 | Wave | Enemies |
 | --- | --- |
-| 0 | 2 Crabs, 3 Mudskippers |
-| 1 |  |
-| 2 |  |
-| 3 |  |
-| 4 |  |
+| 0 | 2 Crabs, 3 Gigameds |
+| 1 | 1 Corrupted Thresher |
+| 2 | 1 Rock Golem |
+| 3 | 1 Corrupted Lionfish |
+| 4 | 1 Corrupted Megalodaunt |
 | 5 |  |
 | 6 |  |
 | 7 |  |
@@ -96,26 +95,26 @@ So on so forth
 | 17 |  |
 | 18 |  |
 | 19 |  |
-| 20 |  |
+| 20 (Blazing Enforcers) | 3 Fire-Attuned Hammer Enforcers |
 | 21 |  |
 | 22 |  |
 | 23 |  |
-| 24 |  |
-| 25 |  |
+| 24 (Sharko Mayhem) | Megalodaunt, Crimson Megalodaunt, Alpha Megalodaunt, and Mechalodaunt. |
+| 25 (Bounder Hell) | 3 Corrupted Bounders |
 | 26 |  |
 | 27 |  |
 | 28 |  |
 | 29 |  |
-| 30 |  |
+| 30 (Out of the Grave) | Corrupted Mudskippers and Carbuncles |
 | 31 |  |
-| 32 |  |
+| 32 (Glacial Seasoning) | Winter Knights and Corrupted Glacial Lionfishes |
 | 33 |  |
-| 34 | 4 Nautilodaunts. |
+| 34 (Squid Extravaganza) | 4 Nautilodaunts. |
 | 35 |  |
 | 36 |  |
 | 37 |  |
 | 38 |  |
-| 39 |  |
+| 39 (Health Pack Heaven) | Jellyfishes and Corrupted Brainsuckers |
 | 40 |  |
 | 41 |  |
 | 42 |  |
@@ -125,12 +124,10 @@ So on so forth
 | 46 |  |
 | 47 |  |
 | 48 |  |
-| 49 | 1 Lowly Bandit (possibly outdated) |
+| 49 (Divine Humor) | 1 Lowly Bandit (possibly outdated) |
 | 50 |  |
 
 ## Trivia
 
 -   The Mute [Regalia](Regalia.md) does not function in the Diluvian Mechanism.
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or it could derive a greater meaning as the word is related to the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event. Though this is just speculation, it is interesting to note.
--   The boss waves was hinted at during one of Agamatsu's streams in the past, where he had faced many mobs of diverse difficulties in the [Marauder's Entrance](<Marauder's_Entrance.md>). However since it was over a year since the video came out many people had lost attention from it.
--   Some waves may be in reference to the community, such as the Thunderstruck Carbuncles due to the notoriety of the Carbuncle being an unfun stunlock.

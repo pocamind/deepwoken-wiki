@@ -1,6 +1,6 @@
 ---
 title: Diluvian Mechanism (NPC)
-revid: 88163
+revid: 88192
 source: https://deepwoken.fandom.com/wiki/Diluvian_Mechanism_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -44,7 +44,7 @@ After the end of each wave, you can converse with the mechanism again, prompting
 1.  Pull the gear shift.
     -   This will continue to the next stage available.
 2.  Pull the break lever.
-    -   This will promptly return you and the end the wave that you are on. You can also do this midround, but you won't gain any of the rewards of the round and only you will leave.
+    -   This will promptly create a portal near one of the bell walls. Entering the portal will make you leave the Diluvian Mechanism with the treasures you gained. You can also do this midround, but you won't gain any of the rewards of the round, and you have to avoid the dangers that persist.
 3.  \[End Dialogue\]
 
 ## Trivia

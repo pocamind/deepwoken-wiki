@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 88076
+revid: 88214
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -129,6 +129,7 @@ They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_S
 
 ## Trivia
 
+-   The weaker variants are identical to the [Ministry Footpad](Ministry_Footpad.md), despite both serving the exact same purpose.
 -   Rather ironically, the stronger variants use [Way of Navae](Way_of_Navae.md), despite the Ministry engaging in an ethnic cleansing of Navaen Nomads, as can be observed during their battles around [Summer Isle](Summer_Isle.md).
 -   The reward chest for the Ministry ambush has a small chance of yielding a Gran Sudaruska
 -   The stronger variants can use Judgment, from the [Oath: Contractor](Oath%253A_Contractor.md). Despite this, they lack the strings or red eyes that indicate the presence of the Oath.

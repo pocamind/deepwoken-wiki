@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 88027
+revid: 88204
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -489,11 +489,11 @@ File:Disguising .gif
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Twincleave<p>(☆☆☆)</p></td>
-  <td>...</td>
-  <td>25<p>Ether</p></td>
+  <td><i>Dart around the battlefield with devastating cleaves delivered in quick succession.</i></td>
+  <td>30<p>Ether</p></td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u> 40</b> <i><b>Medium Weapon</b></i></li>
+    <li><b><u>Requirements:</u> <i>50</i></b> <i><b>Medium Weapon</b></i></li>
     <li><b>First slashes forward, then slash pushes you backwards</b></li>
   </ul></td>
 </tr>

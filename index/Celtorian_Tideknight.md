@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 88046
+revid: 88207
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Items, Outfits]
@@ -18,27 +18,15 @@ Template:ArmorInfobox
 
 ### _Requirements_
 
-Power 15
+This Outfit costs 1,000 and requires five (5) Cloth, one (1) [Bloodless Gem](Deep_Gems.md), five (5) [Vibrant Gems](Mantra_Modifiers.md), one (1) [Dark Feather](Dark_Feather.md), one (1) [Odd Tentacle](Odd_Tentacle.md), one (1) [Thresher Spine](Thresher_Spine.md), five (5) [Umbral Obsidian](Umbral_Obsidian.md).
 
-1000 Notes
-
-Materials: N/A
+This Outfit requires [Power Level](Talents.md) 15.
 
 ### _Armor Stats_
 
-2800 Durability
+This Outfit has 2800 durability and grants +30% Physical resistance, +25% Elemental resistance, +5% Blunt resistance, +10% Shadow resistance, +16 Sanity and +20% Ether Regen.
 
-30% Physical Armor
-
-25% Elemental Armor
-
-5% Blunt Armor
-
-10% Shadow Armor
-
-5% Ice Armor
-
-Talent: Tidekeeper - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds
+Talent: Tidekeeper - Losing 25% of your health within the span of 3 seconds grants a 15% damage buff, 20% defense buff, and prevents from being knocked for 10 seconds (1 Minute CD)
 
 ## Location
 
@@ -48,4 +36,4 @@ This Outfit's schematic can be found in:
 
 ## Trivia/Notes
 
-???
+-   The Talent has a cooldown of 1 minute
