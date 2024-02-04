@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 87402
+revid: 88268
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -19,12 +19,12 @@ categories: [Equipment, Arms, Cloaks]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from Deep OwlsPure umbrite turn ins |
+| obtainment | Rare Drop from Deep Owl, Pure umbrite turn ins, Layer 2 chests |
 | description | ... |
 
 ## Description
 
-The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" category. Equipping this item will give you the talent Disbelief, as well as extra randomized stats based on the amount of pips. It can be obtained as a rare drop from [Deep Owls](Deep_Owl.md), or as a drop from [Deep widows](Deep_Widow.md) and [Chime of conflict](Chime_of_Conflict.md).
+The Dark Owl Cloak is an [Equipment](Equipment.md) item under the "Arms" category. Equipping this item will give you the talent Disbelief, as well as extra randomized stats based on the amount of pips. It can be obtained from Layer 2 chests, or as a rare drop from [Deep Owls](Deep_Owl.md), or as a drop from [Deep widows](Deep_Widow.md) and [Chime of conflict](Chime_of_Conflict.md).
 
 ## Trivia
 

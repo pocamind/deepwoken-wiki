@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 87729
+revid: 88239
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -95,6 +95,7 @@ Can be used in any location.
 -   [The Ferryman](The_Ferryman.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  |
 | 
@@ -111,6 +112,7 @@ File:Sinner's Ash.png
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) **(~0.33%)**
 -   [First Layer](First_Layer.md)
 -   [Depths Widow](Deep_Widow.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  |
 | 
@@ -132,6 +134,7 @@ It grants the user +20 knowledge on subsequent uses.
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
 -   [Fishing](Fishing.md)
 -   [First Layer](First_Layer.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
  |
 

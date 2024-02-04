@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 88047
+revid: 88257
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -31,6 +31,7 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
   <ul>
     <li>Passive insanity gain from The Depths is reduced.</li>
     <li><a href="Deep_Shrines.md">Deep Shrines</a> cost -1 knowledge to make a deal with.</li>
+    <li>Parasites in <a href="Second_Layer.md">The Eternal Gale</a> take longer to kill you.</li>
   </ul></li>
   </ul></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 87450
+revid: 88241
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -227,3 +227,4 @@ A Stone Knight executes the player:
 -   Desert Knights and Blizzard Knights are very hostile towards most mobs and will target them.
 -   They have a 360 degrees detection range.
 -   They seem to be some sort of robotic being just like Hive Constructs due to the way they speak. Some examples of their dialogues from a Star Knight is: ''OUTSIDE INTERFERENCE PROBABLE.'' ''DIRECTIVE: ELIMINATE THREAT. RETURN ARTIFACT TO CONTAINMENT.'' and "DIRECTIVE; ELIMINATE THREAT, RESTABLISH COMMUNICATIONS. RECIEVE FURTHER INSTRUCTIONS."
+-   During the early stages (when players were high enough Power) of the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)'s release, multiple Blizzard Knights were able to spawn corrupted as early as the third stage in, boasting a ridiculous **27000 health**. The patch note following this replaced them with uncorrupted Sand Knights.

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88218
+revid: 88266
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -58,14 +58,13 @@ White orbs will be placed around the dungeon, and if not destroyed it'll explode
 
 ## Loot
 
-Depths Pool (1-50)  
-Deep Gems (10+)  
+All of the Layer 1 loot pool, including deep gems, at all levels  
 Depths Chests (1-15)  
 Brown Chests (20-50)
 
 ## Waves
 
-Based on the power of the user(s), the waves will differ;
+Based on the power of the user(s), the starting wave will differ;
 
 -   Power 1-12; Wave 1
 -   Power 13-19(?); Wave 6
@@ -75,27 +74,26 @@ If during the waves, the text "Tick tick tick,,," appears, it means that the rou
 
 | Wave | Enemies |
 | --- | --- |
-| 0 | 2 Crabs, 3 Gigameds |
-| 1 | 1 Corrupted Thresher |
-| 2 | 1 Rock Golem |
-| 3 | 1 Corrupted Lionfish |
-| 4 | 1 Corrupted Megalodaunt |
-| 5 |  |
-| 6 |  |
+| 1 (Deepbound "Trial of One") | 2 Crabs, 3 Gigameds |
+| 2 (Deepbound "Trial of One") | 1 Thresher |
+| 3 (Deepbound "Trial of One") | 1 Rock Golem |
+| 4 (Deepbound "Trial of One") | 1 Corrupted Lionfish |
+| 5 (Deepbound "Trial of One") | 1 Corrupted Megalodaunt |
+| 6 (Holy Knights) | 2 Greater Angel, 4 Corrupted Mudskipper Knight |
 | 7 |  |
 | 8 |  |
 | 9 |  |
 | 10 |  |
-| 11 |  |
-| 12 |  |
-| 13 |  |
-| 14 |  |
+| 11 (Depths Fishing) | 2 Corrupted Lionfish, 2 Corrupted Terrapods |
+| 12 | 1 Corrupted King Gigamed, 1 Corrupted Deep Owl |
+| 13 | 2 Corrupted Stone Knights, 1 Corrupted Attuned Owl |
+| 14 | (Jamal & Jarquavious) | 2 Corrupted Attuned Owls |
 | 15 |  |
 | 16 |  |
 | 17 |  |
 | 18 |  |
 | 19 |  |
-| 20 (Blazing Enforcers) | 3 Fire-Attuned Hammer Enforcers |
+| 20 (Attuned Brothers) | 3 Hammer Enforcers with random attunement |
 | 21 |  |
 | 22 |  |
 | 23 |  |
@@ -107,27 +105,28 @@ If during the waves, the text "Tick tick tick,,," appears, it means that the rou
 | 29 |  |
 | 30 (Out of the Grave) | Corrupted Mudskippers and Carbuncles |
 | 31 |  |
-| 32 (Glacial Seasoning) | Winter Knights and Corrupted Glacial Lionfishes |
+| 32 (Glacial Seasoning) | Bllizard Knights and Corrupted Glacial Lionfishes |
 | 33 |  |
 | 34 (Squid Extravaganza) | 4 Nautilodaunts. |
 | 35 |  |
 | 36 |  |
 | 37 |  |
-| 38 |  |
+| 38 (Burning Alaska) | Corrupted Ice Lionfishes, Corrupted Frost Deep Owl, Corrupted Frost Kyrs Lancer, 1 Crimson Megalodaunt |
 | 39 (Health Pack Heaven) | Jellyfishes and Corrupted Brainsuckers |
-| 40 |  |
-| 41 |  |
-| 42 |  |
-| 43 |  |
-| 44 |  |
-| 45 |  |
-| 46 |  |
-| 47 |  |
-| 48 |  |
+| 40 | 1 Corrupted Deep Widow, 1 Corrupted Blizzard Knight, 1 Rogue Construct, 1 Corrupted Bonekeeper |
+| 41 (Songseeker's Revenge) | 6-8 Songseekers, 2 Shadow Deep Owls |
+| 42 (Shadow Wizard Money Gang) | 6 Ministry Enforcers, 6 Ministry Necromancers, 2 Shadow Deep Owls |
+| 43 | Corrupted Kyrs brutes, 2 Iblis the Fallen Angel |
+| 44 (Starkindred's Return) | 1 Iblis The Fallen Angel, 10 Deep Angels |
+| 45 (Masters on all Hands) | Every attunement trainer that is currently in-game |
+| 46 (Electroshocking Hell) | thundercall corrupted carbuncles, 4 upgraded celtor guards |
+| 47 (Infection Spree) | shadow corrupted nightmare threshers, diver husks |
+| 48 (Preparation before the End) | corrupted bounders, corrupted deep widow, golem prime |
 | 49 (Divine Humor) | 1 Lowly Bandit (possibly outdated) |
-| 50 |  |
+| 50 (End of the Hell) | 2 Corrupted Attuned Bonekeepers, 2 Corrupted Attuned Kyrsgarde brutes, 2 Corrupted Attuned Bounders, 2 Corrupted Attuned Kyrsgarde Snipers, 2 Corrupted Fury Nautilodaunts. _(Referenced from zuukle's video)_ |
 
 ## Trivia
 
 -   The Mute [Regalia](Regalia.md) does not function in the Diluvian Mechanism.
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or it could derive a greater meaning as the word is related to the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event. Though this is just speculation, it is interesting to note.
+-   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round which kills all the mobs in the arena.
