@@ -1,9 +1,9 @@
 ---
 title: Celtor Wastes
-revid: 88051
+revid: 88154
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations]
+categories: [Stub pages without reason, StubPages, Locations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -15,23 +15,12 @@ LocationL Celtor Wastes LocationR
   
   
 
-File:Image 2024-02-03 125503672.png
-
   
-
-  
-
-  
-
-  
-
-  
-
 **Celtor Wastes** is a location in _Deepwoken_. It is a region in [The Depths](The_Depths.md).
 
 ## Overview
 
-The main area of farming in the depths, outside the City of Drowned.
+The main area of farming in the depths, outside the City of the Drowned.
 
 ## Points of Interest
 
@@ -54,10 +43,10 @@ The main area of farming in the depths, outside the City of Drowned.
 -   [Enforcer](Enforcer.md)
 -   [Alpha Megalodaunt](Megalodaunt.md)
 -   [King Gigamed](Gigamed.md)
--   [Gigameds](Gigamed.md)
+-   [Gigamed](Gigamed.md)
 -   [Lionfish](Lionfish.md)
 -   [Megalodaunt](Megalodaunt.md)
--   [Tresher](Thresher.md)
+-   [Thresher](Thresher.md)
 -   [King Tresher](Thresher.md#king-thresher)
 -   [Deep Owl](Deep_Owl.md)
 -   [Deep Widow](Deep_Widow.md)
@@ -66,7 +55,7 @@ The main area of farming in the depths, outside the City of Drowned.
 
 -   [Akira](Akira.md)
 -   [Lionfish](Lionfish.md) vs. Diver Apprentices
--   [King Tresher](Thresher.md#king-thresher) vs. Diver Apprentices
+-   [King Thresher](Thresher.md#king-thresher) vs. Diver Apprentices
 -   [Depths Collapse](Random_Encounters.md#the-depths-collapse)  
     
 

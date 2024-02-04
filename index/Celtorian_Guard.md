@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 88132
+revid: 88155
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -56,14 +56,13 @@ A Celtorian Guard executes it's opponent after knocking them:
     -   Feinting and parrying frequently is a good idea.
 -   A heavy weapon critical will blockbreak this enemy almost immediately, allowing for follow-up attacks.
 -   Decent health-pack in an event that a [Gigamed](Gigamed.md) is not present nearby.
+-   It's possible to use them to help defeat or distract Monsters, but only those with large AoE attacks, as, while weak, the number of them around the city should provide a suitable distraction.
 
 ## Trivia
 
 -   Celtorian Guards only speak in growls and gurgles, with few exceptions.
 -   They are all Celtor.
--   They may have unreleased variants of a Celtor.
--   Celtorian Guards can battle other depths monsters, but they must be triggered by that monster. For example If they are hit by a Megalodaunt Thousand Needles attack by accident, they will target that Megalodaunt.
--   They will only be triggered by depths monsters if they have been hit many times.
--   If a Depths Monster is on the verge of killing a Celtorian Guard, it will trigger nearby Celtorian Guards to target the Depths Monster.
--   Before 7/9/2023, all Lesser Angels would be attacked by Celtorian Guards. It was noted in the update log which caused the change that the guards and Angels were "locked in an eternal blood feud", though it seems that they have now made up.
+-   They may have unreleased variants of Celtor.
+-   Before 7/9/2023, all Lesser Angels would be attacked by Celtorian Guards. It was noted in the update log which caused the change that the guards and Angels were "locked in an eternal blood feud," though it seems that they have now made up.
 -   They used to wear the [Duelist's Attire](<Duelist's_Attire.md>) before there armor changed into [Celtorian Tideknight](Celtorian_Tideknight.md).
+-   They use the oath [Dawnwalker](Oath%253A_Dawnwalker.md) in the Dungeon [Diluvian mechanism](<Diluvian_Mechanism_(NPC).md>).

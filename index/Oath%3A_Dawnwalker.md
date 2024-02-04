@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 87885
+revid: 88159
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -87,6 +87,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
     -   Gives you max dmg on proc (1.75x), more tempo on m1, and daze
     -   CD of ~30-50 seconds
     -   Has a small aura on proc
+    -   _**"KOKUSEN!!" -**_ _Dawnwalker Users_
 
 -   **Absolute Radiance - Passive:** Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   While this is active, gain immunity to the following status effects: Burning, Chill, Shock, Suffocate, Blindness, Metal Rod.

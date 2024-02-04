@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 84131
+revid: 88162
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -18,7 +18,7 @@ _Also known as 'Frank'_
 
 ## Description
 
-Bounders are monsters that dwell within the Layer 2 of The Depths. They are infamously known for their lethality, with an equally horrific appearance.
+Bounders are monsters that dwell within the Second Layer of The Depths. They are infamously known for their lethality, with an equally horrific appearance.
 
 Bounders have a body structure that resembles [Megalodaunts](Megalodaunt.md), featuring animalistic traits that, although similar, is presented in a much more awful form. They feature a significantly hunched posture, elongated limbs, six ringed eyes and notably, an upsettingly wide mouth with two sets of gigantic teeth. Unlike Megalodaunts, Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 

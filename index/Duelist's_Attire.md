@@ -1,9 +1,9 @@
 ---
 title: "Duelist's Attire"
-revid: 88143
+revid: 88150
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Armors, Items, Outfits]
+categories: [Items, Outfits]
 ---
 
 # Duelist's Attire
@@ -28,8 +28,3 @@ This Outfit's Schematic can be found in:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   [Lower Erisia](Lower_Erisia.md)
-
-## Trivia/Notes
-
--   Identical or similar to the armor worn by Celtor Soldiers in the City of the Drowned.
--   Used to be worn by the Celtorian Guards but was changed.

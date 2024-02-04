@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88127
+revid: 88167
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1651,7 +1651,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 > _**"I seek the qualities of Rampaging Brute."**_
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Prerequisites: 90 Strength
+    -   Prerequisites: 90 Strength, Rest of Rampaging Brute Talents
     -   Mutual Exclusive: Ether Overdrive
 
 -   Shield Breaker \[Common Talent\] - Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)
