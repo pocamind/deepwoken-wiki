@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88098
+revid: 88145
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -22,6 +22,7 @@ The wave one starts at is based on their Power.
 ## Monsters
 
 -   [Deep Widow](Deep_Widow.md) (Corrupt)
+-   Mudskipper Knight (?)
 -   [Deep Owl](Deep_Owl.md) (Corrupt)
 -   [Stone Knight](Stone_Knight.md) (All variants + Corrupt)
 -   [Thresher](Thresher.md) (All variants + Corrupt)
@@ -43,6 +44,7 @@ The wave one starts at is based on their Power.
 -   [Ministry Necromancer](Ministry_Necromancer.md)
 -   [Ministry Enforcer](Ministry_Enforcer.md) (Strong variant)
 -   [Bandit](Bandit.md)
+-   [Kyrsgarde](Kyrsgarde.md) (All variants)
 
 ## Modifiers & Environmental Hazards
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88084
+revid: 88127
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -594,10 +594,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
     -   Prerequisites: 45 Shadowcast, Dark God
 
--   Devour \[Shadowcast Exclusive\] Stealing enough ether to fill your bar now stores the extras in your reserves. (+3 Elemental Intensity)
-    -   If you steal more ether than you can fit in your ether bar, convert it into tempo.
-    -   Prerequisites: 40 Shadowcast, Dark God
-
 -   Overwhelming Drain \[Shadowcast Exclusive\] If multiple enemies are hit by your Shadow Eruption, they are dazed. ( )
     -   Prerequisite: Shadow Eruption
 
@@ -1037,10 +1033,10 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I seek the qualities of Human Architecture."**_
 
--   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture)
+-   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture and +5 Health)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
-    -   Reduce knockdowns (like heavy weapon critical, ascension, etc) duration by 30%.
+    -   Gain total immunity to knockdowns (Heavy critical, starkindred's ascension etc...)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage.
@@ -1166,31 +1162,40 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I obtained the lost art of Ironsinging."**_
 
+_**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
+
+-   Bleed damage now only deals 15% more damage.
+-   Blood loss reduction is less effective if using Curse of the No Life King.
+-   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
+-   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
+-   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction
+-   Prerequisite: 100 Ironsing
+
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
     -   Most ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods.
 -   Adept Ironsinger \[Common Talent\] - You can now obtain 1-star Ironsinger mantras.
     -   Prerequisite: 20 Ironsing
-
--   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
-    -   Prerequisites: 55 Ironsing
+-   Expert Ironsinger \[Common Talent\] - You can now obtain 2-star Ironsinger mantras.
+    -   Prerequisite: 30 Ironsing
+-   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
+    -   Prerequisites: 40 Ironsing, 15 Strength
+-   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
+    -   Prerequisite: Caltrops mantra, 45 Ironsing
+-   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
+    -   Prerequisite: 45 Ironsing
 
 -   Ironclad Punishment \[Common Talent, Ironsing Exclusive\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
     -   Prerequisites: 45 Ironsing
-
--   Expert Ironsinger \[Common Talent\] - You can now obtain 2-star Ironsinger mantras.
-    -   Prerequisite: 30 Ironsing
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
     -   Prerequisite: 50 Ironsing
--   Metal Shackles \[Common Talent, Ironsing Exclusive\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
-    -   Prerequisites: 40 Ironsing, 15 Strength
+-   Heavy Shoulders \[Common Talent, Ironsing Exclusive\] - If your opponent has 3 or more rods, their dodges are slower.
+    -   Prerequisites: 55 Ironsing
 
 -   Oh The Irony \[Common Talent, Ironsing Exclusive\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
     -   Prerequisites: 60 Ironsing, 40 Charisma, Taunt
 
 -   Piercing Metal \[Common Talent, Ironsing Exclusive\] - Deal additional armor damage to enemies per metal rod affecting them.
     -   Prerequisites: 60 Ironsing, Power 13
--   Thornmail \[Common Talent, Ironsing Exclusive\] - Getting flourished applies a metal rod on your attacker.
-    -   Prerequisite: 45 Ironsing
 
 ### Iron Will
 
@@ -1431,18 +1436,9 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"Metal itself is my shield, whichever form it may take."**_
 
--   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage is halved. Blood loss is reduced by 75%.
-    -   Bleed damage now only deals 15% more damage.
-    -   Blood loss reduction is less effective if using Curse of the No Life King.
-    -   Blood loss reduction stacks multiplicatively with Cauterized Wounds.
-    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
-    -   Scales with investment up to its requirement. If you have less MTL than required it gives less bleed and blood less reduction
-    -   Prerequisite: 100 Ironsing
 -   Intuitive Repairs \[Common Talent, Ironsing Exclusive\] - Your 'Iron Skin' repairs armor while it's active.
     -   Iron Skin also repairs natural armor from Chitin and Exoskeleton.
     -   Prerequisite: Iron Skin mantra, 25 Ironsing
--   Laced Traps \[Common Talent, Ironsing Exclusive\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
-    -   Prerequisite: Caltrops mantra, 45 Ironsing
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
     -   Prerequisite: Iron Hug mantra, 30 Ironsing
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)

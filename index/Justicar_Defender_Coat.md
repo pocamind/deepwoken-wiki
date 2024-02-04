@@ -1,6 +1,6 @@
 ---
 title: Justicar Defender Coat
-revid: 73960
+revid: 88122
 source: https://deepwoken.fandom.com/wiki/Justicar_Defender_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -11,7 +11,7 @@ categories: [Equipment, Arms, Coats]
 | Justicar Defender Coat | |
 |---|---|
 | type | Arms |
-| rarity | N/A |
+| rarity | Uncommon |
 | selling price | N/A |
 | requirements | Power 13 |
 | weight | 2 |
@@ -21,13 +21,13 @@ categories: [Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:Aelita, Deep Owls, King Threshers |
+| obtainment | Chests from:Aelita (10%), King Threshers (~1%), Corrupt King Threshers (~3%) |
 | description | ... |
 
 ## Description
 
-The Justicar Defender Coat is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 2 Pips. It is rarely found in chests from [King Threshers](Thresher.md), [Aelita](Aelita.md), and [Deep Owls](Deep_Owl.md).
+The Justicar Defender Coat is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 2 Pips. It is rarely found in chests by [Aelita](Aelita.md), and mob drops from [King Threshers](Thresher.md)
 
 ## Trivia
 
--   Seems to have no rarity in-game, simply being called "Arms" in campfires instead of "Rare Arms" or "Common Arms". This is presumably why it cannot be sold to [Antiquarians](Antiquarian.md), as the rarity of an item decides the selling price.
+-   Used to not have a rarity for a long while upon release, which made it unsellable. On August 25th 2023, This was fixed and it's now sellable for 25 notes.

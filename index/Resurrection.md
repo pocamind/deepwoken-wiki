@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 85322
+revid: 88103
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -35,7 +35,7 @@ Pressing C will cast the **Resurrection** Resonance on the player you have your 
 
 Activating resonance marks a living being, giving it a minor speed buff for the duration of the marker (5-8 seconds, depending on points). Can tag any player. (hold the C button to forcefully cast on self, must already be activated.)
 
-While the marker is on a player, if they are knocked by damage, they will be lifted into the air and restored to 40% of their health and the resonance will go on cooldown.
+While players have a marker on them if they are knocked, then they will be lifted into the air and restored to 40% of their health. This will cause the resonance to go on cooldown.
 
 If not, then the star on the target will fade away and the Resonance has a chance to go on cooldown.
 

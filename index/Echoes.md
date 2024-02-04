@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 86966
+revid: 88146
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -242,7 +242,7 @@ There are 12 upgrades to purchase, and each can be purchased a maximum of 2 to 5
 <tr>
   <td><center><b>Ironwoken</b></center></td>
   <td><center>You cannot receive notes or items from other players.</center></td>
-  <td><center><b>+20%</b></center></td>
+  <td><center><b>+10%</b></center></td>
 </tr>
 <tr>
   <td><center><b>One Bit</b></center></td>

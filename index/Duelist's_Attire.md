@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 85740
+revid: 88143
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -32,3 +32,4 @@ This Outfit's Schematic can be found in:
 ## Trivia/Notes
 
 -   Identical or similar to the armor worn by Celtor Soldiers in the City of the Drowned.
+-   Used to be worn by the Celtorian Guards but was changed.

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 88029
+revid: 88108
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -103,7 +103,7 @@ Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketz
 
 Obtaining your **Resonance** is judged by how far your character has come in terms of fighting experience- typically through Bosses (see below), [Mobs](Monsters.md), or Players. Conquering Bosses is the most common way for people to gain Progress (see below) and eventually unlock their **Resonance**, as many of them have a strong connection with the Song in some way, shape, or form.
 
-_If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far your character has come since they first awoke, so for those looking to unlock their **Resonance** for the first time, paying a visit to him is advised-- and [**please visit his page**](Sibex.md) to understand what you must do with him, as well as how to interpret what he tells you. Legend says talking to sibex with a drowned bell gives you the new layer 2 bell however these rumors are unconfirmed_
+_If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far your character has come since they first awoke, so for those looking to unlock their **Resonance** for the first time, paying a visit to him is advised-- and [**please visit his page**](Sibex.md) to understand what you must do with him, as well as how to interpret what he tells you._
 
 You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you do not get to pick your resonance this way
 

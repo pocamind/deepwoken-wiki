@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 88014
+revid: 88123
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits]
@@ -2091,9 +2091,7 @@ Justicar Defender
 
 Found from:
 
--   [Minityrsa](Minityrsa.md)
--   [Aelita](Aelita.md)
--   [First Layer](First_Layer.md)
+-   [Aelita](Aelita.md) **(10%)**
 -   Mob Drop from [Corrupted King Threshers](King_Thresher.md) (**~2%**)
 
  | Red, Black, Faded, Jet Black, Orange & Purple |

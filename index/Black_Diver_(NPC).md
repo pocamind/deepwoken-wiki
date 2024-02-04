@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 83776
+revid: 88141
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Cut Content]
@@ -18,7 +18,7 @@ They are also enemies that appear as part of "Villain" reputation [ambush events
 
 ## Moveset
 
-A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
+A Black Diver's arsenal consists of the oath [Dawnwalker](Oath%253A_Dawnwalker.md) either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
@@ -51,6 +51,21 @@ Jolt Grab
 -   Uses the Magnet Spark variant of Jolt Grab
 
  | ◯ | ◯ | (★★☆) |
+| 
+
+Blinding Dawn
+
+ | Diver starts spinning rapidly to unleash an aoe of light | ◯ | ◯ | (★★☆) |
+| 
+
+Radiant Kick
+
+ | The diver teleports to the nearest opponent with a kick at the speed of light | ◯ | ◯ | (★★☆) |
+| 
+
+Radiant Dawn
+
+ | The diver leaps up before crashing down | ◯ | ✗ | (★★★) |
 
 ### Talents
 
@@ -73,6 +88,9 @@ Jolt Grab
 -   Static Link - Black Divers landing a Flourish or Uppercut apply a static link.
 -   Storm Link - Black Divers apply Shock (Surge because of Surge Path) to enemies with a static link if hit with a Wind mantra.
 -   Chronostasis - Black Divers put target's Resonance on a short cooldown when they land hits.
+-   Protagonist Syndrome - The grasp of shadow is meaningless in the face of a dawnwalkers blinding light. The divers Dawnwalker mantras are empowered after being hit by Shadowcast.
+-   Luminous Flash - Passive: After dealing a certain amount of damage while in "Absolute Radiance", the diver gains a chance to empower their strikes with pure light.
+-   Absolute Radiance - Passive: Dealing damage with Dawnwalker mantras briefly makes black divers immune to all elemental effects for a short period.
 
 ## Finisher
 
@@ -90,3 +108,4 @@ A Black Diver executes it's opponent after knocking them:
 -   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on the **1/16/2023** due to their presence contradicting the established low number and high power level of actual Black Divers.
     -   They then went unused until the **5/15/2023** update, which brought faction ambushes, which reintroduced them as part of high level ambush.
 -   They use the Magnet Spark variant of Jolts Grab.
+-   They are one of the few NPCs that use oaths, with the said NPCs being the [Ignition union arcwarder](Ignition_Union_Arcwarder.md), [Subtle knife of eylis](Subtle_Knife_of_Eylis.md) / [Old knife of eylis](Old_Knife_of_Eylis.md), [Starkindred angels](Iblis,_The_Fallen_Angel.md) and [Ministry enforcer](Ministry_Enforcer.md).
