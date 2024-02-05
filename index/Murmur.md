@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 87108
+revid: 88352
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -59,7 +59,7 @@ The only actions a user can perform during Tacet are crouch walking, rolling, va
 
 The detection range of the invisibility scales on the user's power: at higher power, entities need to be closer to spot the user. The detection range (for PVP) is indicated by a ring around the user.
 
-Obtaining **Murmur: Tacet** will also give you either neutral or positive reputation with the Ministry, but merely depends on what your current reputation is.
+Obtaining **Murmur: Tacet** will NOT give you neutral or positive reputation anymore.
 
 Some monsters might still aggro when in tacet if too close in some situations (might be bug needs testing)
 

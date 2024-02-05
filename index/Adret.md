@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 86613
+revid: 88356
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -31,6 +31,7 @@ Adrets are a common race that have blue skin with orange eyes and face markings.
   <ul>
     <li>Receive 3 free points whenever you Power up.</li>
     <li>Your starting reputation with all factions is higher.</li>
+    <li>Vitality</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -105,6 +106,7 @@ The Adrets are a historically recently arrived race of spiritually adept individ
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's race name was changed to Markskipper.
 -   Adret innate talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
 -   Namesake of the [Adretian Axe](Adretian_Axe.md).
+-   Adrets can also spawn in with 4 vitality right away at power 1.
 
 ## References
 

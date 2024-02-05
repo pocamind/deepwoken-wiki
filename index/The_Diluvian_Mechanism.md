@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88350
+revid: 88357
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -87,18 +87,18 @@ Based on the power of the user(s), the starting wave will differ;
 | 5 (Deepbound "Trial of One") | 1 Corrupted Megalodaunt |
 | 6 (Holy Knights) | 2 Greater Angel, 4 Mudskipper Knights |
 | 7 (A squadron of Knights) | 6 Mudskipper Knights |
-| 8 | 2 Greater Angels, 4 Mudskipper Knights |
+| 8 (Songseeker Fighters) | 2 Greater Angels, 4 Mudskipper Knights |
 | 9 (Cave Paladins) | 2 Deep Angels |
 | 10 (Angel Haven) | 2 Lesser Angels, 2 Deep Angels, 4 Greater Angels |
 | 11 (Depths Fishing) | 2 Corrupted Lionfish, 2 Corrupted Terrapods |
 | 12 (King Joffrey's pets) | 1 Corrupted King Gigamed, 1 Corrupted King Thresher |
-| 13 | 2 Stone Knights, 1 Corrupted Owl |
+| 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupted Owl |
 | 14 (TICK TICK TICK MOD) | 2 Corrupted Owls |
-| 15 | 1 Corrupted Crimson Megalodaunt, 2 Corrupted Crimson Terrapods, 2 Corrupted Nightmare Thresher |
-| 16 | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupted Enforcer (maybe attuned, needs further testing) |
+| 15 (Great Corrupted) | 1 Corrupted Crimson Megalodaunt, 2 Corrupted Crimson Terrapods, 2 Corrupted Nightmare Thresher |
+| 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupted Enforcer (maybe attuned, needs further testing) |
 | 17 (Happy Family) | 1 Corrupted Nightmare Thresher, 2 Thresher, 1 Mother Thresher |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed |
-| 19 | 2 Terrapods, 1 Owl, 1 Corrupted Golem |
+| 19 (Terra-Party) | 2 Terrapods, 1 Corrupted Owl, 1 Corrupted Golem, 1 Corrupted Megalodaunt |
 | 20 (Attuned Brothers) | 3 Hammer Enforcers with random attunement |
 | 21 |  |
 | 22 |  |
@@ -119,17 +119,17 @@ Based on the power of the user(s), the starting wave will differ;
 | 37 |  |
 | 38 (Burning Alaska) | Corrupted Ice Lionfishes, Corrupted Frost Deep Owl, Corrupted Frost Kyrs Lancer, 1 Crimson Megalodaunt |
 | 39 (Health Pack Heaven) | Jellyfishes and Corrupted Brainsuckers |
-| 40 | 1 Corrupted Deep Widow, 1 Corrupted Blizzard Knight, 1 Rogue Construct, 1 Corrupted Bonekeeper |
+| 40 (Heavy Giants) | 1 Corrupted Deep Widow, 1 Corrupted Blizzard Knight, 1 Rogue Construct, 1 Corrupted Bonekeeper |
 | 41 (Songseeker's Revenge) | 6-8 Songseekers, 2 Shadow Deep Owls |
 | 42 (Shadow Wizard Money Gang) | 6 Ministry Enforcers, 6 Ministry Necromancers, 2 Shadow Deep Owls |
-| 43 | Corrupted Kyrs brutes, 2 Iblis the Fallen Angel |
+| 43 (Kyrs Domain) | Corrupted Kyrs brutes, 2 Iblis the Fallen Angel |
 | 44 (Starkindred's Return) | 1 Iblis The Fallen Angel, 10 Deep Angels |
 | 45 (Masters on all Hands) | Every attunement trainer that is currently in-game |
 | 46 (Electroshocking Hell) | Thundercall corrupted carbuncles, 4 Upgraded Celtor Guards |
 | 47 (Infection Spree) | Shadow Corrupted Nightmare Threshers, Diver Husks |
 | 48 (Preparation before the End) | Corrupted Bounders, Corrupted Deep Widow, Golem Prime |
 | 49 (Divine Humor) | 1 Lowly Bandit (possibly outdated) |
-| 50 (End of the Hell) | 2 Corrupted Attuned Bonekeepers, 2 Corrupted Attuned Kyrsgarde brutes, 2 Corrupted Attuned Bounders, 2 Corrupted Attuned Kyrsgarde Snipers, 2 Corrupted Fury Nautilodaunts. _(Referenced from zuukle's video)_ |
+| 50 (End of the Hell) | 2 Corrupted Attuned Bonekeepers, 2 Corrupted Attuned Kyrsgarde brutes, 2 Corrupted Attuned Bounders, 2 Corrupted Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts. _(Referenced from zuukle's video)_ |
 
 ## Trivia
 
