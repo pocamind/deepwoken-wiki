@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 88294
+revid: 88333
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -67,4 +67,3 @@ The user shoots a blast of air and on collision or after a short amount of time 
 -   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI" and the other runes near the tip are a mix of different ancient runic dialects, that still don't translate to anything.
 -   Using The Curved Blade of Winds completely disables your shield's Posture buff. However, if you have the Turtle Shell Talent and are two handing the weapon, you can still negate Spine Cutter, as the shield appears on your back.
 -   The Curved Blade of Winds model in Verse One used to be a Warden Ceremonial Sword with gale particles, before being changed.
--   Often Used in lore by The Ex-Godseeker Julian Dise

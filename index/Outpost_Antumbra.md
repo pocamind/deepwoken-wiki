@@ -1,12 +1,18 @@
 ---
 title: Outpost Antumbra
-revid: 86458
+revid: 88328
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, World]
 ---
 
 # Outpost Antumbra
+
+LocationL Outpost Antumbra LocationR
+
+TERRITORY OF Ministry
+
+  
 
 ## Overview
 
@@ -28,4 +34,4 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   This area didn't have a name before the Verse 2 update.
 -   [Trial of One](Trial_of_One.md) is found here.
--   Antumbra means something related to "The Moon's shadow" which is quite interesting.
+-   Antumbra means "before the shadow", which is quite interesting.

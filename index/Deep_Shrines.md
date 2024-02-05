@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 88280
+revid: 88326
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -128,6 +128,7 @@ You need Power 8+ and no Oath to perform this deal.
 -   Mantras upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
 -   A singular stat cannot lose more than 25 Points, with the exception of Attunement Stats.
+-   Certain high requirement talents (e.g. All the Dead Gods, Reinforced Armor) will lose effectiveness if you go below their requirements with this shrine.
     
 
 **Shrine of Conceit:**

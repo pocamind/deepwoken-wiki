@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 86369
+revid: 88349
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -35,3 +35,4 @@ The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Vo
 -   Rain Spire is the first ever Relic to release in Deepwoken. It came with the release of the new [Ironsing](Ironsing.md) Attunement on May 22nd, 2023.
 -   Rain Spire is one of the two [Relics](Relics.md) that has infinite uses. The other one being [Void Spire](Void_Spire.md).
 -   When trying to use the Spire during cooldown, dialogue appears saying "The Spire has not yet reformed."
+-   You can't place a Rain Spire on water-ice or boats.

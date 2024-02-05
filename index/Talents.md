@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88284
+revid: 88348
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1029,13 +1029,13 @@ _**"I seek the qualities of Heat Column."**_
 
 > _**"I seek the qualities of Human Architecture."**_
 
--   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture and +5 Health)
+-   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
--   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage.
+-   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
     -   Spotter Talent no longer shows how much health your character has.
     -   Prerequisites: 20 Fortitude, 100 Willpower
@@ -2237,7 +2237,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   _Undying Flame_ \[Rare Talent, Flamecharm Exclusive\] - Your flame can be casted in the depths. (+1 Elemental Intensity)
     -   Prerequisites: 40 Flamecharm, 40 Willpower, Graceful Flame
 
--   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your graceful flame will stabilize your level of Sanity. (+1 Elemental Intensity)
+-   Soundness of Mind \[Common Talent, Flamecharm Exclusive\] - Standing close to your Graceful Flame will shield others from environmental insanity. (+1 Elemental Intensity)
     -   Graceful Flame passively restores sanity and health to those around it. Stacks with sitting next to it.
     -   Prerequisite: 40 Flamecharm, 40 Willpower, Undying Flame
 

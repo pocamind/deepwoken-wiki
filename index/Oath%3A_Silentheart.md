@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 88281
+revid: 88336
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -105,6 +105,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   If you have even one mantra from cards or other sources it will be removed upon Oath obtainment
 -   You may now dye Silentheart's arm-tattoos/markings.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands. ([https://www.youtube.com/watch?v=ggRX1zqDccI](https://www.youtube.com/watch?v=ggRX1zqDccI))
+-   Likely inspired by the "Mercenary" from "Risk of Rain 2"
 
 File:Pinkheart.png
 
