@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88357
+revid: 88379
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -23,7 +23,7 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 ## Monsters
 
 -   [Deep Widow](Deep_Widow.md) (Corrupt)
--   [Mudskipper Knight](Mudskipper.md#mudskipper-knight)
+-   [Mudskipper Knight](Mudskipper.md#mudskipper-knight) (Corrupt)
 -   [Deep Owl](Deep_Owl.md) (Corrupt)
 -   [Stone Knight](Stone_Knight.md) (All variants + Corrupt)
 -   [Thresher](Thresher.md) (All variants + Corrupt)
@@ -98,7 +98,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupted Enforcer (maybe attuned, needs further testing) |
 | 17 (Happy Family) | 1 Corrupted Nightmare Thresher, 2 Thresher, 1 Mother Thresher |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed |
-| 19 (Terra-Party) | 2 Terrapods, 1 Corrupted Owl, 1 Corrupted Golem, 1 Corrupted Megalodaunt |
+| 19 (Erisia-Party) | 2 Terrapods, 1 Corrupted Owl, 1 Corrupted Golem, 1 Corrupted Megalodaunt |
 | 20 (Attuned Brothers) | 3 Hammer Enforcers with random attunement |
 | 21 |  |
 | 22 |  |

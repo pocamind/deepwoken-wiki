@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 87892
+revid: 88377
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -28,7 +28,7 @@ Appearance-wise, he is a young male greymarch [Adret](Adret.md) characterized by
 
 Despite being a humanoid boss and his status as a Black Diver, he doesn't perform any physical attacks, instead using long-range blood related [Mantras](Mantras.md) which are channeled through the jars of blood located around the cathedral.
 
-_For a visual guide, consider watching [this video](https://youtu.be/YT_9pdWcAOI)._
+_For a visual guide, consider watching [this video](https://www.youtube.com/watch?v=_m4IQHs8p_Y)._
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |

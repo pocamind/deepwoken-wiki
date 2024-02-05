@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 86812
+revid: 88374
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -60,7 +60,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Effects
 
-This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Passive Agility. Your eyes turn white with a hint of blue.
+This Oath grants one Wildcard Mantra slot and one Mobility Mantra slot, eight Passive Agility. Your eyes turn blue with a hint of white.
 
 ## Notes
 

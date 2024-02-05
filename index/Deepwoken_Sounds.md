@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 87180
+revid: 88367
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -50,7 +50,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 16 | Of Smoke And Steel | 2:16 | [Summer Isle](Summer_Isle.md) | File:Summer Isle - Deepwoken OST.mp3 |
 | 17 | One For All, All For Gun | 2:17 | [Summer Isle](Summer_Isle.md) (Combat) | File:Summer Isle (Combat) - Deepwoken OST.mp3 |
 | 18 | A Waltz Of Snow And Knights | 3:12 | [Minityrsa](Minityrsa.md) | File:Minityrsa - Deepwoken OST.mp3 |
-| 19 | Cry 'Havoc!' | 2:10 | [Erisia](Erisia.md) (Combat) | File:Erisia (Combat) - Deepwoken OST.mp3 |
+| 19 | Cry 'Havoc!' | 2:10 | [Erisia](Erisia.md) & [Minityrsa](Minityrsa.md) (Combat) | File:Erisia (Combat) - Deepwoken OST.mp3 |
 | 20 | In Starstruck Sands | 2:38 | [Starswept Valley](The_Starswept_Valley.md) | File:Starswept Valley - Deepwoken OST.mp3 |
 | 21 | Pyres of Glass | 2:32 | [Starswept Valley](The_Starswept_Valley.md) (Combat) | File:Starswept Valley (Combat) - Deepwoken OST.mp3 |
 | 22 | Of Chitin, Kith And Kin | 2:25 | [Greathive Aratel](Greathive_Aratel.md) | File:Greathive Aratel - Deepwoken OST.mp3 |

@@ -1,6 +1,6 @@
 ---
 title: "Marauder's Entrance"
-revid: 88301
+revid: 88366
 source: https://deepwoken.fandom.com/wiki/Marauder's_Entrance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1]
@@ -25,3 +25,4 @@ After entering, there is a hall inside which is where [The Diluvian Mechanism](<
 
 -   The Marauder's Entrance was one of the most abandoned places in the depths, with most players never coming close to it. It used to have a resonance door but now is replaced with a hallway to the Diluvian Mechanism. Allowing any level to test their strength.
 -   The parkour area used to be very buggy, and had the kill-bricks and void on the same height or even higher as the obstacles, which meant many players had void-snapped to [Layer 2](Second_Layer.md) or wiped.
+-   Marauder's Entrance was a massive mystery, during verse one and (part of) verse two, until The Dilluvian Mechanism was added.

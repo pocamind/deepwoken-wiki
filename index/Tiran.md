@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 86615
+revid: 88363
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -31,7 +31,7 @@ Tirans are an extremely rare race that has a bird motif. They have special circl
   <ul>
     <li><i>"As a show of independance when they come of age, Tirans will strike out on their own with just their hand-crafted glider, gliding down from the mountains peaks where they make their homes.</i>
   <ul>
-    <li>You take 10% less fall damage.</li>
+    <li>You take 15% less fall damage.</li>
     <li>Spawn with a Feathered Glider with infinite uses. The descent rate of it is also slightly lower, making you travel slightly further than with a regular glider.</li>
   </ul></li>
   </ul></td>
