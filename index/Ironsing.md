@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 87872
+revid: 88271
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -139,6 +139,7 @@ Metal Kick
 
 -   Each hit is parriable but applies Metal Rods.
 -   Doesn't proc enchants. (Unlike the gif shows, it only procs when hitting an enemy)
+-   Upgrading the level increases the duration of the mantra
 
  |
 |  | Metal Gatling

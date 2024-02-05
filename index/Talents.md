@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88194
+revid: 88284
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -205,7 +205,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. (+1 Passive Agility)
     -   After you don't take damage for 3 seconds, gain 300% health regen while running. Reduced healing in PVP combat.
-    -   Prerequisites: All Alley Cat talents
+    -   Prerequisites: All Alley Cat Talents
 
 ### All-Knowing
 
@@ -352,7 +352,7 @@ These Talents are designed to make defensive gameplay easier by improving your d
 -   _**Reinforced Armor**_ \[Advanced Talent\] - Incoming PEN is reduced by 40%. (+5 Health)
     -   Scales with investment up to it's requirement. With 65 FTD you only have 20% pen reduction and it scales up to the full 40% once you hit 90 FTD.
     -   PEN calculation: incoming PEN \* 0.6 = reduced incoming PEN
-    -   Prerequisites: 90 Fortitude, **all** common Bastion talents.
+    -   Prerequisites: 90 Fortitude, All common Bastion Talents
 
 ### Blindseer
 
@@ -418,7 +418,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Provides I-frames for the duration of the invisibility (2 seconds).
     -   Has a 8 second cooldown.
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory.
-    -   Prerequisites: 40 Agility, All Butterfly talents
+    -   Prerequisites: 40 Agility, All Butterfly Talents
 
 ### Champion
 
@@ -461,16 +461,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Mutual Exclusives: Narcissist
 
 -   _**Dazing Finisher**_ \[Advanced Talent, Charisma\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Prerequisites: All Charm Caster Talents
+    -   Prerequisites: 1 Charisma, All Charm Caster Talents
     -   Mutual Exclusives: Bulldozer
-    -   Notes: This talent only requires 1 Charisma, so you can get all the talents, Shrine of Order, and still be able to obtain this.
 
 ### Christmas Miracle
 
 -   Christmas Miracle \[Common Talent\] - Christmas Mod Shop rewards. Regens hunger and thirst. "Thank you so much K1!" Heh, no problem guys. All in a day's work.
-    -   Prerequisite: MODSHOPREWARD
     -   Using it creates a large Christmas tree that plays an instrumental of [We Wish You a Merry Christmas](https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas).
     -   Exclusive to Deepwoken moderators, bought from the Mod Shop using Mod Points.
+    -   Prerequisite: MODSHOPREWARD
 
 ### Cold Phantom
 
@@ -700,7 +699,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _**Ether Overdrive**_ \[Advanced Talent, Attunement Exclusive\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   Prerequisites: 20 [Element](Attunements.md), 90 Intelligence
     -   Mutual Exclusive: Million Ton Piercer
-    -   Note: Does not require any other Elementalist talents despite being an advanced talent.
 
 -   _Elemental Rebound_ \[Rare Talent\] - Elemental mantras now grant extra tempo upon landing (+3 Elemental Intensity).
     -   Prerequisites: 60 [Element](Attunements.md)
@@ -1034,13 +1032,12 @@ _**"I seek the qualities of Heat Column."**_
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+2 Posture and +5 Health)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
-    -   Gain total immunity to knockdowns (Heavy critical, starkindred's ascension etc...)
+    -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
 -   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage.
     -   Your character no longer shows any signs of damage no matter how low their HP is. No cuts, no scratches, no torn clothing, etc.
-    -   Spotter talent no longer shows how much health your character has.
-    -   Cancels grip? (bug?)
+    -   Spotter Talent no longer shows how much health your character has.
     -   Prerequisites: 20 Fortitude, 100 Willpower
 
 ### Hunter
@@ -1093,7 +1090,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. (+2 Elemental Intensity)
     -   If you burn to death through the use of Last Laugh, the healing is reduced to 25%.
-    -   Prerequisites: All Immolator talents
+    -   Prerequisites: All Immolator Talents
 
 ### Inferno
 
@@ -1649,7 +1646,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 > _**"I seek the qualities of Rampaging Brute."**_
 
 -   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   Prerequisites: 90 Strength, Rest of Rampaging Brute Talents
+    -   Prerequisites: 90 Strength, All Rampaging Brute Talents
     -   Mutual Exclusive: Ether Overdrive
 
 -   Shield Breaker \[Common Talent\] - Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)
@@ -1740,7 +1737,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   Prerequisites: Artisan's Blade, 60 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting the cap, the opponent will take +5% damage.
-    -   Prerequisites: All Scrapsinger talents, 70 Ironsing
+    -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Seeker of Sound
 
@@ -2001,7 +1998,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisite: Shared Demise, 100 Agility
 -   _**Shared Demise**_ \[Advanced Talent, Agility\] - Assassinating an enemy will automatically assassinate other nearby enemies. (+3 Passive Agility)
     -   When you assassinate a player, everyone else nearby gets backstabbed by a shadow. These apply all your backstab talents.
-    -   Prerequisites: All Assassin Talents, 85 Agility
+    -   Prerequisites: 85 Agility, All Assassin Talents
 
 ### Tactician
 

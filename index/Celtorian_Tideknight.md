@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 88207
+revid: 88273
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Items, Outfits]
@@ -37,3 +37,4 @@ This Outfit's schematic can be found in:
 ## Trivia/Notes
 
 -   The Talent has a cooldown of 1 minute
+-   The outfit shares the same requirements as [Prophets Cloak](<Prophet's_Cloak.md>).

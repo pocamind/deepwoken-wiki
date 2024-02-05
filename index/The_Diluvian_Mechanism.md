@@ -1,8 +1,11 @@
 ---
 title: The Diluvian Mechanism
-revid: 88266
+revid: 88316
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Stub pages without reason, StubPages]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # The Diluvian Mechanism
@@ -48,13 +51,15 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 
 Within the Diluvian Mechanism, certain waves have a possibility of having a modifier or environmental hazard that adds a second level of suspense and danger to the player. The known modifiers and environmental hazards are;
 
-### Mantra Nullification
+### Heavy Air
 
-Brings up the dialogue, "The air feels thin..." Causing all players during the round to lose their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras.
+Brings up the dialogue, "The air feels thin..." Causing all players to suffocate during the round losing their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras.
 
 ### Timebomb
 
-White orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs.
+White orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs
+
+-   If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs will generate bombs.
 
 ## Loot
 
@@ -69,8 +74,6 @@ Based on the power of the user(s), the starting wave will differ;
 -   Power 1-12; Wave 1
 -   Power 13-19(?); Wave 6
 -   Power 20; Wave 11
-
-If during the waves, the text "Tick tick tick,,," appears, it means that the round will be progressively more difficult with a vast amount of corrupted, attuned, or hard to fight mobs.
 
 | Wave | Enemies |
 | --- | --- |
@@ -87,7 +90,7 @@ If during the waves, the text "Tick tick tick,,," appears, it means that the rou
 | 11 (Depths Fishing) | 2 Corrupted Lionfish, 2 Corrupted Terrapods |
 | 12 | 1 Corrupted King Gigamed, 1 Corrupted Deep Owl |
 | 13 | 2 Corrupted Stone Knights, 1 Corrupted Attuned Owl |
-| 14 | (Jamal & Jarquavious) | 2 Corrupted Attuned Owls |
+| 14 | 2 Corrupted Attuned Owls |
 | 15 |  |
 | 16 |  |
 | 17 |  |

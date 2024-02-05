@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 87502
+revid: 88300
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]
@@ -14,23 +14,37 @@ categories: [The Depths, Layer 1, Deepwoken]
 
 ## Description
 
-The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 investment points when completed in exchange. When done with multiple players the reward is split between them.
+The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 investment points when completed in exchange. If done with multiple players the reward is split between the people. **The Shrine of Courage can only be used once if you have completed it.**
 
-## Effects
+## Trial Information
 
-If you are power 9(needs testing) or under:
+<table><caption></caption>
+<tbody>
+<tr>
+  <th>Power</th>
+  <th>Wave</th>
+  <th>Enemies</th>
+</tr>
+<tr>
+  <td>9 and Under</td>
+  <td>1</td>
+  <td><a href="Enforcer.md">Enforcer</a></td>
+</tr>
+<tr>
+  <td>10 and Over</td>
+  <td>1</td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="Thresher.md">King Thresher</a></td>
+</tr>
+<tr>
+  <td>17 and Over</td>
+  <td>2-3</td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="Thresher.md">King Thresher</a></td>
+</tr>
+</tbody>
+</table>
 
-You will have to fight an [Enforcer](Enforcer.md) if you have activated the shrine
-
-If you are power 10 or over:
-
-The Trial will have a: Bonekeeper, Fury Nautilodaunt, or King Thresher.
-
-If you are power ??? or over
-
-The Trial will have not only **1** wave, but 2-3 waves. It can only spawn three monsters: Bonekeepers, Fury Nautilodaunts, or a King Thresher.
-
-The Shrine of Courage can only be used once if you have completed it.  
+  
+Within the trial there is a slight chance that the monsters can be corrupted, which will bring extreme risk to the player if they aren't prepared to fight them.  
 
 ## Dialogue
 

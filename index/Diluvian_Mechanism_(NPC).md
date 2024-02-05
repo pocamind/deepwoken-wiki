@@ -1,8 +1,11 @@
 ---
 title: Diluvian Mechanism (NPC)
-revid: 88192
+revid: 88288
 source: https://deepwoken.fandom.com/wiki/Diluvian_Mechanism_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Stub pages without reason, StubPages]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Diluvian Mechanism (NPC)
@@ -14,7 +17,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-The Diluvian Mechanism is located in two places, one in the [Marauder's Entrance](<Marauder's_Entrance.md>), and the other inside of the Diluvian Mechanism itself. It has an appearance of multiple skulls, and hands reaching up.
+The Diluvian Mechanism is located in two places, one in the [Marauder's Entrance](<Marauder's_Entrance.md>), and the other inside of the [Diluvian Mechanism](The_Diluvian_Mechanism.md) itself. It has an appearance of multiple skulls, and hands reaching up.
 
 ### Within Marauder's Entrance
 

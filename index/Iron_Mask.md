@@ -1,6 +1,6 @@
 ---
 title: Iron Mask
-revid: 77334
+revid: 88282
 source: https://deepwoken.fandom.com/wiki/Iron_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -11,8 +11,9 @@ categories: [Equipment, Face, Masks]
 | Iron Mask | |
 |---|---|
 | type | Face |
-| rarity | ??? |
-| requirements | N/A |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | N/A |
@@ -21,7 +22,7 @@ categories: [Equipment, Face, Masks]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Lower Erisia |
-| description | "..." |
+| description | "A crude mask wrought from iron, often worn by political prisoners held captive by the Central Authority." |
 
 ## Description
 

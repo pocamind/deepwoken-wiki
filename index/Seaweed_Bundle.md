@@ -1,6 +1,6 @@
 ---
 title: Seaweed Bundle
-revid: 87937
+revid: 88290
 source: https://deepwoken.fandom.com/wiki/Seaweed_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients]
@@ -16,7 +16,11 @@ A consumable plant commonly found in [The Depths](The_Depths.md) or very rarely 
 
 ## Recipes used in
 
--   Dried Seaweed - 1 Seaweed + Campfire
+Seaweed isn't used in many recipes, nor is an important benefactor to meals. It's only useful for getting the Artisan Chef talents if you're Deepbound, as seaweed is extremely common and you can easily eat 50 of them. Raw Seaweed however gives nothing, so it's best advised to cook it.
+
+-   Dried Seaweed - 1 Seaweed Bundle + Campfire.
+-   Sushi - 1 Seaweed Bundle, 1 Fish Meat.
+-   Fish Stew - 1 Seaweed, 2 Fish Meat + Campfire.
 
 ## Trivia
 

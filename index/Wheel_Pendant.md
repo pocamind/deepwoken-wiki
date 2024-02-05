@@ -1,6 +1,6 @@
 ---
 title: Wheel Pendant
-revid: 73987
+revid: 88285
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Necklaces]
@@ -20,7 +20,7 @@ categories: [Equipment, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer , Hell Mode |
+| obtainment | Second Layer , Hell Mode, Ministry Scout Ambush |
 | description | ... |
 
 ## Description

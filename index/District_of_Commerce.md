@@ -1,9 +1,11 @@
 ---
 title: District of Commerce
-revid: 88052
+revid: 88303
 source: https://deepwoken.fandom.com/wiki/District_of_Commerce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Stub pages without reason, StubPages, Locations, Layer 1]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # District of Commerce

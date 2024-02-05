@@ -1,6 +1,6 @@
 ---
 title: Eyeglasses
-revid: 81014
+revid: 88293
 source: https://deepwoken.fandom.com/wiki/Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Face, Equipment]
@@ -11,8 +11,9 @@ categories: [Face, Equipment]
 | Eyeglasses | |
 |---|---|
 | type | Face |
-| rarity | ??? |
-| requirements | N/A |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | None |
 | weight | 0.5 |
 | innate stats | N/A |
 | innate talent | N/A |

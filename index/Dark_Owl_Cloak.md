@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 88268
+revid: 88274
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -13,14 +13,15 @@ categories: [Equipment, Arms, Cloaks]
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
+| requirements | None |
 | weight | 2 |
 | innate talent | Disbelief |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rare Drop from Deep Owl, Pure umbrite turn ins, Layer 2 chests |
-| description | ... |
+| obtainment | Chests from:, Second Layer, Arena, Pure Umbrite turn insDrops from:, Deep Owl rarely, Deep Widow |
+| description | "..." |
 
 ## Description
 

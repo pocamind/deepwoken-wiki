@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 87854
+revid: 88280
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -31,18 +31,15 @@ The Shrine of Temptation, Up-Front angle
   
 Located at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) of Minityrsa, in the second floor of the crypt.
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** Choose mantras available to your attributes and attunement. You'll often have only one choice.
--   **(PENALTY)** Lose one equipped mantra of your choosing and 5 knowledge points.
+Trade a Mantra of your choice and 5 Knowledges to gain a Whisper Draw.
 
-## Pros/Cons
+## Details
 
--   You can still gain mantras after max level.
--   You lose knowledge points which are very valuable.
--   You have to lose an equipped mantra.(Possible for that mantra to be rolled right after you turn it in)
--   If you have multiple attunements, the three you get to choose won't necessarily be the same element as the one you lost.
--   **READ THE MANTRA YOU ARE TRYING TO REPLACE CAREFULLY OR YOU WILL YOU HAVE TO GAMBLE BACK FOR IT**
+-   Lets you get whisper draws after max level.
+-   Don't forget to use a Mystic to help you get a specific mantra of your choice.
+-   **Be careful when trading your mantras, make sure you are not removing a mantra you actually want to keep.**
     
 
 **Shrine of Blasphemy:**
@@ -56,17 +53,19 @@ The Shrine of Blasphemy, Up-Front angle
   
 Located at the [Hidden Village](The_Hidden_Village.md) of Erisia, obscured by vines and wood.
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** Instantly obtain 3 Power Levels, totalling 45 Attribute Points to spend
--   **(PENALTY)** Gain one random Flaw you have unlocked upon accepting the deal, and lose 5 knowledge. You also have to gain 45 Investment Points to reach the next level.
+This shrine has 2 effects depending on your Power:
 
-## Pros/Cons
+-   Power 1-16: For 5 Knowledge, instantly Power Up 3 times, gaining the relevant amount of Talents and Whisper Draws. However, you gain a Flaw and must catch up the 45 Investment points of these 3 Power Ups. This can only be done once per character.
+-   Power 17-20: For 5 Knowledge, reroll a Flaw of your choice into another, random Flaw.
 
--   This shrine will force you to draw 3 power levels worth of cards _**before**_ you spend the 45 Attribute Points. This can potentially ruin builds if you need certain cards that require stats. Ensure you have the stats for the cards you want before using the shrine!
--   If you are Power 17 or have already used the deal, he rerolls one of your flaws for 5 Knowledge.
--   The daunting amount of Attribute Points you need to make up for, (Usually in the range of 45-60 total Attribute Points to spend,) will be a hassle-- and may pose a problem to Players that rely on Powering up to remain in the Overworld.
--   Since you are levelling up, you gain 3 knowledge points, so the cost is technically 2. This also means that your PvE scaling will scale to your new Power, which may be somewhat helpful.
+## Details
+
+-   Bare in mind that the many card draws you will perform are based on your current stats, **you do not gain any attributes point from this**.
+-   The 45 Investment Points you need to catch up will make it trouble to recover a Life while in the Overworld.
+-   With the 3 Power Ups granted, you immediatly gain 3 Knowledge.
+-   Since you gain bonus damage in PVE based on your level, you immediatly attain higher damage.
     
 
 **Shrine of Mastery:**
@@ -78,15 +77,13 @@ Located at the [Hidden Village](The_Hidden_Village.md) of Erisia, obscured by vi
   
 Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>)
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** You can move around your traits, for example, if you pick Songchant, it will remove 1 point from Songchant, and give you the option to put it into another trait, like Vitality.
--   **(PENALTY)** Lose 1 knowledge.
+For 1 Knowledge, you can trade 1 of your Mastery Points into another Mastery.
 
-## Pros/Cons
+## Detail
 
--   If you change your mind about your build, you can switch around your traits
--   You can only add a point to a trait that **isn't maxed**
+-   Bare in mind you still cannot add more than 6 Points into a give Mastery.
     
 
 **Shrine of Chance:**
@@ -95,18 +92,17 @@ Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus'
 
 When using this shrine, please make sure to **check if you burned the card you're trying to get**, or **if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 500 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** Receive a hand of 3 talents that you do not already have, talents not rollable from roll 2 will appear here
--   **(PENALTY)** Lose 5 Knowledge & swap 1 Talent (of your choice)
+Trade a Talent of your choice and 5 Knowledges to perform a Talent Draw with 3 cards.
 
-## Pros/Cons
+## Detail
 
-File:Legendary Roll.png
-
--   Useful for trying to get a better talent if you have some undesired ones. This makes it one of the most important shrines, as it lets you improve your build after reaching power 20. Also lets you change your build if a once good talent is nerfed. E.g. Finesse used to give +5 Health, but was stripped of it when merged with Now You See Me.
--   Advanced talents can be obtained through this if you have all the required cards even by rerolling a common card, and if you trade in a rare card, you will get a chance of getting other rare cards. (might be less than 3 if less than 3 available from attributes), and if you trade in a common card, you will only get common card choices.
--   _You can get [Murmur](Murmur.md) talents. Go to a [Mystic](Mystic.md) and select "My soul is an instrument with it's own frequency._
+-   One of the most valuable Deep Shrines, this let you obtain talents you might have missed.
+-   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
+-   To get a Rare Talent, you must trade in a Rare Talent.
+-   To get an Advanced Talent, you can trade a Common Talent. Don't forget it's prerequisite.
+-   You cannot trade away a Talent if it is a prerequiste to another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
     
 
 **Shrine of Order:**
@@ -118,28 +114,21 @@ File:Legendary Roll.png
   
 Located in Songseeker Mines, through the passage containing mudskippers.
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** Balances all currently invested attributes to be equal, with a limit of 25 points being taken from a single stat to be equalized
--   **(PENALTY)** Balances all currently invested attributes to be equal, for 10 knowledge and gives you a random flaw.
+For 10 Knowledge, balance your stats (up to a limit), but gain a random Flaw. Can only be done once per character.  
+You need Power 8+ and no Oath to perform this deal.
 
-## Pros/Cons
+## Details
 
--   **YOU CAN ONLY USE SHRINE OF ORDER ONCE.**
--   Requires Power 8 or above.
--   Grants a Random Flaw
-    -   The Simple flaw cannot be granted
--   You cannot use the Shrine of Order if you already have an [Oath](Oaths.md). Using it won't lock you out of getting an Oath.
--   Attribute points you assign during character creation, as well as Innate (racial) attribute points, get affected by points redistribution.
--   Note: Shrine of Order will ignore racially boosted stats you haven't invested in, don't worry
--   Incredibly strong as most [basic attributes](Attributes.md#basic-attributes) are primarily important for unlocking [talents](Talents.md) and [mantras](Mantras.md) rather than direct stat boosts.
+-   The main purpose of the Shrine Of Order is allowing you to obtain expensive [Talents](Talents.md) or [Mantras](Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
+-   The stats that will be ordered are any of the stats that are non 0, beside racial stats, which need 3.
 -   Certain talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
--   Elemental Unbound Talents disappear after the attribute goes below 75.
--   You can use it to obtain a variety of strong talents and mantras first, then use the shrine to put those points toward important attributes (ex. [weapon attributes](Attributes.md#weapon-attributes)) while keeping the talents and mantras you unlocked. **UPGRADED MANTRAS WILL BE LOWERED TO THE MAXIMUM LEVEL YOU CAN OBTAIN WITH YOUR BALANCED STATS**!
--   Alternatively, you can obtain extremely powerful advanced talents that require a lot of points (ex. [Brick Wall](Talents.md#human-architecture)) before shrine, then use the shrine to refund those points and keep the talent.
-    -   This is almost guaranteed to hit the cap of 25 moved points, but allows you to take advantage of the shrine not putting points into stats you have never leveled up before.
-    -   Keep in mind that the redistribution cap of 25 points does not apply to attunement points.
-        
+-   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
+-   Mantras upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
+-   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
+-   A singular stat cannot lose more than 25 Points, with the exception of Attunement Stats.
+    
 
 **Shrine of Conceit:**
 
@@ -152,14 +141,13 @@ Saramaed Deep Shrine
   
 Located in [Saramaed Summit](Saramaed_Summit.md) at [Miner's Landing](<Miner's_Landing.md>) above the Ignition Union vs Summer Company event near the Resonance Door.
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** Unburn a talent or mantra that you have burnt in the past.
--   **(PENALTY)** Lose 1 Knowledge
+For 1 Knowledge, unburn a card of your choice.
 
-## Pros/Cons
+## Details
 
--   Lets you take a card if you accidentally burnt it.
+-   Lets you reenable a card to be drawn if you accidentally burnt it.
 
   
 
@@ -176,17 +164,14 @@ Shrine Of Division
   
 Located in [The Lordsgrove](The_Lordsgrove.md) in the absurd large tunnel system with Astruline, down the hole near the Lordsgrove entrance.
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** Trade in a mantra for 2 random cards.
--   **(PENALTY)** Lose 10 Knowledge
+For 10 Knowledges and a Mantra of your choice, obtain a Roll 2.
 
-## Pros/Cons
+## Details
 
--   Any mantras obtained after obtaining silentheart will be ineligible for trading.
 -   After you take 12 roll 2's, this shrine will no longer allow you to get any talents.
 -   Lets you get 2 talents if you decide that you no longer want to use a mantra.
--   Heavy cost
 -   Monster Mantras are not eligible to be divided.
 -   You cannot obtain Rare talent cards.
 -   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.
@@ -204,12 +189,14 @@ Shrine Of Unification
   
 Located in the [Starfield Veldt](Starfield_Veldt.md) in a cave hidden behind a tree.
 
-## Benefits/Penalties
+## Effect
 
--   **(BENEFIT)** Trade in 2 cards for a mantra.
--   **(PENALTY)** Lose 5 Knowledge
+For 5 Knowledges and 2 Talents of your choice, get a Whisper Draw.
 
-## Pros/Cons
+## Details
+
+-   If you are out of Mantra Draws but need more mantras and don't want to get rid of mantras you already have, you can use this shrine.
+    
 
 **Shrine of Solitude:**
 
@@ -222,12 +209,12 @@ Shrine Of Solitude
 ― Shrine Of Solitude
 
   
-Located in [Trial of One](Trial_of_One.md) on the opposite wall of the entrance. This shrine is only available to those with the Lone Warrior origin.
+Located in [Trial of One](Trial_of_One.md) on the opposite wall of the entrance.
 
-## Benefits/Penalties
+## Effects
 
--   **(BENEFIT)** Functions as a [Mystic](Mystic.md), but does not require notes.
--   **(PENALTY)** Unknown.
+As a Lone Warrior, this shrine act like a Mystic, allowing you to affect your card draws.  
+In all other cases, this shrine does nothing.
 
 ## Pros/Cons
 
