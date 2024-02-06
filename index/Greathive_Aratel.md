@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 88393
+revid: 88409
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Eastern Luminant]
@@ -151,10 +151,10 @@ Hive Test Tube
 -   Parts of the Greathive can be seen emitting black particles, which is fireproofing that allows [Flamecharm](Flamecharm.md) to be used within the Greathive without the whole thing going up in flames.
 -   The combat music for this area is [A Symphony Of Strife](Deepwoken_OST.md) by Naktigonis
 -   Suri's Quest is most likely inspired by Hollow Knight, which also has a mission to deliver a delicate flower that will be destroyed upon taking damage, to a grave. This theory is also supported by many similarities between [Vesperians](Vesperian.md) and bugs in Hollow Knight.
--   Everyone inside Greathive Aratel is a Hivekin: either aVesperian, Ganymede, or Chrysid.
+-   Everyone inside Greathive Aratel is a Hivekin: either a Vesperian Ganymede, or Chrysid.
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here you need max [positive reputation](Reputation.md).
--   Artifacts are able to spawn at hive, however there are no known location of a Banker in the hive itself.
+-   Artifacts are able to spawn at hive.
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen.
 -   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.

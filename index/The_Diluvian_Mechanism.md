@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88384
+revid: 88447
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -100,16 +100,16 @@ Based on the power of the user(s), the starting wave will differ;
 | 17 (Happy Family) | 1 Corrupted Nightmare Thresher, 2 Thresher, 1 Mother Thresher |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed |
 | 19 (Erisia-Party) | 2 Terrapods, 1 Corrupted Owl, 1 Corrupted Golem, 1 Corrupted Megalodaunt |
-| 20 (Attuned Brothers) | 3 Hammer Enforcers with random attunement |
-| 21 |  |
-| 22 |  |
-| 23 |  |
-| 24 (Sharko Mayhem) | Megalodaunt, Crimson Megalodaunt, Alpha Megalodaunt, and Mechalodaunt. |
+| 20 (Attuned Brothers) | 3 Hammer Enforcers (Randomly Attunement) |
+| 21 | 1 Stone Knight, 1 Megalodaunt, 1 Alpha Megalodaunt, 1 Enforcer, 1 Golem, 1 Thresher |
+| 22 (The Sea's Nightmare) | 2 Fury Nautilodaunts, 2 Enforcers |
+| 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 1 Thresher, 1 Alpha Megalodaunt |
+| 24 (Sharko Mayhem) | Megalodaunt, Crimson Megalodaunt, Alpha Megalodaunt, and Mechalodaunt |
 | 25 (Bounder Hell) | 3 Corrupted Bounders |
-| 26 |  |
-| 27 |  |
-| 28 |  |
-| 29 |  |
+| 26 (Burning Stones) | 2 Corrupted Stone Knights, 4 Corrupted Alpha Megalodaunts |
+| 27 (Scyphozia's Starterpack) | 1 Corrupted Megalodaunt, 1 Corrupted Alpha Megalodaunt, 1 Corrupted King Gigamed, 1 Corrupted Terrapod, 1 Corrupted Crustaceous Rex, Corrupted 1 Lionfish. |
+| 28 (Hands of Soap) | 1 Corrupted Prime Golems, 2 Corrupted Fury Nautilodaunts, 1 Corrupted Kyrs-Brute, 1 Attuned Enforcer |
+| 29 (Seafood Featheries) | 1 Corrupted Crimson Megalodaunt, 1 Corrupted Glacial Lionfish, 1 Corrupted Owl, 2 Fury Nautilodaunts. |
 | 30 (Out of the Grave) | Corrupted Mudskippers and Carbuncles |
 | 31 |  |
 | 32 (Glacial Seasoning) | Bllizard Knights and Corrupted Glacial Lionfishes |
@@ -123,7 +123,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 40 (Heavy Giants) | 1 Corrupted Deep Widow, 1 Corrupted Blizzard Knight, 1 Rogue Construct, 1 Corrupted Bonekeeper |
 | 41 (Songseeker's Revenge) | 6-8 Songseekers, 2 Shadow Deep Owls |
 | 42 (Shadow Wizard Money Gang) | 6 Ministry Enforcers, 6 Ministry Necromancers, 2 Shadow Deep Owls |
-| 43 (Kyrs Domain) | Corrupted Kyrs brutes, 2 Iblis the Fallen Angel |
+| 43 (Kyrs Domain) | Corrupted Kyrs-Brutes, 2 Iblis the Fallen Angel |
 | 44 (Starkindred's Return) | 1 Iblis The Fallen Angel, 10 Deep Angels |
 | 45 (Masters on all Hands) | Every attunement trainer that is currently in-game |
 | 46 (Electroshocking Hell) | Thundercall corrupted carbuncles, 4 Upgraded Celtor Guards |
@@ -134,6 +134,6 @@ Based on the power of the user(s), the starting wave will differ;
 
 ## Trivia
 
--   The Mute [Regalia](Regalia.md) does not function in the Diluvian Mechanism.
+-   The Mute [Regalia](Regalia.md) does function in the Diluvian Mechanism, however it affects only Gigameds spawned by King Gigamed.
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or it could derive a greater meaning as the word is related to the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event. Though this is just speculation, it is interesting to note.
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round which kills all the mobs in the arena.

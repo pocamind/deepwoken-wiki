@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 83660
+revid: 88444
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]

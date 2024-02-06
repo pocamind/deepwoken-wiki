@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 86619
+revid: 88437
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -41,6 +41,7 @@ categories: [Random Encounters, NPCs]
 -   [The Hidden Village](The_Hidden_Village.md)
 -   [Towerstruck Lands](Towerstruck_Lands.md)
 -   Temple Of The Forgotten Flame
+-   [The Garden Reservoir](The_Garden_Reservoir.md)
 
 _**(Work in progress, add more locations if you know any and remove this text when this list is complete.)**_
 

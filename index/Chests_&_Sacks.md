@@ -1,6 +1,6 @@
 ---
 title: "Chests & Sacks"
-revid: 86970
+revid: 88439
 source: https://deepwoken.fandom.com/wiki/Chests_%26_Sacks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,6 +22,7 @@ Loot inside a chest is shown with different colors depending on their rarity, ra
 -   Legendary Gear, Schematics or Rings are labelled as bright cyan.
 -   Armors or Weapons with a Mythical rarity are labelled as bright violet.
     -   Mythical Items include Legendary Weapons, Relics, and Enchant Stones
+-   Unique items are labelled as deep magenta (Currently only Ferryman's Coat)
 -   Enchanted items are labelled as white.
 
 The color of a chest depends on where you got it from, consisting of four variations as of current version.

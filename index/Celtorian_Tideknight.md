@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 88273
+revid: 88446
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Items, Outfits]
@@ -38,3 +38,4 @@ This Outfit's schematic can be found in:
 
 -   The Talent has a cooldown of 1 minute
 -   The outfit shares the same requirements as [Prophets Cloak](<Prophet's_Cloak.md>).
+-   The Outfits schematic is **soulbound** meaning that the only way to get it is to beat round 50 of the [diluvan mechanism](<Diluvian_Mechanism_(NPC).md>)
