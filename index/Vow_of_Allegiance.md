@@ -1,6 +1,6 @@
 ---
 title: Vow of Allegiance
-revid: 69000
+revid: 88455
 source: https://deepwoken.fandom.com/wiki/Vow_of_Allegiance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vows]
@@ -17,6 +17,6 @@ However, you can only make 50 of these vows.
 
 The Vow will carry over even after you wipe, but not for the account.
 
-Theoretically, if two guild leaders make a Vow of Allegiance, the two guilds will be treated as allies to each other.
+~Theoretically, if two guild leaders make a Vow of Allegiance, the two guilds will be treated as allies to each other.~ (False, has been tested)
 
 Has no method of being broken.
