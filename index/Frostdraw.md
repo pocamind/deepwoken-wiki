@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 88199
+revid: 88477
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1040,6 +1040,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
 -   I recently found out the chilled effect does not stack, it instead gets removed and applies the next mantra that applies you just hit which leads to getting chilled gone in no time if you hit an ice mantra that had atleast 0.1s of chill, for that matter I recommend picking one or two ice mantra that apply Strong chill duration like Ice smash (Winning condition) or ice forge (Low posture but with enough projectiles to land atleast one that applies the whole chill duration, I don't recommend using this mantra but there isn't many options) and the rest ice mantras have 0 chill effect and only take them for their raw dmg.
+-   Its really recommended to not abuse the chill effect as much, this effect activates the Charged return talent (you do 20% more dmg with your m1s and criticals while under an elemental status effects) so I recommend not using all ice mantras that apply chill as if you could ended up losing more hp than healing you get from saint jay passive regen and steal.
 
 ## Navigation
 

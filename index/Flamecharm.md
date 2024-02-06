@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 88202
+revid: 88466
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -476,7 +476,7 @@ Gain the ability to incinerate yourself when down.
  | 
 
 +5 Elemental Intensity  
-Using Flame Within, set your self on fire after being knocked down.
+Using Flame Within, set your self on fire after being knocked down. Works with Pheonix flames.
 
  |
 
@@ -1355,6 +1355,7 @@ N/A
 -   Flamecharm's **Burn** damage scales off Elemental intensity, Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
 -   Flamecharm is currently the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md).
 -   If the character has the "Azure Flames" talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
+-   Pheonix Flames work with Last Laugh, do with this what you will.
 
 ## References
 
