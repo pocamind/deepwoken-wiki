@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 87672
+revid: 88404
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -196,7 +196,6 @@ To modify a Mantra, the Mantra must be recalled at a campfire into the player's 
 -   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most or all of a player's ether upon one use.
 -   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
 -   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.
--   (Leveling your mantras up will not effect damage on mobs, only other players,)
 
 ## Upgrading Mantras
 
@@ -214,8 +213,6 @@ There are 5 Mantra Levels you can have, starting from Level 1 to Level 5:
 -   Total cost to get one Mantra from level 1 to level 5: 1,000 Notes
 
 Each Mantra level gives a approximately 20% boost to damage and effects from modifiers, and certain Mantras have different effects at level 5, such as Thunder Kick becoming an Instant Guardbreak.
-
-(Upgrading mantras doesn’t affect damage to mobs, only humans.)
 
 ## Elemental Intensity
 

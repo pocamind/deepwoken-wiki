@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 88204
+revid: 88388
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -89,7 +89,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>A vertical jump that sends the user into the air.</li>
     <li>Altitude travelled decreases significantly as the user loses health.</li>
     <li>Drops carried players/NPCs when used.</li>
-    <li>The user will take no fall damage upon using it.</li>
+    <li><s>The user will take no fall damage upon using it.</s> To be tested, pretty sure the user does take fall damage upon using it.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -559,6 +559,7 @@ The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_
 Once completed, the user can upgrade their attunement-less mantras by speaking to the trainer and paying an increasing sum of notes for each mantra level. NOTE:
 
 -   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the number of points** you have in the **respective attribute!**
+-   It seems you can not upgrade any attunementless mantra if you are using any attunement. (to be tested)
 
 For example:
 

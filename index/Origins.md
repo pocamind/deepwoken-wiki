@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 88365
+revid: 88396
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -58,7 +58,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
 -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
--   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) (This doesn't apply if you activate [Shrine of Courage](Shrine_of_Courage.md)), with the possibility of a [Nautilodaunt](Nautilodaunt.md); However, the trial will change depending on the amount of drowns your character has.
+-   **\[CON\]** Your Depths Trial will always be [The Enforcer](Enforcer.md) at minimum, with the possibility of a [Nautilodaunt](Nautilodaunt.md); the trial will still change depending on the amount of Drowns your character has.
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light in the Library.

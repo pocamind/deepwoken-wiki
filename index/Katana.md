@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 87620
+revid: 88391
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -39,7 +39,7 @@ categories: [Weapons, Swords, Katanas]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Using Pluripotent Alloy on the base weapon |
+| obtainment | Using Pluripotent Alloy on the base weapon, Bounty chest |
 | description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
 
 **Base:**

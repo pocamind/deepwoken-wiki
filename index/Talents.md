@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88348
+revid: 88406
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -519,9 +519,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The red trail will show up on non-daggers, but will have no effect.
     -   Prerequisite: Knife's Journey
 
--   Thresher Fangs \[Common Talent, Light\] - Your Knife's Journey critical hits now deal 2x damage to armor.
-    -   Prerequisite: Knife's Journey
-
 ### Cryomancer
 
 > _**"I command the cold."**_
@@ -841,6 +838,8 @@ _**"I dance with the flames."**_
     -   Prerequisites: Glass Path: Crystallization, 40 Flamecharm, 40 Frostdraw
 
 ### Freak Of Nature
+
+_**"I'm built different"**_
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Vesperians will only gain 8% armor from this talent, totalling to 13% with their own natural armor.
@@ -2314,22 +2313,27 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Command: Fight \[Common Talent\] - Command your servants to fight for their master, granting them enhanced stats for a duration.
     -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Buff speed slightly and major power boost
+    -   3 Minutes cooldown
 
 -   _**Command: Live**_ \[Advanced Talent\] - Once per hour, command a servant to defy all odds and obey your command - live.
     -   Prerequisites: 75 Charisma, other Vow of Mastery talents
     -   Effect: Will fully heal your servant if they have lower than 40% hp
+    -   40 Minutes cooldown.
 
 -   _Command: Return_ \[Rare Talent\] - Command your servant to obey your vow and return to your side.
     -   Prerequisites: 60 Charisma, Vow of Mastery
     -   Effect: Pulls the subject to you even through walls and if they're knocked they get up immediately
+    -   15 Seconds cooldown.
 
 -   Command: Run \[Common Talent\] - Command your servant to run with all their might.
     -   Prerequisites: 40 Charisma, Vow of Mastery
     -   Effect: Make your subject run very fast, they can't stop running until the duration of effect ends.
+    -   2 Minutes cooldown.
 
 -   _Command: Sacrifice_ \[Rare Talent\] - Sacrifice the health of a servant in order to restore your own.
     -   Prerequisites: 50 Charisma, Vow of Mastery
     -   Effect: Takes the hp of a servant until you are full hp
+    -   5 Seconds cooldown.
 
 ### Warrior
 

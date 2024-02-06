@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 87223
+revid: 88407
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game]
@@ -29,6 +29,6 @@ Though, Casual Conquest Public Testing is likely to occur in the month of Februa
 -   Casual Conquest Testing will have no exclusive rewards, and will be "rougher around the edges."
 -   Saintsworn was previously though to be a Conquest reward, but it was confirmed by Dex, one of the devs, that though it will be coming with Conquest, it wont be one of its rewards.
 -   The Deepwoken twitter account has recently leaked one of the core points of the game mode, which is a statue in similar fashion to the previously leaked statue a few months earlier, boasting a health bar and shooting fireballs. [https://vxtwitter.com/Deepwoken/status/1745887869334430022?s=20](https://vxtwitter.com/Deepwoken/status/1745887869334430022?s=20)
--   Conquest was planned to be released in December, but had to be delayed to January due to some map changes, and now has been further delayed by a month or two due to a large-scale roblox bug.
+-   Conquest was planned to be released in December, but had to be delayed to January due to some map changes, and now has been further delayed to release either during the middle of February or early March.
 
 Template:AreainfoboxTemplate:Areainfobox Template:Areainfobox

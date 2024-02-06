@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 88223
+revid: 88389
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -811,7 +811,7 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>34.9</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Katana"><font>Alloyed Katana</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Katana#Alloyed"><font>Alloyed Katana</font></a></td>
   <td><font>75 MED</font></td>
   <td><font>20</font></td>
   <td><font>10%</font></td>

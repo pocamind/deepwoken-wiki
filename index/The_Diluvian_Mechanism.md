@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88379
+revid: 88384
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -44,6 +44,7 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 -   [Attunement Trainers](Enemies.md#bossesunique-enemies)
 -   [Ministry Necromancer](Ministry_Necromancer.md)
 -   [Ministry Enforcer](Ministry_Enforcer.md) (Strong variant)
+-   [Tideknight](Tideknight.md)
 -   [Bandit](Bandit.md)
 -   [Kyrsgarde](Kyrsgarde.md) (All variants)
 
