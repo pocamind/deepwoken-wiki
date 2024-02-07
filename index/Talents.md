@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88406
+revid: 88526
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2007,7 +2007,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisites: 20 Intelligence
 
 -   _Punishing Blow_ \[Rare Talent\] - You now daze swinging opponents when hitting them with an M1 with a heavy weapon.
-    -   Prerequisite: 20 Heavy Weapons
+    -   Prerequisite: 20 Heavy Weapon
 
 -   Target Switch \[Common Talent\] - Parrying an opponent while hitting someone else makes your next mantra free.
     -   This effect is signaled by a yellow halo.
