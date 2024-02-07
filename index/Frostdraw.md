@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 88477
+revid: 88478
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -520,6 +520,8 @@ _Skate freely on paths of ice._
     <li>Compatible with Stratus Stones and Eternal Logstones.</li>
     <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
     <li>Iceberg is put on CD by reinforce and vice versa, so you should choose one or the other for healing.</li>
+    <li>Applies 1 second of chill per hit (can't be increased)</li>
+    <li>Stratus and cloudstones increase the duration of the iceberg, with enough stones you can add an extra 2% of healing of the 8%, not recommended as you usually wont be able to heal completely wasting ether and healing.</li>
   </ul></td>
 </tr>
 </tbody>

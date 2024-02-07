@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 87898
+revid: 88489
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Pages with broken file links]
@@ -28,6 +28,7 @@ notices:
 ## Trivia
 
 -   This Oath is created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md) and [Visionshaper](Oath%253A_Visionshaper.md).
+-   This Oath is rumored to come out with [Conquest](Conquest.md) though the release date is rumored to be in March.
 
 ## References
 

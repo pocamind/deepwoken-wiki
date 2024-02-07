@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 88092
+revid: 88492
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -187,6 +187,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _The song shall be silenced. **(Silencer) (Note; Cannot give Silencer's Blade)**_
 -   _I seek the qualities of Specter. **(Specter)**_
 -   _I survive from the teachings of Master Stratos. **(Vigil of Winds)**_
+-   My wind fights for me. _**(Gale Duelist; Tempest Wind)**_
 
 ### [Shadowcast](Shadowcast.md)
 

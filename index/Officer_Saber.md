@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 85201
+revid: 88502
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -33,5 +33,5 @@ The Officer Saber is a Medium type weapon that can be obtained from [Fort Merit]
 ## Trivia
 
 -   The Officer Saber used to have no requirements to use.
--   This sword shares the same model as the [Cavalry Saber](Cavalry_Saber.md).
+-   This sword shares a similar model as the [Cavalry Saber](Cavalry_Saber.md).
 -   As the name and description implies, these are used by [Authority Officers](Authority_Officer.md).

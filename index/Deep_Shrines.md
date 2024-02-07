@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 88326
+revid: 88494
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, NPCs, Mechanics]
 
 ## Limitations
 
-**Deep Shrines** can only be interacted with after approximately 10~ minutes of spawning, so trying to Deepbound and do it wont work.
+**Deep Shrines** can only be interacted with after approximately 10~ minutes of spawning, so trying to Deepbound and do it won't work.
 
 ## Shrines
 
@@ -233,7 +233,7 @@ In all other cases, this shrine does nothing.
     -   In Risk of Rain 2, the Shrine of Chance takes money in exchange for a chance to gain an item (cannot be used after succeeding twice, cost increases each attempt), and the Shrine of Order randomly selects one item from each rarity and converts all other items of the same rarity to the selected item.
     -   Ironically, in that game, Shrine of Order was more or less a joke, providing no utility whatsoever.
         -   It was theorized this was the intent behind Deepwoken's Shrine of Order, but due to it actually allowing for the creation of extremely powerful builds, the developers found themselves unable to roll back the change without creating huge backlash as well as resulting in builds that existed before any changes to the Shrine being far more powerful than any new ones after the changes.
--   You can use any shrine to obtain Contractor however Shrine Of Order is currently bugged and does not count towards Contractor progression.
+-   You can use any shrine to obtain Contractor, however, Shrine Of Order is currently bugged and does not count towards Contractor progression.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
 -   The main 6 Deep Shrines (Order, Blasphemy, Chance, etc.) can be accessed in [Temple of Hearts](Temple_of_Hearts.md) if you have a resonance or start with the Deepbound Origin, however, two remain inert, suggesting they may awaken in the future.
 -   The Shrine of Solitude is unique in that it:
