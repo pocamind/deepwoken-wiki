@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 88491
+revid: 88519
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -559,7 +559,6 @@ The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_
 Once completed, the user can upgrade their attunement-less mantras by speaking to the trainer and paying an increasing sum of notes for each mantra level. NOTE:
 
 -   Upgrading your mantras at this trainer depends on the **type of mantra** you wish to upgrade and **the number of points** you have in the **respective attribute!**
--   It seems you can not upgrade any attunementless mantra if you are using any attunement. (to be tested)
 
 For example:
 

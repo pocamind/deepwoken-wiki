@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 88346
+revid: 88515
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -90,7 +90,11 @@ Each of Nautilodaunt's attacks are an entire challenge by themselves, so they wi
 
 Always keep a calm composure when you fight him, panicking will lead to a swift death. Do NOT parry trade with the Nautilodaunt because it has a much higher posture pool than you. Fight it like you would with the instructor, parrying multiple times to get its posture high and then using a heavy attack. Trying to use ranged or slow Mantras against Nautilodaunt is a bad idea, due to his immense speed, and his most dangerous attack being used at a distance. Avoid his stomp at all costs, his stomp can do upwards to a bar of hp. It is much better to close the distance. as his punches and kicks do not do a lot of damage. Additionally, he can Vent, being able to ignore a Mantra's effect instantly. This also applies to the [Resonance](Resonance.md), [Shard Bow](Shard_Bow.md). Since it parries so fast, parry trading with one is like fighting Duke's shield so you can get used to the parry trade pattern by training with Duke in order to minimize damage taken.
 
-On a final side note, Nautilodaunt seems to dodge some attacks, but what makes him dodge seems to be unknown. He will ALWAYS dodge the first few attacks you perform on him while he is digging in his spawn, so don't blow out all your steam trying to sneak attack him.  
+Nautilodaunts mainly spawn at the back of city of drowned next to a scared character.
+
+On a final side note, Nautilodaunt seems to dodge some attacks, but what makes him dodge seems to be unknown. He will ALWAYS dodge the first few attacks you perform on him while he is digging in his spawn, so don't blow out all your steam trying to sneak attack him.
+
+  
 
 ## Trivia
 
