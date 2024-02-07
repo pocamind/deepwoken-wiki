@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 88531
+revid: 88537
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -62,6 +62,40 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 -   Threshers are very hostile towards Desert Knights, so in case you need to get Threshers off of you, lure them to a Desert Knight.
     
 
+**Nightmare Thresher:**
+
+# Nightmare Thresher
+
+_Also known as Radioactive Thresher and Poison Thresher_ Template:Creature Info Box v2
+
+## Description
+
+Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves.
+
+| Name | Description | Parryable? | Danger |
+| --- | --- | --- | --- |
+| **Arm Swipe** | The Nightmare Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
+| **Bite** | The Nightmare Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
+| **Tail Swipe** | The Nightmare Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
+| **Burrow** | The Nightmare Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
+| **Cursed Flame** | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge/parry when you hear this. ~Must be dodged.~ This attack is parryable, but it's hard to parry every single proc of the attack. It's recommended to just dodge if you're inexperienced with fighting this, because if you don't parry every dingle proc you'll be set on fire. Not very dangerous if you parry at least some of the procs or just dodge the attack. | ◯ | (★☆☆) |
+| **Ram** | The Nightmare Thresher bites you, before leaping backwards and jumping into the air with a sound cue. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. Has a similar danger level as the tail swipe attack, as both will ragdoll you. Parryable if you know the timing well, but just dodge if you're inexperienced with this attack. | ◯ | (★★☆) |
+
+## Passives
+
+-   TBD
+
+## Tips
+
+-   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzones.md) where this lives you'll be instantly sent to the depths.
+
+## Trivia
+
+-   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
+-   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
+-   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.
+    
+
 **King Thresher:**
 
 # King Thresher
@@ -103,37 +137,3 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 -   DO NOT fight this monster on slopes as it will keep moving back it forth, thus making it more difficult to avoid/parry it's attacks. If possible try to fight it in a somewhat (not too) open and flat area. If it is on a slope, lure it to flat ground.
 -   Be aware your environment, have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
 -   A safe way to practice fighting a King Thresher would be to head to the Lightkeeper temple located on the far right side of [Starswept Valley](The_Starswept_Valley.md). Once you enter, on your right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway if your low, but do be warned as there are other threshers in the area.
-    
-
-**Nightmare Thresher:**
-
-# Nightmare Thresher
-
-_Also known as Radioactive Thresher and Poison Thresher_ Template:Creature Info Box v2
-
-## Description
-
-Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient Rotlands](Ancient_Rotlands.md). This mob should be fairly easy as long as you know how to fight the average Thresher, with the only difference being a few different moves.
-
-| Name | Description | Parryable? | Danger |
-| --- | --- | --- | --- |
-| **Arm Swipe** | The Nightmare Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
-| **Bite** | The Nightmare Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
-| **Tail Swipe** | The Nightmare Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
-| **Burrow** | The Nightmare Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
-| **Cursed Flame** | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge/parry when you hear this. ~Must be dodged.~ This attack is parryable, but it's hard to parry every single proc of the attack. It's recommended to just dodge if you're inexperienced with fighting this, because if you don't parry every dingle proc you'll be set on fire. Not very dangerous if you parry at least some of the procs or just dodge the attack. | ◯ | (★☆☆) |
-| **Ram** | The Nightmare Thresher bites you, before leaping backwards and jumping into the air with a sound cue. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. Has a similar danger level as the tail swipe attack, as both will ragdoll you. Parryable if you know the timing well, but just dodge if you're inexperienced with this attack. | ◯ | (★★☆) |
-
-## Passives
-
--   TBD
-
-## Tips
-
--   Learn the parry pattern of the attacks exclusive to this and have a friend nearby while you do so, as if you get killed in the [Voidzone](Voidzones.md) where this lives you'll be instantly sent to the depths.
-
-## Trivia
-
--   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
--   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
--   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.

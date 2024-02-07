@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 86462
+revid: 88547
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -31,7 +31,7 @@ Currently, there are **8** NPCs that can join your Guild Base with a certain amo
 -   The Artisan, which can be hired after building the Trophy Room for Notes.
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for Notes.
 
-The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase.
+The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
 The pricing list is as follows: (Assuming you have the Treasurer)
 

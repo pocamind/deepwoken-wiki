@@ -1,9 +1,9 @@
 ---
 title: Megalodaunt
-revid: 87830
+revid: 88541
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, OutdatedPages, Monsters, Ambush Enemies]
+categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
 ---
@@ -101,6 +101,87 @@ Roar
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 
+**Alpha Megalodaunt:**
+
+  
+Template:Creature Infobox V3
+
+## **Description**
+
+The Alpha Megalodaunt is a unique type of Megalodaunt naturally found in the Depths and the [Starswept Valley](The_Starswept_Valley.md). In addition, they may also be found, curiously, inside the Crypt of the Unbroken located at [Minityrsa](Minityrsa.md), found hanging around in one of the libraries.
+
+As their name might suggest, they are the Alphas within a Megalodaunt Pack, and are considered as the dominant creature inside it's respective pack. However, Alpha Megalodaunts are never observed to be within a pack, and like other Megalodaunts, are usually found either idling alone, or fighting other things alone.
+
+They are much stronger than their regular counterparts with their skin appearing as dark blue rather than pale. Whether or not this is the result of mutations remains unknown, though it is notable that they are capable of using Tacet, a murmur used to suppress one's own song to temporarily become unperceivable by other entities. In this case, it is used for hunting.
+
+Despite all of the above, they behave like regular Megalodaunts.
+
+## **Attacks**
+
+| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+Slash
+
+ | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
+
+-   Heavy posture damage.
+-   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
+-   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
+
+ |  | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+Kick
+
+ | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+
+-   Causes the player to be Dazed if kicked into a wall.
+-   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
+-   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
+-   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
+
+ |  | ✗ | ✗ | ◯ | (★★★) |
+| 
+
+Thousand Needles
+
+ | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
+
+-   There is a shorter ranged AOE version and a single target version. Both function the same.
+
+ |  | ◯ | ◯ | ◯ | (★☆☆) |
+| 
+
+Roar
+
+ | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
+
+-   Blocking negates much of but not all the insanity gain.
+-   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
+
+ |  | ✗ | ◯ | ◯ | (★★☆) |
+| 
+
+Tacet Hug
+
+ | The Alpha turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
+
+-   **Autogrips**
+
+ |  | ✗ | ✗ | ◯ | (★☆☆) |
+| 
+
+Tacet Drop Kick
+
+ | Having received great training from the mighty god, Squid Hoss, the Alphas are also capable of tacet drop kicking the life out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) |  | ? | ? | ◯ | (★☆☆) |
+
+## **Finisher**
+
+| Name | Description |
+| --- | --- |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+
 **Crimson Megalodaunt:**
 
 Template:Creature Infobox V3
@@ -189,87 +270,6 @@ File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 | Incineration | A flaming sword summoned by the Crimson Megalodaunt's Pyroclastic Roar impales the player, setting them on fire and leaving them to burn to death. |
-
-**Alpha Megalodaunt:**
-
-  
-Template:Creature Infobox V3
-
-## **Description**
-
-The Alpha Megalodaunt is a unique type of Megalodaunt naturally found in the Depths and the [Starswept Valley](The_Starswept_Valley.md). In addition, they may also be found, curiously, inside the Crypt of the Unbroken located at [Minityrsa](Minityrsa.md), found hanging around in one of the libraries.
-
-As their name might suggest, they are the Alphas within a Megalodaunt Pack, and are considered as the dominant creature inside it's respective pack. However, Alpha Megalodaunts are never observed to be within a pack, and like other Megalodaunts, are usually found either idling alone, or fighting other things alone.
-
-They are much stronger than their regular counterparts with their skin appearing as dark blue rather than pale. Whether or not this is the result of mutations remains unknown, though it is notable that they are capable of using Tacet, a murmur used to suppress one's own song to temporarily become unperceivable by other entities. In this case, it is used for hunting.
-
-Despite all of the above, they behave like regular Megalodaunts.
-
-## **Attacks**
-
-| Name | Description | Gifs | Parryable? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- | --- |
-| 
-Slash
-
- | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
-
--   Heavy posture damage.
--   If the Megalodaunt uses it twice in a row, it also means it is not gonna do anything for a short period of time, usually enough to land ~3 hits using a MED or LHT weapon, ~2 hits if using a HVY weapon.
--   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
-
- |  | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-Kick
-
- | The Megalodaunt's leg will flash red before delivering a **Kick** that can rag-doll and send the player flying.
-
--   Causes the player to be Dazed if kicked into a wall.
--   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
--   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
--   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
-
- |  | ✗ | ✗ | ◯ | (★★★) |
-| 
-
-Thousand Needles
-
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
-
--   There is a shorter ranged AOE version and a single target version. Both function the same.
-
- |  | ◯ | ◯ | ◯ | (★☆☆) |
-| 
-
-Roar
-
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md). After this, it usually tends to use **Thousand Needles** or **Kick** in quick succession.
-
--   Blocking negates much of but not all the insanity gain.
--   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
-
- |  | ✗ | ◯ | ◯ | (★★☆) |
-| 
-
-Tacet Hug
-
- | The Alpha turns invisible, with a white ring signifying where they are. After a few seconds, if turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
-
--   **Autogrips**
-
- |  | ✗ | ✗ | ◯ | (★☆☆) |
-| 
-
-Tacet Drop Kick
-
- | Having received great training from the mighty god, Squid Hoss, the Alphas are also capable of tacet drop kicking the life out of you, capable of ending anyones run on any power scale. (Theorized that this move only occurs when the target is airborne, switching the attack when the Megalodaunt re-appears due to Tacet Hug being unlikely to land on a player who is high off the ground) |  | ? | ? | ◯ | (★☆☆) |
-
-## **Finisher**
-
-| Name | Description |
-| --- | --- |
-| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 
 **Mechalodaunt:**
 

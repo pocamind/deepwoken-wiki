@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88526
+revid: 88549
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -164,7 +164,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I enjoy mixing potions."**_
 
--   you need to have made and drunk at least one potion for the talents to start showing up.
+-   You need to have made and drunk at least one potion for the talents to start showing up.
 
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown
     -   Prerequisites: 10 Intelligence
@@ -747,7 +747,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisites: 20 Intelligence
 
--   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact.
+-   Nullifying Clarity \[Common Talent, Intelligence\] - Deal 15% more damage to enemies with status effects on them with your basic attacks, but the effect is removed on impact. (Works only with elemental status effects)
     -   Prerequisites: 15 Strength, 5 Intelligence
 
 ### Falling Star Guard

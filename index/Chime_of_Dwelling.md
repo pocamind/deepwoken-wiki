@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 73415
+revid: 88545
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds]
@@ -22,7 +22,7 @@ Upon using the chime on an acceptable surface (Around 90° vertically, should be
 
 The Chime of Dwelling does not work under the following:
 
--   Using the Chime inside a Guild Base.
+-   Using the Chime inside a Guild Base (this does not apply to guild leaders).
 -   Depths and its Layers.
 -   Voidheart, Duke Erisia's Manor or any hostile locations such as [Voidzones](Voidzones.md).
 -   Dungeons or Missions.

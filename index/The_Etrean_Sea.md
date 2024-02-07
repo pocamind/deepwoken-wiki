@@ -1,6 +1,6 @@
 ---
 title: The Etrean Sea
-revid: 81578
+revid: 88533
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations, World]
@@ -31,7 +31,6 @@ The Etrean Sea is the first sea that beginners will encounter. It is a very larg
 
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Upper Erisia](Upper_Erisia.md)
--   [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md)
 -   [Minityrsa](Minityrsa.md)
 
 ## Events
