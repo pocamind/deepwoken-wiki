@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88549
+revid: 88593
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1049,7 +1049,7 @@ _**"I seek the qualities of Heat Column."**_
 > _**"I would see this world freeze"**_
 
 -   Bottom Freeze \[Common Talent, Frostdraw Exclusive\] - Hitting chilled enemies with projectiles while they are on ice freezes them to the ground. (+5 Elemental Intensity)
-    -   Prerequisite: 25 Frostdraw.
+    -   Prerequisite: 25 Frostdraw, Ice Forge
 
 -   Cryonis \[Common Talent, Frostdraw Exclusive\] - All ice spells casted ontop of ice cost less Ether. (+5 Elemental Intensity)
     -   Ice Mantras cost 40% less ether if casted while standing on ice.

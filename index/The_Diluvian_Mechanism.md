@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88579
+revid: 88595
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -53,7 +53,7 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 
 Within the Diluvian Mechanism, certain waves have a possibility of having a modifier or environmental hazard that adds a second level of suspense and danger to the player. Modifiers brings a certain text under the wave number, specifying a debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
 
-### Heavy Air
+### Thin Air
 
 Brings up the dialogue, "The air feels thin..." Causing all players to suffocate during the round losing their ability to cast mantras. This'll cause some issues to support, and for Mage PVE builds who heavily rely on mantras.
 
@@ -78,9 +78,11 @@ The Diluvian Mechanism is a place to be wary of if your not properly prepared, o
 -   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if your doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you can't ironically gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
--   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the TIdekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
+-   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the Tidekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
 -   _**Ardour, Ardour Screan;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
 -   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of the best PVE weapons in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
+-   _**Vampirism;**_ This is easily one of the best enchants for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
+-   _**Enforcer's Axe/Hammer;**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 
 ## Loot
 
@@ -161,8 +163,8 @@ Based on the power of the user(s), the starting wave will differ;
 
  | 3 Winded Enforcer, 1 Corrupted Winded Kyrsgarde-Sniper. |  |
 | 35 (Shadow Rave) | 1 Corrupted Dusked Prime Golem, 1 Corrupted Dusked King Thresher, 1 Corrupted Dusked Owl, 2 Corrupted Dusked Enforcers |  |
-| 36 | 2 Corrupted Nightmare Threshers, 2 Corrupted Threshers, 3 Corrupted Carbuncles, 1 Corrupted Crustaceous Rex, 1 Terrapod, 1 Crimson Terrapod. |  |
-| 37 | 3 Corrupted Owls, 2 Corrupted Kyrsgarde Brutes, 1 King Thresher |  |
+| 36 (A Corrupted Nightmare) | 2 Corrupted Nightmare Threshers, 2 Corrupted Threshers, 3 Corrupted Carbuncles, 1 Corrupted Crustaceous Rex, 1 Terrapod, 1 Crimson Terrapod. |  |
+| 37 (Close-Ranged Harassment) | 3 Corrupted Owls, 2 Corrupted Kyrsgarde Brutes, 1 King Thresher |  |
 | 38 (Burning Alaska) | Corrupted Ice Lionfishes, Corrupted Frost Deep Owl, Corrupted Frost Kyrsgarde Lancer, 1 Crimson Megalodaunt |  |
 | 39 (Health Pack Hell)
 
@@ -171,7 +173,11 @@ Based on the power of the user(s), the starting wave will differ;
  | Gigameds, Corrupted Brainsuckers, Corrupted Crabs, and Corrupted Greater Angels | Its best to stall with one mob, such as a Gigamed, where you run around with it following you, while your teammates heal either using respite or graceful. This round can easily be one of the hardest because of the stun of multiple mobs hitting you. |
 | 40 (Heavy Giants) | 1 Corrupted Deep Widow, 1 Corrupted Blizzard Knight, 1 Rogue Construct, 1 Corrupted Bonekeeper |  |
 | 41 (Celtor's Reminiscence) | 10 Corrupted Attuned Upgraded Tideknights, 2 Shadow Deep Owls | Do NOT underestimate the Tidekinights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. |
-| 42 (Shadow Wizard Money Gang) | 6 Ministry Enforcers, 6 Ministry Necromancers, 2 Shadow Deep Owls |  |
+| 42 (Shadow Wizard Money Gang)
+
+**\*THIN AIR MODIFIER\***
+
+ | 6 Ministry Enforcers, 6 Ministry Necromancers, 2 Shadow Deep Owls |  |
 | 43 (Kyrs Domain) | Corrupted Kyrsgarde Brutes, 2 Iblis the Fallen Angel |  |
 | 44 (Starkindred's Return) | 1 Iblis The Fallen Angel, 10 Deep Angels |  |
 | 45 (Masters on all Hands) | Every attunement trainer that is currently in-game |  |
@@ -187,3 +193,4 @@ Based on the power of the user(s), the starting wave will differ;
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or it could derive a greater meaning as the word is related to the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event. Though this is just speculation, it is interesting to note.
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.
 -   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
+-   The Diluvian Mechanism is the easiest way to get legendary weapons and enchants such as Curved Blade of Winds and Crypt Blade, as they are way more common compared to regular Depths farming.

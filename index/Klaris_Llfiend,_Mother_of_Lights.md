@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 87579
+revid: 88581
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -180,7 +180,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
 -   She is the inventor of Radiant Magic.
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend- though, Arch\_Mage stated there is no relation.
 -   Despite her appearance, she's actually a Canor without eyeliner. [\[4\]](#cite-note-4)
--   Klaris Colors: #ffc592 Skin | #ffc592 Hair
+-   Klaris Colors: #F0E2B6 Skin | #F0E2B6 Hair
     -   The colour of her skin is identical to that of her hair.
     -   Klaris' Hair id's are  
         `8465862459   7337593886`

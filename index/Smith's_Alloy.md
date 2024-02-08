@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 78923
+revid: 88598
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -32,3 +32,4 @@ _(one-time use, re-obtainable)_
 -   You can use Smith's Alloy in [Chime of Conflict](Chime_of_Conflict.md), and it'll save the data as it normally would.
 -   You can't use Smith's Alloy on Side Weapons, like Shields.
 -   Using Smith's Alloy won't soulbind your weapon. This can be useful for trading or upgrading the weapons of friends.
+-   Smith's Alloy can be obtained from a chest obtained by fishing, but the chances are unknown.

@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 85946
+revid: 88588
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -114,3 +114,4 @@ She is incapable of actually **teaching **Shadowcast, and can only be used to le
     -   Thundercall trainer Funke wields the [Stormseye](Stormseye.md).
     -   Shadowcast trainer Nostor wields the [Crypt Blade](Crypt_Blade.md).
     -   Ironsinger trainer Adar wields the [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   Talking to an Attunement trainer, giving them the needed ingredients but **not** taking the potion will **consume your ingredients and not give you the Attuenement**.
