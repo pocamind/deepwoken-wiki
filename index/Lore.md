@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 87855
+revid: 88578
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -44,12 +44,12 @@ _The Lord Regent, sitting atop his throne of coral._
 -   His strength and power come directly from The Depths itself, almost equivalent to the Krulians. Though at the cost of movement.
     -   The Lord Regent is not a Krulian.
     -   In the [book](Books.md#operation-puppet-master-report) "_Operation 'Puppet\_Master' Report_", we learn that after shattering an Etrean guard's mental veil, an Authority Inquisitor saw what he believed to be the Lord Regent's true form:_"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ and breaking this veil also caused the guard's eyes to explode.
-    -   Lord Regent has his power increased by an incredible amount by sitting on his throne. He is able to go from barely defeating Akira to easily defeating Akira with "low difficulty." It even allows him to surpass The Ferryman when at full strength.[\[1\]](#cite-note-rag-1)
-    -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, however this is may not be indicative of his true age, as he is likely immortal.
+    -   Lord Regent has his power increased an incredible amount by sitting on his throne. He is able to go from barely defeating Akira to easily defeating Akira with "low difficulty". It also allows him to surpass The Ferryman when at full strength.[\[1\]](#cite-note-rag-1)
+    -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, but this is may not be indicative of his true age, as he is likely immortal.
 -   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
 -   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) Oath.
     -   Though it is not Shadowcast,[\[2\]](#cite-note-arch-2) it is similar in appearance to it and after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
--   The Lord Regent seems to be very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "The Forge of Sin".
+-   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
     -   This may be of the Canor's history with the Authority, whom they are currently at war with; however, considering that player Canor's are met with little discrimination, it's possible that it's simply because Schnitzel appears to have rather little education.
@@ -237,7 +237,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 
 ### **Viqh, Lightkeeper of the Eastern Lighthouse**
 
-_"My Burden is Light." -Unknown Lightkeeper._
+_"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
 -   Currently residing in the Eastern Lighthouse, near miners landing.
 -   In charge of connecting the Eastern and Etrean Luminant to the rest of the luminants from the Voidsea.

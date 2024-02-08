@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 88519
+revid: 88555
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -100,12 +100,12 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td></td>
   <td>
   <ul>
-    <li><b><u>Requirements:</u> 5 Strength, 40 light(?), Jus Karita, Murmur: Tacet,</b> <i>Combat Mantra</i>
+    <li><b><u>Requirements:</u> 20 Strength (less??), 40 light(?), Jus Karita, Murmur: Tacet,</b> <i>Combat Mantra</i>
   <ul>
     <li>Utilizing Tacet, the user teleports themselves above an opponent before hitting them with a kick.</li>
     <li>Inflicts knockdown.</li>
     <li>Lands 15% faster when casted while wielding Jus Karita.</li>
-    <li>In game it is still labeled as a light weapon mantra.</li>
+    <li>In game it is still labeled as a light weapon mantra</li>
   </ul></li>
   </ul></td>
 </tr>

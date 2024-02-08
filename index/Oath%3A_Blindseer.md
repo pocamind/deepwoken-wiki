@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 87818
+revid: 88574
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,7 +38,7 @@ Once inside the temple, proceed through a passage on the left.
 
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=76G3K8Ng9Q8)._
 
-To obtain the Blindseer Mantras, you need to help pathfinders, or players with no oaths, in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. Also get a passive talent after 4 trials.
+To obtain the Blindseer Mantras, you need to help pathfinders, or players with no oaths, in the Depth Trial. The first mantra is unlocked after 1 trial, the second at 3, and the last at 5. A passive talent is also obtained after 4 trials.
 
 The hints toward how to progress this oath are glyphs located at [Summer Isle](Summer_Isle.md) _\- in the colosseum-looking structure, and the_ [Lightkeeper Temple](Lightkeeper_Temple.md) _\- in the room with the King Thresher._
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 88239
+revid: 88572
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -32,7 +32,8 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
--   [Fishing](Fishing.md)  
+-   [Fishing](Fishing.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)  
       
     
 
@@ -58,7 +59,8 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [First Layer](First_Layer.md)
--   [Fishing](Fishing.md)  
+-   [Fishing](Fishing.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)  
     
 
 **(~1%)**

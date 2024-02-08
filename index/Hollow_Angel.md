@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 88529
+revid: 88571
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -39,7 +39,7 @@ A single Lesser Angel can also be summoned as a Trial when attempting to escape 
 
 Template:Creature Infobox V3
 
-Greater Angels are white and dull-Yellow humanoid creatures with wings. They wield [Crazy Slots](Crazy_Slots.md) Divine Spears and uses the Crazy slots spear light shots ability. Greater Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude. Greater Angels can also spawn with enchants which differentiate them from their Lesser counterparts.
+Greater Angels are white and dull-Yellow humanoid creatures with wings. They wield [Crazy Slots](Crazy_Slots.md) Divine Spears and uses the Crazy slots spear light shots ability. Greater Angels currently only spawn as the fifth challenge in the [Trial of One](Trial_of_One.md) by the Voice of Solitude and from the 10th wave of [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Greater Angels can also spawn with enchants which differentiate them from their Lesser counterparts.
 
 ## Moveset
 

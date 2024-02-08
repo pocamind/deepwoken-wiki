@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88523
+revid: 88579
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -69,6 +69,19 @@ White orbs will be placed around the dungeon, and if not destroyed it'll explode
 
 -   If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs will generate bombs.
 
+## Recommendations and Advice
+
+The Diluvian Mechanism is a place to be wary of if your not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right talents and equipment to make haste of this trial.
+
+-   _**Carnivore;**_ Within the Diluvian Mechanism there is no proper way of gaining food without going for Carnivore or the Gluttony Enchant. This can strive to be a great problem within the dungeon as if you start off with less food, you have a higher chance of dying and also being weakened by the hunger and thirst debuffs. Carnivore is a must have for any PVE.
+-   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless your Ironsing, have Bloodiron Spirit, or possess Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't even take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
+-   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if your doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
+-   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you can't ironically gain health packs against health packs themselves.
+-   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
+-   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the TIdekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
+-   _**Ardour, Ardour Screan;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
+-   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of the best PVE weapons in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
+
 ## Loot
 
 All of the Layer 1 loot pool, including deep gems, at all levels
@@ -103,11 +116,15 @@ Based on the power of the user(s), the starting wave will differ;
 | 7 (A squadron of Knights) | 6 Mudskipper Knights |  |
 | 8 (Songseeker Fighters) | 2 Greater Angels, 4 Mudskipper Knights |  |
 | 9 (Cave Paladins) | 2 Deep Angels |  |
-| 10 (Angel Haven) | 2 Lesser Angels, 2 Deep Angels, 4 Greater Angels |  |
+| 10 (Angel Haven)
+**\*HOLLOW MODIFIER\***
+
+ | 2 Lesser Angels, 2 Deep Angels, 4 Greater Angels |  |
 | 11 (Depths Fishing) | 2 Corrupted Lionfish, 2 Corrupted Terrapods |  |
 | 12 (King Joffrey's pets) | 1 Corrupted King Gigamed, 1 Corrupted King Thresher |  |
 | 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupted Owl |  |
 | 14 (Featherly Brotherhood)
+
 **\*CORPSE EXPLOSION MODIFER\***
 
  | 2 Corrupted Owls |  |
@@ -129,7 +146,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*CORPSE EXPLOSION MODIFER\***
 
- | 3 Corrupted Bounders |  |
+ | 2 Corrupted Bounders |  |
 | 26 (The Kick Duo) | 2 Corrupted Stone Knights, 4 Corrupted Alpha Megalodaunts |  |
 | 27 (Scyphozia's Starterpack) | 1 Corrupted Megalodaunt, 1 Corrupted Alpha Megalodaunt, 1 Corrupted King Gigamed, 1 Corrupted Terrapod, 1 Corrupted Crustaceous Rex, 1 Corrupted Lionfish. |  |
 | 28 (Hands of Soap) | 1 Corrupted Prime Golem, 2 Corrupted Fury Nautilodaunts, 1 Corrupted Kyrsgarde Brute, 1 Attuned Enforcer |  |
@@ -169,3 +186,4 @@ Based on the power of the user(s), the starting wave will differ;
 -   The Mute [Regalia](Regalia.md) does function in the Diluvian Mechanism, however it affects only Gigameds spawned by King Gigamed.
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or it could derive a greater meaning as the word is related to the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event. Though this is just speculation, it is interesting to note.
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.
+-   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
