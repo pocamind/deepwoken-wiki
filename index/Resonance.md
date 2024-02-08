@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 88108
+revid: 88605
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -64,7 +64,7 @@ _(From data of 100 rerolls, the calculated chance of getting a normal **Resonanc
 
 Known side-effects include:
 
--   **SHORT-CIRCUIT:** On use, player will be set ablaze.
+-   **SHORT-CIRCUIT:** On use, player will be set ablaze, (press q)
 -   **MEGALOMANIA:** On use, player will fall deeper into insanity.
 -   **POISON:** On use, player will have exactly 8% drained from their health.[\[1\]](#cite-note-1) If used below 7% health, you will be left at 1 health.
 

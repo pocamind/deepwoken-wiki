@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88595
+revid: 88608
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -67,7 +67,7 @@ White orbs will be placed around the dungeon, and if not destroyed it'll explode
 
 #### Corpse Explosion
 
--   If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs will generate bombs.
+If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs will generate bombs.
 
 ## Recommendations and Advice
 
@@ -89,14 +89,16 @@ The Diluvian Mechanism is a place to be wary of if your not properly prepared, o
 All of the Layer 1 loot pool, including deep gems, at all levels
 
 -   Depths Chests (1-15)
--   Brown Chests (20-50)
+-   Brown Chests (15-50)
 -   2☆ guaranteed equipment (20+?)
--   Relics \[Rain Spire, Void Spire\] (25+)
+-   Relics \[Rain Spire, Void Spire\] (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
 -   3☆ guarenteed equipment (30+
 -   Relics \[Sinners Ash, Idol of Yunshul\] (40+)
--   [Crypt Blade](Crypt_Blade.md) (40+)
+-   [Crypt Blade](Crypt_Blade.md) (20+)
+-   Curved Blade of Winds (25+)
+-   Storm Eye (25+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
 
 ## Waves

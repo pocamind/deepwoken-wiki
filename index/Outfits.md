@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 88591
+revid: 88601
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -67,7 +67,7 @@ _Deepwoken_ currently has 12 Confirmed spec/mod armor that has been discovered.
 
 _Deepwoken_ currently has 3 Unavailable armor that has been discovered.
 
-## Faction Uniform Table
+## Faction Outfit Table
 
 <table><caption></caption>
 <tbody>
@@ -80,7 +80,7 @@ _Deepwoken_ currently has 3 Unavailable armor that has been discovered.
 </tr>
 <tr>
   <td>Pathfinders</td>
-  <td></td>
+  <td><a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a></td>
   <td><a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a></td>
   <td><a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Pathfinder_Arch-Sorcerer.md">Pathfinder Arch-Sorcerer</a></td>
   <td></td>

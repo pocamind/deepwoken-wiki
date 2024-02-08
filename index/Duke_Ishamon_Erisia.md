@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 88094
+revid: 88603
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -228,7 +228,7 @@ Rematch
 -   When fighting in a group, it is recommended to:
     -   Make sure your group catches up with you. If you enter first, they are likely to be locked out of the boss room.
     -   Bring a campfire to the fight. This will allow you switch positions in combat, having your partner fight the Duke while you are healing up.
-    -   The Duke's health scales by 15,000 points for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
+    -   The Duke's health scales by 15,000 points for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 10,000 health.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Deepwoken developer Par is known for working on.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
