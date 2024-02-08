@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88608
+revid: 88612
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -71,7 +71,7 @@ If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs wi
 
 ## Recommendations and Advice
 
-The Diluvian Mechanism is a place to be wary of if your not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right talents and equipment to make haste of this trial.
+The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right talents and equipment to make haste of this trial.
 
 -   _**Carnivore;**_ Within the Diluvian Mechanism there is no proper way of gaining food without going for Carnivore or the Gluttony Enchant. This can strive to be a great problem within the dungeon as if you start off with less food, you have a higher chance of dying and also being weakened by the hunger and thirst debuffs. Carnivore is a must have for any PVE.
 -   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless your Ironsing, have Bloodiron Spirit, or possess Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't even take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
@@ -79,7 +79,7 @@ The Diluvian Mechanism is a place to be wary of if your not properly prepared, o
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you can't ironically gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
 -   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the Tidekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
--   _**Ardour, Ardour Screan;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
+-   _**Ardour, Ardour Scream;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
 -   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of the best PVE weapons in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
 -   _**Vampirism;**_ This is easily one of the best enchants for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
 -   _**Enforcer's Axe/Hammer;**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.

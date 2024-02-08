@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 88150
+revid: 88610
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -28,3 +28,7 @@ This Outfit's Schematic can be found in:
 
 -   Sold by [Nyanna](Nyanna.md) in [Castle Light](Castle_Light.md)
 -   [Lower Erisia](Lower_Erisia.md)
+
+## Trivia
+
+-   Used to be worn by the [Celtorian Guard](Celtorian_Guard.md).
