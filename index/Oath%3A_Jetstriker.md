@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 88661
+revid: 88668
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -10,7 +10,7 @@ categories: [Oaths]
 
 | Oath: Jetstriker | |
 |---|---|
-| oath_req | 40 Agility |
+| oath_req | 50 Agility |
 | effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility |
 
 “ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
@@ -23,7 +23,7 @@ categories: [Oaths]
 
 ## Obtainment
 
-1.  Have at least 40 Agility.
+1.  Have at least 50 Agility.
 2.  Talk to [Alirian](Alirian.md) at [Minityrsa](Minityrsa.md)'s Frozen Pond, far past the [Rogue Construct](Hive_Construct.md) beyond the bridge and to the left ridge.
 3.  Beat Alirian in a race to a specific point that is marked with a yellow marker.
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.

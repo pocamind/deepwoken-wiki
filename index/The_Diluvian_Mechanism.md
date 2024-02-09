@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88665
+revid: 88670
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -86,8 +86,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 
 ## Loot
 
-All of the Layer 1 loot pool, including deep gems, at all levels
-
+-   All of the Layer 1 loot pool, including deep gems, at all levels
 -   Depths Chests (1-15)
 -   Brown Chests (15-50)
 -   [Relics](Relics.md) \[Rain Spire, Void Spire\] (15+)

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88593
+revid: 88666
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -313,7 +313,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I work for the Authority."**_
 
 -   Authority Intimidation \[Common Talent, Thundercall Exclusive\] - All moves that apply electricity slow the opponent more.
-    -   Prerequisites: 60 Thundercall
+    -   Prerequisites: 60 Thundercall, Power 10
 
 -   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
     -   Prerequisites: 65 Thundercall, First Interrogation

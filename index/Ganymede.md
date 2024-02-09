@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 88358
+revid: 88669
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -31,7 +31,6 @@ Ganymedes are a snail-based race in Deepwoken that appear with dark skin, abnorm
   <ul>
     <li>Passive insanity gain from The Depths is reduced.</li>
     <li><a href="Deep_Shrines.md">Deep Shrines</a> cost -1 knowledge to make a deal with.</li>
-    <li>Parasites in <a href="Second_Layer.md">The Eternal Gale</a> take longer to kill you.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -64,7 +63,7 @@ Aeons ago, a long extinct species faced a cultural schism in response to the ris
     
 -   Cool hat  
     
--   You can make more deep deals than other races without having to beat the [Scion of Ethiron](Scion_of_Ethiron.md) to obtain the [Medallions](Kyrsan_Medallions.md) required for [Knowledge](Knowledge.md).  
+-   Deep Shrines are cheaper for you, meaning that you have less of a need to gain Knowledge.
     
 
 **Surnames:**
