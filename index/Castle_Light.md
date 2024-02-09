@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 88438
+revid: 88657
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Layer 1]
@@ -35,7 +35,7 @@ The entrance to the second layer of the depths.
 
 -   The player can enter the [Eternal Gale](Second_Layer.md) via the Light hook.
 -   You are able to trade [Kyrsan medallions](Kyrsan_Medallions.md) to Klaris here.
--   Players can obtain the Oath [Dawnwalker](Oath%253A_Dawnwalker.md) thru the second layer.
+-   Players can obtain the Oath [Dawnwalker](Oath%253A_Dawnwalker.md) through the second layer.
 
 ### The library
 

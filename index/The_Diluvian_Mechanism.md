@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88641
+revid: 88665
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -136,11 +136,11 @@ Based on the power of the user(s), the starting wave will differ;
 | 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Threshers |  |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |
 | 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt | 1 Of the terrapods may be red (needs further testing) |
-| 20 (Hammer Brothers)
+| 20 (Enforcer Brothers)
 
 **\*HOLLOW MODIFER\***
 
- | 3 Hammer Enforcers (Attuned with a Random attunement) |  |
+ | 3 Enforcers (Attuned with a Random attunement) |  |
 | 21 (Trial of One Gang) | 1 Stone Knight, 1 Megalodaunt, 1 Alpha Megalodaunt, 1 Enforcer, 1 Golem, 1 Thresher |  |
 | 22 (The Sea's Nightmare) | 2 Nautilodaunts, 2 Attuned(?) Enforcers |  |
 | 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Threshers, 1 Alpha Megalodaunt | 1 Of the 2 threshers may be corrupt (needs further testing) |

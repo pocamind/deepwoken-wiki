@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 85154
+revid: 88663
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -39,6 +39,8 @@ categories: [Items]
 The Dark Feather is a crafting item that commonly drops from killing a [Deep Owl](Deep_Owl.md). Not to be confused with the Corrupted Owl, which always drops a Void Feather.
 
 Keep in mind, When a non corrupted [Deep Owl](Deep_Owl.md) dies, instead of a Dark Feather a Void Feather might drop instead.
+
+Note that this item is unable to be dropped normally, and can only be transferred through dying
 
 ## Uses
 

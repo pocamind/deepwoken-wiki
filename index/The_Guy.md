@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 86892
+revid: 88662
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-The Guy is a Canor that works for the [Summer Company](The_Summer_Company.md), found with his team near the Meteor Isle. By providing him with 3 spider eggs, he'll let you use to the Cannon found in [Summer Isle](Summer_Isle.md). Alternatively, you could pass a Charisma check requiring 50 CHA.
+The Guy is a Canor that works for the [Summer Company](The_Summer_Company.md), found with his team near the Meteor Isle. By providing him with 3 spider eggs, he'll let you use to the Cannon found in [Summer Isle](Summer_Isle.md). Alternatively, you could pass a Charisma check requiring 40 CHA.
 
 ## Dialogue
 
