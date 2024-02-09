@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 88535
+revid: 88649
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -13,6 +13,10 @@ categories: [Mechanics, Character, Creation]
 They are modifiers that effect gameplay in various ways, including vital core mechanics such as ether, hunger, and reputation, for the better, or worse.
 
 Boons are positive and helpful effects. They usually have less of an impact than Flaws, though. The number of Boons able to be picked is dependent on the number of Flaws that have been picked, with more selected Flaws equaling more Boons able to be equipped.
+
+Flaws can be rerolled by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and selecting the 2nd option, "**My flaws weigh me down too much, I wish for relief.**" this dialogue only appears once, even if you bargain with [Misérables](Misérables.md) for another wish.
+
+Alternatively, the [Shrine of Blasphemy](https://deepwoken.fandom.com/wiki/Deep_Shrines#Shrine_of_Blasphemy) will reroll a flaw of your choice for 5 knowledge given that you are above power 17. This is a much better alternative to wasting a wish with Yun'Shul.
 
 **Boons:**
 
@@ -142,7 +146,7 @@ Carry load is increased by 50, item stack limits are increased by 25% (rounded),
  |
 | 
 
-Sly
+SIy
 
  | 
 

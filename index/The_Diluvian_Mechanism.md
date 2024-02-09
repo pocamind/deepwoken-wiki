@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88612
+revid: 88641
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -18,7 +18,7 @@ An inscrutable mechanism looms in the centre of the hall. Many hearts have been 
 
 ## Description
 
-You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. Ending at 50 waves, and granting rewards and EXP every 5 waves, with a break at the end of it. To start and end a round, and leave midway, you would have to speak with the Diluvian Mechanism.
+You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. Ending at 50 waves, and granting rewards and EXP every 5 waves, with a break at the end of it. To start and end a round, and leave midway, you would have to speak with the Diluvian Mechanism. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
 
 ## Monsters
 
@@ -90,15 +90,14 @@ All of the Layer 1 loot pool, including deep gems, at all levels
 
 -   Depths Chests (1-15)
 -   Brown Chests (15-50)
--   2☆ guaranteed equipment (20+?)
--   Relics \[Rain Spire, Void Spire\] (15+)
+-   [Relics](Relics.md) \[Rain Spire, Void Spire\] (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
--   3☆ guarenteed equipment (30+
--   Relics \[Sinners Ash, Idol of Yunshul\] (40+)
+-   [Relics](Relics.md) \[Sinners Ash, Idol of Yunshul\] (40+)
 -   [Crypt Blade](Crypt_Blade.md) (20+)
--   Curved Blade of Winds (25+)
--   Storm Eye (25+)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (25+)
+-   [Stormseye](Stormseye.md) (25+)
+-   Guaranteed 2 Star loot (40+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
 
 ## Waves
@@ -114,8 +113,8 @@ Based on the power of the user(s), the starting wave will differ;
 | 1 (Deepbound "Trial of One") | 2 Crabs, 3 Gigameds |  |
 | 2 (Deepbound "Trial of One") | 1 Thresher |  |
 | 3 (Deepbound "Trial of One") | 1 Rock Golem |  |
-| 4 (Deepbound "Trial of One") | 1 Corrupted Lionfish |  |
-| 5 (Deepbound "Trial of One") | 1 Corrupted Megalodaunt |  |
+| 4 (Deepbound "Trial of One") | 1 Corrupt Lionfish |  |
+| 5 (Deepbound "Trial of One") | 1 Corrupt Megalodaunt |  |
 | 6 (Holy Knights) | 2 Greater Angel, 4 Mudskipper Knights |  |
 | 7 (A squadron of Knights) | 6 Mudskipper Knights |  |
 | 8 (Songseeker Fighters) | 2 Greater Angels, 4 Mudskipper Knights |  |
@@ -124,70 +123,74 @@ Based on the power of the user(s), the starting wave will differ;
 **\*HOLLOW MODIFIER\***
 
  | 2 Lesser Angels, 2 Deep Angels, 4 Greater Angels |  |
-| 11 (Depths Fishing) | 2 Corrupted Lionfish, 2 Corrupted Terrapods |  |
-| 12 (King Joffrey's pets) | 1 Corrupted King Gigamed, 1 Corrupted King Thresher |  |
-| 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupted Owl |  |
+| 11 (Depths Fishing) | 2 Corrupt Lionfish, 2 Corrupt Terrapods |  |
+| 12 (King Joffrey's pets) | 1 Corrupt King Gigamed, 1 Corrupt King Thresher |  |
+| 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupt Owl |  |
 | 14 (Featherly Brotherhood)
 
 **\*CORPSE EXPLOSION MODIFER\***
 
- | 2 Corrupted Owls |  |
-| 15 (Great Corrupted) | 1 Corrupted Crimson Megalodaunt, 2 Corrupted Crimson Terrapods, 2 Corrupted Nightmare Thresher |  |
-| 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupted Enforcer (possibly attuned, needs further testing) |  |
-| 17 (Happy Family) | 1 Corrupted Nightmare Thresher, 2 Thresher, 1 Mother Thresher |  |
-| 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed |  |
-| 19 (Erisia-Party) | 2 Terrapods, 1 Corrupted Owl, 1 Corrupted Golem, 1 Corrupted Megalodaunt |  |
-| 20 (Attuned Brothers)
+ | 2 Corrupt Owls |  |
+| 15 (Great Corrupted) | 1 Corrupt Crimson Megalodaunt, 2 Corrupt Crimson Terrapods, 2 Corrupt Nightmare Threshers |  |
+| 16 (Golem Frenzy) | 1 Stone Knight, 1 Golem Prime, 1 Rock Golem, 1 Corrupt Enforcer |  |
+| 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Threshers |  |
+| 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |
+| 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt | 1 Of the terrapods may be red (needs further testing) |
+| 20 (Hammer Brothers)
 
 **\*HOLLOW MODIFER\***
 
  | 3 Hammer Enforcers (Attuned with a Random attunement) |  |
 | 21 (Trial of One Gang) | 1 Stone Knight, 1 Megalodaunt, 1 Alpha Megalodaunt, 1 Enforcer, 1 Golem, 1 Thresher |  |
-| 22 (The Sea's Nightmare) | 2 Fury Nautilodaunts, 2 Enforcers |  |
-| 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 1 Thresher, 1 Alpha Megalodaunt |  |
-| 24 (Sharko Mayhem) | Megalodaunt, Crimson Megalodaunt, Alpha Megalodaunt, and Mechalodaunt |  |
+| 22 (The Sea's Nightmare) | 2 Nautilodaunts, 2 Attuned(?) Enforcers |  |
+| 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Threshers, 1 Alpha Megalodaunt | 1 Of the 2 threshers may be corrupt (needs further testing) |
+| 24 (Shiver) | 1 Corrupt Megalodaunt, 1 Crimson Megalodaunt, 1 Corrupt Alpha Megalodaunt, and 1 Mechalodaunt |  |
 | 25 (Bounder Hell)
 
 **\*CORPSE EXPLOSION MODIFER\***
 
- | 2 Corrupted Bounders |  |
-| 26 (The Kick Duo) | 2 Corrupted Stone Knights, 4 Corrupted Alpha Megalodaunts |  |
-| 27 (Scyphozia's Starterpack) | 1 Corrupted Megalodaunt, 1 Corrupted Alpha Megalodaunt, 1 Corrupted King Gigamed, 1 Corrupted Terrapod, 1 Corrupted Crustaceous Rex, 1 Corrupted Lionfish. |  |
-| 28 (Hands of Soap) | 1 Corrupted Prime Golem, 2 Corrupted Fury Nautilodaunts, 1 Corrupted Kyrsgarde Brute, 1 Attuned Enforcer |  |
-| 29 (Seafood Featheries) | 1 Corrupted Crimson Megalodaunt, 1 Corrupted Glacial Lionfish, 1 Corrupted Owl, 2 Fury Nautilodaunts. |  |
-| 30 (Out of the Grave) | Corrupted Mudskippers and Carbuncles |  |
-| 31 (Infinite Stun) | 3 Corrupted Thundered Prime Golems, 1 Nautilodaunt, and King Gigamed |  |
-| 32 (Glacial Ball) | 1 Blizard Knight, 2 Corrupted Glacial Lionfishes, 1 Corrupted Attuned Bonekeeper |  |
-| 33 (Flame Hip-Hop) | 1 King Thresher, 2 Attuned Blazing Nightmare Threshers, 1 Corrupted Blazing Crimson Megalodaunt, 1 Corrupted Blazing Mechalodaunt, 1 Corrupted Rogue Construct |  |
+ | 2 Corrupt Bounders |  |
+| 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts |  |
+| 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers |  |
+| 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Attuned(?) Nautilodaunt. |  |
+| 29 (Seafood Featheries) | 1 Crimson Megalodaunt, 1 Glacial Lionfish, 1 Owl, 1 Nautilodaunt. 1 Fury Nautilodaunt. |  |
+| 30 (Parasyte) | 6 Corrupt Attuned Carbuncles |  |
+| 31 (Infinite Stun) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. |  |
+| 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
+| 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Blazing Mechalodaunt, 1 Corrupt Rogue Construct, 1 Flamewreathed Mechalodaunt |  |
 | 34 (Gale Fiesta)
 
 **\*CORPSE EXPLOSION MODIFER\***
 
- | 3 Winded Enforcer, 1 Corrupted Winded Kyrsgarde-Sniper. |  |
-| 35 (Shadow Rave) | 1 Corrupted Dusked Prime Golem, 1 Corrupted Dusked King Thresher, 1 Corrupted Dusked Owl, 2 Corrupted Dusked Enforcers |  |
-| 36 (A Corrupted Nightmare) | 2 Corrupted Nightmare Threshers, 2 Corrupted Threshers, 3 Corrupted Carbuncles, 1 Corrupted Crustaceous Rex, 1 Terrapod, 1 Crimson Terrapod. |  |
-| 37 (Close-Ranged Harassment) | 3 Corrupted Owls, 2 Corrupted Kyrsgarde Brutes, 1 King Thresher |  |
-| 38 (Burning Alaska) | Corrupted Ice Lionfishes, Corrupted Frost Deep Owl, Corrupted Frost Kyrsgarde Lancer, 1 Crimson Megalodaunt |  |
-| 39 (Health Pack Hell)
+ | 3 Galeforce Enforcer, 1 Corrupt Galeforce Kyrsgarde-Sniper. |  |
+| 35 (Shadow Rave) | 1 Corrupt Shadowmeld Prime Golem, 1 Shadowmeld King Thresher, 1 Corrupt Shadowmeld Owl, 3 Shadowmeld Enforcers |  |
+| 36 (A Corrupted Nightmare) | 2 Corrupt Nightmare Threshers, 2 Corrupt Threshers, 3 Corrupt Carbuncles, 1 Corrupt Crustaceous Rex, 2 Corrupt Crimson Terrapods, 1 Corrupt King Thresher |  |
+| 37 (Invisibility Abusers) | 3 Corrupt Owls, 1 King Thresher, 1 Corrupt Attuned(?) Alpha Megalodaunt, 3 Kyrsgarde Crawlers |  |
+| 38 (Burning Alaska) | 1 Corrupt Frostmantle Lionfish, 1 Corrupt Frostmantle Deep Owl, 3 Corrupt Frostmantle Kyrsgarde Snipers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Frostmantle Glacial Lionfish |  |
+| 39 (Health Pack Hell Featuring Bruce Lee)
 
 **\*HOLLOW MODIFER\***
 
- | Gigameds, Corrupted Brainsuckers, Corrupted Crabs, and Corrupted Greater Angels | Its best to stall with one mob, such as a Gigamed, where you run around with it following you, while your teammates heal either using respite or graceful. This round can easily be one of the hardest because of the stun of multiple mobs hitting you. |
-| 40 (Heavy Giants) | 1 Corrupted Deep Widow, 1 Corrupted Blizzard Knight, 1 Rogue Construct, 1 Corrupted Bonekeeper |  |
-| 41 (Celtor's Reminiscence) | 10 Corrupted Attuned Upgraded Tideknights, 2 Shadow Deep Owls | Do NOT underestimate the Tidekinights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. |
+ | 5 Gigameds, 5 Corrupt Thunderstruck Brainsuckers, 4 Corrupt Crabs, 5 Corrupt Greater Angels, 1 Nautilodaunt | Its best to stall with one mob, such as a Gigamed, where you run around with it following you, while your teammates heal either using respite or graceful. This round can easily be one of the hardest because of the stun of multiple mobs hitting you. |
+| 40 (Heavy Giants) | 1 Corrupt Attuned(?) Deep Widow, 1 Corrupt Attuned(?) Blizzard Knight, 1 Attuned(?) Enforcer, 1 Corrupt Attuned(?) Bonekeeper |  |
+| 41 (Celtor's Reminiscence) | 14 Corrupt Tideknight Songseekers, 2 Corrupt Shadowmeld Deep Owls | Do NOT underestimate the Tideknights, they can easily gang up on you and do heavy damage with their mantras, plus adding on with their corrupted, and attuned nature, it'll be harder to attack them. Try your best to guard break them, and hit them with multi hits. The Tideknights **can** be attuned despite not being monsters. |
 | 42 (Shadow Wizard Money Gang)
 
 **\*THIN AIR MODIFIER\***
 
- | 6 Ministry Enforcers, 6 Ministry Necromancers, 2 Shadow Deep Owls |  |
-| 43 (Kyrs Domain) | Corrupted Kyrsgarde Brutes, 2 Iblis the Fallen Angel |  |
-| 44 (Starkindred's Return) | 1 Iblis The Fallen Angel, 10 Deep Angels |  |
-| 45 (Masters on all Hands) | Every attunement trainer that is currently in-game |  |
-| 46 (Electroshocking Hell) | Thundercall Corrupted Carbuncles, 4 Tideknights |  |
-| 47 (Infection Spree) | Shadow Corrupted Nightmare Threshers, Diver Husks |  |
-| 48 (Preparation before the End) | Corrupted Bounders, Corrupted Deep Widow, Golem Prime |  |
+ | 5 Corrupt Shadowmeld Greater Ministry Enforcers, 3 Corrupt Shadowmeld Ministry Necromancers, 4 Corrupt Shadowmeld Ministy Scouts/Captains/Lesser Enforcers (they all look the same) | There's probably 1 Extra greater enforcer and 1 Extra necromancer, chilling weapon advised |
+| 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Flamecharm Starkindred Angel, 2 Corrupt Tideknight Flamewreathed Galebreath Starkindred Angels |  |
+| 44 (Starkindred's Return) | 1 Corrupt Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels |  |
+| 45 (Masters on all Hands) | 6 'Attunement Trainer' knockoff corrupt attuned tideknights. (1 For each attunement trainer) |  |
+| 46 (Electroshocking Hell) | 8 Thunderstruck Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers |  |
+| 47 (Infection Spree) | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchant-wielding Diver Husks |  |
+| 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned(?) Deep Widow, 2 Corrupt Golem Primes |  |
 | 49 (Divine Humor) | 1 Lowly Bandit | Pray. |
-| 50 (End of the Hell) | 2 Corrupted Attuned Bonekeepers, 2 Corrupted Attuned Kyrsgarde brutes, 2 Corrupted Attuned Bounders, 2 Corrupted Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts. _(Referenced from zuukle's video)_ |  |
+| 50 (End of the Hell)
+
+\***CORPSE EXPLOSION MODIFIER**\*
+
+ | 2 Corrupt Attuned Bonekeepers, 2 Corrupt Attuned Kyrsgarde brutes, 2 Corrupt Attuned Bounders, 2 Corrupt Attuned Kyrsgarde Snipers, 2 Fury Nautilodaunts. _(Referenced from zuukle's video, cross referenced from fiotrix's video)_ |  |
 
 ## Trivia
 

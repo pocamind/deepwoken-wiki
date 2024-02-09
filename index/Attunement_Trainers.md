@@ -1,6 +1,6 @@
 ---
 title: Attunement Trainers
-revid: 88588
+revid: 88625
 source: https://deepwoken.fandom.com/wiki/Attunement_Trainers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -91,7 +91,7 @@ When fought, they use a [Crypt Blade](Crypt_Blade.md).
 | File:Screenshot 3.png | [Attunement-less](Attunement-less.md) | Regek | [The Hive](The_Hive.md) | They can be found inside the _Archives_ section of [Greathive Aratel](Greathive_Aratel.md). | Regek is a [Vesperian](Vesperian.md) who uses [Attunement-less](Attunement-less.md). |
 |  | [Ironsing](Ironsing.md) | [Adar](Adar,_Master_of_Metal.md) | [Miner's Landing](<Miner's_Landing.md>) | He can be found inside a lab which can be reached using hidden platforms. | Adar is an [Etrean](Etrean.md) who uses [Ironsing](Ironsing.md).
 
-When fought he uses a Darksteel Greatsword
+When fought he uses a [Darksteel Greatsword](Darksteel_Greatsword.md)
 
  |
 |  | [Shadowcast](Shadowcast.md) | [Beatra](Beatra.md) | [Derelict Highchurch](Derelict_Highchurch.md) | She can be found to the left of the Derelict Highchurch.  

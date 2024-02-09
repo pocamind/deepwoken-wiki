@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 88572
+revid: 88645
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -115,6 +115,7 @@ File:Sinner's Ash.png
 -   [First Layer](First_Layer.md)
 -   [Depths Widow](Deep_Widow.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Fishing](Fishing.md)
 
  |
 | 

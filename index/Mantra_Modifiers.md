@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 87911
+revid: 88648
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras]
@@ -467,6 +467,7 @@ Spark
 -   Rising Shadow
 -   Shoulder Bash
 -   Needle Barrage
+-   Firing line
 
  | 
 
