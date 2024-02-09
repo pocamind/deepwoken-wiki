@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88666
+revid: 88680
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -78,7 +78,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   The speed boost is represented by a red glow around the player's eyes.
     -   Prerequisite: 5 Agility
-    -   Note: Killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
+    -   Killing a large group of mobs such as those in the Duke's Manor will grant a tremendous speed boost \[Tested\]
 
 -   Kick Off \[Common Talent, Agility\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
     -   3 Second cooldown.
@@ -165,7 +165,6 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I enjoy mixing potions."**_
 
 -   You need to have made and drunk at least one potion for the talents to start showing up.
-
 -   Apothecary \[Common Talent, Intelligence\] - Potions you prepare will have amplified positive effects when consumed, and amplified negative effects when thrown
     -   Prerequisites: 10 Intelligence
     -   The head equipment "[Alchemist's Hat](<Alchemist's_Hat.md>)" and "[Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)" have this talent.
@@ -219,8 +218,9 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I seek out Amorus Pleeksty."**_
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
-    -   Gain +10/20% damage and increased movement speed while the fire is active.
-    -   Unlike normal burn, Flame Within's burn is not cleared by rolling. Reactivate Flame Within to clear the flames.
+    -   Gain +20% damage while the fire is active.
+    -   Despite what the description says, there is no speed boost given.
+    -   Unlike normal burn, Flame Within's burn is not cleared by rolling. Flame Within burn will last up to 30 seconds or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 seconds cooldown when the flames are cleared.
     -   Prerequisite: 25 Flamecharm
@@ -274,6 +274,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 > _**"I am an artist."**_
 
 -   Master Craftsman \[Common Talent, Intelligence\] - Your skills alone substitute the need for a Craft Station. (+5 Health)
+    -   You can make crafts that require a Craft Station without one.
     -   Prerequisite: 45 Intelligence
 
 ### Assassin
@@ -292,9 +293,10 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Crouching is now as fast as walking.
     -   Prerequisites: 20 Agility
 
--   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. (+1 Passive Agility)
+-   Lights Out \[Common Talent, Agility\] - Those you carry are blindfolded. Assassinating an opponent now blinds them for 5s. (+1 Passive Agility)
     -   Prerequisite: 55 Agility
 -   Unseen Threat \[Common Talent, Light\] - You can assassinate those with weapons out provided you're not in combat yourself.
+    -   Being in combat and having your weapon selected normally gives immunity to assassinations. This talent bypass this immunity.
     -   Prerequisite: 60 Agility
 
 ### Athlete
@@ -424,7 +426,9 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I have never lost."**_
 
--   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you. (About 10% extra damage)
+-   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
+    -   Deal +10% damage to those with higher HP.
+    -   "Higher HP" refers to max HP. Due to this, this talent is always active in PVE.
     -   Prerequisite: 50 Willpower
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
@@ -493,7 +497,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 ### Comrade
 
--   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged. (For enemies you drain their Ether until you are hit. If they are blocking while you are draining their ether, the drain will be cut in half.)
+-   _Lord's Tithe_ \[Rare Talent\] - Allies and enemies you Reinforce are drained of their Ether until you are fully charged.
+    -   While the effect is active, victims can hold block to reduce the ether steal by half.
     -   Prerequisites: Reinforce, 40 Shadowcast, 40 Fortitude **(Note that reinforce requires 50 fortitude despite the requirement for the talent being 40)**
 
 -   _Grand Support_ \[Rare Talent\] - Everyone you buff with Reinforce is healed lightly. You're healed slightly if you heal others.
@@ -560,12 +565,15 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I am ruthless. A knife for hire."**_
 
 -   Blood Thirsty \[Common Talent, Agility\] - Gain a speed boost after causing an opponent heavy blood loss. (+1 Passive Agility)
+    -   "Heavy Bloodloss" refers to a guard break.
     -   Prerequisite: 45 Agility
 -   In a Hurry \[Common Talent, Agility\] - You grip faster with a movement speed boost.
     -   Reduce grip time by 0.5 seconds (16.67% faster)
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
     -   Prerequisite: 30 Agility
 -   Muffled Scream \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of talents that slow your executions. (+1 Passive Agility)
+    -   NPCs have a shortened aggro range from gripping allies in proximity.
+    -   Defiant Until The End and Last Second Negotiation affect your grip speed less.
     -   Prerequisite: 50 Agility
 
 ### Darksiphon
@@ -678,7 +686,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisites: 15 Strength, 25 Fortitude
 
 -   _Tap Dancer_ \[Rare Talent, Agility\] - Roll immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
-    -   Your Roll cooldown is refunded when you perform a roll cancel. Does not proc on the subsequent roll cancel.
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
     -   Prerequisite: 60 Agility
 
 ### Duelist Flame
@@ -717,7 +725,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 > _**"I wish to escape."**_
 
 -   Robber Baron \[Common Talent\] - You hold onto more items when defeated.
-    -   Item loss is reduced from 50% to 25%.
+    -   Item loss on death is reduced from 50% to 25%.
     -   You no longer lose notes from dying.
 
 ### Ether Adept
@@ -1016,7 +1024,6 @@ _**"I seek the qualities of Heat Column."**_
     -   Does not proc/work on people in the same guild as yours.
         -   Besides passive health regen, it also blocks health packs from knocks, spit healing, [Bloodless Gem](Deep_Gems.md), campfire regeneration, [Blood Scourge](Blood_Scourge.md) and [Vampirism](Enchantments.md).
     -   The anti-heal effect is signified by a purple particle effect on the victim.
-    -   Scales with investment up to it's requirement. If you have less WLL/INT than required then it will lower the antiheal amount. However, it will still prevent passive regen.
     -   Prerequisite: 65 Willpower, 40 Intelligence
 -   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of Insanity for 20 seconds.
     -   Gives a burst of insanity to yourself, which achieves the following:
@@ -1030,7 +1037,7 @@ _**"I seek the qualities of Heat Column."**_
 
 -   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
-        -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air fraction.
+        -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
     -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension etc...)
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
@@ -1083,7 +1090,6 @@ _**"I seek the qualities of Heat Column."**_
     -   Prerequisites: 40 Flamecharm
 
 -   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity, +2 Elemental Intensity)
-    -   Flame Within also count as being on fire.
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   Prerequisite: Agitating Spark, 40 Flamecharm
 
@@ -1096,6 +1102,7 @@ _**"I seek the qualities of Heat Column."**_
 > _**"All must burn."**_
 
 -   All-Consuming Flame \[Common Talent\] - Your flames will incinerate unconscious Targets much faster.
+    -   Burn grip unconscious targets in 3 seconds (same time as a manual grip) intead of 5.
     -   Prerequisites: Corpse Explosion
 
 -   Corpse Explosion \[Common Talent\] - Bodies that you burn to death immediately explode dealing massive damage.
@@ -1590,7 +1597,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   Prerequisites: 90 Charisma
 -   Pardon Me \[common Talent, Charisma Exclusive\] - Crimes you commit in allied territories are often ignored. Who's asking?
     -   Guards from faction which you are at or above neutral reputation will not aggro on you.
-        -   Crimes still induce reputation lose however.
+        -   Crimes still induce reputation lose however and will turn hostile/react to crimes when your reputation become negative.
     -   Prerequisites: 85 Charisma
 
 ### Prospector

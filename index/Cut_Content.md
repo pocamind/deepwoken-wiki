@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 87912
+revid: 88676
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Community]
@@ -56,15 +56,10 @@ notices:
 ## Monsters
 
 -   **[Crab](Crab.md)** - Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
+    -   They were however brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
 -   **[Isopods](Horseshoe_Crab.md) -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **The World Serpent -** A giant sea monster that was scripted into the game, but never added in the official release. World Serpent will be released in the future.
 -   **Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
-
-  
-
-  
-
-  
 
 ## Talents
 
@@ -73,10 +68,10 @@ notices:
     -   Along with **Lose Your Mind,** which used to deal _double_ damage at max insanity, a bug was found where Lose Your Mind's max damage buff was always active as long as you had some form of Insanity, effectively granting you permanent double or even _quadruple_ damage, as showcased in Shirafune's video.
 -   **Adept \[ Legendary Talent\] -** Taking this Talent will make it easier to progress.
 -   All Aerial Talents were removed and instead became a part of base combat
--   **Aerial Kick \[Common Priority Talent\] -** \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
--   **Aerial Shot \[Common Priority Talent\] -** \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
--   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
--   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
+    -   **Aerial Kick \[Common Priority Talent\] -** \[Fist\] When using a Light Attack while airborne propel yourself forward and do a kick downwards. (+1 Posture,+3 Carry Load, +1 Health)
+    -   **Aerial Shot \[Common Priority Talent\] -** \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
+    -   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
+    -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
 -   **Agitating Static \[Common Talent, Thundercall exclusive\] -** Using Discovery of Fire will light nearby downed enemies aflame.
     -   in October 6th, 2023 update, Agitating Static was merged into Discovery of Fire.
 -   **Black Out \[Common Talent, Shadowcast Exclusive\] -** Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantra. (+5 Elemental Intensity)
@@ -103,7 +98,7 @@ notices:
 -   **Encouraging Presence \[Common Talent\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the January 3rd, 2023 update, Encouraging Presence was merged into Conquer Your Fears.
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
-    -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this talent effectively useless. Every player with this talent was refunded a card hand.
+    -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this talent effectively useless.
 -   **Ether Fortress \[Generic Talent, Common Talent\] -** Venting no longer knocks you back. (+2 Health, +4 Sanity)
 -   **Frozone \[Rare Talent, Frostdraw Exclusive\] -** You are no longer required to be over water to use Ice Skates. (+5 Elemental Intensity)
     -   The talent was removed from the game with October 28th, 2023 update, as it became a base behavior for Ice Skate.
