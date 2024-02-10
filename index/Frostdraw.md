@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 88478
+revid: 88864
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -16,7 +16,7 @@ A Hemafrosted Capra casting a beam of ice.
 
 Frostdraw grants the user the ability to bring forth frost and the freezing cold, giving them access to abilities which focus on area denial and debuffs. Frostdraw is slightly slower compared other attunements, but still offers offensive options that are relatively quick and cunning. This translates to the fact that the Attunement would fit well to people who have a defensive approach to combat.
 
-Landing Frostdraw mantras applies Chill, which slows down enemies and is able to be improved with certain talents.
+Landing Frostdraw mantras applies Chill, which slows down enemies and is able to be improved with certain talents. Adding Logstones to certain mantras can increase the duration of Chill.
 
 ## Training
 
@@ -74,7 +74,7 @@ _Fire a beam of ice._
  | Fires a penetrating beam of ice.
 
 -   Deals light damage.
--   Inflicts short chill. (2 seconds base, can be increased to 6 with one eternal max)
+-   Inflicts short Chill.
 -   Hits multiple times in a row.
 -   Knocks back
 -   Can be modified with cloudstones to make it wider.
@@ -96,7 +96,7 @@ _An icy chokehold._
 -   Deals moderate damage.
 -   If damage is enough to reduce opponent's health to 0, Instantly kills upon posture break.
 -   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground.
--   Applies mediocre chill (0.5 second base, can go to 4.5 seconds with one eternal max)
+-   Inflicts Chill with an Eternal Logstone.
 
  |
 | [Warden's Blade Trim](https://deepwoken.fandom.com/wiki/File:Warden%27s_Blade_Trim.gif) | 
@@ -111,7 +111,7 @@ _Revolving blades of ice._
  | User forms 4 ice blades around them, which rapidly rotate for a few seconds before shooting off into the distance.
 
 -   Deals light damage.
--   Rotation and flying sword projectile apply a one second chill (does not stack you just refresh the chill, can't be modified)
+-   Sword projectile inflicts Chill.
 -   Hits multiple times in a row.
 -   Incredibly good with Crystallization.
 
@@ -128,8 +128,8 @@ _A legion of frost._
  | Conjures four to five frozen servants that emits two blasts of frost mist to the center.
 
 -   Deals Moderate damage if both blows hit.
--   Inflicts short chill (2 seconds base, can't be increased)
--   The blast spark version applies medium chill (4 seconds, can't be increased)
+-   Inflicts short Chill.
+-   The blast spark version inflicts Chill
 -   Leaves ice where the Mantra is casted.
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
 -   Can be modified with [Blast Spark](Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
@@ -166,7 +166,7 @@ _A barrage of freezing blades._
  | User slashes forward rapidly with four swings.
 
 -   Deals light damage.
--   Inflicts 1 second chill per hit (It doesn't stack you just refresh the chill effect, can't be increased with logstones)
+-   Inflicts 1s Chill per hit
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
 
@@ -182,7 +182,7 @@ _Chains of ice._
 
  | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
 
--   Inflicts God-tier chill (can be increased from 9 seconds to 13 seconds chill with one eternal max)
+-   Inflicts Chill
 -   Can be modified with both [Aeon & Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
 -   Can be modified with lens to increase the range of casting the mantra.
 
@@ -201,7 +201,7 @@ _A flurry of ice spikes._
  | Forms a path of ice spikes in front of user.
 
 -   Deals moderate damage.
--   Inflicts mediocre Chill (0.2s).[\[1\]](#cite-note-1)
+-   Does actually inflict Chill, though it lasts too short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
 -   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
@@ -219,9 +219,9 @@ _Conjure and throw weapons of ice._
 
  | Forms a barrage of ice shuriken's before propelling them at the cursor's location.
 
--   Casting Ice Forge on Ice will summon more ice shuriken's. (currently bugged)
+-   Casting Ice Forge on Ice will summon more shuriken's. (currently bugged)
 -   Rapidly deals light damage.
--   Inflicts Strong Chill. (Can be increased from 5 seconds to 9 seconds with one eternal max)
+-   Inflicts Chill.
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
@@ -237,7 +237,7 @@ _A colossal mace of ice._
 
 -   Deals heavy damage and low knockback.
 -   Breaks block at mantra level 5.
--   Inflicts strong chill (5 seconds base, can be increased to 9 with one eternal max)
+-   Inflicts Chill
 -   Can break objects.
 
  |
@@ -256,7 +256,7 @@ _Form an ice spear and lunges forward._
 -   Deals moderate damage.
 -   User gains considerable forward momentum on use.
 -   Sometimes used in conjunction with Glacial Arc to fling the player skywards.
--   Does not apply chill (you can make the second spear apply 4 seconds chill if you add one eternal logstone max)
+-   Hitting an enemy with the spear does not apply Chill, although Shatter Spear does.
 
  |
 |  | 
@@ -308,7 +308,7 @@ _A sharp disk of ice._
  | User forms a disk of ice that rapidly cuts enemies.
 
 -   Deals moderate damage.
--   Can be modified with Stratus stones and Cloudstones to increase its size. (It has no limit)
+-   Can be modified with Stratus stones and Cloudstones to increase its size.
 -   Does not apply chill
 
  |
@@ -344,7 +344,7 @@ _Send ice rippling out in a shockwave._
 -   Recasting this Mantra near an active Obelisk causes it and all others placed to explode.
 -   Summons wherever your mouse is pointed, at a range.
 -   Creating an Obelisk on top of someone will stun them for ten seconds.
--   Applies God-tier chill when you spawn the mantra (around 12 seconds base and 16 sec with one eternal) but the second hit does not apply chil.
+-   First hit applies Chill
 
  |
 
@@ -457,7 +457,7 @@ _An arc of ice._
 
 -   Can be used to scale walls and terrain.
 -   Deals heavy damage when it hits an opponent.
--   Inflicts a 1 second chill ( can't be increased)
+-   Inflicts a 1s Chill
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to become wider.
 -   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
@@ -475,7 +475,6 @@ _Skate freely on paths of ice._
  | Create a frozen platform to slide on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active.
-
 -   When below mantra level 5, gradually loses height similar to gliders.  
     
 
@@ -514,14 +513,14 @@ _Skate freely on paths of ice._
   <p><br>
   </p></center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
-  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit while this is active.
+  <td>Encase yourself in ice. Heal in the first two pulses of a ring, and Chill enemies that get too close. You gain Autoparry for 1 hit while this is active.
   <ul>
     <li>Heals up to 8%.</li>
     <li>Compatible with Stratus Stones and Eternal Logstones.</li>
-    <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
+    <li>Drift and Rush Shards increases the amount of HP healed while the mantra is active.</li>
     <li>Iceberg is put on CD by reinforce and vice versa, so you should choose one or the other for healing.</li>
     <li>Applies 1 second of chill per hit (can't be increased)</li>
-    <li>Stratus and cloudstones increase the duration of the iceberg, with enough stones you can add an extra 2% of healing of the 8%, not recommended as you usually wont be able to heal completely wasting ether and healing.</li>
+    <li>Stratus and Cloud stones can increase the duration of Iceberg though it's not recommended.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -1041,8 +1040,6 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
--   I recently found out the chilled effect does not stack, it instead gets removed and applies the next mantra that applies you just hit which leads to getting chilled gone in no time if you hit an ice mantra that had atleast 0.1s of chill, for that matter I recommend picking one or two ice mantra that apply Strong chill duration like Ice smash (Winning condition) or ice forge (Low posture but with enough projectiles to land atleast one that applies the whole chill duration, I don't recommend using this mantra but there isn't many options) and the rest ice mantras have 0 chill effect and only take them for their raw dmg.
--   Its really recommended to not abuse the chill effect as much, this effect activates the Charged return talent (you do 20% more dmg with your m1s and criticals while under an elemental status effects) so I recommend not using all ice mantras that apply chill as if you could ended up losing more hp than healing you get from saint jay passive regen and steal.
 
 ## Navigation
 

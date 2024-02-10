@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 87793
+revid: 88838
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Oaths, World]
@@ -21,6 +21,8 @@ _Not to be confused with the [Star Duster](Star_Duster.md)._
 ## Overview
 
 Stardust is used by the [Linkstrider](Oath%253A_Linkstrider.md) [Oath](Oaths.md) to gate to fast travel to certain places on the map when beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. They can be found on the Startrees in the [Starfield Tundra](Starfield_Tundra.md), [Starfield Veldt](Starfield_Veldt.md), and [Starfield Grove](Starfield_Grove.md).
+
+It is also used for the obtainment of the [Saltchemist Oath.](Oath%253A_Saltchemist.md)
 
 ## Trivia
 

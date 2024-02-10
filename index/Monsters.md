@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 88415
+revid: 88813
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -10,27 +10,27 @@ categories: [Monsters, Mechanics]
 
 _This page is for Monster enemies. For humanoid enemies, see [**Enemies.**](Enemies.md) For Bosses, see **[Bosses.](Bosses.md)**_
 
-**Monsters** are inhuman NPC's who almost always are hostile to Players at all times. The main factors that sets a Monster apart from [Enemies](Enemies.md) is both thematic and model-wise. Monsters include non-humanoid NPCs (anything with a custom model), and also humanoid NPC's who are clearly some type of creature, beast, or automaton.
+**Monsters** are inhuman NPC's who almost always are hostile to Players at all times. The main factors that set a Monster apart from [Enemies](Enemies.md) is both thematic and model-wise. Monsters include non-humanoid NPCs (anything with a custom model), and also humanoid NPC's who are clearly some types of creatures, beast, or automaton.
 
 ## Description
 
-One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters consist of a wide array of threats, ranging from beasts, zombies, robots, constructs, aliens, inter-dimensional entities, and even worse. They are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat a NPC Monster, what makes them think they can beat another player?
+One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters consist of a wide array of threats, ranging from beasts, zombies, robots, constructs, aliens, inter-dimensional entities, and even worse. They are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat an NPC Monster, what makes them think they can beat a boss or an entire dungeon?
 
 While each Monster has unique attacks, behaviors, traits, and patterns, they all share one thing in common; **They can be overcome.** Every monster, even the strongest ones such as the Dread Serpent can be beaten with enough memorization, skill technique. (However, do note certain monsters have unique traits such as a Time Limit or Health Regeneration which actually does make them impossible without enough damage.)
 
 The vast majority non-humanoid monsters encountered in-game have hyper armor, meaning most, if not all of their attacks cannot be interrupted from being hit by a player.
 
-### **Scyphozia**
+### **The Scyphozia**
 
-In **Scyphozia**, all Monsters have differences from their Overworld counterparts, ranging from small effects, to gigantic differences in how they fight, their danger level, and how they must be dealt with.
+In the **Scyphozia**, monsters have differences from their Overworld counterparts, ranging from small effects to gigantic differences in how they fight, their danger level, and how they must be dealt with.
 
 -   No longer attack each other based on species, instead completely focusing on players.
--   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players.
--   Being much more aware, noticing players from further away, or even behind them.
--   Gaining new behaviors/abilities, such as Lionfish Beam.
--   Becoming much more persistent in chasing, almost never stopping their pursuit until the death of themselves or their target.
+-   Benefiting from the lower gravity of The Depths, being able to jump much higher to pursue players. [Megalodaunts](Megalodaunt.md) especially benefit from this, as their jump is already high to begin with.
+-   Being much more aware, noticing players from further away, or even behind them in certain cases.
+-   Gaining new behaviors/abilities, such as Lionfish Cero.
+-   Becoming much more persistent in chasing, almost never stopping their pursuit until the death of themselves or their target. (Keep in mind that it is easier to run away in the depths, as the area is far more open and has more crevices to hide in)
 
-Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple aura around them, along with dealing roughly 50% more damage and having triple the health compared to their normal counterparts.
+Additionally, Corrupted Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having triple the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigameds](Gigamed.md) can me mistaken as not being corrupted. Ringing one of the Corrupted Bells in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
 
 ### Attuned Monsters
 
@@ -44,13 +44,15 @@ Every time a monster spawns, it has a chance to spawn in with an attunement, giv
 -   Thunderstruck - Applies Electrified on hit. Weak to Frostdraw, resists Thundercall
 -   Shadowmeld - Steals Ether on hit. 50% Resistance to Physical damage. Weak to attunements, resists basic attacks.
 
-Humanoid Monsters cannot be Attuned. Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can be Attuned.
+Humanoid monsters can be attuned, but only in [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Mini-Boss and Boss Monsters like the [Deep Widow](Deep_Widow.md), [The Enforcer](Enforcer.md) and even [Primadon](Primadon,_Titan_of_the_East.md) can also be Attuned.
 
-Certain Monsters thematically already have an attunement tied to them (such as Thunder Nautilodaunts with Thundercall or Crimson Megalodaunts with Flamecharm). In these cases, they are only able to become attuned with that type of Attunement effect.
+Certain uncommon-rare variants of monsters thematically already have an attunement tied to them (such as [Thunder Nautilodaunts](Nautilodaunt.md) or [Crimson Megalodaunts](Megalodaunt.md)). In these cases, they are only able to become attuned with that type of Attunement effect.
 
 Certain Monsters have unique visual effects when attuned.
 
--   [Gigamed](Gigamed.md), (Thunderstruck Variant, Blue)
+-   Thunderstruck [Gigameds](Gigamed.md) (Lightning is blue as opposed to yellow.)
+
+Corrupted and Attuned are fairly common (and in later waves, almost guaranteed) in the [Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Humanoid Monsters
 
@@ -118,13 +120,14 @@ Certain Monsters have unique visual effects when attuned.
 
 While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
 
--   **If an attack has a red aura/effect to it, it _CANNOT be_ parried normally and must be dodged.** These attacks are generally slower than regular attacks, giving you more time to dodge. The only way to parry them is using Hunters Brace or using the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
--   **Take extreme caution if you decide to run from a monster, especially at low health.** Many Monsters have tools specifically designed to catch runners, such as the Megalodaunt's long-range barnacle spray. If you absolutely have to run, be smart about it. Abuse buildings and other obstacles to your advantage or defend against such long ranged attacks. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
--   **Practice makes perfect.** Try and fight Monsters in situations where you have little to no risk of dying, such as the Megalodaunt cave. Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
+-   **If an attack has a red aura/effect to it, it _CANNOT be_ parried normally and must be dodged.** These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving you more time to dodge. The only way to parry them is using [Hunters Brace](<Hunter's_Brace.md>) (not reccomended as they are only found at Summer Isle or rarely in merchant ships, and it disappears if you die, leave the server, or enter a new luminant/the depths) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit.
+-   **Take extreme caution if you decide to run from a monster, especially at low health.** Many Monsters have tools specifically designed to catch runners, such as the [Megalodaunt](Megalodaunt.md)'s long-range coral spear. If you absolutely have to run, be smart about it. Abuse buildings and other obstacles to your advantage or defend against such long ranged attacks. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
+-   **Practice makes perfect.** Try and fight Monsters in situations where you have little to no risk of dying, such as the Megalodaunt cave ([https://www.youtube.com/watch?v=WZD9Akn0gjM](https://www.youtube.com/watch?v=WZD9Akn0gjM)). Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
 -   **Monsters are affected by most things a player would be affected by**, including:
     -   Potions
-    -   Status Effects
+    -   Status/Elemental Effects
     -   Flinging
+    -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) crit or Jolt Grab)
 -   **Most monsters can be posture stunned.** While humanoid NPCs can be posture broken, most monsters can be Posture Stunned instead (on rare occasion, some can both be posture stunned and posture broken). Depending on your ability to deal posture damage, hitting a monster fills their posture stun bar (not shown to the player, and separate from the regular posture bar). When its full, the monster will be stunned for 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself.
 
 ## PVE Scaling
@@ -148,9 +151,11 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 
 ## Trivia
 
--   Creatures have predictable and easy to learn attack patterns.
--   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack, or the Rock golems beam attack.
--   A handful of the creatures have materials that are required to make certain equipment or items. If you want to be stronger, you're going to have to do some hunting.
--   NOT all attacks can be parried; Buy a Hunter Brace at Summer Isle to be able to. ([Ignition Deepdelver](Ignition_Deepdelver.md) armour also works for this.)
--   Some creatures will fight each other; Multiple can fight at the same time. Example [Here](https://youtu.be/01uQchtfUvw), [Also Here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s)
--   Some variants of some creatures are limited to The Depths, and others are only in The Overworld.
+-   Creatures have predictable and easy to learn attack patterns with the exception of [Chime](Chime_of_Conflict.md) players.
+-   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack, or the [Rock golem's](Rock_Golem.md) beam attack.
+-   A handful of the creatures have materials that are required to make certain equipment or items. (e.g. [Sharkscale Glider](Gliders.md) and most [Outfits](Outfits.md))
+-   NOT all attacks can be parried; Buy a Hunter Brace at Summer Isle to be able to. ([Ignition Deepdelver](Ignition_Deepdelver.md) armor also works for this.)
+-   Some creatures will fight each other; Multiple can fight at the same time. These can be either intentional through events like the Megalodaunt vs. Rock Golem event in [Upper Erisia](Upper_Erisia.md) or if the monsters just happen to find each other. See this in action [here](https://youtu.be/01uQchtfUvw) and [here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s).
+-   Some variants of some creatures are limited to The Depths, and others are only in The Overworld. (e.g. Thunder [Nautilodaunts](Nautilodaunt.md) spawn only in [the Depths](The_Depths.md))
+-   Most unparryable (red flash) attacks of monsters are accompanied by the [Perilous attack sound](https://www.youtube.com/watch?v=5YzN2bPgjB0) from Sekiro: Shadows Die Twice.
+-   Additionally, some unparryable attacks are also accompanied by a red [Blindseer](Oath%253A_Blindseer.md) eye. The reason/lore behind this is unknown, but it may be just for more visibility (especially to low graphics players that cannot see as much particles).
