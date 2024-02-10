@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 88885
+revid: 88938
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -21,9 +21,10 @@ notices:
 
 ## Obtainment
 
-1.  Make one potion for [Ciea](Ciea.md) which will give you the dialogue hinting about the location of Adrofalis
-2.  In Ferrymans Library, Adrofalis will ask you to make a residue with the [ingredients of Celestial Ichor](Samael.md) (The red liquid from a Celestial, gather with a canteen) [Stardust from a Star Tree](Stardust.md) and a [Primordial Lotus](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses)
-3.  Gathering those ingredients and giving it to her will give the oath.
+1.  Make three potions for [Ciea](Ciea.md) which will give you the [Harvester](Talents.md) talent and the dialogue hinting about the location of Adrofalis
+2.  Have every [Alchemist](Talents.md) talent.
+3.  In Ferrymans Library, Adrofalis will ask you to make a residue with the [ingredients of Celestial Ichor](Samael.md) (The red liquid from a Celestial, gather with a canteen) [Stardust from a Star Tree](Stardust.md) and a [Primordial Lotus](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses)
+4.  Gathering those ingredients and giving it to her will give the oath.
 
 ## Progression
 
@@ -31,7 +32,7 @@ Craft a [Pluripotent Alloy](Pluripotent_Alloy.md), [Vibrant Gem](Mantra_Modifier
 
 ## Talents
 
-Saltchemist is the third oath to have no mantras, with the first being [Silentheart](Oath%253A_Silentheart.md), and second being [Jetstriker](Oath%253A_Jetstriker.md). It is the second oath with Active Talents.
+Saltchemist is the third oath to have no mantras (after [Jetstriker](Oath%253A_Jetstriker.md) and [Silentheart](Oath%253A_Silentheart.md)). It is the second oath with Active Talents (after [Linkstrider](Oath%253A_Linkstrider.md)), and the currently the only Oath for which _both_ are true simultaneously. The 2nd oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and the currently the only Oath for which all t_hree_ are true simultaneously
 
 ### Perpetual Distillery
 
@@ -61,4 +62,7 @@ Alter your brews to invert their effects. Does not count towards the ingredient 
 ## Trivia
 
 -   **YOU DO NOT NEED TO KILL FERRYMAN TO OBTAIN THE OATH**
--   Syringes on the arm could be a reference to Shang Tsung from Mortal Kombat
+-   Syringes on the arm could be a reference to many things. Some speculations include:
+    -   Shang Tsung from Mortal Kombat.
+    -   Scarecrow from the Arkham series.
+    -   **Baral's serums from Library of Ruina**

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88874
+revid: 88933
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2281,6 +2281,9 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   "Bleed" gives a 30% damage bonus, is not accounted for in the damage cap, and bypasses armor.
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
+
+-   _Air Counter_ \[Rare Talent\] - You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)
+    -   Prerequisite: 60 Agility
 
 -   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
     -   Prerequisite: 20 Agility

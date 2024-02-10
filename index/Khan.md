@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 87917
+revid: 88940
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -16,7 +16,7 @@ Chance of obtaining race: **8%**
 
 ## Description
 
-Khans are a rare race with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, as well as having the ability to use equipment early.
+Khans are a rare race with light skin, and a monkey-like appearance. Khans have a special crown on their forehead which they and they alone possess. Khans have a strength and agility bonus, the ability to use equipment 3 points earlier as well as having increased reputation with [The Hundred Legions.](The_Hundred_Legions.md)
 
 ## Racial Traits
 
