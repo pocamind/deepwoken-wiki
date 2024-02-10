@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 88685
+revid: 88687
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -66,4 +66,3 @@ After a short windup, the user performs an upward slash, knocking back those suc
 -   One of the most popular and iconic weapons, even added in the Roblox game Allusions (though only the older version where the critical would have been the normal Greatsword critical).
 -   Often referred to as "DSGS" by the community.
 -   The Darkalloy Greatsword is one of the most popular alloyed weapons, just behind the [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) for its general versatility and existence as an alloyed Greatsword.
--   this is too overpowered with stormbreaker enchant + alloyed

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 88613
+revid: 88702
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -22,7 +22,7 @@ _**"Oaths"** are viewpoints and beliefs that a character vows to live by until t
 
 Every character begins as just a Pathfinder, having yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
-**There are currently 11 obtainable Oaths in _Deepwoken_:**
+**There are currently 12 obtainable Oaths in _Deepwoken_:**
 
 -   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
@@ -32,6 +32,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +5 HP, +2 Posture \[50 Agility\]
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
 -   [Oathless](Oath%253A_Oathless.md): +2 Wildcard Mantra, +15% Oath DMG Resistance, +10 HP \[No Stat Requirements\]
+-   [Saltchemist:](Oath%253A_Saltchemist.md) +??? \[??? Intelligence\]
 -   [Silentheart](Oath%253A_Silentheart.md): +10% Mantra Resistance, +10 HP, +5 Posture \[Attunement-less, 75 Weapon, 40 Strength, 40 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]

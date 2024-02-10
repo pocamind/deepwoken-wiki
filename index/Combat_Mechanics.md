@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 88106
+revid: 88803
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -139,29 +139,32 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 <tbody>
 <tr>
   <th rowspan="2">Item Type</th>
-  <td colspan="8">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)</td>
+  <td colspan="9">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)<p>During the 2/9/24 update, the Inventory UI received a category revamp. It brought along 10 different categories, combining old item categories tmaking a clean separate line for each category, and listing the number amount of items in each category on the right side.</p></td>
 </tr>
 <tr>
-  <td><u>Utility</u><p>1st place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools, guild tools or hunters brace.</p>
-  <p>Weight: none</p></td>
-  <td><u>Training Gear</u><p>2nd place in the inventory. Consist of items that train your characters attributes.</p>
-  <p>Weight: none</p></td>
-  <td><u>Weapons</u><p>3rd place in the inventory. Consist of equipable weapons and off-hand items if you meet the req.</p>
+  <td><u>Abilities</u><p>1st place in the inventory. Consist of activatable talents like; Chime of Dwelling, Guild Officer, and Call of the Deep. Also consists of active mantras, ones that aren't recalled.</p>
+  <p>Weight: None</p></td>
+  <td><u>Tools</u><p>2nd place in the inventory. Consist of usable items like campfires, fishing rods, gliders, harvesting tools, guild tools or hunters brace.</p></td>
+  <td><u>Training Gear</u><p>3rd place in the inventory. Consist of items that train your characters attributes.</p>
+  <p>Weight: None</p></td>
+  <td><u>Equipment</u><p>4th place in the inventory. Consist of equippable armor and clothing pieces if you meet the req.</p>
   <p>Weight: 2</p></td>
-  <td><u>Equipment</u><p>4th place in the inventory. Consist of equipable armor and clothing pieces if you meet the req.</p>
+  <td><u>Weapons</u><p>5th place in the inventory. Consist of equippable weapons and off-hand items if you meet the req.</p>
   <p>Weight: 2</p></td>
-  <td><u>Schematics</u><p>5th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The glider blueprint has no weight.</p>
+  <td><u>Schematics</u><p>6th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The glider blueprint has no weight.</p>
+  <p></p>
   <p>Weight: 1</p></td>
-  <td><u>Ingredients</u><p>6th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy.</p>
+  <td><u>Quest Items</u><p>7th place in the inventory. Consist of items that train your characters attributes.</p>
+  <p>Weight: None</p></td>
+  <td><u>Consumables</u><p>8th place in the inventory. Consists of foods and potions.</p>
+  <p></p>
   <p>Weight: Varies</p></td>
-  <td><u>Mantra Ingredients</u><p>7th place in the inventory. Consist of materials you may only use to edit mantra properties.</p>
-  <p>Weight: none</p></td>
-  <td><u>Treasures</u><p>8th place in the inventory. Consist of smelted ores, gemstones and specific consumables stemmed from an Attunement (like spark glands or gale stones) Often what you'll be selling.</p>
-  <p>Weight: none</p></td>
+  <td><u>Materials</u><p>9th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy. Also consists of Mantra modifiers, ingredients that are used to further enhance mantras, such as increasing their size or range.</p>
+  <p>Weight: Varies</p></td>
 </tr>
 <tr>
   <th>Carrying Capacity</th>
-  <td colspan="7"><i>Carrying Capacity</i> dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely have items. <i>You may check an item's weight by hovering over the item in your inventory and seeing the number held in the small blue box in the corner. Hovering over the item may also give you a description along with a number of how many notes it'll sell for at a vendor.</i><p><br>
+  <td colspan="8"><i>Carrying Capacity</i> dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely have items. <i>You may check an item's weight by hovering over the item in your inventory and seeing the number held in the small blue box in the corner. Hovering over the item may also give you a description along with a number of how many notes it'll sell for at a vendor.</i><p><br>
   There exists a soft cap, which is the listed capacity in digits on the right in your inventory. You may carry more items beyond that amount, reaching the hard cap.</p>
   <p>There then exists a hard cap, upon reaching the cap; your carrying capacity will be colored red. Detailed when you try to carry more items than you're currently capable of. Eventually, your character will be unable to hold onto any more items, and enough items must be dropped to make room to pick up another. As well as consequently slowing down your movement and <i><b>any items picked up past that point or higher will be voided upon leaving the server or resetting; including enchants and items that haven't been soulbounded.</b></i></p>
   <ul>
@@ -171,7 +174,7 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <th>Locking Items</th>
-  <td colspan="7">By right-clicking on a sellable/droppable item, you can lock it. By locking it you prevent the item from being sold or dropped while giving it an appearance of chained borders.</td>
+  <td colspan="8">By right-clicking on a sellable/droppable item, you can lock it. By locking it you prevent the item from being sold or dropped while giving it an appearance of chained borders.</td>
   <td><figure><figcaption></figcaption></figure><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>

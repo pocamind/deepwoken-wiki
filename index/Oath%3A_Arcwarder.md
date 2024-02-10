@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 87798
+revid: 88726
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,11 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Arcwarder**
-
-_**"You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs."**_
-
-Arcwarder heavily focuses on defense; four of its passives are defensive, and the other two are mobility. It still allows for a fair bit of offensive play however-dash allows the user to close gaps and maneuver around opponents, and both combat mantras are as effective if not more in aggressive play.
+**[Oath](Oaths.md): Arcwarder** is one of the 12 obtainable Oaths in _Deepwoken._ It heavily focuses on defense; four of its passives are defensive, and the other two are mobility. It still allows for a fair bit of offensive play however-dash allows the user to close gaps and maneuver around opponents, and both combat mantras are as effective if not more in aggressive play.
 
 ## Obtainment
 

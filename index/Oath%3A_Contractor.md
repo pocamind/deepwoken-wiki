@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 88183
+revid: 88723
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): Contractor** is one of the 11 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
+**[Oath](Oaths.md): Contractor** is one of the 12 obtainable Oaths in _Deepwoken._ Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Fadetrimmer](Oath%253A_Fadetrimmer.md) and [Dawnwalker](Oath%253A_Dawnwalker.md), it is one of 5 Oaths that have no direct stat requirements.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 88271
+revid: 88781
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -727,6 +727,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Using ores used to actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore,
     -   Gold was the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect.
     -   Using Irithine gives a green particle effect but no boost.
-    -   Using Erisore gives a blue particle effect but no boost as well.
+    -   Using Erisore gives a blue particle effect but no boost as well
+-   Ferrofluid, The item required to obtain ironsing, is an actual fluid attracted to magnetic forces, created by mixing vegetable oil with iron filings.
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.

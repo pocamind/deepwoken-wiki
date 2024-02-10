@@ -1,9 +1,9 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 87478
+revid: 88751
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2]
+categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2, Floor 1]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -40,4 +40,5 @@ Carrion is a Ganymede Black Diver NPC, with wild white hair and unique green eye
     -   While technically fanart, a picture of Dr. Carrion, drawn by SudoMesh, has been taken by him as his official appearance.
 -   Carrion means the flesh of a dead animal, which is fitting considering that he converts monster drops into mantras.
 -   In the dialogue with Klaris after interacting with Carrion in New Kyrsa: the player will note Carrion describing himself as "Dr. Diver".
+-   Despite being very skilled at alchemy, Arch Mage has confirmed that Carrion will not be involved in the obtainment for the new alchemist related oath (Saltchemist)
 -   Hair id: 8213821125

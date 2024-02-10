@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 88082
+revid: 88693
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -31,7 +31,7 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
   <ul>
     <li>The duration of Status Effects, good or bad, is reduced.
   <ul>
-    <li>However, this is bugged an only affect the following: Chilling, Potion Effects, Suffocate.</li>
+    <li>However, this is bugged and only affects the following: Chilling, Potion Effects, Suffocate.</li>
   </ul></li>
   </ul></li>
     <li>Take less damage in acid rain.</li>

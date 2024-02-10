@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 88396
+revid: 88792
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -40,7 +40,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   You spawn at [Minityrsa](Minityrsa.md), specifically at the Trial of One gate.
 -   **\[PRO\]** Spawns you in the Trial of One.
 -   **\[PRO\]** Allows use of the Shrine of Solitude.
--   **\[PRO/CON\]** Dying in the Trial of One with this origin instantly sends you to [The Depths](The_Depths.md).
+-   **\[PRO/CON\]** Dying in the Trial of One with this origin instantly sends you to [The Depths](The_Depths.md). (Will not count as a drown.)
 
 ## Deepbound
 

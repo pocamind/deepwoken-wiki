@@ -1,11 +1,11 @@
 ---
 title: The Diluvian Mechanism
-revid: 88670
+revid: 88752
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages]
+categories: [In progress without reason, InProgressPages, Floor 1]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The Diluvian Mechanism
@@ -74,7 +74,7 @@ If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs wi
 The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right talents and equipment to make haste of this trial.
 
 -   _**Carnivore;**_ Within the Diluvian Mechanism there is no proper way of gaining food without going for Carnivore or the Gluttony Enchant. This can strive to be a great problem within the dungeon as if you start off with less food, you have a higher chance of dying and also being weakened by the hunger and thirst debuffs. Carnivore is a must have for any PVE.
--   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless your Ironsing, have Bloodiron Spirit, or possess Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't even take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
+-   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless your're Ironsing, have Bloodiron Spirit, or possess Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't even take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
 -   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if your doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you can't ironically gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
@@ -89,12 +89,12 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   All of the Layer 1 loot pool, including deep gems, at all levels
 -   Depths Chests (1-15)
 -   Brown Chests (15-50)
--   [Relics](Relics.md) \[Rain Spire, Void Spire\] (15+)
+-   [Relics](Relics.md) \[Rain Spire, Void Spire, Smith Alloy\] (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
--   [Relics](Relics.md) \[Sinners Ash, Idol of Yunshul\] (40+)
+-   [Relics](Relics.md) \[Sinners Ash, Idol of Yunshul, Moonseye Tome\] (40+)
 -   [Crypt Blade](Crypt_Blade.md) (20+)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (25+)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (15+)
 -   [Stormseye](Stormseye.md) (25+)
 -   Guaranteed 2 Star loot (40+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
@@ -135,11 +135,11 @@ Based on the power of the user(s), the starting wave will differ;
 | 17 (Happy Family) | 1 Corrupt Nightmare Thresher, 2 Threshers, 1 Mother Threshers |  |
 | 18 (Under the Sea) | 1 Mother Thresher, 1 Thresher, 1 Crab, 1 Crustaceous Rex, 1 King Gigamed, 1 Gigamed |  |
 | 19 (Erisia-Party) | 2 Corrupt Terrapods, 1 Corrupt Owl, 1 Corrupt Golem, 1 Corrupt Megalodaunt | 1 Of the terrapods may be red (needs further testing) |
-| 20 (Enforcer Brothers)
+| 20 (Smough, Smough and Smough)
 
 **\*HOLLOW MODIFER\***
 
- | 3 Enforcers (Attuned with a Random attunement) |  |
+ | 3 Enforcers (Attuned with a random Attunement) |  |
 | 21 (Trial of One Gang) | 1 Stone Knight, 1 Megalodaunt, 1 Alpha Megalodaunt, 1 Enforcer, 1 Golem, 1 Thresher |  |
 | 22 (The Sea's Nightmare) | 2 Nautilodaunts, 2 Attuned(?) Enforcers |  |
 | 23 (Starswept Valley Reunion) | 1 King Thresher, 1 Deep Widow, 1 Owl, 1 Stone Knight, 2 Threshers, 1 Alpha Megalodaunt | 1 Of the 2 threshers may be corrupt (needs further testing) |
