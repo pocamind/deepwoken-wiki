@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88933
+revid: 88994
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -178,7 +178,8 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 80 Intelligence
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
-    -   You have 25% chance to apply the effect of your drank potion on your allies.
+    -   ~You have 25% chance to apply the effect of your drank potion on your allies.~
+    -   Now is 100% chance of proccing but much shorter range
     -   Prerequisites: 55 Intelligence
 
 -   _Potion Quaffer_ \[Rare Talent\] You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.

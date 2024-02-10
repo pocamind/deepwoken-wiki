@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 88950
+revid: 88992
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -13,9 +13,9 @@ categories: [Pages with broken file links, Oaths]
 | oath_req | Positive reputation with Etrea, Positive or Neutral reputation with The Ministry, Obtained Resonance |
 | effects | +2 Combat Mantra , +10 Ether |
 
-“ Clowns. ”
+“ There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you. ”
 
-― Duke Erisia to Contractors aka THE WORST OATH
+― Duke Erisia to Contractors
 
 ## Description
 

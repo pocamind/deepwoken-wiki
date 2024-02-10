@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 88804
+revid: 88959
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -10,7 +10,7 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 
 | Railblade | |
 |---|---|
-| type | Heavy Greatsword |
+| type | Heavy GreatSword |
 | requirements | 80 HVY, PWR 10 |
 | damage | 22 |
 | scaling | HVY: 8.3 |

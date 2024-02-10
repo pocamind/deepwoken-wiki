@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 88841
+revid: 89003
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -19,6 +19,10 @@ An inscrutable mechanism looms in the centre of the hall. Many hearts have been 
 ## Description
 
 You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. Ending at 50 waves, and granting rewards and EXP every 5 waves, with a break at the end of it. To start and end a round, and leave midway, you would have to speak with the Diluvian Mechanism. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
+
+### Trial of the Meek
+
+When attempting the option to start the Diluvian trial below power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below power 3.
 
 ## Monsters
 

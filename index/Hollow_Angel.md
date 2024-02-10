@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 88919
+revid: 88997
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -91,3 +91,4 @@ Template:Creature Infobox V3 These Angels are like no other variants - they are 
 -   Fire Blade and Rapid Punches can easily kill the Angels since these mantra stuns the enemy, and you can use that stun time to hit the Angel.
 -   Probably a reference to the Angels from the TV show Castlevania: [https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg](https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg)
 -   Lesser Angels will attack any Depths monsters like [Threshers](Thresher.md), [Lionfish](Lionfish.md) and [King Gigamed](Gigamed.md). It's unknown why they attack the Depths monsters.
+-   They will use Glare, Gaze very often which players should be aware when fighting them.

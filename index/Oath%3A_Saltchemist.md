@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 88938
+revid: 89005
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -12,7 +12,7 @@ notices:
 
 | Saltchemist | |
 |---|---|
-| oath_req | Intelligence Uncap |
+| oath_req | 75 INT |
 | effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carryload |
 
 ## Description
@@ -22,17 +22,17 @@ notices:
 ## Obtainment
 
 1.  Make three potions for [Ciea](Ciea.md) which will give you the [Harvester](Talents.md) talent and the dialogue hinting about the location of Adrofalis
-2.  Have every [Alchemist](Talents.md) talent.
-3.  In Ferrymans Library, Adrofalis will ask you to make a residue with the [ingredients of Celestial Ichor](Samael.md) (The red liquid from a Celestial, gather with a canteen) [Stardust from a Star Tree](Stardust.md) and a [Primordial Lotus](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses)
-4.  Gathering those ingredients and giving it to her will give the oath.
+2.  In Ferrymans Library, Adrofalis will ask you to make a residue with the ingredients of [Celestial Ichor](Samael.md) (The red liquid from a Celestial, gather with a canteen) [Stardust from a Star Tree](Stardust.md) and a [Primordial Lotus](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses)
+3.  Gathering those ingredients and giving it to her will give the oath.
+    -   Upon obtaining the oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted and the string can be dyed.
 
 ## Progression
 
-Craft a [Pluripotent Alloy](Pluripotent_Alloy.md), [Vibrant Gem](Mantra_Modifiers.md), and more [Stardust](Stardust.md) together to obtain the three Salt talents.
+Get a [Pluripotent Alloy](Pluripotent_Alloy.md), [Vibrant Gem](Mantra_Modifiers.md), and more [Stardust](Stardust.md) and give them to obtain the three Salt talents.
 
 ## Talents
 
-Saltchemist is the third oath to have no mantras (after [Jetstriker](Oath%253A_Jetstriker.md) and [Silentheart](Oath%253A_Silentheart.md)). It is the second oath with Active Talents (after [Linkstrider](Oath%253A_Linkstrider.md)), and the currently the only Oath for which _both_ are true simultaneously. The 2nd oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and the currently the only Oath for which all t_hree_ are true simultaneously
+Saltchemist is the third oath to have no mantras (after [Jetstriker](Oath%253A_Jetstriker.md) and [Silentheart](Oath%253A_Silentheart.md)). It's also 2nd oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and the currently the only Oath for which _both_ are true simultaneously.
 
 ### Perpetual Distillery
 
@@ -40,6 +40,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 
 -   Upon clicking the Distillery talent, you're given three empty spaces where you input your potions. You're able to switch the mode from throw to drink, and vice versa. Upon clicking on a key you'll automatically drink or throw. Some potions are unable to be slotted.
 -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
+-   When replacing the potions in the Distillery, you will not receive the potion you placed prior\` and have to remake it again.
 
 ### Biotic Salts
 
@@ -58,6 +59,10 @@ Alter your brews to invert their effects. Does not count towards the ingredient 
     -   Disgusting -> Dulling
     -   Mindbreaker -> Heartening
     -   Invigorating -> Grueling
+
+## Location
+
+The tower is next to Ferryman's ritual.
 
 ## Trivia
 
