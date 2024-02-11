@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 88932
+revid: 89062
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -89,7 +89,7 @@ It's unknown if this is a bug or if there are factors we don't yet understand. M
 
 ## Ingredients
 
-There are 25 (known) potion ingredients, though only 15 have an effect strong enough to brew named potions by themselves.
+There are 27 (known) potion ingredients, though only 17 have an effect strong enough to brew named potions by themselves.
 
 Most ingredients have a positive and a negative effect - one of these effects is the stronger primary effect, which will name the potion if used alone, and the other is a weaker secondary effect, which is always present, but will only name the potion if the primary effect is weakened by another ingredient. A couple ingredients have one or three effects.
 
@@ -125,20 +125,20 @@ Eating an ingredient by itself will give you a weaker version of the effect it'd
     -   It is very difficult to find the secondary effect of this ingredient. Invigorating can only be cancelled out with Grueling, but this can only be done using three Plumfruit, which then changes the prefix to Strengthening. Strengthening can only be cancelled using wheat (taking the last ingredient slot), and the wheat's Focus Enhancing effect is more powerful than whatever the Gobletto secondary effect is. ~The name is not shown, however the resulting potion when thrown provides yellow particles that increase your speed.~ i was tired when i wrote this and forgot ingredients dont contain 2 positives, and noticed it was more of a dilluted orange (weak disgusting potion) rather than a hastening yellow
 
 -   Ongo - Primary effect is **Buckling**; Reduces maximum posture. Secondary effect is **Staggering**; Increases posture damage.
-    -   If you have the Apothecary talent but not the Exterminator talent, the strongest effect is Staggering instead of Buckling.
 
 -   Plumfruit - Primary effect is **Grueling**; Deals a small amount of damage over 15 seconds. Secondary effect is **Strengthening**; Increases physical damage.
-    -   Similar to Ongo's, if you have the Apothecary talent but not the Exterminator talent, the strongest effect is Strengthening instead of Grueling.
 
 -   Pomar - Primary effect is **Hastening**; Increases speed for 15 seconds. Secondary effect is **Disgusting**; Deals a small amount of damage.
 
 -   Redd - Primary effect is **Icky**; Drains Ether over time for 15 seconds. Secondary effect is **Rejuvenating**; Instantly restores a small amount of health. Tertiary effect **shortens** duration of other effects.
     -   Like Focus-Enhancing, Rejuvenating can't be brewed using only a single ingredient. The rejuvenating effect is very weak, but it is possible to brew a Rejuvenating potion using exactly three Redd's and one Wheat.
+-   Sap - Primary effect is **Focusing**; effect currently unkown. Secondary effect is also unknown (if there is one)
+-   Seaweed Bundle - Primary effect is **Mindbreaker**; rapidly lowers sanity. Secondary effect is unknown (if there is one)
 
 -   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. No secondary effect.
     -   Mindbreaker potions are notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
 
-Chum, eggs, fish meat, galewax, scallops, seaweed, spider eggs, sticks and minerals (coal, iron, stone, irithine, etc.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
+Chum, eggs, fish meat, galewax, scallops, spider eggs, sticks and minerals (coal, iron, stone, irithine, etc.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
 
 The lotuses used to make attribute flasks can be used in alchemy, not to be confused with using two of them in a crafting table. They do not seem to have an effect, but they make diluted potions when used by themselves???
 
@@ -257,7 +257,7 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td><b>Mindbreaker</b></td>
   <td>Bane<br>
   Blight<p>Potion</p></td>
-  <td>Urchin</td>
+  <td>Urchin<p>Seaweed Bundle</p></td>
   <td>Gives Insanity,</td>
   <td>Opposite effect to <b>Heartening</b>.<br>
   As running out of sanity will kill you instantly (if you've lost all your hp), these potions are very dangerous if you manage to land enough of them. Unlike nasty potions, Mindbreaker potions actually pose a threat.</td>
@@ -333,10 +333,16 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
   <td>Decreases posture damage dealt.</td>
   <td>Opposite effect of <b>Staggering</b><p>True name unknown.</p></td>
 </tr>
+<tr>
+  <td><b>Focusing</b></td>
+  <td>Tincture</td>
+  <td>Sap</td>
+  <td>Unknown.</td>
+  <td>Based on the name, could have something to do with ether or tempo</td>
+</tr>
 </tbody>
 </table>
 
-  
 NOTE- its unlikely certain effects like sap, crustacean meat, sticks and other unknown materials just do nothing, as even with spider eggs when brewed by themselves get a "nothing" potion but have the ability to increase the duration of a potion while slightly lowering its potency. theres also probably an ingredient thats opposite to spider eggs which can increase potency yet decrease duration.
 
 ## Optimal Potions

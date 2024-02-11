@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89010
+revid: 89089
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1684,7 +1684,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 **Lore Sources:** _Arch\_Mage (Discord)_
 
--   The two races, the Ganymede and Vesperian, has a long ancient past of working together as a whole- even after the Tides came.
+-   The two races, the Ganymede and Vesperian, have a long ancient past of working together as a whole- even after the Tides came.
 -   Up to the present, they still work together as The Hive.
 -   [Primal Vesperian](https://www.youtube.com/watch?v=KSbYhQzvLpM) are simply a cult following of Vesperians, and are not related to the evolution of the two races.
 
@@ -1694,7 +1694,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   Before the Lord Regent's Ruling, there were past Rulers that governed the Kingdom of Etrea.
 -   The Past Rulers of Etrea have records of their history and deeds during their role, all of which are recording in Books by the Official History Office within Etris. However, during The Lord Regent's ruling the Office was suspended.
--   The pillar that house four statues near Etris, are presumably the Past Rulers.
+-   The pillar that houses four statues near Etris presumably depicts past rulers.
 -   There were six Total Rulers of Etrea; the four past Rulers immortalized as statues, The King of Etrea and the current ruler, The Lord Regent himself.
 
 ### Driftlands

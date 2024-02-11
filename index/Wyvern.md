@@ -1,6 +1,6 @@
 ---
 title: Wyvern
-revid: 88087
+revid: 89090
 source: https://deepwoken.fandom.com/wiki/Wyvern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Exclusive Outfits, Outfits]

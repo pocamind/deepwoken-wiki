@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89043
+revid: 89094
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -12,8 +12,8 @@ notices:
 
 | Saltchemist | |
 |---|---|
-| oath_req | 75 INT (Tested), Harvester quest |
-| effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carryload |
+| oath_req | 75 Intelligence, Harvester quest |
+| effects | +1 Wildcard Mantra, +1 Support Mantra, +10 Carryload |
 
 ## Description
 
@@ -21,15 +21,16 @@ notices:
 
 ## Obtainment
 
-1.  Make one potion for [Ciea](Ciea.md) which will give you the dialogue hinting about the location of Adrofalis. (Three potions and harvester are NOT required, but you might as well get harvester anyways.)
-2.  In Ferryman's Library, Adrofalis will ask you to make a residue with the ingredients of [Celestial Ichor](Samael.md) (The red liquid from a Celestial, gather with a canteen) [Stardust from a Star Tree](Stardust.md) and a [Primordial Lotus](https://deepwoken.fandom.com/wiki/Ingredients#Lotuses). (Make sure to grab some extra stardust, you'll regret it later if you don't.)
-3.  Gathering those ingredients and giving it to her will give the oath.
+1.  Obtain 75 intelligence for the Intelligence Unbound talent. (~You may shrine of order after obtaining this talent, and can still obtain the oath.~) While (At a minimum) this may still be possible, you will likely need to go back up to 75 Intelligence if you leave the server after using the Shrine of Order.
+2.  Make one potion for [Ciea](Ciea.md) which will give you the dialogue hinting about the location of Adrofalis. (Three potions and harvester aren't required.)
+3.  In Ferryman's Library, Adrofalis will ask you to make a residue with the ingredients of [Celestial Ichor](Samael.md) (The red liquid from a Celestial, gather with a canteen) [Stardust from a Star Tree](Stardust.md) and a [Primordial Lotus](Ingredients.md#lotuses). (Make sure to grab some extra stardust, you'll regret it later if you don't.)
+    -   **NOTE:** You need to talk to Adrofalis _before_ getting Stardust. You also likely need **all 5 Capacity of your Canteen** filled with Celestial Ichor for it to count.
+4.  Gathering those ingredients and returning to Adrofalis will grant you the Oath.
     -   Upon obtaining the oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted and the string can be dyed.
-    -   **NOTE:** It's highly likely (if not confirmed) that you need to talk to Adrofalis _before_ getting Stardust. You also likely need **all 5 Capacity of your Canteen** filled with Celestial Ichor for it to count.
 
 ## Progression
 
-Get a [Pluripotent Alloy](Pluripotent_Alloy.md), [Vibrant Gem](Mantra_Modifiers.md), and more [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume the materials. Might be a bug.
+Get a [Vibrant Gem](Mantra_Modifiers.md), Pluripotent Alloy and more [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume the materials. Might be a bug.
 
 ## Talents
 
@@ -63,12 +64,13 @@ Alter your brews to invert their effects. Does not count towards the ingredient 
 
 ## Location
 
-The tower is next to Ferryman's ritual.
+The tower is located next to Ferrymans ritual.
 
 ## Trivia
 
--   You do not need to kill The Ferryman to obtain the oath.
+-   You **don't** need to kill The Ferryman to obtain the oath.
 -   Syringes on the arm could be a reference to many things. Some speculations include:
     -   Shang Tsung from Mortal Kombat.
     -   Scarecrow from the Arkham series.
-    -   Baral's serums from Library of Ruina
+    -   Baral's serums from Library of Ruina.
+    -   Hikaru Gero from MarriageToxin.
