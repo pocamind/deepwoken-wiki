@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator
-revid: 81337
+revid: 89039
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items, Exclusive Outfits]
@@ -22,7 +22,7 @@ This Outfit requires [Power Level](Talents.md) 15.
 
 This Outfit has 1000 durability and grants +25% Physical resistance and +25% Elemental resistance.
 
-This Outfit also grants the [Talent Card](Talents.md) _Now You See Me_, which increases your stealth while crouching.
+This Outfit also grants the [Talent Card](Talents.md) _Lowstride_, which increases your stealth, speed while crouching, and silences your weapon sheath and unsheath.
 
 ## Location
 

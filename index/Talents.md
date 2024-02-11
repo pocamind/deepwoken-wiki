@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 88994
+revid: 89044
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -178,7 +178,6 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 80 Intelligence
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
-    -   ~You have 25% chance to apply the effect of your drank potion on your allies.~
     -   Now is 100% chance of proccing but much shorter range
     -   Prerequisites: 55 Intelligence
 
@@ -848,7 +847,7 @@ _**"I dance with the flames."**_
 
 ### Freak Of Nature
 
-_**"I'm built different"**_
+_**"I'm built different" - Cannot Give Talents**_
 
 -   _Exoskeleton_ \[Rare Talent\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+10 Health)
     -   Vesperians will only gain 8% armor from this talent, totalling to 13% with their own natural armor.
@@ -2284,6 +2283,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 25 Agility
 
 -   _Air Counter_ \[Rare Talent\] - You can now 'Aerial Attack' to catch enemies who have recently jumped in the air above you as an anti-air attack with reduced Light Attack damage. Upon hitting the opponent briefly hinder them. (+5 Passive Agility)
+    -   5 Seconds Cooldown.
     -   Prerequisite: 60 Agility
 
 -   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
@@ -2559,7 +2559,7 @@ File:Thresherquest1.png
 
 -   _You can craft bombs at a crafting bench. (+2 Elemental Intensity)_
 -   NPC is located at Songseeker outside of the mineshaft entrance.
--   They will ask you to go inside the mineshaft and kill ? Mineskippers disguised as barrels.
+-   They will ask you to go inside the mineshaft and kill ? Mineskippers.
 
 ### Harvester
 

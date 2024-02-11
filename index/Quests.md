@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 88322
+revid: 89038
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -260,7 +260,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Quest Location**: Minityrsa
 
-**Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in Outpust Penumbra. Return to him after finding it.
+**Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in [Outpust Antumbra.](Outpost_Antumbra.md) Return to him after finding it.
 
 **Reward/s**: 3 Aces, EXP, Curiosity
 

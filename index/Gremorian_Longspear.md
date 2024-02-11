@@ -1,9 +1,9 @@
 ---
 title: Gremorian Longspear
-revid: 87536
+revid: 89032
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears]
+categories: [Weapons, Pages with broken file links, Spears]
 ---
 
 # Gremorian Longspear
@@ -56,6 +56,8 @@ The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [
 ## Critical
 
 One person caught within a certain radius of the critical attack will be pulled in, signified by a white line connecting to the victim's torso. This attack cannot be blocked. Opponents pulled in will be pulled the same distance as the critical initially travelled meaning that landing it on an opponent right in front of you will likely place them further behind you while pulling them in from the farthest range will put them right in front of you instead. The critical has 15% chip damage.
+
+File:Image 2024-02-10 212504621.png
 
 ## Trivia
 

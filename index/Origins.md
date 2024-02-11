@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 88936
+revid: 89040
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -133,6 +133,10 @@ The following is speculation:
 
 -   Confirmed to release alongside Conquest
 -   Stated to be a PvE centered origin for players who want to avoid PVP
+
+### **Ignition Union Origin**
+
+-   Technically confirmed, but release timeframe is unknown.
 
 ## Trivia
 
