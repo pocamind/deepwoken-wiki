@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89113
+revid: 89149
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -12,8 +12,8 @@ notices:
 
 | Saltchemist | |
 |---|---|
-| oath_req | 75 Intelligence, Harvester quest |
-| effects | +1 Wildcard Mantra, +1 Support Mantra, +10 Carryload |
+| oath_req | Intelligence Unbound talent |
+| effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carryload |
 
 ## Description
 
@@ -21,11 +21,11 @@ notices:
 
 ## Obtainment
 
-1.  Obtain 75 intelligence for the Intelligence Unbound talent. (~You may shrine of order after obtaining this talent, and can still obtain the oath.~) While (At a minimum) this may still be possible, you will likely need to go back up to 75 Intelligence if you leave the server after using the Shrine of Order.
+1.  Obtain 75 intelligence for the Intelligence Unbound talent.
 2.  Make one potion for [Ciea](Ciea.md) which will give you the dialogue hinting about the location of Adrofalis. (Three potions and harvester aren't required.)
 3.  In Ferryman's Library, Adrofalis will ask you to make a residue with the ingredients of [Celestial Ichor](Samael.md) (The red liquid from a Celestial, gather with a canteen) [Stardust from a Star Tree](Stardust.md) and a [Primordial Lotus](Ingredients.md#lotuses). (Make sure to grab some extra stardust, you'll regret it later if you don't.)
-    -   **NOTE:** ~You need to talk to Adrofalis _before_ getting Stardust.~ (Personally tested, does not matter before or after) You also likely need **all 5 Capacity of your Canteen** filled with Celestial Ichor for it to count.
-4.  Gathering those ingredients and returning to Adrofalis will grant you the Oath.
+
+1.  Gathering those ingredients and returning to Adrofalis will grant you the Oath.
     -   Upon obtaining the oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted and the string can be dyed.
 
 ## Progression
@@ -68,4 +68,4 @@ The tower is located next to Ferrymans ritual.
 
 ## Trivia
 
--   You **don't** need to kill The Ferryman to obtain the oath.
+-   You do not need to beat [The Ferryman](The_Ferryman.md) to obtain the oath.

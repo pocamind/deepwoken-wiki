@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 87876
+revid: 89120
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -63,7 +63,7 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 
 | **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Spear | Spear | 22.5 | 0% | MED: 9 | 5 | 10 | 0.7x | Jump into the air and fire three divine beams, similar to a Lesser/Upper Angel. | 0.0s |
+| Divine Spear | Spear | 22.5 | 0% | MED: 9 | 5 | 10 | 0.7x | Jump into the air and fire three divine beams, similar to a Lesser/Greater Angel. | 0.0s |
 | Divine Longsword | Sword | 25 | 0% | MED: 7 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade |
 
 **Light:**

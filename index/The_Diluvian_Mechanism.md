@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89003
+revid: 89148
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -23,35 +23,6 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 ### Trial of the Meek
 
 When attempting the option to start the Diluvian trial below power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below power 3.
-
-## Monsters
-
--   [Deep Widow](Deep_Widow.md) (Corrupt)
--   [Mudskipper Knight](Mudskipper.md#mudskipper-knight) (Corrupt)
--   [Deep Owl](Deep_Owl.md) (Corrupt)
--   [Stone Knight](Stone_Knight.md) (All variants + Corrupt)
--   [Thresher](Thresher.md) (All variants + Corrupt)
--   [Megalodaunt](Megalodaunt.md) (All variants + Corrupt)
--   [Bounder](Bounder.md) (Corrupt)
--   [Rock Golem](Rock_Golem.md) (All variants + Corrupt)
--   [Crab](Crab.md) (Corrupt)
--   [Terrapods](Terrapod.md) (All variants + Corrupt)
--   [The Enforcer](Enforcer.md) (Corrupt)
--   [Lionfish](Lionfish.md) (All variants)
--   [Carbuncle](Carbuncle.md) (Corrupt)
--   [Gigamed](Gigamed.md) (All variants + Corrupt)
--   [Bone Keeper](Bone_Keeper.md) (Corrupt)
--   [Nautilodaunt](Nautilodaunt.md) (Corrupt)
--   [Rogue Constructs](Hive_Construct.md) (Corrupt)
--   [Brainsucker](Brainsucker.md) (Corrupt)
--   [Angels](Hollow_Angel.md) (All variants)
--   [Songseeker](Enemies.md#enemies) (All variants)
--   [Attunement Trainers](Enemies.md#bossesunique-enemies)
--   [Ministry Necromancer](Ministry_Necromancer.md)
--   [Ministry Enforcer](Ministry_Enforcer.md) (Strong variant)
--   [Tideknight](Tideknight.md)
--   [Bandit](Bandit.md) (Serves as a health pack for players at wave 49)
--   [Kyrsgarde](Kyrsgarde.md) (All variants)
 
 ## Modifiers & Environmental Hazards
 
@@ -86,7 +57,12 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   _**Ardour, Ardour Scream;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
 -   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of the best PVE weapons in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
 -   _**Vampirism;**_ This is easily one of the best enchants for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
+
 -   _**Enforcer's Axe/Hammer;**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
+
+-   _**Gran Sudaruska;**_ Like all the other weapons mentioned, the Gran Sudaruska is also one of the best weapons once again for the Diluvian mechanism. The crit is an immediate guardbreak on MOST mobs (squibbo, etc) and has a very low req (75 frost, 30 hvy) making it a good choice.
+
+  
 
 ## Loot
 
@@ -101,7 +77,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (15+)
 -   [Stormseye](Stormseye.md) (15+)
 -   Guaranteed 2 Star loot (40+)
--   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
+-   [Celtorian Tideknight](Celtorian_Tideknight.md) (50+)
 
 ## Waves
 

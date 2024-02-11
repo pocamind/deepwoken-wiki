@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 88864
+revid: 89132
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -151,7 +151,7 @@ _Form and toss daggers of ice at your aimed opponent._
 -   Homing attack.
 -   Does not inflict Chill.
 -   Can be upgraded with the "Frozen Pin-Cushion" talent.
--   Consumes ether even if desired target is out of range. However it doesn't go on cooldown.
+-   Consumes ether even if desired target is out of range. This places the mantra on a 4 second cooldown.
 
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | 
