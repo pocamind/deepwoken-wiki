@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 88949
+revid: 89105
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -15,7 +15,7 @@ notices:
 | territory | Minityrsa |
 | goals | The sinking of the Overworld into the depths, Silence the Children of Navae |
 
-“ FODDERS. ”
+“ GODSEEKERS, PROPHETS IN BLACK, OFFERING THIS CITY OF STONE AS IF IT WERE FESTERING MEAT. A PALTRY OFFERING, BUT MORE THAN YOUR KIND USUALLY AMOUNT TO. ”
 
 ― Yun'shul on Celtor and the Ministry
 

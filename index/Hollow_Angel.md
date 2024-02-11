@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 88997
+revid: 89107
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -81,14 +81,9 @@ Template:Creature Infobox V3 These Angels are like no other variants - they are 
 
 ## Trivia
 
--   Similar to Mudskippers, Angels AI dictates them to keep out of your effective range. They will constantly back up but still keep you within the range of their spears meaning this isn't a problem for longer ranged weapons.
--   While they aren't Mudskippers, they pose a generally low threat to most players (Stat Check Level: 5/7).
--   It is extremely easy to run away from Lesser Angels in [The Depths](The_Depths.md), as their climbing ability is not on par with the Player's.
--   Despite only being found in Trial of One, Greater Angels have their HP reduced from 900 to 200. It's unclear why their base HP wasn't just made to be 200, though it may be a sign they were intended for use elsewhere. Alternatively, the Trial may simply apply HP reduction to all mobs found within, much like how the corruption of mobs applies to the [First Layer](First_Layer.md), rather than to the mobs themselves, allowing for mobs exclusive to the [Second Layer](Second_Layer.md), which will never be corrupted in normal gameplay, to spawn corrupted if spawned in Scyphozia.
--   The text above (i dunno how to line it out lol) Is no longer true now that the Diluvian mechanism exists. Including greater and corrupted greater angels + corrupted layer 2 mobs
+-   Similar to Mudskippers, Angels AI dictates them to keep out of your effective range. They will constantly back up but still keep you within the range of their spears.
 -   All Angels have **incredibly high** posture resistance, meaning you have to trade parries with them like an expert to get an attack on them without mantras or talents that will bypass this. In other words, like all enemies who are capable of blocking your attacks: You cannot damage these things whatsoever without an absurd amount of PDPS (Posture Damage Per Second).
 -   If you climbed up to escape Lesser Angels, they will not automatically despawn so **DO NOT JUMP DOWN TO THE SPOT WHERE YOU CLIMBED TO ESCAPE**
 -   Fire Blade and Rapid Punches can easily kill the Angels since these mantra stuns the enemy, and you can use that stun time to hit the Angel.
 -   Probably a reference to the Angels from the TV show Castlevania: [https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg](https://64.media.tumblr.com/cfa1ece79f9bc3a5058f7556c26bbdf8/dcfcb1ef19481992-86/s1280x1920/95813bafb4d53f8a6fc27042e77ee876f4ec4275.jpg)
 -   Lesser Angels will attack any Depths monsters like [Threshers](Thresher.md), [Lionfish](Lionfish.md) and [King Gigamed](Gigamed.md). It's unknown why they attack the Depths monsters.
--   They will use Glare, Gaze very often which players should be aware when fighting them.

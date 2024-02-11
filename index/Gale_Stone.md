@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 75188
+revid: 89102
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -26,12 +26,6 @@ A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.
 
 ## Tips
 
--   Do not kill Etrean guards for these, instead kill [Legion Soldiers](Legion_Soldier.md) located in the [Viper's Jaw](<The_Viper's_Jaw.md>) as they have a higher chance on dropping Gale Stones.
+-   Killing [Legion Soldiers](Legion_Soldier.md) located in the [Viper's Jaw](<The_Viper's_Jaw.md>) as they have a high chance on dropping Gale Stones and spawn often, etrean gaurds do drop gale stones however unless you are killing them in erisia or at a vs. event you will lose rep, also the etrean guards at etris dont drop gale stones.
 
--   Alternatively, the most low risk high reward and probably the fastest way to gain Gale Stones is to kill the [Vigil Swordsmen](Vigil_Swordsman.md) in the Etrea vs. The Central Authority event. Do not worry, this does not tarnish your reputation with Etrea.
-
--   Finally, the bloated Mineskippers found within the cave on Songseeker will occasionally drop Gale stones; though it's a bit rare or uncommon for them to do so, you could try to farm them for one as well.
-
-## Trivia
-
--   These do not drop from [Etrean Guardsmen](Etrean_Guardsmen.md), despite them using Galebreathe.
+-   Also, the bloated Mineskippers found within the cave on Songseeker will occasionally drop Gale stones; though it's a bit rare or uncommon for them to do so, you could try to farm them for one as well.

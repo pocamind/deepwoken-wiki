@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 88555
+revid: 89095
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -244,7 +244,7 @@ File:Dash Mantra Demonstration.gif
     -   Restores a decent amount of ether periodically.
     -   Increases movement speed and parkour abilities by ~25%.
     -   Procs the "Speed Demon" talent. _**(TESTED!)**_
-    -   _~Increases duration by ?? per level (Tested)~ Upgrading does nothing_
+    -   _Upgrading reduces cooldown. (listed in changelogs)_
     -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
  |
