@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 74031
+revid: 89196
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats]
@@ -10,10 +10,11 @@ categories: [Equipment, Hats]
 
 | Strapped Hat | |
 |---|---|
-| type | Helmet |
+| type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | N/A |
+| requirements | None |
+| weight | 1 |
 | innate stats | +3 HP |
 | innate talent | The Exterminator |
 | bankable | Yes |
@@ -21,7 +22,7 @@ categories: [Equipment, Hats]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | First Layer |
-| description | - "A hat typically worn by those from the Western Luminant." |
+| description | "A hat typically worn by those from the Western Luminant." |
 
 ## Description
 

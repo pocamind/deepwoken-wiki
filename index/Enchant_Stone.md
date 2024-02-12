@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 89046
+revid: 89203
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2]
@@ -23,7 +23,7 @@ The **Enchant Stone** is a mythical-tier item that can be used to apply an [ench
 There are multiple ways to obtain an Enchant Stone, the usual and best source being from [Layer 2](Second_Layer.md). The ways of obtainment are as follows:
 
 -   Unlocking the Galewax Room from the [Second Layer](Second_Layer.md). This room always contains 3 tiny chests, that have a **25%** chance of providing a random Enchant Stone per chest. If not an enchant stone, it's a random [Kyrsweapon](Weapons.md).
--   Rare drop from any [Layer 1](Second_Layer.md) chest, slightly more common from [Thresher](Chaser,_Scholar_of_the_Crimson_Contract.md) and Jellyfish Chests.
+-   Rare drop from any [Layer 2](Second_Layer.md) chest, slightly more common from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Ethiron](Scion_of_Ethiron.md) Chests.
 -   Exchanging 5 [Kyrsan Medallions](Kyrsan_Medallions.md) to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random enchant stone.
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any enchant stone of your choice. You can only obtain one [Deepshore Fossil](Deepshore_Fossil.md) per character.
 

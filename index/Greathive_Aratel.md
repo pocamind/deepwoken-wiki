@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 88497
+revid: 89201
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Eastern Luminant]
@@ -92,6 +92,12 @@ The doors to enter the Lordsgrove.
 
 ### Canopy Plaza
 
+A view of the blacksmith on the Canopy plaza
+
+  
+
+  
+
 Honey Pool (Presumably)
 
 #### Honey Pool
@@ -108,6 +114,8 @@ Honey Pool (Presumably)
 -   Players can spend to set their spawn point here.
 
 #### Canopy Peak
+
+The most powerful being in the universe rules over his subjects
 
 -   The office of the current Hivelord. Features a [Hive Guard](Hive_Guard.md) and a being of [immense power](Destroyman_III.md).
 

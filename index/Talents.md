@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 89182
+revid: 89225
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -177,7 +177,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 -   Chemist's Bag \[Common Talent, Intelligence\] - You no longer drop Potions on death.
     -   Prerequisite: 80 Intelligence
 
--   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies has a chance to inflict the potion's effect upon them.
+-   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
     -   Now is 100% chance of proccing but much shorter range
     -   Prerequisites: 60 Intelligence
 
@@ -185,8 +185,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Drink potions faster. (~0.5 seconds faster)
     -   Prerequisites: Drank potion, 15 Fortitude OR 15 Willpower, 30 intelligence
         -   This talent was merged with the old Subsistence talent.
--   Wild Alchemy \[Common Talent, Intelligence\] - Potions you prepare will have a chance to have doubled ingredients when mixed.
-    -   The resulting potions' effects are strengthened as if 2x ingredients were used. Bypasses the ingredient cap and will not make Diluted/Nothing potions.
+-   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
     -   Prerequisites: 25 Intelligence
 
 ### Alley Cat
@@ -198,7 +197,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
     -   Prerequisite: 5 Agility
 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
-    -   Negate the speed penalty of critical health (<30% HP)
+    -   Halve the speed penalty of critical health (<30% HP)
     -   Prerequisite: 25 Agility, 25 Fortitude
     -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" have this talents.
 
@@ -816,7 +815,7 @@ _**"I dance with the flames."**_
 -   Azure Flames \[Common Talent, Flamecharm Exclusive\] - Many of your flames turn blue, signifying their increased intensity. ( +2 Elemental Intensity)
     -   Prerequisites: 70 Flamecharm, 40 Willpower
         -   Azure Flames burn deals 8 damage per second.
-        -   If you have the lava serpent path, the explosion will have more posture damage and more range with this talent.
+        -   If you have the lava serpent path, the explosion will have more posture damage and a bigger radius with this talent.
 
 -   Expert Flamecharmer \[Character Exclusive, Flamecharm Exclusive\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
     -   Prerequisites: 30 Flamecharm

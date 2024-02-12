@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 87899
+revid: 89221
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mantras, Character, Attunement, Mechanics]
@@ -70,7 +70,7 @@ enemies.
 
 of ice.
 
- | ?? Ether | 
+ | 80 Ether | 
 
 -   **Requirements: 30 Frostdraw, 30 Shadowcast**_**,**_ _Combat Mantra_
     -   Deals moderate damage.
