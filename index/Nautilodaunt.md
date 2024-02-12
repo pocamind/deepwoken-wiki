@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 88993
+revid: 89180
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -98,6 +98,7 @@ On a final side note, Nautilodaunt seems to dodge some attacks, but what makes h
 
 ## Trivia
 
+-   The Nautilodaunt cannot vent in [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   The Nautilodaunt can spawn several times in the same place during [Hell Mode](Hell_Mode.md).
 -   The Nautilodaunt is likely inspired by a combination of [Dagon](https://jujutsu-kaisen.fandom.com/wiki/Dagon) from the anime and manga series, _Jujutsu Kaisen_, with the design being identical, and the Mind Flayers from _Dungeons & Dragons_, which similarly implant parasites into humans.
 -   The Nautilodaunt is one of two monsters that can be both guard broken and posture stunned, the other being [The Enforcer](Enforcer.md).

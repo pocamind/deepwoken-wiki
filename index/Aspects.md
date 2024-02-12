@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 89048
+revid: 89192
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races, Character, Mechanics]
@@ -42,7 +42,7 @@ The percent chance of rolling a race changes per roll- given that you CANNOT rol
 | **[Khan](Khan.md)** | 7.27% | **[Capra](Capra.md)** | 1.82% |
 | **[Felinor](Felinor.md)** | 7.27% |
 
-[\[1\]](https://deepwoken.fandom.com/wiki/Mudskipper)
+  
 
 ## Exclusive Races
 

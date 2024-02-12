@@ -1,9 +1,9 @@
 ---
 title: Resonance
-revid: 88647
+revid: 89188
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Resonances, Mechanics]
+categories: [Pages with broken file links, Resonances, Mechanics]
 ---
 
 # Resonance
@@ -41,6 +41,8 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 -   Golem Creation - [Duke Erisia](Duke_Ishamon_Erisia.md)
 
 ## Overview
+
+File:Bellington Of Bells.png
 
 **Resonances** are one of the many skills that players can obtain, and can be seen as a sort of divine blessing. They are quite formidable tools in the right hands, with varying effects including (**but not limited to**) momentary invisibility, map-wide teleportation, and near-instant executions. **Corrupted** **Resonances,** on the other hand, are more akin to curses and [Cursed Enchants](Enchantments.md), where they offer more powerful effects and useful effects of the provided **Resonance** at the cost of ailing the holder in some way, shape, or form.
 

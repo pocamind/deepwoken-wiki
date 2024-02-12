@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 89078
+revid: 89182
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2471,7 +2471,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   The face equipment "[Blindfold](Blindfold.md)" have this talent.
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
-    -   Prerequisite: [Power](Power.md) 16
+    -   Prerequisite: [Power](Power.md) 16, Obtain resonance
 
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
     -   Prerequisite: [Power](Power.md) 5

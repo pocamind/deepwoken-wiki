@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 87658
+revid: 89163
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -120,6 +120,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   You know I'm really good friends with The Guy right? I bet you're jealous.
 -   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
 -   You, uh.. you doin' good? I'm not asking because I care, I'm asking because I was coded to.
+-   You should wipe yourself.
 
 ## Destroyman III Removal Quotes
 

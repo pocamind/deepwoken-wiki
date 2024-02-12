@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 89037
+revid: 89153
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -104,3 +104,4 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
 -   The blindseer eye is seen in lots of places throughout Deepwoken
     -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (presumable of a Hivelord) features the [Vesperian](Vesperian.md) variation of Blindseer
     -   Some unparryable attacks of [monsters](Monsters.md) are accompanied by a red blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab)
+    -   The Blindseer Eye can be dyed by dying your eyes using a [Dye Packet](Dye_Packet.md).

@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 82925
+revid: 89178
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -43,7 +43,7 @@ Diver Husks has an arsenal of weapons known across the Lumen to equip from, but 
 
 -   Diver Husks still have some humanity; although the parasites residing in their bodies are controlling them entirely-- leaving those who fight against them with a feeling of hopelessness and grief as there is nothing to do for them.
 -   Diver Husks later transform into [Carbuncles](Carbuncle.md).
--   Diver Husks (like their name suggests) are corpses of divers who have fallen victim to the Eternal Gale's Parasites. They appear to be wearing [Diver Apprentice](Diver_Apprentice_Robes.md) robes, so from this we can infer that these were most likely Diver Apprentices who accidentally fell into layer 2 and succumbed to the parasites.
+-   Diver Husks (like their name suggests) are corpses of divers who have fallen victim to the Eternal Gale's Parasites. They appear to be wearing [Diver Apprentice](Diver_Apprentice_Robes.md) robes, so from this we can infer that these were most likely Diver Apprentices who accidentally fell into layer 2 or some of those apart of [Chasers](Chaser,_Scholar_of_the_Crimson_Contract.md) original team, and succumbed to the parasites.
 -   They wield weapons, which are most likely the Diver Apprentice's previous weapon that they probably used to attempt to fight off the parasites.
     
     A Dive Husk's last words before execution.
