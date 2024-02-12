@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 83103
+revid: 89228
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer, First Layer, Chaser chest, Duke chest |
+| obtainment | Second Layer, First Layer, Chaser chest, Duke chest, Chime of Conflict chest |
 
 ## Description
 
