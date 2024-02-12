@@ -1,6 +1,6 @@
 ---
 title: "Marauder's Entrance"
-revid: 88366
+revid: 89269
 source: https://deepwoken.fandom.com/wiki/Marauder's_Entrance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1]

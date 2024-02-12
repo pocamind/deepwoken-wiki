@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89148
+revid: 89267
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -61,6 +61,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   _**Enforcer's Axe/Hammer;**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
 
 -   _**Gran Sudaruska;**_ Like all the other weapons mentioned, the Gran Sudaruska is also one of the best weapons once again for the Diluvian mechanism. The crit is an immediate guardbreak on MOST mobs (squibbo, etc) and has a very low req (75 frost, 30 hvy) making it a good choice.
+-   _**Black Ops Zombies Training method:**_ You can keep one weakened mob alive before a wave change to allow your team to set up for the next wave. (Graceful, Warriors Respite, Damage buffs, etc)
 
   
 
@@ -69,13 +70,9 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   All of the Layer 1 loot pool, including deep gems, at all levels
 -   Depths Chests (1-15)
 -   Brown Chests (15-50)
--   [Relics](Relics.md) \[Rain Spire, Void Spire, Smith Alloy\] (15+)
+-   [Stormseye](Stormseye.md) (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
--   [Relics](Relics.md) \[Sinners Ash, Idol of Yunshul, Moonseye Tome\] (40+)
--   [Crypt Blade](Crypt_Blade.md) (20+)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (15+)
--   [Stormseye](Stormseye.md) (15+)
 -   Guaranteed 2 Star loot (40+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md) (50+)
 
@@ -84,7 +81,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 Based on the power of the user(s), the starting wave will differ;
 
 -   Power 1-11; Wave 1
--   Power 12-19(?); Wave 6
+-   Power 12-19; Wave 6
 -   Power 20; Wave 11
 
 | Wave | Enemies | Tips |

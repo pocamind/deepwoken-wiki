@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 80993
+revid: 89268
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Armors]
@@ -33,7 +33,7 @@ When interacting with a blacksmith, you get two options. To hand in ores, and to
 
 ### Craft event items with knowledge
 
--   Craft items with knowledge along you have brought Hallowtide metal 22 and 23 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide
+-   Craft items with knowledge along you have brought Hallowtide medal 22 and 23 from [Lysander Spellhardt](Lysander_Spellhardt.md) during Hallowtide
     -   Craft armor and weapons and even enchants and mantras.
 
 ## Trivia

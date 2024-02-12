@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 89239
+revid: 89265
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -88,7 +88,7 @@ Frost Grab
 
 _An icy chokehold._
 
- | User performs a quick dash before grabbing the opponent in front of them.
+ | Perform a quick dash before grabbing the target in front of the user.
 
 -   User gains a brief forward momentum on use.
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
@@ -107,7 +107,7 @@ Warden's Blades
 
 _Revolving blades of ice._
 
- | User forms 4 ice blades around them, which rapidly rotate for a few seconds before shooting off into the distance.
+ | Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance.
 
 -   Deals light damage.
 -   Sword projectile inflicts Chill.
@@ -124,7 +124,7 @@ Frozen Servants
 
 _A legion of frost._
 
- | Conjures four to five frozen servants that emits two blasts of frost mist to the center.
+ | Conjures a surrounding ring of 4 to 5 frozen servants that emits two blasts of frosty mist to the center.
 
 -   Deals Moderate damage if both blows hit.
 -   Inflicts short Chill.
@@ -145,12 +145,12 @@ Ice Daggers
 
 _Form and toss daggers of ice at your aimed opponent._
 
- | User forms three daggers of ice before throwing them towards the nearest person.
+ | Form 3 daggers of ice before throwing them towards the nearest target.
 
 -   Homing attack.
 -   Does not inflict Chill.
 -   Can be upgraded with the "Frozen Pin-Cushion" talent.
--   Consumes ether even if desired target is out of range. However it doesn't go on cooldown.
+-   Consumes ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is in range.
 
  |
 | [Iceblade](https://deepwoken.fandom.com/wiki/File:Iceblade.gif) | 
@@ -162,10 +162,11 @@ Ice Blade
 
 _A barrage of freezing blades._
 
- | User slashes forward rapidly with four swings.
+ | Conjures 2 sabers of ice while performing a rapid flurry of slashes forward.
 
 -   Deals light damage.
--   Inflicts 1s Chill per hit (Can't be increased)
+-   Hits 4 times.
+-   Inflicts 1s Chill per hit (Can't be increased).
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
 
@@ -179,8 +180,9 @@ Ice Chain
 
 _Chains of ice._
 
- | Conjures 3-4 chains of ice that lock-on and stun for a brief period of time, dealing light damage.
+ | Conjures 3-4 chains of ice that lock-on and stun the target for a brief period of time.
 
+-   Deals light damage.
 -   Inflicts Chill (Can be increased with logstones up to 1 eternal or 2 aeon)
 -   Can be modified with both [Aeon & Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
 -   Can be modified with lens to increase the range of casting the mantra.
@@ -197,7 +199,7 @@ Ice Eruption
 
 _A flurry of ice spikes._
 
- | Forms a path of ice spikes in front of user.
+ | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
 
 -   Deals moderate damage.
 -   Does actually inflict Chill, though it lasts too short.[\[1\]](#cite-note-1)
@@ -216,11 +218,11 @@ Ice Forge
 
 _Conjure and throw weapons of ice._
 
- | Forms a barrage of ice shuriken's before propelling them at the cursor's location.
+ | Forms a barrage of ice shurikens before propelling them at the cursor's location.
 
--   Casting Ice Forge on Ice will summon more shuriken's. (currently bugged)
--   Rapidly deals light damage.
--   Inflicts Chill. (9 seconds base and 13 seconds with one eternal logstone)
+-   Deals light damage.
+-   Casting Ice Forge on Ice will summon more shurikens (Currently bugged).
+-   Inflicts Chill (9 seconds base and 13 seconds with 1 Eternal Logstone).
 
  |
 | [Icesmash](https://deepwoken.fandom.com/wiki/File:Icesmash.gif) | 
@@ -232,11 +234,11 @@ Ice Smash
 
 _A colossal mace of ice._
 
- | User performs a wind-up before slamming an ice club into the ground.
+ | Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead.
 
 -   Deals heavy damage and low knockback.
 -   Breaks block at mantra level 5.
--   Inflicts Chill (5 second base, 9 seconds with one eternal logstone)
+-   Inflicts Chill (5 second base, 9 seconds with 1 Eternal Logstone).
 -   Can break objects.
 
  |
@@ -249,13 +251,13 @@ Ice Lance
 
 _Form an ice spear and lunges forward._
 
- | User forms an ice spear and lunges forward towards the opponent, impaling and detonating it in a few seconds.
+ | Conjures a spear of ice while lunging forward towards the opponent, impaling and detonating it upon impact.
 
--   During the windup pressing F cancels the impale.
 -   Deals moderate damage.
+-   During the windup pressing \[F\] cancels the impale.
 -   User gains considerable forward momentum on use.
 -   Sometimes used in conjunction with Glacial Arc to fling the player skywards.
--   Hitting an enemy with the spear does not apply Chill, although Shatter Spear does. (4 second chill only if one eternal logstone)
+-   Hitting an enemy with the spear does not apply Chill, although Shatter Spear does (4 second chill if 1 Eternal Logstone is used).
 
  |
 |  | 
@@ -267,10 +269,10 @@ Rising Frost
 
 _Conjure a glaive of frost and launch your opponents skyward._
 
- | User conjures a glaive of ice and swings. If you hit an enemy, launch them in the air and slam them down.
+ | Conjures a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
 
--   Doesn't apply chill
--   Deals moderate damage
+-   Deals moderate damage.
+-   Does not inflict Chill.
 
  |
 | 
@@ -284,13 +286,13 @@ Ice Flock
 
 _Send forth a flock of ice_
 
- | Send birds of ice to fly directly in front of you, dealing damage if they hit an enemy.
+ | Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy.
 
--   Deals moderate damage
--   Deals high posture damage
--   Low cooldown
--   Good for area denial
--   Does not apply chill
+-   Deals moderate damage.
+-   Deals High Posture damage.
+-   Low cooldown.
+-   Good for area denial.
+-   Does not inflict Chill.
 
  |
 | 
@@ -304,11 +306,11 @@ Ice Carve
 
 _A sharp disk of ice._
 
- | User forms a disk of ice that rapidly cuts enemies.
+ | Conjure a deadly rapidly moving saw of ice with the user's left hand.
 
 -   Deals moderate damage.
 -   Can be modified with Stratus stones and Cloudstones to increase its size.
--   Does not apply chill
+-   Does not inflict Chill.
 
  |
 |  | 
@@ -320,12 +322,13 @@ Ice Cubes
 
 _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cubes._
 
- | User summons three Ice Cubes and throws them to where their cursor is. Also, homes in on nearby targets.
+ | Conjures 3 ice cubes above the user that are on standby and throws them to where their cursor is.
 
--   Compatible with a Multiplying Spark to instead send them one by one.
 -   Deals moderate damage.
+-   Projectiles are homing.
+-   Compatible with a Multiplying Spark to instead send them one by one.
 -   Has a good amount of range.
--   Does not inflict chill
+-   Does not inflict Chill.
 
  |
 |  | 
@@ -337,13 +340,13 @@ Ice Fissure
 
 _Send ice rippling out in a shockwave._
 
- | Forms an Obelisk in front of the player.
+ | Conjures an obelisk of ice in front of the player.
 
--   Up to three Obelisks can be active at any time.
--   Recasting this Mantra near an active Obelisk causes it and all others placed to explode.
+-   Up to 3 Obelisks can be active on the field at any time.
+-   Recasting this mantra near an active Obelisk causes it and all others placed to explode.
 -   Summons wherever your mouse is pointed, at a range.
 -   Creating an Obelisk on top of someone will stun them for ten seconds.
--   First hit applies Chill (12 second base and 16 with one eternal logstone)
+-   First hit applies Chill (12 second base and 16 with 1 Eternal Logstone).
 
  |
 
@@ -361,8 +364,9 @@ Crystal Knee
 
 _Knock your enemy skyward with a kick of crystal._
 
- | Perform a short flipkick that throws your enemies into the air
+ | Perform a short flipkick that launches the user's target into the air.
 
+-   Deals moderate damage.
 -   Compatible with a [Spring Spark](Mantra_Modifiers.md) to launch opponents away instead of launching them upward.
 
  |
@@ -377,11 +381,11 @@ Crystal Impale
 
 _Impale your foes with a brutal crystal smash._
 
- | User briefly ascends before swiftly descends
+ | Ascend before performing a quick spinning dash towards the user's target.
 
 -   Deals light damage.
 -   Inflicts Chill.
--   The last hit makes a knockdown.
+-   The last hit knockdowns the target.
 
  |
 |  | 
@@ -395,8 +399,8 @@ _Swift bolts of frozen air._
 
  | Fires a bullet of ice.
 
--   Inconsistent Hitbox.
 -   Deals light damage.
+-   Inconsistent Hitbox.
 -   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
 -   Can be modified with a [Cloudstone](Mantra_Modifiers.md) to increase the shots fired.
 -   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
@@ -444,19 +448,15 @@ _{{{desc}}}_
 Glacial Arc  
 (★☆☆)
 
-  
-
-  
-
  | 
 
 _An arc of ice._
 
- | Conjures a solid ice pillar that points toward the user's cursor.
+ | Conjures a solid ice lance that towards the user's cursor.
 
--   Can be used to scale walls and terrain.
 -   Deals heavy damage when it hits an opponent.
--   Inflicts a 1 second chill ( can't be increased)
+-   Can be used to scale walls and terrain.
+-   Inflicts a 1 second chill (Can't be increased).
 -   Compatible with a Glass Stone, causing the move to form a small ice eruption at the end of the pillar.
 -   Can be modified with Cloudstones to become wider.
 -   Can be modified with Crystal Lens and Perfect Lens to increase the range of the arcs.
@@ -471,10 +471,9 @@ Ice Skate
 
 _Skate freely on paths of ice._
 
- | Create a frozen platform to slide on at a high velocity.
+ | Form a frozen path of ice as the user slides on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active.
-
 -   When below mantra level 5, gradually loses height similar to gliders.  
     
 
@@ -492,36 +491,28 @@ _Skate freely on paths of ice._
 </tr>
 <tr>
   <td><center>File:Frost wisp.png</center></td>
-  <td><center>Frost Wisp<p>(★★☆)</p>
-  <p><br>
-  </p>
-  <p><br>
-  </p>
-  <p><br>
-  </p></center></td>
+  <td><center>Frost Wisp<br>
+  (★★☆)</center></td>
   <td><center><i>A servant of ice.</i></center></td>
-  <td>Summons a wisp that travels around you placing ice. Also shoots a beam attack whenever you vent successfully.
+  <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
     <li>Can be modified with Rush and Drift shards.</li>
-    <li>Glacial ice talent and leveling it up increases the size of the ice floors it spawns.</li>
+    <li>The "<b>Glacial Ice</b>" talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
   </ul></td>
 </tr>
 <tr>
   <td><center><figure><figcaption></figcaption></figure></center></td>
-  <td><center>Iceberg<p>(★★★)</p>
-  <p><br>
-  </p>
-  <p><br>
-  </p></center></td>
+  <td><center>Iceberg<br>
+  (★★★)</center></td>
   <td><center><i>Enter a state of cryostasis.</i></center></td>
-  <td>Freeze yourself in ice. Heal in the first two pulses of a ring, and chill enemies that get too close. You gain Autoparry for 1 hit while this is active.
+  <td>Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. Targets gain Autoparry for 1 hit while this is active.
   <ul>
     <li>Heals up to 8%.</li>
     <li>Compatible with Stratus Stones and Eternal Logstones.</li>
     <li>Drift and Rush Shards increases the amount of health healed while the mantra is active.</li>
     <li>Iceberg is put on CD by reinforce and vice versa, so you should choose one or the other for healing.</li>
-    <li>Applies 1 second of chill per hit (can't be increased)</li>
-    <li>Stratus and cloudstones increase the duration of the iceberg, with enough stones you can add an extra 2% of healing of the 8%, not recommended as you usually wont be able to heal completely wasting ether and healing.</li>
+    <li>Applies 1 second of chill per hit (Can't be increased).</li>
+    <li>Stratus Stones and Cloudstones increase the duration, with enough stones you can add an extra 2% of healing of the 8%, not recommended as you usually wont be able to heal completely wasting ether and healing.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -1034,7 +1025,7 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
 -   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on Etris, [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in [Layer 2](Second_Layer.md).
 -   The **Ice Chains** mantra was reworked into a new ability on the 8th of February 2022.
--   The now-removed "Frozone" Talent is a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from [The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles).
+-   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from [The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles).
 -   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in [Overwatch](https://en.wikipedia.org/wiki/Overwatch).
 -   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the most Mantras out of all attunements in the game.

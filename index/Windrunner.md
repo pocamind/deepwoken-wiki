@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 88190
+revid: 89250
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -50,4 +50,4 @@ You've taken an oath I see.
 
 ## Trivia
 
--   In his dialogue, he talks about "_The Contractor that resides within the Palace_" (likely the [Lord Regent](The_Lord_Regent.md)) and "_the Warmaster in his Fortress_" (likely Drallis Ehr). He then says "_Two men attempting to keep an Oath... Which oath is right?_".
+-   In his dialogue, he talks about "_The Contractor that resides within the Palace_" (likely the [Lord Regent](The_Lord_Regent.md)) and "_the Warmaster in his Fortress_" (likely Warden Jericho or Drallis Ehr). He then says "_Two men attempting to keep an Oath... Which oath is right?_".
