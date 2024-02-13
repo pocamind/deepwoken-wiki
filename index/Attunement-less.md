@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 89095
+revid: 89310
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -117,6 +117,8 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
+    <li>Does WAY too much damage, way too much range</li>
+    <li>can be parried, blocked (first hit only, other will land), and dodged.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -300,7 +302,8 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
     -   There is a running myth that Gaze will have invisible orbs hit you and increase your sanity, sadly if you believe that you are a gullible fool.
-    -   Creates rotating white rings around the user's eyes.
+    -   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
+        -   Shadow insanity doesn't actually reduce your sanity, but it can still cause its effect. (needs more info on what exactly it does)
     -   Upgrading this Mantra extends the duration.
     -   Can be countered by holding block or wearing a [Blindfold](Blindfold.md).
 

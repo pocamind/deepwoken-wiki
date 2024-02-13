@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 89225
+revid: 89307
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -716,7 +716,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   The Canor race's innate talent has a similar effect.
     -   Prerequisities: 35 Charisma, Friends in High Places
     -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this talent.
--   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies for 5 seconds when you hit them.
+-   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
     -   Prerequisites: Taunt (Charisma Mantra), 90 Charisma
 
 ### Escape Artist

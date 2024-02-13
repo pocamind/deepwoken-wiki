@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89267
+revid: 89309
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -175,3 +175,4 @@ Based on the power of the user(s), the starting wave will differ;
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.
 -   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
 -   The Diluvian Mechanism is the easiest way to get legendary weapons and enchants such as Curved Blade of Winds and Crypt Blade, as they are way more common compared to regular Depths farming.
+-   The Diluvian Mechanism will always start at the lowest wave it can be based on the Power of your party, for example, if there is a Power 20 and a Power 5 entering the Diluvian Mechanism, it will start at wave 1 instead of 11.

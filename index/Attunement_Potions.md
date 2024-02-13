@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 81622
+revid: 89298
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -120,9 +120,11 @@ File:Flask.png
  |
 | 
 
-Alloyblood
+Alloyed elixir
 
  | 
+
+File:Alloyed elixir.png
 
  | 
 

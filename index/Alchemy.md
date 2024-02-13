@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 89292
+revid: 89308
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -128,7 +128,7 @@ Eating an ingredient by itself will give you a weaker version of the effect it'd
 -   Redd - Primary effect is **Icky**; Drains Ether over time for 15 seconds. Secondary effect is **Rejuvenating**; Instantly restores a small amount of health. Tertiary effect **shortens** duration of other effects.
     -   Like Focusing, Rejuvenating can't be brewed using only a single ingredient. The rejuvenating effect is very weak, but it is possible to brew a Rejuvenating potion using exactly three Redd's and one Wheat.
 -   Sap - Primary effect is **Focusing**; Increases ether regen. Secondary effect is **Slowing**; Reduces movement speed
--   Seaweed Bundle - Primary effect is **Mindbreaker**; rapidly lowers sanity. Secondary effect is unknown (if there is one)
+-   Seaweed Bundle - Primary effect is **Mindbreaker**; rapidly lowers sanity. No secondary effect.
 
 -   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. No secondary effect.
     -   Mindbreaker potions are notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
