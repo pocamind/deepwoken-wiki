@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 89313
+revid: 89334
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -96,14 +96,12 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   Any monster in Trials have a possibility of being corrupted.
 -   Curiously, **any** monster can be corrupted if spawned in the trial, including enemies that can otherwise never be: [Bounders](Bounder.md), [Golems](Rock_Golem.md), [Brainsuckers](Brainsucker.md), etc. When this occurs, however, their AI will (probably) break. Exemplified in this video: [https://www.youtube.com/watch?v=0scBW8J3MpQ](https://www.youtube.com/watch?v=0scBW8J3MpQ&pp=ygUYaW5mZXJuYXN1IGZyZXNoaWUgdHJpYWxz)
 -   Any monster (excluding [Mudskipper Knights](Mudskipper.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
--   Furthermore, in rare (and unlucky) cases, monsters can simultaniously spawn **Attuned** **AND** Corrupted.
-    
+-   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Corrupted.
     -   This corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players randomly butting or tagging along in the cathedral's elevator, especially if they have set a trap for you to fight not one but two corrupted Trial monsters.
         -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation.
             -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
         -   It is advised to know the risks of fighting a corrupted monster in the trial: there is no turning back once they spawn in. **Fight or wipe.**
-    
 -   Once the monster spawns, you will automatically be locked in combat. The combat tag in the Depths trial takes 10 minutes to despawn.
     -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks or pull moves, such as angels, megalodaunts, and enforcers, do not allow this.
         -   There's no real reason to do this.

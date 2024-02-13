@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 89315
+revid: 89319
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters]
@@ -19,9 +19,7 @@ Navaen Hostages hail from the [Children of Navae](Reputation.md) faction. They a
 
 They are found kneeled down on both knees and having their arms behind them, seemingly being locked together with a rope or some sort of cuffs. They usually randomly spawn randomly in [Erisia](Erisia.md) or in the prison cells in [Fort Merit](Fort_Merit.md). They seem to spawn especially often in the [Towerstruck Lands](Towerstruck_Lands.md), [The Garden Reservoir](The_Garden_Reservoir.md) and near [The Birdcage](The_Birdcage.md).
 
-## Purpose
-
-You can pick them up using the V key after knocking them, like other NPCs. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn unless you travel to a new Luminant.
+You can pick them up using V. Dropping them will cause them to be knocked for a bit, and then they will get up in their usual prisoner pose. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, for they will not despawn unless you travel to a new Luminant.
 
 Bringing a Navaen Hostage to a [Nomad Leader](Eastern_Nomad_Leader.md) in the Etrean Wilds or Summer Isle or the Eastern Camp Master will give you the [Way of Navae](Fists.md) style in the form of a [Talent](Talents.md), prompting a dialogue that will be shown below in the Gallery. Unlike popular belief, you do not need any **Light Weapon** points to equip [Way of Navae](Way_of_Navae.md), nor all the other fist styles. You only need points in **Light Weapons** to equip a Cestus, but even then, the Iron Cestus only needs a fist style.
 

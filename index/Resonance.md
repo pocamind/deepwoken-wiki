@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 89263
+revid: 89333
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Resonances, Mechanics]
@@ -68,7 +68,7 @@ Known side-effects include:
 
 -   **SHORT-CIRCUIT:** On use, player will be set ablaze.
 -   **MEGALOMANIA:** On use, player will fall deeper into insanity.
--   **HEMORRHAGE:** On use, player will have exactly 7% drained from their health.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
+-   **POISON:** On use, player will have exactly 7% drained from their health.[\[1\]](#cite-note-1) If used below 6% health, you will be left at 1 health.
 
 Downsides do not appear to be correlated to any **Resonances**, meaning any **Resonance** can get any **one** downside, and can vary in severity.
 

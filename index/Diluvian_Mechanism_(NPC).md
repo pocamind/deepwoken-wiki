@@ -1,6 +1,6 @@
 ---
 title: Diluvian Mechanism (NPC)
-revid: 89079
+revid: 89320
 source: https://deepwoken.fandom.com/wiki/Diluvian_Mechanism_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Floor 1, NPCs]
@@ -29,6 +29,9 @@ Conversing to the one in the Marauder's Entrance will bring up the dialogue;
     -   This makes a small circle with a radius around the mechanism. Anybody within the circle will be taken inside the Diluvian Mechanism.
 2.  Enter alone.
     -   This will teleport the user to the Diluvian Mechanism.
+3.  Enter with the Meek.
+
+-   This makes a small circle with a radius around the mechanism, just as the first choice, but it has no limits on the number of players it will take, and it will not teleport any players above level 3. It seems to only appear if a higher-level player is in the radius of it.
 
 ### Within the Diluvian Mechanism
 

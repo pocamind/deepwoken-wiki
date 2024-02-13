@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89309
+revid: 89329
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -75,6 +75,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
 -   Guaranteed 2 Star loot (40+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md) (50+)
+-   ~20 [Knowledge](Knowledge.md) throughout all the waves
 
 ## Waves
 
