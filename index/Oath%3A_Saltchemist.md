@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89257
+revid: 89283
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -17,23 +17,23 @@ notices:
 
 ## Description
 
-**[Oath](Oaths.md): Saltchemist** is one of the 12 obtainable Oaths in _Deepwoken._ It's a utility oath based around alchemy and potion brewing.
+**[Oath](Oaths.md): Saltchemist** is one of the 12 obtainable Oaths in _Deepwoken._ It's a utility oath based around [alchemy](Alchemy.md) and potion brewing.
 
 ## Obtainment
 
-1.  Make one potion for [Ciea](Ciea.md) (Three potions and harvester aren't required). You do not need to learn the location of Adrofalis before undertaking the oath.
-2.  Obtain 75 intelligence. You do not need to unbound.
-3.  In Ferryman's Library, Adrofalis will ask you to make a residue. Bring him the following ingredients:
+1.  Make at least one potion for [Ciea](Ciea.md) (Three potions and harvester aren't required). You do not need to learn the location of Adrofalis before undertaking the oath.
+2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound.
+3.  In [Ferryman's Library](<Boatman's_Watch.md>), Adrofalis will ask you to make a residue. Bring him the following ingredients:
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to Derelict Highchurch and use a canteen in the blood pool of the crucified Celestial.
     -   [Stardust](Stardust.md) from a Star Tree. It must be a Stardust from [Starfield Veldt](Starfield_Veldt.md) or [Starfield Grove](Starfield_Grove.md). Consider getting a second one, which is needed to progress the oath.
-    -   A [Primordial Lotus](Ingredients.md#lotuses), which can me found in most [Voidzones](Voidzones.md).
+    -   A [Primordial Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md).
 4.  Gather those ingredients and return to Adrofalis, who will grant you the Oath.
 
 -   Upon obtaining the oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted and the string can be dyed.
 
 ## Progression
 
-Get a [Vibrant Gem](Mantra_Modifiers.md), Pluripotent Alloy and a [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume the materials. Might be a bug.
+Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume the materials. Might be a bug.
 
 ## Talents
 
@@ -41,24 +41,28 @@ Get a [Vibrant Gem](Mantra_Modifiers.md), Pluripotent Alloy and a [Stardust](Sta
 
 Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
 
--   Upon clicking the Distillery talent, you're given three empty spaces where you input your potions. You're able to switch the mode from throw to drink, and vice versa. Upon clicking on a key you'll automatically drink or throw. Some potions are unable to be slotted.
+-   Upon clicking the Distillery talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
 -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
--   When replacing the potions in the Distillery, you will not receive the potion you placed prior\` and have to remake it again.
+-   When replacing the potions in the Distillery, you will not receive the potion you placed prior and have to remake it again.
 
 ### Biotic Salts
 
 -   Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
+    -   Useful when throwing things like Heartening or Hastening Potions at allies.
 
 ### Aromatic Salts
 
 -   Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
     -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
+    -   Lasts for roughly 10 seconds
+        -   Ingredients that alter a potion's duration such as Redds and Spider Eggs do not affect the lingering clouds
 
 ### Antithetic Salts
 
 -   Alter your brews to invert their effects. Does not count towards the ingredient limit.
-    -   Inversions can work vice versa, meaning you can use Mindbreaker to Heartening, and Heartening to Mindbreaker.
-    -   The name of the potion will change, but not the color. A Mindbreaker potion turned Heartening will remain purple.
+    -   Inversions can work vice versa, meaning you can use Mindbreaking to Heartening, and Heartening to Mindbreaking.
+    -   The name of the potion will change, but not the color. A Mindbreaking potion turned Heartening will remain purple.
+        -   This seems to not be consistent across all effects. Turning a Heartening potion into a Mindbreaker will change its color.
     -   Some examples of inversions consist of;
         -   Disgusting -> Dulling
         -   Mindbreaking -> Heartening
@@ -70,8 +74,8 @@ The tower is located next to Ferrymans ritual.
 
 ## Trivia
 
--   Saltchemist is the third oath to have no mantras (after [Jetstriker](Oath%253A_Jetstriker.md) and [Silentheart](Oath%253A_Silentheart.md)). It's also 2nd oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and is currently the only Oath for which _both_ are true simultaneously.
--   With the addition of the Saltchemist oath, every core attributes now have an oath tied to it.
-    -   Originally, Contractor was the Intelligence oath, before losing its INT requirement.
+-   Saltchemist is the third oath to have no mantras (after [Jetstriker](Oath%253A_Jetstriker.md) and [Silentheart](Oath%253A_Silentheart.md)). It's also 2nd oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and is currently the only Oath which _both_ are true simultaneously.
+-   With the addition of the Saltchemist oath, every core attribute now has an oath tied to it.
+    -   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence oath, before losing its INT requirement.
 -   The idea of an Alchemist oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an oath.
--   Adrofalis, which give the oath, allude to the sound of the fights that occur with [The Ferryman](The_Ferryman.md), along with it's music, which imply The Ferryman's combat theme is diegetic.
+-   Adrofalis, who gives the oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.

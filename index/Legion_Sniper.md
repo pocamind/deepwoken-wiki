@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 83464
+revid: 89272
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -78,6 +78,7 @@ Assault
 -   If you don't know how to fight them, approach them with caution, **they insta-grip/execute you if you're low enough on health.**
 -   They will parry all of your attacks, so expect to get in a very very long parry trade with one. Once they flourish you or once you roll away from him, he’ll use his Javelin. Also beware, because he will follow you now you can’t just easily run from him.
 -   It's better to engage in parry trades than fight them at distance so they don't have the chance to spam Grand Javelin, which deals a huge amount of damage, pushes you away and will instantly grip you if you are low.
+-   If they are helping you fight against a monster be very careful as there Grand Javelin will friendly fire you regardless.
 
 ## Trivia
 

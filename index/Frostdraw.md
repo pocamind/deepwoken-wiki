@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 89265
+revid: 89271
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1034,6 +1034,8 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
 -   The chilled does not combine but stacks and only the longer chill effect works (recommend to have one or two long chill mantras)
 -   Recommended to not abuse the chill duration as there is a talent that makes your enemy get 20% more dmg from light attacks (charged return)
+-   With crystal path, fragile freeze applies a crystal on posture break. You still get frozen in cryostasis and apply a crystal with rude awakening instead of chill.
+-   anything that would apply freeze (ice daggers talent frozen pin cushion, ice beam talent preceding chill) applies an extra crystal instead if you are using crystal path, its up to you if its worth the talent slots for more crystals.
 
 ## Navigation
 

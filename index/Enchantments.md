@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 89138
+revid: 89276
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -275,7 +275,8 @@ There are two variants that enchantments come in:
   <font>Curse of the Unbidden<div></div></font></center></td>
   <td><div><p>Drains the target ether on hit. This scales with your damage and the target's Max Ether.<br>
   Critical attack is replaced with a counter. Succesful counters grants you hyperarmor along with being able to act first.<br>
-  Critical attack have a cooldown of 6 seconds, however, failing to counter something raise the cooldown to 8 seconds.</p></div></td>
+  Critical attack have a cooldown of 6 seconds, however, failing to counter something raise the cooldown to 8 seconds.<br>
+  Check Trivia for an explanation of its interaction in PvE. Please be careful in PvE as not all PvE attack can be countered as of 12/2/24</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
   When sheathed, the weapon model is completely invisible.</div></td>
 </tr>
@@ -644,6 +645,7 @@ Static flaming purple.
 -   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
 -   Astral previously required having met a [Wishmaker](Developer_Specs.md) to obtain it.
+-   Unbidden has weird PvE interaction. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
 
 ## References
 

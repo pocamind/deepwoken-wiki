@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 89209
+revid: 89292
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -217,8 +217,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 </tr>
 <tr>
   <td><b>Icky</b></td>
-  <td>Bane<br>
-  Blight</td>
+  <td>Potion<p>Bane<br>
+  Blight</p></td>
   <td>Calabash<br>
   Redd</td>
   <td>Drains Ether for 15 seconds.</td>
@@ -307,7 +307,8 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 <tr>
   <td><b>Slowing</b></td>
   <td>Blight</td>
-  <td>Beeswax<p>Gobletto Sap</p></td>
+  <td>Beeswax<p>Gobletto</p>
+  <p>Sap</p></td>
   <td>Reduces speed temporarily.</td>
   <td>Opposite effect is <b>Hastening</b>.<br>
   <s>We can see that this effect exists and cancels Hastening, though the real name is unknown (kinda) as there is no known way to brew a potion where it is the strongest effect.</s> Using the Antithetic Salts on what would have otherwise been a Hastening Salve, a Slowing Blight was created</td>

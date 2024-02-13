@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 86015
+revid: 89281
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,6 +52,7 @@ When obtained, Portals will spend its points on the following stats:
 -   The Eternal Gale's slowness effect in [Layer 2](Second_Layer.md) can be negated by using the **Portal**, but the wind **may sometimes push you off**, so be cautious when using it.
 -   If you take damage/get assassinated during portals it forces you out of the portal.
 -   This Resonance can be used to exit the boundaries of [Guild Bases](Guild_Bases.md).[\[1\]](#cite-note-1)
+-   If two people have portal bell, they can see each other while either one are in the portal (might need more testing has i just noticed it randomly with a random)
 
 ## Navigation
 
