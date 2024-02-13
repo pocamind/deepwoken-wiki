@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 89293
+revid: 89314
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -184,8 +184,8 @@ She is rather rude at times, frequently insulting those she views as weak, and i
     -   The colour of her skin is identical to that of her hair.
     -   Klaris' Hair id's are  
         `8465862459   7337593886`
--   Klaris' Eyes and Facial Marking have a slight glow within them
--   The name Klaris is derived from the french name Claris which means "Bright" or "Clear"
+-   Klaris' Eyes and Facial Marking have a slight glow within them.
+-   The name Klaris is likely derived from the French name Claris, which fittingly means "bright" or "clear."
 
 ## Footnotes
 
