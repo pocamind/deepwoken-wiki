@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 89396
+revid: 89460
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -27,7 +27,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
--   [Dawnwalker:](Oath%253A_Dawnwalker.md) +2 Combat Mantra \[No Stat Requirements\]
+-   [Dawnwalker](Oath%253A_Dawnwalker.md): +2 Combat Mantra \[No Stat Requirements\]
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): +1 Wildcard Mantra, +1 Combat Mantra \[No Stat Requirements\]
 -   [Jetstriker](Oath%253A_Jetstriker.md): +1 Wildcard Mantra, +1 Mobility Mantra, +5 HP, +2 Posture \[50 Agility\]
 -   [Linkstrider](Oath%253A_Linkstrider.md): +1 Wildcard Mantra, +2 Support Mantra \[No Stat Requirements\]
@@ -35,12 +35,13 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Saltchemist:](Oath%253A_Saltchemist.md) +1 Wildcard Mantra, +1 Support Mantra, +20 Carry Load \[75 Intelligence\]
 -   [Silentheart](Oath%253A_Silentheart.md): +10% Mantra Resistance, +10 HP, +5 Posture \[Attunement-less, 75 Weapon, 40 Strength, 40 Agility/Charisma\]
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
--   [Visionshaper:](Oath%253A_Visionshaper.md) +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
+-   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
-**There are currently 2 fully confirmed upcoming Oaths in _Deepwoken_:**
+**There are currently 5 fully confirmed upcoming Oaths in _Deepwoken_:**
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
 -   _Unnamed Hive Oath_
+-   Three other unnamed Oaths
 
 ## Lore Oaths
 

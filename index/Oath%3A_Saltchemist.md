@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89357
+revid: 89466
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-**[Oath](Oaths.md): Saltchemist** is one of the 12 obtainable Oaths in _Deepwoken._ It's a utility oath based around [alchemy](Alchemy.md) and potion brewing.
+**[Oath](Oaths.md): Saltchemist** is one of the 11 obtainable Oaths in _Deepwoken._ It's a utility oath based around [alchemy](Alchemy.md) and potion brewing.
 
 ## Obtainment
 

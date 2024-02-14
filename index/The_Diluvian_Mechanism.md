@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89329
+revid: 89461
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -22,7 +22,36 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 
 ### Trial of the Meek
 
-When attempting the option to start the Diluvian trial below power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below power 3.
+When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
+
+## Monsters
+
+-   [Deep Widow](Deep_Widow.md) (Corrupt)
+-   [Mudskipper Knight](Mudskipper.md#mudskipper-knight) (Corrupt)
+-   [Deep Owl](Deep_Owl.md) (Corrupt)
+-   [Stone Knight](Stone_Knight.md) (All variants + Corrupt)
+-   [Thresher](Thresher.md) (All variants + Corrupt)
+-   [Megalodaunt](Megalodaunt.md) (All variants + Corrupt)
+-   [Bounder](Bounder.md) (Corrupt)
+-   [Rock Golem](Rock_Golem.md) (All variants + Corrupt)
+-   [Crab](Crab.md) (Corrupt)
+-   [Terrapods](Terrapod.md) (All variants + Corrupt)
+-   [The Enforcer](Enforcer.md) (Corrupt)
+-   [Lionfish](Lionfish.md) (All variants)
+-   [Carbuncle](Carbuncle.md) (Corrupt)
+-   [Gigamed](Gigamed.md) (All variants + Corrupt)
+-   [Bone Keeper](Bone_Keeper.md) (Corrupt)
+-   [Nautilodaunt](Nautilodaunt.md) (Corrupt)
+-   [Rogue Constructs](Hive_Construct.md) (Corrupt)
+-   [Brainsucker](Brainsucker.md) (Corrupt)
+-   [Angels](Hollow_Angel.md) (All variants)
+-   [Songseeker](Enemies.md#enemies) (All variants)
+-   [Attunement Trainers](Enemies.md#bossesunique-enemies)
+-   [Ministry Necromancer](Ministry_Necromancer.md)
+-   [Ministry Enforcer](Ministry_Enforcer.md) (Strong variant)
+-   [Tideknight](Tideknight.md)
+-   [Bandit](Bandit.md) (Serves as a health pack for players at wave 49)
+-   [Kyrsgarde](Kyrsgarde.md) (All variants)
 
 ## Modifiers & Environmental Hazards
 
@@ -57,32 +86,29 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   _**Ardour, Ardour Scream;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.
 -   _**Evanspear Hand Axe;**_ Evanspear Hand Axe is one of the best PVE weapons in the game with it dealing 25 base damage + 7.8 bleed, even with 15 penetration. This can easily assist the teams, and even being a solo player in defeating mass amounts of mobs.
 -   _**Vampirism;**_ This is easily one of the best enchants for the Diluvian Mechanism, as hitting multiple monsters will heal immense amounts of health at once, which will improve your survivability within the Mechanism way higher.
-
 -   _**Enforcer's Axe/Hammer;**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for the Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
-
--   _**Gran Sudaruska;**_ Like all the other weapons mentioned, the Gran Sudaruska is also one of the best weapons once again for the Diluvian mechanism. The crit is an immediate guardbreak on MOST mobs (squibbo, etc) and has a very low req (75 frost, 30 hvy) making it a good choice.
--   _**Black Ops Zombies Training method:**_ You can keep one weakened mob alive before a wave change to allow your team to set up for the next wave. (Graceful, Warriors Respite, Damage buffs, etc)
-
-  
 
 ## Loot
 
 -   All of the Layer 1 loot pool, including deep gems, at all levels
 -   Depths Chests (1-15)
 -   Brown Chests (15-50)
--   [Stormseye](Stormseye.md) (15+)
+-   [Relics](Relics.md) \[Rain Spire, Void Spire, Smith Alloy\] (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
+-   [Relics](Relics.md) \[Sinners Ash, Idol of Yunshul, Moonseye Tome\] (40+)
+-   [Crypt Blade](Crypt_Blade.md) (20+)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (15+)
+-   [Stormseye](Stormseye.md) (15+)
 -   Guaranteed 2 Star loot (40+)
--   [Celtorian Tideknight](Celtorian_Tideknight.md) (50+)
--   ~20 [Knowledge](Knowledge.md) throughout all the waves
+-   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
 
 ## Waves
 
 Based on the power of the user(s), the starting wave will differ;
 
 -   Power 1-11; Wave 1
--   Power 12-19; Wave 6
+-   Power 12-19(?); Wave 6
 -   Power 20; Wave 11
 
 | Wave | Enemies | Tips |
@@ -175,5 +201,4 @@ Based on the power of the user(s), the starting wave will differ;
 -   The word "[Diluvian](https://www.dictionary.com/browse/diluvian)" comes from the Latin word "Diluere" which means "to wash away/pertaining to or caused by a flood or deluge". This could be a reference to how the Diluvian mechanism is used to sort of "flood" the player(s) with monsters to do battle against, or it could derive a greater meaning as the word is related to the Flooding, providing some important lore about the Depths and possibly explaining how the sinking of Celtor came to be as an event. Though this is just speculation, it is interesting to note.
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.
 -   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
--   The Diluvian Mechanism is the easiest way to get legendary weapons and enchants such as Curved Blade of Winds and Crypt Blade, as they are way more common compared to regular Depths farming.
--   The Diluvian Mechanism will always start at the lowest wave it can be based on the Power of your party, for example, if there is a Power 20 and a Power 5 entering the Diluvian Mechanism, it will start at wave 1 instead of 11.
+-   The Diluvian Mechanism is most time-efficient way to get legendary weapons and enchants such as Curved Blade of Winds and Crypt Blade, as they are way more common compared to regular Depths farming.

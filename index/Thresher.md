@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 89326
+revid: 89469
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,9 +29,9 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 | Name | Description | Gifs | Parryable? | Danger |
 | --- | --- | --- | --- | --- |
 | **Arm Swipe** | The Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. |  | ◯ | (★☆☆) |
-| **Bite** | The Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. |  | ◯ | (★☆☆) |
-| **Tail Swipe** | The Thresher brings his tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner. |  | ◯ | (★★☆) |
-| **Burrow** | The Thresher burrows underground becoming intangible. It will dig toward the player and jump out dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. |  | ✗ | (★★☆) |
+| **Bite** | The Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. |  | ◯ | (★☆☆) |
+| **Tail Swipe** | The Thresher brings its tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner. |  | ◯ | (★★☆) |
+| **Burrow** | The Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage. |  | ✗ | (★★☆) |
 
 ## Passives
 
@@ -46,7 +46,7 @@ Blind and using their amazing sense of smell to find prey, Threshers are hostile
 -   When it bites, parry the first then parry the other two using muscle memory. This isn't like the sharko swipes, meaning you'll have some time to react in between the bites.
 -   If you see it turn around, you can wait for around half a second to press block. This will usually parry it and you should be fine. If you accidentally react too quickly and miss the parry window, don't be shy to dash backwards. You'll usually have enough time to get your roll cooldown back even if it goes underground.
     -   Threshers recover more quickly from their tail swipe than their other moves. Swing one less time to ensure you can avoid the next attack.
--   When you see burrow underground to dig after you, it is going to pop up to hit you after 2 red flashes. To avoid this, right as you see the second flash you should roll. If you are standing still, rolling when you see the first flash may be more reliable.
+-   When you see burrow underground to dig after you, it is going to pop up to hit you after 2 red flashes. To avoid this, dodge right as you see the second flash. If you are standing still, rolling when you see the first flash may be more reliable.
 -   Although difficult to pull off and inconsistent, you can get to a certain range with a spear or guns where you can hit the thresher but the thresher can't hit you.
 -   If you get hit with the tail swipe attack, right click to do a backflip and get back up, this will allow you to parry it's next attack instead of laying on the ground.
 
@@ -75,9 +75,9 @@ Nightmare Threshers are a special variant of Thresher that spawn in the [Ancient
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | **Arm Swipe** | The Nightmare Thresher stands on its hind legs and swipes twice. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
-| **Bite** | The Nightmare Thresher bites 3 times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
-| **Tail Swipe** | The Nightmare Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
-| **Burrow** | The Nightmare Thresher burrows underground becoming intangible. it will dig toward the player and jump out, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. | ✗ | (★★☆) |
+| **Bite** | The Nightmare Thresher bites three times in quick succession. The 3rd hit is slightly delayed compared to the animation. Deals moderate damage and 15 posture damage. | ◯ | (★☆☆) |
+| **Tail Swipe** | The Nightmare Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. | ◯ | (★★☆) |
+| **Burrow** | The Nightmare Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage. | ✗ | (★★☆) |
 | **Cursed Flame** | The Nightmare Thresher breathes black and green flames in front of itself. Has a sound cue of the King Thresher roaring; dodge/parry when you hear this. ~Must be dodged.~ This attack is parryable, but it's hard to parry every single proc of the attack. It's recommended to just dodge if you're inexperienced with fighting this, because if you don't parry every dingle proc you'll be set on fire. Not very dangerous if you parry at least some of the procs or just dodge the attack. | ◯ | (★☆☆) |
 | **Ram** | The Nightmare Thresher bites you, before leaping backwards and jumping into the air with a sound cue. For a short period after jumping, the Nightmare Thresher will hang in the air before landing and attacking where you currently stand. Has a similar danger level as the tail swipe attack, as both will ragdoll you. Parryable if you know the timing well, but just dodge if you're inexperienced with this attack. | ◯ | (★★☆) |
 
@@ -117,7 +117,7 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 | **Arm Swipe** | The King Thresher stands on its hind legs and swipes twice. Deals moderate damage. |  | ◯ | (★☆☆) |
 | **Bite** | The King Thresher bites 3 times in quick succession. Deals moderate damage. |  | ◯ | (★☆☆) |
 | **Tail Swipe** | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner. |  | ◯ | (★★☆) |
-| **Extended Burrow** | The King Thresher burrows underground becoming intangible. It will consistently dig toward the player and jump out once it catches them, dealing moderate damage. Dodge on the 2nd red flash to avoid getting hit. Attacks following this move comes out sooner. |  | ✗ | (★★☆) |
+| **Burrow** | The King Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage. |  | ✗ | (★★☆) |
 | **Cursed Flame** | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged. |  | ✗ | (★★★) |
 | **Body Slam** | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage. |  | ✗ | (★★☆) |
 

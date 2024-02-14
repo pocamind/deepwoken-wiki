@@ -1,8 +1,9 @@
 ---
 title: Mod Skirt
-revid: 89429
+revid: 89442
 source: https://deepwoken.fandom.com/wiki/Mod_Skirt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Outfits, Items, Exclusive Outfits]
 ---
 
 # Mod Skirt
@@ -19,7 +20,7 @@ Unknown
 
 ### _Armor Stats_
 
-Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute Cutie Cute
+Unknown
 
 ## Location
 
