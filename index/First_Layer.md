@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 89334
+revid: 89422
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -12,7 +12,7 @@ notices:
 
 ## Overview
 
-The **First Layer**, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) whilst having a stained/rusty health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md) while it is enraged, being sucked in by a Whirlpool, losing their third and final skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / [Voidsea](Voidsea.md).
+The **First Layer**, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## **Points of Interest**
 
@@ -31,13 +31,9 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 
 Detailed map of the entire Depths First Layer
 
-There are three methods to escape the Depths.
+The main method to escape is by the tower, which houses the Trial in the center of the city. The Trial can be reached two ways: ringing the bells to open the bastion gate, or climbing the walls to drop into the bastion.
 
-The main way to escape is by the tower, which houses the Trial in the center of the city. Two methods can be used to reach The Trial: ringing the bells to open the bastion gate, or climbing the walls to drop into the bastion.
-
-The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method can **NOT** be used in combat: "The Idol won't respond to a panicked heart".)
-
-Note: The Map shows the diver camp being in the South. However, it was recently moved to the North.
+The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
 ## **City Bells**
 
@@ -47,7 +43,7 @@ Rough map of the City of the Drowned
 
 _Not to be confused with [Resonances](Resonance.md)._
 
-[The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. The 4 with a bell also bear the presence of Watchers who will jump from walls to rooftops. Bells exude a humming/shimmering sound effect as to ease locating them. Interacting with one will restore health and play a chime. (Note that the presence of seekers is independent as to if the bell is rung or not.)
+[The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. The 4 with a bell also bear the presence of Watchers. City bells exude a humming/shimmering sound effect as to ease locating them. Interacting with one will restore health and play a chime. Note that the presence of seekers is independent as to if the bell is rung or not.
 
 Once all bells have been rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within via the opening of the gate to The Trial.
 
@@ -57,9 +53,9 @@ File:Scuffed map Depths.png
 
 Alternatively, it's possible to climb atop one of the inner walls from tall buildings near the edge of the city. This is made much easier with movement abilities, high Agility, and stacking players/barrels, which is the most popular and effective method to date.
 
-By stacking barrels to gain height, even players with no agility can climb onto the walls. Barrels can be found in lit buildings. Many servers will already feature tall stacks of barrels at the roofs of buildings close to the city walls.
+Furthering: by stacking barrels to gain height, even players with no agility can climb onto the walls. Barrels can be found in lit buildings. Many servers will already feature tall stacks of barrels at the roofs of buildings close to the city walls.
 
-Although it most buildings will work, a specific building is popular for stacking, as it's close to the entrance and easily found. Enter through either gate, turn left, and continue until you reach the wall. Climb up the building with the domed roof. There is a high likelihood of a barrel tower. If in doubt, server hop.
+Although most buildings will work, a specific building is popular for stacking, as it's close to the entrance and easily found. Enter through either gate, turn left, and continue until you reach the wall. Climb up the building with the domed roof. There is a high likelihood of a barrel tower. If in doubt, server hop.
 
 **Disclaimer: There is no guarantee that you will will not meet hostile players.**
 
@@ -71,7 +67,7 @@ Although it most buildings will work, a specific building is popular for stackin
 
 Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power present. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
-Completing the trial the first time and escaping The Depths grants a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Escaping also cleanses the health bar.
+Completing the trial for the first time grants a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Escaping also cleanses the health bar.
 
 ### _Note:_
 
@@ -98,7 +94,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   Any monster (excluding [Mudskipper Knights](Mudskipper.md) and [Lesser Angels](Hollow_Angel.md)) can spawn **Attuned.**
 -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Corrupted.
     -   This corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
-        -   It is highly recommended to be wary of players randomly butting or tagging along in the cathedral's elevator, especially if they have set a trap for you to fight not one but two corrupted Trial monsters.
+        -   It is highly recommended to be wary of players in the cathedral's elevator.
         -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation.
             -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
         -   It is advised to know the risks of fighting a corrupted monster in the trial: there is no turning back once they spawn in. **Fight or wipe.**
@@ -119,7 +115,7 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 -   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with Vegetarian flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of blue Jellyfish is more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
 -   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
 -   _**Giantslayer**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **20 Willpower.**
--   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to base sanity stat (and the c
+-   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to the base sanity stat.
 -   **Damage Up** equipment with stat modifiers usually has a form of damage % bonus against monsters, which is useful.
 
 ### **Tips and Tricks**
@@ -221,7 +217,8 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   The [Trial of One](Trial_of_One.md) provides an effective guide to some of the monsters that permeate the depths (the sharko and thresher), increasing your survival rate once you can conquer them.
 -   If you see a group of high-level people, log. Your chances of not combat logging are better than your chances of not getting gripped in The Depths.
 -   The same goes if there many people of the same guild flooding the server. It's not worth risking your chances.
-    -   Certain guilds are known for purposefully wiping players in the depths, such as the **Nightcrawlers**. Do note this information is mercurial and may quickly become outdated. Regardless, it's advised to switch servers if you see a player from this guild.
+    -   Certain guilds are known for purposefully wiping players in the depths, such as the **Nightcrawlers**.
+        -   Do note this information is mercurial and may quickly become outdated. Regardless, it's advised to switch servers if you see a player from this guild.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked.
 -   Environmental awareness is vital to survival within The Depths. Falling into the void below will send you to [Layer 2](Second_Layer.md) with no [Light Hook](Klaris_Llfiend,_Mother_of_Lights.md) (which means you're basically dead unless you're very skilled), unless if you are below half health or are Power 1-2 - then you'll wipe. Make sure you avoid the void and knock other people in it if you are caught up in a fight.
 -   Ringing the bells (not corrupted bells) in the Drowned City will restore some HP, equivalent to that of knocking an NPC or monster around your power.

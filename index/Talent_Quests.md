@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 89184
+revid: 89420
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -55,9 +55,9 @@ At [Etris](Etris.md), there will be an NPC called Korin at a house near the [Ant
 
 ### Excavator
 
-At any blacksmith, you need to turn in 5 pure ores (E.g. Pure Irithine, Pure Erisore, Pure Umbrite, Pure Astruline) and you get the talent.
+At any blacksmith, you need to turn in 5 pure ores (E.g. Pure Irithine, Pure Erisore, Pure Umbrite, Pure Astruline) and you get the talent. This talent makes you insta-mine ores.
 
-### Emergency Repairs, and Spare Nails
+### Emergency Repairs and Spare Nails
 
 You get these talents by using the item named "Repair Hammer" on your boat a certain amount of times. You get Emergency Repairs after 10-15 Repair Hammer uses, and you get Spare Nails after 50-55 Repair Hammer uses. Emergency Repairs - Your repairs are more efficient when the ship is on low health. (+2 Carry Load). Spare Nails - You always keep a couple spare. Your repairs are more efficient. (+2 Carry Load).
 

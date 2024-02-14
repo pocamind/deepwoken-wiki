@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 89383
+revid: 89417
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,8 +34,6 @@ These are recipes that are not used to produce food or potions.
 Picture of a Crafting Bench
 
 ### _[Crafting Station](Crafting_Station.md) Recipes_
-
-Join GodWithANuke Wiki | Fandom
 
 -   **[Canteen](Canteen.md)** - _1 Beeswax, 1 Calabash_
 -   **[Glider](Gliders.md)** (Requires Glider Schematic) - _2 Sticks, 2 Cloth_
