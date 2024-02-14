@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 89310
+revid: 89378
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -89,7 +89,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>A vertical jump that sends the user into the air.</li>
     <li>Altitude travelled decreases significantly as the user loses health.</li>
     <li>Drops carried players/NPCs when used.</li>
-    <li><s>The user will take no fall damage upon using it.</s> To be tested, pretty sure the user does take fall damage upon using it.</li>
+    <li>Fall damage is taken if the user gets high enough. (tested)</li>
   </ul></li>
   </ul></td>
 </tr>

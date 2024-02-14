@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 89358
+revid: 89401
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -36,5 +36,5 @@ The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Gua
 
 -   The Helmet is a reference to [Bondrewd](https://madeinabyss.fandom.com/wiki/Bondrewd) from Made In Abyss, as it closely resembles his style, and the talent seems similar to an ability of his that gives him "Immortality."
 -   When held, the light deactivates, showing empty space rather than some sort of projector.
--   Immortality can even protect the user from moves that instantkill instead of knocking such as the [Lionfish's](Lionfish.md) cero beam
--   The only currently known attack that can bypass immortality's invincibility is the mantra prediction, which knocks as normal on proc
+-   Immortality can even protect the user from moves that instantkill instead of knocking such as the [Lionfish's](Lionfish.md) Cero.
+-   The only currently known attack that can bypass Immortality's invincibility is the Mantra Prediction, which knocks as normal on proc.

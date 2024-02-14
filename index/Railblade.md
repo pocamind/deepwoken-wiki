@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 88959
+revid: 89402
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -10,7 +10,7 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 
 | Railblade | |
 |---|---|
-| type | Heavy GreatSword |
+| type | Heavy Greatsword |
 | requirements | 80 HVY, PWR 10 |
 | damage | 22 |
 | scaling | HVY: 8.3 |
@@ -58,7 +58,6 @@ The Railblade is unique because of its two different critical attacks, along wit
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.
 -   At one point, a Railblade dropping from Chaser was as rare as a Curved Blade of Winds dropping in Layer 1, thankfully, that has been adjusted.
 -   It is drawn for the fastest swinging heavy weapon with the [Skyreap Blade](Skyreap_Blade.md), but does not have any endlag, making it slightly faster.
--   Allegedly prevents parasite accumulation when equipped (Needs confirmation)
 
 ## References
 

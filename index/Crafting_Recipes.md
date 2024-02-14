@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 84812
+revid: 89383
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,6 +34,8 @@ These are recipes that are not used to produce food or potions.
 Picture of a Crafting Bench
 
 ### _[Crafting Station](Crafting_Station.md) Recipes_
+
+Join GodWithANuke Wiki | Fandom
 
 -   **[Canteen](Canteen.md)** - _1 Beeswax, 1 Calabash_
 -   **[Glider](Gliders.md)** (Requires Glider Schematic) - _2 Sticks, 2 Cloth_
@@ -113,7 +115,7 @@ Potions are made with the use of a cauldron. One can be found in Etris, right of
 -   The name of a potion is split into two parts. The first word indicates its effect, and the second indicates potency and purpose.
 -   Adding more of one ingredient to a single ingredient potion adds to it's strength. You can add up to 3.
 -   For the purpose of noting them down, unless it goes by a different title the after name Potion is used to remove confusion. Please do not note down potions with different final names, there is no use :) (Edits by Malcolm#0572, contact me if you find any new potions or have questions, I've fixed this page up a lot)
--   The effectiveness of potions scales with your Intelligence stat, as well as being improved with 3 talents: Apothecary (stronger beneficial potions), Exterminator (stronger negative potions) and Wild Alchemy (Has a chance to double the ingredients in a potion when mixing).
+-   The effectiveness of potions scales with your Intelligence stat, as well as being improved with 3 talents: Apothecary (stronger beneficial potions), Exterminator (stronger negative potions) and Wild Alchemy (Has a chance to double the potion you’re mixing).
 
 | **Potion Name** | **Ingredients** | **Effect** | **Additional Notes** |
 | --- | --- | --- | --- |
