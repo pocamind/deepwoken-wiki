@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 89277
+revid: 89355
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Eastern Luminant]
@@ -163,6 +163,6 @@ Hive Test Tube
 -   The Soulblooms have an option to taste the flower's sap. When attempting to do so, your Character has a violent gut feeling it is not for ingestion and ultimately decides not to.
 -   The "Temple of the Forgotten Flame" portal can take you to different locations in Upper Erisia.
 -   In order to summon boats here you need max [positive reputation](Reputation.md).
--   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in the Hive, meaning they couldn't be made use of for over two years. (Side note: while true there where no bankers at hive there was one at miners landing (double bracket here: if you had the patience for that kind of thing) so yes, you _COULD_ hand them in but it wasn't really worth it given you would need to find 3 at once to make the trip worth it)
+-   Artifacts are able to spawn at Hive. However, originally, Bankers did not exist in the Hive, meaning they couldn't be made use of, without travelling to either [Fort Merit](Fort_Merit.md) or [Miner's Landing](<Miner's_Landing.md>), for over two years.
 -   In front of the Blacksmith, there is an orange pool of liquid that can be used to refill the canteen.
 -   According to [Destroyman III](Destroyman_III.md), Greathive Aratel makes the best soft shell tacos in the entire Luminant.

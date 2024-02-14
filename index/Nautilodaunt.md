@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 89180
+revid: 89347
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,7 +26,7 @@ While a Nautilodaunt is rummaging in the marketplace, it creates easily distingu
 
 There are no existing records of research done on Nautilodaunts, and their origins and life cycle are largely unknown. However, it is observed that they are highly intelligent creatures, evident by their sheer combat prowess and their exceptional ability to utilize the motor functions their anatomy would allow to the fullest extent.
 
-In addition to their impressive intelligence, it is also observed that they are capable of turning other humans into mudskippers, their preferred way of finishing off prey.
+In addition to their impressive intelligence, it is also observed that they are capable of turning humans into Mudskippers, their preferred way of finishing off prey, for the purpose of experimentation, displaying a chillingly human natural curiosity.
 
 Their skill and strength are even recognized by the [Voices of the Depths](Voices_of_the_Depths.md), using them as secret weapons against the especially powerful. They are true menaces, with the one at the marketplace even rewarding positive reputation with the Divers upon defeat.
 

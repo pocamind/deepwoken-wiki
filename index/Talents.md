@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 89316
+revid: 89340
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -985,7 +985,7 @@ _**"I'm built different" - Cannot Give Talents**_
 > _**"I always shoot first."**_
 
 -   _Armor Piercing_ \[Rare Talent\] - Your bullets now ignore 20% of an opponent's physical armor.
-    -   Prerequisites: 30 Medium/Light Weapon, Use a Gun / Rifle, And have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
+    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest.](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) (helping The Summer Company)
 
 -   Bulletproof \[Common Talent\] - You take no armor damage from guns.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D). (helping Asius)

@@ -1,9 +1,9 @@
 ---
 title: Seaweed Bundle
-revid: 89165
+revid: 89345
 source: https://deepwoken.fandom.com/wiki/Seaweed_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Ingredients]
+categories: [Ingredients]
 ---
 
 # Seaweed Bundle
@@ -24,9 +24,5 @@ Seaweed isn't used in many recipes, nor is an important benefactor to meals. It'
 
 ## Trivia
 
--   Seaweed Bundles, ever since the release of the game, could only be obtained through Fishing. However, the Proficient Baiting Talent, automatically unlocked through Fishing, reduced the chances of actually getting Seaweed Bundles, leading to heavy complaints. Eventually, Arch\_Mage added them in a shadow patch alongside a description for the [Authority Helm](Authority_Helm.md) due to a Discord user constantly pinging him since November 2023 and requesting they be added.
--   They now have an effect in brewing potions as of 2/09/2024, making Mindbreaking potions.
-    
-    File:SeaweedUse.png
-    
-    Update Patch Notes
+-   Seaweed Bundles, ever since the release of the game, could only be obtained through Fishing. However, the Proficient Baiting Talent, automatically unlocked through Fishing, reduced the chances of actually getting Seaweed Bundles, leading to heavy complaints. Eventually, Arch\_Mage added them in a shadow patch alongside a description for the [Authority Helm](Authority_Helm.md) due to Discord user bma.jonkler constantly pinging him since November 2023 and requesting they be added.
+-   If used in [Alchemy](Alchemy.md), the primary affect applied is **Mindbreaking**.

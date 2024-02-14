@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 89244
+revid: 89341
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs]
@@ -29,5 +29,5 @@ He lets you trade three [enchantments](Enchantments.md) for a random enchant on 
 
 -   His surname, Diri, is unique to him and the 7th Hive Greatlord, Zithori Vhemm Rybak Diri, as the two are related.
 -   Laplace's method of transmuting three Enchants into one Weapon enchant is by wrapping all three Enchants together in Linen and using a technique derived from one used by Zithori.
--   Laplace was moved from R&D to an area in [Lordsgrove](The_Lordsgrove.md) when he was given the ability to enchant weapons but was then moved back to R&D in the Verse 2 update.
--   You need to be power 8 to be able to turn in enchant despite needing power 10 to travel to Greathive Aratel, this is possibly due to the fact that you CAN get to the top of the Greathive via doing extremely difficult parkour to travel to the top.
+-   Laplace was moved from R&D to an area in [The Lordsgrove](The_Lordsgrove.md) when he was given the ability to enchant weapons but was then moved back to R&D in the Verse 2 update.
+-   You need to be Power 8 to be able to turn in enchants despite needing Power 10 to travel to Greathive Aratel. This is possibly due to the fact that you CAN get to the top of the Greathive via doing extremely difficult parkour to travel to the top.

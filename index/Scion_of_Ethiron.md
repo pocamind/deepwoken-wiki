@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 89291
+revid: 89371
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -38,7 +38,7 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 
 | Name | Description | Media | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- | --- |
-| Blinding Gale | The Scion of Ethiron charges up its left hand and unleashes a powerful galewind. This appears as a purple ball, similar to that of the Purple Galewind that you speak to in order to spawn the Boss. This move does no damage but will blind you for up to three seconds, which can be annoying to deal with. This move shares an animation with Pressurised Wind. | 
+| Blinding Gale | The Scion of Ethiron charges up its left hand and unleashes a powerful purple ball of galewind as a projectile, doing no damage but blinding those hit for up to three seconds. This move shares an animation with Pressurised Wind. | 
 File:Blinding Gale.gif
 
  | ◯ | ✗ | ◯ | (★☆☆) |
@@ -93,9 +93,9 @@ The Scion can also summon Ice Lancers that will guard the bone pillars. They can
 
 Try to be conservative when it comes to ether usage, as with the new Tempo mechanic your ether regeneration will heavily stagnate without hitting anything for a long period of time (which will be 95% of the boss). This is especially important if you use Beast Burrow or a mobility mantra to evade its ultimate. Only use mantras when it's absolutely necessary, especially if the build being used does not have ether to spare.
 
-After beating the boss, it's mostly running until you reach the city. White orbs will spawn behind the player at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Ice Lancer's means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Killing those Ice Lancers doesn't guarantee your death, but it isn't the preferred way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is a slower, although much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the Scion of Ethiron, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
+After beating the boss, it's mostly running until you reach the city. White orbs will spawn around the player at random times. **DO NOT** get anywhere near those orbs, since they will wipe you **instantly** upon contact. There is massive risk associated with going through the middle. The abundance of Kyrsans means it's very probable you may get stun-locked, or at the very least, heavily damaged if you do not dodge well enough. Trying to kill those Ice Lancers doesn't guarantee your death, but it isn't the preferred way since the time you have is very limited and the chance of you dying is high. If you are behind though, taking the middle path is your best bet. Taking the left path and going around is a slower, although much safer option for those that don't feel comfortable or don't have much mobility. The Light Hook should be visible by the yellow light in the sky, which is located straight from the entrance. Although it's not technically a part of the boss itself, it should be noted here due to how it could still spell your doom. Remember never to think that you already won after beating the Scion of Ethiron, since this part of the second floor is as, or even more difficult than the fight with the boss itself.
 
-It is strongly advised that if you are playing with teammates and have defeated the boss, you **STAY AWAY** from each other as you attempt to escape the city. This is because white orbs will spawn behind the player's back, and if an unfortunate teammate is behind you, the white orb will spawn behind you, catching your teammate off guard. It is also advised that you keep an eye out for who is in front of you and know where they are running in order to avoid being caught off guard by the white orbs keep in mind the white orbs will spawn behind the player back.
+It is strongly advised that if you are playing with teammates and have defeated the boss, you **STAY AWAY** from each other as you attempt to escape the city. This is because white orbs will spawn behind the player's back, and if an unfortunate teammate is behind you, the white orb will spawn behind you, catching your teammate off guard. It is also advised that you keep an eye out for who is in front of you and know where they are running in order to avoid being caught off guard by the white orbs.
 
 -   **BIG SIDE NOTE: CERTAIN MOVES THAT ALLOW YOU TO GAIN INVINCIBILITY FRAMES LIKE BURROW ARE DISABLED**
 

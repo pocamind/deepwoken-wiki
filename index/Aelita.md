@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 89111
+revid: 89356
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -55,13 +55,12 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Gold Assassin Cloak (Extremely rare)
 -   Crimson Assassin Cloak (Extremely rare)
 
-## Trivia/Notes
+## Trivia
 
 -   When Talking to Aelita, the song [Catwhisker](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) starts playing
 -   Aelita is a [Felinor](Felinor.md).
     -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when ArchMage announced that Krulians do not take [oaths](Oaths.md).
--   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.
-
+-   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
 -   During Aelita's Encounter (if you are participating in it), her own theme \["Catwhisker" [https://www.youtube.com/watch?v=i256f1fJg4E](https://www.youtube.com/watch?v=i256f1fJg4E)\] will play.
 -   Aelita is a Visionshaper, she doesn't have the oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player. (Ever since Verse Two, Aelita has a chance to teleport you to locations where islands used to exist, but is now just the middle of nowhere in Voidsea)
@@ -73,4 +72,8 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 -   Silentheart's are unable to beat her game due to a lack of Mantras.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair)
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
--   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md).
+-   Her outfit is the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but is currently pending a rework due to the misconduct of the original's creator.
+
+## References
+
+1.  [↑](#cite-ref-1)

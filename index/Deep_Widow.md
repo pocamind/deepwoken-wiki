@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 87571
+revid: 89338
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,9 @@ categories: [Monsters]
 
 # Deep Widow
 
-“ The giant enemy spider. ”
+“ \[...\] Namely, the 'four chitinous beasts' seem to indicate the presence of giant recluse spiders not unlike the so-called Deep Widow found underneath the surface of Aratel, indicating that these creatures have existed even before the tides came. ”
 
-― Jerma985
+― Tale of the Storm, an Etrean sea shanty
 
 Template:Creature Infobox V3
 

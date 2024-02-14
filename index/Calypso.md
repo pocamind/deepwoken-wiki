@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 86765
+revid: 89361
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,13 +11,11 @@ categories: [NPCs]
 | Calypso | |
 |---|---|
 | name | Calypso |
-| location | Miner's LandingNext to some crates, near the elevator |
+| location | Miner's Landing |
 
 ## Calypso
 
-Calypso is an NPC located in [Miner's Landing](<Miner's_Landing.md>).
-
-> They are a loyal member of the [Ignition Union](The_Ignition_Union.md).
+Calypso is an NPC located in [Miner's Landing](<Miner's_Landing.md>), who is a member of [The Ignition Union](The_Ignition_Union.md).
 
 ## Dialogue
 
@@ -31,10 +29,9 @@ Calypso is an NPC located in [Miner's Landing](<Miner's_Landing.md>).
             2.  **\[End Dialogue\]**
         2.  **\[End Dialogue\]**
     2.  **Is the work here stressful?** - Oh, you could say that! Lots of hands-on stuff, tinkering with machinery and such. Plenty of failures too, but that's okay! Each little bump in the road helps us get further along, haha. \*They give a weak smile. \* I just hope the other mishaps occurring will die down sooner or later. 1. **Anything interesting going on here?** - Well.. it's a little complicated. We had a test run of a new, erm, machine we've been working on, and an unfortunate company stopped by a the worst time. Since the machine wasn't really... finalized, so to speak, it may have made things much worse. Most of us here are on clean-up duty now, While security helps out the upper-level situation. **1\. \[End Dialogue\]**
-2.  **Anything interesting going on here?** - Well.. it's a little complicated. We had a test run of a new, erm, machine we've been working on, and an unfortunate company stopped by a the worst time. Since the machine wasn't really... finalized, so to speak, it may have made things much worse. Most of us here are on clean-up duty now, While security helps out the upper-level situation. **1\. \[End Dialogue)**
+2.  **Anything interesting going on here?** - Well.. it's a little complicated. We had a test run of a new, erm, machine we've been working on, and an [unfortunate company](The_Summer_Company.md) stopped by a the worst time. Since the machine wasn't really... finalized, so to speak, it may have made things much worse. Most of us here are on clean-up duty now, While security helps out the upper-level situation. **1\. \[End Dialogue)**
 3.  **\[End Dialogue\]**
 
 ## Trivia
 
--   Calypso hints at being transgender when they mention having picked their name themselves, and that it felt more like the real them.
--   Calypso talks about having issues with their family and seemingly having ran away from home, thus being adopted by the Ignition Union.
+-   Calypso's story, with them choosing a new name for themself, is likely an allegory for being transgender.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89327
+revid: 89357
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -33,7 +33,7 @@ notices:
 
 ## Progression
 
-Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume the materials. Might be a bug.
+Get a [Vibrant Gem](Mantra_Modifiers.md), [Pluripotent Alloy](Pluripotent_Alloy.md) and a [Stardust](Stardust.md) and craft them together to obtain the three Salt talents. One craft makes all three, and doesn't seem to consume [Vibrant Gem](Mantra_Modifiers.md) and [Pluripotent Alloy](Pluripotent_Alloy.md). Might be a bug.
 
 ## Talents
 

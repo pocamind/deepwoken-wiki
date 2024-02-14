@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89089
+revid: 89376
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -231,7 +231,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 ### **Deukalion Akarad, the First Black Diver.**
 
 -   Deukalion Akarad, or commonly known as Akarad, was the first Black Diver, and leader of the Black Divers appointed into an expedition to the Depths by the High Convocation into the unknown, being also the first documented expedition from the recently formed "Citadel Divers" or more known as "The Divers".
--   He is presumed to be dead along with all of his expedition team when they ventured too far into the unknown.
+-   He died along with all of his expedition team when they attempted to return to the surface and their souls were ripped out by the Boundary.
 -   Made a great inspiration to the rest of the Apprentice Divers, being able to inspire the apprentice Divers even in his death.
 -   The name of his expedition team was the "Pioneer Divers", the ones who heard the "Song of Fathoms" for the first time.
 
@@ -1048,6 +1048,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   The Old Stewards created The Old Texts.
 -   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
 -   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, decapitated one of the Elder Edenkite and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.
+-   Adrofalis, trainer of the [Saltchemist](Oath%253A_Saltchemist.md) oath, is a member of the Old Stewards.
 
 ### The Pathfinders
 
@@ -1496,7 +1497,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 ### Dawnwalker
 
 -   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the arts of the Radiant Tones by way of binding themselves to her ways, and using the powers of the Oath to defeat the encroaching darkness of the world.
--   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Krysan Medallions to Klaris.
+-   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Kyrsan Medallions to Klaris.
     -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order banish darkness from the world.
 -   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[2\]](#cite-note-arch-2)[\[12\]](#cite-note-yaya-12)
 

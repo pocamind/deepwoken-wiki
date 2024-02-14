@@ -1,6 +1,6 @@
 ---
 title: Hell Mode
-revid: 86877
+revid: 89372
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Mechanics]
@@ -24,9 +24,9 @@ A group of powerful adventurers must join forces in this hellish variant to obta
 
 ## Activation Method and Effects
 
-The Hell Mode Bell can be found within the Celtor Wastes. To activate Hell mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15. **The moment you ring the hell bell, your _Mute_ Regalia is disabled, (Note: you can still use this if you haven't rung the bell)**
+The Hell Mode Bell can be found within the [Celtor Wastes](Celtor_Wastes.md). To activate Hell mode, 5 players who are at least power 15 must ring the bell. For every player that rings the bell after the required 5, 10 more mob kills will be required. The maximum amount of rings is 15. **The moment you ring the hell bell, your _Mute_ [Regalia](Regalia.md) is disabled, (Note: you can still use this if you haven't rung the bell)**
 
-Once the conditions are met, The Depths (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
+Once the conditions are met, [The Depths](The_Depths.md) (current server) will take on a hellish red tint, and the effects of Hell Mode will be activated:
 
 -   Monster spawn rates are increased by 10x.
 -   Every mob that can normally spawn corrupted _will_ be corrupted, with the exception of King Threshers and Alpha Megalodaunts.
@@ -52,7 +52,7 @@ If the 20 minutes mark is reached before the kill requirement, the event will fo
 
 The event will end early if the original 5 players who activated the event all died.
 
-Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside. All Relics can be obtained from Hell Mode as well.
+Upon reaching 100 or more kills, a chest will spawn under the players that rung the bell. These chests contain very high tier items, including a large amount of [Deep Gems](Deep_Gems.md), endgame armor pieces and weapons with high odds of obtaining a star rating and the otherwise impossible to obtain [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment piece. These chests are restricted to the individual players who activated the event and are limited to the clientside. All [Relics](Relics.md) can be obtained from Hell Mode as well.
 
 ## Tips
 

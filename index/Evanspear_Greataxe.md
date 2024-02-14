@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 89286
+revid: 89373
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -38,6 +38,6 @@ It can be obtained from multiple sources, uncommonly from [Layer 2 (Eternal Gale
 -   The name 'Evanspear' is the same as a Lore guild during testing, 'The 'Evanspear Legion.'
 -   Deals Bleed Damage. The true damage dealt with no proficiency and 100 HVY is approximately 61.75 DMG.
 -   Ever since the verse 2 update, this weapon has been made quite easy to obtain from layer 2 chests. [Crimson Terrapods](Terrapod.md) are quite rare, and as such the Eternal Gale has made it much easier to obtain.
--   Keep in mind that while using this weapon you will not be able to experience the effects of some [talents](Talents.md) such as Speed Demon.
--   Commonly referred to as "the best PvE weapon" due to it's high damage and innate bleed but it is not true.
-    -   Note that weapons such as the [Enforcer's Axe](<Enforcer's_Axe.md>) have higher base damage and higher swing speed, and weapons such as the [Hero Blades](Hero_Blades.md) or even the [Gran Sudaruska](Gran_Sudaruska.md) can be better with good build.
+-   Keep in mind that while using this weapon you will not be able to experience the effects of some [Talents](Talents.md) such as Speed Demon.
+-   Commonly referred to as "the best PvE weapon" due to it's high damage and innate bleed.
+    -   Note that weapons such as the [Enforcer's Axe](<Enforcer's_Axe.md>) have higher base damage and higher swing speed, and weapons such as the [Hero Blades](Hero_Blades.md) or even the [Gran Sudaruska](Gran_Sudaruska.md) can be better with good builds.

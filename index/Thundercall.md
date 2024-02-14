@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 87788
+revid: 89339
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -124,7 +124,11 @@ Cooldown:
 
 Properties:
 
-Modifiers: N/A
+Modifiers:
+
+Cloud Stone
+
+Stratus Stone
 
  |
 |  | 
