@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 88349
+revid: 89496
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer, Chaser, Scion of Ethiron, (~1%), Pure Astruline/Umbrite Turn-ins, Chime of Conflict, Fishing |
+| obtainment | Second Layer, Chaser, Scion of Ethiron, The Diluvian Mechanism, (~1%), Pure Astruline/Umbrite Turn-ins, Chime of Conflict, Fishing |
 | description | "Summon a temporary storm at your location." |
 
 ## Description
@@ -27,7 +27,7 @@ The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Vo
 ## Trivia
 
 -   Rain Spire can summon different [Environmental Hazards](Environmental_Hazards.md) depending on the area.
-    -   [Upper Erisia](Upper_Erisia.md): Acid Rain
+    -   [Upper Erisia](Upper_Erisia.md): Acid Raind
     -   [Minityrsa](Minityrsa.md) & [Winter](Seasons.md): Hail
     -   [Aratel Island](Aratel_Island.md): Sandstorm
 -   Rain Spire can be useful to [Thundercall](Thundercall.md) players because of [Stratoshock](Talents.md#thundercaller), A talent that buffs your lightning damage by 10% if it's raining.
