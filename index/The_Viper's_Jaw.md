@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 87576
+revid: 89508
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -19,7 +19,9 @@ LocationL Viper's Jaw LocationR
 
 The Viper's Jaw is the general name of the [Lower Erisia](Lower_Erisia.md) cave system.
 
-It is divided into two parts. One entrance is behind the bandit village, where [Megalodaunts](Megalodaunt.md) will be generated spawn; the other entrance is on the side of the bandit village. There are many [ores](Ores.md) inside, and there is a Library plays an important role in [intelligence unbound](Attributes_Unbound.md). A Legion camp is also settled here, You can learn [Legion Kata](Legion_Kata.md) by giving Legion Captain’s Recommendation to the NPC named [Amara.](Amara.md)
+It is divided into three parts. One entrance is behind the bandit village, where two guaranteed [Megalodaunt](Megalodaunt.md) spawns are located; the other entrance is on the side of the bandit village. An opening leads to Upper Erisia's broken bridge. A library plays an important role in [intelligence unbound](Attributes_Unbound.md). A Legion camp is also settled here, which allows for the player to learn [Legion Kata](Legion_Kata.md) by giving a Legion Captain’s Recommendation to the NPC named [Amara.](Amara.md)
+
+Note that none of these areas are directly connected to each other.
 
 ## Contents
 
@@ -39,12 +41,11 @@ It is divided into two parts. One entrance is behind the bandit village, where [
 
 ## Maps
 
-A map can be found at [Maps#Surface](Maps.md#surface)
+A map can be found at [Surface Maps](Maps.md#surface).
 
 ## Trivia/Notes
 
--   The music for this area is [In Shade, Hollow](Deepwoken_OST.md) by Naktigonis
+-   The music for this area is [In Shade, Hollow](Deepwoken_OST.md) by Naktigonis.
 
 -   One of the only locations in Lower Erisia known to spawn Terrapods.
--   Shares a name with 2 other locations being, the cave near [Pathfinder's Respite](<Pathfinder's_Respite.md>) and the Sharko cave.
--   The Megalodaunts in the Sharko cave take 2 minutes and 30 seconds to respawn.
+-   The Megalodaunts in the cave take 2 minutes and 30 seconds to respawn.

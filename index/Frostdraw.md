@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 89406
+revid: 89514
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -496,7 +496,6 @@ _Skate freely on paths of ice._
   <td><center><i>A servant of ice.</i></center></td>
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
-    <li>Can be modified with Rush and Drift shards.</li>
     <li>The "<b>Glacial Ice</b>" talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
   </ul></td>
 </tr>
@@ -1038,8 +1037,10 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   anything that would apply freeze (ice daggers talent frozen pin cushion, ice beam talent preceding chill) applies an extra crystal instead if you are using crystal path, its up to you if its worth the talent slots for more crystals.
 -   Crystal shrapnel also applies a crystal to the person who got overflowed with crystals/posture broken with crystals on them so it's recommended to pick this card for more crystals.
 -   Saint jay is not as effective with crystal path as all mantras apply a 2 second duration with saint jay per crystal hit (they don't combine just like with chilled)[\[2\]](#cite-note-2)which means you have to constantly hit your opponent in order to keep the saint jay effect active (unlike normal frost which you can land one mantra with high chill to keep saint jay on for longer with less effort).
+-   Saint jay actually lasts double the duration of the chilled effect of your mantras and not the duration of the chilled effect.[\[3\]](#cite-note-3)
 
 ## Navigation
 
 1.  [↑](#cite-ref-1)
 2.  [↑](#cite-ref-2) [https://discord.com/channels/920707638034067486/1023771034828165120/1023981227461582858](https://discord.com/channels/920707638034067486/1023771034828165120/1023981227461582858)
+3.  [↑](#cite-ref-3) [https://discord.com/channels/920707638034067486/1023771034828165120/1023981314334007396](https://discord.com/channels/920707638034067486/1023771034828165120/1023981314334007396)

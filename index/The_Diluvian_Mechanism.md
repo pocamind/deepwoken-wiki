@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89461
+revid: 89512
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -23,6 +23,10 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 ### Trial of the Meek
 
 When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
+
+**Shrine of Solitude**
+
+A Shrine of Solitude, identical to the one found in trial of one lies against the wall. This can be used between waves to roll for preferred talents and mantras
 
 ## Monsters
 
