@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 86774
+revid: 89488
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1532,7 +1532,9 @@ You can choose your first name from any available, but your choices of last name
 -   The random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
 -   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth" and "Xiao" are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
-    -   Coincidentally, "Xiao" is also the name of a [popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao), with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation_.
+    -   Coincidentally, "Xiao" is also the name of a [popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao), with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
+
+-   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum" are references to the game [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/).[\[1\]](https://store.steampowered.com/app/753640/Outer_Wilds/)
 
 ## References
 

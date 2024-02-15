@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 88363
+revid: 89487
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -19,7 +19,7 @@ Chance of obtaining race: **2.1%**
 
 ## Description
 
-Tirans are an extremely rare race that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 10% less fall damage, and they spawn with an unbreakable glider.
+Tirans are an extremely rare race that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 15% less fall damage, and they spawn with an unbreakable glider.
 
 ## Racial Traits
 

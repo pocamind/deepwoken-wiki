@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 88221
+revid: 89491
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -127,3 +127,5 @@ Getting rid of "Tarnished" Flaw
  | After attaining "Chimes of Conflict", he will tell you your win to loss ratio in the PvP Arena. |
 | [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) | Unaligned | [The Depths](First_Layer.md), The Temple of Hearts | Grants four wishes | A Resonance is required to talk to the statue or you are instantly killed and wiped |
 | [Zana](Zana.md) | Unaligned | [The Isle of Vigils](Isle_of_Vigils.md), Docks | Questline for 'Poser Ring' | Challenges you with your Katana equipped in 3 different locations |
+
+morning
