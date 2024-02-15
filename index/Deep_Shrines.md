@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 89510
+revid: 89532
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -39,7 +39,7 @@ Trade a Mantra of your choice and 5 Knowledges to gain a Whisper Draw.
 
 -   Lets you get whisper draws after max level.
 -   Don't forget to use a Mystic to help you get a specific mantra of your choice.
--   **Be careful when trading your mantras. Make sure you are not removing a mantra you want.**
+-   **Be careful when trading your mantras, make sure you are not removing a mantra you actually want to keep.**
     
 
 **Shrine of Blasphemy:**
@@ -62,8 +62,10 @@ This shrine has 2 effects depending on your Power:
 
 ## Details
 
--   Bear in mind that the many card draws you will perform are based on your current stats. **You do not gain any attributes point from this**.
--   With the 3 power ups granted, you immediately gain 3 knowledge.
+-   Bare in mind that the many card draws you will perform are based on your current stats, **you do not gain any attributes point from this**.
+-   The 45 Investment Points you need to catch up will make it trouble to recover a Life while in the Overworld.
+-   With the 3 Power Ups granted, you immediatly gain 3 Knowledge.
+-   Since you gain bonus damage in PVE based on your level, you immediatly attain higher damage.
     
 
 **Shrine of Mastery:**
@@ -73,22 +75,22 @@ This shrine has 2 effects depending on your Power:
 ― Shrine of Mastery
 
   
-Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>).
+Located in the entrance cave before [Deep Widow](Deep_Widow.md) in the [Widow's Hollow](<Widow's_Hollow.md>)
 
 ## Effect
 
-For 1 Knowledge, trade 1 mastery point into another category.
+For 1 Knowledge, you can trade 1 of your Mastery Points into another Mastery.
 
 ## Detail
 
--   Bear in mind you still cannot add more than 6 Points into a given mastery.
+-   Bare in mind you still cannot add more than 6 Points into a give Mastery.
     
 
 **Shrine of Chance:**
 
 Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell).
 
-When using this shrine, **ensure you haven't burned your target card** or **already have it**. Furthermore, if you seek an advanced talent, **do not sacrifice a rare card.**
+When using this shrine, please make sure to **check if you burned the card you're trying to get**, or **if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 500 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
 ## Effect
 
@@ -96,11 +98,11 @@ Trade a Talent of your choice and 5 Knowledges to perform a Talent Draw with 3 c
 
 ## Detail
 
--   One of the most valuable Deep Shrines that let you obtain talents you might have missed.
--   The Talent Draw is affected by a Mystic.
+-   One of the most valuable Deep Shrines, this let you obtain talents you might have missed.
+-   The Talent Draw is affected by a Mystic, make sure to use them to not waste Knowledge.
 -   To get a Rare Talent, you must trade in a Rare Talent.
--   To get an Advanced Talent, you can trade a Common Talent. Don't forget its prerequisite.
--   You cannot trade away a Talent if it is a prerequiste to another Talent. You must get rid of each Talent in reverse order to trade them away.
+-   To get an Advanced Talent, you can trade a Common Talent. Don't forget it's prerequisite.
+-   You cannot trade away a Talent if it is a prerequiste to another Talent. You must get rid of each Talent in the reverse requirement order to trade them away.
     
 
 **Shrine of Order:**
@@ -121,6 +123,7 @@ You need Power 8+ and no Oath to perform this deal.
 
 -   The main purpose of the Shrine Of Order is allowing you to obtain expensive [Talents](Talents.md) or [Mantras](Mantras.md), to then take a portion of these points away to invest into other stats, allowing your builds to effectively have more points than intended.
 -   The stats that will be ordered are any of the stats that are non 0, beside racial stats, which need 3.
+-   Certain talents such as [Reinforced Armor](Talents.md), [Alloyblood](Talents.md), [All the Dead Gods](Talents.md), and [Collapsed Lung](Talents.md) become weaker the lesser the attributes are applied.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
 -   You will unequip any weapons you no longer meet the requirements for if the requirements are no longer met.
@@ -145,7 +148,7 @@ For 1 Knowledge, unburn a card of your choice.
 
 ## Details
 
--   Lets you unburn a previously-burnt card.
+-   Lets you reenable a card to be drawn if you accidentally burnt it.
 
   
 
@@ -160,7 +163,7 @@ Shrine Of Division
 ― Shrine Of Division
 
   
-Located in [The Lordsgrove](The_Lordsgrove.md) in the absurdly large tunnel system with Astruline, down the hole near the Lordsgrove entrance.
+Located in [The Lordsgrove](The_Lordsgrove.md) in the absurd large tunnel system with Astruline, down the hole near the Lordsgrove entrance.
 
 ## Effect
 
@@ -172,6 +175,7 @@ For 10 Knowledges and a Mantra of your choice, obtain a Roll 2.
 -   Lets you get 2 talents if you decide that you no longer want to use a mantra.
 -   Monster Mantras are not eligible to be divided.
 -   You cannot obtain Rare talent cards.
+-   There is a limit to the number of talents you can get in general, this Shrine is not an infinite talent generator.
 -   If you do not meet the requirements for 2 or more talents, the shrine will not let you trade.
     
 
@@ -192,7 +196,7 @@ For 5 Knowledges and 2 Talents of your choice, get a Whisper Draw.
 
 ## Details
 
--   Another method to obtain Mantras.
+-   If you are out of Mantra Draws but need more mantras and don't want to get rid of mantras you already have, you can use this shrine.
     
 
 **Shrine of Solitude:**

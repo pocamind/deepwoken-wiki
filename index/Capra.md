@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 87245
+revid: 89540
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -122,6 +122,7 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
 -   Choosing the Hallowtide Variant gives you the Mark of Jurik.
 -   Capras look similar to some depictions, which are not truly accurate, of a wendigo, which is a creature formed by committing cannibalism out of hunger.
 -   The Capras had their appearance reworked on 1/22/2023.
+-   Has the same core attributes as [Ganymede](Ganymede.md).
 
 ## References
 

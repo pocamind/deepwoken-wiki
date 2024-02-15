@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89512
+revid: 89515
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -101,7 +101,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
 -   [Relics](Relics.md) \[Sinners Ash, Idol of Yunshul, Moonseye Tome\] (40+)
--   [Crypt Blade](Crypt_Blade.md) (20+)
+-   [Crypt Blade](Crypt_Blade.md) (15+)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (15+)
 -   [Stormseye](Stormseye.md) (15+)
 -   Guaranteed 2 Star loot (40+)

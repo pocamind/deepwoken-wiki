@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 86520
+revid: 89526
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Eastern Luminant]
@@ -40,7 +40,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
     -   There are also [Mineskippers](Mudskipper.md#mineskipper) within the mineshaft.
     -   Going up the mineshaft will also lead to the Shrine of Order.
     -   Along with that, you will find some nodes of [Astruline](Ores.md#astruline).
--   A gateway that leads to the Ancient Rotlands, a [voidzone](Voidzones.md) that was once home to a Celestial.
+-   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [voidzone](Voidzones.md) that was once home to a Celestial.
 -   There are two structures:
     1.  A windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
     2.  A small hut. (2 chest spawns inside)

@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 89403
+revid: 89527
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -14,7 +14,7 @@ categories: [Resonances, Mechanics]
 
 **Resonances,** also known more commonly by the community as **Bells,** are individual unique abilities the player character can obtain through a near-death experience in _Deepwoken_, represented by your character's connection with the Song in the form of a hip-slung bell that can come in various shapes and colors. Once the **Resonance** itself is obtained, players can call forth their ability at will with the 'C' key.
 
-Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) in the Depths, a very helpful NPC that many would deem important in most progressions.
+Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful NPC that many would deem important in most progressions.
 
 You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in these few locations and will be protected by an Astral Knight. Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
 
@@ -97,7 +97,7 @@ _(From data of 100 rerolls, the calculated chance of getting a corrupted Legenda
 
 Tarnished bells have a 1 second wind-up to being casted after activation.
 
-Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, or [Misérables](Misérables.md) and choose Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, whereas going to [Misérables](Misérables.md) will remove your Tarnished status as well as reset your [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) cooldown so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md).
+Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, or [Misérables](Misérables.md) and choose Clarity. Going to [Yamaketzal](Yamaketzal.md) will simply remove your Tarnished status, without granting a wish, whereas going to [Misérables](Misérables.md) will remove your Tarnished status and grant a wish at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md).
 
 ## Obtaining
 
@@ -216,16 +216,16 @@ Once you select your card, using C will activate your **Resonance**.
 
 _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a get-out-of-jail-card in The Depths._
 
--   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from wiping being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa (tested)](Second_Layer/New_Kyrsa.md).**
+-   While many players choose to commit to "bell checking" in order to obtain their bell quickly, other players might instead choose to obtain their bell through the natural intended means of defying death. **Obtaining your Resonance through the intended means will save you from being knocked once in Layer 1/[Scyphozia](First_Layer.md) or Layer 2/[Eternal Gale](Second_Layer.md)/[New Kyrsa (tested)](Second_Layer/New_Kyrsa.md), and most likely save you from wiping.**
 
 ## Rerolling & Resonance Doors
 
 Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example in the picture below) can be found. **Resonance Doors** are greyish doors with a white sphere in their center that require a **Resonance** to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-This very specific and unique **Resonance Door** is within a cave in The Depths, and within its room resides [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). **_Talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) without a Resonance WILL WIPE YOU (Unless you're a Deepbound)_ (not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ Yun'Shul provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and makes it so you cannot make a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove Tarnished from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will cure Tarnished and furthermore allow you to reroll again.
+This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear _Tarnished_ and grant a wish.
 
--   One can visit [Yamaketzal](Yamaketzal.md) simply so that they can gain functionality of their bell.
--   Otherwise, [Misérables](Misérables.md) can help you "truly" remove the _Tarnished_ state so that you can reroll again.
+-   One can visit [Yamaketzal](Yamaketzal.md) to removes the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gainig a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow to reroll by talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+-   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md) and grant the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from Yun'Shul every 3 levels.
 
@@ -235,7 +235,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   The higher the level you are, the easier it is to obtain a **Resonance**
 -   **Resonances** come in the form of any instrument, but the Bell-form is the only one seen in game.
 -   The most popular, now debunked, method around the time _Deepwoken_ released involved staying in The Depths for **seven hours straight** whilst farming for level & luck. Although being comically wrong, it set the groundwork for people to discover the truth behind **Resonances.**
--   A number of doors other than the [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) door require a **Resonance** to open. One is at the end of the parkour in the Depths, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
+-   A number of doors other than the one at the [Temple of Hearts](Temple_of_Hearts.md) require a **Resonance** to open. One is at the end of the parkour in the Depths, one is in Saramaed Summit, and one is near a waterfall at [Aratel Island](Aratel_Island.md).
 -   It also seems like the amount of Progress needed for a **Resonance** share among all slots in an account. (If the previous slot gets a **Resonance** early then other slots will likely get it early too)
 -   If [Sibex](Sibex.md) tells you "Well look at you, my friend! You're practically beaming with the Song!" and you don't have a bell, **DO NOT try to go and bell check**, as it is most likely a bug. If this happens, rejoin until his dialogue changes.
 -   Before Resonances had Cards, the only way to know what type your **Resonance** was from a circular aura that occurred when you obtained it, being white for **Common**, purple for **Corrupted**, and yellow for **Legendary**.

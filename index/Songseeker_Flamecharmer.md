@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 86717
+revid: 89534
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -41,7 +41,7 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 -   Everchanging Aegis - Songseeker Flamecharmer take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different element.
 -   Perfect Flash - Having full health causes their mantras to do 25% extra damage
 -   Immolation - Fire spells cost 70% less while on fire. If a Songseeker Flamecharmer hit someone while on fire, apply fire damage. They take 50% less damage from self-inflicted flames.
--   Agitating Spark - If a Songseeker Flamecharmer hit an opponent that they've lit on fire, it spreads to themself and others around you.
+-   Agitating Spark - If a Songseeker Flamecharmer hit an opponent that they've lit on fire, it spreads to themselves and others around you.
 -   Controlled Combustion - Agitating Spark no longer spreads to their allies.
 -   Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at it on fire.
 -   Flaming Flourish - Set enemies on fire when the Songseeker Flamecharmer flourish or uppercut them.

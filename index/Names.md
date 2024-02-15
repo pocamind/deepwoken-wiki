@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 89507
+revid: 89533
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1514,7 +1514,7 @@ You can choose your first name from any available, but your choices of last name
 
 ## Trivia
 
--   Most names added after the release of the game are unintentionally categorized as neutral. \[Citation needed\]
+-   Most names added after the release of the game are in all three categories, despite it being meant to either be in Male, Female or Neutral, as, by default, names that can be in more than one category should be in Neutral.
 -   The name "Vergil" is a referance to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The name "Usopp" is a reference to [the _One Piece_ character of the same name](https://onepiece.fandom.com/wiki/Usopp).
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only "Usopp" was added.[\[1\]](#cite-note-1)
@@ -1524,23 +1524,20 @@ You can choose your first name from any available, but your choices of last name
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, they are both technically the same person.
 -   The name "Inari" is a reference to the _Rogue Lineage_ races _Vind_ and _Fischeran._
--   Various names including "Szeth", Kaladin", and "Adolin" are references to Brandon Sanderson's book series [_The Stormlight Archive_](https://www.brandonsanderson.com/the-stormlight-archive-series/).
--   Names such as "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
+-   Names such as "Kaladin" and "Adolin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
+-   Names such as "Sezth," "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
--   The name "Link" is a reference to - [wait, does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
--   If you don't have a valid race, you don't have a last name.
-    -   you have a valid race but with no last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
--   Random name generation occurs upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
+-   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
+-   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
+-   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
 -   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth" and "Xiao" are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
-    -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her pale skin and light blue hair.
-    -   Coincidentally, "Xiao" is also the name of a [popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao).
-
--   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", reference the game [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/).
--   Various names reference Shakespeare's works.
-    -   The names Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus are from [Hamlet](https://en.wikipedia.org/wiki/Hamlet).
-    -   The names Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from [Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet).
-    -   The names Agrippa and Demetrius are from [Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra).
--   The names Ishmael and Ahab are from Herman Melville's [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick).
+    -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
+    -   Coincidentally, "Xiao" is also the name of a [popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao), with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
+-   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum" are references to the game [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/).
+-   Various names reference the works of William Shakespeare:
+    -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from [Hamlet](https://en.wikipedia.org/wiki/Hamlet).
+    -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from [Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet).
+    -   Agrippa and Demetrius are from [Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra).
 
 ## References
 
