@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 86186
+revid: 89576
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Guns]
@@ -34,7 +34,7 @@ The Bullet will have increased damage on hit, however at a downside of the firin
 
 **Erisore:**
 
-The Bullet will apply anti-heal on hit, however at a downside of the damage being reduced.
+The Bullet will apply a 50% anti-heal on hit, however at a downside of the damage being reduced.
 
 **Irithine:**
 

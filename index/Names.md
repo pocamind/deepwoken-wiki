@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 89550
+revid: 89570
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1530,16 +1530,16 @@ You can choose your first name from any available, but your choices of last name
 -   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
--   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth" and "Xiao" are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
+-   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao" and "Zena" are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
-    -   Coincidentally, "Xiao" is also the name of a [popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao), with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
--   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum" are references to the game [Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/).
+    -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
+-   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum" are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
 -   Various names reference the works of William Shakespeare:
-    -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from [Hamlet](https://en.wikipedia.org/wiki/Hamlet).
-    -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from [Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet).
-    -   Agrippa and Demetrius are from [Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra).
--   The names Ahab and Ishmael are from Herman Melville's [Moby-Dick.](https://en.wikipedia.org/wiki/Moby-Dick)
--   The name Frieren is a reference to the manga/anime [Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren).
+    -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
+    -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
+    -   Agrippa and Demetrius are from _[Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)_.
+-   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_.
+-   The name Frieren is a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
 
 ## References
 

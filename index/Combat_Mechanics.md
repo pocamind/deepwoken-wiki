@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 88803
+revid: 89561
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -56,7 +56,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 </tr>
 <tr>
   <th>Ether Bar</th>
-  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and <a href="Mantras.md">Mantras</a> cannot be used without sufficient Ether. (Talents
+  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of magic, and <a href="Mantras.md">Mantras</a> cannot be used without sufficient Ether.
   <ul>
     <li>Different mantras use varying amounts of Ether. Adding <a href="Mantra_Modifiers.md">Mantra Modifiers</a> will increase the amount of Ether required to cast.</li>
     <li>Ether passively regenerates, and regeneration is buffed with a high Tempo.</li>
