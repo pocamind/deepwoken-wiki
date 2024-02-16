@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89376
+revid: 89618
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -879,7 +879,7 @@ A Dark Mage, located in Minityrsa.
 
 ### The Central Authority
 
--   **Territory:** _Fort Merit, Central." Luminant, Markor_
+-   **Territory:** _Fort Merit, Central Luminant, Markor_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
 -   **Alliances:** _The Divers (Business relation), The Summer Company (Business relations), The Ignition Union (Business relations)_, _The Knives of Eylis_
@@ -929,7 +929,7 @@ An Authority Captain
 -   **Enemies:** _The Kingdom of Etrea_
 -   **Lore Sources:** _Regek_
 
--   They are lead various Hivelords that act under a Greatlord.[\[12\]](#cite-note-yaya-12)
+-   They are lead by various Hivelords that act under a Greatlord.[\[12\]](#cite-note-yaya-12)
     -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[12\]](#cite-note-yaya-12)
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
@@ -997,10 +997,11 @@ An Authority Captain
 -   **Enemies:** _N/A_
 -   **Lore Sources:** [Champion's Dagger](<Champion's_Dagger.md>), [Champion's Sword](<Champion's_Sword.md>), [Legion Captain](Legion_Captain.md)
 
--   The Golden Rats are a group who show most ecstatic with glory and entertainment. They wear gold helmets and shining armor.
--   In encounters, the Golden Rat politely asks the player to only fight him to the death in a 1v1 and will gladly take the 3 hits from them. Not doing what they asked may lead to consequences.
--   Their "FOB" is located in The Rat's Den, within Burning Stone Gardens of [Erisia](Erisia.md). They can also be encountered anywhere in that island.
-    -   Funny enough, the Bouncer warns you to enter the den with caution. Given how many Golden Rats seek glory through combat, the Den is going to be a mess.
+-   The Golden Rats are a group of Warriors who find glory and entertainment from battle. They wear gold helmets and shining armor.
+-   In encounters, a [Golden Warrior](Golden_Warrior.md) politely asks the player to fight him to the death in a 1v1 and will invite the player to take the first three swings before he fights back.
+-   Their "FOB" is the [Rat's Den](<Rat's_Den.md>), found within Burning Stone Gardens of [Erisia](Erisia.md). They can also be encountered anywhere else on [Erisia](Erisia.md).
+    -   The Bouncer outside of the den warns you to enter with caution. Given how [Rat Fighters](Rat_Fighter.md) seek glory through combat, the Den is going to be a mess.
+    -   Diegetic cheering inside of the [Rat's Den](<Rat's_Den.md>) suggest there are a volume of people in there, cheering the fighting on. Though, the cheering is disembodied, since the only people in there are a few [Rat Fighters](Rat_Fighter.md).
 
 Golden Warrior Bouncer, located outside of Rat's Den.
 
@@ -1016,7 +1017,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Former subdivision of the Divers, removed after certain actions, though they still remain on good terms. Many but not all members of the Apothecary are Divers, with Dr Carrion even being a Black Diver.
 -   Their ranks consist of Bluecap Officers and regular Browncap members. Yes they are named after mushrooms.
 -   The Goal of the Apothecary is to create the Moonseye Vigor, said to be able to "transcend" people.
-    -   Dr Carrion himself drank a prototype of the Moonseye Vigor, but it lead him to madness and to have a green eyed variant of his race, the Ganymede, after it blew his head clean off.
+    -   Dr Carrion himself drank a prototype of the Moonseye Vigor, leading him into madness and giving himself green eyes.
 
 ### Songseekers
 
@@ -1034,6 +1035,8 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Territory:** _Lower Erisia, Bandit Village_
 -   **Encountered In:** _Erisia, Summer Isle, Etris, Isle of Vigils_
+-   **Attunements:** _None_
+-   **Lore Sources:** _Erisia_
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
 -   They appear to have some level of organization:
@@ -1065,18 +1068,18 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
--   Pathfinders worship Celestials, namely Alsin.
+-   Many Pathfinders worship Celestials, namely Alsin.
 
 ### **The Covenant of Flame**
 
--   **Encountered in:** _West luminant, Lance Leshi restaurant (A member), Songseeker Temple (Flamecharm trainer), the Third layer(?)._
--   **Attunments:** _Flamecharm._
+-   **Encountered in:** _West luminant, Lance Leshi restaurant (A member), Songseeker Temple (Flamecharm trainer), the Third layer(?)_
+-   **Attunments:** _Flamecharm_
 -   **Alliances:** _Amorus Pleeksty(?)_
 -   **Enemies:** _The Depths(?)_
 -   **Lore Sources:** _Ploom, Worshipper Shield, Flamecharmer Worshipper Outfit, Ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards), Mystic._
 
--   A group of Flamecharmers who follow the teachings of the Drowned Diver Amorus Pleeksty.
--   One of the few faiths from the Canticlysm that survived the Tides and its still spreading today. (Book Vows by the sea: Inheritance)
+-   A group of Flamecharmers who follow the teachings of the Black Diver and Deepwoken, Amorus Pleeksty.
+-   One of the few faiths from the Canticlysm that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
 -   Most of them reside in the West Luminant, but some of them travel to all of Lumen spreading the teachings of Amorus Pleeksty.
 -   Many members of the Covenant of Flame represent Amorus Pleeksty as a "God", but Pleeksty only sees them as a fan club.[\[1\]](#cite-note-rag-1)
 -   The relations between Pleeksty and the Covenant of Flame are unknown, but it is known that Pleeksty taught many people the concepts of Flamecharm in the Cantaclysism, making these people to spread his teachings and creating the Covenant of Flame.
@@ -1088,7 +1091,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 ### **The Circle of Honor**
 
 -   **Encountered in:** _Central Luminant(?)_
--   **Attunements:** _Unkown_
+-   **Attunements:** _Unknown_
 -   **Alliances:** _The Central Authority(?)_
 -   **Enemies:** _Contractors, The Ministry(?)_
 -   **Lore Sources:** _Ragoozer, Warden Jericho Journal, Windrunner._
@@ -1105,7 +1108,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Encountered In:** _Firfire, New Kyrsa, Kyrsan Wilds_
 -   **Attunements:** _Frostdraw_
--   **Alliances:** _Ethiron (against their will though)_
+-   **Alliances:** _Ethiron (against their will)_
 -   **Enemies:** _Ethiron(?)_
 -   **Lore Sources:** _Naerotiv, Erosius Amaltus Urivertus Alistus Casius Walistoshus, Aeroaseluniris Oricalum Forentus_
 
@@ -1129,7 +1132,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'[\[1\]](#cite-note-rag-1)
 -   Only known Deepwoken are Amorus Pleeksty and the First Prophet.[\[1\]](#cite-note-rag-1)
--   The player may well be one considering the 'Deepwoken' talent category, them being regarded as special, their accelerated aging and their survival during the Castaway origin.
+-   The player could possibly be one or become a Deepwoken in the future considering the 'Deepwoken' talent category, them being regarded as special, and their survival during the Castaway origin.
 
 ## Race Lore
 
@@ -1222,6 +1225,10 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_Keepers of old knowledge, they wander the lands offering their experience to those in need of it."_
 
 -   A race that shares traits with goats, who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
+-   Depending on a Capras racial variant, they have "marks" from 1 of 3 seemingly religious figures. These marks could be the "old knowledge" Hinted at in the Capra flavor text
+    -   **Mother, Ku:** This figure seems to be nurturing, given they have the title of Mother.
+    -   **First Beast, Nemit:** The title of "First Beast" and the effect this figure's mark gives in game suggest that Nemit is related to Nature and Survival.
+    -   **Moonseye, Jurik:** The title of Jurik suggests a connection to the Moonseye, the effect Jurik's mark gives in game suggests that the Moonseye may be a symbol of Sanity and Calm
 -   Little is known about their origins...
 
 ### Ganymede
@@ -1449,7 +1456,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   Despite having great powers of reality bending, all Visionshapers are doomed to become food for the Nestmind.
     -   Due to the fact that the Nestmind appears to be an entity that sustains itself through consuming (but not exclusively) human thought and concepts, hence only those who has a sophisticated enough mind is fit to be developed for consumption.
 -   One notorious user of the Visionshaper Oath is Aelita, due to her magenta eyes and clone abilities, also that you need to interact with her to get the Oath.
-    -   'Notorious' in the sense that she plays tricks with people who are, most likely, stranded on the harsh environments of Minitrysia, and sends them to their death whenever they don't play along. Likely resulting in many unwarranted deaths.
+    -   'Notorious' in the sense that she plays tricks with people who are, most likely, stranded on the harsh environments of Minityrsa, and sends them to their death whenever they don't play along. Likely resulting in many unwarranted deaths.
 
 ### **Oathless**
 

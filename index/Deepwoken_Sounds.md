@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 88367
+revid: 89615
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -744,6 +744,7 @@ A large collection of sounds found in **Deepwoken**.
 -   Early combat themes were intended to be percussion-only, to contrast with the melodic ambience music, though this was obviously changed.
 -   The vocals for "A Light in The Sky" are from a [Kontakt 6 opera singer library](https://www.fluffyaudio.com/shop/simple-opera-singer/), which features the voice of opera singer Ji Min Oh.
 -   In the "Blood and Thunder", a leitmotif can be heard at 2:55, Naktigonis has stated that this is a reference to Johnny I Hardly Knew Ye by The Irish Rovers, and the piece is inspiried by Celtic folk music.
+-   Revenge have it sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
 
 ## References
 

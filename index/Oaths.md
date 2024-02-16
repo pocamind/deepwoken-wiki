@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 89460
+revid: 89595
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -104,7 +104,7 @@ Proof of Time Magic's existence and it being an "Oath"
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
 -   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the Song itself.
--   Most Oaths change your character's eye color.
+-   Some Oaths change your character's eye color.
     -   Linkstrider gives the user Cyan eyes.
     -   Visionshaper gives the user Bright Magenta eyes.
     -   Jetstriker gives the user Silver eyes.

@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 89583
+revid: 89588
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -31,7 +31,6 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
 Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of Willpower. This weapon deals 19.61 damage with 65 willpower (the minimum amount of willpower the weapon requires to be used), deals 23.7 damage with 100 willpower, and 23.93 damage at 102 willpower.
 
 -   Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_
--   Can be used with a gun. _**If the gun is enchanted, the enchant will be removed while used with Light's Final Toll and will return upon unequipping the Light's Final Toll.**_
 
 The color of the lantern signifies what Critical will be used next: 1 > 2 > 2 > 3 (The 2nd Crit must be landed twice)
 

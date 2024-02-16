@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 89378
+revid: 89614
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -600,3 +600,4 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 stars respectively.
 -   "Strong Left" may have been inspired by Franky's Strong Right from one piece ([https://www.youtube.com/watch?v=wE-kYYDvGtk](https://www.youtube.com/watch?v=wE-kYYDvGtk)).
 -   Rapid Slashes is Vergil's move from Devil May Cry series.
+-   Revenge have it sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
