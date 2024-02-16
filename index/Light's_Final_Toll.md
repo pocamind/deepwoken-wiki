@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 89467
+revid: 89583
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
 |---|---|
 | type | Fist |
 | requirements | 65 WLP & Fist Style |
-| damage | 12 (27.9 at max) |
+| damage | 12 (23.93 at max) |
 | scaling | 13 (WLP) |
 | range | 7 |
 | swing speed | 0.85x |
@@ -28,7 +28,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of Willpower. This weapon deals 22.1 damage with 65 willpower (the minimum amount of willpower the weapon requires to be used), deals 27.6 damage with 100 willpower, and 27.9 damage at 102 willpower.
+Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of Willpower. This weapon deals 19.61 damage with 65 willpower (the minimum amount of willpower the weapon requires to be used), deals 23.7 damage with 100 willpower, and 23.93 damage at 102 willpower.
 
 -   Works with _[Way of Navae](Way_of_Navae.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Is not compatible with [Jus Karita](Jus_Karita.md).**_
 -   Can be used with a gun. _**If the gun is enchanted, the enchant will be removed while used with Light's Final Toll and will return upon unequipping the Light's Final Toll.**_
@@ -53,11 +53,12 @@ Light's Final Toll has 4 different Criticals. The Critical starts off with the D
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
 -   Likely one of the most common legendary weapons, outside of guaranteed drops such as the Hero Blades. That being said, don't expect to find one on every Layer 2 run
 -   One of the only two weapons (with the other being the Flareblood Kamas) that can gain scaling past 100, as with +2 WLP races, you can get to a "weapon stat" of 102.
--   With its abnormally small base damage of 12, Akira's Ring will only provide an extra 1.44 damage at 100 WLP.
+-   With its abnormally small base damage of 12, Akira's Ring will only provide an extra 1.08 damage at 100 WLP.
 -   Has misleading animations that extend the weapons visual reach way outside of its effective hotbox.
 -   As of the October 20th, 2023 weekly update LFT now has a Unique 4-Hit Critical combo.
 -   Starts off with the Default/Legion Kata Critical, then switches to a Jumping Critical when landed. Landing 2 Jumping Criticals will give you the Final Crit. (Goes in order of: 1 > 2 > 2 > 3
 -   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
 -   It is one of three known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Railblade](Railblade.md).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks.
--   Although it has a very situational passive and less damage than flamekeeper cestus (what is actually sad and should be changed) this weapon, its surprisingly good.
+-   The maximum damage that this weapon can reach with with 6 proficiency, 102 willpower, 3 star damage and akira's ring its a sad 30.68 damage
+-   Although it has a very situational passive and less damage than legion cestus (what is actually sad) this weapon, its surprisingly good.

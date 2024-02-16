@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 88501
+revid: 89584
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -26,6 +26,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At Flamecharm level 20, players will receive the _Adept Flamecharmer_ Talent. This allows players to use 1-star Flamecharm mantras.
 -   At Flamecharm level 30, players will receive the _Expert Flamecharmer_ Talent. This allows players to unlock 2-star Flamecharm mantras.
 -   Finally, at Flamecharm level 50, players will receive the _Master Flamecharmer_ Talent. This finally allows Flamecharm users to unlock the last category, 3-star Mantras.
+-   You need at least 40 willpower and 70 flame charm to unlock the azure flames talent
 
 The [Attunement](Attunements.md) can be unlocked by using a [Hearthblood potion](Attunement_Potions.md) obtained in the [Songseeker Wilds](Songseeker_Wilds.md) using five [Dying Embers](Dying_Embers.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
