@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89515
+revid: 89546
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -94,16 +94,13 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 
 ## Loot
 
--   All of the Layer 1 loot pool, including deep gems, at all levels
--   Depths Chests (1-15)
+-   All of the Layer 1 loot pool, including deep gems, [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Crypt Blade](Crypt_Blade.md) and all [Relics](Relics.md) at all levels.
+-   Depths Chests (5 & 10)
 -   Brown Chests (15-50)
--   [Relics](Relics.md) \[Rain Spire, Void Spire, Smith Alloy\] (15+)
+-   [Stormseye](Stormseye.md) (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
--   [Relics](Relics.md) \[Sinners Ash, Idol of Yunshul, Moonseye Tome\] (40+)
--   [Crypt Blade](Crypt_Blade.md) (15+)
--   [Curved Blade of Winds](Curved_Blade_of_Winds.md) (15+)
--   [Stormseye](Stormseye.md) (15+)
+-   Relic Chests (Wave 30 & 50)
 -   Guaranteed 2 Star loot (40+)
 -   [Celtorian Tideknight](Celtorian_Tideknight.md) (50)
 

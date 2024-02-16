@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 89524
+revid: 89549
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2196,7 +2196,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 -   Burning Puppets \[Common Talent, Dual Attunement\] - Your puppets can now inflict burn and fire-based talents when they explode. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast
--   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Flame Emperor Stacks.
+-   _Burning Sacrifice_ \[Rare Talent, Dual Attunement\] - Sacrifice puppets who have been alive for half of their lifetime and burn purple for Emperor Flame Stacks.
     -   Prerequisites: Wraith Path: Twisted Puppets, Emperor Flame
 -   Explosive Rage \[Common Talent, Dual Attunement\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing slightly more damage. (+4 Elemental Intensity)
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast

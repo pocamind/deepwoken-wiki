@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89466
+revid: 89557
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -12,7 +12,7 @@ notices:
 
 | Saltchemist | |
 |---|---|
-| oath_req | 75 Intelligence, Complete Ciea's quest (1 time) |
+| oath_req | 75 Intelligence, Complete Ciea's quest (1 time)thanks for correcting it to 1 time -remove when you see this |
 | effects | +1 Wildcard Mantra, +1 Support Mantra, +20 Carryload |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 89533
+revid: 89550
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1538,6 +1538,8 @@ You can choose your first name from any available, but your choices of last name
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from [Hamlet](https://en.wikipedia.org/wiki/Hamlet).
     -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from [Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet).
     -   Agrippa and Demetrius are from [Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra).
+-   The names Ahab and Ishmael are from Herman Melville's [Moby-Dick.](https://en.wikipedia.org/wiki/Moby-Dick)
+-   The name Frieren is a reference to the manga/anime [Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren).
 
 ## References
 
