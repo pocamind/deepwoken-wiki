@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 89587
+revid: 89732
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -126,11 +126,11 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Vigil Swordsmen Etreaiconfaction vs Authority Officers Authorityiconfaction ([Erisia](Erisia.md))
 -   Etrean Soldiers Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   Legion Soldiers vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   Legion Captain + Legion Soldier vs Authority Officers Authorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>), [Upper Erisia](Upper_Erisia.md))
+-   Legion Captain + Legion Soldier vs Authority Officers Authorityiconfaction ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
 -   Summer Company Guards Summericonfaction vs Bandits ([Summer Isle](Summer_Isle.md))
 -   Summer Company Guards Summericonfaction vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
 -   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
--   Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md))
+-   Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 -   Vigil Swordsmen Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Legion Captain vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))

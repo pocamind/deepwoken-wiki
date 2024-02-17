@@ -1,6 +1,6 @@
 ---
 title: The Etrean Sea
-revid: 88533
+revid: 89735
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations, World]
@@ -37,8 +37,8 @@ The Etrean Sea is the first sea that beginners will encounter. It is a very larg
 
 -   [Etreans](Etrean_Soldier.md) vs [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [Merchant Ship](Travelling_Merchant.md)
--   Bandit Tower
--   Fake Merchant Ship
+-   [Bandit Tower](Random_Encounters.md)
+-   [Fake Merchant Ship](Random_Encounters.md)
 
 ## Maps
 

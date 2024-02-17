@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89619
+revid: 89744
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -692,7 +692,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   **Territory:** _Etrea, Etris, Etris Docks, Isle of Vigils_
 -   **Encountered In:** _Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
--   **Alliances:** _Vigil of Winds (Neutral), The Contractors_
+-   **Alliances:** _Vigil of Winds (Neutral), The Ministry, Contractors_
 -   **Enemies:** _The Central Authority, The Hive_, _The Knives of Eylis_
 -   **Lore Sources:** _Etris_
 
@@ -718,7 +718,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Encountered In:** _Etrean Wilds, Summer Isle_
 -   **Attunements:** _Frostdraw_
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
--   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Contractors, The Knives of Eylis, The Central Authority_
+-   **Enemies:** _The Ministry File:Eylisiconfactoin.png, The Knives of Eylis, The Central Authority_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch Mage (Discord)_
 -   A nomadic tribe of primarily [Gremors](Gremor.md), though a couple of other races also exist in their tribe, they primarily worship Navae, the protector of Ice and Shadow.
     -   Navae is personified female. Navae herself is not a star or direction; but rather what the Gremor Compasses point towards.[\[2\]](#cite-note-arch-2)
@@ -800,7 +800,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Territory:** _Minityrsa_
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_
 -   **Attunements:** _[Shadowcast](Shadowcast.md)_
--   **Alliances:** _[The Contractors](Oaths.md) (Neutral)_
+-   **Alliances:** _Etrea (Neutral)_
 -   **Enemies:** _[Ignition Union](The_Ignition_Union.md), The Children Of Navae, [The Summer Company](The_Summer_Company.md), The Central Authority._
 -   **Lore Sources:**
 
@@ -823,21 +823,6 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   There is a high chance that they are **part** responsible for the events in the second layer, specially the first floor due to Chaser being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
 
 A Dark Mage, located in Minityrsa.
-
-### The Contractors
-
--   **Territory:** _Unknown_
--   **Encountered In:** _Etris_
--   **Attunements:** _Unknown_
--   **Alliances:** _The Ministry (Neutral) File:Eylisiconfactoin.png_
--   **Enemies:** _The Central Authority, The Warmasters, The Divers._
--   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, Ragoozer (Discord)_
-
--   The Contractors are a group of individuals that have taken an Oath, attaching puppet strings to their souls that tie them to Zi'eer.
--   They act as freelance Ministry Operatives.
--   The Lord Regent of Etrea, Zi'eer, himself is a Contractor.
--   Prior to Year 1271 they were considered extinct.
--   During Year 1363, Zi'eer began to rebuild them, recruiting them from Pathfinders who proved their worth.
 
 ### The Knives of Eylis
 
@@ -987,6 +972,21 @@ An Authority Captain
 -   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
     -   The Stream could also be the gate system everybody uses, as you do see a large rock with multiple weapon-wielding statues, and the stream is mentioned to be a travel tool.
+
+### Contractors
+
+-   **Territory:** _Unknown_
+-   **Encountered In:** _Etris_
+-   **Attunements:** _Unknown_
+-   **Alliances:** _The Ministry File:Eylisiconfactoin.png_
+-   **Enemies:** _The Central Authority, The Warmasters, The Divers._
+-   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, Ragoozer (Discord)_
+
+-   Contractors are a group of individuals that have taken an Oath, attaching puppet strings to their souls that tie them to Zi'eer.
+-   They act as freelance Ministry Operatives.
+-   The Lord Regent of Etrea, Zi'eer, himself is a Contractor.
+-   Prior to Year 1271 they were considered extinct.
+-   During Year 1363, Zi'eer began to rebuild them, recruiting them from Pathfinders who proved their worth.
 
 ### The Golden Rats
 
@@ -1540,7 +1540,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   People who have sworn an Oath to the "Circle of Honor". Due to limited information, the terms of the Oath are unknown, though it is likely that the oath is sworn under the pretense of protecting Lumen against the odds.
 -   Most Warmasters are members of the Central Authority, for example Warden Jericho being a Warden of the Authority and a Warmaster.[\[1\]](#cite-note-rag-1)
 -   Their powers are known to have "Floating blades", being very similar to the ones that the Sand Knights /Storm Knights wield.
--   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying to save Lumen from a second drowning, while the Contractors seek to being forth another great drowning.
+-   As stated by the Windrunner, Warmasters and Contractors are Oaths that are against each other, most likely due to the Warmasters trying to save Lumen from a second drowning, while Contractors seek to being forth another great drowning.
 
 ### **Deepwoken**
 

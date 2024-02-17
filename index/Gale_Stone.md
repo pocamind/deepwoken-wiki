@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 89457
+revid: 89741
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -27,3 +27,4 @@ A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.
 ## Tips
 
 -   Killing [Legion Soldiers](Legion_Soldier.md) and [Etrean Soldier](Etrean_Soldier.md) do drop gale stones during in Erisia ambush event you will not lose reputation, also the Etrean guards at Etris will not drop galestones.
+-   Killing [Mudskipper](Mudskipper.md) also have chance to drop galestones but rarely drop.

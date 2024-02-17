@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 83947
+revid: 89737
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 An Etrean Soldier is an enemy NPC that can only be found in the following events:
 
--   Etrean Soldiers vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md))
+-   Etrean Soldiers vs Knives of Eylis Pirates ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 -   Etrean Soldiers vs Authority Footsoldiers ([Upper Erisia](Upper_Erisia.md))
 -   Invasion of Etris ([Etris](Etris.md))
 -   Etrean Soldiers vs Hive Scouts ([Starswept Valley](The_Starswept_Valley.md))
@@ -61,3 +61,4 @@ An Etrean Soldier executes it's opponent after knocking them:
 
 -   They appear to act as naval officers, as they spawn on ships and are found in areas that are easier to reach via boat.
 -   Almost all the times they will lose against a Authority Footsoldiers.
+-   For some unknown reason killing them will not give bad [Etrea](Etrea.md) reputation.
