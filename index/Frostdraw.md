@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 89709
+revid: 89711
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1030,11 +1030,16 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
--   Chill can stack, though the effects do not.
--   Recommended not to abuse the Chill duration as there is a talent (Charged Return) that makes your enemy get 20% more dmg from light attacks
--   Freezing enemies with Glass Path: Crystallization instantly detonates any stacked crystals.
--   Saint Jay and Frostbite are less effective with Glass Path: Crystallization, only proccing the talents for 2 seconds.
+-   The chilled does not combine but stacks and only the longer chill effect works (recommend to have one or two long chill mantras)
+-   Recommended to not abuse the chill duration as there is a talent that makes your enemy get 20% more dmg from light attacks (charged return)
+-   With crystal path, fragile freeze applies a crystal on posture break. You still get frozen in cryostasis and apply a crystal with rude awakening instead of chill.
+-   anything that would apply freeze (ice daggers talent frozen pin cushion, ice beam talent preceding chill) applies an extra crystal instead if you are using crystal path, its up to you if its worth the talent slots for more crystals.
+-   Crystal shrapnel also applies a crystal to the person who got overflowed with crystals/posture broken with crystals on them so it's recommended to pick this card for more crystals.
+-   Saint jay is not as effective with crystal path as all mantras apply a 2 second duration with saint jay per crystal hit (they don't combine just like with chilled)[\[2\]](#cite-note-2)which means you have to constantly hit your opponent in order to keep the saint jay effect active (unlike normal frost which you can land one mantra with high chill to keep saint jay on for longer with less effort).
+-   Saint jay actually lasts double the duration of the chilled effect of your mantras and not the duration of the chilled effect.[\[3\]](#cite-note-3)
 
 ## Navigation
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [https://discord.com/channels/920707638034067486/1023771034828165120/1023981227461582858](https://discord.com/channels/920707638034067486/1023771034828165120/1023981227461582858)
+3.  [↑](#cite-ref-3) [https://discord.com/channels/920707638034067486/1023771034828165120/1023981314334007396](https://discord.com/channels/920707638034067486/1023771034828165120/1023981314334007396)

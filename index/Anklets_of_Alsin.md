@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 89328
+revid: 89721
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -25,7 +25,7 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Primadon, The Depths, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Other sources:, Direct drop from Dread Serpent |
+| obtainment | Chests from:, Duke Erisia, Chaser, Fishing, Deep Widow, Primadon, The Depths, Hive, Fort Merit Hostage Quest, Voidwalker Bounty Chest, Other sources:, Direct drop from Dread Serpent |
 | description | [REQUIRES A KICK STYLE] |
 
 ## Description

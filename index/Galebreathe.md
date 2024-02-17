@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 89649
+revid: 89725
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -320,9 +320,9 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
  | 70 Ether | Raise your left leg and stomp the ground, conjuring up a huge volley of wind.
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
--   Deals _possibly moderate-heavy_ damage.
+-   Requires 20 Strength
 -   Gives hyperarmor when casting
--   Requires 20 Strength.
+-   Deals _possibly moderate-heavy_
 -   Can be modified with _Perfect Lenses_ and _Crystal Lenses_.
 -   Applies Ragdoll
 -   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to make it reach further.
@@ -488,26 +488,6 @@ Your Gale Punch pulls enemies in before you hit them.
  | 
 
 N/A
-
- |
-
-**Cloudwalker:**
-
-These talents are found in the _Cloudwalker_ category.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | 
-Gale Leap  
-(GALE 25)
-
- | 
-
-Jumping while sliding down a slope or off a cliff launches you forward.
-
- | 
-
-+1 Elemental Intensity
 
  |
 

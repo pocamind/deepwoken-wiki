@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 89614
+revid: 89712
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -332,6 +332,7 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
 
 -   **Requirements:** _**40 Willpower,**_ _Combat Mantra_
     -   The user empties their posture damage, and transfers it to their opponent.
+    -   The posture transfer cannot guardbreak.
     -   Exhaustion Strikes scales with your Willpower attribute.
     -   Incredibly quick windup
 
@@ -594,7 +595,7 @@ In short: Every 20 points in a specific attribute will unlock the next level for
 -   Prediction has, by far, the most talent card upgrades out of all the attunement-less mantras.
 -   A small sample of Reinforce's sound effect is taken from the anime "[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense](https://en.wikipedia.org/wiki/Bofuri)", specifically [S1E6](https://www.youtube.com/watch?v=Lbh9J8i9vBs&list=PLwLSw1_eDZl0fxMZfFjcKLnL0Hj6cw3Op&index=6) at the 6:20 mark on Youtube.
 -   Summoning Cauldron used to be one of the most powerful mantras out there, being able to proc bulldozer for free if you movestacked it with flourish.
--   Exhaustion Strike can guard-break some NPCs that do not block/parry by inflicting them with your posture (even a little amount), an example is [Ferryman](The_Ferryman.md).
+-   As of the 17/02/2024 Update, **Exhaustion Strike**, can no longer guardbreak monsters or players by transferring posture.
 -   You can obtain other Weapon Mantras long as you have 30 investment points in them.
     -   This used to be 8
 -   Rapid Punches and Ceaseless Slashes are the only Attunement-less mantras to be starred, being 1 and 3 stars respectively.

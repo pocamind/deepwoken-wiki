@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 88719
+revid: 89717
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -51,7 +51,6 @@ As for its appearance, **nothing** is added to your outfit making it impossible 
 
 -   Commonly agreed to be a subpar oath compared to the other non-stat locked oaths. ([Linkstrider](Oath%253A_Linkstrider.md)/[Dawnwalker](Oath%253A_Dawnwalker.md)/[Contractor](Oath%253A_Contractor.md)/[Fadetrimmer](Oath%253A_Fadetrimmer.md))
     -   However, being the only oath that grants +2 Wildcard mantra slot (others only giving 1 or none) makes this oath very flexible and can complement any build nicely. The Oath Mantra resistance and +10 HP comes in handy too.
--   This Oath is the only one that can be removed. You can do so by making a deal with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). Completing a deal will use up a Wish.
 -   Doesn't give the Oathsworn [badge](Badges.md), if that's a concern.
 -   Despite having no stat requirement, you still cannot use Shrine of Order with it.
 -   Used to be obtainable through getting it in a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first Oath.
