@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89558
+revid: 89627
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -17,19 +17,19 @@ notices:
 
 ## Description
 
-**[Oath](Oaths.md): Saltchemist** is one of the 11 obtainable Oaths in _Deepwoken._ It's a utility oath based around [alchemy](Alchemy.md) and potion brewing.
+**[Oath](Oaths.md): Saltchemist** is one of the 11 obtainable Oaths in _Deepwoken._ It's a utility Oath based around [Alchemy](Alchemy.md).
 
 ## Obtainment
 
-1.  Make at least one potion for [Ciea](Ciea.md) (Three potions and harvester aren't required). You do not need to learn the location of Adrofalis before undertaking the oath.
+1.  Make at least one potion for [Ciea](Ciea.md) (Three potions and harvester aren't required). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
 2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound.
 3.  In [Ferryman's Library](<Boatman's_Watch.md>), Adrofalis will ask you to make a residue. Bring him the following ingredients:
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to Derelict Highchurch and use a canteen in the blood pool of the crucified Celestial.
-    -   [Stardust](Stardust.md) from a Star Tree. It must be a Stardust from [Starfield Veldt](Starfield_Veldt.md) or [Starfield Grove](Starfield_Grove.md). Consider getting a second one, which is needed to progress the oath.
+    -   [Stardust](Stardust.md) from a Star Tree. It must be a Stardust from [Starfield Veldt](Starfield_Veldt.md) or [Starfield Grove](Starfield_Grove.md). Consider getting a second one, which is needed to progress the Oath.
     -   A [Primordial Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md).
 4.  Gather those ingredients and return to Adrofalis, who will grant you the Oath.
 
--   Upon obtaining the oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted and the string can be dyed.
+-   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.
 
 ## Progression
 
@@ -74,8 +74,7 @@ The tower is located next to Ferrymans ritual.
 
 ## Trivia
 
--   Saltchemist is the third oath to have no mantras (after [Jetstriker](Oath%253A_Jetstriker.md) and [Silentheart](Oath%253A_Silentheart.md)). It's also 2nd oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and is currently the only Oath which _both_ are true simultaneously.
--   With the addition of the Saltchemist oath, every core attribute now has an oath tied to it.
-    -   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence oath, before losing its INT requirement.
--   The idea of an Alchemist oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an oath.
--   Adrofalis, who gives the oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.
+-   Saltchemist is the third Oath to have no Mantras (after [Jetstriker](Oath%253A_Jetstriker.md) and [Silentheart](Oath%253A_Silentheart.md)). It's also secnd Oath that uses tools (after [Fadetrimmer](Oath%253A_Fadetrimmer.md)) and is currently the only Oath for which _both_ are true simultaneously.
+-   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence Oath, before losing its INT requirement.
+-   The idea of an Alchemist Oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an Oath.
+-   Adrofalis, who gives the Oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.

@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 88757
+revid: 89624
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras, Items]
@@ -488,8 +488,6 @@ Reversal Spark
 -   Fire Blade
 -   Lightning Impact
 -   Air Force
--   Adrenaline Surge
--   Dash
 -   Disguise
 -   Burning Servants
 -   Frozen Servants

@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 87867
+revid: 89630
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -34,6 +34,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   All players start with a wish (and can **only hold 1 at a time.**) A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
     -   Deepwoken updates formerly reset the cooldown every now and then. However, there hasn't been a wish reset since 2022, and the implementation of [Misérables](Misérables.md) rendered it unnecessary.
+        -   A new wish reset has been granted as of 02/16/2023, alongside the wish of being able to break an oath.
 
   
 If you meet all the criteria, you are able to make one of five wishes:

@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 87821
+revid: 89622
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -18,7 +18,7 @@ These status effects can be beneficial to the player.
 
 ### Resting
 
-This effect causes the player to regain lost health and blood much faster, but loses hunger and thirst much faster. This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md), or the Stove.
+This effect causes the player to regain lost health and blood much faster, but lose hunger and thirst much faster (for blood regain). This effect is only caused when the player rests at a [Campfire](Campfire_Pit.md), [Graceful Flame](Flamecharm.md), or the Stove.
 
 ### Bloodlusted
 
@@ -26,7 +26,7 @@ A speed boost triggered by executing someone while you have [Time to Go](Talents
 
 ### Reinforced
 
-Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow particles surrounding the body.
+Applied after being hit by the mantra [Reinforce.](Attunement-less.md) Do 5% more damage and get 5% defense. If you Reinforce others, gain 10% damage and defense increase. Signified by pale yellow/lime green particles surrounding the body.
 
 ### Lord's Tithe
 
@@ -46,7 +46,7 @@ Restore your health to maximum and get up if you are unconscious. Applied by the
 
 ### Run
 
-Gain a speed boost, and a unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of lines surrounding your character.
+Gain a speed boost, and an unstoppable urge to run. You're unable to stop running until the effect wears off. Applied by the [Vow of Mastery Command: Run](Vow_of_Mastery.md). Signified by a white aura of line trails surrounding your character.
 
 ### Rallied
 
@@ -98,11 +98,11 @@ This effect can be applied by being hit with Galebreathe mantras or Galeforced m
 
 ### Suffocated
 
-Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users head.
+Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any other Galebreathe mantra if the user has World Without Song. Unable to cast mantras for a duration while also taking very minor damage. If the user has the talent Stifled Jump, you are also not able to jump while being suffocated. Signified by 4 crosses rotating around the users neck.
 
 ### Chilled
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cero.
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cerobeam.
 
 ### Frozen
 

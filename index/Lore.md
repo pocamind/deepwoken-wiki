@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89618
+revid: 89619
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1306,7 +1306,7 @@ _"The stars call you back..."_
 
 ### Primal Vesperians
 
--   Primal Vesperians do not play a significant role in the lore, thought they did exist, and have some brief lore behind them. Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
+-   Primal Vesperians do not play a significant role in the lore, though they did exist, and have some brief lore behind them. Primal Vesperians were a small group of deviant [Vesperians](Vesperian.md) who went on to further their more animalistic traits in their newly formed group known as the Primal Vesperians, they eventually died off as a group leaving one sole surviving member, this being Stag Acrossus.
 -   "Ancient Vesperians lost to time."
 
 ## Attunement Lore

@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 88141
+revid: 89625
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Cut Content]
@@ -94,7 +94,7 @@ Radiant Dawn
 
 ## Finisher
 
-A Black Diver executes it's opponent after knocking them:
+A Black Diver executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -108,4 +108,4 @@ A Black Diver executes it's opponent after knocking them:
 -   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on the **1/16/2023** due to their presence contradicting the established low number and high power level of actual Black Divers.
     -   They then went unused until the **5/15/2023** update, which brought faction ambushes, which reintroduced them as part of high level ambush.
 -   They use the Magnet Spark variant of Jolts Grab.
--   They are one of the few NPCs that use oaths, with the said NPCs being the [Ignition union arcwarder](Ignition_Union_Arcwarder.md), [Subtle knife of eylis](Subtle_Knife_of_Eylis.md) / [Old knife of eylis](Old_Knife_of_Eylis.md), [Starkindred angels](Iblis,_The_Fallen_Angel.md) and [Ministry enforcer](Ministry_Enforcer.md).
+-   They are one of the few NPCs that use Oaths, with the said NPCs being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
