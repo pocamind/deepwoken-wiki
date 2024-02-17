@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 87476
+revid: 89649
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -204,6 +204,16 @@ Wind Forge
 -   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to increase the range.
 
  |
+| 
+
+File:ZW4g IWWJys41-Q4KfelLg-ezgif.com-crop.gif
+
+ | 
+
+Twister Kicks  
+(★☆☆)
+
+ | "Go forth with spinning kicks infused with the wind" | 40 Ether | Dash forwards kicking with a rush of winds dealing damage. |
 |  | 
 
 Champion's Whirlthrow  

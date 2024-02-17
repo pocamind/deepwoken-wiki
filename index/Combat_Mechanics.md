@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 89561
+revid: 89642
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -139,7 +139,12 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 <tbody>
 <tr>
   <th rowspan="2">Item Type</th>
-  <td colspan="9">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)<p>During the 2/9/24 update, the Inventory UI received a category revamp. It brought along 10 different categories, combining old item categories tmaking a clean separate line for each category, and listing the number amount of items in each category on the right side.</p></td>
+  <td colspan="9">All items in you see in your UI whether in the inventory or in your hotbar have a color based off of what type of item they are. These categories take different priority in the sorting of your inventory so misc items like books will be seen at the bottom of your inventory while training items and utility like flint are seen at the top. Items also have a frame on them with the color defining its rarity or otherwise worth. Grey for common, yellow for uncommon, red for rare and cyan for legendary. Purple frames are seen on potions and enchants. Grey is always seen on elemental weapons like Crypt Blades. (These item frames aren't always correlated to the items drop-rate hence why some "Legendary" items may appear to drop commonly when you do the math)
+  <ul>
+    <li>During the 2/9/24 update, the Inventory UI received a category revamp. It brought along 9 different categories, combining old item categories making a clean separate line for each category, and listing the number amount of items in each category on the right side.</li>
+    <li>During the 2/16/24 update, the Inventory UI received a further addition of 3D model icons. This can be changed in the settings and can be disabled or extended to only show if the item is hovered over. It also added collapsable categories with a down arrow next to the category amount, which collapses the category upon being clicked. And the addition of the 10th category; Relics.</li>
+  </ul></td>
+  <td><figure><figcaption></figcaption></figure><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
   <td><u>Abilities</u><p>1st place in the inventory. Consist of activatable talents like; Chime of Dwelling, Guild Officer, and Call of the Deep. Also consists of active mantras, ones that aren't recalled.</p>
@@ -152,14 +157,14 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
   <td><u>Weapons</u><p>5th place in the inventory. Consist of equippable weapons and off-hand items if you meet the req.</p>
   <p>Weight: 2</p></td>
   <td><u>Schematics</u><p>6th place in the inventory. Consist of blueprints you can turn in at blacksmiths to craft them. The glider blueprint has no weight.</p>
-  <p></p>
   <p>Weight: 1</p></td>
   <td><u>Quest Items</u><p>7th place in the inventory. Consist of items that train your characters attributes.</p>
   <p>Weight: None</p></td>
   <td><u>Consumables</u><p>8th place in the inventory. Consists of foods and potions.</p>
-  <p></p>
   <p>Weight: Varies</p></td>
-  <td><u>Materials</u><p>9th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy. Also consists of Mantra modifiers, ingredients that are used to further enhance mantras, such as increasing their size or range.</p>
+  <td><u>Relics</u><p>9th place in the Inventory. Consists of Mythical Items that can rewrite fate, such as alloys that can enhance items, to books, parchment and idols that can change your resonance and knowledge.</p>
+  <p>Weight: None</p></td>
+  <td><u>Materials</u><p>10th place in the inventory. Consist of materials from foraging or chests that are used for crafting and or alchemy. Also consists of Mantra modifiers, ingredients that are used to further enhance mantras, such as increasing their size or range.</p>
   <p>Weight: Varies</p></td>
 </tr>
 <tr>

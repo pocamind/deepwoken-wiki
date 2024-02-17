@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 89595
+revid: 89694
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -18,7 +18,7 @@ notices:
 
 _**"Oaths"** are viewpoints and beliefs that a character vows to live by until the day they fall._ They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, just like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements.
 
--   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in the [Fragments of Self](Fragments_of_Self.md).**
+-   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in the [Fragments of Self](Fragments_of_Self.md) or become an Oathbreaker by wishing it upon [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).**
 
 Every character begins as just a Pathfinder, having yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
@@ -42,6 +42,39 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
 -   _Unnamed Hive Oath_
 -   Three other unnamed Oaths
+
+## **Oathbreaker - Oath Removal**
+
+It is possible to remove your oath. In order to do so, you must talk to Yun'Shul and use a wish. Upon requesting it, you'll be given a disclaimer prompting that the changes you made "could potentially close off your former Oath to you forever."
+
+Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
+
+-   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
+    -   You lose some reputation with The Ignition Union.
+    -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
+-   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
+-   [Contractor](Oath%253A_Contractor.md): Zi'eer - "Don't bother showing your face again. I had little faith in you to begin with"
+    -   You instantly become maximum negative rep with Etrea and The Ministry.
+-   [Dawnwalker](Oath%253A_Dawnwalker.md): Klaris - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
+    -   You instantly become maximum negative rep with The Divers.
+    -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man"
+-   [Jetstriker](Oath%253A_Jetstriker.md): Alirian - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
+    -   Talking to Alirian will prompt the following conversation:
+        -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." **Please forgive me.**
+        -   "Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?" **I'll follow your oath, my dear rival.**
+            -   You'll regain Jetstriker
+        -   "This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing.
+-   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
+-   [Oathless](Oath%253A_Oathless.md): Cerulean - "The way opens more to you, my disciple. Safe travels."
+    -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? **I'd like to become Oathless once more**
+        -   You'll regain Oathless
+-   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
+-   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
+    -   The Attunement Trainers will respawn afterwards.
+-   [Starkindred](Oath%253A_Starkindred.md): Samael - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
+    -   Talking to Sameal again, he'll say to you "Insolent worm. Leave." and let you regain Starkindred.
+-   [Visionshaper](Oath%253A_Visionshaper.md): The Nestmind - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
 
 ## Lore Oaths
 
@@ -92,7 +125,6 @@ Proof of Time Magic's existence and it being an "Oath"
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true, Pathfinder is merely treated as being without an Oath for gameplay purposes as _Oathless_ cannot be used as a term given it is an actual Oath, and "person without an Oath" would be too long to fit onto a Wanted Poster. The term Pathfinder just refers to adventurers, someone who finds literal paths in the wilderness. Unless you were to instantly stop playing the game or never leave the nearest city ever again upon obtaining your Oath, you're still a Pathfinder after having obtained one.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
 -   You can't Shrine of Order with an Oath, the only exception being Oathless.
--   Currently, the only Oath you can remove is Oathless by talking to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), who can be located in the [Temple of Hearts](Temple_of_Hearts.md).
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
 -   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
 -   Unequipping your facial accessory while having Blindseer will automatically give you a cosmetic-only version of the normal Blindfold, which is pale in color.

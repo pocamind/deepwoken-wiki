@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 88100
+revid: 89701
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -282,10 +282,10 @@ _noun_
 
 noun
 
-1.  Refers to a player, NPC or monster that is weak and only serves to replenish health, via the [Carnivore](Talents.md) talent, when killed.
+1.  Refers to a player, NPC or Monster that is weak and only serves to replenish health when killed.
 2.  Examples depends on the context.
-    1.  If it's in the [First Layer](First_Layer.md) of the depths, it refers to the [Gigamed](Gigamed.md) (Small version)
-    2.  If it's during the [Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
+    1.  If it's in the [First Layer](First_Layer.md) of the Depths, it refers to the [Gigamed](Gigamed.md) (Small version)
+    2.  If it's during the [Scion of Ethiron](Scion_of_Ethiron.md) fight, it refers to the [Kyrsgarde](Kyrsgarde.md) that spawns.
 
 ## Acronyms/Short Forms
 
@@ -308,7 +308,7 @@ _noun_
 _noun_
 
 1.  Medium weapons [attribute](Attributes.md#medium-weapons) (skill).
-    1.  Ex. The Shattered Katana requires 100 MED to wield.
+    1.  Ex. The Shattered Katana requires 90 MED to wield.
 
 ### **AGL**
 

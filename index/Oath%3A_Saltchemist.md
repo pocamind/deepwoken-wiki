@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 89627
+revid: 89706
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-**[Oath](Oaths.md): Saltchemist** is one of the 11 obtainable Oaths in _Deepwoken._ It's a utility Oath based around [Alchemy](Alchemy.md).
+**[Oath](Oaths.md): Saltchemist** is one of the 12 obtainable Oaths in _Deepwoken._ It's a utility Oath based around [Alchemy](Alchemy.md). It is the _only_ Oath that requires intelligence.
 
 ## Obtainment
 
@@ -43,11 +43,13 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 
 -   Upon clicking the Distillery talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
 -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
+-   Autodrinking potions will place the other autodrink slots on cooldown (if you have any), this doesn't apply to autothrow.
 -   When replacing the potions in the Distillery, you will not receive the potion you placed prior and have to remake it again.
 
 ### Biotic Salts
 
 -   Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
+    -   Halves negative effects for allies, and positive effects for enemies.
     -   Useful when throwing things like Heartening or Hastening Potions at allies.
 
 ### Aromatic Salts
@@ -78,3 +80,5 @@ The tower is located next to Ferrymans ritual.
 -   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence Oath, before losing its INT requirement.
 -   The idea of an Alchemist Oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an Oath.
 -   Adrofalis, who gives the Oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.
+-   The Oath's appearance may be a reference to The Claw from Library of Ruina, a similarly-enhanced entity using concoctions and injections to its advantage.
+    -   While it is slightly possible, the devs have stated to never have played any Project Moon games before, making this a very slim possibility. The vials also do not resemble the arm of a Claw very well, and more closely resemble something like Scarecrow from the Arkham series.

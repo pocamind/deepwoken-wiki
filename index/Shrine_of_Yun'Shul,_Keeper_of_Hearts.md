@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 89630
+revid: 89703
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -33,8 +33,6 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
     -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md).
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
     -   All players start with a wish (and can **only hold 1 at a time.**) A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
-    -   Deepwoken updates formerly reset the cooldown every now and then. However, there hasn't been a wish reset since 2022, and the implementation of [Misérables](Misérables.md) rendered it unnecessary.
-        -   A new wish reset has been granted as of 02/16/2023, alongside the wish of being able to break an oath.
 
   
 If you meet all the criteria, you are able to make one of five wishes:
@@ -48,13 +46,14 @@ If you meet all the criteria, you are able to make one of five wishes:
         -   You do not pick which flaw you reroll.
 3.  **"The Vows I made give me much regret, I wish to break."**
     -   Erase all your active vow of masteries, whether they be as a servant or as a master.
-4.  **"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."**
-    -   Removes the [Oathless](Oath%253A_Oathless.md) [Oath](Oaths.md), allowing you to take a new [Oath](Oaths.md).
-5.  **"The powers I have been granted displease me, I wish for new gifts."**
+4.  **"The powers I have been granted displease me, I wish for new gifts."**
     -   Erases your current [Resonance](Resonance.md), and draws 4 new Resonance cards (the 4th card will always be the same resonance you had, albeit rerolled; the variant may also be changed, such as when rerolling physical [Sacred Field](Sacred_Field.md) you will get the mantra version.) Gives your Resonance the [Tarnished flaw](Boons_and_Flaws.md).
+5.  "**The Vows I made to keep an Oath no longer suit my ideals. I wish for a new path."**
+    -   Removes your current [Oath](Oaths.md). Gives a disclaimer prior to breaking it, warning you that becoming an Oathbreaker has its own consequences. Upon breaking an Oath, you will receive a dialogue from your Oath-giver along with other potential consequences.
 
 ## Trivia
 
+-   Originally, only [Oathless](Oath%253A_Oathless.md) could be removed, and it had differing dialogue: _"The Vow I made to never take up an Oath no longer matches my ambitions. I wish for a new path."_
 -   You are combat tagged immediately upon speaking to Yun'Shul’s shrine without a Resonance, making it impossible to survive.
 -   Yun'Shul is one of three confirmed Drowned Gods so far, along with [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of Fire, and [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), the Drowned God of Sky and Pressure.
 -   Talking to Yun'Shul without any wishes does not kill you as long as you have a bell.
