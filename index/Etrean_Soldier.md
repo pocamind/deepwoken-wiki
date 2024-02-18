@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 89737
+revid: 89824
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -61,4 +61,3 @@ An Etrean Soldier executes it's opponent after knocking them:
 
 -   They appear to act as naval officers, as they spawn on ships and are found in areas that are easier to reach via boat.
 -   Almost all the times they will lose against a Authority Footsoldiers.
--   For some unknown reason killing them will not give bad [Etrea](Etrea.md) reputation.

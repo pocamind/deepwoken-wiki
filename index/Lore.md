@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89792
+revid: 89819
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1438,7 +1438,7 @@ Oaths, as it is observed, are acquired when one pledges their soul to a certain 
 
 It is unknown how Oath Magic manifests itself - in other words - get created. But it is widely observed that Oaths can be granted through a variety of means, as long as a process of binding one's soul is present. This allow Oaths to be granted through static, and active means. This is evident through the fact that the player is able to acquire Oaths either through an object of power such as Linkstrider or Blindseer, or through someone of the same likeness like Fadetrimmer and Contractor. A universal theme within these examples is that Oaths can only be acquired through something or someone who also posses aspects of said Oath.
 
-Breaking an Oath is a topic that isn't well understood thanks to it's lack of examples in the Deepwoken world, but under certain conditions, this can be granted. Oathless, being an Oath of contradictory value, can be unbound through the assistance of Yun'Shul's communion. Though the fact that one would require otherworldly powers to break off from an Oath highly suggests that an individual would be incapable of breaking off from an Oath without special measures.
+Breaking an Oath is only possible through the assistance of Yun'Shul's communion, with varying levels of displeasement from the Oath-givers. Doing this act reguards the player as an "Oathbreaker". The fact that one would require otherworldly powers to break off from an Oath highly suggests that an individual would be incapable of breaking off from an Oath without special measures.
 
 ### Blindseer
 
@@ -1463,9 +1463,7 @@ Breaking an Oath is a topic that isn't well understood thanks to it's lack of ex
 -   People who swore themselves to never be bound by an Oath, granting them a convincing illusion of freedom.
 -   Due to the contradictory value of the Oath, it is believed that 'Oathless' is one of the weaker Oaths in the Deepwoken world.
     -   It is worth noting that while it is true that the notion of the Oath is contradictory, this does not subvert it's effects. In other words, the Oath matches it's vows, hence the relevancy of it's legitimacy is not affected since it is the notion and illusion that matters, as long as such a notion isn't shattered.
--   It is the only Oath that the Drowned God Yun'shul is able to unbound from a person.
-    -   While most may agree that the reason behind this is due to the Oath's beliefs can be easily shaken, others view this as being due to the fact that Oathless is an Oath that is worthy of the attention and caution of a greater entity such as Yun'Shul. Apparently, enough to warrant direct interference from them in order to erase the bindings of this oath from a person.
-        -   This is thanks to Arch\_Mage mentioning that Oathless is the most powerful Oath there is, though the canon-value of this claim remains to be seen.
+-   Arch\_Mage has mentioned that Oathless is the most powerful Oath there is, though the canon-value of this claim remains to be seen.
 
 ### **Jetstriker**
 

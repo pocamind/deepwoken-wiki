@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 86657
+revid: 89823
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -49,7 +49,6 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 ## Passives
 
 -   **Dreadmantle** - Has a 75% resistance against [Frostdraw](Frostdraw.md) attacks.
--   **Ignis Caesura** - Automatically extinguishes [campfires](Campfire_Pit.md) when nearby.
 
 ## Trivia
 

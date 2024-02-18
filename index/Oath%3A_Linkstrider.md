@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 89768
+revid: 89803
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,3 +76,4 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for a
 -   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit but deal heavily reduced damage.
 -   You can grip the same person multiple times if you use the [Scarlet Lotus](Pristine_Lotus.md) method.
 -   If you die with [Pristine Lotuses](Pristine_Lotus.md), you lose all of them. Unlike [Scarlet Lotuses](Pristine_Lotus.md), which are soulbound.
+-   Anyone can use the white orb once it is spawned. If a friend has 4 [Scarlet Lotuses](Pristine_Lotus.md), he can place them into [The Entropy Catalyst](The_Entropy_Catalyst.md) and you can claim the white orb in the middle, making you a Linkstrider.

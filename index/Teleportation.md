@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 89777
+revid: 89816
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -12,6 +12,7 @@ categories: [Resonances]
 |---|---|
 | effect | Teleports player(s) to a set location. |
 | appearance | Gold ring expands below the user. |
+| cooldown | Windup + 15 Seconds |
 
 “ Travel across huge distances. ”
 

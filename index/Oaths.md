@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 89694
+revid: 89832
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -24,7 +24,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 
 **There are currently 12 obtainable Oaths in _Deepwoken_:**
 
--   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
+-   arkwarder: +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): +2 Combat Mantra \[No Stat Requirements\]
@@ -72,6 +72,7 @@ Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 -   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
+    -   If you attempt to regain the Oath, The Dreadstar will simply not spawn after you survive against the Ghosts on the Beloved Zofia, making it so you cannot get the Oath again.
 -   [Starkindred](Oath%253A_Starkindred.md): Samael - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to Sameal again, he'll say to you "Insolent worm. Leave." and let you regain Starkindred.
 -   [Visionshaper](Oath%253A_Visionshaper.md): The Nestmind - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."

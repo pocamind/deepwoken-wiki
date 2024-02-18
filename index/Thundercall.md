@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 89339
+revid: 89820
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -363,7 +363,11 @@ N/A
 
 Modifiers:
 
-N/A
+Multiplying Spark
+
+Stratus Stone
+
+Perfect Lens
 
  |
 |  | 

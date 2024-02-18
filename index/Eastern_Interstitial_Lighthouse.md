@@ -1,6 +1,6 @@
 ---
 title: Eastern Interstitial Lighthouse
-revid: 89776
+revid: 89825
 source: https://deepwoken.fandom.com/wiki/Eastern_Interstitial_Lighthouse
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, World]
@@ -20,7 +20,7 @@ The only means of transportation to other Luminants. Without it, we may as well 
 
 The Eastern Interstitial Lighthouse is a lighthouse with a passage underneath for boats to spawn in.
 
-It can be found past a gate beside [Starfield Veldt](Starfield_Veldt.md), and near the [Isle of Vigils](Isle_of_Vigils.md)\]\], after sailing past 2 closed gates, near the [Voidsea](Voidsea.md).
+It can be found past a gate beside [Starfield Veldt](Starfield_Veldt.md), and near the [Isle of Vigils](Isle_of_Vigils.md), after sailing past 2 closed gates, near the [Voidsea](Voidsea.md).
 
 ## Maps
 

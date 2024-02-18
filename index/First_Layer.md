@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 89719
+revid: 89830
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -57,7 +57,7 @@ Furthering: by stacking barrels to gain height, even players with no agility can
 
 Although most buildings will work, a specific building is popular for stacking, as it's close to the entrance and easily found. Enter through either gate, turn left, and continue until you reach the wall. Climb up the building with the domed roof. There is a high likelihood of a barrel tower. If in doubt, server hop.
 
-**Disclaimer: There is no guarantee that you will will not meet hostile players.**
+**Disclaimer: There is no guarantee that you will/will not meet hostile players.**
 
 ## **First Layer: The Trial**
 

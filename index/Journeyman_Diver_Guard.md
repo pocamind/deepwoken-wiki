@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 87843
+revid: 89827
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -39,7 +39,7 @@ A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron'
 | Lightning Stream | Sends an **invisible** projectile that latches onto a target before pulling them in. Has insane range. | ◯ | ◯ | (★★☆) |
 | Ice Daggers | Throws out three daggers of ice that fly to you and damage you, freezing you in place momentarily. | ◯ | ◯ | (★★★) |
 | Fire Blade | Wraps their weapon in fire and strikes, dealing massive posture damage if blocked. | ◯ | ◯ | (★★☆) |
-| Encircle | conjure shadows around your enemy before warp-striking tothem |  | ◯ | (★☆☆) |
+| Encircle | conjure shadows around your enemy before warp-striking tothem | ✗ | ◯ | (★☆☆) |
 | Vent | An explosion of blue ether around the user that pushes opponents away. | ◯ | ✗ | (★☆☆) |
 
 ### Boons:
