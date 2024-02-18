@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 88397
+revid: 89789
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -53,8 +53,7 @@ When obtained, Resurrection will spend its points on the following stats:
 -   **Range:** The more points spent on this stat, the further the resurrection can be activated on the target.
 -   **Duration:** The more points spent on this stat, the longer the resurrection lasts on the target.
 
-### _Corrupted_
-
+  
 **Corrupted Resurrection** has more points which means it has improved stats compared to normal resurrection.
 
 ## Trivia

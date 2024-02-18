@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89707
+revid: 89785
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -18,13 +18,17 @@ An inscrutable mechanism looms in the centre of the hall. Many hearts have been 
 
 ## Description
 
-You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. Ending at 50 waves, and granting rewards and EXP every 5 waves, with a break at the end of it. To start and end a round, and leave midway, you would have to speak with the Diluvian Mechanism. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
+You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) within [Marauder's Entrance](<Marauder's_Entrance.md>). Within the mechanism, you face trials of insufferable amounts of difficult entities. All humanoid enemies you seem to know have been mystically created from the mechanism itself, in the form of their tideknight variants. You'll be facing Angels, Divers, Songseekers and Attunement trainers in their utmost maximum, possessing powers you never have seen. Non-humanoid monsters within this dungeon retain their random chance to be attuned.
+
+### Mechanics
+
+Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, with a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
 
 ### Trial of the Meek
 
 When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
 
-**Shrine of Solitude**
+### **Shrine of Solitude**
 
 A Shrine of Solitude, identical to the one found in trial of one lies against the wall. This can be used between waves to roll for preferred talents and mantras
 
@@ -77,11 +81,14 @@ White orbs will be placed around the dungeon, and if not destroyed it'll explode
 
 If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs will generate bombs.
 
+### **Ghostly Reminiscence**
+
+If during the waves, the text "Your past comes to haunt you..." appears, then...?
+
 ## Recommendations and Advice
 
 The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right talents and equipment to make haste of this trial.
 
--   _**Carnivore;**_ Within the Diluvian Mechanism there is no proper way of gaining food without going for Carnivore or the Gluttony Enchant. This can strive to be a great problem within the dungeon as if you start off with less food, you have a higher chance of dying and also being weakened by the hunger and thirst debuffs. Carnivore is a must have for any PVE.
 -   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless your're Ironsing, have Bloodiron Spirit, or possess Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't even take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
 -   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if your doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you can't ironically gain health packs against health packs themselves.
@@ -161,7 +168,7 @@ Based on the power of the user(s), the starting wave will differ;
 | 30 (Parasyte) | 6 Corrupt Attuned Carbuncles |  |
 | 31 (Infinite Stun) | 3 Corrupt Thunderstruck Prime Golems, 1 Fury Nautilodaunt, and 1 Corrupt King Gigamed. |  |
 | 32 (Glacial Ball) | 1 Blizzard Knight, 2 Corrupt Frostmantle Glacial Lionfishes, 1 Corrupt Frostmantle Bonekeeper, 2 Frostmantle Corrupt Crabs, 1 Frostmantle Nautilodaunt |  |
-| 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Blazing Mechalodaunt, 1 Corrupt Rogue Construct, 1 Flamewreathed Mechalodaunt |  |
+| 33 (Korilfiend's Beckoning) | 1 King Thresher, 2 Corrupt Flamewreathed Nightmare Threshers, 1 Corrupt Flamewreathed Crimson Megalodaunt, 1 Corrupt Blazing Mechalodaunt, 1 Flamewreathed Corrupt Rogue Construct, 1 Flamewreathed Mechalodaunt |  |
 | 34 (Gale Fiesta)
 
 **\*CORPSE EXPLOSION MODIFER\***
@@ -182,12 +189,29 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*THIN AIR MODIFIER\***
 
- | 5 Corrupt Shadowmeld Greater Ministry Enforcers, 3 Corrupt Shadowmeld Ministry Necromancers, 4 Corrupt Shadowmeld Ministy Scouts/Captains/Lesser Enforcers (they all look the same) | There's probably 1 Extra greater enforcer and 1 Extra necromancer, chilling weapon advised |
-| 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Flamecharm Starkindred Angel, 2 Corrupt Tideknight Flamewreathed Galebreath Starkindred Angels |  |
-| 44 (Starkindred's Return) | 1 Corrupt Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels |  |
-| 45 (Masters on all Hands) | 6 'Attunement Trainer' knockoff corrupt attuned tideknights. (1 For each attunement trainer) |  |
-| 46 (Electroshocking Hell) | 8 Thunderstruck Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers |  |
-| 47 (Infection Spree) | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchant-wielding Diver Husks |  |
+ | 5 Corrupt Shadowmeld Greater Ministry Enforcers, 3 Corrupt Shadowmeld Ministry Necromancers, 4 Corrupt Shadowmeld Ministy Scouts/Captains/Lesser Enforcers (they all look the same) | With the lack of mantras, this round will be one of the most tedious. It's best advised to constantly attack the necromancer's mudskippers without killing the necromancers until the rest of the enforcers and scouts are dead. |
+| 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Flamecharm Starkindred Angel, 2 Corrupt Tideknight Flamewreathed Galebreath Starkindred Angels | The Starkindred Angels can use the Starkindred mantras, so its best advised to avoid the Flame Blade Starkindred combo and the annoying ascensions and sinister halo. |
+| 44 (Starkindred's Return)
+
+**\*GHOSTLY REMINISICENCE MODIFER\***||1 Corrupt Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels
+
+ | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
+| 45 (Masters on all Hands) | 6 'Attunement Trainer corrupt attuned tideknights. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers have gained the ability to use monster mantras, and possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly.
+
+-   Frostdraw - Gran Sudusruka and Dread Breath
+-   Flamecharm -
+-   Galebreath - Curved Blade of Winds
+-   Thundercall - Stormseye
+-   Shadowcast - Crypt Blade
+-   Ironsing - Alloyed Darksteel Greatsteel Sword and Mecha Gatling
+
+ |
+| 46 (Electroshocking Hell) | 8 Thunderstruck Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers | The Black Divers wield enchants, and are an incredible nuisance. What is worse is that they can use dawnwalker mantras, such as Radiant Kick, Blinding Dawn, and Radiant Dawn. Best advised to let them not have any room to attack. |
+| 47 (Infection Spree)
+
+**\*THIN AIR MODIFIER\***
+
+ | 5 Shadowmeld Corrupt Nightmare Threshers, 5 Corrupt Enchant-wielding Diver Husks |  |
 | 48 (Preparation before the End) | 2 Corrupt Bounders, 1 Corrupt Attuned(?) Deep Widow, 2 Corrupt Golem Primes |  |
 | 49 (Divine Humor) | 1 Lowly Bandit | Pray. |
 | 50 (End of the Hell)

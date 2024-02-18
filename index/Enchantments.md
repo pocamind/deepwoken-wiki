@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 89704
+revid: 89772
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -56,7 +56,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 20.25% more weapon damage in PvE. (Special thanks to Clash_Andrew for helping test)<br>
+  <td><div><p>Deal 20.50% more weapon damage in PvE. (Special thanks to Clash_Andrew for helping test)<br>
   This damage bonus bypasses the damage multiplier cap.<br>
   Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
@@ -247,10 +247,8 @@ There are two variants that enchantments come in:
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of the Bloodthirsty<div></div></font></center></td>
   <td><div><p>Weapon gains 1.1x damage.<br>
-  <br>
-  Weapon gains Blood Bar damage, additionally Blood damage scales based on weapon damage.</p>
-  <p><br>
-  While above 10% HP, missing an M1 deal some bloodloss as self damage. (untested)</p></div></td>
+  Weapon deal additional blood bar damage, scales with weapon damage.<br>
+  When missing an attack (dodge, parry and block are not a miss), lose some blood.</p></div></td>
   <td><div>Weapon is completely red, surrounded by a red mist.<br>
   When sheathed, the weapon keeps their base color.</div></td>
 </tr>

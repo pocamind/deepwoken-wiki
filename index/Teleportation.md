@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 89700
+revid: 89777
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -39,7 +39,7 @@ Using the resonance while aiming at a marker starts the teleportation sequence, 
 
 You are able to place down 1-5 waypoints. If you try to place another, the oldest waypoint you placed will get removed if you do not enter the ring you will not be teleported and that said mark will be deleted.
 
-With Basic Teleportation, you can have up to 4 teleportation points, and with Drowned teleportation you can have up to 7.
+With Basic Teleportation, you can have up to 5 teleportation points, and with Drowned teleportation you can have up to 7.
 
 If Teleportation is drowned, it will have more Resonance Points which means it has improved stats compared to normal Teleportation, Drowned does not guarantee mark, it solely depends on your variant that you receive upon reroll.
 

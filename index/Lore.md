@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89744
+revid: 89792
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1226,10 +1226,10 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A race that shares traits with goats, who are keepers of ancient secrets. They traverse the seas and share knowledge to those who need it.
 -   Depending on a Capras racial variant, they have "marks" from 1 of 3 seemingly religious figures. These marks could be the "old knowledge" Hinted at in the Capra flavor text
-    -   **Mother, Ku:** This figure seems to be nurturing, given they have the title of Mother.
-    -   **First Beast, Nemit:** The title of "First Beast" and the effect this figure's mark gives in game suggest that Nemit is related to Nature and Survival.
-    -   **Moonseye, Jurik:** The title of Jurik suggests a connection to the Moonseye, the effect Jurik's mark gives in game suggests that the Moonseye may be a symbol of Sanity and Calm
--   Little is known about their origins...
+    -   **Mother, Ku:** This figure seems to be nurturing, given they have the title of Mother, the healing effect this mark gives in game
+    -   **First Beast, Nemit:** The title of "First Beast" and the nourishing effect this mark gives in game suggest that Nemit is related to Nature and Survival.
+    -   **Moonseye, Jurik:** The title of Jurik suggests a connection to the Moonseye, the effect Jurik's mark gives in game suggests that the Moonseye may be a symbol of Sanity and Calm.
+-   Little is known about the origin of Capras.
 
 ### Ganymede
 
@@ -1401,10 +1401,10 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 **Lore Sources:** _Regek (Mentioned), The Lament of Cirryn_
 
--   Individuals of The Hive who utilize the Song to manipulate life itself, leading to the construction of the four Greathives, such as [Greathive Aratel](Greathive_Aratel.md).[\[12\]](#cite-note-yaya-12)
+-   Individuals of The Hive who utilize the Song to manipulate life itself, leading to the construction of the four Greathives, one being [Greathive Aratel](Greathive_Aratel.md).[\[12\]](#cite-note-yaya-12)
     -   Lifeweave has also been shown to be able to create constructs, such as the Golems from the Hive.
--   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, that the Lifeweavers are determined to complete their goal.
-    -   Though they focus only for _their_ world, the lands beyond The Hive are a different case. As The Hive and Lifeweavers advance their ways of progress, others linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
+-   The Lifeweavers' motives, based on Regek's dialogue, is to create a new world over the waves- to equally match the tides. This motivation to keep afloat or even surpass the devastation of the Tides is ambitious, though the Lifeweavers are determined to complete their goal.
+    -   Though they only care for _their_ world, the lands beyond The Hive are a different case. As if The Hive and Lifeweavers advance their ways of progress, others would linger behind and cling onto the relics of The Old World, and eventually drown to the Tides when the time comes.
 -   The shipwright in Greathive Aratel says he can Lifeweave modifications into your ship, making him the only Lifeweaver seen in the game.
 -   The book _The Lament of Cirryn_ expands up on it:
     -   The book features three Lifeweavers who attempt to resurrect the fallen Vesperian hero, Cirryn, with Lifeweave. The process at first seems successful but Cirryn soon suffers from aggressive mutations and goes on a murderous rampage. It is implied that Cirryn's soul was never truly resurrected, but that something else had taken its place.
