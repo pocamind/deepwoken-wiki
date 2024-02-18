@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 89834
+revid: 89847
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -57,7 +57,7 @@ In Upper Erisia, you may see four Authority members marching back and forth in u
 
 In Upper Erisia, the player can encounter two villager NPCs in Stranded clothes. You will need to bring these NPCs to the Royal Pathfinder at the Pathfinder's Respite. After doing so, the player will be rewarded a chest and some XP, similar to the Fort Merit rescue quest. Alastir will give you new dialogue options after this. This quest is repeatable. Gripping the NPCs will make them say "Wait, please take us to the shrine!" hinting towards the later use of them.
 
-#### **Mudskipper Party**
+#### **Mudskipper Emergence**
 
 An encounter limited to Erisia, can happen during any season, contrary to the popular belief that it only happens during Spring and Summer. A group of special Mudskippers will emerge from the ground, some of them use a modified Gale Force to push the target back, while the others explode on death, indicated by larger stomachs and a darker green coloration. These explosions instantly execute anyone that has been downed around them. This encounter is made up of three waves. Successfully killing all the Mudskippers will spawn a large chest where the Mudskippers emerged.
 

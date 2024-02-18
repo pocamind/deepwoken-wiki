@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 89714
+revid: 89850
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Items, Outfits]
@@ -32,11 +32,10 @@ Talent: Tidekeeper - Losing 25% of your health within the span of 3 seconds gran
 
 This Outfit's schematic can be found in:
 
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) (Round 50)
 
-## Trivia/Notes
+## Trivia
 
--   The Talent has a cooldown of 1 minute
--   The outfit has the same ingredients as the [Prophets Cloak](<Prophet's_Cloak.md>).
--   2/17/2024 it was made bankable. Before you had to pass it down to equip on other slots.
--   The only way to get it is by beating the 50th round of the [Diluvian Mechanism.](The_Diluvian_Mechanism.md)
+-   The Talent has a cooldown of 1 minute.
+-   The Outfit has the same ingredients as the [Prophet's Cloak](<Prophet's_Cloak.md>).
+-   On the 2/17/2024 update, it was made bankable. Before you had to pass it down to equip on other slots.

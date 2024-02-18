@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 89256
+revid: 89853
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -104,10 +104,13 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have talents like [Flaming Uppercut](Flamecharm.md#flame-brawler) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
 -   If you have even one mantra from cards or other sources it will be removed upon Oath obtainment
 -   You may now dye Silentheart's arm-tattoos/markings.
--   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands. ([https://www.youtube.com/watch?v=ggRX1zqDccI](https://www.youtube.com/watch?v=ggRX1zqDccI))
--   Mani Katti is a reference to the sword and critical attack used by Lyn of the same name in the Fire Emblem Series ([https://youtube.com/shorts/ek-b6nv0Los?si=Qz4rJUAr26qV7DOp](https://youtube.com/shorts/ek-b6nv0Los?si=Qz4rJUAr26qV7DOp))
--   Similiar to "Heavenly restriction" from Jujutsu Kaisen
+-   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
+-   Mani Katti is a reference to the sword and critical attack used by Lyn of the same name in the Fire Emblem Series.
 
 File:Pinkheart.png
 
 Silentheart tattoo dyed pink.
+
+## References
+
+1.  [↑](#cite-ref-1) ([https://www.youtube.com/watch?v=ggRX1zqDccI](https://www.youtube.com/watch?v=ggRX1zqDccI))

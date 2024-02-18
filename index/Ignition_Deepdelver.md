@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 89489
+revid: 89848
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Armors, Items]
@@ -39,7 +39,6 @@ This Outfit's Schematic can be found in:
 -   Combining this outfit with the Metal enchant (steal/replenish armor durability on hit) allow the player to essentially negate the durability cost of the talent.
 -   A few monster and NPC attacks such as a [Golem](Rock_Golem.md)'s laser, a [Lionfish](Lionfish.md)'s cero beam, and [The Duke](Duke_Ishamon_Erisia.md)'s gale stomp cannot be parried. (list down here as you discover more unparryable attacks even with the Armor talent.)
     -   Laser ([Golem](Rock_Golem.md)) / Laser Barrage ([Golem Prime](Rock_Golem.md))
-    -   ~Beast burrow~ ~([Thresher](Thresher.md), [King Thresher](Thresher.md))~ Tested and I have been able to parry it.
     -   Cursed Flame ([King Thresher](Thresher.md))
     -   Powerful Blood Appendage ([Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
-    -   ~Bone Stream ([Scion of Ethiron](Scion_of_Ethiron.md))~ Can **sometimes** be parried? Parrying Laser lets you parry it. Not recommended still.
+    -   There is an Ignition Union logo at the back of this outfit. This combined with it's name and description proves that it was curated and developed by the Ignition Union.

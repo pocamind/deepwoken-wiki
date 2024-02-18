@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 89836
+revid: 89838
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -74,7 +74,7 @@ Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
     -   The Attunement Trainers will respawn afterwards.
     -   If you attempt to regain the Oath, The Dreadstar will simply not spawn after you survive against the Ghosts on the Beloved Zofia, making it so you cannot get the Oath again.
 -   [Starkindred](Oath%253A_Starkindred.md): Samael - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
-    -   Talking to Sameal again, he'll say to you "Insolent worm. Leave." and let you regain Starkindred.
+    -   Talking to Sameal again, he'll say to you "Insolent worm. Leave."
 -   [Visionshaper](Oath%253A_Visionshaper.md): The Nestmind - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
 
 ## Lore Oaths

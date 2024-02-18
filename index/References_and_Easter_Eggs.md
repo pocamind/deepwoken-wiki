@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 86987
+revid: 89841
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -85,18 +85,17 @@ categories: [Deepwoken]
 -   Starkindred has many references:
 -   An image showing the singular wing
     
-    Typing "i will never be a memory" before using a starkindred mantra will activate only one of the wings. A reference so Sephiroth from Final Fantasy series.
+    Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference so Sephiroth from the _Final Fantasy series_.
     -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
         
         Arch's tweet
         
     -   The different characters met for this oath have mythological or religious origins:
-        -   The trainer, **Samael**, is an angel in Judaism
-        -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam
-        -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss
-        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death
-        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology
-    -   **Ascension,** much like **Ice Eruption,** has a wind-up noise that references _Sekiro: Shadows Die Twice's_ perilous attack noise.
+        -   The trainer, **Samael**, is an angel in Judaism.
+        -   **Iblis, The Fallen Angel** is named after Iblis, the leader of the devils in Islam.
+        -   **Abaddon, Sinner of Ice** is named after Abaddon. In the Bible, it is both a place of destruction and desolation but also the name of an angel of the abyss.
+        -   **Minos, Sinner of Flame** is named after the mythological Cretan king, Minos, who became one of the judges of the underworld after his death.
+        -   **Astaroth, Sinner of Wind** is named after Astaroth "Great Duke of Hell" in Demonology.
 -   **Silentheart** takes inspiration from the _Fire Emblem_ series:
     -   The ship named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
     -   [Dread Fighter](https://fireemblem.fandom.com/wiki/Dread_Fighter) is a class in _Fire Emblem Echoes: Shadows of Valentia,_ that, similar to the oath, boasts high magical resistance.
@@ -156,6 +155,7 @@ categories: [Deepwoken]
 -   The vfx and ability of the Talent **Last Resort** is a reference to the Red Tearstone Ring from the _Dark Souls_ franchise.
 -   The name of the Talent, **Ultrakill**, is a direct reference to the game [ULTRAKILL](https://ultrakill.fandom.com/wiki/Home), even requesting the player goes play it.
     -   However, it actually consistently spells the name incorrectly.
+-   **Underdog** may be a reference to a skill of the same name from _Fire Emblem Awakening._
 
 ## Weapons
 

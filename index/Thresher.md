@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 89469
+revid: 89851
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -123,7 +123,8 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 
 ## Passives
 
--   **Serated Claws/Teeths** - Threshers have 100% PEN.
+-   **Serated Claws** - Threshers have 100% PEN.
+-   **Thresher Scales** - Threshers have 40% physical resistence.
 
 ## Finishers
 

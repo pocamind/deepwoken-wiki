@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 89624
+revid: 89854
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras, Items]
@@ -639,6 +639,21 @@ File:Frost Grab with Blast Spark.gif
  |
 | 
 
+Frozen Servants
+
+ | 
+
+ | 
+
+File:Frozen servants blast 2.gif
+
+ | 
+
+-   This modifier changes the circular formation of Frozen Servants, instead making you summon one gigantic Frozen servant that fires out a cone of frost.
+
+ |
+| 
+
 Ice Forge
 
 (★)
@@ -709,22 +724,6 @@ File:Wind Gun with Blast Spark.gif
  |
 | 
 
-Shade Devour
-
-(★)
-
- | 
-
- | 
-
- | 
-
--   This modifier cause the "Shade Devour" mantra to perform a bigger shockwave.
-    -   Can be paired with a Multiplying Spark to make 3 big shockwaves.
-
- |
-| 
-
 Shadow Gun
 
  | 
@@ -757,6 +756,22 @@ File:Rising Shdaow with Blast Spark.gif
  |
 | 
 
+Shade Devour
+
+(★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier cause the "Shade Devour" mantra to perform a bigger shockwave.
+    -   Can be paired with a Multiplying Spark to make 3 big shockwaves.
+
+ |
+| 
+
 Needle Barrage
 
  | 
@@ -768,21 +783,6 @@ File:Needle barrage blast spark 2.gif
  | 
 
 -   This modifier causes the Needle Barrage mantra to fire more needles, but removing the initial jump. This version of the mantra also keeps your momentum.
-
- |
-| 
-
-Frozen Servants
-
- | 
-
- | 
-
-File:Frozen servants blast 2.gif
-
- | 
-
--   This modifier changes the circular formation of Frozen Servants, instead making you summon one gigantic Frozen servant that fires out a cone of frost.
 
  |
 | 
@@ -951,6 +951,21 @@ File:Eclipse kick multiplying.gif
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Fire Blade
+
+ | 
+
+File:Starkindred FireBlade.gif
+
+ | 
+
+ | 
+
+-   This modifier disables Starkindred's effect on the Fire Blade mantra.
+
+ |
+| 
+
 Burning Servants
 
  | 
@@ -1059,21 +1074,6 @@ Revenge
  |
 | 
 
-Fire Blade
-
- | 
-
-File:Starkindred FireBlade.gif
-
- | 
-
- | 
-
--   This modifier disables Starkindred's effect on the Fire Blade mantra.
-
- |
-| 
-
 Chain Pull
 
  | 
@@ -1124,6 +1124,22 @@ File:Ice Eruption with Round Spark.gif
     -   Do note that this modifier causes the mantra to do **NO DAMAGE AT ALL**.
 
  |
+| 
+
+Ice Carve
+
+(★★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the user of a "Ice Carve" mantra to rush forward rapidly while spinning the projectile of the Ice Carve around them.
+    -   Hitbox is similar to Warden's Blades.
+
+ |
 
 **Spring Spark:**
 
@@ -1132,6 +1148,37 @@ File:Ice Eruption with Round Spark.gif
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Flame Ballista
+
+(★★★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the user of a "Flame Ballista" mantra to leap in the air while descending slowly as they are charging the projectile.
+
+ |
+| 
+
+Ice Carve
+
+(★★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the user to throw the projectile of the "Ice Carve" mantra forward before recalling it back.
+    -   Slows the user down.
+
+ |
+| 
+
 Ice Lasers
 
 (★★)
@@ -1182,6 +1229,19 @@ Shade Bringer
  |
 | 
 
+Metal Kick
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier replaces the original with a faster drop-kick variant that doesn't apply knockdown.
+
+ |
+| 
+
 Dash
 
  | 
@@ -1193,19 +1253,6 @@ File:Dash with Spring Spark.gif
  | 
 
 -   This modifier shortens the "Dash" mantra's travel distance but increases it's uses from 1 to 2.
-
- |
-| 
-
-Metal Kick
-
- | 
-
- | 
-
- | 
-
--   This modifier replaces the original with a faster drop-kick variant that doesn't apply knockdown.
 
  |
 
