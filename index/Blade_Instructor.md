@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 89896
+revid: 89933
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -32,7 +32,8 @@ An Instructor's arsenal consists of either a [Battleaxe](Battleaxe.md), [Sword](
 
 \[[Iron Spear](Iron_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
- | ◯ | ✗ | (★☆☆) |
+ | ◯ | ✗ (Battleaxe & Mace)◯ (Sword & Iron Spear) | (★☆☆) |
+| Feint | Attacks, but then stops mid-way to catch the player off guard | ✗ | ✗ | (★★☆) |
 
 ## Finisher
 
@@ -44,8 +45,8 @@ If the instructor is the one that downs the player they will disappear and the p
 
 ## Tips
 
--   It's an instructor, he's meant for practicing skill.
--   Same skill level as a non dagger bandit leader, and does not wield any attunements.
+-   It's an instructor, he's meant for practicing basic combat abilities.
+-   Same skill level as a non-dagger [Bandit Leader](Bandit_Leader.md) and does not wield any attunements.
 -   You can use the [Training Vest](Training_Gear.md) to train fortitude by letting him hit you. Most effective at early levels.
 -   You can basically train all your stats on him on early levels.
 -   Easily killed if you know how to parry.

@@ -1,6 +1,6 @@
 ---
 title: Preservation
-revid: 89668
+revid: 89932
 source: https://deepwoken.fandom.com/wiki/Preservation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -13,7 +13,7 @@ categories: [Resonances]
 | effect | Puts all knocked entities, within a radius, into a protective bubble |
 | appearance | A golden circle appears around center of use. |
 
-“ Conjure a protective energy that will guide those fallen in battle towards you. The protective energy will slay the hands of death, preventing starvation, drowning, and incineration. ”
+“ Conjure a protective energy that will guide those fallen in battle towards you. The protective energy will stay the hands of death, preventing starvation, drowning, and incineration. ”
 
 ― Preservation description
 

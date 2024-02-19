@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 89838
+revid: 89935
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -76,6 +76,8 @@ Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 -   [Starkindred](Oath%253A_Starkindred.md): Samael - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
     -   Talking to Sameal again, he'll say to you "Insolent worm. Leave."
 -   [Visionshaper](Oath%253A_Visionshaper.md): The Nestmind - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
+
+Note: Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
 
 ## Lore Oaths
 
