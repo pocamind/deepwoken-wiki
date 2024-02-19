@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 89579
+revid: 89921
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -34,6 +34,8 @@ Silentheart veins dyed pink.
 -   Originally, they could only be obtained from Klaris. This was eventually changed on the 8/15/2023 update, making them available for purchase from Merchant Ships.
 -   You do not receive a Dye Remover if you purchase a Dye Packet from a Merchant Ship..
 -   Dye Packets have no model, so appear invisible on Chili's ship.
+-   They are extremely rare to be found on merchant ships.
+-   You can get pinged for dye packet spawns in [Agamatsu's Merchant Ship Discord server.](https://discord.gg/merchantship)
 
 File:Dye merchant.png
 
