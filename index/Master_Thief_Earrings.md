@@ -1,6 +1,6 @@
 ---
 title: Master Thief Earrings
-revid: 73970
+revid: 89892
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,3 +26,7 @@ categories: [Equipment, Ears]
 ## Description
 
 Master Thief Earrings are an [Equipment](Equipment.md) item under the "Ears" category. Equipping this item will give you randomized stats based on the amount of pips it has, As well as +3% Stealth.
+
+## Trivia
+
+-   These earrings belong to [Chrollo Lucilfer](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer?so=search) from the anime Hunter x Hunter.

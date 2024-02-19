@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 89528
+revid: 89893
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -92,8 +92,8 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
 </tr>
 <tr>
   <td>%Physical Armor (PHY Armor)</td>
-  <td>3 4</td>
-  <td>3 4</td>
+  <td>2 4</td>
+  <td>2 4</td>
   <td>N/A</td>
   <td>N/A</td>
   <td>N/A</td>
