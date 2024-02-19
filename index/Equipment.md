@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 89893
+revid: 89914
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4932,3 +4932,4 @@ Found from:
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
 -   Highest theoretical HP kit in game is 158 HP. (4x 9 HP Moon and Waning Rings, 47 HP Divers Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots, 2 HP Moonlit Earrings)
 -   Highest theoretical DvM kit in game is 64 DvM. (4x 4 DvM Rings, 19 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings
+-   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%

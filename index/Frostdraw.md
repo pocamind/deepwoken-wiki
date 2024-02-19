@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 89778
+revid: 89908
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -311,6 +311,7 @@ _A sharp disk of ice._
 -   Deals moderate damage.
 -   Can be modified with Stratus stones and Cloudstones to increase its size.
 -   Does not inflict Chill.
+-   Applying a round spark on it completely changes its function, instead increasing your movement speed and ending early if nothing is hit or is continuously blocked/parried, however, if an enemy is hit succesfully, it will continue to hit for around 8 seconds, dealing high damage.
 
  |
 |  | 

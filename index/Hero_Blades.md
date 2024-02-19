@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 89658
+revid: 89904
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -92,7 +92,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 **The Hero Blades** are a set of weapons available in _Deepwoken_. They take the shape of swords, which are brightly colored in their given element, with runes written on them. Hero Blades require 75 of your selected attunement, and Power 11+.
 
-Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) or completing [The Diluvian Mechanism](The_Diluvian_Mechanism.md) during winter. Successfully defeating all of them rewards a chest with multiple hero blades, the elements being random.
+Hero Blades can be obtained by defeating the [Blizzard Knights](Stone_Knight.md) at [Valley of Heroes](The_Valley_of_Heroes.md) during winter or completing [The Diluvian Mechanism](The_Diluvian_Mechanism.md). Successfully defeating all of the blizzard knights rewards a chest with multiple hero blades, the elements being random.
 
 Each Heroblade has its own unique critical attack.
 

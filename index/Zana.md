@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 86183
+revid: 89918
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
