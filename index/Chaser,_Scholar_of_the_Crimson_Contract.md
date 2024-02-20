@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 88377
+revid: 89983
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Chaser, Scholar of the Burning Blood is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
+Chaser, Scholar of the Crimson Contract is a humanoid [Boss](Bosses.md) that is fought in Floor 1 of the [Second Layer](Second_Layer.md). He is found within [The Maw of Ethiron](The_Maw_of_Ethiron.md), specifically in the [Cathedral of Ethiron](Cathedral_of_Ethiron.md). He is also a Black Diver, though in reality an operative serving [The Ministry](The_Ministry.md).
 
 He was once an aspiring Diver, graduating as one of the greatest of his generation, only surpassed by [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) and [Akira](Akira.md).[\[1\]](#cite-note-1) Eventually, he betrayed the Divers, joining the Ministry instead. He served as an apprentice for and was gifted the ability of hemokinesis by the Ministry's Second Prophet, during which he developed the [Flareblood Kamas](Flareblood_Kamas.md).[\[2\]](#cite-note-2) Funnily enough, Chaser does not use the Flareblood Kamas at all during the fight.
 

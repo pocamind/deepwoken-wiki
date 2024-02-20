@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 89819
+revid: 89976
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -16,9 +16,6 @@ hold on to hope, and in so doing
 beware - the Tide comes too for thee. ”
 
 ― To Sleep, Dreaming (Contour 4) Description
-
-  
-_This page is a collection of Lore in the game, if you are looking for Books, visit [this page](Books.md)._  
 
 ## Description
 

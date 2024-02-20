@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 89494
+revid: 89971
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -158,7 +158,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "Yield, traitor to mankind."
 -   "You're nothing compared to the horrors of the depths."
 
- |  |
+ | Higher tier Layer 1 Chests |
 | [The Divers](The_Divers.md) | 
 
 -   1 [Black Diver](<Black_Diver_(NPC).md>)

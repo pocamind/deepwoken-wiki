@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89937
+revid: 89987
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -193,9 +193,9 @@ Based on the power of the user(s), the starting wave will differ;
 | 43 (Kyrs Domain) | 2 Corrupt Shadowmeld Kyrsgarde Brutes, 1 Corrupt Tideknight Flamewreathed Flamecharm Starkindred Angel, 2 Corrupt Tideknight Flamewreathed Galebreath Starkindred Angels | The Starkindred Angels can use the Starkindred mantras, so its best advised to avoid the Flame Blade Starkindred combo and the annoying ascensions and sinister halo. |
 | 44 (Starkindred's Return)
 
-**\*GHOSTLY REMINISICENCE MODIFER\***||1 Corrupt Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels
+**\*GHOSTLY REMINISICENCE MODIFER\***
 
- | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
+ | 1 Corrupt Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
 | 45 (Masters on all Hands) | 6 'Attunement Trainer corrupt attuned tideknights. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers have gained the ability to use monster mantras, and possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly.
 
 -   Frostdraw - Gran Sudusruka and Dread Breath

@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 87534
+revid: 89979
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -34,7 +34,7 @@ categories: [Weapons, Swords]
 | range | 8 |
 | swing speed | 0.73x |
 | penetration | 10% |
-| chip damage | 20% |
+| chip damage | 15% |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

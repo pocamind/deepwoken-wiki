@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 87244
+revid: 89985
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -281,13 +281,13 @@ _"Oh that's wonderful! It's so difficult finding others familiar with Pleeksty h
 -   [Banker](Artifacts.md)
 -   [Antiquarian](Antiquarian.md)
 -   [Lance Leshi](Lance.md)
--   Kennith
+-   [Kennith](Kennith.md)
 -   [Royal Guard](Etrean_Guardsmen.md)
 -   [Karliah](Karliah.md)
 -   [Joshua](Joshua.md)
 -   [Frostdrawer Nell](Attunement_Trainers.md)
 -   [The Den Master](Den_Master.md)
--   Serephina
+-   [Serephina](Seraphina.md)
 -   [Eastern Camp Master](Cheral.md)
 -   [Barber](Barber.md)  
     
