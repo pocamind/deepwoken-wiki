@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 89809
+revid: 89958
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -188,11 +188,11 @@ Shrine Of Unification
 ― Shrine Of Unification
 
   
-Located in the [Starfield Veldt](Starfield_Veldt.md) in a cave hidden behind a tree.
+Located in the [Starfield Veldt](Starfield_Veldt.md) in a hole hidden behind a tree.
 
 ## Effect
 
-For 5 Knowledges and 2 Talents of your choice, get a Whisper Draw.
+For 5 Knowledge and 2 Talents of your choice, get a Whisper Draw.
 
 ## Details
 

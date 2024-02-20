@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 85023
+revid: 89948
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -28,7 +28,7 @@ When using a singular gun you will gain an ammo counter resembling a revolver ch
 
 #### Reloading
 
-The amount of bullets you can load into a gun depends on the type you are using. The Dragoon holds 3, Flintlock holds 4 and the Revolver and Silversix hold 6. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill talent](Talents.md#outlaw) is active)
+The amount of bullets you can load into a gun depends on the type you are using. The Dragoon holds 4, Flintlock holds 4 and the Revolver and Silversix hold 6. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill talent](Talents.md#outlaw) is active)
 
 ### Talents
 

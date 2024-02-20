@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 89290
+revid: 89953
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -75,3 +75,4 @@ To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip 
 -   Alloyed weapons will retain the enchant and the quality (stars + buffs) of the original weapon.
 -   The alloy itself cannot be dropped or lost on death, but the weapons can.
 -   You do not lose the alloy when doing the Ironsing quest.
+-   You are not able to [bank](Item_Bank.md) alloys.
