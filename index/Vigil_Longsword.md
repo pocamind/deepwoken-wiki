@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 87533
+revid: 89991
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -62,3 +62,4 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords ar
 -   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) without the nerfed swing speed, for full effect try to obtain one with 2-3 stars of penetration.
 -   On the Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Its model was changed to match the length of its stats.
+-   The blade is unused by [Etrean Gaurdsmen](Etrean_Guardsmen.md) and only by [Vigil Swordsman](Vigil_Swordsman.md), ruining its purpose spoken of in its description.
