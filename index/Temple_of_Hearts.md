@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 85874
+revid: 89997
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -25,7 +25,7 @@ The Temple of Hearts can be entered in two ways:
 
 Entering will lead you into an overgrown hall decorated with underwater foliage and Deep Shrines on the sides.
 
-Proceeding will lead to an altar with the [Shrine of Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a mysterious, eldritch entity who can be communed with using the shrine in the room. It can be inspected, and if you're level 10+ and have obtained your resonance (or you're using an [idol](Relics.md)), you can choose one out of five wishes from Yun'Shul. (Refer to [its page](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) for information on its wishes.)
+Proceeding will lead to an altar with the [Shrine of Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a mysterious, eldritch entity who can be communed with using the shrine in the room. It can be inspected, and if you have a wish and have obtained your resonance (or you're using an [idol](Relics.md)), you can choose one out of five wishes from Yun'Shul. (Refer to [its page](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) for information on its wishes.)
 
 ### Contents
 
