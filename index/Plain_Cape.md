@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 87285
+revid: 90033
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -99,7 +99,7 @@ Capes are an [Equipment](Equipment.md) item under the "Torso" category. They can
 
 ## Description
 
-The Brilliant Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md)
+The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md)
 
 ## Trivia
 
@@ -126,7 +126,7 @@ The Fleet Warden Cape is an animated [Equipment](Equipment.md) item under the "T
 
 ## Trivia
 
--   1 of 2 animated capes, the other being **Shrouded Capes**.
+-   The Fleet Warden Cape is most likely a reference to One Piece where the marines wear their coats on their back.
     
 
 **Shrouded Cape:**
@@ -134,7 +134,3 @@ The Fleet Warden Cape is an animated [Equipment](Equipment.md) item under the "T
 ## Description
 
 The Shrouded Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests by [Fishing](Fishing.md) and by beating [Duke Erisia](Duke_Ishamon_Erisia.md).
-
-## Trivia
-
--   1 of 2 animated capes, the other being **Fleet Warden Capes**.

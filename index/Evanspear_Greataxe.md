@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 89373
+revid: 90037
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -15,10 +15,8 @@ categories: [Weapons, Greataxes]
 | damage | 25 + 7.8[BLD] |
 | scaling | 9.5 |
 | range | 8.5 |
-| swing speed | N/A |
+| swing speed | 0.55x |
 | endlag | 0.1s |
-| penetration | 15 |
-| chip damage | N/A |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 8 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 88015
+revid: 90044
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -10,8 +10,6 @@ categories: [NPCs]
 
 | Banker | |
 |---|---|
-
-1.  **Bankers** are NPCs where Players can turn found [Artifacts](Artifacts.md) found to receive notes and a various assortment of gear. In addition, they allow for players to store items across all slots.
 
 ## Overview
 

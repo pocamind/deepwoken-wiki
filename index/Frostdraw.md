@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 90025
+revid: 90056
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1033,8 +1033,9 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   As of 1/12/2024, Glass Path: Crystallization now makes Frostdraw Mantras reddish pink.
 -   Recommended not to abuse the Chill duration as there is a talent that makes your enemy get 20% more dmg from light attacks (Charged Return)
--   Anything that would Freeze while using Glass Path: Crystallization would instead instantly detonate all stacked crystals.
+-   Anything that would Freeze while using Glass Path: Crystallization would apply a crystal.
 -   Saint jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
+-   Frozen legs applies on all ice mantras and has a fixed duration that can't be increased.
 
 ## Navigation
 

@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 90020
+revid: 90029
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Guilds, Reputation, Factions]
@@ -42,8 +42,6 @@ As it stands currently. There is an active, and generally supportive Discord. As
 ## Reputation
 
 You can reset your reputation towards the diver by talking to [Gudrin](Reputation.md), however it will not be free. The cost ranges depending on your negative reputation starting with low negative reputation (declared as an enemy) 25 notes and so on till 100.
-
-Assisting [Deepbound](Origins.md) players in encounters will grant positive reputation upon killing the monster.
 
 Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [Reputation](Reputation.md) with The Divers, this is a good way of getting back your [Reputation](Reputation.md) if you accidentally killed a Diver and want to join the faction.
 
