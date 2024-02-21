@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 89999
+revid: 90085
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -85,7 +85,7 @@ categories: [Deepwoken]
 -   Starkindred has many references:
 -   An image showing the singular wing
     
-    Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference so Sephiroth from the _Final Fantasy series_.
+    Typing "I will never be a memory" before using a Starkindred Mantra will activate only one of the wings in reference to Sephiroth from the _Final Fantasy series_.
     -   The Celestial underneath the [Delerict Highchurch](Derelict_Highchurch.md) is a reference to [Lilith](https://evangelion.fandom.com/wiki/Lilith) from _Neon Genesis Evangelion_. The white body, red cross, and pool of blood are all traits shared with it.
         
         Arch's tweet

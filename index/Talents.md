@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 90027
+revid: 90094
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -280,7 +280,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I prefer to attack unseen."**_
 
--   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with level.
+-   Deep Wound \[Common Talent, Light\] - Assassinating a target applies anti-heal for 20s and gives you a speed boost for 6s. Assassination damage now scales with agility.
     -   The damage increase granted from this talent is significantly high in PVE, allowing you to one shot some very tanky enemies like Authority Commander despite their 5000 HP.
     -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" have this talent.
     -   Prerequisite: 35 Agility
@@ -1523,6 +1523,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 -   _Fists of Fortitude_ \[Rare Talent\] - Every 6 light attacks with fist builds up a shield of endurance (Ether Shield) reducing incoming damage by 15%. (+1 Carry Load)
     -   Prerequisites: Fists, 20 Fortitude
     -   You must land 6 hits on your opponent for _Fists of Fortitude_ to activate.
+    -   The Cooldown is 1 minute and 10 seconds.
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use [Way of Navae style](Fists.md)
