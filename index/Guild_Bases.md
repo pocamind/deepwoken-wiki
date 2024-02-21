@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 90047
+revid: 90064
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -18,7 +18,7 @@ Guild Bases are a type of outpost that can be created by a Guild Leader. To crea
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 
--   Once hired, the Treasurer question can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot.
+-   Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot.
 
 Currently, there are **8** NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
@@ -33,7 +33,7 @@ Currently, there are **8** NPCs that can join your Guild Base with a certain amo
 
 The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury -- with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
-The pricing list is as follows: (Assuming you have the Treasurer)
+The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md))
 
 | Room |  |  |
 | --- | --- | --- |
@@ -50,8 +50,6 @@ The pricing list is as follows: (Assuming you have the Treasurer)
 | Room 11 |  |  |
 | Room 12 |  |  |
 | Extension |  |  |
-
-You can donate notes to other guilds by talking to their treasurer.
 
 ## Rooms
 

@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 90044
+revid: 90069
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -25,6 +25,7 @@ They can be found in:
 -   [Castle Light](Castle_Light.md) (but only people with the [Deepbound Origin](Origins.md) can interact with them)
 -   [Fort Merit](Fort_Merit.md)
 -   [The Floating Keep](The_Floating_Keep.md)
+-   [Guild Bases](Guild_Bases.md)
 
 #### Safe Deposit Boxes
 
