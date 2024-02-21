@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 89552
+revid: 90016
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -57,6 +57,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Turning in a [Pure Ore](Ores.md) to a [Blacksmith](Blacksmith.md), awarding 1 Echo.
 -   Winning [Chime of Conflict](Chime_of_Conflict.md) match, awarding 1 Echo.
 -   Drinking an [Attribute Flask](Ingredients.md#lotuses), awarding 2 Echoes.
+    -   You may drink an Attribute Flask while having no points remaining and it will still count.
 -   Crafting a [Master Armor](Outfits.md), awarding 2 Echoes.
 -   Using a [Deep Shrine](Deep_Shrines.md), awarding 2 Echoes.
 -   Making a deal with [Misérables](Misérables.md), awarding 2 Echoes.
@@ -285,6 +286,8 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 **(Power 2)** Chain of Perfection - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) solo without getting hit by one of the boss' attacks.**_
 
 -   Increases PvE damage the more melee hits you deal without taking hits in return.
+    -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 2.
+        -   Unlocked on slots prior to obtainment IF it obtains a level.
 
 **(Power 3)** Engage - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
 
@@ -297,7 +300,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 **(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
 
 -   You regenerate your armor at campfires.
-    -   Can be done at Power 20 for an extra deck of cards
+    -   Can be done at Power 20 for an extra deck of cards.
 
 **(Power 10)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters at Power 10. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**
 

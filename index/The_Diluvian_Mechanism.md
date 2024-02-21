@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 89987
+revid: 90009
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -53,8 +53,6 @@ A Shrine of Solitude, identical to the one found in trial of one lies against th
 -   [Rogue Constructs](Hive_Construct.md) (Corrupt)
 -   [Brainsucker](Brainsucker.md) (Corrupt)
 -   [Angels](Hollow_Angel.md) (All variants)
--   [Songseeker](Enemies.md#enemies) (All variants)
--   [Attunement Trainers](Enemies.md#bossesunique-enemies)
 -   [Ministry Necromancer](Ministry_Necromancer.md)
 -   [Ministry Enforcer](Ministry_Enforcer.md) (Strong variant)
 -   [Tideknight](Tideknight.md)
@@ -196,14 +194,14 @@ Based on the power of the user(s), the starting wave will differ;
 **\*GHOSTLY REMINISICENCE MODIFER\***
 
  | 1 Corrupt Tideknight Iblis The Fallen Angel, 6 Corrupt Attuned Deep Angels | Iblis is basically a Flame Blade Starkindred spammer, and all you should honestly do is press Q and spam m1 him until he is dead. |
-| 45 (Masters on all Hands) | 6 'Attunement Trainer corrupt attuned tideknights. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers have gained the ability to use monster mantras, and possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly.
+| 45 (Masters on all Hands) | 6 Corrupt Attuned Tideknight Attunement Trainer. (1 For each attunement trainer) | This is a wave you shouldn't underestimate. The trainers being corrupt and attuned makes their monster mantras far more powerful, and they possess the legendary weapons corresponding to their attunement. They also possess a vast artillery of mantras that can easily combo if not handled correctly.
 
 -   Frostdraw - Gran Sudusruka and Dread Breath
--   Flamecharm -
+-   Flamecharm - Hero's blade of flame
 -   Galebreath - Curved Blade of Winds
 -   Thundercall - Stormseye
 -   Shadowcast - Crypt Blade
--   Ironsing - Alloyed Darksteel Greatsteel Sword and Mecha Gatling
+-   Ironsing - Alloyed Darksteel Greatsword and Mecha Gatling
 
  |
 | 46 (Electroshocking Hell) | 8 Thunderstruck Corrupt Attuned Carbuncles, 4 Corrupt Tideknight Black Divers | The Black Divers wield enchants, and are an incredible nuisance. What is worse is that they can use dawnwalker mantras, such as Radiant Kick, Blinding Dawn, and Radiant Dawn. Best advised to let them not have any room to attack. |

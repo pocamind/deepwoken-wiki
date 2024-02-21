@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 89971
+revid: 90014
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -20,8 +20,13 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
 | Faction | Enemy(s) | Dialogue | Loot Pool |
 | --- | --- | --- | --- |
-| Any | 
--   3 [Lowly Bandits](Bandit.md)
+| 
+-   None
+
+ | 
+
+-   1-3 [Lowly Bandits](Bandit.md)
+-   1-3 [Bandit Captains](Bandit_Leader.md)
 -   3 [Bounty Hunters](<Bounty_Hunter_(NPC).md>)
 -   3 [Cloaked Assassins](Cloaked_Assassin.md)
 
@@ -30,7 +35,13 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "This'll be a good one!"
 -   "There they are!"
 
- |  |
+ | 
+
+-   Lower Erisia ([Lowly Bandits](Bandit.md))
+-   Songseeker Wilds ([Bounty Hunters](<Bounty_Hunter_(NPC).md>))
+-   Starswept Valley ([Cloaked Assassins](Cloaked_Assassin.md))
+
+ |
 | [Etrea](Etrea.md) | 
 
 -   3 Vigil Captains(?)
@@ -54,7 +65,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   ”Let’s go men!”
 -   "We've got them now."
 
- |  |
+ | 
+
+-   Fort Merit
+
+ |
 | [Authority](The_Central_Authority.md) | 
 
 -   1 [Authority Commander](<Authority_Commander_(Enemy).md>)
@@ -64,7 +79,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "Commencing mission"
 -   "Give up now - you stand against the Central Authority!"
 
- |  |
+ | 
+
+-   Fort Merit
+
+ |
 | [Ignition Union](The_Ignition_Union.md) | 
 
 -   1 [Mechaloduant](Megalodaunt.md#mechalodaunt)
@@ -74,7 +93,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "GROARRRRRR!"
 -   \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\*
 
- |  |
+ | 
+
+-   Miner's Landing
+
+ |
 | [Ignition Union](The_Ignition_Union.md) | 
 
 -   3 [Ignition Union Arcwarders](Ignition_Union_Arcwarder.md)
@@ -83,7 +106,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
 -   "There's the scab, lads!"
 
- |  |
+ | 
+
+-   Miner's Landing
+
+ |
 | [Hundred Legions](The_Hundred_Legions.md) | 
 
 -   3 [Legion Captains](Legion_Captain.md)
@@ -119,7 +146,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "We take this one's head or it'll be ours next."
 -   "Pestilent wretch, you die early."
 
- |  |
+ | 
+
+-   Crypt of the Unbroken
+
+ |
 | [Ministry](The_Ministry.md) | 
 
 -   3 [Weak Ministry Enforcers](Ministry_Enforcer.md#weaker-variant)
@@ -128,7 +159,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
 -   "This one must die."
 
- |  |
+ | 
+
+-   Crypt of the Unbroken
+
+ |
 | [Hive](The_Hive.md) | 
 
 -   1-3 [Hive Adjudicators](<Hive_Adjudicator_(NPC).md>)
@@ -158,7 +193,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "Yield, traitor to mankind."
 -   "You're nothing compared to the horrors of the depths."
 
- | Higher tier Layer 1 Chests |
+ | 
+
+-   Scyphozia (Layer 1) Chests
+
+ |
 | [The Divers](The_Divers.md) | 
 
 -   1 [Black Diver](<Black_Diver_(NPC).md>)
@@ -168,7 +207,11 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "We've got research to get back to so let's make this quick."
 -   "Yield, traitor to mankind."
 
- |  |
+ | 
+
+-   Scyphozia (Layer 1) Chests
+
+ |
 | [The Knives of Eylis](The_Knives_of_Eylis.md) | 
 
 -   3 [Knives of Eylis](Knife_of_Eylis.md)
@@ -178,4 +221,8 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
 -   "Boss'll be pleased about this one."
 
- |  |
+ | 
+
+-   Knives of Eylis vs Etrea Boat Event
+
+ |

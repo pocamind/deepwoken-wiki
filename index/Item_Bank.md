@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 87861
+revid: 90001
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Game]
@@ -22,13 +22,13 @@ File:1 Knowledge offering to put in enchanted sacred hammer in the item bank.png
 
 ## Overview
 
-The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any Banker (npcs that you turn in artifacts to), or a hired Banker inside the Trophy room of the [Guild Base](Guild_Bases.md). You start off with 6 item slots but you can expand it with per slot, capping at a maximum slot count of 24. To store an item, drag an item from your inventory to the slots in the bank.
+The Item Bank is a way of securely storing and transferring items on your account, even across different slots. They are accessible at any Banker (npcs that you turn in artifacts to), or a hired Banker inside the Trophy room of the [Guild Base](Guild_Bases.md). You start off with 6 item slots but you can expand it with / /, increasing every 6 slots for a maximum slot count of 24. To store an item, drag an item from your inventory to the slots in the bank.
 
 ## Restrictions
 
 Along with this ability comes several limitations, being that certain items of significance are treated differently or have requirements to be stored in the bank.
 
--   To store any item that can be soulbound, including legendary [weapons](Weapons.md) and [enchants](Enchantments.md), you will be prompted to spend 1 [Knowledge](Knowledge.md) to perform a "Vow of Safekeeping".
+-   When storing any items that are not droppable, such as Relics, Rare Monster Parts, or **Soul-bounded** Hero Blades, Legendary [weapons](Weapons.md) and [enchants](Enchantments.md), you will be prompted to spend 1 [Knowledge](Knowledge.md) to perform a "Vow of Safekeeping".
 -   When storing any eligible [Relics](Relics.md), each individual relic will take up their own slot and cannot stack like regular items do.
 -   When storing weapons or armor, they will likewise take up their own slot and cannot stack like regular items do.
 -   [Divers Light Plate](<Diver's_Light_Plate.md>) cannot be stored.
@@ -42,5 +42,3 @@ Along with this ability comes several limitations, being that certain items of s
 -   [Hallowtide](Hallowtide.md) weapons and equipment can be stored for free unless they are enchanted, then they will follow the soulbind rule.
 -   You cannot store [Campfires](Campfire_Pit.md).
 -   You cannot be attacked while in the GUI
--   Using the item bank restricts you from accessing it again until you rejoin the server.
--   Withdrawing an item from the bank prevents you from dropping it until you rejoin the server.

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 86611
+revid: 90017
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-**Arcwarders** are [Ignition Union](The_Ignition_Union.md) members that are tied to their own oaths. They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
+**_This article refers to the Arcwarder NPC. For the Oath page, please go [here](Oath%253A_Arcwarder.md) ._ Arcwarders** are [Ignition Union](The_Ignition_Union.md) members that are tied to their own oaths. They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
 
 ## Moveset
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 89998
+revid: 90005
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -96,5 +96,3 @@ This Oath grants 2 Combat Mantra slots and 8 Health. Additionally, the [Flamecha
 -   One-winged version of the Starkindred wings.
     
     Typing "I will never be a memory" in the chat before summoning your wings will make you have one wing only. This is a reference to a line said by the main antagonist of _Final Fantasy 7_, Sephiroth, during Advent Children and his reveal trailer for _Super Smash Bros. Ultimate_. It can be cancelled by saying it again.
-
-Starkindred halo dyed blue.
