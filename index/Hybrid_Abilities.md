@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 89221
+revid: 90101
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mantras, Character, Attunement, Mechanics]
@@ -35,7 +35,7 @@ uppercut.
     -   Acts similar to an uppercut launching opponents in the air when landed.
     -   Deals moderate damage.
     -   Can apply both Electrified and Burning.
-    -   Compatible with Surge Path and Wraith Path.
+    -   Compatible with Surge Path and Lava Serpent Path.
     -   Scales with both Flamecharm and Thundercall.
 
  |

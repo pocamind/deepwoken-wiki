@@ -1,6 +1,6 @@
 ---
 title: Repair Kit
-revid: 77767
+revid: 90123
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Armors, Outfits]
@@ -10,7 +10,7 @@ categories: [Items, Armors, Outfits]
 
 | Repair Kit | |
 |---|---|
-| usage | 5 |
+| usage | 6 |
 | recipe | 3 Iron3 Wood |
 
 ## Overview

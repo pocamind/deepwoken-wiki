@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 89803
+revid: 90108
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -31,7 +31,7 @@ Obtainment
     5.  Interact with the white orb that appears in the middle.
 2.  [Pristine Lotus](Pristine_Lotus.md) Method.
     1.  Collect 4 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
-    2.  Grip 4 players that have an oath (You need to do some damage to the person and get the credit like bounties. Can be the same player over and over again, tested.)
+    2.  Grip 4 players that have an oath (You need to do some damage to the person. Can be the same player over and over again, tested.)
     3.  Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
     4.  Return 4 [Scarlet Lotuses](Pristine_Lotus.md) to [The Entropy Catalyst](The_Entropy_Catalyst.md)
     5.  Interact with the white orb that appears in the middle.

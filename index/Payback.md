@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 86358
+revid: 90136
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -12,6 +12,7 @@ categories: [Resonances]
 |---|---|
 | effect | Reflects damage to opponents. |
 | appearance | Green circle that appears around user. |
+| cooldown | Duration + seconds |
 
 “ Pay back your enemies for the damage they deal to you. ”
 

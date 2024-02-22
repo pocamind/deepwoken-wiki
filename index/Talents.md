@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 90094
+revid: 90121
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -321,7 +321,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 -   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
     -   Electrified target have their physical attack deal lightning damage instead and deal 10% less damage.
-    -   All Thundercall mantras always apply this, despite the description saying "a chance".
+    -   20% chance to apply Electrify.
     -   Prerequisites: 65 Thundercall
 
 -   First Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.

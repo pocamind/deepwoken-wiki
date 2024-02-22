@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 89894
+revid: 90128
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -56,7 +56,7 @@ There are two variants that enchantments come in:
 <tr>
   <td><figure>File:Astral.gif<figcaption></figcaption></figure><center><br>
   <font>Astral<div></div></font></center></td>
-  <td><div><p>Deal 20.50% more weapon damage in PvE. (Special thanks to Clash_Andrew for helping test)<br>
+  <td><div><p>Deal 20% more weapon damage in PvE.<br>
   This damage bonus bypasses the damage multiplier cap.<br>
   Can <b>only</b> be obtained via an enchant stone dropped by an <a href="Stone_Knight.md">Astral Knight</a> or by making a wish with a developer.</p></div></td>
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
@@ -283,7 +283,7 @@ There are two variants that enchantments come in:
   <font>Curse of Yun'Shul<div></div></font></center></td>
   <td><div><p>Rarely add 5% of your max health to your damage. 10 Second CD per victim.<br>
   Very rarely lose 7% hp and have 10% of your max health added to your damage.<br>
-  (80%~ and 20%~ respectively with F. Gladius)</p></div></td>
+  (80%~ and 20%~ chance respectively with F. Gladius)</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
 </tr>
