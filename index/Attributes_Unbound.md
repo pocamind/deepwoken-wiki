@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 82883
+revid: 90168
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -96,16 +96,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ## Attunement Unbound
 
 1.  Reach 75 in an [Attunement](Attunements.md).
-2.  Start Lord Regent's Quest in Etris. Requires a good reputation with [Etrea](Etrea.md)
-3.  Talk to Kennith and finish his dialogue.
-4.  Talk to the Bookworm in the book store, ask him about Etris then about the Duke's rise to power.
-5.  Go above the Navaen Nomad Camp and talk to the Royal Guard next to Kennith's eviscerated body.
-6.  Talk to Lord Regent and obtain the Manor Key
-7.  Head on to Erisia and go all the way throught the Garden Reservoir. You will eventually reach a teleport, which takes you to [Lord Erisia's Manor](<Duke_Erisia's_Manor.md>).
-8.  Enter the manor, which require the Manor's Key to glow (happens when the dungeon is not on cooldown).
-9.  Complete the dungeon styled area and defeat [The Duke](Duke_Ishamon_Erisia.md) to obtain the according unbound card.
-
-\*Alternatively, reaching 75 in any Attunement and then defeating any humanoid boss (Duke, Ferryman, and Chaser) can also uncap it.
+2.  Defeat any humanoid boss: [Duke Erisia](Duke_Ishamon_Erisia.md) (Complete the [Lord Regent's Quest](Etris.md#the-lord-regents-quest) for the key to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)), [The Ferryman](The_Ferryman.md) at [Boatman's Watch](<Boatman's_Watch.md>), or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in the [Second Layer](Second_Layer.md#objectives).
 
 ## Notes
 

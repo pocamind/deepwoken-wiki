@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 88456
+revid: 90156
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -282,6 +282,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
 -   The Ferryman now has First Interrogation, Second Interrogation, Authority Intimidation, and Resolve Crusher talents.
 -   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
+-   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that it is actually played in game and not just for the players.
 
 ## Bugs
 

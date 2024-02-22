@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 88300
+revid: 90162
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1, Deepwoken]
@@ -32,13 +32,13 @@ The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cat
 </tr>
 <tr>
   <td>10 and Over</td>
-  <td>1</td>
+  <td>2</td>
   <td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="Thresher.md">King Thresher</a></td>
 </tr>
 <tr>
   <td>17 and Over</td>
   <td>2-3</td>
-  <td><a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="Thresher.md">King Thresher</a></td>
+  <td><b>Corrupted</b> <a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Nautilodaunt.md">Fury Nautilodaunt</a>, or <a href="Thresher.md">King Thresher</a></td>
 </tr>
 </tbody>
 </table>
