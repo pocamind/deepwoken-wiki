@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 90127
+revid: 90179
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -526,7 +526,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
-    -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash into the Valley as an encounter, emerging out of the rubble upon landing.[\[2\]](#cite-note-arch-2)
+    -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash down from Constellia into the Valley as an encounter, emerging out of the rubble upon landing.[\[2\]](#cite-note-arch-2)
 
 ### **Central Luminant**
 
@@ -555,7 +555,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A location affected by a Great Drowning.
 -   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
--   The Drowning has permanently scared the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[2\]](#cite-note-arch-2)
+-   The Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[2\]](#cite-note-arch-2)
 
 ### **Northern Luminant**
 

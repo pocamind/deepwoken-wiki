@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 89995
+revid: 90199
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Deepwoken]
@@ -54,13 +54,13 @@ A collection of interactive Deepwoken maps (_markers are appreciated_; ensure th
 
 **The Depths:**
 
-**Fragments of Self:**
-
 **Layer 1 (Scyphozia):**
 
 **Outside:**
 
 **Inside:**
+
+**Fragments of Self:**
 
 **A Conscious Intersection:**
 

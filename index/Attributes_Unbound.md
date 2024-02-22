@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 90168
+revid: 90197
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -96,7 +96,10 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 ## Attunement Unbound
 
 1.  Reach 75 in an [Attunement](Attunements.md).
-2.  Defeat any humanoid boss: [Duke Erisia](Duke_Ishamon_Erisia.md) (Complete the [Lord Regent's Quest](Etris.md#the-lord-regents-quest) for the key to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)), [The Ferryman](The_Ferryman.md) at [Boatman's Watch](<Boatman's_Watch.md>), or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in the [Second Layer](Second_Layer.md#objectives).
+2.  Defeat any humanoid [Boss](Bosses.md) (any one of the following):
+    -   [Duke Erisia](Duke_Ishamon_Erisia.md) in [his laboratory](<Duke_Erisia's_Laboratory.md>) ([The Lord Regent's Quest](Etris.md#the-lord-regents-quest) grants the key to [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)),
+    -   [The Ferryman](The_Ferryman.md) at [Boatman's Watch](<Boatman's_Watch.md>), or
+    -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) in the [Second Layer](Second_Layer.md#objectives).
 
 ## Notes
 
