@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 90192
+revid: 90207
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1373,7 +1373,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 
 > _**"I often attack others."**_
 
--   Aggressive Posture \[Common Talent\] - Hitting your opponent causes them to slow down while holding S. (+1 Passive Agility)
+-   Aggressive Posture \[Common Talent\] - Hitting your opponent with a basic attack causes them to slow down while walking backwards. (+1 Passive Agility)
     -   Prerequisites: [Power](Power.md) 13
 
 -   Bloodletter \[Common Talent\] - Hitting opponents on the ground lowers their blood. (+1 Passive Agility)
@@ -1603,6 +1603,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 ### Prospector
 
 -   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
+-   Prerequisite: Complete Ciea's Quest 3 times.
 
 -   Excavator \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
     -   Prerequisite: Turn in 5 pure ores at a blacksmith.

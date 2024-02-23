@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 88160
+revid: 90230
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -26,7 +26,7 @@ categories: [Items]
 | droppable | Yes |
 | pass down | No |
 
-“ Let's start a fire, shall we? ”
+“ Let's get a fire started, shall we? ”
 
 ― In game description
 

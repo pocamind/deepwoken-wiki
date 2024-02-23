@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 90179
+revid: 90236
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -469,7 +469,6 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 -   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska home was Minityrsa, the place where the Crypt is, alongside the Crypt being the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt either was Sudaruska's final resting place or her home.
--   In case the Crypt is related to Sudaruska, there is high chance she had the Regalia "Mute" or also known as "Animal King," given how the automatons there treat those with it.
 
 ### **Songmaster Tzaraan**
 

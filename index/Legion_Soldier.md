@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 82096
+revid: 90228
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<The_Viper's_Jaw.md>) and the following events:
 
--   Legion Soldiers vs Authority Footsoldiers event ([Upper Erisia](Upper_Erisia.md))
+-   Legion Soldiers vs [Authority Officers](Authority_Officer.md) ([Upper Erisia](Upper_Erisia.md))
 
 A Legion Soldier wears a [11th Legion Plate](11th_Legion_Plate.md), a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md) with their [race](Aspects.md).
 

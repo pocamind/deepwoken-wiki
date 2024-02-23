@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 90108
+revid: 90239
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -45,6 +45,7 @@ The only way to obtain each ability is to grip a player with an Oath, this howev
 -   **Entropy Link**
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
     -   You can carry objects and people during teleportation. If you are carrying a player, they can die after teleporting.
+    -   Having no stardust, or if you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
     -   Teleportation locations:
         -   Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
         -   Eunomia (Above [Sibex](Sibex.md))

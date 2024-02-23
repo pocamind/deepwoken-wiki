@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 88838
+revid: 90238
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items, Oaths, World]
@@ -26,6 +26,7 @@ It is also used for the obtainment of the [Saltchemist Oath.](Oath%253A_Saltchem
 
 ## Trivia
 
+-   Having no stardust, or if you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
 -   Current known teleportation locations are...
     1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md))
     2.  Eunomia (Above [Sibex](Sibex.md))
