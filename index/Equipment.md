@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 89914
+revid: 90305
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -111,7 +111,7 @@ Every equipment item you come across has a chance to be Starred. Stars on an equ
   <td>N/A</td>
 </tr>
 <tr>
-  <td>%Monster Armor</td>
+  <td>%Monster Armor (also gives 1% PHY and ELM)</td>
   <td>4</td>
   <td>4</td>
   <td>N/A</td>
@@ -1752,6 +1752,8 @@ Found from:
  | 
 
 _+8 Health_  
+
++1 Uncommon Pip  
 
 +1 Rare Pip  
 

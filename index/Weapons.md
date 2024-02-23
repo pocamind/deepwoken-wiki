@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 90295
+revid: 90310
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1996,6 +1996,18 @@ Weapons that are exclusive for special people.
   <td>49.9</td>
 </tr>
 <tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Carrion%27s_Moonseye_Scalpel"><font>Moonseye Scalpel</font></a></td>
+  <td>80 MED</td>
+  <td>18.5</td>
+  <td>25%</td>
+  <td>13 INT</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.72x</td>
+  <td>N/A</td>
+  <td>41.9</td>
+</tr>
+<tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Lorenzo%27s_Glaive"><font>Lorenzo's Glaive</font></a></td>
   <td>???</td>
   <td>10</td>
@@ -2009,7 +2021,7 @@ Weapons that are exclusive for special people.
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Moon_Blades"><font>Moon Blades</font></a> (<b>Bleed</b>)</td>
-  <td>60 Light, 30 Intelligence</td>
+  <td>60 LHT, 30 INT</td>
   <td>13 + 3.9 BLD</td>
   <td>30%</td>
   <td>8 LHT, 2 INT</td>
@@ -2018,18 +2030,6 @@ Weapons that are exclusive for special people.
   <td>0.98x</td>
   <td>0.05s</td>
   <td>33.4(<b>Bleed</b>)</td>
-</tr>
-<tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Carrion%27s_Moonseye_Scalpel"><font>Moonseye Scalpel</font></a></td>
-  <td>80 MED</td>
-  <td>18.5</td>
-  <td>25%</td>
-  <td>13 INT</td>
-  <td>5</td>
-  <td>9</td>
-  <td>0.72x</td>
-  <td>N/A</td>
-  <td>41.9</td>
 </tr>
 </tbody>
 </table>

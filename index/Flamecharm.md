@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 89589
+revid: 90314
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1352,9 +1352,10 @@ N/A
 -   The **Graceful Flame** mantra does not allow anyone to cook food, regardless of its Level.
 -   The **Flame Leap** mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
 -   The **Flame Leap** mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
--   Flamecharm's **Burn** damage scales off Elemental intensity, Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
+-   Flamecharm's **Burn** damage scales Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
 -   Flamecharm is currently the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md).
 -   If the character has the "Azure Flames" talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
+-   Contrary to popular belief, Elemental Intensity on Flamecharm does **NOT** increase burn damage.
 
 ## References
 

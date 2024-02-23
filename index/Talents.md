@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 90207
+revid: 90313
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -636,7 +636,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You can toggle spell shout visibility by typing '/e shout' into chat. This setting is per-slot. If you have spell shout visibility disabled, you won't see anyone's spell shouts
     -   **IMPORTANT:** Make sure to not use offensive names or slurs for your mantras. This can result in moderation action taken against you.
         -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
-    -   Prerequisite: Obtaining the talent from [Valkior](Valikor.md)
+    -   Prerequisite: Obtaining the Talent from [Valkior](Valikor.md)
 
 -   The Sound from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
     -   Prerequisite: Power 2.
@@ -674,7 +674,6 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
     -   Restore 5% Posture on a successful dodge.
-    -   Unlisted: Gain 4% Tempo on a successful dodge.
     -   Prerequisite: 15 Strength, 45 Agility.
 
 -   Strong Hold \[Common Talent\] - When above half health and two-handing, posture damage taken is reduced by 20%. (+9 Carry Load, +1 Passive Agility)
@@ -1487,9 +1486,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 > _**"My soul is an instrument with its own frequency."**_
 
 -   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity).
-
--   Affected targets takes 25% more damage.
-    -   Affected targets deals 15% less posture damage.
+    -   Affected targets takes 25% more damage and deals 15% less posture damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 
 -   _**Murmur: Ardour** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the Murmur into raw strength. Press H._
