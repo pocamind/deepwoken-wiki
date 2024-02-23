@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 90099
+revid: 90295
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -64,6 +64,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md)
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 60 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md).)
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
+-   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some certain special people.
 
 ## Types of Weapons
 
@@ -1960,6 +1961,75 @@ Offhand weapons are weapons that can be wielded at the same time along with your
   <td>1</td>
   <td>12</td>
   <td>0.8x</td>
+</tr>
+</tbody>
+</table>
+
+**Exclusive Weapons:**
+
+Weapons that are exclusive for special people.
+
+<table>
+<tbody>
+<tr>
+  <td><b>Name</b></td>
+  <td><b>Requirements</b></td>
+  <td><b>Damage</b></td>
+  <td><b>Penetration</b></td>
+  <td><b>Scaling</b></td>
+  <td><b>Weight</b></td>
+  <td><b>Range</b></td>
+  <td><b>Swing Speed</b></td>
+  <td><b>Endlag</b></td>
+  <td><b>Scaled Damage</b></td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Calamity_Cinnabar"><font>Calamity Cinnabar</font></a></td>
+  <td>75 SDW, 40 HVY, Power 10</td>
+  <td>22</td>
+  <td>N/A</td>
+  <td>9 SHDW, 4 HVY</td>
+  <td>9</td>
+  <td>9</td>
+  <td>0.64x</td>
+  <td>0.15s</td>
+  <td>49.9</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Lorenzo%27s_Glaive"><font>Lorenzo's Glaive</font></a></td>
+  <td>???</td>
+  <td>10</td>
+  <td>???</td>
+  <td>30 CHA</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.8x</td>
+  <td>???</td>
+  <td>39.25</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Moon_Blades"><font>Moon Blades</font></a> (<b>Bleed</b>)</td>
+  <td>60 Light, 30 Intelligence</td>
+  <td>13 + 3.9 BLD</td>
+  <td>30%</td>
+  <td>8 LHT, 2 INT</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>0.98x</td>
+  <td>0.05s</td>
+  <td>33.4(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Carrion%27s_Moonseye_Scalpel"><font>Moonseye Scalpel</font></a></td>
+  <td>80 MED</td>
+  <td>18.5</td>
+  <td>25%</td>
+  <td>13 INT</td>
+  <td>5</td>
+  <td>9</td>
+  <td>0.72x</td>
+  <td>N/A</td>
+  <td>41.9</td>
 </tr>
 </tbody>
 </table>

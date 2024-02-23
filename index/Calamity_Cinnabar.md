@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 90266
+revid: 90269
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords]
@@ -19,7 +19,7 @@ notices:
 | range | 9 |
 | swing speed | 0.64x |
 | endlag | 0.15s |
-| special effect | Some Shadowcast Passives will be applied on hit. |
+| special effect | Some Shadowcast Passives will be applied on hit and have a mix of black and red effects. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |
 | bankable | Yes |

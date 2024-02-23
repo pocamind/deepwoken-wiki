@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 89944
+revid: 90279
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -16,7 +16,7 @@ _Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
 
 ## Description
 
-**Duke Ishamon Erisia** (commonly shortened to just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
+**Duke Ishamon Erizzia** (commonly shortened to just Duke) is a [Boss](Bosses.md) the player fights during ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest) and is located in [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>) within [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). Defeating him will give you the talent “Attunement Unbound” and “Weapon Unbound,” but only if you have 75 Attunement and/or 75 Weapon upon executing him.
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the Pillars of Erisia mantra in a Whisper hand, a modified version of his Gale Stomp.
 
@@ -252,4 +252,4 @@ Rematch
 
 -   Block Breaker Weapons, including Mantras, like the [Enforcer's Hammer](<Enforcer's_Hammer.md>) and [Mace](Mace.md) carries the battle in Phase 1. You can also use Flame Eruption, Warden's Blades, and Barrage to break the shield.
 
--   Using Warden's Blades modified with Rush Shards, Eternal Logstones, and Blue Gems would make a great modifier, but it's costly. If you want to cheese Duke in phase 1, it's worth it. It might also be worth in phase 2, since you can also attack while it is active, making it a great block breaker if you have [Enforcer's Hammer](<Enforcer's_Hammer.md>) or [Mace](Mace.md).
+-   Using Warden's Blades modified with Rush Shards, Bloodless Gems, and Blue Gems would make a great modifier, but it's costly. Not in Ether with the blue gems. If you want to cheese Duke in phase 1, it's worth it. It might also be worth in phase 2, since you can also attack while it is active, making it a great block breaker. You can also use a high damage weapon like [Evanspear Hand Axe](Evanspear_Greataxe.md) or [Railblade](Railblade.md).
