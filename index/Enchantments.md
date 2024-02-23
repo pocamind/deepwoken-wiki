@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 90128
+revid: 90252
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -39,6 +39,8 @@ There are two variants that enchantments come in:
 
 -   **Blessing -** They have an effect with little to no downsides.
 -   **Curse -** They have an effect along with a downside with the severity depending on the upside.
+
+For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2lBYQ)
 
 ## List of Enchantments
 

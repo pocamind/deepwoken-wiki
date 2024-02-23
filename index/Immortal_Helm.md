@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 90206
+revid: 90251
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]
@@ -31,8 +31,6 @@ The Immortal Helm is an [Equipment](Equipment.md) item under the "Head" category
 This grants the [Talent](Talents.md) "Immortality", which gives knock prevention for two seconds for one hit whilst at 1% HP.
 
 The Immortal Helm drops from the bodies of the [Immortal Guardians](Immortal_Guardian.md) and cannot drop from a chest.
-
-Said to be inspired by the character Bondrewd from Made in Abyss
 
 ## Trivia
 

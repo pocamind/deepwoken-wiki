@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 90028
+revid: 90256
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -141,7 +141,7 @@ The following is speculation:
 ## Trivia
 
 -   The Deepbound Origin was originally a Flaw; but was changed into an Origin during the 8/22/2022 update.
-    -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tacky mobs to progress - unless, of course, you're down to fight an Enforcer for 10 minutes in order to leave instead. This can be good though, as depths mobs allow you to get heaps of XP and let you level up very quickly as a low level in the depths.
+    -   Debatably it is still a flaw because of how absolutely horrendous it is to be stuck in the Depths as a freshie where you're forced to fight unbelievably tanky mobs to progress - unless, of course, you're down to fight an Enforcer for 10 minutes in order to leave instead. This can be good though, as depths mobs allow you to get heaps of XP and let you level up very quickly as a low level in the depths.
     -   **Deepbound is obtained _only_ after talking to Akira about joining The Divers; you don't have to accept the request to join the Guild in order to obtain Deepbound. This misconception led to a handful of players leaving/disbanding their guilds.**
     -   There was a bug in which joining The Divers as an Officer or Leader of your own guild would make you one in the Divers guild.
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester.[\[1\]](#cite-note-1)

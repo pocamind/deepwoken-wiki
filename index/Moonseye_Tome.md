@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 87651
+revid: 90255
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -42,3 +42,4 @@ Attempting to use at Knowledge Cap (99), _"Your mind is too full to take in the 
 -   The secret "Mural" when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye, fitting considering the "Lunar Cult" the Tome belonged to.
 -   Using the tome while inside of the Voidsea will make the "Mural" far, far clearer.
 -   This relic can be stored within the [Item Bank](Item_Bank.md).
+-   This relic is probably a reference to the elder scrolls in Skyrim as for their ability to take the reader's sight.
