@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 90313
+revid: 90321
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -882,7 +882,7 @@ _**"I'm built different" - Cannot Give Talents**_
     -   Prerequisites: Frostdraw at Power 1 or obtain through Frostdraw Trainer (Nell)
 -   Glacial Ice \[Common Talent, Frostdraw Exclusive\] - Your frost is now considerably more intense. (+6 Sanity)
     -   Prerequisites: 50 Frostdraw, 20 Willpower
-    -   Increases your Elemental Intensity
+    -   Increases the size of your ice placed on the ground.
 
 -   Master Frostdrawer \[Frostdraw Exclusive\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
     -   Prerequisites: 50 Frostdraw

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 83849
+revid: 90326
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -70,3 +70,6 @@ A Songseeker Galebreather executes it's opponents after knocking them:
 -   They look exactly like [Thunder Songseekers](Songseeker_Thundercaller.md).
 -   They were originally not in the game. When added, it was stated in the update log that they had 'been on vacation.'
 -   They are the only songseekers to have only 3 mantras.
+-   **Songseekers** use the following outfits made by **SirAndrove2:**
+-   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
+-   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants

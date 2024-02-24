@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 89923
+revid: 90330
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -34,6 +34,18 @@ categories: [Pages with broken file links, Oaths]
 5.  Unlock your [Resonance](Resonance.md).
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?"
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you WILL NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind.
+
+Important note: **YOU WILL BE LOCKED OUT OF CONTRACTOR IF YOU CHOOSE TO TALK TO LORD REGENT WITH NEGATIVE MINISTRY REP**
+
+-   To prevent this from happening, you can do the four shrines, resonance, and duke quest in any order, but when you complete the duke quest, **DO NOT TALK TO LORD REGENT!**
+
+-   Contractor follows a questline similar to the Duke questline, but with its own prerequisites to start:
+
+1.  Gain Neutral+ Ministry rep (Signified by the flavor text "The ministry no longer sees you as worth fighting". Check your rep at a campfire if you are unsure.
+2.  Defeat the Duke. You don't need to get the grip, but be in the dungeon as the duke is killed.
+3.  With your Neutral+ Ministry rep (See 1) talk to the Lord Regent. When the Lord Regent asks if the Forge is cleared, **CHOOSE TO BITE YOUR TONGUE**. Choosing "How am I supposed to move something that big" will result in you getting locked out of the oath.
+4.  Talk to Yun'Shul, asking "What is this place".
+5.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you WILL NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind.
 
 _Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
 
@@ -91,5 +103,5 @@ Up close Contractor strings
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
 -   If you, for some reason, do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are a fool" and kill you instantly.
 -   Being a member of The Divers will prevent your reputation from being drained when you swear the Oath.
--   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
+-   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
 -   This oath could be a reference to an anime Darker Than Black, where main character is called a contractor, his eyes are plain, without life. In the first opening there is a scene of him being pulled by black strings similar to the Judgement mantra.

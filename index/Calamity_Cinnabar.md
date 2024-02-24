@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 90311
+revid: 90343
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons, Greatswords]
@@ -19,19 +19,19 @@ notices:
 | range | 9 |
 | swing speed | 0.64x |
 | endlag | 0.15s |
-| special effect | Some Shadowcast Passives will be applied on hit and have a mix of black and red effects. |
+| special effect | Some Shadowcast Passives will be applied on hit. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Exclusive Weapons |
+| obtainment | N/A |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |
 
 ## Description
 
-The **Calamity Cinnabar** is a dark gray Lance with eyes on it and a bloody red tip.
+The **Calamity Cinnabar** is a dark gray lance with eyes on it and a bloody red tip.
 
 The Calamity Cinnabar comes with 2 passive abilities:
 

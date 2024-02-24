@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 89828
+revid: 90338
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -38,3 +38,6 @@ This Outfit's Schematic can be found in:
 -   The outdated version is similar to [Robin's](https://cdn.discordapp.com/attachments/1200116609180766248/1208639913071878204/latest.png?ex=65e404a2&is=65d18fa2&hm=b940e47aa33adb8ebaa0d476f0edc6e1f68c2113d144b7af10d31214721f96bd&) outfit from the Fire Emblem series.
 -   Expect to get a minimum of +40 Ether on common builds, with an upper limit of +100 Ether with certain talent and oaths.
 -   A functionally superior version of [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).
+-   **Current** pathfinder arch-sorcerer is made by **KAHAEL:**
+-   [https://www.roblox.com/catalog/10378359719/Pathfinder-Arch-Sorcerer-Shirt](https://www.roblox.com/catalog/10378359719/Pathfinder-Arch-Sorcerer-Shirt)
+-   [https://www.roblox.com/catalog/10378362303/Pathfinder-Arch-Sorcerer-Pants](https://www.roblox.com/catalog/10378362303/Pathfinder-Arch-Sorcerer-Pants)

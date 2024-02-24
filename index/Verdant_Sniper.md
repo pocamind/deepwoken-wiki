@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 85769
+revid: 90339
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -32,3 +32,6 @@ This Outfit's Schematic can be found at:
 
 -   This armor has a 3D collar, a trait shared only with the [Prophet’s Cloak](<Prophet's_Cloak.md>)
 -   This armor and it's description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
+-   **Current** verdant sniper is an outfit made by **KAHAEL**:
+-   [https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt](https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt)
+-   [https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants](https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants)

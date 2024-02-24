@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 83848
+revid: 90324
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -65,3 +65,9 @@ A Songseeker Thundercaller executes it's opponent after knocking them:
 -   Constantly flourishing them/using Mantras will prevent them from spamming Mantras.
 -   Songseeker Thundercallers can pose a significant threat if they team up with a Songseeker Flamecharmer or a Songseeker Frostdrawer. Always block Lightning Stream since their range and landing the Mantra is quite high, grabbing you back to them.
 -   Running away from Thundercallers can be difficult since they will immediately use Lighting Stream.
+
+## Trivia
+
+-   **Songseekers** use the following outfits made by **SirAndrove2**:
+-   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
+-   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants

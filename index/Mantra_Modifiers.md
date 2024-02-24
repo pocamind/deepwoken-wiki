@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 89854
+revid: 90354
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement, Spells, Mantras, Items]
@@ -1340,3 +1340,4 @@ File:Dark Blade with Tornado Spark.gif
 -   Mantra modifying will not always cost notes.
 -   Longstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun). They will dissolve into black, but the duration will still be modified.
 -   Vibrant Gems and Crystal Lenses can point towards mantra tables.
+-   Blast Spark Wind Gun could possibly be a reference to the Knuckleblaster Arm from ULTRAKILL

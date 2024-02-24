@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 89386
+revid: 90322
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -59,3 +59,6 @@ Despite his mystique and power, he is still very much a mortal man. He shows sig
             -   Initially he would kill you for attempting it, but that feature was removed.
 -   Zi'eer (Lord Regent) Colors: #f7eae3 Skin | #DBCECE Hair | #111111 Blindfold | #8c0f82 Pupils (Hidden) | #cbd2ff Sclera (Hidden)
 -   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight. You can however try to dye the default blindfold into black instead of getting the actual black variant of the blindfold to replicate his.
+-   Zi'eer's outfits are the following outfits made by **SirAndrove2**
+-   [https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) - Shirt
+-   [https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider](https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider) - Pants

@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 85765
+revid: 90335
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -37,3 +37,6 @@ This Outfit's Schematic can be found:
 -   One of the most difficult and least used expert armors to craft due to the amount of materials needed to craft and that terrible stats it provides. Thus, it is recommended to use another Expert armor.
 -   Regardless of the first statement. Legendary is one of the best armor talent in the game
 -   A valid alternative to master tier armours, so long as you are sufficiently skilled to make use of the Legendary ether gain.
+-   **Current** grandmaster pathfinder is an outfit created by **KAHAEL**:
+-   [https://www.roblox.com/catalog/9639320462/Pathfinder-Cloak-Shirt](https://www.roblox.com/catalog/9639320462/Pathfinder-Cloak-Shirt)
+-   [https://www.roblox.com/catalog/9639386512/Pathfinder-Cloak-Pants](https://www.roblox.com/catalog/9639386512/Pathfinder-Cloak-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 90247
+revid: 90316
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mantras, Character, Attunement, Mechanics]
@@ -35,7 +35,7 @@ uppercut.
     -   Acts similar to an uppercut launching opponents in the air when landed.
     -   Deals moderate damage.
     -   Can apply both Electrified and Burning.
-    -   Compatible with Surge Path and Wraith Path.
+    -   Compatible with Surge Path, Eruption Path, and Wraith Path.
     -   Scales with both Flamecharm and Thundercall.
 
  |
@@ -54,7 +54,7 @@ enemies.
 -   **Requirements: 30 Ironsing, 30 Thundercall**_**,**_ _Combat Mantra_
     -   Deals light damage.
     -   Can apply Electrified.
-    -   Compatible with Surge Path.
+    -   Compatible with Surge Path and Gilded Path.
     -   Scales with both Ironsing and Thundercall.
     -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to summon more.
     -   Can be upgraded with a [Magnet Spark](Mantra_Modifiers.md) allowing it to move.

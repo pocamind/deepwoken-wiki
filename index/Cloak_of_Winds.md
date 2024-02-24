@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 85760
+revid: 90333
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -41,3 +41,6 @@ This Outfit's Schematic can be found in:
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md), boasting an extra 30% Elemental Armor, 25% Shadow Armor but losing the 10% Blunt Armor of Vigil Initiate.
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
 -   The old Cloak of Winds design appears to be a reference to the [White Church Hunter set](https://bloodborne.wiki.fextralife.com/White+Church+Set) from Bloodborne.
+-   **Current** cloak of winds is an outfit made by **KAHAEL:**
+-   [https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt](https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt) - Shirt
+-   [https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants](https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants) - Pants

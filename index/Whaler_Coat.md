@@ -1,6 +1,6 @@
 ---
 title: Whaler Coat
-revid: 85770
+revid: 90340
 source: https://deepwoken.fandom.com/wiki/Whaler_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -36,3 +36,6 @@ This Outfit's Schematic can be found in:
 -   A downgraded version of this armor is granted for free upon starting with the [Voidwalker Origin](Origins.md#voidwalker).
 -   This Outfit used to appear near-identical to the Whaler Initiate Outfit.
 -   Based on the outfit used by the assassin, Volke, in Fire Emblem: Radiant Dawn.
+-   **Current** whaler coat is an outfit made by **KAHAEL**:
+-   [https://www.roblox.com/catalog/10418548625/Whaler-Coat-Shirt](https://www.roblox.com/catalog/10418548625/Whaler-Coat-Shirt)
+-   [https://www.roblox.com/catalog/10418587306/Whaler-Coat-Pants](https://www.roblox.com/catalog/10418587306/Whaler-Coat-Pants)

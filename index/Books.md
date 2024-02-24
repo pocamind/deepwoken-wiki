@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 87474
+revid: 90351
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Community]
@@ -1073,7 +1073,7 @@ Shoulder to shoulder, together, tall!
 > 
 > We stretch our hands above the body of Cirryn, and focus intently. I can sense the great life flowing within this room, from myself, my companions, and the countless white flowers surrounding the coffin. Closing my eyes, I find the vacancy; an empty pocket of life, a soulless body. When a body's soul is trapped within the Depths, traces of the soul can be felt in its rightful body, even whilst the soul attempts to escape the Depths. However, this vessel is completely empty... its soul lost to the confines of the deep forever, it seems. Then, should our task succeed, what would control his body? If there's... bah, I shouldn't waste so much time. I need to focus.
 > 
-> I focus on the vacancy, and then the flowers around me. To Lifeweave is not the act of generating new life, it is the transfer of life. This is the secret we Hivekin live by, and is the truth of our “miracle.” I find the life within the memorial flowers, observing how they act and bend; it shall suffice, with this quantity. I begin to channel their life into the vacancy, then open my eyes. The flowers closest to the coffin wilt within seconds, turning to a dark black. A growing black circle begins to grow around the coffin as each flower dies to the transfer, and I pressure the flowers' life into the place of the soul further. I can feel my head pounding from the stress, as sweat begins to trickle down my forehead, “Gods below...” I mutter to myself, as I redirect the life of hundreds of flowers into the place of Cirryn's soul.
+> I focus on the vacancy, and then the flowers around me. To Lifeweave is not the act of generating new life \[_[sic](https://en.wikipedia.org/wiki/sic)_\], it is the transfer of life. This is the secret we Hivekin live by, and is the truth of our “miracle.” I find the life within the memorial flowers, observing how they act and bend; it shall suffice, with this quantity. I begin to channel their life into the vacancy, then open my eyes. The flowers closest to the coffin wilt within seconds, turning to a dark black. A growing black circle begins to grow around the coffin as each flower dies to the transfer, and I pressure the flowers' life into the place of the soul further. I can feel my head pounding from the stress, as sweat begins to trickle down my forehead, “Gods below...” I mutter to myself, as I redirect the life of hundreds of flowers into the place of Cirryn's soul.
 > 
 > Remaz and K'aal are completely silent, focusing their entire beings into this task as well. A large green pulse emanates over Cirryn's body, a physical sign of our Lifeweave manifestation working so far.
 > 

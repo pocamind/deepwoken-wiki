@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 89567
+revid: 90331
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive Outfits, Outfits]
@@ -29,3 +29,6 @@ Template:ArmorInfobox**Moonseye (Spec Outfit)** is a Unique [Outfit](Outfits.md)
 ## Trivia
 
 -   Worn by melonbeard
+-   Current Moonseye is the following outfit by **SirAndrove2**:
+-   [https://www.roblox.com/catalog/6444393749/Eyes-of-the-Corruptor-Armor](https://www.roblox.com/catalog/6444393749/Eyes-of-the-Corruptor-Armor) - Shirt
+-   [https://www.roblox.com/catalog/6444391630/Eyes-of-the-Corruptor-Armor](https://www.roblox.com/catalog/6444391630/Eyes-of-the-Corruptor-Armor) - Pants

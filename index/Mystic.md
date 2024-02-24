@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 89863
+revid: 90329
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -262,3 +262,6 @@ _"No money, friend? How ever will I feed myself?_
 ## Trivia
 
 -   When you are at a campfire, hovering over classes in your Talent list in-game shows you the Mystic prompt for it.
+-   The mystic uses the following outfits made by **SirAndrove2**:
+-   [https://www.roblox.com/catalog/6400450739/Nilfgaardian](https://www.roblox.com/catalog/6400450739/Nilfgaardian) - Shirt
+-   [https://www.roblox.com/catalog/6399954985/Nilfgaardian](https://www.roblox.com/catalog/6399954985/Nilfgaardian) - Pants

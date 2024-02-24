@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 83847
+revid: 90323
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -70,3 +70,6 @@ A Songseeker Frostdrawer executes it's opponents after knocking them:
 
 -   They are considered one of the most dangerous and tedious to fight humanoid NPCs, **especially** at a low power.
 -   One of the 4 enemies that used to use the old ice eruption.
+-   **Songseekers** use the following outfits made by **SirAndrove2**:
+-   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
+-   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants

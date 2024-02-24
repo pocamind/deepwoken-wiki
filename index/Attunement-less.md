@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 89826
+revid: 90318
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -70,10 +70,9 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <ul>
     <li>A flurry of punches that inflicts light damage on your opponent.</li>
     <li>The move is cancelled upon getting parried in the initial hit.</li>
-    <li>The user may cancel the barrage at any point during it.</li>
+    <li>The user may cancel the barrage at any point during it by right clicking.</li>
     <li>Rapid Punches scales with your Strength attribute.</li>
     <li>Victims struck by the last punch are pushed away.</li>
-    <li>Can be upgraded with Crystal Lenses.(Need more info what does it do when upgraded with crystal lenses.)</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -89,7 +88,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
     <li>A vertical jump that sends the user into the air.</li>
     <li>Altitude travelled decreases significantly as the user loses health.</li>
     <li>Drops carried players/NPCs when used.</li>
-    <li>Fall damage is taken if the user gets high enough. (tested)</li>
+    <li>Fall damage is taken if the user gets high enough.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -117,7 +116,7 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
-    <li>Does WAY too much damage, way too much range</li>
+    <li>Does heavy damage upon hit, and has a range of 20 (studs?, devs didn't specify)</li>
     <li>can be parried, blocked (first hit only, other will land), and dodged.</li>
   </ul></td>
 </tr>
@@ -155,9 +154,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
     -   Cooldown duration scales off the duration of the Mantra.
     -   _Can be upgraded_ with the _Fortitude Talent Cards 'Lord's Tithe' and 'Grand Support'._
     -   When you cast Reinforce and hold **F** afterwards, it applies Reinforce to non-allied people, including mobs, turning it green.
-        -   ~This increases the size of the buff to 15% damage resistance and 5% damage output.~
-        -   Just tested with a friend (with normal reinforce w/5 hits was brought to 64%, with the green reinforce was brought to 63% (because he was hit by the reinforce). (unless this is referring to those (aside yourself) affected by reinforce gaining a 15%, you keep the original 5.
-    -   Upgrading extends the duration of the effect (It can surpass the Mantra's cooldown when upgraded to Level 4 and above).
+    -   Upgrading decreases the mantra's cooldown.
 
  |
 | 
@@ -171,7 +168,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
 -   **Requirements:** _**75 Fortitude,**_ _Support Mantra_
     -   User gains hyperarmor, negating hitstun for the duration of the effect.
     -   Last 5 Seconds by default.
-    -   _Upgrades increase duration by 1 second per level (Tested)_
+    -   _Upgrades increase duration up to a maximum of 8 seconds_
 
  |
 | 
@@ -208,12 +205,11 @@ Agility mantras are mainly based on making sure your enemy can't escape and keep
 -   **Requirements:** _**5 Agility,**_ _Combat Mantra_
     -   A quick dash signified by a red-line effect.
     -   The move teleports you forwards only upon hitting an opponent.
-    -   Teleports the user some distance forward upon activation.
     -   The Range and Damage of the move scales with how much HP the user has left, dealing more damage, but having less range with lesser HP.
-    -   Scales with the user's Power Level and Agility Attribute.
+    -   Scales with the user's Agility Attribute.
     -   With the [Pursuit](Talents.md) talent, Revenge can be used twice in a row if the first use hits.
-    -   **THIS MOVE NOW APPLIES HITSTUN, WAYWARD DOESNT PROC**
-    -   Can be upgraded with Stones and Shards. (Increases range of the Mantra has been tested.)
+    -   Wayward does **NOT** proc on revenge
+    -   Can be upgraded with Stones and Shards. (Increases range of the Mantra).
 
  |
 | 
@@ -230,7 +226,7 @@ File:Dash Mantra Demonstration.gif
     -   Sends the user a considerable distance forward.
     -   Range significantly decreases as the user loses health.
     -   Canceled by attacking.
-    -   Upgrading wont make the dash longer. (Tested)
+    -   Upgrading makes the dash longer.
     -   Can be upgraded with a Spring Spark to lower travel distance but increases amount of uses from 1 to 2.
 
  |
@@ -243,10 +239,9 @@ File:Dash Mantra Demonstration.gif
  | _An adrenaline rush of mobility._ | 
 
 -   **Requirements:** _**20 Agility,**_ _Support Mantra_
-    -   Restores a decent amount of ether periodically.
-    -   Increases movement speed and parkour abilities by ~25%.
-    -   Procs the "Speed Demon" talent. _**(TESTED!)**_
-    -   _Upgrading reduces cooldown. (listed in changelogs)_
+    -   Increases movement speed and parkour abilities
+    -   Procs the "Speed Demon" talent.
+    -   Upgrading reduces cooldown.
     -   Mantra modifiers Cloud Stone, Stratus Stone, Drift Shard, and Rush Shard can be applied, effect unknown.
 
  |
@@ -283,7 +278,7 @@ Intelligence mantras act as "wildcards" in the user's arsenal as they complement
     -   Creates a white flooring pattern around the user.
     -   **Deflects** an attack back to the attacker.
     -   Can be upgraded with Intelligence Talent Cards 'All Knowing,' 'Successive Prediction' and 'Twelve Steps Ahead.'
-    -   Upgrading this Mantra extends the duration.
+    -   Upgrading this Mantra extends the 'prediction' frames (iframes).
 
  |
 
@@ -301,9 +296,8 @@ Willpower mantras are mainly based on enhancing the user's sanity, and dishing i
  | _Gaze into your opponent's souls._ | 
 
 -   **Requirements:** _**30 Willpower**_ _Support Mantra_
-    -   There is a running myth that Gaze will have invisible orbs hit you and increase your sanity, sadly if you believe that you are a gullible fool.
     -   Inflicts shadow insanity on target, causing them to shiver a couple of times. You must be looking at your opponent.
-        -   Shadow insanity doesn't actually reduce your sanity, but it can still cause its effect. (needs more info on what exactly it does)
+        -   Shadow insanity doesn't actually reduce your sanity, but it can still cause the effect of tier 2 insanity (shivering)
     -   Upgrading this Mantra extends the duration.
     -   Can be countered by holding block or wearing a [Blindfold](Blindfold.md).
 
@@ -414,7 +408,7 @@ File:Disguising .gif
  | Ceaseless Slashes (★★★) | _Click to reveal yourself and deliver a rapid flurry of slashes that can chain together._ | 
 
 -   **Requirements: 50 Light Weapon, Combat Mantra**
-    -   Turn invisible and do a bunch of slashes. [https://www.youtube.com/watch?v=aVCpVOJbNK4](https://www.youtube.com/watch?v=aVCpVOJbNK4)
+    -   Turn invisible and do a moderate amount of slashes.
     -   Can be somewhat used as a mobility mantra due to it's compatibility with rush and drift shards.
 
  |
@@ -436,6 +430,7 @@ File:Disguising .gif
 
 -   **Requirements: 20 Light Weapon, Combat Mantra (Requires [Jus Karita](Jus_Karita.md))**
     -   Jump into air and slam down.
+    -   Windup is **HEAVILY** reduced upon being used directly after Karita Leap
 
  |
 
@@ -498,7 +493,7 @@ File:Disguising .gif
   <td>
   <ul>
     <li><b><u>Requirements:</u> <i>50</i></b> <i><b>Medium Weapon</b></i></li>
-    <li><b>First slashes forward, then slash pushes you backwards</b></li>
+    <li>Unleashes 2 slashes, the first moving the user forward, the second launching the user backwards.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -519,7 +514,6 @@ File:Disguising .gif
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Dazes opponents on hit.
     -   Ragdolls and lightly flings opponents away
-    -   (cant be upgrade with perfect lenses)
     -   Deals pitiful damage.
 
  |
@@ -549,6 +543,7 @@ File:Disguising .gif
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
 -   Short Range
+-   At max level, the initial hit posture breaks
 
  |
 

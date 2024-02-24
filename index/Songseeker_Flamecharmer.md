@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 89534
+revid: 90325
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -66,3 +66,9 @@ A Songseeker Flamcharmer executes it's opponent after knocking them:
 -   If not constantly attacked, they become a real threat as they can sometimes only spam Flame Repulsion, which if you're unlucky enough, will hit _and_ aggro other Songseekers.
 -   Despite being immune to assassination, the player can still sneak behind and use a powerful mantra to pile up some good damage.
 -   If you're fighting against this and other Monks, make sure it is _never_ a Galebreather or Thundercaller. The constant mantra spam from the Flamecharmer, as well as having to parry trade and fight against the primary Monk will easily begin to overwhelm you, as well as having anti-running mantras to keep you from going too far.
+
+## Trivia
+
+-   **Songseekers** use the following outfits made by **SirAndrove2:**
+-   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
+-   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants
