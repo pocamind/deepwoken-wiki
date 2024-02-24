@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 89762
+revid: 90423
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -175,8 +175,6 @@ A cave opening facing the Shipwright's building, easy to spot.
 ### _**Castle Ruins**_
 
 -   A castle like building in ruins, nothing of interest is inside or near it, _until you look closely._ Inside the ruins, on the left or right side of the inside, you may find a small crack in the floor which you may drop down into. Inside, a basement could be found with barrels, and possibly chests.
-
-File:Summer company cannon.png
 
 The Summer Company cannon
 

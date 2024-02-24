@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 89642
+revid: 90399
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -84,6 +84,10 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 _Let it be known that applying these things will take some time to master._
 
 _As you play the game and face hardships, knowing how to properly watch over these values will begin to come to you naturally. Ward your frustration should you become disappointed in your progress-- there is still the road ahead, Pathfinder._
+
+## Keybinds
+
+Upon pressing the settings button, an entirely new section will be next to the settings page. Keybinds will allow you to have two different keys for an action, with the first one already being there when you start. To revert something all you would need to do is press the reset button next to the action your changing.
 
 ## Survival Basics
 

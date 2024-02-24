@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 90330
+revid: 90378
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -41,7 +41,7 @@ Important note: **YOU WILL BE LOCKED OUT OF CONTRACTOR IF YOU CHOOSE TO TALK TO 
 
 -   Contractor follows a questline similar to the Duke questline, but with its own prerequisites to start:
 
-1.  Gain Neutral+ Ministry rep (Signified by the flavor text "The ministry no longer sees you as worth fighting". Check your rep at a campfire if you are unsure.
+1.  Gain Neutral+ Ministry rep (Signified by the flavor text "The ministry no longer sees you as worth fighting".) Check your rep at a campfire if you are unsure.
 2.  Defeat the Duke. You don't need to get the grip, but be in the dungeon as the duke is killed.
 3.  With your Neutral+ Ministry rep (See 1) talk to the Lord Regent. When the Lord Regent asks if the Forge is cleared, **CHOOSE TO BITE YOUR TONGUE**. Choosing "How am I supposed to move something that big" will result in you getting locked out of the oath.
 4.  Talk to Yun'Shul, asking "What is this place".

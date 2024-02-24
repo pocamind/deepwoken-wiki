@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 90058
+revid: 90392
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -65,10 +65,6 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
     -   Active frames are larger while in the Illusory Realm.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
-
--   **Mirage From the Deep - Passive**
-    -   While in the **Illusory Realm**, press X to leave early. This will cost 10% of your current HP (and immediately heal back to 4% of it) and leave the victim with a monster from The Depths for the remaining duration.
-    -   The monster can be a: Nautilodaunt, Megalodaunt, King Thresher or Deep Owl.
 
 -   **Cheap Trick - Passive**
     -   When hit while below 50% health, turn invisible and summon an Illusory Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 60s cooldown)

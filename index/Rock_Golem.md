@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 88957
+revid: 90397
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -88,3 +88,4 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 -   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
 -   [Marcus](Marcus.md) seems to be a related golem, although he doesn't attack you on sight, drinks coffee and is infinitely more cool than the other Rock Golems as a result.
 -   You are able to interact with some of these golems, though nothing happens upon pressing the E key.
+-   Parrying the rapid spin attack will cause the golem to take damage.
