@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 90389
+revid: 90462
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -81,4 +81,4 @@ End
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
 -   Ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty under certain conditions, where he is able to activate his "Tempest Eye."
--   Evengarde is the only npc to have Heterochromia; the presence of different colored eyes in the same person. However his green eye is highly likely not genetic but a technique "Tempest Eye,"
+-   Evengarde is the only NPC to have Heterochromia; the presence of different colored eyes in the same person. However his green eye is highly likely not genetic but a technique "Tempest Eye,"

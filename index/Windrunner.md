@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 90328
+revid: 90457
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -51,6 +51,3 @@ You've taken an oath I see.
 ## Trivia
 
 -   In his dialogue, he talks about "_The Contractor that resides within the Palace_" (likely the [Lord Regent](The_Lord_Regent.md)) and "_the Warmaster in his Fortress_" (likely Warden Jericho or Drallis Ehr). He then says "_Two men attempting to keep an Oath... Which oath is right?_".
--   The Windrunner uses the following clothing created by **SirAndrove2**:
--   [https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework) - Shirt
--   [https://www.roblox.com/catalog/5723308891/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723308891/Dark-Sun-Slight-Rework) - Pants

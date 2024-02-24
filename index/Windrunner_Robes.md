@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 90415
+revid: 90465
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ Template:ArmorInfobox**Windrunner Robes** is a Master [Outfit](Outfits.md) in _D
 
 ## Requirements
 
-This Outfit costs and requires 5 Cloths, 5 Fibers, 5 Gale Stones, 5 Vibrant Gems, 8 Erisores and a Wind Gem.
+This Outfit costs and requires 5 Cloths, 5 Fibers, 5 Gale Stones, 5 Vibrant Gems, 8 Erisore and a Wind Gem.
 
 This Outfit requires [Power Level](Talents.md) 10 and 10 Agility.
 
@@ -25,4 +25,12 @@ This Outfit also grants the [Talent Card](Talents.md) _Wind Dancer,_ which grant
 
 This Outfit's Schematic can be found in:
 
--   ???
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+
+## Trivia
+
+-   This Outfit is a reference to the dress worn by [Dark Sun Gwyndolin](https://darksouls.fandom.com/wiki/Dark_Sun_Gwyndolin) from the first _[Dark Souls](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_ video game created by [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware).[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework)

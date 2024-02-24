@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 90315
+revid: 90461
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -87,8 +87,8 @@ If during the waves, the text "Your past comes to haunt you..." appears, then...
 
 The Diluvian Mechanism is a place to be wary of if you're not properly prepared, or with the right people. It isn't a place to make mistakes, and is a place that gives worthy EXP and Rewards if properly defeated. Therefore all players should be equipped with the right talents and equipment to make haste of this trial.
 
--   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless your're Ironsing, have Bloodiron Spirit, or possess Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't even take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
--   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if your doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
+-   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless you're Ironsing, have Bloodiron Spirit, or possess any Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
+-   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
 -   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you can't ironically gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
 -   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the Tidekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
