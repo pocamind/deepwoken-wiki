@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 89487
+revid: 90444
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -19,7 +19,7 @@ Chance of obtaining race: **2.1%**
 
 ## Description
 
-Tirans are an extremely rare race that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 15% less fall damage, and they spawn with an unbreakable glider.
+Tirans are a rare race that has a bird motif. They have special circle-like markings on their face. They have an Agility and Willpower bonus, take 15% less fall damage, and they spawn with an unbreakable glider.
 
 ## Racial Traits
 
@@ -96,7 +96,7 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 ## Trivia
 
 -   Tirans are inspired by people of South and Central American descent.[\[1\]](#cite-note-1)
--   The word "Tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis.
+-   The word "Tiran" originates from Ancient Greek, it means absolute ruler of an Ancient polis. It is also the name of an island off the coasts of Egypt and Saudi Arabia.
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.
 -   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the race at all.

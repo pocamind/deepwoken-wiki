@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 90430
+revid: 90435
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -10,18 +10,15 @@ notices:
 
 # First Layer
 
-File:Depths New Lightning.png
-
 ## Overview
 
 The **First Layer**, also known as **Scyphozia,** is the one of the nine layers of The Depths, embodied with the recently sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their third skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## **Points of Interest**
 
--   [The City of the Drowned](The_City_of_the_Drowned.md)
-    -   [District of Commerce](District_of_Commerce.md)
-    -   [Varicosa District](Varicosa_District.md)
-    -   [The Military District](The_Military_District.md)
+osa District\]\]
+
+-   -   [The Military District](The_Military_District.md)
     -   [The Cathedral of Interstice](Cathedral_of_the_Interstice.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Castle Light](Castle_Light.md)
@@ -31,11 +28,7 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 
 ## **Escaping First Layer**
 
-Detailed map of the entire Depths First Layer
-
-The main method to escape is by the tower, which houses the Trial in the center of the city. The Trial can be reached two ways: ringing the bells to open the bastion gate, or climbing the walls to drop into the bastion.
-
-The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
+(Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
 ## **City Bells**
 
