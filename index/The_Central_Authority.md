@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 88691
+revid: 90561
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -55,7 +55,6 @@ The Central Authority is among the factions to have a Bounty Board.
 
 ## Trivia
 
--   It's very bizarre that this even has to be stated, but the Central Authority are very much racist.
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except Celtor.
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer (Lord Regent) from causing a great drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.

@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 88649
+revid: 90541
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -441,9 +441,30 @@ Gain insanity during the night.
 
   
 
-Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellhardt) (Retired), a developer for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options.
+Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellhardt) (Retired), a developer for Deepwoken, who has an ability that allows players to make a wish from her, from one of three options. (Not an Unlockable Flaw) (Disabled)
 
-(Not an Unlockable Flaw) (Disabled)
+  
+
+ | 
+
+0
+
+ |
+| 
+
+Disgrace
+
+ | 
+
+_"A stain to your honour. Defeat Maestro to remove it."_
+
+ | 
+
+??? - Disables the user's ability to use Yun'shul's whises, except to remove this flaw or escape the Depths
+
+  
+
+Gained from dying to Maestro Evengarde Rest.
 
  | 
 

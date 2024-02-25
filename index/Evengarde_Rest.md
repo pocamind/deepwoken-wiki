@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 90462
+revid: 90550
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -8,11 +8,13 @@ categories: [NPCs, Quests]
 
 # Evengarde Rest
 
-Template:NPC name
+_This is as his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._
+
+He is also a boss: [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) Template:NPC name
 
 ## Description
 
-**"Maestro" Evengarde Rest** is the presumed leader of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon proficiencies. He cannot be attacked and will not attack anyone.
+**Evengarde Rest** is the current Maestro of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon proficiencies. He cannot be attacked and will not attack anyone.
 
 Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's attribute.
 
@@ -25,14 +27,64 @@ Begin
 
  |
 | --- |
-| Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. |
+| _\*A chilling wind seems to pick up within the room as you approach the man. Something in your gut tells you now isn't the time to introduce yourself.\*_ |
+| 
+
+Begin (After Vigil Saviour)
+
+ | 
+
+Begin (After Duke Erisia, Ally Rep, Med)
+
+ |
+| Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? |
+| 
+
+I feel as if we're unprepared against the Lord Regent.
+
+ |
+| _\*He raises an eyebrow.\*_ As much as I hate to admit it... You may be right. _\*A moment of silence passes\*_ |
+| 
+
+...I heard you have an arsenal of weapons in this hall.
+
+ |
+| _\*The Maestro appraises you, his eyes flicking towards you.\*_ I suppose I have amassed a collection over the years. However, those days are over now. Most of my blades are now collecting dust. |
+| 
+
+Could I use them?
+
+ |
+| Hm? Use them? |
+| 
+
+I mean, if they're not being made use of there's no harm in it right?
+
+ |
+| Listen \[Name\], I personally appreciate what you have done for us. However, there are no ordinary blades. They possess formidable strength behind them. |
+| 
+
+What if I prove myself? How about a challenge?
+
+ |
+| _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history. That being said, I have no intention of going easy on you. This blade cannot be handled by the faint of heart. |
+| 
+
+I'll do it.
+
+ |
+| 
+
+End
+
+ |
 | 
 
 I need training.
 
  | 
 
-Maestro, Etrea needs your help. The Lord Regent must be stopped.
+Maestro, Etrea needs your help. The Lord Regent must be stopped. (After Duke Erisia)
 
  |
 | _\*He grimaces.\*_ Be that as it may, his presence is the only thing standing in the way of a full invasion by the Central Authority. My strength alone cannot hold them back. |

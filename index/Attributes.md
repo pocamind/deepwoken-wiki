@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 86660
+revid: 90553
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -69,7 +69,7 @@ You can have a maximum of 327 points on a character at [Power](Power.md) 20 (+1 
 -   Unlocks Agility-related [talents](Talents.md) and [mantras](https://deepwoken.fandom.com/wiki/Attunement-less#Agility_Mantras).
 -   Gain Agility EXP via running, sliding, rolling, dodging, performing backstabs, and using the Ankle Weights.
 -   _**[Unbounded](https://deepwoken.fandom.com/wiki/Attributes_Unbound#Agility_Unbound) by talking to the [Windrunner](Windrunner.md) on top of the mountain directly next to the docks on [Etris](Etris.md).**_
-    -   _You can watch a guide to get to the Windrunner with [Jetstriker](https://deepwoken.fandom.com/wiki/Oaths#Oath:_Jetstriker) and 75 agility [here](https://youtu.be/RoDUDMDaK_g) ._
+    -   _You can watch a guide to get to the Windrunner with [Jetstriker](Oath%253A_Jetstriker.md) and 75 agility [here](https://youtu.be/RoDUDMDaK_g) ._
 
 ### **Intelligence**
 

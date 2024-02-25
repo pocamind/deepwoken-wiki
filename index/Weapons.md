@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 90310
+revid: 90560
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -846,6 +846,20 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>8</td>
   <td>0.74x</td>
   <td>33.7</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Purple_Cloud"><font>Purple Cloud</font></a></td>
+  <td>90 MED, LVL 18</td>
+  <td>17.5</td>
+  <td>15%</td>
+  <td>N/A</td>
+  <td>MED: 9</td>
+  <td>5</td>
+  <td>8</td>
+  <td>0.8x</td>
+  <td>32.9</td>
+  <td></td>
+  <td></td>
 </tr>
 </tbody>
 </table>
@@ -1976,6 +1990,7 @@ Weapons that are exclusive for special people.
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -1988,6 +2003,7 @@ Weapons that are exclusive for special people.
   <td>75 SDW, 40 HVY, Power 10</td>
   <td>22</td>
   <td>N/A</td>
+  <td>???</td>
   <td>9 SHDW, 4 HVY</td>
   <td>9</td>
   <td>9</td>
@@ -2000,6 +2016,7 @@ Weapons that are exclusive for special people.
   <td>80 MED</td>
   <td>18.5</td>
   <td>25%</td>
+  <td>???</td>
   <td>13 INT</td>
   <td>5</td>
   <td>9</td>
@@ -2011,6 +2028,7 @@ Weapons that are exclusive for special people.
   <td><a href="https://deepwoken.fandom.com/wiki/Lorenzo%27s_Glaive"><font>Lorenzo's Glaive</font></a></td>
   <td>???</td>
   <td>10</td>
+  <td>???</td>
   <td>???</td>
   <td>30 CHA</td>
   <td>5</td>
@@ -2024,12 +2042,26 @@ Weapons that are exclusive for special people.
   <td>60 LHT, 30 INT</td>
   <td>13 + 3.9 BLD</td>
   <td>30%</td>
+  <td>???</td>
   <td>8 LHT, 2 INT</td>
   <td>4</td>
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
   <td>33.4(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Unsung_Scythern"><font>Unsung Scythern</font></a></td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
+  <td>???</td>
 </tr>
 </tbody>
 </table>

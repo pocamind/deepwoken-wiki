@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 90424
+revid: 90554
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -28,6 +28,4 @@ Upon reaching 50 [Agility](Attributes.md), Alirian will challenge the player to 
 ## Trivia
 
 -   If you beat her in a race while already possessing an oath, she will only say "Huff".
--   Alirian uses the following outfit by **SirAndrove2**:
--   [https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework) - Shirt
--   [https://www.roblox.com/catalog/5723308891/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723308891/Dark-Sun-Slight-Rework) - Pants
+-   Alirian uses the [Windrunner Robes](Windrunner_Robes.md) outfit.

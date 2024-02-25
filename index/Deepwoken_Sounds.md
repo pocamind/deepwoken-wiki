@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 89615
+revid: 90558
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -96,6 +96,11 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat)
 
  | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
+| 16 | The Windsinger's Dance | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) | 
+
+File:TheWindsinger'sDance.mp3
+
+ |
 | TBA | A God, Manufactured[\[1\]](#cite-note-naktimessage-1)
 
 [\[2\]](#cite-note-naktimessage2-2)
