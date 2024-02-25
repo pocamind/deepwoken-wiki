@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 90686
+revid: 90713
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -11,10 +11,10 @@ categories: [Weapons, Swords, Katanas]
 | Purple Cloud | |
 |---|---|
 | type | Medium Sword |
-| requirements | 90 MED lvl 18 |
+| requirements | 85 MED lvl 10 |
 | damage | 16.5 |
 | scaling | 9 |
-| range | 8 |
+| range | 7 |
 | swing speed | 0.8x |
 | penetration | 15% |
 | weight | 5 |
@@ -27,7 +27,7 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), which can be obtained after defeating the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, random chance afterward), making it the second Legendary obtainable from a boss, the others being the [Flareblood Kamas](Flareblood_Kamas.md). The weapon utilizes your fist and legs in order to attack, unless you use the critical, where you will unsheathe the blade temporarily.
+The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), which can be obtained after defeating the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, random chance afterward)~, making it the second Legendary obtainable from a boss, the others being the [Flareblood Kamas](Flareblood_Kamas.md).~ (this weapon has been confirmed to be a mythic weapon) The weapon utilizes your fist and legs in order to attack, unless you use the critical, where you will unsheathe the blade temporarily.
 
 ## Critical
 

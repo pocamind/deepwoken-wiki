@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 90669
+revid: 90748
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Bosses]
@@ -20,10 +20,11 @@ Upon challenging the Maestro to a fight you'll be transported to the [Temple Spa
 
 To start the fight with the Maestro:
 
-1.  You need an ally reputation with the Etrea (higher than Friend reputation).
-2.  You must complete [the Lost Sibling quest](Isle_of_Vigils.md).
-3.  You need at least 85 MED weapon.
-4.  You must complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+1.  Be Power 16 or higher.
+2.  You need an ally reputation with the Etrea (higher than Friend reputation).
+3.  You must complete [the Lost Sibling quest](Isle_of_Vigils.md).
+4.  You need at least 85 MED weapon. (Tested at 87 and worked)
+5.  You must complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 After completing all those steps, a new dialogue should appear when talking to him. Choosing it will teleport you to the [dungeon](<Temple_Sparring_Hall_(Dungeon).md>).
 
@@ -44,11 +45,22 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 | **Mortal Art: Pressure** | Uses a flash step to approach foes from a great distance and performs a circular slash. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Vent** | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | ◯ | (★☆☆) |
 
+## Talents
+
+-   Brick Wall - Maestro is immune to ragdoll and knockdowns
+-   Silencer's Blade - Maestro basic attacks grants him a speed boost and extend active suffocation effects
+-   A World Without Song - Maestro's gale mantras apply suffocation
+-   Risky Move - Whenever Maestro dodge an attack, he'll automatically dodge the next one
+-   Ghost - Whenever Maestro dodge an attack, he turns invisible
+-   ??? - Maestro is immune to instant guard break effects
+
 ## Strategy
 
 Maestro Evengarde Rest is a rather straightforward fight compared to most other bosses, opting out of any gimmicks or puzzles and instead being a simple duel. A decent mastery of how to parry trade with humanoid NPCs is required to resist his attacks.
 
 His moveset incorporate a mix of a quick, but also delayed moves, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
+
+Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) might also help in the fight as it have a whopping 55% Wind Armor.
 
 ## Appearance
 
@@ -63,3 +75,4 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 -   All his mantras autoexecute, however you can still be manually gripped by him if you die to his critical attack or M1.
 -   You will only gain the disgraced flaw if you are defeated on your first attempt, it is impossible to obtain after this.
 -   If you have the Mahoraga wheel ([https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga)) you get a unique dialogue.
+-   Defeating him awards 2 knowledge. (Unknown whether defeating him again gives more, needs proof)

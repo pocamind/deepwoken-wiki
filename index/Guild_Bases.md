@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 90064
+revid: 90746
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -246,3 +246,4 @@ Bandits raiding a Guild Base.
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
 -   Guild bases are very useful. They can be placed anywhere besides the depths and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
 -   If you glitch out of the Guild Base and are thrown into the void outside, you will spawn outside of your guild base.
+-   All the book in library still be saved even if you deleted the room.

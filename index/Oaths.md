@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 90446
+revid: 90740
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -24,7 +24,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 
 **There are currently 12 obtainable Oaths in _Deepwoken_:**
 
--   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
+-   [Arcwarden](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): +2 Combat Mantra \[No Stat Requirements\]
@@ -49,7 +49,7 @@ It is possible to remove your oath. In order to do so, you must talk to Yun'Shul
 
 Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 
--   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
+-   [Arcwardern](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with The Ignition Union.
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."

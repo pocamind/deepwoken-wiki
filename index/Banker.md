@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 90069
+revid: 90743
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -13,7 +13,7 @@ categories: [NPCs]
 
 ## Overview
 
-Bankers are NPCs that a player can utilize to store items across slots. You can also turn Artifacts to bankers to receive 200 notes and a various assortment of items. Players can also hire bankers inside their guild base to make things easier.
+Bankers are NPCs that a player can utilize to store items across slots. You can also turn [Artifacts](Artifacts.md) to bankers to receive 200 notes and a various assortment of items. Players can also hire bankers inside their guild base to make things easier.
 
 They can be found in:
 
@@ -61,6 +61,6 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 ## Artifacts
 
-Players can also give artifacts to banker NPCs, and in return the player will receive 200 notes and other moderate items, as rare armor, mantra ingredients, weapons, armor schematics, and some XP.
+Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return the player will receive 200 notes and other moderate items, as rare armor, mantra ingredients, weapons, armor schematics, and some XP.
 
 **Note: Artifacts can only be turned in via normal bankers, not the ones in your Guild Base.**

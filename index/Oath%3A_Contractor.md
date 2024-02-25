@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 90378
+revid: 90725
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -26,7 +26,7 @@ categories: [Pages with broken file links, Oaths]
 1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire. Go more towards positive to be safe.
     -   You can either get this through Imel, Emel, and Rimil's bounties if you choose, but you can also help the Ministry out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one Ministry Scout, waiting for the nomads to kill the other, and then assassinate them. This is far less efficient then doing bounties, only giving around half the reputation but double the time to complete.
     -   You must help the Ministry 5-6 times at Summer Isle for them to not see worth fighting you anymore.
-    -   The Bounty version of the Ministry takes about 3-4 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by the Bloodletter Talent will not count.
+    -   The Bounty version of the Ministry takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by the Bloodletter Talent will not count.
     -   It is also advised to avoid killing [Ministry Scouts](https://deepwoken.fandom.com/wiki/Ministry_Scout) if you're looking to acquire this oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline and get kill credit for the duke.
 3.  Go to the Lord Regent and choose the special dialogue “Bite your tongue".
@@ -35,17 +35,9 @@ categories: [Pages with broken file links, Oaths]
 6.  Go to the Depths and talk to [Yun'Shul's shrine](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). Ask it "What happened to this place?"
 7.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you WILL NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind.
 
-Important note: **YOU WILL BE LOCKED OUT OF CONTRACTOR IF YOU CHOOSE TO TALK TO LORD REGENT WITH NEGATIVE MINISTRY REP**
+Important note: **YOU WILL BE LOCKED OUT OF CONTRACTOR IF YOU CHOOSE TO TALK TO LORD REGENT WITH NEGATIVE ETREA OR MINISTRY REP**
 
--   To prevent this from happening, you can do the four shrines, resonance, and duke quest in any order, but when you complete the duke quest, **DO NOT TALK TO LORD REGENT!**
-
--   Contractor follows a questline similar to the Duke questline, but with its own prerequisites to start:
-
-1.  Gain Neutral+ Ministry rep (Signified by the flavor text "The ministry no longer sees you as worth fighting".) Check your rep at a campfire if you are unsure.
-2.  Defeat the Duke. You don't need to get the grip, but be in the dungeon as the duke is killed.
-3.  With your Neutral+ Ministry rep (See 1) talk to the Lord Regent. When the Lord Regent asks if the Forge is cleared, **CHOOSE TO BITE YOUR TONGUE**. Choosing "How am I supposed to move something that big" will result in you getting locked out of the oath.
-4.  Talk to Yun'Shul, asking "What is this place".
-5.  Go back to Regent and select "No, but I know of your true nature. I know you intend to repeat what happened in Celtor by drowning Etris." When he asks "...are you here to stop me?...", afterwards select "No, I came to join you.". If you click the option that says you want to stop him, you WILL NOT be softlocked from obtaining Contractor but he will kill you upon choosing that dialogue. You are allowed to go back to him to click the option to join him should you change your mind.
+-   To prevent this from happening, you can do the four shrines, resonance, and duke quest in any order, but when you complete the duke quest, **DO NOT RETURN TO LORD REGENT** until you complete all previous requirements.
 
 _Upon obtaining this oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a very dark red, making your expression appear almost empty and devoid of good empathy._
 
