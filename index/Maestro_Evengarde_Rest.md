@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 90748
+revid: 90811
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Bosses]
@@ -10,7 +10,7 @@ notices:
 
 # Maestro Evengarde Rest
 
-Template:EnemyInfobox1.0
+_If you're looking for the NPC located in [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._Template:EnemyInfobox1.0
 
 ## Description
 
@@ -22,6 +22,7 @@ To start the fight with the Maestro:
 
 1.  Be Power 16 or higher.
 2.  You need an ally reputation with the Etrea (higher than Friend reputation).
+    -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 3.  You must complete [the Lost Sibling quest](Isle_of_Vigils.md).
 4.  You need at least 85 MED weapon. (Tested at 87 and worked)
 5.  You must complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
@@ -47,20 +48,24 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
 ## Talents
 
--   Brick Wall - Maestro is immune to ragdoll and knockdowns
--   Silencer's Blade - Maestro basic attacks grants him a speed boost and extend active suffocation effects
+-   Brick Wall - Maestro is immune to ragdoll. (Becomes bugged when knockdowned. tested with ascension on starkindred, you can still hit him)
+-   Silencer's Blade - Maestro's basic attacks grants him a speed boost and extend active suffocation effects
 -   A World Without Song - Maestro's gale mantras apply suffocation
--   Risky Move - Whenever Maestro dodge an attack, he'll automatically dodge the next one
--   Ghost - Whenever Maestro dodge an attack, he turns invisible
+-   Risky Moves - Whenever Maestro dodge an attack, he'll automatically dodge the next one
+-   Ghost - Whenever Maestro dodges an attack, he turns invisible
+-   Chronostasis - Maestro's basic attacks puts the enemy's resonance on cooldown
 -   ??? - Maestro is immune to instant guard break effects
+-   Pressure break - When maestro guardbreaks you, get ragdolled and tossed back.
 
 ## Strategy
 
 Maestro Evengarde Rest is a rather straightforward fight compared to most other bosses, opting out of any gimmicks or puzzles and instead being a simple duel. A decent mastery of how to parry trade with humanoid NPCs is required to resist his attacks.
 
-His moveset incorporate a mix of a quick, but also delayed moves, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
-
-Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) might also help in the fight as it have a whopping 55% Wind Armor.
+-   His moveset incorporate a mix of a quick, but also delayed moves, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
+-   Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) or [Summer Dragoon](Summer_Dragoon.md) might also help in the fight as they both have a whopping 55% Wind Armor.
+    -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a subsitute.
+-   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
+-   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear and the enchant Obfuscation will easily chip through his block.
 
 ## Appearance
 
@@ -72,7 +77,9 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 
 -   Maestro Evengarde Rest is the only boss who cannot be fought on all builds, as those not wielding a medium weapon are unable to have a battle with him.
 -   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting, with many of the moves being references to its abilities and bosses, such as Genichiro Ashina.
--   All his mantras autoexecute, however you can still be manually gripped by him if you die to his critical attack or M1.
--   You will only gain the disgraced flaw if you are defeated on your first attempt, it is impossible to obtain after this.
+    -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade) wielded by the protagonist, [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
+-   All of his mantras will automatically execute you, however you can still be manually gripped by him if you die to his critical attack or M1.
+-   You will only gain the disgraced flaw if you are defeated on your first attempt, you do not get it again if you die to him a second time.
 -   If you have the Mahoraga wheel ([https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga)) you get a unique dialogue.
--   Defeating him awards 2 knowledge. (Unknown whether defeating him again gives more, needs proof)
+-   Defeating him awards 2 knowledge. However upon defeating him again you dont get knowledge.
+-   Despite being immune to instant guard breaks, [Radiant Dawn](Oath%253A_Dawnwalker.md) still breaks his guard instantly.

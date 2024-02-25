@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 90685
+revid: 90762
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

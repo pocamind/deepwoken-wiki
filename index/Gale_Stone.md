@@ -1,6 +1,6 @@
 ---
 title: Gale Stone
-revid: 89741
+revid: 90806
 source: https://deepwoken.fandom.com/wiki/Gale_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attunement]
@@ -20,11 +20,10 @@ categories: [Items, Attunement]
 
 ## Description
 
-A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md), in which there is a high chance you will obtain one. It can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils
-
-(Allowing you to go past the lvl 75 limit for Weapon Mastery). You can also use Gale Stones (5) in [Friid's](Friid,_Master_of_Gale.md) quest on the [Isle of Vigils](Isle_of_Vigils.md) in order to learn and unlock the [Galebreathe](Galebreathe.md) attunement for a character (One that has another element).
+A Gale Stone can be acquired by slaying NPCs that use [Galebreathe](Galebreathe.md), in which there is a high chance you will obtain one. They can be used to complete the [Lost Brother](Temple_of_the_Blade.md) quest in the Isle of Vigils, or [Friid's](Friid,_Master_of_Gale.md) quest in order to obtain [Galebreathe](Galebreathe.md).
 
 ## Tips
 
--   Killing [Legion Soldiers](Legion_Soldier.md) and [Etrean Soldier](Etrean_Soldier.md) do drop gale stones during in Erisia ambush event you will not lose reputation, also the Etrean guards at Etris will not drop galestones.
--   Killing [Mudskipper](Mudskipper.md) also have chance to drop galestones but rarely drop.
+-   Killing [Legion Soldiers](Legion_Soldier.md) and [Etrean Soldier](Etrean_Soldier.md) can drop gale stones, and you will not lose reputation among killing them in events at [Erisia](Erisia.md).
+-   the [Etrean Guardsmen](Etrean_Guardsmen.md) at [Etris](Etris.md) do not drop galestones.
+-   Killing [Mudskipper](Mudskipper.md) also has a chance to rarely drop gale stones.

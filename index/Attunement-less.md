@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 90318
+revid: 90790
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -474,7 +474,7 @@ File:Disguising .gif
   </ul></td>
 </tr>
 <tr>
-  <td><figure>File:Attunement-less icon.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td>Flashdraw<p>Strike<br>
   (☆☆☆)</p></td>
   <td><i>Switftly unsheathe your blade and deliver an upwards strike.</i></td>

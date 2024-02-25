@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 90680
+revid: 90782
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greatswords]
@@ -20,7 +20,6 @@ categories: [Weapons, Pages with broken file links, Greatswords]
 | penetration | 30% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | 4 pennys |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |
@@ -40,7 +39,6 @@ The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare drop from sla
 The user plunges their sword into the ground, similar to Flame Eruption, causing everyone near the user to be burnt. This is followed up with flaming swords raining from the sky, similar to the Crimson Megalodaunt's Pyroclastic Roar. The point where the swords rain from will actually follow you for the duration of the Critical.
 
 -   It is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers.
--   fire owchie burns my toes
 
 ## Trivia
 

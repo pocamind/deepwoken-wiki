@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 89985
+revid: 90796
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -144,7 +144,7 @@ General store
 
 -   Talk to Jim, a Red-Haired Canor located in a house within [Etris Docks](Etris_Docks.md).
 -   He mutters about lacking the necessary ingredients- Agreeing to help him requires 2 Dying Embers.
--   Reward of completing this quest is a random high tier manta modifier.
+-   Reward of completing this quest is a random high tier mantra modifier.
 
 ### Lumberjack Quest
 

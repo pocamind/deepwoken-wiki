@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 90637
+revid: 90757
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -452,18 +452,19 @@ Gained from making a wish from [Iltria](Developer_Specs.md#iltria-leafre-spellha
  |
 | 
 
-Disgrace
+Disgraced
 
  | 
 
-_"A stain to your honour. Defeat Maestro to remove it."_
+_"A stain upon your honour. Defeat Maestro to remove it."_
 
  | 
 
-??? - Unknown
+??? - Unknown. Might influence Yun'shul wishes (?, need confirment)
 
   
 
+  
 Gained from dying to Maestro Evengarde Rest.
 
  | 

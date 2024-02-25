@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 90399
+revid: 90750
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -87,7 +87,9 @@ _As you play the game and face hardships, knowing how to properly watch over the
 
 ## Keybinds
 
-Upon pressing the settings button, an entirely new section will be next to the settings page. Keybinds will allow you to have two different keys for an action, with the first one already being there when you start. To revert something all you would need to do is press the reset button next to the action your changing.
+Upon pressing the settings button, an entirely new section will be next to the settings page. Keybinds will allow you to have two different keys for an action, with the first one already being there when you start. To revert something all you would need to do is press the reset button next to the action you're changing.
+
+Certain actions such as Ironsing pull and Murmur require you to have access to them on the slot you're currently using in order to change their Keybinds. Currently, you are unable to change Keybinds for sailing.
 
 ## Survival Basics
 

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 90085
+revid: 90773
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -112,6 +112,7 @@ categories: [Deepwoken]
 -   **[Angels](Hollow_Angel.md)** are nearly identical to [Angels](https://www.reddit.com/r/deepwoken/comments/ssj9ch/angels_based_on_the_angelic_demons_from/) from the _Castlevania_ Anime.
 -   **[The Dread Serpent](Dread_Serpent.md)** is inspired by [Kaidou's Beast Form](https://onepiece.fandom.com/wiki/Uo_Uo_no_Mi,_Model:_Seiryu), from _One Piece_.
     -   While Kaidou's beast form is indeed based on Dragons from Eastern Mythology, The Dread Serpent shares many similarities with Kaidou, in specific.
+    -   The Dread Serpent's roar comes from Monster hunter 4 Ultimate. its the same audio as Gore Magala's roar.
 -   [**The Duke**](Duke_Ishamon_Erisia.md) is inspired by the [Accelerator](https://toarumajutsunoindex.fandom.com/wiki/Accelerator) from _Toaru Majutsu no Index._
     -   The moves he uses are taken from [Accelerator's moveset](https://animebattlearenaaba.fandom.com/wiki/Accelerator) in _[Anime Battle Arena](https://www.roblox.com/games/1458767429/ENEL-STUFF-ABA)_. They also both laugh manically after landing a counter.
         -   Par, one of the developers of _Deepwoken_, who designed the Duke, also works on _Anime Battle Arena._ This could be the reason why their movesets are the same.
