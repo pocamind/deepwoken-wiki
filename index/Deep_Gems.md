@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 90355
+revid: 90647
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -49,7 +49,7 @@ To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This w
 <tr>
   <td><figure><figcaption></figcaption></figure></td>
   <td>Blue Gem</td>
-  <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.<p>This is the only gem that provide a tangible effects to mantras that do not hit enemies.</p></td>
+  <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.<p>This is the only gem that provides a tangible effect to mantras that do not hit enemies.</p></td>
 </tr>
 <tr>
   <td><figure>File:Gfggggg.png<figcaption></figcaption></figure></td>

@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 90550
+revid: 90576
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -8,9 +8,7 @@ categories: [NPCs, Quests]
 
 # Evengarde Rest
 
-_This is as his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._
-
-He is also a boss: [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) Template:NPC name
+_This is as his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._ Template:NPC name
 
 ## Description
 
@@ -128,7 +126,6 @@ End
 ## Trivia
 
 -   Kelsius is highly grateful towards Evengarde for taking him in, in spite of his complicated past as a war criminal.
--   Presumably a [Galebreather](Galebreathe.md), given that the other Vigils are. There is also a Galebreathe talent named "Maestro's Blade", which allows the user to enhance their weapon by inhaling their mantras.
 -   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel), these are only mentioned during his training and are not shown in-game.
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."

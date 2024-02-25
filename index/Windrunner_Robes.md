@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 90497
+revid: 90685
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,6 +31,7 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   This Outfit is a reference to the dress worn by [Dark Sun Gwyndolin](https://darksouls.fandom.com/wiki/Dark_Sun_Gwyndolin) from the first _[Dark Souls](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_ video game created by [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware).[\[1\]](#cite-note-1)
+-   This Outfit is the first master outfit to not require Power Level 15.
 
 ## References
 

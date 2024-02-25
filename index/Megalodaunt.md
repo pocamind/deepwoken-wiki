@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 90191
+revid: 90679
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
@@ -16,7 +16,7 @@ notices:
 
 _Commonly referred to as **Sharko**_
 
-_For a video tutorial, consider watching [this video](https://www.youtube.com/watch?v=b_6MPKNOnQs&t=14s)._
+_For a video tutorial, consider watching [this video](https://www.youtube.com/watch?v=b_6MPKNOnQs&t=14s). (seriously, your watching a video on how to fight this? pathetic.)_
 
 **Megalodaunt:**
 
@@ -317,7 +317,7 @@ Blazing Kick
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
 -   Missing the dodge means you'll waste a roll putting out the flames.
--   Simply do not roll cancel and always roll to the side so that if you miss the roll, the Sharko will still miss the kick.
+-   Simply do not roll cancel and always roll to the side so that if you miss the roll, the Sharko will still miss the kick. this shark REALLY likes to kick man its starting to make me upset
 -   This ability is only used by itself and will not be used in the Slash + Kick combo.
 
  | ✗ | ✗ | ◯ | (★★★) |
@@ -362,7 +362,7 @@ Roar
 
 | Name | Description |
 | --- | --- |
-| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+| Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s |
 
 ### Passives
 
@@ -404,3 +404,4 @@ Roar
 -   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts.
 -   Megalodaunts apparently CAN talk via the dialogue bug that occurs when NPC's are left alone together. The more you know.
 -   Clip of the tacet dropkick and proof of attack. - [https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO?invite=cr-MSxBVzEsMjAxODY4NjAyLA](https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO?invite=cr-MSxBVzEsMjAxODY4NjAyLA)
+-   theres a 1/100000 chance whenever a sharko spawns it will have a really cute anime kawaii face

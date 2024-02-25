@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 88645
+revid: 90646
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -28,13 +28,13 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 
  | 
 
+-   The Depth's Collapse event
 -   [Second Layer](Second_Layer.md)
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)  
-      
     
 
 **(~1%)**

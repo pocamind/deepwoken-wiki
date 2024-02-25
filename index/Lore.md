@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 90236
+revid: 90632
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -223,7 +223,7 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 -   He is known to the divers by the name of Dr. Diver, and to the Apothecary as Dr. Carrion. The reason he changes his name is unknown.
 -   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
 -   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems.
--   He uses a unique weapon called the "Moonseye Scapel."
+-   He uses a unique weapon called the "Moonseye Scalpel."
 
 ### **Deukalion Akarad, the First Black Diver.**
 

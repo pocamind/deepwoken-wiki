@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 90541
+revid: 90637
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -460,7 +460,7 @@ _"A stain to your honour. Defeat Maestro to remove it."_
 
  | 
 
-??? - Disables the user's ability to use Yun'shul's whises, except to remove this flaw or escape the Depths
+??? - Unknown
 
   
 
@@ -474,7 +474,6 @@ Gained from dying to Maestro Evengarde Rest.
 
 ## Trivia
 
--   While **Haemophilia** is amongst one of the worst Flaws in PVP and PVE due to enchants like _Curse of the Bloodthirsty_ and mobs that do bleed damage, its effects can actually be reduced with talents like _Alloyblood_ and _Cauterized Wounds_.
 -   Some Flaws are more worth taking than others:
     -   Deficient can be a problem even in attunement-less builds, as you will suffer in long-term fights and when you use high-cost mantras, and your only main source of damage is your M1s. Generally, not worth taking. However, if you decide to go for [Silentheart](Oaths.md), the effect is minor, since you won't be able to use any mantras but can still use ether in other ways.
     -   Fugitive can be worked around if you manage to get reputation with most factions, some might be harder than others.
@@ -485,6 +484,7 @@ Gained from dying to Maestro Evengarde Rest.
     -   Squeamish will cause you to lose stomach upon killing (can be negated if you obtain the [Carnivore Talent](Talents.md#apex-predator), as this will cause you to instead gain stomach and hydration after killing) and food-based buffs more quickly; other than that, you typically won't eat more than other characters. Regardless, be sure to carry an ample supply of food.
     -   Vegetarian’s inability to consume meat can be easily avoided; there are many other food sources other than meat/meat related items but picking this card will make it impossible to obtain the Carnivore Talent, which is very useful.
     -   Blind gives you the Blinded effect. All of the time. If you can live through it and get Blindseer, you can negate the problem the flaw gives. This flaw does not provide protection from flame blind and gaze.
+    -   Haemophilia is basically a free point, as the increased blood drain is barely noticeable and only about 5 players use bloodthirsty/NLK, and even if you do run into these players, you'll be knocked long before you lose all your blood.
 -   Some boons are more worth taking than others:
     -   Autodidact is useful to help level up certain stat quicker or level up stats that are annoying to do manually. If you die, you can also power up to restore your two lives. However, a side effect of free investment points is that you will often be in EXP Debt, as you will "progress" more without meeting proper EXP quotas, hitting training caps faster. Also becomes useless once you reach power 20. Although this boon stacks with the Adret racial buff.
     -   Gourmet is a well-rounded boon that even stacks with its Talent variant. You spend less time making food overall which is great for extended adventures with limited supplies. Not worth picking if you're going to choose Carnivore, though.

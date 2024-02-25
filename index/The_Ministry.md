@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 90232
+revid: 90575
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -50,6 +50,6 @@ Obtaining [Murmur: Tacet](Murmur.md) from [Cestis](Cestis.md) will also net you 
 
 ## Trivia
 
--   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md).
+-   [Ministry](Ministry_Scout.md) [enemies](Ministry_Necromancer.md) all use a [Krulian Knife](Krulian_Knife.md), besides the [Ministry Enforcer](Ministry_Enforcer.md) and Nostor.
 -   Though any player can achieve Shadowcast with little repercussion, Shadowcast is seen as a Ministry exclusive attunement, and those who possess it are persecuted.
     -   This makes them the only faction to have an exclusive attunement.

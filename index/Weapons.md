@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 90560
+revid: 90683
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -850,15 +850,14 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Purple_Cloud"><font>Purple Cloud</font></a></td>
   <td>90 MED, LVL 18</td>
-  <td>17.5</td>
+  <td>16.5</td>
   <td>15%</td>
   <td>N/A</td>
   <td>MED: 9</td>
   <td>5</td>
   <td>8</td>
   <td>0.8x</td>
-  <td>32.9</td>
-  <td></td>
+  <td>30.97</td>
   <td></td>
 </tr>
 </tbody>
