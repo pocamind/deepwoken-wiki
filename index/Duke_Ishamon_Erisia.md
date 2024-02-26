@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 90909
+revid: 90996
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -125,6 +125,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 -   Showstopper - When you roll through one of Duke's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
 -   Berserker - When Duke knocks an ennemy, he gains 20% DMG resistance for 15 seconds.
 -   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
+-   ??? - Duke is immune to instant guard break effects.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 85721
+revid: 91008
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -187,6 +187,7 @@ Witherald lifting The Meat Lord
     -   Additionally, the Glazed Fish model is placed incorrectly on the hand compared to other plate dishes.
 -   Where did the garnish on the Omelettes come from? The world will never know.
 -   Sushi used to be unique, in that it was completely weightless. However this is no longer the case, as it has now been assigned 2 weight.
+-   The **Kyrsdog** is a reference to the [hot dog](https://en.wikipedia.org/wiki/Hot_dog) from [real life](https://en.wikipedia.org/wiki/Earth)
 
 ## Bugs
 

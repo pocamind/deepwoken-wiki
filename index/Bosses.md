@@ -1,6 +1,6 @@
 ---
 title: Bosses
-revid: 90850
+revid: 91004
 source: https://deepwoken.fandom.com/wiki/Bosses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -14,9 +14,7 @@ _This page is for bosses. For Monster enemies, see [Monsters](Monsters.md). For 
 
 **Bosses** in Deepwoken are powerful [Enemies](Enemies.md) and [Monsters](Monsters.md) that possess heavy backstories and unique abilities. They award [Progress](Resonance.md), [Knowledge](Knowledge.md), and unique [weapons](Weapons.md) such as the [Forgotten Gladius](Forgotten_Gladius.md) or [Krulian Knife](Krulian_Knife.md).
 
-**As of the 24/02/2024 Update, all bosses are no longer able to be Instant Guardbroken by mantras or weapon criticals.**
-
-**Bosses** are called as such due to being able to unlock the Chain of Perfection talent if slayed without taking damage, but every boss on this list has at least one of the following:
+**Bosses** are called as such due to being able to unlock the Chain of Perfection Talent if slayed without taking damage, but every boss on this list has at least one of the following:
 
 -   Unique Summoning System or Guaranteed Spawns
 -   Unique Drops

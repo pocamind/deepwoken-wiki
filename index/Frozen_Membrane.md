@@ -1,6 +1,6 @@
 ---
 title: Frozen Membrane
-revid: 90871
+revid: 91007
 source: https://deepwoken.fandom.com/wiki/Frozen_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Drops]
@@ -22,5 +22,5 @@ A **Frozen Membrane** is an ingredient dropped from all [Kyrsgarde](Kyrsgarde.md
 
 ## Trivia
 
--   This is effectively a severed head.
--   It is a reference to the [hot dog](https://en.wikipedia.org/wiki/Hot_dog) from [real life](https://en.wikipedia.org/wiki/Earth)
+-   This is effectively a severed head
+-   The **Kyrsdog** is a reference to the [hot dog](https://en.wikipedia.org/wiki/Hot_dog) from [real life](https://en.wikipedia.org/wiki/Earth)

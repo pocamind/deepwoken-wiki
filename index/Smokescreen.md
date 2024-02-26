@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 85330
+revid: 90993
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Resonances]
@@ -21,33 +21,34 @@ notices:
 
 ## Description
 
-**Smokescreen** is a [Resonance](Resonance.md) or "bell" that players can obtain.
+**Smokescreen** is a [Resonance](Resonance.md) that players can obtain.
 
 ### _Appearance_
 
-When used, a cloud of smoke appears around the user. This smoke cloud hides the user and acts as sort of a mini tacet murmur.
+When used, a cloud of smoke appears around the user. This smoke cloud hides the user and acts as sort of a mini [tacet](Murmur.md) murmur.
 
 ## Usage
 
-Pressing C will activate the **Smokescreen** Resonance.
+Pressing C will activate **Smokescreen**.
 
-**Smokescreen** will instantly generate a extremely dark cloud of smoke that makes the user invisible while inside.
+**Smokescreen** will near instantly generate an extremely dark cloud of smoke that makes the user invisible while inside.
 
 **Note that smokescreen does NOT make the user invincible while inside of the cloud.**
 
-The invisibility can be cancelled by using an attack.
+The invisibility is cancelled when using an attack.
 
-If Smokescreen is corrupted, it can be activated again by pressing C, which releases three extra clouds and teleports the caster to a random one. (two clouds is a variant of this bell. also takes a little bit of damage upon teleportation with the bell. video: [https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA](https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA))
+If Smokescreen is corrupted, it can be activated again by pressing C, which releases two/three extra clouds around the initial one and teleports the user to a random one. Keep in mind new clouds can be on different heights (e.g. ending up below/on top of a cliff) Video: [https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA](https://medal.tv/games/roblox/clips/1v3WN0PMGbFVqY/d1337crMSgFM?invite=cr-MSxpclksMTkwODAzMDA0LA))
 
-### _**Resonance Point usage**_
+## Point Usage
 
 When obtained, Smokescreen will spend its points on the following stats:
 
 -   **Smoke Duration**
 -   **Smoke Size**
--   **?**
+-   Amount of clouds**? (Corrupted)**
+-   Teleport distance**?** **(Corrupted)**
 
 ## Trivia
 
--   This resonance was added alongside [Smite](Smite.md) & [Preservation](Preservation.md) during September 15th, 2023. All of these bells were inspired by AlwaysAFK.
--   The description for Smokescreen is the only one ending in an exclamation mark instead of a period.
+-   This resonance was added alongside [Smite](Smite.md) & [Preservation](Preservation.md) on the September 15th, 2023 update. All of these bells were inspired by AlwaysAFK.
+-   The card description for Smokescreen is the only one ending in an exclamation mark instead of a period.

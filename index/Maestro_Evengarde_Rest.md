@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 90968
+revid: 91009
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -12,18 +12,17 @@ _This is his Boss state; for his appearance as a static NPC within the [Temple o
 
 ## Description
 
-Maestro Evengarde Rest is the master of the Temple of the Blade. A powerful individual, he will train and assist only those who he sees fit, for the greater of his people.
+Maestro Evengarde Rest is the master of the Temple of the Blade and the current Maestro of Etrea. A powerful individual, he will train and assist only those who he sees fit, so that Etrea, its people and its culture may not be swept away in the machinations of other nations.
 
 Upon challenging the Maestro to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards, including a potential [Purple Cloud](Purple_Cloud.md). If it is his first defeat, a guaranteed smaller chest will spawn, holding the unique weapon. Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him).
 
 To start the fight with the Maestro:
 
-1.  Be Power 16 or higher.
-2.  Achieve ally reputation with the Etrea (higher than Friend reputation).
+1.  Achieve ally reputation with the Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
-3.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
-4.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md).
-5.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
+3.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md).
+4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the [dungeon](<Temple_Sparring_Hall_(Dungeon).md>).
 
