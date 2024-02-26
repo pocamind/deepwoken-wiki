@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 90942
+revid: 90968
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -8,13 +8,13 @@ categories: [Bosses]
 
 # Maestro Evengarde Rest
 
-_This is his Boss state, for his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._ Template:EnemyInfobox1.0
+_This is his Boss state; for his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._ Template:EnemyInfobox1.0
 
 ## Description
 
-Maestro Evengarde Rest is the Maestro of the Vigil Guard. He's a person who will help train and fight for the better result of mankind.
+Maestro Evengarde Rest is the master of the Temple of the Blade. A powerful individual, he will train and assist only those who he sees fit, for the greater of his people.
 
-Upon challenging the Maestro to a fight you'll be transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). After winning the fight you'll receive a chest of rewards, with the chance of getting the [Purple Cloud](Purple_Cloud.md), alongside a guaranteed smaller chest that will provide the unique weapon on your first attempt. However if you lose, you'll be killed, and gain the [Disgraced Flaw](Boons_and_Flaws.md), having to fight him again to get rid of it.
+Upon challenging the Maestro to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards, including a potential [Purple Cloud](Purple_Cloud.md). If it is his first defeat, a guaranteed smaller chest will spawn, holding the unique weapon. Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him).
 
 To start the fight with the Maestro:
 
@@ -25,7 +25,7 @@ To start the fight with the Maestro:
 4.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md).
 5.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
-After completing all those steps, a new dialogue option should appear when talking to him. Choosing it will teleport you to the [dungeon](<Temple_Sparring_Hall_(Dungeon).md>).
+If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the [dungeon](<Temple_Sparring_Hall_(Dungeon).md>).
 
 ## Moveset
 
@@ -52,7 +52,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Risky Moves - Whenever Maestro dodge an attack, he'll automatically dodge the next one
 -   Ghost - Whenever Maestro dodges an attack, he turns invisible
 -   Chronostasis - Maestro's basic attacks puts the enemy's resonance on cooldown
--   Tempest Eye (???) - Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over Maestro's guard when this Talent procs. This talent does not proc when he is low posture regardless of what attack is used (needs testing)
+-   (???) - Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over Maestro's guard when this Talent procs. This talent does not proc when he is low posture regardless of what attack is used (needs testing)
 -   Pressure Break - When maestro guardbreaks you, get ragdolled and tossed back.
 -   Stifled Jump - Jumping while suffocated by Maestro's Galebreathe will result in you getting dazed.
 
@@ -83,4 +83,4 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 -   If you have the Mahoraga wheel ([https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga)), he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards 2 knowledge.
--   Despite apparently being immune to Knockdowns, [Ascension](Oath%253A_Starkindred.md) Still knocks him down. allowing for combos. albeit he will drift in the air.
+-   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.

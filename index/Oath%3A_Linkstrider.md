@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 90930
+revid: 90973
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,9 +13,9 @@ categories: [Oaths]
 | oath_req | None |
 | effects | +2 Support Mantra, +1 Wildcard Mantra |
 
-“ Worse Saltchemist ”
+“ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
 
-― Why would you willingly pick this oath for any reason other than drip?
+― The Entropy Catalyst
 
 ## Description
 

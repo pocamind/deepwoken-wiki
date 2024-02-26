@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 90435
+revid: 90949
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -16,9 +16,8 @@ The **First Layer**, also known as **Scyphozia,** is the one of the nine layers 
 
 ## **Points of Interest**
 
-osa District\]\]
-
--   -   [The Military District](The_Military_District.md)
+-   [The Varicosa District](Varicosa_District.md)
+    -   [The Military District](The_Military_District.md)
     -   [The Cathedral of Interstice](Cathedral_of_the_Interstice.md)
 -   [Temple of Hearts](Temple_of_Hearts.md)
 -   [Castle Light](Castle_Light.md)
@@ -28,7 +27,11 @@ osa District\]\]
 
 ## **Escaping First Layer**
 
-(Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
+Detailed map of the entire Depths First Layer
+
+The main method to escape is by the tower, which houses the Trial in the center of the city. The Trial can be reached two ways: ringing the bells to open the bastion gate, or climbing the walls to drop into the bastion.
+
+The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
 ## **City Bells**
 
@@ -52,17 +55,17 @@ Furthering: by stacking barrels to gain height, even players with no agility can
 
 Although most buildings will work, a specific building is popular for stacking, as it's close to the entrance and easily found. Enter through either gate, turn left, and continue until you reach the wall. Climb up the building with the domed roof. There is a high likelihood of a barrel tower. If in doubt, server hop.
 
-**Disclaimer: There is no guarantee that you will/will not meet hostile players.**
+**Disclaimer: There is no guarantee that you will not meet hostile players.**
 
 ## **First Layer: The Trial**
 
 “ As a quasi-metaphysical realm, the Depths is believed to exert a pulling force on one's soul, based on one's proximity to the deep. So to say, once one is in the Depths, their soul experiences a constant downward pull. If one tries to leave the Depths by simply physically exiting it upwards, without the aid of ritual or other preparation, they will cross what is known as 'the boundary' - a limit beyond which a soul cannot continue physically travelling in your body. Ergo, the body continues upwards, while the soul is pulled downwards, until the two are wholly separated, and the person dies. ”
 
-― "The Song of Fathoms / Oscillation" about death and the Depths.
+― "The Song of Fathoms / Oscillation"
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against whatever they throw at you. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power present. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against increasingly difficult enemies. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power present. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
-Completing the trial for the first time grants a new talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Escaping also cleanses the health bar.
+Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Escaping also cleanses the health bar.
 
 ### _Note:_
 
@@ -92,10 +95,10 @@ _Trial Power and Power are two different things; See above as well as below tabl
         -   It is highly recommended to be wary of players in the cathedral's elevator.
         -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation.
             -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
-        -   It is advised to know the risks of fighting a corrupted monster in the trial: there is no turning back once they spawn in. **Fight or wipe.**
 -   Once the monster spawns, you will automatically be locked in combat. The combat tag in the Depths trial takes 10 minutes to despawn.
     -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks or pull moves, such as angels, megalodaunts, and enforcers, do not allow this.
-        -   There's no real reason to do this.
+    -   As of late, the combat tag is _not_ a boss tag. As such, player can close the game the instant the trial begins with zero repercussions (so long as their health is above 60%).
+        -   **Do not rely on this**. It is likely unintended, and will be patched soon.
 -   If 2 players enter the Trial, both will fight the monster of the higher power's. However, if both of their powers are just below that of the next monster's, only 1 of said next monster will spawn.
     -   Example: Two power 16 players will spawn one Enforcer. But if both players are power 17, two Enforcers will spawn.
     -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn.
@@ -124,7 +127,7 @@ Information to keep in mind.
 -   On opposite corners of the map, two _**Black Bells**_ can be found. They increase the odds of Corrupted Monsters appearing. \[Citation needed\]
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the talent undying flame), you might want to consider bringing _**healing potions**_.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
--   _**Warrior's Respite**_ is an extremely useful talent in The Depths since they allow you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
+-   _**Warrior's Respite**_ is an extremely useful talent in The Depths, allowing you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils. Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, any group of mobs can aid your escape. Keep in mind that hitting a monster even once **will** make them attack you.
 -   If you have the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
 -   There is no natural source of food for vegetarians in the Depths.
@@ -141,13 +144,13 @@ Information to keep in mind.
 -   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside the [City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union goons](Ignition_Union_Fighter.md).
     -   You can confront Akira after he kills the Ignition Union, proposing 2 dialogue options.
         -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the Divers and unlock the origin [Deepbound](Origins.md).
-        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75) Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
+        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the Ignition Union group. Success causes him to leave.
 
 ### **[Oath: Visionshaper](Oath%253A_Visionshaper.md)**
 
-Deep down in the Depths, you can find a secret room located near the Deep Widow. Here, there is a man who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
+Deep southeast in the Depths, you can find a secret room located near the Deep Widow. Here, there is a man who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
-When initially obtaining this [Oath](Oaths.md), the [Nestmind](The_Nestmind.md), in another layer of The Depths, will open their realm to you, bringing surprising revelations about the Deep Owls and how the Depths function.
+Once you have spoken with surge, the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the Deep Owls and the Depths.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
@@ -230,7 +233,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 
 ## Trivia
 
--   Scyphozia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile Scyphozia's main enemies are [Gigameds](Gigamed.md).
+-   Scyphozia is a corruption of the word [Scyphozoa](https://en.wikipedia.org/wiki/Scyphozoa), which is the marine class the true jellyfish are in. Meanwhile, Scyphozia's main enemies are [Gigameds](Gigamed.md).
 -   The ability for monsters to spawn corrupted appears to be intrinsic to the First Layer rather than the monsters themselves, as monsters from the Second Layer can be corrupted if spawned in the First Layer.
 -   [Resonances](Resonance.md) can resurrect a player one time when they are knocked in the Depths, once progress is sufficient.
 -   You can use 5 Umbral Obsidians to gain [Shadowcast](Shadowcast.md) by talking to a certain NPC found in Layer One. This permanently unlocks [Shadowcast](Shadowcast.md) for the account.

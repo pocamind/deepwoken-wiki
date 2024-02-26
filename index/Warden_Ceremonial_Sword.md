@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 90907
+revid: 90983
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -28,7 +28,7 @@ categories: [Weapons, Swords]
 
 ## Description
 
-The Warden's Ceremonial Sword is a midgame Medium weapon, can be obtained via chests of duke, fort merit and the depths. It requires 50 MED to equip, has a Base Damage of 17, and a scaling of 7.
+The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests in [Fort Merit](Fort_Merit.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md). It requires 50 MED to equip, has a Base Damage of 17, and a scaling of 7.
 
 ## Trivia
 

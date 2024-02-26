@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 90835
+revid: 90966
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -107,7 +107,7 @@ All owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking t
 
 Deep Owls come from an alternate dimension/unknown layer of sorts and get into our world through the minds of Visionshapers with the contract they make with The Nestmind. With the power of Visionshapers that allows illusions to become reality, they are sentient creatures that feast on the minds of those they slaughter. They particually feast only on the humans of Deepwoken and not its monsters/creatures due to creatures with great intelligence/imaginatory capabilities being far more palettable.
 
-It is said by The Nestmind that visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old visionshapers who are trying to become an owl by unknown meanings.
+It is said by The Nestmind that visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who are trying to become an owl by unknown meanings.
 
 ## Trivia
 

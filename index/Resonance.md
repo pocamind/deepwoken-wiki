@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 90082
+revid: 90984
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -224,7 +224,7 @@ Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example i
 
 This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear _Tarnished_ and grant a wish.
 
--   One can visit [Yamaketzal](Yamaketzal.md) to removes the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gainig a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow to reroll by talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+-   One can visit [Yamaketzal](Yamaketzal.md) to removes the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow to reroll by talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 -   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md) and grant the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from Yun'Shul every 3 levels.

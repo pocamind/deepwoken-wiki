@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 90919
+revid: 90981
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,9 +13,9 @@ categories: [Oaths]
 | oath_req | 40 Willpower, 3 Mental Fortress Talents |
 | effects | +1 Support Mantra, +1 Wildcard Mantra, +10 Sanity |
 
-“ GG ”
+“ The light rearranges into a missive now legible. It details the tenets of an Oath - that we are born with our eyes closed, and we merely choose to open them. ”
 
-― Jailer into Sightless Beam
+― Glyphs found in the Temple of the Forgotten Flame
 
 ## Description
 
