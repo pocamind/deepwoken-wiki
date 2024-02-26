@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 86907
+revid: 90842
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

@@ -1,16 +1,14 @@
 ---
 title: Maestro Evengarde Rest
-revid: 90811
+revid: 90866
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Bosses]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Bosses]
 ---
 
 # Maestro Evengarde Rest
 
-_If you're looking for the NPC located in [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._Template:EnemyInfobox1.0
+_This is his Boss state, for his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._ Template:EnemyInfobox1.0
 
 ## Description
 
@@ -21,13 +19,13 @@ Upon challenging the Maestro to a fight you'll be transported to the [Temple Spa
 To start the fight with the Maestro:
 
 1.  Be Power 16 or higher.
-2.  You need an ally reputation with the Etrea (higher than Friend reputation).
+2.  Achieve ally reputation with the Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
-3.  You must complete [the Lost Sibling quest](Isle_of_Vigils.md).
-4.  You need at least 85 MED weapon. (Tested at 87 and worked)
-5.  You must complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+3.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
+4.  Have a minimum of 85 MED weapon.
+5.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
-After completing all those steps, a new dialogue should appear when talking to him. Choosing it will teleport you to the [dungeon](<Temple_Sparring_Hall_(Dungeon).md>).
+After completing all those steps, a new dialogue option should appear when talking to him. Choosing it will teleport you to the [dungeon](<Temple_Sparring_Hall_(Dungeon).md>).
 
 ## Moveset
 
@@ -37,18 +35,18 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 | --- | --- | --- | --- | --- | --- |
 | **Assault** | Firmly swings sword at opponent and finishes the combo by kicking them. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Critical** | Performs a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts. | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Art: Maestro's Flourish** | Swings his blade in a spinning motion, performing two gale-infused slashes. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Mortal Art: Floating Passage** | Maestro raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Art: Dharma Descent** | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Art: One Mind** | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Art: Mangetsu** | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Art: Etrea Cross** | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Art: Pressure** | Uses a flash step to approach foes from a great distance and performs a circular slash. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: Maestro's Flourish** | Swings his blade in a spinning motion, performing two gale-infused slashes. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: Floating Passage** | Maestro raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
+| **Mortal Draw: Dharma Descent** | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★★☆) |
+| **Mortal Draw: One Mind** | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★★☆) |
+| **Mortal Draw: Mangetsu** | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |
+| **Mortal Draw: Etrea Cross** | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★★☆) |
+| **Mortal Draw: Pressure** | Uses a flash step to approach foes from a great distance and performs a circular slash. | ◯ | ◯ | ◯ | (★★☆) |
 | **Vent** | An explosion of blue ether around the user that pushes opponents away. | ◯ | ◯ | ◯ | (★☆☆) |
 
 ## Talents
 
--   Brick Wall - Maestro is immune to ragdoll. (Becomes bugged when knockdowned. tested with ascension on starkindred, you can still hit him)
+-   Brick Wall - Maestro is immune to ragdoll and knockdowns
 -   Silencer's Blade - Maestro's basic attacks grants him a speed boost and extend active suffocation effects
 -   A World Without Song - Maestro's gale mantras apply suffocation
 -   Risky Moves - Whenever Maestro dodge an attack, he'll automatically dodge the next one
@@ -75,11 +73,13 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 
 ## Trivia
 
--   Maestro Evengarde Rest is the only boss who cannot be fought on all builds, as those not wielding a medium weapon are unable to have a battle with him.
--   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting, with many of the moves being references to its abilities and bosses, such as Genichiro Ashina.
-    -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade) wielded by the protagonist, [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
--   All of his mantras will automatically execute you, however you can still be manually gripped by him if you die to his critical attack or M1.
--   You will only gain the disgraced flaw if you are defeated on your first attempt, you do not get it again if you die to him a second time.
--   If you have the Mahoraga wheel ([https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga)) you get a unique dialogue.
--   Defeating him awards 2 knowledge. However upon defeating him again you dont get knowledge.
--   Despite being immune to instant guard breaks, [Radiant Dawn](Oath%253A_Dawnwalker.md) still breaks his guard instantly.
+-   Maestro Evengarde Rest is the only build-locked boss due to the medium weapon level requirement.
+-   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting. Many of the moves reference its abilities and bosses, such as Genichiro Ashina or the [One Mind Combat Art](https://en.wikipedia.org/wiki/Sekiro:One_Mind).
+    -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade), wielded by the protagonist [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
+-   All of his mantras will automatically execute you.
+    -   You can still be manually gripped by him if you die to his critical attack or M1.
+-   You will only gain the disgraced flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
+-   If you have the Mahoraga wheel ([https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga)), he offers a unique line of dialogue:
+    -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
+-   Defeating him for the first time awards 2 knowledge.
+-   Despite being immune to instant guard breaks, [Radiant Dawn](Oath%253A_Dawnwalker.md) breaks his guard instantly.

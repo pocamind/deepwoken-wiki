@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 90333
+revid: 90826
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -34,6 +34,7 @@ This Outfit's Schematic can be found in:
 -   [Fishing](Fishing.md) at any location
 -   [Minityrsa](Minityrsa.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
 ## Trivia/Notes
 

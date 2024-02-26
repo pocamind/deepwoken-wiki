@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 90453
+revid: 90853
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Outfits]
@@ -34,6 +34,7 @@ This Outfit's Schematic can be found in:
 -   [Lightning Squibbo](Nautilodaunt.md) \[Common in hell mode\]
 -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) \[Rare\]
 -   [The Ferryman](The_Ferryman.md) \[Uncommon\]
+-   Maestro (dunno how to do the link)
 
 ## Trivia
 

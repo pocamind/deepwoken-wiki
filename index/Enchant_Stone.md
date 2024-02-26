@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 90357
+revid: 90831
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2]
@@ -26,6 +26,7 @@ There are multiple ways to obtain an Enchant Stone, the usual and best source be
 -   Rare drop from any [Layer 2](Second_Layer.md) chest, slightly more common from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Ethiron](Scion_of_Ethiron.md) Chests.
 -   Exchanging 5 [Kyrsan Medallions](Kyrsan_Medallions.md) to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) for a random enchant stone.
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) will grant you any enchant stone of your choice. You can only obtain one [Deepshore Fossil](Deepshore_Fossil.md) per character.
+-   A drop from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 The Astral Stone is unique in that it can only be obtained as a drop from [Astral Knights](Stone_Knight.md).
 

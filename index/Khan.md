@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 88940
+revid: 90832
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -58,7 +58,7 @@ They hail from the Western Luminant and are the most prominent race in The Hundr
 +2 Agility  
 Allows the use of equipment 3 points earlier than other races.  
 
-May have increased rep with The 11th Legion  
+May have increased rep with The 100 Legions  
 
 **Surnames:**
 
@@ -78,7 +78,7 @@ May have increased rep with The 11th Legion
 ## Trivia
 
 -   The race is based on Sun Wukong and monkeys.
--   Khan means "King" in Mongolian and Hindi.
+-   Khan means "King" in Mongolian, Turkish and Hindi.
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
 -   Their natural disposition as warriors and their name is a direct reference to Genghis Khan.
 -   The Racial trait "versatile" only works on stat points, not levels.
@@ -87,5 +87,3 @@ May have increased rep with The 11th Legion
 -   Hair dye affects the sideburns.
     
     Monkskipper
-    
--   Khans may be a refence to the mongols, as Gengis Khan has khan in it, and the leader of a village in very old times is called the Khan. these khan also tend to build a army of strength just like the mongols.

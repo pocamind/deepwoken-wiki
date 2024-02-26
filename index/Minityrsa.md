@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 89984
+revid: 90851
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Locations, Etrean Luminant, Islands]

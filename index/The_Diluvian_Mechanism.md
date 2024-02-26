@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 90461
+revid: 90849
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -102,7 +102,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   All of the Layer 1 loot pool, including deep gems, [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Crypt Blade](Crypt_Blade.md) and all [Relics](Relics.md) at all levels.
 -   Depths Chests (5 & 10)
 -   Brown Chests (15-50)
--   [Stormseye](Stormseye.md) (15+)
+-   [Storms-eye](Stormseye.md) (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
 -   Relic Chests (Wave 30 & 50)
@@ -158,7 +158,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*CORPSE EXPLOSION MODIFER\***
 
- | 2 Corrupt Bounders |  |
+ | 3 Corrupt Bounders |  |
 | 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts |  |
 | 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers |  |
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Attuned(?) Nautilodaunt. |  |

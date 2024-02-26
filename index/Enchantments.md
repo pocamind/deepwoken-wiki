@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 90252
+revid: 90818
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -639,7 +639,7 @@ Static flaming purple.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:
     -   Curse of the Umbral Knight **→** Umbral Knight, (does not have the down sides of Curse of the Umbral Knight).
--   [Providence of storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir) on January 1st, 2023 on DaboSenpai's stream.
+-   Providence of storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1st, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
 -   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
 -   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
 -   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.

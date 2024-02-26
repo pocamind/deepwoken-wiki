@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 90740
+revid: 90821
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -24,7 +24,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 
 **There are currently 12 obtainable Oaths in _Deepwoken_:**
 
--   [Arcwarden](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
+-   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
 -   [Contractor](Oath%253A_Contractor.md): +2 Combat Mantra, +10 Ether \[No Stat Requirements\]
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): +2 Combat Mantra \[No Stat Requirements\]

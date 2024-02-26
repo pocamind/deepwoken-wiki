@@ -1,12 +1,14 @@
 ---
 title: Artifacts
-revid: 89940
+revid: 90843
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
 ---
 
 # Artifacts
+
+_Not to be confused with [Relics](Relics.md)._
 
 “ RUN! RUN FOR YOUR LIFE! ”
 
@@ -32,6 +34,7 @@ When you pick up an Artifact it will make a loud noise and will then stop making
     -   [Armor Schematics](https://deepwoken.fandom.com/wiki/Armors?so=search#Outfit_List)
     -   [Weapons](Weapons.md)
     -   [Armor](Equipment.md)
+-   Potential enchanted equipment
 
 ## Locations
 

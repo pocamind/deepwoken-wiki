@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 90757
+revid: 90863
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -460,7 +460,7 @@ _"A stain upon your honour. Defeat Maestro to remove it."_
 
  | 
 
-??? - Unknown. Might influence Yun'shul wishes (?, need confirment)
+Lowers both HP and Ether regeneration.
 
   
 
