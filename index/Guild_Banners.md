@@ -1,6 +1,6 @@
 ---
 title: Guild Banners
-revid: 85658
+revid: 90900
 source: https://deepwoken.fandom.com/wiki/Guild_Banners
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Objects]
@@ -35,7 +35,7 @@ Standing near the banner will gradually empty the banner, at which point the ban
     -   There is one outside of [Erisor's Church](<Erisor's_Church.md>) in [Erisia](Erisia.md).
     -   One in the ruins next to the Ministry bandit camp above [Outpost Antumbra](Outpost_Antumbra.md).
     -   One at the top of the ice waterfall in [Minityrsa](Minityrsa.md), near the [Rogue Construct](Hive_Construct.md) and the [Jetstriker orb.](Oath%253A_Jetstriker.md)
-    -   Near the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), closer to the entrance of [Lower Erisia](Lower_Erisia.md).
+    -   Near the [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md), on a shore around the rear of [Erisia](Erisia.md).
     -   Right outside the [Birdcage](Oath%253A_Jetstriker.md).
     -   Atop one of the towers at [Towerstruck](Towerstruck_Lands.md).
     -   Right next to a statue at Statue Isle ([The Etrean Sea](The_Etrean_Sea.md))

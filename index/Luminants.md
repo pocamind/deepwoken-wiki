@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 85509
+revid: 90881
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Mantras, Locations]
@@ -25,6 +25,8 @@ Off the coast of Markor is the Lullaby Isles, an area with a dense mountain rang
 ## Western Luminant
 
 Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. The Covenant of Flame alongside Flamecharm originated in this Luminant due to it being the birthplace of Amorus Pleeksty.
+
+This is where the [Battle Royale](Battle_Royale.md) gamemode takes place.
 
 ## Southern Luminant
 

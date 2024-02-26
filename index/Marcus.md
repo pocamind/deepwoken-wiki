@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 86506
+revid: 90890
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

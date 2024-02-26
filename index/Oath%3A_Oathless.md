@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 89717
+revid: 90928
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,9 +13,9 @@ categories: [Oaths]
 | oath_req | None |
 | effects | +10 Health, +15% Oath Resistance, +2 Wildcard Mantra Slots |
 
-“ Those eyes.. you wish to walk alone too. ”
+“ I'm so different and cool! ”
 
-― Disciple of Cerulean
+― "Anti-Meta" players who simply went a different oath with the same champion's sword flame build
 
 ## Description
 

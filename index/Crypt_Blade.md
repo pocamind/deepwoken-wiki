@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 90761
+revid: 90938
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -44,6 +44,10 @@ The user goes in a pride stance with their sword facing down, and releases an AO
 -   If hit when chained, the chain will break and the opponent will receive 3 consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow.
     -   Blocking, and Parrying will not cancel out this effect.
 -   If the opponent goes beyond the length of the chain, they will be dragged back to the chains original position.
+
+## Enchant Gallery
+
+Note: This is just a funny visual bug, Crypt Blade cannot be enchanted
 
 ## Trivia
 

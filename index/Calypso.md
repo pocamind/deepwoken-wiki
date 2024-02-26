@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 89361
+revid: 90893
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

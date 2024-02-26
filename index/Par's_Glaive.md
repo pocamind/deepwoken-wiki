@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 90270
+revid: 90885
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec]
@@ -40,8 +40,6 @@ It posesses the properties of :
 2.  Dagger's Swing Speed
 3.  Greataxe's light attacks and critical attack animations
 4.  Being enchantable (most seen with Detonation)
-
-The Lorenzo's Glaive also have the ability to invert/randomize the controls of the enemy after certain hits.
 
 ## Trivia
 

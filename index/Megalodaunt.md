@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 90783
+revid: 90901
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
@@ -374,6 +374,7 @@ Roar
 
 ## **Trivia**
 
+-   There are two guaranteed sharko spawns in a cave near Lower erisia.
 -   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount and will likely block break you in one or two hits as a freshspawn.
 -   Megalodaunts have swimming animations, as seen above.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md), sink.

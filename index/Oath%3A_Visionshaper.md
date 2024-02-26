@@ -1,9 +1,9 @@
 ---
 title: "Oath: Visionshaper"
-revid: 90605
+revid: 90926
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Visionshaper
@@ -13,9 +13,9 @@ categories: [Oaths]
 | oath_req | 50 Charisma, Completing the Aelita event, One Dark Feather |
 | effects | +1 Support Mantra, +2 Combat Mantra |
 
-“ We Owls find man to be capable of... Suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”
+“ Domain Expansion. ”
 
-― The Nestmind
+― Every Visionshaper after the Realm rework
 
 ## Description
 
@@ -48,27 +48,41 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Clones do apply hit-stun, allowing one to trip up enemies and possibly fail parries.
     -   The clones cannot use mantras, only M1s and Crits.
     -   This mantra is similar to lightning clones, although it works slightly differently in execution (Lightning clones disappear after being hit or hitting once) also Lightning clones and Illusory Servants can be used together.
+        
+        File:Illusionary Servants.gif
+        
 
 -   **Illusory Realm - Support Mantra**
-    -   After a slight delay, teleport you and a nearby players to an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones)
+    -   After a slight delay, teleport you and a nearby players to an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones). The alternate dimension is a combination of Reality (the real world) and the Dreamscape (where you go).
+    -   You can interact with reality like using mantras on the environment and interact with other players. However within the Dreamscape you cannot attack others that aren't in there yourself.
+    -   Turns the part your standing on into a black walking space, which can make water and the void walkable on to the perspective of other players. It also makes walls and staircases disappear therefore you can walk through walls or be under/above people depending on where you are.
+    -   People within the realm will be identified with their character covered in white feathers.
+    -   Within the realm if you go to far away you'll be pulled back to where the realm starts.
+    -   Can be modified with a Magnet Spark, where it lets you drag other people near you.
+    -   Can be modified with a Multiplying Spark, where it'll make multiple pulses allowing others who havent gotten in the realm, join it.
+    -   Both of the Sparks can be used.
+    -   Interactable npcs and items, such as campfires, repair kits, etc can be used within the realm and interacted to.
+    -   It can be used in water or Guild Bases, and by yourself.
+    -   Ritual Casts, Warriors Respite, and Resonances are disabled within the Dreamscape.
         -   Cooldown is 2 minutes and 40 seconds.
-    -   Cannot be used in water or Guildbases.
-    -   When Illusory Realm ends, players recover a portion of HP lost while inside. The user recover 60% of HP lost, while everyone else recover 40%.
-        -   **Important Note:** Players cannot be knocked in the realm, instead, if knocked, they immediately die.
-    -   **Illusory Servants** and **Cheap Trick** deal full real damage while inside the realm (which are still healed accordingly when the realm ends).
-    -   If any of the following conditions are met, Illusory Realm ends early:
-        -   If the user fails to catch someone in the realm, they will be brought back after 5 seconds
-        -   If the user start resting or runs too far away from the realms entrance, it ends immediatly
-    -   Warrior's Respite is disabled while you have a realm active.
+            
+            File:Illusonaryrealm.gif
+            
 -   **Illusory Counter** **\- Combat Mantra**
     -   Do a pose. If hit during the pose, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of your previous location.
     -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
     -   Active frames are larger while in the Illusory Realm.
     -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
+        
+        File:Illusonary counter.gif
+        
 
 -   **Cheap Trick - Passive**
     -   When hit while below 50% health, turn invisible and summon an Illusory Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 60s cooldown)
     -   Become invisible for 2.5 seconds whenever you knock an enemy. (grants iframes for the duration of the effect.)
+        
+        File:Cheap trick.gif
+        
 
 ## Effects
 

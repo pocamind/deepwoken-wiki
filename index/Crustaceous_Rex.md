@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 87590
+revid: 90904
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Pages with broken file links]
@@ -12,7 +12,7 @@ categories: [Monsters, Pages with broken file links]
 
 ― Inquisitor's Thorn Description
 
-Template:Creature Infobox V3_Also known as **Purple Crab**, **King Crab**, **Craboss, Mr. Krabs,** **Crabulon** or **Crabbo.**_
+Template:Creature Infobox V3_Also known as **King Crab** or **Crabbo.**_
 
 ## Description
 

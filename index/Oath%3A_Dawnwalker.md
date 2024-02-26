@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 89370
+revid: 90929
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,9 +13,9 @@ categories: [Oaths]
 | oath_req | 30 Kyrsan Medallions |
 | effects | +2 Combat Mantra |
 
-“ You shall connect with the light around us, surrounding all of Lumen. ”
+“ M1 M1 M1 Feint Radiant Kick Revenge Crit oooooh that combo was so cold .gg/lancelot ”
 
-― Klaris Llfiend, Mother of Lights
+― Geekcelot member
 
 ## Description
 

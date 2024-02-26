@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 90866
+revid: 90942
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -22,7 +22,7 @@ To start the fight with the Maestro:
 2.  Achieve ally reputation with the Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 3.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
-4.  Have a minimum of 85 MED weapon.
+4.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md).
 5.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 After completing all those steps, a new dialogue option should appear when talking to him. Choosing it will teleport you to the [dungeon](<Temple_Sparring_Hall_(Dungeon).md>).
@@ -52,8 +52,9 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Risky Moves - Whenever Maestro dodge an attack, he'll automatically dodge the next one
 -   Ghost - Whenever Maestro dodges an attack, he turns invisible
 -   Chronostasis - Maestro's basic attacks puts the enemy's resonance on cooldown
--   ??? - Maestro is immune to instant guard break effects
--   Pressure break - When maestro guardbreaks you, get ragdolled and tossed back.
+-   Tempest Eye (???) - Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over Maestro's guard when this Talent procs. This talent does not proc when he is low posture regardless of what attack is used (needs testing)
+-   Pressure Break - When maestro guardbreaks you, get ragdolled and tossed back.
+-   Stifled Jump - Jumping while suffocated by Maestro's Galebreathe will result in you getting dazed.
 
 ## Strategy
 
@@ -82,4 +83,4 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 -   If you have the Mahoraga wheel ([https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga)), he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards 2 knowledge.
--   Despite being immune to instant guard breaks, [Radiant Dawn](Oath%253A_Dawnwalker.md) breaks his guard instantly.
+-   Despite apparently being immune to Knockdowns, [Ascension](Oath%253A_Starkindred.md) Still knocks him down. allowing for combos. albeit he will drift in the air.

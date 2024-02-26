@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 88711
+revid: 90931
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,9 +13,9 @@ categories: [Oaths]
 | oath_req | 50 Agility |
 | effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive Agility |
 
-“ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
+“ CAN'T STOP THE A TRAIN!!!!!!!!!!!!!!!!!!! ”
 
-― Alirian
+― Gale Jet players
 
 ## Description
 
