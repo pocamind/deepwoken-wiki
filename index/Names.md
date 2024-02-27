@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 91072
+revid: 91100
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1524,8 +1524,8 @@ You can choose your first name from any available, but your choices of last name
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, they are both technically the same person.
 -   The name "Inari" is a reference to the _Rogue Lineage_ races _Vind_ and _Fischeran._
--   Names such as "Adolin," "Hoid" and "Kaladin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
--   Names such as "Sezth," "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
+-   Names such as "Adolin," "Hoid", "Kaladin", "Moash" "Szeth" and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
+-   Names such as "Kelsier", "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
 -   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.

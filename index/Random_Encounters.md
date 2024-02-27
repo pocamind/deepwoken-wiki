@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 90126
+revid: 91097
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -193,7 +193,7 @@ A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, 
 
 #### **False Merchant Ship**
 
-A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is pretty rare, and drops high tier loot. When approached, the boat will burst into flames and spawn 3 [Cloaked Assassins](Cloaked_Assassin.md) after you.
+A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is pretty rare, and drops high tier loot. When approached, the boat will burst into flames and spawn 3-8 [Cloaked Assassins](Cloaked_Assassin.md) after you.
 
 #### **Divers vs Monster**
 

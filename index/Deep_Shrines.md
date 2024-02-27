@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 89958
+revid: 91093
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -219,7 +219,7 @@ In all other cases, this shrine does nothing.
 
 ## Pros/Cons
 
--   Lone Warrior Exclusve
+-   Lone Warrior Exclusive - False. There's one in Deluvian Mechanism
     
 
 * * *

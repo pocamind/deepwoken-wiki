@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91084
+revid: 91096
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -62,7 +62,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Risky Moves - Whenever the Maestro dodges an attack, he'll automatically dodge the next one.
 -   Ghost - Whenever Rest dodges an attack, he turns invisible.
 -   Chronostasis - Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
--   (???) - The Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs.
+-   (???) - The Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
 -   Pressure Break - If the Maestro guardbreaks you, you'll get ragdolled and tossed back.
 -   Stifled Jump - Jumping while suffocated by the Maestro's Galebreathe will result in you getting dazed.
 -   Showstopper - When rolling through one of his physical attacks, Rest will stomp the ground and daze you. Removes your speed buffs.
@@ -78,6 +78,10 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear and the enchant Obfuscation will easily chip through his block.
+-   Maestro has a talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
+    -   Examples of this are multi-hit moves like Shattered Katana crit, Shadow Gun + Blast Spark. You can also use crits that do high posture damage without insta-guardbreaking like base sword crit and Purple Cloud crit.
+    -   Examples of attacks you cannot use are Sacred Hammer crit and Eclipse Kick (although when he is low posture, you may use these attacks to guardbreak him \[needs testing\])
+    -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, Guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
 
 ## Appearance
 
@@ -95,6 +99,7 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 -   You will only gain the disgraced flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
 -   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
+    -   Despite this unique dialogue, it actually does not affect the fight.
 -   Defeating him for the first time awards 2 knowledge.
 -   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   You can spit on the Maestro to start the fight early, as an alternative to speaking with him.

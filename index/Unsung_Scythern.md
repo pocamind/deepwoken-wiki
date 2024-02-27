@@ -1,6 +1,6 @@
 ---
 title: Unsung Scythern
-revid: 90480
+revid: 91099
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -42,7 +42,7 @@ Critical Attack
 
   
 
-Unsung Scythern's cricial attack.
+Unsung Scythern's critical attack.
 
   
 

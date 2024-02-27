@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 88686
+revid: 91091
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -34,4 +34,4 @@ Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfiel
 
 ## Trivia
 
--   In Islam, Iblis was a Djinn (basically a spirit) that was ascended to the rank of an angel for his good deeds. Later on, for believing he was superior to Adam and refusing to accept Adam as Allah's new creation due to his superiority complex, he was cast out of the heavens and vowed to bring all of mankind to hell.
+-   In Islam, Iblis was a Djinn (basically a spirit) that was ascended to the rank of an angel for his good deeds. Later on, for believing he was superior to Adam and refusing to accept Adam as Allah's new creation due to his superiority complex, he was cast out of the heavens and vowed to bring all of mankind to hell. He is basically Satan but in Islam and Is called Shaytan in Islam.
