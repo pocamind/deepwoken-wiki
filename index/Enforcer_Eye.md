@@ -1,11 +1,9 @@
 ---
 title: Enforcer Eye
-revid: 77451
+revid: 91087
 source: https://deepwoken.fandom.com/wiki/Enforcer_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Monster Mantra Ingredients]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Monster Mantra Ingredients, Drops]
 ---
 
 # Enforcer Eye
@@ -18,13 +16,15 @@ notices:
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-
-“ An eye ripped from the remains of an Enforcer before it turns into ash, a legendary item... ”
-
-― Enforcer Eye's Description
+| desc | An eye ripped from the remains of an Enforcer before it turns into ash, a legendary item... |
 
 ## Description
 
-Enforcer Eye is used to gain the "Enforcer Pull" mantra from [Carrion](Carrion,_Father_of_Evolution.md), who resides in [Castle Light](Castle_Light.md) after talking to him in the [Second Layer](Second_Layer.md).
+The **Enforcer Eye** is used to gain the "Enforcer Pull" [monster mantra](Monster_Mantras.md) from [Carrion](Carrion,_Father_of_Evolution.md), who resides in [Castle Light](Castle_Light.md) after talking to him in floor 2 of the [Second Layer](Second_Layer.md).
 
-It is obtained from killing any variant of [The Enforcer](Enforcer.md)
+It is obtained as a rare drop from killing any variant of [The Enforcer](Enforcer.md).
+
+## Trivia
+
+-   Although the Hammer Enforcer has orange eyes, it's enforcer eye drop is still red.
+-   The reason Enforcer (Eyes) turn to ash is unknown, but it could possibly be an enforcer "self-destructing" after death, as their only purpose is to serve the cathedral.

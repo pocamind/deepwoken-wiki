@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 89570
+revid: 91072
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1515,7 +1515,7 @@ You can choose your first name from any available, but your choices of last name
 ## Trivia
 
 -   Most names added after the release of the game are in all three categories, despite it being meant to either be in Male, Female or Neutral, as, by default, names that can be in more than one category should be in Neutral.
--   The name "Vergil" is a referance to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
+-   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The name "Usopp" is a reference to [the _One Piece_ character of the same name](https://onepiece.fandom.com/wiki/Usopp).
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only "Usopp" was added.[\[1\]](#cite-note-1)
 -   The names "Ornstein" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough).
@@ -1524,7 +1524,7 @@ You can choose your first name from any available, but your choices of last name
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, they are both technically the same person.
 -   The name "Inari" is a reference to the _Rogue Lineage_ races _Vind_ and _Fischeran._
--   Names such as "Kaladin" and "Adolin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
+-   Names such as "Adolin," "Hoid" and "Kaladin" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Sezth," "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
 -   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)

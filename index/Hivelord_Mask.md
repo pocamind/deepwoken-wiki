@@ -1,6 +1,6 @@
 ---
 title: Hivelord Mask
-revid: 87903
+revid: 91081
 source: https://deepwoken.fandom.com/wiki/Hivelord_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -11,7 +11,8 @@ categories: [Equipment, Face, Masks]
 | Hivelord Mask | |
 |---|---|
 | type | Face |
-| rarity | ??? |
+| rarity | Rare |
+| selling price | 25 |
 | requirements | N/A |
 | weight | 0.5 |
 | innate stats | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91054
+revid: 91084
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -21,7 +21,7 @@ To start the fight with the Maestro:
 1.  Achieve Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
-3.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md).
+3.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md) and to initiate the fight.
 4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.
@@ -97,3 +97,4 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards 2 knowledge.
 -   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
+-   You can spit on the Maestro to start the fight early, as an alternative to speaking with him.

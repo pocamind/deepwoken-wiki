@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 88520
+revid: 91079
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -126,7 +126,7 @@ Please add miscellaneous islands or named landmarks here
 
 **Depths:**
 
-**Schypozia:**
+Schypozia=
 
 -   [Celtor Wastes](Celtor_Wastes.md)
     -   [Castle Light](Castle_Light.md)
@@ -139,9 +139,9 @@ Please add miscellaneous islands or named landmarks here
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
-[Fragments of Self](Fragments_of_Self.md)
+[Fragments of Self](Fragments_of_Self.md) |-|
 
-**The Eternal Gale:**
+The Eternal Gale=
 
 **Floor 1:**
 
@@ -160,6 +160,11 @@ Please add miscellaneous islands or named landmarks here
 -   [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
     -   [The Sunken Railways](The_Sunken_Railways.md)
         
+
+**Floor 3:**
+
+-   Soon To Be Released
+    
 
 **Voidsea:**
 
