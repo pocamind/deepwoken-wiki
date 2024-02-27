@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 91079
+revid: 91121
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -66,6 +66,7 @@ A list of named locations that can be found in Deepwoken's world "Lumen".
 **Minityrsa:**
 
 -   [Minityrsa](Minityrsa.md)
+    -   [Outpost Antumbra](Outpost_Antumbra.md)
     -   [Valley of Heroes](The_Valley_of_Heroes.md)
     -   [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)
     -   [Starfield Tundra](Starfield_Tundra.md)
@@ -84,6 +85,7 @@ Please add miscellaneous islands or named landmarks here
 -   [Starswept Valley](The_Starswept_Valley.md)
     -   [Lightkeeper Temple](Lightkeeper_Temple.md)
     -   [Widow's Hollow](<Widow's_Hollow.md>)
+    -   [Deep Thresher Nest](Deep_Thresher_Nest.md)
 -   [Fort Merit](Fort_Merit.md)
     -   [Merit's Reach](<Merit's_Reach.md>)
 -   [Bluster Rift](Bluster_Rift.md)
@@ -126,7 +128,7 @@ Please add miscellaneous islands or named landmarks here
 
 **Depths:**
 
-Schypozia=
+**Schypozia:**
 
 -   [Celtor Wastes](Celtor_Wastes.md)
     -   [Castle Light](Castle_Light.md)
@@ -139,9 +141,9 @@ Schypozia=
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
 
-[Fragments of Self](Fragments_of_Self.md) |-|
+[Fragments of Self](Fragments_of_Self.md)
 
-The Eternal Gale=
+**The Eternal Gale:**
 
 **Floor 1:**
 
@@ -161,11 +163,6 @@ The Eternal Gale=
     -   [The Sunken Railways](The_Sunken_Railways.md)
         
 
-**Floor 3:**
-
--   Soon To Be Released
-    
-
 **Voidsea:**
 
 -   [Beloved Zofia](Beloved_Zofia.md)
@@ -179,14 +176,27 @@ The Eternal Gale=
 **Duke's manor:**
 
 -   [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)
-    
+    -   [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>)
+        
 
 **Trial of One:**
 
 -   [Trial of One](Trial_of_One.md)
     
 
-[The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+**Diluvian Mechanism:**
+
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+    
+
+**Temple Sparring Hall:**
+
+-   [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>)
+    
+
+  
+
+  
 
 **Arena:**
 

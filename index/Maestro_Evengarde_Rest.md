@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91096
+revid: 91124
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -21,7 +21,7 @@ To start the fight with the Maestro:
 1.  Achieve Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
-3.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md) and to initiate the fight.
+3.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 10) to wield the [Purple Cloud](Purple_Cloud.md).
 4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.
@@ -95,7 +95,7 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 -   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting. Many of the moves reference its abilities and bosses, such as [Genichiro Ashina](https://sekiro-shadows-die-twice.fandom.com/wiki/Genichiro_Ashina) or the [One Mind Combat Art](https://sekiro-shadows-die-twice.fandom.com/wiki/One_Mind).
     -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade), wielded by the protagonist [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
 -   All of his mantras will automatically execute you.
-    -   You can still be manually gripped by him if you die to his critical attack or M1.
+    -   You can still be manually gripped by him if you die to his critical attack, ankle cutter, or M1.
 -   You will only gain the disgraced flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
 -   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 84111
+revid: 91105
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -40,7 +40,7 @@ Coral Spear
 
 (★★☆)
 
- | ... | The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) _Thousand_ _Needles_ ability. (Requires a Megalodaunt Coral to obtain) | Combat Mantra |
+ | ... | The user grows coral on their back and sprays coral in every direction, based on the [Megalodaunt's](Megalodaunt.md) _Thousand_ _Needles_ ability. (Requires a [Megalodaunt Coral](Megalodaunt_Coral.md) to obtain) | Combat Mantra |
 | 
 
  | 
@@ -58,7 +58,7 @@ Mecha Gatling
 
 (★★☆)
 
- | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is based on the [Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. Alternatively, it will proc eruptions if the user has _[Eruption Path: Lava Serpent](Talents.md#lava-serpent)_. (Requires a Broken Gatling Gun to obtain) | Combat Mantra |
+ | ... | Pull out a Gatling gun, mowing down the enemies in your way. The bullets of the Mecha Gatling does not stun, dealing minuscule damage with a short range of fire. This mantra is based on the [Mechalodaunt's](Megalodaunt.md) _Bullet Fury_ ability. Alternatively, it will proc eruptions if the user has _[Eruption Path: Lava Serpent](Talents.md#lava-serpent)_. (Requires a [Broken Gatling Gun](Broken_Gatling_Gun.md) to obtain) | Combat Mantra |
 |  | Whirling Blade
 
 (★★☆)
@@ -72,7 +72,7 @@ Abyssal Ridge
 
 (★★☆)
 
- | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a Nautilodaunt Beak to obtain) | Combat Mantra |
+ | Send a cascading eruption towards your foes, forcing them to react. | The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) _Grand Stomp_ ability. (Requires a [Nautilodaunt Beak](Nautilodaunt_Beak.md) to obtain) | Combat Mantra |
 
 ### **Mobility Mantras**
 
@@ -85,7 +85,7 @@ Beast Burrow
 
 (★★☆)
 
- |  | Burrow into the ground, cued by the dig animation. Gives invincibility for the duration of the burrow. Click to cancel the skill and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) _Dig. (Requires a Thresher Talon to obtain)_ | Mobility Mantra |
+ |  | Burrow into the ground, cued by the dig animation. Gives invincibility for the duration of the burrow. Click to cancel the skill and hit anybody above, knocking them upwards. Based on the [Thresher's](Thresher.md) _Dig. (Requires a [Thresher Talon](Thresher_Talon.md) to obtain)_ | Mobility Mantra |
 
 ### **Support Mantras**
 

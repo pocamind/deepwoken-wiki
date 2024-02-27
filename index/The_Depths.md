@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 89551
+revid: 91118
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -24,7 +24,7 @@ Despite being a resting place for souls, The Depths is a physical location in th
 
 There are multiple layers to the Depths, with as many as nine known to exist, likely getting even harder as it goes down.
 
-Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food.The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, as well as dealing with unsavoury players, it is strongly recommended that you do not intentionally go to the Depths.
+Pleetsky, a renowned Flamecharmer and Diver, was able to reach the 3rd Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This power was obtained by eating a part of Korilfiend, the Drowned God of the Vents, Layer 3. By consuming a bit of him, Pleeksty became a Deepwoken. This information can be gleaned from residents of the Castle Light, and the Flamecharmer in Lance's Food. The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, as well as dealing with unsavoury players, it is strongly recommended that you do not intentionally go to the Depths.
 
 ## Whirlpools
 
