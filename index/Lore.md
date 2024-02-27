@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 90865
+revid: 91062
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -133,13 +133,14 @@ The Duke
 
 -   "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them.
 -   He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac.
--   It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon.
+-   Evengarde is a very powerful swordsman, being able to wield all 3 weapon types. He mainly uses katanas, as they are Etrean Blades
 -   He is respectful towards those who save his Vigils, and even feels as if he is in their debt while also valuing strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
 -   His main weapon type is medium, but he is also a master of the other two.
 -   Kelsius, the keeper of the Vigil library, is highly grateful towards Evengarde for taking him in, in spite of his complicated past as war criminal and Authority soldier.
--   Presumably a Galebreather, alongside the other vigils based on Stratos' dialogue and the "Maestro's Blade" Talent which infuses Galebreathe upon inhaling a spell.
+-   Evengarde is one of, if not the strongest Galebreather of the modern age.
 -   Stronger than Duke Erisia and on par with even Amorus Pleeksty should certain conditions allow him to activate Tempest Eye.[\[1\]](#cite-note-rag-1)
 -   User of Tempest Eye. The only ability that Tempest Eye is currently known to grant to its user is the ability to parry any attack, including attacks that are normally not able to be parried, such as a [Megalodaunt](Megalodaunt.md) kick. [\[1\]](#cite-note-rag-1)
+-   Evengarde, somehow, knows of the Lord Regents true nature, and wishes to remove him. However, as the Authority is present in the East and is growing more desperate by the day, removing the Lord Regent would almost certainly result in them carrying out a last ditch full frontal assault, the scale of which not even Evengarde could repel, especially given the distance Etris is from the Isle of Vigils and the logistical and tactical issues that would come with it. As a result, he's biding his time and searching for powerful allies so that they may allow Etrea to finally stand on its own after decades being pushed around by the Ministry and the Authority.
 
 ### **Akira, The Black Diver**
 
@@ -1328,7 +1329,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   The power to harness fire and flames. Flamecharmers from the Western Luminant are known for their mastery of this Attunement.
 -   It was invented when Pleeksty consumed a chunk of Korilfiend's flesh, allowing him to speak to and thus 'charm' fire.
--   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Plume in Etris.
+-   (Pleeksty) Pleeksty is a major figure to Flamecharmers, with multiple talents with his name in them, and he is mentioned by Ploom in Etris.
     -   Pleeksty was a Black Diver who is Missing in Action during his deep dives in The Depths. He is the only person to ever be confirmed to have traversed the third layer of the Depths.
 -   Flamecharm does not create fire; instead, creates combustion.
 -   (Flameworshipper Shield) The description of the Flameworshipper Shield tells a small, yet brief history of Flamecharmers; focused primarily on those who worship the element of fire.
@@ -1373,25 +1374,6 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 -   _Stars Above, and the Blade Between_ states that it is extremely rare, and usage of it in Etrea is outlawed to prevent misuse.
 -   Nightblood can be harvested through a machine that drains the ether of those placed in it.
 -   Considered taboo, as it exists to drain life.[\[1\]](#cite-note-rag-1)
-
-### Lightkeepers
-
-**Lore Sources:** _Nimea and Klaris._
-
--   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
-    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
--   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving them complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
--   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
--   The only lightkeeper that we know of is the one mentioned by Nimea, Viqh, the Lightkeeper of the Eastern Lighthouse.
--   Apparently Lightkeepers can't leave their light house by any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
--   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'Petra's Dawn' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
--   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them.
-    -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
--   The magic that is utilized by the Dawnwalker Oath is an attempt at imitating Lightkeeping through the use of Radiant Tones.
--   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
-    -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
-    -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.
 
 ### Lifeweavers
 
@@ -1995,6 +1977,25 @@ Though technically a blank slate of varying races and abilities, even the player
 -   If your health bar is stained, that means your character is injured. Drowning (dying with a stained health bar) sends the player's soul to the Depths, whereas your body stays on the surface. This is why you need to enter the Depths through a whirlpool to enter Castle Light, as you bring your body with you there. When a player escapes the Depths, their soul is returned to their body and heals it fully.
 
 ## Miscellaneous
+
+### Lightkeepers
+
+**Lore Sources:** _Nimea and Klaris._
+
+-   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
+    -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
+-   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving them complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
+-   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
+-   The only lightkeeper that we know of is the one mentioned by Nimea, Viqh, the Lightkeeper of the Eastern Lighthouse.
+-   Apparently Lightkeepers can't leave their light house by any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
+-   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'Petra's Dawn' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
+-   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them.
+    -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
+-   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
+-   The magic that is utilized by the Dawnwalker Oath is an attempt at imitating Lightkeeping through the use of Radiant Tones.
+-   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
+    -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
+    -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.
 
 ### **Materials**
 

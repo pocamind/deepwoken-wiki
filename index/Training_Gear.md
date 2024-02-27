@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 91001
+revid: 91016
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -52,7 +52,7 @@ Ankle weights hanging in the Antiquarian shop at Etris
 -   Encyclopedia - Template:Cost / **200 uses**
 -   Math Textbook - Template:Cost / **200 uses**
 -   Location - [Etris](Etris.md) Library next to the Inn, [Isle of Vigils](Isle_of_Vigils.md) Library, First floor [Greathive Aratel](Greathive_Aratel.md) Library, and [Castle Light](Castle_Light.md) Library, Left of Gunsmith (Dockson) in [Summer Isle](Summer_Isle.md) Shop, Next to Sand Dollar Merchant (Hotdog) in [Summer Isle](Summer_Isle.md) Shop
--   Training - Harvesting items, reading books, discovering new areas, eating a [Bluecap](Bluecap.md), creating potions, discovering new recipes
+-   Training - Harvesting items, reading books, discovering new areas, eating a [Bluecap](Ingredients.md), creating potions, discovering new recipes
 
 ### Willpower
 

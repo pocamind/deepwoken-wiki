@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 87918
+revid: 91028
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -37,3 +37,4 @@ The **Sacred Hammer** is a medium blunt weapon found in the [Songseeker Wilds](S
 
 -   This weapon can be used as a mid to endgame club.
 -   Due to clubs once using the older, unpolished animations for medium weapons, the Sacred Hammer was infamous for having horribly desynced animations that made it a nightmare to fight.
+-   **Not Recommended for PVE**, due to the loss of being able to instant guardbreak bosses, it has the lowest critical posture damage ingame along with all other instant guardbreak criticals, at around 2.

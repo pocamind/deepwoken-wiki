@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 90815
+revid: 91048
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -68,10 +68,48 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 
 **Light:**
 
-| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Dagger | Dagger | 18 | 0% | LHT: 7 | 4 | 6.5 | 1.07x | Rush forward in a flurry of divine slashes. | 0.05s |
-| Divine Flintlock | Flintlock | 15 | 0% | LHT: 15 | 1 | 12 | 1.3x | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. | 0.0s |
+<table>
+<tbody>
+<tr>
+  <th><b>Name</b></th>
+  <th><b>Type</b></th>
+  <th><b>Damage</b></th>
+  <th><b>Penetration</b></th>
+  <th><b>Scaling</b></th>
+  <th><b>Weight</b></th>
+  <th><b>Range</b></th>
+  <th><b>Swing Speed</b></th>
+  <th><b>Special Skill</b></th>
+  <th><b>Endlag</b></th>
+  <td>"Scaled Damage"</td>
+</tr>
+<tr>
+  <td>Divine Dagger</td>
+  <td>Dagger</td>
+  <td>18</td>
+  <td>0%</td>
+  <td>LHT: 7</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>1.07x</td>
+  <td>Rush forward in a flurry of divine slashes.</td>
+  <td>0.05s</td>
+</tr>
+<tr>
+  <td>Divine Flintlock</td>
+  <td>Flintlock</td>
+  <td>15</td>
+  <td>0%</td>
+  <td>LHT: 15</td>
+  <td>1</td>
+  <td>12</td>
+  <td>1.3x</td>
+  <td>Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards.</td>
+  <td>0.0s</td>
+  <td>63.49</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia/Notes
 

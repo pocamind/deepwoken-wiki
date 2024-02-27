@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 90977
+revid: 91050
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -64,6 +64,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Interactable npcs and items, such as campfires, repair kits, etc can be used within the realm and interacted to.
     -   It can be used in water or Guild Bases, and by yourself.
     -   Ritual Casts, Warriors Respite, and Resonances are disabled within the Dreamscape.
+    -   You are immune to get downed while realm is active.
         -   Cooldown is 2 minutes and 40 seconds.
             
             File:Illusonaryrealm.gif

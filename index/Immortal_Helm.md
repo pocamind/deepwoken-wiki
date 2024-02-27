@@ -1,6 +1,6 @@
 ---
 title: Immortal Helm
-revid: 90251
+revid: 91023
 source: https://deepwoken.fandom.com/wiki/Immortal_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets]

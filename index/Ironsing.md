@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 90391
+revid: 91041
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -215,7 +215,7 @@ Metal Kick
 -   With the [Intuitive Repairs](Talents.md) talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
 -   Can be upgraded with eternal logstones for increased duration.
 
-Does not negate deferred or fire damage.
+Does not negate deferred, fire or fall damage.
 
  |
 |  | Chain Pull

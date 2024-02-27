@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 89988
+revid: 91030
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -12,7 +12,7 @@ categories: [Resonances]
 |---|---|
 | effect | Full immunity, teleports user back to position when used |
 | appearance | Orange, yellow. or black particles at the area of activation |
-| cooldown | Duration + 17(?) seconds |
+| cooldown | Duration + 15-20(?) seconds |
 
 > “ Set down a marker in space and time, returning to it after a duration. ”
 > 

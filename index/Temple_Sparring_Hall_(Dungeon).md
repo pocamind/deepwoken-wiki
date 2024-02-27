@@ -1,6 +1,6 @@
 ---
 title: Temple Sparring Hall (Dungeon)
-revid: 90642
+revid: 91044
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Dungeon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,3 +24,7 @@ Temple Sparring Hall is a dungeon that can be reached from the [Isle of Vigils](
 ## Potential enemies
 
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+
+## Trivia/Notes
+
+-   You cannot place campfires in the sparring hall.
