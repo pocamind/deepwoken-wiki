@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 91062
+revid: 91133
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -131,7 +131,7 @@ The Duke
 
 ### **"Maestro" Evengarde Rest**
 
--   "Maestro" Evengarde Rest is the presumed leader of the Vigil Guard and is highly respected by all of them.
+-   "Maestro" [Evengarde Rest](Evengarde_Rest.md) is the presumed leader of the Vigil Guard and is highly respected by all of them.
 -   He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac.
 -   Evengarde is a very powerful swordsman, being able to wield all 3 weapon types. He mainly uses katanas, as they are Etrean Blades
 -   He is respectful towards those who save his Vigils, and even feels as if he is in their debt while also valuing strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's proficiency stat.
@@ -146,7 +146,7 @@ The Duke
 
 _"Another one...? You've got to be kidding me." - Akira_
 
--   Akira is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
+-   [Akira](Akira.md) is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
 -   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
     -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
@@ -160,7 +160,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 
 ### **Amorus Pleeksty**
 
-_"The Eternal Flame, and the failure of man..." -One of Amorus Pleeksty books._
+_"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus_Pleeksty.md) books._
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.[\[1\]](#cite-note-rag-1)
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
@@ -181,7 +181,7 @@ _"The Eternal Flame, and the failure of man..." -One of Amorus Pleeksty books._
 
 _"Oh, a human? Far from home are we?" -Chaser._
 
--   Chaser was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet.
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Diver's in their first expedition down. He was secretly an operative working for The Ministry, under the orders of the Second Prophet.
 -   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
 -   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[5\]](#cite-note-doc-5)
 -   He later betrayed them and joined The Ministry following his graduation.[\[1\]](#cite-note-rag-1)
@@ -213,7 +213,7 @@ _"Oh, a human? Far from home are we?" -Chaser._
 
 ### **Dr. Carrion, Father of Evolution**
 
-_"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Carrion_
+_"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. Carrion](Carrion,_Father_of_Evolution.md)_
 
 -   One of the founding Divers.
 -   Leader of the Apothecary.
@@ -237,9 +237,9 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -Dr. Ca
 
 _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
--   Currently residing in the Eastern Lighthouse, near miners landing.
+-   Currently residing in the [Eastern Lighthouse](Eastern_Interstitial_Lighthouse.md), near miners landing.
 -   In charge of connecting the Eastern and Etrean Luminant to the rest of the luminants from the Voidsea.
--   Possible childhood friend of Nimea and possible teacher of Klaris.
+-   Possible childhood friend of [Nimea](The_Hidden_Village.md) and possible teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Her hobby is apparently to write poetry, as stated by Klaris.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etris.
 -   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisoned due to her "gift".
@@ -247,13 +247,13 @@ _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
 ### **Klaris Llfiend, Mother of Lights**
 
-_"Ugh... I don't have time to train you apprentices... SCRAM!" -Klaris Llfiend._
+_"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
 -   Black Diver of the Canor race.[\[2\]](#cite-note-arch-2) Created light hooks.
 -   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
--   In charge of expeditions into the Second Layer.
--   Name bears an eerie resemblance to Korilfiend, Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
+-   In charge of expeditions into [the Second Layer](Second_Layer.md).
+-   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
 -   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned Orlandeau to New Kyrsa over a disagreement, with Orlandeau noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.

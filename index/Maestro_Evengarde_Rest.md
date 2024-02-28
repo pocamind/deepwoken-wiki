@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91124
+revid: 91190
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -37,14 +37,19 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   While parrying the initial hit should cancel the critical, there is a chance for a bug to occur and him to continue with the critical anyway.
 
  | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Draw: Maestro's Flourish** | Swings his blade in a spinning motion, performing two gale-infused slashes. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: Maestro's Flourish** | Swings his blade in a spinning motion, performing two gale-infused slashes.
+
+-   Extremely difficult to react to, having an extremely fast windup.
+
+ | ◯ | ◯ | ◯ | (★★★) |
 | **Mortal Draw: Floating Passage** | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Dharma Descent** | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Draw: One Mind** | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★★☆) |
+| **Mortal Draw: Dharma Descent** | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: One Mind** | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Mortal Draw: Mangetsu** | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Etrea Cross** | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★★☆) |
+| **Mortal Draw: Etrea Cross** | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Mortal Draw: Pressure** | Uses a flash step to approach foes from a great distance and performs a circular slash.
 
+-   The behavior of the slash is very similar to the Ankle Cutter passive used by [Silentheart](Oath%253A_Silentheart.md).
 -   Will only use this move at range to prevent zoning.
 
  | ◯ | ◯ | ◯ | (★★☆) |
@@ -78,16 +83,10 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear and the enchant Obfuscation will easily chip through his block.
--   Maestro has a talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
-    -   Examples of this are multi-hit moves like Shattered Katana crit, Shadow Gun + Blast Spark. You can also use crits that do high posture damage without insta-guardbreaking like base sword crit and Purple Cloud crit.
-    -   Examples of attacks you cannot use are Sacred Hammer crit and Eclipse Kick (although when he is low posture, you may use these attacks to guardbreak him \[needs testing\])
-    -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, Guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
-
-## Appearance
-
-Rest is an Etrean of the File variant with his hair dyed black. He wears a white Deepwoken Cloak, however the sleeves are inverted. He also uses a Cloak of Winds, probably to assist his Shattered Katana and normal Katana.
-
-Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)
+-   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
+    -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
+    -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
+    -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
 
 ## Trivia
 
@@ -95,11 +94,10 @@ Hair ID: [https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun](https://w
 -   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting. Many of the moves reference its abilities and bosses, such as [Genichiro Ashina](https://sekiro-shadows-die-twice.fandom.com/wiki/Genichiro_Ashina) or the [One Mind Combat Art](https://sekiro-shadows-die-twice.fandom.com/wiki/One_Mind).
     -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade), wielded by the protagonist [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
 -   All of his mantras will automatically execute you.
-    -   You can still be manually gripped by him if you die to his critical attack, ankle cutter, or M1.
--   You will only gain the disgraced flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
+    -   You can still be manually gripped by him if you die to his critical attack, basic attack or his Mortal Draw: Pressure.
+-   You will only gain the Disgraced Flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
 -   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
-    -   Despite this unique dialogue, it actually does not affect the fight.
--   Defeating him for the first time awards 2 knowledge.
+-   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   You can spit on the Maestro to start the fight early, as an alternative to speaking with him.

@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 90008
+revid: 91184
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Cut Content]
@@ -18,7 +18,7 @@ They are also enemies that appear as part of "Villain" reputation [ambush events
 
 ## Moveset
 
-A Black Diver's arsenal consists of the oath [Dawnwalker](Oath%253A_Dawnwalker.md) either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
+A Black Diver's arsenal consists of the oath [Dawnwalker](Oath%253A_Dawnwalker.md) and either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement:
 
 Mantras with a star beside them mean only Black Diver (Ambush) and Black Diver (Tideknight) use them. Black Diver (Guard) do **not** use the mantras with a star beside the name.
 

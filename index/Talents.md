@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 91126
+revid: 91180
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1439,10 +1439,13 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   Iron Skin also repairs natural armor from Chitin and Exoskeleton.
     -   Prerequisite: Iron Skin mantra, 25 Ironsing
 -   Metal Absorption \[Common Talent, Ironsing Exclusive\] - Your 'Iron Hug' also absorbs armor from the enemy.
+    -   Iron Hug will steal 200 armor durability from the target.
     -   Prerequisite: Iron Hug mantra, 30 Ironsing
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras. (+5 Elemental Intensity)
+    -   If you can't cast a mantra due to a lack of ether, consume 50 armor durability to cast it.
     -   Prerequisite: 50 Ironsing
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
+    -   Each rods will steal 20 armor durability.
     -   Prerequisite: 50 Ironsing
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 10% less damage when your Armor protects you from an attack and has over 90% durability.
     -   Prerequisite: 75 Ironsing

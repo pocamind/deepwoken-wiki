@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 82384
+revid: 91183
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -33,4 +33,4 @@ The Pale Morning is a midgame Greathammer that can be obtained from Chests in th
 
 ## Trivia
 
--   Pale Morning is currently tied for best weapon of the Greathammers (with [Petra's Anchor](<Petra's_Anchor.md>)).
+-   ~Pale Morning is currently tied for best weapon of the Greathammers (with [Petra's Anchor](<Petra's_Anchor.md>)).~ Extremely debatable due to the addition of many new Greathammers.

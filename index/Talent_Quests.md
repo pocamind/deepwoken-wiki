@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 90969
+revid: 91134
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
