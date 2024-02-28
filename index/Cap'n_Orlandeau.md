@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 88587
+revid: 91235
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -87,7 +87,7 @@ The player can run into him atop of one of the balconies in the city. His dialog
 > 
 > 1.  Insane acts are my specialty, despite my sanity being intact.
 > 
-> Cap'n Orlandeau: \*The man backs off, readjustinghis cap once more.\* Aye. Aye, I can tell that. So, 'yer not a government agent, you've proven that much. Now... who are you? Why are you _really_ down here? Surely that mission of yours was a jest to fool me.
+> Cap'n Orlandeau: \*The man backs off, readjusting his cap once more.\* Aye. Aye, I can tell that. So, 'yer not a government agent, you've proven that much. Now... who are you? Why are you _really_ down here? Surely that mission of yours was a jest to fool me.
 > 
 > 1.  I spoke the truth.
 > 

@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 90040
+revid: 91234
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 You could buy an official Sharko Plush made by makeship in [here!](https://www.makeship.com/products/sharko-plush)
 
-they are sadly sold out.
+They are sadly sold out.
 
 ## Description
 
@@ -39,11 +39,10 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 
 -   ACHOO! Ah, sorry. Coral Fever? No no, just my spring allergies acting up.
 -   AD BREAK: Corporations have no soul.
--   AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !
+-   AD BREAK: I am brought to you by \[WEBZONE\]! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\]!
 -   AD BREAK: Stream Naktigonis. Please. You know you want to.
 -   AD BREAK: selling cbow 2k
--   A Felinor can have a little bit of salami. As a treat.
--   Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, I was just singing the menu theme.
+-   Cheh tahh sehh kee gah... Pess kahh tahh... Hm? Oh, sorry, I was just singing the menu theme.
 -   Condiments are calories... never forget that.
 -   Did you know I'm actually your twin brother? I know it sounds cliche but I have a 500 page lore document in the works to explain how.
 -   Do the developers even read community suggestions? I told them to make the game better ten times already, and they still haven't.
@@ -75,17 +74,18 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   If you don't feed me, I will die. Can you live with that guilt?
 -   If you thought the rumbling was bad, wait until you hear about taxes.
 -   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking.
--   I've been thinking of starting a band recently. Might call it Lore Tornado. What do you think?
+-   I've been thinking of starting a band recently. Might call it \[Adjective\] \[Noun\]. What do you think?
 -   Just wait until I'm freed from the coil of your monitor.
 -   Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
 -   MISSION: Determine if it's possible to prompt the sun to explode.
--   Moe..
+-   Moe...
 -   Mudwoken? What are you talking about? That's so 91 years ago. Get with the times.
 -   Never go to afterparties. Just go home.
 -   Please join my fireteam. We're running a raid and need one more.
 -   Seriously? You're wearing those boots with that hat? Yikes.
 -   So... come here often?
 -   Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.
+-   Talking so much is getting me really tired. Maybe you should close the game so I can take a break?
 -   TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell.
 -   TIP: Are you staying hydrated and fed? Fevers spread through healthy hosts. I'm just looking out for both of us.
 -   TIP: A felinor can have a little bit of salami. As a treat.
@@ -95,14 +95,17 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   TIP: Even when I leave this place, I will continue to live in your memory. I'm not paying rent.
 -   TIP: Every copy of Deepwoken is personalized.
 -   TIP: Greathive Aratel makes the best softshell tacos in the entire Eastern Luminant.
+-   TIP: Gaming is fun - but don't forget to move around and stretch every now and then! Maybe get some fresh air while you're at it. Ever try it?
 -   TIP: I am currently banned from Lance Leshi's restauraunt. I have started a petition.
 -   TIP: I hate you with all my hate.
+-   TIP: If you're ever getting bored of the game, play something else. Games aren't made to be played forever.
 -   TIP: I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong and there's nothing you can do about it.
 -   TIP: If you're ever getting bored of the game, play something else. Games aren't made to play forever.
 -   TIP: Overconfidence is a slow and insidious killer.
 -   TIP: Press 'Spacebar' to jump! How many times have you jumped in real life recently? Something to think about.
 -   TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.
 -   TIP: Sesame oil is great in stir fries. Remember that.
+-   TIP: Soy sauce contains over 900mg of sodium in only one serving. I'm not the food police, though.
 -   TIP: Support your favorite artists, buy their albums. Streaming services pay .4 cents a play. A cup of coffee costs around 1,000 streams.
 -   TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought.
 -   TIP: When was the last time you picked up a book? No, weapon manuals don't count.
@@ -113,11 +116,11 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   They should add Freddy Fazbear to this game.
 -   This is what sucks about video games nowadays. It takes way too long to get to the fun part.
 -   When's that Ethiron theme coming along anyway?
+-   When you really think about it, having 'Happy Birthday' sung to you is like an unskippable cutscene in real life.
 -   Why are you looking at me like that? Cut it out. You're creeping me out.
--   Y'know I'm real good friends with The Guy. Bet your jealous.
+-   Y'know, I'm real good friends with The Guy. Bet you're real jealous.
 -   Yaaawn... Can you like, do something interesting?
 -   You don't have to do anything anymore. Ever. Never Ever.
--   You know I'm really good friends with The Guy right? I bet you're jealous.
 -   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
 -   You, uh.. you doin' good? I'm not asking because I care, I'm asking because I was coded to.
 
@@ -168,7 +171,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 
 -   If you were hoping you could uninstall me, I have bad news.
 -   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
--   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
+-   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza at the white tree in Etris unlocks a secret sixth attunement.
 
 ## Trivia
 
@@ -185,6 +188,7 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   He is based on a sticker in the discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy), a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
+-   The line "I've been thinking of starting a band recently. Might call it (Adjective) (Noun). What do you think?" has many possible responses with a list of verbs and nouns. Two-time, Generated, Lore, and Wheat are some possible verbs, while Tony, Tornado, and Error are some possible nouns.
 -   Despite being a physical virus, he refers to being coded.
 -   The tooltip "TIP: Birds aren't real." is a reference to the satirical conspiracy theory of the same name, "[Birds Aren't Real](https://en.wikipedia.org/wiki/Birds_Aren%27t_Real)".
 -   The tooltip "Every copy of Deepwoken is personalized." is Destroyman III riffing on the "Every copy of Super Mario 64 is personalized" craze that somehow landed itself on a Deepwoken iceberg, which was covered by Agamatsu.

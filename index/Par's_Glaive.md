@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 91226
+revid: 91229
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec]
@@ -8,7 +8,7 @@ categories: [Weapons, Developer Spec]
 
 # Par's Glaive
 
-| Starsight | |
+| Lorenzo's Glaive | |
 |---|---|
 | type | Greataxe |
 | requirements | ??? |
@@ -32,7 +32,7 @@ categories: [Weapons, Developer Spec]
 
 ## Description
 
-Starsight is an abomination of a weapon only obtainable for the dev "Lorenzo".
+Lorenzo's Glaive is an abomination of a weapon only obtainable for the dev "Lorenzo" aka astrotrain.
 
 It posesses the properties of :
 

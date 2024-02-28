@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 90876
+revid: 91237
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -160,6 +160,16 @@ _Deepwoken_ currently has 3 Unavailable armor that has been discovered.
 </tr>
 </tbody>
 </table>
+
+## What outfit to use?
+
+-   **Before late game** - Use whatever armor you can make that benefit you the most, usually the most resistant one of whatever gives you a talent that help you the most.
+-   **General use** - Authority Commander, Black Diver and Windrunner Robes are good all rounders that aren't geared toward a specific kind of build.
+-   **Fist Styles** - You will want to use the relevant armor to your fist style to make it stronger (Navaen War Chief for way of Navae, Legion Centurion for Legion Kata, Justicar for Jus Karita). Exception of Bruiser Mixup build, since you wont stick to 1 fist style, you might want to pick another armor.
+-   **Katana** - Royal Etrean Guard to empower your Katana weapons just a bit more.
+-   **Gun/Rifle** - Summer Dragoon allows your bullets to hit multiple people, resulting in a good increase in damage.
+-   **Mage Build** - Prophet's Cloak give a subtantial increase to the damage potential of your mantras and strong ether regen to go along with it.
+-   **PvE** - Ignition Deepdelver is a good option, allowing you to parry more attacks. Celtorian Tideknight is more niche and specifically made with Diluvian Mechanism in mind, where you will get attacked a lot.
 
 ## Trivia
 
