@@ -1,6 +1,6 @@
 ---
 title: Bloodiron Ring
-revid: 80582
+revid: 91219
 source: https://deepwoken.fandom.com/wiki/Bloodiron_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Equipment, Rings]
@@ -8,21 +8,20 @@ categories: [Armors, Equipment, Rings]
 
 # Bloodiron Ring
 
-| Akira's Ring | |
+| Bloodiron Ring | |
 |---|---|
 | type | Ring |
-| rarity | Legendary |
-| selling price | 50 |
-| requirements | Power 6 |
+| rarity | Rare |
+| selling price | 25 |
 | weight | 0.1 |
 | innate stats | 1 Legendary Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Ferryman , Second Layer , Ancient Rotlands , Trading with Jeremiah |
-| description | "A ring once worn by a Black Diver. It seems he's since passed the need for such trinkets. +1.2 WLL scaling to all weapons." |
+| obtainment | Maestro Evengarde Rest |
+| description | "A strange creature lurks within. When the life of another is taken, their blood is reconstituted into your armor." |
 
 ## Description
 
-Akira's Ring is a Ring [Equipment](Equipment.md) piece of equipment in Deepwoken. Placeholder.
+Bloodiron Ring is a Ring [Equipment](Equipment.md) piece of equipment in Deepwoken. Placeholder. It is basically the talent [Bloodiron Spirit](Talents.md) but put into a ring.

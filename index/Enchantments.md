@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 91074
+revid: 91192
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -634,7 +634,7 @@ Static flaming purple.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
 -   Umbral Knight lost its curse in a shadow update on **26-27 December, 2021**
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag.[\[2\]](#cite-note-2)
+    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag[\[2\]](#cite-note-2), and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
 -   Enchanted Hero Blades were in the game before they were removed.
 -   Some enchants used to have different names:

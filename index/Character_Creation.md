@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 85566
+revid: 91225
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -141,7 +141,7 @@ Here is what makes the [Voidwalker Origin](Origins.md#voidwalker) unique:
     -   If they flee too far from you, or they log, you are sent back to the [Voidheart](Voidheart.md).
     -   You gain the ability to see your target through walls momentarily.
 -   Spawn with the Void Eye, which teleports you back to the [Voidheart](Voidheart.md).
-    -   Said item has a ten minute cooldown, which is removed upon eliminating a [bounty target](Bounty_Hunting.md).
+    -   Said item has a ten minute cooldown, which is removed upon eliminating a [bounty target](Bounty_Hunting.md) or using it in the voidsea.
 -   You will spawn with the [Whaler Inititate](Whaler_Coat.md) [Outfit](Outfits.md) upon spawning in with this [Origin](Origins.md).
 -   There is a functional Chessboard in the [Voidheart](Voidheart.md), which does nothing but allow players to have games of Chess.
 -   [Voidwalkers](Origins.md) can access the [Bounty Board](Bounty_Hunting.md) for the [Knives of Eylis](The_Knives_of_Eylis.md), which is usually full.

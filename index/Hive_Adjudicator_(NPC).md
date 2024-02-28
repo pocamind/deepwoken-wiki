@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 82225
+revid: 91199
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -31,11 +31,12 @@ A Hive Adjudicator's arsenal only consists of a [Katana](Katana.md):
 | Rising Flame | Spins and releases a fury of flames that sends both the caster and opponent vertically into the air. | ◯ | ◯ | (★★☆) |
 | Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
 | Flame Assault | Caster dashes forward covered in flames; knocking down whoever is in its path. | ◯ | ◯ | (★☆☆) |
+| Flaming Scourge | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground. | ◯ | ◯ | (★★★) |
 
 ### Boons
 
 -   Experienced Fighter - Can block and parry common attacks and mantras.
--   Heavy Support - Spawns with two [Hive Constructs](Hive_Construct.md).
+-   Heavy Support - Spawns along with 2 [Hive Constructs](Hive_Construct.md) if in [Greathive Aratel](Greathive_Aratel.md).
 -   Enchanted - Comes with a random variety of enchant
 
 ### Talents

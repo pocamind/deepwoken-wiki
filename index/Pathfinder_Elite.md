@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Elite
-revid: 89973
+revid: 91200
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -28,4 +28,5 @@ categories: [Equipment, Arms]
 
 The Pathfinder Elite is an animated [Equipment](Equipment.md) item under the "Arms" category. Equipping it grants you 5% Damage Vs Monsters and 2 Pips (One guaranteed legendary Pip).
 
--   It can only be obtained as a (3%) mob drop from [Nautilodaunts](Nautilodaunt.md).
+-   Can be obtained as a (3%) mob drop from [Nautilodaunts](Nautilodaunt.md).
+-   Can be commonly obtained as a drop from the [The Diluvian Mechanism](The_Diluvian_Mechanism.md)

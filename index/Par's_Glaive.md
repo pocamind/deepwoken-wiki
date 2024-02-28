@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 90885
+revid: 91226
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec]
@@ -8,7 +8,7 @@ categories: [Weapons, Developer Spec]
 
 # Par's Glaive
 
-| Lorenzo's Glaive | |
+| Starsight | |
 |---|---|
 | type | Greataxe |
 | requirements | ??? |
@@ -32,7 +32,7 @@ categories: [Weapons, Developer Spec]
 
 ## Description
 
-Lorenzo's Glaive (or The Gatekeeper) is an abomination of a weapon only obtainable for the dev "Lorenzo".
+Starsight is an abomination of a weapon only obtainable for the dev "Lorenzo".
 
 It posesses the properties of :
 
@@ -40,6 +40,15 @@ It posesses the properties of :
 2.  Dagger's Swing Speed
 3.  Greataxe's light attacks and critical attack animations
 4.  Being enchantable (most seen with Detonation)
+
+Upon getting hit, the enemy will get a purpleish pink halo on their head which change their moveset for 8 seconds:
+
+-   Forwards (W) to Backward (S)
+-   Left (A) to Right (D)
+-   Parry (F) to Vent (G)
+-   Bell (C) to Critical (R)
+-   M1 (Left Click) to M2 (Right Click)
+-   Roll (Q) stay unchanged
 
 ## Trivia
 

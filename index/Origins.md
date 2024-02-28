@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 90959
+revid: 91208
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]

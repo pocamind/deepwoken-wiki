@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91190
+revid: 91220
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -101,3 +101,4 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   You can spit on the Maestro to start the fight early, as an alternative to speaking with him.
+-   There will be an option for light and heavy weapons to fight the Maestro. There will be new weapons for them as well.
