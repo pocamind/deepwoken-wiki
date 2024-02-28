@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 90982
+revid: 91286
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -37,44 +37,116 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 Arcwarder Passives and Mantras are obtained via defeating either [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the [Scion of Ethiron](Scion_of_Ethiron.md) a total of 5 times, granting one passive Talent/Mantra per kill until the Oath is fully progressed. Mantras are recieved upon light hooking out from Chaser or Ethiron.
 
-## Abilities
+## _Abilities_
 
--   **Arc Suit - Support Mantra**
-    -   Comes with the oath.
-    -   Encases the user in a durable armor for 15 seconds. Can be modified with Logstones to increase duration, the suit starts with no damage reduction can be modifed with vibrant gems.
-        -   Cooldown scales with the duration of the suit.
-    -   For the suit to last a full minute, use 3 Aeon Longstones and 3 Eternal Longstones.
-    -   To achieve the maximum damage reduction, use 3 Vibrant Gems, which will give the suit a 10% damage reduction.
-    -   If you decide to use the Aeon Longstones and Eternal Longstones, as well as the Vibrant Gems this cost around 200 ether, a Blue Gem can help reduce the cost to 100 ether, similar to the amount of Reinforce.
-    -   The suit has iframes on the second half of its windup.
-    -   Orbital Ice is less effective when used in conjunction with it.
-    -   The Arc Suit come in these listed colors: umbral, black, Gold, dark gray, light gray, and white. You can change the color with a [Dye Packet](Dye_Packet.md). “Note the first color you get is permanently binded to the slot and does not change and will not change even if you wipe multiple times.”
+| **Media** | **Name** | **Card Description** | **Ether Cost** | **Effect & info** |
+| --- | --- | --- | --- | --- |
+|  | Arc Suit
+(☆☆☆)
 
--   **Arc Module: Dash - Passive**
-    -   When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. Also allows your Air Dash to go much farther.
-    -   Comes with Arc Suit.
+ | Conjure and equip your Arcwarder suit. | ?? Ether | 
 
--   **Arc Module: Eject - Passive**
-    -   When blockbroken with Arc Suit active, eject from the armor.
-    -   Immediately end Arc Suit, but prevent the guardbreak and set your posture to 50%.
+-   **Requirements: Obtained with Oath**_**,**_ _Support Mantra_
+    -   Encases the user in durable armor for 15 seconds.
+    -   Can be modified with up to 3 Vibrant Gems to increase damage reduction up to 10%.
+    -   Can be modified with Aeon/Eternal Logstones to a maximum duration of 1 minute.
+    -   Has i-Frames on the second half of its windup.
+    -   Orbital Ice is less effective when used alongside the Arc Suit.
+    -   Comes in Umbral, Black, Gold, Dark Gray, Light Gray and White may be changed with a Dye Packet.
 
--   **Arc Module: Guard - Passive**
-    -   Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind.
+ |
+|  | Arc Module:
 
--   **Arc Wave - Combat Mantra**
-    -   Release a wave of energy around you, dealing fire and lightning damage.
-    -   Unlocks at the same time as Guard.
+Dash
 
--   **Arc Beam - Combat Mantra**
-    -   Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage, it does a base damage of 20 and we have no knowledge of the actual scaling. Can be used in the air to shoot under yourself \[you can use arc beam in the air to insta-grip player if they're low health and aren't knocked\]
+(Passive)
 
--   **Arc Module: Leap - Passive**
+ | When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing. | N\\A | 
+
+-   **Requirements: Obtained with Oath**_**,**_ _Talent Card_
+    -   Allows your Air Dash to go much farther.
+    -   Allows the user to attack while performing a dash.
+
+ |
+|  | Arc Module:
+
+Eject
+
+(Passive)
+
+ | When blockbreaken with Arc Suit active, eject from the armor. | N\\A | 
+
+-   **Requirements: Obtained by Defeating Chaser/Scion of Ethiron**_**,**_ _Talent Card_
+    -   When block broken you instantly eject from your Arc Suit preventing it.
+    -   Upon exiting the Arc Suit posture is set to 50%
+
+ |
+|  | Arc Module:
+
+Guard
+
+(Passive)
+
+ | Blocking With your Arc Suit active negates all backstabs and allows you to block attacks from behind. | N\\A | 
+
+-   **Requirements: Obtained by Defeating Chaser/Scion of Ethiron**_**,**_ _Talent Card_
+    -   Allows the user to block attacks from all directions.
+    -   Prevents Spine Cutter from occurring when hit in the back.
+
+ |
+|  | Arc Wave
+
+(☆☆☆)
+
+ | Release a wave of energy around you, dealing fire and lightning damage. | ?? Ether | 
+
+-   **Requirements: Obtained by Defeating Chaser/Scion of Ethiron**_**,**_ _Combat Mantra_
+    -   Deals moderate damage.
+    -   Can apply both Electrified and Burning.
+    -   Compatible with Surge Path, Eruption Path, and Wraith Path.
+    -   Scales with both Flamecharm and Thundercall.
+    -   Obtained alongside Guard.
+
+ |
+|  | Arc Beam
+
+(☆☆☆)
+
+ | Shoot out a laser from your eyes that explodes after a second, dealing fire and lightning damage | ?? Ether | 
+
+-   **Requirements: Obtained by Defeating Chaser/Scion of Ethiron**_**,**_ _Combat Mantra_
+    -   Deals high damage.
+    -   Can apply both Electrified and Burning.
+    -   Compatible with Surge Path, Eruption Path, and Wraith Path.
+    -   Scales with both Flamecharm and Thundercall.
+    -   Can be used in the air to shoot under yourself.
+    -   Instantly grips low health players if the attack were to knock them.
+
+ |
+|  | Arc Module:
+
+Leap
+
+(Passive)
+
+ | Holding Spacebar after double jumping propels you up for a short duration. | N\\A | 
+
+-   **Requirements: Obtained by Defeating Chaser/Scion of Ethiron**_**,**_ _Talent Card_
     -   Allows you to double jump.
-    -   Holding Spacebar after double jumping propels you up for a short duration. (Arc Suit Required)
 
--   **Arc Module: Null - Passive**
-    -   When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
+ |
+|  | Arc Module:
+
+Null
+
+(Passive)
+
+ | When your Arc Suit is active, outgoing and incoming enchant effects are nullified. | N\\A | 
+
+-   **Requirements: Obtained by Defeating Chaser/Scion of Ethiron**_**,**_ _Talent Card_
     -   Can be toggled by pressing N when Arc Suit is active.
+
+ |
 
 ## Effects
 

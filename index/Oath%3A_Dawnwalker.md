@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 90974
+revid: 91268
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -101,5 +101,5 @@ This oath grants 2 Combat Mantra Slots. As for appearance, it changes the eye co
 -   Blinding Dawn may be inspired by or a reference to Goro Majima's Breaker style from Yakuza 0, specifically the spinning Power Moves at the end of the basic combos.
 -   Radiant Kick may be inspired by the boss Minos Prime from _ULTRAKILL_, as it highly resembles his "Judgement!" attack.
     -   Similarly, Radiant Dawn may be inspired by Fire Emblem Radiant Dawn, similar to Silentheart's Abilities.
--   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tomes.
+-   Although visually similar to [Lifeweave](Developer_Specs.md), this Oath uses Radiant Magic, which is an imitation of [Lightkeeping](Lightkeep.md) through the use of Radiant Tones.
 -   Originally, Blinding Dawn had this description: "Dance uncontrollably. No one can withstand the sheer groove of your spin routine."

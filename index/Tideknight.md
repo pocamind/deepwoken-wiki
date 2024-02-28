@@ -1,6 +1,6 @@
 ---
 title: Tideknight
-revid: 89354
+revid: 91280
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [InProgressPages, Enemies, Enemies that can wield Enchantments]
@@ -14,12 +14,11 @@ Template:EnemyInfobox1.0
 
 Tideknights can only found within the later waves of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
-  
 They wear the [Celtorian Tideknight](Celtorian_Tideknight.md) Outfit and have a wide array of weapons, Mantras, and Oaths. Every Tideknight NPC in the mechanism is a variant of an already existing hostile NPC, such as any of the four Songseeker variants, [Black Divers](<Black_Diver_(NPC).md>), Starkindred Angels, [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md) and all six of the [Spelltrainers](Attunement_Trainers.md).
 
 ## Moveset
 
-Tideknights contain the save moveset as the following NPCs depending on their variant:
+Tideknights contain the save moveset as the following NPCs depending on their variant.
 
 -   [Songseeker Galebreather](Songseeker_Galebreather.md)
 -   [Songseeker Thundercaller](Songseeker_Thundercaller.md)

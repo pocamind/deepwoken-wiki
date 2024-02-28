@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 90984
+revid: 91243
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -121,7 +121,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <td><p><b>Boss Path</b></p></td>
   <td><p><b>Depth Path</b></p></td>
   <td><p><b>PVP Path</b></p></td>
-  <td><p><b>Worthy Regalia</b></p></td>
+  <td><p><b>Inspired Regalia</b></p></td>
 </tr>
 <tr>
   <td><b>Sibex:</b> "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."</td>
@@ -195,7 +195,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   </p>
   <p>When killing players, you will not gain Progress upon grip unless they are around your general Power level.</p>
   <p>Another important thing to note is The <a href="Chime_of_Conflict.md">Chime of Conflict</a>, which is safer and will give more Progress, as opposed to The Overworld or The Depths.</p></td>
-  <td>You are given every path available at once. As there's no way of knowing when you awaken the Worthy <a href="Regalia.md">Regalia</a> (outside of talking to Sibex or the Legendary Boot after awakening it), you will hardly be able to specifically benefit from the aformentionned effect. Nontheless, it is still useful in its own way.</td>
+  <td>You are given every path available at once. As there's no way of knowing when you awaken the Inspired <a href="Regalia.md">Regalia</a> (outside of talking to Sibex), you will hardly be able to specifically benefit from the aformentionned effect. Nontheless, it is still useful in its own way.</td>
 </tr>
 </tbody>
 </table>

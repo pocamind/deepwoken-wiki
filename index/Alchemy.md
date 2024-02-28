@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 89308
+revid: 91282
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -10,136 +10,365 @@ notices:
 
 # Alchemy
 
-## Description
-
-Alchemy is the process of creating potions at a [cauldron](Cauldron.md). Potions can have many different effects depending on the ingredients used and can be drunk or thrown.
-
-The Crafting Recipes & Alchemy page contains some simple potion recipes, though some of the information is incorrect. At some point we'll update it.
-
-A handful of people have made a [Deepwoken Alchemy Chart](https://docs.google.com/spreadsheets/d/17Y4dSolQmri04eoaPYkrZSx1xPGoEV_oNo2F-PBj1Co/edit#gid=0), which lists the results of different ingredient combinations, and some of the potion effects. Some of the information is incorrect, though it's mostly accurate, and a useful tool for inferring the exact effects of ingredients.
-
-Some people have also made a [Alchemy Guide](https://deepwoken.fandom.com/wiki/File:Alchemy_Guide_Jan_10th.pdf) (updated as of 1/10/2022) which has slightly different information than what is listed here. You can also check that out.
-
-The most recent guide is [here](https://www.youtube.com/watch?v=3St-KT18F40).
-
-You cannot brew any [Attunement](Attunements.md) potions, but instead you will have to complete a quest given by the respective [Trainer](Attunement_Trainers.md) in order to obtain them.
-
-You can also talk to [Ciea](Ciea.md) near the Widow's Den, she will give you quests to make different potions and bring them to her.
-
 ## Basics
 
-### Brewing Potions
+Alchemy is the process of creating potions at a [Cauldron](Cauldron.md). Potions can have many different effects depending on the ingredients used and can be drunk or thrown.
 
-To brew a potion, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion.
-
-There are ten known functioning cauldrons in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the Frostdraw Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). The fifth is found at [Castle Light](Castle_Light.md) in the same room as the antiquarian. The sixth is in a house at [Meteor Isle](Meteor_Isle.md). The seventh is found in the [Voidheart](Voidheart.md) next to the mystic. The eighth is in [Fort Merit](Fort_Merit.md) in a house at the top of the stairs that begin at the prison entrance. The ninth is in [Miner's Landing](<Miner's_Landing.md>) next to the Ironsing trainer. The tenth is in [Lightkeeper Temple](Lightkeeper_Temple.md) in the second room on the left when entering the King Thresher's room. You are also able to create your own cauldron using Summon Cauldron, which appears at exactly 20 Intelligence as a Mantra, but is unlikely to draw unless [Attunementless](Attunement-less.md). You are also able to access a cauldron if you build a laboratory inside of a [Guild Base](Guild_Bases.md).
-
-Adding too many ingredients to a potion will dilute it, and the potion will do almost nothing. A maximum of **5** ingredients can be added to a potion before it is diluted, and any individual ingredient can be added a maximum of **3** times.  
-For example, you can make a powerful speed potion using 3 [Pomars](Pomar.md) and 2 [Spider Eggs](Spider_Egg.md), but if you brew a potion using 4 Pomar's, or 3 Pomar's and 3 Spider Eggs, you will just get a useless diluted potion.
-
-### Potion Names
-
-Potions are given two-word names based on their most powerful effect, and the strength of that effect.
-
-Potions can have many different effects, but the potion's most powerful effect is shown by the prefix (first word) of their name. For example, all _Invigorating_ potions will apply a regeneration effect, though if brewed with a Browncap, they will also deal a small amount of damage when drunk.
-
-The suffix (second word) of a potions name indicates the strength of the prefix's effect, with more powerful potions getting a higher tier suffix. However, each prefix has its own tiering hierarchy for suffixes.
-
--   Most negative effects have two suffixes, Blight and Bane, with Bane being stronger.
-    -   Some negative effects also have the Potion suffix, which is stronger than Bane.
-    -   Appalling is unique as the only (known) effect to use the same suffix for two different tiers - both the strongest and weakest potions use the Blight suffix, with Bane being the middle tier.
--   Most positive prefixes have three tiers - Salve, Elixir and Tincture (most commonly in that order). The hierarchy depends on the prefix.
-    -   Some positive prefixes (such as Heartening) can have as many as 5 different suffixes.
+To brew a potion, you hold ingredients in your hand, add them to a cauldron by clicking on it, and then press E to mix all the ingredients in the cauldron into a potion. Each ingredient has a unique combination of effects, and a potion's effect is the sum of all the effects from ingredients used in the potion. Up to 3 copies of the same ingredient can be used in a potion, and up to 5 ingredients can be used in total - exceeding these limits will result in a diluted potion, with reduced effects. A table of all ingredient effects can be found further down the page.
 
 ### Using Potions
 
-Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion will prevent you from sprinting or rolling and will be cancelled (wasting the potion) if you take damage while drinking. All potions share a 25 second cooldown called potion sickness. If you drink a potion during the cooldown, you will throw up and will not get the potion effect.
+Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion takes 2 seconds, prevents you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. All potions share a 25 second cooldown called potion sickness. If you drink a potion during the cooldown, you will throw up and will not get the potion effect.
 
-You can also throw potions by holding them and pressing E - this usually applies a weaker version of the potion effect to anyone standing near the potion when it explodes, though some positive effects only apply when drunk. You can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down. Throwing potions also allows you to apply the effects of multiple potions at the same time, effectively bypassing the potion cooldown.
+You can also throw potions by holding them and pressing E - this usually applies a slightly weaker version of the potion effect to anyone standing near the potion when it explodes. It takes approximately 2 seconds to throw a potion, and you can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down. Throwing potions also allows you to apply the effects of multiple potions at the same time, effectively bypassing the potion cooldown.
+
+Only one potion effect can be active at a time. Applying a new effect to a character that already has a potion effect will clear that effect. Characters currently under the effect of a potion will have a particle effect, with the colour seeming to depend on the type and intensity of the effect. Most effects are yellow or purple with more intensity at higher strength.
+
+Using the [Saltchemist](Oath%253A_Saltchemist.md) oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions on cooldown, though the same does not apply to "throw" mode potions.
+
+### Cauldron Locations
+
+There are ten known functioning cauldrons in the game. One is found in a hut on a hill above the guild hall on [Etris](Etris.md), next to the Frostdraw Trainer. The second is found on the second floor of the castle on [Summer Isles](Summer_Isle.md). The third is found next to the Physical Mantra trainer at [Greathive Aratel](Greathive_Aratel.md). The fourth is found at [Boatman's Watch](<Boatman's_Watch.md>). The fifth is found at [Castle Light](Castle_Light.md) in the same room as the antiquarian. The sixth is in a house at [Meteor Isle](Meteor_Isle.md). The seventh is found in the [Voidheart](Voidheart.md) next to the mystic. The eighth is in [Fort Merit](Fort_Merit.md) in a house at the top of the stairs that begin at the prison entrance. The ninth is in [Miner's Landing](<Miner's_Landing.md>) next to the Ironsing trainer. The tenth is in [Lightkeeper Temple](Lightkeeper_Temple.md) in the second room on the left when entering the King Thresher's room. You are also able to create your own cauldron using Summon Cauldron, which appears at exactly 20 Intelligence as a Mantra, but is unlikely to draw unless [Attunementless](Attunement-less.md). You are also able to access a cauldron if you build a laboratory inside of a [Guild Base](Guild_Bases.md).
 
 ## Mechanics
 
-We still haven't figured out exactly how Alchemy works, but our best understanding is something as follows:
+### Ingredients
 
-Every ingredient has two effects - sometimes both are obvious, other times one is more hidden. For example, adding a [Redd](Redd.md) to a potion will cause it to instantly restore a small amount of health (the _Rejuvenating_ effect), and drain your Ether for 10 seconds (the _Icky_ effect). Potions grant every effect of every ingredient they contain but are named only after their strongest effect. When Redd's are used to brew a potion, the strongest effect is the _Icky_ effect, so the potion will have the _Icky_ prefix, though it's important to note it still has the _Rejuvenating_ effect.
+Every ingredient has a number of effects - usually one positive and one negative, with some exceptions. For example, adding a [Redd](Redd.md) to a potion will cause the potion to instantly restore a small amount of health (the _Rejuvenating_ effect), and also drain your Ether for 15 seconds (the _Icky_ effect). Potions grant the additive sum of every effect of every ingredient they contain but are named only after their strongest effect. When redds are used to brew a potion, the strongest effect is the _Icky_ effect, so the potion will have the _Icky_ prefix, though it's important to note it still has the _Rejuvenating_ effect.
 
 The effects of multiple ingredients can be combined by brewing them together. A maximum of 3 ingredients of the same type can be added to a potion, as well as a maximum of 5 total ingredients. Going over these limits will severely weaken the potion's effects, likely turning it into a Diluted potion.  
-Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with conflicting effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing Redd's will partially cancel out the _Icky_ effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
+Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with conflicting effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing redds will cancel out the redd's ether drain effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
 
 Potions containing only a single ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including more copies of the same ingredient or ones with no effect.
 
-Spider Eggs are a special ingredient which increases the duration of potion effects by 50% (stacking additively, so 2 spider eggs will double the duration).
+The [Saltchemist](Oath%253A_Saltchemist.md) oath grants access to three unique "salts", which can all be added to a potion without affecting the number of ingredients. All three salts can be added to a 5 ingredient potion without diluting it, and adding a salt to a potion with only one ingredient does not avoid the penalty for single-ingredient potions.
 
-Potions also create a particle effect when used depending on the type and strength of the effect. Most effects are yellow or purple with more intensity at higher strength.
+### Talents and Other Modifiers
 
-Finally, potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. It is not impacted by ingredients, and caps out at 50% with 100 intelligence.
+Potions have a greater effect when brewed by a character with high intelligence. This is shown by an effect called "potency," which can be viewed by mousing over a potion in your inventory. Potency increases linearly with intelligence, and caps out at 50% with 100 intelligence. Additionally, talents in the [Alchemist](Talents.md#alchemist) category increase the effects of potions:
 
-### Talents
+-   Potions prepared by characters with the Apothecary talent have amplified positive effects when consumed, and amplified negative effects when thrown, with the exact modifier being unknown.
+    -   This talent can be easily be temporarily obtained while brewing potions by wearing an [Alchemist's Hat](<Alchemist's_Hat.md>).
+-   When brewing potions with the Wild Alchemy talent, there is a 25% chance to produce 2 potions instead of 1.
+-   The Potion Quaffer talent reduces the slowdown from drinking potions, allows potions to be drunk in 0.5 seconds instead of 2, and increases the regeneration of health regeneration potions when drunk.
+-   The Placebo Effect talent applies potion effects to your allies when you drink a potion near them.
+-   The Chain Reaction talent amplifies the effects of potions if they are applied to characters that already have one (replacing the old effect). It also adds a 25% chance not to use up a potion when drinking one.
+-   The Chemist's Bag talent causes potions to no longer be dropped on death.
+-   The Pitcher talent allows potions to be thrown further. It is the only potion related talent not found in the Alchemist category.
 
-The Apothecary and Exterminator talents both increase the effects of potions by an unknown amount.
-
-These talents do not change the suffix of the potion, but it can change the prefix. For example, if you have the Apothecary talent but not the Exterminator talent, potions brewed with Plumfruit will have the Strengthening prefix, as Apothecary increases that effect but not the negative Grueling effect which is otherwise stronger.
-
-The Wild Alchemy talent has the description:  
-_"You have a chance to brew 2 potions instead of 1"_
+Unlike the other effects, the duration of a potion is unaffected by any of these modifiers. Only ingredients with a duration modifier affect a potion's duration.
 
 ## Ingredients
 
-There are 27 (known) potion ingredients, though only 17 have an effect strong enough to brew named potions by themselves.
+There are 50 ingredients that can be added to a potion, though only 20 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
 
-Most ingredients have a positive and a negative effect - one of these effects is the stronger primary effect, which will name the potion if used alone, and the other is a weaker secondary effect, which is always present, but will only name the potion if the primary effect is weakened by another ingredient. A couple ingredients have one or three effects.
+If multiple ingredients have the same listed effect strength (for example, are multiple ingredients listed as "strongest"), they have the effect strength. It is currently untested if the strongest version of each effect is gained through using the best ingredients, or the best ingredients for the opposite effect with an Antithetic Salt.
 
-Eating an ingredient by itself will give you a weaker version of the effect it'd normally give you if brewed in a potion. Likely doesn't have any substantial uses. (Tested by eating a Bamboo Bundle by itself)
+<table><caption>Key</caption>
+<tbody>
+<tr>
+  <td>Effects in green are positive.</td>
+  <td>Effects in red are negative.</td>
+</tr>
+</tbody>
+</table>
 
--   Alestrian Coral - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Hastening**; Increases speed for 15 seconds. Tertiary effect is **Weakening**: Decreases posture damage.
-    -   The Hastening effect, despite being secondary, is the strongest
+<table><caption>Ingredients</caption>
+<tbody>
+<tr>
+  <th>Ingredient</th>
+  <th>Instant Health</th>
+  <th>Instant Ether</th>
+  <th>Damage Buff</th>
+  <th>Posture Damage Buff</th>
+  <th>Posture Buff</th>
+  <th>Speed Buff</th>
+  <th>Health Regen</th>
+  <th>Ether Regen</th>
+  <th>Sanity Regen</th>
+  <th>Duration</th>
+</tr>
+<tr>
+  <td>Bamboo</td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Beeswax</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Weakest</td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Bluecap</td>
+  <td>Strongest</td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Browncaps</td>
+  <td>Strong</td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Calabash</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Chum</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Coral</td>
+  <td></td>
+  <td></td>
+  <td>Weakest</td>
+  <td>Strongest</td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Crustacean&nbsp;Meat</td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Weakest</td>
+</tr>
+<tr>
+  <td>Dentifilo</td>
+  <td>Weakest</td>
+  <td>Weakest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Gobletto</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Weakest</td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Ongo</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Plum</td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Pomar</td>
+  <td>Weak</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Redd</td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td>Strongest</td>
+</tr>
+<tr>
+  <td>Sap</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Scallop</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Seaweed&nbsp;Bundle</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Spider&nbsp;Egg</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+</tr>
+<tr>
+  <td>Urchin</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Wheat</td>
+  <td></td>
+  <td></td>
+  <td>Strongest</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>Weakest</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
 
--   Bamboo Bundle - Primary effect is **Appalling**; Instantly drains ether. Secondary effect is **Steadfast**; Increases maximum Posture.
+Eating an ingredient will give you a weaker version of the effects it would normally give you if brewed in a potion. This can be used to remove an existing potion effect.
 
--   Beeswax - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Slowing**; Reduces movement speed.
-    -   Since beeswax's Invigorating effect is so powerful, and the only effect that cancels it is the weak Grueling from Plumfruit, it is very difficult to find the name of the secondary effect. It appears to be a slowing effect, however.
+Eggs, lotuses, all types of fish, fish meat, galewax, sticks and all types of minerals and pure minerals are also valid ingredients, but they don't appear to have any effects.
 
--   Bluecap - Primary effect is **Heartening**; Rapidly restores Sanity. (The potion also restores ether (**Soothing**) and deals a small amount of damage (**Disgusting**), though these may technically be part of the Heartening effect.)
-    -   Heartening is a very strong effect and is almost always the name of the potion (similar to Mindbreaker). Bluecaps are hard to get (other than in The Viper's Jaw, where there is an abundance) so there's not been a ton of experimentation, so it's not clear which parts of the Heartening effect are inherent to the potion, and which are secondary effects.
-    -   The Heartening effect is so strong that 1 Bluecap is able to overpower 3 Urchins
+### Salts
 
--   Browncap - Primary effect is **Disgusting**; Deals a small amount of damage. Secondary effect is **Strengthening**; Slightly increases damage dealt.
-    -   The damage from Disgusting is very small - even when brewed with every bonus, thrown potions are unlikely to deal more than 5% to opponents of similar strength.
-    -   The secondary Strengthening effect is also very small.
+The [Saltchemist](Oath%253A_Saltchemist.md) oath grants access to three salts, which can be added to any potion at no cost. These salts do not affect the number of ingredients in the potion (so they can be added to a 5 ingredient potion) and multiple different salts can be added to the same potion.
 
--   Calabash - Primary effect is **Steadfast**; Increases your maximum posture. Secondary effect is **Icky**; Drains Ether over time for 15 seconds.
-    -   While the Icky effect is secondary, calabash is still the strongest source of the Icky effect.
--   Crustacean Meat - Primary effect is **Dulling**; decreases damage dealt. Also increases duration of effects by a small amount.
+Biotic Salts alter the potion to provide halved negative effects when applied to allies (including yourself), and halved positive effects when applied to enemies. This salt is strictly positive, and should be added to all potions.
 
--   Dentifilo - Primary effect is **Soothing**; Instantly restores ether. Secondary effect is **Disgusting**; Deals a small amount of damage.
+Aromatic Salts cause the potion effect to linger when thrown for 10 seconds. A couple times per second, anyone standing in the effect radius will have the potion effect applied to them - this can be used to trigger Chain Reaction and applies any instant effects repeatedly. The duration of the lingering cloud is not affected by duration modifiers on the potion (such as spider eggs), though the potion effect applied by the cloud is affected by duration modifiers as normal. This salt can be a net negative if the potion has an undesirable instant effect, though in most cases it simply makes it easier to apply the potion effect, and can improve the effective duration of the effect by up to 10 seconds.
 
--   Gathered Wheat - Primary effect is **Dulling**; Decreases damage dealt. Secondary effect is **Focusing**; Drastically increases Ether regeneration for 15 seconds.
-    -   Focusing is one of a few effects that can't be the strongest effect in a potion unless multiple different ingredients are used. The Dulling effect can be cancelled with the Strengthening effect, which is found on Plumfruit and Browncaps, to reveal the Focusing effect.
-
--   Gobletto - Primary effect is **Invigorating**; Applies a 15 second regeneration effect. Secondary effect is **Slowing**; Reduces movement speed.
-    -   It is very difficult to find the secondary effect of this ingredient. Invigorating can only be cancelled out with Grueling, but this can only be done using three Plumfruit, which then changes the prefix to Strengthening. Strengthening can only be cancelled using wheat (taking the last ingredient slot), and the wheat's Focusing effect is more powerful than whatever the Gobletto secondary effect is. ~The name is not shown, however the resulting potion when thrown provides yellow particles that increase your speed.~ i was tired when i wrote this and forgot ingredients dont contain 2 positives, and noticed it was more of a dilluted orange (weak disgusting potion) rather than a hastening yellow
-
--   Ongo - Primary effect is **Buckling**; Reduces maximum posture. Secondary effect is **Staggering**; Increases posture damage.
-
--   Plumfruit - Primary effect is **Grueling**; Deals a small amount of damage over 15 seconds. Secondary effect is **Strengthening**; Increases physical damage.
-
--   Pomar - Primary effect is **Hastening**; Increases speed for 15 seconds. Secondary effect is **Disgusting**; Deals a small amount of damage.
-
--   Redd - Primary effect is **Icky**; Drains Ether over time for 15 seconds. Secondary effect is **Rejuvenating**; Instantly restores a small amount of health. Tertiary effect **shortens** duration of other effects.
-    -   Like Focusing, Rejuvenating can't be brewed using only a single ingredient. The rejuvenating effect is very weak, but it is possible to brew a Rejuvenating potion using exactly three Redd's and one Wheat.
--   Sap - Primary effect is **Focusing**; Increases ether regen. Secondary effect is **Slowing**; Reduces movement speed
--   Seaweed Bundle - Primary effect is **Mindbreaker**; rapidly lowers sanity. No secondary effect.
-
--   Urchin - primary effect is **Mindbreaker**, which rapidly lowers sanity. No secondary effect.
-    -   Mindbreaker potions are notable for being one of the few good throwing potions - when brewed with every bonus, you can kill someone by draining all their sanity using just a few Mindbreaker Banes.
-
-Chum, eggs, fish meat, galewax, scallops, spider eggs, sticks and minerals (coal, iron, stone, irithine, etc.) are also valid ingredients, but they don't change the potion effect, and brew Nothing Potions when used alone.
-
-The lotuses used to make attribute flasks can be used in alchemy, not to be confused with using two of them in a crafting table. They do not seem to have an effect, but they make diluted potions when used by themselves???
+Antithetic Salts invert the effects of all ingredients used in the potion. This doubles the variety of potions that can be brewed, and can sometimes be used to make stronger versions of an effect than would otherwise be possible. For instance, a stronger slowing potion can be created by brewing a speed potion with Pomar and Alestrian Coral, then inverting it, instead of using the comparitively weak slowing effect of Sap and Goblettos.
 
 ## Effects
 
-Tiers are listed in order of strength, with the strongest tier listed first. Ingredients are also listed in the same order, but this is much harder to measure so may be inaccurate.
+  
+Tiers are listed in order of strength, with the strongest tier listed first. Ingredients are also listed in the same order.
 
 <table><caption>Effects</caption>
 <tbody>
@@ -330,7 +559,19 @@ Tiers are listed in order of strength, with the strongest tier listed first. Ing
 </tbody>
 </table>
 
-NOTE- its unlikely certain effects like sticks, fish, eggs, and other unknown materials just do nothing, as even with spider eggs when brewed by themselves get a "nothing" potion but have the ability to increase the duration of a potion while slightly lowering its potency. theres also probably an ingredient thats opposite to spider eggs which can increase potency yet decrease duration.
+## Potion Names
+
+Potions are given two-word names based on their most powerful effect, and the strength of that effect. The exact mechanism behind this system is still unknown.
+
+Potions (almost) always have multiple different effects, but the potion's most powerful effect is shown by the prefix (first word) of their name. For example, all _Invigorating_ potions will apply a regeneration effect, though depending on what ingredients were brewed to make the potion, the potions could also have any number of other effects. Since the "power" of different effects is fairly arbitrary, the most **important** effect may be a not be the potion's prefix.
+
+The suffix (second word) of a potions name appears to indicate the strength of the prefix's effect, with more powerful potions getting a "higher tier" suffix. However, each prefix has its own tiering hierarchy for suffixes, with very little consistency.
+
+-   Most negative effects have two suffixes, Blight and Bane, with Bane being stronger.
+    -   Some negative effects also have the Potion suffix, which is stronger than Bane.
+    -   Appalling is unique as the only (known) effect to use the same suffix for two different tiers - both the strongest and weakest potions use the Blight suffix, with Bane being the middle tier.
+-   Most positive prefixes have three tiers - Salve, Elixir and Tincture (most commonly in that order). The hierarchy depends on the prefix.
+    -   Some positive prefixes (such as Heartening) can have as many as 5 different suffixes.
 
 ## Optimal Potions
 
@@ -380,3 +621,8 @@ When brewing potions for an instant effect (like Rejuvenation or Soothing), poti
     -   Decreases your posture damage.
 -   **Speed** - 3 Coral + 2 Pomar
     -   Increases your speed.
+
+## Trivia
+
+-   [Attunement](Attunements.md) potions are not brewed using Alchemy, but are instead obtained by completing a quest given by the respective [Trainer](Attunement_Trainers.md).
+-   [Ciea](Ciea.md), found near the Widow's Den, offers quests to make different potions and bring them to her.
