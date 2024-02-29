@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 91003
+revid: 91371
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -54,9 +54,9 @@ Humanoid Enemies can have **enchanted** weapons; However, it's only given to cer
 
 **The Children of Navae**
 
-**The Legion**
+**The Hundred Legions**
 
-**Celtor**
+**Lost Celtor**
 
 ## Ambush Events
 
