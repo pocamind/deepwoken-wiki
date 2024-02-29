@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 91270
+revid: 91329
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -82,4 +82,3 @@ The tower is located next to Ferrymans ritual.
 -   Adrofalis, who gives the Oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.
 -   The Oath's appearance may be a reference to The Claw from Library of Ruina, a similarly-enhanced entity using concoctions and injections to its advantage.
     -   While it is slightly possible, the devs have stated to never have played any Project Moon games before, making this a very slim possibility. The vials also do not resemble the arm of a Claw very well, and more closely resemble something like Scarecrow from the Arkham series
--   You could get the Saltchemist Oath without the intelligence needed by accepting the quest, using the Shrine of Order afterward, then completing the quest, and getting the Oath without 75 Intelligence. This method has now been patched and can no longer be done.

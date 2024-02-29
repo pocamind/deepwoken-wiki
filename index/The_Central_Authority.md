@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 90566
+revid: 91311
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -44,14 +44,14 @@ Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial p
 -   Provides funding for [The Divers](The_Divers.md).
 -   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).
 -   Contracts with the [Ignition Union](The_Ignition_Union.md) to kill monsters in the Depths.
--   Occasionally hires the [Knives of Elyis](The_Knives_of_Eylis.md) to raid Etrean ships.
+-   Occasionally hires [The Knives of Eylis](The_Knives_of_Eylis.md) to raid Etrean ships.
 
 The Central Authority is among the factions to have a Bounty Board.
 
 ## Notable Members
 
 -   Drallis Ehr
--   Warden Jericho
+-   [Warden Jericho](Warden_Jericho.md)
 
 ## Trivia
 
@@ -61,7 +61,7 @@ The Central Authority is among the factions to have a Bounty Board.
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer (Lord Regent) from causing a great drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
     -   However, the [Operation 'Puppet Master'](Books.md#operation-puppet-master-report) report implies this is being kept a secret from most of the Authority's forces. Their lack of presence on [Minityrsa](Minityrsa.md) and hostilities with The Children of Navae also seem to contradict with this mission.
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
-    -   Interestingly, [Warden Jericho](Tomb_of_the_Nameless_Warrior.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
+    -   Interestingly, [Warden Jericho](Warden_Jericho.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
 -   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other, they only fight on the battlegrounds of Starswept.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.

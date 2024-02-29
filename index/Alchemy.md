@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 91282
+revid: 91318
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -18,7 +18,7 @@ To brew a potion, you hold ingredients in your hand, add them to a cauldron by c
 
 ### Using Potions
 
-Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion takes 2 seconds, prevents you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. All potions share a 25 second cooldown called potion sickness. If you drink a potion during the cooldown, you will throw up and will not get the potion effect.
+Once brewed, potions can be drunk by holding them and pressing M1. Drinking a potion takes 2 seconds, prevents you from sprinting or rolling, and will be cancelled (wasting the potion) if you take damage while drinking. Drinking potions has a 20 second cooldown called "Potion Sickness". If you drink a potion during the cooldown, you will throw up and will not get the potion effect.
 
 You can also throw potions by holding them and pressing E - this usually applies a slightly weaker version of the potion effect to anyone standing near the potion when it explodes. It takes approximately 2 seconds to throw a potion, and you can only throw a potion once your previous potion has landed, but if you have multiple different potions (in different inventory slots), you can throw one of each at a time. Throwing a potion can be done while sprinting and does not slow you down. Throwing potions also allows you to apply the effects of multiple potions at the same time, effectively bypassing the potion cooldown.
 
@@ -37,11 +37,13 @@ There are ten known functioning cauldrons in the game. One is found in a hut on 
 Every ingredient has a number of effects - usually one positive and one negative, with some exceptions. For example, adding a [Redd](Redd.md) to a potion will cause the potion to instantly restore a small amount of health (the _Rejuvenating_ effect), and also drain your Ether for 15 seconds (the _Icky_ effect). Potions grant the additive sum of every effect of every ingredient they contain but are named only after their strongest effect. When redds are used to brew a potion, the strongest effect is the _Icky_ effect, so the potion will have the _Icky_ prefix, though it's important to note it still has the _Rejuvenating_ effect.
 
 The effects of multiple ingredients can be combined by brewing them together. A maximum of 3 ingredients of the same type can be added to a potion, as well as a maximum of 5 total ingredients. Going over these limits will severely weaken the potion's effects, likely turning it into a Diluted potion.  
-Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with conflicting effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing redds will cancel out the redd's ether drain effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
+Adding multiple ingredients with the same effect will strengthen that effect, and adding ingredients with opposing effects will weaken them. For example, one of [Gathered Wheat](Gathered_Wheat.md)'s effects is ether regeneration. Adding wheat to a potion containing redds will cancel out the redd's ether drain effect, and in the correct ratio, can produce a potion with the _Rejuvenating_ prefix.
 
 Potions containing only a single ingredient suffer a heavy penalty to the strength of all effects (usually resulting in a Diluted potion). This penalty can be avoided by adding any ingredient, including more copies of the same ingredient or ones with no effect.
 
 The [Saltchemist](Oath%253A_Saltchemist.md) oath grants access to three unique "salts", which can all be added to a potion without affecting the number of ingredients. All three salts can be added to a 5 ingredient potion without diluting it, and adding a salt to a potion with only one ingredient does not avoid the penalty for single-ingredient potions.
+
+Finally, any potion with a positive Health Regeneration effect has its duration reduced by 3 seconds. This duration reduction is constant, regardless of the strength of the health regeneration effect.
 
 ### Talents and Other Modifiers
 
@@ -56,7 +58,7 @@ Potions have a greater effect when brewed by a character with high intelligence.
 -   The Chemist's Bag talent causes potions to no longer be dropped on death.
 -   The Pitcher talent allows potions to be thrown further. It is the only potion related talent not found in the Alchemist category.
 
-Unlike the other effects, the duration of a potion is unaffected by any of these modifiers. Only ingredients with a duration modifier affect a potion's duration.
+Unlike the other effects, the duration of a potion is unaffected by any of these modifiers. A potion's duration is always the same for any given combination of ingredients.
 
 ## Ingredients
 

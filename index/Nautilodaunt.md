@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 91279
+revid: 91316
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,9 @@ categories: [Monsters]
 
 ― Odd Tentacle description
 
-_Commonly referred to as Squibbo, Alternatively known as Squid Hoss & Squidward_
+  
+
+-   _Commonly referred to as Squibbo, Alternatively known as Squid Hoss & Squidward_
 
 **Nautilodaunt:**
 

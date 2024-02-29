@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 89703
+revid: 91327
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods, NPCs, Layer 1]
@@ -32,7 +32,7 @@ The player can interact with Yun'Shul's shrine to obtain a wish. Making a wish r
 -   You need to not have the [Tarnished](Boons_and_Flaws.md#flaws) flaw. This is obtained from rerolling your Resonance with Yun'Shul, so this won't really apply on your first wish.
     -   If you do have Tarnished, you can remove it at [Yamaketzal](Yamaketzal.md) for 1000 notes, or by seeking clarity at [Misérables](Misérables.md) for 15 [Knowledge](Knowledge.md).
 -   Have a wish available (sometime referred to as Yun'Shul wish CD).
-    -   All players start with a wish (and can **only hold 1 at a time.**) A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge.
+    -   A wish can be obtained by levelling up 3 times or by seeking clarity at [Misérables](Misérables.md) for 15 Knowledge. Wishes do **NOT** stack, so if you get your resonance at power 18 or higher you will be unable to get another wish (without the use of [Misérables](Misérables.md) or the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>).)
 
   
 If you meet all the criteria, you are able to make one of five wishes:

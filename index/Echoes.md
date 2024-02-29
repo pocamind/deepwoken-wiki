@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 90016
+revid: 91331
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -325,6 +325,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   Kelsius' mantra hand and Deep Shrines do not get autopicked with destined so you can abuse this to look for a mantra with more comfort.
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1)
+-   The Maestro does not give you echoes despite being considred a boss. Thus he does not count towards W or S rank.
 
 ## References
 

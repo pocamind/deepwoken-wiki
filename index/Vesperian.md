@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 90048
+revid: 91322
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -118,3 +118,4 @@ A Vesperian with Blindseer
 -   The Chitin talent (race ability) can be stacked with the exoskeleton talent in order to make your natural armor resist up to 13% physical damage.
 -   Vesperian and Lightborn are the first races to receive a cosmetic in the UGC Avatar Shop.
 -   As with other hivekin, Vesperians share similar names. (Vesperian: Sekhigi, Ganymede: Sekhige, Chrysid: Sehika)
+-   The developers, Nuttoons and Arch\_Mage, have the [Primal Vesparian](Primal_Vesperian.md) race as a [Developer Spec](Developer_Specs.md), giving them horned variants of the mask.

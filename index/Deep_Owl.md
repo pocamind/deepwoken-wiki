@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 90966
+revid: 91304
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -19,6 +19,12 @@ Template:Creature Infobox V3
 The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [monster](Monsters.md) found in _[Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md)_ and _[The Depths](The_Depths.md)_. Players are also known to have found Owls in [Pathfinder's Respite](<Pathfinder's_Respite.md>), Temple Of The Forgotten Flame, and [Viper’s Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
 
 Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, this restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
+
+All Owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking to the Nestmind NPC with the Visionshaper quest gives us a decent hint on just what these strange creatures are.
+
+Deep Owls come from an alternate dimension/unknown layer of sorts and get into our world through the minds of Visionshapers with the contract they make with The Nestmind. With the power of Visionshapers that allows illusions to become reality, they are sentient creatures that feast on the minds of those they slaughter. They particually feast only on the humans of Deepwoken and not its monsters/creatures due to creatures with great intelligence/imaginatory capabilities being far more palettable.
+
+It is said by The Nestmind that Visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who are trying to become an owl by unknown meanings.
 
 When appearing in _[Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md)_, its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. _During the dialogue, it is non-hostile and will not trigger a combat state._ Therefore, it's a good time to log out if unprepared for the battle.
 
@@ -100,14 +106,6 @@ When using **Feather Teleport** or **Owl Dash**, the Owl will likely then attemp
 The **Flock of Feathers** can be easily mitigated by rapidly pressing the F key, similar to blocking multi-hit moves from other enemies.
 
 If looking for owls, it is recommended to join highly populated servers because this increases their spawn rate.
-
-## Lore
-
-All owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking to the Nestmind NPC with the Visionshaper quest gives us a decent hint on just what these strange creatures are.
-
-Deep Owls come from an alternate dimension/unknown layer of sorts and get into our world through the minds of Visionshapers with the contract they make with The Nestmind. With the power of Visionshapers that allows illusions to become reality, they are sentient creatures that feast on the minds of those they slaughter. They particually feast only on the humans of Deepwoken and not its monsters/creatures due to creatures with great intelligence/imaginatory capabilities being far more palettable.
-
-It is said by The Nestmind that visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who are trying to become an owl by unknown meanings.
 
 ## Trivia
 
