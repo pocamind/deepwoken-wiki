@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91330
+revid: 91339
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -101,4 +101,5 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   You can spit on the Maestro to start the fight early, as an alternative to speaking with him.
--   Unlike all other bosses in the game, the Maestro does not give you echoes
+-   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
+    -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.

@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 75321
+revid: 91341
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -12,7 +12,7 @@ Template:NPC name
 
 ## Description
 
-Lance's Brother is an [Etrean](Etrean.md) NPC, located in at the [Isle of Vigils](Isle_of_Vigils.md), inside of a food stand near the docks. He sells various [food](Food.md) items. Nobody seems to know his name...
+**Lance's Brother**, also known as **(?),** is an [Etrean](Etrean.md) NPC, located in at the [Isle of Vigils](Isle_of_Vigils.md), inside of a food stand near the docks. He sells various [food](Food.md) items. Nobody seems to know his name...
 
 ## Prices
 
@@ -87,13 +87,11 @@ _\*You gaze into the man's eyes. Cold. Glassy. Like empty windows into the void 
 
 \[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN\]
 
+  
+
 ## Trivia
 
 -   After asking his name, your character forgets, and his name is then randomized from a preset group of names, which end in "(?)".
 -   Lance's Brother wears [Merchant Robes](Merchant_Robes.md).
 -   Lance Leshi denies having a brother.
--   As [said](https://media.discordapp.net/attachments/926268072564756500/1155210816262512811/1695493922148.mp4) by HorrorTM, Lance's brother real name is Maverick Leshi, who ascended and became a Lightborn to be better than his brother after using a time machine. The one currently at Isle of Vigils is him from the past.
-
-## Gallery
-
-Lance's Food
+-   As [said](https://media.discordapp.net/attachments/926268072564756500/1155210816262512811/1695493922148.mp4) by HorrorTM, Lance's brother real name is Maverick Leshi, who ascended and became a Lightborn to be better than his brother after using a time machine. The one currently at Isle of Vigils is him from the past, assuming that Horror was neither drunk, high or a mixture of both.

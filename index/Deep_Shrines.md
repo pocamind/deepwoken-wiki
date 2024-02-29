@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 91093
+revid: 91349
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -214,13 +214,12 @@ Located in [Trial of One](Trial_of_One.md) on the opposite wall of the entrance.
 
 ## Effects
 
-As a Lone Warrior, this shrine act like a Mystic, allowing you to affect your card draws.  
+As a Lone Warrior, this shrine acts like a Mystic, allowing you to affect your card draws.  
 In all other cases, this shrine does nothing.
 
 ## Pros/Cons
 
--   Lone Warrior Exclusive - False. There's one in Deluvian Mechanism
-    
+Free Mystic for the Lone Warrior Origin/ Trial of One.
 
 * * *
 

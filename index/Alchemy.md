@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 91318
+revid: 91332
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -24,7 +24,7 @@ You can also throw potions by holding them and pressing E - this usually applies
 
 Only one potion effect can be active at a time. Applying a new effect to a character that already has a potion effect will clear that effect. Characters currently under the effect of a potion will have a particle effect, with the colour seeming to depend on the type and intensity of the effect. Most effects are yellow or purple with more intensity at higher strength.
 
-Using the [Saltchemist](Oath%253A_Saltchemist.md) oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions on cooldown, though the same does not apply to "throw" mode potions.
+Using the [Saltchemist](Oath%253A_Saltchemist.md) oath, it is possible to generate an infinite supply of 3 potions of your choice, by adding them to the Perpetual Distillery. Each of the three potions will be bound to a key, and can be set to either "throw" or "drink" mode. Pressing a potion's key will use the potion, with a 40 second cooldown per potion. Using a "drink" mode potion will place all other "drink" mode potions that share an effect on cooldown, though the same restriction does not apply to "throw" mode potions.
 
 ### Cauldron Locations
 
