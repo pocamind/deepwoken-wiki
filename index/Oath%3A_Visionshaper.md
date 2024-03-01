@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 91423
+revid: 91435
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -43,11 +43,12 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         -   Grants I-frames while invisible.
         -   The clone is visible to only the caster and the target.
         -   Clones disappear if the caster takes any kind of damage. In any other situation, they will last the full duration, even when hit.
-        -   The clones deal a quarter of the caster's regular damage.
+        -   The clones are supposed to deal a quarter of the caster's regular damage.
+            -   its been tested previously with a posers ring bug that they do half of the caster's regular damage.
         -   The clones can only M1 and Crit, unless the user wields a heroblade, in which it will be incapable of using Crits.
         -   Will not summon any clone if there is no enemy nearby.
     -   Duration scale with your progress of the Visionshaper Oath.
-    -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
+    -   If the target has the Disbelief talent, the duration of the illusion is shortened.
     -   Clones _do_ apply hit-stun.
         
         File:Illusionary Servants.gif
@@ -61,6 +62,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         -   Interactable NPCs and items, such as campfires, repair kits, etc., can be used within the realm.
         -   Ritual Casts, Warriors Respite, and Resonances are disabled within the Dreamscape.
         -   Both the caster and any user within the realm will be pushed back if too far from the casting location, similar to the Gravity Field resonance.
+        -   Grants 20% damage reduction to the caster.
     -   The cooldown is 2 minutes 40 seconds.
     -   Players within the realm will be shown as covered in white feathers to bystanders, and cannot be interacted with.
     -   There are two modifiers:

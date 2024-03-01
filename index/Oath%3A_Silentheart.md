@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 90980
+revid: 91440
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -107,7 +107,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   If you have even one mantra from cards or other sources it will be removed upon Oath obtainment
 -   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
--   Mani Katti is a reference to the sword and critical attack used by Lyn of the same name in the Fire Emblem Series.
+-   Mani Katti is a reference to the sword and critical attack used by Lyn of the same name in the Fire Emblem Series. (Mani Katti = Many Cuts)
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the soulblooms quest, but the mantra upgrading page will be blank (assuming you roll 2d all your mantras)
 
 File:Pinkheart.png

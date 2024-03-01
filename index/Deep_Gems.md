@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 90647
+revid: 91438
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems]
@@ -24,6 +24,7 @@ Deep Gems can be obtained from:
 -   Both kinds of chests from the [Deep Crucible](Deep_Crucible.md) (Rare)
 -   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>) (Uncommon, limited to the Hallowtide seasonal event)
 -   Depths Collapse Event in the Depths (Common)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (Common)
 
 You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 

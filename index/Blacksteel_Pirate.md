@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 83603
+revid: 91460
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -77,3 +77,4 @@ likely drowning you in the water. It is possible to survive this with the help o
 -   They don't actually wear a [Blacksteel Helm](Blacksteel_Helm.md) or [Blacksteel Pauldrons](Blacksteel_Pauldrons.md), despite being able to drop them and sharing their namesake, "Blacksteel".
 -   If no one attacks the Wooden Tower, the Blacksteel Pirates will despawn, but the top of the tower will still spawn a chest and the Wooden Tower will sink.
 -   The Wooden Tower can despawn while someone's actively fighting the pirates, not granting any XP and not spawning the chest at the bottom of the tower.
+-   cat

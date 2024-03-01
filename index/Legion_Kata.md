@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 90808
+revid: 91441
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -14,7 +14,7 @@ categories: [Weapons, Fists]
 | requirements | 0 LHT |
 | damage | 12.2 |
 | scaling | 7 |
-| range | 7 |
+| range | 6 |
 | swing speed | 0.8x |
 | weight | 3 |
 | bankable | Yes |
