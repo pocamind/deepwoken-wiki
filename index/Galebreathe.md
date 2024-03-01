@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 89907
+revid: 91382
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -323,7 +323,6 @@ _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from 
 -   Requires 20 Strength
 -   Gives hyperarmor when casting
 -   Deals _possibly moderate-heavy_
--   Can be modified with _Perfect Lenses_ and _Crystal Lenses_.
 -   Applies Ragdoll
 -   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to make it reach further.
 

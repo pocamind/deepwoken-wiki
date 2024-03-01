@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 91234
+revid: 91380
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -15,11 +15,7 @@ categories: [NPCs]
 
 ― Destroyman III
 
-## Limited Time Offer
-
-You could buy an official Sharko Plush made by makeship in [here!](https://www.makeship.com/products/sharko-plush)
-
-They are sadly sold out.
+  
 
 ## Description
 
@@ -32,6 +28,8 @@ Symptoms of Coral Fever includes:
 -   Intermittent and contagious sneezing (replaced spitting)
 
 With the original strand of Coral Fever contained, Destroyman III was set to disappear. However, he lives on within the Great Sharko Rumbling monument at Etris Docks. Simply emoting near the monument will grant you a benign version of the Coral Fever, which only include Destroyman III. If you ever feel the need to be left alone, simply emoting near the monument again will DESTROY Destroyman III. (How dare you)
+
+You could buy an official Sharko Plush made by Makeship [here](https://www.makeship.com/products/sharko-plush), but they are sadly sold out.
 
 ## Quotes
 
@@ -209,6 +207,6 @@ With the original strand of Coral Fever contained, Destroyman III was set to dis
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III). He is everywhere.
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
--   Deepwoken partnered with Makeship in order to craft for Destroyman a vessel in the form of the [Sharko Plush](https://www.makeship.com/products/sharko-plush).
-    -   The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repurcussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.
+    -   The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
+-   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.

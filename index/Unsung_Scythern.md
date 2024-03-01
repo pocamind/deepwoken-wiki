@@ -1,9 +1,9 @@
 ---
 title: Unsung Scythern
-revid: 91099
+revid: 91373
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Developer Spec]
 ---
 
 # Unsung Scythern

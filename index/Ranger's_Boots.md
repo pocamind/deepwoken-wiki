@@ -1,6 +1,6 @@
 ---
 title: "Ranger's Boots"
-revid: 87782
+revid: 91376
 source: https://deepwoken.fandom.com/wiki/Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Boots, Equipment]
@@ -20,7 +20,7 @@ categories: [Boots, Equipment]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Songseeker, Arena |
+| obtainment | Chests from:, Songseeker Wilds, Arena |
 | description | "..." |
 
 ## Description

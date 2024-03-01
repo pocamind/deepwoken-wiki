@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 84159
+revid: 91385
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2, Parrying Daggers]
@@ -21,7 +21,6 @@ categories: [Weapons, Verse 2, Parrying Daggers]
 | chip damage | N/A |
 | special effect | Decreases your posture gain on parry. Increases your opponents posture gain when parried. |
 | offhand | Offhand only |
-| selling price | ? |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

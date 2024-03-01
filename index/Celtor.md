@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 91356
+revid: 91389
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -106,3 +106,8 @@ Name tag of a Celtor during Mudwoken.
 -   Half of the surnames of the Celtors are of Russian origin \[Baranof (Baran=Ram/Sheep), Kotof (Kot=Cat), Bykof (Byk=Bull), Kalinof (Kalina=Viburnum), Sokolof (Sokol=Falcon), Petrof (Russian Name+of), Pavel (Russian Name as Surname)\].
 -   During the 4/1/2022 April Fools update (Mudwoken), the Celtor race name was changed to Mustskipper.
 -   Celtor is tied with Adret and Etrean for the most common race.
+-   Celtors are known to gamble often at shipyards and docks they find.[\[1\]](#cite-note-1)
+
+1.  [↑](#cite-ref-1)
+    
+    Arch\_Mage stating that Celtors frequently gamble at Shipyards and Docks

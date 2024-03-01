@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 90888
+revid: 91388
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -86,5 +86,11 @@ May have increased rep with The 100 Legions
 -   During the 4/1/2022 April Fools update (Mudwoken), Khan's race name was changed to Monkskipper.
 -   When in character creation, if you reroll off of Khan and choose to switch back to it, instead of saying "Switch to Khan" it says "Return to Khan" as a reference to the "Reject humanity, return to monke" meme.
 -   Hair dye affects the sideburns.
+-   Khans are known to bet on fights.[\[1\]](#cite-note-1)
     
     Monkskipper
+    
+
+1.  [↑](#cite-ref-1)
+    
+    Arch\_Mage stating that Khans frequently bet on fights.
