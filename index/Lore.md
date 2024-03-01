@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 91281
+revid: 91403
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1123,14 +1123,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   They know how to speak our language, however they have their own "tongue".
 -   Their city of New Kyrsa is perhaps the most technologically advanced location seen in game, even possessing a train station.
 
-### **Deepwoken**
-
--   **Lore Sources:** Ragoozer (Discord)
-
--   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'[\[1\]](#cite-note-rag-1)
--   Only known Deepwoken are Amorus Pleeksty and the First Prophet.[\[1\]](#cite-note-rag-1)
--   The player could possibly be one or become a Deepwoken in the future considering the 'Deepwoken' talent category, them being regarded as special, and their survival during the Castaway origin.
-
 ## Race Lore
 
 For people who wish to see the races, head [here.](Aspects.md)
@@ -1520,15 +1512,17 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 
 ### **Deepwoken**
 
--   People who consumed a piece of a Drowned God.[\[1\]](#cite-note-rag-1)
+-   **Lore Sources:** Ragoozer (Discord)
+
+-   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'[\[1\]](#cite-note-rag-1)
     -   A Common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming.
--   The only known Deepwoken are Amorus Pleeksty and The First Prophet of the Ministry.[\[1\]](#cite-note-rag-1)
+-   There are 2 known Deepwoken, Amorus Pleeksty and The First Prophet of the Ministry.[\[1\]](#cite-note-rag-1)
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
--   It also results in unknown physical changes.[\[2\]](#cite-note-arch-2)
 -   It is also known that becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
 -   The consequences of becoming a Deepwoken aren't yet known, but their are drawbacks.[\[2\]](#cite-note-arch-2)
     -   Though similar to Starkindred (As Deepwoken are technically it's polar opposite), it is not entirely impossible to theorize that becoming a Deepwoken is also an act of invoking the power of Oaths, hence binding the user's soul to an ideal.
+    -   It results in unknown physical changes, most likely related to the body changes of The Ministry Prophets such as [Zi'eer](The_Lord_Regent.md).[\[2\]](#cite-note-arch-2)
 -   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain Talent cards being directly under the tree "Deepwoken".
 
 ### **Voidwalker/Void Oath**
@@ -2150,7 +2144,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) [1.77](#cite-ref-rag-1-77) [1.78](#cite-ref-rag-1-78) Developer ragoozer
+1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) Developer ragoozer
 2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) Developer Arch\_Mage
 3.  ↑ [3.0](#cite-ref-kamas-3-0) [3.1](#cite-ref-kamas-3-1) [3.2](#cite-ref-kamas-3-2) [3.3](#cite-ref-kamas-3-3) [Flareblood Kamas](Flareblood_Kamas.md) description
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [4.2](#cite-ref-firstlight-4-2) [4.3](#cite-ref-firstlight-4-3) [4.4](#cite-ref-firstlight-4-4) [4.5](#cite-ref-firstlight-4-5) [4.6](#cite-ref-firstlight-4-6) [4.7](#cite-ref-firstlight-4-7) [First Light](First_Light.md) description

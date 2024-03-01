@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 89966
+revid: 91408
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -157,9 +157,9 @@ Scratch
  | Weakly scratches opponent over and over again until knocked. | ◯ | ◯ | (★☆☆) |
 | 
 
-Flare
+Flame Ballista
 
- | Conjures a ball of fire before throwing it at an opponent. | ◯ | ◯ | (★★☆) |
+ | Conjures a Flaming Arrow before firing it at an opponent. | ◯ | ◯ | (★★☆) |
 
 ### **Blueskipper**
 

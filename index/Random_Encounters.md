@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 91097
+revid: 91406
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -132,7 +132,7 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
 -   Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 -   Vigil Swordsmen Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
--   Legion Captain vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
+-   Legion Captain vs Authority Lieutenant Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 
 A Golden Warrior Bouncer in the neutral position.
@@ -198,6 +198,10 @@ A merchant ship that spawns with a black flag and a ramp entrance on the bottom 
 #### **Divers vs Monster**
 
 One, two or three divers taking on a monster in [The Depths](The_Depths.md). With larger numbers, they might have a chance of beating certain foes, but if the monster is corrupted, they will likely always lose. Strangely, they seem to only win against Alpha Megalodaunts. This event can also appear on the surface in [The Aratel Sea](The_Aratel_Sea.md) (Not just in [Starswept Valley](The_Starswept_Valley.md) or [The Depths](The_Depths.md)) very rarely.
+
+[Faction Ambush](Faction_Ambushes.md)
+
+A randomly occurring event in which bounty hunters or faction soldiers will ambush you without warning. Beware as these events can occur _anywhere_ in the overworld with a few exceptions. Bounty hunters will spawn for players with good rep with all factions and faction soldiers for the specific faction which you have _Hunted_ or below reputation with. Enemies will be in trios or solo and will be scaled off your current level. Beware as these enemies possess powerful weapons, mantras, and even oaths.
 
 ## Unique Events
 

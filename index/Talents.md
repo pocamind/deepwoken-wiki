@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 91180
+revid: 91415
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1340,7 +1340,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 > _**"I go beyond my limits."**_
 
 -   Comeback Kid \[Common Talent\] - When waking up from being knocked you are unable to be knocked down for 5 seconds. (120 second cooldown)
-    -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damage but wont be knocked even at 0%.
+    -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damaged but wont be knocked even at 0%.
     -   Prerequisites: [Power](Power.md) 8
 
 -   Defiant until the End \[Common Talent\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
