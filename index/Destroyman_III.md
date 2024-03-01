@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 91380
+revid: 91430
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -210,3 +210,4 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
     -   The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
 -   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
+-   The line "IT'S JUST ONE OF THOSE DAYS." may be a reference to the song _Break Stuff_ by Limp Bizkit.

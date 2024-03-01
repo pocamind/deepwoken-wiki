@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 90985
+revid: 91420
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -68,12 +68,14 @@ What if I prove myself? How about a challenge?
 | _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history. That being said, I have no intention of going easy on you. This blade cannot be handled by the faint of heart. |
 | 
 
-I'll do it.
+I'll do it
 
  |
 | 
 
 End
+
+Click [Here](https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest?so=search) for boss info
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 91415
+revid: 91421
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1130,13 +1130,13 @@ _**"I seek the qualities of Heat Column."**_
     -   Guildmates take less damage from you and deal less damage to you.
 
 -   Mark of Jurik \[Blue [Capra](Capra.md) Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
-    -   Buffs sanity of one person they choose around them as long as they are at a campfire or power 5+.
+    -   Buffs sanity of nearby players as long as they are at a campfire OR power 5+.
 
 -   Mark of Ku \[Red [Capra](Capra.md) Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
-    -   Buffs HP regen of one person they choose around them as long as they are at a campfire or power 5+.
+    -   Buffs HP regen of nearby players as long as they are at a campfire AND power 5+.
 
 -   Mark of Nemit \[Green [Capra](Capra.md) Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
-    -   Buffs food of one person they choose around them as long as they are at a campfire or power 5+.
+    -   Buffs food replenishment of nearbyplayers around them as long as they are at a campfire OR power 5+.
 
 -   Maudet \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the Autodidact [Boon](Boons_and_Flaws.md). Increased reputation gain with factions.

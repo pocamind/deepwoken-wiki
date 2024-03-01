@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 89495
+revid: 91428
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -56,7 +56,7 @@ Check the rest out for yourself
 | [Hiri](Hiri.md) | [The Hive](The_Hive.md) | In the Library section | Tells you lore about the Chrysids |  |
 | Imel | [The Ministry](The_Ministry.md) | [Etrean Sea](The_Etrean_Sea.md), Statues | Grants quest to kill an enemy in [Erisia](Erisia.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |
 | [Infamous Baz](Infamous_Baz.md) | Unaligned | Etris Palace | None | "The lore is a straight line and Infamous Baz is a bump." |
-| Ishan | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. (Obviously.) |
+| [Ishan](Ishan.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Castle | None | Talking to him as an Adret has different dialogue. (Obviously.) |
 | [Jeremiah](Jeremiah.md) | Unaligned | The Depths, Varicosa District | Trade 1 [Deep Gem](Deep_Gems.md) for 1 random item | Generally considered not worth it unless you have a Deep Gem you don't plan on using |
 | [Jessamine](Jessamine.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md), [Widow's Hollow](<Widow's_Hollow.md>) | Thresher Scales quest |  |
 | Jim | Unaligned | [Etris](Etris.md) | Asks for [Dying Embers](Dying_Embers.md). |  |

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 91050
+revid: 91423
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -39,48 +39,51 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 ## Abilities
 
 -   **Illusory Servants - Combat Mantra**
-    -   Turn invisible with I-frames then spawn an illusion of yourself that targets the closest enemy.
-    -   Only they and you can see it.
-    -   Clones disappear if the caster takes any kind of damage.
+    -   Turn invisible briefly, and meanwhile, spawn an illusory clone that targets the closest enemy.
+        -   Grants I-frames while invisible.
+        -   The clone is visible to only the caster and the target.
+        -   Clones disappear if the caster takes any kind of damage. In any other situation, they will last the full duration, even when hit.
+        -   The clones deal a quarter of the caster's regular damage.
+        -   The clones can only M1 and Crit, unless the user wields a heroblade, in which it will be incapable of using Crits.
+        -   Will not summon any clone if there is no enemy nearby.
     -   Duration scale with your progress of the Visionshaper Oath.
     -   If the target has the Disbelief and/or Unyielding Focus talent, the duration of the illusion is shortened.
-    -   The clones deal standard, real damage, however its reduced by 75%, the clones will deal a quarter the damage the player does.
-    -   Clones do apply hit-stun, allowing one to trip up enemies and possibly fail parries.
-    -   The clones cannot use mantras, only M1s and Crits.
-    -   This mantra is similar to lightning clones, although it works slightly differently in execution (Lightning clones disappear after being hit or hitting once) also Lightning clones and Illusory Servants can be used together.
+    -   Clones _do_ apply hit-stun.
         
         File:Illusionary Servants.gif
         
 
 -   **Illusory Realm - Support Mantra**
-    -   After a slight delay, teleport you and a nearby players to an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones). The alternate dimension is a combination of Reality (the real world) and the Dreamscape (where you go).
-    -   You can interact with reality like using mantras on the environment and interact with other players. However within the Dreamscape you cannot attack others that aren't in there yourself.
-    -   Turns the part your standing on into a black walking space, which can make water and the void walkable on to the perspective of other players. It also makes walls and staircases disappear therefore you can walk through walls or be under/above people depending on where you are.
-    -   People within the realm will be identified with their character covered in white feathers.
-    -   Within the realm if you go to far away you'll be pulled back to where the realm starts.
-    -   Can be modified with a Magnet Spark, where it lets you drag other people near you.
-    -   Can be modified with a Multiplying Spark, where it'll make multiple pulses allowing others who havent gotten in the realm, join it.
-    -   Both of the Sparks can be used.
-    -   Interactable npcs and items, such as campfires, repair kits, etc can be used within the realm and interacted to.
-    -   It can be used in water or Guild Bases, and by yourself.
-    -   Ritual Casts, Warriors Respite, and Resonances are disabled within the Dreamscape.
-    -   You are immune to get downed while realm is active.
-        -   Cooldown is 2 minutes and 40 seconds.
-            
-            File:Illusonaryrealm.gif
-            
+    -   After a slight delay, teleport you and a nearby players to an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones). The alternate dimension is a combination of Reality (the real world) and the Dreamscape (where the caster enters).
+        -   Summons a flat, black terrain at the casted location, allowing free traversal.
+        -   Grants vision and movement through walls.
+        -   Unlike the old Illusory Realm, it can be used in water, in Guild Bases, and alone.
+        -   Interactable NPCs and items, such as campfires, repair kits, etc., can be used within the realm.
+        -   Ritual Casts, Warriors Respite, and Resonances are disabled within the Dreamscape.
+        -   Both the caster and any user within the realm will be pushed back if too far from the casting location, similar to the Gravity Field resonance.
+    -   The cooldown is 2 minutes 40 seconds.
+    -   Players within the realm will be shown as covered in white feathers to bystanders, and cannot be interacted with.
+    -   There are two modifiers:
+        -   **Magnet Spark**. The radius of the realm focuses on the caster, pulling in anyone who is trapped and too far.
+        -   **Multiplying Spark**. Any player can join the realm while it is active.
+        -   Both can be used simultaneously.
+    -   Grants immunity to being knocked while active.
+        
+        File:Illusonaryrealm.gif
+        
 -   **Illusory Counter** **\- Combat Mantra**
-    -   Do a pose. If hit during the pose, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of your previous location.
-    -   Reflect any effect that would have been applied by the attack (like fire, which will burn the attacker instead).
-    -   Active frames are larger while in the Illusory Realm.
-    -   Unlike the intelligence mantra Prediction, you retain control of your character during the pose and the attacker/you are moved instead of reflecting damage.
+    -   Ready a stance for a brief moment. If hit during the stance, negate the attack, swap places with the user, and spawn a Visionshaper Clone in place of the previous location.
+    -   Reflect any effect that would have been applied by the attack (such as fire, which would burn the attacker instead).
+    -   Active frames are larger in the Illusory Realm.
+    -   Grants full movement during active period.
         
         File:Illusonary counter.gif
         
 
 -   **Cheap Trick - Passive**
-    -   When hit while below 50% health, turn invisible and summon an Illusory Servant that follows the same rules as an active one summoned by **Illusory Servants**. (exactly 60s cooldown)
-    -   Become invisible for 2.5 seconds whenever you knock an enemy. (grants iframes for the duration of the effect.)
+    -   When hit while below 50% health, turn invisible and summon an Illusory Servant.
+        -   60 second cooldown.
+    -   Become invisible for 2.5 seconds whenever you knock an enemy. Grants I-frames.
         
         File:Cheap trick.gif
         
@@ -89,13 +92,13 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. As for appearance, it changes the eye color of the Oath taker to purple and creates a wispy ethereal particle effect which stems from the user's right eye. The eyes and the eye trail can be dyed as of 1/19/24.
 
-When this oath is taken on a Vesperian, no effects are applied as the eyes are not visible
+When this oath is taken on a Vesperian, no effects are applied as the eyes are not visible.
 
 ## Trivia
 
 -   The Mental Fortress [Talent](Talents.md), Disbelief, only affects Illusory Servants, reducing the amount of time they last by half.
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md).[\[1\]](#cite-note-1)
--   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Void feathers are also droppable by Non-Corrupted [Deep Owls](Deep_Owl.md) but at a low rate.
+-   You can craft a Void Feather using 3 Dark Feathers and 1 [Umbral Obsidian](Umbral_Obsidian.md). Non-Corrupted [Deep Owls](Deep_Owl.md) can also rarely drop them.
 
 ## References
 
