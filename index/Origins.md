@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 91236
+revid: 91490
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -55,6 +55,17 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 **Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
 
 -   Your starting location is in [Castle Light](Castle_Light.md), located in [The Depths](The_Depths.md).
+-   Your starting reputations are:
+    -   Friend of The Divers and Lost Celtor
+    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
+-   Grants the Deepbound Contract Talent "Call of the Deep"
+    
+    Call of the Deep animation
+    
+    -   Plays a short animation of the player sinking into the ground before teleporting them to [Castle Light](Castle_Light.md), in [The Depths](The_Depths.md).
+    -   Cannot be used in combat or in any layer of [The Depths](The_Depths.md), but can be used everywhere else — including hostile areas such as [Voidzones](Voidzones.md).
+    -   Returning to the main menu during the animation will cancel the teleport and wont send you to [The Depths](The_Depths.md).
+
 -   **\[PRO\]** Increased EXP Gain while below power 15 in Layer 1 and Layer 2.
 -   **\[CON\]** ...but reduced EXP Gain in the Overworld.
 -   **\[PRO\]** You regain sanity in Castle Light.
@@ -68,14 +79,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.
 -   **\[PRO\]** You gain bonus bell progress from killing monsters in The Depths, depending on their health.
 -   **\[PRO\]** You can gain access to a secret passageway in the Depths that allows you to bypass the Resonance door that gates the [Temple of Hearts](Temple_of_Hearts.md) and you therefore have access to every Deep Shrine without having to go to the surface.
--   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (Going to the Depths through death means you don't have a soul and therefore cannot access Castle Light, unless you are a Deepbound.)
--   Your starting reputations are:
-    -   Friend of The Divers and Lost Celtor
-    -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions
--   Grants the Deepbound Contract Talent "Call of the Deep"
-    -   Plays a short animation of the player sinking into the ground before teleporting them into [The Depths](The_Depths.md).
-    -   Will spawn you in [Castle Light](Castle_Light.md).
-    -   Returning to the main menu during the animation will cancel the teleport and wont send you to [The Depths](The_Depths.md).
+-   \[**PRO**\] You can always enter Castle Light regardless of the status of your soul. (Going to the Depths through death means you don't have a soul and therefore cannot access Castle Light, unless you are a Deepbound.
 
 ## Voidwalker
 

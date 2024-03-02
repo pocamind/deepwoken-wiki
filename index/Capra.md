@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 91417
+revid: 91468
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -29,7 +29,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Ku, the Mother. Improves the rest of those in your presence.</i>"
   <ul>
-    <li>Heals 15% of the affected players total HP over a 30s period, so long as they are Power 5+. Must be activated at a campfire.</li>
+    <li>Heals 15% of the affected players total HP over a 30s period. Must be activated at a campfire.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -38,7 +38,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.</i>"
   <ul>
-    <li>Buffs the food of all surrounding players as long as they are Power 5+. Does not require campfire.</li>
+    <li>Buffs the food of all surrounding players for 60 seconds. Does not require a campfire.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -47,7 +47,7 @@ Capras are a descendant from goats, exhibiting various goat-like characteristics
   <ul>
     <li>"<i>Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.</i>"
   <ul>
-    <li>Buffs the sanity of all surrounding players long as they are Power 5+. Does not require campfire.</li>
+    <li>Buffs the sanity of all surrounding players for 60 seconds. Does not require a campfire.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -78,7 +78,7 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
     
 -   +2 Willpower  
     
--   The ability to buff allies around them along with themselves
+-   The ability to buff allies around them, making them an excellent support.
     
 
 **Weaknesses:**
@@ -86,11 +86,6 @@ A Capra named Ezra in Songseeker Wilds gives you a quest to defeat the Songseeke
   
 
 -   Buffs cannot be applied to oneself alone.
-
-  
-
-  
-
 -   Need friends. :(
     
 

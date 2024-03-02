@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 90314
+revid: 91496
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -296,6 +296,7 @@ _Strike the ground, turning it to ash._
 -   Can be charged up to 6 times before the projectile is shot automatically on the 6th charge. Damage increases with each charge.
     -   M1'ing whilst the mantra is charging will shoot the projectile with the amount of charge it has at that point.
 -   Has a unique effect where it ricochets when blocked.
+-   Adding a spring spark makes it so that you float for a short time while charging Flame Ballista.
 -   Fires where cursor is aimed.
 -   Inflicts burn.
 -   Homes onto enemies.

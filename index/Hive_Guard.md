@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 83446
+revid: 91489
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -38,6 +38,7 @@ Critical
 Flame Assault
 
  | User dashes forward covered in flames, hitting anyone in their path. | ◯ | ◯ | (★★☆) |
+| Fire Blade | Caster slams down with their blade coated in flames. | ◯ | ◯ | (★★☆) |
 
 #### Boons
 
