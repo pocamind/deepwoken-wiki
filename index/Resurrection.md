@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 89789
+revid: 91611
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -39,7 +39,7 @@ While players have a marker on them if they are knocked, then they will be lifte
 
 If not, then the star on the target will fade away and the Resonance has a chance to go on cooldown.
 
-If the resonance is used against an auto-gripping ability it will not proc.
+If the resonance is used against an auto-gripping ability it will not proc (does proc on chaser though).
 
 ### _Resonance Point usage_
 

@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 91572
+revid: 91635
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -28,7 +28,7 @@ This Outfit's Schematic can be found in:
 
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Scion of Ethirion](Scion_of_Ethiron.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
 
 ## Trivia
 

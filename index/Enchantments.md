@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 91543
+revid: 91641
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -64,7 +64,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <td><div>Weapon is covered with glowing blue galaxy with stars around.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
+  <td><center><br>
   <font>Blazing<div></div></font></center></td>
   <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). This can be used to trigger Flamecharm talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.</p></div></td>
@@ -140,7 +140,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
   <td><div><p>On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
-  <b>Nemesis critical can still trigger critical talents like bear trap, manipulator, etc.<br>
+  <b>Nemesis critical can still trigger critical talents like bear trap( your extremely obese and get 0 hoes cuz you use this enchant quit the game&nbsp;:) ), manipulator, etc.<br>
   </b><b>The range of this is 65-70 studs</b></p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
@@ -273,8 +273,8 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
-  <td><div><p>Drains the target ether on hit. This scales with your damage and the target's Max Ether.<br>
-  Critical attack is replaced with a counter. Succesful counters grants you hyperarmor along with being able to act first.<br>
+  <td><div><p>Drains the target ether on hit. This scales with your base damage.<br>
+  Critical attack is replaced with a counter. Succesful counters grants you i-frames. hyperarmor along with being able to act first.<br>
   Critical attack have a cooldown of 6 seconds, however, failing to counter something raise the cooldown to 8 seconds.<br>
   Check Trivia for an explanation of its interaction in PvE. Please be careful in PvE as not all PvE attack can be countered as of 12/2/24</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>

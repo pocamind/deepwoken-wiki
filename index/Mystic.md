@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 91394
+revid: 91595
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -87,7 +87,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _My mind is indomitable. **(Mental Fortress)**_
 -   _My will stands strong. **(Sturdy Resolve)**_
 -   _I dominate the minds of others. **(Mindbreaker; Shared Misery)**_
--   _I seek the qualities of Human Architecture._ _**(Brick Wall)**_
+-   _I seek the qualities of Human Architecture._ _**(Brick Wall; Not A Scratch)**_
 
 ### [Charisma](Attributes.md#charisma)
 

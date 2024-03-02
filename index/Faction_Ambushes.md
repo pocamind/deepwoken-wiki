@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 90014
+revid: 91627
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -122,7 +122,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "For the Hundred Legions!"
 -   "Kneel before the might of the Legions, worm!"
 -   "Tread no further west, worm!"
--   "On our honor...You perish here, worm."
+-   "On our honor... You perish here, worm."
 
  |  |
 | [Summer Company](The_Summer_Company.md) | 

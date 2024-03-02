@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 88663
+revid: 91599
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]

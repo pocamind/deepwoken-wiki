@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 91197
+revid: 91621
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Ambush Enemies]
@@ -14,7 +14,7 @@ Template:EnemyInfobox1.0
 
 A Vigil Swordsman is a type of enemy NPC that can be found in [Erisia](Erisia.md) and [Starswept Valley](The_Starswept_Valley.md). Unlike the [Etrean Guardsmen](Etrean_Guardsmen.md), the Vigil Swordsmen's clad is colored white. They can be found in the following [Random Encounters](Random_Encounters.md):
 
--   Vigil Swordsmen vs Authority Footsoldiers ([Erisia](Erisia.md))
+-   Vigil Swordsmen vs Authority Officers ([Erisia](Erisia.md))
 -   Vigil Swordsmen vs Hive Guards ([Starswept Valley](The_Starswept_Valley.md))
 -   Etrean ambush event (Anywhere)
 
@@ -39,5 +39,5 @@ A Vigil Swordsman executes it's opponent after knocking them:
 
 ## Trivia
 
--   If you happen to come across an Authority/Hive Footsoldiers vs Vigil Swordsmen event, killing the Vigil Swordsmen will be easier as they are already low.
+-   Their name and moveset seems to imply they are the elites of the Etrean military, while the [Etrean Soldier](Etrean_Soldier.md) are the lesser, more poorly trained, variant.
 -   Their armor is identical to the [Etrean Soldier's](Etrean_Soldier.md) armor, but white instead of purple.
