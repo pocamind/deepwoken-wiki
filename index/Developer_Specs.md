@@ -1,6 +1,6 @@
 ---
 title: Developer Specs
-revid: 89635
+revid: 91570
 source: https://deepwoken.fandom.com/wiki/Developer_Specs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -154,13 +154,11 @@ Like Synce, Isaac also has the coral fever face from april 2023
 
 ### Astro\_train / Lorezno Spellhardt, The Gatekeeper
 
-Can invert your controls at will. has a ??? cooldown and last ???
+Spec named "Starsight". Invert's your controls at on proc. Has a 1 minute cooldown and lasts for 8 seconds, and creates a light pinkish affect over the users head.
 
 Inverted Control effect on a visionshaper clone summoned by Astro\_train
 
-inverted control ability has a light pinkish affect over the users head
-
-He also has a spec charisma legendary weapon, name unknown although agamatsu leaked the stats:
+He also has a spec charisma legendary weapon, name unknown although Agamatsu leaked the stats:
 
 10 dmg, 30 CHAR scaling, 5 weight, 9 range, 0.8 swingspeed.
 

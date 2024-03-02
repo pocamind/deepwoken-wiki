@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 90007
+revid: 91553
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -167,6 +167,8 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 
 ## Trivia
 
+-   With the March 01, 2024 weekly update, Chaser was given his own theme, **[A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured)**
+    -   The Youtube visualizer for the song appears to be Chaser's journal. It depicts jars of blood, a [Krysgarde](Kyrsgarde.md) lancer and it's lance, [Kyrsan Medallions](Kyrsan_Medallions.md), and a plant native to New Kyrsa
 -   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.

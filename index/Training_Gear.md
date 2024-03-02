@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 91016
+revid: 91574
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -97,5 +97,6 @@ Like Attributes, Attunements also have Training Items correlated to them and wil
 -   You can slowly train your attributes by spamming the corresponding Training Items, all EXCEPT for Weapon Manual.
 -   There's a [quest](Quests.md) at [Isle of Vigils](Isle_of_Vigils.md) sparring room that grants you EXP for letting an NPC have one use of your Weapon Manual.
 -   You can train core attributes using [Lotus Flasks](Ingredients.md).
+-   The message that comes up when you dont have enough xp may be replaced with "I've learnt what i can from training right now, I need to put a moderate amount of practice in to improve, I should set out and explore what i can. It might be time to set sail to more distant"
 
 1.  [↑](#cite-ref-boulder-1-0) Should their Health drain to 0, the Boulder will kill the user. The same will occur if one were to attempt to use it while in deep water.

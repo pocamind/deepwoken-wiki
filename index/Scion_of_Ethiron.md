@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 90363
+revid: 91500
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -51,7 +51,7 @@ File:Bone Toss.gif
 
 File:Ethi ult.gif
 
- | ◯ | ◯ | ◯ | (★★★★) |
+ | ◯ | ◯ | ◯ | (★★★) |
 | Pressurised Wind | The Scion of Ethiron charges up its arm and quickly releases a purple laser. This will lock onto you, and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does low dps. | 
 
 File:Ethi laser.gif
@@ -73,7 +73,7 @@ To avoid, you must jump. You can just hold space and you'll be pretty much safe 
 
  | 
 
- | ✗ | ✗ | ◯ | (★★★) |
+ | ✗ | ✗ | ◯ | (★★☆) |
 
 ### **Passives**
 

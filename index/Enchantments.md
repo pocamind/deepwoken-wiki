@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 91261
+revid: 91543
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -17,7 +17,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 -   Any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
--   Using an [Enchant Stone](Enchant_Stone.md).
+-   Using an [Enchant Stone](Enchant_Stone.md). (Typically found in Layer 2)
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
 -   Defeating a [Star knight](Stone_Knight.md#star-knight) that only spawns during the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event. (Only drops the astral enchant stone)
 
@@ -556,7 +556,7 @@ Curse of the Umbral Knight
  | 
 
 **January 4th, 2022**  
-On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage. Supposedly, the curse would make the weapon absorb you if you didn't grip someone once every real life day.
+On proc: Summon the Umbral Knight to slash your enemy from behind, dealing additional damage. Supposedly, the curse would make the weapon absorb you if you didn't grip someone once every real life day (Either making you lose a life, make go straight to the Depths, or taking you to the Fragments of Self).
 
  | 
 

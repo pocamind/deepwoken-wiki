@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91461
+revid: 91581
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -14,21 +14,21 @@ _This is his Boss state; for his appearance as a static NPC within the [Temple o
 
 Maestro Evengarde Rest is the master of the Temple of the Blade and the current Maestro of Etrea. A powerful individual, he will train and assist only those who he sees fit, so that Etrea, its people and its culture may not be swept away in the machinations of other nations.
 
-Upon challenging the Maestro to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards, including a potential [Purple Cloud](Purple_Cloud.md). If it is his first defeat, a guaranteed smaller chest will spawn, holding the unique weapon. Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
+Upon challenging the Maestro to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards, If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
 
 To start the fight with the Maestro:
 
 1.  Achieve Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
-3.  Have the stat requirements (85 MED; 82 if [Khan](Khan.md), Power 15) to wield the [Purple Cloud](Purple_Cloud.md).
+3.  Have the stat requirements (80 WPN; 77 if [Khan](Khan.md). MIGHT need at least power 15)
 4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.
 
 ## Moveset
 
-Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Katana.md) along with the [Galebreathe](Galebreathe.md) attunement:
+Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Katana.md) along with the [Galebreathe](Galebreathe.md) attunement, his moves seem to replicate normal Galebreathe/Medium mantras although they are much more powerful:
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
@@ -58,6 +58,23 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
+| **Hesitation is Defeat** | Absolutely appalled by your disgusting behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
+
+-   There is no way to survive this attack.
+-   Triggered by spitting on him.
+    -   Spitting on him with 50+ Charisma will stay his hand and prevent instant death, but interacting with him to start the fight will result in him using the attack.
+
+ | ✗ | ✗ | ✗ | (★★★★★★★) |
+
+## Finisher
+
+Maestro Evengarde Rest executes his opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| **Air Pressure** | Getting hit by any of his Gale moves while you're low will cause you to die instantly. |
+| **Execute** | Pins down opponent before slicing their throat with blade. |
+| **Hesitation is Defeat** | Upon spitting on him he slices your head off **instantly killing you.** (Note: Spitting on him with 50+ Charisma will prevent instant death, but interacting with him to start the fight will result in him using the attack. |
 
 ## Talents
 
@@ -67,7 +84,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Risky Moves - Whenever the Maestro dodges an attack, he'll automatically dodge the next one.
 -   Ghost - Whenever Rest dodges an attack, he turns invisible.
 -   Chronostasis - Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
--   (???) - The Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
+-   Guardbreak Resist - The Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
 -   Pressure Break - If the Maestro guardbreaks you, you'll get ragdolled and tossed back.
 -   Stifled Jump - Jumping while suffocated by the Maestro's Galebreathe will result in you getting dazed.
 -   Showstopper - When rolling through one of his physical attacks, Rest will stomp the ground and daze you. Removes your speed buffs.
@@ -90,7 +107,8 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 
 ## Trivia
 
--   Maestro Evengarde Rest is the only build-locked boss due to the MED requirement.
+-   The music of his bossfight is [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) by Naktigonis.
+-   Maestro Evengarde Rest is the only build-locked boss due to the MED/HVY requirements.
 -   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting. Many of the moves reference its abilities and bosses, such as [Genichiro Ashina](https://sekiro-shadows-die-twice.fandom.com/wiki/Genichiro_Ashina) or the [One Mind Combat Art](https://sekiro-shadows-die-twice.fandom.com/wiki/One_Mind).
     -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade), wielded by the protagonist [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
 -   All of his mantras will automatically execute you.
@@ -100,6 +118,6 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
--   You can spit on the Maestro to start the fight early, as an alternative to speaking with him.
+-   ̶Y̶o̶u̶ ̶c̶a̶n̶ ̶s̶p̶i̶t̶ ̶o̶n̶ ̶t̶h̶e̶ ̶M̶a̶e̶s̶t̶r̶o̶ ̶t̶o̶ ̶s̶t̶a̶r̶t̶ ̶t̶h̶e̶ ̶f̶i̶g̶h̶t̶ ̶e̶a̶r̶l̶y̶,̶ ̶a̶s̶ ̶a̶n̶ ̶a̶l̶t̶e̶r̶n̶a̶t̶i̶v̶e̶ ̶t̶o̶ ̶s̶p̶e̶a̶k̶i̶n̶g̶ ̶w̶i̶t̶h̶ ̶h̶i̶m̶.̶ Spitting on him now instantly kills you
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 91247
+revid: 91582
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1339,6 +1339,19 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
   <td><font>0.65x</font></td>
   <td>N/A</td>
   <td>42.7</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Pale_Briar"><font>Pale Briar</font></a></td>
+  <td>85 HVY, LVL 10</td>
+  <td>23.5</td>
+  <td>25%</td>
+  <td>10%</td>
+  <td>HVY: 7</td>
+  <td>7</td>
+  <td>10</td>
+  <td>0.61x</td>
+  <td>0s</td>
+  <td>39.5</td>
 </tr>
 </tbody>
 </table>

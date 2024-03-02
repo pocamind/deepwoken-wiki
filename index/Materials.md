@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 70325
+revid: 91558
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, World, Items]
@@ -18,7 +18,7 @@ Materials are items in
 
 ### Obtainment
 
-Wood can be obtained chopping down trees. You can obtain more wood from bigger trees. It can also be crafted from 3 sticks. Also, it can be bought at the General Store in Etris for 3 notes.
+Wood can be obtained chopping down trees. You can obtain more wood from bigger trees. It can also be crafted from 3 sticks. Also, it can be bought at the Blacksmith Store in Etris for 2 notes.
 
 ### Uses
 
@@ -42,7 +42,7 @@ Mining at various places.
 
 ### Uses
 
-Throwing it at people to combat tag them and used to craft flint.
+Can be thrown at people to put them in combat tag, craft flint, and certain schematics.
 
 ## Cloth
 
