@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91581
+revid: 91586
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -58,7 +58,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Hesitation is Defeat** | Absolutely appalled by your disgusting behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
+| **Hesitation is Defeat** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike using the tempest eye faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.
 -   Triggered by spitting on him.
@@ -118,6 +118,5 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
--   ̶Y̶o̶u̶ ̶c̶a̶n̶ ̶s̶p̶i̶t̶ ̶o̶n̶ ̶t̶h̶e̶ ̶M̶a̶e̶s̶t̶r̶o̶ ̶t̶o̶ ̶s̶t̶a̶r̶t̶ ̶t̶h̶e̶ ̶f̶i̶g̶h̶t̶ ̶e̶a̶r̶l̶y̶,̶ ̶a̶s̶ ̶a̶n̶ ̶a̶l̶t̶e̶r̶n̶a̶t̶i̶v̶e̶ ̶t̶o̶ ̶s̶p̶e̶a̶k̶i̶n̶g̶ ̶w̶i̶t̶h̶ ̶h̶i̶m̶.̶ Spitting on him now instantly kills you
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.

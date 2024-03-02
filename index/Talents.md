@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 91421
+revid: 91590
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1060,8 +1060,9 @@ _**"I seek the qualities of Heat Column."**_
     -   Ice Mantras cost 40% less ether if casted while standing on ice.
     -   Prerequisite: 40 Frostdraw
 
--   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity,
+-   Frost Buster \[Common Talent, Frostdraw Exclusive\] - Greatsword and Greathammer Crits leave a trail of ice. (+5 Elemental Intensity,)
     -   Also grant the ability to damage boats with Greatsword and Greathammer Crits.
+    -   Even though it's not mentioned, Greataxes also work with this talent.
     -   Prerequisite: Cryonis, 15 Heavy, 45 Frostdraw.
 
 -   Frostbite \[Common Talent, Frostdraw Exclusive\] - Enemies no longer heal when under the effect of your chill. (+5 Elemental Intensity)
@@ -2501,6 +2502,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: [Power](Power.md) 3
 
 -   _Return to the Dark Ages_ \[Rare Talent\] - Your mantra damage is cut by 20%, but your incoming mantra damage is cut by 20% too. (+5 Health)
+    -   Also reduces burn damage received and dealt by 20%.
     -   Prerequisite: [Power](Power.md) 10
     -   Mutual Exclusive: Everchanging Aegis
 
