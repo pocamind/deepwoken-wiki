@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 91702
+revid: 91707
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Description, Requirement, Critical, Heavy weapon]
@@ -16,7 +16,6 @@ categories: [Weapons, Description, Requirement, Critical, Heavy weapon]
 | scaling | 7 |
 | range | 10 |
 | swing speed | 0.61x |
-| endlag | 0s, might be a bug. |
 | penetration | 25% |
 | chip damage | 10% |
 | selling price | 100 |

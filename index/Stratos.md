@@ -1,28 +1,30 @@
 ---
 title: Stratos
-revid: 79270
+revid: 91721
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Quests]
+categories: [NPCs, Quests]
 ---
 
 # Stratos
 
-File:WindTrainer.png
+Template:NPC name
 
-## Stratos
+## Description
 
-Stratos is an NPC found sitting at the fountain in the courtyard of the "[Temple of the Blade](Temple_of_the_Blade.md)" in [Isle of Vigils](Isle_of_Vigils.md). In order to talk to him, you need to have good [reputation](Reputation.md) with [Etrea](Etrea.md). He says that he will teach you once you feel the "essence of the wind", starting a quest.
+**Stratos** is the second-in-command of the Vigil Guard, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md). He says that he will teach you once you feel the "essence of the wind", starting his quest.
 
-## The Quest
+## Windwaker Quest
 
-To complete the quest, you need to sail for a period of time with your sail getting the full wind boost. (It should have a flashing indicator due to updates.) To do this, you can sail into the Voidsea whilst having the wind boost (risks of the [Dread Serpent](Dread_Serpent.md)), or you could also go back and forth from the [Isle of Vigils](Isle_of_Vigils.md) to [Minityrsa](Minityrsa.md) without a speedgate, with almost no risk other than players. This quest cannot be progressed using an ironclad, as there are no sails.
+To complete the quest, you need to sail for ≈15 minutes total with your sail aligned with the wind (granting your boat its full speed boost). While intended to be done passively, you can more efficiently gain progress**\*** by sailing into the [Voidsea](Voidsea.md) (at the risk of encountering a [Dread Serpent](Dread_Serpent.md)), or go back and forth between the Isle of Vigils and [Minityrsa](Minityrsa.md). This quest cannot be progressed on an Ironclad, as it lacks sails.
 
-**Note: You cannot obtain windwaker without being a [Galebreather](Galebreathe.md). You can complete the quest, just without reward.**
+**\***There are no specific locations that give you more progress towards the quest than others. These are simply routes with which to sail (mostly) uninterrupted.
+
+**Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md), minimum 50 points invested.** You can complete the quest, just without reward.
 
 ## The Reward
 
-After you complete the quest, you will receive the talent "Windwaker." This talent can be activated by clicking while you are holding it out, similar to "Produce Spark," "Discovery of Fire," and "Flame Within." When you activate it, you will gain a short highway speed boost on your boat (similar to going through gates) and it will go on a long cooldown.
+After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" talent. Similarly to "[Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Flamecharmer)", "[Flame Within](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Amoran_Seeker)" and "[Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall?so=search#Thundercaller)", you can activate the talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown.
 
 ## Trivia
 

@@ -1,12 +1,16 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91700
+revid: 91717
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
 ---
 
 # Maestro Evengarde Rest
+
+“ …Your movements lack discipline. ”
+
+― Maesto Evengarde Rest
 
 _This is his Boss state; for his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._ Template:EnemyInfobox1.0
 
@@ -109,7 +113,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 ## Trivia
 
 -   The music of his bossfight is [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) by Naktigonis.
--   Maestro Evengarde Rest is the only build-locked boss due to the MED/HVY requirements.
+-   ~Maestro Evengarde Rest is the only build-locked boss due to the MED/HVY requirements.~ Tested, you can still fight him with enough of the light weapon stat as of right now, but it will give you the Purple Cloud upon defeating him.
 -   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting. Many of the moves reference its abilities and bosses, such as [Genichiro Ashina](https://sekiro-shadows-die-twice.fandom.com/wiki/Genichiro_Ashina) or the [One Mind Combat Art](https://sekiro-shadows-die-twice.fandom.com/wiki/One_Mind).
     -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade), wielded by the protagonist [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
     -   The fight is also similar to Sekiro's fighting style, parrying and fighting more than using spells/abilities.

@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 91371
+revid: 91711
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies]
@@ -71,6 +71,8 @@ _Main Article - [Faction Ambushes](Faction_Ambushes.md)_
 **Etrea**
 
 **The Central Authority**
+
+**The Hive**
 
 **The Legion**
 

@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 91420
+revid: 91715
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -8,15 +8,15 @@ categories: [NPCs, Quests]
 
 # Evengarde Rest
 
-_This is as his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._ Template:NPC name
+_This is his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md); for his Boss state, see [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)._ Template:NPC name
 
 ## Description
 
-**Evengarde Rest** is the current Maestro of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. It can be assumed that Evengarde is quite a powerful swordsman, given that he is able to teach players how to overcome the limits of their weapon proficiencies. He cannot be attacked and will not attack anyone.
+**Evengarde Rest** is the current Maestro of the Vigil Guard and is highly respected by all of them. He resides within the Isle of Vigils and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. A master of combat arts, Rest is able to teach players how to overcome the limits of their weapon proficiencies.
 
 Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence" if you lack 75 points in your weapon type's attribute.
 
-Evengarde has new dialogue as of the latest update, as the **Player** asks the Maestro to help [Etrea](Etrea.md) against [The Lord Regent](The_Lord_Regent.md).
+After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](The_Ministry.md). However, he expresses disatisfaction at his inability to deter the [Central Authority](The_Central_Authority.md) should the [Lord Regent](The_Lord_Regent.md) be eliminated.
 
 ## Dialogue
 
@@ -32,7 +32,7 @@ Begin (After Vigil Saviour)
 
  | 
 
-Begin (After Duke Erisia, Ally Rep, Med)
+Begin (After Duke Erisia, Ally Rep, ≥80 MED/HVY)
 
  |
 | Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? |
@@ -68,7 +68,7 @@ What if I prove myself? How about a challenge?
 | _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history. That being said, I have no intention of going easy on you. This blade cannot be handled by the faint of heart. |
 | 
 
-I'll do it
+I'll do it.
 
  |
 | 
@@ -84,7 +84,7 @@ I need training.
 
  | 
 
-Maestro, Etrea needs your help. The Lord Regent must be stopped. (After Duke Erisia)
+Maestro, Etrea needs your help. The Lord Regent must be stopped. (Starting Duke Erisia quest)
 
  |
 | _\*He grimaces.\*_ Be that as it may, his presence is the only thing standing in the way of a full invasion by the Central Authority. My strength alone cannot hold them back. |
@@ -118,7 +118,11 @@ I'm need training in Light/Medium/Heavy Weapons.
 
 End
 
- | Ah, I will have to break it out Astris and Aeris/???/Galadriel. Very well. I shall teach you the steps to become a master. |
+ | **MED:** Ah, my specialty. Very well, I shall teach you the steps to become a Master.
+
+**Other:** Ah, I will have to break it out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.
+
+ |
 | 
 
 End
@@ -128,8 +132,8 @@ End
 ## Trivia
 
 -   Kelsius is highly grateful towards Evengarde for taking him in, in spite of his complicated past as a war criminal.
--   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel), these are only mentioned during his training and are not shown in-game.
+-   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
 -   Ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty under certain conditions, where he is able to activate his "Tempest Eye."
--   Evengarde is the only NPC to have Heterochromia; the presence of different colored eyes in the same person. However his green eye is highly likely not genetic but a technique "Tempest Eye,"
+-   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.

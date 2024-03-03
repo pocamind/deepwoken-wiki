@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 91698
+revid: 91714
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
   
 
--   joe rogan
+-   Kind voidwalkers on top
 
 **Nautilodaunt:**
 
