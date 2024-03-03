@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 91430
+revid: 91684
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -98,7 +98,6 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   TIP: I hate you with all my hate.
 -   TIP: If you're ever getting bored of the game, play something else. Games aren't made to be played forever.
 -   TIP: I'm smart, you're dumb. I'm big, you're little. I'm right, you're wrong and there's nothing you can do about it.
--   TIP: If you're ever getting bored of the game, play something else. Games aren't made to play forever.
 -   TIP: Overconfidence is a slow and insidious killer.
 -   TIP: Press 'Spacebar' to jump! How many times have you jumped in real life recently? Something to think about.
 -   TIP: Salt your vegetables. An unsalted tomato is strong enough to make a grown man cry.

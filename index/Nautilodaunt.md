@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 91316
+revid: 91698
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,7 +14,7 @@ categories: [Monsters]
 
   
 
--   _Commonly referred to as Squibbo, Alternatively known as Squid Hoss & Squidward_
+-   joe rogan
 
 **Nautilodaunt:**
 

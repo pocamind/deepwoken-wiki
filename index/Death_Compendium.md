@@ -1,6 +1,6 @@
 ---
 title: Death Compendium
-revid: 81434
+revid: 91677
 source: https://deepwoken.fandom.com/wiki/Death_Compendium
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Community, Death]
@@ -32,10 +32,11 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Be unfortunate enough to be struck by a [Stone Knight's](Stone_Knight.md) meteor in [The Hive](The_Hive.md).
 -   Get skewered by a Grand Skewer-modified [Grand Javelin](Thundercall.md) at low enough health, from a [Legion Sniper](Legion_Sniper.md). Having too many people get hit by this will also auto-execute everyone.
 -   Explode. (Cannons, Detonation enchant, etc)
--   Fail the parry check in the [Trial of One.](Trial_of_One.md)
+-   Fail the parry check in the [Trial of One](Trial_of_One.md).
 -   Be unable to keep up with [The Ferryman's](The_Ferryman.md) dance.
 -   Get automatically executed by one of [The Duke’s](Duke_Ishamon_Erisia.md) many [Galebreathe](Galebreathe.md) Mantras.
 -   Get sucked clean of your blood by the overgrown magic mosquito that is [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   A death of one thousand cuts during a spar with [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Die to the acid rain of [Upper Erisia](Upper_Erisia.md).
 -   Try to threaten [Akira](Akira.md) and fail to meet the Charisma requirement.
 -   Get crushed by a [Boulder](Training_Gear.md).
@@ -47,7 +48,8 @@ Deepwoken's Death Compendium, a list of **every** possible death you can achieve
 -   Realize that Floor 2's escape sequence is one big Risk of Rain reference just a bit too late, or get too greedy with the Kyrsan Medallion chests during the sequence.
 -   Be torn from eternity by the instakill orbs during said escape sequence.
 -   Find a way to escape the reset timer before it hits zero seconds, _without_ using a combat tag.
--   Be executed in Layer 2 by hitting the wall of the bridge by being blown into it by the wind while knocked
+-   Be executed in Layer 2 by hitting the wall of the bridge by being blown into it by the wind while knocked.
+-   Spit on [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and be instantly executed for your despicable behavior.
 
 Death Causes listed by the game:
 
@@ -73,3 +75,4 @@ Death Causes listed by the game:
 -   An insidious parasite sewn by the Gale (Dying to parasites in Layer 2)
 -   The Eternal Gale (Death via bone'd by Scion of Ethiron)
 -   Space-time Collapse (Dying to the white orbs that spawn at the end of a Floor 2 run)
+-   Your disrespect, punished by the Tempest Eye (Spitting on Evengarde and dying like the idiotic barbarian you are)

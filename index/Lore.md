@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 91670
+revid: 91672
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -258,20 +258,21 @@ _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend]
 -   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned Orlandeau to New Kyrsa over a disagreement, with Orlandeau noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
-### **Adolin Hashi**
+### **The Meat Lord**
 
-_"Anyone can deal with victory. Only the mighty can bear defeat." - Adolin Hashi_
+_"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
--   Adolin Hashi ruled the Eastern Luminant through political and military maneuvers.
--   Became the ruler of the Entire Eastern Luminant in 1384.
--   He is an Canor.
--   Perished in 1445 after being banished by deepwoken mods.
-    -   Powers:
-        1.  **Telepathy**: Hashi has the ability to control minds and persuade people to do things.
+-   A wandering chef and salesman that dons the old [Authority Captain Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
+-   Sells the best carnivorous food for the best price.
+-   He is an Adret.
+-   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
+-   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
+    -   If these are true and not just jokes then two things can be assumed:
+        1.  The Meat lord is the most powerful character in all of Deepwoken Lore.
+        2.  He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
 
-File:Lol.png
-
-Hero
+The one and only... MEAT LORD!
 
 ### **Warden Jericho**
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91664
+revid: 91700
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -18,7 +18,7 @@ Upon challenging the Maestro to a fight, the player is transported to the [Templ
 
 To start the fight with the Maestro:
 
-1.  Achieve Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
+1.  Achieve (slightly higher than) Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
 3.  Have the stat requirements (80 WPN; 77 if [Khan](Khan.md). MIGHT need at least power 15)
@@ -58,7 +58,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Hesitation Is Defea** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
+| **Hesitation is Defeat** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.
 -   Triggered by spitting on him **at any point**.
@@ -104,6 +104,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
     -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
+-   If you don't have providence thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection.
 
 ## Trivia
 

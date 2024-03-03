@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 91663
+revid: 91702
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Description, Requirement, Critical, Heavy weapon]

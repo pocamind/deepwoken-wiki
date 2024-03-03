@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 88926
+revid: 91687
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -46,3 +46,4 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
     -   The original concept art depicts them opening their mouths to latch onto human heads, this is likely the derivation of the name. However, this has yet to be implemented.
 -   Cancelling a Brainsuckers gripping animation may cause whoever is being gripped to desync.
 -   Uppercutting a Brainsucker or ragdolling them while above the ocean will cause them to fall underwater.
+-   It is implied that there is a "Greater Brainsucker," because its name is "Lesser Brainsucker."
