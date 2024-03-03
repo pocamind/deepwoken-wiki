@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 91053
+revid: 91742
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -35,7 +35,7 @@ The Bloodtide Trident is a Medium Weapon in the Spear category. You can obtain t
 
 The Bloodtide Trident has a unique critical that is similar to the [Flareblood Kama](Flareblood_Kamas.md), however, instead of launching it's target into the air, it pulls the target towards the user. The spear's targeting is controlled by the player's cursor.
 
-The Trident also a far larger range then it's dagger brethren.
+The Trident also boasts a far larger range then it's dagger brethren.
 
 ## Trivia
 

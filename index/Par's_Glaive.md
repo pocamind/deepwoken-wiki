@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 91345
+revid: 91734
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec]
@@ -8,7 +8,7 @@ categories: [Weapons, Developer Spec]
 
 # Par's Glaive
 
-| Lorenzo's Glaive | |
+| Trisha | |
 |---|---|
 | type | Greataxe |
 | requirements | ??? |
@@ -32,7 +32,7 @@ categories: [Weapons, Developer Spec]
 
 ## Description
 
-Lorenzo's Glaive is an abomination of a weapon used by developer par and moderator astrotrain.
+Trisha is a glaive type weapon used by developer par and moderator astrotrain.
 
 It posesses the properties of :
 

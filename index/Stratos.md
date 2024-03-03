@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 91721
+revid: 91738
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]

@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 89713
+revid: 91724
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -51,7 +51,7 @@ Samael is an NPC that will grant you the [Starkindred](Oaths.md) oath. He is loc
 > 
 > 2\. You are cruel, cruel fools.
 > 
-> Samael: _**Your shallow skull will suffocate under the knowledge of what truly occurs in this world; your feeble struggles are a speck of dust in the scope of all that is become, and you will become nothing but MEMORIES once Rapture comsumes us all.**_
+> Samael: _**Your shallow skull will suffocate under the knowledge of what truly occurs in this world; your feeble struggles are a speck of dust in the scope of all that is become, and you will become nothing but MEMORIES once Rapture consumes us all.**_
 > 
 > 1\. Perhaps I too, seek a similar ambition.
 > 
