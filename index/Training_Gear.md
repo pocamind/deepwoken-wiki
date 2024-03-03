@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 91574
+revid: 91653
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -23,7 +23,7 @@ File:Image (5).png
 A dumbell in the Antiquarian shop at Etris
 
 -   Dumbbell - Template:Cost / **200 uses**
--   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
+-   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, [Fort Merit](Fort_Merit.md) Guildhall House, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
 -   Training - Chopping down trees, attacking, parrying
 
 ### Fortitude
@@ -33,7 +33,7 @@ A training vest hanging in the Antiquarian shop at Etris.
 A boulder in front of the Antiquarian shop at Etris
 
 -   Training Vest - Template:Cost / **50 uses**
--   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
+-   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, [Fort Merit](Fort_Merit.md) Guildhall House, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
 -   Training - Taking damage while the item is active
 -   Boulder - Template:Cost / **200 uses**
 -   Location - Right outside of [Etris](Etris.md) Antiquarian, right next to [Stratos](Stratos.md) in the [Isle of Vigils](Isle_of_Vigils.md), First Floor [Greathive Aratel](Greathive_Aratel.md) Library, Outside of [Summer Isle](Summer_Isle.md) Shop in the pathway, and right outside of [Castle Light](Castle_Light.md)
@@ -44,7 +44,7 @@ A boulder in front of the Antiquarian shop at Etris
 Ankle weights hanging in the Antiquarian shop at Etris
 
 -   Ankle Weights - Template:Cost / **200 uses**
--   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
+-   Location - [Etris](Etris.md) Antiquarian, [Isle of Vigils](Isle_of_Vigils.md) Sparring Room, [Fort Merit](Fort_Merit.md) Guildhall House, First floor [Greathive Aratel](Greathive_Aratel.md) Library, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
 -   Training - Running, sliding, jumping, rolling, climbing, dodging, Air Dashing
 
 ### Intelligence

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 91474
+revid: 91670
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -63,7 +63,7 @@ _The Lord Regent, sitting atop his throne of coral._
 -   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
 -   The description of the Authority's helmet mentions that no one has seen the Sovereign's true face.
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
-    -   When asked, developer Ragoozer simply stated that it is up the interpretation of the reader.
+    -   When asked, developer ragoozer simply stated that it is up the interpretation of the reader.
 -   Even more powerful than the Lord Regent.[\[1\]](#cite-note-rag-1)
 -   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the Celestials with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
 
@@ -258,21 +258,20 @@ _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend]
 -   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned Orlandeau to New Kyrsa over a disagreement, with Orlandeau noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
-### **The Meat Lord**
+### **Adolin Hashi**
 
-_"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
+_"Anyone can deal with victory. Only the mighty can bear defeat." - Adolin Hashi_
 
--   A wandering chef and salesman that dons the old [Authority Captain Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
--   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
--   Sells the best carnivorous food for the best price.
--   He is an Adret.
--   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
--   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
-    -   If these are true and not just jokes then two things can be assumed:
-        1.  The Meat lord is the most powerful character in all of Deepwoken Lore.
-        2.  He has the power to kill anything he pleases yet chooses to do what he enjoys instead of displaying his strength, as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
+-   Adolin Hashi ruled the Eastern Luminant through political and military maneuvers.
+-   Became the ruler of the Entire Eastern Luminant in 1384.
+-   He is an Canor.
+-   Perished in 1445 after being banished by deepwoken mods.
+    -   Powers:
+        1.  **Telepathy**: Hashi has the ability to control minds and persuade people to do things.
 
-The one and only... MEAT LORD!
+File:Lol.png
+
+Hero
 
 ### **Warden Jericho**
 
@@ -457,7 +456,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
     -   This seems to include souls and mantras, though might extend to more things. He uses this ability to steal these concepts from others, and to make deals.[\[2\]](#cite-note-arch-2)
 -   Can fuse Mantras using his Resonance to a higher tier.[\[2\]](#cite-note-arch-2)
 -   Is said to have committed sins so heinous "the world will never forgive \[him\]."[\[2\]](#cite-note-arch-2)
--   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes have been confirmed to not be the wielders of the hero blades.[\[2\]](#cite-note-arch-2)
+-   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes were different to the wielders of the hero blades.[\[2\]](#cite-note-arch-2)
 -   It is said that before he was sealed, he was capable of drowning entire islands on his prime, possibly being the sins that the world will never forgive.[\[2\]](#cite-note-arch-2)
 
 ### **Sudaruska the Unbroken**
@@ -1515,14 +1514,13 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   **Lore Sources:** Ragoozer (Discord)
 
 -   The titular Deepwoken are people who have consumed pieces of Drowned Gods, presumably 'waking' to the secrets of 'the deep.'[\[1\]](#cite-note-rag-1)
-    -   A Common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming.
--   There are 2 known Deepwoken, Amorus Pleeksty and The First Prophet of the Ministry.[\[1\]](#cite-note-rag-1)
+    -   A common theme in the world of Deepwoken is the fact that consuming something of power grants a transfer of power from the consumed, to the consuming.
+-   There are two known Deepwoken, Amorus Pleeksty and The First Prophet of the Ministry.[\[1\]](#cite-note-rag-1)
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
-    -   For Example Amorus Pleeksty created Flamecharm after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
--   It is also known that becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
+    -   For example, Amorus Pleeksty became incredible in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
+-   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
 -   The consequences of becoming a Deepwoken aren't yet known, but their are drawbacks.[\[2\]](#cite-note-arch-2)
-    -   Though similar to Starkindred (As Deepwoken are technically it's polar opposite), it is not entirely impossible to theorize that becoming a Deepwoken is also an act of invoking the power of Oaths, hence binding the user's soul to an ideal.
-    -   It results in unknown physical changes, most likely related to the body changes of The Ministry Prophets such as [Zi'eer](The_Lord_Regent.md).[\[2\]](#cite-note-arch-2)
+    -   It results in unknown physical changes.[\[2\]](#cite-note-arch-2)
 -   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain Talent cards being directly under the tree "Deepwoken".
 
 ### **Voidwalker/Void Oath**
@@ -1642,7 +1640,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Depths
 
-**Lore Sources:** _What Mends Shall Fray (Song), Gild_
+**Lore Sources:** _What Mends Shall Fray (Song), Gild (NPC, First Layer), Lament of Cyrrin (Book), Munet Journal XIV (Book)_
 
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths surround the world on all sides.
@@ -1653,10 +1651,11 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
         -   As the layers get further from reality, the center, they appear to get closer to the Drowned Gods.
             -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.
             -   The second Layer is where the Drowned God Ethiron and its guardian, the Scion of Ethiron are found.
-            -   The third Layer is where the physical body of Korilfiend is found.
+            -   The third Layer is where the physical body of Korilfiend is found, and where [Amorus Pleeksty](Amorus_Pleeksty.md) is currently.
 -   It seems that the effects of aging are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.
     -   Examples of such thing is Gild; an old Celtor who was alive before the city drowned.
--   In universe, a soul in The Depths can only last a week or two before they are considered unable to return to their bodies.
+-   When you return to the surface after the Depths Trial, your soul comes back to your body, healed courtesy of the Voices. Should your body be _compromised_ such as scattered on the winds, turned to ash or currently within a Thresher's digestive system, the Voices will instead build an entirely new one and place it at either the original site of death or a place you would consider home, or at the very least, safe, such as a recent inn.[\[2\]](#cite-note-arch-2)
+    -   In _Munet Journal XIV_, it is described that when someone returns from The Depths, it is accompanied by "a flash of light," with all wounds healed, and all limbs returned to their body.
 
 ### Ancestors of Ganymedes & Vesperians
 
@@ -2145,7 +2144,7 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 ## References
 
 1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) [1.76](#cite-ref-rag-1-76) Developer ragoozer
-2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) Developer Arch\_Mage
+2.  ↑ [2.00](#cite-ref-arch-2-0) [2.01](#cite-ref-arch-2-1) [2.02](#cite-ref-arch-2-2) [2.03](#cite-ref-arch-2-3) [2.04](#cite-ref-arch-2-4) [2.05](#cite-ref-arch-2-5) [2.06](#cite-ref-arch-2-6) [2.07](#cite-ref-arch-2-7) [2.08](#cite-ref-arch-2-8) [2.09](#cite-ref-arch-2-9) [2.10](#cite-ref-arch-2-10) [2.11](#cite-ref-arch-2-11) [2.12](#cite-ref-arch-2-12) [2.13](#cite-ref-arch-2-13) [2.14](#cite-ref-arch-2-14) [2.15](#cite-ref-arch-2-15) [2.16](#cite-ref-arch-2-16) [2.17](#cite-ref-arch-2-17) [2.18](#cite-ref-arch-2-18) [2.19](#cite-ref-arch-2-19) [2.20](#cite-ref-arch-2-20) [2.21](#cite-ref-arch-2-21) [2.22](#cite-ref-arch-2-22) [2.23](#cite-ref-arch-2-23) [2.24](#cite-ref-arch-2-24) [2.25](#cite-ref-arch-2-25) [2.26](#cite-ref-arch-2-26) [2.27](#cite-ref-arch-2-27) [2.28](#cite-ref-arch-2-28) [2.29](#cite-ref-arch-2-29) [2.30](#cite-ref-arch-2-30) [2.31](#cite-ref-arch-2-31) [2.32](#cite-ref-arch-2-32) [2.33](#cite-ref-arch-2-33) [2.34](#cite-ref-arch-2-34) [2.35](#cite-ref-arch-2-35) [2.36](#cite-ref-arch-2-36) [2.37](#cite-ref-arch-2-37) [2.38](#cite-ref-arch-2-38) [2.39](#cite-ref-arch-2-39) [2.40](#cite-ref-arch-2-40) [2.41](#cite-ref-arch-2-41) [2.42](#cite-ref-arch-2-42) [2.43](#cite-ref-arch-2-43) [2.44](#cite-ref-arch-2-44) [2.45](#cite-ref-arch-2-45) [2.46](#cite-ref-arch-2-46) [2.47](#cite-ref-arch-2-47) [2.48](#cite-ref-arch-2-48) [2.49](#cite-ref-arch-2-49) [2.50](#cite-ref-arch-2-50) [2.51](#cite-ref-arch-2-51) [2.52](#cite-ref-arch-2-52) [2.53](#cite-ref-arch-2-53) [2.54](#cite-ref-arch-2-54) [2.55](#cite-ref-arch-2-55) [2.56](#cite-ref-arch-2-56) [2.57](#cite-ref-arch-2-57) [2.58](#cite-ref-arch-2-58) [2.59](#cite-ref-arch-2-59) [2.60](#cite-ref-arch-2-60) [2.61](#cite-ref-arch-2-61) [2.62](#cite-ref-arch-2-62) [2.63](#cite-ref-arch-2-63) [2.64](#cite-ref-arch-2-64) [2.65](#cite-ref-arch-2-65) [2.66](#cite-ref-arch-2-66) [2.67](#cite-ref-arch-2-67) [2.68](#cite-ref-arch-2-68) [2.69](#cite-ref-arch-2-69) [2.70](#cite-ref-arch-2-70) [2.71](#cite-ref-arch-2-71) [2.72](#cite-ref-arch-2-72) [2.73](#cite-ref-arch-2-73) [2.74](#cite-ref-arch-2-74) [2.75](#cite-ref-arch-2-75) [2.76](#cite-ref-arch-2-76) [2.77](#cite-ref-arch-2-77) [2.78](#cite-ref-arch-2-78) Developer Arch\_Mage
 3.  ↑ [3.0](#cite-ref-kamas-3-0) [3.1](#cite-ref-kamas-3-1) [3.2](#cite-ref-kamas-3-2) [3.3](#cite-ref-kamas-3-3) [Flareblood Kamas](Flareblood_Kamas.md) description
 4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [4.2](#cite-ref-firstlight-4-2) [4.3](#cite-ref-firstlight-4-3) [4.4](#cite-ref-firstlight-4-4) [4.5](#cite-ref-firstlight-4-5) [4.6](#cite-ref-firstlight-4-6) [4.7](#cite-ref-firstlight-4-7) [First Light](First_Light.md) description
 5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)

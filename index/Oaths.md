@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 90940
+revid: 91647
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -45,26 +45,26 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 
 ## **Oathbreaker - Oath Removal**
 
-It is possible to remove your oath. In order to do so, you must talk to Yun'Shul and use a wish. Upon requesting it, you'll be given a disclaimer prompting that the changes you made "could potentially close off your former Oath to you forever."
+It is possible to remove your oath. In order to do so, you must talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and use a wish. Upon requesting it, you'll be given a disclaimer prompting that the changes you made "could potentially close off your former Oath to you forever."
 
 Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 
 -   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
-    -   You lose some reputation with The Ignition Union.
+    -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
     -   Upon talking to Delta he'll say "You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an _Oath_ for a reason, mate."
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
--   [Contractor](Oath%253A_Contractor.md): Zi'eer - "Don't bother showing your face again. I had little faith in you to begin with"
-    -   You instantly become maximum negative rep with Etrea and The Ministry.
--   [Dawnwalker](Oath%253A_Dawnwalker.md): Klaris - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
-    -   You instantly become maximum negative rep with The Divers.
+-   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
+    -   You instantly become maximum negative rep with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
+-   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
+    -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man"
--   [Jetstriker](Oath%253A_Jetstriker.md): Alirian - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
-    -   Talking to Alirian will prompt the following conversation:
+-   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
+    -   Talking to [Alirian](Alirian.md) will prompt the following conversation:
         -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." **Please forgive me.**
         -   "Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?" **I'll follow your oath, my dear rival.**
-            -   You'll regain Jetstriker
-        -   "This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing.
+            -   You'll regain [Jetstriker](Oath%253A_Jetstriker.md)
+        -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing.
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
 -   [Oathless](Oath%253A_Oathless.md): Cerulean - "The way opens more to you, my disciple. Safe travels."
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? **I'd like to become Oathless once more**
@@ -73,9 +73,9 @@ Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
     -   If you attempt to regain the Oath, The Dreadstar will simply not spawn after you survive against the Ghosts on the Beloved Zofia, making it so you cannot get the Oath again.
--   [Starkindred](Oath%253A_Starkindred.md): Samael - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
-    -   Talking to Sameal again, he'll say to you "Insolent worm. Leave."
--   [Visionshaper](Oath%253A_Visionshaper.md): The Nestmind - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
+-   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
+    -   Talking to [Samael](Samael.md) again, he'll say to you "Insolent worm. Leave."
+-   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
 
 Note: Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
 

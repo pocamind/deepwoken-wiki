@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91617
+revid: 91664
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -58,10 +58,10 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Hesitation is Defeat** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike using the tempest eye faster than mortal eyes can perceive.
+| **Hesitation Is Defea** | Absolutely appalled by your disgusting and vile behavior, Evengarde cleaves your head off with a single strike faster than mortal eyes can perceive.
 
 -   There is no way to survive this attack.
--   Triggered by spitting on him.
+-   Triggered by spitting on him **at any point**.
     -   Spitting on him with 50+ Charisma will stay his hand and prevent instant death, but interacting with him to start the fight will result in him using the attack.
 
  | ✗ | ✗ | ✗ | (★★★★★★★) |
@@ -74,7 +74,6 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 | --- | --- |
 | **Air Pressure** | Getting hit by any of his Gale moves while you're low will cause you to die instantly. |
 | **Execute** | Pins down opponent before slicing their throat with blade. |
-| **Hesitation is Defeat** | Upon spitting on him he slices your head off **instantly killing you.** (Note: Spitting on him with 50+ Charisma will prevent instant death, but interacting with him to start the fight will result in him using the attack. |
 
 ## Talents
 
@@ -103,6 +102,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
+        -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
     -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
 
 ## Trivia
@@ -111,12 +111,19 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Maestro Evengarde Rest is the only build-locked boss due to the MED/HVY requirements.
 -   The fight is a homage to _[Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)_, the game that inspired Deepwoken's combat and setting. Many of the moves reference its abilities and bosses, such as [Genichiro Ashina](https://sekiro-shadows-die-twice.fandom.com/wiki/Genichiro_Ashina) or the [One Mind Combat Art](https://sekiro-shadows-die-twice.fandom.com/wiki/One_Mind).
     -   For example, the green trails on his blade are inspired by the red trails of the [Mortal Blade](https://sekiro-shadows-die-twice.fandom.com/wiki/Mortal_Blade), wielded by the protagonist [Wolf](https://sekiro-shadows-die-twice.fandom.com/wiki/Sekiro).
+    -   The fight is also similar to Sekiro's fighting style, parrying and fighting more than using spells/abilities.
 -   All of his mantras will automatically execute you.
     -   You can still be manually gripped by him if you die to his critical attack, basic attack or his Mortal Draw: Pressure.
 -   You will only gain the Disgraced Flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
 -   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
--   Despite apparently having immunity to knockdowns, the Starkindred mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
+-   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
-    -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
+    -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
+-   Spitting on Maestro both before the fight and during it makes his character say the following dialogue:
+    -   _"This is how you treat my generosity?"_
+    -   After this, he instantly kills you.
+        -   His eyes flash onto your screen, a green flash appears on your character's head as the only evidence of his attack, cleaving it apart instantly.
+        -   You fell in battle to... Your disrespect, punished by the Tempest Eye
+    -   This also lowers your [Etrea](Etrea.md) reputation greatly, usually setting it to Neutral or lower depending on your current standing.

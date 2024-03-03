@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 91579
+revid: 91654
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -25,7 +25,7 @@ Skeleton Key is a [Resonance](Resonance.md) that players can obtain and is uncom
 
 ### Appearance
 
-When summoned, a grey wall will be summoned, with the bottom part of it resembling skeleton hands and the top embodying a symbol.
+When used, a grey wall will be summoned, with the bottom part of it resembling skeleton hands and the top embodying a symbol.
 
 If corrupted. the walls become a dark blue/violet.
 

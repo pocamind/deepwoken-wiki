@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 91553
+revid: 91667
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -167,25 +167,24 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 
 ## Trivia
 
--   With the March 01, 2024 weekly update, Chaser was given his own theme, **[A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured)**
-    -   The Youtube visualizer for the song appears to be Chaser's journal. It depicts jars of blood, a [Krysgarde](Kyrsgarde.md) lancer and it's lance, [Kyrsan Medallions](Kyrsan_Medallions.md), and a plant native to New Kyrsa
+-   The music of his bossfight is [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) by Naktigonis.
 -   Chaser is voiced by YouTuber [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).[\[4\]](#cite-note-4)
 -   Chaser sets fire to his blood during the **Burning Blood Explosion** attack, implying he uses [Flamecharm](Flamecharm.md).
 -   There was a period of time where rumors claimed that this boss was called Minerva or that it was the Avatar of Ethiron, however these were debunked, Verse 2 revealing the boss' name to be Chaser.
 -   The **Burning Blood Explosion** move used by Chaser closely resembles the spells that are casted by Mohg, Lord of Blood, from _Elden Ring_.
--   Chaser is seen wielding six Resonances, presumably stolen from divers he betrayed and killed. However he cant use them.
+-   Chaser is seen wielding six Resonances, presumably stolen from Divers he betrayed and killed. However he cannot use them.
 -   Chaser grants a fairly large amount of Resonance progression.
 -   Prior to the update of 1/30/23, he did not have a second phase, instead dying after all the jars were broken. As a result, he was viewed as the easiest boss in the game, and could even be beaten as a freshie.
 -   Chaser's body does not initially despawn after breaking the ground, and continues to fall downwards for a bit before reaching the bottom of the pit, finally despawning.
 -   While this is not confirmed, there is a chance that the blood magic of Chaser can be used as an Oath in the future, probably via the Second Prophet, similar to the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md) with Lord Regent.
 -   It seems **Powerful Blood Appendage** cannot be parried while wearing **[Ignition Deepdelver](Ignition_Deepdelver.md)**. (Someone please test this further for the timings may have been wrong.)
--   According to Ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
+-   According to ragoozer, Chaser was planned to have a proper Phase 2, however, he didn't have enough time to work on it prior to the release of Verse 2. It's unknown if this is the same phase 2 that he has now.[\[5\]](#cite-note-5)
 -   Chaser once used the old [Black Diver](Black_Diver.md) outfit, but now he has the new one.
--   Chaser does not spawn if the bounders at the Nest Corridor do not spawn.
+-   Chaser does not spawn if the Bounders at the Nest Corridor do not spawn.
 -   Much like Ferryman, if Chaser is set on fire at a certain threshold, he can be gripped like any normal NPC.
 -   Used to have the title, Scholar of the Crimson Contract.
 -   If the player is a [Contractor](Oath%253A_Contractor.md) it seems Chaser had no idea what they're or rather the dev hasn't implemented this unlike [Duke](Duke_Ishamon_Erisia.md)
--   His hair ID is 77799954 & The beard ID is 4995497755
+-   His hair ID is 77799954 & the beard ID is 4995497755
 -   Chaser Colors: #8f9ea3 Skin | #001926 Hair | (Pupils can be found in the 'Gallery' below) | #000000 Facial Marking | #5d4545, #404d54, #645d43, #504a53 Left Leg Resonances | #5d4545, #475349, #45465a, #37525d Right Leg Resonances
 -   Chaser's Body Slam used to be an animation. However, exploiters could copy the animation, activate it on themselves, and clip into the floor, thereby allowing them to attack people through the floor at no risk. Therefore, it was changed to being a physics constraint.[\[6\]](#cite-note-6)
 
