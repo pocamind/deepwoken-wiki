@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 91385
+revid: 91783
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Verse 2, Parrying Daggers]
@@ -37,7 +37,7 @@ Its function is the same as that of the [Parrying Dagger](Parrying_Dagger.md), a
 
 ## Trivia
 
--   Apart of the Kyrs series ([Kyrsedge](Kyrsedge.md), **Kyrstear**, [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
+-   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), **Kyrstear**, [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md))
 -   One of two Parry Dagger type weapons.
 -   Seems to be paired with Kyrsedge.
 -   The weapon used to have a bug where the agility requirement did not apply. This has been fixed.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 91741
+revid: 91788
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -55,10 +55,10 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         
 
 -   **Illusory Realm - Support Mantra**
-    -   After a slight delay, teleport you and a nearby players to an alternate dimension for about 20 seconds. (44 seconds with 3 eternal and aeon logstones). The alternate dimension is a combination of Reality (the real world) and the Dreamscape (where the caster enters).
+    -   After a slight delay, teleport you and nearby players to an alternate dimension for about 20 seconds (44 seconds with three Eternal and Aeon Logstones). The alternate dimension is a combination of reality (the real world) and the Dreamscape (where the caster enters).
         -   Summons a flat, black terrain at the casted location, allowing free traversal.
-        -   Grants vision and movement through walls.
-        -   Unlike the old Illusory Realm, it can be used in water, in Guild Bases, and alone.
+        -   Grants vision and movement through walls and certain objects.
+        -   Can be used in water, in Guild Bases, and alone.
         -   Interactable NPCs and items, such as campfires, repair kits, etc., can be used within the realm.
         -   Ritual Casts, Warriors Respite, and Resonances are disabled within the Dreamscape.
         -   Both the caster and any user within the realm will be pushed back if too far from the casting location, similar to the Gravity Field resonance.
@@ -89,6 +89,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         
         File:Cheap trick.gif
         
+
+  
 
 ## Effects
 

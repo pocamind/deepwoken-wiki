@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 91205
+revid: 91779
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons]
@@ -57,7 +57,7 @@ Light's Final Toll has 4 different Criticals. The Critical starts off with the D
 -   As of the October 20th, 2023 weekly update LFT now has a Unique 4-Hit Critical combo.
 -   Starts off with the Default/Legion Kata Critical, then switches to a Jumping Critical when landed. Landing 2 Jumping Criticals will give you the Final Crit. (Goes in order of: 1 > 2 > 2 > 3
 -   As this weapon is Legendary, it is completely unenchantable. For a little while, this weapon used to be "common" and was enchantable.
--   It is one of three known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Railblade](Railblade.md).
+-   It is one of three known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Railblade](Railblade.md), and [Shattered Katana](Shattered_Katana.md).
 -   Light's Final Toll is the first weapon in Deepwoken to have 3 different critical attacks.
 -   The maximum damage that this weapon can reach with with 6 proficiency, 102 willpower, 3 star damage and akira's ring its a sad 30.68 damage
 -   Although it has a very situational passive and less damage than legion cestus (what is actually sad) this weapon, its surprisingly good.

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 91336
+revid: 91792
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -89,7 +89,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 
 -   _**Thresher Scales;**_ Regaining armor is quite an impossibility without this talent, unless you're Ironsing, have Bloodiron Spirit, or possess any Armor Repair Kits on you. Despite having any of those, it's quite necessary to have Thresher Scales, as it doesn't take a talent hand, and can be of use for the entirety of the waves with the assistance of a Graceful Flame.
 -   _**Warriors Respite;**_ Healing isn't always a guarantee in the Diluvian Mechanism, especially if you're doing it solo or in a Hollowed Wave. Therefore it's important to have a way of regaining your health during the later stages. Warriors Respite is essential and can be combined with going up high and healing while attacking the mobs.
--   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you can't ironically gain health packs against health packs themselves.
+-   _**Graceful Flame;**_ Regaining armor is a difficulty, especially natural armor. Combining Thresher Scales with Graceful Flame you can both heal you and your allies armors and health. This is primary helpful in later waves such as 39, where you ironically can't gain health packs against health packs themselves.
 -   _**Force Your Way;**_ In the Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with their Unparriable attacks. However with Force Your Way you can move on past that, and parry all the damage-taking moves that could possibly ruin your wave.
 -   _**Tidekeeper;**_ Within the Diluvian Mechanism, a low health bar means a risky life. Worst part is a health bar that is almost 1%. But with the Tidekeeper, you wouldn't need to worry about being knocked for 10 seconds straight, and even gain a 15% damage and 10% defense buff. This will allow you to rush through the mobs without worry.
 -   _**Ardour, Ardour Scream;**_ It's essential to deal the most damage to the mobs you can. Ardour will assist with posture breaks, and M1 based builds that are stronger on Heavy Air waves. Ardour Scream will also assist all team mates making the mobs weaker and easily posture-broken.

@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 90019
+revid: 91797
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -37,7 +37,7 @@ If Portals is corrupted, you move faster and can take objects and allied players
 
 When obtained, Portals will spend its points on the following stats:
 
--   **Dive:** When using your bell, double tap C while holding W to dive underground, you will not show footprints while doing this and upon leaving the effect you will be shot back up, like an uppercut. If done the resonance CD is longer.
+-   **Dive:** The dive variant will allow you to double tap C while holding W to dive into the ground, leaving behind no footprints. Upon cancelling you will be shot back up. If cancelled early, the cooldown will be shorter.
 -   **Duration:** The more points are spent on this stat, the longer the user can stay in the portal.
 -   **Speed:** The more points are spent on this stat, the faster the user move while inside the portal.
 

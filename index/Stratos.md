@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 91738
+revid: 91781
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -22,7 +22,7 @@ To complete the quest, you need to sail for ≈15 minutes total with your sail a
 
 **Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md), minimum 50 points invested.** You can complete the quest, just without reward.
 
-## The Reward
+### The Reward
 
 After sailing for long enough, you can return to Stratos and you will receive the "Windwaker" talent. Similarly to "[Produce Spark](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Flamecharmer)", "[Flame Within](https://deepwoken.fandom.com/wiki/Flamecharm?so=search#Amoran_Seeker)" and "[Discovery of Fire](https://deepwoken.fandom.com/wiki/Thundercall?so=search#Thundercaller)", you can activate the talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 91064
+revid: 91786
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -30,7 +30,7 @@ categories: [Oaths]
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 -   Above the bandit village lies a temple. Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
-    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you. Incase you defeat the angel, it's recommended to carry him around the temple, as the watcher won't detect you as long as the angel hasn't been executed.
+    -   Watch out for the Watcher guarding the temple, as they will spawn a [Lesser Angel](Hollow_Angel.md) if they catch sight of you. In case you defeat the angel, it's recommended to carry him around the temple, as the watcher won't detect you as long as the angel hasn't been executed.
 
 Once inside the temple, proceed through a passage on the left.
 
@@ -46,7 +46,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 -   **Mindsoothe - Support Mantra**
     -   Heal nearby allies for 60 HP at the cost of your Sanity
-        -   Allies include Guildmates, and those with whom you share a Vow of Mastery or Vow of Allegience.
+        -   Allies include Guildmates, and those with whom you share a Vow of Mastery or Vow of Allegiance.
         -   The sanity cost is only deducted on a successful heal.
     -   Uses a Ritual Cast system similar to Wisps and Graceful Flame.
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
@@ -73,14 +73,14 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Has a **high** windup.
         -   Hard to parry, entirely blockable. Can be used to bait vents by staying at a distance.
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
-        -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is adviced to get a friend to distract them.
+        -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.
     -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
 
 -   **All-Seeing Eye - Passive**
     -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players are revealed by a Blindseer Eye icon.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusionary Servant's casting, Beast Burrow and Portal.
+        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portal.
     -   Doesn't work on the [Tacet Murmur](Murmur.md#murmur-tacet), but allows for further detection radius.
     -   Obtaining: 4 Pathfinders helped in the Depth Trial (must be alive)
 

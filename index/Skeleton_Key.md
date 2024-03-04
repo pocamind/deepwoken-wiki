@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 91709
+revid: 91796
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -25,7 +25,7 @@ Skeleton Key is a [Resonance](Resonance.md) that players can obtain and is uncom
 
 ### Appearance
 
-When summoned, a grey wall will be summoned, with the bottom part of it resembling skeleton hands and the top embodying a symbol.
+When summoned, a grey wall will manifest, with the bottom part of it resembling skeleton hands and the top embodying a symbol.
 
 If corrupted. the walls become a dark blue/violet.
 
@@ -35,7 +35,7 @@ Pressing C will activate the **Skeleton Key** Resonance.
 
 Skeleton key will summon a wall, up to three if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will automatically be pushed.
 
-If Skeleton Key is corrupted, you can summon five walls with a lesser duration.
+If Skeleton Key is corrupted, you could summon up to five walls with a lesser duration.
 
 ### Resonance Point Usage
 
@@ -45,4 +45,6 @@ If Skeleton Key is corrupted, you can summon five walls with a lesser duration.
 
 ## Trivia
 
--   Its based off of the dev spec ability under the same name used by Zartania, however this variant is weaker than it.
+-   Based off of the dev spec ability under the same name used by Zartania, rebalanced and reworked for public use.
+
+-   Keep in mind that a corrupted Skeleton Key does not guarantee five walls, as the number is still based on the resonance point usage.
