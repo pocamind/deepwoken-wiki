@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 91041
+revid: 91776
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -62,7 +62,8 @@ Along with all other elements, users can see their Mantras becoming stronger wit
  |
 | 
 
- | Needle Barrage
+ |
+| Needle Barrage
 
 (☆☆☆)
 
@@ -243,6 +244,8 @@ Metal Wisp
     -   Therefore at times, armor might be regenerated until 90% but others could be 100% depending on how much you placed in Ironsing.
 
  |
+
+  
 
 ## **Talents**
 

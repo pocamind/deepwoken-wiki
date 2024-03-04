@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 89948
+revid: 91755
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -16,7 +16,9 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 **Guns** are a ranged weapon designed to shoot projectiles if the user has bullets in the inventory, which can add ranged capabilities as well as giving a +10% PEN bonus. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
 
-## Moveset
+Guns have their own talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related talents like [Outlaw](Talents.md) for pistols.
+
+## Pistol Moveset
 
 ### Dual-Wielding
 
@@ -32,13 +34,10 @@ The amount of bullets you can load into a gun depends on the type you are using.
 
 ### Talents
 
-Guns have their own talent trees - [Outlaw](Talents.md#outlaw) and [Gunslinger](Talents.md#gunslinger)
+Pistols have their own talent trees - [Outlaw](Talents.md#outlaw)
 
   
-
 The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance.)
-
-The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
@@ -66,6 +65,18 @@ _**Stats:**_
 
 **[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed (Requires the bell: [Crazy Slots](Crazy_Slots.md))
 
+## Rifle Moveset (wip)
+
+Your rifle has a 5 hit combo, and will fire a bullet (even if you don't have any available) on the 2nd and 4th hit. Your running attack and critical will fire a bullet, even if you don't have any. Rifles are limited to the 2 handed stance.
+
+### Talents
+
+There are currently no talents excusive for rifles.
+
+The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
+
+_**Stats:**_
+
 **[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 7 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
 
 **[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 7 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
@@ -74,9 +85,13 @@ _**Stats:**_
 
 **[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (40 MED, 75 Thundercall req)
 
-### Trivia:
+## Trivia:
 
--   You can buy bullets at the Etris weapon store and Summer Isle or craft them using 1 Iron for 20 bullets
+-   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
+    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md) and
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   The [Stormseye](Stormseye.md) is the only legendary gun in game. It is obtained by killing bosses.
 -   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
+-   The [Iron Blunderbuss](Iron_Blunderbuss.md) is the only gun that requires bullets
+-   One handed guns are the only type of guns where having bullets isn't a direct upgrade.
+    -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.

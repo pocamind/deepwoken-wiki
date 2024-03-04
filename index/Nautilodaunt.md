@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 91714
+revid: 91744
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -11,10 +11,6 @@ categories: [Monsters]
 “ ...Denizens of Scyphozia, Nautilodaunts are a chilling reminder that those of the Deep are not simply mindless monsters, but can possess startling intelligence. ”
 
 ― Odd Tentacle description
-
-  
-
--   Kind voidwalkers on top
 
 **Nautilodaunt:**
 

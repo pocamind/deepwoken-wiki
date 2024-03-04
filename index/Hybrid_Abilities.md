@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 91271
+revid: 91768
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -75,6 +75,7 @@ of ice.
     -   Inflicts Chill.
     -   Scales with both Frostdraw and Shadowcast.
     -   Compatible with [Cloudstones/Stratus Stones](Mantra_Modifiers.md)
+    -   Can be modified with [Magnet Spark](Mantra_Modifiers.md) allowing it to follow the user.
 
  |
 | 

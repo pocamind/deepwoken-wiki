@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 91725
+revid: 91749
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs]
@@ -100,7 +100,7 @@ Check the rest out for yourself
 | Ploom | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
 | Polis | [The Kingdom of Etrea](Etrea.md) | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
-| Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. |
+| Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. This cannot be stressed enough; he throws you into the nest pit, and forces you to fight 8-9 Bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS [PATCHES](https://darksouls.fandom.com/wiki/Patches) IN DEEPWOKEN. |
 | Raphael | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
 | Regek | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Soulbloom Quest, attunement-less trainer. |  |
 | Renau | [The Ignition Union](The_Ignition_Union.md) | [The Depths](First_Layer.md) | None |  |
@@ -114,7 +114,11 @@ Check the rest out for yourself
 | The Stranger | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant Murmur: Tacet to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
 | Stratos | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a talent to those who meet his requirements |  |
 | Surge | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
-| Suri | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quests. |  |
+| Suri | [The Hive](The_Hive.md) | 
+
+[Greathive Aratel](Greathive_Aratel.md)
+
+ | Delicate Flower quests. |  |
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | Theadre | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), [Etris Palace](Etris_Palace.md) | None | Dialogue varies based on Etris reputation, race and weapon equipped |
 | Trig | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), Inn | Grants Loansharking quest | Extorting the Adret will get you positive Summer Company reputation, not doing so grants negative reputation and forces you to fight two [Summer Company Guards](Summer_Company_Guard.md) |

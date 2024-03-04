@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 91324
+revid: 91745
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -58,6 +58,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Lightning Clones will not disappear unless their attack is parried, blocked or dodged, or they land a hit on a player.
 -   He only uses Lightning Clones in Phase 1.
 -   If you attack lightning clones, your willpower will increase.
+-   Curiously, kiling the clones procs Time to Go.
 
  | ◯ | ◯ | ◯ | (☆☆☆) | **I** |
 | **Lightning Strike** | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.

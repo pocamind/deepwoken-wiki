@@ -1,9 +1,9 @@
 ---
 title: Mantra Modifiers
-revid: 90354
+revid: 91777
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement, Spells, Mantras, Items]
+categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
 ---
 
 # Mantra Modifiers
@@ -339,61 +339,69 @@ Gem
 
 ## Deep Gems
 
-Deep Gems (not to be confused with the Vibrant Gem) are powerful modifiers that can be placed in the insignia slot of a mantra. Only 1 Gem can be equipped on a single mantra.
+**Deep Gems** are rare Gems that can be applied to mantras to improve them at no additional cost.
 
-Deep Gems are rare Gems that are dropped in The Depths and by Bosses. Rarely, you can get deep gems from the Duke, The Ferryman, and Primadon, and more commonly from Layer 1 chests and Layer 2. You get Deep Gems more often from chests spawned during Hell Mode in Layer 1. They can also be obtained as a reward from the Halloween Event for 15 Joy. You get more gems from Primadon depending on how quickly you kill it, though, it is not a guaranteed drop even if you do kill it quickly Needs to be proven. You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
+Deep Gems can be obtained from:
 
-To remove a Deep Gem from your mantra, you need to Recall the mantra. This will return it to your inventory.
+-   [Primadon](Primadon,_Titan_of_the_East.md) (roughly 10% drop chance)
+-   In any chest from [Layer 1](First_Layer.md) (very low drop chance, betters odds from corrupted monsters)
+-   [Hell Mode](Hell_Mode.md) completion chest (guaranteed)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (very likely)
+-   [Scion of Ethiron](Scion_of_Ethiron.md) (guaranteed)
+-   Randomly bought for 15 [Joy](Joy.md) at [The Floating Keep](The_Floating_Keep.md) (limited to the Hallowtide seasonal event)
+-   [Ferryman](The_Ferryman.md) (Rare/uncommon chance)
+-   [Fishing](Fishing.md) (Incredibly rare, highly dependent on the location fished)
+-   [Etris: Siege](Cinders_of_Etris.md) Chests (Very Common)
+-   Both kinds of chests from the [Deep Crucible](Deep_Crucible.md) (Rare)
+-   [Trial of the Gourdskipper](<Widow's_Wail_Cemetery.md#trial-of-the-gourdskipper>) (Uncommon, limited to the Hallowtide seasonal event)
+-   Depths Collapse Event in the Depths (Common)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (Common)
 
-| Image | Modifier | Effect |
-| --- | --- | --- |
-|  | 
-Insignia
+You can equip a Deep Gem by going to a campfire, holding out the Gem and finding the mantra you'd like to equip the gem on. After, click on the black box in the Campfire Menu, below the "Created by \[NAME\]" dialogue.
 
-Gem
+To remove a Deep Gem from your mantra, you need to **Recall** the mantra. This will return it to your inventory.
 
- | On proc, the next Mantra you cast within a short timeframe will have a 50% windup reduction. |
-| 
+<table><caption>There are six type of Deep Gems, including:</caption>
+<tbody>
+<tr>
+  <th>Image</th>
+  <th>Name</th>
+  <th>Effect</th>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Blessed Gem</td>
+  <td>On hit, reduces the cooldown of the mantra it's on by half.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Bloodless Gem</td>
+  <td>Damage reduced by 20%. Heal user for 75% of damage dealt. Cap of 15 HP per seconds.</td>
+</tr>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td>Blue Gem</td>
+  <td>Reduces Mantra ether cost by half, including Ritual Casted mantras.<p>This is the only gem that provides a tangible effect to mantras that do not hit enemies.</p></td>
+</tr>
+<tr>
+  <td><figure>File:Gfggggg.png<figcaption></figcaption></figure></td>
+  <td>Insignia Gem</td>
+  <td>The next Mantra you cast within a short timeframe will have a 50% windup reduction.</td>
+</tr>
+<tr>
+  <td><figure>File:Screenshot 59.png<figcaption></figcaption></figure></td>
+  <td>Wayward Gem</td>
+  <td>Puts a mark on the opponent alerting them that they have been tagged by a Wayward Mantra, before teleporting you to them after a second has passed.</td>
+</tr>
+<tr>
+  <td><figure>File:Wind gem 1st.png<figcaption></figcaption></figure></td>
+  <td>Wind Gem</td>
+  <td>Hitting an enemy with the mantra will increase your speed for 8 seconds, equivalent to the speed buff given after sliding down a slope.</td>
+</tr>
+</tbody>
+</table>
 
- | 
-
-Bloodless Gem
-
- | Damage reduced by 20%. Heal user for 60% of damage dealt. Cap of 15 HP per seconds. |
-| 
-
- | 
-
-Blessed
-
-Gem
-
- | On hit halves the cooldown of the Mantra. |
-| 
-
- | 
-
-Blue
-
-Gem
-
- | Reduces Mantra ether cost by half. |
-| 
-
-File:Screenshot 59.png
-
- | 
-
-Wayward Gem
-
- | After 1 second you will teleport to the first enemy hit by the mantra. |
-|  | 
-
-Wind
-
-Gem
-
- | Hitting an enemy with the mantra will increase your speed for 5 seconds, equivalent to the speed buff given after sliding down a slope. |
+  
 
   
 

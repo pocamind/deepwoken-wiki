@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 91184
+revid: 91758
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Cut Content]
@@ -44,6 +44,7 @@ Critical
 Gale Lunge
 
  | Diver lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+| Astral Wind | User casts several fast, wind enhanced slashes that form a star, dealing high damage. | ◯ | ◯ | (★★★) |
 | 
 
 Jolt Grab
@@ -53,21 +54,22 @@ Jolt Grab
 -   Uses the Magnet Spark variant of Jolt Grab
 
  | ◯ | ◯ | (★★☆) |
+| Rising Thunder | User performs an animation similar to Lightning Assault in the air before returning back to the ground. | ◯ | ◯ | (★★★) |
 | 
 
 Blinding Dawn\*
 
- | Diver starts spinning rapidly to unleash an aoe of light | ◯ | ◯ | (★★☆) |
+ | User starts spinning rapidly while unleashing powerful rays of light. | ◯ | ◯ | (★★☆) |
 | 
 
 Radiant Kick\*
 
- | The diver teleports to the nearest opponent with a kick at the speed of light | ◯ | ◯ | (★★☆) |
+ | User teleports to the nearest opponent with a kick at the speed of light. | ◯ | ◯ | (★★☆) |
 | 
 
 Radiant Dawn\*
 
- | The diver leaps up before crashing down | ◯ | ✗ | (★★★) |
+ | User leaps into the air before crashing down with the power of light. | ◯ | ✗ | (★★★) |
 
 ### Talents
 
@@ -90,9 +92,9 @@ Radiant Dawn\*
 -   Static Link - Black Divers landing a Flourish or Uppercut apply a static link.
 -   Storm Link - Black Divers apply Shock (Surge because of Surge Path) to enemies with a static link if hit with a Wind mantra.
 -   Chronostasis - Black Divers put target's Resonance on a short cooldown when they land hits.
--   Protagonist Syndrome - The grasp of shadow is meaningless in the face of a dawnwalkers blinding light. The divers Dawnwalker mantras are empowered after being hit by Shadowcast.
--   Luminous Flash - Passive: After dealing a certain amount of damage while in "Absolute Radiance", the diver gains a chance to empower their strikes with pure light.
--   Absolute Radiance - Passive: Dealing damage with Dawnwalker mantras briefly makes black divers immune to all elemental effects for a short period.
+-   Protagonist Syndrome - The grasp of shadow is meaningless in the face of the Black Diver's blinding light. The Black Diver's Dawnwalker mantras are empowered after being hit by Shadowcast.
+-   Luminous Flash - Passive: After dealing a certain amount of damage while in "Absolute Radiance", the Black Diver gains a chance to empower their strikes with pure light.
+-   Absolute Radiance - Passive: Dealing damage with Dawnwalker mantras briefly makes the Black Diver's immune to all elemental effects for a short period.
 
 ## Finisher
 
