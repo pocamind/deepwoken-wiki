@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 89038
+revid: 91799
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, NPCs]
@@ -206,7 +206,7 @@ These quests usually give XP, Reputation and/or an item.
 
 **Reward/s**: EXP, Compassion.
 
-**Just a Librarian:**
+**Lost Books:**
 
 **Quest Location**: Isle of Vigils
 

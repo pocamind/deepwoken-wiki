@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 91776
+revid: 91800
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -130,6 +130,15 @@ Metal Kick
 -   Applies Metal Rods on hit.
 -   Can be modified with Aeon and Eternal Logstones, increasing its longevity.
 -   Can be modified with Crystal and Perfect Lens increasing its range.
+
+ |
+|  | Metal Fakeout
+
+(★★☆)
+
+ | Create a metal clone and appear behind your target. | 20 ether | Teleport behind the target and immediately stab forward.
+
+-   Applies Metal Rod on hit
 
  |
 |  | Metal Armament

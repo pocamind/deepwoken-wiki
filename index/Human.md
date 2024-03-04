@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 86718
+revid: 91798
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -34,6 +34,10 @@ All races were formerly human before they made their hereditary vows which cause
 -   Hammet
 -   Trujillo
     
+
+**Weaknesses:**
+
+We are only human, after all.
 
 ## Trivia
 
