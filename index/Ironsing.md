@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 91800
+revid: 91827
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -50,166 +50,206 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
-|  | Metal Eruption
+| 
+ | Metal Eruption
+
 (☆☆☆)
 
- | A flurry of metal spikes. | 40 Ether | The user stomps the ground and spawns a flurry of metal spikes. Give off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls.
+ | A flurry of metal spikes. | 40 Ether | Stomp the ground, causing a flurry of metal spikes to erupt forward.
 
--   Can be modified with Stratus Stones and Cloudstones to increase the size of the eruption.
--   Can be modified with Aeon and Eternal logstones to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
--   Deals with high posture. Heavily reminiscent of the legacy Frostdraw mantra, Ice Eruption.
+-   Gives off a flash that signifies that the mantra is unparryable, though you \*CAN\* parry it, likely due to a bug. By rotating your view, you can reangle the mantra to catch rolls.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the size of the eruption.
+-   Can be modified with **Aeon/Eternal Logstones** to extend its longevity, which was useful in the past because the eruption was collidable, but it is not anymore.
+-   Deals high posture damage. Heavily reminiscent of the legacy Frostdraw mantra, [Ice Eruption](Frostdraw.md).
 
  |
 | 
 
- |
-| Needle Barrage
+ | Needle Barrage
 
 (☆☆☆)
 
- | A barrage of metal rods. | 20 Ether | The user jumps in the air and fires 3 projectiles towards where their cursor was BEFORE jumping.
+ | A barrage of metal rods. | 20 Ether | Jump into the air before throwing out 3 projectiles towards the location of the cursor.
 
--   Modifiable with a Blast Spark to increase amount of needles fired but removing the jump. This variant keeps momentum.
 -   Applies Metal Rods on hit.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra increase amount of needles fired but removing the jump.
+    -   This variant keeps the user's momentum.
+    -   Somewhat similar to Flamecharm's [Fire Gun](Flamecharm.md) mantra.
 
  |
-|  | 
+| 
 
-Metal Kick
+ | Metal Kick
 
 (★☆☆)
 
- | A powerful kick laced with metal | 20 Ether | Rise up and slam down with an axe-kick dealing medium damage and applying knockdown to anyone hit.
+ | A powerful kick laced with metal | 20 Ether | Jump vertically into the air before slamming down with an axe-kick, dealing moderate damage and applying knockdown to any targets hit.
 
--   Modifiable with a Spring Spark to replace it with a faster drop-kick variant that doesn't apply knockdown.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md) that causes the mantra to perform a faster drop-kick that doesn't apply knockdown.
 
  |
-|  | Metal Rain
+| 
+
+ | Metal Rain
 
 (★★☆)
 
- | Unleash a rain of metal rods down below. | 50 Ether | Rain down a incredible amount of metal rods dealing high damage, hitting around 10 times.
+ | Unleash a rain of metal rods down below. | 50 Ether | Rain down a incredible amount of metal rods from the sky, dealing light damage rapidly.
 
+-   Hits around 10 times.
 -   Applies Metal Rods on hit.
--   Can be modified with Aeon and Eternal Logstones to extend its longevity.
--   Can be modified with Crystal and Pefect Lenses to extend its range.
+-   Comparable to Thundercall's [Bolt Piercer](Thundercall.md) mantra.
+-   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
+-   Can be modified with **Crystal/Pefect Lenses** to extend its range.
 
  |
-|  | Caltrops
+| 
+
+ | Caltrops
 
 (★★☆)
 
- | Sharp metal traps. | 50 Ether | Throws 6 caltrops upon use, which stay on the ground for a while even if missed (much like Gale Trap). Goes through block (**and your character!**) if cast closely to the target.
+ | Sharp metal traps. | 50 Ether | Throw out 6 caltrops upon use, which stay on the ground for a while.
 
+-   Functions similar to Galebreathe's [Gale Trap](Galebreathe.md) mantra.
+-   Goes through block (**and your character!**) if cast closely to the target.
 -   May be blocked or even parried off the ground.
 -   With the [Laced Traps](Talents.md) talent (Caltrops and 45 Ironsing) will make the opponent slowed down and unable to jump if hit.
 -   Can be destroyed by enemies and the creators by M1'ing the caltrops, taking at least 2 hits for it to be destroyed.
--   Can be modified with Cloud and Stratus Stones
+-   Can be modified with **Cloudstones/Stratus Stones**.
 -   Applies Metal Rods on every 2 hits.
 -   Adds 1 caltrop per level up of the mantra, up to 8.
 
  |
-|  | Firing Line
+| 
+
+ | Firing Line
 
 (★★☆)
 
- | Create a firing line of metal to light up your target. | 40 Ether | The user spawns 5 rifles behind them which will start auto-aiming and fire at the target, immediately dealing high damage if not parried. The 5 rifles will fire 3 rounds each at the target.
+ | Create a firing line of metal to light up your target. | 40 Ether | Conjure up 5 rifles above them that begin to fire 3 salvos at any nearby target, dealing high damage if not parried.
 
--   You cannot use other Mantras during its duration however you can M1 while this is active.
--   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
 -   Apply Metal Rods on hit.
--   can be modified with a blast spark to make the mantra fire two cannons that fire one round each
+-   You cannot use other Mantras during its duration however you can still **M1** while this is active.
+-   Can be modified with Drift and Rush Shards, however, it does not increase the firing speed or projectile speed.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the mantra fire a salvo from two cannons.
 
  |
 |  | Oxidizing Rush
 
 (★★☆)
 
- | Conjure metal swords and rush forward with them | 50 ether | The user spins 4 swords above them and lunges forward. Applies large amounts of spikes and is a multi-hit as soon as the swords are visible.
+ | Conjure metal swords and rush forward with them | 50 Ether | Conjure a vortex of blades before rushing forward, dealing moderate damage.
 
+-   Rapid-hitting mantra.
 -   Applies Metal Rods on hit.
--   Can be modified with Aeon and Eternal Logstones, increasing its longevity.
--   Can be modified with Crystal and Perfect Lens increasing its range.
+-   Can be modified with **Aeon/Eternal Logstones**, increasing its longevity.
+-   Can be modified with **Crystal/Perfect Lens** increasing its range.
 
  |
-|  | Metal Fakeout
+| 
+
+ | Metal Fakeout
 
 (★★☆)
 
- | Create a metal clone and appear behind your target. | 20 ether | Teleport behind the target and immediately stab forward.
+ | Create a metal clone and appear behind your target. | 20 Ether | Teleport behind a nearby target while leaving behind a metal clone before immediately stabbing the target.
 
--   Applies Metal Rod on hit
+-   Applies Metal Rod on hit.
 
  |
-|  | Metal Armament
+| 
+
+ | Metal Armament
 
 (★★★)
 
- | Summon a blade of metal to swing alongside you. | 40 Ether | Coat both your body and sword in an ironlike and fluctuating iron-bits. While active, a greatsword (appearing similar to that of a Kyrscleave) appears as you M1 with an interval of 3 seconds; the greatsword deals fixed damage
+ | Summon a blade of metal to swing alongside you. | 40 Ether | Coat the character's body and weapon in a fluctuating ironlike iron-bits. While active, a greatsword is conjured and moves as light attacks are being performed with an attack interval of 3 seconds.
 
--   Each hit is parriable but applies Metal Rods.
--   Doesn't proc enchants. (Unlike the gif shows, it only procs when hitting an enemy)
--   Upgrading the level increases the duration of the mantra
+-   Each hit is parryable but still applies Metal Rods.
+-   The greatsword conjured deals fixed damage.
+-   Doesn't proc enchants.
+    -   Unlike the gif shows, it only procs when hitting an enemy.
+-   Upgrading the level increases the duration of the mantra.
 
  |
-|  | Metal Gatling
+| 
+
+ | Metal Gatling
 
 (★★★)
 
- | A deadly rush of several metallic rods. | 50 Ether | The user raises their hand and swings it downward before summoning a barrage of metal-spikes impaling the target from all angles dealing high damage. Can be parried and blocked.
+ | A deadly rush of several metallic rods. | 50 Ether | A gesture is performed on the right hand, causing a barrage of spikey metal beams to form from all angles and impale any nearby targets from all, dealing high damage.
 
--   Cannot be modified for whatever reason. (No mantra ingredients work).
+-   Can be parried and blocked.
 -   Applies Metal Rods on hit.
+-   Cannot be modified with any mantra modifiers.
 
  |
-|  | Iron Slam
+| 
+
+ | Iron Slam
 
 (★★★)
 
- | Conjure a giant rod of metal and slam it down. | 40 Ether | The user forms a large spikey Iron rod and slams it down on the opponent in front of them.
+ | Conjure a giant rod of metal and slam it down. | 40 Ether | Form a large spikey iron rod before slamming it down forwards.
 
 -   Deals heavy damage if not dodged or parried.
--   Can be modified with Cloud and Stratus Stones that would drastically increase the size of the rod.
+-   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
 
  |
-|  | Iron Hug
+| 
+
+ | Iron Hug
 
 (★★★)
 
- | Crush your opponents bones with an iron infused grab. | 40 Ether | The user has a short windup and grabs the opponent, dealing damage, then throws them.
+ | Crush your opponents bones with an iron infused grab. | 40 Ether | Perform a short windup before tightly hugging the opponent, dealing damage before sending them away.
 
 -   The spell locks on to targets within a close frontal radius. Applies Metal Rods on hit.
--   With the [Metal Absorption](Talents.md) talent (30 Ironsing and Iron Hug), Iron Hug will absorb the opponents' armor.
+-   With the [Metal Absorption](Talents.md) talent (**30 Ironsing & Iron Hug**), Iron Hug will absorb the opponents' armor.
 
  |
-|  | Rocket Lance
+| 
+
+ | Rocket Lance
 
 (★★★)
 
- | Create a lance, impale your opponent, and send them flying. | 35 Ether | After a small wind-up, user conjures an iron claw and dashes forward ragdoll's and knockback's the opponent. |
+ | Create a lance, impale your opponent, and send them flying. | 35 Ether | After a small wind-up, conjure an iron claw on the character's left arm before thrusting forward, pushing back any targets in the way.
+
+-   Deals moderate damage.
+-   Comparable to Galebreathe's [Gale Lunge](Galebreathe.md) mantra and Frostdraw's [Ice lance](Frostdraw.md) mantra respectively.
+
+ |
 
 ### **Mobility Mantras**
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
-|  | Metal Rampart
+| 
+ | Metal Rampart
+
 (☆☆☆)
 
- | **Summon a large metal pillar** | 50 Ether | Form a pillar bellow the user, which sends them upwards.
+ | Summon a large metal pillar | 50 Ether | Form a pillar from below, causing the character to ascend upwards as the pillar forms.
 
--   The height of the pillar will depend on what is above you.
--   Can be modified with Cloud and Stratus Stones to extend its width.
--   Can be modified with Aeon and Eternal Logstones to extend its longevity.
+-   The height of the pillar will depend on what is above the user.
+-   Can be modified with **Cloudstones/Stratus Stones** to extend its width.
+-   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
 
  |
-|  | Metal Ball
+| 
+
+ | Metal Ball
 
 (★★☆)
 
- | _**Create a metal ball and rush forward.**_ | 40 Ether | Encase yourself in a metal ball and rush forward around 100 studs, applying Knockdown and stopping the mantra if it hits an opponent.
+ | Create a metal ball and rush forward. | 40 Ether | Encased in a metal ball, rush forward while knocking down any targets in the way.
 
+-   Covers around 100 studs of distance.
 -   Applies Metal Rods on hit.
--   Can be modified with Aeon and Eternal Logstones to extend its longevity.
+-   Can be modified with **Aeon/Eternal Logstones** to extend its longevity.
 
  |
 
@@ -217,22 +257,27 @@ Metal Kick
 
 | Media | Name | Card Description | Ether Cost | Effect |
 | --- | --- | --- | --- | --- |
-|  | Iron Skin
+| 
+ | Iron Skin
+
 (★☆☆)
 
- | Coat your skin with metal to reduce harm. | 20 Ether | Coat your skin with metal, negating 90% of damage taken during the mantra's use. During usage, you cannot move nor act.
+ | Coat your skin with metal to reduce harm. | 20 Ether | Taking stance, the character's body is hardened like metal, negating 90% of the damage taken during the entirety of the mantra's duration.
 
+-   During usage, the user is unable to move nor act.
 -   With the [Intuitive Repairs](Talents.md) talent (25 Ironsing and Iron Skin), Iron Skin will cause armor and natural armor to be restored during the mantra's duration.
--   Can be upgraded with eternal logstones for increased duration.
+-   Can be upgraded with **Aeon/Eternal Logstones** for increased duration.
 
 Does not negate deferred, fire or fall damage.
 
  |
-|  | Chain Pull
+| 
+
+ | Chain Pull
 
 (★☆☆)
 
- | Manifest chains to brutally pull enemies towards you. | 50 Ether | Summon a chain out of your hand that pulls enemies towards you.
+ | Manifest chains to brutally pull enemies towards you. | 50 Ether | Conjure a chain of metal from the right hand that pulls in any targets from the cursor.
 
 -   Can be modified with Crystal and Perfect Lenses to increase its range.
 -   Adding a reverse spark will knock enemies away.
@@ -245,16 +290,15 @@ Does not negate deferred, fire or fall damage.
 Metal Wisp  
 (★★☆)
 
- | A servant of metal | 70 Ether | Summon a metal wisp that regenerates armor and applies rods on vent.
+ | A servant of metal | 70 Ether | Conjure a metal wisp that regenerates armor durability.
 
--   Requires a ritual cast
--   Consumes a small amount of ether when repairing armor
+-   Applies Metal Rods.
+-   Requires a ritual cast.
+-   Consumes a small amount of Ether when repairing armor
 -   Armor Regeneration is scaled with Ironsing,
     -   Therefore at times, armor might be regenerated until 90% but others could be 100% depending on how much you placed in Ironsing.
 
  |
-
-  
 
 ## **Talents**
 
@@ -735,6 +779,7 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing is the only Attunement that does not have a [Hero blade](Hero_Blades.md).
 -   Ironsing is called "Element' in the game's code.
 -   **Firing Line** could be a reference to Oda Nobunaga from the Fate/Series, which her signature move is shooting a line of matchlock rifles towards her enemy.
+-   The greatswords conjured in the**Metal Armament** mantra share the same model as the [Kyrscleave](Kyrscleave.md).
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores used to actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore,
     -   Gold was the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect.

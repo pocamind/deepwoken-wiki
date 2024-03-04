@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 91744
+revid: 91810
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,7 +35,7 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 | **Punch** | The Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | (★☆☆) |
 | **Kick** | Nautilodaunt's punches would randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you or using **Flip-Kick**. | ◯ | (★★☆) |
 | **Flip-Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
-| **Drop-Kick** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | (★★★) |
+| **Kick in the balls** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, kicking them right in the balls. | ◯ | (★★★) |
 | **Grand Stomp** | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** his attacks. | N/A | (★★☆) |
 | **Vent** | Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles and negates the damage of Mantras. Typically followed up with a kick. | N/A | (★☆☆) |
@@ -51,13 +51,13 @@ Template:Creature Infobox V3 The Fury Nautilodaunt is a rare variant of the Naut
 | Name | Description | Parryable? | Danger |
 | --- | --- | --- | --- |
 | **Fists of Thunder!** | All of Nautilodaunt's attacks now apply Electrify. Removing hyper-armor and applying true-stun. | N/A | (★★★★) |
-| **Punch** | The Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | (★★☆) |
-| **Kick** | Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick. | ◯ | (★★☆) |
-| **Flip- Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
-| **Drop-Kick** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | (★★★) |
-| **Electro Stomp** | Nautilodaunt stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
-| **Feint** | Like [The Enforcer,](Enforcer.md) the Nautilodaunt can also **feint** its attacks. | N/A | (★★☆) |
-| **Vent** | Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles. Typically followed up with a kick. | N/A | (★☆☆) |
+| **Punch** | The Fury Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | (★★☆) |
+| **Kick** | Fury Nautilodaunt's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick. | ◯ | (★★☆) |
+| **Flip- Kick** | Fury Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
+| **Drop-Kick** | Fury Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying. | ◯ | (★★★) |
+| **Electro Stomp** | Fury Nautilodaunt stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
+| **Feint** | Like [The Enforcer,](Enforcer.md) the Fury Nautilodaunt can also **feint** its attacks. | N/A | (★★☆) |
+| **Vent** | Fury Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles. Typically followed up with a kick. | N/A | (★☆☆) |
 
 ### Finisher
 
@@ -79,7 +79,7 @@ In general, Nautilodaunt can somewhat get overwhelmed by attacks, similarly to o
 
 Each of Nautilodaunt's attacks are an entire challenge by themselves, so they will be gone through in order:
 
--   Nautilodaunt has MANY punch variations, each with their own speed and animation. This can easily throw off any player who thinks they've learnt his rhythm. The animations are very misleading, so his actual hit comes shortly before his animation would imply it. It can follow up any of its punches with ANOTHER, very fast punch, as opposed to pausing for a moment. This can also easily throw off people, especially if he does multiple in a row.
+-   Nautilodaunt has MANY punch variations, each with their own speed and animation. This can easily throw off any player who thinks they've learnt his rhythm. The animations are very misleading, so his actual hit comes shortly before his animation would imply it. It can follow up any of its punches with ANOTHER, very fast punch, as opposed to pausing for a moment. This can also easily throw off people, especially if he does multiple in a row. Their vent nullifies any type of damage, being able to follow up with a punch right after.
 -   Nautilodaunt's kick is basically identical to The Enforcer's. It will usually use it as an extension of his other attacks, placing it after his normal or double punches. While dealing less damage than his punches, it is painfully quick and low profile. Literally.
 -   **DO NOT RUN IF YOU ARE LOW**. Attempts to disengage may be futile as he can run really fast and jump really high. Its most dangerous attacks are only used when there is a large distance from him to his target. While they are designed, and commonly used, to catch runners, if it's your only option, then try running into buildings as that'll give you the best chances of escaping.
 -   Flip-Kick and Drop-Kick share many similarities. Normally, Nautilodaunt power-walks towards his targets. But right before he uses these two attacks, he will full-on Naruto run at them at a horrifyingly quick speed. Flip-kick is used when Nautilodaunt gets somewhat close, rapidly closing the gap in the air with a kick. This is INCREDIBLY fast, but also somewhat delayed for when the attack actually lands, being an easy source of whiplash. Alternatively, he will plow right into the player with a sliding Drop-Kick, dealing high damage, and also being rather fast.

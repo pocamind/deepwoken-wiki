@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 89858
+revid: 91815
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

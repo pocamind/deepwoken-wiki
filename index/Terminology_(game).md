@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 89701
+revid: 91840
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -200,7 +200,7 @@ _verb_
 
 _noun_
 
-1.  Acronym for [Resonance](Resonance.md), used widely by the community.
+1.  A nickname for [Resonance](Resonance.md), used widely by the community.
 
 ### Corrupted
 

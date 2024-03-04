@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 91758
+revid: 91832
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Cut Content]
@@ -49,12 +49,16 @@ Gale Lunge
 
 Jolt Grab
 
- | Teleports to the nearest target before sending out a shocking AoE.
+(Magnet Spark)
 
--   Uses the Magnet Spark variant of Jolt Grab
+ | Teleports to the nearest target before sending out a shocking AoE. | ◯ | ◯ | (★★☆) |
+| Jolt Grab | Dashes forward to grab an opponent before smashing them into the floor, sending out a shocking AoE.
 
- | ◯ | ◯ | (★★☆) |
+This variant uses Surge Path: Unstable Capacitor.
+
+ | ◯ | ◯ | (★☆☆) |
 | Rising Thunder | User performs an animation similar to Lightning Assault in the air before returning back to the ground. | ◯ | ◯ | (★★★) |
+| Ice Smash | User performs a wind-up before conjuring and slamming a spiked ice club into the ground ahead. | ◯ | ✗ | (★★☆) |
 | 
 
 Blinding Dawn\*
@@ -111,5 +115,7 @@ A Black Diver executes its opponent after knocking them:
 
 -   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on the **1/16/2023** due to their presence contradicting the established low number and high power level of actual Black Divers.
     -   They then went unused until the **5/15/2023** update, which brought faction ambushes, which reintroduced them as part of high level ambush.
--   They use the Magnet Spark variant of Jolts Grab.
+
 -   They are one of the few NPCs that use Oaths, with the said NPCs being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
+-   They use both variants of Jolt Grab, those being Magnet Spark and without Magnet Spark.
+-   Curiously, The Hundred Legions are hostile towards them. (Tested in a Faction Ambush in The Starswept Valley.)

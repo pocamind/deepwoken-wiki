@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 91792
+revid: 91801
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -102,7 +102,7 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 -   All of the Layer 1 loot pool, including deep gems, [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Crypt Blade](Crypt_Blade.md) and all [Relics](Relics.md) at all levels.
 -   Depths Chests (5 & 10)
 -   Brown Chests (15-50)
--   [Storms-eye](Stormseye.md) (15+)
+-   [Stormseye](Stormseye.md) (15+)
 -   [Authority Commander](Authority_Commander.md) (30+)
 -   [Ignition Deepdelver](Ignition_Deepdelver.md) (30+)
 -   Relic Chests (Wave 30 & 50)

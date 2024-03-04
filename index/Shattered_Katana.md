@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 91525
+revid: 91845
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]

@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 91796
+revid: 91833
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -39,7 +39,7 @@ If Skeleton Key is corrupted, you could summon up to five walls with a lesser du
 
 ### Resonance Point Usage
 
--   **Wall Amount:** How many walls you can spawn.
+-   **Wall Amount:** How many walls you can spawn. (not guaranteed 5 because you need the correct point usage)
 -   **Duration:** How fast it takes to spawn a wall.
 -   **Range (?):** How far a wall can push.
 

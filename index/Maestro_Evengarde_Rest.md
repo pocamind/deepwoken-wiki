@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91770
+revid: 91848
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -8,11 +8,13 @@ categories: [Bosses]
 
 # Maestro Evengarde Rest
 
+_This is his Boss state; for his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._
+
 “ …Your movements lack discipline. ”
 
 ― Maesto Evengarde Rest
 
-_This is his Boss state; for his appearance as a static NPC within the [Temple of the Blade](Temple_of_the_Blade.md), see [Evengarde Rest](Evengarde_Rest.md)._ Template:EnemyInfobox1.0
+Template:EnemyInfobox1.0
 
 ## Description
 
