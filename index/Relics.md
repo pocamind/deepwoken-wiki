@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 90955
+revid: 91920
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -161,9 +161,9 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
 
  | **The Queensblade** - A sword used by [The Ministry](The_Ministry.md) to assassinate the true King of Etrea; its exact effect is unknown, and it is only stated that "without it, the king would surely return." Likely some form of artifact keeping the King from returning to the Luminants. |
+| **(Missing Image)** | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](The_Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |
 
 ## Trivia
 
 -   All Relics are undroppable, meaning if you want a Relic, you must obtain it through chest loot.
--   All Relics are storeable in banks.
--   With the exception of both the Rain Spire and Void Spire, all other Relics are consumables and will disappear after one use.
+-   All Relics are storeable in banks, which means you can transfer them between slots. However, they do require a Vow of Safekeeping, which costs 1 knowledge to make.

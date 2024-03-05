@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 91895
+revid: 91912
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -19,7 +19,7 @@ categories: [NPCs]
 
 ## Description
 
-Destroyman III appears to be a miniature [Megalodaunt](Megalodaunt.md) that was added on the Deepwoken April Fools update of 2023. His only purpose is to occasionally say random things to the player. Originally, Destroyman III was obtainable by contracting Coral Fever by taking damage from a Megalodaunt's Coral Spear (100% infection rate), by their claw attack (moderate infection rate) or from being sneezed at by an infected player (low infection rate).
+Destroyman III appears to be a miniature/chibi [Megalodaunt](Megalodaunt.md) that was added on the Deepwoken April Fools update of 2023. His only purpose is to occasionally say random things to the player. Originally, Destroyman III was obtainable by contracting Coral Fever by taking damage from a Megalodaunt's Coral Spear (100% infection rate), by their claw attack (moderate infection rate) or from being sneezed at by an infected player (low infection rate).
 
 Symptoms of Coral Fever includes:
 
@@ -72,7 +72,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   If you don't feed me, I will die. Can you live with that guilt?
 -   If you thought the rumbling was bad, wait until you hear about taxes.
 -   If you were hoping you could uninstall me, I have bad news. Probably. Don't go looking.
--   I've been thinking of starting a band recently. Might call it \[Adjective\] \[Noun\]. What do you think?
+-   I've been thinking of starting a band recently. Might call it \[adjective\] \[noun\]. What do you think?
 -   Just wait until I'm freed from the coil of your monitor.
 -   Let's play Hide and Seek! I'll hide, and you seek professional medical assistance. This fever's getting nasty.
 -   MISSION: Determine if it's possible to prompt the sun to explode.
@@ -188,25 +188,26 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   The line "I've been thinking of starting a band recently. Might call it (Adjective) (Noun). What do you think?" has many possible responses with a list of verbs and nouns. Two-time, Generated, Lore, and Wheat are some possible verbs, while Tony, Tornado, and Error are some possible nouns.
 -   Despite being a physical virus, he refers to being coded.
 -   The tooltip "TIP: Birds aren't real." is a reference to the satirical conspiracy theory of the same name, "[Birds Aren't Real](https://en.wikipedia.org/wiki/Birds_Aren%27t_Real)".
--   The tooltip "Every copy of Deepwoken is personalized." is Destroyman III riffing on the "Every copy of Super Mario 64 is personalized" craze that somehow landed itself on a Deepwoken iceberg, which was covered by Agamatsu.
--   Destroyman III plays Super Mario Brothers apparently.
+-   The tooltip "Every copy of Deepwoken is personalized." is Destroyman III riffing on the "[Every copy of Super Mario 64 is personalized](https://knowyourmeme.com/memes/super-mario-64-conspiracy-theories)" craze/conspiracy that somehow landed itself on a Deepwoken iceberg, which was covered by Agamatsu.
+-   Destroyman III plays games and refrences things from the Super Mario Brothers franchise. Nintendo is yet to find out about this. Please don't tell them.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
--   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion or will be unable to pay his taxes and is currently on the run from the Megalodaunt IRS.
+-   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion and/or is/will be be unable to pay his taxes and is currently on the run from the IRS (Internal Revenue Sharkos).
 -   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to Outer Wilds.
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
 -   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([\[1\]](https://youtu.be/nVm0QQ-tR2w))
 -   The sound played when Destroyman III first appears comes straight from _No More Heroes_.
 -   The tooltip: "Moe..." is a reference to [Travis Touchdown saying the same line in his morning routine](https://www.youtube.com/watch?v=TQ3lh97fDVY) in _No More Heroes_.
--   We LOVE Destroyman III.
+-   We love Destroyman III. You love Destroyman III.
 -   The "HINT: Getting mugged in Erisia? Just say 'no'! Legally, bandits can't rob you if you refuse." Is a reference to an obscure meme “Getting mugged? Just say no, criminals can't legally steal from you without your consent.”
--   The tooltip "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" is a reference to the influx of Youtubers having sponsored ad segments following this template in their videos, with some of the most well-known being NordVPN, Raid: Shadow Legends and HelloFresh (probably.)
--   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official. (The apparent puzzle seems to be a reference to the library puzzle in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).)
+-   The tooltip "AD BREAK: I am brought to you by \[WEBZONE\] ! Buy \[PRODUCT\] now using code 'DESTROYMAN45' to get 45% off your next purchase of \[ITEM\] !" is a reference to the influx of Youtubers having sponsored ad segments following this template in their videos, with some of the most well-known being NordVPN, Raid: Shadow Legends, HelloFresh, Skillshare, Brilliant, and many more.
+-   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official. (The apparent puzzle seems to be a reference to the library puzzle in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) and the puzzle in [The Birdcage](The_Birdcage.md))
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
 -   This page has the most trivia of any page on the wiki currently.
+-   Destroyman III has the most voicelines of any entity in Deepwoken except the player, who doesn't matter in his grand plan.
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III). He is everywhere.
 -   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
-    -   The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.
+    -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
 -   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." may be a reference to the song _Break Stuff_ by Limp Bizkit.

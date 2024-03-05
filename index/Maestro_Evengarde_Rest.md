@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 91848
+revid: 91915
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -78,7 +78,7 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| **Air Pressure** | Getting hit by any of his Gale moves while you're low will cause you to die instantly. |
+| **Air Pressure** | If any of Maestro's Gale moves bring you down to 0% HP, you die instantly. |
 | **Execute** | Pins down opponent before slicing their throat with blade. |
 
 ## Talents

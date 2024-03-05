@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 90172
+revid: 91923
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,9 +22,9 @@ categories: [Mechanics]
 
 Mute (also known as “Animal King”) has the ability to make most monsters not attack you, meaning they won't attack unless provoked. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to Town Guards when aggroed; they will unaggro the player if they do not deal damage to the monster for 15 seconds. Most humanoid enemies will still aggro to the player on sight.
 
-Wiping below power 6 (?) is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
+Wiping below power 8 (?) is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
 
-Mute is disabled when you ring the [Hell Bell](Hell_Mode.md) or if you're in a Dungeon (I.E. [The Eternal Gale](Second_Layer.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)).
+~Mute is disabled when you ring the [Hell Bell](Hell_Mode.md)~ **(Mute does work when you ring the [Hell Bell](Hell_Mode.md) -tested-)** or if you're in a Dungeon (I.E. [The Eternal Gale](Second_Layer.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)).
 
 The only monsters that are not affected are [Desert Knights](Stone_Knight.md#desert-knight), [Blizzard Knights](Stone_Knight.md), [Rock Golems](Rock_Golem.md), [Prime Golems](Rock_Golem.md#golem-prime), [Rogue Constructs](Hive_Construct.md#rogue-construct), [Enforcers](Enforcer.md), [Angels](Hollow_Angel.md), and Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt).
 

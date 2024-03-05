@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 90973
+revid: 91928
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -25,24 +25,26 @@ Obtainment
 
 1.  Entropy Catalyst Method:
     1.  Get 4 different players with Oaths.
-    2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md)
-    3.  Knock all 4 players.
-    4.  Put them in the slot, which will sacrifice them. Since you are in a voidzone, they will be sent to the depths.
-    5.  Interact with the white orb that appears in the middle.
-2.  [Pristine Lotus](Pristine_Lotus.md) Method.
+    2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md).
+    3.  Place them in the craters. This will instantly sacrifice them. Since the Entropy Catalyst is a voidzone, they will be sent to the depths.
+    4.  Interact with the white orb that appears in the middle.
+2.  [Pristine Lotus](Pristine_Lotus.md) Method:
     1.  Collect 4 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
-    2.  Grip 4 players that have an oath (You need to do some damage to the person. Can be the same player over and over again, tested.)
+    2.  Grip 4 players that have an oath.
     3.  Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
-    4.  Return 4 [Scarlet Lotuses](Pristine_Lotus.md) to [The Entropy Catalyst](The_Entropy_Catalyst.md)
+    4.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 4 [Scarlet Lotuses.](Pristine_Lotus.md)
     5.  Interact with the white orb that appears in the middle.
 
 ## **Progression**
 
-The only way to obtain each ability is to grip a player with an Oath, this however does not need to be done with The Entropy Catalyst, you get the Entropy Link on the first grip, Then Symbiotic Link second, Symbiotic Sustain on the Third And finally Parasitic Leech on the fourth grip.
+The only way to obtain each ability is to grip a player with an Oath. However, this does not need to be done at The Entropy Catalyst. Entropy Link is aquired on the first grip, then in order, Symbiotic Link, Symbiotic Sustain, and Parasitic Leech. This totals to 8 total player grips: 4 to take the Oath, and 4 more to fully progress it.
 
 ## Abilities
 
 -   **Entropy Link**
+    
+    > _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
+    
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
     -   You can carry objects and people during teleportation. If you are carrying a player, they can die after teleporting.
     -   Having no stardust, or if you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
@@ -71,10 +73,11 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for a
 
 ## Trivia
 
--   In order to use Entropy Link, you must gather Stardust (You can only hold 10 at a time).
--   Highly recommended for more support-based builds (e.g., Flame Vow of Mastery).
+-   In order to use Entropy Link, you must gather [Stardust](Stardust.md), which is found at Startrees.
+    -   There is a maximum of 10 to be held at once.
+-   Recommended for support-based builds (e.g., Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
 -   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit but deal heavily reduced damage.
 -   You can grip the same person multiple times if you use the [Scarlet Lotus](Pristine_Lotus.md) method.
--   If you die with [Pristine Lotuses](Pristine_Lotus.md), you lose all of them. Unlike [Scarlet Lotuses](Pristine_Lotus.md), which are soulbound.
+-   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned. If a friend has 4 [Scarlet Lotuses](Pristine_Lotus.md), he can place them into [The Entropy Catalyst](The_Entropy_Catalyst.md) and you can claim the white orb in the middle, making you a Linkstrider.
