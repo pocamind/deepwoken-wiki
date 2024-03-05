@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 90790
+revid: 91868
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -116,8 +116,8 @@ Strength mantras are mainly based on combat and slightly geared towards mobility
   <td>
   <ul>
     <li><b><u>Requirements:</u></b> <i><b>80 Strength,</b></i> <i>Combat Mantra</i></li>
-    <li>Does heavy damage upon hit, and has a range of 20 (studs?, devs didn't specify)</li>
-    <li>can be parried, blocked (first hit only, other will land), and dodged.</li>
+    <li>Does heavy damage upon hit, and has a range of 20 studs.</li>
+    <li>Can be parried, blocked and dodged.</li>
   </ul></td>
 </tr>
 </tbody>
@@ -148,7 +148,7 @@ Fortitude mantras are mainly based on support during battle, enhancing defense a
  | _Buff those around you with extra defense and damage._ | 70 Ether | 
 
 -   **Requirements:** _**50 Fortitude**_, _Support Mantra_
-    -   Decreases damage received by 5% for allies and yourself for the duration of the effect.
+    -   Decreases damage received by 10% for allies and yourself for the duration of the effect.
         -   Despite not being mentioned in the description, the effect also increases damage dealt by those affected by 3%.
     -   Maximum duration is 60 seconds.
     -   Cooldown duration scales off the duration of the Mantra.
@@ -514,7 +514,6 @@ File:Disguising .gif
     -   A heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback.
     -   Dazes opponents on hit.
     -   Ragdolls and lightly flings opponents away
-    -   Deals pitiful damage.
 
  |
 | 

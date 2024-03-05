@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 91814
+revid: 91856
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -32,13 +32,9 @@ This Outfit's Schematic can be found in:
 
 ## Trivia
 
--   This Outfit is a reference to the dress worn by [Dark Sun Gwyndolin](https://darksouls.fandom.com/wiki/Dark_Sun_Gwyndolin) from the first _[Dark Souls](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_ video game created by [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware).
-
-[\[1\]](#cite-note-1) [\[2\]](#cite-note-2)
-
+-   This Outfit is a reference to the dress worn by [Dark Sun Gwyndolin](https://darksouls.fandom.com/wiki/Dark_Sun_Gwyndolin) from the first _[Dark Souls](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_ video game created by [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware).[\[1\]](#cite-note-1)
 -   This Outfit is the first master outfit to not require Power Level 15.
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework) - Shirt
-2.  [↑](#cite-ref-2) [https://www.roblox.com/catalog/5723308891/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723308891/Dark-Sun-Slight-Rework) - Pants
+1.  [↑](#cite-ref-1) [https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework](https://www.roblox.com/catalog/5723355076/Dark-Sun-Slight-Rework)

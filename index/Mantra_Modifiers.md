@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 91839
+revid: 91850
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -810,6 +810,21 @@ File:Firing line blast spark 2.gif
 -   This modifier replaces the 5 rifles conjured behind the user, instead summoning two cannons that fire 1 cannonball each at the cursor.
 
  |
+| 
+
+Electro Carve
+
+(★)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the initial orb to be replaced with a large multi-hit sphere centered around the player.
+
+ |  |
 
 **Magnet Spark:**
 
