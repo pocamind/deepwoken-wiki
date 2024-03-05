@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 91647
+revid: 91938
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -68,7 +68,7 @@ Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
 -   [Oathless](Oath%253A_Oathless.md): Cerulean - "The way opens more to you, my disciple. Safe travels."
     -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? **I'd like to become Oathless once more**
-        -   You'll regain Oathless
+        -   You'll regain [Oathless](Oath%253A_Oathless.md)
 -   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
