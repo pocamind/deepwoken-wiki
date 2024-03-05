@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 91558
+revid: 91960
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, World, Items]
@@ -18,7 +18,7 @@ Materials are items in
 
 ### Obtainment
 
-Wood can be obtained chopping down trees. You can obtain more wood from bigger trees. It can also be crafted from 3 sticks. Also, it can be bought at the Blacksmith Store in Etris for 2 notes.
+Wood can be obtained chopping down trees. You can obtain more wood from bigger trees. It can also be crafted from 3 sticks. Also, it can be bought at the Blacksmith Store in Etris, Antiquarian in the Voidheart, Balconies area in Greathive Aratel for 2 notes.
 
 ### Uses
 
@@ -88,7 +88,9 @@ Required in many schematics.
 
 ### Obtainment
 
-Mining at [Upper Erisia](Upper_Erisia.md).
+Mining at [Upper Erisia](Upper_Erisia.md) and [Saramaed Summit](Saramaed_Summit.md).
+
+Can be dropped by Mineskippers and Mechalodaunts.
 
 ### Uses
 
@@ -99,6 +101,8 @@ Required in some schematics.
 ### Obtainment
 
 Mining at Upper Erisia.
+
+Can be dropped by Mineskippers and Mechalodaunts.
 
 ### Uses
 

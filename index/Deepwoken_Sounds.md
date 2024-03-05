@@ -1,9 +1,9 @@
 ---
 title: Deepwoken Sounds
-revid: 91043
+revid: 91957
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Pages with broken file links, Deepwoken]
+categories: [Pages with reference errors, Upcoming content, Pages with broken file links, Deepwoken]
 notices:
   - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
@@ -54,9 +54,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 20 | In Starstruck Sands | 2:38 | [Starswept Valley](The_Starswept_Valley.md) | File:Starswept Valley - Deepwoken OST.mp3 |
 | 21 | Pyres of Glass | 2:32 | [Starswept Valley](The_Starswept_Valley.md) (Combat) | File:Starswept Valley (Combat) - Deepwoken OST.mp3 |
 | 22 | Of Chitin, Kith And Kin | 2:25 | [Greathive Aratel](Greathive_Aratel.md) | File:Greathive Aratel - Deepwoken OST.mp3 |
-| 23 | A Symphony Of Strife | 2:21 | [Greathive Aratel](Greathive_Aratel.md)
-(Combat)
-
+| 23 | A Symphony Of Strife | 2:21 | [Greathive Aratel](Greathive_Aratel.md) (Combat)
 [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>)
 
  | File:Greathive Aratel (Combat) - Deepwoken OST.mp3 |
@@ -69,7 +67,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 30 | Lacrimosa Dies Illa | 2:08 | [The Depths](The_Depths.md) (Combat) | File:DepthsCombatLoop.ogg |
 | 31 | Ascension (Interlude) | 0:16 | [The Depths](The_Depths.md) (Trial Completion) | File:Audio-ascension22.ogg |
 | 32 | The End. | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
-| 33 | On The Shoulder Of Giants | 5:24 | Unknown | File:On The Shoulders Of Giants.mp3 |
+| 33 | On The Shoulder Of Giants | 5:24 | N/A (Celebrating Deepwoken's launch) | File:On The Shoulders Of Giants.mp3 |
 | 34 | A Memory of Tides | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) | File:A Memory Of Tides.mp3 |
 | 35 | Masters of the House | 2:06 | N/A (Cut track originally intended for use in [Corvus Manor](Cut_Content.md)) | File:Masters of the House.mp3 |
 | 36 | The Gideshu March | 1:57 | N/A (a short edit of the track can be heard at the end of the [tutorial](Tutorial.md)) | File:The Gideshu March.mp3 |
@@ -90,32 +88,30 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
 | 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
 | 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) Gamemode | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
-| 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md)
-(Combat)
-
+| 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md) (Combat)
 [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat)
 
  | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
-| 17 | The Windsinger's Dance | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) | 
+| 14 | [A Memory Of Tides (Band Version)](https://soundcloud.com/naktigonis/a-memory-of-tides-band-version) | 2:24 | [Instruments](Instruments.md) | File:A Memory Of Tides (Band Version).mp3 |
+| 15 | [The Song Of Fathoms (Band Version)](https://soundcloud.com/naktigonis/the-song-of-fathoms-band-version) | 2:50 | [Instruments](Instruments.md) | File:The Song Of Fathoms (Band Version).mp3 |
+| 16 | [The Gideshu March (Band Version)](https://soundcloud.com/naktigonis/naktigonis-the-gideshu-march-band-version) | 2:43 | [Instruments](Instruments.md) | File:The Gideshu March (Band Version).mp3 |
+| 17 | [Carol of Resonances](https://soundcloud.com/naktigonis/carol-of-resonances) | 2:43 | [Instruments](Instruments.md) | File:Carol of Resonances.mp3 |
+| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) | File:TheWindsinger'sDance.mp3 |
+| TBA | [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) | 4:32 | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | File:A God, Manufactured.mp3 |
+| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
+| TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
+| TBA | The Hammer's Call[\[2\]](#cite-note-naktimessage-2) | TBA | TBA | TBA |
+| TBA | ELEISON[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
+| TBA | _Untitled New Kyrsa Combat Theme_[\[2\]](#cite-note-naktimessage-2) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | The Prince Peripatetic[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
 
-File:TheWindsinger'sDance.mp3
+[The Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
 
- |
-| TBA | A God, Manufactured[\[1\]](#cite-note-naktimessage-1)
-
-[\[2\]](#cite-note-naktimessage2-2)
-
- | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
-| TBA | Synthetic Deicide[\[2\]](#cite-note-naktimessage2-2) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
-| TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
-| TBA | Class Struggle[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
-| TBA | The Hammer's Call[\[1\]](#cite-note-naktimessage-1) | TBA | TBA | TBA |
-| TBA | ELEISON[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Scion of Ethiron](Scion_of_Ethiron.md) | TBA |
-| TBA | _Untitled New Kyrsa Combat Theme_[\[1\]](#cite-note-naktimessage-1) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
-| TBA | The Prince Peripatetic[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [The Sunken Railways](The_Sunken_Railways.md)[The Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md) | TBA |
-| TBA | 11:59[\[2\]](#cite-note-naktimessage2-2) | TBA | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | TBA |
-| TBA | _Untitled Conquest Lobby Theme[\[2\]](#cite-note-naktimessage2-2)_ | TBA | TBA | TBA |
-| TBA | Wardens of the Valiant Dead[\[2\]](#cite-note-naktimessage2-2) | TBA | [Fort Merit](Fort_Merit.md) | TBA |
+ | TBA |
+| TBA | 11:59[\[1\]](#cite-note-naktimessage2-1) | TBA | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | _Untitled Conquest Lobby Theme[\[1\]](#cite-note-naktimessage2-1)_ | TBA | TBA | TBA |
+| TBA | Wardens of the Valiant Dead[\[1\]](#cite-note-naktimessage2-1) | TBA | [Fort Merit](Fort_Merit.md) | TBA |
 | TBA | Our Fortress (Of Smoke And Steel) | TBA | TBA | TBA |
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
 
@@ -753,6 +749,6 @@ A large collection of sounds found in **Deepwoken**.
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4) [1.5](#cite-ref-naktimessage-1-5) [https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3) [2.4](#cite-ref-naktimessage2-2-4) [2.5](#cite-ref-naktimessage2-2-5) [2.6](#cite-ref-naktimessage2-2-6) [2.7](#cite-ref-naktimessage2-2-7) [2.8](#cite-ref-naktimessage2-2-8) [https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
+1.  ↑ [1.0](#cite-ref-naktimessage2-1-0) [1.1](#cite-ref-naktimessage2-1-1) [1.2](#cite-ref-naktimessage2-1-2) [1.3](#cite-ref-naktimessage2-1-3) [1.4](#cite-ref-naktimessage2-1-4) [1.5](#cite-ref-naktimessage2-1-5) [1.6](#cite-ref-naktimessage2-1-6) [1.7](#cite-ref-naktimessage2-1-7) Cite error: Invalid `<ref>` tag; no text was provided for refs named `naktimessage2`
+2.  ↑ [2.0](#cite-ref-naktimessage-2-0) [2.1](#cite-ref-naktimessage-2-1) [2.2](#cite-ref-naktimessage-2-2) [2.3](#cite-ref-naktimessage-2-3) [2.4](#cite-ref-naktimessage-2-4) Cite error: Invalid `<ref>` tag; no text was provided for refs named `naktimessage`
 3.  [↑](#cite-ref-3) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".

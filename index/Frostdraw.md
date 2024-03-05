@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 91723
+revid: 91969
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -169,6 +169,7 @@ _A barrage of freezing blades._
 -   Inflicts 1s Chill per hit (Can't be increased).
 -   1st and 2nd hit are parryable.
 -   Cancels if parried.
+-   Can be canceled halfway like rapid punches.
 
  |
 |  | 

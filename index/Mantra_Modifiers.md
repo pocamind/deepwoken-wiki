@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 91850
+revid: 91951
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -426,6 +426,7 @@ Magnet Spark
 
 -   Jolt Grab
 -   Lightning Blade
+-   Tranquil Circle
 
  | 
 
@@ -446,6 +447,7 @@ Spark
 
 -   Fire Gun
 -   Ice Eruption
+-   Ice Carve
 
  | 
 
@@ -476,6 +478,7 @@ Spark
 -   Shoulder Bash
 -   Needle Barrage
 -   Firing line
+-   Fire Gun
 
  | 
 
@@ -543,6 +546,7 @@ Spark
 -   Shade Bringer
 -   Dash
 -   Metal Kick
+-   Ice Carve
 
  | 
 
@@ -630,7 +634,24 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Fire Gun
+
+(☆☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the projectiles from the "Fire Gun" mantra to occasionally explode on hit.
+
+ |
+| 
+
 Frost Grab
+
+(☆☆☆)
 
  | 
 
@@ -642,12 +663,14 @@ File:Frost Grab with Blast Spark.gif
 
  | 
 
--   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" mantra.
+-   This modifier causes the "Frost Grab" mantra leaves a trail of ice over the distance traveled.
 
  |
 | 
 
 Frozen Servants
+
+(☆☆☆)
 
  | 
 
@@ -664,7 +687,7 @@ File:Frozen servants blast 2.gif
 
 Ice Forge
 
-(★)
+(★☆☆)
 
  | 
 
@@ -679,9 +702,24 @@ File:Ice Forge with Blast Spark.gif
  |
 | 
 
+Electro Carve
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes "Electro Carve" mantra to emit an AoE blast around the user.
+
+ |
+| 
+
 Lightning Clones
 
-(★)
+(★☆☆)
 
  | 
 
@@ -698,7 +736,7 @@ File:Lightning Clones with Blast Spark.gif
 
 Lightning Stream
 
-(★)
+(★☆☆)
 
  | 
 
@@ -716,7 +754,7 @@ File:Lightning Stream with Blast Spark.gif
 
 Wind Gun
 
-(★★)
+(★★☆)
 
  | 
 
@@ -727,12 +765,14 @@ File:Wind Gun with Blast Spark.gif
  | 
 
 -   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of short-ranged wind bullets.
-    -   Do note that this Spark will not override the effects of a Multiplying Spark as of 2/12/2023.
+    -   Will not override the effects of a **Multiplying Spark**.
 
  |
 | 
 
 Shadow Gun
+
+(☆☆☆)
 
  | 
 
@@ -748,6 +788,8 @@ File:Shadow Gun with Blast Spark.gif
 | 
 
 Rising Shadow
+
+(☆☆☆)
 
  | 
 
@@ -766,7 +808,7 @@ File:Rising Shdaow with Blast Spark.gif
 
 Shade Devour
 
-(★)
+(★☆☆)
 
  | 
 
@@ -781,6 +823,8 @@ Shade Devour
 | 
 
 Needle Barrage
+
+(☆☆☆)
 
  | 
 
@@ -797,7 +841,7 @@ File:Needle barrage blast spark 2.gif
 
 Firing Line
 
-(★★)
+(★★☆)
 
  | 
 
@@ -810,21 +854,6 @@ File:Firing line blast spark 2.gif
 -   This modifier replaces the 5 rifles conjured behind the user, instead summoning two cannons that fire 1 cannonball each at the cursor.
 
  |
-| 
-
-Electro Carve
-
-(★)
-
- | 
-
- | 
-
- | 
-
--   This modifier causes the initial orb to be replaced with a large multi-hit sphere centered around the player.
-
- |  |
 
 **Magnet Spark:**
 
@@ -834,6 +863,8 @@ Electro Carve
 | --- | --- | --- | --- |
 | 
 Jolt Grab
+
+(☆☆☆)
 
  | 
 
@@ -851,6 +882,8 @@ File:Jolt Grab with Magnet Spark.gif
 
 Lightning Blade
 
+(☆☆☆)
+
  | 
 
  | 
@@ -864,9 +897,28 @@ File:Lightning Blade with Magnet Spark.gif
  |
 | 
 
+Electro Carve
+
+(★☆☆)
+
+ | 
+
+File:Frostgrab base range.gif
+
+ | 
+
+File:Frost Grab with Blast Spark.gif
+
+ | 
+
+-   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" mantra.
+
+ |
+| 
+
 Lightning Stream
 
-(★)
+(★☆☆)
 
  | 
 
@@ -900,9 +952,39 @@ Spark Swap
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
+Lightning Clones
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the "Lightning Clones" mantra to conjure an additional clone, making it 2 clones conjured for everytime the mantra is casted.
+
+ |
+| 
+
+Grand Javelin
+
+(★★☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes the projectile from the "Grand Javelin" mantra to split into 3 smaller projectiles that fire off into different directions.
+
+ |
+| 
+
 Wind Gun
 
-(★★)
+(★★☆)
 
  | 
 
@@ -913,7 +995,7 @@ File:Wind Gun with Multiplying Spark.gif
  | 
 
 -   This modifier turns the "Wind Gun" mantra into a shotgun, firing a round of 4 mid-range bullets instead of 1 long-range bullet.
-    -   Do note that this Spark does not override the effects of a Blast Spark as of 2/12/2023.
+    -   Will not override the effects of a **Blast Spark**.
 
  |
 | 
@@ -936,7 +1018,7 @@ Shade Bringer
 
 Shade Devour
 
-(★)
+(★☆☆)
 
  | 
 
@@ -976,6 +1058,8 @@ File:Eclipse kick multiplying.gif
 | 
 Fire Blade
 
+(☆☆☆)
+
  | 
 
 File:Starkindred FireBlade.gif
@@ -991,6 +1075,8 @@ File:Starkindred FireBlade.gif
 
 Burning Servants
 
+(☆☆☆)
+
  | 
 
  | 
@@ -1004,7 +1090,7 @@ Burning Servants
 
 Flame Leap
 
-(★★)
+(★★☆)
 
  | 
 
@@ -1023,6 +1109,8 @@ File:Flame Leap with Reversal Spark.gif
 
 Frozen Servants
 
+(☆☆☆)
+
  | 
 
  | 
@@ -1038,7 +1126,7 @@ File:Frozen servants reversal spark 3.gif
 
 Lightning Impact
 
-(★★)
+(★★☆)
 
  | 
 
@@ -1055,6 +1143,8 @@ File:Lightning Impact with Reversal Spark.gif
 
 Air Force
 
+(☆☆☆)
+
  | 
 
  | 
@@ -1068,7 +1158,7 @@ Air Force
 
 Tornado
 
-(★)
+(★☆☆)
 
  | 
 
@@ -1086,6 +1176,8 @@ File:Tornado with Reversal Spark.gif
 
 Revenge
 
+(☆☆☆)
+
  | 
 
  | 
@@ -1098,6 +1190,8 @@ Revenge
 | 
 
 Chain Pull
+
+(☆☆☆)
 
  | 
 
@@ -1118,6 +1212,8 @@ Chain Pull
 | 
 Fire Gun
 
+(☆☆☆)
+
  | 
 
  | 
@@ -1126,14 +1222,14 @@ File:Fire Gun with Round Spark.gif
 
  | 
 
--   This modifier causes the bullets of the "Fire Gun" mantra to split into two.
+-   This modifier causes the projectiles from the "Fire Gun" mantra to split into two.
 
  |
 | 
 
 Ice Eruption
 
-(★)
+(★☆☆)
 
  | 
 
@@ -1151,7 +1247,7 @@ File:Ice Eruption with Round Spark.gif
 
 Ice Carve
 
-(★★)
+(★★☆)
 
  | 
 
@@ -1188,7 +1284,7 @@ Flame Ballista
 
 Ice Carve
 
-(★★)
+(★★☆)
 
  | 
 
@@ -1206,7 +1302,7 @@ File:Ice Carve with Spring Spark.gif
 
 Ice Lasers
 
-(★★)
+(★★☆)
 
  | 
 
@@ -1223,7 +1319,7 @@ File:Ice Lasers with Spring Spark.gif
 
 Crystal Knee
 
-(★★)
+(★★☆)
 
  | 
 
@@ -1256,6 +1352,8 @@ Shade Bringer
 
 Metal Kick
 
+(☆☆☆)
+
  | 
 
  | 
@@ -1268,6 +1366,8 @@ Metal Kick
 | 
 
 Dash
+
+(☆☆☆)
 
  | 
 
@@ -1288,7 +1388,9 @@ File:Dash with Spring Spark.gif
 | Mantra | Original | Modified | Effect |
 | --- | --- | --- | --- |
 | 
-Fire Blade (Incompatible as of January 27th, 2023, tested)
+Fire Blade
+
+(☆☆☆)
 
  | 
 
@@ -1308,7 +1410,7 @@ File:Fire Blade with Tornado Spark.gif
 
 Champion's Whirlthrow
 
-(★★)
+(★★☆)
 
  | 
 
@@ -1323,7 +1425,7 @@ Champion's Whirlthrow
 
 Storm Blades
 
-(★)
+(★☆☆)
 
  | 
 
@@ -1340,6 +1442,8 @@ File:Storm Blades with Tornado Spark.gif
 | 
 
 Dark Blade
+
+(☆☆☆)
 
  | 
 

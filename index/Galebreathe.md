@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 91382
+revid: 91963
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -200,7 +200,7 @@ Wind Forge
 
 -   Projectiles are homing.
 -   Medium-far range.
--   Forces you to stand still when casted
+-   Forces you to stand still when casted.
 -   Can be modified with _Perfect Lenses_ and _Crystal Lenses_ to increase the range.
 
  |
@@ -213,7 +213,12 @@ File:ZW4g IWWJys41-Q4KfelLg-ezgif.com-crop.gif
 Twister Kicks  
 (★☆☆)
 
- | "Go forth with spinning kicks infused with the wind" | 40 Ether | Dash forwards kicking with a rush of winds dealing damage. |
+ | "Go forth with spinning kicks infused with the wind" | 40 Ether | Dash forwards kicking with a rush of winds dealing damage.
+
+-   Deals moderate damage.
+-   Can break objects.
+
+ |
 |  | 
 
 Champion's Whirlthrow  
@@ -231,7 +236,7 @@ _Grab your target and toss them with the power of gale._
 -   Procs "Breathing Impact" if thrown at a wall.
 -   Applies knockback.
     -   Requires more testing.
--   The "Skull Crusher" talent is now innate with this mantra.
+-   The "**Skull Crusher**" talent is now innate with this mantra.
 
  |
 |  | 
