@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 91329
+revid: 91996
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -21,12 +21,12 @@ notices:
 
 ## Obtainment
 
-1.  Make at least one potion for [Ciea](Ciea.md) (Three potions and harvester aren't required). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
-2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound.
+1.  Make at least one potion for [Ciea](Ciea.md). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
+2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
 3.  In [Ferryman's Library](<Boatman's_Watch.md>), Adrofalis will ask you to make a residue. Bring him the following ingredients:
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to Derelict Highchurch and use a canteen in the blood pool of the crucified Celestial.
     -   [Stardust](Stardust.md) from a Star Tree. It must be a Stardust from [Starfield Veldt](Starfield_Veldt.md) or [Starfield Grove](Starfield_Grove.md). Consider getting a second one, which is needed to progress the Oath.
-    -   A [Primordial Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md).
+    -   A [Primordial Lotus](Ingredients.md#lotuses), which can be found in most [Voidzones](Voidzones.md). [Saramaed Summit](Saramaed_Summit.md) is fairly close to the Starfield Veldt, so it is a good option to grab a few.
 4.  Gather those ingredients and return to Adrofalis, who will grant you the Oath.
 
 -   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.
@@ -44,7 +44,8 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 -   Upon clicking the Distillery talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
 -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
 -   Autodrinking potions will place the other autodrink slots on cooldown (if you have any), this doesn't apply to autothrow.
--   When replacing the potions in the Distillery, you will not receive the potion you placed prior and have to remake it again.
+-   When replacing a potion in the Distillery, the one that was previously there is voided and will have to be remade.
+-   Potions made with less than 100 Intelligence that are slotted into the Distillery will scale up in potency as Intelligence increases.
 
 ### Biotic Salts
 

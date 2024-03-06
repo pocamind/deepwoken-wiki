@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 91986
+revid: 92005
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,7 +24,7 @@ categories: [Oaths]
 Obtainment
 
 1.  Entropy Catalyst Method:
-    1.  Get 4 different players with Oaths.
+    1.  Knock 4 different players with Oaths.
     2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md).
     3.  Place them in the craters. This will instantly sacrifice them. Since the Entropy Catalyst is a voidzone, they will be sent to the depths.
     4.  Interact with the white orb that appears in the middle.
@@ -46,7 +46,7 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
     > _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
     
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
-    -   You can carry objects and people during teleportation. If you are carrying a player, they can die after teleporting.
+    -   You can carry objects and people during teleportation. Be wary when holding a player as they can die in the process of teleportation.
     -   Having no stardust, or if you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
     -   Comet names and locations:
         -   _Etrean Luminant:_
@@ -71,15 +71,15 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
 
 ## Effects
 
-This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their irises a light cyan.
+This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their irises a light cyan. Furthermore, similar tothe Resurrection bell, it grants vision of the health of all allies.
 
 ## Trivia
 
 -   In order to use Entropy Link, you must gather [Stardust](Stardust.md), which is found at Startrees.
-    -   There is a maximum of 10 to be held at once.
--   Recommended for support-based builds (e.g., Flame Vow of Mastery).
--   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
--   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit but deal heavily reduced damage.
+    -   Maximum of 10 can be held at once.
+-   Recommended for support-based builds (e.g., Flame Vow of Mastery). Currently the only purely support build in the game.
+-   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. A Blessed Gem is recommended.
+-   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit, but it now deals heavily reduced damage.
 -   You can grip the same person multiple times if you use the [Scarlet Lotus](Pristine_Lotus.md) method.
 -   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
 -   Anyone can use the white orb once it is spawned. If a friend has 4 [Scarlet Lotuses](Pristine_Lotus.md), he can place them into [The Entropy Catalyst](The_Entropy_Catalyst.md) and you can claim the white orb in the middle, making you a Linkstrider.

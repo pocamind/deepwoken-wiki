@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 91595
+revid: 92003
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -96,7 +96,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I seek the qualities of Toxic Personality. **(Toxic Personality; Manipulator)**_
 -   _I seek the qualities of Leader. **(Leader; Callout)**_
 -   _I am for the people. **(Public Figure; Bodyguard Detail, Celebrity, Under the Radar)**_
--   _I get my way. **(Silvertongue) (Note; Cannot give Golden Tongue)**_
+-   _I get my way. **(Silvertongue; Snake Oil)**_
 -   _I steal from others. **(Thief)**_
 -   _I create my own vows. **(Vow of Mastery) (Note; Cannot give Command: Return, Command: Sacrifice)**_
 -   _I feel the pain of those around me. **(Empath; Give and Take)**_
@@ -170,8 +170,8 @@ _"No money, friend? How ever will I feed myself?_
 -   _I am a self-starter. **(Self-Shocker; Jumpstart, Raging Static)**_
 -   _I weave webs of lightning. **(Static Weaver)**_
 -   _My blade conducts the skies wrath. **(Thunderblade; Static Blade, Gathering electricity, Overcharge)**_
--   _My blade is unrelenting, a storm. **(Stormblade; Stormcaller Slash)**_
--   _I speak to lightning. **(Thundercaller)**_
+-   _My blade is unrelenting, a storm. **(Stormblade; Stormcaller Slash) \[REMOVED\]**_
+-   _I speak to lightning. **(Thundercaller; Discovery of Fire, Shocking Finish, Static Flash Clone, Static Withdraw, Stratoshock)**_
 -   _I electrocute my foes from afar. **(Thunder Caster)**_
 -   _My fists are imbued with lighting. **(Thunder Brawler)**_
 -   _I seek to embrace the instability of lightning as a source of power. **(Unstable Capacitor)**_

@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 86115
+revid: 91998
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers]
@@ -12,7 +12,7 @@ categories: [Weapons, Daggers]
 |---|---|
 | type | Light Dagger |
 | requirements | 0 LHT |
-| damage | 10 |
+| damage | +1 410 243 7873 |
 | scaling | 3 LHT |
 | range | 6.5 |
 | swing speed | 0.98x |

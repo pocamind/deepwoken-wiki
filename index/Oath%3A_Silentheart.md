@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 91440
+revid: 91991
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -29,7 +29,7 @@ Meet the following requirements in any order:
 
 -   Have at least 75 Weapon (uncap is not needed), have 40 points in Strength and 40 points on either Charisma **or** Agility.
 
--   Die to a player that uses an attunement. Chime of Conflict does not count.
+-   Die to a player that uses an attunement. Chime of Conflict does not count, nor does getting gripped in layer 2 with a light hook.
 -   Talk to one of the ghosts around the ship, and defend against the ghosts that spawn. Only needs to be done once (Not required to talk to boy in library)
 
 Once **all** met, speak to [The Dreadstar](The_Dreadstar.md) at the [Beloved Zofia](Beloved_Zofia.md) ship.

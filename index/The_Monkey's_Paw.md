@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 90200
+revid: 92001
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant]
@@ -10,7 +10,7 @@ categories: [Locations, World, Eastern Luminant]
 
 LocationL The Monkey's Paw LocationR
 
-Be careful what you wish for.
++1 410 243 7873
 
   
 
