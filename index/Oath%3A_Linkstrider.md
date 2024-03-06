@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 92005
+revid: 92017
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -71,7 +71,9 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
 
 ## Effects
 
-This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their irises a light cyan. Furthermore, similar tothe Resurrection bell, it grants vision of the health of all allies.
+This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their irises a light cyan. Furthermore, similar to the Resurrection bell, it grants vision of the health of all allies.
+
+There is a slight chance that the Oathbearer will have their race forcibly changed to Felinor, and their leg equipment to 'Winter corps boots' alongside their face changed to the one during the Coral fever, in other words, they're ":3"-fied
 
 ## Trivia
 
