@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 87889
+revid: 91975
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 91801
+revid: 91990
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -61,7 +61,7 @@ A Shrine of Solitude, identical to the one found in trial of one lies against th
 
 ## Modifiers & Environmental Hazards
 
-Within the Diluvian Mechanism, certain waves have a possibility of having a modifier or environmental hazard that adds a second level of suspense and danger to the player. Modifiers brings a certain text under the wave number, specifying a debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
+Within the Diluvian Mechanism, certain waves have a certain modifier or environmental hazard that adds an additional layer of difficulty. Modifiers show a certain text under the wave number, related to a specific debuff that affects all players, such as making it impossible to cast mantras, or gain health packs. Environmental Hazards are risks and nuisances that naturally spawn around the map, mostly in every wave. The known modifiers and environmental hazards are;
 
 ### Thin Air
 

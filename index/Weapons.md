@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 91968
+revid: 91973
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2037,7 +2037,7 @@ Weapons that are exclusive for special people.
   <td>41.9</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Lorenzo%27s_Glaive"><font>Lorenzo's Glaive</font></a></td>
+  <td><a href="https://deepwoken.fandom.com/wiki/Lorenzo%27s_Glaive"><font>Trisha</font></a></td>
   <td>???</td>
   <td>10</td>
   <td>???</td>
