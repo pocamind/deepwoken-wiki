@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 91827
+revid: 92029
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -33,7 +33,6 @@ The [Attunement Trainer](Attunement_Trainers.md) can be found inside a tower on 
 
 After you give him these ores, he will give you an Alloyed Elixir. Drink the Elixir, and you will unlock Ironsing.
 
-  
 Along with all other elements, users can see their Mantras becoming stronger with practice:
 
 -   At Ironsing level 1, players will receive the _Ironsinger_ Talent. This allows players to use 0-star Ironsing mantras.

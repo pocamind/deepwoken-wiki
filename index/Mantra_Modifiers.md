@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 91951
+revid: 92040
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -903,15 +903,11 @@ Electro Carve
 
  | 
 
-File:Frostgrab base range.gif
+ | 
 
  | 
 
-File:Frost Grab with Blast Spark.gif
-
- | 
-
--   This modifier causes a trail of ice to appear over the distance you dashed with the "Frost Grab" mantra.
+-   This modifier causes Electro Carve to be thrown as a projectile if hit by the projectile the target will make 3 sound queues before discharging electric waves that deal AoE damage.
 
  |
 | 
@@ -1081,9 +1077,11 @@ Burning Servants
 
  | 
 
+File:Burning servants Reversal Spark gif.gif
+
  | 
 
--   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards.
+-   This modifier causes the servants from the "Burning Servants" mantra to face outwards instead of inwards. This modifiers also grants your burning servants to deal ragdoll to enemies.
 
  |
 | 
@@ -1274,6 +1272,8 @@ Flame Ballista
  | 
 
  | 
+
+File:FlameBallistaSpringSpark4.gif
 
  | 
 

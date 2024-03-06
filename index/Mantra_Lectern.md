@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 91785
+revid: 92025
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Mechanics, Mantras]
@@ -19,7 +19,7 @@ Mantra Tables resemble typical tables with segments of what looks like sand insi
 
 ## Usage
 
-Mantra Tables can be used to modify most [Mantras](Mantras.md) in _Deep awoken_.
+Mantra Tables can be used to modify most [Mantras](Mantras.md) in _Deepwoken_.
 
 To use the Mantra Table, you must first recall a Mantra while resting. Next you must add the Mantra to the table along with modifiers. To see all combinations of effects you can improve your Mantra with, see [Mantra Modifiers](Mantra_Modifiers.md).
 

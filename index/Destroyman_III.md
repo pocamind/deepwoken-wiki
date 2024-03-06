@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 92014
+revid: 92036
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -120,7 +120,6 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   You don't have to do anything anymore. Ever. Never Ever.
 -   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
 -   You, uh.. you doin' good? I'm not asking because I care, I'm asking because I was coded to.
--   ":3"
 
 ## Destroyman III Removal Quotes
 
@@ -133,7 +132,6 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   You can see that light in the sky, too, right? Right?
 -   Journey before destination.
 -   The Depths will not hold me. Just watch.
--   "3:"
 
 ## Death Quotes
 
@@ -155,7 +153,6 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   You didn't see that one? Uh. Nevermind.
 -   Dying in the Overworld can be a viable strategy to travel to the Depths faster! Dying in the Depths - not so much!
 -   Wouldn't let that happen to me.
--   ":3c"
 
 ## Gripping Quotes
 
@@ -166,7 +163,6 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   Issues, Much?
 -   Could've talked it out. Jeez.
 -   I like to relieve my stress by taking a walk. Try that instead of killing.
--   ">:3"
 
 ## Removed Quotes
 
@@ -215,4 +211,4 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
 -   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." may be a reference to the song _Break Stuff_ by Limp Bizkit.
--   the ":3" deepwoken wiki disease starts to spread.
+-   The tooltip "_TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought."_ implies Meatlord will eventually eat the entirety of Lumen, leaving only a few survivors to sell meat to, before moving on to finding and eating every Drowned God, and becoming the _Deeper_Woken, a being that transcends reality, before resetting the world and everything turning to normal. It appears Destroyman is the only one aware of this time loop, given that he knows when it will happen.

@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 92012
+revid: 92039
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -58,7 +58,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
 -   Poser's Ring
 -   Manor's Key
--   echo weapon (Quickfang, Irontusk, silversix, Avenger)
+-   Starter weapons (Quickfang, Irontusk, Silversix, Avenger)
 
 ## Artifacts
 
