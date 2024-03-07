@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 91496
+revid: 92131
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -53,7 +53,6 @@ _Slicing blades of flame._
 
 -   Deals moderate damage.
 -   Inflicts Burn.
--   At the end of the attack the user's weapon glows yellow and inflicts burn for a short time.
 -   Deals high posture damage.
 -   User can walk while casting, giving some sort of mobility
     -   User is slowed while casting.
@@ -80,7 +79,7 @@ _An exertion of flames._
 -   Unable to move during wind-up.
 -   Deals moderate damage.
 -   Knocks enemies back.
--   User takes reduced damage and has hyper-armor during casting.
+-   User takes reduced damage and has hyper-armor near the end of the cast.
 -   Taking damage while using it reflects the damage back to the attacker.
     -   The damage is stored in the Flame Repulsion itself.
 -   Compatible with Cloud/Stratus Stones.
@@ -261,7 +260,6 @@ _A rising tornado of flames._
 
 -   Deals moderate-high damage.
 -   Improved by Talents "Meteor Impact" and "Phoenix Impact".
--   Initial slashes are Blockable, and the final hit is Parryable.
 -   Does not send the user vertically into the air if no targets are hit.
 
  |
@@ -314,12 +312,11 @@ _Strike the ground, turning it to ash._
 -   Grabs any enemies In range of it.
 -   Inflicts burn.
 -   Deals moderate-high damage.
--   Can **NOT** use any type of mantra ingredients.
+-   Cannot be modified.
 -   Has 0.2 Seconds of Endlag
 -   Mantra continues if the second hit isnt parried.
     -   _Autoparry frames for the second hit **DONT** count._
     -   _Mantra also continues after the user gets knocked._
-    -   _Insta Posture breaks on second hit._
 
  |
 
@@ -342,9 +339,9 @@ _Leap up leaving behind a burst of flames._
 
  | User emits a blast under them that propels the caster and nearby opponents up in the air.
 
--   On flat ground, will usually lead to fall damage for the user.
+-   Can lead to fall damage if landing on a spot that is lower in altitude compared to the spot the user casted this Mantra from.
 -   This Mantra can be modified with a [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark), delivering an explosive frontflip instead of a vertical leap; negating fall damage.
--   Is able to proc _Meteor Impact,_ as long as the initial leap hits and the opponent(s) are sent upwards with you.
+-   Is able to proc _Meteor Impact,_ as long as the initial leap hits, the opponent(s) are sent upwards with you and the mantra is not modified with [Reversal Spark](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Reversal_Spark).
 -   Shares similar traits to the Strong Leap mantra.
 -   The Mantra will not summon flames nor do damage if used in [bodies of water](https://deepwoken.fandom.com/wiki/The_Depths).
 
@@ -385,7 +382,6 @@ _A servant of flames._
 -   Ignites nearby campfire pits if not busy healing you.
 -   Ritual casting.
     -   Aeon and Eternal Logstones will increase the steps to cast, but each step will use less ether.
--   Expires after certain amount of "uses" signaled by sound of a lighting campfire. Base amount of uses is 3. Amount of "uses" can be increased via [Logstones](Mantra_Modifiers.md#aeon-logstone), +1 use per Aeon Logstone, +3 uses per Eternal Logstone, for a max of 15 uses.
 -   Flame Wisp also seems to reduce parasite growth.
 
  |
@@ -427,13 +423,12 @@ _Undying flame._
 
  | Caster conjures an aura of flame in their hand before forcefully inserting it in their chest.
 
--   Prevents the user from being knocked for 30 seconds, doubled to 60 seconds if Azure Flames has been unlocked, if damage isn't substantial.
-    -   Regenerates ~15% of the user's health, doubles if Azure Flames has been unlocked, upon receiving lethal damage.
+-   Prevents the user from being knocked for 30 seconds, increased to 37.5 seconds if Azure Flames has been unlocked, if damage isn't substantial.
+    -   Regenerates 2% of the user's health per Mantra level, doubles if Azure Flames has been unlocked, upon receiving lethal damage.
 -   Flame stays in chest for the duration of the mantra.
 -   Ritual casting.
 -   Restores some of the user's sanity.
 -   Putting _Vibrant Gems_ on it seems to add more keys extends the ritual casting,
-    -   Potentially Incompatible with Duration modifiers.
 -   Freezes user in place for a brief moment on a successful cast.
 
  |
@@ -1342,17 +1337,19 @@ N/A
     -   "Flame Within" is named and acts in a similar way to [Power Within](https://darksouls.fandom.com/wiki/Power_Within) from _Dark Souls_, boosting overall damage while draining health.
     -   Although the **Fire Palm** mantra looks similar to the "Ignis" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the "Combustion" skill in Dark Souls and [Shinobi Prosthetic: Flame Vent](https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent) from the game **Sekiro**, as the spell does NOT multihit; instead, being a single large hit that sets on fire.
 -   Although the **Flame Blind** mantra looks similar to the snap version of the "Velo" spell from the Roblox game "Rogue Lineage", the mantra is actually inspired from the Valorant character "**Phoenix**" as one of his abilities involves throwing an orb flash made of fire.
--   The **Fire Gun** mantra is most likely a nod to "Higan", one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
+-   The **Fire Gun** mantra is most likely a nod to "Higan" (literally meaning "Fire Gun"), one of the moves of the [Mera Mera no Mi](https://onepiece.fandom.com/wiki/Mera_Mera_no_Mi) from **One Piece.**
 -   The **Flame Ballista** mantra is Sukuna's Fire Arrow from _Jujutsu Kaisen._[\[3\]](#cite-note-3)
 -   The **Flaming Scourge** mantra is inspired by one of Katakuri's [Mochi Mochi no Mi](https://onepiece.fandom.com/wiki/Mochi_Mochi_no_Mi) moves from **One Piece**.
 -   There used to be a mantra called Flame Tornado during the beta. It worked similarly to Rising Flame with the same VFX but did not push either the enemy or the user into the air.
 -   If a player proc's "Meteor Impact" on another Flamecharm user who also has the talent. Should the victim parry the meteor slam, their character will immediately attempt it themselves, effectively reversing the attack.
+    -   Meteor Impact used to also apply to Uppercutting and had a range multiplier, but was removed due to balancing reasons, along with the range simply adding "+3" to your weapon range.
 -   Flamecharm is a great attunement for grinding in [The Depths](The_Depths.md) as it has a talent called «Undying Flames» which causes the user's flames work in [The Depths](The_Depths.md) along with the **Flame of Denial** mantra which can restore some sanity upon use, while also allowing you to not die.
     -   The **Graceful Flame** can also be used to regain sanity, and can support any number of people making it great for [Hell Mode](Hell_Mode.md)
 -   The Flamecharm attunement can be used to burn multiple knocked enemies at once and is extremely useful in PVE or in Ganks/Guild wars.
 -   The **Graceful Flame** mantra does not allow anyone to cook food, regardless of its Level.
 -   The **Flame Leap** mantra's Reversal Version negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
 -   The **Flame Leap** mantra significantly reduces in height as the player gets lower on health, similarly to the "Strong Leap" mantra.
+-   **Ash Slam** used to scale on Strength, as well as scale much higher, before a weekly changed it to pure Flame scaling.
 -   Flamecharm's **Burn** damage scales Azure Flames and Deepfire ring... Which can lead to some icky burn damage if you are going for that.
 -   Flamecharm is currently the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md).
 -   If the character has the "Azure Flames" talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.

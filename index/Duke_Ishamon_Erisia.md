@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 91961
+revid: 92139
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -12,7 +12,7 @@ categories: [Enemies, NPCs, Bosses]
 
 ― Duke Erisia
 
-_Also known as the Stonelife Lord and Lord Erisia._Template:EnemyInfobox1.0
+Template:EnemyInfobox1.0
 
 ## Description
 
@@ -26,7 +26,7 @@ While the Duke is immune to instant guardbreaks, his posture pool is incredibly 
 
 ## Moveset
 
-Duke Erisia's arsenal consists of his [Fists](Fists.md) and with the **Legion Kata** fighting style along with the [Galebreathe](Galebreathe.md) attunement:
+Duke Erisia's arsenal consists of his [Legion Kata](Legion_Kata.md) [Fists](Fists.md) with an [Iron Cestus](Iron_Cestus.md). He uses this to fight along with [Galebreathe](Galebreathe.md):
 
 _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)._
 
@@ -113,7 +113,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 
 **This move will insta-grip if it hits you while knocked or at low health**
 
- | ◯ | ✗ | ◯ | (★★★) |
+ | ◯ | ◯ | ◯ | (★★★) |
 | 
 
 **Strong Left**

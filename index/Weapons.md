@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 91973
+revid: 92127
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -25,7 +25,7 @@ All weapons within the game have chances of being found with (or without) differ
 -   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, and Astral Knights guaranteeing a specific enchant.
 -   [Deepshore Fossil](Deepshore_Fossil.md), an item giving you an enchant stone of your choice.
 
-[Enchanted](Enchantments.md) weapons always have at least one star.
+[Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.
 
 **There are 92 weapons in Deepwoken.** (Excluding alloyed variations and offhand weapons.)
 
@@ -334,7 +334,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 </tr>
 <tr>
   <td><a href="Anklets_of_Alsin.md">Anklets of Alsin</a></td>
-  <td>40 LHT, LVL 5</td>
+  <td>0 LHT</td>
   <td>13.5</td>
   <td>20%</td>
   <td>10%</td>

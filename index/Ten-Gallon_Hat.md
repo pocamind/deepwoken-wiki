@@ -1,6 +1,6 @@
 ---
 title: "Ten-Gallon Hat"
-revid: 75482
+revid: 92135
 source: https://deepwoken.fandom.com/wiki/Ten-Gallon_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Helmets, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sources from:, Aratel Island |
+| obtainment | Sources from:, Aratel Island, Rogue Construct Chests |
 | description | "A wide-brimmed cowboy hat typically made of felt or straw. Commonly associated with Western Luminant fashion, cowboy culture, and Gremorians that have been through crazy journeys." |
 
 ## Description

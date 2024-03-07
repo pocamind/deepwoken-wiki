@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 91745
+revid: 92119
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -19,11 +19,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-**The Ferryman** is a [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is a member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Deepwoken.
+**The Ferryman** is a [Boss](Bosses.md) fought at the [Boatman's Watch](<Boatman's_Watch.md>) within the [Void Sea](Voidsea.md). A strange figure referenced in old folklore of the surface world, he is a member of the enigmatic race of [Krulians](Krulian.md) and claims to be the closest bridge between the Drowned Gods and the people of Lumen.
 
-According to the stories, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though his demeanor shows anything but. In reality, the Ferryman actively despises the mortals who dwell on the surface and toys with them, playing "games" that involve their life and death.
+According to the stories of old, the Ferryman is a benevolent individual who bestows gifts upon those who summon him, though most fail to mention that these gifts aren't earned without a fight. The Ferryman actively despises the mortals who dwell on the surface and toys with them, playing "games" that involve their life and death.
 
-An amalgamation of souls dredged up from the "dregs of the dregs", he was mistreated by the people of the surface and returns the favour by tormenting them.
+An amalgamation of souls dredged up from the "dregs of the dregs", he was mistreated by the people of the surface and returns the favor by tormenting them.
 
 #### Summoning The Ferryman
 
@@ -35,7 +35,7 @@ An amalgamation of souls dredged up from the "dregs of the dregs", he was mistre
 6.  The Ferryman will spawn in the middle, talk with him and seal a deal to begin the battle.
 7.  The Ferryman has a short cooldown of 15 seconds to be summoned once a player has summoned him.
 
-The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 10-15+. His speed, damage, health, and Mantra potency will scale depending on how many players there are fighting him, and as such it is recommended to fight him alone.
+The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 15+. His speed, damage, health, and Mantra potency will scale depending on how many players there are fighting him, and as such it is recommended to fight him alone.
 
 _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._
 
@@ -128,6 +128,7 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 
 -   A near necessity for the fight is using [Campfires](Campfire_Pit.md) to heal, which you must place manually. Always place at least one before the fight, as the purple ritual fires cannot be used to heal. Always keep something to light a campfire with, as if you run out mid-fight, you won't be able to conventionally heal. It is also recommended that you place a campfire behind cover so his Grand Volley does not hit you while healing.
     -   _Try to heal at most one bar before continuing the fight. If in dire need, try to go for two._
+    -   You can also go out of the arena and heal on the beach of Boatman's Watch. Be careful while you're on your way there, though, as his attacks still can get you. They cannot reach you when you go the very edge of the island, though.
 -   The Ferryman will teleport immediatly to initiate his next attack once you get in range for m1s after most of his attacks were not fully parried. However this can be used to your advantage, if you know you have missed a parry on Lightning Assault for example, you can go rest at a campfire, which will give you time to heal before he attacks again, similarly, if he uses Lightning Clones, you can also rest at a campfire if you have a friend stalling by running around and having the clones aggro, if you are alone, you can let them come to you, get up to block/parry/hit them then sit back down to continue healing. Even with his Lightning Strikes, if he is too far for you to hit and interrupt, you can get up from resting, parry all the strikes (since the rythm is consistent, this isn't too hard) and sit back down. Lastly, his teleport being based on proximity can be taken advantage of by attacking him with long range mantras like Ice Beam, which won't cause him to teleport away instantly.
 -   If The Ferryman is stuck in a weird spot where you are safe from most of his attacks (like down the hill or behind the log or a pillar) leave him be and use this time to heal if you aren't full. This is the perfect opportunity to do so and he will eventually unstuck himself when he uses his next Lightning Assault.
 -   Keep in mind that unless the Ferryman is preparing a Lightning Assault, he will teleport to six specific points surrounding the arena. Being aware of and remembering these spots will help in dodging certain attacks and attacking the Ferryman.
@@ -135,6 +136,7 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 -   Just before the Ferryman's first attack, which is _guaranteed to be Lightning Assault_, you are able to hit him once or twice as he spins. Though not a massive game-changer, it does help.
 -   It is a good idea to turn on your in-game music in this fight as his theme changes with his phase.
 -   [Tacet](Murmur.md#murmur-tacet) can trivialise the fight. By going behind a rock and using Tacet, then resting at a campfire, you can heal without any risk of him attacking you. His AI will lose track of you and he will teleport around the arena without using any of his attacks.
+-   It is _highly_ recommended to have the Spine Cutter [Talent](Talents.md) for this fight, as you can get lots of extra hits in the fight.
     
 
 **Phase One:**
@@ -164,7 +166,7 @@ Phase two is where it gets real -- the true fight. All of his previous attacks g
 
 As with most other boss fights, success in fighting the Ferryman heavily revolves around how well you understand his attacks. It is possible to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) with adequate knowledge of his attack patterns.
 
-The best way to damage The Ferryman is to spam M1s whenever his Lightning Strikes Attack is done. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and instead must rely on your ability to be strategic with parrying and defense.
+The best way to damage The Ferryman is to get in 2-3 M1s whenever his Lightning Strikes Attack is done and **fully parried**. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and instead must rely on your ability to be strategic with parrying and defense.
 
 ## Rewards
 
@@ -181,7 +183,7 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
 > _Drop chances are based on conjecture and may be incorrect._
 
 -   [**Krulian Knife**](Krulian_Knife.md) - In addition to being the seasonal reward for Winter, the Krulian Knife can also be found in each of the five chests. (55% drop chance)
--   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests. (2% drop chance (I probably just got lucky))
+-   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests. (2% drop chance)
 -   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost. (34% drop chance)
 -   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs. (Very common drop.)
 -   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (10% drop chance)
@@ -264,11 +266,11 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
         -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
 -   Ferryman Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera
--   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory), despite numerous similarities (including their names).
+-   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) from Rouge Lineage, another game by him, despite numerous similarities (including their names).
     -   They both possess godlike powers and mock (to varying degrees) the mortals that come to meet them.
     -   They both wear black clothes and have pale skin.
     -   Although he pokes fun at the player's cause of death, the Ferryman in Rogue Lineage regularly assists the poor souls that come into contact with him, whereas this Ferryman is a lot more up-front about his disdain towards the "squirts" who summon him.
--   ~It can be inferred from The Ferryman and the [Scion Of Ethiron](Scion_of_Ethiron.md)'s attacks using Thundercall and Galebreathe, that "awakened" or "primal" forms of attunements are colored purple. This is further reinforced by the fact that the Forge of Sin contains purple flames which may be the "awakened" Flamecharm.~ Hi, originator of this particular theory here. Despite the overwhelming evidence and connections that would lead one to believe this is the application of the Song that Kaide talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool".
+-   It can be inferred from The Ferryman and the [Scion Of Ethiron](Scion_of_Ethiron.md)'s attacks using Thundercall and Galebreathe, that "awakened" forms of attunements associated with the depths are colored purple. This is further reinforced by the fact that the Forge of Sin made by Korilfiend (the Drowned God of fire) contains purple flames which may be his "awakened" Flamecharm. Though, despite the overwhelming evidence and connections that would lead one to believe this is the application of the Song that Kaide talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool".
 -   While [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), dying on it will not send you directly to [The Depths](The_Depths.md).
 -   Hints on how to summon the Ferryman can be found in [The Depths](The_Depths.md). There is an old man named Petris cowering from a [Nautilodaunt](Nautilodaunt.md) looting the merchant stalls next to the City of The Drowned gate. He speaks of his experience with the Ferryman, calling him "that monster" after his traumatic encounter.
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
@@ -277,13 +279,12 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you will not receive a reward, unless you haven't received a reward from the Ferryman at all.
 -   The Ferryman is the one of the very few NPCs in the game that are simultaneously static, unattackable, and hostile with the possible exception of The Duke.
 -   The Ferryman completely ignores the mantra-cancelling effects of Suffocation and Tranquil Circle, making a previous cheese unusable.
--   ~The Ferryman's clones can drop luck particles which give you an investment point.~ Luck is no longer used or available, as of Verse 2.
+-   The Ferryman's clones can drop [Soul Orbs](Soul_Orb.md) which give you an investment point. In Verse 1, they would give luck, but luck is no longer used or available as of Verse 2.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the Metallica event to see the appeal of it.
 -   The Ferryman is one of the characters mimicked by [Yamaketzal](Yamaketzal.md).
 -   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
--   The Ferryman now has First Interrogation, Second Interrogation, Authority Intimidation, and Resolve Crusher talents.
 -   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
--   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that it is actually played in game and not just for the players.
+-   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that it is actually played in lore and not just in game. (Naktigonis himself is there playing it while you get folded by Ferryman)
 
 ## Bugs
 

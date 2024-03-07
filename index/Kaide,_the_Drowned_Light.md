@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 92082
+revid: 92118
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -53,13 +53,15 @@ Kaide is a Lightborn NPC found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
   <td colspan="7">Hmm... I am not sure how aware you are, surface dweller, but the magic you make use of is not some projection of your own strength. Your power lies within the Song. All you can conjure is a cheap imitation of the power held within the Song that Drowned Gods wield as their birthright. If Ethiron were to wake, as the projections seem to indicate, the world above would simply cease to be.</td>
   <td colspan="7">I once was Ruler of a place known as Constellia. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the Celestials' Last Gift. It was left in the hands of my forbearers, and passed to mc. Unknown to me, I was to be the last king. king. The Kyrsans, under Ethiron's will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td>
   <td colspan="7">I have been alive far longer than any living member of your kind, save for some of your ... ah ... immortals. Our forebearers were once soldiers in the war to fight back the depths. But when the Celestials fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesized doom.</td>
-  <td colspan="7">(Unknown)</td>
+  <td colspan="7">???</td>
 </tr>
 </tbody>
 </table>
 
-Apparently he was the king of a city named "Constellia", which was invaded by the Kyrsans resulting in him becoming a prisoner of the Second Layer and being trapped in the outskirts of New Kyrsa, meditating.
+He was the king of a city named "Constellia", which was invaded by the Kyrsans resulting in him becoming a prisoner of the Second Layer and being trapped in the outskirts of New Kyrsa, meditating.
 
 He mentions that the limited power of the Song in the hands of mortals is nothing compared to what a Drowned God could do with the Song, having significantly smaller limits.
 
 He also speaks about the lost war between Lightborns and Celestials against the Drowned gods, explaining pieces of lore, like the Celestials fleeing from the war, this causing the Lightborns to lose motivation to fight and simply giving up.
+
+The "immortals" that Kaide mentions in his dialogue are presumably the **[Deepwoken](Deepwoken.md)**. His hesitation when he says this can make someone infer that the word or topic of "Deepwoken" is a sacred or touchy subject. It also could mean that the player character and other people in Lumen cannot comprehend the concept of a Deepwoken.

@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 91809
+revid: 92138
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
@@ -372,36 +372,23 @@ Roar
 
   
 
-## **Trivia**
+## **Tips/Trivia**
 
--   There are two guaranteed sharko spawns in a cave near Lower erisia.
--   It's advised you don't block too much. The Megalodaunt's Slash attack will fill your posture bar by a HUGE amount and will likely block break you in one or two hits as a freshspawn.
+-   There are two guaranteed Megalodaunt spawns in a cave near Lower Erisia.
 -   Megalodaunts have swimming animations, as seen above.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md), sink.
-    -   They perform ranged attacks more often when in the water and perform "bite" attacks as opposed to kicks and slashes.
--   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mob's attacks. This can be very dangerous if new to fighting it because it can throw you off. Recommended to not use mantras that set it on fire when new to fighting it.
--   In the community, the Megalodaunt is known for wiping new players often as it is the first monster most players encounter and have been fighting humanoids up until that point.
--   The Megalodaunt lets out a snarl when it spawns in, notifying the player of its presence. This noise will periodically come from the Megalodaunt until it becomes aggressive towards the player.
--   If a Megalodaunt has an unprepared player as their target, it is best if the player blocks, dodges, or parries some of its moves then tries to roll away to safety.
-    -   Moves such as **Thousand Needles** are, however, really hard to avoid, as it covers a good Area of Effect.
--   It is possible to parry **Kick** if the player has the [Hunter's Brace](<Hunter's_Brace.md>) or [Ignition Deepdelver](Ignition_Deepdelver.md) equipped.
--   With decently high HP and good armor, it is perfectly viable to tank all of the attacks and just go for hits; however, it is still better to block and parry what you can.
--   It is easy to cheese it if you manage to either get to a place above it and hit it from above or go next to the roots of a tree (on a slope that keeps the Sharko standing above your elevation) and let the sharko stand on top, which will make the sharko miss all its attacks. It's very risky but it is profitable.
--   Unless you're a high enough level to consistently stat check the sharko (typically somewhere around power 13 depending on build), it is **highly recommended** to fight one on a server with low ping, especially if you're inexperienced. The easiest way to do so is typically by letting Roblox matchmaking do its thing.
--   Likely a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
-    -   Thousand Needles, an AoE attack where the Megalodaunt kneels down and shoots projectiles at the player, is most likely a reference to [Menthuthuyoupi](https://hunterxhunter.fandom.com/wiki/Menthuthuyoupi)'s Meat Skewer attack from Hunter x Hunter, where he also kneels down and shoots projectiles from his body.
--   In the Winter of 1291, an event (didn't) transpired that was retrospectively dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. Resulting in players (not) spamming this item and (not) spawning an unforeseen amount of Megalodaunts, which (never) proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
+    -   They perform ranged attacks more often when in the water and perform unique "bite" attacks as opposed to kicks and slashes.
+-   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mob's attacks. This can be very dangerous if new to fighting it because it can throw you off.
+-   In the community, the Megalodaunt is known for wiping new players often as it is the first true monster most players encounter and most have been fighting humanoids up until that point.
+-   The Megalodaunt roars when it spawns in and periodically afterwards, revealing its presence.
+-   It is possible to parry **Kick** if the player has the [Hunter's Brace](<Hunter's_Brace.md>) gear or the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit equipped.
+-   Do **not** fight a Megalodaunt on low ping if you are inexperienced unless you can simply tank it. The kicks can be devastating in the wrong places.
+-   Megalodaunts in general are a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
+    -   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
--   Some mantras that need to mark a person/object to be able to cast, such as Ice Daggers or Shadow Seekers, don't work on Megalodaunts for some unknown reason, so don't waste ether.
+-   In the Winter of 1291, an event transpired that was later officially dubbed the Sharko Rumbling. This was caused by the addition of an item that allowed the user to fish out a Megalodaunt. This was uncapped, allowing players to flood servers with tens if not hundreds of Megalodaunts, which proceeded to kill a boatload of freshies and other oblivious players. Since then, the item has been tweaked and the Sharko Rumbling came to an end.
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
--   According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met his fate being devoured by one of these specimens while studying them.
--   Running from an Alpha Megalodaunt isn't an option sadly, as his tacet move instantly teleports him towards his target if this one is too far from him, making them infamous for killing freshie Deepbounds with their tacet bite.
--   Most of the Megalodaunts are very hostile against Sand Knights and Golems so if you want to get a distraction get one of the Megalodaunt to target one of the main enemies it hates the most.
--   Megalodaunt are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
--   They probably inherited their swimming genes as they are most likely the descendants or evolution of a shark, which would explain its name, its carnivorous diet, and its ability to swim, unlike most other monsters in the game.
--   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md).
--   The Megalodaunt's "Thousand Needles" attack hits everyone, regardless of their hostility to the non-attackers.
--   Megalodaunts are likely carnivores, as seen from their teeth. They have claws to grab and rip into their prey. What contrasts this is that usually large predators don't use their legs for combat. Along with this, they also have eyes on the side of their heads. which could potentially be a sign that they are prey animals to something much bigger. Sharks in real life also have eyes on the sides of their heads despite being apex predators, although this is arguable as even the largest known predatory shark (Great Whites) still get predated by Orcas.
+-   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md). They are hostile to most other humanoids and monsters, including [Golems](Hive_Construct.md) and [Stone Knights](Stone_Knight.md).
 -   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts.
--   Megalodaunts apparently CAN talk via the dialogue bug that occurs when NPC's are left alone together. The more you know.
--   Clip of the tacet dropkick and proof of attack. - [https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO?invite=cr-MSxBVzEsMjAxODY4NjAyLA](https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO?invite=cr-MSxBVzEsMjAxODY4NjAyLA)
+    -   According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met an unfortunate fate being devoured by one of these specimens while studying them.
+-   Megalodaunts ~know how to use Tacet Drop Kick~ can bug out strangely when using Tacet near walls. [https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO](https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO)

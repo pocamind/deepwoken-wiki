@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 91786
+revid: 92129
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -88,7 +88,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
 
 This Oath grants the player 2 Support Mantra slots and 10 Sanity.
 
-This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to gaze and flame blind. Blind flaw does not provide protection from flame blind and gaze.
+This Oath also grants the players full vision and increased brightness while wearing a Blindfold, it also cures the Blindness flaw. Blindseer appears as an eye in front of the player's Blindfold. For [Vesperians](Vesperian.md), their mask can be seen engraved with a gold eye. While you gain full vision, you still benefit from the positives effects of Blinded, namely the sanity bonus and the immunity to blinding mantras. You are not forced to keep the blindfold after obtaining the Oath. While wearing the blindfold though, you are immune to Gaze. Blind flaw does not provide protection from Gaze.
 
 With the stat requirements, the talents, the blinded talent and the oath talent stats, you total a large amount of sanity (154 sanity, nearly double your initial 80 sanity), allowing you to stay for an extensive amount of time in The Depth at no risk.
 
@@ -103,7 +103,7 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   The Blindseer Eye can be dyed by dying your eyes using a [Dye Packet](Dye_Packet.md).
--   Vesperians with this oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background (needs testing as to if it can be dyed)
+-   Vesperians with this oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background. This eye can be dyed by dying the mask.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the trophy room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
 -   The Blindseer eye is seen in lots of places throughout Deepwoken
     -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer
