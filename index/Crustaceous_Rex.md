@@ -1,6 +1,6 @@
 ---
 title: Crustaceous Rex
-revid: 90995
+revid: 92115
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Pages with broken file links]
@@ -8,7 +8,7 @@ categories: [Monsters, Pages with broken file links]
 
 # Crustaceous Rex
 
-“ Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crastaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. ”
+“ Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crustaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. ”
 
 ― Inquisitor's Thorn Description
 
