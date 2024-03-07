@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 92119
+revid: 92143
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -45,7 +45,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger | Phase |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Displacement** | The Ferryman teleports to one of 6 fixed spots on the battlefield and immediately uses another attack. Always used before another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
+| 
+**Displacement**
+
+ | The Ferryman teleports to one of 6 fixed spots on the battlefield and immediately uses another attack. Always used before another attack. Activated most often when a player runs within close range of the Ferryman while he isn't attacking, but he may sometimes activate it when players stay at long range for a while.
+
 -   In Phase 2, this will be accompanied by a small pulse akin to [Flamecharm's](Flamecharm.md) Flame Repulsion and King Gigamed's repulsion move.
 
  | N/A | N/A | N/A | (★☆☆)
@@ -53,7 +57,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 (★☆☆)
 
  | **I**/**II** |
-| **Lightning Clones** | The Ferryman will spin around and summon two clones of himself. They run up to nearby players and slash at them before quickly disappearing.
+| 
+
+**Lightning Clones**
+
+ | The Ferryman will spin around and summon two clones of himself. They run up to nearby players and slash at them before quickly disappearing.
 
 -   Lightning Clones will not disappear unless their attack is parried, blocked or dodged, or they land a hit on a player.
 -   He only uses Lightning Clones in Phase 1.
@@ -61,7 +69,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Curiously, kiling the clones procs Time to Go.
 
  | ◯ | ◯ | ◯ | (☆☆☆) | **I** |
-| **Lightning Strike** | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
+| 
+
+**Lightning Strike**
+
+ | The Ferryman spins around and rains down multiple bolts of thunder from the skies upon the battlefield, dealing massive damage to whoever gets struck by them.
 
 -   Targets an area relative to each player based on their movement (e.g. if standing still, will center strikes on the player, but if moving, will target a distance ahead of the player proportional to their movespeed).
 -   Becomes much faster in Phase 2.
@@ -72,7 +84,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 (★★☆)
 
  | **I**/**II** |
-| **Lightning Assault** | The Ferryman teleports directly in front of the player, before using a stronger version of the Lightning Assault mantra. He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
+| 
+
+**Lightning Assault**
+
+ | The Ferryman teleports directly in front of the player, before using a stronger version of the Lightning Assault mantra. He uses this attack three times before stopping, always attacking from the player's facing direction, then left, then right.
 
 -   The frequency of the attacks is typically fixed, but The Ferryman will occasionally cast this at a much more rapid pace if he is placed next to a wall by the previous Lightning Assault.
 -   Becomes much faster in Phase 2.
@@ -83,7 +99,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 (★★★)
 
  | **I**/**II** |
-| **Grand Volley** | The most notorious attack in the Ferryman's moveset. The Ferryman throws four Grand Javelins across the battlefield in quick succession, dealing an absurd amount of damage to those who get in its way. (Each spear does is estimated to deal 220 damage.)
+| 
+
+**Grand Volley**
+
+ | The most notorious attack in the Ferryman's moveset. The Ferryman throws four Grand Javelins across the battlefield in quick succession, dealing an absurd amount of damage to those who get in its way. (Each spear does is estimated to deal 220 damage.)
 
 -   He only uses this attack in Phase 2.
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
@@ -91,7 +111,11 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   High posture damage.
 
  | ◯ | ◯ | ◯ | (★★★) | **II** |
-| Vent | An explosion of blue ether around the user that pushes opponents away.
+| 
+
+**Vent**
+
+ | An explosion of blue ether around the user that pushes opponents away.
 
 -   He always vents when an attack would daze him.
 

@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 91599
+revid: 92142
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -36,9 +36,7 @@ categories: [Items]
 
 ## Drops
 
-The Dark Feather is a crafting item that commonly drops from killing a [Deep Owl](Deep_Owl.md). Not to be confused with the Corrupted Owl, which always drops a Void Feather.
-
-Keep in mind, When a non corrupted [Deep Owl](Deep_Owl.md) dies, instead of a Dark Feather a Void Feather might drop instead.
+The Dark Feather is a crafting item that commonly drops from killing a non-corrupted [Deep Owl](Deep_Owl.md). Not to be confused with a [Void Feather](#void-feather), which can sometimes drop from the same mob. (Corrupted Deep Owls _cannot_ drop Dark Feathers, and will always drop Void Feathers)
 
 Note that this item is unable to be dropped normally, and can only be transferred through dying
 
@@ -54,6 +52,7 @@ The Dark Feather is used in these recipes:
 -   [Legion Centurion](Legion_Centurion.md)
 -   [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   [Authority Commander](Authority_Commander.md)
+-   Void Feathers, with 1 [Umbral Obsidian](Umbral_Obsidian.md) and 3 Dark Feathers
 
 It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md).
 
@@ -61,16 +60,12 @@ It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oat
 
 ## Drops
 
-The Void feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md).
+The Void Feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md).
 
-I did the math using 17 owl kills, 5 void feathers drop, meaning a void feather has a roughly 25-30% chance of dropping \*\*WITH\*\* Lootskipper
+Void Feather has roughly a 25-30% chance of dropping with the Lootskipper [talent](Talents.md) (17 kills, 5 drops with Lootskipper)
 
 ## Uses
 
 The Void Feather can be given to [Surge](Surge.md) to obtain moves of the [Visionshaper](Oaths.md) oath.
 
-  
-
-It can also be used to change it into Dark Feathers via crafting ( 1 Void Feather in crafting = 3 Dark Feather)
-
-(It can be turned into a void feather with 1 Umbral Obsidian and 3 Dark Feathers.)
+It can also be used alone to craft multiple Dark Feathers; 1 Void Feather in crafting gives 3 Dark Feathers

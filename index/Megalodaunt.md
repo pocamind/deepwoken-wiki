@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 92138
+revid: 92141
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
@@ -372,12 +372,12 @@ Roar
 
   
 
-## **Tips/Trivia**
+## **Trivia**
 
 -   There are two guaranteed Megalodaunt spawns in a cave near Lower Erisia.
 -   Megalodaunts have swimming animations, as seen above.
     -   This makes them one of the few monsters actually capable of swimming in water, as most land monsters, such as [Terrapods](Terrapod.md), sink.
-    -   They perform ranged attacks more often when in the water and perform unique "bite" attacks as opposed to kicks and slashes.
+    -   They perform ranged attacks more often and when they are in the water they perform an unique "bite" attack as opposed to kicks and slashes.
 -   Megalodaunts can technically be set on fire but will visibly snuff the flames off from themselves whenever this happens. People unaware of this may be startled by the animation and it may obscure the animation of the mob's attacks. This can be very dangerous if new to fighting it because it can throw you off.
 -   In the community, the Megalodaunt is known for wiping new players often as it is the first true monster most players encounter and most have been fighting humanoids up until that point.
 -   The Megalodaunt roars when it spawns in and periodically afterwards, revealing its presence.
