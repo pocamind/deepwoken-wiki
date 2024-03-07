@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 91128
+revid: 92059
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons]
 
 ## Description
 
-A stats changed [Rifle Spear](Rifle_Spear.md) made for [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md).
+A stats changed [Rifle Spear](Rifle_Spear.md) made specifically and only for [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md).
 
 ## Critical
 

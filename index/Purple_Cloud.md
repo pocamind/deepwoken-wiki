@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 91903
+revid: 92060
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -37,5 +37,6 @@ On crit, the user leans down, grabbing the blade's handle in the sheathe, and da
 
 -   This weapon's damage is increased by 5% with the Paired Soul [outfit](Outfits.md) talent (granted by [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md)), along with the [Shattered Katana](Shattered_Katana.md) and [(Alloyed) Katana](Katana.md#alloyed).
 -   Despite being considered a "katana," Poser's Ring doesn't work with it.
+-   Despite being a pseudo fist-type weapon, it does not proc/activate talents related to fists.
 -   This weapon's critical attack is most likely based off the martial art "Iaido".
 -   If enchanted with Stormbreaker, upon using critical attack, the user will throw nothing and still do damage (just a visual bug).

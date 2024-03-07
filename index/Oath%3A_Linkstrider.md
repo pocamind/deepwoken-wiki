@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 92050
+revid: 92056
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,9 +13,9 @@ categories: [Oaths]
 | oath_req | None |
 | effects | +2 Support Mantra, +1 Wildcard Mantra |
 
-“ The machina hisses ominously against the nature surrounding it, standing as a protest against life itself. ”
+“ The Entropy Catalyst generated enough force to fundamentally change your state of existence. You now exist between two states, your newfound clarity making the imperceptible Bonds between all souls malleable to you. ”
 
-― The Entropy Catalyst
+― Linkstrider Oath Description
 
 ## Description
 

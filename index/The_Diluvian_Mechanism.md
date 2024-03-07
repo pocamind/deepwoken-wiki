@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 92028
+revid: 92067
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Floor 1]
@@ -158,7 +158,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*CORPSE EXPLOSION MODIFER\***
 
- | 3 Corrupt Bounders |  |
+ | 2 Corrupt Bounders |  |
 | 26 (The Kick Duo) | 2 Corrupt Stone Knights, 4 Corrupt Alpha Megalodaunts |  |
 | 27 (Scyphozia's Starterpack) | 1 Corrupt Megalodaunt, 1 Corrupt Alpha Megalodaunt, 1 Corrupt King Gigamed, 1 Corrupt Terrapod, 1 Corrupt Crustaceous Rex, 1 Corrupt Lionfish, 2 Corrupt Threshers |  |
 | 28 (Hands of Soap) | 1 Corrupt Prime Golem, 1 Fury Nautilodaunt, 1 Corrupt Kyrsgarde Brute, 1 Enforcer, 1 Attuned(?) Nautilodaunt. |  |
