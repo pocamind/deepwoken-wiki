@@ -1,6 +1,6 @@
 ---
 title: Windrunner Robes
-revid: 91856
+revid: 92188
 source: https://deepwoken.fandom.com/wiki/Windrunner_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Items]
@@ -14,7 +14,7 @@ Template:ArmorInfobox**Windrunner Robes** is a Master [Outfit](Outfits.md) in _D
 
 This Outfit costs and requires 5 Cloth, 5 Fibers, 5 Gale Stones, 5 Vibrant Gems, 8 Erisore and a Wind Gem.
 
-This Outfit requires [Power Level](Talents.md) 10 and 10 Agility.
+This Outfit requires [Power Level](Talents.md) ~10~ 15 and 10 Agility.
 
 ## Armor Stats
 
@@ -33,7 +33,8 @@ This Outfit's Schematic can be found in:
 ## Trivia
 
 -   This Outfit is a reference to the dress worn by [Dark Sun Gwyndolin](https://darksouls.fandom.com/wiki/Dark_Sun_Gwyndolin) from the first _[Dark Souls](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_ video game created by [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware).[\[1\]](#cite-note-1)
--   This Outfit is the first master outfit to not require Power Level 15.
+-   ~This Outfit is the first master outfit to not require Power Level 15.~
+-   ^ Changed for some reason??
 
 ## References
 
