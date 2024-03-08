@@ -1,6 +1,6 @@
 ---
 title: Squid
-revid: 81886
+revid: 92198
 source: https://deepwoken.fandom.com/wiki/Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -8,18 +8,16 @@ categories: [Food]
 
 # Squid
 
-_"Cool Squid! No, I'm not squidding." **Message you get after catching a Squid.**_
+## Description
 
-_A photo of a squid being caught_
-
-Look mum, I caught a Squid!
+_Cool Squid! No, I'm not squidding._
 
 A squid can be caught by [Fishing](Fishing.md).
 
-You can also cook it.
+## Recipes used in
 
-  
-
-There's not much information about the squid so far. Add what you know about it!
-
-mmm... tasty...
+-   Cooked Squid (1 Squid)
+-   Calamari (1 Squid, 1 Gathered Wheat)
+-   Fish Stew (1 Squid, 1 Fishmeat)
+-   Seafood Surprise (1 Squid, 1 Fishmeat 1 Urchin OR 1 Crustacean Meat)
+-   Seafood Boil (1 Squid, 1 Fishmeat, 1 Crustacean Meat)

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 92179
+revid: 92201
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -52,7 +52,7 @@ If you fail to dodge the digging attack or get launched by the tail swipe, make 
 
 **2 Greater Angels:**
 
-Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. (7 sword hits per Angel) Also keep in mind that Greater Angels will very likely spawn with Enchanted weapons, which can make this part more daunting if they use something like Deffered or Blazing.
+Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. (7 sword hits per Angel) Also keep in mind that one of the Greater Angels will always spawn with an Enchanted weapon, which can make this part more daunting if they use something like Deffered or Blazing.
 
 **Weakened Enforcer:**
 

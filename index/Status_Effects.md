@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 89622
+revid: 92202
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -225,7 +225,7 @@ Not to be confused with Acid Rain, this effect refers to the large pools of Acid
 
 This effect happens when you've reached Tier 3 of [Insanity](Insanity.md) where your character will start scratching their body and face which deals some damage. If you don't have enough health left when scratching or get knocked at any point while having Tier 3 Insanity, your character will instantly die. Due to how long it takes to get to max insanity, (unless you have [manic](Boons_and_Flaws.md)) you will almost never get this unless you've been in the depths for long periods of time, had a considerable amount of Mindbreaking Potions thrown at you, or used a corrupted bell with the insanity downside.
 
-## Limited Edition Status Effects
+## Unique Status Effects
 
 ### \[ Coral Fever \]
 

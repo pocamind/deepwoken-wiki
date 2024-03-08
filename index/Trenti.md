@@ -1,16 +1,14 @@
 ---
 title: Trenti
-revid: 91735
+revid: 92195
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [NPCs]
 ---
 
 # Trenti
 
-Trenti, as found in the Etris inn.
-
-Trenti, as found in the Etris inn.
+Template:NPC name
 
 ## Description
 

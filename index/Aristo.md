@@ -1,16 +1,14 @@
 ---
 title: Aristo
-revid: 41989
+revid: 92194
 source: https://deepwoken.fandom.com/wiki/Aristo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [NPCs]
 ---
 
 # Aristo
 
-Picture of Aristo, found in the Isle of Vigils Inn.
-
-Picture of Aristo, found in the Isle of Vigils Inn.
+Template:NPC name
 
 ## Description
 
