@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 92156
+revid: 92181
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -152,6 +152,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   Uh. Sorry, I guess?
 -   You didn't see that one? Uh. Nevermind.
 -   Dying in the Overworld can be a viable strategy to travel to the Depths faster! Dying in the Depths - not so much!
+-   Oh, oh! Next time, you should try spinning. That's a good trick!
 -   Wouldn't let that happen to me.
 
 ## Gripping Quotes

@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 92161
+revid: 92178
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -12,7 +12,7 @@ Template:Races-Main
 
 _The stars call you back..._
 
-Chance of obtaining race: **0%**
+Chance of obtaining race: **N/A**
 
 ## Racial Traits
 

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 92177
+revid: 92179
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -91,18 +91,17 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 ## Trivia
 
 -   Greater Angels use _[Crazy Slots's](Crazy_Slots.md)_ Divine Spears, which differentiate them from [Lesser Angels](Hollow_Angel.md).
--   Dying in Trial of One with the Lone Warrior origin now sends you to [The Depths](The_Depths.md).
+-   Dying in Trial of One with the Lone Warrior origin immediately sends you to [The Depths](The_Depths.md).
     -   However, it does not increase your number of drowns.
 -   You can go through the Light gate behind you to return to Minityrsa.
--   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa.
+-   If you go into the trial of one, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
 -   After losing, you will _LOSE_ all of your armor you had equipped so be sure to store your stuff on an alt before attempting this. You can salvage two pieces of gear by keeping them in your inventory before the Voice of Solitude removes them, allowing you to use them during the trial.
--   If you hold an armor piece in your hand when the trial would force you to discard it, will allow you to keep it. (this might be a bug)
+-   If you hold an armor piece in your hand when the trial would force you to discard it, it will allow you to keep it. (this might be a bug)
 -   If you attempt this Trial with too many free investment points left over (will most likely happen to Autodidact users or Adrets), you may reach the EXP cap for your Investment Points, making it impossible to further progress in the Trial. It's advised to get some EXP without powering up if you have a unstacked/stacked passive talent that allows you to use a stackable free point upon leveling up.
 -   If you lose the trial with extra investment points and no exp, the entrance to the trial will deny you and instead fling you back.
--   The Angel trial was formerly able to be completed under 10 seconds by backstabbing an Angel and carrying it until the other Angel despawned. This has been patched- you must knock and grip at least one of the Angels in order to proceed.
--   Beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha Sharko, you simply get sent back.
+-   Beating trial with Adret and Autodidact gets you to power 8, but you're not allowed to put the last points from killing the Alpha Sharko.
 -   Deepbounds that somehow make it out of The Depths at power 1 are not able to enter the Trial of One.
--   If you're Attunement-less, the campfire goes down and lets you place the 10 points before starting the trial.
+-   If you're Attunement-less, the white "campfire" allows you to allocate the 10 points before starting the trial.
 -   The architecture of the Trial of One entrance is strangely similar to the [Voidheart](Voidheart.md), the orb above the 3 light gates may be a resized model of the [Voidmother](The_Voidmother.md). (image comparison requested)
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   File:TrialofOne.png
