@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 92142
+revid: 92157
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -38,8 +38,6 @@ categories: [Items]
 
 The Dark Feather is a crafting item that commonly drops from killing a non-corrupted [Deep Owl](Deep_Owl.md). Not to be confused with a [Void Feather](#void-feather), which can sometimes drop from the same mob. (Corrupted Deep Owls _cannot_ drop Dark Feathers, and will always drop Void Feathers)
 
-Note that this item is unable to be dropped normally, and can only be transferred through dying
-
 ## Uses
 
 The Dark Feather is used in these recipes:
@@ -63,6 +61,8 @@ It can also be used to obtain the [Visionshaper](Oath%253A_Visionshaper.md) [Oat
 The Void Feather is an item that rarely drops from a [Deep Owl](Deep_Owl.md). It always drops from a corrupted [Deep Owl](Deep_Owl.md).
 
 Void Feather has roughly a 25-30% chance of dropping with the Lootskipper [talent](Talents.md) (17 kills, 5 drops with Lootskipper)
+
+Cannot be deposited nor can it be dropped by players normally; unknown whether or not it drops on death
 
 ## Uses
 

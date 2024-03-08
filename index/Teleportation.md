@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 89816
+revid: 92166
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,7 +52,6 @@ When obtained, Teleportation will spend its points on the following stats:
 -   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around and persist through servers.
 -   **Travel Speed:** The more points are spent on this stat, the faster the players are taken from the starting point to the marker.
 -   **Charge Speed:** The more points are spent on this stat, the faster the teleportation starts.
--   **Ring Size + Capacity:** The more points are spent on this stat, the larger the ring gets and the more people can travel at once.
 
 ## Trivia
 
@@ -64,5 +63,5 @@ When obtained, Teleportation will spend its points on the following stats:
         
 -   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be instakilled if they were not in the Duke quest.
     -   Prior to the Verse 2 update splitting Luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.
-
--   The [sound effect](https://www.youtube.com/watch?v=LZ90GUmyBxI) when you travel is the [unlimited void](https://jujutsu-kaisen.fandom.com/wiki/Unlimited_Void) sound effect from [jujutsu kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen)
+-   There used to be a point called "**Ring Size + Capacity:** The more points are spent on this stat, the larger the ring gets and the more people can travel at once."
+-   The [sound effect](https://www.youtube.com/watch?v=LZ90GUmyBxI) that plays when you travel is the [Unlimited Void](https://jujutsu-kaisen.fandom.com/wiki/Unlimited_Void) sound effect from [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen)

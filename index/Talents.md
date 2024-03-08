@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 91936
+revid: 92164
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2153,6 +2153,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 -   Kickstart \[Common Talent, Thundercall Exclusive\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
         -   Default knock time is 10 seconds, so you can make your friends get back into the fight over 3 times faster.
+        -   Requires an animation, stunlocking yourself.
     -   Prerequisite: 40 Fortitude or Charisma, 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall Exclusive\] - Following a flourish up with a lightning beam causes it to be casted instantly. (+3 Elemental Intensity)

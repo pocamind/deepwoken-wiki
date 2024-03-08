@@ -1,6 +1,6 @@
 ---
 title: Red Eye Pendant
-revid: 74001
+revid: 92152
 source: https://deepwoken.fandom.com/wiki/Red_Eye_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -20,7 +20,7 @@ categories: [Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Second Layer , Crypt |
+| obtainment | Second Layer , Crypt , Miner's Landing |
 | description | ... |
 
 ## Description

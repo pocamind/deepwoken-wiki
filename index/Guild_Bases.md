@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 92124
+revid: 92160
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -237,6 +237,7 @@ Bandits raiding a Guild Base.
 ## Trivia
 
 -   It costs 1 knowledge to store Soulbound items via the Banker.
+-   You will gain a small amount of experience for each unique guild base you visit
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
 -   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
 -   The Thundercall talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
@@ -244,6 +245,6 @@ Bandits raiding a Guild Base.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
 -   You can also use the guild base to climb high walls using the door (since you can hang onto it)
 -   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
--   Guild bases are very useful. They can be placed anywhere besides the depths and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
+-   Guild bases are very useful. They can be placed anywhere besides The Depths, Primadon Hunting Ground, and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
 -   If you glitch out of the Guild Base and are thrown into the void outside, you will spawn outside of your guild base.
 -   All the books will be saved if you delete the library.

@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 90197
+revid: 92163
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -10,11 +10,11 @@ categories: [Character, Attributes]
 
 **Attributes Unbound**, also known as _uncapping_ or _limit breaking_, are a set of Talent Cards that the player can obtain to push their training further than that of the common man.
 
+Character attributes will permanently be unbounded if you have previously done the quest on that slot before, allowing you to unbind your attribute after 75 without repeating the quest.
+
 [Attributes](Attributes.md) are normally allowed to go up to 75. Obtaining these uncapping cards allow the player to go up to 100. Only a handful of talents require stats past 75, so uncapping is not a necessity for every build. (Note that racial bonuses affect caps, letting you reach 77 and 102 respectively.)
 
 ## Character Attributes Unbound
-
-Character Attributes will permanently be unbounded if you have previously done the quest on that slot before, allowing you to unbind your attribute after 75 without repeating the quest.
 
 ### Strength Unbound
 
