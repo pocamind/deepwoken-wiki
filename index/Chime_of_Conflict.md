@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 87096
+revid: 92210
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Talents]
@@ -105,3 +105,4 @@ Ranked **(Top 101-250)**
 ## Trivia/Notes
 
 -   The music for the queue area is [The Games of War](Deepwoken_OST.md) by [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)
+-   The "Godseeker" title is likely a reference to Hollow Knight

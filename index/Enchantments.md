@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 92162
+revid: 92226
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -617,6 +617,12 @@ Static flaming purple.
 -   **September 29th, 2023** - Astral is made publicly available.
 -   **November 3rd, 2023** - [Hallowtide](Hallowtide.md) Enchant: Harrowing is made publicly available.
 -   **November 10th, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
+
+## Gallery
+
+File:Tainted sorrow shortened version.png
+
+Tainted sorrow shattered katana
 
 ## Trivia
 

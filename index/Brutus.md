@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 91864
+revid: 92204
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Attributes]
@@ -24,4 +24,4 @@ Brutus is an imprisoned Khan in the [Fort Merit](Fort_Merit.md) prison that allo
 ## Trivia
 
 -   You can use a training vest and let him beatdown you to increase fortitude.
--   If you have positive Authority reputation, he'll say "Oh a treaty-breaker makes his way into my den... Your superiors will regret the day they broke our pact."
+-   If you have positive Authority [reputation](https://deepwoken.fandom.com/wiki/Reputation), he'll say "Oh a treaty-breaker makes his way into my den... Your superiors will regret the day they broke our pact."

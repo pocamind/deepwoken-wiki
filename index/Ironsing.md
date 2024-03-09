@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 92029
+revid: 92227
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -774,16 +774,16 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   On release, Ironsing had 12 mantras and 11 talents.
 -   Ironsing is the only Attunement to have five 3-star Mantras.
 -   **Needle Barrage** is practically identical to Autumn Rain from Rogue Lineage.
--   Ironsing is the fastest Attunement to obtain a Legendary Weapon on update release, in which case the legendary weapon being the [Ignition Deepcrusher](Ignition_Deepcrusher.md), released in the exact same update as Ironsing itself.
--   Ironsing is the only Attunement that does not have a [Hero blade](Hero_Blades.md).
--   Ironsing is called "Element' in the game's code.
--   **Firing Line** could be a reference to Oda Nobunaga from the Fate/Series, which her signature move is shooting a line of matchlock rifles towards her enemy.
--   The greatswords conjured in the**Metal Armament** mantra share the same model as the [Kyrscleave](Kyrscleave.md).
+    -   **Firing Line** could be a reference to Oda Nobunaga from the Fate/Series, in which her signature move is shooting a line of matchlock rifles towards her enemy.
+-   Ironsing is the fastest Attunement to obtain a Legendary Weapon; the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
+-   Ironsing is the only Attunement that does not have a [Hero Blade](Hero_Blades.md). (It'd probably just be a literal sword, anyways.)
+-   Ironsing is called 'Element' in the game's code.
+-   The greatswords conjured in the **Metal Armament** mantra share the same model as the [Kyrscleave](Kyrscleave.md).
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
--   Using ores used to actually gives you a buff, the only known ones that you can use as of now are Gold, Irithine and Erisore,
-    -   Gold was the only one that gives a buff as of now which is a 10% damage buff and a gold particle effect.
-    -   Using Irithine gives a green particle effect but no boost.
-    -   Using Erisore gives a blue particle effect but no boost as well
--   Ferrofluid, The item required to obtain ironsing, is an actual fluid attracted to magnetic forces, created by mixing vegetable oil with iron filings.
+-   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect.
+    -   Gold gives a 10% damage buff and a gold particle effect.
+    -   Using Irithine gives a green particle effect. Effects unknown.
+    -   Using Erisore gives a blue particle effect. Effects unknown.
+-   Ferrofluid, the item required to train Ironsing, is an actual real-life fluid attracted to magnetic forces, created by suspending iron or other magnetically-affected particles in a solution, usually oil.
 
 K1LLUA announcing the Ironsing path: Scrapsing in #polls, asking for either Trick or Treat.

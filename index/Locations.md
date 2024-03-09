@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 91121
+revid: 92203
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -36,6 +36,8 @@ A list of named locations that can be found in Deepwoken's world "Lumen".
 -   [Isle of Vigils](Isle_of_Vigils.md)
     -   [Temple of the Blade](Temple_of_the_Blade.md)
     -   [Temple Approach](Temple_Approach.md)
+    -   [Temple Sparring Hall](Temple_Sparring_Hall.md)
+    -   [Vigil's Mark](<Vigil's_Mark.md>)
         
 
 **Erisia:**
@@ -76,7 +78,7 @@ A list of named locations that can be found in Deepwoken's world "Lumen".
 
 Please add miscellaneous islands or named landmarks here
 
-**East Luminant:**
+**Eastern Luminant:**
 
 **Aratel:**
 
@@ -109,7 +111,8 @@ Please add miscellaneous islands or named landmarks here
 **Summer Isle:**
 
 -   [Summer Isle](Summer_Isle.md)
-    
+    -   [The Hidden Grove](The_Hidden_Grove.md)
+        
 
 **Miner's Landing:**
 
@@ -140,6 +143,8 @@ Please add miscellaneous islands or named landmarks here
     -   [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
+-   [Marauder's Entrance](<Marauder's_Entrance.md>)
+-   [A Conscious Intersection](A_Conscious_Intersection.md)
 
 [Fragments of Self](Fragments_of_Self.md)
 
