@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 92330
+revid: 92351
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Torso, Necklaces]
@@ -21,15 +21,19 @@ categories: [Pages with broken file links, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Ferryman |
+| obtainment | Ferryman, Scion of Ethiron |
 | description | "A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur." |
 
 Labels description and talent information.
 
 ## Description
 
-The Lightkeeper's Medallion is an [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants ??? HP/Ether/DVM/Armor as well as the talent "Elegy of Light", Which grants the user an active talent that protects the user from the effects of deep gems for one minute. After it's used, the talent cannot be reactivated unless another of equal power is defeated (presumably a player of equal power). It's currently known to drop from Ferryman and Scion of Ethiron, but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
+The Lightkeeper's Medallion is an [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants the talent "Elegy of Light", Which grants the user an active talent that protects the user from the effects of deep gems for one minute. During the use of Elegy of Light, you become surrounded by a circling white aura with beams of white coming off of it. After it's used, the talent cannot be reactivated unless another of equal power is defeated (A player equal to your power, i.e. if you're power 20, you must grip a power 20). It's currently known to drop from Ferryman and Scion of Ethiron, but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
 
 File:Active Medallion.png
 
 Glows White, showing it's ready to activate.
+
+## Trivia
+
+-   The Talent of "Elegy of Light" does have function in chime, however getting a grip in chime does not count, unless the other player is sent to the depths.

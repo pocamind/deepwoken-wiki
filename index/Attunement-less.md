@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 91868
+revid: 92344
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -494,6 +494,7 @@ File:Disguising .gif
   <ul>
     <li><b><u>Requirements:</u> <i>50</i></b> <i><b>Medium Weapon</b></i></li>
     <li>Unleashes 2 slashes, the first moving the user forward, the second launching the user backwards.</li>
+    <li>Can change the direction you launch backwards by turning your camera.</li>
   </ul></td>
 </tr>
 </tbody>

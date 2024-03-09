@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 90960
+revid: 92345
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Voidzones]
@@ -60,15 +60,19 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   [Old World Greatshield](Old_World_Greatshield.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md) (low chance)
 
- | 
+ | D |
 
--   Hellfire Lotus
--   Skyvalor Lotus
--   [Amethyst](Treasures.md)
--   [Emerald](Treasures.md)
--   [Moonseye Tome](Moonseye_Tome.md)
+## Drop rate from chests
 
- |
+Drops of 100 chests from the crypt of the unbroken while using the talent [lootskipper](Talents.md):
+
+Gren Sudaruska = 1%
+
+[Enchantments](Enchantments.md) = 9%
+
+[Justicar's Armour](<Justicar's_Armor.md>) = 1%
+
+[Royal Etrean Guard](Royal_Etrean_Guard.md) = 8%
 
 ## Maps
 
