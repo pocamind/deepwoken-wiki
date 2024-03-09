@@ -1,6 +1,6 @@
 ---
 title: Campfire Pit
-revid: 89389
+revid: 92335
 source: https://deepwoken.fandom.com/wiki/Campfire_Pit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

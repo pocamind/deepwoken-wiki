@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 92003
+revid: 92331
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Talents]
@@ -63,7 +63,7 @@ _"No money, friend? How ever will I feed myself?_
 -   _I am a competent duelist. **(Duelist) (Note; Cannot give Concussion, Spine Cutter, Strong Stern, Tap Dancer)**_
 -   _I scale the tallest peaks. **(Mountain Climber; Boulder Climb)**_
 -   _I seek the qualities of Nimble Blade. **(Nimble Blade) (Note; Cannot give Lightspeed Reflexes)**_
--   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman) (Note; Cannot give Speed Demon)**_
+-   _I fight for Maestro Evengarde Rest. **(Vigil Swordsman) (Note; Cannot give Speed Demon, Air Counter)**_
 -   _I seek the qualities of Swiftshade. **(Swiftshade)**_
 
 ### [Intelligence](Attributes.md#intelligence)

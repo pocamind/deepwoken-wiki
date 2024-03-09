@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 87773
+revid: 92329
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -64,5 +64,5 @@ A map can be found at [Maps#Voidheart\_(Dreamspace)](Maps.md#voidheart-dreamspac
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://youtu.be/4KLGPkyCff0?t=102](https://youtu.be/4KLGPkyCff0?t=102))
     -   This has been partially confirmed, as there is now a chess board there.
     -   The chess board is 100% accurate to real [chess](Chessboard.md), it's just that the pieces have been replaced by Deepwoken monsters.
--   Nothing directly prevents players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here.
+-   ~Nothing directly prevents players from partaking in PVP and killing each other. However, it is common practice to not show form of hostility here.~ (As of the update where Voidwalkers can take bounties on other Voidwalkers, this is outdated. While it is still seen as dishonorable, it is as of now, very common to be attacked inside Voidheart)
     -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, resulting in them getting removed.

@@ -1,23 +1,35 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 92273
+revid: 92330
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, Equipment, Torso, Necklaces]
 ---
 
 # Lightkeeper's Medallion
 
-Lightkeepers medallion, drops from ferryman with a low percent
+| Lightkeeper's Medallion | |
+|---|---|
+| type | Torso |
+| rarity | Mythical |
+| selling price | 100 |
+| requirements | None |
+| weight | 0.5 |
+| innate stats | N/A |
+| innate talent | Elegy of Light |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Ferryman |
+| description | "A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur." |
 
-File:LIghtkeeper worn.png
+Labels description and talent information.
 
-File:Lightkeeper worn 2.png
+## Description
 
-File:Lightkeeper description.png
+The Lightkeeper's Medallion is an [Equipment](Equipment.md) item under the "Torso" category. Equipping it grants ??? HP/Ether/DVM/Armor as well as the talent "Elegy of Light", Which grants the user an active talent that protects the user from the effects of deep gems for one minute. After it's used, the talent cannot be reactivated unless another of equal power is defeated (presumably a player of equal power). It's currently known to drop from Ferryman and Scion of Ethiron, but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
 
-File:Lightkeeper drop.png
+File:Active Medallion.png
 
-no innate pips, talent: "Elegy of Light"
-
-rushed PLEASE revise this page
+Glows White, showing it's ready to activate.
