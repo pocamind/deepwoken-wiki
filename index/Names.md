@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 91100
+revid: 92232
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1515,6 +1515,7 @@ You can choose your first name from any available, but your choices of last name
 ## Trivia
 
 -   Most names added after the release of the game are in all three categories, despite it being meant to either be in Male, Female or Neutral, as, by default, names that can be in more than one category should be in Neutral.
+-   The names "Omar" and "Olie" are references to community members omar\_io and Olieware respectfully, the latter of whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The name "Usopp" is a reference to [the _One Piece_ character of the same name](https://onepiece.fandom.com/wiki/Usopp).
     -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only "Usopp" was added.[\[1\]](#cite-note-1)

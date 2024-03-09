@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 92166
+revid: 92266
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -42,7 +42,25 @@ You are able to place down 1-5 waypoints. If you try to place another, the oldes
 
 With Basic Teleportation, you can have up to 5 teleportation points, and with Drowned teleportation you can have up to 7.
 
-If Teleportation is drowned, it will have more Resonance Points which means it has improved stats compared to normal Teleportation, Drowned does not guarantee mark, it solely depends on your variant that you receive upon reroll.
+### Drowned Teleportation
+
+If Teleportation is drowned, you'll receive preset waypoints depending on the Luminant your in. Preset waypoints will be in brackets with them being colored according to the bell. The teleportation ring has also been colored accordingly. Normal Waypoints will be colored yellow as usual. Presets don't replace the amount of the normal waypoints, and both of them can coexist. Therefore you can have the presets and # other waypoints.
+
+#### Etrean Luminant
+
+-   [Lower Erisia](Lower_Erisia.md)
+-   [Temple Approach](Temple_Approach.md)
+-   [Minitysra](Minityrsa.md)
+-   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
+
+#### Eastern Luminant
+
+-   [Boatman Watch](<Boatman's_Watch.md>)
+-   [Summer Isle](Summer_Isle.md)
+-   Greathive Approach
+-   [Fort Merit](Fort_Merit.md)
+-   [Boatman Watch](<Boatman's_Watch.md>)
+-   [The Monkey Paw](<The_Monkey's_Paw.md>)
 
 ### _**Resonance Point Usage**_
 
@@ -52,6 +70,8 @@ When obtained, Teleportation will spend its points on the following stats:
 -   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around and persist through servers.
 -   **Travel Speed:** The more points are spent on this stat, the faster the players are taken from the starting point to the marker.
 -   **Charge Speed:** The more points are spent on this stat, the faster the teleportation starts.
+
+If Teleportation is drowned, it will have more Resonance Points which means it has improved stats compared to normal Teleportation, Drowned does not guarantee mark, it solely depends on your variant that you receive upon reroll.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 90750
+revid: 92263
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -84,6 +84,10 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 _Let it be known that applying these things will take some time to master._
 
 _As you play the game and face hardships, knowing how to properly watch over these values will begin to come to you naturally. Ward your frustration should you become disappointed in your progress-- there is still the road ahead, Pathfinder._
+
+## Maps
+
+Upon talking to a shipwright, you'll unlock the ability to write down your navigations. With places that have not been explored yet obscured, and places you have already visited fully written. It also identifies you of your current location with a yellow marker, and the waterlocks leading to the next luminant. If you have Kaumi in your possession, using a map inside of it will also identify you of your physical location.
 
 ## Keybinds
 
@@ -282,7 +286,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
   <th>Stance Change</th>
   <td>Pressing the <kbd>Y</kbd> button will change your <i>Stance</i> from one-handed to two-handed. Many Light Weapons cannot switch their stance except for Fists, which can switch between their three unlockable fist styles at will.<p><br>
   <i><b>One Handed Stance:</b></i> This stance defaults to Light and Medium weapon, and Heavy weapons can obtain this stance through the talent <i>One-Handed Training</i>. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
-  <p><i><b>Two-Handed Stance:</b></i> This stance defaults to Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. You also swing faster in this stance. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
+  <p><i><b>Two-Handed Stance:</b></i> This stance defaults to Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
   <td><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>

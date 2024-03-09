@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 89979
+revid: 92260
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -53,7 +53,7 @@ The Shotel is a Medium Weapon. It has 22 Base Damage, 5 scaling and 20% chip dam
 
 ## Critical
 
-The user spins in a circle, then preforms a horizontal slash.
+The user spins in a circle, then preforms a horizontal slash if landed on a block it does 100% chip damage.
 
 ## Trivia
 

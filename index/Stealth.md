@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 91101
+revid: 92255
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -39,11 +39,14 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 
 When crouching:
 
--   Players can Assassinate other humanoids by pressing M1 behind them.
+-   Players can Assassinate other humanoids by pressing M1 behind them. You must be out of combat to assassinate.
 -   Players can activate [Murmur: Tacet](Murmur.md#murmur-tacet), a Murmur [Talent Card](Talents.md) that turns the player invisible in Stealth.
+-   Players can activate [Murmur: Rhythm](Murmur.md), a Murmur that points out nearby entities by making them "pulse".
 -   Parkour is restricted.
+-   Increased stealth.
+-   Cancels the obvious [flaw](Boons_and_Flaws.md).
 
-Against [Monsters](Monsters.md) or NPCs, Assassinations deal large damage.
+Against [humanoid monsters](Monsters.md) or [enemies](Enemies.md), Assassinations deal large damage.
 
 Some enemies such as the Monks at [Songseeker Wilds](Songseeker_Wilds.md) or the [Necromancers](Ministry_Scout.md) at [Minityrsa](Minityrsa.md) are immune to assassinations, along with all non-humanoid monsters like [Megalodaunts](Megalodaunt.md), etc.
 

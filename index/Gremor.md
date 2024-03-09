@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 87420
+revid: 92262
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -30,7 +30,7 @@ Gremors are a race similar to deer. They appear with greenish, blue or brown ski
   <ul>
     <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation.</i>"
   <ul>
-    <li>Gain a compass at the top of your screen that points South.</li>
+    <li>Gain a compass at the top of your screen that points West.</li>
     <li>Reduced hunger loss.</li>
     <li>If blind, gain a slight range of clear vision around you.<figure><figcaption></figcaption></figure></li>
   </ul></li>

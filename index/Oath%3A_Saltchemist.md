@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 91996
+revid: 92265
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -43,7 +43,7 @@ Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots t
 
 -   Upon clicking the Distillery talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
 -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
--   Autodrinking potions will place the other autodrink slots on cooldown (if you have any), this doesn't apply to autothrow.
+-   Potions with and potions without antithetic salts share an autodrink cooldown. (Is the cause with throw slots?)
 -   When replacing a potion in the Distillery, the one that was previously there is voided and will have to be remade.
 -   Potions made with less than 100 Intelligence that are slotted into the Distillery will scale up in potency as Intelligence increases.
 

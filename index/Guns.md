@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 91755
+revid: 92254
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -36,7 +36,6 @@ The amount of bullets you can load into a gun depends on the type you are using.
 
 Pistols have their own talent trees - [Outlaw](Talents.md#outlaw)
 
-  
 The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance.)
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
@@ -46,8 +45,6 @@ Furthermore, using a side gun with a non-light main weapon will increase the win
 There's a gun technique that you can learn from a quest giver outside the inn at Summer Isle. The man that you need to find is on a shore on the left of the inn. You have to choose the 2nd option then go back to him. However, choosing the 1st option and going back to the gun trainer will spawn Summer Company Gunslingers to kill you. Choosing the 2nd option allows you to unlock the talent Armor Piercing after talking to him again.
 
 Despite having the highest range of all the weapons, utilizing the range can often be difficult. The hitboxes for guns are much like a pencil in the sense that it's not very wide or tall compared to other weapons meaning most people will easily jump over your shots.
-
-Something that sets dual guns apart from other weapons is that it needs to reload. When swinging them, there will be a delay before it can be swung again (not endlag).
 
 File:Flintlockbullets.png
 
@@ -67,7 +64,9 @@ _**Stats:**_
 
 ## Rifle Moveset (wip)
 
-Your rifle has a 5 hit combo, and will fire a bullet (even if you don't have any available) on the 2nd and 4th hit. Your running attack and critical will fire a bullet, even if you don't have any. Rifles are limited to the 2 handed stance.
+Your rifle has a 5 hit combo. Your running attack and critical will fire a bullet, even if you don't have any. Rifles are limited to the 2 handed stance.
+
+Note, due to bullet update, need to find out if running attacks still shoot bullets.
 
 ### Talents
 
@@ -95,3 +94,5 @@ _**Stats:**_
 -   The [Iron Blunderbuss](Iron_Blunderbuss.md) is the only gun that requires bullets
 -   One handed guns are the only type of guns where having bullets isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.
+-   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
+    -   Need to test to see if they still get the 10% pen bonus.

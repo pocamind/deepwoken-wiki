@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 92164
+revid: 92292
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -862,7 +862,7 @@ _**"I'm built different" - Cannot Give Talents**_
 -   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
     -   Prerequisites: Ice Smash, 35 Frostdraw
 
--   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while sliding to perform a running attack with your ice sabers.
+-   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   Prerequisites: Ice Blades, 20 Frostdraw, 20 Agility.
 
 ### Frostdrawer
@@ -1898,7 +1898,7 @@ Prerequisite: Charisma
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe Exclusive\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
     -   Prerequisites: Phantom Step, 60 Galebreathe
 
--   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - Dodging an attack will send an apparition towards your attacker. \[Must be above 50% Spectral Gauge\]
+-   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 30% posture damage on all Galebreath attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
 ### Static Weaver
