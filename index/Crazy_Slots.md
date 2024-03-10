@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 91048
+revid: 92360
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -54,62 +54,24 @@ Stat wise, compared to other endgame weapons, Divine Weapons have higher base da
 
 **Heavy:**
 
-| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Axe | Greataxe | 28 | 0% | HVY: 13 | 8 | 10.1 | 0.6x | Jump into the air and plummet towards your cursor. | 0.0s |
-| Divine Greatsword | Greatsword | 30 | 0% | HVY: 12 | 8.5 | 9.2 | 0.63x | Boosts speed and propels you into the air, crashing down at your cursor. | 0.25s |
+| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** | **Scaled Damage** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Divine Axe | Greataxe | 28 | 0% | HVY: 13 | 8 | 10.1 | 0.6x | Jump into the air and plummet towards your cursor. | 0.0s | 63.5 |
+| Divine Greatsword | Greatsword | 30 | 0% | HVY: 12 | 8.5 | 9.2 | 0.63x | Boosts speed and propels you into the air, crashing down at your cursor. | 0.25s | 65.1 |
 
 **Medium:**
 
-| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Divine Spear | Spear | 22.5 | 0% | MED: 9 | 5 | 10 | 0.7x | Jump into the air and fire three divine beams, similar to a Lesser/Greater Angel. | 0.0s |
-| Divine Longsword | Sword | 25 | 0% | MED: 7 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade |
+| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** | **Scaled Damage** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Divine Spear | Spear | 22.5 | 0% | MED: 9 | 5 | 10 | 0.7x | Jump into the air and fire three divine beams, similar to a Lesser/Greater Angel. | 0.0s | 42.2 |
+| Divine Longsword | Sword | 25 | 0% | MED: 7 | 5.5 | 8.5 | 0.8x | Strike forward with your elbow, following up with three divine slashes similar to shadowcast's dark blade | 0.0s | 42 |
 
 **Light:**
 
-<table>
-<tbody>
-<tr>
-  <th><b>Name</b></th>
-  <th><b>Type</b></th>
-  <th><b>Damage</b></th>
-  <th><b>Penetration</b></th>
-  <th><b>Scaling</b></th>
-  <th><b>Weight</b></th>
-  <th><b>Range</b></th>
-  <th><b>Swing Speed</b></th>
-  <th><b>Special Skill</b></th>
-  <th><b>Endlag</b></th>
-  <td>"Scaled Damage"</td>
-</tr>
-<tr>
-  <td>Divine Dagger</td>
-  <td>Dagger</td>
-  <td>18</td>
-  <td>0%</td>
-  <td>LHT: 7</td>
-  <td>4</td>
-  <td>6.5</td>
-  <td>1.07x</td>
-  <td>Rush forward in a flurry of divine slashes.</td>
-  <td>0.05s</td>
-</tr>
-<tr>
-  <td>Divine Flintlock</td>
-  <td>Flintlock</td>
-  <td>15</td>
-  <td>0%</td>
-  <td>LHT: 15</td>
-  <td>1</td>
-  <td>12</td>
-  <td>1.3x</td>
-  <td>Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards.</td>
-  <td>0.0s</td>
-  <td>63.49</td>
-</tr>
-</tbody>
-</table>
+| **Name** | **Type** | **Damage** | **Penetration** | **Scaling** | **Weight** | **Range** | **Swing Speed** | **Special Skill** | **Endlag** | **Scaled Damage** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Divine Dagger | Dagger | 18 | 0% | LHT: 7 | 4 | 6.5 | 1.07x | Rush forward in a flurry of divine slashes. | 0.05s | 30.3 |
+| Divine Flintlock | Flintlock | 15 | 0% | LHT: 15 | 1 | 12 | 1.3x | Flip upside down and rapidly shoot your target five to six times before finishing with another shot while dashing backwards. | 0.0s | 36.9 |
 
 ## Trivia/Notes
 

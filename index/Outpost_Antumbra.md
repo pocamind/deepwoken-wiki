@@ -1,6 +1,6 @@
 ---
 title: Outpost Antumbra
-revid: 89609
+revid: 92370
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Etrean Luminant, World]
@@ -22,7 +22,7 @@ Outpost Antumbra can be found by taking a small route on the right side of [Mini
 
 ## Description
 
-Outpost Antumbra is the small outpost for The Ministry, it has a good amount of Scouts around here, and five chests, four near the Trial of One and the other around the left top. This base was referred to as a "Nest" by Elykris.
+Outpost Antumbra is the small outpost for The Ministry, it has a good amount of Scouts around here, and five chests, four near the Trial of One and the other around the left top. This base was referred to as a "Nest" by [Elykris](Elykris.md).
 
 ## Quests
 

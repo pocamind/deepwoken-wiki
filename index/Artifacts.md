@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 90843
+revid: 92362
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Mechanics]
@@ -48,7 +48,7 @@ When you pick up an Artifact it will make a loud noise and will then stop making
 -   Considering the above bullet point, players can also hide the artifact inside their guild, as any artifact put inside will stay inside until you leave the server, and summon the guild again after reaching the bank, heavily reducing the risk of being attacked.
 -   If found, it's recommended to take the Artifact to the Isle of Vigils rather than [Etris](Etris.md), As the [Isle](Isle_of_Vigils.md) is closer to [Erisia](Erisia.md), its whirlpool is closer to the Docks, and it's less travelled by in comparison to [Etris](Etris.md).
 -   Before the loot was buffed, the loot was so bad that some players would just give it away to anyone who happened to be near. But now that the rewards got buffed, it's highly sought after again.
--   Anyone standing near your whilst you turn in the Artifact will also receive exp.
+-   Anyone standing near your whilst you turn in the Artifact will also receive notes and exp.
 -   Dropping it in the ocean causes them to sink and be lost.
 -   The Banker refers to an artifact as "A Piece of the forge". This may be related to the "Forge of Sin" Lord Regent refers to.
 -   Disappears if you put it down and don't pick it up for a long time

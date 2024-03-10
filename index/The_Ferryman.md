@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 92297
+revid: 92371
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -35,11 +35,11 @@ An amalgamation of souls dredged up from the "dregs of the dregs", he was mistre
 6.  The Ferryman will spawn in the middle, talk with him and seal a deal to begin the battle.
 7.  The Ferryman has a short cooldown of 15 seconds to be summoned once a player has summoned him.
 
+(Note: You can destroy one of the fires and replace it, It still works as this can be used to save wood)
+
 The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 15+. His speed, damage, health, and Mantra potency will scale depending on how many players there are fighting him, and as such it is recommended to fight him alone.
 
 _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._
-
-**Once you start the fight, you will be teleported into an instanced server, this server has no external entry or any way to escape other than dying, or if you defeat The Ferryman.**
 
 ## Moves
 
@@ -197,9 +197,9 @@ The best way to damage The Ferryman is to get in 2-3 M1s whenever his Lightning 
 **Progress:** As with all bosses, The Ferryman gives [Resonance](Resonance.md) Progress on death, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
 
 -   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with another reward in addition to the standard 5 chests.
-    -   Spring - One [Knowledge](Knowledge.md). Repeatable.
+    -   Spring - One [Knowledge](Knowledge.md). Repeatable. He speaks about him being a Krulian, Enlightening you.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Justicar Schematic,** **Stormseye,** **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
-    -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
+    -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>), Only if you are the one to speak to him.
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
 
 In addition to the seasonal rewards, The Ferryman will leave 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a [Stormseye](Stormseye.md) or a [Relic](Relics.md).
@@ -210,8 +210,8 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
 -   **[Stormseye](Stormseye.md)** - An exceedingly rare weapon that can be obtained through the Ferryman's chests. (2% drop chance)
 -   [**Deep Gems**](Deep_Gems.md) - Rare gems that can be applied to mantras to improve them at no additional cost. (34% drop chance)
 -   [**Legendary Rings**](https://deepwoken.fandom.com/wiki/Equipment#Rings) - An assortment of Rings that grant various powerful buffs. (Very common drop.)
--   [**Lightkeeper's Medallion**](<Lightkeeper's_Medallion.md>) - An exceptionally rare torso [Equipment](Equipment.md) that is obtained through the Ferryman's chests. (??? drop chance)
--   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (10% drop chance)
+-   [**Lightkeeper's Medallion**](<Lightkeeper's_Medallion.md>) - An exceptionally rare torso [Equipment](Equipment.md) that is obtained through the Ferryman's chests. (1% drop chance)
+-   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (11% drop chance)
 -   [**Smith’s Alloy**](<Smith's_Alloy.md>) - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars. (5% drop chance)
 -   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (Unknown drop chance.)
 -   [**Justicar's Armor**](<Justicar's_Armor.md>) - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint. (13% drop chance)
