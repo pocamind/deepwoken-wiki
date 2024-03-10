@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 92344
+revid: 92435
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -549,7 +549,7 @@ File:Disguising .gif
 
 ## Upgrading Mantras
 
-The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (Trainer is located from a path called "Archives" from the root plaza.)
+The Attunement-less mantra trainer can be found at [Greathive Aratel](Greathive_Aratel.md) in the Archives area. To allow the user to upgrade their mantras here, the player must complete a quest for the trainer by collecting sap from 3 Soulblooms. (You need to have washed your face at the [Lightkeeper's Temple](Lightkeeper_Temple.md) to activate the quest.)(Trainer is located from a path called "Archives" from the root plaza.)
 
 -   All of the Soulblooms can be found at the top of the tree, in Canopy Plaza.
 -   2 of them are located in the Blacksmith's area.

@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 79149
+revid: 92409
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers]
@@ -17,6 +17,7 @@ categories: [Weapons, Rapiers]
 | range | 8 |
 | swing speed | 0.81x |
 | penetration | 5% |
+| selling price | 7 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

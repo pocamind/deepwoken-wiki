@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 92388
+revid: 92413
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -33,7 +33,7 @@ If corrupted. the walls become a dark blue/violet.
 
 Pressing C will activate the **Skeleton Key** Resonance.
 
-Skeleton key will summon a wall, up to three if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will automatically be pushed.
+Skeleton key will summon a wall, up to three if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
 
 If Skeleton Key is corrupted, you could summon up to five walls with a lesser duration.
 
