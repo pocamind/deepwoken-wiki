@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 92434
+revid: 92451
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -40,41 +40,20 @@ The [Attunement](Attunements.md) can be unlocked by using a [Sparkblood potion](
 
 ### **Combat Mantras**
 
-| Media | Name | Card Description | Ether Cost | Effect | Stats |
-| --- | --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 |  | 
 Lightning Blade  
 (☆☆☆)
 
- | Arcing blades of electricity. | 50 Ether | User dashes forward with two swipes, sending out two short ranged arcs of lightning forward that pierce through enemies.
+ | Arcing blades of electricity. | 50 Ether | Dash forward before performing two slashes, sending out 2 short-ranged arcs of lightning forward that pierce through target(s).
 
--   Can be upgraded with a Magnet Spark, which makes the mantra perform a third teleporting slash. (Short range)
+-   Deals moderate damage.
+-   10 Second Cooldown.
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
--   Summons a third lightning slash if you press F while using the move.
-    -   This does not require you to hit anything with the first two slashes.
-    -   Used to be a talent called Stormcaller Slash.
-
- | Damage:
-
-Cooldown:
-
-10 Seconds
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Cloud Stone
-
-Stratus Stone
-
-Aeon Logstone
-
-Eternal Logstone
-
-Magnet Spark
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md), which causes the mantra perform a **third** short-ranged teleporting slash.
+-   Can grant an optional effect with the "**Stormcaller Slash**" Talent, which lets the user perform a short wind-up slash at the end of the mantra casted by pressing the \[F\] key.
+    -   Can be stacked with the **Magnet Spark** variant of the mantra to perform 4 slashes in total.
 
  |
 |  | 
@@ -82,28 +61,15 @@ Magnet Spark
 Jolt Grab  
 (☆☆☆)
 
- | An electrified chokehold. | 60 Ether | Dashes into the opponent and slams them into the ground, sending out a small AOE around you if it lands. Applies knockdown frames. 12 Second cooldown.
+ | An electrified chokehold. | 60 Ether | Dash forwards with the character's left hand charged with lightning; if a target is hit, slam them into the ground before sending out a small AoE around the user.
 
--   Can be upgraded with a Magnet Spark, in which the attack activates when your crosshair/cursor is locked onto an enemy. The cast will fail to activate if there's no target or out of range. Does not apply knockdown frames.
--   Crystal and Perfect Lenses DO increase the range if you have a [Magnet Spark](Mantra_Modifiers.md) on it. (Tested in game by hogwidah and Terraria\_HolySpirit)
-
- | Damage:
-
-Cooldown:
-
-10 Seconds
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Crystal Lens
-
-Perfect Lens
-
-Magnet Spark
+-   Deals moderate damage.
+-   10 Second Cooldown.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to cause the user to perform a short wind-up while charging their left hand with lightning before teleporting to a nearby target while dealing a shocking AoE.
+    -   Activates only when the cursor is locked onto a target.
+    -   Knockdown is also removed for the mantra variant.
+    -   This replaces the lunging hitbox with an AoE one, in which the latter contains a blindspot located behind the user.
+    -   Can be additionally modified with **Crystal/Perfect Lenses** to increase the range of the AoE hitbox.
 
  |
 |  | 
@@ -111,24 +77,12 @@ Magnet Spark
 Lightning Beam  
 (☆☆☆)
 
- | Fire a beam of lightning. | 50 Ether | Sends out a straight beam of lightning forwards from your chest.
+ | Fire a beam of lightning. | 50 Ether | Cast out a straight beam of lightning from where the character is facing.
 
--   With the Shocking Finish talent, Lightning Beam is instantly castable after flourishing an enemy, pretty much guaranteed hit after flourish.
--   Appears after a second of casting.
-
- | Damage:
-
-Cooldown:
-
-10 Seconds
-
-Properties:
-
-Modifiers:
-
-Cloud Stone
-
-Stratus Stone
+-   Can break objects.
+-   10 Second Cooldown.
+-   Can grant an optional effect with the "**Shocking Finish**" Talent, in which **Lightning Beam** is instantly castable after flourishing an enemy, pretty much guaranteeing a hit after flourish.
+    -   Appears after a second of casting.
 
  |
 |  | 
@@ -136,33 +90,16 @@ Stratus Stone
 Electro Carve  
 (★☆☆)
 
- | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Used to be a 0 star mantra
+ | Produce a highly potent field of electromagnetism, shocking all inside. | 10 Ether | Conjure a shocking orb at the end of weapon, dealing rapid damage.
 
-Creates a yellow orb in front of the user.
-
+-   Deals light damage; moderate if not parried.
+-   Projectile moves along where the character is facing.
+-   10 Second Cooldown.
 -   Shocks opponents inside of it while dealing damage.
--   Moves with the user
--   Putting on Cloudstones and/or Stratus Stones will decrease the damage but will provide a bigger AoE.
-
- | Damage:
-
-Cooldown:
-
-10 Seconds
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Cloudstone
-
-Stratus Stone
-
-Blast Spark
-
-Magnet Spark
+-   Can be modified with **Cloudstones/Stratus Stones** increase the AoE.
+    -   This can also result in the mantra dealing reduced damage.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to conjure up a shocking AoE around the user.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md) to deploy a sticky projectile to a target that activates the shock after a while.
 
  |
 |  | 
@@ -170,26 +107,14 @@ Magnet Spark
 Lightning Impact  
 (★☆☆)
 
- | Slam those under you with a lightning empowered kick. | 80 Ether | User jumps into air and strikes down, dealing damage and sending out a small shockwave that damages nearby players and NPCs.
+ | Slam those under you with a lightning empowered kick. | 80 Ether | Leap into the air before slamming down into the ground, dealing AoE Lightning damage before ascending the user and target(s) hit into the air.
 
--   Can be upgraded with the Rain of Static talent, which makes the user rain down bolts of thunder from the air with the follow-up impact.
--   Can light opponents and the player on fire.
--   Applies knockup. (Floats victims hit by the move into the air in front of you for a brief duration or until you hit them once.
--   Can destroy surfaces and light flammable terrain on fire like a patch of grass.
-
- | Damage:
-
-Cooldown:
-
-12 Seconds
-
-Properties:
-
-Knockup
-
-Modifiers:
-
-N/A
+-   Deals moderate damage.
+-   Can destroy surfaces and light flammable terrain such as patches of grass on fire.
+-   Can light the user and target(s) ablaze.
+-   Applies Knockdown.
+-   12 Second Cooldown.
+-   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
 
  |
 |  | 
@@ -197,33 +122,16 @@ N/A
 Lightning Clones  
 (★☆☆)
 
- | Replicated forms of yourself conjured from electricity. | 60 Ether | Summons one clone besides you and strikes enemies once before disappearing.
+ | Replicated forms of yourself conjured from electricity. | 60 Ether | Perform a short wind-up before snapping fingers to summon a clone of lightning beside the user, the clone proceeds to attack a nearby target once before disappearing.
 
--   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md) to apply an electric shockwave that affects all near it.
--   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md) to make a second clone.
--   Modifying the Mantra with a Cloudstone does not produce more clones.
--   Can be upgraded with the Talent, Static Flash Clones. When used with a Blast Spark, the clone summons a Lightning Strike when it disappears.
--   If summoned and there is no target, they'll attack the first enemy to deal damage to you or the first enemy you deal damage to
-
- | Damage:
-
-Cooldown:
-
-15 Seconds
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Aeon Logstone
-
-Eternal Logstone
-
-Multiplying Spark
-
-Blast Spark
+-   Deals light damage.
+-   If summoned while there are no nearby target(s), it will attack the first enemy to deal damage the user or the first target the user deals damage to.
+-   15 Second Cooldown.
+-   Can grant a different effect with the "**Static Flash Clone**" Talent, which causes the mantra to summon a clone briefly as an afterimage before disappearing, granting the user a small speed boost and making them invisible for a short period of time before resurfacing from invisibility.
+    -   When used with the **Blast Spark** mantra variant, the clone conjures a **Lightning Strike** when it disappears.
+-   Modifying the mantra with **Aeon/Eternal Logstones** does not produce more clones.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to cause the clone to detonate and shock upon hitting a target/death.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to summon an additional clone.
 
  |
 |  | 
@@ -231,36 +139,16 @@ Blast Spark
 Lightning Strike  
 (★☆☆)
 
- | A strike of thunder at your desired location. | 50 Ether | Caster waves their arm, summoning bolts of lightning.
+ | A strike of thunder at your desired location. | 50 Ether | Perform a gesture before conjuring strikes of lightning at the cursor's location.
 
--   Lightning strikes where the user's cursor is pointing.
 -   Deals moderate damage.
--   Can strike a total of 1-7 times, but can be cancelled by user damage.
--   Spell can hit you, causing the spell to cancel itself midway.
-
- | Damage:
-
-Cooldown:
-
-10 Seconds
-
-Properties:
-
-Knockdown
-
-Modifiers:
-
-Cloudstone
-
-Stratus Stone
-
-Aeon Logstone
-
-Eternal Logstone
-
-Crystal Lens
-
-Perfect Lens
+-   Applies Knockdown.
+-   10 Second Cooldown.
+-   Can strike a total of 1-7 times, but can be cancelled if the user hit and damaged in any way.
+    -   This includes being hit by the user's own Lightning Strike.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
+-   Can be modified with **Aeon/Eternal Logstones** to increase the amount of projectiles summoned.
+-   Can be modified with **Crystal/Perfect Lenses** to increase range of projectiles' reach.
 
  |
 |  | 
@@ -268,22 +156,13 @@ Perfect Lens
 Thunder Kick  
 (★☆☆)
 
- | An unrelenting kick like a clap of thunder. | 60 Ether | User heavily kicks forward.
+ | An unrelenting kick like a clap of thunder. | 60 Ether | Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any target(s) hit.
 
--   Instantly blockbreaks at Level 5.
--   This can be upgraded with the Talent, Volt Kick, which allows user to follow up the kick with a second less potent kick that teleports them to the victim. Unlike lightning blade's talent, this one requires you to actually hit the kick, meaning the talent will not activate if they block, dodge, or parry it.
-
- | Damage:
-
-Cooldown: 8 Seconds
-
-Properties:
-
-Insta Guardbreak
-
-Modifiers:
-
-N/A
+-   Deals moderate damage.
+-   Breaks block when upgraded to Level 5.
+-   8 Second Cooldown.
+-   Can grant an additional effect with the "Volt Kick" Talent, which allows user to follow up the initial kick with a second less potent kick that teleports them to the target.
+    -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the talent will not activate if being parried, blocked or dodged.
 
  |
 |  | 
@@ -291,27 +170,15 @@ N/A
 Storm Blades  
 (★★☆)
 
- | Conjure weapons of thunder with your ether. | 45 Ether | User creates blades of lightning that explode in front of them.
+ | Conjure weapons of thunder with your ether. | 45 Ether | Conjure an array of lightning blades that deal AoE damage.
 
 -   Deals light damage.
--   Has a short delay before exploding.
--   Can be upgraded with a Tornado Spark, which causes the mantra to deploy an arena-like circle; shocking those who touch its walls.
-
- | Damage:
-
-Cooldown: 12 Seconds
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Cloudstone
-
-Stratus Stone
-
-Tornado Spark
+-   12 Second Cooldown.
+-   Has a short delay before dealing damage.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectile.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md) to cause the mantra to deploy ring of lightning; shocking and dealing damage to target(s) that touches its walls.
+    -   Good for isolating a target for a 1v1 situation.
+    -   Similar effect to that of Frostdraw's **Round Spark** modified [Ice Eruption](Mantra_Modifiers.md) mantra.
 
  |
 |  | 
@@ -319,27 +186,14 @@ Tornado Spark
 Grand Javelin  
 (★★☆)
 
- | A javelin made out of lightning. | 60
+ | A javelin made out of lightning. | 60 Ether | Conjure and throw a spear of lightning towards where the character is facing.
 
-Ether
-
- | User throws a spear of lightning in front of them.
-
--   Ragdolls, flings and deals moderate damage.
--   Does not guard break but gives a lot of posture if blocked.
--   Can be modified with a multiplying spark to make 3 mini javelins.
-
- | Damage:
-
-Cooldown:
-
-Properties:
-
-Daze if hit against a wall
-
-Modifiers:
-
-Multiplying Spark
+-   Deals moderate damage.
+-   Ragdolls and flings target(s).
+-   Does not break block but deals a lot of posture damage if blocked.
+-   \[\] Second Cooldown.
+-   Can give an optional effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the \[F\] key while casting.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller projectiles that travel forward and adjacent respectively.
 
  |
 |  | 
@@ -347,89 +201,48 @@ Multiplying Spark
 Bolt Piercer  
 (★★☆)
 
- | An arrow of lighting. | 50 Ether | Fires an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto where the drops fell.
+ | An arrow of lighting. | 50 Ether | Conjures before firing an arrow of lightning at the sky, causing multiple drops of thunder (7) to rain at the location of the user's cursor before cascading with lightning onto the targeted location.
 
--   **HEAVY DAMAGE**. At Level 1, it can deplete more than half a healthbar.
--   Self Damaging
--   Was formerly a legendary mantra, now either rare or common.
-
- | Damage:
-
-Cooldown:
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Multiplying Spark
-
-Stratus Stone
-
-Perfect Lens
+-   Deals high damage.
+    -   At Level 1, it can deplete more than half a healthbar from a freshie.
+-   \[\] Second Cooldown
+-   Similar to **Lightning Strike**, the user can also damage themselves with this mantra.
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
+-   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller projectiles that travel forward and adjacent respectively.
 
  |
 |  | 
 
-Rising Thunder
-
+Rising Thunder  
 (★★★)
 
- | Rise up with your opponent and crash down as a bolt of lightning | 70
+ | Rise up with your opponent and crash down as a bolt of lightning. | 70 Ether | Rush forward quickly with arms charged of lightning, sending the user up into the air and stunning any target(s) hit, user jolts rapidly in the air before crashing down into the ground.
 
-Ether
-
- | Performs an animation similar to Lightning Assault in the air before returning back to the ground.
-
--   Short windup and completely safeguards user when landed.
+-   Deals high damage.
+-   Short wind-up and completely safeguards user when landed.
+-   Ragdolls target(s).
 -   Can be blocked.
--   Ragdolls.
-
- | Damage:
-
-Cooldown:
-
-Properties:
-
-N/A
-
-Modifiers:
-
-N/A
+-   \[\] Second Cooldown.
 
  |
 
 ### **Support Mantras**
 
-| Media | Name | Card Description | Ether Cost | Effect | Stats |
-| --- | --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 |  | 
 Lightning Stream  
 (★☆☆)
 
- | A stream of lightning. | 50 Ether | Grapples onto an enemy and pulls them in.
+ | A stream of lightning. | 50 Ether | Grapple onto a target with a stream of lightning before pulling them in.
 
--   Stuns the opponent, allowing a small chance to begin a combo.
--   Can be upgraded with a Blast Spark to deal extra damage and stop enemies but no longer pull them towards you.
-
- | Damage:
-
-Cooldown:
-
-15 Seconds
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Crystal Lens
-
-Perfect Lens
-
-Blast Spark
+-   Deals light damage; moderate for **Blast Spark** variant.
+-   Stuns the target, allowing a small chance to begin a combo.
+-   15 Second Cooldown.
+-   Can be modified with **Crystal/Perfect Lenses** to increase the range of the projectile traveled.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md) to stun the target instead of pulling them towards the user.
+    -   Increases damage dealt.
 
  |
 | File:ThunderWisp.png | 
@@ -437,28 +250,12 @@ Blast Spark
 Thunder Wisp  
 (★★☆)
 
- | A servant of lightning | 70
+ | A servant of lightning. | 70 Ether | Conjure a wisp of lightning that applies "Sapping" to a target upon being flourished.
 
-Ether
-
- | Applies "Sapping" to a target on flourishes.
-
--   Sapping increases their mantra cooldown
--   When Sapping ends, the victim is shocked.
-
- | Damage: Unknown
-
-Cooldown: Unknown
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Eternal Logstones
-
-Aeon Logstones
+-   **Sapping** increases the target's mantra cooldown.
+-   \[\] Second Cooldown.
+-   When Sapping ends, the target is shocked.
+-   Can be modified with **Aeon/Eternal Logstones** to increase its uses.
 
  |
 |  | 
@@ -466,66 +263,33 @@ Aeon Logstones
 Spark Swap  
 (★★★)
 
- | After a short delay, instantly swap location with whoever your cursor is on. Will aggro if used on mobs, and there will be a small indicator before swap is active. **CAN ONLY BE PARRIED.**
+ | Swap places with a selected target. | \[\] Ether | After a short delay and indicator, instantly swap location with whatever target your cursor is on.
 
-  
-(outdated video)
-
- |  | Swap positions with another humanoid.
-
--   This can be used on NPCs or players.
--   Estimated 300 - 350 Stud Range
+-   Range scales with current health.
+-   This can be used on NPCs, players or monsters.
+-   Estimated 300 - 350 Stud range.
 -   Cannot be used while in water or airborne.
--   Very good for escaping situations, as shown in this video [https://www.youtube.com/watch?v=ohcVRP5oz5w](https://www.youtube.com/watch?v=ohcVRP5oz5w)
--   Range scales with health
-
- | Damage:
-
-N/A
-
-Cooldown:
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Cloud Stones
-
-Stratus Stones
+-   \[\] Second Cooldown.
+-   Can be used for escaping situations or for trolling, as shown in this video: "[https://www.youtube.com/watch?v=8L1xWJYGbDk](https://www.youtube.com/watch?v=8L1xWJYGbDk)"
+    -   Can be modified with **Cloudstones/Stratus Stones** to (Work in Progress).
 
  |
 
 ### **Mobility Mantras**
 
-| Media | Name | Card Description | Ether Cost | Effect | Stats |
-| --- | --- | --- | --- | --- | --- |
+| Media | Name | Card Description | Ether Cost | Effect |
+| --- | --- | --- | --- | --- |
 |  | 
 Lightning Assault  
 (★★☆)
 
- | A rush of lightning. | 60 Ether | You quickly imbue electricity and dash forward, and attack those you pass by during your dashes.
+ | A rush of lightning. | 60 Ether | The character sheathes their weapon by their left waist before rushing forward lightspeed in lightning dashes while hitting target(s) as they pass.
 
+-   Deals moderate damage.
+-   10 Second Cooldown.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
--   Can be upgraded with Cloudstones and Stratus Stones.
--   Note that the mantra can clip through walls, sending you into unwanted places, and even leading to your death.
-
- | Damage:
-
-Cooldown:
-
-10 Seconds
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Cloudstones
-
-Stratus Stones
+-   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the mantra.
+-   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |
 | 
@@ -536,24 +300,12 @@ Stratus Stones
 Lightning Cloak  
 (★★★)
 
- | A cloak of lightning itself. | 20 Ether | Your body envelops in a lightning-like cloak, improving your agility, swing speed, and granting you lightning dashes.
+ | A cloak of lightning itself. | 20 Ether | Enveloped in lightning, increase the user's agility, swing speed, and granting them lightning dashes.
 
--   A combative action, such as blocking parrying or attacking, must be used within 8 seconds or the mantra is deactivated and goes on cooldown.
+-   A combative action, such as blocking parrying or attacking, must be used within **8 seconds** or the mantra is deactivated and goes on cooldown.
+-   Lasts a duration of 6.5 - 60 seconds.
 -   Cannot last longer than 60 seconds.
-
- | Duration: 6.5-60 secs
-
-Cooldown:
-
-Properties:
-
-N/A
-
-Modifiers:
-
-Aeon Logstones
-
-Eternal Logstones
+    -   Can be modified with **Aeon/Eternal Logstones** to (Work in Progress).
 
  |
 
@@ -1323,8 +1075,10 @@ After successfully casting lightning impact, strike down countless thunder at th
 
 ## Trivia
 
+-   **Electro Carve** was formerly a 0-star mantra.
 -   **Lightning Strike** prints out the coordinates of where the strike was in the F9 log. This means that you can use **Lightning Strike** as a makeshift or bootleg compass.
--   "Static Fakeout" can be used with Spine Cutter.
+-   **Bolt Piercer** was formerly a legendary mantra, now either rare or common.
+-   "**Static Fakeout**" can be used with Spine Cutter.
 -   In the book Our Fortress, Vincent Zeneke notes that the Thundercaller's use of the Canjolin instrument spawned a method of overdrive.
     -   Linking music theory, the use of overdrive is made to alter the sound of an electrical instrument.
         

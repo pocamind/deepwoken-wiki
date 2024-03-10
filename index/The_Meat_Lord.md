@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 89730
+revid: 92442
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -63,6 +63,10 @@ _**(Work in progress, add more locations if you know any and remove this text wh
     -   "Dress up as a salad and maybe then you'll get a reaction from me."
         -   Before November 3rd, 2022, The Meat Lord would've been spooked like any other ordinary static NPC.
 -   In books, it is mentioned that The Meat Lord is related to Dr. Giggletouch.
+
+## Gallery
+
+The Meat Lord at Starswept Valleys
 
 ## References
 

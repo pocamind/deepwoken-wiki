@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 92400
+revid: 92459
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Stub pages without reason, StubPages, Swords]
@@ -37,22 +37,18 @@ notices:
 | swing speed | 0.73x |
 | penetration | 15% |
 | chip damage | 15% |
-| selling price | ??? |
+| selling price | 50 |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Applying a Pluripotent Alloy on the base weapon |
-| description | ??? |
+| description | Considered by many to be an overgrown kitchen knife, the Messer is a favorite of rangers and beast hunters the world over. |
 
 **Base:**
 
 **Alloyed:**
-
-## Description
-
-The Messer is a Medium Weapon that can be obtained by buying it at the weapon shop in [Etris](Etris.md) or from [Erisia](Erisia.md) Chests. This weapon has no special effects or passives. It can be alloyed to create Alloyed Messer.
 
 ## Trivia
 

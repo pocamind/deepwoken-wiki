@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 92415
+revid: 92443
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -19,7 +19,7 @@ categories: [Oaths]
 
 ## Description
 
-**[Oath](Oaths.md): GAYwalker** is one of the 12 obtainable Oaths in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath. (although still possible in one run but VERY risky and not recommended.)
+**[Oath](Oaths.md): Dawnwalker** is one of the 12 obtainable Oaths in _Deepwoken._ It focuses mainly on high damage output. Together with [Oathless](Oath%253A_Oathless.md), [Linkstrider](Oath%253A_Linkstrider.md), [Contractor](Oath%253A_Contractor.md) and [Fadetrimmer](Oath%253A_Fadetrimmer.md), it is one of 5 Oaths that have no direct stat requirements. It is one of the hardest Oaths to obtain, requiring multiple expeditions into [New Kyrsa](Second_Layer/New_Kyrsa.md) to obtain and fully upgrade the oath. (although still possible in one run but VERY risky and not recommended.)
 
 ## Obtainment
 

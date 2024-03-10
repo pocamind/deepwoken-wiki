@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 92413
+revid: 92446
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -62,3 +62,5 @@ When obtained, Skeleton Key will spend its points on the following stats:
 -   The walls can block ships from sailing, and also are invulnerable to their cannonballs, making them great for shielding your ship as you sail.
 
 -   Make sure to remember that the walls will quickly despawn prematurely if the owner is far away.
+
+-   You can somewhat consistently get pushed/push yourself through walls with the Skeleton Key's activated push, provided the wall you're trying to pass through is thin enough. A good example of this is the mineskipper cave next to the small house by the side of the windmill in Songseeker.

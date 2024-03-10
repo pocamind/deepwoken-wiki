@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 91118
+revid: 92458
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Locations, Map]
@@ -16,7 +16,7 @@ You can feel your soul dragging down like a weight, deeper, further into the dep
 
   
 
-**The Depths** is a location in _Deepwoken_. Players are sent to The Depths after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by a Whirlpool, losing their last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifiers, dying within a [Voidzone](Voidzones.md), being consumed by a corrupted [Blood Scourge](Resonance.md), dying in the [Voidsea](Voidsea.md), or using the Call of the Deep talent granted exclusively to [deepbound](Origins.md#deepbound) players.
+**The Depths** is a location in _Deepwoken_. Players are sent to The Depths after [dying](Death.md) whilst having a stained/rusty health bar, getting killed by the [Primadon](Primadon,_Titan_of_the_East.md), being sucked in by [Whirlpools](Whirlpools.md), losing their last skull in the [Chime of Conflict](Chime_of_Conflict.md), dying with the [Hollow](Echoes.md) or [Vow of Thorns](Echoes.md) modifiers, dying within a [Voidzone](Voidzones.md), being consumed by a corrupted [Blood Scourge](Resonance.md), dying in the [Voidsea](Voidsea.md), or using the Call of the Deep talent granted exclusively to [deepbound](Origins.md#deepbound) players.
 
 The Depths is a purgatory to all the Drowned, and home to the Sea Monsters dotted all across the world of _Deepwoken_. In the center, a bastion to freedom keeps the return to the surface out of arms reach. Dying to anything within The Depths will kill your character for good and force you to create another character from Power 1 again.
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 92394
+revid: 92444
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -66,7 +66,7 @@ _The Lord Regent, sitting atop his throne of coral._
     -   When asked, developer ragoozer simply stated that it is up the interpretation of the reader.
 -   Even more powerful than the Lord Regent.[\[1\]](#cite-note-rag-1)
 -   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the Celestials with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
--   Commissioned the Map for the East Luminant
+-   The Map for the East Luminant was commissioned in his name.
 
 ### **The First Prophet**
 
