@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 92264
+revid: 92394
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -148,16 +148,14 @@ The Duke
 _"Another one...? You've got to be kidding me." - Akira_
 
 -   [Akira](Akira.md) is found as an encounter in [The Depths](The_Depths.md), within the outskirts of Celtor Wastes.
+-   Though a normally capable fighter who deals with deeper layers, the higher ups have reassigned him to the First Layer to take care of recruits, much to his chagrin.
 -   Akira wields a purple _**Corrupted**_ Resonance Bell, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
-    -   This is probably why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
-    -   The bell is believed to have some connection to Yun'Shul, as they both have a similar head-popping power.
-    -   Strong enough opponents like Klaris will not be instantly killed by the bell. This explains why when you pick the charisma option dialogue with 75 charisma he runs away, thinking that you're too strong and that he can't use his bell to kill you.[\[1\]](#cite-note-rag-1)
+    -   This is probably another reason why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
+    -   Strong enough opponents like Klaris will not be instantly killed by the bell.[\[1\]](#cite-note-rag-1) This explains why when you pick the Charisma option dialogue with 75 Charisma he retreats, fooled into thinking that you're too strong and that he can't use his bell to instantly kill you, or at least not without shaving a good amount of his lifeforce off.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
--   Akira stated that "Most of my field work doesn't concern this layer", possibly meaning that despite residing in the first layer for now, he travelled and worked in the Second Layer and maybe even deeper.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
--   Despite being rude most of the time and showing very little interest about his job, he apparently has great interest into learning about the depths as told by Klaris.
--   The katana he wields isn't strapped to his back; it's floating. (Yes, this is canon.)[\[1\]](#cite-note-rag-1)
+-   The katana he wields isn't strapped to his back; it's floating. (Yes, this is canon).[\[1\]](#cite-note-rag-1)
 
 ### **Amorus Pleeksty**
 

@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 92366
+revid: 92400
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Stub pages without reason, StubPages, Swords]
@@ -18,7 +18,7 @@ notices:
 | scaling | 5 |
 | range | 7.5 |
 | swing speed | 0.7x |
-| selling price | ??? |
+| selling price | 7 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |

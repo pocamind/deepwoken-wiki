@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 92010
+revid: 92392
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -25,11 +25,9 @@ The Scion of Ethiron is a boss encountered at the end of the [second floor](Seco
 
 It utilizes a variety of attacks in combat. Notably, it can summon large bones and direct them towards its targets, while also being able to directly conjure bones below its targets to impale them. In addition, It can cast a purple beam of energy towards its target, or alternatively, use the same energy to create a swirling sphere that disorientate its target. Alternatively, the Scion of Ethiron may channel said swirling sphere with a great amount of energy before releasing it, obliterating anything in its area of effect.
 
-Upon defeat, five chests containing **[Kyrsan Medallions](Kyrsan_Medallions.md)** will re-spawn in random areas on Floor 2. These bright pink chests contain up to seven medals, which can be exchanged at Klaris for dyes, enchantments, and the [Dawnwalker](Oath%253A_Dawnwalker.md) oath. Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possible Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, as well as [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise you perish in 2 minutes. Do keep in mind that the Scion of Ethiron is **Immune** to the effects of Vampirism.(you seem to actually heal but really low compared to other things, from a brief example, you pass from healing 4% from an attack to healing 0.5%)
+Upon defeat, five chests containing **[Kyrsan Medallions](Kyrsan_Medallions.md)** will respawn in random areas on Floor 2. These bright pink chests contain up to seven medals, which can be exchanged at Klaris for dyes, enchantments, and the [Dawnwalker](Oath%253A_Dawnwalker.md) oath. Furthermore, defeating the boss allows you to keep any all loot obtained in Floor 2. In addition, a **Boss Chest** containing end-game weapons, rare rings, multitudes of Deep Gems, and possibly, Legendary Weapons. Finally, the player will receive a significant amount of experience, heavy Resonance progression, and [Diver](The_Divers.md) reputation. However, it also destabilizes the layer, requiring immediate extraction to [Scyphozia](First_Layer.md) via a Light Hook placed at the front of the City. You must exit through this Light Hook in order to keep your rewards; otherwise, you will **wipe unavoidably in 2 minutes.**
 
-**This boss is very punishing with it's damage.** Exercise extreme caution if you're doing this alone or as a duo as it is very likely the fight would become lethal due to a mistake or two.
-
-**ACTIVATING THE BOSS FIGHT WILL REMOVE ANY REMAINING LIGHT HOOK IMMEDIATELY.**
+Do keep in mind that the Scion of Ethiron is extremely resistant to the effects of [Vampirism](Enchantments.md). The healing is reduced enough as to be rendered quite literally negligible.
 
 ## Attacks
 
@@ -49,7 +47,11 @@ File:Blinding Gale.gif
 
 **Bonestaves of Eld**
 
- | The Scion of Ethiron launches three bones at you. These do a very low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall. This attack has the same pattern every time unless someone dies. Meaning if the pattern starts as A>B>C>D, it will stay as ABCD until someone dies, in which it will swap, e.g CBA, ACB, etc. | 
+ | The Scion of Ethiron launches three bones at you. These do a very low amount of posture damage and can be blocked or parried. If you block/parry this attack, the bone will fall onto the floor, and you can use this to stun Ethiron. If the bone hits you, it will not fall onto the floor and will deal a medium amount of damage. The same will happen if dodged or if they hit a wall.
+
+This attack always targets the same players in the same order unless someone dies.
+
+ | 
 
 File:Bone Toss.gif
 
@@ -67,7 +69,7 @@ File:Ethi ult.gif
 
 **Pressurised Wind**
 
- | The Scion of Ethiron charges up its arm and quickly releases a purple laser. This will lock onto you, and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does low dps. | 
+ | The Scion of Ethiron charges up its arm and quickly releases a purple laser. This will lock onto you, and you have to parry it. Damage can be punishing if you mess up. Parry timing should be done reactively to getting hit instead of pre-emptively, as this move shares an animation with Blinding Gale, and does little damage initially. | 
 
 File:Ethi laser.gif
 
@@ -76,7 +78,7 @@ File:Ethi laser.gif
 
 **Whiplash**
 
- | Scion of Ethiron pulls its arm back and then swings it at the player. The arm will remain for 1-2 seconds after doing the attack, allowing for a few hits. Can be punishing if you don't know how to look out for this/parry this. | 
+ | Scion of Ethiron pulls its arm back and then swings it at the player. The arm will remain for 1-2 seconds after doing the attack, leaving the Scion vulnerable to a few hits. Does fairly high damage. | 
 
 File:Big fist.gif
 
@@ -85,7 +87,11 @@ File:Big fist.gif
 
 **Bonegrow**
 
- | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. | 
+ | Bones will appear on the ground and grow upwards. If this hits you it will push you into the air and do low damage. The Scion of Ethiron can use other attacks while Bonegrow is still active.
+
+Simple to avoid- just jump.
+
+ | 
 
 File:Bone floor.gif
 
@@ -94,7 +100,7 @@ File:Bone floor.gif
 
 **Bone Stream**
 
- | Bones will rise up from the ground like a wave in the ocean on **one floor**, **this** **DOES NOT LOCK the boss out of using their other moves at the same time**.
+ | Bones will rise up from the ground and circle around **a single floor.** Similar to Bonegrow, being able to remain active during other attacks, but sends you further into the air and does more damage.
 
 To avoid, you must jump. You can just hold space and you'll be pretty much safe or move to another floor.
 
@@ -131,7 +137,7 @@ The Scion of Ethiron is often said to be extremely difficult, when in reality th
 ## Trivia
 
 -   The usage of scion in this context refers to a a young shoot or twig of a plant, especially one cut for grafting or rooting. This might be a metaphor for it being just a tiny piece of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>), one yet to grow. However, it is often referred to as the avatar of Ethiron, or the form of Ethiron's power as stated by [Cap'n Orleandeau](<Cap'n_Orlandeau.md>).
--   Update logs refer to it as Ethiron's Scion, but dying to it states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the [Restore Rulebook](https://docs.google.com/document/d/e/2PACX-1vQUwjgPHEqZ_Ok8N9x_cYv9jm27Ln2pcPepOPtuFFXk8rbkuShDlVADoTw_hIjwlNA0itXTa5-6R7Q6/pub).
+-   Update logs refer to it as Ethiron's Scion, but dying to it or hovering over the danger icon in its fight states its name is Scion of Ethiron. Also referred to as Ethiron's Avatar in the [Restore Rulebook](https://docs.google.com/document/d/e/2PACX-1vQUwjgPHEqZ_Ok8N9x_cYv9jm27Ln2pcPepOPtuFFXk8rbkuShDlVADoTw_hIjwlNA0itXTa5-6R7Q6/pub).
 -   Due to the Vampirism enchant being mostly ineffective on bosses, the player must rely on other sources of healing like [Flamecharm's](Flamecharm.md) Flame Wisp and the health obtained from killing [Kyrsgarde](Kyrsgarde.md).
 -   The branches on its head are inspired by dendrites in neuron diagrams.
 -   The developers refer to the Scion of Ethiron using singular they/them pronouns. This behavior is shared with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).

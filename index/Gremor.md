@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 92262
+revid: 92402
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -30,7 +30,7 @@ Gremors are a race similar to deer. They appear with greenish, blue or brown ski
   <ul>
     <li>"<i>Navae's star guides your path, showing you the way forwards. You are less prone to starvation.</i>"
   <ul>
-    <li>Gain a compass at the top of your screen that points West.</li>
+    <li>Gain a compass at the top of your screen that points East.</li>
     <li>Reduced hunger loss.</li>
     <li>If blind, gain a slight range of clear vision around you.<figure><figcaption></figcaption></figure></li>
   </ul></li>
@@ -97,6 +97,6 @@ SURNAMES
 ## Trivia
 
 -   In [The Depths](The_Depths.md), your compass is tilted differently than on the surface, forcing you to tilt your camera angle in order to use it.
--   The compass points West, seemingly towards the Central Luminant and Navae's presumed location, which in turn make the compass work like a normal compass, pointing West instead of North.
+-   The compass points East. This has been tested using the Map feature, sailing straight forward while the compass points "up."
 -   During 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Gremor race name was changed to Hornskipper.
 -   When wearing a helmet/hat, it won't hide the horns.

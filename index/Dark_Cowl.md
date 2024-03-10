@@ -1,6 +1,6 @@
 ---
 title: Dark Cowl
-revid: 69918
+revid: 92401
 source: https://deepwoken.fandom.com/wiki/Dark_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Armors]
@@ -26,4 +26,4 @@ categories: [Character, Armors]
 
 ## Description
 
-The Feathertop Helm is an Equipment item in the "_Head_" category_._ Equipping this item will give you +1 and +4% Stealth, as well as extra randomized stats based on the amount of pips.
+The Dark Cowl is an Equipment item in the "_Head_" category_._ Equipping this item will give you +1 and +4% Stealth, as well as extra randomized stats based on the amount of pips.

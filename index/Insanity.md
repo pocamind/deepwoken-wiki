@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 92047
+revid: 92389
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -52,7 +52,7 @@ A Hive Guard seen during Tier 2 Insanity triggered by Heretic's Sutra
 -   Corrupted [resonance](Resonance.md) downside. Gives around 95% insanity, making it extremely dangerous to use in the Depths, and in general.
 -   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you -100 sanity when you unsheathe your weapon while in [The Depths](The_Depths.md). Without any Willpower, it instantly kills you, as you start with 80 sanity, however the effects of this can be reduced through increasing Willpower.
 -   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease.
--   Being in the immediate vicinity of the meatball chains and looking at them in [Ancient Rotlands](Ancient_Rotlands.md)
+-   Being in the immediate vicinity of the pulsating brains with eyes and looking at them in [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Wishbound](Developer_Specs.md) Flaw during nighttime.
 -   Heretic's Sutra
 -   Using Blindseer Mantras

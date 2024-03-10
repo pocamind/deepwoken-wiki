@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 81613
+revid: 92383
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -28,8 +28,6 @@ categories: [Weapons, Spears]
 ## Description
 
 The Kyrsglaive is an Endgame [Medium Weapon](Weapons.md) under the Spear category obtained from [Layer 2](Second_Layer.md) of [The Depths](The_Depths.md). It uses the default Spear Critical Attack, which consists of two slashes, the first one sweeping the legs of the opponent and pushing the user back before dashing forwards and thrusting the spear into the opponent.
-
-  
 
 ## Trivia
 
