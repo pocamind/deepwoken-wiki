@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 91920
+revid: 92499
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -34,6 +34,7 @@ Can also be used to summon [Hail, Sandstorms,](Environmental_Hazards.md) or [Aci
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
+-   [First Layer](First_Layer.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)  
     
 
@@ -78,9 +79,10 @@ Anyone Power 15+ that dies within its field will immediately drown to [The Depth
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~5%)**
--   [The Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md) **(~5%)**
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [First Layer](First_Layer.md)
 
  |
 | 
@@ -95,10 +97,11 @@ Can be used in any location.
  | 
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) **(~3%)**
--   [The Ferryman](The_Ferryman.md)
+-   [The Ferryman](The_Ferryman.md) **(~11%)**
 -   [Primadon's Gem Chest](Primadon,_Titan_of_the_East.md)
 -   [Fishing](Fishing.md)
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [First Layer](First_Layer.md)
 
  |
 | 

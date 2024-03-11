@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 79140
+revid: 92494
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs]
@@ -16,7 +16,7 @@ categories: [Weapons, Clubs]
 | range | 7.5 |
 | swing speed | 0.7x |
 | penetration | 0 |
-| selling price | 16 notes |
+| selling price | 16 |
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
@@ -27,7 +27,7 @@ categories: [Weapons, Clubs]
 
 ## Description
 
-The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at Etris. It's an early-game Medium Weapon. It is somewhat common to find. It has 20 Base Damage and 5 Medium Weapon scaling.
+The **Mace** is a medium weapon that does blunt damage, it is sold at the Weaponry store at [Etris](Etris.md) for 16 notes. It's an early-game Medium Weapon. It is somewhat common to find. It has 20 Base Damage and 5 Medium Weapon scaling.
 
 ## Trivia
 

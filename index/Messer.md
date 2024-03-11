@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 92459
+revid: 92489
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Stub pages without reason, StubPages, Swords]
@@ -49,6 +49,12 @@ notices:
 **Base:**
 
 **Alloyed:**
+
+## Description
+
+The Messer is an early-game sword that can be found in chests in [Lower Erisia](Lower_Erisia.md), as well as in the [Etris](Etris.md) weapon shop for 16 notes. Due to its nature as a very early game weapon, it is quickly overshadowed, even by weapons with the same requirements.
+
+The Messer is one of the weapons able to have a [Pluripotent Alloy](Pluripotent_Alloy.md) applied to it, boosting its stats to stay somewhat relevant later in the game.
 
 ## Trivia
 

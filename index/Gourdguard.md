@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 85469
+revid: 92490
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]

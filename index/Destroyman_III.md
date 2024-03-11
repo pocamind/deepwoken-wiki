@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 92181
+revid: 92505
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -173,29 +173,28 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 
 ## Trivia
 
--   The trailer promoting the Destroyman III ~plushie~ physical form, was rather controversial, as it used AI generated backgrounds for several scenes. TheRealPunchee, who made the trailer, apologized, stating he was forced to due to time constraints.
--   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your Attunement.
--   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the game "[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)."
--   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)", along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by Agamatsu in one of his streams (same goes for the April fools lobby music)
--   The tooltip "Flamecharm? Daring today, aren't we?" is a reference to Spongebob episode "PICKLES" due to Squidward's quote "Daring today, aren't we?"
+-   The trailer promoting the Destroyman III ~plushie~ physical form, was rather controversial, as it used AI-generated backgrounds for several scenes. TheRealPunchee, who made the trailer, apologized, stating he was forced to due to time constraints.
+-   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your Attunement. It is a reference to the animated show _[Spongebob Squarepants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)_, specifically the episode "[PICKLES](https://www.youtube.com/watch?v=5icZ0qixzBM)".
+-   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the video game [_Darkest Dungeon_](https://en.wikipedia.org/wiki/Darkest_Dungeon).
+-   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)", along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by Agamatsu in one of his streams (same goes for the April fools lobby music).
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
     -   He's escaped both into the real and overworlds, nowhere is safe.
--   The tooltip “I’m smart, you’re dumb; I’m big, you're little; I’m right, you're wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name and is said by the one and only; our lord and saviour Danny Devito.
+-   The tooltip “I’m smart, you’re dumb; I’m big, you're little; I’m right, you're wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name, and is said by the one and only; our lord and saviour Danny Devito.
 -   The hint "Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement." became outdated ever since the addition of Ironsing. Destroyman III apparently forgot that Arch\_Mage changed lore to make Ironsing an attunement and not an Oath.
     -   This was later corrected to say seventh.
--   He is based on a sticker in the discord drawn by Sycne.
+-   He is based on a sticker in the Discord drawn by Sycne.
 -   He seems to be a parody of old desktop assistants of the late 1990's, particularly the controversial [Bonzi Buddy](https://en.wikipedia.org/wiki/BonziBuddy), a freeware application of the time that was considered to be adware.
 -   The line "Why are you looking at me like that? Cut it out. You're creeping me out." is a direct reference to Flowey from _Undertale_, when he becomes scared of the player during the Genocide route.
 -   The line "I've been thinking of starting a band recently. Might call it (Adjective) (Noun). What do you think?" has many possible responses with a list of verbs and nouns. Two-time, Generated, Lore, and Wheat are some possible verbs, while Tony, Tornado, and Error are some possible nouns.
 -   Despite being a physical virus, he refers to being coded.
 -   The tooltip "TIP: Birds aren't real." is a reference to the satirical conspiracy theory of the same name, "[Birds Aren't Real](https://en.wikipedia.org/wiki/Birds_Aren%27t_Real)".
 -   The tooltip "Every copy of Deepwoken is personalized." is Destroyman III riffing on the "[Every copy of Super Mario 64 is personalized](https://knowyourmeme.com/memes/super-mario-64-conspiracy-theories)" craze/conspiracy that somehow landed itself on a Deepwoken iceberg, which was covered by Agamatsu.
--   Destroyman III plays games and refrences things from the Super Mario Brothers franchise. Nintendo is yet to find out about this. Please don't tell them.
+-   Destroyman III plays games and references things from the Super Mario Brothers franchise. Nintendo is yet to find out about this. Please don't tell them.
 -   Destroyman III has the most "lines" of "dialogue" out of any character currently in the game.
 -   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion and/or is/will be be unable to pay his taxes and is currently on the run from the IRS (Internal Revenue Sharkos).
--   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to Outer Wilds.
--   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to Destiny.
--   The name "Destroyman III" is a reference to the character Destroyman, a boss in the game series "No More Heroes" ([\[1\]](https://youtu.be/nVm0QQ-tR2w))
+-   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to the video game Outer Wilds.
+-   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to the video game Destiny.
+-   The name "Destroyman III" is a reference to the character [Destroyman](https://nomoreheroes.fandom.com/wiki/Destroyman), a boss in the video game series _No More Heroes_.
 -   The sound played when Destroyman III first appears comes straight from _No More Heroes_.
 -   The tooltip: "Moe..." is a reference to [Travis Touchdown saying the same line in his morning routine](https://www.youtube.com/watch?v=TQ3lh97fDVY) in _No More Heroes_.
 -   We love Destroyman III. You love Destroyman III.
@@ -204,11 +203,10 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   The line “HINT: If you can't solve a puzzle and have to use the wiki, you are foolish and I will laugh at you. As a friend. Like, in a friendly way.” is a reference to the wiki! The one you’re on right now! (Wow.) This was the first ever public acknowledgment of the wiki prior to it being declared official. (The apparent puzzle seems to be a reference to the library puzzle in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) and the puzzle in [The Birdcage](The_Birdcage.md))
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
 -   This page has the most trivia of any page on the wiki currently.
--   Destroyman III has the most voicelines of any entity in Deepwoken except the player, who doesn't matter in his grand plan.
 -   He is present on the [Villains wiki](https://villains.fandom.com/wiki/Destroyman_III). He is everywhere.
--   The line "You don't have to do anything anymore. Ever. Never Ever." may be a reference to the intro of the game _Disco Elysium_.
+-   The line "You don't have to do anything anymore. Ever. Never ever." is a reference to [the intro](https://www.youtube.com/watch?v=7ZU2elURPPA) of the video game _[Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium)_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
-    -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
+-   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
--   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
--   The line "IT'S JUST ONE OF THOSE DAYS." may be a reference to the song _Break Stuff_ by Limp Bizkit.
+-   Developer Ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
+-   The line "IT'S JUST ONE OF THOSE DAYS." is a reference to the song _[Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)_ by Limp Bizkit.
