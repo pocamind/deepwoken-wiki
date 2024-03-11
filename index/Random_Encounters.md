@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 91989
+revid: 92527
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -243,7 +243,7 @@ An incredibly rare event which has only been spotted in [Erisia](Erisia.md) so f
 
 ### **The Depths Collapse**
 
-The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through Layer 1 causing meteors to rain from above. Many rocks slam down landing near the player and spawn monsters from each impact. These monsters are frequently hostile to each other.
+The ceilings of [Scyphozia](The_Depths.md) shake as huge earthquakes rumble through Layer 1 causing meteors to rain from above. Many rocks slam down landing near the player and spawn monsters from each impact, these range from thresers to corrupted squibbos and corrupted megalodaunts. These monsters are frequently hostile to each other. After you killed all the mobs, 3 or 4 chests will spawn. The loot ranges from gems, armor schematics and other good depths loot.
 
 ### **Resonant Dawn**
 
