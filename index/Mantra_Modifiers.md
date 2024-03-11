@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 92531
+revid: 92547
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -1454,6 +1454,58 @@ File:Dark Blade with Tornado Spark.gif
  | 
 
 -   This modifier adds a spin at the end of the "Dark Blade" Mantra.
+
+ |
+
+**Paired Sparks:**
+
+## Specific Effects of Sparks
+
+| Mantra | Original | Modified | Combination | Effect |
+| --- | --- | --- | --- | --- |
+| 
+Wind Gun
+
+(★★☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Multiplying Spark**
+-   **Blast Spark**
+
+ | 
+
+-   This combination of modifiers causes the "Wind Gun" mantra to fire 3 rounds of short wind bullets.
+
+ |
+
+**With Talent:**
+
+## Specific Effects of Sparks
+
+| Mantra | Original | Modified | Combination | Effect |
+| --- | --- | --- | --- | --- |
+| 
+Lightning Clones
+
+(★☆☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   **Static Flash Clone** (Talent)
+-   **Blast Spark**
+
+ | 
+
+-   This combination of talent and modifier causes the clone in the "Lightning Clones" mantra conjure a Lightning Strike when it disappears.
 
  |
 

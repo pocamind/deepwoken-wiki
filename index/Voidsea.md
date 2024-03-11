@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 91720
+revid: 92556
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

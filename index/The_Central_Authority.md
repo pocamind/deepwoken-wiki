@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 92522
+revid: 92553
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -55,6 +55,7 @@ The Central Authority is among the factions to have a Bounty Board.
 
 ## Trivia
 
+-   It's very bizarre that this even has to be stated, but the Central Authority are very much racist. Them employing other Races is merely pragmatism, and is something that has been done by numerous infamously racist groups in real life.
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except Celtor.
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer (Lord Regent) from causing a great drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.
@@ -62,7 +63,6 @@ The Central Authority is among the factions to have a Bounty Board.
     -   These may be due to the closing of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md) cutting off orders and reinforcements from the Central Luminant.
     -   Interestingly, [Warden Jericho](Warden_Jericho.md) believes the Authority's peacekeeping may be contributing to the drowning, likely due to the casualties it's generating.
 -   Although they are a major faction, they received very little out of the Deepwoken: Verse 2 update, this is probably because of the fact that Fort Merit and such is just a fraction of the Central Authority.
--   They are one of the two nations in deepwoken to have racially diverse ranks.
 -   Though they are enemies with the Hive, they are not actually in an official government sanctioned war, unlike Etrea and the Legions. They don't invade each other, they only fight on the battlegrounds of Starswept.
 -   There will be an Authority Origin in future updates, possibly alongside the warmaster oath, that is highly related to the Authority. Meaning that in the next big update, or alongside small updates, the Authority will have more implications in Deepwoken.
 -   It is highly likely that the Authority Origin and Warmaster oath will be added within the Central Luminant update, though this is simply speculation.

@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 90305
+revid: 92551
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Armors, Outfits, Items]
@@ -4932,6 +4932,6 @@ Found from:
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12th, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
 -   Stars can increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
--   Highest theoretical HP kit in game is 158 HP. (4x 9 HP Moon and Waning Rings, 47 HP Divers Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots, 2 HP Moonlit Earrings)
+-   Highest theoretical HP kit in game is 162 HP. (4x 9 HP Moon and Waning Rings, 51 HP Divers Light Plate (Drowned), 13 HP Scarf, 30 HP Knight's Helm, 30 HP Star Boots, 2 HP Moonlit Earrings)
 -   Highest theoretical DvM kit in game is 64 DvM. (4x 4 DvM Rings, 19 DvM Pathfinder Elite (Drowned), 5 DvM Scarf, 9 DvM Hood, 9 DvM Boots, 3 DvM Mask, 3 DvM Earrings
 -   The echo shop allows for an additional 8% DvM onto your character, meaning the max DvM you could possibly have is 72%
