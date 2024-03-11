@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 92336
+revid: 92516
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -46,7 +46,7 @@ She is rather rude at times, frequently insulting those she views as weak, and i
   <td colspan="7">Someone competent? That's rare.</td>
   <td colspan="7">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the Second Layer.</td>
   <td colspan="7">Wait. You're back? After pulling you out of that pit, I figured you'd be out the door and on to somewhere else. So what brings you back, what did you find down there?</td>
-  <td colspan="7">???</td>
+  <td colspan="7">Gods Below, (uh i forgot the rest)</td>
 </tr>
 <tr>
   <td colspan="7">End</td>
