@@ -1,9 +1,9 @@
 ---
 title: Gunsmith
-revid: 90054
+revid: 92623
 source: https://deepwoken.fandom.com/wiki/Gunsmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Guilds]
 ---
 
 # Gunsmith

@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 83697
+revid: 92647
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Map, World]
@@ -32,11 +32,6 @@ The Etrean Wilds is a small forest found before entering [Etris](Etris.md).
 -   Ruined House
     -   A small ruined house found below Etris that has importance with [The Librarian](Isle_of_Vigils.md#the-librarian-quest) quest.
     
-
-## Potential Enemies
-
--   [Navaen Nomad](Navaen_Hostage.md)
--   [Etrean Guardsmen](Etrean_Guardsmen.md)
 
 ## Maps
 

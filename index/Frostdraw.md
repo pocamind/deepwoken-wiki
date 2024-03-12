@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 92608
+revid: 92631
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -204,7 +204,7 @@ _Chains of ice._
 
 -   Deals light damage.
 -   Inflicts Chill.
-    -   Can be increased with **2 Aeon Logstones** or **2 Eternal Logstones**.
+    -   Can be increased with **2 Aeon Logstones** or **1 Eternal Logstone**.
 -   Can be modified with both [Aeon/Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
 -   Can be modified with lens to increase the range of casting the mantra.
 
@@ -226,7 +226,7 @@ _A flurry of ice spikes._
 -   Does actually inflict Chill, though it lasts too short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
--   Compatible with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
     -   Warning: this modifier will cause the mantra to do NO DAMAGE.
 
  |
@@ -264,7 +264,7 @@ _A colossal mace of ice._
 -   Can break objects.
 -   Breaks block at mantra level 5.
 -   Inflicts Chill
-    -   5 second base, 9 seconds with 1 Eternal Logstone.
+    -   5 second base, 9 seconds with 1 **Eternal Logstone**.
 
  |
 | 
@@ -284,7 +284,7 @@ _Form an ice spear and lunges forward._
 -   Applies Chill.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   User gains considerable forward momentum on use.
--   Sometimes used in conjunction with Glacial Arc to fling the player skywards.
+-   Sometimes used in conjunction with the **Glacial Arc** mantra to fling the player skywards.
 
  |
 |  | 
@@ -316,8 +316,8 @@ _Send forth a flock of ice_
  | Send a fury of rapid-moving birds of ice to fly in front of the user, dealing damage if they hit an enemy.
 
 -   Deals moderate damage.
+-   Deals high posture damage.
 -   Does not inflict Chill.
--   Deals High Posture damage.
 -   Low cooldown.
 -   Good for area denial.
 
@@ -337,9 +337,11 @@ _A sharp disk of ice._
 
 -   Deals moderate damage.
 -   Does not inflict Chill.
--   Can be modified with Stratus stones and Cloudstones to increase its size.
--   Applying a round spark on it completely changes its function, instead increasing your movement speed and ending early if nothing is hit or is continuously blocked/parried, however, if an enemy is hit succesfully, it will continue to hit for around 8 seconds, dealing high damage.
--   Applying a spring spark on this mantra changes how Ice Carve works and instead of you holding it, you throw it like a boomerang and it comes back to you
+-   Can be modified with **Cloudstones/Stratus Stones** to increase its size.
+-   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the user to rush forward rapidly while spinning the projectile of the mantra around them.
+    -   However, if an enemy is hit successfully, it will continue to hit for around 8 seconds, dealing high damage.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md) to cause the user to throw the projectile forward before recalling it back.
+    -   Slows the user down.
 
  |
 |  | 
@@ -355,9 +357,9 @@ _Manifest cubes of Ice to fire at your enemies. Cast the mantra again to fire cu
 
 -   Deals moderate damage.
 -   Projectiles are homing.
--   Compatible with a Multiplying Spark to instead send them one by one.
--   Has a good amount of range.
 -   Does not inflict Chill.
+-   Has a good amount of range.
+-   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to cause the mantra to send out each projectile individually.
 
  |
 |  | 
@@ -373,11 +375,11 @@ _Send ice rippling out in a shockwave._
 
 -   Deals light damage.
 -   First hit applies Chill.
-    -   12 second base, 16 with 1 Eternal Logstone.
+    -   12 second base, 16 with 1 **Eternal Logstone**.
 -   Up to 3 Obelisks can be active on the field at any time.
 -   Recasting this mantra near an active Obelisk causes it and all others placed to explode.
--   Summons wherever your mouse is pointed, at a range.
--   Creating an Obelisk on top of someone will stun them for ten seconds.
+-   Summons wherever the user's mouse is pointed, at a range.
+-   Creating an Obelisk on top of target(s) will stun them for 10 seconds.
 
  |
 
@@ -433,7 +435,7 @@ _Swift bolts of frozen air._
 -   Inconsistent Hitbox.
 -   Is similar to Galebreathe's "[Wind Gun](Galebreathe.md)" mantra.
 -   Can be modified with a [Cloudstone](Mantra_Modifiers.md) to increase the shots fired.
--   Can be paired with a [Spring Spark](Mantra_Modifiers.md).
+-   Can be paired with a [Spring Spark](Mantra_Modifiers.md) to delay the projectile from traveling.
 
  |
 

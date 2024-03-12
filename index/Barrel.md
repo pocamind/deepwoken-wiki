@@ -1,9 +1,9 @@
 ---
 title: Barrel
-revid: 68800
+revid: 92630
 source: https://deepwoken.fandom.com/wiki/Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Objects]
+categories: [Objects, World]
 ---
 
 # Barrel

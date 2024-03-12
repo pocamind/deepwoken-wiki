@@ -1,6 +1,6 @@
 ---
 title: Materials
-revid: 91960
+revid: 92646
 source: https://deepwoken.fandom.com/wiki/Materials
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, World, Items]
@@ -24,26 +24,6 @@ Wood can be obtained chopping down trees. You can obtain more wood from bigger t
 
 Crafting a Campfire Pit, 3 sticks, a Lumber Axe or a Pickaxe at a crafting station, and selling it to the Lumberjack Quest giver at the [Isle of Vigils](Isle_of_Vigils.md) or [Etris](Etris.md). Additionally, Pure Ore can be given to the [Blacksmith](Blacksmith.md) for varying loot.
 
-## Coal
-
-### Obtainment
-
-Mining at various places around the map.
-
-### Uses
-
-Crafting [Flint](Flint.md) and Umbral Flint.
-
-## Rock
-
-### Obtainment
-
-Mining at various places.
-
-### Uses
-
-Can be thrown at people to put them in combat tag, craft flint, and certain schematics.
-
 ## Cloth
 
 ### Obtainment
@@ -64,49 +44,9 @@ Can be bought from the General Store for or crafted with Bamboo Bundles/Spider E
 
 Used in all armor schematics except the Traveler Coats. Can be used to craft a [Fishing Rod](Fishing.md).
 
-## Iron
+## Ores
 
-### Obtainment
-
-Mining at various places or buying it from the Blacksmith in Etris/Isle of Vigils for.
-
-### Uses
-
-Can be used to craft bullets, make a Lumber Axe or Pickaxe at a crafting station, and required for most schematics.
-
-## Gold
-
-### Obtainment
-
-Mining at various places or buying it at the Blacksmith in Etris/Isle of Vigils.
-
-### Uses
-
-Required in many schematics.
-
-## [Irithine](Ores.md#irithine)
-
-### Obtainment
-
-Mining at [Upper Erisia](Upper_Erisia.md) and [Saramaed Summit](Saramaed_Summit.md).
-
-Can be dropped by Mineskippers and Mechalodaunts.
-
-### Uses
-
-Required in some schematics.
-
-## Erisore
-
-### Obtainment
-
-Mining at Upper Erisia.
-
-Can be dropped by Mineskippers and Mechalodaunts.
-
-### Uses
-
-Required for some schematics.
+Main page: [Ore](Ores.md)
 
 ## Notes
 

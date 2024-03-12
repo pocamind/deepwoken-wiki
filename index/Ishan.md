@@ -1,9 +1,9 @@
 ---
 title: Ishan
-revid: 81053
+revid: 92626
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Lore]
 ---
 
 # Ishan

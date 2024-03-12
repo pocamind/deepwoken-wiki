@@ -1,22 +1,22 @@
 ---
 title: Whirlpools
-revid: 92457
+revid: 92624
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links]
+categories: [Pages with broken file links, World]
 ---
 
 # Whirlpools
 
 Template:Areainfobox
 
-Whirlpools are the safe way to access the depths but can get very annoying.
+Whirlpools are scattered over the sea.
 
-When entering it doesn't count as a drown. (Good for safe and easy access to depths, alternative way to enter [The Depths](The_Depths.md) without having to die)
+Whirlpools are a safe and easy way to access the depths; an alternative way to enter [The Depths](The_Depths.md) without having to die, and it doesn't count as a drown. Many things need you to enter the Depth by whirlpools, such as to enter [Castle Light](Castle_Light.md).
 
-Driving [Boats](Ships_&_Sailing.md) into a whirlpool will result in the boat sinking.
+Driving [Boats](Ships_&_Sailing.md) into a whirlpool will result in the boat sinking and being destroyed.
 
-If fighting a [Dread Serpent](Dread_Serpent.md) by a whirlpool you will most likely get knocked into one.
+If you are fighting a [Dread Serpent](Dread_Serpent.md) by a whirlpool, you will may get knocked into it.
 
 ### **Whirlpool Locations**
 

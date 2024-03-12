@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 92610
+revid: 92650
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -896,7 +896,7 @@ _**"I'm built different" - Cannot Give Talents**_
 
 -   Orbital Ice \[Common Talent, Frostdraw Exclusive\] - When landing a parry while standing on ice, automatically forms a gravitational ring of ice that absorbs 15% of the physical damage you take. The ring breaks after sustaining a certain amount of damage. (Scales with Frostdraw) (+1 Elemental Intensity)
     -   Durability of Orbital Ice is equal to "Frostdraw/4", reaching 25 at 100 Frostdraw.
-    -   Prerequisites: 65 Frostdraw
+    -   Prerequisites: 65 Frostdraw, 20 Fortitude
 
 ### Frozen Warrior
 

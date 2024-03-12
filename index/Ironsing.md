@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 92227
+revid: 92621
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -778,7 +778,6 @@ When sucessfully proccing Scrapsigner, your opponent takes increased armor damag
 -   Ironsing is the fastest Attunement to obtain a Legendary Weapon; the [Ignition Deepcrusher](Ignition_Deepcrusher.md) released in the exact same update as Ironsing itself.
 -   Ironsing is the only Attunement that does not have a [Hero Blade](Hero_Blades.md). (It'd probably just be a literal sword, anyways.)
 -   Ironsing is called 'Element' in the game's code.
--   The greatswords conjured in the **Metal Armament** mantra share the same model as the [Kyrscleave](Kyrscleave.md).
 -   **Metal Gatling** could be a reference to Katakuri from One Piece's move called "Mochi Gatling".
 -   Using ores actually gives you a buff; the only ones that you can use as of now are Gold, Irithine and Erisore, but only one has a known effect.
     -   Gold gives a 10% damage buff and a gold particle effect.

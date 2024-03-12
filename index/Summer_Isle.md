@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 90423
+revid: 92649
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -193,24 +193,9 @@ Epic fountain.
 
 -   Inside, there is a room decorated with trees, bushes and a blue fountain in the middle. Interacting with the fountain tells you that you need something to water it, but if you have a [canteen](Canteen.md) in your inventory with water in it(the fountain sometime bugs out and you will need to rejoin to use it), The fountain will sprouts 6 random lotuses in the room and you can collect them. The fountain has a cooldown.
 
-## Island Inhabitants
+## Missions
 
-Main Faction - [Summer Company](The_Summer_Company.md)
-
--   [Ignition Union Fighters](Ignition_Union_Fighter.md)
--   [Summer Company Guards](Summer_Company_Guard.md)
--   [Summer Goon](Summer_Goon.md)
--   Nomad Tribe Members
--   Nomad Tribe Leaders
--   [Bandit Captains](Bandit_Leader.md)
--   [Ministry Scouts](Ministry_Scout.md)
--   [Bandits](Bandit.md)
-
-### NPC Relationship
-
--   Basically everyone hates everyone, if it's on their side, they wont attack.
-
-### NPC Events
+Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_Encounters.md).
 
 #### Explosive Crate \[QUEST\]
 
