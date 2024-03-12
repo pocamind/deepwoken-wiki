@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 92549
+revid: 92608
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1066,6 +1066,8 @@ When a chilled enemy receives a heal it's then redirected to you instead. While 
 -   Anything that would Freeze while using Glass Path: Crystallization would apply a crystal.
 -   Saint jay and Frostbite are less effective with Glass Path: Crystallization as all Ice Mantras apply them for 2 seconds.
 -   Frozen legs applies on all ice mantras and has a fixed duration that can't be increased.
+-   Fragile freeze can be activated with anything else if the enemy is chilled.
+-   crystal and chilling enchant can be a good way to keep Saint jay active as every crystal you apply adds 2 second of saint jay and the enchant has no limit with how many crystals it can apply.
 
 ## Navigation
 

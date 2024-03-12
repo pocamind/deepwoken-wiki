@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 91963
+revid: 92589
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -866,7 +866,7 @@ Possession
 
  | 
 
-Dodging an attack will send an apparition towards your attacker. \[Must be above 50% Spectral Gauge\]
+After an apparition hits an enemy, receive 30% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration
 
  | 
 

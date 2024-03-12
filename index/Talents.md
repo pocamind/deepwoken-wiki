@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 92554
+revid: 92596
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -570,7 +570,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Reduce grip time by 0.5 seconds (16.67% faster)
     -   Speed boost from parkouring do not count. It must be an actual speed boost.
     -   Prerequisite: 30 Agility
--   Muffled Scream \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of talents that slow your executions. (+1 Passive Agility)
+-   Muffled Screams \[Common Talent, Agility\] - You quiten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of talents that slow your executions. (+1 Passive Agility)
     -   NPCs have a shortened aggro range from gripping allies in proximity.
     -   Defiant Until The End and Last Second Negotiation affect your grip speed less.
     -   Prerequisite: 50 Agility
@@ -1629,7 +1629,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 
 > _**"I seek the qualities of Pyroclast."**_
 
--   _**Volcanic Glass**_ \[Advanced Talent, Flamecharm & Frostdraw Exclusive\] - Detonating crystals causes an eruption soon after. (+5 Elemental Intensity)
+-   _**Volcanic Glass**_ \[Advanced Talent, Flamecharm & Frostdraw Exclusive, Dual Attunement\] - Detonating crystals causes an eruption soon after. (+5 Elemental Intensity)
     -   Prerequisites: Eruption Path: Lava Serpent, Glass Path: Crystallization
 
 ### Pyromancer

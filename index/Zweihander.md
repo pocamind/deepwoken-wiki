@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 81165
+revid: 92590
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -19,6 +19,7 @@ categories: [Weapons, Greatswords]
 | endlag | 0.1s |
 | penetration | N/A |
 | special effect | N/A |
+| selling price | 14 |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |

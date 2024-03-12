@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 92573
+revid: 92584
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -165,16 +165,16 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
 -   'Would beat Akira up and down the eastern lum.'[\[1\]](#cite-note-rag-1)
 -   Most likely to be stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
--   His Race is unclear, do to undergoing constant revisions during development. The three known Races he could be are: Ganymede, Vesperian or Tiran, which are the Hive races.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
+-   His Race is unclear, do to undergoing constant revisions during development. The three known Races he could be are: Ganymede, Vesperian or Tiran.[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2)
 -   Is or was a very prestigious Black Diver, having the respect of most of the Divers, however his actual relation to The Divers is unknown.
--   Became a Deepwoken after becoming a Black Diver, then went missing.
+-   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
 -   The Covenant of Flame and the Flame Worshippers view him as a god, but he has limited interactions with them and sees them as a fan club.
 -   Apparently, he also writes books, with the only known one being "Flame and the failure of man."
--   Has maintained his sanity despite living in the Third Layer for so long, which can mean that he is a Ganymede.[\[1\]](#cite-note-rag-1)
+-   Has maintained his sanity despite living in the Third Layer for so long.[\[1\]](#cite-note-rag-1)
     -   A 'chill guy.'[\[1\]](#cite-note-rag-1)
--   He has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.[\[4\]](#cite-note-firstlight-4)
--   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the Attunements except Shadowcast and Galebreathe were discovered.
+-   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.[\[4\]](#cite-note-firstlight-4)
+-   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the Attunements except Shadowcast were discovered.
 
 ### **Chaser, Scholar of the Burning Blood**
 
@@ -688,7 +688,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 -   **Territory:** _Etrea, Etris, Etris Docks, Isle of Vigils_
 -   **Encountered In:** _Aratel Sea, Aratel Island, Erisia Island_
 -   **Attunements:** Galebreathe
--   **Alliances:** _The Ministry_
+-   **Alliances:** _Vigil of Winds (Neutral), The Ministry, Contractors_
 -   **Enemies:** _The Central Authority, The Hive_, _The Knives of Eylis_
 -   **Lore Sources:** _Etris_
 

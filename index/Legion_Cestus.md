@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 80650
+revid: 92586
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -18,7 +18,7 @@ categories: [Weapons, Fists]
 | swing speed | 0.87x |
 | penetration | 5% |
 | stances | 1 Handed |
-| selling price | TBA |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

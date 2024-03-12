@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 87023
+revid: 92602
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -29,6 +29,8 @@ categories: [Weapons, Guns]
 
 The **Flintlock** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 100 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md). It requires 20 points in Light weapons to be utilized.
 
+The Flintlock has a Bullet capacity of 4 when held without a second gun.
+
 ## Trivia
 
--   A single Flintlock can fire four shots when loaded before requiring a reload.
+-   Like all other pistols, Using this with 1 hand grants 1 set of "M1" attacks unloaded and 1 set of M1 attacks when loaded + 1 Critical attack only available when reloaded with Z/Y by default

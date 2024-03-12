@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 85842
+revid: 92595
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Spears]
@@ -18,7 +18,7 @@ categories: [Weapons, Pages with broken file links, Spears]
 | swing speed | 0,68x |
 | penetration | 25 |
 | special effect | N/A |
-| selling price | N/A |
+| selling price | 14 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

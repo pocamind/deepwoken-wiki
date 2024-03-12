@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 92266
+revid: 92593
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -44,7 +44,9 @@ With Basic Teleportation, you can have up to 5 teleportation points, and with Dr
 
 ### Drowned Teleportation
 
-If Teleportation is drowned, you'll receive preset waypoints depending on the Luminant your in. Preset waypoints will be in brackets with them being colored according to the bell. The teleportation ring has also been colored accordingly. Normal Waypoints will be colored yellow as usual. Presets don't replace the amount of the normal waypoints, and both of them can coexist. Therefore you can have the presets and # other waypoints.
+If Teleportation is drowned, you'll receive preset waypoints depending on the Luminant your in. Preset waypoints will be in brackets with them being colored according to the bell. The teleportation ring has also been colored accordingly.
+
+Normal Waypoints will be colored yellow as usual. Presets don't replace the amount of the normal waypoints, and both of them can coexist. Therefore you can have the presets and # other waypoints. If you're next to a preset, holding C will allow you to go to a point you made.
 
 #### Etrean Luminant
 
