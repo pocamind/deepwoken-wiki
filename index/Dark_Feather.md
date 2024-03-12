@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 92537
+revid: 92566
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -70,5 +70,4 @@ The Void Feather can be given to [Surge](Surge.md) to obtain moves of the [Visio
 
 It can also be used alone to craft multiple Dark Feathers; 1 Void Feather in crafting gives 3 Dark Feathers
 
-  
-(Something important to note, Void feather cannot be dropped nor stored, and it is unknown whether you can transfer it into the fountain onto your next slot in Fragments of Self. However, you can craft one Void Feather at a crafting station into three Dark Feathers, and then store those feathers along with an Umbral Obsidian to get your Void Feather on a new slot.)
+Something important to note, Void feather cannot be dropped nor stored, and it's unknown whether you can transfer it into the [Hippocampal Pool](Hippocampal_Pool.md) onto your next slot. However, you can craft one Void Feather into three Dark Feathers, and then store those feathers alongside an Umbral Obsidian to get your Void Feather on a new slot. This is useful for obtaining and progressing the [Visionshaper](Oath%253A_Visionshaper.md) Oath on a non-PVE or lower power slot.

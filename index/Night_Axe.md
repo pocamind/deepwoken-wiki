@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 91908
+revid: 92581
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -18,7 +18,7 @@ categories: [Weapons, Greataxes]
 | swing speed | 0.59x |
 | chip damage | 60% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| selling price | 50-100 Notes |
+| selling price | 50-100 |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |

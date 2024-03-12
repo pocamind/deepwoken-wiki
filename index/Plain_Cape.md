@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 90033
+revid: 92563
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -37,7 +37,7 @@ categories: [Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Other sources:, Dread Serpent drop |
+| obtainment | Other sources:, Dread Serpent drop, The Diluvian Mechanism |
 | description | "..." |
 
 | Dark Owl Cape | |
@@ -99,7 +99,7 @@ Capes are an [Equipment](Equipment.md) item under the "Torso" category. They can
 
 ## Description
 
-The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md)
+The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Torso" category. They can only be obtained as a mob drop from [Dread Serpents](Dread_Serpent.md) and wave 50 chests from [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 ## Trivia
 

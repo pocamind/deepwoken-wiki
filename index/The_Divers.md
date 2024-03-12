@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 92555
+revid: 92567
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Reputation, Factions]
@@ -46,8 +46,6 @@ Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [Reputation](Rep
 If you took the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), your diver reputation will be set to [Hunted](Reputation.md), and it will take roughly seven Nautilodaunt kills to get your rep set back to normal. It's not recommended to do this, though, as Nautilodaunts rarely spawn, and you can just reset your reputation with Gudrin.
 
 You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a decent amount of reputation with The Divers, after [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) has been defeated.
-
-Strangely enough, The Divers do not have a Bounty Board, however, having negative reputation will still allow those with Voidwalker Origin to hunt you down.
 
 ## Notable Members
 

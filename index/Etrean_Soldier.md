@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 89824
+revid: 92583
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies]
@@ -36,6 +36,7 @@ An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Rit
 \[[Ritual Spear](Ritual_Spear.md)\] Enters a stance before performing a quick swipe with spear, will perform an additional short lunge if the first hit lands.
 
  | ◯ | ✗ | (★★☆) |
+| Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★☆☆) |
 | Wind Gun | A powerful wind blast. | ◯ | ◯ | (★★☆) |
 
 ## Talents

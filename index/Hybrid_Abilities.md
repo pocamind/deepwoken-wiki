@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 91768
+revid: 92568
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -94,7 +94,7 @@ kick.
     -   Can be feinted to end early.
     -   Deals light damage.
     -   Inflicts Electrified.
-    -   Compatible with Surge Path and Haunted Path.
+    -   Compatible with Surge Path and Specter Path.
     -   Scales with both Thundercall and Galebreathe.
 
  |
