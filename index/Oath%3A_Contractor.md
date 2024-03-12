@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 91902
+revid: 92609
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Oaths]
 
 1.  Get neutral or positive reputation with [The Ministry](The_Ministry.md). You can check your reputation at a campfire. Go more towards positive to be safe.
     -   You can either get this through Imel, Emel, and Rimil's bounties if you choose, but you can also help the Ministry out in [Summer Isle](Summer_Isle.md). A good way to do this is to knock and carry one Ministry Scout, waiting for the nomads to kill the other, and then assassinate them. This is far less efficient then doing bounties, only giving around half the reputation but double the time to complete.
-    -   You must help the Ministry 5-6 times at Summer Isle for them to not see worth fighting you anymore.
+    -   You must help the Ministry 5 times (assuming you are starting with base Ministry reputation) at Summer Isle for them to not see worth fighting you anymore.
     -   The Bounty version of the Ministry takes about 4-5 kills. You need to deal approximately 60% of the dmg to the target and deaths caused by the Bloodletter Talent will not count.
     -   It is also advised to avoid killing [Ministry Scouts](https://deepwoken.fandom.com/wiki/Ministry_Scout) if you're looking to acquire this oath, in order to keep your rep with ministry as neutral as possible.
 2.  Start the [Duke Erisia](Duke_Ishamon_Erisia.md) questline and get kill credit for the duke.

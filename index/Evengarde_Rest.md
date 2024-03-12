@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 92035
+revid: 92611
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -135,5 +135,5 @@ End
 -   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
--   Ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty under certain conditions, where he is able to activate his "Tempest Eye."
+-   Ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty when activating his "Tempest Eye."
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.

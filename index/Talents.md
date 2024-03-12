@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 92596
+revid: 92610
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -833,7 +833,7 @@ _**"I dance with the flames."**_
     -   Prevents fire from going out in rain.
     -   Prerequisites: 35 Flamecharm
 
--   Wildfire \[Common Talent, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Flame Impact will release a wider but shorter flame.
+-   Wildfire \[Common Talent, Flamecharm Exclusive\] - Pressing \[F\] before releasing your Fire Palm will release a wider but shorter flame.
     -   Prerequisites: Fire Palm (Flamecharm Mantra)
 
 ### Flashfreeze

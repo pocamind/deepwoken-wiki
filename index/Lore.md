@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 92584
+revid: 92615
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -45,7 +45,7 @@ _The Lord Regent, sitting atop his throne of coral._
     -   The Lord Regent's age is somewhere in his 40s, given the fact that he has Tier 1 Wrinkles, but this is may not be indicative of his true age, as he is likely immortal.
 -   Based on Jericho's Journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
 -   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) Oath.
-    -   Though it is not Shadowcast,[\[2\]](#cite-note-arch-2) it is similar in appearance to it and after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
+    -   Though it is not Shadowcast,[\[2\]](#cite-note-arch-2) it is similar in appearance to it and in God in the Machine, after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgement attack.
 -   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "The Forge of Sin".
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads of shadow magic before instantly killing you, regardless of level. He will also do this after completing the "Duke Questline" but not if you are trying to obtain the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 -   He appears to hold a particular disdain towards Canor people. Schnitzel (the Canor merchant found in the Etris Docks) notes that the "new leader \[is\] very strange", suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
@@ -563,7 +563,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   Probably home to [Frostdraw](Frostdraw.md).
 -   [Polis](Polis.md) originates from here.
 -   Originally inhabited by the Edenkite.
-    -   The beheaded corpse of one remains there to this day.
+    -   The beheaded corpse of a Edenkite who was killed by The Mad Steward remains there to this day.
 
 ### **Western Luminant**
 
