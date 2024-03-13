@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 84663
+revid: 92722
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -16,7 +16,7 @@ Chance of obtaining race: **0%**
 
 ## Description
 
-"The Phoenix Race" - An entirely new race which resembles the Tiran. Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to Visionshaper eyes. The race also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
+"The Phoenix Race" - An entirely new race which resembles the Tiran. Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The race also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
 
 Eclipse (Racial Variant likely) - "For what if the Ash were to never return to flames?"
 
@@ -88,4 +88,4 @@ Unknown
 
 ## Notes
 
-Race created by Dexerius, they are based off his phoenix spec which allows him to summon a glowing rideable phoenix.
+Race created by Dexerius, they are based off his [phoenix spec](Developer_Specs.md) which allows him to summon a glowing rideable phoenix.

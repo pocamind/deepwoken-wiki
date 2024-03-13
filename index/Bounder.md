@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 92698
+revid: 92747
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -46,3 +46,4 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 -   Curiously, Bounders are social creatures evident by their ability to create nests and living as a pack, though there isn't much of any other evidence that can support both the extent of their social behavior, or even how they are capable of reproducing.
 -   It was said by Arch\_Mage that there was suppose to be a type of Bounder that was infected with Parasites. However, this concept never made it into the game.
 -   Unless you need a Bounder's Claw, it's recommended to just avoid them rather than fighting them, it's generally not worth risking your Light Hook, or potentially your life, trying to kill one, or even multiple.
+-   Their cry is a heavily distorted wolf howl.

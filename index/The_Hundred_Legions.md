@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 86454
+revid: 92738
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -27,9 +27,17 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 ## Reputation
 
--   Enemies with [The Hive](The_Hive.md)
--   Enemies with [The Authority](The_Central_Authority.md)
--   Enemies with [The Kingdom of Etrea](Etrea.md)
+By default, every single origin starts with an enemy reputation with The Hundred Legions. Being a Khan increases your reputation with them to neutral-bad.
+
+There is no reputation reset NPC for The Hundred Legions.
+
+The only way to gain reputation with The Hundred Legions(other than being a Khan or having a specific talent) is through helping them fight in specific [random encounters](Random_Encounters.md):
+
+-   Legion Soldiers vs Authority Officers ([Upper Erisia](Upper_Erisia.md))
+-   Legion Captain + Legion Soldier  vs Authority Officers   ([The Vipers Jaw](<The_Viper's_Jaw.md>)/[Upper Erisia](Upper_Erisia.md))
+-   Legion Captain vs Authority Lieutenant ([Starswept Valley](The_Starswept_Valley.md))
+
+For some bizarre reason, non-guard NPCs don't seem affected by low Legion reputation, and are still willing to talk with you with no changes in their dialogue.
 
 ## Notable Members
 
@@ -38,7 +46,6 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 ## Trivia
 
--   For some bizarre reason, NPCs don't seem affected by low Legion reputation, still willing to talk with you.
 -   Their aesthetic draws from the Greek and Roman empires.
 -   From the camp in [The Viper's Jaw](<The_Viper's_Jaw.md>) we can meet a Khan with an unobtainable race variant, meaning that there might be more types of Khans than the ones that have made their way in the East.
 -   While speaking to Gaius, you can learn that being stationed in the East isn't the best if you're looking to become the next Ruler of the Legion as he outright curses, presumably Akilles, who stationed him there.

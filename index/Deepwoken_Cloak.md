@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Cloak
-revid: 80055
+revid: 92748
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks, Drops]
@@ -32,3 +32,4 @@ The Deepwoken Cloak is an [Equipment](Equipment.md) item under the Arms category
 
 -   The Deepwoken Cloak is part of the "Deepwoken" set, with the only other piece being the [Deepwoken Hood](Deepwoken_Hood.md).
 -   The Deepwoken Cloak was added along with the game's release but was soon removed for an unknown reason and there were only 3 known people that had it after its removal. It was re-added on May 10th, 2022.
+-   When worn by players, the position of the Deepwoken Cloak's sleeves are swapped. The (presumably) correct positions are made apparent by various NPCs wearing it, where their lengths taper outwards to appear more uniform with the centre piece. Modellers have declined to comment on the matter after being asked in the game's Discord server.The cloak as worn by Vigil NPCs.

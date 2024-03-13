@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 92482
+revid: 92723
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -178,7 +178,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Solar<div></div></font></center></td>
-  <td><div><p>Applies a Solar Mark on flourish or (most) critical attacks.<br>
+  <td><div><p>Applies a Solar Mark on any weapon hit (M1s, Flourish, Crits.)<br>
   Solar Mark last 10s, and reduces tempo gain/ether regeneration.<br>
   Venting steals a portion of marked enemies tempo.</p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>

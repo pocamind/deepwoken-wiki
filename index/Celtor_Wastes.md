@@ -1,9 +1,9 @@
 ---
 title: Celtor Wastes
-revid: 88306
+revid: 92729
 source: https://deepwoken.fandom.com/wiki/Celtor_Wastes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Layer 1]
+categories: [Stub pages without reason, StubPages, Locations, Layer 1, The Depths]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -20,58 +20,75 @@ LocationL Celtor Wastes LocationR
 
 ## Overview
 
-The main area of farming in the depths, outside the City of the Drowned.
+The main area of farming in [the Depths](The_Depths.md), outside the [City of the Drowned](The_City_of_the_Drowned.md).
 
 ## Points of Interest
-
-### Named
 
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
     -   [District of Commerce](District_of_Commerce.md)
     -   [Varicosa District](Varicosa_District.md)
 
-### Unnamed
-
 -   [Castle Light](Castle_Light.md)
 -   [Diver's Camp](<Diver's_Camp.md>)
-
-## Potential Enemies
-
--   [Nautilodaunt](Nautilodaunt.md)
--   [Crustaceous Rex](Crustaceous_Rex.md)
--   [Lesser Angels](Hollow_Angel.md)
--   [Enforcer](Enforcer.md)
--   [Alpha Megalodaunt](Megalodaunt.md)
--   [King Gigamed](Gigamed.md)
--   [Gigamed](Gigamed.md)
--   [Lionfish](Lionfish.md)
--   [Megalodaunt](Megalodaunt.md)
--   [Thresher](Thresher.md)
--   [King Tresher](Thresher.md#king-thresher)
--   [Deep Owl](Deep_Owl.md)
--   [Deep Widow](Deep_Widow.md)
 
 ## Events
 
 -   [Akira](Akira.md)
--   [Lionfish](Lionfish.md) vs. Diver Apprentices
--   [King Thresher](Thresher.md#king-thresher) vs. Diver Apprentices
+-   [Lionfish](Lionfish.md) vs. [Apprentice Diver](Apprentice_Diver.md)
+-   [Alpha Megalodaunt](Megalodaunt.md#alpha-megalodaunt) vs. [Apprentice Diver](Apprentice_Diver.md)
 -   [Depths Collapse](Random_Encounters.md#the-depths-collapse)  
     
 
 ## Loot Table
 
-Below is a list of loot that can be found in the Celtor Wastes.
+Below is a list of potential items that can spawn in chests in Celtor Waste.
 
-### Outfits
-
--   [Black Diver](Black_Diver.md)
--   [Navaen War Chief](Navaen_War_Chief.md)
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
 -   [Prophet's Cloak](<Prophet's_Cloak.md>)
+-   [Authority Commander](Authority_Commander.md)
+-   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md)
+-   [Black Diver](Black_Diver.md)
 -   [Legion Centurion](Legion_Centurion.md)
--   [Eager Tradesman](Eager_Tradesman.md)
--   [Keeper](Keeper.md)
--   [11th Legion Plate](11th_Legion_Plate.md)
 -   [Diver Apprentice Robes](Diver_Apprentice_Robes.md)
--   [Diver Journeyman Robes](Diver_Journeyman_Robes.md)
--   [Hired Mercenary](Hired_Mercenary.md)
+-   [Navaen War Chief](Navaen_War_Chief.md)
+
+ | 
+
+-   Ring of Wisps
+-   [Assassin Hood](<Assassin's_Hood.md>) **(Series)**
+-   Dazed Band
+-   [Pale Assassin's Cloak](<Assassin's_Cloak.md>)
+-   Freestyler's Band
+-   [Enforcer Boots](Enforcer_Boots.md)
+-   Pariah's Keepsake
+-   [Providence Coat](Providence_Coat.md)
+-   Bloodiron Ring
+-   Purifying Ring
+-   [Demon Mask](Demon_Mask.md)
+-   Isshin's Ring
+-   [Hivelord mask](Hivelord_Mask.md)
+-   Windmill Ring
+-   Light Eater Ring
+-   [Star Boots](Star_Boots.md)
+
+ | 
+
+-   [Shattered Katana](Shattered_Katana.md)
+-   [Pale Morning](Pale_Morning.md)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Flamekeeper Cestus](Flamekeeper_Cestus.md)
+-   [Serpent's Edge](<Serpent's_Edge.md>)
+-   [Iron Birch](Iron_Birch.md)
+-   [Crypt Blade](Crypt_Blade.md)
+-   [Enforcer's Blade](<Enforcer's_Blade.md>)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Darkalloy Greatsword](Darksteel_Greatsword.md)
+-   [Anklets of Alsin](Anklets_of_Alsin.md)
+
+ | 
+
+-   [Deep Gems](Deep_Gems.md)
+
+ |
