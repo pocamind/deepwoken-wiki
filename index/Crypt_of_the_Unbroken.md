@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 92502
+revid: 92694
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Voidzones]
@@ -60,7 +60,11 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 -   [Old World Greatshield](Old_World_Greatshield.md)
 -   [Gran Sudaruska](Gran_Sudaruska.md) (low chance)
 
- | D |
+ | 
+
+-   [Moonseye Tome](Moonseye_Tome.md) (very low chance)
+
+ |
 
 ## Drop rate from chests
 

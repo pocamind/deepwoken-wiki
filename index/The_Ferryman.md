@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 92371
+revid: 92693
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -32,6 +32,7 @@ An amalgamation of souls dredged up from the "dregs of the dregs", he was mistre
 3.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
 4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual.
 5.  A ring akin to that of the [Chime of Conflict](Chime_of_Conflict.md) will spawn, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
+    -   Being combat tagged will prevent you from being teleported.
 6.  The Ferryman will spawn in the middle, talk with him and seal a deal to begin the battle.
 7.  The Ferryman has a short cooldown of 15 seconds to be summoned once a player has summoned him.
 

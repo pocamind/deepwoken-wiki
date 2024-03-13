@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 92690
+revid: 92692
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,20 +24,21 @@ categories: [Oaths]
 ## Obtainment
 
 1.  Entropy Catalyst Method:
-    1.  Get 4 different players with Oaths.
+    1.  Knock 4 different players with Oaths.
     2.  Take them to [The Entropy Catalyst](The_Entropy_Catalyst.md).
-    3.  Place them in the craters. This will instantly sacrifice them. Since the Entropy Catalyst is a voidzone, they will be sent to the depths.
+    3.  Place them in the craters, sacrificing them.
+        -   Since the Entropy Catalyst is a voidzone, they will be sent to the depths.
     4.  Interact with the white orb that appears in the middle.
 2.  [Pristine Lotus](Pristine_Lotus.md) Method:
     1.  Collect 4 [Pristine Lotuses](Pristine_Lotus.md) located around [The Entropy Catalyst](The_Entropy_Catalyst.md).
     2.  Grip 4 players that have an oath.
-    3.  Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
-    4.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 4 [Scarlet Lotuses.](Pristine_Lotus.md)
-    5.  Interact with the white orb that appears in the middle.
+        -   Upon gripping a player with an Oath, one of your [Pristine Lotuses](Pristine_Lotus.md) will be converted to a [Scarlet Lotus](Pristine_Lotus.md).
+    3.  Return to [The Entropy Catalyst](The_Entropy_Catalyst.md) with 4 [Scarlet Lotuses.](Pristine_Lotus.md)
+    4.  Interact with the white orb that appears in the middle.
 
 ## **Progression**
 
-The only way to obtain each ability is to grip a player with an Oath. However, this does not need to be done at The Entropy Catalyst. Entropy Link is acquired on the first grip, then in order, Symbiotic Link, Symbiotic Sustain, and Parasitic Leech. This totals to 8 total player grips: 4 to take the Oath, and 4 more to fully progress it.
+The only way to obtain each ability is to grip a player with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, and 4 more to fully progress it.
 
 ## Abilities
 
@@ -45,13 +46,14 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
     
     > _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
     
-    -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
-        -   This does not work with "campfires" (lockers, ship tables, etc) that you cannot cook food at.
-    -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure due to overall bugginess.
-    -   Having no stardust or while currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
-    -   Does not work when in combat.
-    -   You cannot travel across Luminants. You can only use the locations of the Luminant you are in.
+    -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteors that are scattered around the map. By sitting at a campfire and calling the name of the desired Comet, you will be transported directly to it.
+    -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   The color of the teleportation variates randomly between blue and red.
+    -   Limitations:
+        -   Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree.
+        -   Does not work when in combat.
+        -   Cannot cross-luminant travel.
+        -   Does not work with "campfires" (lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire nearly every use - ensure you're well-supplied.
     -   Comet names and locations:
         -   _Etrean Luminant:_
             -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
@@ -62,19 +64,22 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
             -   **Eunomia** (Above [Sibex](Sibex.md))
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
 -   **Symbiotic Link**
-    -   Activate while hovering over an ally or enemy. The symbiotic links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
-        -   Blue Cords (Allies) Gain a speed boost.
-        -   Red Cords (Enemies) Gain a speed debuff.
+    -   Activate while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
+        -   Blue Cords (Allies) gain a speed boost.
+        -   Red Cords (Enemies) gain a speed debuff.
 -   **Symbiotic Sustain**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
 
 -   **Parasitic Leech**
-    -   If linked to an enemy (signified by red cord), drain HP from the target. You can move while this is active, but not block, attack, etc. The amount of HP you get from Leech is a % of the targets total HP.
-        -   For example, Duke gives more HP than a Mindless Servant since Duke has a significantly higher Health Pool.
+    -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
+        -   For example, Duke grants more HP than a Mindless Servant, since he has a significantly higher Health Pool.
+        -   Parriable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
+        -   Blockable. While blocking may stop the damage, it will not stop the caster's healing.
+        -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
 
 ## Effects
 
-This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for appearance, it grants its users a blue necklace and turns their irises a light cyan.
+This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearance-wise, its users wear a blue necklace and their irises become light cyan.
 
 ## Trivia
 
@@ -82,7 +87,6 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. As for a
     -   There is a maximum of 10 to be held at once.
 -   Recommended for support-based builds (e.g., Flame Vow of Mastery).
 -   Symbiotic Sustain can be combined with either a Blessed or Bloodless gem in order to either gain a halved cooldown or regain some lost health. It is recommended for a Blessed Gem as halved of the cooldown is a gamechanger.
--   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit but deal heavily reduced damage.
--   You can grip the same person multiple times if you use the [Scarlet Lotus](Pristine_Lotus.md) method.
+-   Parasitic Leech can be combined with Bloodless Gem in order to heal even more health on hit, but it deals heavily reduced damage.
 -   [Scarlet Lotuses](Pristine_Lotus.md) are soulbound; [Pristine Lotuses](Pristine_Lotus.md) are not.
--   Anyone can use the white orb once it is spawned. If a friend has 4 [Scarlet Lotuses](Pristine_Lotus.md), he can place them into [The Entropy Catalyst](The_Entropy_Catalyst.md) and you can claim the white orb in the middle, making you a Linkstrider.
+-   Anyone can use the white orb once it is spawned, regardles of who places them.

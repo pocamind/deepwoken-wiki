@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 92659
+revid: 92701
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -200,7 +200,9 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 #### Explosive Crate \[QUEST\]
 
 -   Summer Company Thugs with dead Ignition Union Footsoldiers, surrounding a crate with explosives, which you can turn in to Scope for a chance at good loot.
--   From what I have seen, if you also kill the Summer Company Thugs surrounding the crate, a chest will spawn.
+-   Explosive Crate Event
+    
+    From what I have seen, if you also kill the Summer Company Thugs surrounding the crate, a chest will spawn.
 
 #### Bandit Ambush
 

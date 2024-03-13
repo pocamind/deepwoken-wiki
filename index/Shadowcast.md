@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 88077
+revid: 92707
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -180,7 +180,7 @@ Shade Bringer
 
 -   Adding 1 multiplying spark will slash three times instead of once.
 
--   You ~cannot~ **can** combine spring and multiplying sparks on this Mantra
+-   You **can** combine spring and multiplying sparks on this Mantra
 
   
 
