@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 91992
+revid: 92666
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -76,7 +76,7 @@ Locate [Cestis](Cestis.md) in Meteor Isle and accept his quests, he will give yo
 
 #### **Method Two - Born Assassin**
 
-By completing 5 Bounty Hunting Contracts from any Bounty Board, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method.
+By completing 5 Bounty Hunting Contracts from any Bounty Board, [Cestis](Cestis.md) (Whether or not you previously met him) will be intimidated by your presence; netting you the Murmur for free. You do not need any charisma for this method. (Bounty Assists do not count)
 
 A screenshot of the Stranger NPC, found by Restative.
 

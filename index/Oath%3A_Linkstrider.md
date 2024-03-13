@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 92532
+revid: 92690
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -46,7 +46,7 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
     > _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
     
     -   You are able to fast travel to certain places on the map when you are beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. This functions by simply sitting at a campfire and typing the name of the meteor you want to go to in chat. _Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree._
-        -   This does not work with "campfires" (or other items you can rest at) that you cannot cook food at.
+        -   This does not work with "campfires" (lockers, ship tables, etc) that you cannot cook food at.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure due to overall bugginess.
     -   Having no stardust or while currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
     -   Does not work when in combat.
@@ -62,14 +62,14 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
             -   **Eunomia** (Above [Sibex](Sibex.md))
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
 -   **Symbiotic Link**
-    -   Activate while hovering over an ally to buff them or activate while hovering over an opponent to debuff them. The links you create are destroyed when you receive damage from a non-ally or you're too far from the linked. This ability lets you activate 1 other ability depending on if the cord is connected to an ally or an enemy.
+    -   Activate while hovering over an ally or enemy. The symbiotic links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
         -   Blue Cords (Allies) Gain a speed boost.
         -   Red Cords (Enemies) Gain a speed debuff.
 -   **Symbiotic Sustain**
-    -   If linked to an ally (signified by blue cord), lose 7% of your HP to restore 15% of the target's HP.
+    -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
 
 -   **Parasitic Leech**
-    -   If linked to an enemy (signified by red cord), start stealing HP from the target. You cannot defend yourself while this is active but can still move. The amount of HP you get from Leech is a % of the targets total HP.
+    -   If linked to an enemy (signified by red cord), drain HP from the target. You can move while this is active, but not block, attack, etc. The amount of HP you get from Leech is a % of the targets total HP.
         -   For example, Duke gives more HP than a Mindless Servant since Duke has a significantly higher Health Pool.
 
 ## Effects

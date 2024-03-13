@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 72192
+revid: 92678
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]

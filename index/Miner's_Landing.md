@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 92645
+revid: 92667
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Locations, Eastern Luminant]
@@ -62,7 +62,7 @@ _Main page: [Saramaed Summit](Saramaed_Summit.md)_
 
 ## **Points of Interest**
 
-Miner's Landing contains a variety of locations containing chests. These chests contain loot from the Miner's Landing loot table, which is to be made.
+Miner's Landing contains a variety of locations containing chests. These chests contain loot from the Miner's Landing loot table.
 
 The Chests are in the Following Locations:
 
@@ -92,12 +92,54 @@ _Main Page: [Oath: Arcwarder](Oath%253A_Arcwarder.md)_
 
 #### Ironsing Quest
 
--   To start, you need to have a Pluripotent Alloy in your inventory. You can get a Pluripotent Alloy from killing most bosses, however the easiest way is through killing Duke.
--   Speak to the blacksmith. He will mention a friend who is interested in Alloys.
+-   To start, you need to have a [Pluripotent Alloy](Pluripotent_Alloy.md) in your inventory.
+-   Speak to the Blacksmith. He will mention a friend who is interested in Alloys.
 -   Head up to the bridge overlooking Miner's Landing, go to the second pair of pillars, and go through the window on the left one.
--   Talk to Adar. He will ask you to bring him the following ores: **Iron, Gold, Erisore, Irithine, Astruline,** and **Umbrite.**
+-   Talk to [Adar](Adar,_Master_of_Metal.md). He will ask you to bring him the following [ores](Ores.md): **Iron, Gold, Erisore, Irithine, Astruline,** and **Umbrite.**
 -   Once you have all these ores, go back to Adar. He will give you an Alloyed Elixir.
--   Drink the potion to unlock Ironsing.
+-   Drink the potion to unlock [Ironsing](Ironsing.md).
+
+## Loot Table
+
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
+-   [Summer Dragoon](Summer_Dragoon.md)
+
+ | 
+
+-   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
+-   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
+-   [Mercenary's Garb](<Mercenary's_Garb.md>)
+-   [Mercenary's Boots](<Mercenary's_Boots.md>)
+-   [Nomad Pendant](Nomad_Pendant.md)
+-   Red Eye Pendant
+-   [Sandrunner Scarf](Sandrunner_Scarf.md)
+-   Duelist Mask
+-   [Deepwoken Cloak](Deepwoken_Cloak.md)
+-   Konga's Clutch Ring
+-   Seafarer Pendant
+-   TBA
+
+ | 
+
+-   [Vigil Longsword](Vigil_Longsword.md)
+-   [Old World Greatshield](Old_World_Greatshield.md)
+-   [Legion Cestus](Legion_Cestus.md)
+-   [Trident Spear](Trident_Spear.md)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Iron Blunderbuss](Iron_Blunderbuss.md)
+-   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
+
+ | 
+
+-   Platinum Bar
+-   TBA
+
+ |
+
+  
 
 ## Maps
 
@@ -105,7 +147,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## **Notes & Trivia**
 
--   The music for this area is [Peregrine](Deepwoken_OST.md) by Naktigonis so far, it own theme song has been confirmed will be released.
+-   The music for this area is [Peregrine](Deepwoken_OST.md) by Naktigonis so far. Its own theme song has been confirmed to be released.
 -   Miner's Landing has many chests containing loot in various, unexpected areas.
 -   Miner's Landing has a more industrial focus than the other bases such as Etris and Greathive Aratel.
 -   The business buildings are more spread out than normal, with the Bank only accessible by climbing a waterfall.

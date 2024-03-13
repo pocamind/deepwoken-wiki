@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 92254
+revid: 92683
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -14,7 +14,7 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 ## Description
 
-**Guns** are a ranged weapon designed to shoot projectiles if the user has bullets in the inventory, which can add ranged capabilities as well as giving a +10% PEN bonus. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
+**Guns** are ranged weapons that are designed to shoot projectiles if the user has bullets in their inventory, they are able to add ranged capabilities as well as giving a +10% PEN bonus. Most pistols can be purchased at the inn on the right hand side of [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
 
 Guns have their own talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related talents like [Outlaw](Talents.md) for pistols.
 
@@ -30,7 +30,7 @@ When using a singular gun you will gain an ammo counter resembling a revolver ch
 
 #### Reloading
 
-The amount of bullets you can load into a gun depends on the type you are using. The Dragoon holds 4, Flintlock holds 4 and the Revolver and Silversix hold 6. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill talent](Talents.md#outlaw) is active)
+The amount of bullets you can load into a gun depends on the type you are using. The Dragoon and Flintlock can hold 4 bullets, and the Revolver and Silversix can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload talent](Talents.md#outlaw) and the gun is empty and 0.25 if the [Ultrakill talent](Talents.md#outlaw) is active)
 
 ### Talents
 
@@ -40,7 +40,7 @@ The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revo
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
-Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun).. Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
+Furthermore, using a side gun with a non-light main weapon will increase the windup (time to aim and shoot the gun). Medium Weapons increase the windup by 10%. Heavy Weapons increase the windup by 25%.
 
 There's a gun technique that you can learn from a quest giver outside the inn at Summer Isle. The man that you need to find is on a shore on the left of the inn. You have to choose the 2nd option then go back to him. However, choosing the 1st option and going back to the gun trainer will spawn Summer Company Gunslingers to kill you. Choosing the 2nd option allows you to unlock the talent Armor Piercing after talking to him again.
 
@@ -76,13 +76,13 @@ The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Pea
 
 _**Stats:**_
 
-**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 7 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
+**[Rosen's Peacemaker](<Rosen's_Peacemaker.md>): 18** damage, 0 range, 8 MED scaling, **0.75x** attack speed. (75 MED req)
 
-**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 7 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
+**[Iron Blunderbuss](Iron_Blunderbuss.md): 19.5** damage, 0 range, 6 MED scaling, **0.73x** attack speed (75 MED req)
 
-[**Summer Rifle:**](Summer_Rifle.md) **17** damage, 8 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
+[**Summer Rifle:**](Summer_Rifle.md) **17** damage, 0 range, 6 MED scaling, **0.75x** attack speed, **TBA** notes (1). (40 MED req)
 
-**[Stormseye:](Stormseye.md) 19.5** damage, 8 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (40 MED, 75 Thundercall req)
+**[Stormseye:](Stormseye.md) 19.5** damage, 0 range, 3 MED scaling + 6 Thunder scaling, **0.75x** attack speed, (40 MED, 75 Thundercall req)
 
 ## Trivia:
 

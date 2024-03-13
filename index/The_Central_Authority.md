@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 92656
+revid: 92661
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -21,7 +21,7 @@ categories: [Factions]
 
 **The Central Authority** (_frequently referred to as simply "The Authority"_) is a large military organization native to the Central Luminant. An authoritarian regime led by a mysterious man named Drallis Ehr who acts as their Grand Sovereign, they are thoroughly dedicated to the expansion of their empire and the destruction of their enemies.
 
-Their ranks consist of Warmasters, Wardens (which may actually be the same thing), multiple Inquisitor classes, and then standard military rankings. The Authority is the polar opposite and main enemy of the [Kingdom of Etrea](Etrea.md).
+Their ranks consist of Warmasters, Wardens (which may actually be the same thing), multiple Inquisitor classes, and then standard military rankings. The Authority is the main enemy of the [Kingdom of Etrea](Etrea.md).
 
 Their soldiers utilise [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md) and [Frostdraw](Frostdraw.md), though, fittingly, not [Galebreathe](Galebreathe.md).
 
@@ -39,7 +39,7 @@ Their upper ranks heavily favor [Adrets](Adret.md), implying a systemic racial p
 
 -   Enemies with [The Hundred Legions](The_Hundred_Legions.md).
 -   Enemies with [The Kingdom of Etrea](Etrea.md).
--   Dislikes [The Hive](The_Hive.md), but not direct enemies.
+-   Skirmishes with [The Hive](The_Hive.md), but not direct enemies.
 -   Enemies with [The Ministry](The_Ministry.md).
 -   Provides funding for [The Divers](The_Divers.md).
 -   Trades ammunition and arms with the [Summer Company](The_Summer_Company.md).
@@ -55,7 +55,6 @@ The Central Authority is among the factions to have a Bounty Board.
 
 ## Trivia
 
--   It's very bizarre that this even has to be stated, but the Central Authority are very much racist. Them employing other Races is merely pragmatism, and is something that has been done by numerous infamously racist groups in real life.
 -   While the Logo could imply that they are to act as a shining beacon to the other four Luminants, due to it being star shaped, it may also hint to them being tied to Celestials.
 -   The Central Authority has clear relations with every faction except Celtor.
 -   [Windrunner](Windrunner.md) implies the Authority's war against Etrea is primarily to stop Zi'eer (Lord Regent) from causing a great drowning in the Etrean Luminant, with the Warmaster deciding to take drastic measures to go to war with Etrea to invade Etris and then try to stop Zi'eer and his contractors.

@@ -1,6 +1,6 @@
 ---
 title: Badges
-revid: 90998
+revid: 92689
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -17,16 +17,16 @@ categories: [Deepwoken]
 | Name | Image | Difficulty | Description | Times Obtained |
 | --- | --- | --- | --- | --- |
 | [Oathsworn](https://www.roblox.com/badges/2143198609/Oathsworn) | 
- | 0.1% | _"Swear an Oath. An indescribable power emanates from words spoken from the soul. You now wield it."_ | 299,654 |
+ | 0.1% | _"Swear an [Oath](Oaths.md). An indescribable power emanates from words spoken from the soul. You now wield it."_ | 299,654 |
 | [Soul Resonance](https://www.roblox.com/badges/2143198840/Soul-Resonance) | 
 
- | 0.1% | _"Your soul has resonated with the Song, now producing its own distinct Tone. This resonance has manifested as the instrument now kept at your hip."_ | 210,260 |
+ | 0.1% | _"Your soul has resonated with the Song, now producing its own distinct Tone. This [resonance](Resonance.md) has manifested as the instrument now kept at your hip."_ | 210,260 |
 | [Maximum Power](https://www.roblox.com/badges/2143199056/Maximum-Power) | 
 
  | 0.1% | _"You've reached Power 20, the pinnacle of your natural abilities. But perhaps there are further ways to gain strength?"_ | 235,667 |
 | [Trial Of One](https://www.roblox.com/badges/2143228608/Trial-of-One) | 
 
- | 0.2% | _"Complete the Trial of One. Could you be the One we've been searching for?"_ | 205,430 |
+ | 0.2% | _"Complete the [Trial of One](Trial_of_One.md). Could you be the One we've been searching for?"_ | 205,430 |
 | [S Rank](https://www.roblox.com/badges/2143570377/S-Rank) | 
 
  | 0.0% | _"Achieve an S Rank Legacy. Every title, every accolade - all beneath you now."_ | 3,833 |

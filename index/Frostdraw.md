@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 92631
+revid: 92677
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -281,7 +281,7 @@ _Form an ice spear and lunges forward._
  | Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact.
 
 -   Deals moderate damage.
--   Applies Chill.
+-   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
 -   User gains considerable forward momentum on use.
 -   Sometimes used in conjunction with the **Glacial Arc** mantra to fling the player skywards.

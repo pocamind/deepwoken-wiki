@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 92649
+revid: 92659
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -183,7 +183,7 @@ The Summer Company cannon
 -   An enormous cannon lying on the cliffs on the Summer Isle. If a player has negative reputation, the Summer Company will aim the cannon at them, and fire. It fires a hit-scan projectile, that launches players far away, deals a large amount of damage. A horn will play before firing, alerting the player to their imminent demise. The cannon will NOT fire if the player is already on land, but will if a player is sailing nearby.
 -   The cannon also serves as a fast travel point to the Songseeker Wilds. Provide 3 [Spider Eggs](Spider_Egg.md) to [The Guy](The_Guy.md) in the cave across from [Meteor Isle](Meteor_Isle.md) at Hive, and then climb up onto the cannon. Just touching the barrel places you inside, and shoots you over to the Songseeker WIlds.
 
-### _**The Hidden Grove**_
+### _**[The Hidden Grove](The_Hidden_Grove.md)**_
 
 File:Fountain.png
 
@@ -207,24 +207,24 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 -   Bandits spawning on the front entrance's stairs in a group of seven, ambushing the castle's entrance.
 -   You will be rewarded with a decent amount of XP upon killing all the seven bandits.
 
-#### Bandits V.S. Summer Company
+#### Bandits V.S. Summer CompanySummericonfaction
 
 -   Bandit Captains and Bandits fighting with Summer Company Thugs.
 -   You will be rewarded with a small amount of XP and a chest if you help the Summer Company Thugs win.
 
-#### Ignition Union V.S. Summer Company
+#### Ignition Union V.S. Summer CompanySummericonfaction
 
 -   Ignition Union Footsoldiers fighting with Summer Company Thugs.
 -   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter.
 
-#### Ministry Massacre
+#### Ministry MassacreMinistryiconfaction
 
--   A Ministry Scout sitting at a campfire with several Bandit corpses around them.
+-   A [Ministry Scout](Ministry_Scout.md) sitting at a campfire with several Bandit corpses around them.
 -   You will be rewarded with a decent amount of XP and a chest upon killing the Ministry Scout.
 
-#### Nomads V.S. The Ministry
+#### NomadsNavaeiconfaction V.S. The MinistryMinistryiconfaction
 
--   Nomads fighting off Ministry Scouts.
+-   One [Eastern Tribal Leader](Eastern_Nomad_Leader.md) and one [Eastern Tribe Nomad](Eastern_Nomad.md) fighting off two [Ministry Scouts](Ministry_Scout.md).
 -   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter. Although Ministry Scouts do give more XP upon killing.
 
 ## Loot Table & Purchasable Items
