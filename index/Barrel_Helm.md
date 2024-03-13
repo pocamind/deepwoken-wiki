@@ -1,6 +1,6 @@
 ---
 title: Barrel Helm
-revid: 70174
+revid: 92719
 source: https://deepwoken.fandom.com/wiki/Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets]
@@ -26,7 +26,7 @@ categories: [Helmets]
 
 ## Description
 
-The Barrel Helm is an accessory under the "_Head"_ category. It is also worn by [Celtor Guards](Celtorian_Guard.md) in the [First Layer](First_Layer.md).
+The Barrel Helm is an [Equipment](Equipment.md) item under the "_Head"_ category. It is also worn by [Celtor Guards](Celtorian_Guard.md) in the [First Layer](First_Layer.md).
 
 ## Trivia
 
