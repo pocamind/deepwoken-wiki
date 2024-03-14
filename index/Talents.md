@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 92750
+revid: 92763
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2388,7 +2388,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
     -   Prerequisite: 20 Strength, 5 Agility
 
 -   Mercy Kill \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   Prerequisite: Unbound Element or Weapon, or Kill Chaser.
+    -   Prerequisite: Unbound Element or Weapon, or Kill any Boss.
 
 -   One Handed Training \[Common Priority Talent\] - \[Heavy Weapons\] You can now wield heavy weapons one handed.
     -   Grants you the ability to equip an offhand while one-handing
@@ -2577,7 +2577,7 @@ File:Thresherquest1.png
 
 ### Mercy Kill
 
--   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat, or by Defeating Chaser.
+-   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat, or by Defeating any Boss.
 -   This talent lets you instagrip enemies weaker than you with a swing.
 
 ## Outfit Talents

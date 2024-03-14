@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 90228
+revid: 92778
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -15,6 +15,7 @@ Template:EnemyInfobox1.0
 A Legion Soldier is an enemy NPC that can be found in [Viper's Jaw](<The_Viper's_Jaw.md>) and the following events:
 
 -   Legion Soldiers vs [Authority Officers](Authority_Officer.md) ([Upper Erisia](Upper_Erisia.md))
+-   Hundred Legions ambush event (anywhere)
 
 A Legion Soldier wears a [11th Legion Plate](11th_Legion_Plate.md), a [Khan Helmet](Legion_Helmet.md), a pair of [Khan Pauldrons](Legion_Pauldrons.md) and a pair of [Khan Boots](Legion_Boots.md) with their [race](Aspects.md).
 
@@ -34,6 +35,7 @@ A Legion Soldier's arsenal consists of either a [Champion's Sword](<Champion's_S
 
  | ◯ | ✗ | (★★☆) |
 | Gale Lunge | User lunges forward with their weapon coated in wind. | ◯ | ◯ | (★★☆) |
+| Wind Blade | User shoots out an arc of gale. | ◯ | ◯ | (★☆☆) |
 
 ### Boons
 
@@ -58,4 +60,5 @@ A Legion Soldier executes its opponent after knocking them:
 
 ## Trivia
 
-They are hostile towards the villagers that you turn over to Alastir.
+-   Two Soldiers in the Viper's Jaw Legion Camp do not equipped with Khan shields.
+-   They are hostile towards the villagers that you turn over to Alastir.

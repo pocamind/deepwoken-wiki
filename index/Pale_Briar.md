@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 92495
+revid: 92783
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Description, Requirement, Critical, Heavy weapon]
@@ -33,7 +33,7 @@ The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde 
 
 Its base damage is 23, at 100 HVY, it deals 38.1 damage. All Greataxe talents assumingly work on this \[Not tested.\], and the critical attack of the weapon, a barrage of light that locks on and tracks the first person hit, it is a multi hit attack. This makes the weapon great for stunning and multi hit attacks, while still not damaging too much.
 
-As of now the Pale Briar's critical attack DOES proc enchants, this makes it useful for enchants like Grim, Gluttony and Tears of the Edenkite, respectively proccing Grim, stealing hunger with Gluttony and easily triggering the bubbles of TotE. This is unlike the [Enforcer's Axe](<Enforcer's_Axe.md>), [Enforcer's Blade](<Enforcer's_Blade.md>) and [Enforcer's Hammer](<Enforcer's_Hammer.md>), which all have slow critical attacks, but are useful for poising through block due to the sheer posture damage.
+As of now the Pale Briar's critical attack procs enchants on successive hits, this makes it useful for enchants like Grim, Gluttony and Tears of the Edenkite, respectively proccing Grim, stealing hunger with Gluttony and easily triggering the bubbles of TotE. This is unlike the [Enforcer's Axe](<Enforcer's_Axe.md>), [Enforcer's Blade](<Enforcer's_Blade.md>) and [Enforcer's Hammer](<Enforcer's_Hammer.md>), which all have slow critical attacks, but are useful for poising through block due to the sheer posture damage.
 
 The Requirement to use this weapon is :
 
