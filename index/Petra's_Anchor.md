@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 87605
+revid: 92757
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Greathammers]
@@ -18,7 +18,7 @@ categories: [Weapons, Pages with broken file links, Greathammers]
 | swing speed | 0.6x |
 | endlag | 0.1s |
 | penetration | 15% |
-| selling price | N/A |
+| selling price | 100 |
 | weight | 9 |
 | bankable | Yes |
 | droppable | Yes |
