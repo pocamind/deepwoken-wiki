@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 92557
+revid: 92793
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -12,6 +12,7 @@ categories: [Resonances]
 |---|---|
 | effect | Summon skeletal barriers that trap opponents and launch them across the battlefield. |
 | appearance | A grey skeletal wall, with hands embodying the bottom and the top being a symbol. |
+| cooldown | X |
 
 “ Summon skeletal barriers that trap opponents and launch them across the battlefield. ”
 
@@ -33,7 +34,7 @@ If corrupted. the walls become a dark blue/violet.
 
 Pressing C will activate the **Skeleton Key** Resonance.
 
-Skeleton key will summon a wall, up to three if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
+Skeleton key will summon a wall, up to [four](https://medal.tv/games/roblox/clips/20S6HJ4g9idzMW/d13376DGkBQI?invite=cr-MSxlb1MsMjM5MDg3MDgs) if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
 
 If Skeleton Key is corrupted, you could summon up to five walls with a lesser duration.
 
@@ -48,6 +49,7 @@ When obtained, Skeleton Key will spend its points on the following stats:
 -   **Wall Amount:** How many walls you can spawn. (not guaranteed 5 because you need the correct point usage)
 -   **Duration:** How fast it takes to spawn a wall.
 -   **Range (?):** How far a wall can push.
+-   **Wall durability:** How many hits (ex: m1-ing) can the wall take before breaking.
 
 ## Trivia
 

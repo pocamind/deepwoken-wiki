@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 92782
+revid: 92796
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -21,7 +21,7 @@ notices:
 
 ## Obtainment
 
-1.  Make at least one potion for Daniel. You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
+1.  Make at least one potion for [Ciea](Ciea.md). You do not need to learn the location of [Adrofalis](Adrofalis.md) before undertaking the Oath.
 2.  Obtain 75 [Intelligence](Attributes.md). You do not need to unbound. Doing this and having made a potion for Ciea will open Adrofalis' dialogue.
 3.  In [Ferryman's Library](<Boatman's_Watch.md>), Adrofalis will ask you to make a residue. Bring him the following ingredients:
     -   [Celestial Ichor](Samael.md), the blood of a Celestial. Go to Derelict Highchurch and use a canteen in the blood pool of the crucified Celestial.

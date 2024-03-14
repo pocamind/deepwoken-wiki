@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 91626
+revid: 92787
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -78,3 +78,4 @@ This oath is fully upgraded once you get it.
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
 -   The color of the scissors on your hips can be changed with a dye packet
 -   Breaking this Oath by talking to Yun'Shul makes your scissors say: "Whatever, man."
+-   Although seen as a joke Oath, it has a few uses in PVE (Ex: Using Flammable Spray as a placeholder for Flamecharm's burn effects and the Mercy Kill talent)

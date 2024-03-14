@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 92784
+revid: 92792
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -283,6 +283,7 @@ _Form an ice spear and lunges forward._
 -   Deals moderate damage.
 -   Applies Chill. 2 second chill on the first hit, the second hit can apply a 4 second chill with 1 Eternal logstone.
 -   During the wind-up, pressing \[F\] cancels the impale.
+-   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
 -   Sometimes used in conjunction with the **Glacial Arc** mantra to fling the player skywards.
 
