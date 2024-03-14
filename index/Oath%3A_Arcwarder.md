@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 91286
+revid: 92802
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -24,10 +24,15 @@ categories: [Oaths]
 ## Obtainment
 
 -   Go to Layer 2 and Complete Alpha's quest.
-    1.  Activate the Generator
-    2.  Talk to Alpha
-    3.  Retrieve injured [Epsi](Epsi.md) (Please choose option 2 when you talk to him; can be done in different runs. If the wrong option is chosen and [Epsi](Epsi.md) perishes due to the parasites, he will always be outside of Firfire Caverns when you repeat floor 1, so you may choose the right option until the questline is completed.)
-    4.  Talk to Alpha again.
+    
+    1.  Activate the Generator.
+    2.  Talk to Alpha.
+    3.  Retrieve injured [Epsi](Epsi.md).
+    
+    -   Choose option 2 when you talk to him.
+        -   Option 1 causes [Epsi](Epsi.md) to perish due to the parasites, he will always be outside of [Firfire Caverns](Firfire_Caverns.md) when you repeat Floor 1, so you may choose the right option until the questline is completed.
+    -   Dying while the quest is active will not require the player to talk to him again.
+-   Talk to Alpha again.
 -   20 Fortitude, 20 Flamecharm and 20 Thundercall.
 -   Return to surface and talk to Delta at Miner's Landing inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the oath, you must kill any [Layer 2](Second_Layer.md) boss.
 

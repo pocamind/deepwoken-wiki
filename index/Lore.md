@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 92615
+revid: 92800
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -1456,6 +1456,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
     -   The Starkindred path available to the player is likely not the most powerful one as aside from granting the ability of wing manifestation and some mantras, does not provide anything else further. It is very much plausible that consuming other Celestials such as Alsin or Navae may yield different, and even greater powers.
 -   As stated by Ezra, a worshipper of the Celestial Ku, the Starkindred have a history of blood and massacre, suggesting that Oath keepers of Starkindred aren't united under a single cause; only partaking the Oath as a greedy attempt to gain power.
 -   They operate much like a cult, killing anyone who flies too far from the flock.
+-   The Starkindred Church are the creators of the [Pale Briar](Pale_Briar.md), which Maestro Evengarde Rest obtained during an excursion against the Church with The Hundred Legions.
 
 ### Arcwarder
 
@@ -1975,7 +1976,7 @@ Though technically a blank slate of varying races and abilities, even the player
 
 **Lore Sources:** _Nimea and Klaris._
 
--   Individuals born with the Gift; the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
+-   Individuals born with the Gift; a Murmur that grants them the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving them complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.

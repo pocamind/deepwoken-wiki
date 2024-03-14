@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 92527
+revid: 92801
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -65,11 +65,17 @@ An encounter limited to Erisia, can happen during any season, contrary to the po
 
 A group of three villager NPCs spawn around a campfire in Erisor's Church. Skeptical of Alastir's intentions due to his allegiance to the Duke, they ask the player for help, but then hear something outside. After some time, three waves of five Bandit Captains will spawn. The NPCs then rush to take them on, using fists to fight. The waves spawn at set timings rather than after the previous one's completion, so they can quickly overwhelm the NPCs and players. Despite the Villager's possessing a larger health pool and better combat AI, the bandits will overpower and grip them. Ironically, a Rock Golem will spawn and then wipe out the bandits. It will then face away from the church in the direction of the path leading to it. It can be fought by the player or will alternatively despawn on its own. It can be easily cheesed due to it not being able to enter the church and its laser being blocked by the walls, making it a good spot to grind weapon exp by parrying its spin with minimal danger. If the villagers survived, a chest will spawn once you kill the golem. As the villagers do not trust Alastir, you cannot turn them in for a chest. To get the event to spawn, you must interact with the villager on the left. You can also get the event chest just by pushing the left villager NPC out of the view of the bandits, and then speaking to them (This will only work if the bandits have spawned, and the villager hasn't noticed the bandits)
 
-#### **Golden Warrior**
+#### **[Golden Warrior](Golden_Warrior.md)**
+
+**A Golden Warrior Bouncer in the neutral position.**
 
 A fighter hailing from The Rat's Den, recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invites the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and uses Galebreathe. Upon death, he will drop a Gold Plate, five of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest which spawns where he stood. Occurs in Erisia.
 
-#### **Hobo**
+  
+
+A Hobo in the neutral position.
+
+#### **[Hobo](Hobo.md)**
 
 The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests. If you open one of their chests (you don't have to take the loot), they will yell at you and start to become hostile. Be careful, because he is a very annoying opponent, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned. The Hobo also uses the old AI of the Flamecharmer Monk.
 
@@ -134,24 +140,6 @@ Groups of NPCs from different factions will spawn and attack each other. Helping
 -   Vigil Swordsmen Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Legion Captain vs Authority Lieutenant Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
-
-A Golden Warrior Bouncer in the neutral position.
-
-  
-
-#### [Golden Warrior](Golden_Warrior.md)
-
-A fighter hailing from [The Rat's Den](<Rat's_Den.md>), recognizable by his gold armor (not to be confused with the Legion), looking for a worthy opponent. He invites the player to a battle to the death, even allowing the player to get 3 free hits before he retaliates. He wields a combat axe and uses [Galebreathe](Galebreathe.md). Upon death, he will drop a Gold Plate, five of which can be given to the bouncer at the Rat's Den for a loot chest. Defeating him will grant the player a chest which spawns where he stood. Occurs in Erisia.
-
-A Hobo in the neutral position.
-
-  
-
-#### **[Hobo](Hobo.md)**
-
-The Hobo can be found across Erisia and will spawn three chests around him. If you interact with the Hobo, they will brag of their wealth. With 50+ Charisma, you can take one of their chests.
-
-If you open one of their chests don't have to take the loot, they will yell at you and start to become hostile. Be careful, because he is a **very annoying opponent**, with Flamecharm and no cooldowns on their Mantra. He is an enemy of all factions. Though, he can be easily taken out if you get it on a wall and get it stunned.
 
 #### **Erisia Merchant**
 

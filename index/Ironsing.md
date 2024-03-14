@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 92621
+revid: 92807
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -195,6 +195,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 -   Deals heavy damage if not dodged or parried.
 -   Can be modified with **Cloudstones and Stratus Stones** to drastically increase the size of the rod.
+-   It blockbreaks at level 5.
 
  |
 | 
