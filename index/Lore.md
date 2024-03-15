@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 92800
+revid: 92847
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -236,13 +236,13 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 
 _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
--   Currently residing in the [Eastern Lighthouse](Eastern_Interstitial_Lighthouse.md), near miners landing.
--   In charge of connecting the Eastern and Etrean Luminant to the rest of the luminants from the Voidsea.
+-   Currently residing in the [Eastern Interstital Lighthouse.](Eastern_Interstitial_Lighthouse.md).
+-   In charge of connecting the East Luminant to the rest of the luminants from the Voidsea.
 -   Possible childhood friend of [Nimea](The_Hidden_Village.md) and possible teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Her hobby is apparently to write poetry, as stated by Klaris.
--   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etris.
--   As stated by Klaris, she isn't allowed to leave the lighthouse, meaning that she is like imprisoned due to her "gift".
--   Apparently she was taken when she was a child by Etris due to the rarity of her gift to be able to control the Eastern Lighthouse and have an advantage against the war with the Authority, possible being the reason why even though we can cross the lighthouse its apparently not working, meaning that its only used when the Etreans want to operate it. However, this is just speculation with the little information we have from Nimea and Klaris.
+-   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
+-   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to The Kingdom of Etrea.
+-   Apparently she was taken when she was a child by The Kingdom of Etrea due to her possessing Lightkeeping, allowing her to be able to control the Eastern Interstital Lighthouse and have an advantage against the war with the Authority by closing off the East Luminant from the other Luminants.
 
 ### **Klaris Llfiend, Mother of Lights**
 
@@ -492,7 +492,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 #### Eastern Interstitial Lighthouse (Etrean Luminant)
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
--   The [Lighthouse's](Eastern_Interstitial_Lighthouse.md) interior cannot be accessed, nor does it allow anyone to go to [The Central Luminant](Luminants.md) due to the fact that only Lightkeepers can operate them.
+-   The [Lighthouse's](Eastern_Interstitial_Lighthouse.md) interior cannot be accessed, nor does it allow anyone to access the other [Luminants](Luminants.md) due to the fact that only Lightkeepers can operate them.
 -   Viqh is likely still inside.
 
 #### Erisia (Etrean Luminant)
@@ -562,8 +562,8 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   Said that the temperatures are so extreme, that it has become very lethal recently due to the temperatures going lower with the pass of time.
 -   Probably home to [Frostdraw](Frostdraw.md).
 -   [Polis](Polis.md) originates from here.
--   Originally inhabited by the Edenkite.
-    -   The beheaded corpse of a Edenkite who was killed by The Mad Steward remains there to this day.
+-   Originally inhabited by the Elder Edenkite.
+    -   The beheaded corpse of the Elder Edenkite who was killed by The Mad Steward remains there to this day.
 
 ### **Western Luminant**
 
@@ -914,8 +914,8 @@ An Authority Captain
     -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[12\]](#cite-note-yaya-12)
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
-    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysid residing within the Hive, this is because most of the Chrysid were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysid wanted, most of them decided to leave the Hive, but still some Chrysid believed in the Hive and decided to stay.
-    -   Their previous home, or some soft of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
+    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and worhsip The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
+    -   Their previous home, or some soft of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there, with them having faded away after some time.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
     -   Despite the impressive nature of the Aratel Constructs, these are outdated models, the superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
 -   Currently at war with Etris, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for Lord Regents own interests.
@@ -923,8 +923,8 @@ An Authority Captain
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
--   The Hive has Lifeweavers within their ranks, individuals who utilized the song to manipulate and transfer life.
--   They were initially the only users of the Ironsing attunement, killing off anyone else who used it until [Adar, Master of Metal](Adar,_Master_of_Metal.md), escaped to the Ignition Union.
+-   The Hive has Lifeweavers within their ranks, individuals who utilize The Song to manipulate and transfer life.
+-   They were initially the only users of Ironsing, holding a monopoly on the Attunement until [Adar, Master of Metal](Adar,_Master_of_Metal.md), learnt how to replicate the Alloyed Elixir to help others obtain Ironsing.
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
 
@@ -1036,10 +1036,10 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   People who have turned to crime for various reasons (most notably desperation, or a need to support their family), and attack players on Erisia.
 -   Hostile to all players. Reputation cannot be gained with the bandits.
 -   They appear to have some level of organization:
-    -   They have a ranking system
-    -   They have a uniform, with different uniform for different ranks
-    -   They have a village in Lower Erisia
-    -   They organize large, though always unsuccessful, raids on bigger factions
+    -   They have a ranking system.
+    -   They have a uniform, with different uniform for different ranks.
+    -   They have a village in Lower Erisia.
+    -   They organize large, though always unsuccessful, raids on bigger factions.
 
 ### The Old Stewards
 
@@ -1194,14 +1194,14 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
 -   A race that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
--   They had a kingdom in Markor, what's become of it is unknown, though they are still prevalent in the Central Luminant.[\[2\]](#cite-note-arch-2)
+-   They had a kingdom in Markor that became assimilated into The Central Luminant, though they are still prevalent in the Central Luminant.[\[2\]](#cite-note-arch-2)
 
 ### Vesperian
 
 "_Never seen without their masks, poorly understood, but begrudgingly appreciated due to their natural talents."_
 
 -   A race that shares traits with bugs, never seen without the masks they wear, although most may not understand why.
--   Related to the Ganymedes as well as possibly the Chrysids, due to their similar eyes and surnames. This is because they all come from a single, ancient race.
+-   Related to the Ganymedes as they all share the same ancestor.
 -   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that identified as a Vesperian.
 -   Their natural armor comes from the fact that most beetles have exoskeletons to protect them, which Vesperians are based on.
     -   Vesperians grow their masks.[\[2\]](#cite-note-arch-2)
@@ -1237,7 +1237,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 
 -   The Chrysid used to be part of the Greathive races, alongside Vesperians and Ganymedes. However, they split off due to their belief in faith over technology.
 -   Despite splitting off from the Greathives, Chrysid are still welcome to reside there. As explained by [Hiri](Hiri.md), there are "no hard feelings" between the Greathives and Chrysids.
--   Many Chrysids choose to reside in the Lullaby Isles, an area surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
+-   Many Chrysids choose to reside in the Lullaby Isles, an area in The Central Luminant surrounded by a dense mountain range at sea, off the coast of Markor, with multiple small islands dotted around the region. This area is not seen ingame, but mentioned.
 -   Every village in the Lullaby Isles serves the Lady Confessor, a theocratic dictator which decides what is sin, and punishes those who stand in her way.
     -   The word confessor can have three meanings:
         1.  Someone who confesses, the least likely meaning based on the context.
@@ -1262,7 +1262,7 @@ _"Deeply spiritual folk who have an uncanny knack for deciphering the emotions o
 -   They are far weaker when on the surface than in The Depths.
 -   There are higher Krulians and lesser Krulians.
     -   Higher Krulians are more powerful than even Zi'eer or Pleeksty.[\[1\]](#cite-note-rag-1)
--   There is a chance that they are ancient enemies of the Lightborne and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborne.
+-   There is a chance that they are ancient enemies of the Lightborn and Celestials, as Krulians are very close to the Drowned gods and reside in the Depths, there is a high chance that they fought against the Celestials and Lightborn.
 
 ### Lightborn
 
@@ -1976,7 +1976,7 @@ Though technically a blank slate of varying races and abilities, even the player
 
 **Lore Sources:** _Nimea and Klaris._
 
--   Individuals born with the Gift; a Murmur that grants them the ability to radiate 'Light' within their very own soul. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
+-   Individuals born with the Gift; a Murmur that grants them the ability to radiate 'Light' within their very own soul in the form of Radiant Tones. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
 -   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving them complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
@@ -1985,8 +1985,8 @@ Though technically a blank slate of varying races and abilities, even the player
 -   Lightkeepers are highly important for nautical travel between Luminants. Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'Petra's Dawn' was the only ship that has made the expedition between Luminants without any blessing from a Lightkeeper.
 -   Sometime before the events of the game, Nimea's childhood friend, possibly Viqh, was born with this very Gift, and was discovered shortly after of their power. People of the Etrean Luminant believed that Nimea's friend was the first destined Lightkeeper in their Luminant for decades. This lead to her being hunted down by the Central Authority, hoping to add her to their roster of Lightkeepers. In protest, she refused to operate Lighthouse for them.
     -   Nimea was not happy about her childhood friend to be taken away from her, though she digressed, as it is only natural for a Lightkeeper to be born for this destiny.
--   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the radiant tones thanks to Viqh, the lightkeeper of the eastern lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
--   The magic that is utilized by the Dawnwalker Oath is an attempt at imitating Lightkeeping through the use of Radiant Tones.
+-   Klaris, the teacher of the Dawnwalker Oath, was possibly able to discover the Radiant Tones thanks to Viqh, the Lightkeeper of The Eastern Lighthouse, as she stated that "\[she\] learned a lot from her gift" meaning that Viqh possibly taught Klaris to create the Dawnwalker Oath, which is a formidable weapon.
+-   The magic that is utilized by the Dawnwalkers is a combat-oriented imitation of Lightkeeping through the usage of Radiant Tones.
 -   The Lightkeepers' FOB is located in Starswept Valley; named the Lightkeeper's Temple.
     -   As of the Year 1271, it has been buried by the sands of the Valley and is a breeding grounds for Threshers. Though despite the abandonment, the Temple looks to be intact.
     -   By Year 1363, a jail cell in it has been torn open, and a connection to the Deep Thresher Nest established.

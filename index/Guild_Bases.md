@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 92183
+revid: 92843
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -10,11 +10,9 @@ notices:
 
 # Guild Bases
 
-Template:Areainfobox
-
 ## Overview
 
-Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases and Guild Offices in towns, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
+Template:Areainfobox Guild Bases are a type of outpost that can be created by a Guild Leader. To create a guild base, a Leader or Officer must use a [Chime of Dwelling](Chime_of_Dwelling.md) on a wall. However, any other members can use [Dwelling Charm](Dwelling_Charm.md) (purchasable in Guild Bases and Guild Offices in towns, with 10 uses). A small animation highlighting the creation of a door, and a sign with the guild's name above it, will play.
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 
@@ -239,7 +237,7 @@ Bandits raiding a Guild Base.
 -   It costs 1 knowledge to store Soulbound items via the Banker.
 -   You will gain a small amount of experience for each unique guild base you visit
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
--   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
+-   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate), if you travel to another server like going to Eastern Luminant or The Depths from Etran Luminant, every carriable items inside the guild base will despawn unless there is another guildmate in the lobby still having the guild base active.
 -   The Thundercall talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
 -   Bandits can spawn inside the base. Though this was believed to be intentional, it was revealed in the 2/13/23 update that it is a bug.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
