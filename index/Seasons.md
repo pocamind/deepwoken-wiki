@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 86803
+revid: 92824
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -51,9 +51,9 @@ Examples of Autumn.
 Examples of Winter.
 
 -   Snow will cover the grass and leaves.
--   Fruits, vegetables, etc. will not spawn.
--   [Blizzard Knights](Stone_Knight.md) will spawn if you enter [Valley of Heroes](The_Valley_of_Heroes.md), specifically at [Aelita Event](Aelita.md) area.
--   [Hero Blades](Hero_Blades.md) and Ministry cloaks may be fished up.
+-   Fruits, vegetables, etc. will not spawn on most trees.
+-   [Blizzard Knights](Stone_Knight.md) will spawn if you enter the [Valley of Heroes](The_Valley_of_Heroes.md), triggered at the [Aelita Event](Aelita.md) area.
+-   [Hero Blades](Hero_Blades.md) and Ministry Cloaks may be fished up.
 -   The Trees in the [Burning Stone Gardens](Burning_Stone_Gardens.md) emit a white glow instead of their usual orange.
 -   Fish don't bite or bite significantly less often (needs confirmation)
 

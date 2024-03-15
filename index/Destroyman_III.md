@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 92505
+revid: 92813
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -154,6 +154,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   Dying in the Overworld can be a viable strategy to travel to the Depths faster! Dying in the Depths - not so much!
 -   Oh, oh! Next time, you should try spinning. That's a good trick!
 -   Wouldn't let that happen to me.
+-   I'm using tilt controls!
 
 ## Gripping Quotes
 
@@ -174,9 +175,9 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 ## Trivia
 
 -   The trailer promoting the Destroyman III ~plushie~ physical form, was rather controversial, as it used AI-generated backgrounds for several scenes. TheRealPunchee, who made the trailer, apologized, stating he was forced to due to time constraints.
--   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your Attunement. It is a reference to the animated show _[Spongebob Squarepants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)_, specifically the episode "[PICKLES](https://www.youtube.com/watch?v=5icZ0qixzBM)".
--   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the video game [_Darkest Dungeon_](https://en.wikipedia.org/wiki/Darkest_Dungeon).
--   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber "[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)", along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by Agamatsu in one of his streams (same goes for the April fools lobby music).
+-   The tooltip "Flamecharm? Daring today, aren't we?" doesn't change depending on your Attunement. It is a reference to the animated show _[SpongeBob SquarePants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)_, specifically the episode _[PICKLES](https://www.youtube.com/watch?v=5icZ0qixzBM)_.
+-   The tooltip "TIP: Overconfidence is a slow and insidious killer." is a reference to the video game _[Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)_.
+-   The tooltip "TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell." alongside other quotes is a reference to the popular Deepwoken youtuber _[Agamatsu](https://youtube.com/clip/Ugkx1LyOOvNrjlBTfzoMRW033k4dYUF0_ZRa)_, along with the tooltip "TIP : I should be rising in the sky" as they both go together to form a sentence said by Agamatsu in one of his streams.
 -   The tooltip "Just wait until I'm freed from the coil of your monitor." isn't a joke, he's coming for you. Start running.
     -   He's escaped both into the real and overworlds, nowhere is safe.
 -   The tooltip “I’m smart, you’re dumb; I’m big, you're little; I’m right, you're wrong, and there is nothing you can do about it.’ Is a reference to the movie Matilda, based on the Roald Dahl book of the same name, and is said by the one and only; our lord and saviour Danny Devito.
@@ -194,7 +195,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   It is implied by several tooltips that Destroyman III is in debt, is currently unemployed, commits tax evasion and/or is/will be be unable to pay his taxes and is currently on the run from the IRS (Internal Revenue Sharkos).
 -   The line "MISSION: Determine if it's possible to prompt the sun to explode." is a reference to the video game Outer Wilds.
 -   The line “Please join my fireteam. We're running a raid and need one more.” is a reference to the video game Destiny.
--   The name "Destroyman III" is a reference to the character [Destroyman](https://nomoreheroes.fandom.com/wiki/Destroyman), a boss in the video game series _No More Heroes_.
+-   The name "Destroyman III" is a reference to the character [Destroyman](https://nomoreheroes.fandom.com/wiki/Destroyman), a character in the video game series _No More Heroes_.
 -   The sound played when Destroyman III first appears comes straight from _No More Heroes_.
 -   The tooltip: "Moe..." is a reference to [Travis Touchdown saying the same line in his morning routine](https://www.youtube.com/watch?v=TQ3lh97fDVY) in _No More Heroes_.
 -   We love Destroyman III. You love Destroyman III.
@@ -208,5 +209,5 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
 -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
 -   Sycne has previously announced that there is now a fourth member of the Destroyman lineage, who has been given human form in that of a bald [Felinor](Felinor.md).
--   Developer Ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
+-   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." is a reference to the song _[Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)_ by Limp Bizkit.

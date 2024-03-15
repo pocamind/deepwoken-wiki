@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 87213
+revid: 92817
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -31,7 +31,7 @@ Your ability to call upon Light, enlighten those around you and guide others thr
 -   The current Lightkeeper _(possibly Viqh)_ was kidnapped by [Etrea](Etrea.md) to prevent the [Authority](The_Central_Authority.md) entering the Etrean Luminant, stalemating a losing war.
 -   **Lightkeepers** are possibly important for nautical travel between [luminants](Luminants.md). Within the [Petra's Anchor](<Petra's_Anchor.md>)'s description. It states that the ship 'The Petra's Dawn' was the only ship that has made the expedition between [luminants](Luminants.md) without any blessing from a **Lightkeeper**.
 -   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), the teacher of the [Dawnwalker oath](Oaths.md#dawnwalker), was possibly able to discover the radiant tones thanks to Viqh, the **lightkeeper** of the [eastern lighthouse](Eastern_Interstitial_Lighthouse.md), as she stated that, "_She learned a lot from her gift_" meaning that Viqh possibly taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to create the [Dawnwalker Oath](Oaths.md#dawnwalker), and as we know that Oath can easily be used as a weapon.
--   Viqh is the currently only known **Lightkeeper** and childhood friend of [Nimea](The_Hidden_Village.md). She taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) the secrets of using **Lightkeep** to help her develop the radiant tones for Dawnwalker.
+-   Viqh is the currently only known **Lightkeeper** and childhood friend of [Nimea](Nimea.md). She taught [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) the secrets of using **Lightkeep** to help her develop the radiant tones for Dawnwalker.
 -   ****Lightkeep** has no relation to [Lightborn](Lightborn.md).**
 -   Despite frequent request to add it to the game, Lightkeep is not stated to have any combat application, or indeed, any application outside of illuminating the Voidsea.
     -   Ironically, being born with it is almost a disability, as it restricts the users ability to harness the song.

@@ -1,6 +1,6 @@
 ---
 title: Salamander
-revid: 83891
+revid: 92818
 source: https://deepwoken.fandom.com/wiki/Salamander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -14,6 +14,6 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Salamanders were Monsters created early in Deepwoken's development that were scrapped.
+The Salamanders were [Monsters](Monsters.md) created early in Deepwoken's development that were scrapped.
 
 They were ultimately never rigged or animated, and it was later decided that they didn't fit in the game anymore.

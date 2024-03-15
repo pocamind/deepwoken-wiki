@@ -1,10 +1,16 @@
 ---
 title: Broadsword
-revid: 92805
+revid: 92822
 source: https://deepwoken.fandom.com/wiki/Broadsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
 # Broadsword
 
-unobtainable weapon, the ghost enemies uses it
+## Description
+
+Unobtainable weapon used by [Ghosts](Ghost.md) and [Bandits](Bandit.md). It is similar to the starter sword, and uses the base sword critical.
+
+## Trivia
+
+-   One of the few unobtainable weapons, the other being the Iron Sword used by [Bandit Leaders](Bandit_Leader.md).
