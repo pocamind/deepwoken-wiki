@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 92768
+revid: 92831
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -48,4 +48,4 @@ A Ghost cannot execute their opponent.
 
 ## Trivia
 
--   They use the unobtainable Broadsword weapon.
+-   They use the unobtainable [Broadsword](Broadsword.md) weapon.

@@ -1,6 +1,6 @@
 ---
 title: Plain Cape
-revid: 92563
+revid: 92839
 source: https://deepwoken.fandom.com/wiki/Plain_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -52,7 +52,7 @@ categories: [Equipment, Torso, Capes]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Second Layer |
+| obtainment | Chests from:, Second Layer Miner's Landing |
 | description | "..." |
 
 | Fleet Warden Cape | |
@@ -111,7 +111,7 @@ The Brilliant Cape is an animated [Equipment](Equipment.md) item under the "Tors
 
 ## Description
 
-The Dark Owl Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in the [Second Layer](Second_Layer.md).
+The Dark Owl Cape is an [Equipment](Equipment.md) item under the "Torso" category. They can be found through chests in the [Miner's Landing](<Miner's_Landing.md>) and [Second Layer](Second_Layer.md).
 
 ## Trivia
 
