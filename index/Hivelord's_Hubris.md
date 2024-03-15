@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 83872
+revid: 92848
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -23,7 +23,7 @@ categories: [Weapons, Greathammers]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Rare drop from Hive Construct, Rare drop from Rogue Construct |
-| description | "...This isnt' very efficient." |
+| description | "...This isn't very efficient." |
 
 ## Description
 

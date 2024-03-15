@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 92842
+revid: 92856
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -77,6 +77,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 -   Telegraphed by the lack of sound while rising and longer cast time, compared to Aero Spear.
 -   Will daze targets if they hit a wall while ragdolled.
 -   Projectiles have good tracking but have a limited turn angle, possibly delaying the hit if it orbits around you.
+-   If evaded for long enough and then hit by, the Duke will not teleport nor deal any damage.
 
 **This move will insta-grip you if you are hit by the second hit on low health/knocked**
 

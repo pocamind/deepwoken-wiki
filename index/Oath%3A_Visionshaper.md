@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 91788
+revid: 92851
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -42,7 +42,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Turn invisible briefly, and meanwhile, spawn an illusory clone that targets the closest enemy.
         -   Grants I-frames while invisible.
         -   The clone is visible to only the caster and the target.
-        -   Clones disappear if the caster takes any kind of damage. In any other situation, they will last the full duration, even when hit.
+        -   Clones disappear if the caster takes any kind of damage. They also disappear if hit 3 times (including Bleed and Deferred)
         -   The clones are supposed to deal a quarter of the caster's regular damage.
             -   its been tested previously with a posers ring bug that they do half of the caster's regular damage.
         -   The clones can only M1 and Crit, unless the user wields a heroblade, in which it will be incapable of using Crits.

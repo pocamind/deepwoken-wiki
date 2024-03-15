@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 92547
+revid: 92849
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -302,15 +302,7 @@ Gem
 
  | 
 
--   Fire - Burns more / Lava Serpent Path - ?
--   Ice - Slows more / Crystal Path - ?
--   Thunder - Stuns more
--   Shadow - Steals more ether
--   Wind - Suffocate deals more damage and slows more.
--   Add 2 keys to Ritual Casts
--   Graceful Flame increases Healing Speed.
--   Increases insanity given by gaze.
--   **Not to be confused with any of the Deep Gems. This is a regular mantra modifier, not a deep gem.**
+-   Elemental intensity affect the ability of mantras to interact/break terrain. For example, higher intensity for flamecharm allow burning larger patch of grass or melt bigger ice sheets.
 
  | 
 
