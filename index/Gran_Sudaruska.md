@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 90083
+revid: 92956
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -44,9 +44,8 @@ The critical causes the user to spin the axe in the air, raining down ice shards
 
 ## Trivia
 
--   Gran Sudaruska m1s do not apply crystal, nor does it apply chill. This is intended.
-    -   Prior to a patch, Gran Sudaruska used to convert **all** damage into Ice/Chill damage, leading to unintentional mechanics such as Basic attacks, any mantras, and even **Venting** to apply crystals, this was patched and removed, however the m1s used to apply crystal prior to a later hotfix.
-    -   M1s still do not proc chill/crystals.
+-   Gran Sudaruska m1s do not apply crystal or chill. This is intended.
+    -   Prior to a patch, Gran Sudaruska used to convert **all** damage into Ice/Chill damage, leading to unintentional mechanics such as basic attacks, any mantras, and even **Venting** to apply crystals, this was patched and removed, however the m1s used to apply crystal prior to a later hotfix.
 -   The first and only weapon that currently has the ability to speak.
     -   Some of her voice lines are:
         -   "Fall beneath our frost, drowned pawn."
@@ -70,9 +69,8 @@ The critical causes the user to spin the axe in the air, raining down ice shards
     -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
 -   Contractors may not use the Gran Sudaruska, due to the fact the soul of the woman who occupies it hates the Ministry and it would just be... extremely ironic to use it.
     -   When trying to equip the weapon as a Contractor, the game will state "The weapon rejects your very soul, the antithesis to your ideals."
-    -   You can however, equip her before obtaining contractor, just don't unequip her after obtainment or you won't be able to re-equip her.
+    -   You can however, equip her before obtaining Contractor, just don't unequip her after obtainment or you won't be able to re-equip her.
 -   The critical works with Meteor Impact.
--   Like every other legendary weapon in the game, you cannot enchant Gran Sudaruska.
 -   Strangely, Gran Sudaruska used to have a power requirement of 3, although it's impossible to meet the other requirements within Power 3.
 -   Gran Sudaruska can be used one handed even if you don't have the One Handed Training talent.
 -   Gran Sudaruska's crit only has a hitbox in the direction that your character is facing, which can be used to gain advantage in fights.

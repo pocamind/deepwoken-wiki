@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 92895
+revid: 92965
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Critical, Light Weapon, Requirement]
@@ -24,9 +24,17 @@ categories: [Weapons, Daggers, Critical, Light Weapon, Requirement]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Beating Maestro W/ Light Weapon |
+| obtainment | Maestro Evengarde Rest (light weapon) |
 | description | Weapon of a former student of the 4th Prophet who quickly moved up through the ranks of the Ministry due to their own ingenuity and modifications upon Zi'eer's puppet strings. Met their demise at the hands of the Maestro, posing as a Vigil Instructor in order to gather intel. Seeing through the disguise, the Maestro challenged the applicant instructor and forced them to reveal their hand. With no more tricks left up their sleeve, they fell before the Maestro's arsenal, their own handiwork joining the collection. |
 
 ## Description
 
-The Cerulean Thread s a Dagger that is obtained by beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Light Weapon, it's a guaranteed drop from him, like [Purple Cloud](Purple_Cloud.md) and [Pale Briar](Pale_Briar.md). It's one of the only one of 3 items that are guaranteed drops from Maestro. It can be enchanted by going to Laplace or by using enchant stones.
+The Cerulean Thread is a Dagger that is obtained by upon beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Light Weapon, it is a guaranteed drop from him the first time you defeat him him with a light weapon.
+
+## Critical
+
+On the first critical you'll thrust towards your opponent, placing a string on them. The next time you land your critical, you'll send you and your opponent upwards and do multiple slashes, ending with a backstab that ragdolls your opponent.
+
+## Trivia
+
+-   It's one of the 3 drops that is garunteed from Maestro if you fight him with a specific weapon type, the others being the [Pale Briar](Pale_Briar.md) and the [Purple Cloud](Purple_Cloud.md).

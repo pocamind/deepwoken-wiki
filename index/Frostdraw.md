@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 92792
+revid: 93002
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -227,7 +227,7 @@ _A flurry of ice spikes._
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
-    -   Warning: this modifier will cause the mantra to do NO DAMAGE.
+    -   **Warning: this modifier will cause the mantra to do NO DAMAGE.**
 
  |
 |  | 

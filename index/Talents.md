@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 92855
+revid: 92990
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1490,7 +1490,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 
 > _**"My soul is an instrument with its own frequency."**_
 
--   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Hold H and release) (+9 Sanity).
+-   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes. (Tool in your inventory) (+9 Sanity).
     -   Affected targets takes 25% more damage and deals 15% less posture damage.
     -   Prerequisite: 40 Willpower, 15 Strength, Murmur: Ardour
 

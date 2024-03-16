@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 92849
+revid: 93005
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -814,6 +814,22 @@ Shade Devour
  |
 | 
 
+Shadow Assault
+
+(★★☆)
+
+ | 
+
+ | 
+
+ | 
+
+-   This modifier causes "Shadow Assault" mantra to perform a rapid barrage of blows against the target after initial hit.
+    -   **THIS CAN ONLY BE ACTIVATED WHEN THE USER BELOW 40% HP.**
+
+ |
+| 
+
 Needle Barrage
 
 (☆☆☆)
@@ -866,7 +882,7 @@ File:Jolt Grab with Magnet Spark.gif
 
  | 
 
--   This modifier changes "Jolt Grab" Mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
+-   This modifier changes "Jolt Grab" mantra so that: it no longer lunges, replace the hitbox with an AoE around the user with a blindspot behind, reduce the wind up, teleport to the target.
     -   Similar to that of the [Authority Footsoldier's](Authority_Officer.md) Jolt Grab.
 
  |
@@ -884,7 +900,8 @@ File:Lightning Blade with Magnet Spark.gif
 
  | 
 
--   This makes you do a third teleport slash on the end of the 2 slashes. Do note that you can stack this with the "[Stormcaller Slash](Thundercall.md)" Talent, which causes your lightning blade hit a total of 4 times.
+-   This modifier causes the "Lightning Blade" mantra perform an additional third short-ranged teleporting slash.
+    -   Can be stacked this with the "[Stormcaller Slash](Thundercall.md)" Talent, which causes the user's Lightning Blade hit a total of 4 times.
 
  |
 | 
@@ -899,7 +916,7 @@ Electro Carve
 
  | 
 
--   This modifier causes Electro Carve to be thrown as a projectile if hit by the projectile the target will make 3 sound queues before discharging electric waves that deal AoE damage.
+-   This modifier causes "Electro Carve" mantra to be thrown as a projectile if hit by the projectile the target will make 3 sound queues before discharging electric waves that deal AoE damage.
 
  |
 | 
@@ -914,7 +931,7 @@ Lightning Stream
 
  | 
 
--   This causes Lightning Stream to pull to closest enemy towards you.
+-   This causes the "Lightning Stream" mantra to pull to closest enemy towards you.
 
  |
 | 
@@ -930,6 +947,25 @@ Spark Swap
  | 
 
 -   This modifier seems to have no effect on the "Spark Swap" mantra.
+
+ |
+| 
+
+Tranquil Circle
+
+(☆☆☆)
+
+ | 
+
+File:Normal Tranquil final.gif
+
+ | 
+
+File:Magnet Tranquil final.gif
+
+ | 
+
+-   This modifier causes the zone from the "Tranquil Circle" mantra to follow the character's movement.
 
  |
 
@@ -1514,3 +1550,4 @@ Lightning Clones
 -   Longstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun). They will dissolve into black, but the duration will still be modified.
 -   Vibrant Gems and Crystal Lenses can point towards mantra tables.
 -   Blast Spark Wind Gun could possibly be a reference to the Knuckleblaster Arm from ULTRAKILL
+-   Blast Spark Shadow assault is very likely a reference to [Sunakiniti's Blessed](<https://rogue-lineage.fandom.com/wiki/Sunaikinti's_Blessed?so=search>)'s Rampage from Rogue Lineage and by extension Akuma's Shun Goku Satsu from Street Fighter

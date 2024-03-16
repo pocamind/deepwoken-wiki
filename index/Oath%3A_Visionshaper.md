@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 92851
+revid: 93000
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -69,7 +69,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
         -   **Magnet Spark**. The radius of the realm focuses on the caster, pulling in anyone who is trapped and too far.
         -   **Multiplying Spark**. Any player can join the realm while it is active.
         -   Both can be used simultaneously.
-    -   Grants immunity to being knocked while active.
+    -   Grants immunity to being knocked while active. Although it halves the current duration if left at 0% hp.
         
         File:Illusonaryrealm.gif
         

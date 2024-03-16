@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 92848
+revid: 92997
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers]
@@ -17,6 +17,7 @@ categories: [Weapons, Greathammers]
 | range | 10 |
 | swing speed | 0.45x |
 | penetration | 5% |
+| chip damage | 20% |
 | weight | 10 |
 | bankable | Yes |
 | droppable | Yes |

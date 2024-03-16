@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 91332
+revid: 92969
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -91,7 +91,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <th>Duration</th>
 </tr>
 <tr>
-  <td>Bamboo</td>
+  <td><a href="Bamboo_Bundle.md">Bamboo</a></td>
   <td></td>
   <td>Strongest</td>
   <td></td>
@@ -104,7 +104,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Beeswax</td>
+  <td><a href="Beeswax.md">Beeswax</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -117,7 +117,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Bluecap</td>
+  <td><a href="Bluecap.md">Bluecap</a></td>
   <td>Strongest</td>
   <td>Strongest</td>
   <td></td>
@@ -130,7 +130,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Browncaps</td>
+  <td><a href="Browncap.md">Browncaps</a></td>
   <td>Strong</td>
   <td></td>
   <td>Strongest</td>
@@ -143,7 +143,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Calabash</td>
+  <td><a href="Calabash.md">Calabash</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -156,7 +156,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Chum</td>
+  <td><a href="Chum.md">Chum</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -169,7 +169,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Coral</td>
+  <td><a href="Megalodaunt_Coral.md">Coral</a></td>
   <td></td>
   <td></td>
   <td>Weakest</td>
@@ -182,7 +182,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Crustacean&nbsp;Meat</td>
+  <td><a href="Crustacean_Meat.md">Crustacean&nbsp;Meat</a></td>
   <td></td>
   <td></td>
   <td>Strongest</td>
@@ -195,7 +195,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td>Weakest</td>
 </tr>
 <tr>
-  <td>Dentifilo</td>
+  <td><a href="Dentifilo.md">Dentifilo</a></td>
   <td>Weakest</td>
   <td>Weakest</td>
   <td></td>
@@ -208,7 +208,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Gobletto</td>
+  <td><a href="Gobletto.md">Gobletto</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -221,7 +221,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Ongo</td>
+  <td><a href="Ongo.md">Ongo</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -234,7 +234,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Plum</td>
+  <td><a href="Plumfruit.md">Plum</a></td>
   <td></td>
   <td></td>
   <td>Strongest</td>
@@ -247,7 +247,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Pomar</td>
+  <td><a href="Pomar.md">Pomar</a></td>
   <td>Weak</td>
   <td></td>
   <td></td>
@@ -260,7 +260,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Redd</td>
+  <td><a href="Redd.md">Redd</a></td>
   <td>Strongest</td>
   <td></td>
   <td></td>
@@ -273,7 +273,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td>Strongest</td>
 </tr>
 <tr>
-  <td>Sap</td>
+  <td><a href="Sap.md">Sap</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -286,7 +286,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Scallop</td>
+  <td><a href="Scallop.md">Scallop</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -299,7 +299,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Seaweed&nbsp;Bundle</td>
+  <td><a href="Seaweed_Bundle.md">Seaweed&nbsp;Bundle</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -312,7 +312,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Spider&nbsp;Egg</td>
+  <td><a href="Spider_Egg.md">Spider&nbsp;Egg</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -325,7 +325,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td>Strongest</td>
 </tr>
 <tr>
-  <td>Urchin</td>
+  <td><a href="Urchin.md">Urchin</a></td>
   <td></td>
   <td></td>
   <td></td>
@@ -338,7 +338,7 @@ If multiple ingredients have the same listed effect strength (for example, are m
   <td></td>
 </tr>
 <tr>
-  <td>Wheat</td>
+  <td><a href="Gathered_Wheat.md">Wheat</a></td>
   <td></td>
   <td></td>
   <td>Strongest</td>

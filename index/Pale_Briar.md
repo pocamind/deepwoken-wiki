@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 92783
+revid: 92910
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Description, Requirement, Critical, Heavy weapon]
@@ -29,7 +29,7 @@ categories: [Weapons, Description, Requirement, Critical, Heavy weapon]
 
 ## Description
 
-The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Heavy Weapon, it's a guaranteed drop from him, like [Purple Cloud](Purple_Cloud.md). As of now, it one of the only one of 2 items that are guaranteed drops from Maestro. It can be enchanted by going to Laplace or by using enchant stones.
+The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Heavy Weapon, it's a guaranteed drop from him, like [Purple Cloud](Purple_Cloud.md) and [Cerulean Thread](Cerulean_Thread.md). As of now, it one of the 3 items that are guaranteed drops from Maestro. It can be enchanted by going to Laplace or by using enchant stones.
 
 Its base damage is 23, at 100 HVY, it deals 38.1 damage. All Greataxe talents assumingly work on this \[Not tested.\], and the critical attack of the weapon, a barrage of light that locks on and tracks the first person hit, it is a multi hit attack. This makes the weapon great for stunning and multi hit attacks, while still not damaging too much.
 

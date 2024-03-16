@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 92484
+revid: 92950
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Deepwoken]
@@ -182,6 +182,7 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
 
 ## Trivia/Notes
 
--   Islands named Lungfish Keep, Dink Island, Pov Land, Ironfist and Geoduck Cave do not exist or have been removed.
--   [Boatman's Watch](<Boatman's_Watch.md>) exists where Dink Island would have been.
 -   Future Luminants are confirmed, it is just going to be a while before we see such massive updates.
+-   In-game maps have a small line of text in the bottom left corner about authorities or surveyors that created the maps.
+    -   Etrean and Eastern Luminants: _Comissioned under the Authority of Sovereign Drallis Ehr, Overseer of Epochs._
+    -   Lost Celtor: _Surveyed under the supervision of the Citadel by the Divers of Castle Light, 1464 CE. Do not trust this map or any information contained within._

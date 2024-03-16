@@ -1,9 +1,9 @@
 ---
 title: Banker
-revid: 92874
+revid: 92992
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Banker
@@ -27,11 +27,13 @@ They can be found in:
 -   [The Floating Keep](The_Floating_Keep.md)
 -   [Guild Bases](Guild_Bases.md)
 
-#### Safe Deposit Boxes
+### Safe Deposit Boxes
 
-Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player pulls them out. They also allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept 1000 notes from someone, with the cap being 945).
+Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player pulls them out.
 
 Players start with six free slots, each holding one item, almost all items can be put inside the bank slots, including Soulbound/Relic Items for a fee of 1 knowledge.
+
+File:BANK.png
 
 Each slot will call a small, or large fee depending on how many slots you currently have. The listed prices below apply to every new slot, (e.g, the 15th slot would cost .)
 
@@ -40,8 +42,9 @@ Each slot will call a small, or large fee depending on how many slots you curren
 -   13-17, ( )
 -   18-23 ( )
 -   24-60 ( )
+-   61-100 (50,000 )
 
-It will cost you (or 27.5 note carry limit) to obtain all 60 bank slots.
+It will cost you 433000 (or 27.5 note carry limit) to obtain all 60 bank slots.
 
 If you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, [here is a great video](https://youtu.be/2m4qD3xfOAM).
 
@@ -59,6 +62,10 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Poser's Ring
 -   Manor's Key
 -   Starter weapons (Quickfang, Irontusk, Silversix, Avenger)
+
+### Account
+
+Accessing to your account will allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept 1000 notes from someone, with the cap being around 900). The banker will inform you of the notes that you have, and will ask if you want to deposit or withdrawal.
 
 ## Artifacts
 

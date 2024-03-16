@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 92756
+revid: 92999
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, Lore, World]
@@ -82,6 +82,90 @@ Nimea is a NPC inside a house in [The Hidden Village](The_Hidden_Village.md) to 
 </tr>
 <tr>
   <td colspan="3">What's the matter? You look as if you've got something to say.</td>
+</tr>
+<tr>
+  <td colspan="3"><div>I spoke to Klaris Llfiend. She said Viqh is doing okay.</div></td>
+</tr>
+<tr>
+  <td colspan="3"><i>*Her eyes widen in surprise, her face turning pale.*</i> H-how... How do you know Viqh?</td>
+</tr>
+<tr>
+  <td colspan="3"><div>I asked Klaris about a Lightkeeper from the Etrean Luminant and she remembered her.</div></td>
+</tr>
+<tr>
+  <td colspan="3"><i>*Tears start welling up in her eyes.*</i> How... How is she coping? After all these years?</td>
+</tr>
+<tr>
+  <td><div>She's writing poetry.</div></td>
+  <td colspan="2"><div>She's too busy to do anything.</div></td>
+</tr>
+<tr>
+  <td>Oh, Viqh... You purehearted fool... *She smiles despite her tears*</td>
+  <td colspan="2">Oh... Yes, I suppose that's right. They wouldn't squander her Gift... Tell me. Does she... Does she remember me?</td>
+</tr>
+<tr>
+  <td><div>...</div></td>
+  <td><div>I don't know... Sorry.</div></td>
+  <td><div>She writes poetry.</div></td>
+</tr>
+<tr>
+  <td>Thank you for giving me some peace of mind, friend. It lightens my heart to know that she still lives. And that she still writes those soppy poems, even if I'm not there to receive them. <i>*She smiles wearily, her mind in other places.</i></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td><div>Sorry for asking, but how exactly do people know if they have this 'Gift'</div></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>*She eyes you for a moment, then sighs.* You've done good for me, so I'll share a little. Those with the Gift... are somewhat ironically incapable of using the Song. Almost everyone has a little potential for it, right?</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td><div>Not Viqh thought?</div></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>No. Not Viqh. Poor thing couldn't muster a single word of it. As a child, I simply thought she hadn't got the knack for it yet. We must've sat there for hours - just reciting the same Mantras over and over again. <i>*She smiles, reminiscing. Seems like a pleasant memory for her.*</i></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td><div>And then...</div></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>And then they took her. We were out in the boonies, so when an Authority ship suddenly appeared at our shore there wasn't much we could really do about it. So many soldiers - all filtering out of that hideous ironclad of theirs.</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td><div>Was there no chance of hiding her?</div></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td><i>*She shakes her head.*</i> Only reason she was out in the sticks like me is because her parents realised keeping her in Etris would be bad news. The Authority are monsters, the lot of them. But what do you even <i>call</i> something that monsters fear?</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td><div>I'm sorry. About all of this.</div></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>*She eyes you once again, measuring your sincerity. Her face cracks into a smile.* I know you are. But what is one to do? I can only hope that love can reach where the Song never could.</td>
+  <td colspan="2">Thank you... For at least letting me know that she still lives. I only hope that her heart remains strong after these years, despite her imprisonm- ...despite her gift,</td>
+</tr>
+<tr>
+  <td><div>End</div></td>
+  <td></td>
+  <td></td>
 </tr>
 </tbody>
 </table>

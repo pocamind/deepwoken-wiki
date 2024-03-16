@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 92380
+revid: 93003
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -27,7 +27,39 @@ All weapons within the game have chances of being found with (or without) differ
 
 [Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.
 
-**There are 92 weapons in Deepwoken.** (Excluding alloyed variations and offhand weapons.)
+### Totals
+
+#### Light Weapon
+
+-   13 Daggers (15 if alloyed)
+-   8 Fists
+-   4 Guns
+-   6 Rapiers
+
+#### Medium Weapon
+
+-   20 Swords (25 if alloyed)
+-   12 Spears (14 if alloyed)
+-   2 Clubs
+-   3 Rifles
+
+#### Heavy
+
+-   12 Great Axes (15 if allowed)
+-   10 Great Swords (14 if alloyed)
+-   9 Great Hammers (10 if alloyed)
+
+#### Others
+
+-   10 Elemental
+-   5 Exclusive
+
+#### In Total
+
+-   109 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   114 Total Weapons (Non-Alloyed, Exclusive)
+-   126 Total Weapons (Alloyed, Non-Exclusive)
+-   131 Total Weapons (Alloyed, Exclusive)
 
 ## Stances
 
@@ -257,6 +289,18 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td><font>0.86x</font></td>
   <td>0s</td>
   <td>28.5</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Cerulean_Thread"><font>Cerulean Thread</font></a></td>
+  <td>85 LHT; LVL 10</td>
+  <td>15</td>
+  <td>25%</td>
+  <td>LHT: 9</td>
+  <td>4</td>
+  <td>6.5</td>
+  <td>0.98x</td>
+  <td>0.04s</td>
+  <td>28.2</td>
 </tr>
 </tbody>
 </table>
@@ -952,6 +996,18 @@ Spears are weapons with a long metal pole, with a blade at one end, used for att
   <td>9</td>
   <td>0.68x</td>
   <td>30.1</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Imperial_Staff"><font>Imperial Staff</font></a></td>
+  <td>50 MED; 40 STR</td>
+  <td>19</td>
+  <td>10%</td>
+  <td>N/A</td>
+  <td>MED: 5; STR: 3</td>
+  <td>6</td>
+  <td>8</td>
+  <td>0.75x</td>
+  <td>33.8</td>
 </tr>
 <tr>
   <td><a href="Serrated_Warspear.md">Serrated Warspear</a> (<b>Bleed</b>)</td>

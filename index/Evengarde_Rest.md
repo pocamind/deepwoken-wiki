@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 92882
+revid: 92968
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -34,7 +34,7 @@ Begin (After Vigil Saviour)
 
  | 
 
-Begin (After Duke Erisia, Ally Rep, ≥80 MED/HVY)
+Begin (After Duke Erisia, Ally Rep, ≥80 LHT/MED/HVY)
 
  |
 | Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? |
@@ -75,7 +75,11 @@ _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very we
 
 _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West. That being said, I have no intention of going easy on you. This polearm cannot be handled by the faint of heart.
 
- | _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. |
+ | (LHT)
+
+_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself.
+
+ |
 | 
 
 I'll do it.
