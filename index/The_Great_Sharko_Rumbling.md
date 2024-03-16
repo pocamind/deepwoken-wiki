@@ -1,6 +1,6 @@
 ---
 title: The Great Sharko Rumbling
-revid: 79607
+revid: 92871
 source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore]
@@ -28,3 +28,5 @@ This started out fine, but slow. The fishermen wanted more, and thus, they place
 Adventurers, warriors, pirates, mages, gladiators, and anyone else who could fight were called back to the islands to make a desperate last stand, and they succeeded in tiding off the literal, and metaphorical wave of Megalodaunts, sending them back reeling to the deep.
 
 After the re-building of society, the economy was able to boom due to the influx of treasures gained from the Megalodaunts.
+
+_A **Second rumbling** was spotted by a user that goes by @ecyfa on yt. You can watch the video [here](https://youtu.be/c7ggrR140XE?si=zs1GbHiMmdG9DWti) if you want to._

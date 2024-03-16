@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 92856
+revid: 92858
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -274,23 +274,22 @@ Rematch
 -   The Duke gives the third best "monster" bell progression, with 1st and 2nd being [Scion of Ethiron](Scion_of_Ethiron.md) and [Primadon](Primadon,_Titan_of_the_East.md) respectively.
 -   Initially, it was unclear if he was escaping The Depths each time he was refought. Arch\_Mage thus made unique dialogue for his rematches, but due to a bug, these were not implemented until 8/7/23. "The ruins of that city will **never** cage me. And with what's at stake... I can't stop now"-Duke
 -   When fighting in a group, it is recommended to:
-    -   ~Make sure your group catches up with you. If you enter first, they are likely to be locked out of the boss room.~ This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
+    -   In older versions of _Deepwoken_, you would have to make sure your group catches up with you. If you entered first, they would've likely been locked out of the boss room. This no longer happens as everyone will be teleported into the boss room once the first person activates the barrier.
     -   Bring a campfire to the fight. This will allow you switch positions in combat, having your partner fight the Duke while you are healing up.
     -   The Duke's health scales by 15,000 points for each player fighting it. For example, if you are fighting it with 4 people, the Duke will have 60,000 health.
 -   The attacks on this boss heavily resemble the attacks of Accelerator from TOARU. Specifically, Accelerator from a game on Roblox known as Anime Battle Arena, which Deepwoken developer Par is known for working on.
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
--   His first name remains unknown, leading to it becoming a meme in the community.
-    -   Upon being asked, Arch\_Mage said his name was 'Duke Fancypants.'
-    -   Naktigonis said it was 'Duke Duke Erisia Erisia (of Erisia).'
-    -   The [Stoneheart](Stoneheart.md)'s description refers him as Ishamon.
+-   Before the [Stoneheart](Stoneheart.md)'s description refered him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
+    -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
+    -   Naktigonis said it was "Duke Duke Erisia Erisia (of Erisia)."
 -   Elaborating from the Stoneheart's description, his Resonance is likely corrupted, considering his acquisition of the Forge, allowing him to expand his golem capacity by a greater amount, whereas the Sinner's Ash relic allows it to corrupt one's Resonance while being a remnant of the Forge.
 -   Gale Stomp can be blocked, but you'll rarely have the needed posture to do so. (Nearly blockbreaks at 35 posture)
 -   His hair ID is 4374334355.
 -   Duke's Colors: #bfb5a9 Skin | #414A3B Hair | #7d9600 Pupils | #414A3B Facial Marking | #564236 Eyeglasses | Pastel Green - Resonance
--   Duke canonically escapes the depths every time he dies. Can be seen from contractor dialogue.
--   Duke **is** against the drowning and against **Lord Regent,** if it wasn't made obvious enough. So yes, technically you're the villain here, killing Duke (who wants to prevent the drowning of Etris.)
+-   Duke canonically escapes the depths every time he dies, which can be seen from the dialogue. Whether he is sent to the First or Second layer is unknown, as both can be referred to as cities.
+-   Duke **is** against the drowning and against **Lord Regent,** if it wasn't made obvious enough. So, technically, your player character is the villain, killing Duke (who wants to prevent the drowning of Etris). The reason Duke is seen as an antagonist, though, is his questionable ethics and experiments.
 
 ## Bugs
 
@@ -298,6 +297,6 @@ Rematch
 
 ## Strategy
 
--   Block Breaker Weapons, including Mantras, like the [Enforcer's Hammer](<Enforcer's_Hammer.md>) and [Mace](Mace.md) carries the battle in Phase 1. You can also use Flame Eruption, Warden's Blades, and Barrage to break the shield.
+-   Block Breaker Weapons, including Mantras, like the [Enforcer's Hammer](<Enforcer's_Hammer.md>) and [Mace](Mace.md) carries the battle in Phase 1. You can also use Flame Eruption, Warden's Blades, and Rapid Punches to break the shield.
 
 -   Using Warden's Blades modified with Rush Shards, Eternal Logstones, and Blue Gems would make a great modifier, but it's costly. If you want to cheese Duke in phase 1, it's worth it. It might also be worth in phase 2, since you can also attack while it is active, making it a great block breaker if you have [Enforcer's Hammer](<Enforcer's_Hammer.md>) or [Mace](Mace.md).

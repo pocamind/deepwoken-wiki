@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 92611
+revid: 92882
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -67,7 +67,15 @@ I mean, if they're not being made use of there's no harm in it right?
 What if I prove myself? How about a challenge?
 
  |
-| _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history. That being said, I have no intention of going easy on you. This blade cannot be handled by the faint of heart. |
+| (MED)
+
+_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history. That being said, I have no intention of going easy on you. This blade cannot be handled by the faint of heart.
+
+ | (HVY)
+
+_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West. That being said, I have no intention of going easy on you. This polearm cannot be handled by the faint of heart.
+
+ | _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. |
 | 
 
 I'll do it.
@@ -137,3 +145,4 @@ End
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
 -   Ragoozer stated Maestro Evengarde Rest is as strong as Amorous Pleeksty when activating his "Tempest Eye."
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
+-   Maestro had trained with the legion in the west, where he had stolen a "Pale Briar" from a Cardinal of the Starkindred Church.

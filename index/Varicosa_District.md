@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 92356
+revid: 92857
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths, Layer 1]
@@ -24,7 +24,8 @@ The Varicosa District is a section of The City of the Drowned distinguished by i
 
 [Jeremiah](Jeremiah.md), an NPC that you can trade deep gems for items, can be found here.
 
-## Trivia/Notes
+## Trivia
 
--   In this district there is the Shadow trainer which can give you a [Nightblood Potion](Attunement_Potions.md) for 5 [umbral Obsidian](Umbral_Obsidian.md).
+-   In this district there is the Shadow trainer which can give you a [Nightblood Potion](Attunement_Potions.md) for 5 [Umbral Obsidian](Umbral_Obsidian.md).
 -   [Umbrite](Ores.md#umbrite) can be found in the cave where [Nostor](Nostor,_Master_of_Shadow.md) resides, which can be used to obtain Ironsing.
+-   Varicosa is a species of [sea slug](https://en.wikipedia.org/wiki/Phyllidia_varicosa).

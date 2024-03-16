@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 92039
+revid: 92874
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -29,7 +29,7 @@ They can be found in:
 
 #### Safe Deposit Boxes
 
-Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player pulls them out.
+Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player pulls them out. They also allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept 1000 notes from someone, with the cap being 945).
 
 Players start with six free slots, each holding one item, almost all items can be put inside the bank slots, including Soulbound/Relic Items for a fee of 1 knowledge.
 

@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 87537
+revid: 92867
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 Friid is an NPC who acts as both progression for the [Silentheart](Oaths.md) Oath and the [Galebreathe](Galebreathe.md) trainer.
 
-In order to obtain Galebreathe, you must bring five [Gale Stones](Gale_Stone.md) to Friid. Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents. They are found at a camp near the [Temple Approach](Temple_Approach.md).
+In order to obtain Galebreathe, you must bring five [Gale Stones](Gale_Stone.md) to Friid (2 if you have already obtained [Galebreathe](Galebreathe.md)). Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents. They are found at a camp near the [Temple Approach](Temple_Approach.md).
 
 ## Moveset
 

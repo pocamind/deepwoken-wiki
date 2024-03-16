@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 92263
+revid: 92873
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics, Helpful]
@@ -87,7 +87,11 @@ _As you play the game and face hardships, knowing how to properly watch over the
 
 ## Maps
 
-Upon talking to a shipwright, you'll unlock the ability to write down your navigations. With places that have not been explored yet obscured, and places you have already visited fully written. It also identifies you of your current location with a yellow marker, and the waterlocks leading to the next luminant. If you have Kaumi in your possession, using a map inside of it will also identify you of your physical location.
+Upon talking to a shipwright or spawning a boat, you'll unlock the ability to write down your navigations.
+
+With places that have not been explored yet obscured, and places you have already visited fully written. It also identifies you of your current location with a yellow marker, and the waterlocks leading to the next Luminant. It will also provide you of the whereabouts of your guildmates, and points of interest. You will also be alerted if you cross out of the maps boundaries (such as entering the voidsea/boatmans watch).
+
+If you have Kaumi in your possession, using a map inside of it will also identify you of your physical location.
 
 ## Keybinds
 

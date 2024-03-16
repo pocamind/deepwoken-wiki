@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 92202
+revid: 92879
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -90,7 +90,7 @@ These status effects won't kill you, but they can give you a negative buff or dr
 
 ### Burning
 
-This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move or by the Ignition Downside on [Corrupted Resonances](Resonance.md). Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling.
+This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move or by the Ignition Downside on [Corrupted Resonances](Resonance.md). Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding.
 
 ### Winded
 

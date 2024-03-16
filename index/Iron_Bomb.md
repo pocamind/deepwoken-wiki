@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 87384
+revid: 92880
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -28,11 +28,10 @@ To gain this recipe, you will have to talk to Lucien at [Songseeker Wilds](Songs
 
 An Iron bomb has many uses, mainly the use of dealing damage.
 
-Pressing M1 or your left mouse button lets you place your bomb down, it detonates after 3 seconds of being placed down.
-
-An Iron bomb being thrown.
-
-Pressing E on your keyboard allows you to throw your bomb in the direction of your cursor.
+-   Pressing M1 or your left mouse button lets you place your bomb down, it detonates after 3 seconds of being placed down.
+-   An Iron bomb being thrown. However this prevents you doing anything during the throwing animation.
+-   Pressing E on your keyboard allows you to throw your bomb in the direction of your cursor.
+    -   You cannot use bombs mid-crit.
 
 ### Movement
 

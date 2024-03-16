@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 91901
+revid: 92876
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -24,14 +24,14 @@ There are currently four base Attunements that anyone may select when first crea
 -   The more attunements you wield, the more expensive it will become to manage them- because you do not have an infinite number of points to spend on your character. Choose wisely.
 -   By choosing no attunement, you are provided 10 extra investment points to make up for the loss of attunement. Normally, these 10 points would be auto invested if you chose an attunement.
 
-Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 5 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
+Post-creation, the character is able to learn more attunements throughout their adventures by visiting individual _attunement trainers_ around the world. For the character to wield more attunements post-creation, they must collect 2 of the respective elemental ingredients- aside for Ironsing, which utilizes a more convoluted unlock method.
 
 -   Thundercall = [Spark Glands](Spark_Gland.md)
 -   Flamecharm = [Dying Embers](Dying_Embers.md)
 -   Frostdraw = [Frigid Prisms](Frigid_Prism.md)
 -   Galebreathe = [Gale Stones](Gale_Stone.md)
 -   Shadowcast = [Umbral Obsidian](Umbral_Obsidian.md)
--   Ironsing = _1 of every ore excluding Rocks and Coal, as well as a [Pluripotent Alloy](Pluripotent_Alloy.md)_
+-   Ironsing = _1 of every ore excluding Rocks and Coal._
 
 These ingredients are typically dropped by those who wield the attunement, such as Gale Songseekers dropping Galestones. Some monsters may drop elemental ingredients as well- with Megalodaunts dropping Umbral Obsidians and Gigameds dropping Spark Glands. Upon collecting the ingredients, you can hand them into the trainer to obtain a bottle that- once consumed- will provide the character with a singular point in that attunement.
 
