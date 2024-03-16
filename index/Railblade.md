@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 91431
+revid: 93020
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -46,7 +46,7 @@ The Railblade is unique because of its two different critical attacks, along wit
 
 ## Trivia
 
--   It is one of four known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Light's Final Toll](<Light's_Final_Toll.md>) and [Shattered Katana](Shattered_Katana.md).
+-   It is one of four known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Light's Final Toll](<Light's_Final_Toll.md>) [Shattered Katana](Shattered_Katana.md) And [Imperial Staff](Imperial_Staff.md).
 -   The description suggests that equipping the weapon reduces the rate at which parasites accumulate on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by contributor oNoodlez.

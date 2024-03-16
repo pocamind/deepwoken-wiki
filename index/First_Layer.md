@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 92878
+revid: 93033
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -65,7 +65,7 @@ Although most buildings will work, a specific building is popular for stacking, 
 
 Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against increasingly difficult enemies. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power present. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
-Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Escaping also cleanses the health bar, and removes the ctag when the mob is killed.
+Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Escaping also cleanses the health bar, and removes any combat tags the player currently has.
 
 ### _Note:_
 

@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 76944
+revid: 93030
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment]
@@ -32,4 +32,4 @@ The Phalanx Helmet is an [Equipment](Equipment.md) in the "_Head_" category_._ E
 
 ## Trivia
 
-This item is part of the "Phalanx" set, the other items being [Legion Phalanx Plate](Legion_Phalanx_Plate.md) & [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+This item is part of the "Phalanx" set, the other items being [Legion Phalanx Plate](Legion_Phalanx_Plate.md) & [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md).

@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 91513
+revid: 93022
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hoods, Head]
@@ -29,5 +29,5 @@ Assassin's Hood is an [Equipment](Equipment.md) item under the "Head" category. 
 
 ## Trivia
 
--   This is part of the 'Assassin' Set, The only other piece being [Assassin's Cloak](<Assassin's_Cloak.md>)
--   This hood comes with a face-mask
+-   This is part of the 'Assassin' Set, The only other piece being [Assassin's Cloak](<Assassin's_Cloak.md>).
+-   This hood comes with a face-mask.

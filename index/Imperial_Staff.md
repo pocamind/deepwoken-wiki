@@ -1,9 +1,9 @@
 ---
 title: Imperial Staff
-revid: 93014
+revid: 93057
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears]
+categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
 ---
 
 # Imperial Staff
@@ -16,7 +16,7 @@ categories: [Weapons, Spears]
 | scaling | 5 MED 3 STR |
 | range | 8 |
 | swing speed | 0.75x |
-| penetration | 15% |
+| penetration | 10% |
 | special effect | Ranged Critical, Aerial Critical, Running Critical |
 | stances | 2 Handed, 1 Handed |
 | selling price | N/A |
@@ -25,7 +25,7 @@ categories: [Weapons, Spears]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Bosses |
+| obtainment | Maestro Evengarde Rest, Primadon |
 | description | Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation. |
 
 ## Description

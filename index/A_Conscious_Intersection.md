@@ -1,6 +1,6 @@
 ---
 title: A Conscious Intersection
-revid: 92820
+revid: 93044
 source: https://deepwoken.fandom.com/wiki/A_Conscious_Intersection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]

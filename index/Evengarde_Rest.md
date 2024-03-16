@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 92968
+revid: 93058
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -36,14 +36,26 @@ Begin (After Vigil Saviour)
 
 Begin (After Duke Erisia, Ally Rep, ≥80 LHT/MED/HVY)
 
+ | 
+
+Begin (After defeating him)
+
  |
-| Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? |
+| Ah, well if it isn't \[Name\]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly. | _\*The Maestro smiles as you approach him.\*_ \[Name\] what brings you here? | \*_The Maestro smiles_\*. Ah, well if it isn't my friend, \[name\]. How's "Purple Cloud"/"Pale Briar"/"Cerulean Thread" treating you? |
 | 
 
 I feel as if we're unprepared against the Lord Regent.
 
+ | 
+
+We've been well, thank you. Care for another round?
+
  |
-| _\*He raises an eyebrow.\*_ As much as I hate to admit it... You may be right. _\*A moment of silence passes\*_ |
+| _\*He raises an eyebrow.\*_ As much as I hate to admit it... You may be right. _\*A moment of silence passes\*_ | 
+
+End
+
+ |
 | 
 
 ...I heard you have an arsenal of weapons in this hall.
@@ -122,7 +134,7 @@ I'm not proficient in anything.
 
  | 
 
-I'm need training in Light/Medium/Heavy Weapons.
+I need training in Light/Medium/Heavy Weapons.
 
  |
 | Although you helped us greatly, I do not have the time to teach a true beginner. Come back when you have displayed some level of competence. |
@@ -132,7 +144,7 @@ End
 
  | **MED:** Ah, my specialty. Very well, I shall teach you the steps to become a Master.
 
-**Other:** Ah, I will have to break it out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.
+**Other:** Ah, I will have to break out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.
 
  |
 | 
