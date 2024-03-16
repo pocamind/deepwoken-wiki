@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 92977
+revid: 93014
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -16,7 +16,7 @@ categories: [Weapons, Spears]
 | scaling | 5 MED 3 STR |
 | range | 8 |
 | swing speed | 0.75x |
-| penetration | 10% |
+| penetration | 15% |
 | special effect | Ranged Critical, Aerial Critical, Running Critical |
 | stances | 2 Handed, 1 Handed |
 | selling price | N/A |
@@ -46,3 +46,4 @@ The Imperial Staff possess three different criticals, being a highly versatile w
 -   The first (and currently only) weapon to scale off of Strength, and the only Medium Weapon that requires Strength.
 -   **IMPORTANT WARNING :** The weapon currently has a common rarity by color, so it'll appear at the bottom of chests as of right now.
 -   The first blunt spear.
+-   The placeholder crit for this weapon was the [Unsung Scythern](Unsung_Scythern.md) when used in old servers

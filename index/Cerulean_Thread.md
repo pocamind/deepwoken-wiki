@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 92965
+revid: 93008
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Critical, Light Weapon, Requirement]
@@ -37,4 +37,4 @@ On the first critical you'll thrust towards your opponent, placing a string on t
 
 ## Trivia
 
--   It's one of the 3 drops that is garunteed from Maestro if you fight him with a specific weapon type, the others being the [Pale Briar](Pale_Briar.md) and the [Purple Cloud](Purple_Cloud.md).
+-   It's one of the 3 drops that is guaranteed from Maestro if you fight him with a specific weapon type, the others being the [Pale Briar](Pale_Briar.md) and the [Purple Cloud](Purple_Cloud.md).

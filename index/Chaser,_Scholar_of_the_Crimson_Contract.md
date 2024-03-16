@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 92518
+revid: 93009
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -105,6 +105,12 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
     -   Chaser will attempt to push the player away from the safe zone below him by slamming himself on the ground. This attack can be blocked (albeit it needs a good shield), parried or dodged.
     -   Be extremely careful, as Chaser will use his regular attacks in between his ground slams. The blood wave attack becomes threatening in this phase as you are given little reaction time to jump.
     -   Chaser will eventually die by himself, completing the fight.
+-   Chaser has a pattern of attacks during this phase.
+    -   As soon the arena turns into a danger zone,he will unleash a **Body Slam**.
+    -   The slam is followed by a random move from his moveset.
+    -   After the second move,Chaser will use **Body Slam** twice,both with the same timing.
+    -   The slams are followed by a random move from his moveset.
+    -   During his last move,he will chain 2 quick **Body Slams** along a normal one,eventually ending the fight.
 
 ## Rewards
 

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 92530
+revid: 93011
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -147,7 +147,7 @@ It grants the user +20 knowledge on subsequent uses.
  |
 | 
 
- | **[Lightkeeper's Medallions](<Lightkeeper's_Medallion.md>)** - A torso equipment that grant the ability "Eulegy of Light", which prevent Deep Gems from activating when hit for 1 minute.
+ | **[Lightkeeper's Medallions](<Lightkeeper's_Medallion.md>)** - A torso equipment that grant the ability "Eulegy of Light", which prevent Deep Gems from activating when hit for 3 minute.
 
 -   The ability is one time use, but is recharged by killing a player of your level.
 
