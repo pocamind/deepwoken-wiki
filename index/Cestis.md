@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 83296
+revid: 93105
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -128,4 +128,4 @@ A [Ganymede](Ganymede.md) located in [Meteor Isle](Meteor_Isle.md), presumably w
 
 -   Cestis was originally located in [The Hidden Village](The_Hidden_Village.md).
 -   For those trying to get [Tacet](Murmur.md), Doing bounties from territories like [Etris](Etris.md), [Summer Isle](Summer_Isle.md), or even [Fort Merit](Fort_Merit.md) will count towards your required number of assassinations in order to obtain Tacet from Cestis.
-    -   Furthermore, if you already have 5 bounties completed you will still be able to obtain Tacet with positive Etrean Reputation. After teaching you he will revert to his Good Etrean Reputation Dialogue.
+    -   Furthermore, if you already have 5 bounties completed you will still be able to obtain Tacet with positive Etrean Reputation. After teaching you he will revert to his Good Etrean Reputation Dialogue. - Note, You require Hunted reputation with Etrea, Not Enemy

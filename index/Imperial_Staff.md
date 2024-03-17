@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 93098
+revid: 93125
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
@@ -25,7 +25,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Primadon, Duke, Ethiron |
+| obtainment | Maestro Evengarde Rest, Primadon (Gem chest) |
 | description | Legendary staff of a Legion Praetorian of ages past. In his hands it's said to have wiped whole towns off the face of the map with one swing, and to have rapidly expanded the outer reaches of their territory. The veracity of these claims is of some dispute, but the peculiar properties of the weapon do lend some credence to its reputation. |
 
 ## Description
@@ -42,7 +42,7 @@ The Imperial Staff possess three different criticals, being a highly versatile w
 
 ## Trivia
 
--   **|IMPORTANT WARNING :** _The weapon currently has a common rarity by color, so it'll appear at the bottom of chests as of right now. This is very likely an error._
+-   **|IMPORTANT WARNING :** _The weapon currently has a common rarity by color, so it'll appear at the bottom of chests as of right now. This is very likely an error. (Most likely fixed as ive seen it purple myself)_
 -   The Imperial Staff is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore.
 -   The first (and currently only) weapon to scale off of Strength, and the only Medium Weapon that requires Strength.
 -   The first blunt spear.

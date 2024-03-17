@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 86443
+revid: 93120
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -70,7 +70,7 @@ A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division 
 
 | Violation | Description | Warnings | Consequence |
 | --- | --- | --- | --- |
-| **Vandalism** | Editing a page with a clear intent of adding false or irrelevant information. | 
+| **Vandalism** | Editing a page with a clear intent of degradation via methods including but not limited to adding false or irrelevant information. | 
 None
 
  | 3 Weeks Namespace Block |
@@ -103,7 +103,7 @@ None
 None
 
  | 3 Months Namespace Block (varies with amount) |
-| **Numerous Vandalisms** | Editing multiple pages with a clear intent to degrade the page. | 
+| **Numerous Vandalisms** | Editing multiple pages with a clear intent to degrade each page. | 
 
 None
 

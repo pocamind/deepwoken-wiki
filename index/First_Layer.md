@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 93101
+revid: 93111
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -69,7 +69,7 @@ Completing the trial for the first time grants the talent "[Depths Connection](C
 
 ### _Note:_
 
-**Your Trial Power is calculated by "Power + (Times Drowned \* 0.33)".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not whirlpools or Deepbound's "Call of the Deep").
+**Your Trial Power is calculated by "Power + (Times Drowned \* 0.33)".** This dictates the type of enemy you will be faced with when initiating the Trial. Total times drowned can be viewed at a campfire (in the summary page); the number increases each time you are sent to the Depths through death (not whirlpools or Deepbound's "Call of the Deep"). Having above 11 Drowns will cause The Voices of The Deep to skip part of their dialogue.
 
 _Trial Power and Power are two different things; See above as well as below table._
 
