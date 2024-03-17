@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 92620
+revid: 93133
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -41,11 +41,11 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
 -   Unnamed Oath
--   Three other unnamed Oaths
+-   Three unnamed Oaths
 
 ## **Oathbreaker - Oath Removal**
 
-It is possible to remove your oath. In order to do so, you must talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and use a wish. Upon requesting it, you'll be given a disclaimer prompting that the changes you made "could potentially close off your former Oath to you forever."
+It's possible to remove your oath, in order to do so, you must talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and use a wish, upon requesting it, you'll be given a disclaimer prompting that the changes you made "could potentially close off your former Oath to you forever."
 
 Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 

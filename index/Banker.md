@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 93038
+revid: 93130
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -29,7 +29,7 @@ They can be found in:
 
 ### Safe Deposit Boxes
 
-Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player pulls them out.
+Bankers have a unique ability to let the player store items **across slots**, even if you wiped all your slots, your items would still be there. Items are stored forever until the player takes it out.
 
 Players start with six free slots, each holding one item, almost all items can be put inside the bank slots, including Soulbound/Relic Items for a fee of 1 knowledge.
 
@@ -44,6 +44,8 @@ Each slot will call a small, or large fee depending on how many slots you curren
 -   24-60 ( )
 
 It will cost you (or 27.5 note carry limit) to obtain all 60 bank slots.
+
+To put an item in your safe deposit box, you just need to drag and drop the item you want to deposit into the box.
 
 If you need help figuring out how to put an item in a safe deposit box, or just want to see an example of someone depositing, [here is a great video](https://youtu.be/2m4qD3xfOAM).
 
@@ -64,7 +66,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 ### Account
 
-Accessing to your account will allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept 1000 notes from someone, with the cap being around 900). The banker will inform you of the notes that you have, and will ask if you want to deposit or withdrawal.
+Accessing your account will allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept 1000 notes from someone, with the cap being around 900). The banker will inform you of the notes that you have, and will ask if you want to deposit or withdraw.
 
 ## Artifacts
 

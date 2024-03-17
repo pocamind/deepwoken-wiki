@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 92881
+revid: 93138
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Torso, Necklaces]
@@ -30,7 +30,7 @@ Labels description and talent information.
 
 The Lightkeeper's Medallion is an [Equipment](Equipment.md) item under the "Torso" category.
 
-Equipping it grants the talent "Elegy of Light", Which grants the user an active talent that protects the user from the effects of deep gems for three minutes. During the use of Elegy of Light, you become surrounded by a circling white aura with beams of white coming off of it. After it's used, the talent cannot be reactivated unless another of equal power is defeated (A player equal to your power, i.e. if you're power 20, you must grip a power 20).
+Equipping it grants the talent "Elegy of Light", Which grants the user an active talent that protects the user from the effects of deep gems for two minutes. During the use of Elegy of Light, you become surrounded by a circling white aura with beams of white coming off of it. After it's used, the talent cannot be reactivated unless another of equal power is defeated (A player equal to your power, i.e. if you're power 20, you must grip a power 20).
 
 It's currently known to drop from Ferryman and Scion of Ethiron, but other sources are likely to drop as well. While charged, the center of the medallion will glow white, signifying it's ready to be used.
 

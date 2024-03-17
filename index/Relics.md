@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 93011
+revid: 93127
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -151,7 +151,12 @@ It grants the user +20 knowledge on subsequent uses.
 
 -   The ability is one time use, but is recharged by killing a player of your level.
 
- |  |
+ | 
+
+-   [The Ferryman](The_Ferryman.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+
+ |
 
 ## Lore Relics
 

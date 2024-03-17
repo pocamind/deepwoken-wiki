@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 93000
+revid: 93128
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -28,7 +28,7 @@ categories: [Pages with broken file links, Oaths]
     -   Complete [Aelita's Encounter](Aelita.md) in Valley of Heroes at least once
     -   Have a Dark Feather in your possession
 -   Find Surge, he is located past the [Widow](Deep_Widow.md) Cave in [The Depths](The_Depths.md).
--   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in A Conscious Intersection. Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void will send you to Layer 2, and refusing to become the [Nestmind](The_Nestmind.md)'s food will steal your dark feather and teleport you back.
+-   Give him a Dark Feather. If [Surge](Surge.md) becomes OwlSurge, this means you are in the right way. When you leave the area, you will find yourself in [A Conscious Intersection](A_Conscious_Intersection.md). Talk to the [Nestmind](The_Nestmind.md) and make sure to take the first options, and then "I accept" once the [Nestmind](The_Nestmind.md) mentions food. You will obtain the Oath: Visionshaper. Falling into the void will send you to Layer 2, and refusing to become the [Nestmind](The_Nestmind.md)'s food will steal your dark feather and teleport you back.
 
 To progress this oath, Void Feathers must be brought to [Surge](Surge.md) to unlock the mantras and talents, 4 in total for all skills.
 
