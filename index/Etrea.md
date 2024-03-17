@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 88068
+revid: 93158
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -27,7 +27,7 @@ Being the largest land ruling faction in the Etrean Luminant, they hold a large 
 
 The Lord Regent is actually a Contractor and Ministry Prophet, essentially making them a puppet state for [the Ministry](The_Ministry.md). This led to a war with [the Authority](The_Central_Authority.md).
 
-The soldiers in Etris are purely Etrean, with the [Mantra Collector](Mantra_Collector.md) sitting at the bottom near the docks being a Canor. If you go up to Schnitzel and talk them, you will be given the normal dialogue options, as well as a third, "Why aren't you up in town?" Upon asking this question, Schnitzel will say "Canor no allowed to buy in town, new leader very strange." While many take this to mean they are racist, the Etreans welcomed three Adrets into their capital, two of whom where Divers, implying there was a different reason for Schnitzel's banishment.
+The soldiers in Etris are purely Etrean, with the [Mantra Collector](Mantra_Collector.md) sitting at the bottom near the docks being a Canor. If you go up to Schnitzel and talk them, you will be given the normal dialogue options, as well as a third, "Why aren't you up in town?" Upon asking this question, Schnitzel will say "Canor no allowed to buy in town, new leader very strange." While many take this to mean they are racist, the Etreans welcomed three Adrets into their capital, two of whom were Divers, implying there was a different reason for Schnitzel's banishment.
 
 ## Reputation
 

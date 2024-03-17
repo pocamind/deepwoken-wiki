@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 92707
+revid: 93141
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -289,6 +289,7 @@ Shadow Assault
  | A rush of darkness. | 50 Ether | Windup before turning into shadows and dashing forward, dealing very minor damage to anyone in your way while applying darkness. Blockable.
 
 -   Lenses increase distance.
+-   Can be modified with a blast spark to do a barrage of shadows when hitting an opponent whilst you're 40% or less HP.
 
  |
 

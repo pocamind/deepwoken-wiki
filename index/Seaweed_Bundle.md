@@ -1,6 +1,6 @@
 ---
 title: Seaweed Bundle
-revid: 89345
+revid: 93150
 source: https://deepwoken.fandom.com/wiki/Seaweed_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients]
@@ -12,7 +12,7 @@ Template:Food Template V1
 
 ## Description
 
-A consumable plant commonly found in [The Depths](The_Depths.md) or very rarely found while [Fishing](Fishing.md). They can be found in groups of three near [Castle Light](Castle_Light.md).
+A consumable plant commonly found in [The Depths](The_Depths.md) or while [Fishing](Fishing.md). They can be found in groups of three near [Castle Light](Castle_Light.md).
 
 ## Recipes used in
 

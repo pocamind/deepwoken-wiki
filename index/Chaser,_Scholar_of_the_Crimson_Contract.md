@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 93106
+revid: 93152
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -45,11 +45,7 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 -   There is an indicator and the unparriable sound cue before the attack.
 
  | ✗ | ◯\* | ◯ | (★★☆) |
-| **Burning Blood Explosion**
-
-**Explosion**
-
- | After a short casting sound, Chaser rapidly forms a moderately large explosion of blood under the player, which he then ignites. Does low posture damage, but comes out faster than his other moves. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Burning Blood Explosion** | After a short casting sound, Chaser rapidly forms a moderately large explosion of blood under the player, which he then ignites. Does low posture damage, but comes out faster than his other moves. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Triple Blood Wave** | Three waves of blood mist spread out under Chaser, covering the whole area. Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit. | ✗ | ✗ | ✗ | (★★☆) |
 | **Stalactite Fall** | Chaser drops many stalactites from the ceiling. Does low posture damage.
 
@@ -101,7 +97,7 @@ Whenever Chaser's HP drops below half, he will collapse the ceiling, preventing 
 **Phase 3:**
 
 -   When Chaser has fewer than 6,000 HP, he will use his desperation attack, in an attempt to take the player with him. (Note that this is not static. It is not immediately after 6,000HP is reached.)
-    -   During this phase, the entire arena becomes a danger zone that deals damage to the player that cannot be avoided in any way. Players must stay below Chaser to not be affected by this.
+    -   During this phase, the entire arena becomes a danger zone that deals constant damage to the player. This is dodgeable. Players must stay below Chaser to not be affected by this.
     -   Chaser will attempt to push the player away from the safe zone below him by slamming himself on the ground. This attack can be blocked (albeit it needs a good shield), parried or dodged.
     -   Be extremely careful, as Chaser will use his regular attacks in between his ground slams. The blood wave attack becomes threatening in this phase as you are given little reaction time to jump.
     -   Chaser will eventually die by himself, completing the fight.

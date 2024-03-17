@@ -1,6 +1,6 @@
 ---
 title: Firfire
-revid: 92618
+revid: 93139
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -17,7 +17,7 @@ Template:Areainfobox
 
 ## Overview
 
-One of the least hostile parts of Floor 1, Firfire is located above the [Firfire Caverns](Firfire_Caverns.md) and is home to various friendly [Kyrsgarde](Kyrsgarde.md) and a quest. It is necessary to visit this location in a run to open the way to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md). While you are at Firfire parasites will not attach to you. (although any parasites that attached to you before going to Firfire will stay stuck on you)
+One of the least hostile parts of Floor 1, Firfire is located above the [Firfire Caverns](Firfire_Caverns.md) and is home to various friendly [Kyrsgarde](Kyrsgarde.md) and a quest. It is necessary to visit this location in a run to open the way to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md). While you are at Firfire, parasites will not attach to you. (although any parasites that attached to you before going to Firfire will stay stuck on you)
 
 ## Landmarks & Sub-locations
 

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 92969
+revid: 93149
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Mechanics, Ingredients, Items]
@@ -64,7 +64,7 @@ Unlike the other effects, the duration of a potion is unaffected by any of these
 
 There are 50 ingredients that can be added to a potion, though only 20 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
 
-If multiple ingredients have the same listed effect strength (for example, are multiple ingredients listed as "strongest"), they have the effect strength. It is currently untested if the strongest version of each effect is gained through using the best ingredients, or the best ingredients for the opposite effect with an Antithetic Salt.
+If multiple ingredients have the same listed effect strength (for example, are multiple ingredients listed as "strongest"), they have the exact same effect strength. It is currently untested if the strongest version of each effect is gained through using the best ingredients, or the best ingredients for the opposite effect with an Antithetic Salt.
 
 <table><caption>Key</caption>
 <tbody>

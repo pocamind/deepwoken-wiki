@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 93054
+revid: 93147
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -121,6 +121,10 @@ A [Megalodaunt](Megalodaunt.md) can be found fighting a [Golem](Rock_Golem.md) i
 #### Feasting Megalodaunt
 
 A [Megalodaunt](Megalodaunt.md) feasting on the corpse of an [Authority Soldier](Authority_Soldier.md), found in [Upper Erisia](Upper_Erisia.md). Stuffs its face until attacked or despawns. Kill the Megalodaunt will let the Authority Soldier turn into a chest.
+
+#### Deep Owl
+
+Sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the [Deep Owl](Deep_Owl.md) will immediately drop down from the sky and open a dialogue with the player. Only spawn in the _Etrean Luminant_ while the moon is out.
 
 #### Bandit Attack
 

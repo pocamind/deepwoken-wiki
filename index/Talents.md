@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93092
+revid: 93151
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -534,7 +534,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   Chilling Flourish \[Common Talent, Frostdraw Exclusive\] - When flourishing an enemy, they leave behind a trail of ice in the direction you send them. (+4 Elemental Intensity)
     -   Leaves 3-4 ice patches on the ground.
     -   Prerequisite: 30 Frostdraw
--   Spike Traps \[Rare Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
+-   Spike Traps \[Common Talent, Frostdraw Exclusive\] - Press \[F\] during the wind up of your Ice Spikes to create traps around you instead of spawning a spike in the normal spot.
     -   Prerequisite: Ice Spikes, 30 Frostdraw
 
 -   Condensation Drip \[Common Talent, Frostdraw Exclusive\] - Passively collect condensation from the air, greatly reducing your thirst. (+2 Elemental intensity)

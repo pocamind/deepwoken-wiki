@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 92841
+revid: 93153
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -124,14 +124,14 @@ Based on the power of the user(s), the starting wave will differ;
 | 3 (Deepbound "Trial of One") | 1 Rock Golem |  |
 | 4 (Deepbound "Trial of One") | 1 Corrupt Lionfish |  |
 | 5 (Deepbound "Trial of One") | 1 Corrupt Megalodaunt |  |
-| 6 (Holy Knights) | 2 Greater Angel, 4 Mudskipper Knights |  |
-| 7 (A squadron of Knights) | 6 Mudskipper Knights |  |
-| 8 (Songseeker Fighters) | 2 Greater Angels, 4 Mudskipper Knights |  |
+| 6 (Holy Knights) | 2 Greater Angel, 4 Corrupt Mudskipper Knights |  |
+| 7 (A squadron of Knights) | 6 Corrupt Mudskipper Knights |  |
+| 8 (Songseeker Fighters) | 2 Greater Angels, 4 Corrupt Mudskipper Knights |  |
 | 9 (Cave Paladins) | 2 Deep Angels |  |
 | 10 (Angel Haven)
 **\*HOLLOW MODIFIER\***
 
- | 2 Lesser Angels, 2 Deep Angels, 4 Greater Angels |  |
+ | 2 Lesser Angels, 1 Deep Angel, 4 Greater Angels |  |
 | 11 (Depths Fishing) | 2 Corrupt Lionfish, 2 Corrupt Terrapods |  |
 | 12 (King Joffrey's pets) | 1 Corrupt King Gigamed, 1 Corrupt King Thresher |  |
 | 13 (Owl's Friends) | 2 Stone Knights, 1 Corrupt Owl |  |

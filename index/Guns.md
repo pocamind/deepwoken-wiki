@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 92683
+revid: 93157
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -18,6 +18,8 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 Guns have their own talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related talents like [Outlaw](Talents.md) for pistols.
 
+All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even if you dont have any. You won't be slowed down during the crit
+
 ## Pistol Moveset
 
 ### Dual-Wielding
@@ -26,7 +28,9 @@ You can wield 2 pistols at the same time by equipping two of any pistols in both
 
 ### One-Handed (1H)
 
-When using a singular gun you will gain an ammo counter resembling a revolver chamber above your posture bar which is **reloaded by pressing Y or Z.** without bullets, your M1's will do more posture damage and have a wide pistol whip attack (2-hit flourish). When your gun is loaded, attacks will gain 10% chip damage, a 15% damage multiplier and have your M1 cycle will be replaced with a longer ranged, 3-hit flourish that fires the gun. Each attack will consume one bullet
+When using a singular gun you will gain an ammo counter resembling a revolver chamber above your posture bar which is **reloaded by pressing Y or Z.** without bullets, your M1's will do more posture damage and have a wide pistol whip attack (2-hit flourish). When your gun is loaded, attacks will gain 10% chip damage, a 15% damage multiplier and have your M1 cycle will be replaced with a longer ranged, 3-hit flourish that fires the gun. Each attack will consume one bullet.
+
+Note that if your 1H gun is unloaded, pressing your crit button will just do a light attack, meaning there is no crit for 1H unloaded guns.
 
 #### Reloading
 
@@ -64,9 +68,7 @@ _**Stats:**_
 
 ## Rifle Moveset (wip)
 
-Your rifle has a 5 hit combo. Your running attack and critical will fire a bullet, even if you don't have any. Rifles are limited to the 2 handed stance.
-
-Note, due to bullet update, need to find out if running attacks still shoot bullets.
+Your rifle has a 5 hit combo. Your critical attack will fire a bullet, even if you don't have any. Rifles are limited to the 2 handed stance.
 
 ### Talents
 
