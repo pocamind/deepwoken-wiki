@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 87887
+revid: 93090
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -54,7 +54,6 @@ Nyanna's shop runs on an hourly rotation. Every hour, she sells 4 items chosen a
 -   [Flame Worshipper](Flame_Worshipper_Armor.md) ( )
 -   [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) ( )
 -   [Cloak of Winds](Cloak_of_Winds.md) ( )
--   [Prophets Cloak](<Prophet's_Cloak.md>) ( )
 
   
 

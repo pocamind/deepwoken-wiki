@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 92912
+revid: 93064
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,7 +27,7 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), which can be obtained after defeating the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, random chance afterward). It's one of the only one of 3 items that are guaranteed drops from Maestro, such as Pale Briar and [Cerulean Thread](Cerulean_Thread.md). The weapon mainly utilizes fists and legs in order to attack, with only the critical employing the blade, unsheathing it for a single, powerful strike, effectively combining the movesets of swords with those of [Fists](Fists.md).
+The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), which can be obtained after defeating the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, random chance afterward). It's one of the only one of 3 items that are guaranteed drops from Maestro, such as [Pale Briar](Pale_Briar.md) and [Cerulean Thread](Cerulean_Thread.md). The weapon mainly utilizes fists and legs in order to attack, with only the critical employing the blade, unsheathing it for a single, powerful strike, effectively combining the movesets of swords with those of [Fists](Fists.md).
 
 ## Critical
 

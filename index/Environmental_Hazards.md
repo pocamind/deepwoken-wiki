@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 85366
+revid: 93059
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World]
@@ -110,7 +110,7 @@ categories: [World]
   <td>Teleport on top of buildings and look for players, if you are caught within one of their beams, you will enter Danger and two (depths only) or one (temple of the forgotten flame)<a href="Hollow_Angel.md">Lesser Angels</a> will spawn at your location.</td>
 </tr>
 <tr>
-  <td>Kyrsgrade Artillery</td>
+  <td>Kyrsgarde Artillery</td>
   <td><a href="Second_Layer.md">Second Layer</a> (New Kyrsa)</td>
   <td>Randomly spawning around entrance to New Kyrsa. Walking into it's proximity causes projecticles to spawn in series of 3 every few seconds at the location of the player. Lasts for around 10 seconds.</td>
 </tr>

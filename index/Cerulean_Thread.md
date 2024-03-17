@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 93017
+revid: 93073
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Critical, Light Weapon, Requirement]
@@ -29,12 +29,8 @@ categories: [Weapons, Daggers, Critical, Light Weapon, Requirement]
 
 ## Description
 
-The Cerulean Thread is a Dagger that is obtained by upon beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Light Weapon for the first time.
+The Cerulean Thread is a Dagger that is obtained by upon beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Light Weapon for the first time. It is one of the 3 drops that is guaranteed from Maestro if you fight him with a specific weapon type, the others being the [Pale Briar](Pale_Briar.md) and the [Purple Cloud](Purple_Cloud.md).
 
 ## Critical
 
 On the first critical you'll thrust towards your opponent, placing a string on them. The next time you land your critical, you'll send you and your opponent upwards and do multiple slashes, ending with a backstab that ragdolls your opponent.
-
-## Trivia
-
--   It is one of the 3 drops that is guaranteed from Maestro if you fight him with a specific weapon type, the others being the [Pale Briar](Pale_Briar.md) and the [Purple Cloud](Purple_Cloud.md).

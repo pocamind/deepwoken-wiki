@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 93007
+revid: 93081
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -57,6 +57,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 
 -   The behavior of the slash is very similar to the Ankle Cutter passive used by [Silentheart](Oath%253A_Silentheart.md).
 -   Will only use this move at range to prevent zoning.
+-   Unfortunately, due to how Deepwoken handles elevation, the perception of "ranged" can vary drastically, simply standing on ice can be enough to trigger this move.
 
  | ◯ | ◯ | ◯ | (★★☆) |
 | **Vent** | An explosion of blue ether around the user that pushes opponents away.

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 92794
+revid: 93089
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -37,7 +37,7 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 | **Punch** | The Nautilodaunt attempts to punch their prey with a variety of different punches. | ◯ | (★☆☆) |
 | **Kick** | Nautilodaunt's punches would randomly lead into a kicking flourish, forcing the opponent backwards. They typically close the distance created for another attack by powerwalking, sliding towards you or using **Flip-Kick**. | ◯ | (★★☆) |
 | **Flip-Kick** | Nautilodaunt flips into the air and attempts to strike their prey with a kick. | ◯ | (★★★) |
-| **Kick in the balls** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, kicking them right in the balls. | ◯ | (★★★) |
+| **Drop-Kick** | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey. | ◯ | (★★★) |
 | **Grand Stomp** | Nautilodaunt stomps the ground, sending rubble powered by geysers hurtling towards you in a straight line. Most likely used against distant prey for a variety of functions such as giving chase, or to take the initiative. **This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.** | ✗ | (★★★) |
 | **Feint** | Like [The Enforcer,](Enforcer.md) Nautilodaunt can also **feint** his attacks. | N/A | (★★☆) |
 | **Vent** | Nautilodaunt may also Vent, similarly to the player, which emits blue, smoke-like particles and negates the damage of Mantras. Typically followed up with a kick. | N/A | (★☆☆) |

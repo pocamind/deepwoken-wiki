@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 92990
+revid: 93092
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1355,7 +1355,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
 
--   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are, but go insane 20% faster (+5 Sanity)
+-   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. (+5 Sanity)
     -   Grant 15% extra damage when below 70% insanity.
     -   Deepbound's Sanity gain from killing mobs in the Depths is reduced.
     -   Prerequisite: 30 Strength, 30 Fortitude
@@ -2543,7 +2543,9 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 ### Thresher Scales
 
-File:Thresherquest1.png
+The NPC in Starswept Valley who gives the quest required to obtain Thresher Scales, highlighted in red.
+
+The NPC in Starswept Valley who gives the quest required to obtain Thresher Scales, highlighted in red.
 
 -   The quest giver is located in the [Starswept Valley](The_Starswept_Valley.md), just beyond the stone pillars and leaning on a wall next to a ruined building overhang.
 -   Jessamine will ask you to kill a [King Thresher](Thresher.md#king-thresher).
@@ -2578,7 +2580,7 @@ File:Thresherquest1.png
 
 ### Mercy Kill
 
--   Obtained by [Unbounding](Attributes_Unbound.md) either your Attunement or your Weapons stat, or by Defeating any Boss.
+-   Obtained by [Unbounding](Attributes_Unbound.md) any [Attribute](Attributes.md), or by Defeating any Boss.
 -   This talent lets you instagrip enemies weaker than you with a swing.
 
 ## Outfit Talents

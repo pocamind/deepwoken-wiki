@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 92793
+revid: 93100
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -36,7 +36,7 @@ Pressing C will activate the **Skeleton Key** Resonance.
 
 Skeleton key will summon a wall, up to [four](https://medal.tv/games/roblox/clips/20S6HJ4g9idzMW/d13376DGkBQI?invite=cr-MSxlb1MsMjM5MDg3MDgs) if not corrupted under a set duration. If touched the wall will push anyone indiscriminately, ally or not. However if they press C again, the wall will be pushed forward so long your cursor is aimed at the desired wall.
 
-If Skeleton Key is corrupted, you could summon up to five walls with a lesser duration.
+If Skeleton Key is corrupted, you could summon up to [seven walls](https://medal.tv/games/roblox/clips/21p3Wl853JYiwD/R23FlXKOhWK2?invite=cr-MSxNUUUsNDIwNDc5NzUs) with a lesser duration.
 
 ### Resonance Point Usage
 
