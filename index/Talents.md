@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93151
+revid: 93241
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -643,6 +643,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   Prerequisite: Power 2.
 
 ### Doomsday Engine
+
+> _**"I seek the qualities of Doomsday Engine"**_
 
 -   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall

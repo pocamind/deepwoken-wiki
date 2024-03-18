@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 93197
+revid: 93249
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Critical, Light Weapon, Requirement]
@@ -37,4 +37,4 @@ On the first critical you'll thrust towards your opponent, placing a string on t
 
 ## Trivia
 
-Resembles the "[Brand of the Inferno](https://terraria.fandom.com/wiki/Brand_of_the_Inferno)" from Terraria
+-   Resembles the "Brand of the Inferno" from Terraria.
