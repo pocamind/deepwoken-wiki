@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 93153
+revid: 93192
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -30,7 +30,7 @@ When attempting the option to start the Diluvian Mechanism below Power 3, you ha
 
 ### **Shrine of Solitude**
 
-A Shrine of Solitude, identical to the one found in trial of one lies against the wall. This can be used between waves to roll for preferred talents and mantras
+A Shrine of Solitude, identical to the one found in the Trial of One lies against the wall. This can be used between waves to roll for preferred talents and mantras regardless of origin.
 
 ## Monsters
 
@@ -74,6 +74,8 @@ Brings up the dialogue, "Hollow... empty..." Makes the death of mobs not give he
 ### Timebomb
 
 White orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs.
+
+This automatically shows up in existing waves if they take far too long (e.g. ~10 minutes on Wave 10.)
 
 #### Corpse Explosion
 

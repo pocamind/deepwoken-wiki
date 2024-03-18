@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 90397
+revid: 93206
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -23,7 +23,7 @@ Template:Creature Infobox V3
 
 **Rock Golems** are large, bulky stone constructs with a distinct glowing white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
 
-Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [The Garden Reservoir](The_Garden_Reservoir.md), but they can also be found through the following events:
+Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [Burning Stone Gardens](Burning_Stone_Gardens.md), and they can also be found through the following events:
 
 -   **Rock Golem** fighting a [Megalodaunt](Megalodaunt.md) ([Upper Erisia](Upper_Erisia.md))
 -   **Rock Golem** found at the final wave of the Bandit Invasion ([Erisor's Church](<Erisor's_Church.md>))

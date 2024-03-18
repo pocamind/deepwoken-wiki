@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 82640
+revid: 93203
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -12,7 +12,14 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They usually spawn in groups of three with two being [Bandits](Bandit.md) and one Bandit Leader at [Erisia](Erisia.md). As for [Summer Isle](Summer_Isle.md), they can also spawn in groups of three. There can be zero, one, two, or three Bandit Leaders in a group fighting Summer Company Guards. There is a chance for them to spawn with an Iron Sword, a weapon exclusive to them. They can also spawn in three waves each consisting of four Bandit Leaders attacking the [Forgotten Villagers](Forgotten_Villager.md) in [Erisor's Church](<Erisor's_Church.md>).
+Bandit Leaders can only be found at [Erisia](Erisia.md) or [Summer Isle](Summer_Isle.md). They have a static spawn at the bandit village in Lower Erisia. They can be found in the following events:
+
+-   Bandit Ambush- 1 Bandit Leader and 2 Lowly Bandits
+-   Bandit Camp- 1 Bandit Leader and 2 Lowly Bandits
+-   Raid on Erisor's Church- Several waves of bandit leaders
+-   Summer Isle Castle Bandit Raid- Varying numbers up to 3
+-   Faction Ambush- 3 Bandit Leader
+-   Bandit Leader and lowly bandits vs Summer Company Guards
 
 A Bandit Leader wears the unobtainable Bounty Hunter [Outfit](Outfits.md) with their [Race](Aspects.md) varying.
 
@@ -50,6 +57,7 @@ A Bandit Leader executes their opponent after knocking them:
 -   Parry trade them until their posture breaks.
 -   Alternatively, parry then use your critical.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
+-   if its a dagger bandit and you're low level and cant parry, just give up. you're cooked.
 
 ## Trivia
 

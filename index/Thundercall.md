@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 92542
+revid: 93209
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -209,7 +209,6 @@ Bolt Piercer
 -   Similar to **Lightning Strike**, the user can also damage themselves with this mantra.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the hitbox of the projectiles.
 -   Can be modified with **Crystal/Perfect Lenses** to increase the range of where the projectiles can be fired.
--   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md) to throw 3 smaller projectiles that travel forward and adjacent respectively.
 
  |
 |  | 

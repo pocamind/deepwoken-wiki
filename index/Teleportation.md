@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 92593
+revid: 93194
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -57,7 +57,7 @@ Normal Waypoints will be colored yellow as usual. Presets don't replace the amou
 
 #### Eastern Luminant
 
--   [Boatman Watch](<Boatman's_Watch.md>)
+-   [Songseeker Wilds](Songseeker_Wilds.md)
 -   [Summer Isle](Summer_Isle.md)
 -   Greathive Approach
 -   [Fort Merit](Fort_Merit.md)

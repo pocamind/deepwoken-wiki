@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 93058
+revid: 93196
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -89,7 +89,7 @@ _\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very we
 
  | (LHT)
 
-_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself.
+_\*The Maestro smirks, he finds the concept amusing.\*_ A challenge, hm? Very well then, I will test your strength myself. The weapon I will offer you is known as the "Cerulean Thread". \[_[sic](https://en.wikipedia.org/wiki/sic)_\] It's a fine dagger when coupled with steel wire as its thread. That being said, I have no intention of going easy on you. This knife cannot be handled by the faint of heart.
 
  |
 | 

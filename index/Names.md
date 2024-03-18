@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 92332
+revid: 93218
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -322,6 +322,7 @@ You can choose your first name from any available, but your choices of last name
 -   Kronk
 -   Kyle
 -   Laertes
+-   Laios
 -   Lamech
 -   Lamorak
 -   Lance
@@ -1515,7 +1516,7 @@ You can choose your first name from any available, but your choices of last name
 
 ## Trivia
 
--   Most names added after the release of the game are in all three categories, despite it being meant to either be in Male, Female or Neutral, as, by default, names that can be in more than one category should be in Neutral.
+-   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
 -   The names "Omar" and "Olie" are references to community members omar\_io and Olieware respectfully, the latter of whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The name "Usopp" is a reference to [the _One Piece_ character of the same name](https://onepiece.fandom.com/wiki/Usopp).
@@ -1526,22 +1527,33 @@ You can choose your first name from any available, but your choices of last name
 -   The names "Cadaver" and "Skulduggery" are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, they are both technically the same person.
 -   The name "Inari" is a reference to the _Rogue Lineage_ races _Vind_ and _Fischeran._
--   Names such as "Adolin," "Hoid", "Kaladin", "Moash" "Szeth" and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
--   Names such as "Kelsier", "Vin" and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson, which also influenced the creation of the [Adret](Adret.md).
+-   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
+-   Names such as "Kelsier", "Vin", "Marsh", and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson.
+    -   The series also supposedly influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
 -   The name "Link" is a reference to- [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
--   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao" and "Zena" are references to the games _Lobotomy Corporation_ and _Library of Ruina_.
+-   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
     -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
--   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum" are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
+-   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.
 -   Various names reference the works of William Shakespeare:
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
     -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
     -   Agrippa and Demetrius are from _[Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)_.
 -   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_.
 -   The name Frieren is a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
+-   The name Wanderer is a reference to the [Genshin Impact](https://genshin.hoyoverse.com/en/) character, Scaramouche.
+    -   The outfit [Hive Leader's Garment](<Hive_Leader's_Garment.md>) is also a reference to the same character.
+-   The name Laios is a reference to the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
+-   The names Mycen, Shinon, and Raigh are references to [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
+    -   The name Kelik may be a reference to the (notoriously poorly written) character from a 2013 Fire Emblem mod, [The Last Promise](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLastPromise).
+-   The name Radovan is a reference to [Final Fantasy.](https://www.finalfantasyxiv.com/)
+-   The name Samwise is a reference to Lord of the Rings.
+-   The name Tharson may be a reference to Risk of Rain.
+-   The name Tristram may be a reference to a location in Diablo.
+-   The name Ulysses is a reference to a novel of the same name by James Joyce.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 93073
+revid: 93197
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Critical, Light Weapon, Requirement]
@@ -34,3 +34,7 @@ The Cerulean Thread is a Dagger that is obtained by upon beating [Maestro Evenga
 ## Critical
 
 On the first critical you'll thrust towards your opponent, placing a string on them. The next time you land your critical, you'll send you and your opponent upwards and do multiple slashes, ending with a backstab that ragdolls your opponent.
+
+## Trivia
+
+Resembles the "[Brand of the Inferno](https://terraria.fandom.com/wiki/Brand_of_the_Inferno)" from Terraria
