@@ -1,9 +1,9 @@
 ---
 title: Epsi
-revid: 92636
+revid: 93162
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1, Oaths]
+categories: [In progress without reason, InProgressPages, NPCs, Layer 2, Floor 1]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

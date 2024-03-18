@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 93037
+revid: 93173
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the second to last trial of [The Depths](The_Depths.md) Trials, being the last and hardest one faced. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths", but its origins may be more complicated. According to the flavor text of [The](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md); and morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
+**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for any unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths", but its origins may be more complicated. According to the flavor text of [The](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md), and morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
 
 Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size differences, the hammer variant has a replaced red neon with orange color and is the largest out of the two. The Enforcer blade is the shortest and the Enforcer Axe is the regular size.
 
@@ -47,8 +47,6 @@ The Enforcer is definitely a shake-up to the game's formula. Up to the point at 
 The Enforcer, however, is completely different from other [Enemies](Enemies.md) and [Monsters](Monsters.md). Statwise, it is quite weak, with only (3700, 4000 or 4100 depending on the variant) health. This sounds like a lot, but if taking PvE scaling into account, even at the earliest level you can fight him, [Power](Power.md) 17, it would have about 890 health. Still large, but nowhere too big. Additionally, its attacks essentially do as much damage as a normal heavy weapon approximately would do to you, therefore you would have to be hit quite a number of times to die plainly from axe hits.
 
 Do not be deceived by these stats, though. The Enforcer's true danger lies not from its pure stats, but from its execution of them. It draws the line between enemy and monster, being vaguely humanoid and being able to do things like feint, parry, and block, but still having higher strength than any normal enemy. It can chain together entire strings of parries, feints, basic attacks and special attacks, to throw off any rhythm you had going. Even though its danger falls off in the far endgame, it can still kill any overconfident high level player.
-
-A good method of easily defeating it while using heavy weapons without much risk is to just keep running during the fight, and when you see the particles that indicate the pull attack, immediately use your crit. Note: This only works with axes and hammers.
 
 ### In General
 
@@ -88,7 +86,6 @@ If you ever get pulled, you can usually just block, as it doesn't always matter.
 -   The Enforcer's clothing may be a reference to ''King'' from One Piece.
 -   As of 18/07/2022, The Enforcer cannot use its pull attack when Hell Mode is active, due to too many Enforcers pulling people into the void.
 -   During the weekly update for 21/11/2022, The Enforcer could temporarily spawn as corrupted variants. This lead to 12000 health enforcers which did 100+ damage per hit, wiping many players.
--   With the Enforcer's Eye, You are able to gain the Enforcer Pull mantra and use it in combat.
 -   Enforcer's Eye and Giant Femur are the only Monster Mantra Drops to have boosted drop rates out of the other mobs that have one.
 -   Enforcer (Blade Variant) is smaller than Enforcer (Axe Variant), Meanwhile Enforcer (Hammer Variant) is bigger than Enforcer (Axe Variant).
 

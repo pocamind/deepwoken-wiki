@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 92738
+revid: 93190
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -27,6 +27,10 @@ The Legion has several war heroes that are depicted by either their ornaments or
 
 ## Reputation
 
+-   Enemies with [The Hive](The_Hive.md)
+-   Enemies with [The Authority](The_Central_Authority.md)
+-   Enemies with [The Kingdom of Etrea](Etrea.md)
+
 By default, every single origin starts with an enemy reputation with The Hundred Legions. Being a Khan increases your reputation with them to neutral-bad.
 
 There is no reputation reset NPC for The Hundred Legions.
@@ -52,3 +56,4 @@ For some bizarre reason, non-guard NPCs don't seem affected by low Legion reputa
 -   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say, "Let my comrades know, we'll hold a ceremony in his honor."
 -   Despite the Legion being extremely vast as they rule an entire Luminant, apparently, with an iron fist, it has too little lore content to be deemed a relevant faction.
 -   Considering that the Battle Royale map is of Legion territory, The Hundred Legions is the first faction to get its own exclusive game mode, and by extension, the only ones to have a server wholly dedicated to them.
+-   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legions against the Starkindred church in the west, upon doing so he had acquired the [Pale Briar](Pale_Briar.md).

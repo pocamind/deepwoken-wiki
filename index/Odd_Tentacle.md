@@ -1,6 +1,6 @@
 ---
 title: Odd Tentacle
-revid: 93131
+revid: 93168
 source: https://deepwoken.fandom.com/wiki/Odd_Tentacle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -20,4 +20,4 @@ categories: [Items, Drops]
 
 ## Description
 
-The Odd Tentacle is a rare item dropped by [The Nautilodaunt](Nautilodaunt.md) which can be found in [The Depths](The_Depths.md), [The Starswept Valley](The_Starswept_Valley.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Miner's Landing](<Miner's_Landing.md>) from [Mimic Chests](Chests_&_Sacks.md). A rare drop is [Nautilodaunt Beak](Nautilodaunt_Beak.md) which can be used to obtain [Abyssal Ridge](Monster_Mantras.md).
+The Odd Tentacle is a rare item dropped by [Nautilodaunt](Nautilodaunt.md) which can be found in [The Depths](The_Depths.md), [Starswept Valley](The_Starswept_Valley.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and from [Mimic Chests](Chests_&_Sacks.md). A rare drop, [Nautilodaunt Beak](Nautilodaunt_Beak.md), can be used to obtain [Abyssal Ridge](Monster_Mantras.md).

@@ -1,6 +1,6 @@
 ---
 title: Upper Erisia
-revid: 81549
+revid: 93165
 source: https://deepwoken.fandom.com/wiki/Upper_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -18,7 +18,7 @@ A land lost to time, now made a battleground for warriors who know not why they 
 
 ## Overview
 
-Upper Erisia is home to many sub-locations and is home to a variety of NPCs and [Monsters](Monsters.md). Like its name suggests, it is the upper reigion of Erisia. Unlike its [lower](Lower_Erisia.md) counterpart, Upper Erisia is not suggested for beginners. (Level recommendation: 5-20) However, it has a wide variety of locations for people of all levels to farm in.
+Upper Erisia is home to many sub-locations and is home to a variety of NPCs and [Monsters](Monsters.md). Like its name suggests, it is the upper region of Erisia. Unlike its [lower](Lower_Erisia.md) counterpart, Upper Erisia is not suggested for beginners. (Level recommendation: 5–20) However, it has a wide variety of locations for people of all levels to farm in.
 
 ## Points of Interest
 
@@ -57,7 +57,7 @@ Events that spawn in Upper Erisia that typically do not involve combat. For more
 
 ## Natural Hazards
 
-Upper Erisia is home to many diffrent [natural hazards](Environmental_Hazards.md). You must be careful while travelling there.
+Upper Erisia is home to many different [natural hazards](Environmental_Hazards.md). You must be careful while traveling there.
 
 -   Many cliffs and ledges that you can easily fall off of if you're not careful of where you step. (It is highly recommended to bring a [glider.](Gliders.md)) **Some trees look like solid, grass ground from the top view.** However, if you step on them and if you are unlucky, you will fall down and take lots of fall damage.
 -   Acid rain will occur once in a while. Be careful as it drains your health bar fairly quickly.

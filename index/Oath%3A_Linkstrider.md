@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 92692
+revid: 93180
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -38,7 +38,7 @@ categories: [Oaths]
 
 ## **Progression**
 
-The only way to obtain each ability is to grip a player with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, and 4 more to fully progress it.
+The only way to obtain each ability is to grip players with an Oath. However, this does not always need to be done at The Entropy Catalyst. **Entropy Link** is acquired on the first grip, then in order, **Symbiotic Link,** **Symbiotic Sustain,** and **Parasitic Leech**. This totals to 8 total player grips: 4 to take the Oath, then 4 more to fully progress it.
 
 ## Abilities
 
@@ -67,6 +67,7 @@ The only way to obtain each ability is to grip a player with an Oath. However, t
     -   Activate while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
         -   Blue Cords (Allies) gain a speed boost.
         -   Red Cords (Enemies) gain a speed debuff.
+    -   Allows you to see the health bar of allies.
 -   **Symbiotic Sustain**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
 

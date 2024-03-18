@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 87177
+revid: 93182
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -16,7 +16,7 @@ Template:EnemyInfobox1.0
 
 Nell is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the Frostdraw trainer.
 
-In order to obtain [Frostdraw](Frostdraw.md), you must bring 5 [Frigid Prisms](Frigid_Prism.md) to Nell. Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents. She is found near the guildhouse (follow the path to the right) in [Etris](Etris.md).
+In order to obtain [Frostdraw](Frostdraw.md), you must bring 2 [Frigid Prisms](Frigid_Prism.md) to Nell. Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of five Oath Talents. She is found near the guildhouse (follow the path to the right) in [Etris](Etris.md).
 
 ## Moveset
 
@@ -191,6 +191,7 @@ End of Dialogue
 -   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so she has a unique, legendary weapon when she's fought.[\[2\]](#cite-note-2)
 -   Nell used to have Rapid Punches before the NPC mantra changes.
 -   Unlike most Spelltrainer, she can be aggroed during the [Etris Raid](Cinders_of_Etris.md) event, occasionally fighting off Authority troops if they somehow get to her.
+-   It used to cost 5 frigid prisms to get frostdraw from Nell, but this was changed on an unknown date.
 
 ## References
 

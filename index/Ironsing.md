@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 92853
+revid: 93170
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -167,7 +167,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 
 -   Each hit is parryable but still applies Metal Rods.
 -   The greatsword conjured deals fixed damage.
--   Doesn't proc enchants.
+-   Doesn't proc deep gems.
     -   Unlike the gif shows, it only procs when hitting an enemy.
 -   Upgrading the level increases the duration of the mantra.
 

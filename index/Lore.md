@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 92847
+revid: 93188
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -236,19 +236,19 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 
 _"My Burden is Light." -An Unknown Lightkeeper that only had one shot._
 
--   Currently residing in the [Eastern Interstital Lighthouse.](Eastern_Interstitial_Lighthouse.md).
+-   Currently residing in the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 -   In charge of connecting the East Luminant to the rest of the luminants from the Voidsea.
 -   Possible childhood friend of [Nimea](The_Hidden_Village.md) and possible teacher of [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   Her hobby is apparently to write poetry, as stated by Klaris.
 -   Apparently she is "preoccupied" due to the ongoing war of the Authority and Etrea.
--   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to The Kingdom of Etrea.
--   Apparently she was taken when she was a child by The Kingdom of Etrea due to her possessing Lightkeeping, allowing her to be able to control the Eastern Interstital Lighthouse and have an advantage against the war with the Authority by closing off the East Luminant from the other Luminants.
+-   As stated by Klaris, she isn't allowed to leave the Eastern Interstital Lighthouse due to her value to the Central Authority.
+-   She was taken when she was a child by the Central Authority due to her possessing Lightkeeping, allowing her to be able to open the Eastern Interstitial Lighthouse, allowing her to summon in reinforcements for them. However, her being forcefully taken from her friends of and family had the adverse affect of her becoming disgusted with them and their practices, thus choosing not to help.
 
 ### **Klaris Llfiend, Mother of Lights**
 
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
--   Black Diver of the Canor race.[\[2\]](#cite-note-arch-2) Created light hooks.
+-   Black Diver of the Canor race.[\[2\]](#cite-note-arch-2) The creator of light hooks.
 -   Possible student of Viqh, Lightkeeper of the Eastern lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people (Alongside Nimea) to actually know the lightkeeper of the Eastern Luminant, being able to know even her hobbies and interest.
 -   In charge of expeditions into [the Second Layer](Second_Layer.md).
@@ -915,16 +915,16 @@ An Authority Captain
 -   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[12\]](#cite-note-yaya-12)
     -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and worhsip The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
-    -   Their previous home, or some soft of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there, with them having faded away after some time.
+    -   Their previous home, or some soft of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
     -   Despite the impressive nature of the Aratel Constructs, these are outdated models, the superior ones reserved for more advanced Greathives.[\[12\]](#cite-note-yaya-12)
 -   Currently at war with Etris, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for Lord Regents own interests.
--   Apparently the Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
+-   The Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
 -   The Hive has Lifeweavers within their ranks, individuals who utilize The Song to manipulate and transfer life.
--   They were initially the only users of Ironsing, holding a monopoly on the Attunement until [Adar, Master of Metal](Adar,_Master_of_Metal.md), learnt how to replicate the Alloyed Elixir to help others obtain Ironsing.
+-   They were initially the only users of Ironsing, holding a monopoly on the Attunement, killing off any Ironsingers who tried to leave or leak it secrets, until [Adar, Master of Metal](Adar,_Master_of_Metal.md) escaped their reach and learnt how to replicate the Alloyed Elixir to help others obtain Ironsing.
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
 
@@ -1976,9 +1976,10 @@ Though technically a blank slate of varying races and abilities, even the player
 
 **Lore Sources:** _Nimea and Klaris._
 
--   Individuals born with the Gift; a Murmur that grants them the ability to radiate 'Light' within their very own soul in the form of Radiant Tones. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
+-   Individuals born with the Gift; a Regalia that grants them the ability to radiate 'Light' within their very own soul by altering their Murmur. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and the ability to use Attunements.[\[2\]](#cite-note-arch-2)
+    -   Lightkeep draws from a verse of the Song called the Radiant Tones.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role of a Lightkeeper.
--   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving them complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
+-   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving the latter complete control over movement between Luminants. [\[2\]](#cite-note-arch-2)
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."._ This form of power, the Gift, can illuminate things that was long since faded, as if revealing the way. Though this illumination is temporary and will eventually fade away.
 -   The only lightkeeper that we know of is the one mentioned by Nimea, Viqh, the Lightkeeper of the Eastern Lighthouse.
 -   Apparently Lightkeepers can't leave their light house by any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.

@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 92836
+revid: 93185
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -87,7 +87,7 @@ Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md)" f
 </tr>
 <tr>
   <td colspan="6">Me? I'm a right proper Warden I am... Guardin' everyone... From my inability to keep from this bottle... Heh heh...</td>
-  <td colspan="6">Mentions the Wardens of <a href="The_Central_Authority.md">The Authority</a>. Mainly just talking about his drinking habits, though.</td>
+  <td colspan="6">Mentions the Wardens of <a href="The_Central_Authority.md">The Central Authority</a>. Mainly just talking about his drinking habits, though.</td>
 </tr>
 <tr>
   <td colspan="6">Me? Songmast'r Tz'araan, I am... The mighty Songseeker mistress... Think free for yerself, student... But not outside th' box!... Heh heh...</td>
