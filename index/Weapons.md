@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 93003
+revid: 93236
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -45,7 +45,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### Heavy
 
--   12 Great Axes (15 if allowed)
+-   12 Great Axes (15 if alloyed)
 -   10 Great Swords (14 if alloyed)
 -   9 Great Hammers (10 if alloyed)
 

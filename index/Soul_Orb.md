@@ -1,6 +1,6 @@
 ---
 title: Soul Orb
-revid: 92350
+revid: 93232
 source: https://deepwoken.fandom.com/wiki/Soul_Orb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-Soul Orbs are small, white glowing orbs with smoke emanating from them. They grant a free investment point. When they spawn, they will stay in the air a little higher than the position of where the enemy was slain.
+Soul Orbs are small and wispy white orbs. They grant a free investment point. When they spawn, they hover above the corpse of the slain enemy.
 
 ## **Obtainment**
 
@@ -22,5 +22,5 @@ A Soul Orb has a low chance to drop from any [Enemy](Enemies.md) or [Monster](Mo
 
 -   Now they grant a free autodidact point.
 
--   Could be inspired by the [Soul Orb](https://ultrakill.fandom.com/wiki/Soul_Orbs) from [Ultrakill](https://ultrakill.fandom.com/wiki/)
--   They can even drop from Ferryman's clones.
+-   Could be inspired by the [Soul Orb](https://ultrakill.fandom.com/wiki/Soul_Orbs) from [Ultrakill](https://ultrakill.fandom.com/wiki/).
+-   Can drop from Ferryman's clones.

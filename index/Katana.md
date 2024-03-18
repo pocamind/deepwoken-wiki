@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 88391
+revid: 93235
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -55,6 +55,10 @@ When paired with the Poser's Ring, the damage of its M1s and critical will be su
 ## Critical
 
 The user sheaths their katana before lunging forward and slashing horizontally. This critical is shared with the [Shattered Katana](Shattered_Katana.md) when one handed.
+
+## Gallery
+
+Storm Enchant
 
 ## Notes
 

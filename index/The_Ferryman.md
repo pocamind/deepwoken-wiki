@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 92693
+revid: 93228
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -28,17 +28,14 @@ An amalgamation of souls dredged up from the "dregs of the dregs", he was mistre
 #### Summoning The Ferryman
 
 1.  Find the ritual grounds at [Boatman's Watch](<Boatman's_Watch.md>).
-2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable.
+2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable. There is a 15 second cooldown between summons.
 3.  Place a campfire on each of the small circles surrounding the inner circle (total **4** campfires).
 4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual.
 5.  A ring akin to that of the [Chime of Conflict](Chime_of_Conflict.md) will spawn, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
-6.  The Ferryman will spawn in the middle, talk with him and seal a deal to begin the battle.
-7.  The Ferryman has a short cooldown of 15 seconds to be summoned once a player has summoned him.
+6.  The Ferryman will spawn in the middle. Talk with him and seal the deal to begin the battle.
 
-(Note: You can destroy one of the fires and replace it, It still works as this can be used to save wood)
-
-The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 15+. His speed, damage, health, and Mantra potency will scale depending on how many players there are fighting him, and as such it is recommended to fight him alone.
+The Ferryman is a fairly easy boss to fight solo, if you are familiar with his moveset and are [Power](Power.md) 15+. His speed, damage, health, and Mantra potency will scale greatly depending on how many players are present in the dungeon, and as such it is recommended to fight him alone.
 
 _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)._
 
@@ -195,15 +192,15 @@ The best way to damage The Ferryman is to get in 2-3 M1s whenever his Lightning 
 
 ## Rewards
 
-**Progress:** As with all bosses, The Ferryman gives [Resonance](Resonance.md) Progress on death, with the player receiving more progress if they have the correct [Nature](Resonance.md#obtainment-process).
+**Progress:** As with all bosses, the Ferryman grants [Resonance](Resonance.md) progress on death.
 
--   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with another reward in addition to the standard 5 chests.
+-   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with an additional reward. **If there are multiple people in the dungeon, the reward will only be given to the one who initiates dialogue** (unless it's Summer).
     -   Spring - One [Knowledge](Knowledge.md). Repeatable. He speaks about him being a Krulian, Enlightening you.
     -   Summer - An additional, lower-tier chest containing [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md) and rarely a **Justicar Schematic,** **Stormseye,** **Finisher's Ring, Moon Ring, Deepfire Ring or Akira's Ring.**
-    -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>), Only if you are the one to speak to him.
+    -   Autumn - The schematic for the [Ferryman's Coat](<Ferryman's_Coat.md>).
     -   Winter - A [Krulian Knife](Krulian_Knife.md), which may be starred or enchanted.
 
-In addition to the seasonal rewards, The Ferryman will leave 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a [Stormseye](Stormseye.md) or a [Relic](Relics.md).
+Aside from the seasonal rewards, the Ferryman will leave a gift 5 chests containing a variety of items upon his defeat. His chests use a unique loot pool that includes a large amount of Legendary Rings and Amethyst Pendant Earrings, with a rare chance for a [Stormseye](Stormseye.md) or a [Relic](Relics.md).
 
 > _Drop chances are based on conjecture and may be incorrect._
 
@@ -214,7 +211,7 @@ In addition to the seasonal rewards, The Ferryman will leave 5 chests containing
 -   [**Lightkeeper's Medallion**](<Lightkeeper's_Medallion.md>) - An exceptionally rare torso [Equipment](Equipment.md) that is obtained through the Ferryman's chests. (1% drop chance)
 -   [**Idol of Yun'Shul**](<Idol_of_Yun'Shul.md>) - Ritual idol and [relic](Relics.md) that allows its user to redeem one wish from anywhere and without the need of a [Resonance](Resonance.md). (11% drop chance)
 -   [**Smith’s Alloy**](<Smith's_Alloy.md>) - When used, it'll add a quality star to your currently held weapon, or reroll the quality-type of your currently held weapon if it already has 3 stars. (5% drop chance)
--   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (Unknown drop chance.)
+-   [**Moonseye tome**](Moonseye_Tome.md) - A book that grants the user +99 Knowledge upon usage. (<1% drop chance)
 -   [**Justicar's Armor**](<Justicar's_Armor.md>) - Blueprint for the master-tier Justicar's Armor, which buffs [Jus Karita](Jus_Karita.md) damage. One of the only sources in-game for the blueprint. (13% drop chance)
 -   [**Ardour Manifestation**](Ardour_Manifestation.md) - A item that can summon the [Dread Serpent](Dread_Serpent.md) in the [The Void Sea](Voidsea.md). Directly dropped from The Ferryman and placed into the inventory, not in chests.
 -   [**Pluripotent Alloy**](Pluripotent_Alloy.md) - Guaranteed on a character's first slain boss and with a chance from every boss afterwards, this item can upgrade certain weapons into their Alloyed forms, allowing for mid-tier weapons to be powered up into weapons worthy of a late-game character. Directly dropped from The Ferryman and placed into the inventory, not in chests.
@@ -311,6 +308,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   The Ferryman is voiced by [redpetal](https://www.youtube.com/@redpetalYT) (previously known as DemStormz).
 -   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
 -   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that it is actually played in lore and not just in game. (Naktigonis himself is there playing it while you get folded by Ferryman)
+-   Initiating the fight previously did not cause a Dungeon to be instantiated, leaving the player vulnerable while fighting. This was likely adjusted to provide protection from attackers.
 
 ## Bugs
 
@@ -318,3 +316,4 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   There is a bug that can make The Ferryman movestack Grand Javelin with lightning assault. After resting for a while, he will grand javelin you. When he is about to grand javelin, run up to him and make him teleport away. It will make him grand javelin while doing lightning assault. This will almost always instantly kill you.
 -   This also works with his other moves, including making him throw a total of 8 grand javelins at once.
 -   The Ferryman's Lightning Assault will speed up if he pathfinds into a wall during the previous Lightning Assaults.
+-   The Ferryman will frequently clip into walls and occasionally use Lightning Strike at arbitrary locations. That's okay, he just has a little bit of brain damage.

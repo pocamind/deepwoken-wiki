@@ -1,6 +1,6 @@
 ---
 title: Resurrection
-revid: 93055
+revid: 93229
 source: https://deepwoken.fandom.com/wiki/Resurrection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -29,40 +29,38 @@ A spinning white circle appears on the back of the player who used resonance. A 
 
 ## Usage
 
-**Passive:** The Resurrection user can see allies' HP bars at all times, including guild members and anyone you enter into instances with.
+**Passive:** The Resurrection user can see allies' HP bars at all times.
 
 Pressing C will cast the **Resurrection** Resonance on the player you have your cursor over.
 
 Activating resonance marks a living being, giving it a minor speed buff for the duration of the marker (5-8 seconds, depending on points). Can tag any player. (hold the C button to forcefully cast on self, must already be activated.)
 
-While players have a marker on them if they are knocked, then they will be lifted into the air and restored to 40% of their health. This will cause the resonance to go on cooldown.
+While players have a marker on them if they are knocked, they will be lifted into the air and restored to 40% of their health. This will cause the resonance to go on cooldown.
 
 If not, then the star on the target will fade away and the Resonance has a chance to go on cooldown.
-
-If the resonance is used against an auto-gripping ability it will not proc (does proc on chaser though).
 
 ### _Resonance Point usage_
 
 When obtained, Resurrection will spend its points on the following stats:
 
 -   **Resurrection type:** Decides the type of resurrection that will be used.
-    -   Teleporting resurrection teleports the target to the player using resonance after a successful resurrection.
-    -   Resurrect knocked targets is the version of resurrection that has the ability to resurrect targets even if they have been knocked.
-        -   Not mutually exclusive from Teleporting Resurrection
-    -   Normal resurrection doesn't have these features but has improved range and duration stats.
--   **Range:** The more points spent on this stat, the further the resurrection can be activated on the target.
--   **Duration:** The more points spent on this stat, the longer the resurrection lasts on the target.
+    -   **Teleportation**: Resurrected targets are teleported to the player upon success.
+    -   **True Resurrect:** Targets who are already knocked can be resurrected.
+        -   Not mutually exclusive from Teleporting Resurrection.
+    -   **Autogrip Protection**: Alongside improved range and duration, this variant allows resurrection against autogripping abilities from NPCs. (Tested)
+-   **Range:** The more points spent on this stat, the further the resurrection can be casted on a target.
+-   **Duration:** The more points spent on this stat, the longer the resurrection star lasts on the target.
 
   
 **Corrupted Resurrection** has more points which means it has improved stats compared to normal resurrection.
 
 ## Trivia
 
--   This bell ignores anti-heal
+-   Ignores anti-heal.
 -   The unfinished version of this bell used to be the third Legendary Resonance, displaying a gold visual upon bell obtainment, but doing nothing upon bell activation, the bell was eventually reworked and downgraded to a common resonance, and all previous resurrection bell users had their bells replaced by another random Legendary Resonance.
--   **For those looking to use this with Vow of Mastery** if you were to sleep an ally and then use the bell, they are resurrected, and their hp is set to 40%.
--   For some reason, sometimes the bell may not activate immediately, which gives the enemies the opportunity to grip you. (This is due to Self Damage usually. Notably it is Fall Damage, that may not immediately resurrect the player the marker is on.)
--   When someone or something is getting resurrected, they cannot be damaged.
+-   **For those looking to use this with Vow of Mastery:** if you were to sleep an ally and then use the bell, they are resurrected, and their hp is set to 40%.
+-   **Very unreliable.** At times, the bell may not activate immediately, which gives the enemies the opportunity to grip you.
+-   As someone is being resurrected, they are immune to all damage.
 -   Casting this Resonance gives you hyper-armor. It won't cancel if you are hit, and you can cast it mid-stun.
 -   A very powerful corrupted resonance, as the fire and damage downsides of resurrection proc on usage. If you were to die of damage due to the resonance or whilst active, you get a free 40% back.
 -   If the enemy defeated your ally with an active resurrection on them, the enemy does not gain any health and posture from defeating the ally.

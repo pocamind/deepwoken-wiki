@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 92189
+revid: 93233
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -104,7 +104,8 @@ With the stat requirements, the talents, the blinded talent and the oath talent 
 -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   The Blindseer Eye can be dyed by dying your eyes using a [Dye Packet](Dye_Packet.md).
 -   Vesperians with this oath do not have a glowing Blindseer eye, and instead have a yellow eye painted onto their mask on a gray background. This eye can be dyed by dying the mask.
+    -   There is a bug where the mask decoration persists even upon Oath removal.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the trophy room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
--   The Blindseer eye is seen in lots of places throughout Deepwoken
+-   The Blindseer eye is a repeated symbol throughout the game.
     -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the [Vesperian](Vesperian.md) variation of Blindseer
-    -   Some unparryable attacks of [monsters](Monsters.md) are accompanied by a red blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab)
+    -   Unparryable attacks of [monsters](Monsters.md) (and [Ice Eruption](Frostdraw.md)) are accompanied by a red blindseer eye (e.g. [bonekeeper](Bone_Keeper.md) grab)

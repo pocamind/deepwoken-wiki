@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 93152
+revid: 93238
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -123,7 +123,7 @@ After Chaser opens up a path to [Floor 2](Kyrsan_Shrine_of_Arrival.md), a medium
 
 Additionally, the player will receive a significant amount of experience, [attribute training](Training_Gear.md), resonance progression, as well as some positive [Diver](The_Divers.md) reputation.
 
-**Roughly** fourteen Chasers solo, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
+**Roughly** six Chasers solo, without the Boss Resonance Progression path, will allow you to obtain a Resonance.
 
 Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hookless Eternal Gale" Triumph for your [Echoes](Echoes.md) and significant Resonance progress for both the Depths and Bosses categories.
 
