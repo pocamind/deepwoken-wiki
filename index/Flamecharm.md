@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 92600
+revid: 93332
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1260,7 +1260,7 @@ These talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-|  | 
+| File:Twistedicon.png | 
 Wraith Path: Twisted Puppets  
 (40 FLAME, 40 SHADOW)
 
@@ -1273,7 +1273,7 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 (+4 Elemental Intensity)
 
  |
-|  | 
+| File:Twistedicon.png | 
 
 Burning Puppets  
 (Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
@@ -1287,7 +1287,7 @@ Your puppets can now inflict burn and fire-based talents when they explode.
 (+4 Elemental Intensity)
 
  |
-|  | 
+| File:Twistedicon.png | 
 
 Explosive Rage  
 (Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
@@ -1301,7 +1301,7 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
 (+4 Elemental Intensity)
 
  |
-|  | 
+| File:Twistedicon.png | 
 
 Moths to a Flame  
 (Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
@@ -1315,7 +1315,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 (+4 Elemental Intensity)
 
  |
-|  | 
+| File:Twistedicon.png | 
 
 Burning Sacrifice  
 (Wraith Path: Twisted Puppets, Emperor Flame)

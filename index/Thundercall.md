@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 93209
+revid: 93327
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -321,6 +321,8 @@ These talents are found in the _Surge Path: Unstable Capacitor_ category.
 | Media | Talents | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+File:Surgeicon.png
+
  | 
 
 Surge Path: Unstable Capacitor  
@@ -336,6 +338,8 @@ N/A
 
  |
 | 
+
+File:Surgeicon.png
 
  | 
 
@@ -353,6 +357,8 @@ N/A
  |
 | 
 
+File:Surgeicon.png
+
  | 
 
 Closed Circuit  
@@ -369,6 +375,8 @@ N/A
  |
 | 
 
+File:Surgeicon.png
+
  | 
 
 Catalytic Strike  
@@ -384,6 +392,8 @@ N/A
 
  |
 | 
+
+File:Surgeicon.png
 
  | 
 

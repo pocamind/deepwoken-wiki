@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 92879
+revid: 93320
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Mechanics]
@@ -90,11 +90,11 @@ These status effects won't kill you, but they can give you a negative buff or dr
 
 ### Burning
 
-This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move or by the Ignition Downside on [Corrupted Resonances](Resonance.md). Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding.
+This effect can be applied on you by being hit by a [Flamecharm](Flamecharm.md) move or by the Ignition Downside on [Corrupted Resonances](Resonance.md). Drains your health at a relatively negligible pace. If an unconscious body is set on fire, they will automatically be gripped after 5 seconds if not picked up. Can be easily gotten rid of by rolling, jumping in water, or by sliding. Signified by fire particles coming from your character.
 
 ### Winded
 
-This effect can be applied by being hit with Galebreathe mantras or Galeforced monsters, it reduces your attack speed for its duration.
+This effect can be applied by being hit with Galebreathe mantras or Galeforced monsters, it reduces your attack speed for its duration. Signified by green spirals on your character.
 
 ### Suffocated
 
@@ -102,19 +102,23 @@ Can be applied by being hit by [Wind Gun](Galebreathe.md), Galetrap or by any ot
 
 ### Chilled
 
-Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cerobeam.
+Simply become slowed. Applied by being hit with a [Frostdraw](Frostdraw.md) mantra,from being hit by a Frostmantled enemy,from the [Crustaceous Rex](Crustaceous_Rex.md)'s toxic bubbles, or from a [Glacial Lionfish](Lionfish.md)'s Chilling Cerobeam. Signified by blue spirals on your character.
+
+### Crystal
+
+Have a crystal stacked on you. When you reach 5 crystals, they will detonate, damaging you heavily. Applied by being hit by most mantras from a Frostdrawer using Glass Path: Crystalization. Signified by having a crystal stacked on you.
 
 ### Frozen
 
-Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw talents and mantras.
+Have your body completely engulfed in ice and lose the ability to do anything to defend yourself. Applied by some Frostdraw talents and mantras. Signified by being encased in a block of ice.
 
 ### Shocked
 
-Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarily through [Thundercall](Thundercall.md) mantras.
+Hitstun of the attack that apply shock is increased, meaning you will spend more time without being able to act after getting hit (does not affect your ability to parry). Applied primarily through [Thundercall](Thundercall.md) mantras. Signified by lightning particles on your character.
 
 ### Overloaded
 
-Inflicted by Thundercall Surge Path mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you.
+Inflicted by Thundercall Surge Path mantras. This makes you charged with electricity and then violently discharge, damaging you greatly and stunning you. Signified by a blurple rod planted in your body.
 
 ### Metal Rods
 
@@ -123,11 +127,11 @@ Inflicted by being hit by [Ironsing](https://deepwoken.fandom.com/wiki/Ironsing)
 -   Normally: Allows you to be pulled in towards them when they press X
 -   Conductor: from 5+ rods onward, will damage you upon casting any non Ironsing mantra
 -   Jailer: from 5+ rods onward, if they choose to pull you, you will instead be restrained in place.
--   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on talents they might have.)
+-   Impaler: from 5+ rods onward, if they choose to pull you, you will take massive damage. (note that iron rods can also slow your rolls depending on talents they might have.) Signified by big metal rods in your body.
 
 ### Poisoned
 
-This can be applied by being hit by the Deep Widow's venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage.
+This can be applied by being hit by the Deep Widow's venomous bite. While poisoned, your HP will drain at a moderate pace, it will bypass armor and instantly grip you if you were to get downed from its damage. There is no visual indicator for it.
 
 ### Electrified
 
@@ -139,7 +143,7 @@ This can be applied by being flourished by someone using Thunder Wisp. While Sap
 
 ### Dazed
 
-Unable to roll and have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt mantras (ex. [Rising Shadow](Shadowcast.md)).
+Have your parry window lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by blunt mantras (ex. [Rising Shadow](Shadowcast.md)).
 
 ### Anti-Heal
 
@@ -155,15 +159,23 @@ Takes a certain amount to all of the ether that you possess. if the user used th
 
 ### Bottom Freeze
 
-Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchant.](Enchantments.md)
+Unable to move during the duration while active while still being able to block, parry and dodge. Can be applied with the [Chilling enchant.](Enchantments.md) Signified by the legs of your character being frozen in ice.
 
 ### Silenced
 
-This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's critical, uppercut, or flourish and prevents the usage of mantras for its duration.
+This is applied by being hit from a [Silentheart](Oath%253A_Silentheart.md) user's critical, uppercut, or flourish and prevents the usage of mantras for its duration. Signified by a spinning circle matching the color of the silentheart markings of your attacker, around your character.
 
 ### Harrowing
 
 This is applied by being hit by the Harrowing enchant, it hides all information on your UI so you cannot tell how much of anything you currently have.
+
+### Tethered
+
+Become tethered to your attacker, being pulled towards them forcefully. Applied by being hit with the [Elastic enchant.](Enchantments.md) Signified by a pink string between yourself and your attacker.
+
+### Nemesis Mark
+
+Become marked for an auto aim katana critical. Signified by a pink-reddish eye on your character. Applied by being hit with the [Nemesis enchant](Enchantments.md)
 
 ### Angry
 
@@ -171,7 +183,7 @@ Applied through being hit by the mantra [Taunt](Attunement-less.md). Receive 20%
 
 ### Fear
 
-Take 25% more damage and 2x posture damage while also disabling [Murmur: Tacet.](Murmur.md) Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by Ardour Scream.
+Take 25% more damage and 2x posture damage while also disabling [Murmur: Tacet.](Murmur.md) Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by Ardour Scream. Signified by pink/purple particles on your character.
 
 ### Trapped
 

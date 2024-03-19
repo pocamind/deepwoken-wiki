@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93241
+revid: 93308
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -593,7 +593,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity)
     -   Prerequisites: 60 Shadowcast, Dark Hours
     -   You hover with shadowy particles while the rifted state is active.
-    -   This ability last for 2 seconds and goes on a 6 second cooldown when it activates.
+    -   This ability last for 2 seconds and goes on a 8 second cooldown when it activates.
 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
     -   Prerequisites: 45 Shadowcast, Dark God
