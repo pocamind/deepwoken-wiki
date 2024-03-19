@@ -1,6 +1,6 @@
 ---
 title: How to Make Friends
-revid: 93136
+revid: 93357
 source: https://deepwoken.fandom.com/wiki/How_to_Make_Friends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items]

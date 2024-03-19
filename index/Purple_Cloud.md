@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 93064
+revid: 93352
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,16 +27,17 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), which can be obtained after defeating the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, random chance afterward). It's one of the only one of 3 items that are guaranteed drops from Maestro, such as [Pale Briar](Pale_Briar.md) and [Cerulean Thread](Cerulean_Thread.md). The weapon mainly utilizes fists and legs in order to attack, with only the critical employing the blade, unsheathing it for a single, powerful strike, effectively combining the movesets of swords with those of [Fists](Fists.md).
+The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, low chance afterward). It's part of a trio of weapons from the Maestro's arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilises your fists and legs to attack, the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the movesets of swords with those of [Fists](Fists.md).
+
+Akin to the [Shattered](Shattered_Katana.md) and [Alloyed](Katana.md#alloyed) katanas, the "Paired Soul" talent (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md)) increases its damage by 5%, similar
 
 ## Critical
 
-On crit, the user leans down, grabbing the blade's handle in the sheathe, and dashes forwards, doing nothing if there is no target in front of the user. If there is a target in front of the user, they will teleport behind the target and unsheathe the blade, quickly slashing at the target with a purple flash before sheathing again. This crit is not a true guardbreak but deals lots of posture. The crit has a cooldown of 7 seconds.
+The user leans down, grabbing the blade's handle before dashing forwards. If there is a target ahead, the user teleports behind them and unsheathes the Purple Cloud, quickly slashing at them with a purple flash before sheathing the blade once again. This crit is not a true guardbreak, but its posture damage is exceptionally high. It has a cooldown of 7 seconds.
 
 ## Trivia
 
--   This weapon's damage is increased by 5% with the Paired Soul [outfit](Outfits.md) talent (granted by [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md)), along with the [Shattered Katana](Shattered_Katana.md) and [(Alloyed) Katana](Katana.md#alloyed).
--   Despite being considered a "katana," Poser's Ring doesn't work with it.
+-   Despite being considered a "katana," the Poser's Ring doesn't work with it.
 -   Despite being a pseudo fist-type weapon, it does not proc/activate talents related to fists.
--   This weapon's critical attack is most likely based off the martial art "Iaido".
--   If enchanted with Stormbreaker, upon using critical attack, the user will throw nothing and still do damage (just a visual bug).
+-   Its critical attack is based off the martial art "Iaido".
+-   Currently bugged when enchanted with Stormbreaker; upon using a critical attack, the user will appear to throw nothing but deal damage regardless.

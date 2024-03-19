@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 93274
+revid: 93350
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -33,7 +33,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | 
-𝓕𝓻𝓮𝓪𝓴𝔂 **Assault**
+**Assault**
 
  | Firmly pummels opponent before finishing up the combo by flourishing them.
 
@@ -165,7 +165,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 -   Bulldozer - If flourished into a wall by Duke, you have a chance to break the wall and be guard broken on impact.
 -   Million Ton Piercer - Duke has 5% extra PEN and has no PEN cap.
 -   Shield Breaker - Blunt damage from Duke now deals full posture damage to shields (essentially your shield is useless for blocking).
--   Audacity - When Duke starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation.
+-   Audacity - When Duke starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation. (Though this talent sucks, just use a ranged mantra)
 -   Matador - Duke deals +20% more damage to human enemies with hyperarmor.
 -   Showstopper - When you roll through one of Duke's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
 -   Berserker - When Duke knocks an ennemy, he gains 20% DMG resistance for 15 seconds.

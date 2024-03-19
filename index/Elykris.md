@@ -1,9 +1,9 @@
 ---
 title: Elykris
-revid: 79724
+revid: 93363
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Quests, World]
 ---
 
 # Elykris
@@ -11,7 +11,7 @@ categories: [NPCs]
 | Elykris | |
 |---|---|
 | name | Elykris |
-| location | On a tree on the path to the Rogue Construct |
+| location | Minityrsa |
 
 ## Description
 

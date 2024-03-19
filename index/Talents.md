@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93308
+revid: 93343
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2583,7 +2583,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 ### Mercy Kill
 
 -   Obtained by [Unbounding](Attributes_Unbound.md) any [Attribute](Attributes.md), or by Defeating any Boss.
--   This talent lets you instagrip enemies weaker than you with a swing.
+-   This talent lets you instagrip enemies weaker than you with a swing, or flourish. If they are low enough you will also bash their skull or penetrate their chest with your weapon.
 
 ## Outfit Talents
 

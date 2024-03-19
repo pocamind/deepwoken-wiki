@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 93276
+revid: 93359
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -105,6 +105,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
  | 
 
 -   "There's the scab, lads!"
+-   "You're nicked!"
 
  | 
 
@@ -135,6 +136,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 -   "Shame we have to waste bullets on these miserable sap."
 -   “This one’s target practice.”
 -   "Sleep with the 'skippers."
+-   "Let's give these a test fire, eh?"
 
  | 
 
@@ -200,7 +202,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
  | 
 
--   Scyphozia (Layer 1) Chests
+-   Scyphozia (Layer 1)
 
  |
 | [The Divers](The_Divers.md) | 
@@ -214,7 +216,7 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
  | 
 
--   Scyphozia (Layer 1) Chests
+-   Scyphozia (Layer 1)
 
  |
 | [The Knives of Eylis](The_Knives_of_Eylis.md) | 

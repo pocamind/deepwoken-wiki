@@ -1,9 +1,9 @@
 ---
 title: Etrean Guardsman Hostage
-revid: 75390
+revid: 93364
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsman_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [Pages with broken file links, NPCs, Quests]
 ---
 
 # Etrean Guardsman Hostage

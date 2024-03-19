@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 89814
+revid: 93345
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -12,7 +12,7 @@ categories: [Resonances]
 |---|---|
 | effect | Protects you and allies from harm substantially. |
 | appearance | Various colored field that spreads around the user. |
-| cooldown | 30s + duration |
+| cooldown | 50s + duration |
 
 “ Conjure a field of sacred light, protecting you and your allies from harm. ”
 
@@ -24,7 +24,7 @@ categories: [Resonances]
 
 ### _Appearance_
 
-When used, an orange, red, blue, green or purple field will appear around the user for around fifteen to twenty seconds.
+When used, an orange, red, blue, green or purple field will appear around the user for around 25 seconds.
 
 ## Usage
 
@@ -32,7 +32,7 @@ Pressing C will activate the **Sacred Field** Resonance.
 
 Holding C to activate will make the **Sacred Field** affect non-allies too.
 
-**Sacred Field** will spawn an area that grants you and your allies defense against physical and elemental damage. **Sacred Field** has a random cooldown of 15-30 seconds. The area isn't a field, yet a sphere meaning you can be under and over the area and you will still get the effect of **Sacred Field.**
+**Sacred Field** will spawn an area that grants you and your allies defense against physical and elemental damage. **Sacred Field** has a random cooldown of 50-71 seconds. The area isn't a field, yet a sphere meaning you can be under and over the area and you will still get the effect of **Sacred Field.**
 
 If Sacred Field is corrupted, the field will follow its user instead of staying where it was placed.
 

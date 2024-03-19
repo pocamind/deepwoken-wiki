@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 93228
+revid: 93339
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -192,7 +192,7 @@ The best way to damage The Ferryman is to get in 2-3 M1s whenever his Lightning 
 
 ## Rewards
 
-**Progress:** As with all bosses, the Ferryman grants [Resonance](Resonance.md) progress on death.
+**Progress:** As with all bosses, the Ferryman grants [Resonance](Resonance.md) progress on he be defeated.
 
 -   Seasonal Rewards - Speaking to the Ferryman after defeating him will reward the player with an additional reward. **If there are multiple people in the dungeon, the reward will only be given to the one who initiates dialogue** (unless it's Summer).
     -   Spring - One [Knowledge](Knowledge.md). Repeatable. He speaks about him being a Krulian, Enlightening you.

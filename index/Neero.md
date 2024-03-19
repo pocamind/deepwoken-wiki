@@ -1,9 +1,9 @@
 ---
 title: Neero
-revid: 75555
+revid: 93361
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [NPCs, Lore, World]
 ---
 
 # Neero

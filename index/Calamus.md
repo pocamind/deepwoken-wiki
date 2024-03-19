@@ -1,9 +1,9 @@
 ---
 title: Calamus
-revid: 77177
+revid: 93362
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Starswept Valley]
+categories: [NPCs, Quests, World]
 ---
 
 # Calamus
