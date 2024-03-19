@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 91627
+revid: 93276
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -132,10 +132,15 @@ The enemies sent and loot drops differ depending on the faction sending them. Be
 
  | 
 
+-   "Shame we have to waste bullets on these miserable sap."
 -   “This one’s target practice.”
 -   "Sleep with the 'skippers."
 
- |  |
+ | 
+
+-   Summer Isles
+
+ |
 | [Ministry](The_Ministry.md) | 
 
 -   1-3 [Ministry Enforcers](Ministry_Enforcer.md)

@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 92624
+revid: 93290
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World]
@@ -16,7 +16,7 @@ Whirlpools are a safe and easy way to access the depths; an alternative way to e
 
 Driving [Boats](Ships_&_Sailing.md) into a whirlpool will result in the boat sinking and being destroyed.
 
-If you are fighting a [Dread Serpent](Dread_Serpent.md) by a whirlpool, you will may get knocked into it.
+If you are fighting a [Dread Serpent](Dread_Serpent.md) by a whirlpool, you may get knocked into it.
 
 ### **Whirlpool Locations**
 

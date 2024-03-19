@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 93002
+revid: 93298
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -77,7 +77,7 @@ _Fire a beam of ice._
  | Fire a penetrating beam of ice.
 
 -   Deals light damage.
--   Inflicts short Chill.
+-   Inflicts 2 seconds chill per hit, can't be increased.
 -   Hits multiple times in a row.
 -   Knocks back target(s).
 -   Can be modified with cloudstones to make it wider.
@@ -102,8 +102,8 @@ _An icy chokehold._
 -   Animation is deceiving, the hitbox lasts shorter than it looks.
 -   Deals moderate damage.
 -   If damage is enough to reduce opponent's health to 0, instantly kill them upon posture break.
--   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground.
--   Inflicts Chill with an Eternal Logstone.
+-   Compatible with a [Blast Spark](Mantra_Modifiers.md) to create ice on the ground. (The size can be increased with vibrant gems and the talent Glacial ice.)
+-   Applies 4 second chill with one eternal logstone.
 
  |
 | 
@@ -120,7 +120,7 @@ _Revolving blades of ice._
  | Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance.
 
 -   Deals light damage.
--   Projectiles inflict Chill.
+-   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
 -   Incredibly good with the **Glass Path: Crystallization** talent.
 
@@ -139,8 +139,7 @@ _A legion of frost._
  | Conjures a surrounding ring of 4 to 5 frozen servants that emits two blasts of frosty mist to the center.
 
 -   Deals Moderate damage if both blows hit.
--   Inflicts short Chill.
--   The blast spark version inflicts Chill
+-   Inflicts 2 seconds chill per hit. Can't be increased.
 -   Leaves ice where the Mantra is casted. (With 3 vibrant gems and the talent glacial ice you can spawn massive ice floors with it)
 -   The Frostdraw counterpart to [Flamecharm's Burning Servants](Flamecharm.md), as both do the same thing and can be modified with a [Reversal Spark](Mantra_Modifiers.md) to get the same effect.
 -   Can be modified with [Blast Spark](Mantra_Modifiers.md) to create one single giant ice soldier that sends a chilling breeze. "This modification makes your character unable to move".
@@ -204,7 +203,7 @@ _Chains of ice._
 
 -   Deals light damage.
 -   Inflicts Chill.
-    -   Can be increased with **2 Aeon Logstones** or **1 Eternal Logstone**.
+-   9 seconds chill and 13 seconds with 1 eternal.
 -   Can be modified with both [Aeon/Eternal Logstones](Mantra_Modifiers.md) to delay the mantra from firing.
 -   Can be modified with lens to increase the range of casting the mantra.
 
@@ -223,7 +222,7 @@ _A flurry of ice spikes._
  | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
 
 -   Deals moderate damage.
--   Does actually inflict Chill, though it lasts too short.[\[1\]](#cite-note-1)
+-   Does not inflict chill, short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
@@ -300,7 +299,7 @@ _Conjure a glaive of frost and launch your opponents skyward._
  | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
 
 -   Deals moderate damage.
--   Applies Chill.
+-   Applies Chill. (2 seconds per hit, can't be increased)
 
  |
 | 
@@ -338,6 +337,7 @@ _A sharp disk of ice._
 
 -   Deals moderate damage.
 -   Does not inflict Chill.
+-   Spawns ice floor (You can add vibrant gems to make the ice spawned bigger)
 -   Can be modified with **Cloudstones/Stratus Stones** to increase its size.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the user to rush forward rapidly while spinning the projectile of the mantra around them.
     -   However, if an enemy is hit successfully, it will continue to hit for around 8 seconds, dealing high damage.

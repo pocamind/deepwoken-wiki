@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 84618
+revid: 93277
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Enemies, Ambush Enemies]
@@ -54,6 +54,13 @@ Summer Dragoons are higher ranking members of the [Summer Company](The_Summer_Co
   <td>◯</td>
   <td>◯</td>
   <td>(★☆☆)</td>
+</tr>
+<tr>
+  <td>Strong left</td>
+  <td>User performs a short wind-up before throwing a powerful, flinging punch that shatters the air.</td>
+  <td>◯</td>
+  <td>◯</td>
+  <td>(★★☆)</td>
 </tr>
 </tbody>
 </table>

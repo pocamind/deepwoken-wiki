@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 91923
+revid: 93286
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -30,6 +30,7 @@ The only monsters that are not affected are [Desert Knights](Stone_Knight.md#des
 
 -   [Immortal Guardians](Immortal_Guardian.md), Lesser Angels (If not summoned by a Watcher) and [Ministry Necromancers](Ministry_Necromancer.md) are affected by Mute.
 -   [Immortal Guardians](Immortal_Guardian.md) won't execute you, instead they will call you "PRIMATIVE." and head back to their spot.
+-   [King Threshers](https://deepwoken.fandom.com/wiki/Thresher?so=search#King_Thresher) and [Deep Owls](https://deepwoken.fandom.com/wiki/Deep_Owl?so=search) do NOT unaggro upon hitting then.
 
 ### Prodigy
 

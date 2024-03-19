@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 92858
+revid: 93274
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -33,7 +33,7 @@ _For a visual guide consider watching [this video](https://youtu.be/ol8I8E__J_c)
 | Name | Description | Parryable? | Blockable? | Dodgeable? | Danger |
 | --- | --- | --- | --- | --- | --- |
 | 
-**Assault**
+𝓕𝓻𝓮𝓪𝓴𝔂 **Assault**
 
  | Firmly pummels opponent before finishing up the combo by flourishing them.
 

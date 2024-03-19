@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 93192
+revid: 93292
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -26,7 +26,7 @@ Ending at 50 waves, every wave you face will grant you EXP. At the end of every 
 
 ### Trial of the Meek
 
-When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
+When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also bellow Power 3.
 
 ### **Shrine of Solitude**
 
@@ -77,11 +77,11 @@ White orbs will be placed around the dungeon, and if not destroyed it'll explode
 
 This automatically shows up in existing waves if they take far too long (e.g. ~10 minutes on Wave 10.)
 
-#### Corpse Explosion
+### Corpse Explosion
 
 If during the waves, the text "Tick tick tick,,," appears, the deaths of mobs will generate bombs.
 
-### **Ghostly Reminiscence**
+### Ghostly Reminiscence
 
 If during the waves, the text "Your past comes to haunt you..." appears, then...? (Probably less HP regenerated naturally or at campfires)
 

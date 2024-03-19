@@ -1,6 +1,6 @@
 ---
 title: Frozen Membrane
-revid: 91007
+revid: 93299
 source: https://deepwoken.fandom.com/wiki/Frozen_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Drops]
@@ -19,6 +19,8 @@ categories: [Ingredients, Drops]
 ## Description
 
 A **Frozen Membrane** is an ingredient dropped from all [Kyrsgarde](Kyrsgarde.md) which is used to make the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit. It can also be used to make the Kyrsdog [food](Food.md) item, a unique and mighty dish.
+
+This ingredient is only obtainable in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 
 ## Trivia
 

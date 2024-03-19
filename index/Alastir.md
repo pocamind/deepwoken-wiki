@@ -1,12 +1,17 @@
 ---
 title: Alastir
-revid: 86633
+revid: 93289
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
 ---
 
 # Alastir
+
+| Alastir | |
+|---|---|
+| name | Alastir |
+| location | Pathfinder's Respite |
 
 ## Description
 
