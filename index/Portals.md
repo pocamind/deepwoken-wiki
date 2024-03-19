@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 93231
+revid: 93269
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -42,7 +42,6 @@ When obtained, Portals will spend its points on the following stats:
     -   Increases the cooldown if used as such.
 -   **Duration:** The more points are spent on this stat, the longer the user can stay in the portal.
 -   **Speed:** The more points are spent on this stat, the faster the user move while inside the portal.
--   **Footprints**: If points are spent on this stat, usage will leave behind no footprints. (Tested)
 
 ## Trivia
 

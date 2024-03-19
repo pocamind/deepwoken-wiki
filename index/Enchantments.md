@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 92723
+revid: 93272
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -261,7 +261,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <br>
   Permanently stained health bar while the weapon is equipped. (If you unequip the weapon, then your bar should become unstained. If you have this enchant equipped you WILL be stained and sent to depths, even if you have 2 lives.<br>
   Take 2x blood damage from all sources when in the overworld.<br>
-  When unsheathed in The Depths, you will instantly lose 100 sanity. Unless you have a huge amount of willpower, this is guaranteed to kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
+  When unsheathed in The Depths, you will instantly lose 100 sanity (each time you equip it). Unless you have a huge amount of willpower, this is guaranteed to kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
   While equipped, if you drop below 50% sanity and continue to lose sanity you will immediately die. This includes being in the overworld.<br>
   <b>Disabled in Arena.</b><br>
   <b>Viscosity is disabled with this enchant.</b><br>

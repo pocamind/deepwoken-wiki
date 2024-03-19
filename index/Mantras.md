@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 90250
+revid: 93258
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -192,7 +192,7 @@ To modify a Mantra, the Mantra must be recalled at a campfire into the player's 
 
 -   Once a Mantra is placed on the table, the player can also place modifiers such as gems and sparks.
 -   The user can also modify their Mantras with Deep Gems. These do not need to be used at a Mantra table but can be directly applied to the Mantra at a campfire.
--   Modifications will fail when you have placed incompatible ingredients on the table. The Mantra placed will return to your inventory, however the ingredient(s) will be lost.
+-   Modifications will fail when you have placed incompatible ingredients on the table. The Mantra placed will return to your inventory, and the ingredient(s) will not be lost.
 -   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most or all of a player's ether upon one use.
 -   You can also change the name of a Mantra by putting it on a Mantra table and saying the name you want it to be.
 -   You can identify what modifiers you have on your Mantra by hovering your mouse over it. Including it's ether cost in numbers & percentage, as well as how many signs on a ritual Mantra.

@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 90444
+revid: 93259
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Races, Character]
@@ -100,8 +100,8 @@ When they reach adulthood, a Tiran will forge their own glider and fly off of th
 -   Similar to [Canor](Canor.md), not having hair on your character will preset you with the Bed Hair.
 -   The preset hair for Tiran is: [https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge](https://www.roblox.com/catalog/11858713270/Black-Slicked-Scourge)
 -   Some of Tiran's surnames are very similar to Finnish and Estonian words or first names. For example, "Tuuli" means "Wind" in Finnish, which would actually make sense. However, the other words or names are probably either imitations of the two languages or just pure coincidence because some of them aren't related to the race at all.
--   Tiran eyes may be inspired from Makimas eyes of the anime "Chainsaw man", having a very similar eye patern. Or, be inspired from Big Bird of Lobotomy Corporation. They all have eyes with multiple overlapping circles.
--   The Jay variant shares many similarities (Hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or felinor and having a little more darker eyes, it may be an unintentional reference made by the devs explaining why it's a Tiran variant and not a Felinor variant.
+-   Tiran eyes may be inspired from Makima's eyes of the anime "Chainsaw man", having a very similar eye pattern. Or, be inspired from Big Bird of Lobotomy Corporation. They all have eyes with multiple overlapping circles.
+-   The Jay variant shares many similarities (Hair color, skin color, eye color shortoff) with Niko from Oneshot, despite not being a cat or Felinor and having a little more darker eyes, it may be an unintentional reference made by the devs explaining why it's a Tiran variant and not a Felinor variant.
 -   The color of the glider will depend on the race variant you choose, crow being black/purple, cardinal being red and so on. Matching their hair color with their glider. Also meaning that their gliders are probably crafted with their own hair.
 -   Tiran could be inspired from “Rito” race from “The Legend of Zelda” series, as Rito were bird people, possessing human skin yet had skills of birds. Despite the tiran not possessing a beak, they could unintentionally be inspired from the Rito.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 92810
+revid: 93268
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -81,4 +81,3 @@ The tower is located next to Ferrymans ritual.
 -   Originally, [Contractor](Oath%253A_Contractor.md) was the Intelligence Oath, before losing its INT requirement.
 -   The idea of an Alchemist Oath was coined early on, with a resurgence in popularity when Verse 2 released, as Intelligence lacked an Oath.
 -   Adrofalis, who gives the Oath, alludes to the sound of the fights that occur from [The Ferryman](The_Ferryman.md), along with it's music, which may imply that his combat theme is diegetic.
--   The Oath's appearance may be a reference to Scarecrow from the Arkham series.
