@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sallet
-revid: 90878
+revid: 93425
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sallet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Head]
@@ -21,7 +21,7 @@ categories: [Equipment, Helmets, Head]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Miner's Landing, Second Layer |
+| obtainment | Chests from:, Duke Erisia, Miner's Landing, Second Layer, Hell Mode |
 | description | "..." |
 
 ## Description

@@ -1,9 +1,9 @@
 ---
 title: Lightkeep
-revid: 93408
+revid: 93410
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Attunement]
+categories: [Attunement, Lore]
 ---
 
 # Lightkeep

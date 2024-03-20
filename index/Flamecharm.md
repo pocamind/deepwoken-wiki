@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 93332
+revid: 93420
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1354,6 +1354,7 @@ N/A
 -   Flamecharm is currently the only attunement without a Legendary Elemental weapon, excluding the [Hero Blade of Flame](Hero_Blades.md).
 -   If the character has the "Azure Flames" talent while using a [Railblade](Railblade.md), the effects of the Railblade critical attack will turn blue and apply azure flames upon a successful critical attack instead of regular flames.
 -   Contrary to popular belief, Elemental Intensity on Flamecharm does **NOT** increase burn damage.
+-   You cannot have both "Azure Flames" and "Twisted puppets" at the same time.
 
 ## References
 

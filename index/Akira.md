@@ -1,9 +1,9 @@
 ---
 title: Akira
-revid: 93407
+revid: 93423
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs]
+categories: [NPCs]
 ---
 
 # Akira
@@ -16,10 +16,6 @@ categories: [Pages with broken file links, NPCs]
 “ Since when was the Depths the territory of some surface-dwelling small fries like lot of you? Pass this line and none of you will see the surface again. ”
 
 ― Akira
-
-File:Akira's Bell Concept.png
-
-Concept card of the bell that Akira have
 
 ## Description
 

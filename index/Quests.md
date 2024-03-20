@@ -1,9 +1,9 @@
 ---
 title: Quests
-revid: 91799
+revid: 93426
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Quests, NPCs]
+categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -24,25 +24,27 @@ These quests, when completed, give talents that will be unlocked on every charac
 
 **Engage + Critical Assault:**
 
-**Quest Location**: Burning Stone Gardens
+**Quest Location**: [The Garden Reservoir](The_Garden_Reservoir.md), [Burning Stone Gardens](Burning_Stone_Gardens.md)
 
-**Guide**: Talk to the NPC outside of the entrance of the Burning Stone Gardens cave. They will ask you to avenge their friends by killing a Megalodaunt, kill one and return.
+**Guide**: Talk to the Etrean NPC Arthur outside of the entrance of [The Garden Reservoir](The_Garden_Reservoir.md). He will ask you to avenge his friends by killing a [Megalodaunt](Megalodaunt.md), kill one and return.
 
 **Reward/s**: Engage + Critical Assault. EXP, Bravery.
 
 **Aerial Assault:**
 
-**Quest Location**: Pathfinder's Respite
+**Quest Location**: [Pathfinder's Respite](<Pathfinder's_Respite.md>),[Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 
-**Guide**: Talk to an NPC in the ruins in the Pathfinder's Respite. They will ask you to look at a flame in the Temple of the Forgotten Flame. Interact with the flame in the center as you enter the temple and come back.
+**Guide**: Talk to the Celtor NPC [Ivory](Ivory.md) in the ruins in the Pathfinder's Respite. She will ask you to look at a flame in the Temple of the Forgotten Flame. Interact with the flame in the center as you enter the temple and come back.
 
 **Reward/s**: Aerial Assault, EXP
 
 **Thresher Scales:**
 
-**Quest Location**: Starswept Valley
+**Quest Location**: [Starswept Valley](The_Starswept_Valley.md)
 
-**Guide**: Talk to an NPC in Starswept Valley. They will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.
+File:Jessamine .png
+
+**Guide**: Talk to the Ganymede NPC [Jessamine](Jessamine.md) in [Starswept Valley](The_Starswept_Valley.md). He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.
 
 **Reward/s**: Thresher Scales
 
@@ -60,25 +62,25 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Treefelling Blow:**
 
-**Quest Location**: Etris and Isle of Vigils
+**Quest Location**: [Etris](Etris.md) and [Isle of Vigils](Isle_of_Vigils.md)
 
-**Guide**: Talk to the NPC that gives you the Lumber Axe at Etris with Strong Left. They will be utterly flabbergasted at your idea but you will have to use either Strong Left or Eclipse Kick to knock 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands. Keep in mind that you need to have Strong Left to initiate the quest, but it can be completed using Eclipse Kick.
+**Guide**: Talk to the NPC that gives you the Lumber Axe at Etris or ISle of Vigils with Strong Left. They will be utterly flabbergasted at your idea but you will have to use either Strong Left or Eclipse Kick to knock 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands. Keep in mind that you need to have Strong Left to initiate the quest, but it can be completed using Eclipse Kick.
 
 **Reward/s**: Treefelling Blow
 
 **Family Recipe:**
 
-**Quest Location**: Songseeker Wilds
+**Quest Location**: [Songseeker Wilds](Songseeker_Wilds.md)
 
-**Guide**: Talk to the NPC outside the entrance of the Mineskipper mine (near the Voidzone entrance). They will ask you to kill 5 Mineskippers. Do so and return.
+**Guide**: Talk to the NPC named Lucian outside the entrance of the [Mudskipper](Mudskipper.md#mineskipper) mine (near the Voidzone entrance). They will ask you to kill 5 Mineskippers. Do so and return.
 
 **Reward/s**: Family Recipe, Bravery
 
 **Harvester:**
 
-**Quest Location**: Starswept Valley
+**Quest Location**: [Starswept Valley](The_Starswept_Valley.md)
 
-**Guide**: Talking to Ciea in the Starswept Valley, near the Widow's Hollow, next to the Shrine of Mastery. She will ask you to make some potions. Each repeat gives EXP but the 3rd? repeat gives the talent.
+**Guide**: Talking to the Vesperian NPC [Ciea](Ciea.md) deep in the Starswept Valley, near the Widow's Hollow, next to the Shrine of Mastery. She will ask you to make some potions. Each repeat gives EXP but the 3rd repeat gives the talent.
 
 **Reward/s**: Harvester
 
@@ -86,45 +88,45 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: -
 
-**Guide**: Turn in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any blacksmith.
+**Guide**: Turn in 5 Pure Ore (must be Erisore, Irithine, Umbrite or Astruline) to any [Blacksmith](Blacksmith.md).
 
 **Reward/s**: Excavator
 
 **Heretic's Sutra:**
 
-**Quest Location**: The Eternal Gale (Layer 2)
+**Quest Location**: [Sanctuary Gatehouse](Second_Layer.md) (Layer 2)
 
-**Guide**: Talk to an NPC in layer 2 with 80 Willpower. You must have gotten to at least stage one of insanity before claiming this.
+**Guide**: Talk to a seemingly insane Capra in rags named Kasen in layer 2. You must have gotten 80 WIllpower and at least stage one of insanity before claiming this.
 
 **Reward/s**: Heretic's Sutra.
 
 **Trained Fist:**
 
-**Quest Location**: Legion Camp / Etrean Wilds
+**Quest Location**: [Etrean Wilds](Etrean_Wilds.md)/[Summer Isle](Summer_Isle.md) and [The Viper's Jaw](<The_Viper's_Jaw.md>)
 
-**Guide**: You must obtain a fist style of any kind. Legion Kata is obtained by getting a Captain's Recc to Amara and Way of Navae is obtained by turning in a hostage to the Nomads.
+**Guide**: Bring a [Navaen Hostage](Navaen_Hostage.md) to [Eastern Tribal Leader](Eastern_Nomad_Leader.md) either in Etrean Wilds or Summer Isle to Obtain [Way of Navae](Way_of_Navae.md). Legion Kata is obtained by getting a Captain's Recc in [Aratel Island](Aratel_Island.md) and show it to [Amara](Amara.md) in the Legion camp.
 
 **Reward/s**: Trained Fist
 
 **Pleeksty's Will:**
 
-**Quest Location**: Etris
+**Quest Location**: [Etris](Etris.md)
 
-**Guide**: Give Ploom at the food shop in Etris 3 dying embers.
+**Guide**: Give the Ganymede NPC Ploom at the food shop in Etris 3 dying embers.
 
 **Reward/s**: Pleeksty's Will, Curiosity
 
 **Armor Piercing:**
 
-**Quest Location**: Summer Isle
+**Quest Location**: [Summer Isle](Summer_Isle.md)
 
-**Guide**: Talk to the NPC outside the Inn at Summer Isle. They'll have you bully a guy near the shore. After bullying the Guy, talk to the NPC at the inn to finish the quest.
+**Guide**: Talk to the Gremor NPC Trig outside the Guildhall at Summer Isle. He'll have you find Asius, a merchant who hasn't been paying his dues. After bullying the Guy, talk to Trig at the inn to finish the quest.(Answering with the first option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation.)
 
-**Reward/s**: Armor Piercing (Added to Talent pool, not given instantly.)
+**Reward/s**: Armor Piercing (Added to Talent pool, not given instantly), Summer Company Rep.
 
 **Ethiron's Gaze:**
 
-**Quest Location**: Firfire (Layer 2)
+**Quest Location**: [Firfire](Firfire.md) (Layer 2)
 
 **Guide**: Pull out the spear from the Firfire Caverns and talk to the leader in Firfire to finish the quest.
 
@@ -132,9 +134,9 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Union Hook:**
 
-**Quest Location**: The Frontier Furnace (Layer 2)
+**Quest Location**: [The Frontier Furnace](The_Frontier_Furnace.md) (Layer 2)
 
-**Guide**: Talk to Alpha at The Frontier Furnace.
+**Guide**: Talk to [Alpha](Alpha.md) at The Frontier Furnace.
 
 **Reward/s**: Union Hook
 
@@ -142,31 +144,33 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: Songseeker Temple
 
-**Guide**: Talk to Yamaketzal at the Songseeker Temple.
+**Guide**: Talk to [Yamaketzal](Yamaketzal.md) at the Songseeker Temple with at least Power 5.
 
 **Reward/s**: Chime of Conflict
 
 **Spell Shout:**
 
-**Quest Location**: Isle of Vigils
+**Quest Location**: [Isle of Vigils](Isle_of_Vigils.md)
 
-**Guide**: Talk to an NPC inside the library at Isle of Vigils. You must pay 50 notes or have 8 charisma (the 4th option is impossible) to get the talent.
+File:Vaasl.png
+
+**Guide**: Talk to the Etrean NPC [Valikor](Valikor.md) inside the library at Isle of Vigils. You must pay 50 notes or have 8 charisma (the 4th option is impossible) to get the talent.
 
 **Reward/s**: Spell Shout
 
 **Disguise:**
 
-**Quest Location**: Songseeker Wilds
+**Quest Location**: [Songseeker Wilds](Songseeker_Wilds.md)
 
-**Guide**: Talk to an NPC in the Songseeker Wilds. With 20 charisma you will get the mantra.
+**Guide**: Talk to the Ganymede NPC [Mime](Mime.md) in the Songseeker Wilds mine. With 20 charisma you will get the mantra.
 
 **Reward/s**: Disguise
 
 **Windwaker:**
 
-**Quest Location**: Isle of Vigils
+**Quest Location**: [Isle of Vigils](Isle_of_Vigils.md)
 
-**Guide**: Talk to Stratos at the Blade Temple. You must have Galebreathe. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
+**Guide**: Talk to [Stratos](Stratos.md) at The Blade Temple. You must have Galebreathe. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
 
 **Reward/s**: Windwaker
 
@@ -174,7 +178,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: N/A
 
-**Guide**: Unbound your weapon mastery through either completing the lost brother quest or killing the duke of erisia boss.
+**Guide**: Unbound your weapon mastery through either completing the lost brother quest or Defeating any of [Bosses](Bosses.md).
 
 **Reward/s**: Mercy Kill
 
@@ -184,9 +188,9 @@ These quests usually give XP, Reputation and/or an item.
 
 **Polis' Stories:**
 
-**Quest Location**: Etris
+**Quest Location**: [Etris](Etris.md)
 
-**Guide**: Talk to Polis standing under the tree in Etris.
+**Guide**: Talk to [Polis](Polis.md) standing under the tree in Etris.
 
 **Reward/s**: Gold Ring
 
@@ -202,15 +206,15 @@ These quests usually give XP, Reputation and/or an item.
 
 **Quest Location**: Etris and Vigils
 
-**Guide**: Talk to an NPC Etris near the bridge between Lance Leshi's and the barber, interact with a sword reached through a zipline near the mantra training item shop in Vigils, then talk to the Etris NPC.
+**Guide**: Talk to an [Nanji](Nanji.md) at Etris near the bridge between Lance Leshi's and the barber, interact with a sword reached through a zipline near the mantra training item shop in Vigils, then talk to the Nanji agagin.
 
 **Reward/s**: EXP, Compassion.
 
 **Lost Books:**
 
-**Quest Location**: Isle of Vigils
+**Quest Location**: [Isle of Vigils](Isle_of_Vigils.md) and [Etrean Wilds](Etrean_Wilds.md)
 
-**Guide**: Talk to the librarian in the Isle of Vigils library. He will ask you to pick up some books. Go to the hut under Etris, talk to the NPCs there and come back to the librarian.
+**Guide**: Talk to [Kelsius](Kelsius.md) at librarian in the Isle of Vigils library. He will ask you to pick up some books. Go to the hut under Etrean Wild, talk to the NPCs there and come back to the librarian.
 
 **Reward/s**: Hand of Whispers
 
@@ -342,7 +346,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Reward/s**: Exclusive Fort Merit Loot, EXP
 
-**Homeless Villagers:**
+**Forgotten Villagers:**
 
 **Quest Location**: Church of Erisor (Erisia)
 
@@ -384,8 +388,8 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Monster Hunting:**
 
-**Quest Location**: Starswept Valley
+**Quest Location**: [Starswept Valley](The_Starswept_Valley.md)
 
-**Guide**: Talk to an NPC on the left side of the gate to the upper level of [The Lordsgrove](The_Lordsgrove.md). They will ask you to kill a monster. Kill one and return.
+**Guide**: Talk to the Vesperian NPC [Calamus](Calamus.md) on the left side of the gate to the upper level of [The Lordsgrove](The_Lordsgrove.md). He will ask you to kill a monster in Aratel Island. Kill one and return.
 
 **Reward/s**: EXP, Hive Reputation and a chest with loot.
