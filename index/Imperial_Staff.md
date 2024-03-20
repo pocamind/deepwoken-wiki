@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 93386
+revid: 93409
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
@@ -11,7 +11,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
 | Imperial Staff | |
 |---|---|
 | type | Spear |
-| requirements | 40 STR, 40 MED |
+| requirements | 40 STR, 50 MED |
 | damage | 19 |
 | scaling | 5 MED 3 STR |
 | range | 8 |

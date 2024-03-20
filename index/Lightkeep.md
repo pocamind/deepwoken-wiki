@@ -1,6 +1,6 @@
 ---
 title: Lightkeep
-revid: 92817
+revid: 93408
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -24,7 +24,7 @@ Your ability to call upon Light, enlighten those around you and guide others thr
 
 ## Trivia
 
--   The magic that is utilized by the [Dawnwalker oath](Oaths.md#dawnwalker) is an attempt at imitating **Lightkeeping** through the use of Radiant Tones.
+-   **Lightkeep** draws from a verse of the Song called Radiant Tones, which [Dawnwalkers](Oath%253A_Dawnwalker.md) also utilize as a combat-oriented imitation of **Lightkeep**.
 -   The **Lightkeepers'** base was located in [Starswept Valley](The_Starswept_Valley.md); named the [Lightkeeper's Temple](Lightkeeper_Temple.md).
     -   As of the Year 1271, it has been buried by the sands of the [Valley](The_Starswept_Valley.md) and is a breeding grounds for [Threshers](Thresher.md). Though despite the abandonment, the [Temple](Lightkeeper_Temple.md) looks to be intact.
     -   By Year 1363, a jail cell in it has been torn open, and a connection to the [Deep Thresher Nest](Deep_Thresher_Nest.md) established.
