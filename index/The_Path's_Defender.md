@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 85467
+revid: 93372
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Items, Shields]
@@ -19,7 +19,7 @@ categories: [Weapons, Items, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Deep Widow, Fishing, Layer 1, Layer 2, Merchant Ships |
+| obtainment | Chests from:, Duke Erisia, Deep Widow, Fishing, Layer 1, Layer 2, Merchant Ships, Maestro Evengarde Rest |
 | description | A venerated shield, donned only by those who have walked their own Path as they see fit. |
 
 ## Description

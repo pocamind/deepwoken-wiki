@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 92733
+revid: 93379
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -14,7 +14,7 @@ categories: [Character, Mechanics, Creation]
 
 > “ Washed ashore in an unfamiliar place, you find hospitality within the Kingdom of Etrea. ”
 > 
-> ― Flavor Text
+> ― Origin description
 
 _Castaway_ is the default, intended way to play the game, and is available to the player upon purchase of the game. _It has no restrictions and no benefits._
 
@@ -73,7 +73,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 -   **\[PRO\]** You spawn with [Diver Apprentice Armor](Diver_Apprentice_Robes.md).
 -   **\[PRO\]** Castle Light necessities are available to you.
     -   Can sell items at the Antiquarian at Castle Light in the Library.
-    -   Can store and retrieve weapons and items at the Banker across from the Antiquarian.
+    -   Can store and retrieve weapons, items, and notes at the Banker across from the Antiquarian.
     -   Have access to the furnace, a campfire on the second floor.
 -   **\[CON\]** **You cannot do Trial of One.** If for some reason you try to leave the Depths at Power 1 AND make it past the Enforcer, don't. Please. You're wasting your time and sanity.
 -   **\[PRO\]** You regain sanity from killing monsters in the Depths.

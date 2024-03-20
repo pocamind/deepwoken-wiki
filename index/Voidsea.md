@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 92556
+revid: 93373
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -15,6 +15,8 @@ Here, the dying light collects like dregs at the precipice of a waterfall. The u
   
 
 Warning: Entering ecological dead zone. Adding report to databank.
+
+I'm sure whatever you're doing here is worth it.
 
 **The Voidsea** is a location in _Deepwoken_. It functions as a boundary for the [Luminants](Luminants.md).
 
@@ -41,3 +43,4 @@ Sometimes, when you are sailing through Voidsea, you may be teleported to a rand
 -   Dying in [Boatman's Watch](<Boatman's_Watch.md>) will not send you to [The Depths](The_Depths.md).
 -   With enough dedication, sailing out of the Voidsea into the actual Roblox void was possible in Verse 1.
 -   May be a reference to the Voidsea from Rain World.
+-   [Resonance dawn](Random_Encounters.md) event can spawn here and is a prime place for grinding it because of its low 4 events.

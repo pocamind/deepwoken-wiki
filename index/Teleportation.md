@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 93309
+revid: 93384
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,7 +52,7 @@ Normal Waypoints will be colored yellow as usual. Presets don't replace the amou
 
 -   [Lower Erisia](Lower_Erisia.md)
 -   [Temple Approach](Temple_Approach.md)
--   [Minitysra](Minityrsa.md)
+-   [Minityrsa](Minityrsa.md)
 -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 
 #### Eastern Luminant
