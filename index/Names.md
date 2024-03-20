@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 93223
+revid: 93404
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -39,6 +39,7 @@ You can choose your first name from any available, but your choices of last name
 -   Alder
 -   Alex
 -   Alexander
+-   Alfie
 -   Ali
 -   Alloras
 -   Alm
@@ -49,6 +50,7 @@ You can choose your first name from any available, but your choices of last name
 -   Amir
 -   Ammar
 -   Amon
+-   Andrae
 -   Andre
 -   Andrew
 -   Anos
@@ -110,7 +112,7 @@ You can choose your first name from any available, but your choices of last name
 -   Chad
 -   Chance
 -   Charles
--   Charlie
+-   Charlie (unintentionally listed twice)
 -   Chert
 -   Chesed
 -   Chris
@@ -140,7 +142,7 @@ You can choose your first name from any available, but your choices of last name
 -   Damien
 -   Dani
 -   Daniel
--   Danny
+-   Danny (unintentionally listed twice)
 -   Dante
 -   Darnell
 -   Dash
@@ -150,7 +152,9 @@ You can choose your first name from any available, but your choices of last name
 -   Devin
 -   Dex
 -   Diar
+-   Diego
 -   Dimitri
+-   Dinell
 -   Diomedes
 -   Dior
 -   Dominic
@@ -164,6 +168,7 @@ You can choose your first name from any available, but your choices of last name
 -   Dust
 -   Dylan
 -   Edgar
+-   Eisen
 -   Edward
 -   Eli
 -   Elijah
@@ -182,18 +187,21 @@ You can choose your first name from any available, but your choices of last name
 -   Evaine
 -   Ezekiel
 -   Fabian
+-   Fahim
 -   Falco
+-   Falcon
 -   Faris
 -   Faust
 -   Feldspar
 -   Felix
 -   Ferdinand
 -   Ferguson
+-   Fern
 -   Feste
 -   Finch
 -   Finley
 -   Fisher
--   Fitz
+-   Fitz (unintentionally listed twice)
 -   Florian
 -   Fox
 -   Francis
@@ -202,6 +210,7 @@ You can choose your first name from any available, but your choices of last name
 -   Franky
 -   Fraser
 -   Frederick
+-   Fritz
 -   Gabbro
 -   Gabriel
 -   Gael
@@ -220,6 +229,7 @@ You can choose your first name from any available, but your choices of last name
 -   Gideon
 -   Gino
 -   Gold
+-   Goni
 -   Graham
 -   Grangler
 -   Gravel
@@ -242,12 +252,14 @@ You can choose your first name from any available, but your choices of last name
 -   Harper
 -   Harvey
 -   Hassan
+-   Hawk
 -   Hayes
 -   Hector
 -   Hemlock
 -   Henry
 -   Hermes
 -   Hero
+-   Heron
 -   Herta
 -   Hiroh
 -   Hoid
@@ -265,6 +277,7 @@ You can choose your first name from any available, but your choices of last name
 -   Igor
 -   Inari
 -   Indra
+-   Inu
 -   Iori
 -   Isaac
 -   Isaiah
@@ -274,6 +287,7 @@ You can choose your first name from any available, but your choices of last name
 -   Izzy
 -   Jack
 -   Jackdaw
+-   Jackie
 -   Jacob
 -   Jaleel
 -   Jalen
@@ -288,8 +302,10 @@ You can choose your first name from any available, but your choices of last name
 -   Jerry
 -   Jesse
 -   Jessie
+-   Joe
 -   John
 -   Jonathan
+-   Jordan
 -   Joseph
 -   Joshua
 -   Josue
@@ -311,8 +327,11 @@ You can choose your first name from any available, but your choices of last name
 -   Kareem
 -   Karl
 -   Kay
+-   Keegan
 -   Keith
 -   Kelik
+-   Kelsier
+-   Kenin
 -   Kenny
 -   Kent
 -   Kestrel
@@ -360,6 +379,7 @@ You can choose your first name from any available, but your choices of last name
 -   Malachi
 -   Malcolm
 -   Malik
+-   Maras
 -   Marcellus
 -   March
 -   Marco
@@ -381,6 +401,7 @@ You can choose your first name from any available, but your choices of last name
 -   Mercutio
 -   Mezux
 -   Michael
+-   Mike
 -   Minos
 -   Moash
 -   Mordred
@@ -407,7 +428,9 @@ You can choose your first name from any available, but your choices of last name
 -   Ogma
 -   Ogrim
 -   Oki
+-   Olie
 -   Oliver
+-   Omar
 -   Ophir
 -   Ornstein
 -   Orsino
@@ -437,6 +460,7 @@ You can choose your first name from any available, but your choices of last name
 -   Pine
 -   Pollux
 -   Polonius
+-   Price
 -   Prospero
 -   Puck
 -   Pyron
@@ -451,6 +475,7 @@ You can choose your first name from any available, but your choices of last name
 -   Quincy
 -   Quirrel
 -   Radovan
+-   Raheem
 -   Raigh
 -   Rain
 -   Raj
@@ -489,7 +514,10 @@ You can choose your first name from any available, but your choices of last name
 -   Roy
 -   Rutile
 -   Ryan
+-   Ryu
 -   Saber
+-   Saeko
+-   Sage
 -   Samuel
 -   Samwise
 -   Sand
@@ -498,7 +526,9 @@ You can choose your first name from any available, but your choices of last name
 -   Scar
 -   Scott
 -   Sean
+-   Sein
 -   Selim
+-   Senshi
 -   Sergei
 -   Seth
 -   Shale
@@ -535,6 +565,8 @@ You can choose your first name from any available, but your choices of last name
 -   Stephen
 -   Storm
 -   Strahd
+-   Subaru
+-   Sun
 -   Sven
 -   Sydney
 -   Szeth
@@ -551,6 +583,7 @@ You can choose your first name from any available, but your choices of last name
 -   Tobias
 -   Tobin
 -   Tomas
+-   Tony
 -   Travis
 -   Tre
 -   Tress
@@ -593,7 +626,9 @@ You can choose your first name from any available, but your choices of last name
 -   Xavos
 -   Xiao
 -   Yakub
+-   Yugo
 -   Yumi
+-   Yusuf
 -   Zach
 -   Zachary
 -   Zeiss
@@ -1471,6 +1506,7 @@ You can choose your first name from any available, but your choices of last name
 -   Evus
 -   Janus
 -   Juno
+-   Khanus
 -   Narsus
 -   Nemises
 -   Tarsus
@@ -1568,6 +1604,8 @@ You can choose your first name from any available, but your choices of last name
 -   The name Azula is a reference to the animated series, Avatar: the Last Airbender.
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
 -   The name Meliodas may be a reference to the anime and manga series, The Seven Deadly Sins.
+-   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
+-   The name Minos is also a reference to Greek mythology, although it dawns a reckoning as to if this is a reference to something else too
 
 ## References
 

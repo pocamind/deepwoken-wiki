@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 93337
+revid: 93403
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -77,7 +77,7 @@ _Fire a beam of ice._
  | Fire a penetrating beam of ice.
 
 -   Deals light damage.
--   Inflicts 2 seconds chill per hit, can't be increased.
+-   Inflicts 1 second chill per hit, Might be possible to increase?
 -   Hits multiple times in a row.
 -   Knocks back target(s).
 -   Can be modified with cloudstones to make it wider.

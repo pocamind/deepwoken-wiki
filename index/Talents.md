@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93343
+revid: 93387
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1406,7 +1406,8 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 
 -   _Warrior's Respite_ \[Rare Talent\] - Standing still for 15 seconds in order to initiate healing.
     -   Any action, be it blocking, moving, attacking, dodging (except instant roll cancelling) or getting pushed around will cancel the effect. (This was not the case a long time ago, and was overpowered)
-    -   Does not activate when on ships. Does activate when in water.
+    -   Does not activate when on moving ships.
+    -   Does activate when in water and with spawn immunity.
     -   Prerequisite: 15 Fortitude
 
 ### Mental Fortress
