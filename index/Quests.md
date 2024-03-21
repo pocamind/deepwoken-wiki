@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 93426
+revid: 93433
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -120,7 +120,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: [Summer Isle](Summer_Isle.md)
 
-**Guide**: Talk to the Gremor NPC Trig outside the Guildhall at Summer Isle. He'll have you find Asius, a merchant who hasn't been paying his dues. After bullying the Guy, talk to Trig at the inn to finish the quest.(Answering with the first option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation.)
+**Guide**: Talk to the Gremor NPC Trig outside the Guildhall at Summer Isle. He'll have you find Asius, a merchant who hasn't been paying his dues. After collecting some files from Asuis, return to Trig at the inn to finish the quest.(Answering with the first option and returning to Trig will cause him to send three Summer Company guards after you, and will get you negative Summer Company reputation.)
 
 **Reward/s**: Armor Piercing (Added to Talent pool, not given instantly), Summer Company Rep.
 
@@ -128,7 +128,7 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: [Firfire](Firfire.md) (Layer 2)
 
-**Guide**: Pull out the spear from the Firfire Caverns and talk to the leader in Firfire to finish the quest.
+**Guide**: Pull out the spear from the Firfire Caverns and talk to _Erosius Amaltus Urivortus Alistus Casius Walistoshus_ in Firfire to finish the quest.
 
 **Reward/s**: Ethiron's Gaze
 
@@ -152,7 +152,9 @@ When these quests are completed they give a talent (or mantra in the case of Dis
 
 **Quest Location**: [Isle of Vigils](Isle_of_Vigils.md)
 
-File:Vaasl.png
+Valikor
+
+Valikor
 
 **Guide**: Talk to the Etrean NPC [Valikor](Valikor.md) inside the library at Isle of Vigils. You must pay 50 notes or have 8 charisma (the 4th option is impossible) to get the talent.
 
@@ -170,7 +172,7 @@ File:Vaasl.png
 
 **Quest Location**: [Isle of Vigils](Isle_of_Vigils.md)
 
-**Guide**: Talk to [Stratos](Stratos.md) at The Blade Temple. You must have Galebreathe. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
+**Guide**: Talk to [Stratos](Stratos.md) at [The Temple of Blade](Temple_of_the_Blade.md). You must have Galebreathe. Sail your boat in the direction of the wind (mast pointed with the wind) for 15~ minutes, then talk to him.
 
 **Reward/s**: Windwaker
 
@@ -222,39 +224,33 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Weapon Manual:**
 
-**Quest Location**: Isle of Vigils
+**Quest Location**: [Isle of Vigils](Isle_of_Vigils.md)([Temple of the Blade](Temple_of_the_Blade.md))
 
-**Guide**: Give an NPC in the Isle of Vigils dojo a Weapon Manual. (It removes one use but won't take it away)
+**Guide**: Give an NPC in Temple of Blade a Weapon Manual to help him defeat ['the guy on the other side'](Evengarde_Rest.md). (It removes one use but won't take it away)
 
 **Reward/s**: EXP
 
 **Food delivery:**
 
-**Quest location**: Isle of Vigils
-
-**Guide**: Talk to the [Lance's Brother](<Lance's_Brother.md>) on Isle of Vigils, choosing the second dialogue option will spawn a red box with the text 'Food' on it. To finish the quest, give the box to [Stratos](Stratos.md), located in the courtyard of the [Temple of the Blade](Temple_of_the_Blade.md).
+**Quest location**: [Isle of Vigils](Isle_of_Vigils.md) **Guide**: Talk to the [Lance's Brother](<Lance's_Brother.md>) on Isle of Vigils, choosing the second dialogue option will spawn a red box with the text 'Food' on it. To finish the quest, give the box to [Stratos](Stratos.md), located in the courtyard of the [Temple of the Blade](Temple_of_the_Blade.md).
 
 **Reward/s**: 25 notes and positive reputation EXP with Etrea.
 
 **Zana:**
 
-**Quest Location**: Isle of Vigils
-
-**Guide**: Talk to a Vesperian on the Isle of Vigils docks with a weapon with a sheath (katanas?). Fight them and win at various locations.
+**Quest Location**: [Isle of Vigils](Isle_of_Vigils.md), [Etrean Wilds](Etrean_Wilds.md), [Lower Erisia](Lower_Erisia.md), [The Monkey's Paw](<The_Monkey's_Paw.md>) **Guide**: Talk to [Zana](Zana.md) on the Isle of Vigils docks with a [weapon with a sheath](Katana.md). Fight him and win at various locations.
 
 **Reward/s**: Poser’s Ring
 
 **Ghost Ship:**
 
-**Quest Location**: Isle of Vigils
-
-**Guide**: Talk to Suyuan in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost on the ship and return to Suyuan. Tied to Silentheart oath, but can be done without an oath or with another oath.
+**Quest Location**: [Isle of Vigils](Isle_of_Vigils.md), [Beloved Zofia](Beloved_Zofia.md) **Guide**: Talk to [Suyuan](Suyuan.md) in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost on the ship and return to Suyuan. Tied to Silentheart oath, but can be done without an oath or with another oath.
 
 **Reward/s**: EXP, Curiosity
 
 **Lars:**
 
-**Quest Location**: Viper's Jaw (Lower, Legion Camp)
+**Quest Location**: [Viper's Jaw](<The_Viper's_Jaw.md>) (Lower, Legion Camp)
 
 **Guide**: Talk to Atra, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or a difficult to climb shaft.
 
@@ -262,9 +258,9 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Field Report:**
 
-**Quest Location**: Minityrsa
+**Quest Location**: [Minityrsa](Minityrsa.md)
 
-**Guide**: Talk to Elykris in Minityrsa, he will ask you to find a book in [Outpust Antumbra.](Outpost_Antumbra.md) Return to him after finding it.
+**Guide**: Talk to [Elykris](Elykris.md) in Minityrsa, he will ask you to find a book in [Outpust Antumbra.](Outpost_Antumbra.md) Return to him after finding it.
 
 **Reward/s**: 3 Aces, EXP, Curiosity
 
@@ -272,23 +268,23 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **The Guy:**
 
-**Quest Location**: Between Meteor Isle and Bluster Rift
+**Quest Location**:[Bluster Rift](Bluster_Rift.md)
 
-**Guide**: Talk to The Guy near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 3 spider eggs.
+File:Theguy.png
+
+**Guide**: Talk to [The Guy](The_Guy.md) near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 3 spider eggs.
 
 **Reward/s**: Be able to use the Summer Isle cannon to get to Songseeker + (Charisma only) The Guy's Glasses
 
 **Navae's Retribution:**
 
-**Quest Location**: Meteor Isle
-
-**Guide**: Talk to [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md), then go to Fort Merit. Event occurs near the lift. Kill some Authority Peacekeepers then return to Meteor Isle.
+**Quest Location**: [Fort Merit](Fort_Merit.md) **Guide**: Talk to [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md), then go to Fort Merit. Event occurs near the lift. Kill some Authority Peacekeepers then return to Meteor Isle.
 
 **Reward/s**: EXP, Bravery, 2 [Knowledge](Knowledge.md)
 
 **Kiley's Promise:**
 
-**Quest Location**: Greathive Aratel
+**Quest Location**: [Greathive Aratel](Greathive_Aratel.md)
 
 **Guide**: Talk to Suri at Greathive Aratel. He will ask you to place a flower on his brother's grave at Isle of Vigils. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.
 
@@ -306,7 +302,7 @@ Note: If you have done the tutorial from the Castaway origin, you cannot do this
 
 **Quest Location**: Greathive Aratel
 
-**Guide**: Adjust a telescope to look at the stars.
+**Guide**: Adjust a telescope to look at the stars, tells you some informations about Celestial.
 
 **Reward/s**: EXP
 
@@ -316,31 +312,27 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Golden Rats:**
 
-**Quest Location**: Burning Stone Gardens
-
-**Guide**: Kill Golden Rats inside the Rat's Den to get Gold Plates. Turn them into the Golden Rat standing outside.
+**Quest Location**: [Rat's Den](<Rat's_Den.md>)([Burning Stone Gardens](Burning_Stone_Gardens.md)) **Guide**: Kill [Golden Rats](Golden_Warrior.md) inside the Rat's Den to get Gold Plates. Turn them into the chest in Golden Rat Guard standing outside.
 
 **Reward/s**: Chest
 
 **Starswept Bags:**
 
-**Quest Location**: Starswept Valley
-
-**Guide**: Turn in the bags found around Starswept Valley to Mercille near the Guy at the outpost near Meteor Isle.
+**Quest Location**: [Starswept Valley](The_Starswept_Valley.md) **Guide**: Turn in the bags found around Starswept Valley to Mercille near the Guy at the outpost near Meteor Isle.
 
 **Reward/s**: Small Hive Chest
 
-**Summer Isle Supply Boxes:**
+**Summer Isle Explosive Boxes:**
 
-**Quest Location**: Summer Isle
+**Quest Location**: [Summer Isle](Summer_Isle.md)
 
-**Guide**: Give the supply boxes that can be found all around Summer Isle to Scope at the storage room in Summer Isle.
+**Guide**: Give the Explosive boxes that can be found all around Summer Isle to Scope at the storage room in Summer Isle.
 
 **Reward/s**: Chest, Reputation
 
 **Fort Merit Rescue:**
 
-**Quest Location**: Fort Merit
+**Quest Location**: [Fort Merit](Fort_Merit.md)
 
 **Guide**: Save a hostage from Fort Merit and give them to the Etrean Guardmaster outside of the fort on a dinghy.
 
@@ -350,7 +342,7 @@ These quests have EXP, chests and/or reputation as rewards and are repeatable.
 
 **Quest Location**: Church of Erisor (Erisia)
 
-**Guide**: Talk to the homeless NPCs in the Church of Erisor. Help them through the waves of monsters.
+**Guide**: Talk to the [Forgotten Villagers](Forgotten_Villager.md) in the Church of Erisor. Help them through the waves of monsters.
 
 **Reward/s**: Chest
 

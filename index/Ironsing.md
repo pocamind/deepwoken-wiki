@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 93329
+revid: 93481
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -672,6 +672,8 @@ These are talents found in "_Scrapsinger_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+File:Iron2.png
+
  | 
 
 Gilded Path: Scrapsinger  
@@ -687,6 +689,8 @@ When flourishing an enemy, you consume any rod on they have and steal their armo
 
  |
 | 
+
+File:Iron2.png
 
  | 
 
@@ -704,6 +708,8 @@ When consuming an enemy's rod, their PEN against you is reduced for 14 seconds b
  |
 | 
 
+File:Iron2.png
+
  | 
 
 Artisan's Blade  
@@ -719,6 +725,8 @@ Activating Scrapsinger summons a metal blade for each 2 rod consumed that will f
 
  |
 | 
+
+File:Iron2.png
 
  | 
 
@@ -736,6 +744,8 @@ Your weapon's critical attack activates scrapsinger abilities.
  |
 | 
 
+File:Iron2.png
+
  | 
 
 Masterwork  
@@ -751,6 +761,8 @@ Sucessful hits from your Artisan's Blades will proc metal rods and deal slightly
 
  |
 | 
+
+File:Iron2.png
 
  | 
 

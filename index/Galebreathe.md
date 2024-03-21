@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 93334
+revid: 93478
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -804,7 +804,7 @@ These talents are found in the _Specter_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-|  | 
+| File:Gale2.png | 
 Haunted Path: Specter  
 (Haunted Gale, 50 GALE)
 
@@ -817,7 +817,7 @@ Build up spectral energy by performing successful dodges and landing Wind mantra
 N/A
 
  |
-|  | 
+| File:Gale2.png | 
 
 Apparitions  
 (Haunted Path: Specter, 50 GALE)
@@ -831,7 +831,7 @@ Instead of Haunted Gale Phantoms, each proc will now send apparitions towards yo
 N/A
 
  |
-|  | 
+| File:Gale2.png | 
 
 Phantom Step  
 (Haunted Path: Specter, 55 GALE)
@@ -845,7 +845,7 @@ Press X to begin running at high speeds and your regular dashes transform into g
 N/A
 
  |
-|  | 
+| File:Gale2.png | 
 
 Vanishing Wraith  
 (Phantom Step, 60 GALE)

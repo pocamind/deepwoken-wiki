@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 93342
+revid: 93467
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -174,7 +174,11 @@ Shadow Meteors
 Shade Bringer  
 (★★★)
 
- | Temporarily summon a shadow greatsword for a large slash. | 50 Ether | User creates a large black sword from their hands, using it to slash the enemy in front of them.
+ | Temporarily summon a shadow greatsword for a large slash.
+
+-   Cannot be feinted.
+
+ | 50 Ether | User creates a large black sword from their hands, using it to slash the enemy in front of them.
 
 -   Adding 1 spring spark will instead lunge you forward and slam down on the enemy.
 

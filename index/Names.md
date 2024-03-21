@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 93404
+revid: 93446
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1586,7 +1586,7 @@ You can choose your first name from any available, but your choices of last name
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
     -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
     -   Agrippa and Demetrius are from _[Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)_.
--   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_.
+-   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_. Or Limbus company.
 -   The name Ulysses is a reference to a novel of the same name by James Joyce.
 -   The name Sashenka may be a reference to a novel of the same name by Simon Sebag Montefiore.
 -   The name Frieren is a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
@@ -1605,7 +1605,11 @@ You can choose your first name from any available, but your choices of last name
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
 -   The name Meliodas may be a reference to the anime and manga series, The Seven Deadly Sins.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
--   The name Minos is also a reference to Greek mythology, although it dawns a reckoning as to if this is a reference to something else too
+-   The name Minos is also a reference to Greek mythology, although it dawns a reckoning (I get that this was a quote but it really doesn't work here) as to if this is a reference to something else too.
+-   Sean is an objectively shitty name.
+-   The name Isaac may be a reference to The Binding Of Isaac.
+-   Thoth is the Egyptian god of knowledge.
+-   The name Kronk is a reference to Kronk's New Groove.
 
 ## References
 

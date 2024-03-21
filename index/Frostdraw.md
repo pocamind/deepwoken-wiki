@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 93403
+revid: 93476
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -905,7 +905,7 @@ These talents are found in the _Glassdancer_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
-File:Crystalicon.png
+File:Frost2.png
 
  | 
 
@@ -923,7 +923,7 @@ N/A
  |
 | 
 
-File:Crystalicon.png
+File:Frost2.png
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Portals
-revid: 93269
+revid: 93482
 source: https://deepwoken.fandom.com/wiki/Portals
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -31,17 +31,18 @@ Pressing C will activate the **Portal** Resonance.
 
 **Portal** grants the user invisibility & invincibility to all damage, increased walk and swim speed for 5-9s until removed from your portal. While using the Bell, interacting with objects, picking up players/npc's, eating and emoting will force you out of your portal early.
 
-If Portals is corrupted, you move faster and can take objects and allied players with you.
+If Portals is corrupted, you move faster and can take objects and allied players with you. (Note: the carried player or item will NOT be invisible.)
 
 ### _Resonance Point usage_
 
 When obtained, Portals will spend its points on the following stats:
 
--   **Dive:** The dive variant will allow you to double tap C to dive into the ground. Upon cancelling you will be shot back up, dealing damage if done below an entity.
-    -   Must be timed accurately in order to activate, with a slight pause.
+-   **Dive:** The dive variant will allow you to double tap C to dive into the ground. When ended or cancelled, you are shot back up. Acts as uppercut damage if an entity is hit.
+    -   Must be timed accurately in order to activate (requires a slight pause).
     -   Increases the cooldown if used as such.
 -   **Duration:** The more points are spent on this stat, the longer the user can stay in the portal.
 -   **Speed:** The more points are spent on this stat, the faster the user move while inside the portal.
+-   **Footprints**: If points are spent in this stat, using the portal will not leave behind footprints.
 
 ## Trivia
 
