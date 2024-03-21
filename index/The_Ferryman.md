@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 93456
+revid: 93486
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -309,6 +309,7 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   Smith's alloy drop rate from Ferryman is around 0.3% per chest. (4 smiths alloys/24 ferrymen/5 chests)
 -   The [Saltchemist](Oath%253A_Saltchemist.md) Oath giver, Adrofalis, says that "The thundering sounds and the music are awfully distracting," in reference to The Ferryman's attacks as well as the music, which could mean that it is actually played in lore and not just in game. (Naktigonis himself is there playing it while you get folded by Ferryman)
 -   Initiating the fight previously did not cause a Dungeon to be instantiated, leaving the player vulnerable while fighting. This was likely adjusted to provide protection from attackers.
+-   There is an extremely rare chance that you will not get anything in a chest. This is not a bug, because all of The Ferryman's drops are NOT guaranteed to get, this can be seen by opening a chest and immediately the UI to grab any loot closes up, the chest will remain but can not be interacted with.
 
 ## Bugs
 

@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 85732
+revid: 93488
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -33,6 +33,7 @@ This Outfit's Schematic can be found in:
 -   [The Depths](The_Depths.md)  
     
 -   [Fishing](Fishing.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
 ## Trivia/Notes
 
