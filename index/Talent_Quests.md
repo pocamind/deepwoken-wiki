@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 91134
+revid: 93553
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -10,11 +10,11 @@ notices:
 
 # Talent Quests
 
-Most [Talents](Talents.md) are obtained by selecting them when powering up. There are a small number of talents which are obtained outside this system, by completing quests.
+[Most](Resonance.md) [Talents](Talents.md) are obtained by selecting them when powering up. There are a small number of talents which are obtained outside this system, by completing quests.
 
 Some of the talents obtained this way are **Echo Talents** - a mechanic added in the Verse 2 update. After completing the quest once, all future characters created on the account will automatically gain the talent upon reaching a certain power level.
 
-## Echo Talents
+## Talents (you lose them if you wipe)
 
 ### Engage and Critical Attack
 
@@ -41,13 +41,7 @@ Thresher scales is acquired from an NPC at the [Starswept Valley](The_Starswept_
 
 ### Chain of Perfection
 
-**Chain of Perfection:** You deal more damage the more you hit an enemy without taking damage
-
-Chain of Perfection is obtained by defeating any boss without taking any damage. Getting hit by other sources including normal enemies or players invalidates it. It is very dominant in PvE, especially against bosses like [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), or the [Scion of Ethiron](Scion_of_Ethiron.md).
-
-Note: You have to solo the Boss. If the boss that you are killing takes damage from a source that isn't the player trying to get the Talent, and said source is still active when the boss dies then it won't be rewarded. If a second player were to attack the boss but then die, it will still count and the Talent will be rewarded. Consider watching [this video](https://www.youtube.com/watch?v=uRr6tV0DmIc) for an in depth guide.
-
-## Other Quests
+**Chain of Perfection:** You deal less damage the more you hit an enemy when taking damage
 
 ### Treefelling Blow
 

@@ -1,6 +1,6 @@
 ---
 title: Tideknight
-revid: 91280
+revid: 93546
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [InProgressPages, Enemies, Enemies that can wield Enchantments]

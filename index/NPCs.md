@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 93418
+revid: 93540
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -68,7 +68,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Karliah](Karliah.md) | [The Divers](The_Divers.md) | [Etris](Etris.md) | Charisma unbound quest | Having 10 Charisma allows you to charge her |
 | Kasen | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | Gives Heretic's Sutra |  |
 | [Kelsius](Kelsius.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants Book Retrieval quest, grants a Whisper hand, trains a stat point for an increasing cost | If you completed the tutorial, the Whisper hand is free |
-| Kennith | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near Etris Palace | Begins Lord Regent questline | Requires positive Etrea reputation, is killed during the events of the quest, may be found in the Kyrsan Wilds afterwards. |
+| [Kennith](Kennith.md) | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md), steps near Etris Palace | Begins Lord Regent questline | Requires positive Etrea reputation, is killed during the events of the quest, may be found in the Kyrsan Wilds afterwards. |
 | [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) | [The Divers](The_Divers.md) | [Castle Light](Castle_Light.md) | Allows for an expedition to Layer 2 with a light hook, provides a Deepshore Fossil in exchange for all three Diver Journals |  |
 | Korin | [The Kingdom of Etrea](Etrea.md) | [Etris](Etris.md) | Gives lumber axe, lumberjack quest, treefelling blow quest | Quest is repeatable |
 | Kujae | Unaligned | [Summer Isle](Summer_Isle.md), outside the inn | Gacha NPC, in exchange for 350, he will give you something random from the summer isle lootpool out of his bag |  |
@@ -79,7 +79,7 @@ Check the rest out for yourself, canonically smells really bad
 | Lucien | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
 | [Mag](Mag.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
-| [Malte](Malte.md) | Unaligned (Possibly etrea) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
+| Malte | Unaligned (Possibly etrea) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | Chill rock golem | Marcus. |
 | Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |
 | [The Meat Lord](The_Meat_Lord.md) | Unaligned (possibly authority) | [Aratel Island](Aratel_Island.md), [Summer Isle](Summer_Isle.md), [Upper Erisia](Upper_Erisia.md) | Food Vendor | Only sells meat, will not answer to Vegetarians |
@@ -102,7 +102,7 @@ Check the rest out for yourself, canonically smells really bad
 | Pete | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None |  |
 | Petris | Unaligned, possibly Etrea | [The Depths](First_Layer.md), The City of the Drowned | Gives clues to summon [The Ferryman](The_Ferryman.md) |  |
 | Ploom | Unaligned (Potential Flamepriest) | [Etris](Etris.md), Lance's Food | Gives dying ember retrieval quest, grants talent card | Quest can be bypassed with either high Flamecharm stat or high Charisma stat |
-| Polis | Unaligned (The Justicar) | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
+| [Polis](Polis.md) | Unaligned (The Justicar) | Etris | Gives a free Gold Ring and teaches Jus Karita | 40 LHT is required to learn Jus Karita |
 | Mr. Quarters, Halfmaster | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | There is no such thing as a Halfmaster |
 | Rabanastre | Unaligned | Layer 2 | Questline for "Get your ass kicked into next week" | Will throw you into the nest corridor, prompting you to sprint across with onslaughts of Bounders attacking you. This cannot be stressed enough; he throws you into the nest pit, and forces you to fight 8-9 Bounders. He grabs you. He throws you. He does NOTHING ELSE. THIS MAN IS [PATCHES](https://darksouls.fandom.com/wiki/Patches) IN DEEPWOKEN. |
 | Raphael | Unaligned | [The Depths](First_Layer.md), [Varicosa District](Varicosa_District.md) | Grants Find Morning quest | The quest is still in development |
@@ -116,7 +116,7 @@ Check the rest out for yourself, canonically smells really bad
 | Serendi | Unaligned | Dungeon, [Tutorial](Tutorial.md), [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) | None | The text states she needs to stand on crates to be at eye level with the player, however, the lack of differing heights in Deepwoken means she actually towers over the player |
 | Scope | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), left tower near the stairs to the castle | Gives a chest to those who give him Explosives Crates |  |
 | The Stranger | [The Ministry](The_Ministry.md) | [Erisia](Erisia.md) | Used to grant Murmur: Tacet to those with 50 Charisma | Initiates a fight with you if you stay around him for too long, has about the same stats as a Ministry scout |
-| Stratos | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a talent to those who meet his requirements |  |
+| [Stratos](Stratos.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md) | Grants a talent to those who meet his requirements |  |
 | Surge | Unaligned | [The Depths](First_Layer.md) | Teleports you to the Nestmind if given Dark Feathers | Will take your Void Feathers to unlock more Visionshaper mantras |
 | Suri | [The Hive](The_Hive.md) | [Greathive Aratel](Greathive_Aratel.md) | Delicate Flower quest, likely inspired from the same quest in Hollow Knight. | If the flower breaks, you can go back to him for a new one |  |
 | [Suyuan](Suyuan.md) | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | Grants the quest "find a ghost", completion gives curiosity |  |

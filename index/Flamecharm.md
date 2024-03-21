@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 93524
+revid: 93544
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -986,6 +986,8 @@ These are talents found in "_Lava Serpent_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 | 
+File:Eruption.png
+
  | 
 
 Eruption Path: Lava Serpent  
@@ -1001,6 +1003,8 @@ Your fire abilities no longer proc burn and instead proc on eruption under the e
 
  |
 | 
+
+File:Eruption.png
 
  | 
 
@@ -1018,6 +1022,8 @@ N/A
  |
 | 
 
+File:Eruption.png
+
  | 
 
 Empowered Eruption  
@@ -1033,6 +1039,8 @@ Your next Eruption after landing a critical is empowered with increased range an
 
  |
 | 
+
+File:Eruption.png
 
  | 
 
@@ -1050,6 +1058,8 @@ Block-breaking an enemy with a fire mantra applies Burning.
  |
 | 
 
+File:Eruption.png
+
  | 
 
 Scorched Earth  
@@ -1065,6 +1075,8 @@ Posture breaking an opponent causes your Eruptions to be Empowered for the next 
 
  |
 | 
+
+File:Eruption.png
 
  | 
 
@@ -1262,7 +1274,7 @@ These talents are found in the _Twisted Puppets_ category.
 
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
-| File:Flame3.png | 
+| File:Twisted puppets.png | 
 Wraith Path: Twisted Puppets  
 (40 FLAME, 40 SHADOW)
 
@@ -1275,7 +1287,7 @@ Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now 
 (+4 Elemental Intensity)
 
  |
-| File:Flame3.png | 
+| File:Twisted puppets.png | 
 
 Burning Puppets  
 (Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
@@ -1289,7 +1301,7 @@ Your puppets can now inflict burn and fire-based talents when they explode.
 (+4 Elemental Intensity)
 
  |
-| File:Flame3.png | 
+| File:Twisted puppets.png | 
 
 Explosive Rage  
 (Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
@@ -1303,7 +1315,7 @@ Causing explosion will make your puppets go into a frenzy - speeding up and deal
 (+4 Elemental Intensity)
 
  |
-| File:Flame3.png | 
+| File:Twisted puppets.png | 
 
 Moths to a Flame  
 (Wraith Path: Twisted Puppets, 40 FLAME, 40 SHADOW)
@@ -1317,7 +1329,7 @@ You summon a puppet of black flames that homes onto enemies with black flames.
 (+4 Elemental Intensity)
 
  |
-| File:Flame3.png | 
+| File:Twisted puppets.png | 
 
 Burning Sacrifice  
 (Wraith Path: Twisted Puppets, Emperor Flame)
