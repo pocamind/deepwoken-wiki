@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93387
+revid: 93534
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1006,7 +1006,7 @@ _**"I'm built different" - Cannot Give Talents**_
                 -   Ironsing: Your bullets apply metal rods
             -   If the user have no attunement, True Ether Bullets defaults to Thundercall.
             -   If the user have multiple attunement at the same level, it will take the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-        -   **This talent does not make guns scale off your attunement. It still scales off your Light Weapon stat but just converts your Physical Damage to Elemental Damage.**
+        -   **This talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.**
 
 ### Heat Column
 

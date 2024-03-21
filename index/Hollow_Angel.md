@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 89107
+revid: 93535
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -48,7 +48,6 @@ Greater Angels are white and dull-Yellow humanoid creatures with wings. They wie
 | Assault | Firmly thrusts weapon at opponent and finishing up the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Enters a stance before performing a quick swipe, will perform an additional short lunge if the first hit lands. | ◯ | ✗ | (★★☆) |
 | Feint | Performs a fake attack, before pulling back and committing to a thrust. | N/A | N/A | (★★☆) |
-| Glare | The Angel's eyes light up, stunning anyone facing them if it isn't parried/blocked. | ◯ | ◯ | (★☆☆) |
 | Glare | The Angel's eyes light up, stunning anyone facing them if it isn't parried/blocked. | ◯ | ◯ | (★☆☆) |
 | Dash | Quickly dashes a long distance, purely for mobility. | ✗ | ✗ | (☆☆☆) |
 | **Light Piercer** | Rises into the air and shoot 5 bullets of light that explode, deal damage, and slow those hit. | ◯ | ◯ | (★★☆) |
