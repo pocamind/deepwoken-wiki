@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 93457
+revid: 93584
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -300,3 +300,4 @@ Rematch
 -   Block Breaker Weapons, including Mantras, like the [Enforcer's Hammer](<Enforcer's_Hammer.md>) and [Mace](Mace.md) carries the battle in Phase 1. You can also use Flame Eruption, Warden's Blades, and Rapid Punches to break the shield.
 
 -   Using Warden's Blades modified with Rush Shards, Eternal Logstones, and Blue Gems would make a great modifier, but it's costly. If you want to cheese Duke in phase 1, it's worth it. It might also be worth in phase 2, since you can also attack while it is active, making it a great block breaker if you have [Enforcer's Hammer](<Enforcer's_Hammer.md>) or [Mace](Mace.md).
+-   It is important noting in phase 2 that he will block attacks and has a lot of posture to do so, so try to feint as he will usually roll backwards, getting him out of his blocking position.

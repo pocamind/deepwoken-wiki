@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93534
+revid: 93586
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -860,7 +860,7 @@ _**"I'm built different" - Cannot Give Talents**_
 
 ### Frost Forger
 
-**"I survive of the frozen Elements."**
+**"I survive off the frozen Elements."**
 
 -   Glacial Finish \[Common Talent, Frostdraw Exclusive\] - Press \[F\] while using your Ice Smash Mantra to follow up with a devastating attack.
     -   Prerequisites: Ice Smash, 35 Frostdraw
