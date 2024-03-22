@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 93382
+revid: 93564
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -38,7 +38,7 @@ W Rank being obtained
 
 | Rank | Echoes Amount |
 | --- | --- |
-| W | 140 (441 w/ all Echoes Modifiers) |
+| W | 140 (441 w/ all Echoes Modifiers except Vow of Thorns) |
 | S | 140 (Must do all echoes tasks) |
 | A | 110-139 |
 | B | 90-114 |

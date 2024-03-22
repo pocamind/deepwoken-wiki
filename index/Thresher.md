@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 90181
+revid: 93554
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -138,3 +138,7 @@ There is currently a quest in game in Starswept Valley where you are tasked with
 -   DO NOT fight this monster on slopes as it will keep moving back it forth, thus making it more difficult to avoid/parry it's attacks. If possible try to fight it in a somewhat (not too) open and flat area. If it is on a slope, lure it to flat ground.
 -   Be aware your environment, have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
 -   A safe way to practice fighting a King Thresher would be to head to the Lightkeeper temple located on the far right side of [Starswept Valley](The_Starswept_Valley.md). Once you enter, on your right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway if your low, but do be warned as there are other threshers in the area.
+
+### Trivia!
+
+-   Cursed flame doesn’t block break you, It just goes through your parry/block entirely.

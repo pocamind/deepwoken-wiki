@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 93275
+revid: 93559
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -98,24 +98,60 @@ These two behaviors implies that, combined with his general knowledge of the wor
 </tbody>
 </table>
 
-### Dialogue - After fighting in Chime of Conflict
+**2\. After Fighting In Chime of Conflict:**
 
-_"Hrmm... <number of battles won> tourneys won out of <total number of battles> fought..."_
+<table>
+<tbody>
+<tr>
+  <td colspan="6">"Hrmm... &lt;number of battles won&gt; tourneys won out of &lt;total number of battles&gt; fought..."</td>
+  <td colspan="6"></td>
+</tr>
+<tr>
+  <td colspan="6">"A cryin' shame..."</td>
+  <td colspan="6">(When W:L ratio is lower than 60%)</td>
+</tr>
+<tr>
+  <td colspan="6">"Respectable... at the very least."</td>
+  <td colspan="6">(When W:L ratio is between 60% and 80%)</td>
+</tr>
+<tr>
+  <td colspan="6">"Not bad... Not bad at all."</td>
+  <td colspan="6">(When W:L ratio is above 80%)</td>
+</tr>
+</tbody>
+</table>
 
--   _"A cryin' shame..."_ (When W:L ratio is lower than 60%)
--   _"Respectable... at the very least."_ (When W:L ratio is between 60% and 80%)
--   _"Not bad... Not bad at all."_ (When W:L ratio is above 80%)
+**3\. Dialogue - Tarnished:**
 
-### Dialogue - Tarnished
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">No place for a warrior like yourself havin' such a sorry excuse for an instrument... No place... Can fix that fer yer...</td>
+</tr>
+<tr>
+  <td colspan="12">You can do that for me?</td>
+</tr>
+<tr>
+  <td colspan="12">Aye... That I can... Fer a small fee of jus' 1,000 Notes...</td>
+</tr>
+<tr>
+  <td colspan="12">Alright, here you go.</td>
+  <td colspan="12">Nope.</td>
+</tr>
+<tr>
+  <td colspan="12">Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... <i>*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.*</i></td>
+  <td colspan="9">End</td>
+</tr>
+<tr>
+  <td colspan="9">End</td>
+</tr>
+</tbody>
+</table>
 
--   _No place for a warrior like yourself havin' such a sorry excuse for an instrument... No place... Can fix that fer yer..._
-    -   **1\. \[You can do that for me?\]**
-    -   2\. \[Who are you?\]
-    -   3\. \[What's my score at?\]
--   _Aye... That I can... Fer a small fee of jus' 1,000 Notes..._
-    -   **1\. \[Alright, here you go.\]**
-    -   2\. \[Nope.\]
--   _Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... **\*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.\***_
+  
 
 ## Trivia
 

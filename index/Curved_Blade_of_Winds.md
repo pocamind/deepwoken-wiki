@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 93428
+revid: 93557
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -39,7 +39,7 @@ This weapon comes with two passive abilities:
 
 -   **Gale Affinity** - Your critical attack now applies Suffocate. If the user has Haunted Path: Specter, critical attacks will fill up the Specter gauge and summon Apparitions.
 
-  
+When using the weapon one-handed it becomes two swords, changing its swing speed, criticals and animations.
 
 ## Critical
 
@@ -58,11 +58,10 @@ The user shoots a blast of air and on collision or after a short amount of time 
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   Additionally, the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is fashioned after one.
 -   Since it's a Legendary Weapon, you **cannot** find an enchanted Curved Blade, any enchanted Curved Blades will be unenchanted on join or voided if not equipped.
--   When using the weapon one-handed it becomes 2 swords, changing it's animations.
 -   The original updated Curved Blade of Winds contained 120k vertices. Following the 3/27/2023 update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds has a swing speed of 0.78x when one-handed and 0.8x when two-handed.(this is false swing speed contrary to popular belief does not change depending on stance)
 -   This is by far the most nerfed weapon in the game, followed by the Railblade and the Shattered Katana.
     -   However, this does not mean the weapon is bad, but simply the most changed.
 -   It is one of five weapons to have multiple critical attacks, the others being [Railblade](Railblade.md), Shattered Katana, [Imperial Staff](Imperial_Staff.md) and [Light's Final Toll](<Light's_Final_Toll.md>).
--   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI" and the other runes near the tip are a mix of different ancient runic dialects, that still don't translate to anything.
+-   Curved has runes on its blade, barely noticeable. The runes near the grip translate to "FUEOSOFEI", which has a meaning, but is currently unknown, and the other runes near the tip are a mix of different ancient runic dialects that don't translate to anything.
 -   Using The Curved Blade of Winds completely disables your shield's Posture buff. However, if you have the Turtle Shell Talent and are two handing the weapon, you can still negate Spine Cutter, as the shield appears on your back.
