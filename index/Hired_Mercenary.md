@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 85731
+revid: 93587
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Armors, Items, Outfits]
@@ -31,8 +31,10 @@ This Outfit's Schematic can be found in:
 -   [The Depths](The_Depths.md)  
     
 -   [Fishing](Fishing.md)
+-   [Primadon](Primadon,_Titan_of_the_East.md)
 
 ## Trivia/Notes
 
 -   Oddly enough, given the name, you can see Karliah wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
 -   Used to be called "DawnBringer" long ago, some people might still have the schematic with such name.
+-   You can obtain this from Primadon, although it is extremely rare.
