@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 92876
+revid: 93604
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -15,9 +15,9 @@ File:Attunementicon.png
 **IMPORTANT NOTE:** _For those learning about Shrine of Order,_ _Attunements do not average-out in the same way that other attributes do in Shrine of Order. They have no "bottom-limit"- where, for example, a 65 investment in Agility when influenced by Shrine of Order will become a 40 investment instead. They function in a way that, for lack of better wording, is reminiscent to the "old" Shrine of Order._
 
   
-**YOU CANNOT OBTAIN AN ATTUNEMENT WITH 0 SPARE POINTS**
+**YOU CANNOT OBTAIN AN ATTUNEMENT WITH 5 SPARE POINTS**
 
-## Overview
+## Knowledge
 
 There are currently four base Attunements that anyone may select when first creating a character, with two more being unlockable throughout the world.(Note that Ironsing and Shadowcast, the 2 attunements you have to attain, will remain permanently unlocked for all of your slots). Within the character creation menu, you may choose up to two attunements to start off with- or [none](Attunement-less.md), preferences considered.
 
@@ -53,7 +53,7 @@ Attunement Mantras can be upgraded at their respective [Spelltrainers](Attunemen
 
 ## Base Attunements
 
-Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation then wiping and doing it again. Template:TestingTemplate:TestingTemplate:TestingTemplate:TestingTemplate:Testing
+Attunements unlocked on spawn. These attunements can all be unlocked as starting attunements for future characters by choosing the "Random" option in the character creation. Template:TestingTemplate:TestingTemplate:TestingTemplate:Testing
 
 ## Obtainable Attunements
 

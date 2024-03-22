@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 93467
+revid: 93592
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -151,8 +151,8 @@ Rising Shadow
 
 with an enemy, they will be lifted into the air and smashed into the ground, dealing damage and stealing ether. This attack can summon multiple tendrils to grab multiple people simultaneously.  
 
--   Drift and Rush Shards increase projectile speed.  
-    
+-   Drift and Rush Shards increase projectile speed.
+-   Adding 1 Blast Spark will make your Rising Shadow apply a status effect that massively increases mantra ether cost and returns a portion of ether consumed to the user if enemies manage to cast a mantra.
 
  |
 | 

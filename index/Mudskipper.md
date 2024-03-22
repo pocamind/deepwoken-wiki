@@ -1,9 +1,9 @@
 ---
 title: Mudskipper
-revid: 92572
+revid: 93590
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Monsters, World]
 ---
 
 # Mudskipper
@@ -228,7 +228,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Meteorskippers are Mudskippers similar to Mudskipper Knights. They are found at [Meteor Isle](Meteor_Isle.md), spawning with several different types of weapons and around each other in a group. They wield weapons and wear the [Darksteel Plate](Darksteel_Plate.md) outfit, along with [Woodland Boots](Equipment.md) and [Woodland Pauldrons](Equipment.md). They seem to be a lot more intelligent then the average Mudskipper as they are able to detect enemies a lot quickly if someone is behind them.
+Meteorskippers are Mudskippers similar to Mudskipper Knights. They are found in meteors around [Meteor Isle](Meteor_Isle.md), spawning with several different types of weapons and around each other in a group. They wield weapons and wear the [Darksteel Plate](Darksteel_Plate.md) outfit, along with [Woodland Boots](Equipment.md) and [Woodland Pauldrons](Equipment.md). They seem to be a lot more intelligent then the average Mudskipper as they are able to detect enemies a lot quickly if someone is behind them. After killing all of a group, the meteor will turn into a chest.
 
 ## Moveset
 

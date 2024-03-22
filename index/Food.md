@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 91008
+revid: 93599
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Food, Mechanics]
@@ -178,6 +178,7 @@ Witherald lifting The Meat Lord
 -   Pomar is the only fruit that will damage you.
     -   Pomar may represent a pineapple. Pineapples contain bromelain, which breaks down proteins (what most of your body is made out of) which is why they damage you.
     -   Alternatively, may also represent a mango. Mango skin contains urushiol oil, which causes a reaction to the body near identical of that to poison ivy which may be why they damage you.
+-   Mantra damage buff foods and Weapon damage buff foods provide around a 5% increase in damage.[\[1\]](#cite-note-1)
 
 ### Food-based Trivia
 
@@ -192,3 +193,5 @@ Witherald lifting The Meat Lord
 ## Bugs
 
 -   Rejoining after eating a food that grants you a buff will make the Reinforced Hunger bar's color default to Purple. (Purely visual, the effects can still be seen by hovering over it)
+
+1.  [↑](#cite-ref-1) [https://youtu.be/Zdj637SL9TI](https://youtu.be/Zdj637SL9TI)
