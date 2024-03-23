@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 93594
+revid: 93648
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -227,4 +227,7 @@ Based on the power of the user(s), the starting wave will differ;
 -   As the mechanism is in [The Depths](First_Layer.md), dying in the Diluvian Mechanism will cause you to wipe. However, you can stop the mechanism during a round by going to the mechanism, speaking to it and pulling the brake lever, which kills all the mobs in the arena.
 -   Murmur Tacet used to work in the Diluvian Mechanism, but it was quickly made unusable after someone completed it solo using it.
 -   The Diluvian Mechanism is the most time-efficient way to get legendary weapons and enchants such as Curved Blade of Winds and Crypt Blade due to the volume of chests and how quickly they spawn. [Hell Mode](Hell_Mode.md) is an option and counts towards [Echoes](Echoes.md), but is less efficient in general.
--   The bandit at wave 49 serves as a health pack for players who are low
+
+-   The bandit at wave 49 serves as a health pack for players who are low.
+
+-   As Deepbound, you can choose to start at the Diluvian Mechanism.

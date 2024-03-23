@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 93539
+revid: 93669
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -27,7 +27,7 @@ Meet the following requirements and talk to a barber about Hair Cutting:
 
 -   Power 12
 
--   Change your hair 10 times at Barber _(the hairs do not have to be unique, restoring to your natural hair 10 times will work also)._
+-   Change your hair 10 times at any [Barber](Barber.md) _(the hairs do not have to be unique, restoring to your natural hair 10 times will work also)._
     -   If you have changed your hair enough times before being power 12, you do not need to repeat the step.
 -   Talk to the barber and pick the option "How is it you're able to do all this stuff?" continue the dialogue, asking to take the Oath.
 
@@ -39,31 +39,36 @@ This oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the us
 
 ## Upgrading
 
-This oath is fully upgraded once you get it.
+This oath is fully upgraded once it is obtained.
 
 ## Abilities
 
 -   **Precision Cuts ★★★ - Combat Mantra**
     
-    -   Snip forward 3 times with your scissors!
+    -   _Snip forward 3 times with your scissors!_
+    -     
+        
+
 -   **Close Shave** **★★★ - Combat Mantra**
-    -   Close the distance and deliver a fast slash.
-    -   Tip! You can use this mantra for movement, and as a budget radiant kick.
+    -   _Close the distance and deliver a fast slash._
+    -   Aims in the direction of the cursor.
+    -   Can be used for movement.
+    
 -   **Fadetrimmer's Skillset - Passive**
-    -   What type of look are we going for today?
-        -   Changes what haircut Precision Cuts (Close Shave also works, but is less reliable for some reason) will give people.
-        -   You can also change your hair with this.
-        -   **DO NOT USE HAIR IDS THAT CAN BE SEEN AS OFFENSIVE. This is bannable. You are the one responsible for what hairs you give.**
+    -   _What type of look are we going for today?_
+    -   Changes what haircut Precision Cuts (Close Shave also works, but is less reliable for some reason) will give people.
+    -   You can also change your own hair.
+    -   **DO NOT USE HAIR IDS THAT CAN BE SEEN AS OFFENSIVE. This is bannable. You are the one responsible for what hairs you give.**
 -   **Hair Products - Passive**
-    -   What's in these things?
-        -   Shows a popup menu that allows you to select either Flammable, Charming, or Revitalizing.
-            -   Flammable ignites the opponent
-            -   Charming Charms the opponent
-            -   Revitalizing heals a flat 10% HP of the target
+    -   _What's in these things?_
+    -   Shows a popup menu that allows you to select either Flammable, Charming, or Revitalizing.
+        -   Flammable ignites the opponent
+        -   Charming Charms the opponent
+        -   Revitalizing heals a flat 10% HP of the target
 
 -   **Hair Spray - Passive**
-    -   ?
-        -   Applies the spray that was selected in the Hair Products' popup menu.
+    -   _Apply your Hair Products._
+    -   Applies the spray that was selected in the Hair Products' popup menu.
 
 ## Trivia
 
@@ -73,9 +78,9 @@ This oath is fully upgraded once you get it.
 -   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server.
     -   It also bears similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to Prominence Draw, as they both lunge and deliver a fast slash, and Precision Cuts is very similar to Exhaustion Strike, but with more hits.
 -   The description of this Oath is a reference to the "Ginger Fringe Incident" meme.
--   Charming Hair Product is virtually useless due to the existence of Charismatic Cast.
+-   Charming Hair Product is virtually useless due to the existence of [Charismatic Cast](Talents.md).
     -   Likewise, Flammable Hair Product is a fairly slow option to apply fire that does no damage by itself- using [Flamecharm](Flamecharm.md) mantras applies fire while dealing actual damage at the same time. Flammable can proc Lava Serpent, if that's any bonus...
 -   Due to Revitalizing, Fadetrimmer is a solid Oath choice for a support-based build. However, [Linkstrider](Oath%253A_Linkstrider.md) is still arguably the best support Oath.
--   The color of the scissors on your hips can be changed with a dye packet
+-   The color of the scissors on your hips can be changed with a dye packet.
 -   Breaking this Oath by talking to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) makes your scissors say: "Whatever, man."
--   Although seen as a joke Oath, it has a few uses in PVE (Ex: Using Flammable Spray as a placeholder for Flamecharm's burn effects and the Mercy Kill talent)
+-   Although seen as a joke Oath, it has a few uses in PVE (Ex: Using Flammable Spray as a placeholder for [Flamecharm](Flamecharm.md)'s burn effects and the Mercy Kill talent)

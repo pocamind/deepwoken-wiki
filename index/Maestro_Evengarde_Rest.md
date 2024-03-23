@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 93530
+revid: 93651
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -112,6 +112,30 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
     -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
 -   If you don't have providence thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using ardour can help to guard break him if you dont have providence thorns or any type of chip damage
+
+## Lootpool
+
+-   [Purple Cloud](Purple_Cloud.md) (Guaranteed on the first kill with Medium)
+-   [Pale Briar](Pale_Briar.md) (Guaranteed on first kill with Heavy)
+-   [Cerulean Thread](Cerulean_Thread.md) (Guaranteed on first kill with Light)
+-   [Enchant Stone](Enchant_Stone.md)
+-   [Crypt Blade](Crypt_Blade.md)
+-   [Imperial Staff](Imperial_Staff.md)
+-   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Windrunner Robes](Windrunner_Robes.md) (Schematic)
+-   [Justicar's Armor](<Justicar's_Armor.md>) (Schematic)
+-   Maestro's Ring
+-   Rosen's Ring
+-   Prophet's Ring
+-   Dawnfist Ring
+-   Akiras Ring
+-   Moon Ring
+-   Finisher's Ring
+-   Bloodiron Ring
+-   All Relics
+-   Ardour Manifistation
+
+Do note that while his Lootpool may seem gargantuan, he will mainly drop **Enchant Stones**, however farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove much faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md)
 
 ## Trivia
 

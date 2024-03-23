@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 92813
+revid: 93680
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -135,6 +135,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 
 ## Death Quotes
 
+-   -   ahem\*
 -   Yikes?
 -   This is normal for you? Cool.
 -   Ok, back to the dog race.

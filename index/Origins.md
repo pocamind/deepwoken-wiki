@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 93379
+revid: 93655
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics, Creation]
@@ -54,7 +54,7 @@ With simply doing Trial of One, you end up at Power 6 with 5 points remaining. W
 
 **Deepbound** grants players a way to progress primarily in [The Depths](The_Depths.md), with many added benefits to make it much easier. However, while they are not forced to stay in The Depths to progress, the _Deepbound Contract_ innate Talent, which is provided alongside this Origin, will attempt to stop players from leaving The Depths too early.
 
--   Your starting location is in [Castle Light](Castle_Light.md), located in [The Depths](The_Depths.md).
+-   You can choose to either spawn at [Castle Light](Castle_Light.md) or the [Diluvian Mechanism](The_Diluvian_Mechanism.md), both located in [The Depths](The_Depths.md).
 -   Your starting reputations are:
     -   Friend of The Divers and Lost Celtor
     -   Enemy of The Knives of Eylis, The Ministry and The Hundred Legions

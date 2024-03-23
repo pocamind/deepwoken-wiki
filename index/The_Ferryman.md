@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 93486
+revid: 93676
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses]
@@ -159,6 +159,7 @@ Note that [Chain of Perfection](Talents.md)'s obtainment condition will not be l
 -   It is a good idea to turn on your in-game music in this fight as his theme changes with his phase.
 -   [Tacet](Murmur.md#murmur-tacet) can trivialise the fight. By going behind a rock and using Tacet, then resting at a campfire, you can heal without any risk of him attacking you. His AI will lose track of you and he will teleport around the arena without using any of his attacks.
 -   It is _highly_ recommended to have the Spine Cutter [Talent](Talents.md) for this fight, as you can get lots of extra hits in the fight.
+-   The Thundercall talent Static Fakeout pairs well with his persistent teleportation.
     
 
 **Phase One:**

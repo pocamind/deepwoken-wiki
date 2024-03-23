@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 92445
+revid: 93684
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -81,4 +81,6 @@ As stated at the beginning of this page, Knowledge can be used to bargain with p
     -   [Shrine of Order](Deep_Shrines.md#shrine-of-order) and [Shrine of Division](Deep_Shrines.md#shrine-of-division) will cost 9 Knowledge
     -   [Shrine of Conceit](Deep_Shrines.md#shrine-of-conceit) will still cost 1 Knowledge.
     -   _This is similar to the Khan racial bonus, which allows you to use tools when you have 3 points less than the required amount._
--   An icon identical to knowledge was in the game during the early beta. Its purpose was unknown.
+-   An icon identical to Knowledge was in the game during the early beta. Its purpose was unknown.
+-   Knowledge is not simply just knowing about things; it is specifically "forbidden knowledge" as described by Klaris, which explains why it is valuable enough to be traded with other beings.
+    -   As such, the Moonseye Tome likely floods the user's mind with aforementioned forbidden knowledge. As the cacophony and madness of the voices decreases, so too does the Knowledge granted by the tome.

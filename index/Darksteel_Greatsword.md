@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 91202
+revid: 93686
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords]
@@ -44,7 +44,7 @@ categories: [Weapons, Greatswords]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Pluripotent Alloy use, PVP Arena chests |
+| obtainment | Pluripotent Alloy use, PVP Arena chests*Pure Astruline turn-in |
 | description | Wrought from durable darksteel, these blades were popularised by the Ignition Union as tools against the Deep. |
 
 **Base:**

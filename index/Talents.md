@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93641
+revid: 93679
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -417,7 +417,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   _**Ghost**_ \[Advanced Talent\] - Dodging a move will briefly make you invisible or until you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility (2 seconds).
-    -   Has a 8 second cooldown.
+    -   Has a 20 second cooldown.
     -   You cannot parry attacks during the invisibility, which could trip up your muscle memory.
     -   Prerequisites: 40 Agility, All Butterfly Talents
 
@@ -593,7 +593,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Dark Rift_ \[Rare Talent, Shadowcast Exclusive\] Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. (+4 Elemental Intensity)
     -   Prerequisites: 60 Shadowcast, Dark Hours
     -   You hover with shadowy particles while the rifted state is active.
-    -   This ability last for 2 seconds and goes on a 8 second cooldown when it activates.
+    -   This ability last for 2 seconds and goes on a 20 second cooldown when it activates.
 
 -   Dark Synergy \[Shadowcast Exclusive\] Engulf your enemy in shadows when flourishing them. (+1 Elemental Intensity)
     -   Prerequisites: 45 Shadowcast, Dark God
@@ -2603,7 +2603,7 @@ Certain talents are given when a specific outfit is worn. Most of these talents 
 -   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md) - You can parry unparryable attacks from giant monsters, at the cost of 1% armor durability.
 -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
 
--   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased.
+-   Hunter's Reflexes: [Cutthroat Light Armor](Cutthroat_Light_Armor.md) - Your dodge window is slightly increased (0.05s).
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off slower on you.
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 -   Legendary: [Grandmaster Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Your weapon gives you ether back.

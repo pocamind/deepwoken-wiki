@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 93034
+revid: 93675
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -11,7 +11,7 @@ categories: [Pages with broken file links, Oaths]
 | Oath: Silentheart | |
 |---|---|
 | oath_req | Attunement-less, 75 Weapon Mastery, 40 Strength, 40 Charisma OR Agility, Gripped by an Attunement user |
-| effects | +5 Posture, +10 Health, +10% Mantra Resistance |
+| effects | +2 Posture, +10 Health, +10% Mantra Resistance |
 
 “ Your old heart is no more, hateful one. We have exchanged it for one aligned with our ideals, deafened to the chaos of the Song. You are Silent now, hateful one. ”
 
@@ -95,8 +95,8 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   Due to being locked out of Mantras, you will be unable to pass [Aelita](Aelita.md)'s game, as it requires the player to cast a Mantra. If you find yourself playing it, keep logging and joining back until you happen to not be playing it.
--   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for Nostor and Amashi(Ex. Killing Friid in the Isle of Vigils will grant you bad rep with Etrea.)
--   Due to this, you should keep some notes handy to pay off your rep so voidwalkers and faction ambushes won't come after you.
+-   Killing the six attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md) and [Amashi](Amashi,_Master_of_Flame.md)(Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
+-   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Origins.md) and faction ambushes won't come after you.
 
 ## Trivia
 
@@ -108,7 +108,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
 -   Mani Katti is a reference to the sword and critical attack used by Lyn of the same name in the Fire Emblem Series. (Mani Katti = Many Cuts)
--   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the soulblooms quest, but the mantra upgrading page will be blank (assuming you roll 2d all your mantras)
+-   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Attunement_Trainers.md) and complete the Soulblooms quest, but the [mantra](Mantras.md) upgrading page will be blank (assuming you roll 2d all your mantras)
 
 File:Pinkheart.png
 
