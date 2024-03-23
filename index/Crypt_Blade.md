@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 91964
+revid: 93640
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 | Crypt Blade | |
 |---|---|
 | type | Greatsword |
-| requirements | 75 SDW, 40 HVY, Power 10 |
+| requirements | 40 HVY; 75 SDW; LVL 10 |
 | damage | 22 |
 | scaling | SDW: 9, HVY: 4 |
 | range | 9 |
@@ -29,7 +29,7 @@ categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons
 
 ## Description
 
-The **Crypt Blade** is a dark gray [Greatsword](Weapons.md) with symbols on it, and an animated darkness effect that wraps around the sword. It is a legendary weapon. It can be obtained from the first layer of [The Depths](The_Depths.md). It used to be unobtainable, however, the update that brought PvP arenas also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI). It scales off of your [Shadowcast](Shadowcast.md) stat alongside your HVY Weapon stat, making it scale off of two values as if you had a built-in stat-scaling ring on your weapon.
+The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a dark gray blade adorned with symbols, and wreathed in shadow. It can be obtained from the [First Layer](First_Layer.md) of [The Depths](The_Depths.md). It scales off [Shadowcast](Shadowcast.md) alongside Heavy.
 
 The Crypt Blade comes with 2 passive abilities:
 
@@ -38,23 +38,19 @@ The Crypt Blade comes with 2 passive abilities:
 -   **Shadow Affinity** - Non-mantra specific shadow talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md).)
 -   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to blazing enchant.
 
-## Critical Attack
+## Critical
 
-The user goes in a pride stance with their sword facing down, and releases an AOE circle surrounding the player inflicting shadow and chaining everyone within it.
+The user plunges the blade into the ground and releases an AoE circle surrounding them, inflicting Shadow and chaining everyone within it.
 
--   If hit when chained, the chain will break and the opponent will receive 3 consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow.
-    -   Blocking, and Parrying will not cancel out this effect.
+-   If hit when chained, the chain will break and the opponent will receive three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow.
+    -   Blocking and parrying will not cancel out this effect.
 -   If the opponent goes beyond the length of the chain, they will be dragged back to the chains original position.
-
-## Enchant Gallery
-
-Note: This is just a funny visual bug, Crypt Blade cannot be enchanted
 
 ## Trivia
 
 -   The original model for the Crypt Blade was a [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade.
     -   The old description of the Crypt Blade was ("Wrought from durable darksteel, these blades where popularised by the Ignition Union as a tools against the Deep."), which happens to be the exact description of the Darksteel Greatsword.
--   Since it's a legendary weapon, you **cannot** find an enchanted Crypt Blade.
+-   It used to be unobtainable, however, the update that introduced [Chime of Conflict](Chime_of_Conflict.md) also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI).
 -   The original updated Crypt Blade contained 30k vertices. Following the 3/27/2023 update, this was reduced to a mere 2.5k vertices.
 -   The original Crypt Blade was able to proc Singularity and Fear on hit, essentially stunning the enemy in place on each hit, thankfully, this has since been removed.
 -   The YouTuber Nanoprodigy was the first to showcase the Crypt Blade in his video, where the title referenced it as the "[Shadow Greatsword](https://www.youtube.com/watch?v=x4Euw0kCQVs)"

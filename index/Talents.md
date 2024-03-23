@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93586
+revid: 93641
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1551,8 +1551,8 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 
--   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility, 20 Intelligence
+-   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - You can now feint your M1 by parrying. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility, 30 Intelligence
 
 ### Omniscient
 

@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 90983
+revid: 93637
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -16,7 +16,6 @@ categories: [Weapons, Swords]
 | scaling | 7 |
 | range | 7.5 |
 | swing speed | 0.8x |
-| penetration | N/A |
 | stances | 2 Handed, 1 Handed |
 | weight | 4 |
 | bankable | Yes |

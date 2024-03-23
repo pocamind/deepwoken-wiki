@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 93557
+revid: 93642
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 | Curved Blade of Winds | |
 |---|---|
 | type | Sword |
-| requirements | 25 MED, 75 WND, LVL 10 |
+| requirements | 25 MED; 75 WND; LVL 10 |
 | damage | 17.5 |
 | scaling | MED: 5, WND: 5 |
 | range | 8 |
@@ -30,7 +30,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
 
 ## **Description**
 
-The Curved Blade of Winds is the Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md), it is an extremely rare drop from the chests in [The Depths](The_Depths.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). It scales with Medium Weapon, and [Galebreathe](Galebreathe.md).
+The Curved Blade of Winds is a Legendary [Galebreathe](Galebreathe.md) [Weapon](Weapons.md) that takes the form of a sword. It is a rare drop from the chests in [The Depths](The_Depths.md), from the [Scion of Ethiron](Scion_of_Ethiron.md), [Duke Erisia](Duke_Ishamon_Erisia.md), and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). It scales with Medium Weapon and [Galebreathe](Galebreathe.md).
 
 This weapon comes with two passive abilities:
 

@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 93581
+revid: 93643
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
@@ -11,9 +11,9 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
 | Imperial Staff | |
 |---|---|
 | type | Spear |
-| requirements | 40 STR, 50 MED |
+| requirements | 40 STR; 50 MED |
 | damage | 19 |
-| scaling | 5 MED 3 STR |
+| scaling | MED: 5, STR: 3 |
 | range | 8 |
 | swing speed | 0.75x |
 | penetration | 10% |
@@ -30,11 +30,11 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
 
 ## Description
 
-The Imperial Staff is a legendary spear. Uniquely, it scales with and requires [Strength](Attributes.md) in addition to Medium Weapons.
+The Imperial Staff is a Legendary [Medium Weapon](Weapons.md) that scales with and requires [Strength](Attributes.md) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
 
-### Critical
+## Critical
 
-The Imperial Staff possess three different criticals, being a highly versatile weapon as a result. All criticals will grant the user a heavenly crown on their head.
+The Imperial Staff possess three different criticals, all of which grant the user a heavenly crown on their head.
 
 -   The regular critical is a ranged one, throwing the staff at the cursor, this'll ragdoll the opponent.
 -   The aerial critical is a slam, the staff growing in size and slamming down on the floor block-breaking the opponent. Somewhat similar to a progressed critical of [Light's Final Toll](<Light's_Final_Toll.md>).

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 92852
+revid: 93644
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -210,7 +210,7 @@ Shrine Of Solitude
 ― Shrine Of Solitude
 
   
-Located in [Trial of One](Trial_of_One.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md) on the opposite wall of the entrance.
+Located in [Trial of One](Trial_of_One.md), [Temple of Hearts](Temple_of_Hearts.md) and [The Diluvian Mechanism](The_Diluvian_Mechanism.md) on the opposite wall of the entrance.
 
 ## Effects
 
