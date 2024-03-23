@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93679
+revid: 93719
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -412,6 +412,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 -   _Risky Moves_ \[Rare Talent, Agility\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
     -   User is covered in a blue highlight when the effect is active.
     -   Effect may inconsistently fail to manifest despite the visual effect. Attacking will cancel the effect early.
+    -   20s Cooldown
     -   Prerequisite: 25 Agility
     -   Mutual Exclusive: _Leaf in the Wind_ Talents (Observation, Safety Dance)
 
@@ -1362,7 +1363,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   Deepbound's Sanity gain from killing mobs in the Depths is reduced.
     -   Prerequisite: 30 Strength, 30 Fortitude
 
--   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +20% PEN on your attacks.
+-   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
     -   Prerequisite: 80 Willpower
 
@@ -1755,8 +1756,9 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 
 > _**"I search for the Song."**_
 
--   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut reduces its cost.
-    -   Reduces the cost of the mantra by 20%.
+-   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
+    -   2s Cooldown
+    -   Grants +20 ether on proc.
 
 ### Self-Shocker
 
@@ -2070,6 +2072,7 @@ These Talents are designed to let you survive longer against starvation and thir
     -   Prerequisite: Agitating Spark, 75 Flamecharm
 
 -   _Mirage Clone_ \[Rare Talent, Flamecharm Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire. (+4 Elemental Intensity)
+    -   Has a 20s Cooldown
     -   Prerequisite: 65 Flamecharm
 
 ### The Negotiator

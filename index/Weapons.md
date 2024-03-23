@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 93682
+revid: 93705
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1852,7 +1852,7 @@ Elemental Weapons are weapons that, so far, include either Medium or Heavy Weapo
   <td>75 SDW, LVL 11</td>
   <td>20</td>
   <td>10%</td>
-  <td>SHD: 5.5</td>
+  <td>SDW: 5.5</td>
   <td>5</td>
   <td></td>
   <td>0.75x</td>
@@ -2085,7 +2085,7 @@ Weapons that are exclusive for special people.
   <td>22</td>
   <td>N/A</td>
   <td>???</td>
-  <td>9 SHDW, 4 HVY</td>
+  <td>9 SDW, 4 HVY</td>
   <td>9</td>
   <td>9</td>
   <td>0.64x</td>

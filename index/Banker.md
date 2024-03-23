@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 93130
+revid: 93700
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -63,6 +63,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 -   Poser's Ring
 -   Manor's Key
 -   Starter weapons (Quickfang, Irontusk, Silversix, Avenger)
+-   Orlandeau's Pity Emerald
 
 ### Account
 

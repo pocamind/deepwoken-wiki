@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 93206
+revid: 93720
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,7 +36,7 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 | --- | --- | --- | --- | --- | --- |
 | **Rapid Spin** | The golem starts spinning its arms, rapidly dealing low damage. Hits 20 times in total. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Laser** | The golem charges a laser from its core before firing it, creating a small AOE at the point of impact and dealing medium damage. | ✗ | ✗ | ◯ | (★☆☆) |
-| **Stomp** | The golem raises its leg before giving a powerful earthshaking stomp. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Stomp** | The golem raises its leg before giving a powerful earthshaking stomp. Auto-grips if low enough | ◯ | ◯ | ◯ | (★☆☆) |
 | **Ground Slam** | The golem brings both of its arms over its head, before quickly slamming them down into a vicious swing. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Uppercut** | The golem winds up its arm before quickly swinging it outwards. | ✗ | ✗ | ◯ | (★★☆) |
 | **Scream** | The golem screams, making the ceiling above it drop rubble, dealing high damage if landing on player. Does not use this attack if there is no ceiling above it. | ✗ | ✗ | ◯ | (★★★) |

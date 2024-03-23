@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 93560
+revid: 93699
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -23,7 +23,7 @@ Enchantments have a set chances to be applied to a weapon during the following s
 
 ## Mechanics
 
-Enchanted weapons/equipment have special mechanics compared to their regular counterparts.
+Enchanted weapons/equipment have special mechanics compared to their regular counterparts. Lmao bozo
 
 Enchanted items cannot be dropped on death.
 

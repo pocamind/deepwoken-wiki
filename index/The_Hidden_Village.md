@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 92705
+revid: 93714
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean Luminant, Locations, World]

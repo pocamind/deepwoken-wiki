@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 93693
+revid: 93698
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -592,14 +592,14 @@ _"A place remembered only by the waves"_
 
 ### Constellia
 
-**Lore Sources:** Kaide, Greathive Aratel's observatory
+**Lore Sources:** Kaide, Greathive Aratel's observatory, Kyrsieger description
 
 Glittering towers of ivory that hang over Lumen's seas.
 
 -   The home of Celestials and Lightborns.
 -   After the tides, the city was forced to evacuate.
 -   Its forebearers, soldiers fighting against the Depths, lost their morale after the Celestials fled.
--   The Kyrsans, under Ethiron's will, raided the city, which could explain why there are fallen shards surrounding the towers within the maw of Ethiron.
+-   The Kyrsans, under Ethiron's will, raided the city with the help of the [Kyrsieger](Kyrsieger.md), which could explain why there are fallen shards surrounding the towers within the maw of Ethiron.
 
 ### **The Depths**
 

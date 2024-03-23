@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 93691
+revid: 93716
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -96,6 +96,7 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 -   Showstopper - When rolling through one of his physical attacks, Rest will stomp the ground and daze you. Removes your speed buffs.
 -   Bulldozer - Getting flourished into a wall by Rest has a chance to guardbreak you.
 -   Concussion - Getting flourished into a wall by Rest causes your screen to blind and your daze to lengthen.
+-   Spine Cutter - Getting hit from your back after Maestro does a roll cancel causes you to get a second slash.
 
 ## Strategy
 
@@ -111,7 +112,9 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
     -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
--   If you don't have providence thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using ardour can help to guard break him if you dont have providence thorns or any type of chip damage
+-   If you don't have providence thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using ardour can help to guard break him if you don’t have providence thorns or any type of chip damage.
+-   Deep Gems such as Bloodless Gem will extremely be useful as a source of healing against Maestro.
+-   Enchant such as Vampirism can be very useful as each M1 will heal your hp if you are low on hp.
 
 ## Lootpool
 

@@ -1,6 +1,6 @@
 ---
 title: Ethirifle
-revid: 82459
+revid: 93706
 source: https://deepwoken.fandom.com/wiki/Ethirifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Rifles]
@@ -27,3 +27,4 @@ The Ethirifle was a Rifle, intended to be added in Verse 2. It was scrapped in f
 
 -   It's appearance indicates it was likely a Kyrs series weapon, and thus likely would have been obtain from the [Second Layer](Second_Layer.md).
 -   It's appearance is reminiscent of the [Stormseye](Stormseye.md), which it was scrapped in favour of.
+    -   Despite being scrapped, it seems to have been brought back in the form of the [Kyrsieger](Kyrsieger.md), albeit a different weapon type.
