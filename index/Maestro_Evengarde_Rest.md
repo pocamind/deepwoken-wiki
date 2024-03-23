@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 93651
+revid: 93691
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -133,7 +133,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Finisher's Ring
 -   Bloodiron Ring
 -   All Relics
--   Ardour Manifistation
+-   Ardour Manifestation
 
 Do note that while his Lootpool may seem gargantuan, he will mainly drop **Enchant Stones**, however farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove much faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md)
 

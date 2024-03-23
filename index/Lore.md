@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 93188
+revid: 93693
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -947,7 +947,26 @@ An Authority Captain
     -   It is likely that Karliah obtained the Citadel Trials in Markor Citadel, located in the Central Luminant.
     -   It's possible that as a Deepbound you are in the 1st layer to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle light, in the 1st layer.
 -   The Divers can travel between the boundaries of the Luminant and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[2\]](#cite-note-arch-2)
--   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris and Akira.
+-   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris, and Akira. Black Divers named in [A Deathscribe's Journal](Books.md#a-deathscribes-journal) are:
+    -   Desdemona Dusselden (Deceased)
+    -   Aspen Hira (Deceased)
+    -   Black Diver Selim (Deceased)
+    -   Ripley Raanad (Deceased. Was a vegetarian.)
+    -   Ishmael Nephidra (MIA)
+    -   Crow Akarad (Deceased)
+    -   Abigail Atedra (Deceased)
+    -   Sigurd Sekhigi (Deceased)
+    -   Tamerlane Trige (Deceased)
+    -   Faye Aethuda (Deceased)
+    -   Tristam Trigi (Deceased
+    -   Gabbro Scarsen (Deceased)
+    -   James Konoli (Deceased)
+    -   Sylvester Staelen (Deceased)
+    -   Uriel Ixatoke (Deceased)
+    -   Jane Ishel (Deceased)
+    -   **Sophodon Surad** (Retired after 43 years as a Black Diver. Turned down a promotion to the High Convocation of the Citadel of Markor.)
+    -   Galahad Galvigi (Deceased)
+    -   Kayla Rico (Deceased)
 -   Black Divers are allowed more freedom than their lower-ranked peers. This can be both a blessing and a curse for the organization, as Divers like Carrion can act without restriction, but it also leads to them prioritizing their own goals over those of the Divers.
 
 ## Groups

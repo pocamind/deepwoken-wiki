@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 93683
+revid: 93687
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -28,13 +28,13 @@ It can also be used to obtain [Ironsing](Ironsing.md).
 
 -   Killing a boss for the first time (per character), if you contribute enough damage.
 
-### Bosses that drop Pluripotent Alloys
+### Bosses that drop Pluripotent Alloy
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md)
 -   [Primadon](Primadon,_Titan_of_the_East.md)
 -   [The Ferryman](The_Ferryman.md)
 -   [Dread Serpent](Dread_Serpent.md)
--   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) (Rarely)
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
 
 ## How to Use

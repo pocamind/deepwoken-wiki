@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 93286
+revid: 93690
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -24,13 +24,25 @@ Mute (also known as “Animal King”) has the ability to make most monsters not
 
 Wiping below power 8 (?) is known to keep the Mute Regalia if the wiped character had it. It is unknown if this is exclusive to Mute or happens with all Regalia.[\[2\]](#cite-note-2)
 
-~Mute is disabled when you ring the [Hell Bell](Hell_Mode.md)~ **(Mute does work when you ring the [Hell Bell](Hell_Mode.md) -tested-)** or if you're in a Dungeon (I.E. [The Eternal Gale](Second_Layer.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>)).
+#### Exceptions
 
-The only monsters that are not affected are [Desert Knights](Stone_Knight.md#desert-knight), [Blizzard Knights](Stone_Knight.md), [Rock Golems](Rock_Golem.md), [Prime Golems](Rock_Golem.md#golem-prime), [Rogue Constructs](Hive_Construct.md#rogue-construct), [Enforcers](Enforcer.md), [Angels](Hollow_Angel.md), and Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt).
+-   Mute does **not** work against some monsters.
+    -   [Desert Knights](Stone_Knight.md#desert-knight)
+    -   [Blizzard Knights](Stone_Knight.md)
+    -   [Rock Golems](Rock_Golem.md)
+    -   [Prime Golems](Rock_Golem.md#golem-prime)
+    -   [Rogue Constructs](Hive_Construct.md#rogue-construct)
+    -   [Enforcers](Enforcer.md)
+    -   Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt)
 
--   [Immortal Guardians](Immortal_Guardian.md), Lesser Angels (If not summoned by a Watcher) and [Ministry Necromancers](Ministry_Necromancer.md) are affected by Mute.
--   [Immortal Guardians](Immortal_Guardian.md) won't execute you, instead they will call you "PRIMATIVE." and head back to their spot.
--   [King Threshers](https://deepwoken.fandom.com/wiki/Thresher?so=search#King_Thresher) and [Deep Owls](https://deepwoken.fandom.com/wiki/Deep_Owl?so=search) do NOT unaggro upon hitting then.
+-   Mute does work against some humanoids.
+    -   [Ministry Necromancers](Ministry_Necromancer.md)
+    -   [Lesser Angel](Hollow_Angel.md#lesser-angel) (if not summoned by a Watcher)
+    -   [Immortal Guardians](Immortal_Guardian.md) (will not execute the player, but instead calls the player "PRIMATIVE." and returns to their spot)
+
+-   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
+    -   [King Threshers](Thresher.md#king-thresher)
+    -   [Deep Owl](Deep_Owl.md)
 
 ### Prodigy
 

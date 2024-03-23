@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 93237
+revid: 93692
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -1540,6 +1540,7 @@ Lightning Clones
 
 ## Trivia/Notes
 
+-   Theres a NPC called Den Master that sells mantra modifier including cloundstone, Amnesic Driftwood, Drift Shard, Crystal Lens 10 notes each he's located on etrea near Docks on sea level.
 -   Mantras that aren't written/listed are incompatible.
 -   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
 -   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.

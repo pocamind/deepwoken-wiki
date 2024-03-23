@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 93190
+revid: 93688
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -31,7 +31,7 @@ The Legion has several war heroes that are depicted by either their ornaments or
 -   Enemies with [The Authority](The_Central_Authority.md)
 -   Enemies with [The Kingdom of Etrea](Etrea.md)
 
-By default, every single origin starts with an enemy reputation with The Hundred Legions. Being a Khan increases your reputation with them to neutral-bad.
+By default, every single origin starts with an enemy reputation with The Hundred Legions. Being a Khan increases your reputation with them to neutral.
 
 There is no reputation reset NPC for The Hundred Legions.
 
