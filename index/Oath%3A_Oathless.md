@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 93798
+revid: 93815
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -55,4 +55,3 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 -   Doesn't give the Oathsworn [badge](Badges.md).
     -   Despite this, you cannot use Shrine of Order with Oathless.
 -   Used to be obtainable through a hand of cards at around power 30 (power 10 in post-verse 2 levels). It was also the first Oath.
--   Oddly, the trainer shares the same name as the [Cerulean Thread](Cerulean_Thread.md).

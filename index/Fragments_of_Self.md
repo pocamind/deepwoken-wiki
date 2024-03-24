@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 92148
+revid: 93827
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Death, The Depths]
@@ -59,7 +59,7 @@ Located past the stone arches, a reflection of yourself that will remove your ch
   <td colspan="12">But I don't want to go.</td>
 </tr>
 <tr>
-  <td colspan="12">*<i>Sigh.</i>* There was so much left for us to do, wasn't there?</td>
+  <td colspan="12">*<i>Sigh.</i>* There was so much left for us to do, wasn't there? / *<i>Sigh</i>* We lived a good long life, we can at least solace in that.</td>
 </tr>
 <tr>
   <td colspan="12">Isn't there something we can do?</td>

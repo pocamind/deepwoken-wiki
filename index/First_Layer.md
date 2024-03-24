@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 93770
+revid: 93830
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -103,6 +103,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   Example: Two power 16 players will spawn one Enforcer. But if both players are power 17, two Enforcers will spawn.
     -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn.
 -   Those with the Deepbound origin must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of power.
+-   If you have over 10 (?) drowns, some of the voices lines are cut out, making the trial go by much faster.
 
 ## **Farming in First Layer of The Depths**
 
