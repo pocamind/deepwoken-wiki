@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 93802
+revid: 93804
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -241,4 +241,4 @@ Free Mystic for the Lone Warrior Origin / Trial of One and the Diluvian Mechanis
     -   Talks in lowercase, unlike all other shrines.
 
 -   Shrine of Solitude will softlock you from the game, making you unable to move, attack, block, parry, or dodge while Trial of One is in the process of just spawning in a new mob.
--   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements.
+-   As of the 28/02/2023 patch, Shrine of Order's 25 stat point reduction limit does not work on attunements. Fun fact: The Deep shrines are kinda like Brothers you never always meet, Distant to each other. Having one home in the keeper of hearts
