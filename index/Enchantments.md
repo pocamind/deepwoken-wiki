@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 93699
+revid: 93728
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -286,7 +286,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <td><div><p>Rarely add 5% of your max health to your damage. 10 Second CD per victim.<br>
   Very rarely lose 7% hp and have 10% of your max health added to your damage.<br>
   (80%~ and 20%~ chance respectively with F. Gladius)<br>
-  Can autogrip if it procs self damage at low enough health.</p></div></td>
+  Can autogrip if it procs self damage at low enough health. These effects are mutually exclusive and share a cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 93716
+revid: 93755
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -20,9 +20,9 @@ Template:EnemyInfobox1.0
 
 Maestro Evengarde Rest is the master of the Temple of the Blade and the current Maestro of Etrea. A powerful individual, he will train and assist only those who he sees fit, so that Etrea, its people and its culture may not be swept away in the machinations of other nations.
 
-Upon challenging the Maestro to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards, If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
+Upon challenging Maestro Evengarde Rest to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards, If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
 
-To start the fight with the Maestro:
+To start the fight with Maestro Evengarde Rest:
 
 1.  Achieve (slightly higher than) Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
@@ -43,17 +43,17 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   While parrying the initial hit should cancel the critical, there is a chance for a bug to occur and him to continue with the critical anyway.
 
  | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Draw: Maestro's Flourish** | Swings his blade in a spinning motion, performing two gale-infused slashes.
+| **Mortal Draw: Maestro's Flourish** | Maestro Evengarde Rest swings his blade in a spinning motion, performing two gale-infused slashes.
 
 -   Extremely difficult to react to, having an extremely fast windup.
 
  | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Floating Passage** | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Dharma Descent** | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Mortal Draw: One Mind** | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Mortal Draw: Mangetsu** | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Etrea Cross** | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Mortal Draw: Pressure** | Uses a flash step to approach foes from a great distance and performs a circular slash.
+| **Mortal Draw: Floating Passage** | Maestro Evengarde Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
+| **Mortal Draw: Dharma Descent** | Maestro Evengarde Rest leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: One Mind** | Maestro Evengarde Rest draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: Mangetsu** | Maestro Evengarde Rest sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |
+| **Mortal Draw: Etrea Cross** | Maestro Evengarde Rest sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: Pressure** | Maestro Evengarde Rest uses a flash step to approach foes from a great distance and performs a circular slash.
 
 -   The behavior of the slash is very similar to the Ankle Cutter passive used by [Silentheart](Oath%253A_Silentheart.md).
 -   Will only use this move at range to prevent zoning.
@@ -65,7 +65,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Tempest Eye** | Evengarde activates his Tempest Eye and cleaves your head off with a single strike.
+| **Tempest Eye** | Maestro Evengarde Rest activates his Tempest Eye and cleaves your head off with a single strike.
 
 -   This is an Insta-Kill.
 -   Triggered by spitting on him **at any point**.
@@ -79,24 +79,24 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| **Air Pressure** | If any of Maestro's Gale moves bring you down to 0% HP, you die instantly. |
+| **Air Pressure** | If any of Maestro Evengarde Rest's Gale moves bring you down to 0% HP, you die instantly. |
 | **Execute** | Pins down opponent before slicing their throat with their blade. |
 
 ## Talents
 
--   Brick Wall - Rest is immune to ragdoll and knockdowns.
--   Silencer's Blade - The Maestro's basic attacks grant him a speed boost and extend active suffocation effects.
--   A World Without Song - The Maestro's gale mantras apply Suffocation.
--   Risky Moves - Whenever the Maestro dodges an attack, he'll automatically dodge the next one.
--   Ghost - Whenever Rest dodges an attack, he turns invisible.
--   Chronostasis - Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
--   Guardbreak Resist - The Maestro is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
--   Pressure Break - If the Maestro guardbreaks you, you'll get ragdolled and tossed back.
--   Stifled Jump - Jumping while suffocated by the Maestro's Galebreathe will result in you getting dazed.
--   Showstopper - When rolling through one of his physical attacks, Rest will stomp the ground and daze you. Removes your speed buffs.
--   Bulldozer - Getting flourished into a wall by Rest has a chance to guardbreak you.
--   Concussion - Getting flourished into a wall by Rest causes your screen to blind and your daze to lengthen.
--   Spine Cutter - Getting hit from your back after Maestro does a roll cancel causes you to get a second slash.
+-   Brick Wall - Maestro Evengarde Rest is immune to ragdoll and knockdowns.
+-   Silencer's Blade - Maestro Evengarde Rest's basic attacks grant him a speed boost and extend active suffocation effects.
+-   A World Without Song - Maestro Evengarde Rest's gale mantras apply Suffocation.
+-   Risky Moves - Whenever Maestro Evengarde Rest dodges an attack, he'll automatically dodge the next one.
+-   Ghost - Whenever Maestro Evengarde Rest dodges an attack, he turns invisible.
+-   Chronostasis - Maestro Evengarde Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
+-   Guardbreak Resist - Maestro Evengarde Rest is immune to instant guard break effects. A unique white deflection visual and sound effect will play over his guard when this Talent procs
+-   Pressure Break - If Maestro Evengarde Rest guardbreaks you, you'll get ragdolled and tossed back.
+-   Stifled Jump - Jumping while suffocated by Maestro Evengarde Rest's Galebreathe will result in you getting dazed.
+-   Showstopper - When rolling through one of Maestro Evengarde Rest's physical attacks, he will stomp the ground and daze you. Removes your speed buffs.
+-   Bulldozer - Getting flourished into a wall by Maestro Evengarde Rest has a chance to guardbreak you.
+-   Concussion - Getting flourished into a wall by Maestro Evengarde Rest causes your screen to blind and your daze to lengthen.
+-   Spine Cutter - Getting hit from your back after Maestro Evengarde Rest does a roll cancel causes you to get a second slash.
 
 ## Strategy
 
@@ -107,13 +107,13 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear, Curved Blade of Winds and the enchant Obfuscation will easily chip through his block.
--   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
+-   Maestro Evengarde Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
-    -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
+    -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro Evengarde Rest, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
 -   If you don't have providence thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using ardour can help to guard break him if you don’t have providence thorns or any type of chip damage.
--   Deep Gems such as Bloodless Gem will extremely be useful as a source of healing against Maestro.
+-   Deep Gems such as Bloodless Gem will extremely be useful as a source of healing against Maestro Evengarde Rest.
 -   Enchant such as Vampirism can be very useful as each M1 will heal your hp if you are low on hp.
 
 ## Lootpool
@@ -153,9 +153,9 @@ Do note that while his Lootpool may seem gargantuan, he will mainly drop **Encha
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
--   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
+-   Unlike all the other bosses in the game, defeating Maestro Evengarde Rest does not reward [Echoes](Echoes.md).
     -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
--   Spitting on Maestro both before the fight and during it makes his character say the following dialogue:
+-   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:
     -   _"This is how you treat my generosity?"_
     -   After this, he instantly kills you.
         -   His eyes flash onto your screen, a green flash appears on your character's head as the only evidence of his attack, cleaving it apart instantly.

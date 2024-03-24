@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 93648
+revid: 93764
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -24,9 +24,11 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 
 Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, can also get knowledge(needs testing), every 5 waves you get a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
 
+Taking too long in a wave will automatically add the Timebomb modifier to the current wave. It is currently unknown how exactly this functions, but it appears that the more players you have, the faster timebombs will begin to appear.
+
 ### Trial of the Meek
 
-When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also bellow Power 3.
+When attempting the option to start the Diluvian Mechanism below Power 3, you have an option to choose the Trial of the Meek instead of the regular trial. This trial provides no difference in gameplay or loot, with the only main difference being that it removes the limit cap of 5 people as long as anybody trying to enter the trial with you is also below Power 3.
 
 ### **Shrine of Solitude**
 
@@ -74,8 +76,6 @@ Brings up the dialogue, "Hollow... empty..." Makes the death of mobs not give he
 ### Timebomb
 
 White orbs will be placed around the dungeon, and if not destroyed it'll explode. The bombs will start off dealing one bar, but progressively can deal two bars if exploded. This'll provide a risk to the player who are handling the mobs, as they also have to deal with the bombs.
-
-This automatically shows up in existing waves if they take far too long (e.g. ~10 minutes on Wave 10.)
 
 ### Corpse Explosion
 

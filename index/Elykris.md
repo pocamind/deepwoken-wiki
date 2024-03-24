@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 93363
+revid: 93766
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, World]
@@ -81,3 +81,4 @@ Elykris: Very well. Their ruins are on a cliff side here on Minityrsa, surrounde
 ## Notes & Trivia
 
 -   Trivia to be added.
+-   Wears the old version of the "Darksteel Plate" schematic

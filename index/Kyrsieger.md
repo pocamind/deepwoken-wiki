@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 93663
+revid: 93759
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Core-Attribute based weapons"]
@@ -37,3 +37,4 @@ The critical has the user lower the blade and charge a blast before unleashing a
 ## Trivia
 
 -   The first weapon to scale off of and require Charisma, and the second Greatsword (after [Crypt Blade](Crypt_Blade.md)) to scale off of a second stat.
+-   This weapon is designed noticeably differently from other weapons prefixed "kyrs." This may be a result of it being more closely tied to the Scion of Ethiron than the Kyrsgarde.

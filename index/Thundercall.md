@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 93483
+revid: 93740
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -159,7 +159,7 @@ Thunder Kick
  | An unrelenting kick like a clap of thunder. | 60 Ether | Perform a heavy thunderclap-sounding side kick with the user's left leg that pushes back any target(s) hit.
 
 -   Deals moderate damage.
--   Breaks block when upgraded to Level 5.
+-   Guard Breaks at Level 5
 -   8 Second Cooldown.
 -   Can grant an additional effect with the "Volt Kick" Talent, which allows user to follow up the initial kick with a second less potent kick that teleports them to the target.
     -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the talent will not activate if being parried, blocked or dodged.

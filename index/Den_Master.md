@@ -1,12 +1,23 @@
 ---
 title: Den Master
-revid: 78944
+revid: 93758
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Vendors]
 ---
 
 # Den Master
+
+| Den Master | |
+|---|---|
+| name | Den Master |
+| location | Etrean Sea |
+
+“ Ahhhhh purrfect, a new buyer wanders into my Den. ”
+
+― Den Master
+
+  
 
 ## Description
 
@@ -23,3 +34,5 @@ To get to the Den Master, you have to go to the Etris Docks and hug the right wa
 File:Den master.png
 
 The Den Master’s inside.
+
+The Location of the den

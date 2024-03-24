@@ -1,6 +1,6 @@
 ---
 title: Deepshore Fossil
-revid: 93091
+revid: 93767
 source: https://deepwoken.fandom.com/wiki/Deepshore_Fossil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Floor 1, Layer 2]
@@ -41,4 +41,4 @@ You do not need to accomplish all of these requirements in the same run or even 
 
 ## Trivia
 
--   Has an identical model to [Kyrsan Medallions](Kyrsan_Medallions.md).
+-   Has an identical model to [Kyrsan Medallions](Kyrsan_Medallions.md) and the key opening the way to the [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md), as well as the core of the [Stormseye](Stormseye.md).

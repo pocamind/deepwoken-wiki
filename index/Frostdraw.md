@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 93689
+revid: 93746
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -297,7 +297,7 @@ Rising Frost
 
 _Conjure a glaive of frost and launch your opponents skyward._
 
- | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air.
+ | Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air. | The aoe can be increased with cloudstones/stratus stones.
 
 -   Deals moderate damage.
 -   Applies Chill. (2 seconds per hit, can't be increased)

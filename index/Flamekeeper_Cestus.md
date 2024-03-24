@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 93050
+revid: 93729
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists]
@@ -22,7 +22,7 @@ categories: [Weapons, Fists]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Primadon Fort Merit Songseeker Wilds MinityrsaFirst LayerEtris: SiegeBountiesStarswept ValleyChili |
+| obtainment | Primadon Fort Merit Songseeker Wilds MinityrsaFirst LayerEtris: SiegeBountiesStarswept ValleyMerchant Ships |
 | description | N/A |
 
 ## Description
