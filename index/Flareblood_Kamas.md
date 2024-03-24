@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 92979
+revid: 93784
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Daggers, "Core-Attribute based weapons", Legendary Weapons
 
 The **Flareblood Kamas** is a Legendary [Light Weapon](Weapons.md) that scales with both Light and Intelligence. It has a unique critical that summons a blood explosion that appears at your cursor.
 
-It is only obtainable from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md), making it the only Legendary weapon obtainable from a single source.
+It is only obtainable from [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md), making it one of the only Legendary weapons to be exclusive to a single source.
 
 Wielding it requires 60 Light and 30 Intelligence. It does 13 base damage and 4.2 bleed damage. It also has a swing speed of 0.98x. At max Light and Intelligence the weapon does 24.5, but with bleed it becomes 31.9 damage, making it one of the best daggers in the game.
 
@@ -49,3 +49,4 @@ The critical unleashes an explosion blood around the cursor, launching the targe
 -   While its damage is high, it is only rivaled by the Alloyed Whaling Knife and the Alloyed Tanto. The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blade](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken battle royal tournament.
+-   The Flareblood Kamas were the first weapon to be exclusive to a single source, with the [Kyrsieger](Kyrsieger.md) being the only other weapon to share this trait.

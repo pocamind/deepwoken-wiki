@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 92581
+revid: 93775
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -29,7 +29,7 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can be obtained from [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer). It has **60% CHIP DAMAGE**, making blocking almost completely useless against it.
+The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can be obtained from [Ministry Necromancers](https://deepwoken.fandom.com/wiki/Cultist_Necromancer). Its defining trait is having a whopping **60% CHIP DAMAGE**, making blocking almost completely useless against it.
 
 ## Trivia
 

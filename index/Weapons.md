@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 93735
+revid: 93790
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -46,7 +46,7 @@ All weapons within the game have chances of being found with (or without) differ
 #### Heavy
 
 -   12 Great Axes (15 if alloyed)
--   10 Great Swords (14 if alloyed)
+-   11 Great Swords (15 if alloyed)
 -   9 Great Hammers (10 if alloyed)
 
 #### Others
@@ -56,10 +56,10 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   109 Total Weapons (Non-Alloyed, Non-Exclusive)
--   114 Total Weapons (Non-Alloyed, Exclusive)
--   126 Total Weapons (Alloyed, Non-Exclusive)
--   131 Total Weapons (Alloyed, Exclusive)
+-   110 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   115 Total Weapons (Non-Alloyed, Exclusive)
+-   127 Total Weapons (Alloyed, Non-Exclusive)
+-   132 Total Weapons (Alloyed, Exclusive)
 
 ## Stances
 
@@ -84,7 +84,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Requirements:** [Attribute(s)](Attributes.md) and/or [levels](Power.md) required to wield a weapon.
 -   **Base Damage:** Base weapon damage dealt with 0 points of scaling.
 -   **Penetration:** Weapon damage% ignoring [armor](Outfits.md) and/or resistances.
--   **Chip Damage:** Weapon damage bypassing through block (50% limit when using Obfuscation).
+-   **Chip Damage:** Weapon damage bypassing through block (50% limit **when using Obfuscation**).
 -   **Scaling:** Scaling for weapon attribute(s).
 -   **Weight:** Posture damage dealt.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).

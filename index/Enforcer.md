@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 93173
+revid: 93801
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -16,7 +16,7 @@ Template:Creature Info Box v2
 
 ## **Description**
 
-**The Enforcer** is a humanoid [Boss](Bosses.md) who acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for any unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths", but its origins may be more complicated. According to the flavor text of [The](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md), and morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
+**The Executioner** is a Depths [Boss](Bosses.md) who acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for any unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths", but its origins may be more complicated. According to the flavor text of [The](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md), and morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
 
 Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size differences, the hammer variant has a replaced red neon with orange color and is the largest out of the two. The Enforcer blade is the shortest and the Enforcer Axe is the regular size.
 

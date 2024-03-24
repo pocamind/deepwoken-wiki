@@ -1,9 +1,9 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 93669
+revid: 93781
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Fadetrimmer
@@ -36,6 +36,8 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 ## Effects
 
 This oath grants 1 Combat Mantra Slot, and 1 Wildcard. As for appearance, the user has scissors hanging off the side of their hip.
+
+File:FadeTrimmer.png
 
 ## Upgrading
 

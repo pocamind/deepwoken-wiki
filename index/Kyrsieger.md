@@ -1,9 +1,9 @@
 ---
 title: Kyrsieger
-revid: 93759
+revid: 93792
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Core-Attribute based weapons"]
+categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
 ---
 
 # Kyrsieger
@@ -28,7 +28,9 @@ categories: [Weapons, "Core-Attribute based weapons"]
 
 ## Description
 
-The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, using the power of the Deep to unleash piercing blasts of energy.
+The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, using the power of the Deep to unleash piercing blasts of energy.
+
+It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 ## Critical
 
@@ -37,4 +39,6 @@ The critical has the user lower the blade and charge a blast before unleashing a
 ## Trivia
 
 -   The first weapon to scale off of and require Charisma, and the second Greatsword (after [Crypt Blade](Crypt_Blade.md)) to scale off of a second stat.
--   This weapon is designed noticeably differently from other weapons prefixed "kyrs." This may be a result of it being more closely tied to the Scion of Ethiron than the Kyrsgarde.
+-   This weapon is designed noticeably differently from other weapons prefixed "Kyrs" This may be a result of it being more closely tied to the Scion of Ethiron than the Kyrsgarde.
+-   Kyrsieger is one of the only two weapons to drop from a single source, the other weapon being the [Flareblood Kamas](Flareblood_Kamas.md).
+    -   Coincidentally, both weapons require fighting a boss in L2 to acquire them
