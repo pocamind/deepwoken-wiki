@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 92567
+revid: 93890
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Reputation, Factions]
@@ -43,7 +43,7 @@ You can reset your reputation towards the Divers by talking to [Gudrin](Reputati
 
 Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [Reputation](Reputation.md) with The Divers.
 
-If you took the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), your diver reputation will be set to [Hunted](Reputation.md), and it will take roughly seven Nautilodaunt kills to get your rep set back to normal. It's not recommended to do this, though, as Nautilodaunts rarely spawn, and you can just reset your reputation with Gudrin.
+If you took the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), your diver reputation will be set to [Hunted](Reputation.md), and it will take roughly seven Nautilodaunt kills to get your rep set back to normal. It's not recommended to do this, though, as Nautilodaunts rarely spawn.
 
 You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a decent amount of reputation with The Divers, after [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) has been defeated.
 

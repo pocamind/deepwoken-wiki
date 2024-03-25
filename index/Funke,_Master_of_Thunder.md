@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 92864
+revid: 93894
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Spelltrainers]
@@ -66,9 +66,9 @@ Funke executes his opponent after knocking them:
 
 ## Trivia
 
--   Both he and [Nell](Nell,_Master_of_Frost.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers. [\[1\]](#cite-note-1)
-    -   If they are indeed Divers, this would make he and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
--   Funke is the German work for "spark".
+-   Both he and [Nell](Nell,_Master_of_Frost.md) wear the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers. [\[1\]](#cite-note-1)
+    -   If they are indeed Divers, this would make him and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md).
+-   Funke is the German word for "spark".
 -   He did not wield the [Stormseye](Stormseye.md), after its addition in the 6/5/2023 update, despite both being at Summer Isle and it being a Thundercall based weapon. This was finally corrected in the 11/10/2023 update, a staggering five months later.[\[2\]](#cite-note-2)
     -   This is most likely due to the laziness of the Developers, as the Stormseye was added after his Enemy variant was.
         -   Arch\_Mage stated the reason was rifles not being coded for NPCs, but [this was incorrect](<Summer_Dragoon_(NPC).md>).
