@@ -1,6 +1,6 @@
 ---
 title: Thresher Talon
-revid: 93104
+revid: 93840
 source: https://deepwoken.fandom.com/wiki/Thresher_Talon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monster Mantra Ingredients]
@@ -23,4 +23,4 @@ A Thresher Talon is an item only dropped by [Threshers](Thresher.md) which can b
 
 ## Trivia
 
--   The item is actually the model used for the claws of a King Thresher, being noticeably darker in color compared to the regular Thresher's brown talons. ~Ironically, King Threshers do not drop a Thresher Talon.~ I've gotten them from corrupted King Threshers.
+-   The item is actually the model used for the claws of a King Thresher, being noticeably darker in color compared to the regular Thresher's brown talons. Ironically, King Threshers do not drop a Thresher Talon.

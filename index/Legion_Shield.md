@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 91138
+revid: 93850
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields]
@@ -19,7 +19,7 @@ categories: [Weapons, Shields]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Starswept Valley Chests |
+| obtainment | Starswept Valley Chests, Voidwalker Bounty Chests |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
 
 ## Description

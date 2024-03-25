@@ -1,6 +1,6 @@
 ---
 title: "Brigand's Bicorn"
-revid: 93831
+revid: 93832
 source: https://deepwoken.fandom.com/wiki/Brigand's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head]
@@ -21,7 +21,7 @@ categories: [Equipment, Hats, Head]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Miner's Landing, Chaser |
+| obtainment | The Depths, Miner's Landing, Chaser, Maestro Evengarde Rest |
 | description | "Even outlaws need style." |
 
 ## Description

@@ -1,12 +1,20 @@
 ---
 title: Maps
-revid: 92950
+revid: 93853
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Sailing, Locations, Map, Deepwoken]
 ---
 
 # Maps
+
+## Ingame Maps
+
+Deepwoken has ingame maps that you will permanently receive for free across all slots once talking to a Shipwright for the first time. These point out your current location, the location of allies, and most landmarks in the current map, as well as NPCs like Antiquarians or Smiths in your area. The map also shows cardinal directions.
+
+Landmarks are unblurred or unhidden as you visit them per-slot, and some (e.g. [Beloved Zofia](Beloved_Zofia.md), [Boatman's Watch](<Boatman's_Watch.md>)) are in the [Voidsea](Voidsea.md) and thus not mapped at all.
+
+[The Depths](The_Depths.md) has quite a few outright hidden locations until you visit them, those being [The Chariot's Spire](<The_Chariot's_Spire.md>), [Castle Light](Castle_Light.md), and [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Interactive Maps
 

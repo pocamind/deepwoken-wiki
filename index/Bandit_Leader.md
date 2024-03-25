@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 93203
+revid: 93843
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -57,7 +57,6 @@ A Bandit Leader executes their opponent after knocking them:
 -   Parry trade them until their posture breaks.
 -   Alternatively, parry then use your critical.
 -   Try pinning them against a wall and then feinting your next attack before performing a critical, that should do some serious damage to them.
--   if its a dagger bandit and you're low level and cant parry, just give up. you're cooked.
 
 ## Trivia
 

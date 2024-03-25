@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 93652
+revid: 93852
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -78,7 +78,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   While farming alts or trading with players for Contractor grips is tedious, it poses a far lesser risk of wiping than hunting players.
 -   [Gran Sudaruska](Gran_Sudaruska.md) cannot be equipped if you have Contractor, unless you equip it as you are taking the oath.
     -   However, those with Contractor builds that have the weapon already equipped are able to use it until they switch weapon.
--   A Contractor that is progressing (doesn't have all moves/talents) will send victims it kills to Layer 2 instead of outright wiping them. This ONLY applies while they do not have 3 oath grips.
+-   A Contractor that is progressing (doesn't have all moves/talents) will send victims it kills to Layer 2 instead of outright wiping them, however this still counts as a drown. This ONLY applies while they do not have 3 oath grips.
 -   Keep in mind that you will not be sent to layer 2 if you are gripped during the progression of your oath, instead you will go to fragments, so do not be overconfident when progressing this oath.
 -   Before 25/08/23, 4 specific Deep Shrines deals were required for Contractor, those being Temptation, Blasphemy, Mastery, and Chance.
 -   You are able to use the Deep Shrines in Temple of Hearts to meet Contractor requirements.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 93829
+revid: 93835
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -40,7 +40,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 **There are currently 5 fully confirmed upcoming Oaths in _Deepwoken_:**
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
--   Four unnamed Oaths(one of the presumably being lifeweave)
+-   Four unnamed Oaths
 
 ## **Oathbreaker - Oath Removal**
 
