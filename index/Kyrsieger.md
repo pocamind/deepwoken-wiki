@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 93807
+revid: 93882
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Scion of Ethiron |
-| description | "A weapon from the Kyrsan Arsenal, Will you put it to good use?"The fall of Constellia was first heralded by a devastating piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not. |
+| description | The fall of Constellia was first heralded by a devastating piercing through its crystalline arches. Perhaps the most renowned member of the Kyrsan arsenal, the blade's explosive power can only be invoked through a solemn prayer to Ethiron. The words of this prayer worm their way into the minds of its bearer willing or not. |
 
 ## Description
 
@@ -34,12 +34,13 @@ It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 ## Critical
 
-The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy.
+The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. It will fire faster but deal less posture damage if the critical attack button is not held down to charge it.
 
 ## Trivia
 
 -   The first weapon to scale off of and require Charisma, and the second Greatsword (after [Crypt Blade](Crypt_Blade.md)) to scale off of a second stat.
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the Scion of Ethiron than the Kyrsgarde.
 -   Kyrsieger is one of the only two weapons to drop from a single source, the other weapon being the [Flareblood Kamas](Flareblood_Kamas.md).
-    -   Coincidentally, both weapons require fighting a boss in L2 to acquire them
--   Currently does not apply Charm with Unnecessary Theatrics. This is likely a bug.
+    -   Coincidentally, both weapons require fighting a boss in Layer 2 to acquire them.
+-   The weapon's description implies it was used in an assault against [Celestials](Celestial.md). Speculation suggests it was against a city called "Constellia," reinforced by the description of crystalline arches.
+-   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is like a bug.

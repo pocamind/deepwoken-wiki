@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 93867
+revid: 93876
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -69,7 +69,7 @@ Normal Waypoints will be colored yellow as usual. Presets don't replace the amou
 When obtained, Teleportation will spend its points on the following stats:
 
 -   **Max amount of markers:** The more points are spent on this stat; the more markers can be placed at once.
--   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around ~and persist through servers.~ Does not actually persist through servers, but still follows players.
+-   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around, but does not persist through servers.
 -   **Travel Speed:** The more points are spent on this stat, the faster the players are taken from the starting point to the marker.
 -   **Charge Speed:** The more points are spent on this stat, the faster the teleportation starts.
 
@@ -81,7 +81,7 @@ If Teleportation is drowned, it will have more Resonance Points which means it h
 -   This resonance is occasionally referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named Minato in the anime-manga series "Naruto."
     -   Although the mark-placement mechanic is similar to the powers of Minato, the actual visuals represent the "Accompany On" ability in HxH, or, as a stretch, Kizaru's flight ability in One Piece.
 -   In some circumstances, when attempting to teleport, you're met with the message 'something ancient is interfering with your resonance.' This occurs in dungeons like the Duke's and Layer 2.
-    -   You are still able to use Teleportation as a sort of "compass" to guide you on where to go on repeat runs, such as certain hard to reach medal chests in New Krysa, or an optimal Galewax route in The Outskirts.
+    -   You are still able to use Teleportation as a sort of "compass" to make waypoints and guide you on where to go on repeat runs, such as certain hard to reach medal chests in New Krysa, or an optimal Galewax route in The Outskirts.
         
 -   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be instakilled if they were not in the Duke quest.
     -   Prior to the Verse 2 update splitting Luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 93865
+revid: 93884
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -62,7 +62,7 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
     -   File:Contractor string trick compressed.gif
 
 -   **Judgement - Combat Mantra**
-    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user and enemy are both unable to act or move during the animation, and the enemy gains invincibility frames while the animation is active. This also forms a Hidden Tendril on the target. The move will **instantly execute** if it brings HP to 0.
+    -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user and enemy are both unable to act or move during the animation, and the enemy gains invincibility frames while the animation is active. This also forms a Hidden Tendril on the target. The move will **instantly execute** if it brings HP to 0. It may also be used to grip knocked targets. (Do note that Judgement does not work on non humanoid mobs)
 
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer. They are flung in opposite directions, much further than their original positions, being able to wallbang the enemy if they collide with a surface. After the pull is over, the enemy takes more damage and blood loss.

@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 93854
+revid: 93886
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -37,7 +37,7 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
-**There are currently 5 fully confirmed upcoming Oaths in _Deepwoken_:**
+**There are currently 4 fully confirmed upcoming Oaths in _Deepwoken_:**
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
 -   Three unnamed Oaths
@@ -124,11 +124,13 @@ Proof of Time Magic's existence and it being an "Oath"
 
 ## Trivia
 
--   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true, Pathfinder is merely treated as being without an Oath for gameplay purposes as _Oathless_ cannot be used as a term given it is an actual Oath, and "person without an Oath" would be too long to fit onto a Wanted Poster. The term Pathfinder just refers to adventurers, someone who finds literal paths in the wilderness. Unless you were to instantly stop playing the game or never leave the nearest city ever again upon obtaining your Oath, you're still a Pathfinder after having obtained one.
+-   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _Oathless_ cannot be used as a term given it is an actual Oath, and "person without an Oath" would be too long to fit onto a Wanted Poster.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
--   You can't Shrine of Order with an Oath, the only exception being Oathless.
+-   You can't Shrine of Order with an Oath.
+    -   This excludes Oathless.
 -   There is no reason to not get an Oath as most of them give benefits with no downsides.
--   Smelting a blindfold will still give you the night-vision effect Blindseer gives even with the appearance of another accessory.
+    -   Furthermore, upon changing your mind, any Oath can be broken with Yun'Shul. Once.
+-   Smelting a blindfold will still give you the night-vision effect Blindseer gives.
 -   Unequipping your facial accessory while having Blindseer will automatically give you a cosmetic-only version of the normal Blindfold, which is pale in color.
 -   For Starkindred progression, the opponents you have to defeat all bear names of supernatural figures from religious texts and literature. Two of which are names of demons, their appearance is still accurate however, as demons are fallen angels.
     -   [Iblis](https://en.wikipedia.org/wiki/Iblis) is the leader of the devils in Islam.
@@ -137,6 +139,7 @@ Proof of Time Magic's existence and it being an "Oath"
     -   The mythological Cretan king [Minos](https://en.wikipedia.org/wiki/Minos) became a judge of the underworld after death.
     -   In demonology, [Astaroth](https://en.wikipedia.org/wiki/Astaroth) was the "Great Duke of Hell".
 -   Almost all Oath Mantras can be modified with Vibrant Gems.
+    -   However, no Oath Mantras can be leveled up beyond level 1.
 -   Trying to speak to an attunement trainer as a Silentheart will cause them to **instantly aggro onto you**, as you deny the Song itself.
 -   Some Oaths change your character's eye color.
     -   Linkstrider gives the user Cyan eyes.
@@ -149,9 +152,11 @@ Proof of Time Magic's existence and it being an "Oath"
     -   It's also said that they had commented that it was canonically the strongest Oath, though the veracity of this statement and it's meaning are unclear, especially since this was prior to Verse 2.
 -   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, Silenthearts cannot speak to him.
 -   The Dawnwalker talents used to each give 5 extra health.
--   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, suffocate, piercing will, cheap shot etc. ,which is questionable that Blindseer was better than Silentheart for doing better m1-damage in combat when it's activated. However ,during May 16th 2023's patch note, it was found out as bug, so Tranquil Circle is no longer able to activate status-related talents.
+-   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, such as suffocate, piercing will, cheap shot, etc., which was... questionable (gave Blindseers more powerful M1s than Silenthearts). In May 16th 2023's patch note, it was found out to be a bug, and was subsequently patched.
 -   Silentheart's talent names reference _Fire Emblem_ multiple times. Most notable is Lodestar and Mani Katti, which are both references to the names of unique swords in the Fire Emblem series.
--   Arcwarder armor is similar to Bulats "Incursio" From Akame Ga Kill!
+-   Arcwarder armor is similar to Bulats "Incursio" from the anime and manga series, Akame Ga Kill!
 -   Arcwarder's Oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.
--   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons and later added back into the game as an Oath after the game's release.
--   In the Battle Royale gamemode, Oaths can be obtained by collecting Oath Shards from chests, requiring 3 to obtain a random Oath and more shards to progress it.
+-   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons.
+    -   Of course, it was later molded into one of the first Oaths.
+-   In the Battle Royale gamemode, Oaths can be obtained by collecting Oath Shards from chests.
+    -   It takes 3 shards to obtain the oath, and one for each subsequent talent.
