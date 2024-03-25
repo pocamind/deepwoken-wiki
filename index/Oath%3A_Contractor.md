@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 93852
+revid: 93865
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -55,9 +55,11 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 
 -   **Hidden Tendril - Passive (+10 Ether)**
     -   Applies a 'Hidden Tendril' onto enemies if the user lands a physical Mantra (such as most Attunement--less ones), a physical Critical attack, a Uppercut or a Flourish Only the user can see Hidden Tendrils. The Hidden Tendril does nothing directly, however, allows the user to see the position of their enemy for the entire duration that the 'Hidden Tendril' is on them, and also allows Lord's Slice to be used.
+    
 
 -   **String Trick - Passive**
     -   If a hidden tendril is on multiple opponents, they are to be pulled together.
+    -   File:Contractor string trick compressed.gif
 
 -   **Judgement - Combat Mantra**
     -   Summons a black casting circle before enveloping your target in black tendrils and tearing them apart. Stuns target in the air for about two seconds, before the Tendrils rip off of them, dealing more damage and blood loss. The user and enemy are both unable to act or move during the animation, and the enemy gains invincibility frames while the animation is active. This also forms a Hidden Tendril on the target. The move will **instantly execute** if it brings HP to 0.
@@ -65,9 +67,11 @@ As tasked by Lord Regent, to obtain the talents and mantras, you must grip playe
 -   **Lords Slice - Combat Mantra**
     -   Makes the Hidden Tendril from 'Hidden Tendril' contract, pulling both the user and enemy closer. They are flung in opposite directions, much further than their original positions, being able to wallbang the enemy if they collide with a surface. After the pull is over, the enemy takes more damage and blood loss.
         -   Only usable if the user has the 'Hidden Tendril' applied, and also has a Hidden Tendril active.
+        
 
 -   **Equalizer - Combat Mantra**
     -   Whips forward with a blue Tendril. If it connects, it deals damage to the target, and gives the user a blue aura. If the user is attacked while they have this blue aura, the attack will be ignored completely and also stun the attacker for about 2 seconds. Unlike Judgement, the user is able to act while the victim is stunned, meaning they can follow it up with anything, including Lord's Slice and Judgement.
+    
 
 ## Trivia
 

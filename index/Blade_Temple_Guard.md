@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 90596
+revid: 93868
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -16,7 +16,7 @@ Blade Temple Guards are reputable NPCs that can be found on the [Isle of Vigils]
 
 ## Moveset
 
-A Blade Temple Guard's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) along with the [Galebreathe](Galebreathe.md) attunement:
+A Blade Temple Guard's arsenal consists of a [Katana](Katana.md) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |

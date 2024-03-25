@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 93653
+revid: 93855
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Character, Mantras, Mechanics, Spells]
@@ -58,6 +58,10 @@ Attunements unlocked on spawn. These attunements can all be unlocked as starting
 ## Obtainable Attunements
 
 Attunements requiring the completion of a quest to obtain and cannot be chosen from the main menu with a new account. Template:Testing Template:Testing
+
+## Upcoming Attunements
+
+-   [Lifeweave](The_Hive.md)
 
 ## Trivia
 

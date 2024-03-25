@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 92329
+revid: 93874
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Eastern Luminant, Etrean Luminant, Origins]
@@ -46,7 +46,7 @@ Only players who have selected the Voidwalker [Origin](Origins.md) can access th
 ## Lore
 
 -   The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themselves within it. Leaving the Voidheart is referred to as "waking up".
--   The [Voidmother](The_Voidmother.md) is the reason the Voidheart exist. According to it, there is no singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
+-   The [Voidmother](The_Voidmother.md) is the reason the Voidheart exists. According to it, there is no singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
 -   Some members of the Knives Of Eylis are here by choice, while other arent. Various are the motifs of their allegiance, either money, power or something else. This is explained by Raen.
     -   When talking to the Voidmother for the first time, the player can choose their reason for taking the voidwalker contract, such as making ends meet, power or tiring of their old life, among many other. This, however, have no effect on anything and merely gives different responses from the Voidmother.
     -   While a less universal goal, Eylis herself have her own set of plan and goals which she does not reveal, but hint at the player's inclusion in them, saying that "You're... different, from the rest".

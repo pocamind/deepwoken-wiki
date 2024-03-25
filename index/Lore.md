@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 93698
+revid: 93872
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -761,7 +761,7 @@ Amara, a Member of The Legion.
 _"Aye, thanks for the help. The Authority better start sending some help before we start declining their firearm contracts." - Scope_
 
 -   **Territory:** _[Summer Isle](Summer_Isle.md)_
--   **Encountered In:** _[Summer Isle](Summer_Isle.md)_
+-   **Encountered In:** _[Summer Isle,](Summer_Isle.md) [Miner’s Landing](<Miner's_Landing.md>)_
 -   **Attunements:** _N/A_
 -   **Alliances:** _[The Central Authority](The_Central_Authority.md) (Business Relations)_
 -   **Enemies:** _The Ignition Union, [The Ministry](Minityrsa.md) File:Eylisiconfactoin.png_

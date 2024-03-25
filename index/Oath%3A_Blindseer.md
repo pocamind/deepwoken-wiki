@@ -1,9 +1,9 @@
 ---
 title: "Oath: Blindseer"
-revid: 93233
+revid: 93866
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Oaths]
+categories: [Pages with broken file links, Oaths]
 ---
 
 # Oath: Blindseer
@@ -52,6 +52,7 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Hold F during the cast animation to heal everyone in range, regardless of ally status.
     -   Doesn't work on NPCs.
     -   Obtainment: 1 Pathfinder helped in the Depth Trial (must be alive)
+    -   File:Mindsoothe final.gif
 
 -   **Tranquil Circle - Support Mantra**
     -   Disables mantras from being used in its radius.
@@ -64,6 +65,14 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Can be modified with Glass Stones to increase range.
     -   Obtainment: 3 Pathfinders helped in the Depth Trial (must be alive)
 
+-   **All-Seeing Eye - Passive**
+    -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
+    -   Invisible players are revealed by a Blindseer Eye icon.
+        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portal.
+    -   Doesn't work on the [Tacet Murmur](Murmur.md#murmur-tacet), but allows for further detection radius.
+    -   Obtainment: 4 Pathfinders helped in the Depth Trial (must be alive)
+    
+
 -   **Sightless Beam - Combat Mantra**
     -   Fires a high pressure beam from your eyes.
     -   The entire beam deals around 260 damage. With extra damage and posture dealt at the start of the beam.
@@ -75,14 +84,8 @@ The hints toward how to progress this oath are glyphs located at [Summer Isle](S
     -   Deals bonus damage to any monsters from the Depths family (Gigameds, Crustaceous Rex, Nautilodaunt, Enforcer).
         -   Nautilodaunt and Enforcer are very likely to just block the entire beam. It is advised to get a friend to distract them.
     -   You can run during the windup, but can only walk while the beam is active.
-    -   Obtaining: 5 Pathfinders helped in the Depth Trial (must be alive)
-
--   **All-Seeing Eye - Passive**
-    -   The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
-    -   Invisible players are revealed by a Blindseer Eye icon.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, Vanishing Closure, Cheap Trick, Illusory Servant's casting, Beast Burrow and Portal.
-    -   Doesn't work on the [Tacet Murmur](Murmur.md#murmur-tacet), but allows for further detection radius.
-    -   Obtaining: 4 Pathfinders helped in the Depth Trial (must be alive)
+    -   Obtainment: 5 Pathfinders helped in the Depth Trial (must be alive)
+    -   File:Sightless beam final.gif
 
 ## Effects
 

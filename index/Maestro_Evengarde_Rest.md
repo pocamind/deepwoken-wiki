@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 93755
+revid: 93861
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -43,17 +43,17 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   While parrying the initial hit should cancel the critical, there is a chance for a bug to occur and him to continue with the critical anyway.
 
  | ◯ | ◯ | ◯ | (★★☆) |
-| **Mortal Draw: Maestro's Flourish** | Maestro Evengarde Rest swings his blade in a spinning motion, performing two gale-infused slashes.
+| **Mortal Draw: Maestro's Flourish** | Swings his blade in a spinning motion, performing two gale-infused slashes.
 
 -   Extremely difficult to react to, having an extremely fast windup.
 
  | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Floating Passage** | Maestro Evengarde Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Dharma Descent** | Maestro Evengarde Rest leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Mortal Draw: One Mind** | Maestro Evengarde Rest draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Mortal Draw: Mangetsu** | Maestro Evengarde Rest sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Etrea Cross** | Maestro Evengarde Rest sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Mortal Draw: Pressure** | Maestro Evengarde Rest uses a flash step to approach foes from a great distance and performs a circular slash.
+| **Mortal Draw: Floating Passage** | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
+| **Mortal Draw: Dharma Descent** | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: One Mind** | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: Mangetsu** | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |
+| **Mortal Draw: Etrea Cross** | Sheathes his blade and then flash steps forward, phantoms of gale cutting the area in his wake. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Mortal Draw: Pressure** | Uses a flash step to approach foes from a great distance and performs a circular slash.
 
 -   The behavior of the slash is very similar to the Ankle Cutter passive used by [Silentheart](Oath%253A_Silentheart.md).
 -   Will only use this move at range to prevent zoning.
@@ -65,7 +65,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Given the knockback properties of a Vent, it's common for him to follow up with Mortal Draw: Pressure for an extremely deadly combo.
 
  | ◯ | ◯ | ◯ | (★☆☆) |
-| **Tempest Eye** | Maestro Evengarde Rest activates his Tempest Eye and cleaves your head off with a single strike.
+| **Tempest Eye** | Evengarde activates his Tempest Eye and cleaves your head off with a single strike.
 
 -   This is an Insta-Kill.
 -   Triggered by spitting on him **at any point**.
@@ -107,11 +107,11 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear, Curved Blade of Winds and the enchant Obfuscation will easily chip through his block.
--   Maestro Evengarde Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
+-   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
-    -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro Evengarde Rest, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
+    -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
 -   If you don't have providence thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using ardour can help to guard break him if you don’t have providence thorns or any type of chip damage.
 -   Deep Gems such as Bloodless Gem will extremely be useful as a source of healing against Maestro Evengarde Rest.
 -   Enchant such as Vampirism can be very useful as each M1 will heal your hp if you are low on hp.
@@ -153,7 +153,7 @@ Do note that while his Lootpool may seem gargantuan, he will mainly drop **Encha
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
--   Unlike all the other bosses in the game, defeating Maestro Evengarde Rest does not reward [Echoes](Echoes.md).
+-   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
 -   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:
     -   _"This is how you treat my generosity?"_
