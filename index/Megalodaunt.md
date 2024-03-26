@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 92716
+revid: 93924
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
@@ -364,11 +364,9 @@ Roar
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. With enough lag, it can seem as if the Megalodaunt has merely stood over you, while your head explodes for no reason. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 
-### Passives
+## Passives
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Megalodaunts.
-
-**\==Gallery==**
 
   
 

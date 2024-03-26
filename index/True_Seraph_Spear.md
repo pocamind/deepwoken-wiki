@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 91913
+revid: 93906
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears]
@@ -36,3 +36,4 @@ The True Seraph's Spear is a MED [weapon](Weapons.md). This spear can be obtaine
 -   The spear is named after "Seraph", the highest level of angels in Ancient Judaism.
 -   Unlike the Kyrsglaive and Serrated Warspear, the True Seraph's Spear has no bleed damage meaning that with the talent Speed Demon, it can do more damage than the two previously mentioned spears (~40.8 compared to the Kyrsglaive's ~36.15 and Warspear's ~38.61)
     -   However, do note that you cannot always have [Speed Demon](Talents.md) active, so this does not completely undermine the value of innate bleed.
+-   Effectively the MED equivalent of the [Night Axe](Night_Axe.md).

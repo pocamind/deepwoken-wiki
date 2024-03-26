@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 92628
+revid: 93902
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore, Layer 2]
@@ -44,16 +44,22 @@ Kaide is a Lightborn NPC found in [New Kyrsa](Second_Layer/New_Kyrsa.md).
   <td>Oh, you poor fool. You may not realize it yet, but you trespass on the territory of a sleeping God. This is the City of New Kyrsa, it holds the sleeping form of Ethiron deep within. I assume it is only now being rediscovered due to the discordant sounds of the Song projecting out from this place.</td>
 </tr>
 <tr>
-  <td colspan="7">What's happening with the song?</td>
-  <td colspan="7">Who are you?</td>
-  <td colspan="7">How do you know all of this?</td>
-  <td colspan="7">Child of Man and Celstial?</td>
+  <td>What's happening with the song?</td>
+  <td>Who are you?</td>
+  <td>How do you know all of this?</td>
+  <td>Child of Man and Celstial?</td>
 </tr>
 <tr>
-  <td colspan="7">Hmm... I am not sure how aware you are, surface dweller, but the magic you make use of is not some projection of your own strength. Your power lies within the Song. All you can conjure is a cheap imitation of the power held within the Song that Drowned Gods wield as their birthright. If Ethiron were to wake, as the projections seem to indicate, the world above would simply cease to be.</td>
-  <td colspan="7">I once was Ruler of a place known as Constellia. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the Celestials' Last Gift. It was left in the hands of my forbearers, and passed to mc. Unknown to me, I was to be the last king. king. The Kyrsans, under Ethiron's will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td>
-  <td colspan="7">I have been alive far longer than any living member of your kind, save for some of your ... ah ... immortals. Our forebearers were once soldiers in the war to fight back the depths. But when the Celestials fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesized doom.</td>
-  <td colspan="7">???</td>
+  <td>Hmm... I am not sure how aware you are, surface dweller, but the magic you make use of is not some projection of your own strength. Your power lies within the Song. All you can conjure is a cheap imitation of the power held within the Song that Drowned Gods wield as their birthright. If Ethiron were to wake, as the projections seem to indicate, the world above would simply cease to be.</td>
+  <td>I once was Ruler of a place known as Constellia. A gleaming City of Light that you surface dwellers often referred to as 'The Guiding Star'. We knew it as the Celestials' Last Gift. It was left in the hands of my forebearers, and passed to me. Unknown to me, I was to be the last king. king. The Kyrsans, under Ethiron's will, found a way to invade and took me prisoner. Now your skies lay dark, unable to be navigated, and here I sit until eternity ends.</td>
+  <td>I have been alive far longer than any living member of your kind, save for some of your ... ah ... immortals. Our forebearers were once soldiers in the war to fight back the depths. But when the Celestials fled, so too did our morale - our will to fight. Those of my people that still reside in the skies above the surface merely wait in fear of their prophesized doom.</td>
+  <td>A hybrid, you might say. Our creators had hoped to bring our disparate people together and combine our strengths. Our bodies were enhanced by hybrid vigor; unyielding to age or to ailment. Our minds... Well, many of us ended up just as clueless and arrogant as the templates we were created from. There are few of us now, as we cannot bear our own kin</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td><i>*He rolls his eyes.*</i> What a web they've spun around you. We thought they were gods too, once. But perceptions change quickly when they alone are the sole architects of your suffering.</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 93820
+revid: 93941
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,23 +22,34 @@ Notably, its variants (Enforcer Blade and Enforcer Hammer wielders) have size di
 
 ## Attacks
 
-| Name | Description | Parry-able? | Blockable? | Dodgeable? | Danger |
-| --- | --- | --- | --- | --- | --- |
-| **High Swing** | The Enforcer lifts its axe high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Low Swing** | The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than High Swing. | ◯ | ◯ | ◯ | (★☆☆) |
-| **Kick** | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. This does low damage, and now has a higher quality animation shown by the Enforcer turning sideways and chambering its leg. | ◯ | ◯ | ◯ | (★★☆) |
-| **Whirlwind** | The Enforcer begins to spin rapidly from the waist-up while holding its axe out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Space Pull) | ◯ | ✗ | ✗ | (★★☆) |
-| **Space Pull** | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player runs too far away. The Enforcer will never feint its' first hit after a Space Pull. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★☆☆) |
-| **Feint** | The Enforcer swings his weapon and retracts it, catching the player out. | ✗ | ✗ | ✗ | (★★☆) |
+| Name | Media | Description | Parry-able? | Blockable? | Dodgeable? | Danger |
+| --- | --- | --- | --- | --- | --- | --- |
+| **High Swing** | 
+ | The Enforcer lifts its axe high and swings it down. This is a slower attack that does high health and posture damage. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Low Swing** | 
 
-### Passives
+ | The Enforcer puts the axe to its side, and swings it horizontally in a swiping motion. This attack is faster but does less health and posture damage than High Swing. | ◯ | ◯ | ◯ | (★☆☆) |
+| **Kick** | 
+
+ | The Enforcer kicks straight forward, throwing anyone hit far back and dazing them. This does low damage, and now has a higher quality animation shown by the Enforcer turning sideways and chambering its leg. | ◯ | ◯ | ◯ | (★★☆) |
+| **Whirlwind** | 
+
+ | The Enforcer begins to spin rapidly from the waist-up while holding its axe out, walking towards the closest opponent (fairly slowly) to cut them apart. (Typically used after Space Pull) | ◯ | ✗ | ✗ | (★★☆) |
+| **Space Pull** |  | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment. Currently, you are dropped before the Enforcer attacks again. This attack is typically used at the start of the fight, or if the player runs too far away. The Enforcer will never feint its' first hit after a Space Pull. (Disabled in [Hell Mode](Hell_Mode.md)) | ✗ | ✗ | ◯ | (★☆☆) |
+| **Feint** | 
+
+ | The Enforcer swings his weapon and retracts it, catching the player out. | ✗ | ✗ | ✗ | (★★☆) |
+
+## Finishers
+
+| Name | Media | Description |
+| --- | --- | --- |
+| Headsplitter |  | The Enforcer holds its axe up with one hand, and smashes it down on any player, killing them akin to Axe's grip execution. |
+
+## Passives
 
 -   **Resilient -** Monsters damage buffs are half as effective against them.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Enforcers.
-
-### Finishers
-
--   **Headsplitter** **\-** The Enforcer holds its axe up with one hand, and smashes it down on any player, killing them akin to Axe's grip execution.
 
 ## **Combat**
 

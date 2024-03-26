@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 93891
+revid: 93910
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -42,5 +42,4 @@ The critical has the user lower the blade and charge a blast before unleashing a
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the Scion of Ethiron than the Kyrsgarde.
 -   Kyrsieger is one of the only two weapons to drop from a single source, the other weapon being the [Flareblood Kamas](Flareblood_Kamas.md).
     -   Coincidentally, both weapons require fighting a boss in Layer 2 to acquire them.
--   The weapon's description states it was used in an assault against Constellia, city of the [Celestials](Celestial.md).
--   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is like a bug.
+-   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is likely a bug.

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 93830
+revid: 93934
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # First Layer
+
+File:Depths New Lightning.png
 
 ## Overview
 
@@ -33,17 +35,19 @@ The main method to escape is by the tower, which houses the Trial in the center 
 
 The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
-## **City Bells**
+## **Reaching the Elevator**
 
 File:Citymap.png
 
 Rough map of the City of the Drowned
 
-_Not to be confused with [Resonances](Resonance.md)._
-
 [The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. The 4 with a bell also bear the presence of Watchers. City bells exude a humming/shimmering sound effect as to ease locating them. Interacting with one will restore health and play a chime. Note that the presence of seekers is independent as to if the bell is rung or not.
 
 Once all bells have been rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within via the opening of the gate to The Trial.
+
+**Notice: As of 3/25/24, it is likely the bells have been removed, and replaced with Toll system.** Players can now enter various sub-elevators at the middle of the city that require a fee of 25 notes. These sub-elevators will then rise to the main elevator. **Additional information required.** Until then, information about city bells will remain.
+
+File:Depths Sub-Elevator.png
 
 ### **Climbing the Walls**
 
@@ -105,7 +109,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   Those with the Deepbound origin must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of power.
 -   If you have over 10 (?) drowns, some of the voices lines are cut out, making the trial go by much faster.
 
-## **Farming in First Layer of The Depths**
+## **Farming in First Layer**
 
 Scyphozia, being a naturally hostile location, is intentionally difficult to survive in, from perpetual monster spawnage to creeping death via sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers for players who are willing to risk wiping in seconds. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 

@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 88657
+revid: 93933
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Layer 1]
@@ -90,12 +90,14 @@ The Armory.
 -   While considered a "safe zone" to some extents, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
 -   Occasionally three black diver npcs can spawn.
 -   Has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
--   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths without dying- which means going into a Whirlpool instead of drowning (being gripped at a stained bar). Deepbound players can enter Castle Light even if they were sent to depths through being gripped.
+-   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths while maintaining your **soul.**
+    -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless Deepbound.
+    -   Castle Light can be entered if the player went through a whirlpool or used Call of the Deep.
 -   Castle Light can be considered the safest area in The Depths to take a break in, featuring a depthbound exclusive stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
--   Castle Light is a common spot for ganks, it is advised to be wary of large groups of players. In particular, Valekis, a popular Monad Studios YouTuber has been frequenting the area.
+-   Castle Light is a common spot for ganks, it is advised to be wary of large groups of players.
 -   It is advised to not attack the guards as they have a large amount of health and can quickly become a problem even for experienced players.
 -   Used to have normal divers, then got replaced by Black divers, then got replaced with Journeyman Divers.
--   This is the only [Antiquarian](Antiquarian.md) in Castle Light that will not allow you to sell even if you have ally reputation with the divers you must be a Deepbound to be able to interact the [Antiquarian](Antiquarian.md) in Castle Light.
--   It is possible to enter despite drowning, but it requires being knocked and dropped into a certain spot that bounces you against the barrier until you glitch through
+-   The [Antiquarian](Antiquarian.md) can only be interacted with if you are Deepbound, even with ally reputation.
+-   It is possible to enter despite drowning, but requires the assistance of another player.
     -   Do note that if you defeat chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the depths via a whirlpool.
 -   Defeating Ethiron spawns you in Castle Light if you entered via the Layer 1 void, but you still will not be allowed to pass through the barrier, forcing you to reset.

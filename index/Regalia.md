@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 93703
+revid: 93897
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,6 +26,8 @@ Wiping below power 6 is known to keep the Mute Regalia if the wiped character ha
 
 #### Exceptions
 
+-   Mute does **not** work in some locations.
+    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md), unless the monster was summoned by another monster
 -   Mute does **not** work against some monsters.
     -   [Desert Knights](Stone_Knight.md#desert-knight)
     -   [Blizzard Knights](Stone_Knight.md)

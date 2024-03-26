@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93719
+revid: 93899
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1464,7 +1464,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   Gain a 4% damage boost against PVE enemies for every hit against at close range.
     -   Can stack up to 25 times, for a 100% damage boost. [\[1\]](#cite-note-1)
         -   This effect is not accounted for in the 75% damage boost cap.
-    -   Lose the entirety of the damage boost after taking damage. (Excluding Self damage from Jumpstart and possibly others like Flame Within.)
+    -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
     -   Requirement: Power 2
 -   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
@@ -2527,13 +2527,13 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 ## Talent Quests
 
-Introduced in the Verse 2 update, crucial talents have been given their own quests. Some these talents will be permanently unlocked after completing these quests, and they will be given to your character(s) upon reaching the required Power. All quests require you to talk to an NPC and then return to them once their errand is complete. You can turn off this talents if you wish at the echo screen.
+Introduced in the Verse 2 update, crucial talents have been given their own quests. Some of these talents will be permanently unlocked after completing these quests, and they will be given to your character(s) for free upon reaching the required Power. All quests require you to talk to an NPC and then return to them once their errand is complete. You can turn off these talents if you wish at the echo screen.
 
-### Engage + Critical Attack
+### Megalodaunt Slayer (Engage + Critical Attack)
 
--   The quest giver, Arthur, is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md) he will request that you kill a [Megalodaunt](Megalodaunt.md).
+-   The quest giver, Arthur, is located at the cave entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He will request that you kill a [Megalodaunt](Megalodaunt.md). This can be any Megalodaunt anywhere.
 -   It is common to find a Megalodaunt inside of the cave behind him, but if none spawn then you can always find two guaranteed spawns at the "Sharko Cave" in Lower Erisia.
--   After killing the Megalodaunt and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical attack at Power 5.
+-   After killing the Megalodaunt and talking to him once you will obtain Engage and Critical Attack across all slots. Every new character after completing the quest will get Engage at Power 3 and Critical Attack at Power 5.
 
 ### Aerial Assault
 
@@ -2543,9 +2543,8 @@ Introduced in the Verse 2 update, crucial talents have been given their own ques
 
 ### Chain of Perfection
 
--   To obtain, you must defeat any [Bosses](Bosses.md) solo without taking any damage.
+-   To obtain, you must defeat any [Boss](Bosses.md) solo without taking any damage.
 -   You will automatically gain this at Power 2 on all new slots.
--   You will deal ~2x damage in pve with max stacks
 
 ### Thresher Scales
 
@@ -2556,7 +2555,7 @@ The NPC in Starswept Valley who gives the quest required to obtain Thresher Scal
 -   The quest giver is located in the [Starswept Valley](The_Starswept_Valley.md), just beyond the stone pillars and leaning on a wall next to a ruined building overhang.
 -   Jessamine will ask you to kill a [King Thresher](Thresher.md#king-thresher).
 -   King Threshers can rarely spawn surrounded by two/three other Threshers. There's also a guaranteed spawn at the [Lightkeeper Temple](Lightkeeper_Temple.md).
--   Completing the quest will grant the talent, or a free talent hand if you already have it.
+-   Completing the quest will grant the talent.
 -   You will automatically gain this at Power 10 on all new slots.
 
 ### Treefelling Blow
