@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 88606
+revid: 93977
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -52,8 +52,9 @@ When obtained, Dimensional Travel will spend its points on the following stats:
         -   The math behind it is complicated, but at its simplest form, these distance multipliers are in 0.33 increments. The minimum and maximum distance multiplers are 1.33x and 5x.
         -   An explanation (and a way to find your distance multiplier) can be found in the [Deepwoken Info Discord](https://discord.com/channels/883838743172218891/883840765644660736/1096193166169874462).
         -   To travel without looking out of the Dimensional Travel, you can use [this](https://docs.google.com/document/d/1NgO8UEaPPCDxv1CiVzfERxjHIU0Q2p7GxjtoyPeCm9I/edit) Google document. It contains x and z coordinates, in order to see them, press Shift + F3 --> Shift + 1 --> Shift + 1 --> Shift + 1 --> Shift + 1.
+        -   Your current position on the map while in the Interstice will also indicate where you will be once leaving it.
 
-## Trivia
+## Tips/Trivia
 
 -   Functions similar to Naruto character, Tobi/Obito's Mangekyou Sharingan Dōjutsu "Kamui" ability.
 -   Like [Portal](Portals.md), **Dimensional Travel** can be very useful in ambushing/ganking others.
@@ -62,10 +63,11 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Similar to Minecraft's Nether Travel, both allowing extra distance to be covered in the overworld by traversing a distance in a separate dimension.
 -   There used to be a bug where buildings could be found in the Distortion Realm.
 -   There are some chunks of rock and debris that can be seen floating within the realm.[\[2\]](#cite-note-2)
--   Despite being a legendary resonance. Dimension Travel first variant offers nothing when you're in combat making it a questionable resonance for a legendary resonance.
 -   Despite looking like a good place to 1v1, it is _**EXTREMELY DANGEROUS**_ to attempt to 1v1 in Kamui while being in the Depths. As you can be downed and you will be teleported to where you would be in conjunction to Kamui. This has lead to people wiping in the past.
--   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice.
+-   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice. This is likely a result of the player briefly being considered in the Voidsea.
+    -   This interaction can be abused to summon the [Dread Serpent](Dread_Serpent.md) anywhere in the Luminants, as you are briefly considered in the Voidsea when leaving the Interstice.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in the direction of your momentum while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
+    -   This can be used to your advantage by flinging yourself in a desired direction.
 
 ## References
 

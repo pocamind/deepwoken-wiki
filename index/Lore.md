@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 93872
+revid: 93978
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -489,7 +489,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 -   There are two main areas, the Etrean Sea and the Aratel Sea, separated by a large gate.
     -   Areas found in the Etrean Sea are considered part of Etrean Luminant, areas in the Aratel Sea are part of the Eastern Luminant
 
-#### Eastern Interstitial Lighthouse (Etrean Luminant)
+#### Eastern Interstitial Lighthouse (Eastern Luminant)
 
 -   A Lighthouse located near Isle of Vigils, past the Gate.
 -   The [Lighthouse's](Eastern_Interstitial_Lighthouse.md) interior cannot be accessed, nor does it allow anyone to access the other [Luminants](Luminants.md) due to the fact that only Lightkeepers can operate them.

@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 93848
+revid: 93976
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1608,6 +1608,7 @@ You can choose your first name from any available, but your choices of last name
     -   The name also references what Deepwoken is at its core, an endless grind where you make a character until it inevitably dies.
 -   The name Minos is also a reference to Greek mythology, although it dawns a reckoning (I get that this was a quote but it really doesn't work here) as to if this is a reference to something else too
 -   Sean is an objectively shitty name.
+-   Hero is objectively a fire name
 -   The name Isaac may be a reference to The Binding Of Isaac.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
