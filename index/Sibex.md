@@ -1,9 +1,9 @@
 ---
 title: Sibex
-revid: 91975
+revid: 93969
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs]
+categories: [Pages with broken file links, NPCs]
 ---
 
 # Sibex
@@ -149,3 +149,7 @@ Where Sibex can be found
 ## References
 
 1.  [↑](#cite-ref-1) Can be occasionally broken, player must rejoin if this dialogue appears and they haven't gotten the bell.
+
+## Location
+
+File:Sibex Location..png

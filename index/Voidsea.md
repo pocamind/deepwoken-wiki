@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 93373
+revid: 93955
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -44,3 +44,5 @@ Sometimes, when you are sailing through Voidsea, you may be teleported to a rand
 -   With enough dedication, sailing out of the Voidsea into the actual Roblox void was possible in Verse 1.
 -   May be a reference to the Voidsea from Rain World.
 -   [Resonance dawn](Random_Encounters.md) event can spawn here and is a prime place for grinding it because of its low 4 events.
+    
+    A boat Floating over the Void.

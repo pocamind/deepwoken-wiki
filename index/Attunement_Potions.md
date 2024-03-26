@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 93895
+revid: 93963
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -14,7 +14,7 @@ Attunement Potions are the only way to obtain and permanently unlock further [At
 
 ## Obtainment
 
-The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Spelltrainer](Attunement_Trainers.md), this quest usually involves giving 5 (2 for gale breath) of a specific Elemental Ingredient; [Ironsing](Ironsing.md) being the only deviation from this.
+The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Spelltrainer](Attunement_Trainers.md), this quest usually involves giving 5 of a specific Elemental Ingredient; [Ironsing](Ironsing.md) being the only deviation from this.
 
 | Name | Image | Req. Elemental Ingredient | Spelltrainer | Attunement Granted |
 | --- | --- | --- | --- | --- |

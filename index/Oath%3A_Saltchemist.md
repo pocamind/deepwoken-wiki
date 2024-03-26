@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 93268
+revid: 93950
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Oaths]
@@ -30,6 +30,8 @@ notices:
 4.  Gather those ingredients and return to Adrofalis, who will grant you the Oath.
 
 -   Upon obtaining the Oath you gain the Perpetual Distillery; three needles on your arm. They change color depending on what potion is inserted.
+
+_For a more in-depth walkthrough, consider watching [this video](https://youtu.be/8atBg8DFbpU)._
 
 ## Progression
 

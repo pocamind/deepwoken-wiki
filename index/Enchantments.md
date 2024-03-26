@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 93828
+revid: 93971
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -75,7 +75,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <font>Chilling<div></div></font></center></td>
   <td><div><p>Weapon deals 4% more dmg on each hit. After hitting a target (Guns: 5, LHT: 7, MED: 4, HVY: 3) times, apply Bottom Freeze, negating all movement (7 second cooldown).<br>
   If the user has Crystallization, apply an ice crystal. (no limits, up to the amount of crystal to detonate) This applies a 0.4 second chill effect (only without crystal).</p></div></td>
-  <td><div>Weapon turns completely light blue and is covered in a light blue mist.</div></td>
+  <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
@@ -223,7 +223,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Vampirism<div></div></font></center></td>
-  <td><div><p>Heal for 15% of damage dealt, and also heals blood bar. Heals less when proc on Primadon and Chaser. Heals WAY less when proc on Ethiron</p></div></td>
+  <td><div><p>Heal for 15% of damage dealt, and also heals blood bar. Less effective against Chaser and Primadon, almost nullified against Scion of Ethiron.</p></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
 <tr>
@@ -259,13 +259,13 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <font>Curse of the No Life King<div></div></font></center></td>
   <td><div><p>While held, gain passive health regen. Every M1 adds 2% insanity to the opponent.<br>
   <br>
-  Permanently stained health bar while the weapon is equipped. (If you unequip the weapon, then your bar should become unstained. If you have this enchant equipped you WILL be stained and sent to depths, even if you have 2 lives.<br>
+  Permanently stained health bar while the weapon is equipped. (Having this weapon currently equipped will render you at 1 life. Unequipping it from your character will restore that life, assuming NLK actually took one away in the first place.)<br>
   Take 2x blood damage from all sources when in the overworld.<br>
   When unsheathed in The Depths, you will instantly lose 100 sanity (each time you equip it). Unless you have a huge amount of willpower, this is guaranteed to kill you no matter what. The same will also happen if you try to equip it in the Illusory Realm.<br>
   While equipped, if you drop below 50% sanity and continue to lose sanity you will immediately die. This includes being in the overworld.<br>
   <b>Disabled in Arena.</b><br>
   <b>Viscosity is disabled with this enchant.</b><br>
-  <b>Conditioned runner is disabled.</b><br>
+  <b>Conditioned Runner is disabled.</b><br>
   <b>Cauterized Wounds and Alloyblood talents will have their effects significantly reduced.</b></p></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
   When sheathed, the flame spikes are invisible.</div></td>
@@ -273,19 +273,19 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure>File:Curse of the unbidden.gif<figcaption></figcaption></figure><center><br>
   <font>Curse of the Unbidden<div></div></font></center></td>
-  <td><div><p>Drains the target ether on hit. This scales with your base damage.<br>
-  Critical attack is replaced with a counter. Succesful counters grants you i-frames. hyperarmor along with being able to act first.<br>
-  Critical attack have a cooldown of 6 seconds, however, failing to counter something raise the cooldown to 8 seconds.<br>
-  Check Trivia for an explanation of its interaction in PvE. Please be careful in PvE as not all PvE attack can be countered as of 12/2/24</p></div></td>
+  <td><div><p>Drains the target's ether on hit. This scales with your base damage.<br>
+  Critical attack is replaced with a counter. Successful counters grants you i-frames and hyperarmor and briefly stuns your opponent.<br>
+  The counter has a cooldown of 6 seconds, however, failing to counter something raises the cooldown to 8 seconds.<br>
+  Check Trivia for an explanation of its bugginess in PvE.</p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.<br>
   When sheathed, the weapon model is completely invisible.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>Rarely add 5% of your max health to your damage. 10 Second CD per victim.<br>
-  Very rarely lose 7% hp and have 10% of your max health added to your damage.<br>
-  (80%~ and 20%~ chance respectively with F. Gladius)<br>
+  <td><div><p>On proc, add 5% of your max health to your damage. 10 second CD per victim.<br>
+  Rarely, you lose 7% of your max health and have 10% of your max health added to your damage instead.<br>
+  (likely ~80% and ~20% chance respectively)<br>
   Can autogrip if it procs self damage at low enough health. These effects are mutually exclusive and share a cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>
@@ -618,7 +618,7 @@ Static flaming purple.
 -   **November 3rd, 2023** - [Hallowtide](Hallowtide.md) Enchant: Harrowing is made publicly available.
 -   **November 10th, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
 
-## Trivia
+## Tips/Trivia
 
 -   A few enchants are based on other series and shows.
     -   Elastic is a reference to Hisoka's Bungee Gum from _Hunter x Hunter_, hence why it was called Bungee Gum previously.
@@ -626,7 +626,6 @@ Static flaming purple.
     -   Bounce, Viscosity, Deferred and Stench are most likely a reference to glyphs and enchantments from _Shattered Pixel Dungeon._
     -   Stormbreaker is based mechanically on Thor from _God of War_ and it's namesake is the mythical axe _Stormbreaker_ wielded by Thor from _Avengers: Infinity War._
     -   The sound effect for the Displacement proc is taken from _The Legend of Zelda: Breath of the Wild's_ Remote Bomb explosion.
-    -   The Curse of The Unbidden is likely a reference to the _Unbidden_ from _Stellaris._ A crisis empire that invades through portals.
     -   Curse of The No Life King is a reference to [the No Life King](https://grimgar.fandom.com/wiki/The_No_Life_King) from _Fantasy of Grimgar and Ash._
         
         Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
@@ -637,13 +636,11 @@ Static flaming purple.
     -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon.
     -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag[\[2\]](#cite-note-2), and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
--   Enchanted Hero Blades were in the game before they were removed.
--   Some enchants used to have different names:
-    -   Curse of the Umbral Knight **→** Umbral Knight, (does not have the down sides of Curse of the Umbral Knight).
--   Providence of storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1st, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
--   Ferocity has negative acceleration on it's particles meaning they will follow your movement at 5x speed or higher.
--   Obfuscation is incredibly useful when fighting enforcers while not having a heavy weapon.
--   Umbral knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
+    -   Equipping an enchanted item as a sidearm will have its enchantment be overriden by your main weapon, including the lack of an enchantment itself.
+-   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1st, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
+-   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
+-   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).
+-   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
 -   Astral previously required having met a [Wishmaker](Developer_Specs.md) to obtain it.
 -   Unbidden has weird PvE interaction. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)

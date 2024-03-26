@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 93811
+revid: 93966
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -223,7 +223,7 @@ _A flurry of ice spikes._
  | Perform a stomp with the user's right leg, forming 3 ascending waves of ice formations that encases the target in ice.
 
 -   Deals moderate damage.
--   Does not inflict chill, short.[\[1\]](#cite-note-1)
+-   Apparently applies chill although VERY short.[\[1\]](#cite-note-1)
 -   Freezes opponent allowing for a free hit or combo.
     -   Can't vent, block, parry, dodge while frozen in the eruption.
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md) to cause the eruption to form a wall around the user instead of it erupting forward.
@@ -302,6 +302,7 @@ _Conjure a glaive of frost and launch your opponents skyward._
 -   The aoe can be increased with 2 stratus stones.
 -   Deals moderate damage.
 -   Applies Chill. (2 seconds per hit, can't be increased)
+-   Capable of proccing Meteor Impact.
 
  |
 | 
