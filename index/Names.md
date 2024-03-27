@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 93984
+revid: 94002
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1552,21 +1552,16 @@ You can choose your first name from any available, but your choices of last name
 
 ## Trivia
 
-#### General
-
 -   Most names added after the release of the game are available in all three gender categories. This is likely a bug.
 -   If you don't have a valid race, you don't have a last name. If you have a valid race but it doesn't have any last names, it defaults to Spellhardt, the [Lightborn](Lightborn.md) last name.
 -   Random name generation will occur upon clicking \[The End\] in [Fragments of Self](Fragments_of_Self.md). The name will be applied to your next character.
 -   The surnames of Ganymede and Vesperian are the same, only with different suffixes (-e and -i).
     -   This hints at the two species being of the same genetic origin, and is confirmed by the Ganymede model under the vesperian mask (viewable through clipping).
 -   The surnames of Felinors are, of course, relating to cat species.
-
-#### Name References
-
 -   The names "Omar" and "Olie" are references to community members omar\_io and Olieware respectfully, the latter of whom suggested the idea of the [Flamecharm](Flamecharm.md) Mantra Flame Ballista.
 -   The name "Vergil" is a reference to the [storm that is approaching](https://devilmaycry.fandom.com/wiki/Vergil).
 -   The names "Usopp" and "Alvida" are references to the anime and manga series, [_One Piece._](https://onepiece.fandom.com/)
-    -   While various characters from _One Piece_ were personally suggested as names to developer Ragoozer, only these two were added.[\[1\]](#cite-note-1)
+    -   While various characters from _One Piece_ were personally suggested as names to developer ragoozer, only Ussop was added.[\[1\]](#cite-note-1) Alvida was added much later
 -   The names "Ornstein" and "Smough" are a reference to the _Dark Souls_ characters [Ornstein and Smough](https://darksouls.fandom.com/wiki/Dragon_Slayer_Ornstein_and_Executioner_Smough).
     -   Initially, the name "Ornstein" was erroneously spelled as "Orstein."
 -   The name "Kamina" is a reference to the popular [Gurren Lagann](https://gurrenlagann.fandom.com/wiki/Kamina) character of the same name.
@@ -1586,12 +1581,11 @@ You can choose your first name from any available, but your choices of last name
     -   Claudius, Polonius, Horatio, Laertes, Ophelia, Gertrude, Osric, Cornelius, and Marcellus, are from _[Hamlet](https://en.wikipedia.org/wiki/Hamlet)_.
     -   Romeo, Juliet, Mercutio, Tybalt, and Balthasar are from _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet)_.
     -   Agrippa and Demetrius are from _[Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)_.
--   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_. Or Limbus company.
+-   The names Ahab and Ishmael are from Herman Melville's _[Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick)_.
 -   The name Ulysses is a reference to a novel of the same name by James Joyce.
 -   The name Sashenka may be a reference to a novel of the same name by Simon Sebag Montefiore.
 -   The name Frieren is a reference to the manga and anime series, _[Frieren: Beyond Journey's End](https://en.wikipedia.org/wiki/Frieren)_.
 -   The name Wanderer is a reference to the [Genshin Impact](https://genshin.hoyoverse.com/en/) character, Scaramouche.
-    -   The outfit [Hive Leader's Garment](<Hive_Leader's_Garment.md>) is also a reference to the same character.
 -   The name Laios and Marcille are references to the manga and anime series, [Dungeon Meshi](https://en.wikipedia.org/wiki/Delicious_in_Dungeon).
 -   The names Mycen, Shinon, and Raigh are references to game series [Fire Emblem](https://en.wikipedia.org/wiki/Fire_Emblem).
     -   The name Kelik may be a reference to the (notoriously poorly written) character from a 2013 Fire Emblem mod, [The Last Promise](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheLastPromise).
@@ -1603,11 +1597,9 @@ You can choose your first name from any available, but your choices of last name
 -   The names Antarc and Rutile are references to the anime and manga series, Houseki no Kuno.
 -   The name Azula is a reference to the animated series, Avatar: the Last Airbender.
 -   The name Kiyoko may be a reference to the anime and manga series, Haikyu.
--   The name Meliodas may be a reference to the anime and manga series, The Seven Deadly Sins.
+-   The name Meliodas may be a reference to the anime and manga series, _The Seven Deadly Sins_.
 -   The name Sisyphus is a reference to the ancient Greek myth of Sisyphus, who was doomed to forever train FTD using a Boulder
-    -   The name also references what Deepwoken is at its core, an endless grind where you make a character until it inevitably dies.
--   The name Minos is also a reference to Greek mythology, although it dawns a reckoning (I get that this was a quote but it really doesn't work here) as to if this is a reference to something else too
--   The name Isaac may be a reference to The Binding Of Isaac.
+-   The name Minos is also a reference to Greek mythology.
 -   Thoth is the Egyptian god of knowledge.
 -   The name Kronk is a reference to Kronk's New Groove.
 

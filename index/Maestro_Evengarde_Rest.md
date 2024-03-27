@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 93861
+revid: 94006
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -138,7 +138,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   All Relics
 -   Ardour Manifestation
 
-Do note that while his Lootpool may seem gargantuan, he will mainly drop **Enchant Stones**, however farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove much faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md)
+Due to his loot-pool's size, he will mainly drop **Enchant Stones**, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md). Because of this, it is wiser to farm [Primadon](Primadon,_Titan_of_the_East.md) to get the [Imperial Staff](Imperial_Staff.md) as it will drop more often from them
 
 ## Trivia
 

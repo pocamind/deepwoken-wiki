@@ -1,6 +1,6 @@
 ---
 title: Faction Ambushes
-revid: 93359
+revid: 94001
 source: https://deepwoken.fandom.com/wiki/Faction_Ambushes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Reputation, Mechanics]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-Faction Ambushes are an event that can occur nearly anywhere in the overworld (besides the sea and all towns excluding the Summer Isle castle). They occur when a player has the Hunted status or worse (-150 rep or below) with a faction.
+Faction Ambushes are an event that can occur nearly anywhere in the overworld (besides towns excluding the Summer Isle castle). They occur when a player has the Hunted status or worse (-150 rep or below) with a faction.
 
 ## Types of Ambushes
 
