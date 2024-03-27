@@ -1,6 +1,6 @@
 ---
 title: Temple of Hearts
-revid: 93946
+revid: 93987
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -42,4 +42,4 @@ Proceeding will lead to an altar with the [Shrine of Yun'shul](<Shrine_of_Yun'Sh
 
 ## Trivia
 
--   Talking to Yun'Shul will instantly kill the player by exploding their head if they do not have a [Resonance](Resonance.md). (Unless you speak to him through an idol)
+-   Talking to Yun'Shul will instantly kill the player by exploding their head if they do not have a [Resonance](Resonance.md). (Unless you speak to him through an idol, or you're a deepbound)

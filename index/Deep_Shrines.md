@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 93983
+revid: 93986
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -235,7 +235,7 @@ Free Mystic for the Lone Warrior Origin / Trial of One and the Diluvian Mechanis
 -   You can use any shrine to obtain Contractor, however, Shrine Of Order is currently bugged and does not count towards Contractor progression.
 -   Deep Shrines may be a means for [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) to communicate, due to them appearing in the [Temple of Hearts](Temple_of_Hearts.md). Both the main shrine and Deep Shrines speak using the same font, as well as engaging in deals.
 -   The main 6 Deep Shrines (Order, Blasphemy, Chance, etc.) can be accessed in [Temple of Hearts](Temple_of_Hearts.md) if you have a resonance or start with the Deepbound Origin, however, two remain inert, suggesting they may awaken in the future.
-    -   As of \[date needed\], the [Temple of Hearts](Temple_of_Hearts.md) contains every Deep Shrine.
+    -   As of 3/23/24, the [Temple of Hearts](Temple_of_Hearts.md) contains every Deep Shrine.
 -   The Shrine of Solitude is unique in that it:
     -   Is present in a dungeon.
     -   Has no visible "eyes".

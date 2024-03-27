@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 93977
+revid: 93996
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -66,6 +66,7 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   Despite looking like a good place to 1v1, it is _**EXTREMELY DANGEROUS**_ to attempt to 1v1 in Kamui while being in the Depths. As you can be downed and you will be teleported to where you would be in conjunction to Kamui. This has lead to people wiping in the past.
 -   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice. This is likely a result of the player briefly being considered in the Voidsea.
     -   This interaction can be abused to summon the [Dread Serpent](Dread_Serpent.md) anywhere in the Luminants, as you are briefly considered in the Voidsea when leaving the Interstice.
+    -   Warrior's Respite healing is also reduced in the Interstice, likely due to the same cause.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in the direction of your momentum while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
     -   This can be used to your advantage by flinging yourself in a desired direction.
 

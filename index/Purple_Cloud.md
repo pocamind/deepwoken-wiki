@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 93549
+revid: 93993
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -41,3 +41,4 @@ The user leans down, grabbing the blade's handle before dashing forwards. If the
 -   Despite being a pseudo fist-type weapon, it does not proc/activate talents related to fists.
 -   Its critical attack is based off the martial art "Iaido".
 -   Currently bugged when enchanted with Stormbreaker; upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
+-   May be inspired by the sword Emna from one piece, as both are purple, have a will of their own and using it for an extended period of time can be fatal
