@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 94012
+revid: 94016
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -22,7 +22,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | ??? (FalseMan) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None |  |
 | [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Catapults you into a door that requires a [bell](Resonance.md) to open | Once thrown enough times she will stop throwing you |
 | [Adar](Adar,_Master_of_Metal.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>), in tower of the bridge | Gives you the quest for [Ironsing](Ironsing.md) as well as enables you to level up your metal mantras. | Also used in the [Silentheart](Oath%253A_Silentheart.md) progression line |
-| [Adrofalis](Adrofalis.md) | Unaligned | [Boatman's Watch](<Boatman's_Watch.md>)Ferrymans Library | Gives you [Saltchemist](Oath%253A_Saltchemist.md), and lore on the old stewards. |  |
+| [Adrofalis](Adrofalis.md) | The Old Stewards | [Boatman's Watch](<Boatman's_Watch.md>)Ferrymans Library | Gives you [Saltchemist](Oath%253A_Saltchemist.md), and lore on The Old Stewards. |  |
 | [Aelita](Aelita.md) | Unaligned | [Valley of Heroes](The_Valley_of_Heroes.md) | Aelita event | Does not spawn during Winter, Necessary for [Visionshaper](Oath%253A_Visionshaper.md) Obtainment |
 | [Akira](Akira.md) | [The Divers](The_Divers.md) | [The Depths](First_Layer.md) | Akira vs Ignition Union event, Willpower unbound, joining [The Divers](The_Divers.md) | If you choose the second option without 75 charisma you will have your head exploded |
 | [Alastir](Alastir.md) | Unaligned | [Upper Erisia](Upper_Erisia.md), [Pathfinder's Respite](<Pathfinder's_Respite.md>) | Gives a chest to those who give him ragdolled villagers | You cannot give him [Forgotten Villagers](Forgotten_Villager.md), you can also give him Navaen Nomads, dialogue changes after giving him a villager for the first time |
@@ -40,7 +40,7 @@ A full list of all NPCs can be found [Here](https://docs.google.com/spreadsheets
 | [Calypso](Calypso.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | None |  |
 | [The Captain](<Cap'n_Orlandeau.md>) | Unaligned | [Fragments of Self](Fragments_of_Self.md) | Lets you retake the [Tutorial](Tutorial.md) |  |
 | [Cestis](Cestis.md) | [The Ministry](The_Ministry.md) | [Meteor Isle](Meteor_Isle.md) | Grants Murmur: Tacet |  |
-| [Ciea](Ciea.md) | Unaligned (Maybe the Hive) | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
+| [Ciea](Ciea.md) | The Old Stewards | [Starswept Valley](The_Starswept_Valley.md), near the Shrine of Mastery | Grants the talent "Harvester" after doing the quest 3 times | Gives you a task to make potions with Urchins, Pomars, Redds, Dentifilos and Browncaps |
 | [Dockson](Dockson.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | Drefa | [The Kingdom of Etrea](Etrea.md) | [The Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Give 6 wood to her for notes/etris reputation | The task is repeatable |
 | Emel | [The Ministry](The_Ministry.md) | [Summer Isle](Summer_Isle.md), island near the port | Grants quest to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md), gives positive Ministry reputation, gives exp, gives notes | The quest is repeatable |

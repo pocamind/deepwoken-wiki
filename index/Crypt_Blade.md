@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 93640
+revid: 94030
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Attunement-based Weapons", Legendary Weapons]
@@ -45,6 +45,8 @@ The user plunges the blade into the ground and releases an AoE circle surroundin
 -   If hit when chained, the chain will break and the opponent will receive three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow.
     -   Blocking and parrying will not cancel out this effect.
 -   If the opponent goes beyond the length of the chain, they will be dragged back to the chains original position.
+
+**10s Cooldown**
 
 ## Trivia
 

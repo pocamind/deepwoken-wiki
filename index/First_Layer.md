@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 93961
+revid: 94032
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -245,4 +245,7 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   Staying in The Depths for prolonged periods of time (from 20 minutes onwards with no Willpower) will drain your Sanity, causing your vision to become blurred and eventually causing you to slowly lose health via scratching yourself. At max insanity (happens at approximately 40 minutes at base willpower) and below 10% health, you rip your eyes out and die.
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
+
 -   The Meteor Event in the Depths can create any of the Depths monsters, and killing all of the Depths monsters it has spawned will reward you with four chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight.
+
+-   There was at one point 2 entrances to the trial but one has now been replaced by an elevator

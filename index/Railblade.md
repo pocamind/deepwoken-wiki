@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 93531
+revid: 94027
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Legendary Weapons]
@@ -30,11 +30,13 @@ categories: [Weapons, Greatswords, Legendary Weapons]
 
 The **Railblade** is a [Heavy Greatsword](Weapons.md) obtained from Layer 2. It is dropped from any [Layer 2](Second_Layer.md) chest and is a legendary weapon. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 40.15 damage at 100 Heavy and deals 41.5 damage with the added 6 proficiency meaning it deals 43.99 with three-star damage.
 
-The railblade is the only greatsword that does NOT have Hyperarmor on parry swings. Talents for Hyperarmor like "Warrior's swing" won't appear, till you choose a different Greatsword (Tested with Leveling up + Shrine of chance). The Critical is the only instance in which the Railblade gives Hyperarmor.
+The Railblade is incompatible with Greatsword-specific talents. Because of this, it is the only greatsword that does NOT have Hyperarmor on parry swings. Talents for Hyperarmor like "Warrior's swing" won't appear, till you choose a different Greatsword (Tested with Leveling up + Shrine of chance). The Critical is the only instance in which the Railblade gives Hyperarmor.
 
 ## Critical
 
-The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn. The flames created by the Railblade's critical become blue if the user has Azure Flames, and black if the user has Wraith Path: Twisted Puppets.
+The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn. The flames created by the Railblade's critical become blue if the user has Azure Flames, and black if the user has Wraith Path: Twisted Puppets. After the initial windup of the ground Crit, the user has hyperarmor for the entire dash and will continue going forward even if they are hit.
+
+**Both variants have a 9s Cooldown.**
 
 <table>
 <tbody>
@@ -52,7 +54,7 @@ The Railblade is unique because of its two different critical attacks, along wit
 -   This weapon was modelled by contributor oNoodlez.
     -   They took inspiration from Nagoriyuki's sword from _Guilty Gear -Strive-_ and Jetstream Sam's Murasama high-frequency blade from _Metal Gear Rising: Revengeance_.[\[1\]](#cite-note-railorigin-1)
 -   This weapon's running attack does not deal knockback **(GLITCH)**?
--   Appearance wise Railblade resembles that of a Nodachi or Ōdachi, a great katana from Japan
+-   Appearance wise Railblade resembles that of a Nodachi or Ōdachi, a great katana from Japan.
 -   The Railblade was originally a Thundercall Elemental Legendary, hence the name Railblade, as railguns utilise electricity.[\[1\]](#cite-note-railorigin-1)
 -   This weapon can only be used one-handed.
 -   NanoProdigy was rewarded with this weapon when he reached 1st place in the Lightborn tournament, making him the first Railblade user along with gifting him the unobtainable Lightborn race.

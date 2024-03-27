@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94006
+revid: 94019
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -127,6 +127,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 -   [Windrunner Robes](Windrunner_Robes.md) (Schematic)
 -   [Justicar's Armor](<Justicar's_Armor.md>) (Schematic)
+-   [Iron Blunderbuss](Iron_Blunderbuss.md)
 -   Maestro's Ring
 -   Rosen's Ring
 -   Prophet's Ring

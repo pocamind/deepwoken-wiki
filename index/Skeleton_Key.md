@@ -1,6 +1,6 @@
 ---
 title: Skeleton Key
-revid: 93100
+revid: 94021
 source: https://deepwoken.fandom.com/wiki/Skeleton_Key
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,20 +49,14 @@ When obtained, Skeleton Key will spend its points on the following stats:
 -   **Wall Amount:** How many walls you can spawn. (not guaranteed 5 because you need the correct point usage)
 -   **Duration:** How fast it takes to spawn a wall.
 -   **Range (?):** How far a wall can push.
--   **Wall durability:** How many hits (ex: m1-ing) can the wall take before breaking.
+-   **Wall Durability:** How many hits (ex: m1-ing) the wall can take before breaking.
 
 ## Trivia
 
 -   Based off of the dev spec ability under the same name used by Zartania, rebalanced and reworked for public use.
-
 -   Keep in mind that a corrupted Skeleton Key does not guarantee five walls, as the number is still based on the resonance point usage.
-
 -   Skeleton Key walls, when activated, will push in the direction you were looking when you first placed them, this means that if you were to place a Skeleton Key wall then go on the other side of it and then activate it, it will push towards you.
-
 -   Skeleton Key walls will always be placed on the level of your character, which leaves them floating in the air if you're hanging off of a chandelier for example.
-
 -   The walls can block ships from sailing, and also are invulnerable to their cannonballs, making them great for shielding your ship as you sail.
-
 -   Make sure to remember that the walls will quickly despawn prematurely if the owner is far away.
-
--   You can somewhat consistently get pushed/push yourself through walls with the Skeleton Key's activated push, provided the wall you're trying to pass through is thin enough. A good example of this is the mineskipper cave next to the small house by the side of the windmill in Songseeker.
+-   You can somewhat consistently get pushed/push yourself through walls with the Skeleton Key's activated push, provided the wall you're trying to pass through is thin enough. A good example of this is the Mineskipper cave next to the small house by the side of the windmill in Songseeker.
