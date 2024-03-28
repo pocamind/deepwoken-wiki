@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 94058
+revid: 94102
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1486,7 +1486,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 -   Boulder Climb \[Common Talent\] - Your climb height increases when you slide jump. (+1 Passive Agility)
     -   Prerequisite: 30 Agility
 
-### Mr RIZZ
+### Mr Charm
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
 

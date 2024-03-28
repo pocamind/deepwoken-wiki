@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94089
+revid: 94105
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -148,7 +148,7 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
  |
 
   
-Due to his loot-pool's size, he will mainly drop **Enchant Stones**, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md).
+Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 
