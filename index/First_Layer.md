@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 94039
+revid: 94072
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -31,9 +31,9 @@ The **First Layer** of the Depths, also known as **Scyphozia,** is the one of th
 
 Detailed map of the entire Depths First Layer
 
-The main method to escape is by the tower, which houses the Trial in the center of the city. The Trial can be reached two ways: ringing the bells to open the bastion gate, or climbing the walls to drop into the bastion.
+The main method to escape is by the tower, which houses the Trial in the center of the city. The Trial must be entered through the elevator.
 
-The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
+The alternative method is limited to players with a [Resonance](Resonance.md), or Bell. Talk to [Yun’Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place**." This method skips the trial altogether, but will only work in Layer 1. This outcome can be replicated with use of the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**". (The second method does not require a [bell](Resonance.md), nor does it require a wish from Yun'Shul. Take note this method cannot be used in combat: "The Idol won't respond to a panicked heart".)
 
 ## **Reaching the Elevator**
 
@@ -41,27 +41,27 @@ File:Citymap.png
 
 Rough map of the City of the Drowned
 
-[The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. The 4 with a bell also bear the presence of Watchers. City bells exude a humming/shimmering sound effect as to ease locating them. Interacting with one will restore health and play a chime. Note that the presence of seekers is independent as to if the bell is rung or not.
+### **Method 1:** City Bells
 
-Once all bells have been rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within via the opening of the gate to The Trial.
+[The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. The 4 with a bell also bear the presence of Watchers. City bells exude a humming/shimmering sound effect as to ease locating them. Interacting with one will restore health and play a chime.
 
-**Notice: As of 3/25/24, it is likely the bells have been removed, and replaced with Toll system.** Players can now enter various sub-elevators at the middle of the city that require a fee of 25 notes. These sub-elevators will then rise to the main elevator. **Additional information required.** Until then, information about city bells will remain.
+Once all bells have been rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within by opening the gate. The metal gate located in the District of Commerce (sloped entrance) will then open for 10 minutes.
+
+### **Method 2:** Sub-Elevator / Toll
+
+A small sub-elevator is located within the city section, entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator.
+
+**Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present.)
 
 File:Depths Sub-Elevator.png
 
-### **Climbing the Walls**
+### **Method 3:** Climbing Walls
 
-**AS OF 03/27/24, Climbing the Wall is no longer possible as described here, as the walls themselves have been made unclimbable. There are still ways to get up, however there are now easier ways to reach the depths trial without the use of this trick.** (Such as the Toll System)
+Although directly climbing the City Walls with barrels atop roofs was once a popular strategy, its effectiveness has been reduced. The white city columns are no longer possible to climb. It is still possible to land directly atop the walls, however, as listed below.
 
-File:Scuffed map Depths.png
+Locate a building near the walls of the city, and create an immense tower of barrels (15-20). Alternatively, utilize vertical movement mantras, such as [Flame Leap](Flamecharm.md).
 
-Alternatively, it's possible to climb atop one of the inner walls from tall buildings near the edge of the city. This is made much easier with movement abilities, high Agility, and stacking players/barrels, which is the most popular and effective method to date.
-
-Furthering: by stacking barrels to gain height, even players with no agility can climb onto the walls. Barrels can be found in lit buildings. Many servers will already feature tall stacks of barrels at the roofs of buildings close to the city walls.
-
-Although most buildings will work, a specific building is popular for stacking, as it's close to the entrance and easily found. Enter through either gate, turn left, and continue until you reach the wall. Climb up the building with the domed roof. There is a high likelihood of a barrel tower. If in doubt, server hop.
-
-**Disclaimer: There is no guarantee that you will not meet hostile players.**
+_This method is no longer the recommended strategy for reaching the elevator._
 
 ## **First Layer: The Trial**
 

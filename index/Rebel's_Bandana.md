@@ -1,6 +1,6 @@
 ---
 title: "Rebel's Bandana"
-revid: 90254
+revid: 94077
 source: https://deepwoken.fandom.com/wiki/Rebel's_Bandana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face]
@@ -21,12 +21,12 @@ categories: [Equipment, Face]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle |
+| obtainment | Erisia, Minityrsa, Songseeker Wilds, Summer Isle, Primadon |
 | description | "A bandana paired with a headband. Perfect for hiding your mouth, nose, and hairline. These are known to be the most identifying features of any outlaw." |
 
 ## Description
 
-The Rebel's Bandana is an [Equipment](Equipment.md) item under the "Face" category. It can be found in [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md), [Summer Isle](Summer_Isle.md) and [Minityrsa](Minityrsa.md) Chests. Navaen Nomads are known to drop them.
+The Rebel's Bandana is an [Equipment](Equipment.md) item under the "Face" category. It can be found in [Erisia](Erisia.md), [Songseeker Wilds](Songseeker_Wilds.md), [Summer Isle](Summer_Isle.md), [Primadon](Primadon,_Titan_of_the_East.md), and [Minityrsa](Minityrsa.md) Chests. Navaen Nomads are known to drop them.
 
 If you are looking to get this Item without losing The Children of Navae reputation, it is best to farm [Summer Isle events](Random_Encounters.md).
 

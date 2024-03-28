@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 94049
+revid: 94081
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -53,6 +53,10 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td><a href="Strange_Claw.md">Strange Claw</a></td>
   <td>5</td>
+</tr>
+<tr>
+  <td>Crustacean Meat</td>
+  <td>10</td>
 </tr>
 </tbody>
 </table>
@@ -126,6 +130,36 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   Primadon is extremely likely to use **Kick** when it follows up one or multiple **Tramples** with a regular **Stomp**. Predicting **Kick** and readying to perfect roll greatly increases your chances of success.
 -   Primadon has the most "end-lag" after it uses **Trample**, or **Stomp** followed by **Trample/Stomp**. If it **Kicks** after a **Stomp** then the end-lag will be significantly lower.
 -   If you see the right foot raise, prepare for **Trample** and if you see the left foot raise (_not_ swing back, as this represents **Kick**,) prepare for one **Stomp**. Dodge the **Kicks** and parry the **Stomps** and success will be certain.
+
+## Lootpool
+
+-   [Imperial Staff](Imperial_Staff.md)
+-   [Stormseye](Stormseye.md)
+-   [Star Duster](Imperial_Staff.md)
+-   [Star Boots](Imperial_Staff.md)
+-   [Deepwoken Cloak](Imperial_Staff.md)
+-   [Deepwoken Hood](Imperial_Staff.md)
+-   [Forgotten Gladius](Imperial_Staff.md)
+-   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
+-   [Royal Guard's Kabuto](Imperial_Staff.md)
+-   [Vigil Hood](Imperial_Staff.md)
+-   [Khan Helmet](Imperial_Staff.md)
+-   [Authority Helm](Imperial_Staff.md)
+-   [Rebel's Bandana](Imperial_Staff.md)
+-   [Nomad Pendant](Nomad_Pendant.md)
+-   [Canticlysm Pendant](Nomad_Pendant.md)
+-   [Bloodfeather Mask](Bloodfeather_Mask.md)
+-   [Duelist's Mask](Bloodfeather_Mask.md)
+-   [Confessor's Charm](<Confessor's_Charm.md>)
+-   [Imperial Boots](Imperial_Boots.md)
+-   [Brilliant Boots](Brilliant_Boots.md)
+-   [Mercenary's Boots](<Mercenary's_Boots.md>)
+-   [Bluesteel Boots](Bluesteel_Boots.md)
+-   [Novice Brace](Novice_Brace.md)
+-   Vibrant gems
+-   [Umbral Obsidian](Umbral_Obsidian.md)
+-   All [Rings](Equipment.md)
+-   All [Earrings](Equipment.md)
 
 ## Trivia
 

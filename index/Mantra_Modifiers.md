@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 93692
+revid: 94070
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Gems, Attunement, Spells, Mantras]
@@ -1538,18 +1538,19 @@ Lightning Clones
 
  |
 
-## Trivia/Notes
+## Tips/Trivia
 
--   Theres a NPC called Den Master that sells mantra modifier including cloundstone, Amnesic Driftwood, Drift Shard, Crystal Lens 10 notes each he's located on etrea near Docks on sea level.
--   Mantras that aren't written/listed are incompatible.
--   Some modifiers are created by combining two apparently. _If this is substantial in many modifiers, a new table column will be added._
--   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, lit 1 Disk.
--   Mantra Modifiers that directly affect a mantra will glow white after rising from the modification table- Mantra Modifiers that either indirectly affect a mantra or are entirely incompatible in the first place will dissolve into black.
--   The blue discs on the top would illuminate per each requirement of _Knowledge_. This was confirmed to be a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022.
--   The Falseflame, Haunting stone and Mirage Stones are not meant to be in the game yet and do not do anything. _(Arch said he didn't know how people got them as they are unreleased material)_
--   Revenge requires Drift/Rush Shards to reach further instead of Lens.
--   Mantra modifying will not always cost notes.
--   Longstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun). They will dissolve into black, but the duration will still be modified.
--   Vibrant Gems and Crystal Lenses can point towards mantra tables.
--   Blast Spark Wind Gun could possibly be a reference to the Knuckleblaster Arm from ULTRAKILL
--   Blast Spark Shadow assault is very likely a reference to [Sunakiniti's Blessed](<https://rogue-lineage.fandom.com/wiki/Sunaikinti's_Blessed?so=search>)'s Rampage from Rogue Lineage and by extension Akuma's Shun Goku Satsu from Street Fighter
+-   Mantras that aren't written/listed are likely incompatible.
+-   Clicking a mantra modifier (not Deep Gems) will produce small white dots that travel in the direction of the nearest mantra table.
+-   A good place to farm for low-level mantra modifiers, especially Sparks, is [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>). A gargantuan amount of [Mindless Servants](Mindless_Servant.md) and [Brainsuckers](Brainsucker.md) spawn there when entering the manor.
+-   Having incompatible mantra modifiers or not having enough notes to successfully modify formerly voided the mantra modifiers. This is no longer the case, and they are refunded on any failure.
+-   There is an NPC called the Den Master that sells mantra modifiers including Cloudstones, Amnesic Driftwood, Drift Shards, and Crystal Lenses for 10 notes each. He's located in a secret cave near Etris near sea level.
+-   Glass/Magnifying Stones are the only known mantra modifiers that are crafted from other mantra modifiers.
+-   The 5 blue disks above of where you place your Modifiers & Mantra indicates how much of a Value you add into your Mantra. For each 5 Value of any kind, 1 disk lights up.
+    -   The blue discs on the top formerly illuminated per each requirement of _Knowledge,_ a stat from closed testing that no longer exists. This requirement was replaced with [Notes](Notes.md) on January 13th, 2022, persisting even after Knowledge's new reimplementation.
+-   The Falseflame, Haunting Stone and Mirage Stones are unreleased material (as confirmed by Arch\_Mage) and not meant to be in the game yet, and as such do not do anything.
+-   Revenge requires Drift/Rush Shards to reach further instead of Lenses.
+-   Low-level mantra modifying (for example, 2 Cloudstones and a Blast Spark) does not cost notes. It only starts costing notes past a certain threshold.
+-   Logstones can modify the duration of elemental effects that are innately applied by certain mantras (i.e. Wind Gun).
+-   Blast Spark Wind Gun could possibly be a reference to the Knuckleblaster Arm from ULTRAKILL.
+-   Blast Spark Shadow assault is very likely a reference to [Sunakiniti's Blessed](<https://rogue-lineage.fandom.com/wiki/Sunaikinti's_Blessed?so=search>)'s Rampage from Rogue Lineage, and by extension, Akuma's Shun Goku Satsu from Street Fighter.

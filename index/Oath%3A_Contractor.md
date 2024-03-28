@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 93884
+revid: 94073
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -100,4 +100,5 @@ Up close Contractor strings
 -   If you, for some reason, do this quest while you already have an Oath, instead of obtaining Contractor, Lord Regent will respond, "Then you are a fool" and kill you instantly.
 -   Being a member of The Divers will prevent your reputation from being drained when you swear the Oath.
 -   Because of how the steps to getting the oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, bite your tongue, talk to Yun'Shul with a resonance, then obtainment. The finale will always be biting your tongue, talking to Yun'Shul, then obtainment, meaning you can do all the steps in whatever order.
--   This oath could be a reference to an anime Darker Than Black, where main character is called a contractor, his eyes are plain, without life. In the first opening there is a scene of him being pulled by black strings similar to the Judgement mantra.
+-   This oath could be a reference to an anime Darker Than Black, where the main character is called a contractor, his eyes are plain, without life. In the first opening there is a scene of him being pulled by black strings similar to the Judgement mantra.
+-   Lord's Slice is heavy reminiscent to Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).

@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 93996
+revid: 94067
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -23,13 +23,15 @@ categories: [Resonances]
 
 ### Appearance
 
-When used, the user will leave behind a vortex-esque portal and be transported into a realm called [_The Interstice_](The_Interstice.md), where surfaces are dark, the fog is heavy and where lays abandoned destroyed buildings.
+When used, the user will leave behind a vortex-esque portal and be transported into a realm called [_The Interstice_](The_Interstice.md), where surfaces are dark, the fog is heavy, and abandoned, destroyed buildings lay.
 
 ## Usage
 
 Pressing C will activate the Dimensional Travel Resonance.
 
 When used, this ability will transport the user into a realm known as [The Interstice](The_Interstice.md)**,** and will briefly leave a lingering portal to allow other players to enter. This cannot be used while in combat, unless you have a resonance points allocated into the "**Usable in Combat**" stat. Each step taken in The Interstice will translate to a varying amount of steps taken in the Etrean Luminant, East Luminant, or [The Depths](The_Depths.md) depending on your resonance point allocation.
+
+Dimensional Travel cannot be used in the [Etris Palace](Etris_Palace.md), [Voidheart](Voidheart.md), or [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).
 
 #### Distortion Realm
 

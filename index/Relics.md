@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 93127
+revid: 94075
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -155,6 +155,7 @@ It grants the user +20 knowledge on subsequent uses.
 
 -   [The Ferryman](The_Ferryman.md)
 -   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Chime of Conflict](Chime_of_Conflict.md)
 
  |
 

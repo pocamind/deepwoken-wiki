@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94019
+revid: 94076
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -150,6 +150,7 @@ Due to his loot-pool's size, he will mainly drop **Enchant Stones**, though farm
 -   All of his Mantras will automatically execute you.
     -   You can still be manually gripped by him if you die to his critical attack, basic attack or his Mortal Draw: Pressure.
 -   You will only gain the Disgraced Flaw if you are defeated on your first attempt. You do not get it again if you die to him a second time.
+-   Defeating Maestro does not always give you a health pack.
 -   If you have [Nogoras](https://www.youtube.com/@nogo) [Mahoraga](https://www.roblox.com/catalog/15009881314/Nogoras-Mahoraga) as your current haircut, he offers a unique line of dialogue:
     -   "_Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test._"
 -   Defeating him for the first time awards two [Knowledge](Knowledge.md).
