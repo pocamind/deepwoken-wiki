@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 92203
+revid: 94033
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations, World, Deepwoken]
@@ -223,4 +223,7 @@ Please add miscellaneous islands or named landmarks here
 
 -   Do note that most of these locations are only in the Eastern Luminant (not to be confused with the East Luminant).
 -   The Crypt of the Unbroken was leaked by an exploiter on the discord who accessed an indev place.
+
 -   An island named "Markor" in the Central Luminant is discussed in the book ["Stars Above, and the Blade Between"](Books.md#stars-above-and-the-blade-between)
+
+-   At one point you didn't need to teleport/load into the Aratel sea and could just sail to it just like any other island.

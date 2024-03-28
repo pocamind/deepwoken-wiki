@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 93966
+revid: 94054
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -510,7 +510,8 @@ _Skate freely on paths of ice._
  | Form a frozen path of ice as the user slides on at a high velocity.
 
 -   Knocked players cannot be held while this mantra is active.
--   When below mantra level 5, gradually loses height similar to gliders.  
+-   When below mantra level 5, gradually loses height similar to gliders.
+-   Height loss gain at level 5 is negligible, but still present.  
     
 
  |

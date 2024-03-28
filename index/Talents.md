@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 93899
+revid: 94058
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1486,7 +1486,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 -   Boulder Climb \[Common Talent\] - Your climb height increases when you slide jump. (+1 Passive Agility)
     -   Prerequisite: 30 Agility
 
-### Mr Charm
+### Mr RIZZ
 
 -   Charisma Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
 
@@ -1933,7 +1933,7 @@ Prerequisite: Charisma
 
 ### Stormblade
 
-> _**"My blade is unrelenting, a storm."**_
+> _**"My blade is unrelenting, a storm." (Innate now)**_
 
 -   Stormcaller Slash \[Common Talent, Thundercall exclusive\] - Call forth the fury of storms by pressing F at the end of your move.
     -   After a performing a Thundercall Combat Mantra, pressing F within a second afterwards delivers extra attacks.
@@ -2633,7 +2633,7 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   Glass Path: Crystallization \[Frostdraw Exclusive\] - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them. (+4 Elemental Intensity)
 -   _Static Fakeout_ \[Rare Talent, Thundercall Exclusive\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent. (+3 Elemental Intensity)
 
-## Trivia
+## Tips/Trivia
 
 -   A Fold can be used if you are not satisfied with your current hand of cards, giving you an additional hand of cards on your next power increase.
 -   One Handed Gun Talents can, for some reason, still be rolled on builds using Dual Guns.
@@ -2645,5 +2645,6 @@ Certain talents cannot be obtained through Roll 2, as they come with significant
 -   The Pocket Sand talent, especially its description, is a reference to Rogue Lineage.
     -   Paying [someone](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the talent in this game, and speaking to them afterwards yields the same dialogue as found in the talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest talent.
+-   You can test if Speed Demon is working by hitting an artificial mob like a [Rock Golem](Rock_Golem.md) or [Stone Knight](Stone_Knight.md). You will hear three cutting sound effects as the bleed damage procs. Bleed procs are harder to identify against humanoid mobs, as they are visual.
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)

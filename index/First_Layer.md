@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 94032
+revid: 94039
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -50,6 +50,8 @@ Once all bells have been rung, a bell choir will be heard across Scyphozia, poss
 File:Depths Sub-Elevator.png
 
 ### **Climbing the Walls**
+
+**AS OF 03/27/24, Climbing the Wall is no longer possible as described here, as the walls themselves have been made unclimbable. There are still ways to get up, however there are now easier ways to reach the depths trial without the use of this trick.** (Such as the Toll System)
 
 File:Scuffed map Depths.png
 

@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 92753
+revid: 94037
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races]
@@ -57,7 +57,7 @@ They hail from the Western Luminant and are the most prominent race in The Hundr
 +2 Strength  
 +2 Agility  
 Allows the use of equipment 3 points earlier than other races.  
-Allows the unlocking of the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) fight with 82 MED / HVY rather than the full 85.  
+Allows the unlocking of the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) fight with 82 LHT / MED / HVY rather than the full 85.  
 
 May have increased rep with The 100 Legions  
 

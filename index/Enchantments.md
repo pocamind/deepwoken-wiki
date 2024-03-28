@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 93971
+revid: 94053
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -139,9 +139,13 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Nemesis<div></div></font></center></td>
-  <td><div><p>On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy and the usual critical becomes a katana’s.<br>
-  <b>Nemesis critical can still trigger critical talents like bear trap, manipulator, etc.<br>
-  </b><b>The range of this is 65-70 studs</b></p></div></td>
+  <td><div><p>The weapon's critical becomes a katana's.<br>
+  On hit, a red eye marker is placed on the enemy for 15 seconds. Using your critical while the marker is present teleports you to the enemy, but using the critical without a marker will remove its hitbox.<br>
+  If multiple enemies have the red eye marker, using your critical will teleport you to each sequentially, rapidly using the critical on each.<br>
+  </p>
+  <p>The critical can still trigger critical talents like Bear Trap and Manipulator.<br>
+  <b>The range cap of the teleportation is 65-70 studs.</b><br>
+  </p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
 <tr>
@@ -599,6 +603,8 @@ Static flaming purple.
 
  |
 
+  
+
 ## Changelogs
 
 -   **January 2nd, 2022** - [Hero Blade of Flame, Frost, Lightning, Shadow & Wind](Hero_Blades.md) can no longer be enchanted.
@@ -639,11 +645,12 @@ Static flaming purple.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overriden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1st, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
 -   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
+-   Nemesis causes enemies to react to its critical even without a hitbox.
 -   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).
 -   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
     -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
 -   Astral previously required having met a [Wishmaker](Developer_Specs.md) to obtain it.
--   Unbidden has weird PvE interaction. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
+-   Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
 
 ## References
 
