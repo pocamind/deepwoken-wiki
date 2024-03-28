@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 93886
+revid: 94083
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Oaths, Character, Talents, Mechanics]
@@ -18,11 +18,11 @@ notices:
 
 _**"Oaths"** are viewpoints and beliefs that a character vows to live by until the day they fall._ They chiefly serve to further define the player character's potential, personality, and story- providing a progressable set of abilities alongside a set of rules or actions to swear under. Oaths, just like [Murmurs](Murmur.md) and [Resonances](Resonance.md), are classified as unique [Talent Cards](Talents.md) that players obtain only through meeting certain requirements.
 
--   **Due to being a special Talent Card, only one Oath may be served per character until they permanently fade away in the [Fragments of Self](Fragments_of_Self.md) or become an Oathbreaker by wishing it upon [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).**
+**Due to the unique nature of swearing an Oath, only one can be wielded at once.** It is possible to break an Oath with the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but... "_it's called an Oath for a reason._" Heed the consequences that come with being an Oathbreaker.
 
-Every character begins as just a Pathfinder, having yet to swear under an Oath. _This is different from being **Oathless**\- which entails the idea of marching to the beat of your own drum, vowing to live by your own rules rather than a preset from another._ Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath- such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
+Every character begins as a simple Pathfinder, meaning they are without an Oath (but not devoted to being Oathless). Being a Pathfinder offers no real advantages, but it may protect you from intentions that involve those with an Oath, such as being engaged by a loyal Contractor or by one in search of the powers of a Linkstrider.
 
-**There are currently 12 obtainable Oaths in _Deepwoken_:**
+### **Obtainable Oaths**
 
 -   [Arcwarder](Oath%253A_Arcwarder.md): +1 Wildcard Mantra, +2 Combat Mantra \[20 Flamecharm, Thundercall, & Fortitude\]
 -   [Blindseer](Oath%253A_Blindseer.md): +1 Wildcard Mantra, +1 Support Mantra, +10 Sanity \[40 Willpower & All 3 Mental Fortress Talents\]
@@ -37,16 +37,16 @@ Every character begins as just a Pathfinder, having yet to swear under an Oath. 
 -   [Starkindred](Oath%253A_Starkindred.md): +2 Combat Mantra, +8 HP \[40 Strength\]
 -   [Visionshaper](Oath%253A_Visionshaper.md): +2 Combat Mantra, +1 Support Mantra \[50 Charisma\]
 
-**There are currently 4 fully confirmed upcoming Oaths in _Deepwoken_:**
+### **Upcoming Oaths**
 
 -   [Saintsworn](Oath%253A_Saintsworn.md)
 -   Three unnamed Oaths
 
 ## **Oathbreaker - Oath Removal**
 
-It's possible to remove your oath, in order to do so, you must talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and use a wish, upon requesting it, you'll be given a disclaimer prompting that the changes you made "could potentially close off your former Oath to you forever."
+It is possible to remove your oath by wishing to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). This comes with a warning: **You could potentially close off your former Oath to you forever.**
 
-Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
+Upon breaking an Oath, unique effects will occur:
 
 -   [Arcwarder](Oath%253A_Arcwarder.md): ??? - "Your connection to the Arc Suit withers, cut off at the stem. An expensive choice to make."
     -   You lose some reputation with [The Ignition Union](The_Ignition_Union.md).
@@ -57,23 +57,23 @@ Upon breaking an Oath, unique dialogue/effects specific to each Oath will occur.
 -   [Dawnwalker](Oath%253A_Dawnwalker.md): [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) - "It seems you lack commitment. Not everyone can be a beacon. Some are fated to be retreat into the dark."
     -   You instantly become maximum negative rep with [The Divers](The_Divers.md).
     -   Upon talking to her again she'll prompt the dialogue "Ah, the flake is back again. What do you want?"
--   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man"
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md): Your Scissors - "Whatever, man."
 -   [Jetstriker](Oath%253A_Jetstriker.md): [Alirian](Alirian.md) - "Huh. And here I thought I'd found a true rival. I had fun while it lasted, friend."
     -   Talking to [Alirian](Alirian.md) will prompt the following conversation:
-        -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." **Please forgive me.**
-        -   "Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?" **I'll follow your oath, my dear rival.**
-            -   You'll regain [Jetstriker](Oath%253A_Jetstriker.md)
+        -   "Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that." / **Please forgive me.**
+        -   "Hmm. Okay, sure. You'll still make a good rival. Want to strike up an Oath again?" / **I'll follow your oath, my dear rival.**
+            -   You'll regain [Jetstriker](Oath%253A_Jetstriker.md).
         -   "This is our path then, my friendly nemesis! To be a [Jetstriker](Oath%253A_Jetstriker.md), one who walks with the Song's flow itself.. ah, it's so freeing.
 -   [Linkstrider](Oath%253A_Linkstrider.md): ??? - "_Like two halves of an image coming together, you once more feel like at home in this reality. Your view of greater dimensions has retreated away into the horizon_."
 -   [Oathless](Oath%253A_Oathless.md): Cerulean - "The way opens more to you, my disciple. Safe travels."
-    -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? **I'd like to become Oathless once more**
-        -   You'll regain [Oathless](Oath%253A_Oathless.md)
+    -   Talking to Cerulean will prompt the dialogue "Ah, my friend, it is good to see you. Have you need of anything? / **I'd like to become Oathless once more.**
+        -   You'll regain [Oathless](Oath%253A_Oathless.md).
 -   [Saltchemist](Oath%253A_Saltchemist.md): ??? - "_Your body feels still. Inert. The Panacea's effects have worn off_."
 -   [Silentheart](Oath%253A_Silentheart.md): The Voice of Dread - "This matters not. Your heart has already been claimed."
     -   The Attunement Trainers will respawn afterwards.
-    -   If you attempt to regain the Oath, The Dreadstar will simply not spawn after you survive against the Ghosts on the Beloved Zofia, making it so you cannot get the Oath again.
+    -   If you attempt to regain the Oath, The Dreadstar will not spawn after you survive the Ghosts on the Beloved Zofia.
 -   [Starkindred](Oath%253A_Starkindred.md): [Samael](Samael.md) - "The Stars were never yours to lay claim to. You're just another heretic rejected by the blood."
-    -   Talking to [Samael](Samael.md) again, he'll say to you "Insolent worm. Leave."
+    -   Talking to [Samael](Samael.md) again will cause him to say "Insolent worm. Leave."
 -   [Visionshaper](Oath%253A_Visionshaper.md): [The Nestmind](The_Nestmind.md) - "Our end of the deal has already been struck. You're welcome to seek out whichever path pleases you. Just know that you have not won your freedom, mouse."
 
 Note: Wiping after breaking your Oath will leave the "Obtained an Oath" echo task incomplete if you didn't make a new Oath prior to wiping.
@@ -124,7 +124,8 @@ Proof of Time Magic's existence and it being an "Oath"
 
 ## Trivia
 
--   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _Oathless_ cannot be used as a term given it is an actual Oath, and "person without an Oath" would be too long to fit onto a Wanted Poster.
+-   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _Oathless_ cannot be used as a term given it is an actual Oath.
+    -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
 -   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
 -   You can't Shrine of Order with an Oath.
     -   This excludes Oathless.
@@ -150,11 +151,11 @@ Proof of Time Magic's existence and it being an "Oath"
     -   Silentheart gives a darker and duller shade of the user's current eye color.
 -   The developers have confirmed that Oathless is a "seatwarmer" since their objective is to make many Oaths so Oathless will be basically useless, causing community backlash due to the Oath's obtainment method being more tedious than some Oaths. Despite this, it still received a buff, so their exact intentions aren't clear.
     -   It's also said that they had commented that it was canonically the strongest Oath, though the veracity of this statement and it's meaning are unclear, especially since this was prior to Verse 2.
--   When attempting to talk to [Stratos](Stratos.md) even after doing the delivery quest, Silenthearts cannot speak to him.
+-   [Stratos](Stratos.md) will never speak to Silenthearts.
 -   The Dawnwalker talents used to each give 5 extra health.
 -   Blindseer's Tranquil Circle mantra was able to activate most status-related talents upon M1, such as suffocate, piercing will, cheap shot, etc., which was... questionable (gave Blindseers more powerful M1s than Silenthearts). In May 16th 2023's patch note, it was found out to be a bug, and was subsequently patched.
 -   Silentheart's talent names reference _Fire Emblem_ multiple times. Most notable is Lodestar and Mani Katti, which are both references to the names of unique swords in the Fire Emblem series.
--   Arcwarder armor is similar to Bulats "Incursio" from the anime and manga series, Akame Ga Kill!
+-   Arcwarder armor is similar to Bulats "Incursio" from the anime and manga series, Akame Ga Kill!.
 -   Arcwarder's Oath description says "From each according to their ability, to each according to their needs**"** which is a quote from Karl Marx's Critique of the Gotha Program.
 -   Visionshaper originally used to be an Attunement during the testing era but was removed for unknown reasons.
     -   Of course, it was later molded into one of the first Oaths.

@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 93423
+revid: 94095
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -41,92 +41,156 @@ This event takes place at the decrepit research castle, upon triggering the even
 
 After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 100 required to pass it.) Once you talk to him, he asks if you're an another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
 
-**First Encounter**
+**Initial Encounter:**
 
-> Akira: Another one..? You've got to be kidding me.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Another one..? You've got to be kidding me.</td>
+</tr>
+<tr>
+  <td colspan="6">Wait, I'm not with them.</td>
+  <td colspan="6">Don't mess with the Ignition Union, snake-eyed bookworm trash.</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The menacing-looking man scans you up and down skeptically for a moment.*</i> Well, either way it seems you know your place.</td>
+  <td colspan="3"><b>Requirements met (100 Charisma)</b></td>
+  <td colspan="3"><b>Requirements not met</b></td>
+</tr>
+<tr>
+  <td colspan="6">What are you doing down here?</td>
+  <td colspan="3"><i>*The man blinks twice, apparently stunned by your words.*</i></td>
+  <td colspan="3">So be it...</td>
+</tr>
+<tr>
+  <td colspan="6">A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.</td>
+  <td colspan="3">Akira returns to Castle Light (End)</td>
+  <td colspan="3">Player is wiped (End)</td>
+</tr>
+<tr>
+  <td colspan="6">Research platoon?</td>
+</tr>
+<tr>
+  <td colspan="3">Is there something surprising about that or are you just uneducated..? We're currently in the Depths, we Divers blow boatloads of Authority funding on expeditions down here.</td>
+</tr>
+<tr>
+  <td colspan="6">I just thought the Divers didn't kill people as you did.</td>
+</tr>
+<tr>
+  <td colspan="3">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the Depths for all I care. My judgment is absolute.</td>
+</tr>
+<tr>
+  <td colspan="6">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="3">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i>Black Diver</i>, in charge of research site pre-clearing and new recruit field training.</td>
+</tr>
+<tr>
+  <td colspan="6">I want to join the Divers.</td>
+</tr>
+<tr>
+  <td colspan="3">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to Castle Light in one piece and we'll see about your recruitment there.</td>
+</tr>
+<tr>
+  <td colspan="3">Akira returns to Castle Light (End)</td>
+</tr>
+</tbody>
+</table>
 
-| 1\. Wait, I'm not with them. | 2\. Don't mess with the Ignition Union, snake-eyed bookworm trash. \[100 [Charisma](Attributes.md#cha) requirement\] |
-| --- | --- |
-| Akira: _\*The menacing-looking man scans you up and down skeptically for a moment, \*_Well, either way it seems you know your place.
-1.  What are you doing down here?
+**Second Encounter:**
 
-Akira: A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Please don't disturb my reading.</td>
+</tr>
+<tr>
+  <td colspan="12">Does this kind of thing happen often or something?</td>
+</tr>
+<tr>
+  <td colspan="12">More than you know.. more than you know.</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
-1.  Research platoon?
+**Subsequent Encounters:**
 
-Akira: Is there something surprising about that or are you just uneducated..? We're currently in the Depths, we Divers blow boatloads of Authority funding on expeditions down here.
-
-1.  I just thought the Divers didn't kill people as you did.
-
-Akira: Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the Depths for all I care. My judgment is absolute.
-
-1.  Who are you?
-
-Akira: If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank _Black Diver_, in charge of research site pre-clearing and new recruit field training.
-
-1.  I want to join the Divers.
-
-Akira: As I said, I'm quite busy right now, and would love to continue reading this book. Make it to Castle Light in one piece and we'll see about your recruitment there.
-
-Akira: As I said, I'm really quite busy with reading right now, and would love to continue reading this book. Make it to Castle Light in once piece and we'll see about your recruitment there.
-
- | Requirements not met:
-
-Akira: So be it... (Dialogue is cut short by Akira using Top-pop on the player, instantly wiping them)
-
-Requirements met:
-
-\*_The man blinks twice, apparently stunned by your words.\*_ (Dialogue is cut short by Akira Teleporting away.)
-
- |
-
-  
-
-**Second encounter (outside Castle Light)**
-
-> Akira: Please don't disturb my reading.
-> 
-> 1.  Does this kind of thing happen often or something?
-> 
-> Akira: More than you know.. more than you know.
-
-**Castle Light**
-
-> Akira: Do you have some sort of reason for being here? This is territory of the Divers.
-> 
-> 1\. We met before, I want to join the Divers.
-> 
-> Akira: Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.
-> 
-> 1\. To my grave?
-> 
-> Akira: That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.
-> 
-> 1\. Only one or two?
-> 
-> Akira: Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.
-> 
-> 1\. I want to join.
-> 
-> Akira: Don't say I didn't warn you. (Prompt to join the Divers appears.)
-> 
-> 2\. Sounds fun.
-> 
-> Akira: _\*Akira blinks twice apparently stunned before smirking whilst replying,\*_ That may be the spirit needed to join the 2%. (Prompt to join the Divers appears.)
-> 
-> Akira: Hanging around here isn't going to make any progress for us. Get out there and get to work.
-> 
-> 1\. What exactly should I be doing?
-> 
-> Akira: You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.
-> 
-> 1\. Then why are you waiting here?
-> 
-> Akira: _\*You feel murderous intent wash over you as the man glares in your direction\*_ Come again? I didn't quite hear you.
-> 
-> 1\. Nothing.
-> 
-> Akira: As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Do you have some sort of reason for being here? This is territory of the Divers.</td>
+</tr>
+<tr>
+  <td colspan="12">We met before, I want to join the Divers.</td>
+</tr>
+<tr>
+  <td colspan="12">Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.</td>
+</tr>
+<tr>
+  <td colspan="12">To my grave?</td>
+</tr>
+<tr>
+  <td colspan="12">That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.</td>
+</tr>
+<tr>
+  <td colspan="12">Only one or two?</td>
+</tr>
+<tr>
+  <td colspan="12">Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.</td>
+</tr>
+<tr>
+  <td colspan="12">I want to join.</td>
+</tr>
+<tr>
+  <td colspan="12">Don't say I didn't warn you.</td>
+</tr>
+<tr>
+  <td colspan="12"><b>(Prompt appears to join the Divers guild)</b></td>
+</tr>
+<tr>
+  <td colspan="12">Sounds fun.</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*Akira blinks twice, apparently stunned, before smirking whilst replying,*</i> That may be the spirit needed to join the 2%.</td>
+</tr>
+<tr>
+  <td colspan="12">Hanging around here isn't going to make any progress for us. Get out there and get to work.</td>
+</tr>
+<tr>
+  <td colspan="12">What exactly should I be doing?</td>
+</tr>
+<tr>
+  <td colspan="12">You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.</td>
+</tr>
+<tr>
+  <td colspan="12">Then why are you waiting here?</td>
+</tr>
+<tr>
+  <td colspan="12"><i>*You feel murderous intent wash over you as the man glares in your direction*</i> Come again? I didn't quite hear you.</td>
+</tr>
+<tr>
+  <td colspan="12">Nothing.</td>
+</tr>
+<tr>
+  <td colspan="12">As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.</td>
+</tr>
+<tr>
+  <td colspan="3">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Joining [the Divers](The_Divers.md)
 

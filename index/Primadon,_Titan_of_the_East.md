@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 94081
+revid: 94098
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,7 +8,7 @@ categories: [Monsters, Bosses]
 
 # Primadon, Titan of the East
 
-Template:Creature Infobox V3 The Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
+Template:Creature Infobox V3 he Primadon is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>).
 
 ## Description
 
@@ -133,33 +133,48 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 
 ## Lootpool
 
--   [Imperial Staff](Imperial_Staff.md)
+| [Weapons](Weapons.md) | [Equipment](Equipment.md) | Miscellaneous |
+| --- | --- | --- |
+| 
+-   [Imperial Staf](Imperial_Staff.md)
 -   [Stormseye](Stormseye.md)
--   [Star Duster](Imperial_Staff.md)
--   [Star Boots](Imperial_Staff.md)
--   [Deepwoken Cloak](Imperial_Staff.md)
--   [Deepwoken Hood](Imperial_Staff.md)
--   [Forgotten Gladius](Imperial_Staff.md)
+-   [Forgotten Gladius](Forgotten_Gladius.md)
+
+ | 
+
+-   [Star Duster](Star_Duster.md)
+-   [Star Boots](Star_Boots.md)
+-   [Deepwoken Cloak](Deepwoken_Cloak.md)
+-   [Deepwoken Hood](Deepwoken_Hood.md)
 -   [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
--   [Royal Guard's Kabuto](Imperial_Staff.md)
--   [Vigil Hood](Imperial_Staff.md)
--   [Khan Helmet](Imperial_Staff.md)
--   [Authority Helm](Imperial_Staff.md)
--   [Rebel's Bandana](Imperial_Staff.md)
+-   [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>)
+-   [Vigil Hood](Vigil_Hood.md)
+-   [Khan Helmet](Legion_Helmet.md)
+-   [Authority Helm](Authority_Helm.md)
+-   [Rebel's Bandana](<Rebel's_Bandana.md>)
 -   [Nomad Pendant](Nomad_Pendant.md)
--   [Canticlysm Pendant](Nomad_Pendant.md)
+-   [Canticlysm Pendant](Canticlysm_Pendant.md)
 -   [Bloodfeather Mask](Bloodfeather_Mask.md)
--   [Duelist's Mask](Bloodfeather_Mask.md)
+-   Duelist's Mask
 -   [Confessor's Charm](<Confessor's_Charm.md>)
 -   [Imperial Boots](Imperial_Boots.md)
 -   [Brilliant Boots](Brilliant_Boots.md)
 -   [Mercenary's Boots](<Mercenary's_Boots.md>)
 -   [Bluesteel Boots](Bluesteel_Boots.md)
 -   [Novice Brace](Novice_Brace.md)
--   Vibrant gems
--   [Umbral Obsidian](Umbral_Obsidian.md)
 -   All [Rings](Equipment.md)
 -   All [Earrings](Equipment.md)
+
+  
+
+ | 
+
+-   [Deep Gems](Treasures.md)
+-   Vibrant gems
+-   [Umbral Obsidian](Umbral_Obsidian.md)
+-   Ardour Manifestation
+
+ |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 93969
+revid: 94093
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -49,29 +49,29 @@ Where Sibex can be found
   <td colspan="12">Oh? Then what are you?</td>
 </tr>
 <tr>
+  <td colspan="3">None of your business.</td>
   <td colspan="3">A Pathfinder</td>
   <td colspan="3">A Warrior.</td>
   <td colspan="3">A Scholar.</td>
-  <td colspan="3">None of your business.</td>
 </tr>
 <tr>
-  <td colspan="9">Wow... You really are full of yourself, huh?</td>
   <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?</td>
+  <td colspan="9">Wow... You really are full of yourself, huh?</td>
 </tr>
 <tr>
-  <td colspan="9">End</td>
   <td colspan="3">Dialogue Continues</td>
+  <td colspan="9">End</td>
 </tr>
 <tr>
-  <td colspan="9">Sure.</td>
-  <td colspan="3">No.</td>
+  <td>Sure.</td>
+  <td colspan="2">No.</td>
 </tr>
 <tr>
-  <td colspan="9">Great! See you soon!</td>
-  <td colspan="3">Great! see you soon!</td>
+  <td>Great! See you soon!</td>
+  <td colspan="2">End</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

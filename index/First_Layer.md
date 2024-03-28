@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 94072
+revid: 94088
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -49,7 +49,7 @@ Once all bells have been rung, a bell choir will be heard across Scyphozia, poss
 
 ### **Method 2:** Sub-Elevator / Toll
 
-A small sub-elevator is located within the city section, entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator.
+A small sub-elevator is located within the city section entered through the flat gate. Nearby is a lever that can be interacted with. For a fee of 25 notes, the sub-elevator will rise to the main elevator.
 
 **Warning: Directly next to this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator.** (Note that due to its popularity, however, it's more likely that it will not be present.)
 
@@ -59,7 +59,7 @@ File:Depths Sub-Elevator.png
 
 Although directly climbing the City Walls with barrels atop roofs was once a popular strategy, its effectiveness has been reduced. The white city columns are no longer possible to climb. It is still possible to land directly atop the walls, however, as listed below.
 
-Locate a building near the walls of the city, and create an immense tower of barrels (15-20). Alternatively, utilize vertical movement mantras, such as [Flame Leap](Flamecharm.md).
+Locate a building near the walls of the city, and create an immense tower of barrels (15-20). Alternatively, utilize vertical movement mantras, such as [Flame Leap](Flamecharm.md). Once atop the wall, you may enter the elevator room by walking to the center of the city.
 
 _This method is no longer the recommended strategy for reaching the elevator._
 
@@ -69,9 +69,9 @@ _This method is no longer the recommended strategy for reaching the elevator._
 
 ― "The Song of Fathoms / Oscillation"
 
-Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) sentences you to a fight against increasingly difficult enemies. Below are the current mobs you will be forced to fight depending on your level. If you happen to bring players along with you up the elevator, the enemy type encountered in the trial is decided by the highest power present. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
+Template:Areainfobox The [Voices of the Depths](Voices_of_the_Depths.md) have you prove your worth by putting forth a difficult fight, dependent on your current strength. If there are multiple players in the trial room, the enemy type encountered in the trial is decided by the highest power present. Every other player will not contribute to the enemy count unless they meet the requirement to spawn the chosen enemy type (Ex. one power 20 player and two power 13 players will only spawn a single [Enforcer](Enforcer.md)).
 
-Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Escaping also cleanses the health bar, and removes any combat tags the player currently has.
+Completing the trial for the first time grants the talent "[Depths Connection](Cut_Content.md#talents)", which allows the player to easily draw ether from the surrounding air, boosting ether regeneration. Once the trial is completed, players are also granted total immunity to damage until they are teleported out of the Depths. Note that escaping will always cleanse the health bar.
 
 ### _Note:_
 
@@ -99,7 +99,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 -   Furthermore, in rare (and unlucky) cases, monsters can simultaneously spawn **Attuned** **AND** Corrupted.
     -   This corrupted factor will **always apply** if you or anyone else has the Echo modifier **"Deep Champion"**, meaning you'll face a corrupted version of a trial monster before escaping the Depths.
         -   It is highly recommended to be wary of players in the cathedral's elevator.
-        -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation.
+        -   In the case you are suspicious of a player once the elevator has reached the top, you are technically not combat tagged, meaning you can safely leave the server before or during the voices' conversation. Note that leaving the server in the trial room will always teleport you to outside of the gate.
             -   Also note that all barrels despawn prior to reaching the top. Any barrel that remains is a player using [Disguise](Mime.md).
 -   Once the monster spawns, you will automatically be locked in combat. The combat tag in the Depths trial takes 10 minutes to despawn.
     -   Regardless, low-level trial mobs will allow you to outwait the combat tag by simply climbing on top of the chains and waiting. Mobs with long-range attacks or pull moves, such as angels, megalodaunts, and enforcers, do not allow this.
@@ -109,7 +109,8 @@ _Trial Power and Power are two different things; See above as well as below tabl
     -   Example: Two power 16 players will spawn one Enforcer. But if both players are power 17, two Enforcers will spawn.
     -   Example: One player is power 10 and another is anywhere below power 10. Regardless of the second player's power, 2 megalodaunts will still spawn.
 -   Those with the Deepbound origin must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of power.
--   If you have over 10 (?) drowns, some of the voices lines are cut out, making the trial go by much faster.
+    -   Curiously, a Power 1 Deepbound and Power 20 Non-Deepbound will spawn just one Enforcer.
+-   If you have over 10 (?) drowns, some of the voices lines are cut out, causing the trial to begin quicker.
 
 ## **Farming in First Layer**
 

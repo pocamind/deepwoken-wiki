@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 93469
+revid: 94091
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Layer 2, Floor 1]
@@ -129,43 +129,76 @@ Beating Chaser by entering Layer 2 without a Light Hook will grant you the "Hook
 
 ## Dialogue
 
-**Key: (C) = Chaser (1,2,3 etc.) = Dialogue option(s) | The bullet point signifies a branch of dialogue that can be followed**
+**First Encounter:**
 
-### **First encounter**
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Oh, a human? Far from home are we?</td>
+</tr>
+<tr>
+  <td colspan="6">What happened here?</td>
+  <td colspan="6">[Attack mid-dialogue]</td>
+</tr>
+<tr>
+  <td colspan="6">Oh here? Well, first I disposed of my mutinous team, now I am searching for <b>the City.</b></td>
+  <td colspan="6">Aha, the first strike? Not one to mince words are we?</td>
+</tr>
+<tr>
+  <td colspan="6">They mutinied?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td colspan="6">Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the <b>City</b>.</td>
+</tr>
+<tr>
+  <td colspan="6">The City?</td>
+</tr>
+<tr>
+  <td colspan="6">Oh you don't know? This tower sits atop <b>New Kyrsa, the Sleeping City</b>. There lies the so-called bedchambers of the <b>Drowned God Ethiron</b>. Together perhaps we could - [ATTACKS]</td>
+</tr>
+<tr>
+  <td colspan="6">You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.</td>
+</tr>
+<tr>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
 
-**(C)** - Oh, a human? Far from home are we?
+**Subsequent Encounters:**
 
-**(1)** - What happened here?
-
-**(C)** - Oh here? Well, first I disposed of my mutinous team, now I am searching for **the City.**
-
-**(1)** - They mutinied?
-
--   **(C)** - Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the **City**.
-
-**(2)** - The City?
-
-**(C)** - Oh you don't know? This tower sits atop **New Kyrsa, the Sleeping City**. There lies the so-called bedchambers of the **Drowned God Ethiron**. Together perhaps we could - \[ATTACKS\]
-
-**(C)** - You don't belong here kid, falling for the oldest trick in the book... I'll make quick work of this.
-
-### **Future encounter(s)**
-
-**(C)** - How strange... Time truly does run amok when drawn into Ethiron's Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?
-
-**(1)** - Ethiron's Wake?
-
--   **(C)** - This close to the Drowned God Ethiron, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams. \[ATTACKS\]
-
-**(C)** - Ha? Really?! Gods below, you really are such a FOOL.
-
-**(2)** - I won't be fooled again.
-
--   **(C)** - Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? After we met in your time, did you make it to the- \[ATTACKS\]
-
-### If you attack him mid-dialogue
-
-**(C)** - Aha, the first strike? Not one to mince words are we?
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">How strange... Time truly does run amok when drawn into Ethiron's Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?</td>
+</tr>
+<tr>
+  <td colspan="4">Ethiron's Wake?</td>
+  <td colspan="4">I won't be fooled again.</td>
+  <td colspan="4">[Attack mid-dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4">This close to the Drowned God Ethiron, time itself is drawn into the Gale. The natural rules of causality, of cause and effect, all start to fray at the seams. [ATTACKS]</td>
+  <td colspan="4">Again? It hasn't happened yet. Not in my time. There's still time left to talk this through, no? After we met in your time, did you make it to the- [ATTACKS]</td>
+  <td colspan="4">Aha, the first strike? Not one to mince words are we?</td>
+</tr>
+<tr>
+  <td colspan="4">Ha? Really?! Gods below, you really are such a FOOL.</td>
+  <td colspan="4">End</td>
+  <td colspan="4">End</td>
+</tr>
+<tr>
+  <td colspan="4">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 

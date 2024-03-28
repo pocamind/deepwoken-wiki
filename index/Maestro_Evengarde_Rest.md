@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94076
+revid: 94089
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -116,30 +116,39 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   Deep Gems such as Bloodless Gem will extremely be useful as a source of healing against Maestro Evengarde Rest.
 -   Enchant such as Vampirism can be very useful as each M1 will heal your hp if you are low on hp.
 
-## Lootpool
+## Loot Table
+
+| [Outfit Schematics](Outfits.md) | [Equipment](Equipment.md) | [Weapons](Weapons.md) | Miscellaneous |
+| --- | --- | --- | --- |
+| 
+-   [Windrunner Robes](Windrunner_Robes.md)
+-   [Justicar's Armor](<Justicar's_Armor.md>)
+
+ | 
+
+-   All [Rings](Equipment.md)
+
+ | 
 
 -   [Purple Cloud](Purple_Cloud.md) (Guaranteed on the first kill with Medium)
 -   [Pale Briar](Pale_Briar.md) (Guaranteed on first kill with Heavy)
 -   [Cerulean Thread](Cerulean_Thread.md) (Guaranteed on first kill with Light)
--   [Enchant Stone](Enchant_Stone.md)
 -   [Crypt Blade](Crypt_Blade.md)
 -   [Imperial Staff](Imperial_Staff.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
--   [Windrunner Robes](Windrunner_Robes.md) (Schematic)
--   [Justicar's Armor](<Justicar's_Armor.md>) (Schematic)
 -   [Iron Blunderbuss](Iron_Blunderbuss.md)
--   Maestro's Ring
--   Rosen's Ring
--   Prophet's Ring
--   Dawnfist Ring
--   Akiras Ring
--   Moon Ring
--   Finisher's Ring
--   Bloodiron Ring
--   All Relics
--   Ardour Manifestation
 
-Due to his loot-pool's size, he will mainly drop **Enchant Stones**, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md). Because of this, it is wiser to farm [Primadon](Primadon,_Titan_of_the_East.md) to get the [Imperial Staff](Imperial_Staff.md) as it will drop more often from them
+ | 
+
+-   [Deep Gems](Deep_Gems.md)
+-   [Enchant Stones](Enchant_Stone.md)
+-   Ardour Manifestation
+-   All [Relics](Relics.md)
+
+ |
+
+  
+Due to his loot-pool's size, he will mainly drop **Enchant Stones**, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Trivia
 
