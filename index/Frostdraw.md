@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 94054
+revid: 94153
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -119,10 +119,13 @@ _Revolving blades of ice._
 
  | Form 4 swords of ice around the user, which rapidly rotate for a few seconds before shooting off into the distance.
 
+  
+
 -   Deals light damage.
 -   Every projectile applies 1 sec chill, can't be increased.
 -   Hits multiple times in a row.
 -   Incredibly good with the **Glass Path: Crystallization** talent.
+-   the aoe can be increased with 2 stratus stones.
 
  |
 | 
@@ -383,7 +386,7 @@ _Send ice rippling out in a shockwave._
 -   Up to 3 Obelisks can be active on the field at any time.
 -   Recasting this mantra near an active Obelisk causes it and all others placed to explode.
 -   Summons wherever the user's mouse is pointed, at a range.
--   Creating an Obelisk on top of target(s) will stun them for 10 seconds.
+-   Creating an Obelisk on top of target(s) will stun them for 1 second.
 
  |
 

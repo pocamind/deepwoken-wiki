@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 92626
+revid: 94147
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
@@ -25,41 +25,44 @@ He has unique dialogue if spoken to as an Adret.
 
 ## Dialogue
 
-Normal Dialogue
+|-|Normal Dialogue=
 
-You ever think about the Adret? They really aren't like the rest of us.
-
-1.  Uhh....
-
-Well, the rest of us take after animals, right? Snakes, deers, insects, and so on. But the Adret... They don't have any of those traits right?
-
-1.  I guess.
-
-Not to mention their origins are a little unclear, no? I've done some reading. Of _Old Texts_, right?
-
-1.  Go on.
-
-So these old books speak here and there of the people back then, only, there's no mention of the Adret anywhere. It's like they came into existence with the waves themselves...
-
-1.  \[End Dialogue\]
-
-Adret Dialogue
-
-You ever think about the Adret? They really aren't like the rest of us.
-
-1.  Uhh...
-
-Oh. Uh. No offence. Just, well, the rest of the people in this world take after animals, right? Whereas you... Well, you don't, right?
-
-1.  I guess.
-
-Not to mention their origins are a little unclear, no? I've done some reading. Of _Old Texts_, right?
-
-1.  Go on.
-
-So these old books speak here and there of the people back then, only, there's no mention of the Adret anywhere. It's like they came into existence with the waves themselves...
-
-1.  \[End Dialogue\]
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">You ever think about the Adret? They really aren't like the rest of us.</td>
+</tr>
+<tr>
+  <td colspan="12">Uh...</td>
+</tr>
+<tr>
+  <td colspan="6"><b>Player is not Adret</b></td>
+  <td colspan="6"><b>Player is Adret</b></td>
+</tr>
+<tr>
+  <td colspan="6">Well, the rest of us take after animals, right? Snakes, deers, insects, and so on. But the Adret... They don't have any of those traits right?</td>
+  <td colspan="6">Oh. Uh. No offence. Just, well, the rest of the people in this world take after animals, right? Whereas you... Well, you don't, right?</td>
+</tr>
+<tr>
+  <td colspan="12">I guess.</td>
+</tr>
+<tr>
+  <td colspan="12">Not to mention their origins are a little unclear, no? I've done some reading. Of <i>Old Texts</i>, right?</td>
+</tr>
+<tr>
+  <td colspan="12">Go on.</td>
+</tr>
+<tr>
+  <td colspan="12">So these old books speak here and there of the people back then, only, there's no mention of the Adret anywhere. It's like they came into existence with the waves themselves...</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
