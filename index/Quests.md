@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 94140
+revid: 94161
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -204,11 +204,11 @@ These quests usually give XP, Reputation and/or an item.
 
 **Reward/s**: Campfire & Repair Kit recipe, EXP.
 
-**Ilji and Nanji:**
+**Travelling Blade:**
 
 **Quest Location**: Etris and Vigils
 
-**Guide**: Talk to [Nanji](Nanji.md) at Etris near the bridge between Lance Leshi's and the barber, interact with a sword reached through a zipline near the mantra training item shop in Vigils, then talk to the Nanji again.
+**Guide**: Talk to [Nanji](Nanji.md) at Etris near the bridge between Lance Leshi's and the barber, interact with a sword reached through a zipline near the mantra training gear shop in Isle of Vigils, then talk to the Nanji again.
 
 **Reward/s**: EXP, Compassion.
 

@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 94008
+revid: 94168
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Enemies that can wield Enchantments]
@@ -77,6 +77,8 @@ Template:Creature Infobox V3 These Angels are like no other variants - they are 
 
 -   **Bear Trap** - Getting hit with Angel's critical will disable your jumps and slow you down for a duration
     
+
+File:Best.png
 
 ## Trivia
 
