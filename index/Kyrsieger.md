@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 94029
+revid: 94121
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -34,15 +34,14 @@ It drops exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md).
 
 ## Critical
 
-The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. It will fire faster but deal less posture damage if the critical attack button is not held down to charge it. Only insta-guardbreaks at max charge. You cannot parry this, regardless of whether it was charged or not.
+The critical has the user lower the blade and charge a blast before unleashing a thin, forward facing beam of purple energy. It will fire faster but deal less posture damage if the critical attack button is not held down to charge it. Only insta-guardbreaks at max charge. It cannot be parried this, regardless of whether it was charged or not.
 
-**8s Cooldown**
+This has a cooldown of eight seconds.
 
 ## Trivia
 
 -   The first weapon to scale off of and require Charisma, and the second Greatsword (after [Crypt Blade](Crypt_Blade.md)) to scale off of a second stat.
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the Scion of Ethiron than the Kyrsgarde.
--   Kyrsieger is one of the only two weapons to drop from a single source, the other weapon being the [Flareblood Kamas](Flareblood_Kamas.md).
-    -   Coincidentally, both weapons require fighting a boss in Layer 2 to acquire them.
+-   Kyrsieger is one of only three weapons to drop from a single source, the other weapons being the [Flareblood Kamas](Flareblood_Kamas.md) and [Stoneheart](Stoneheart.md).
 -   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is likely a bug.
--   The Kyrsieger was used in an assault on Constellia, the city Kaide ruled over.
+-   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94105
+revid: 94130
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -20,14 +20,14 @@ Template:EnemyInfobox1.0
 
 Maestro Evengarde Rest is the master of the Temple of the Blade and the current Maestro of Etrea. A powerful individual, he will train and assist only those who he sees fit, so that Etrea, its people and its culture may not be swept away in the machinations of other nations.
 
-Upon challenging Maestro Evengarde Rest to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards, If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
+Upon challenging Maestro Evengarde Rest to a fight, the player is transported to the [Temple Sparring Hall dungeon](<Temple_Sparring_Hall_(Dungeon).md>). Winning the fight will allocate the player a chest of rewards. If it is his first defeat, a guaranteed smaller chest will spawn, holding a unique weapon based on what weapon type you are using; ([Purple Cloud](Purple_Cloud.md) for medium, [Pale Briar](Pale_Briar.md) for heavy, [Cerulean Thread](Cerulean_Thread.md) for light). Losing will cause the player to lose a life and gain the [Disgraced](Boons_and_Flaws.md) flaw (which can be removed by eventually defeating him). After beating Evengarde once, you will not gain the Disgraced flaw upon further losses.
 
 To start the fight with Maestro Evengarde Rest:
 
 1.  Achieve (slightly higher than) Ally reputation with the Kingdom of Etrea (higher than Friend reputation).
     -   The threshold reputation to challenge him appears to be slightly higher than what's required for ally reputation. If the other conditions have been fulfilled and you still can't challenge him, you can try increasing your reputation a little bit more.
 2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
-3.  Have the stat requirements (80 WPN. MIGHT need at least power 15)
+3.  Have 80 in one Weapon Stat.
 4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.

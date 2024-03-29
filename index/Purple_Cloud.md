@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 94057
+revid: 94128
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -27,19 +27,19 @@ categories: [Weapons, Swords, Katanas]
 
 ## Description
 
-The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, low chance afterward). It's part of a trio of weapons from the Maestro's arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilises your fists and legs to attack, the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the movesets of swords with those of [Fists](Fists.md).
+The Purple Cloud is a Boss drop [Medium Weapon](Weapons.md), obtained after defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) (guaranteed on first win, low chance afterward). It's part of a trio of weapons from the Maestro's arsenal, its counterparts being the [Pale Briar](Pale_Briar.md) (HVY) and [Cerulean Thread](Cerulean_Thread.md) (LHT). The Purple Cloud mainly utilizes your fists and legs to attack, the blade itself only being employed during its critical where you perform a single, powerful strike. Effectively, it combines the move sets of swords with those of [Fists](Fists.md).
 
-Akin to the [Shattered](Shattered_Katana.md) and [Alloyed](Katana.md#alloyed) katanas, the "Paired Soul" talent (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md)) increases its damage by 5%.
+Akin to the [Shattered](Shattered_Katana.md) and [Alloyed](Katana.md#alloyed) katanas, the "[Paired Soul](Talents.md)" talent (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md)) increases its damage by 5%.
 
 ## Critical
 
-The user leans down, grabbing the blade's handle before dashing forwards. If there is a target ahead, the user teleports behind them and unsheathes the Purple Cloud, quickly slashing at them with a purple flash before sheathing the blade once again. This crit is not a true guardbreak, but its posture damage is exceptionally high. It has a cooldown of 7 seconds.
+The user leans down and grabs the blade's handle before dashing forwards. If there is a target ahead, the user teleports behind them and unsheathes the Purple Cloud, quickly slashing at them with a purple flash before sheathing the blade once again. This critical is not a true guard break, but its posture damage is exceptionally high. It has a cooldown of 7 seconds.
 
 ## Trivia
 
 -   Despite being considered a "katana," the Poser's Ring doesn't work with it.
 -   Despite being a pseudo fist-type weapon, it does not proc/activate talents related to fists.
--   Its critical attack is based off the martial art "Iaido".
--   Currently bugged when enchanted with Stormbreaker; upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
--   May be inspired by the sword Emna from one piece, as both are purple, have a will of their own and using it for an extended period of time can be fatal
--   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average range, damage and attack speed as what you would expect from a med weapon.
+-   Its critical attack is based off the martial art "Iaido."
+-   Currently bugged when enchanted with [Stormbreaker](Enchantments.md); upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
+-   May be inspired by the sword Emna from _One Piece_, as both are purple, have a will of their own and using it for an extended period of time can be fatal.
+-   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average range, damage and attack speed as what you would expect from a medium weapon.

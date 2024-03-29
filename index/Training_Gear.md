@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 91653
+revid: 94113
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attributes, Attunement]
@@ -82,7 +82,7 @@ Like Attributes, Attunements also have Training Items correlated to them and wil
 -   [Shadowcast](Shadowcast.md) - Pure Heart for Template:Cost with 100 uses
 -   Galebreath - Gale Kata for Template:Cost with 100 uses
 -   [Ironsing](Ironsing.md) - Ferrofluid for Template:Cost with 100 uses
--   Location - [Etris](Etris.md) Mantra Shop next to the Inn & Weapon Shop, [Isle of Vigils](Isle_of_Vigils.md) Mantra Shop after reaching the end of a bridge pathway outside, Fifth floor [Greathive Aratel](Greathive_Aratel.md) Library next to the Telescope, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md)
+-   Location - [Etris](Etris.md) Mantra Shop next to the Inn & Weapon Shop, [Isle of Vigils](Isle_of_Vigils.md) Mantra Shop after reaching the end of a bridge pathway outside, Fifth floor [Greathive Aratel](Greathive_Aratel.md) Library next to the Telescope, [Summer Isle](Summer_Isle.md) Shop, and upstairs in [Castle Light](Castle_Light.md), [Miner's Landing](<Miner's_Landing.md>) climbing a Union Hook than straight and house behind [Ignition Union Guard](Ignition_Union_Guard.md)
 -   Training - Using Mantras in combat, eating elemental ingredients
 
 ## Trivia

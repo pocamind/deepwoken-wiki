@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 94104
+revid: 94112
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -131,7 +131,7 @@ Automatically used when dropping below 50% health. Signified by a red mist that 
 -   Primadon has the most "end-lag" after it uses **Trample**, or **Stomp** followed by **Trample/Stomp**. If it **Kicks** after a **Stomp** then the end-lag will be significantly lower.
 -   If you see the right foot raise, prepare for **Trample** and if you see the left foot raise (_not_ swing back, as this represents **Kick**,) prepare for one **Stomp**. Dodge the **Kicks** and parry the **Stomps** and success will be certain.
 
-## Lootpool
+## Loot Table
 
 | [Weapons](Weapons.md) | [Equipment](Equipment.md) | Miscellaneous |
 | --- | --- | --- |
