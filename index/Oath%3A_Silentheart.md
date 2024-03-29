@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 93888
+revid: 94134
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -64,7 +64,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   **Lodestar - Passive**
     -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
--   **Ankle Cutter - Passive**
+-   **Ankle Cutter - Agresive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
         -   Damage and speed of the attack scales on your weapon.
         -   Can be used while sliding down slopes at no cost to your speed.

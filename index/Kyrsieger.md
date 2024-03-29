@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 94121
+revid: 94145
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -40,7 +40,7 @@ This has a cooldown of eight seconds.
 
 ## Trivia
 
--   The first weapon to scale off of and require Charisma, and the second Greatsword (after [Crypt Blade](Crypt_Blade.md)) to scale off of a second stat.
+-   The second weapon to scale off of and require Charisma after Lorenzo's Glaive, and the second Greatsword (after [Crypt Blade](Crypt_Blade.md)) to scale off of a second stat.
 -   This weapon is designed noticeably differently from other weapons prefixed "Kyrs." This may be a result of it being more closely tied to the Scion of Ethiron than the Kyrsgarde.
 -   Kyrsieger is one of only three weapons to drop from a single source, the other weapons being the [Flareblood Kamas](Flareblood_Kamas.md) and [Stoneheart](Stoneheart.md).
 -   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is likely a bug.

@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 93876
+revid: 94135
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -69,7 +69,7 @@ Normal Waypoints will be colored yellow as usual. Presets don't replace the amou
 When obtained, Teleportation will spend its points on the following stats:
 
 -   **Max amount of markers:** The more points are spent on this stat; the more markers can be placed at once.
--   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around, but does not persist through servers.
+-   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around and persist through servers.
 -   **Travel Speed:** The more points are spent on this stat, the faster the players are taken from the starting point to the marker.
 -   **Charge Speed:** The more points are spent on this stat, the faster the teleportation starts.
 
