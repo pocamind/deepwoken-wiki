@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 94300
+revid: 94307
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -193,11 +193,11 @@ Across the lumen, islands and outposts will appear in the seas. Their difficulty
 -   **Tower in the Water:**
     -   A tower can spawn in the Etrean Sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give two Erisia-tier chests.
 -   **Isle of Outlaws:**
-    -   A sand island with a hut spawns in the sea, with several [Cloaked Assassins](Cloaked_Assassin.md) standing on it. Defeating all of them will reward you with two large chests of Upper Erisia loot.
+    -   A sand island with either a hut or a tower spawns in the sea. Defeating all of them will reward you with two large chests of Upper Erisia loot.
 -   **Overrun Stronghold:**
-    -   The ruins of a stronghold littered with multiple [Threshers](Thresher.md). Defeating all of them will reward you with one large chest of Starswept(?) loot and one large chest of Erisia loot.
+    -   The ruins of a stronghold. Defeating all of them will reward you with one large chest of Starswept loot and one large chest of Erisia loot.
 -   **Carbuncle's Palm:**
-    -   A rock island vaguely resembling a hand, with coral and [Carbuncles](Carbuncle.md) scattered across it. Defeating all of them will reward you with one large chest of Depths loot and one large chest of Erisia loot.
+    -   A rock island vaguely resembling a hand, with corals on it. Defeating all of them will reward you with one large chest of Depths loot and one large chest of Erisia loot.
 
 #### Traveling Merchant
 

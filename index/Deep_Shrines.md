@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 93986
+revid: 94317
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -90,7 +90,7 @@ For 1 Knowledge, you can trade 1 of your Mastery Points into another Mastery.
 
 Located in the [Fort Merit](Fort_Merit.md) Prison (through the tunnel in Brutus' cell).
 
-When using this shrine, please make sure to **check if you burned the card you're trying to get**, or **if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 500 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
+When using this shrine, please make sure to **check if you burned the card you're trying to get**, or **if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 5 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
 ## Effect
 

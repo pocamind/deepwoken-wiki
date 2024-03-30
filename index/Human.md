@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 91798
+revid: 94313
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -14,13 +14,13 @@ Template:Races-Main
 
 ## Description
 
-The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Robert Trujillo. This is an unobtainable race, which is NPC exclusive. As of now, the human race is known to give no buffs, as they are only human, after all. Humans first (and only) appeared in The in-game [Metallica '72 Seasons' Listening Party.](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) though they existed before that in the lore.
+The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Robert Trujillo. This is an unobtainable race, which is NPC exclusive. The human race is known to give no buffs, as they are only human, after all. Humans first (and only) appearance is the in-game [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
 
 ## Miscellaneous
 
 **Lore:**
 
-All races were formerly human before they made their hereditary vows which caused most humans to eventually go extinct.
+All Races were formerly "human" before they made their hereditary vows which caused those with purely human characteristics to eventually go extinct. While the Races are still biologically _homo sapiens_, they have additional characteristics, like the various breeds of cat and dog that exist in real life.
 
 **Strengths:**
 
@@ -41,7 +41,6 @@ We are only human, after all.
 
 ## Trivia
 
--   Humans are mostly extinct. If not completely, it is unknown if some managed to survive.
 -   The songs that Humans in-game are able to perform are:
     -   72 Seasons - Metallica
     -   King Nothing - Metallica

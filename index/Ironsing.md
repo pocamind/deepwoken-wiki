@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 93980
+revid: 94309
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -269,6 +269,8 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   Can be upgraded with **Aeon/Eternal Logstones** for increased duration.
 
 Does not negate deferred, fire or fall damage.
+
+"Nanomachines son!"
 
  |
 | 
