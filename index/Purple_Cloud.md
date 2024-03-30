@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 94128
+revid: 94282
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Katanas]
@@ -42,4 +42,5 @@ The user leans down and grabs the blade's handle before dashing forwards. If the
 -   Its critical attack is based off the martial art "Iaido."
 -   Currently bugged when enchanted with [Stormbreaker](Enchantments.md); upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
 -   May be inspired by the sword Emna from _One Piece_, as both are purple, have a will of their own and using it for an extended period of time can be fatal.
+-   May additionally be inspired by the Edict Edge 'Naught' from Honkai: Star Rail, as both are purple and are used similarly, unsheathing it only briefly for attacks.
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average range, damage and attack speed as what you would expect from a medium weapon.

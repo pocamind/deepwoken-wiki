@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 93893
+revid: 94283
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Description, Requirement, Critical, Heavy weapon]
@@ -46,3 +46,7 @@ The Requirement to use this weapon is :
 ## Critical
 
 pale briar crit
+
+## Trivia
+
+-   Has the second highest HVY requirement of any weapon in the game, followed by the [Hivelord's Hubris](<Hivelord's_Hubris.md>).

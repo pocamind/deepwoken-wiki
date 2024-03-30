@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 94254
+revid: 94300
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -130,10 +130,6 @@ Sparse cloud of black feathers that gently fall down around an area. Upon enteri
 
 In Etris two [bandits](Bandit.md) can spawn in front of the guards near the entrance. Helping the guards will reward you, giving you XP and reputation. This event does not spawn a chest. This event is triggered to occur when a player comes within range of the entrance so hearing this event without your presence is a blatant sign of another player. There's a small chance for them to drop low tier mantra modifiers. At the [Isle of Vigils](Isle_of_Vigils.md), they spawn on a bridge leading to the [Barber](Barber.md) shop.
 
-#### Tower in the Water
-
-A tower can spawn in the Etrean Sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give an Erisia tier chest on top of the tower. Then, you wait for the tower to sink down and another Erisia tier chest will spawn.
-
 #### Brainsucker Swarm
 
 Happens when you're running around [Starswept](The_Starswept_Valley.md) or [Minityrsa](Minityrsa.md). Two [Brainsuckers](Brainsucker.md) spawn in mid air and swarm their prey, all dive bombing them at once. Killing them spawns a chest in the fitted area.
@@ -190,9 +186,18 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an [Authority Soldier](Authority_Soldier.md). Upon killing it, a chest will spawn in the ship with mid tier loot.
 
-#### Island
+#### Sea Outpost/Island
 
-A sand island with a broken tower shows up at the sea. Several [Cloaked Assassin](Cloaked_Assassin.md) standing on it. Defeat all of them will rewards you a chest and exp.
+Across the lumen, islands and outposts will appear in the seas. Their difficulty scales depending on the level of nearby players, butting stronger enemies against stronger players. Of course, that comes with better quality loot. An outpost will grant two chests upon being completed, one accessible on its traversible area and another resting on the waters once it disappears.
+
+-   **Tower in the Water:**
+    -   A tower can spawn in the Etrean Sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give two Erisia-tier chests.
+-   **Isle of Outlaws:**
+    -   A sand island with a hut spawns in the sea, with several [Cloaked Assassins](Cloaked_Assassin.md) standing on it. Defeating all of them will reward you with two large chests of Upper Erisia loot.
+-   **Overrun Stronghold:**
+    -   The ruins of a stronghold littered with multiple [Threshers](Thresher.md). Defeating all of them will reward you with one large chest of Starswept(?) loot and one large chest of Erisia loot.
+-   **Carbuncle's Palm:**
+    -   A rock island vaguely resembling a hand, with coral and [Carbuncles](Carbuncle.md) scattered across it. Defeating all of them will reward you with one large chest of Depths loot and one large chest of Erisia loot.
 
 #### Traveling Merchant
 

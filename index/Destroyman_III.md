@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 94251
+revid: 94285
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -170,7 +170,6 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 ## Removed Quotes
 
 -   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
--   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza at the white tree in Etris unlocks a secret sixth attunement.
 
 ## Trivia
 

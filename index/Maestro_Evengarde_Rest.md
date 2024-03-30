@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94224
+revid: 94294
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -102,19 +102,19 @@ Maestro Evengarde Rest executes his opponent after knocking them:
 
 Maestro Evengarde Rest is a rather straightforward fight compared to most other bosses, opting out of any gimmicks or puzzles and instead being a simple duel. A decent mastery of how to parry trade with humanoid NPCs is required to resist his attacks.
 
--   His moveset incorporate a mix of a quick, but also delayed moves, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
--   Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) or [Summer Dragoon](Summer_Dragoon.md) might also help in the fight as they both have a whopping total of 55% Wind Armor.
+-   His moveset incorporate a mix of quick and delayed moves both, which can catch you off guard and make you lose a parry. If you failed a parry, use a dodge as an attempt to recover.
+-   Obtaining and equipping the [Windrunner Robes](Windrunner_Robes.md) or [Summer Dragoon](Summer_Dragoon.md) can help in the fight as they both have a whopping total of 55% Wind Armor.
     -   The [Ferryman's Coat](<Ferryman's_Coat.md>) can be used as a substitute.
 -   Providence's Thorn is a great enchantment for this fight, as most of his moveset consist of multihits. You will be dealing 500 damage per parry very often.
 -   Chip Damage from weapons such as Shotel, Alloyed Messer, Alloyed Shotel, Alloyed Katana, Kyrsblade, Serrated Warspear, Bloodtide Trident, True Seraph's Spear, Curved Blade of Winds and the enchant Obfuscation will easily chip through his block.
+    -   Maestro always attempts to block [Stoneheart](Stoneheart.md) and will be block broken as a result.
 -   Rest, like [Duke Erisia](Duke_Ishamon_Erisia.md), has a Talent that completely counters insta-guardbreaks, playing a sound effect along with a white deflection visual when this talent procs. To counter this Talent and guardbreak him, you must use high posture damage attacks that do not insta-guardbreak.
     -   Examples of this are multi-hit moves like Shattered Katana critical or Shadow Gun modified with a Blast Spark. You can also use criticals that do high posture damage without insta-guardbreaking like the Sword critical and Purple Cloud critical.
     -   Examples of attacks you cannot use are Sacred Hammer critical and Eclipse Kick.
         -   While Eclipse Kick and other Mantra Guardbreaks do heavily damage his posture, criticals such as Sacred Hammer do **2** posture damage to him, thus it is not recommended to use Instant Guardbreak weapons over high posture damage weapons.
     -   If you are using Chip Damage or Providence's Thorns in order to defeat Maestro, guardbreaking him isn't necessary. If you have the options previously mentioned, you can use those instead.
--   If you don't have providence thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using ardour can help to guard break him if you don’t have providence thorns or any type of chip damage.
--   Deep Gems such as Bloodless Gem will extremely be useful as a source of healing against Maestro Evengarde Rest.
--   Enchant such as Vampirism can be very useful as each M1 will heal your hp if you are low on hp.
+-   If you don't have Providence Thorns and he uses a multi-hit attack, it's best to dodge and get out of the vicinity. (Alternatively, if you are already caught, you can either block or spam parry while moving backwards.) There's no real point in parrying all of the hits, and you are bound to get hit, applying suffocation and messing up your chain of perfection. Using Ardour can help to guard break him if you don’t have Providence Thorns or any type of chip damage.
+-   Healing from Bloodless Gem, Vampirism, or potentially No Life King can prove useful as a source of healing against Maestro Evengarde Rest, provided you can proc the former two and survive long enough for the latter to matter.
 
 ## Loot Table
 
@@ -137,6 +137,8 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Imperial Staff](Imperial_Staff.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 -   [Iron Blunderbuss](Iron_Blunderbuss.md)
+-   [Shattered Katana](Shattered_Katana.md)
+-   [Forgotten Gladius](Forgotten_Gladius.md)
 
  | 
 
@@ -148,7 +150,9 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
  |
 
   
-Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md).
+Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**, and good starred equipment, though farming him for relics such as [Sinner's Ash](<Sinner's_Ash.md>) may prove faster than farming [Duke Erisia](Duke_Ishamon_Erisia.md) due to the ease and speed of accessing his fight.
+
+Out of the Deep Gems, he has the highest weighting for Wind Gems, followed by Wayward Gems. Maestro's Ring is weighted more strongly than other rings.
 
 ## Trivia
 
@@ -166,6 +170,7 @@ Despite his loot-pool's variety and size, he will mainly drop **Enchant Stones**
 -   Despite apparently having immunity to knockdowns, the [Starkindred](Oath%253A_Starkindred.md) oath mantra [Ascension](Oath%253A_Starkindred.md) still knocks him down, allowing room for combos.
 -   Unlike all the other bosses in the game, defeating the Maestro does not reward [Echoes](Echoes.md).
     -   This technically makes him the only "optional" boss in the game, as he is not required for W Rank.
+        -   This may be due to requiring 80 Weapons instead of 75; it is already impossible to receive W Rank on any build that cannot use Pluripotent Alloy.
 -   Spitting on Maestro Evengarde Rest both before the fight and during it makes his character say the following dialogue:
     -   _"This is how you treat my generosity?"_
     -   After this, he instantly kills you.
