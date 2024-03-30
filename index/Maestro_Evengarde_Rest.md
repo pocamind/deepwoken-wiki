@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94159
+revid: 94224
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -48,7 +48,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Extremely difficult to react to, having an extremely fast windup.
 
  | ◯ | ◯ | ◯ | (★★★) |
-| **Mortal Draw: Skibidi Slicers** | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
+| **Mortal Draw: Floating Passage** | Rest raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final unparriable upwards swing. | ◯ | ◯ | ◯ | (★★★) |
 | **Mortal Draw: Dharma Descent** | Leaps into the air, with his trajectory marked by a white light, before plunging his sword into the ground, unleashing green shockwaves. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Mortal Draw: One Mind** | Draws his blade back before unleashing a flurry of rapid slashes at such speeds it seemingly generates a vortex of gale. | ◯ | ◯ | ◯ | (★☆☆) |
 | **Mortal Draw: Mangetsu** | Sheathes his blade, drawing the winds into it, before unleashing it as a large dome of razor wind. | ◯ | ◯ | ◯ | (★★★) |

@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 94088
+revid: 94232
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -37,15 +37,9 @@ The alternative method is limited to players with a [Resonance](Resonance.md), o
 
 ## **Reaching the Elevator**
 
-File:Citymap.png
-
-Rough map of the City of the Drowned
-
 ### **Method 1:** City Bells
 
-[The City of the Drowned](The_City_of_the_Drowned.md) is split into 6 sections. The 4 with a bell also bear the presence of Watchers. City bells exude a humming/shimmering sound effect as to ease locating them. Interacting with one will restore health and play a chime.
-
-Once all bells have been rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within by opening the gate. The metal gate located in the District of Commerce (sloped entrance) will then open for 10 minutes.
+There are 4 bells located in the District of Commerce (sloped gate). Once 2 bells are rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within. The metal gate located in the District of Commerce will then open for 10 minutes.
 
 ### **Method 2:** Sub-Elevator / Toll
 
@@ -86,7 +80,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 7-9 | Lesser Angel |
 | 10-13 | [Megalodaunt](Megalodaunt.md) |
 | 14-16.66 | Chance for Corrupted [Megalodaunt](Megalodaunt.md) |
-| 16.66+ or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
+| 16.66+ and 1 drown or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | Drowned 20+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), or [Fury Nautilodaunt](Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
 
 -   **There is definitely some RNG involved with the trial and possible overlap between trial power conditions. Occasionally, players above power 5 will still escape without fighting anything. These values are NOT set in stone.**
@@ -250,5 +244,6 @@ Below is a list of potential items that can spawn in chests in Scyphozia. Scypho
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 
 -   The Meteor Event in the Depths can create any of the Depths monsters, and killing all of the Depths monsters it has spawned will reward you with four chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight.
-
--   There was at one point 2 entrances to the trial but one has now been replaced by an elevator
+-   Previously, 4 bells located throughout the city were required to be rung in order to escape the depths.
+    -   In the same update, one of the elevator entrances were replaced with the sub-elevator.
+    -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.

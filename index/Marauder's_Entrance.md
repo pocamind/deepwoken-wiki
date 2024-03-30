@@ -1,6 +1,6 @@
 ---
 title: "Marauder's Entrance"
-revid: 89269
+revid: 94206
 source: https://deepwoken.fandom.com/wiki/Marauder's_Entrance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Layer 1]
@@ -19,7 +19,7 @@ LocationL Marauder's Entrance LocationR
 
 Marauder's Entrance is a location in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md), located at a side of the map near the [District of Commerce](District_of_Commerce.md). The way to Marauder's Entrance has a small parkour section, which is quite simple. The kill-bricks/void are lowered, and there are places to soften your fall and help you get up if you make a mistake. However if you aren't hesitant you will either wipe or go to [Layer 2](Second_Layer.md), depending on your power and level.
 
-After entering, there is a hall inside which is where [The Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) is located. Upon conversing with the mechanism, you'll go within it and face trials of strength and willpower, that reward great amounts of treasure.
+After entering, there is a hall inside which is where [The Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>) is located, You can find training equipment here. Upon conversing with the mechanism, you'll go within it and face trials of strength and willpower, that reward great amounts of treasure.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 94160
+revid: 94205
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -212,7 +212,7 @@ Phases begin in sequence, depending on the Bosses' Max HP.
 Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
 
 -   Rare Items & Equipment
--   Relics (Idol of Yun'Shul, Smith's Alloy, Sinner's Ash)
+-   Relics ([Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), [Smith's Alloy](<Smith's_Alloy.md>), [Sinner's Ash](<Sinner's_Ash.md>))
 -   [Rare Weapons](Weapons.md)
 -   [Attunement Uncap](Attributes_Unbound.md) (If the requirements are met.)
 -   [Weapon Uncap](Attributes_Unbound.md) (If the requirements are met.)

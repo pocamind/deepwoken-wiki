@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 88545
+revid: 94212
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds]
@@ -14,7 +14,7 @@ categories: [Mechanics, Guilds]
 
 ## Description
 
-The Guild Emblem is shown on the door.
+An open guild base with the Chime of Dwelling. The guild name is up on the door and its symbol is on the door.
 
 The Chime of Dwelling is an obtainable item which is granted to the Officers or Leader of a Guild. It allows you to set your [Guild Base](Guild_Bases.md) in a wall with some exceptions (Read Notes/Trivia).
 

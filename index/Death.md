@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 88673
+revid: 94170
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Death, Mechanics, Character]
@@ -33,4 +33,7 @@ See Escaping The Depths [here](https://deepwoken.fandom.com/wiki/The_Depths#Esca
     -   Despite technically being located in the [Voidsea](Voidsea.md), dying to [The Ferryman](The_Ferryman.md) will not send the player directly to [The Depths](The_Depths.md).
 -   Dying to hunger and then immediately dying to hunger again in The Depths is restorable. This note is important because people didn't know this fact and lost their progression.
 -   Falling into the void of the [First Layer](First_Layer.md) while above 50% HP and at Power 3 and above does not result in a death. Instead, you will be sent to the [Second Layer](Second_Layer.md).
+
 -   In Deepwoken Lore, the first time you die, you become "injured" - not actually "dead" as in your life being taken away. The second time you die, you become "drowned" as you descend to the different layers of [The Depths](The_Depths.md). It is only when you die in The Depths will your character truly "die," as your soul is sucked downwards through the Nine Layers so fast, the mind is unable to process the information it receives and the soul is torn apart.
+
+-   No, entering a whirlpool does not count as a drowning.

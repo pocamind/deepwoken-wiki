@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 94167
+revid: 94247
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -426,19 +426,18 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 > _**"I have never lost."**_
 
--   Underdog \[Common Talent\] - You deal slightly more damage to those with higher HP than you.
-    -   Deal +10% damage to those with higher HP.
-    -   "Higher HP" refers to max HP. Due to this, this talent is always active in PVE.
+-   Underdog \[Common Talent\] - You deal 3% more damage to those with higher HP than you.
+    -   "Higher HP" refers to max HP. Due to this, this Talent is always active in PvE.
     -   Prerequisite: 50 Willpower
 
 -   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load)
     -   Indicated by a gold cell-shade outline on your character.
-    -   Does not work on non humanoid monsters..
+    -   Does not work on non humanoid Monsters.
     -   Prerequisite: 25 Strength
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   Prerequisite: 70 Willpower
-    -   The Innate talent of [Etrean](Etrean.md)'s has a similar effect, but is applied to all buffs and debuffs.
+    -   The Innate Talent of [Etrean](Etrean.md)'s has a similar effect, but is applied to all buffs and debuffs.
 
 ### Charm Caster
 
@@ -1220,8 +1219,8 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   _Consumes Ether per step._
     -   _Stratos Steps will only proc twice before going on a cooldown._
         -   _Said cooldown applies to individual steps._
--   _Vigil's Grace \[Unlockable Talent, Jetstriker Exclusive\] - Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+2 Posture)_
-    -   _Vigil's Grace empowered running m1's deals +10% damage._
+-   _Jetstream pursuit \[Unlockable Talent, Jetstriker Exclusive\]_
+-   Acceleration Points _\[Unlockable Talent, Jetstriker Exclusive\]_
 
 ### Justicar
 
@@ -1552,8 +1551,8 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 
--   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - You can now feint your M1 by parrying. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility, 30 Intelligence
+-   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility, 20 Intelligence
 
 ### Omniscient
 

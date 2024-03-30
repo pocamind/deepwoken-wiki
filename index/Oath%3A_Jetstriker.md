@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 93818
+revid: 94250
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -29,7 +29,7 @@ categories: [Oaths]
     -   This can be easily done with your current agility, and the ability to scale high walls along the course.
     -   Wait below the yellow marker, beating her then walking towards her counts as you losing so it's best to just wait until she stops at the marker as well.
 
-Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). After you have obtained the orbs, return to her to get the Talents. The location of these orbs are:
+Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This can be done at any order, and each Orb will grant you one Talent (Talents obtained in the same order, no matter of the obtainment order of the Orbs). You do not have to return to her to get the talents. The location of these orbs are:
 
 -   On top of Lord Regent's palace in Etris.
 -   On the upper rim of The Birdcage near The Viper's Jaw in Erisia.
@@ -41,22 +41,26 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
 
 ## Abilities
 
--   **Prevailing Westerlies - Passive**
-    -   Allows you to gain momentum much quicker while running. (+5 Ether, +5 Passive Agility)
-        -   A visual indicator representing maximum momentum is represented by a white outline around the character.
--   **Vigil's Grace - Passive**
-    -   Running attacks at maximum sprint momentum make you one with the winds, giving reduced endlag and more control. (+3 Ether, +2 Posture)
-        -   When using Vigil's Grace, you become briefly invisible during the start of a running attacks, and they become omnidirectional (you are no longer locked at aiming forward). The resulting running attack will also apply hard knockdown instead of pushing back (like a heavy weapon crit). When Vigil's Grace is activated, you gain 10% more DMG with running attacks (stacks with Spinning Swordsman). 3 second cooldown.
+-   **Momentum Bar - Passive**
+    -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal more damage and the color of mantras will change according to the cosmetic of the oath.
 
--   **Stratos Step - Passive**
-    -   While wallboosting, hold space and at the end of the wallboost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
-        -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself.
-            -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
--   **Decisive Winds - Passive**
+-   **Stratos Step - Talent**
+    -   While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
+        -   Hold space to perform up to two smaller jumps to go higher. Keep in mind you do not gain any fall damage resistance; you will easily hurt yourself. This also boosts players alongside you too.
+        -   You can only boost yourself up twice **in a row** before it goes on cooldown, meaning if you boost yourself once and wait a slight bit, it will not go on cooldown.
+
+-   **Decisive Winds - Talent**
     -   When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown. (+5 Ether)
--   **Rush of Ancients - Passive**
+
+-   **Rush of Ancients - Talent**
     -   Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
         -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
+
+-   **False Strike - Mantra**
+    -   Trick your opponent and quickly go behind them.
+
+-   **Jet Kick - Mantra**
+    -   Rush forward with a jet kick. Requires a target if you're in combat.
 
 ## Effects
 
