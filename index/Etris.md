@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 93772
+revid: 94265
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, World, Etrean Luminant]
@@ -179,9 +179,9 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 -   To begin this quest, you must have a positive reputation in [Etrea](Etrea.md). Can be achieved by helping the Etrean Guards in the [Etrea vs Authority](Random_Encounters.md#x-vs-x) event or the Etrean Guard vs Pirate event, if you have a lot of Notes, you can simply buy Wood and hand it to the Lumberjack.
 -   Once you've become popular with the residence of [Etrea](Etrea.md) (Etrean guards call you friend of Etrea/your name when you interact with them), talk to Kennith. Kennith is an Etrean Guard and is located next to a bridge near the Palace.
 -   Kennith will ask you to talk the locals about the The Lord Regent's Reputation as a Ruler.
--   Talk to the Bookworm in the Bookstore.
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) in the library.
 
--   After talking to the Bookworm, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to The Lord Regent, as an audience.
+-   After talking to Andros, head to the Nomad Camp area and climb up the cliff above it. You will see marks on the ground that leads to the desecrated body of Kennith. A Royal Guard will send you to The Lord Regent, as an audience.
 
 -   Make sure you talk to the Royal Guards to tell them that the The Lord Regent is expecting you, making them docile unless provoked.
 
@@ -189,11 +189,11 @@ Warning: This Quest is exceptionally difficult. Recommended for High-Leveled and
 -   Traverse through [Erisia,](Erisia.md) go through [Towerstruck Lands](Towerstruck_Lands.md) and into the [Garden Reservoir](The_Garden_Reservoir.md), there, a Teleporter will be seen, which leads to the Manor.
 -   To use the Key to unlock the black iron gate, the Key must be glowing white.
 -   Descend to the Elevators, and fight against a handful of Enemies and Humanoid Constructs.
--   Fight the Boss, named The Duke; a Celtor Scientist who went insane from his corrupted knowledge.
-    -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor, The Lord Regent executes you where you stand.
+-   Fight [Duke Erisia](Duke_Ishamon_Erisia.md); a Celtor Scientist who went insane from his corrupted knowledge.
+    -   Failure to fight the Boss (Via escaping the Boss Room through the Elevators again or dying) and reporting to The Lord Regent that you failed to drive the Duke out of the Manor causes the Lord Regent executes you where you stand.
 -   After you defeat the Duke, if you visit The Lord Regent once again, he thanks you for your help and disposes of you, as you're no longer needed.
     -   If this happens you and you go back to try and get your loot, even if the guards are passive and you tell them you have an audience with The Lord Regent, the lord will execute you again if you try to enter his room.
--   The reward of defeating the Duke unbounds the Attunements stat (75 before -> 100 after). Note that you only need to defeat the Duke; visiting the Regent and subsequently perishing to him will not do anything.
+-   The reward of defeating the Duke unbounds Attunement and Weapons. Note that you only need to defeat the Duke, for dying by the hands of Lord Regent does not grant any special reward.
 
 ### Diver Escort Quest
 
@@ -203,8 +203,8 @@ To begin this quest, talk to [Karliah](Karliah.md), an [Adret](Adret.md) Diver. 
     -   You must have Charisma ~10 to charge Karliah.
 -   Save her from the [Mudskipper](Mudskipper.md) that is attacking her.
 -   Interact with her.
--   This quest is very easy to screw up, and if you do so there is no way to uncap charisma, so be careful.'
-    -   Failing will result in her dying to horseshoe crabs
+-   This quest is very easy to screw up, and if you do so there is no way to uncap charisma, so be careful.
+    -   Failing will result in her dying to horseshoe crab.
 
 #### Ending 1: Promise Broken
 

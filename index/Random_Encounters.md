@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 93147
+revid: 94254
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -189,6 +189,10 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 #### Megalodaunt On a Ship
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an [Authority Soldier](Authority_Soldier.md). Upon killing it, a chest will spawn in the ship with mid tier loot.
+
+#### Island
+
+A sand island with a broken tower shows up at the sea. Several [Cloaked Assassin](Cloaked_Assassin.md) standing on it. Defeat all of them will rewards you a chest and exp.
 
 #### Traveling Merchant
 

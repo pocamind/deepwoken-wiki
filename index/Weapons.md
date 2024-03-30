@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94036
+revid: 94253
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -408,7 +408,7 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
   <td>12</td>
   <td>5%</td>
   <td>N/A</td>
-  <td>WLL: 7 LHT: 6</td>
+  <td>WLL: 10 LHT: 4</td>
   <td>5</td>
   <td>7</td>
   <td>0.85x</td>

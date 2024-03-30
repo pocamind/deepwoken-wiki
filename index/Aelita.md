@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 93454
+revid: 94264
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -36,7 +36,7 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 
 -   After this she will spawn a chest in the same spot Blizzard Knights' chest spawns. Aelita does not spawn during the winter, instead [Blizzard Knights](Stone_Knight.md) spawn.
 
-### Drops
+## Drops
 
 -   Headbands (all colors) (Common)
 -   Warrior's Eyepatch (Common)
