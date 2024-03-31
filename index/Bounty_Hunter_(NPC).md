@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 82120
+revid: 94445
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -28,6 +28,7 @@ A Bounty Hunter's arsenal consists of a either a [Trident Spear](Trident_Spear.m
 
  | ◯ | ✗ | (★☆☆) |
 | Rapid Punches | User unleashes a barrage of blows at their opponent. | ◯ | ◯ | (★★☆) |
+| Gaze | Gaze into your opponent's souls. | ✗ | ◯ | (★☆☆) |
 | Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★★) |
 
 ### Talents
@@ -46,5 +47,7 @@ A Mercenary executes the player after knocking them:
 | --- | --- |
 | Execute | \[[Trident Spear](Trident_Spear.md)\] Pins down opponent before impaling them through the chest with their spear.
 \[[Canorian Axe](Canorian_Axe.md)\] Pins down opponent while raising weapon before firmly bashing the opponent's face.
+
+\[[Falchion](Falchion.md)\] Pins down the opponent and slices their throat with blade.
 
  |

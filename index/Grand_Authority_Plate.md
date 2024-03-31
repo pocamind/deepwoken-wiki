@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 93574
+revid: 94458
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -31,4 +31,4 @@ The Grand Authority Plate is an [Equipment](Equipment.md) item under the "Arms" 
 ## Trivia
 
 -   The Grand Authority Plate is part of the “Grand Authority” set; with the only other piece being the [Grand Authority Sabatons](Grand_Authority_Sabatons.md).
--   The Grand Authority Plate was originally designed as part of a set alongside the [Bulwark Helm](Grand_Authority_Sallet.md), which is why the latter provides the same Talent as the [Authority Helm](Authority_Helm.md). For some unknown reason, they were separated, with the Grand Authority Plate being recolored yellow.
+-   The Grand Authority Plate was originally designed as part of an Authority-themed set, the _Grand Authority Armament's_ \[_[sic](https://en.wikipedia.org/wiki/sic)_\] set, alongside the [Bulwark Helm](Grand_Authority_Sallet.md), which is why the latter provides the same Talent as the [Authority Helm](Authority_Helm.md). For some unknown reason, they were separated, with the Grand Authority Plate being recolored yellow.

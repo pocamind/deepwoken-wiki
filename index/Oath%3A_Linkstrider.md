@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 93180
+revid: 94455
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -42,7 +42,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
 
 ## Abilities
 
--   **Entropy Link**
+-   **Entropy Link (Talent)**
     
     > _The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame._
     
@@ -53,7 +53,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
         -   Requires [Stardust](Stardust.md), obtainable in [Voidzones](Voidzones.md) that have a Startree.
         -   Does not work when in combat.
         -   Cannot cross-luminant travel.
-        -   Does not work with "campfires" (lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire nearly every use - ensure you're well-supplied.
+        -   Does not work with "campfires" (Graceful Flame, lockers, ship tables, etc) that you cannot cook food at. As such, it requires an actual, lit campfire nearly every use - ensure you're well-supplied.
     -   Comet names and locations:
         -   _Etrean Luminant:_
             -   **Ceres** (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop)
@@ -63,15 +63,16 @@ The only way to obtain each ability is to grip players with an Oath. However, th
             -   **Hygiea** (Near [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway)
             -   **Eunomia** (Above [Sibex](Sibex.md))
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
--   **Symbiotic Link**
+-   **Symbiotic Link (Mantra)**
     -   Activate while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally or you stray too far. Only one cord of each type may exist at once.
-        -   Blue Cords (Allies) gain a speed boost.
-        -   Red Cords (Enemies) gain a speed debuff.
+        -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
+        -   Red Cords (Enemies) presumably do the opposite.
     -   Allows you to see the health bar of allies.
--   **Symbiotic Sustain**
+-   **Symbiotic Sustain (Mantra)**
     -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to restore 15% of the target's HP.
+    -   Blessed Gem is a must.
 
--   **Parasitic Leech**
+-   **Parasitic Leech (Mantra)**
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
         -   For example, Duke grants more HP than a Mindless Servant, since he has a significantly higher Health Pool.
         -   Parriable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.

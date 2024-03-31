@@ -1,6 +1,6 @@
 ---
 title: Lower Erisia
-revid: 79950
+revid: 94453
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, World, Etrean Luminant]
@@ -13,8 +13,6 @@ LocationL Lower Erisia LocationR
 A land lost to time, now made a battleground for warriors who know not why they fight.
 
   
-
-"A place for warriors who know not why they fight"
 
 **Lower Erisia** is a location in _Deepwoken_. It is one half of [Erisia](Erisia.md), sharing the island with [Upper Erisia](Upper_Erisia.md).
 
@@ -45,23 +43,7 @@ This island is recommended for those [Power Level](Power.md) 1 through 20.
 -   **Ruins Camp**
     -   A small, ruined Blackstone tower between the entrance and the Bandit Village, acts as a point for Bandit Camp events to take place and has a permanent campfire.
     -   Has a permanent campfire.
-    -   Two Bandits and one Bandit Leader are guaranteed to spawn there.
-    -   Killing all three will grant you a chest.
-
-## Potential Enemies
-
--   [Authority Officer](Authority_Officer.md)
--   [Bandit](Bandit.md)
--   [Bandit Captain](Bandit_Leader.md)
--   [Vigil Swordsman](Vigil_Swordsman.md)
--   [Etrean Soldier](Etrean_Soldier.md)
--   [Legion Captain](Legion_Captain.md)
--   [Megalodaunt](Megalodaunt.md)
--   [Mudskipper](Mudskipper.md)
--   [Bloatskipper](Mudskipper.md#bloatskipper)
--   [Thief](Thief.md)
--   [Terrapod](Terrapod.md)
--   [Deep Owl](Deep_Owl.md)
+    -   Two Bandits and one Bandit Leader are always to spawn there as a event.
 
 ## Missions
 

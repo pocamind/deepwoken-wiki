@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 94376
+revid: 94437
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -222,10 +222,19 @@ _Fortunately, they all end up the same - occupied by bandits._
 
 -   **The Church Ruins Island**
     -   It seems like a piece of Erisia broke away from it as it drifted back from the Void Sea. Defeating all of enemies on it will reward you with two chests with Erisia loot. Possible Enemies:[Bandit](Bandit.md)/[Bandit Leader](Bandit_Leader.md).
+
+A Bandit Island
+
+-   **Bandits' Respite**
+    -   An island with a few trees was temporarily used as a bandit camp. Defeating them will reward you with two Erisia chests.There are two variations of this island.
+
 -   **Sandstone Tower**
-    -   A desolate sandstone tower, filled with timid trees stands filled with threshers. Defeating them will give you two chests filled with Starswept loot.
+    -   A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with Starswept loot.Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Bounty Hunter (NPC)](<Bounty_Hunter_(NPC).md>)
+
+_They do add new sound effects to threshers!_
+
 -   **Sandy Remnants**
-    -   A hill with porous holes pouring sand out of them is swarmed with threshers or cloaked assassins. Defeating them will give you two chests filled with Starswept loot.
+    -   A stone island similar to Aratel, with sand flowing out of the stones. Defeating all enemies on it will give you two chests filled with Starswept loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)
 -   **Mudskipper Tower**
     -   A corrosive island filled with mushrooms and corals, and a distinctive tower ontop it. Depending on he variant of the island different mudskippers will spawn. Defeating them will grant a Depths Chest and Erisia Chest.
 
