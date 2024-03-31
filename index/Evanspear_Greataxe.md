@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 94311
+revid: 94404
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -27,15 +27,15 @@ categories: [Weapons, Greataxes]
 
 ## Description
 
-The Evanspear Hand Axe is a [heavy weapon](Weapons.md) (HVY) that requires 70 Heavy Weapons Scaling to use. It's one of the few Heavy Weapons dealing additional Bleed Damage (9.7).
+The Evanspear Hand Axe is a [heavy weapon](Weapons.md) (HVY) that requires 70 Heavy Weapons Scaling to use. It's one of the few Heavy Weapons dealing additional Bleed Damage (9.7), balanced out by its subpar swing speed.
 
-It can be obtained from multiple sources, uncommonly from [Layer 2 (Eternal Gale)](Second_Layer.md) Chests(not Ethiron). Very rarely from [Crimson Terrapods](Terrapod.md) (including _Corrupted_), [Legion Captains](Legion_Captain.md). It is considered to be a rare drop.
+It can be obtained from multiple sources, primarily from [Layer 2 (Eternal Gale)](Second_Layer.md) chests as an uncommon drop. It drops very rarely from [Crimson Terrapods](Terrapod.md) and [Legion Captains](Legion_Captain.md) as well.
 
-## Trivia
+## Tips/Trivia
 
 -   The name 'Evanspear' is the same as a Lore guild during testing, 'The 'Evanspear Legion.'
--   Deals Bleed Damage. The damage dealt with no proficiency and 100 HVY is approximately 61.75 DMG.
--   Ever since the verse 2 update, this weapon has been made quite easy to obtain from layer 2 chests. [Crimson Terrapods](Terrapod.md) are quite rare, and as such the Eternal Gale has made it much easier to obtain.
--   Keep in mind that while using this weapon you will not be able to experience the effects of some [Talents](Talents.md) such as Speed Demon.
--   Commonly referred to as one of the best PvE weapons due to it's high damage and innate bleed.
-    -   Note that weapons such as the [Enforcer's Axe](<Enforcer's_Axe.md>) have higher base damage and higher swing speed without bleed, and weapons such as the [Hero Blades](Hero_Blades.md) or even the [Gran Sudaruska](Gran_Sudaruska.md) can be as good with mage builds.
+-   The damage dealt with no proficiency and 100 HVY is approximately 61.75 DMG accounting for the Bleed damage.
+    -   Note that Bleed bypasses Armor.
+-   Keep in mind that while using this weapon you will not be able to experience the effects of some bleed [Talents](Talents.md) such as Speed Demon, as they do not stack.
+-   Commonly referred to and lives up to being one of the best PvE weapons due to its high damage and innate bleed.
+    -   Note that weapons such as the [Enforcer's Axe](<Enforcer's_Axe.md>) have higher base damage and higher swing speed without bleed, and weapons such as the [Hero Blades](Hero_Blades.md) or even the [Gran Sudaruska](Gran_Sudaruska.md) can work very well with mage builds.

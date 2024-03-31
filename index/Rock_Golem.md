@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 94286
+revid: 94394
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -76,9 +76,9 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 
 ## **Finisher**
 
-| Name | Description |
-| --- | --- |
-| Crushing Stomp | A Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
+| Name | Media | Description |
+| --- | --- | --- |
+| Crushing Stomp |  | A Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
 
 ## Trivia
 

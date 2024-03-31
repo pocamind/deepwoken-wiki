@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 94358
+revid: 94399
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, NPCs, World]
@@ -79,6 +79,7 @@ Check the rest out for yourself, canonically smells really bad
 | [Lucien](Lucien.md) | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | Bomb unlock Quest |  |
 | [Lucy](Lucy.md) | Unaligned | [The Depths](First_Layer.md), The City of The Drowned | Her sanity has already crumbled |  |
 | [Mag](Mag.md) | [Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), in the castle's basement | Allows for the creation of [Bullet Casings](Bullet_Casings.md) |  |
+| [Malisae](Loot_Bag_Gacha.md) | Unaligned | [Miner's Landing](<Miner's_Landing.md>) | Gacha NPC. Will give you something random from the lootpool out for 350 notes. |  |
 | Malte | Unaligned (Possibly etrea) | [The Isle of Vigils](Isle_of_Vigils.md), [The Temple of the Blade](Temple_of_the_Blade.md), Library | None |  |
 | [Marcus](Marcus.md) | Unaligned | [The Hidden Village](The_Hidden_Village.md) | Chill rock golem | Marcus. |
 | Marro | Unaligned | [Songseeker Wilds](Songseeker_Wilds.md) | None | None |

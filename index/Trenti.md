@@ -1,6 +1,6 @@
 ---
 title: Trenti
-revid: 94267
+revid: 94411
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -20,7 +20,9 @@ You can find [Aristo](Aristo.md), an NPC in the [Isle of Vigils](Isle_of_Vigils.
 
 ## Dialogue
 
-Trenti - Well well well, look who's up. Oh please, hold your praise, I know how much you must be wanting to thank your hero! 1 - Err... Thanks? / Relax, I'm kidding. I'm Trenti, I found you washed up on the shore and figured you looked like you needed some help. I brought you back here and you've been sleeping off some bad drowner sickness for about a week. Looks like you fully recovered though! Have a look around town and get your bearings and come back to me if you have any questions. / End
+Trenti - Well well well, look who's up. Oh please, hold your praise, I know how much you must be wanting to thank your hero!
+
+1 - Err... Thanks? / Relax, I'm kidding. I'm Trenti, I found you washed up on the shore and figured you looked like you needed some help. I brought you back here and you've been sleeping off some bad drowner sickness for about a week. Looks like you fully recovered though! Have a look around town and get your bearings and come back to me if you have any questions. / End
 
 2 - How can I earn some money? / Well... You won't find much in the way of work in the town, but if you find anything of interest the local **Antiquarian** might buy it off you. I suppose you could try to find riches on Erisia like most of the travelers who come here. You'll be eable to find Erisia by sailing straight out from the docks.
 

@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 91225
+revid: 94412
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Character, Races, Weapons, Attunement, Attributes, Spells, Mechanics, Map, Origins]
@@ -125,6 +125,8 @@ Here is what makes the [Deepbound Origin](Origins.md#deepbound) unique:
 4.  You are able to use an Antiquarian and purchase training gear at [Castle Light](Castle_Light.md).
 5.  The Depths trial will always be an [Enforcer](Enforcer.md) with maximum health with this [Origin](Origins.md), killing it will take a very large amount of skill and 10+ minutes.
 6.  You cannot do the [Trial of One](Trial_of_One.md).
+
+Alternatively, you can now choose to spawn at [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as a Deepbound.
 
 ### [Voidwalker](Origins.md#voidwalker)
 

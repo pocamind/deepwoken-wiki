@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 93834
+revid: 94417
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -86,3 +86,4 @@ Summon Gigameds
 -   King Gigamed has an intentionally cowardly behavior, meaning it will jump around objects and move in ways that makes it harder for you to fight it.
 -   Despite not looking like it, The King Gigamed has a back, meaning you can proc [Spine Cutter](Talents.md) on it.
 -   King Gigamed is one of the only monsters, with the [Nautilodaunt](Nautilodaunt.md), that can regen health over time. (??? Unconfirmed)
+-   You can fight king gigamed at low levels by venting when they are about to spawn gigameds to get a healthpack, this is a consistent way as you get a lot of tempo from m1ing.

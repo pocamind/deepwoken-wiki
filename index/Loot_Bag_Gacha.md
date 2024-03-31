@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 94390
+revid: 94415
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Mechanics]
@@ -30,15 +30,31 @@ An NPC located at [Summer Isle](Summer_Isle.md), outside the Inn.
 
 ### **Lootpool**
 
-???
+-   [Alchemist's Hat](<Alchemist's_Hat.md>)
+-   [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)
+-   [Dew Drop Earrings](Dew_Drop_Earrings.md)
+-   [Falchion](Falchion.md)
+-   [Novice Boots](Novice_Boots.md)
+-   Parkas
+-   [Rebel's Bandana](<Rebel's_Bandana.md>)
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)
 
 ## Malisae
 
 An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 
+  
+
 ### **Lootpool**
 
-[Mercenary's Garb](<Mercenary's_Garb.md>)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
+-   [Mercenary's Boots](<Mercenary's_Boots.md>)
+-   [Mercenary's Garb](<Mercenary's_Garb.md>)
+-   [Nemit's Sickle](<Nemit's_Sickle.md>)
+-   [Nomad Pendant](Nomad_Pendant.md)
+-   [Old World Greatshield](Old_World_Greatshield.md)
+-   [Vigil Longsword](Vigil_Longsword.md)
 
 ## Dialogue
 
@@ -89,3 +105,7 @@ An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   [Jeremiah](Jeremiah.md), located in the City of the Drowned in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Treasures.md).

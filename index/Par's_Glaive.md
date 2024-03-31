@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 91972
+revid: 94400
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Developer Spec]
@@ -16,7 +16,7 @@ categories: [Weapons, Developer Spec]
 | scaling | 30 CHA |
 | range | 9 |
 | swing speed | 0.8x |
-| endlag | ??? |
+| endlag | N/A |
 | penetration | ??? |
 | chip damage | ??? |
 | special effect | Swapping the enemy's controls after ? hits |
