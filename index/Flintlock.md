@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 92602
+revid: 94429
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -27,7 +27,7 @@ categories: [Weapons, Guns]
 
 ## Description
 
-The **Flintlock** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 100 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [Bounties](Bounty_Hunting.md). It requires 20 points in Light weapons to be utilized.
+The **Flintlock** is a [gun](Guns.md) that can be bought in [Summer Isle](Summer_Isle.md) for 100 [Notes](Notes.md) or can be found through [chests](Chests_&_Sacks.md) in [The Depths](The_Depths.md), through [chests](Chests_&_Sacks.md) in [Lower Erisia](Lower_Erisia.md), and through [Bounties](Bounty_Hunting.md). It requires 20 points in Light weapons to be utilized.
 
 The Flintlock has a Bullet capacity of 4 when held without a second gun.
 
