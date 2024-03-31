@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 94284
+revid: 94393
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -45,4 +45,4 @@ The critical has a cooldown of eight seconds.
 -   Kyrsieger is one of only two legendary weapons to drop from a single source, the other weapon being the [Flareblood Kamas](Flareblood_Kamas.md).
     -   Fittingly, these both drop in Layer 2.
 -   The critical does not cause speech with Unnecessary Theatrics, nor does it cause a cooldown on Theatrics procs. This is likely a bug.
--   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over.
+-   The Kyrsieger was used in an assault on Constellia, the city Kaide, The Drowned Light ruled over. skibidi rizz

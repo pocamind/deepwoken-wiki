@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 94161
+revid: 94359
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress without reason, InProgressPages, Quests, NPCs, World]
@@ -14,9 +14,9 @@ notices:
 
 ## Description
 
-**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential talents, EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [murmurs](Murmur.md), [oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
+**Quests** are a major part of _Deepwoken_. They are a significant means of progression, unlocking essential [talents](Talents.md), EXP, items and so forth. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
 
-Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra talent hand will be awarded on power up. If you are power 20, the hand is given immediately.
+Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it." An extra talent hand will be awarded on [Power Increase](Power.md). If you are Power 20, the hand is given immediately.
 
 ## Echo Talent Quests
 
@@ -26,9 +26,9 @@ These quests, when completed, give talents that will be unlocked on every charac
 
 **Quest Location**: [The Garden Reservoir](The_Garden_Reservoir.md), [Burning Stone Gardens](Burning_Stone_Gardens.md)
 
-**Guide**: Talk to the Etrean NPC Arthur outside of the entrance of [The Garden Reservoir](The_Garden_Reservoir.md). He will ask you to avenge his friends by killing a [Megalodaunt](Megalodaunt.md), kill one and return.
+**Guide**: Talk to the [Etrean](Etrean.md) NPC [Arthur](Arthur.md) outside of the entrance of The Garden Reservoir. He will ask you to avenge his friends by killing a [Megalodaunt](Megalodaunt.md). Kill one and return.
 
-**Reward/s**: Engage + Critical Assault. EXP, Bravery.
+**Reward(s)**: Engage + Critical Assault. EXP, Bravery.
 
 **Aerial Assault:**
 
@@ -58,7 +58,7 @@ File:Jessamine .png
 
 ## Talent Quests
 
-When these quests are completed they give a talent (or mantra in the case of Disguise). They can sometimes be repeated,
+When these quests are completed, they give a talent (or [mantra](Mantras.md) in the case of [Disguise](Mime.md)). They can sometimes be repeated.
 
 **Treefelling Blow:**
 
@@ -186,7 +186,7 @@ Valikor
 
 ## One-time Ordinary Quests
 
-These quests usually give XP, Reputation and/or an item.
+These quests usually give EXP, Reputation and/or an item.
 
 **Polis' Stories:**
 
@@ -308,7 +308,7 @@ File:Theguy.png
 
 ## Repeatable Ordinary Quests
 
-These quests have EXP, chests and/or reputation as rewards and are repeatable.
+These quests give EXP, chests and/or reputation as rewards and are repeatable.
 
 **Golden Rats:**
 

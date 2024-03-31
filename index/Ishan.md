@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 94147
+revid: 94349
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Lore]
@@ -24,8 +24,6 @@ Ishan is an Etrean standing outside the castle in Summer Isle. He shares informa
 He has unique dialogue if spoken to as an Adret.
 
 ## Dialogue
-
-|-|Normal Dialogue=
 
 <table>
 <tbody>

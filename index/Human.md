@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 94313
+revid: 94318
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Races]
@@ -47,3 +47,4 @@ We are only human, after all.
     -   Lux Æterna - Metallica
     -   Too Far Gone - Metallica
     -   For Whom the Bell Tolls - Metallica
+    -   whoever got rid of my incredible quote fuck you,fucking stuck up

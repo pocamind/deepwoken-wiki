@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 94307
+revid: 94376
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -32,7 +32,6 @@ Groups of NPCs from different factions will spawn in Etrean Luminant and attack 
 -   Vigil Swordsmen Etreaiconfaction vs Authority Officers Authorityiconfaction ([Erisia](Erisia.md))
 -   Etrean Soldiers Etreaiconfaction vs Authority OfficersAuthorityiconfaction ([Upper Erisia](Upper_Erisia.md))
 -   Legion Soldiers vs Authority Officers Authorityiconfaction ([Upper Erisia](Upper_Erisia.md))
--   Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 
 #### Authority's Invasion of Etris
 
@@ -146,10 +145,8 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is 
 
 Groups of NPCs from different factions will spawn in Eastern Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
--   Summer Company Guards Summericonfaction vs Bandits ([Summer Isle](Summer_Isle.md))
 -   Summer Company Guards Summericonfaction vs Ignition Union Fighters ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
 -   Eastern Tribe Nomad & Eastern Tribal Leader Navaeiconfaction vs Ministry Scouts File:Eylisiconfactoin.png ([Summer Isle](Summer_Isle.md))
--   Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
 -   Vigil Swordsmen Etreaiconfaction vs Hive Scouts Hiveiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Legion Captain vs Authority Lieutenant Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
 -   Hive Construct Hiveiconfaction vs Authority Captain Authorityiconfaction ([Starswept Valley](The_Starswept_Valley.md))
@@ -186,18 +183,55 @@ Seemingly exclusive to the [Starswept Valley](The_Starswept_Valley.md), this eve
 
 A [Megalodaunt](Megalodaunt.md) can spawn on a schooner in the [Aratel Sea](The_Aratel_Sea.md), feasting on a the corpse of an [Authority Soldier](Authority_Soldier.md). Upon killing it, a chest will spawn in the ship with mid tier loot.
 
-#### Sea Outpost/Island
+### _**Sea Events**_
 
-Across the lumen, islands and outposts will appear in the seas. Their difficulty scales depending on the level of nearby players, butting stronger enemies against stronger players. Of course, that comes with better quality loot. An outpost will grant two chests upon being completed, one accessible on its traversible area and another resting on the waters once it disappears.
+Across the lumen, events will appear in the seas. Some are challenges, some are rewards.
+
+#### Fight between Factions
+
+Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel_Sea.md)/[The Etrean Sea](The_Etrean_Sea.md))
+
+#### Islands/Outposts
+
+Various islands appeared on the sea with various enemies. After defeating all enemies, two chests will spawn, one on the island and one visible after the island is sunk. Different islands have different loot tables.
+
+A Tower in the Sea
 
 -   **Tower in the Water:**
-    -   A tower can spawn in the Etrean Sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give two Erisia-tier chests.
+    -   A Pirate outpost stands on the sea. Inside the tower are 5-6 [Blacksteel Pirates](Blacksteel_Pirate.md). Killing all of them will give two Erisia-tier chests.
+    -   The tower may spawn [Cloaked Assassins](Cloaked_Assassin.md) instead of [Blacksteel Pirates](Blacksteel_Pirate.md) in the Eastern Luminant.
+
+  
+
+_You can't get into that hut anyway, don't try._
+
 -   **Isle of Outlaws:**
-    -   A sand island with either a hut or a tower spawns in the sea. Defeating all of them will reward you with two large chests of Upper Erisia loot.
--   **Overrun Stronghold:**
-    -   The ruins of a stronghold. Defeating all of them will reward you with one large chest of Starswept loot and one large chest of Erisia loot.
--   **Carbuncle's Palm:**
-    -   A rock island vaguely resembling a hand, with corals on it. Defeating all of them will reward you with one large chest of Depths loot and one large chest of Erisia loot.
+    -   The stones on both sides of the island cover the central hut like a pair of hands, where has been occupied by illegals. Defeating all of them will reward you with two large chests of Upper Erisia loot. Possible Enemies:[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+
+A Fort Island
+
+-   **Overrun Authority Stronghold:**
+    -   The ruins of a tropical fortress resembling Fort Merit were occupied by the enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:[Thresher](Thresher.md)/[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+
+_They really like hands, huh?_
+
+-   **The Depth Fragment:**
+    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of Depths loot and one large chest of Erisia loot. Possible Enemies:[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+
+_Fortunately, they all end up the same - occupied by bandits._
+
+-   **The Church Ruins Island**
+    -   It seems like a piece of Erisia broke away from it as it drifted back from the Void Sea. Defeating all of enemies on it will reward you with two chests with Erisia loot. Possible Enemies:[Bandit](Bandit.md)/[Bandit Leader](Bandit_Leader.md).
+-   **Sandstone Tower**
+    -   A desolate sandstone tower, filled with timid trees stands filled with threshers. Defeating them will give you two chests filled with Starswept loot.
+-   **Sandy Remnants**
+    -   A hill with porous holes pouring sand out of them is swarmed with threshers or cloaked assassins. Defeating them will give you two chests filled with Starswept loot.
+-   **Mudskipper Tower**
+    -   A corrosive island filled with mushrooms and corals, and a distinctive tower ontop it. Depending on he variant of the island different mudskippers will spawn. Defeating them will grant a Depths Chest and Erisia Chest.
+
+#### False Merchant Ship
+
+A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is pretty rare, and drops high tier loot. When approached, the boat will burst into flames and spawn 3-8 [Cloaked Assassins](Cloaked_Assassin.md) after you.
 
 #### Traveling Merchant
 
