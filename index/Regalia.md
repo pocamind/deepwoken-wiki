@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 93897
+revid: 94566
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -52,11 +52,11 @@ Increases [XP](Power.md) gain and [Attribute](Attributes.md) training speed by a
 
 ### Inspired
 
-Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one.[\[1\]](#cite-note-archinfo-1)
+Grants all [Resonance](Resonance.md) [Paths](Sibex.md) instead of only one. [\[1\]](#cite-note-archinfo-1) Grants unknown special dialogues with [Sibex](Sibex.md).
 
 ### Worthy
 
-Grants unknown special dialogues with [Sibex](Sibex.md) and the [Legendary Boot](Legendary_Boot.md).[\[1\]](#cite-note-archinfo-1)
+Grants an unknown special dialogue with the [Legendary Boot](Legendary_Boot.md).[\[1\]](#cite-note-archinfo-1)
 
 May have more to it, needs testing.
 
