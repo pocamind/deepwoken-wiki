@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 94002
+revid: 94558
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1573,7 +1573,7 @@ You can choose your first name from any available, but your choices of last name
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
 -   The name "Zote" is a reference to the indie game _Hollow Knight_ by Team Cherry.
 -   The name "Link" is a reference to - [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
--   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
+-   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
     -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
 -   The names "Chert", "Esker", "Feldspar", "Gabbro" and "Solanum", are references to the game _[Outer Wilds](https://store.steampowered.com/app/753640/Outer_Wilds/)_.

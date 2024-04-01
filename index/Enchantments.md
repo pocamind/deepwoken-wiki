@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 94129
+revid: 94557
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -32,6 +32,8 @@ Enchanted items cannot be dropped on death.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
 -   Enchanted items appear as light purple in your inventory.
 -   Legendary weapons **cannot** be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading.
+-   You can have four enchants equipped at the same time but one of them will not work.
+-   You can get a fourth enchant on your scarf, face and ring slots back in Verse 1 when they were still obtainable. It is not unobtainable and having four enchants equipped will make one of the enchants not work
 
 ## Variants
 
