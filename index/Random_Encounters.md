@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 94437
+revid: 94514
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -216,7 +216,7 @@ A Fort Island
 _They really like hands, huh?_
 
 -   **The Depth Fragment:**
-    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of Depths loot and one large chest of Erisia loot. Possible Enemies:[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of Depths loot and one large chest of Erisia loot. Possible Enemies:[Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md).
 
 _Fortunately, they all end up the same - occupied by bandits._
 

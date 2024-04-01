@@ -1,6 +1,6 @@
 ---
 title: Mur Of Light
-revid: 51719
+revid: 94531
 source: https://deepwoken.fandom.com/wiki/Mur_Of_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World, Lore]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, World, Lore]
 
 File:Theadre .png
 
-### Description
+## Description
 
 Mur Of Light appears to be a goddess, responsible for bringing [Murmurs](Murmur.md) into this world.
 
@@ -22,6 +22,6 @@ Theadre is the NPC who shares such information with the player, apparently needi
 
 Theadre dialogue when questioned about Mur: "Aye... Eldest mother of our people, _Mur of Light_... She who descended from the Heavens and brought out the Light of our souls in our darkest days..."
 
-##### Theory: Who is Mur?
+###### Speculation
 
-Apparently she could be a [Celestial](Celestial.md), seeing how she's mentioned as a goddess, also when questioned about murmurs, Theadre says "The gifts of our soul that Mur taught us to draw out... Though the days where the kin of Etrea held that knowledge are long gone now... The King will bring us back to those days, he surely will...", so she could be the powerful being responsible for the existence of Ardour and Tacet
+She could be a [Celestial](Celestial.md), seeing as she is considered a goddess and Celestials are above humankind. When questioned about Murmurs, Theadre says "The gifts of our soul that Mur taught us to draw out... Though the days where the kin of Etrea held that knowledge are long gone now... The King will bring us back to those days, he surely will..." Ultimately, Mur is likely the figure that taught others to use or is otherwise responsible for Murmurs.

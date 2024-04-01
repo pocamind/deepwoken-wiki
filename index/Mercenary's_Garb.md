@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Garb"
-revid: 93571
+revid: 94528
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Garbs]
@@ -30,5 +30,6 @@ The Mercenary's Garb is an [Equipment](Equipment.md) item under the "Arms" categ
 
 ## Trivia
 
--   The Mercenary's Garb is part of the "Mercenary's" set; with the only other piece being the [Mercenary's Boots](<Mercenary's_Boots.md>).
--   Despite having a [revolver](Repeater.md) on its left side, it is unusable.
+-   The Mercenary's Garb is part of the "Mercenary's" set, the other piece being the [Mercenary's Boots](<Mercenary's_Boots.md>).
+    -   The Mercenary's Garb drops in bizarrely few places compared to the Boots.
+-   Despite having a [revolver](Repeater.md) on its left side, it is just cosmetic.

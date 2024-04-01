@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 92830
+revid: 94538
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits]
@@ -18,20 +18,20 @@ A Bandit wears the unobtainable "Sea Adventurer" outfit with their [Race](Aspect
 
 ## Moves
 
-A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Broadsword](Broadsword.md) (Unobtainable), [Mace](Mace.md) or [Stiletto](Stiletto.md):
+A Bandit's arsenal consists of a starter weapon, them being either a [Battleaxe](Battleaxe.md), [Sword](<Sword_(weapon).md>), [Messer](Messer.md), [Broadsword](Broadsword.md), [Mace](Mace.md) or [Stiletto](Stiletto.md):
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
 | Assault | Firmly swings weapon at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | \[[Battleaxe](Battleaxe.md) & [Mace](Mace.md)\] Raises weapon before firmly slamming it down into the ground.
-\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md) & Broadsword\] Reels weapon back before delivering a strong stab.  
+\[[Sword](<Sword_(weapon).md>), [Messer](Messer.md) & [Broadsword](Broadsword.md)\] Reels weapon back before delivering a strong stab.  
 \[[Stiletto](Stiletto.md)\] Unleash a quick flurry attack on opponent.
 
  | ◯ | ✗ | (★☆☆) |
 
 ## Finisher
 
-A Bandit executes the player after knocking them:
+A Bandit executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

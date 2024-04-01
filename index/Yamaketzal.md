@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 93559
+revid: 94555
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Chime of Conflict]
@@ -59,6 +59,10 @@ These two behaviors implies that, combined with his general knowledge of the wor
 
 <table>
 <tbody>
+<tr>
+  <td colspan="6"><b>Dialogue</b></td>
+  <td colspan="6"><b>Reference</b></td>
+</tr>
 <tr>
   <td colspan="6">Me? Drowned... Just like you. *He looks you dead in the eyes and gives you a wry smile.*</td>
   <td colspan="6">Mentions the act of Drowning, being sent to <a href="The_Depths.md">The Depths</a>.</td>
@@ -138,20 +142,18 @@ These two behaviors implies that, combined with his general knowledge of the wor
   <td colspan="12">Aye... That I can... Fer a small fee of jus' 1,000 Notes...</td>
 </tr>
 <tr>
-  <td colspan="12">Alright, here you go.</td>
-  <td colspan="12">Nope.</td>
+  <td colspan="11">Alright, here you go.</td>
+  <td>Nope.</td>
 </tr>
 <tr>
-  <td colspan="12">Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... <i>*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.*</i></td>
-  <td colspan="9">End</td>
+  <td colspan="11">Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... <i>*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.*</i></td>
+  <td>End</td>
 </tr>
 <tr>
-  <td colspan="9">End</td>
+  <td colspan="11">End</td>
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Trivia
 

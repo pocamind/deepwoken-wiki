@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 94353
+revid: 94521
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Torso, Necklaces]
@@ -23,10 +23,6 @@ categories: [Pages with broken file links, Equipment, Torso, Necklaces]
 | pass down | Yes |
 | obtainment | Ferryman, Scion of Ethiron |
 | description | "A medallion said to be able to emit the frequencies of the Radiant Tones for a few moments. The keepsake of a longheld dream, though one doomed to failure. The Light produced is only sufficient enough to Illuminate the wielder briefly, having no effect on the surrounding Void. The Radiant Tones can only truly be utilized by the meagre few that bear the Gift, a blessing that is thought to be granted by the unique signature of their Soul Murmur." |
-
-Redirect to:
-
--   [Duke Erisia](Duke_Erisia%253Fredirect=no.md)
 
 Labels description and talent information.
 

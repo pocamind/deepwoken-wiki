@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 94171
+revid: 94536
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -57,8 +57,7 @@ A Celtorian Guard executes it's opponent after knocking them:
     -   Feinting and parrying frequently is a good idea.
 -   A heavy weapon critical will blockbreak this enemy almost immediately, allowing for follow-up attacks.
 -   Decent health-pack in an event that a [Gigamed](Gigamed.md) is not present nearby.
--   It's possible to use them to help defeat or distract Monsters, but only those with large AoE attacks, as, while weak, the number of them around the city should provide a suitable distraction. (You need to lure the monster to hit the guards which will trigger them to attack the monster.)
--   Like guards, they do not attack other monsters unless the monster accidentally attacks the Celtorian Guard, in which case they will attack the monster that attacked them.
+-   It's possible to use them to help defeat or distract Monsters, but only those with large AoE attacks, as, while weak, the number of them around the city should provide a suitable distraction.
 
 ## Trivia
 

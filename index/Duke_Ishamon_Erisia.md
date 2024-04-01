@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 94205
+revid: 94556
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses]
@@ -295,8 +295,8 @@ Upon defeating The Duke, you are rewarded a colossal sized chest that contains:
   <td colspan="6"><b><a href="Oath%253A_Contractor.md">Contractor</a></b></td>
 </tr>
 <tr>
-  <td colspan="6">You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
   <td colspan="6">You're right. I'm wasting valuable time on you. Lumen's salvation will not wait for fools who would deny it.</td>
+  <td colspan="6">You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

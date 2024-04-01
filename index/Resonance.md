@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 93063
+revid: 94542
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -105,7 +105,7 @@ Obtaining your **Resonance** is judged by how far your character has come in ter
 
 _If you do not talk to [Sibex](Sibex.md), you will be in the dark on how far your character has come since they first awoke, so for those looking to unlock their **Resonance** for the first time, paying a visit to him is advised-- and [**please visit his page**](Sibex.md) to understand what you must do with him, as well as how to interpret what he tells you._
 
-You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you do not get to pick your resonance this way
+You can also very rarely obtain your Resonance from the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, although you do not get to pick your resonance this way.
 
 ### The Path- Progress & Nature of Your Soul
 

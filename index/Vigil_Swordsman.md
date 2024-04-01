@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 92774
+revid: 94537
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Kingdom of Etrea Enemies, Ambush Enemies]
@@ -31,7 +31,7 @@ A Vigil Swordsman's arsenal consists of a [Vigil Longsword](Vigil_Longsword.md) 
 
 ## Finisher
 
-A Vigil Swordsman executes it's opponent after knocking them:
+A Vigil Swordsman executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

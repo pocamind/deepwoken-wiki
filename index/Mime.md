@@ -1,9 +1,9 @@
 ---
 title: Mime
-revid: 92062
+revid: 94550
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs]
+categories: [In progress without reason, InProgressPages, Pages with broken file links, Mantras, NPCs, Eastern Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Adar, Master of Metal"
-revid: 93458
+revid: 94548
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Spelltrainers]
+categories: [In progress without reason, InProgressPages, Spelltrainers, NPCs]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

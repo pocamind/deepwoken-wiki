@@ -1,6 +1,6 @@
 ---
 title: Mendacia
-revid: 94378
+revid: 94518
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Lore, Layer 2]
@@ -26,5 +26,5 @@ Upon arriving to New Kyrsa she will be in front of the first obelisk near the sp
 
 ## Trivia
 
--   Once you encounter her in Floor 1, you can go back to Klaris and ask her about the Arch-Divers and the Interstice Skies. Klaris warns you about the Arch-Divers, but doesn't know anything about the Interstice skies.
+-   Once you encounter her in Floor 1, you can go back to Klaris and ask her about the Arch-Divers and the Interstice Skies. She shows no knowledge of either concept and states they are likely made up.
 -   Her name means "Lies" in Latin.

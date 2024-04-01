@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 92880
+revid: 94549
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -18,7 +18,7 @@ The base maximum amount of bombs you can hold is 99, this can be surpassed by ge
 
 ## Obtainments
 
-To gain this recipe, you will have to talk to Lucien at [Songseeker Wilds](Songseeker_Wilds.md) nearby the gate of [Ancient Rotlands](Ancient_Rotlands.md). Talk to him and purge [Mine skippers](https://deepwoken.fandom.com/wiki/Mudskipper#Mineskipper%7C). Talk to Lucien once you've purged them all and obtain the family recipe talent. After this you will be able to receive talents from the "Saboteur" talent tree which allows for more ways to play around with your bombs.
+To gain this recipe, you will have to talk to [Lucien](Lucien.md) at [Songseeker Wilds](Songseeker_Wilds.md) nearby the gate of [Ancient Rotlands](Ancient_Rotlands.md). Talk to him and purge [Mine skippers](https://deepwoken.fandom.com/wiki/Mudskipper#Mineskipper%7C). Talk to Lucien once you've purged them all and obtain the family recipe talent. After this you will be able to receive talents from the "Saboteur" talent tree which allows for more ways to play around with your bombs.
 
 ### Recipe
 
@@ -62,23 +62,15 @@ Iron bombs are able to be influenced by universal damage boosters such as but no
 
 ## Tips
 
-1\. Getting Family recipe before entering trial of one will help alot when making a bomb build.
-
-2\. The talent [Excavator](Talent_Quests.md) will greatly help with gathering materials for bombs.
-
-3\. Iron and coal is available for purchase at the [blacksmith](Blacksmith.md) in [etris](Etris.md)
-
-4\. The hat [Miner's Hardhat](<Miner's_Hardhat.md>) grants a talent that doubles all your mining, this hat is a must have.
-
-5\. Every weapon but fists takes time to sheathe, which makes you vulnerable and unable to throw bombs in an instant, making you predictable, it is highly suggested to go for fists if you'd like to base yourself around bombs.
-
-6\. [The Viper's Jaw](<The_Viper's_Jaw.md>) is home to many materials needed to create bombs, having a rich balance of coal and iron.
-
-7\. An alternative to [The Viper's Jaw](<The_Viper's_Jaw.md>) is the [Widow's Hollow](<Widow's_Hollow.md>) above the starswept sands. This spot is suggested for end-game gathering, as you require a [union hook](Talent_Quests.md) to access this easily.
-
-8\. If you managed to get your hands on Pumpkin Pitch (mantra), you can use this as a feint for your bombs, keeping your opponent busy and unsure wether you're throwing a fake or real bomb.
-
-9\. When talking to Mystic, tell them " I sabotage others " to gain the bomb talents easier.
+-   Getting Family recipe before entering trial of one will help alot when making a bomb build.
+-   The talent [Excavator](Talent_Quests.md) will greatly help with gathering materials for bombs.
+-   Iron and coal is available for purchase at the [blacksmith](Blacksmith.md) in [etris](Etris.md)
+-   The hat [Miner's Hardhat](<Miner's_Hardhat.md>) grants a talent that doubles all your mining, this hat is a must have.
+-   Every weapon but fists takes time to sheathe, which makes you vulnerable and unable to throw bombs in an instant, making you predictable, it is highly suggested to go for fists if you'd like to base yourself around bombs.
+-   [The Viper's Jaw](<The_Viper's_Jaw.md>) is home to many materials needed to create bombs, having a rich balance of coal and iron.
+-   An alternative to [The Viper's Jaw](<The_Viper's_Jaw.md>) is the [Widow's Hollow](<Widow's_Hollow.md>) above the starswept sands. This spot is suggested for end-game gathering, as you require a [union hook](Talent_Quests.md) to access this easily.
+-   If you managed to get your hands on Pumpkin Pitch (mantra), you can use this as a feint for your bombs, keeping your opponent busy and unsure wether you're throwing a fake or real bomb.
+-   When talking to Mystic, tell them " I sabotage others " to gain the bomb talents easier.
 
 ## Trivia
 
