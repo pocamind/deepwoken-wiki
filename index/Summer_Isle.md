@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 92725
+revid: 94504
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Locations, World, Eastern Luminant]
@@ -29,7 +29,7 @@ Summer Isle's points of interest, from highest to lowest priority.
 
 ### _**The Castle**_
 
-#### _**Gunsmith**_
+#### _**Gunsmiths**_
 
 Main Article - [Weapons](Weapons.md)
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 94073
+revid: 94500
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -23,7 +23,7 @@ categories: [Pages with broken file links, Oaths]
 
 ## Obtainment
 
-Important note: **YOU WILL BE LOCKED OUT OF CONTRACTOR IF YOU CHOOSE TO TALK TO LORD REGENT WITH NEGATIVE ETREA OR MINISTRY REP**
+Important note: You can return to Lord regent, restart the quest if you have negative Etrea or Minitsry reputation.
 
 -   To prevent this from happening, you can do the four shrines, resonance, and duke quest in any order, but when you complete the duke quest, **DO NOT RETURN TO LORD REGENT** until you complete all previous requirements.
 

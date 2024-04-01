@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 94466
+revid: 94511
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -40,6 +40,13 @@ Alirian will ask of you to find 5 Orbs scattered in the Etrean Luminant. This ca
 _For a more in-depth walkthrough, consider watching [this video](https://www.youtube.com/watch?v=S7cPoR7G-5c&t=13s)._
 
 ## Abilities
+
+-   **Acceleration points - Talent**
+    -   Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum.
+
+-   **Jetstream persuit**
+    -   Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
+        -   This works on humanoid mobs, Teleporting you to the middle of their hitbox.
 
 -   **Momentum Bar - Passive**
     -   Parrying, dodging, running, and landing basic attacks will gain short bursts of momentum, the momentum will be tracked as a bar indicated next to the player. When maxed-out, mantras will deal more damage and the color of mantras will change according to the cosmetic of the oath.

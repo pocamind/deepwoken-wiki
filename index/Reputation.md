@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 93450
+revid: 94482
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -20,13 +20,13 @@ The reputation tab found while sitting at campfires. This is the starting reputa
 
 Reputation represents how the players interact with a faction and how they interact with the player.
 
-The world of Deepwoken is populated by different factions, each with their stories, goals, characters and locations. The player is bound to interact with them in many way, in which case reputation will play a part in how these interactions will go.
+The world of Deepwoken is populated by different factions, each with their stories, goals, characters and locations. The player is bound to interact with them in many ways, in which case reputation will play a part in how these interactions will go.
 
 ## Reputation status
 
-The player reputations is a value ranging from -300 to 300, with different threshold granting different titles within a factions, changing how the faction interact with the player.
+The player reputations is a value ranging from -300 to 300, with different threshold granting different titles within a faction, changing how the faction interacts with the player.
 
-Certain aspects of the game, such as certain NPCs dialogues or certain quests, requires a certain status within a faction to be available.
+Certain aspects of the game, such as certain NPCs dialogue or certain quests, requires a certain status within a faction to be available.
 
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ The player can track reputation shifts via status messages, which are as follows
 The player can gain reputation with a faction by:
 
 -   Completing quests from specific NPCs
-    -   There are one time quest and repeatable quests available to most factions
+    -   There are one time quest and repeatable quests available for most factions
 -   Completing Bounty Hunts
     -   "Factions without Bounty Boards" cannot benefit from this.
 -   Helping NPCs in certain random events, primarly Factions VS Factions.
@@ -65,14 +65,14 @@ The player can gain reputation with a faction by:
 The player can lose reputation with a faction by:
 
 -   Committing crimes within a faction controlled area, such as towns
-    -   Crimes include Assault, Assassinations and killing Town Guards or Players
+    -   Crimes include Assault, Assassinations and killing Town Guards or Players within the town
 -   Killing NPCs from random events that spawn by themselves, without an enemy or opposing faction
 
 ## Bribe
 
 Players can pay specific NPCs up to ~1200 notes (depending on how much reputation below 0 they have) to set their reputations back at their starting amounts, usually Neutral, at 0.
 
-This starting amount can varies with [origins](Origins.md), so bribing will not always grant you protection from a specific faction.
+This starting amount can vary depending on your [origin](Origins.md), so bribing will not always grant you protection from a specific faction.
 
 Note that only 6 of the 11 factions have an NPC that offer this service.
 

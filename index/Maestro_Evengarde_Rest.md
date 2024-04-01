@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94464
+revid: 94508
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -31,6 +31,7 @@ To start the fight with Maestro Evengarde Rest:
 2.  Complete [the Lost Sibling quest](Isle_of_Vigils.md).
 3.  Have 80 in one Weapon Stat.
 4.  Complete the [Lord Regent's quest](Etris.md) and defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+5.  Reach 15+ Power.
 
 If the requirements are fulfilled, a new dialogue option should appear when talking to him. Choosing it will teleport you to the dungeon.
 

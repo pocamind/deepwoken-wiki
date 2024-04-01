@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 94315
+revid: 94497
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -648,6 +648,8 @@ These Talents are designed to improve and/or reward your ability to roll out of 
 
 -   Frozen Web \[Common Talent, Dual attunement\] - Landing a critical with a Static Link on your opponent applies Chilled.
     -   Prerequisites: Static Link, 40 Frostdraw, 40 Thundercall
+    -   Applies chill for 6 seconds
+    -   Applies bottom freeze
 
 ### Duelist
 
@@ -1213,14 +1215,14 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 ### Jetstriker
 
 -   _Decisive Winds \[Unlockable Talent, Jetstriker Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown._
--   _Prevailing Westerlies \[Unlockable Talent, Jetstriker Exclusive\] - You gain maximum momentum faster while running. (+5 Passive Agility)_
 -   _Rush of ancients \[Unlockable Talent, Jetstriker Exclusive\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)_
 -   _Stratos Step \[Unlockable Talent, Jetstriker Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)_
     -   _Consumes Ether per step._
     -   _Stratos Steps will only proc twice before going on a cooldown._
         -   _Said cooldown applies to individual steps._
--   _Jetstream pursuit \[Unlockable Talent, Jetstriker Exclusive\]_
--   Acceleration Points _\[Unlockable Talent, Jetstriker Exclusive\]_
+-   _Jetstream pursuit \[Unlockable Talent, Jetstriker Exclusive\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum._
+    -   When proccing on humanoid npcs, sends you to the center of the npc's hitbox.
+-   Acceleration Points _\[Unlockable Talent, Jetstriker Exclusive\] - Striking an opponent in the back with mobility mantras or basic attacks now steals and grants additional momentum._
 
 ### Justicar
 
