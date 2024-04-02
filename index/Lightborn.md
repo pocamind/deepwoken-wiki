@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 92178
+revid: 94638
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Races, Exclusive Races]
@@ -73,7 +73,7 @@ Does not have a racial ability.
 ## Notes
 
 -   Only obtainable from developers, Can also be obtainable if you are a well known (and liked) member of the Content Creators (given that a mod gives you the race).
--   While considered a developer race, the increase in stats is not significantly stronger than any other race. But the extra 333 investment points granted at level 20 is incredibly strong, and allows for extremely powerful builds
+-   While considered a developer race, the increase in stats is not significantly stronger than any other race. ~But the extra 333 investment points granted at level 20 is incredibly strong, and allows for extremely powerful builds~ Youtubers such as Agamatsu and Supaa who have obtained lightborn, have shown that this is false.
 -   There are 3 known halo variants for Lightborns, being:
     1.  Above the head
     2.  Around the neck

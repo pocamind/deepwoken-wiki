@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 94067
+revid: 94639
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -71,6 +71,7 @@ When obtained, Dimensional Travel will spend its points on the following stats:
     -   Warrior's Respite healing is also reduced in the Interstice, likely due to the same cause.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in the direction of your momentum while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
     -   This can be used to your advantage by flinging yourself in a desired direction.
+-   When in the First Layer, if you leave the map and fall out of the world, it will act as a reset and spawn you at one of the spawn locations.
 
 ## References
 

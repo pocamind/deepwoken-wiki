@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 94217
+revid: 94641
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Bosses, Floor 2, Layer 2, Monsters]
@@ -38,7 +38,7 @@ _For a visual guide consider watching [this video](https://youtu.be/xJqekqeHmlg)
 | 
 **Blinding Gale**
 
- | The Scion of Ethiron charges up its left hand and unleashes a powerful purple ball of galewind as a projectile, doing no damage but blinding those hit for up to three seconds. This move shares an animation with Pressurised Wind. | 
+ | The Scion of Ethiron charges up its left hand and unleashes a powerful purple ball of galewind as a projectile, doing tiny damage and blinding those hit for up to three seconds. This move shares an animation with Pressurised Wind. | 
 
 File:Blinding Gale.gif
 

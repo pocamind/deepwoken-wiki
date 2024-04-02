@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 94514
+revid: 94633
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -193,7 +193,7 @@ Etrean Soldiers Etreaiconfaction vs Knives of Eylis ([The Aratel Sea](The_Aratel
 
 #### Islands/Outposts
 
-Various islands appeared on the sea with various enemies. After defeating all enemies, two chests will spawn, one on the island and one visible after the island is sunk. Different islands have different loot tables.
+Various islands appear on the sea with various enemies. After defeating all enemies, two chests will spawn, one on the island and one visible after the island is sunk. Different islands have different loot tables.
 
 A Tower in the Sea
 
@@ -206,41 +206,37 @@ A Tower in the Sea
 _You can't get into that hut anyway, don't try._
 
 -   **Isle of Outlaws:**
-    -   The stones on both sides of the island cover the central hut like a pair of hands, where has been occupied by illegals. Defeating all of them will reward you with two large chests of Upper Erisia loot. Possible Enemies:[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+    -   The stones on both sides of the island cover the central hut like a pair of hands, which has been occupied by illegals. Defeating all of them will reward you with two large chests of [Upper Erisia](Upper_Erisia.md) loot. Possible Enemies:[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
 
 A Fort Island
 
 -   **Overrun Authority Stronghold:**
-    -   The ruins of a tropical fortress resembling Fort Merit were occupied by the enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:[Thresher](Thresher.md)/[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+    -   The ruins of a tropical fortress resembling [Fort Merit](Fort_Merit.md) occupied by multiple enemies. Defeating all of them will reward you with one large chest of Authority loot and one large chest of Erisia loot. Possible Enemies:[Thresher](Thresher.md)/[Blacksteel Pirate](Blacksteel_Pirate.md)/[Cloaked Assassin](Cloaked_Assassin.md).
 
 _They really like hands, huh?_
 
 -   **The Depth Fragment:**
-    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of Depths loot and one large chest of Erisia loot. Possible Enemies:[Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md).
+    -   A rotten island floats out of the depth, with a hand-shaped stone covered in coral and mushrooms. Defeating all of the mobs will reward you with one large chest of [Depths](First_Layer.md) loot and one large chest of Erisia loot. Possible Enemies: [Bloatskipper](Mudskipper.md)/[Carbuncle](Carbuncle.md)/[Cloaked Assassin](Cloaked_Assassin.md).
 
 _Fortunately, they all end up the same - occupied by bandits._
 
 -   **The Church Ruins Island**
-    -   It seems like a piece of Erisia broke away from it as it drifted back from the Void Sea. Defeating all of enemies on it will reward you with two chests with Erisia loot. Possible Enemies:[Bandit](Bandit.md)/[Bandit Leader](Bandit_Leader.md).
+    -   It seems like a piece of Erisia broke away from it as it drifted back from the Void Sea. Defeating all enemies present will reward you with two chests with Erisia loot. Possible Enemies: [Bandit](Bandit.md)/[Bandit Leader](Bandit_Leader.md).
 
 A Bandit Island
 
 -   **Bandits' Respite**
-    -   An island with a few trees was temporarily used as a bandit camp. Defeating them will reward you with two Erisia chests.There are two variations of this island.
+    -   An island with a few trees temporarily used as a bandit camp. Defeating the bandits will reward you with two Erisia chests. There are two variations of this island.
 
 -   **Sandstone Tower**
-    -   A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with Starswept loot.Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Bounty Hunter (NPC)](<Bounty_Hunter_(NPC).md>)
+    -   A sand island contains ruin of a sandstone tower and withered trees. Defeating all enemies on it will give you two chests filled with [Starswept Valley](The_Starswept_Valley.md) loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)/[Bounty Hunter (NPC)](<Bounty_Hunter_(NPC).md>)
 
 _They do add new sound effects to threshers!_
 
 -   **Sandy Remnants**
-    -   A stone island similar to Aratel, with sand flowing out of the stones. Defeating all enemies on it will give you two chests filled with Starswept loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)
+    -   A stone island similar to [Aratel](Aratel_Island.md), with sand flowing out of the stones. Defeating all enemies on it will give you two chests filled with Starswept Valley loot. Possible Enemies:[Thresher](Thresher.md)/[Cloaked Assassin](Cloaked_Assassin.md)
 -   **Mudskipper Tower**
-    -   A corrosive island filled with mushrooms and corals, and a distinctive tower ontop it. Depending on he variant of the island different mudskippers will spawn. Defeating them will grant a Depths Chest and Erisia Chest.
-
-#### False Merchant Ship
-
-A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is pretty rare, and drops high tier loot. When approached, the boat will burst into flames and spawn 3-8 [Cloaked Assassins](Cloaked_Assassin.md) after you.
+    -   A corrosive island filled with mushrooms, corals, and a distinctive tower atop it. Depending on the variant of the island different [Mudskippers](Mudskipper.md) will spawn. Defeating them will grant a Depths Chest and an Erisia Chest.
 
 #### Traveling Merchant
 
@@ -250,7 +246,7 @@ A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, 
 
 A merchant ship that spawns with a black flag and a ramp entrance on the bottom deck. This is pretty rare, and drops high tier loot. When approached, the boat will burst into flames and spawn 3-8 [Cloaked Assassins](Cloaked_Assassin.md) after you.
 
-### _**The Depth (Scyphozia)**_
+### _**The Depths (Scyphozia)**_
 
 #### Mudskipper Attack
 
