@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 94317
+revid: 94651
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs, Mechanics]
@@ -117,7 +117,7 @@ Located in Songseeker Mines, through the passage containing mudskippers.
 ## Effect
 
 For 10 Knowledge, balance your stats (up to a limit), but gain a random Flaw. Can only be done once per character.  
-You need Power 8+ and no Oath to perform this deal.
+You need Power 8+ and NO OATH to perform this deal.
 
 ## Details
 

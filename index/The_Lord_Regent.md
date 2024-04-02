@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 94580
+revid: 94644
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests]
@@ -21,7 +21,7 @@ categories: [NPCs, Quests]
 
 Zi'eer, more commonly known as Lord Regent or by his title, the fourth Prophet of [The Ministry](The_Ministry.md), is a mysterious and powerful NPC that resides exclusively inside his palace within Etris. He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power and wealth, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning. The Ministry may have had a hand in removing the King of Etrea, as a Shadowcaster named Belphalos helped develop a weapon to kill him, with Shadowcast seen as taboo and only used by the Ministry, usage of it being heavily controlled, regulated and any new Shadowcasters being hunted aggressively.
 
-While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true race or aggressive mutations from his meddling with the world's natural order is unknown.
+While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true race or aggressive mutations from his meddling with the world's natural order is unknown. \[**Citation needed.\]**
 
 The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When Kennith had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know. He also had a mental veil installed in the people of Etris, giving them each conflicting ideas of where he came from and how long he was in power for.
 
