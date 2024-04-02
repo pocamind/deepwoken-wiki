@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94470
+revid: 94662
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -2133,16 +2133,16 @@ Weapons that are exclusive for special people.
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Unsung_Scythern"><font>Unsung Scythern</font></a></td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
+  <td>75 HVY, LVL 10</td>
+  <td>26</td>
+  <td>10</td>
+  <td>N/A</td>
+  <td>HVY: 9</td>
+  <td>8</td>
+  <td>8</td>
+  <td>0.6x</td>
+  <td>N/A</td>
+  <td>48.8</td>
 </tr>
 </tbody>
 </table>

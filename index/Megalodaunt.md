@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 94649
+revid: 94660
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
@@ -367,6 +367,10 @@ Roar
 ## Passives
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Megalodaunts.
+
+## **Gallery**
+
+File:Sharkos having a good time.png
 
   
 

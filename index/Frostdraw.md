@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 94153
+revid: 94655
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -537,6 +537,7 @@ _Skate freely on paths of ice._
   <td>Conjure a wisp that travels around the user that freezes the ground below; Shoots a small beam of ice whenever the user vents successfully.
   <ul>
     <li>The "<b>Glacial Ice</b>" talent and leveling up the mantra increases the size of the ice floors it spawns.</li>
+    <li>can be modified with Aeon Logstone</li>
   </ul></td>
 </tr>
 <tr>
