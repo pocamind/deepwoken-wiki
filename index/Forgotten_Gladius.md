@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 90780
+revid: 94594
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords]
@@ -23,7 +23,7 @@ categories: [Weapons, Swords]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Chest from:, Voidwalker, Primadon, Fishing, Merchant Ships, Maestro Evengarde Rest |
-| description | Often found at the hip of officers on horseback during the Canticlysm, it sadly remained for many years only as a curio for petty nobles to fawn over in the early days after the Tides. Despite its moniker, it was brought back into the vogue by young naval officers of the Central Authority who saw combat value in the trinkets they'd inherited, dragging the blade out from obscurity. |
+| description | Found at the hip of horseback officers during the Canticlysm. For many of the post-tidal years it was but a curio for petty nobles to fawn over. Despite its moniker, it was made fashionable by young naval officers of the Authority who saw value in the trinkets they'd inherited, dragging the blade out from obscurity. |
 
 ## Description
 

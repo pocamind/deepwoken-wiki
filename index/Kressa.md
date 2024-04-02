@@ -1,6 +1,6 @@
 ---
 title: Kressa
-revid: 94547
+revid: 94605
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Eastern Luminant]
@@ -69,11 +69,11 @@ Kressa is an NPC located in [Miner's Landing](<Miner's_Landing.md>), in a room a
 </tr>
 <tr>
   <td colspan="5">The Knives. Right. Haha.</td>
-  <td>[Placeholder]</td>
+  <td>How can these factions even trust the Knives?</td>
 </tr>
 <tr>
   <td colspan="5"><i>*The tall woman raises her brow concerningly at you.*</i> What's with that reaction? You sound amused. Do you know all of this already, am I being patronizing? Apologies.</td>
-  <td>[Placeholder]</td>
+  <td>Simple. They get the job done consistently, no matter what flag or banner they're hired under. Most of us barely know anything about them besides their business practices. Elyis herself has only been seen on the most high stakes missions of theirs. It's my only guess at this point as to whom these sabotages may be performed by...</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

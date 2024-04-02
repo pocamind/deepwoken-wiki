@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 93933
+revid: 94595
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Layer 1]
@@ -37,11 +37,16 @@ The entrance to the second layer of the depths.
 -   You are able to trade [Kyrsan medallions](Kyrsan_Medallions.md) to Klaris here.
 -   Players can obtain the Oath [Dawnwalker](Oath%253A_Dawnwalker.md) through the second layer.
 
+Main Entrance
+
+-   [Mantra table](Mantra_Lectern.md)
+-   [Crafting station](Crafting_Station.md)
+
 ### The library
 
--   Contains a cauldron
+-   Contains a [cauldron](Cauldron.md)
 -   The players can find the Antiquarian, [Mystic](Mystic.md), Banker and [Dr. Carrion](Monster_Mantras.md) here.
--   Only Deepbound players are able to interact with the Antiquarian and Banker.
+-   Only [Deepbound](Origins.md) players are able to interact with the Antiquarian and Banker.
 
 An image showcasing the library.
 
@@ -56,7 +61,6 @@ The Armory.
 
 -   [Antiquarian](Antiquarian.md)
 -   [Blacksmith](Blacksmith.md)
--   [Barber](Barber.md)
 -   [Nyanna](Nyanna.md)
 -   [Akira](Akira.md) (if met in a random encounter)
 -   [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)

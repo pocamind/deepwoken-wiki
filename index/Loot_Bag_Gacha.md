@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 94415
+revid: 94620
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Mechanics]
@@ -22,7 +22,10 @@ An NPC located inside [Erisor's Church](<Erisor's_Church.md>).
 
 ### **Lootpool**
 
-???
+-   [Fur Boots](Fur_Boots.md)
+-   [Fur Pauldrons](Fur_Pauldrons.md)
+-   [Gilded Knife](Gilded_Knife.md)
+-   [Iron Pauldrons](Iron_Pauldrons.md)
 
 ## Kujae
 
@@ -43,8 +46,6 @@ An NPC located at [Summer Isle](Summer_Isle.md), outside the Inn.
 
 An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 
-  
-
 ### **Lootpool**
 
 -   [Darksteel Greatsword](Darksteel_Greatsword.md)
@@ -55,6 +56,16 @@ An NPC located at [Miner's Landing](<Miner's_Landing.md>).
 -   [Nomad Pendant](Nomad_Pendant.md)
 -   [Old World Greatshield](Old_World_Greatshield.md)
 -   [Vigil Longsword](Vigil_Longsword.md)
+
+## Marae
+
+An NPC located inside [The Lordsgrove](The_Lordsgrove.md).
+
+### **Lootpool**
+
+-   [Legion Cestus](Legion_Cestus.md)
+-   [Knight's Helm](<Silver_Knight's_Helm.md>)
+-   Scarfs
 
 ## Dialogue
 
