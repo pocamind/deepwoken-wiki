@@ -1,6 +1,6 @@
 ---
 title: Warring States Era
-revid: 94677
+revid: 94697
 source: https://deepwoken.fandom.com/wiki/Warring_States_Era
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [April Fools, World]
@@ -14,4 +14,4 @@ The Warring States Era was the 2024 April fools event similar to [Mudwoken](Mudw
 -   The Red Daunts
 -   The Green Threshers
 
-The winners were The Red Daunts.
+The winning faction were The Red Daunts, receiving a new sticker in the server.

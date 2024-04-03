@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 94667
+revid: 94689
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs]
@@ -30,7 +30,6 @@ categories: [Random Encounters, NPCs]
 -   Mushroom Bisque
 -   Cooked Fish
 -   Megurger - Boosts your Weapon Damage.
--   Mega Meat - Medium Weapon
 
 ## Known Spawn Locations
 

@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 94639
+revid: 94692
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -69,6 +69,7 @@ When obtained, Dimensional Travel will spend its points on the following stats:
 -   There is sometimes a [Brainsucker](Brainsucker.md) spawning in the dimension on the player when entering the Interstice. This is likely a result of the player briefly being considered in the Voidsea.
     -   This interaction can be abused to summon the [Dread Serpent](Dread_Serpent.md) anywhere in the Luminants, as you are briefly considered in the Voidsea when leaving the Interstice.
     -   Warrior's Respite healing is also reduced in the Interstice, likely due to the same cause.
+    -   Many of the islands that spawn across the ocean can spawn in the Interstice as well.
 -   **Dimensional Travel** cannot be used in Layer 2. Attempting to do so will fling you in the direction of your momentum while a dialogue box by “???” will appear, saying, “FALSE REALMS WILL NOT SAVE YOU.”
     -   This can be used to your advantage by flinging yourself in a desired direction.
 -   When in the First Layer, if you leave the map and fall out of the world, it will act as a reset and spawn you at one of the spawn locations.

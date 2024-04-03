@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 83920
+revid: 94693
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -35,6 +35,7 @@ Critical
 \[[Adretian Axe](Adretian_Axe.md)\] Raises axe before firmly slamming it down to the ground.
 
  | ◯ | ✗ | (★★☆) |
+| Ice Smash | _A colossal mace of ice._ | ◯ | ◯ |  |
 | 
 
 Ice Eruption
@@ -44,13 +45,13 @@ Ice Eruption
 
 Glacial Shower
 
- | Rains down shards of ice. | ◯ | ◯ | (★★☆) |
+ | _Rains down shards of ice._ | ◯ | ◯ | (★★☆) |
 
 ## Talents
 
 -   Glass Path: Crystallization - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them.
 -   Cryostasis - When block broken, fragile freeze yourself, negating the damage of the next attack.
--   Rude Awakening - Rude Awakening
+-   Rude Awakening - When hit in Cryostasis inflict frost damage to the enemy who hit you.
 -   Preceding Chill - Enemies hit during the last moments of your ice beam are frozen.
 -   Frozen Legs - Your slow effect prevents your opponents from rolling.
 -   Crystal Shrapnel - Your crystal explosions now have an AoE that applies crystals to all hit.
