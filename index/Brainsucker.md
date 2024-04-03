@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 93285
+revid: 94675
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -22,7 +22,7 @@ Brainsuckers are a [monster](Monsters.md) that spawn alone above the waves of th
 | --- | --- | --- | --- | --- | --- |
 | **Bite** | 
  | Flies up, swoops down and attacks the player. | ◯ | ◯ | (★☆☆) |
-| **Foot Scratch** | 
+| **Kick** | 
 
  | Raises its leg and scratches the player. | ◯ | ◯ | (★☆☆) |
 

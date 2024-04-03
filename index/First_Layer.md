@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 94232
+revid: 94683
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -132,7 +132,7 @@ Information to keep in mind.
 -   _**Warrior's Respite**_ is an extremely useful talent in The Depths, allowing you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
 -   **[Animal King/Mute](Regalia.md#mute-28animal-king29)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils. Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, any group of mobs can aid your escape. Keep in mind that hitting a monster even once **will** make them attack you.
 -   If you have the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will restore your sanity.
--   There is no natural source of food for vegetarians in the Depths.
+-   Seaweed is currently the only natural source of food for vegetarians in the Depths.
 
 ## **Quests**
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 94557
+revid: 94687
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -68,8 +68,9 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>On hit, set your enemy on fire (per-victim cooldown of 2 seconds). This can be used to trigger Flamecharm talents.<br>
-  Lava Serpent will create an explosion instead of creating a fire.</p></div></td>
+  <td><div><p>After landing 4 hits, proc Blazing. Every hit for 5 seconds including the hit that procs Blazing will apply burning (6 damage normally, 8 damage with Azure Flames). This can be used to trigger Flamecharm talents.<br>
+  Lava Serpent will create an explosion instead of creating a fire.<br>
+  Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>
 </tr>
 <tr>
@@ -83,7 +84,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Deferred<div></div></font></center></td>
   <td><div><p>Weapon deals 1.07x damage over time.<br>
-  The victim takes 10% of the initial damage every 0.25s, 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
+  The victim takes 10.7% of the initial damage every 0.25s, 10 times. Every hit after the initial hit bypasses iframes.</p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -91,7 +92,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
   <font>Detonation<div></div></font></center></td>
   <td><div><p>After hitting a target<br>
   (Rapier/Guns: 5, LHT: 7, MED: 4, HVY: 3)<br>
-  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is not effected by damage modifiers and bypasses armor.(doesnt knock back) All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
+  times they explode, dealing an additional 16-20 damage to them and others around beside the user. The damage from explosions is not effected by damage modifiers and bypasses armor. The explosion doesn't knock them back. All critical attacks only apply 1 stack of detonation and you cannot gain stacks from hitting knocked players.<br>
   <b>Explosions can execute.</b></p></div></td>
   <td><div>Weapon turns orange, depending on material. Metal and Blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
@@ -289,9 +290,9 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Curse of Yun'Shul<div></div></font></center></td>
-  <td><div><p>On proc, add 5% of your max health to your damage. 10 second CD per victim.<br>
-  Rarely, you lose 7% of your max health and have 10% of your max health added to your damage instead.<br>
-  (likely ~80% and ~20% chance respectively)<br>
+  <td><div><p>On proc, add 5% of your max health to your damage. 12 second CD per victim.<br>
+  Rarely, you lose 7% of your max health and have 7/10% of your max health added to your damage instead.<br>
+  (likely ~15% and ~5% chance respectively)<br>
   Can autogrip if it procs self damage at low enough health. These effects are mutually exclusive and share a cooldown.</p></div></td>
   <td><div>Weapon is completely black and slightly transparent.<br>
   When sheathed, the weapon is completely invisible.</div></td>

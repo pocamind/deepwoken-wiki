@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94662
+revid: 94670
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -27,7 +27,7 @@ All weapons within the game have chances of being found with (or without) differ
 
 [Enchanted](Enchantments.md) weapons always have at least one star, but only if obtained from a chest. Weapons enchanted via an [Enchant Stone](Enchant_Stone.md) or [Laplace](Laplace.md) do not have this principle.
 
-### Totals
+### Total Amount Of Weapons Available In The Game :
 
 #### Light Weapon
 
