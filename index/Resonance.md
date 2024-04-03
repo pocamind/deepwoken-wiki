@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 94542
+revid: 94711
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -16,7 +16,7 @@ categories: [Resonances, Mechanics]
 
 Obtaining a **Resonance** will also allow the opening of Resonance Doors around the [Depths](The_Depths.md) and Overworld that can lead to shortcuts and hidden passageways, as well allowing access to the [Temple of Hearts](Temple_of_Hearts.md) in the Depths, where resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), a very helpful NPC that many would deem important in most progressions. For a quick guide, consider watching [this video](https://www.youtube.com/watch?v=9i1-6TMZRVU).
 
-You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in these few locations and will be protected by an Astral Knight. Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
+You can also obtain a **Resonance** from a very rare event in the overworld called the "Resonant Dawn Meteor." This meteor can appear in these few locations and will be protected by a [Stone Knight#Star Knight](Stone_Knight.md#star-knight). Once it is defeated, the meteor can be interacted with to obtain a random **Resonance**.
 
 | 
 **LIST OF NORMAL RESONANCES**
@@ -54,13 +54,13 @@ You can also obtain a **Resonance** from a very rare event in the overworld call
 
 ### Normal Resonances
 
-**Normal Resonances** are the original versions of each **Resonance**. They do not have any extra buffs or debuffs compared to sub-category **Resonances** such as **Corrupted Resonances** (see below), but they are still susceptible to being a variant.
+**Normal Resonances** are regular, common **Resonances**. They do not have any extra upsides, downsides, or rarity compared to sub-category **Resonances** such as **Corrupted Resonances** (see below), but they are still susceptible to being a variant.
 
 _(From data of 100 rerolls, the calculated chance of getting a normal **Resonance** was 92% (276/300, almost guaranteed per reroll))_
 
 ### Corrupted Resonances
 
-**Corrupted Resonances** are a sub-category of **Resonances** which are obtained identically to normal **Resonances**. They are rarer and stronger, yet come with a consequence upon use, and give more points for the point-allocation system of **Resonances** and even give **extra effects to some**, allowing them to grant stronger benefits and fulfill their purpose in a way that is arguably better than that of a **Normal Resonance**.
+**Corrupted Resonances** are a sub-category of **Normal Resonances** which are obtained identically to any other **Resonances**. They are rarer and stronger versions of **Normal Resonances**, yet come with a consequence upon use, and give more points for the point-allocation system of **Resonances** and even give **extra effects to some**, allowing them to grant stronger benefits and fulfill their purpose in a way that is arguably better than that of a **Normal Resonance**.
 
 Known side-effects include:
 
@@ -81,13 +81,13 @@ _(From data of 100 rerolls, the calculated chance of getting a **Corrupted Reson
 
 ### Legendary Resonances
 
-**Legendary Resonances** are another category of **Resonances** which are _also_ obtained identically to **Normal Resonances** but are massively rarer than both **Normal** and **Corrupted Resonances**. The only **Legendary** **Resonances** in the game currently are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). **Legendary Resonances** can overlap with **Corrupted Resonances** to become a godlike _**Drowned Resonance**_, but this is one of the rarest occurrences possible.
+**Legendary Resonances** are a category of **Resonances** separate from **Normal Resonances** which are _also_ obtained identically to **Normal Resonances** and their **Corrupt Resonance** versions, albeit being exceedingly rarer than both **Normal** and **Corrupted Resonances**. The only **Legendary Resonances** in the game currently are [Teleportation](Teleportation.md) and [Dimensional Travel](Dimensional_Travel.md). **Legendary Resonances** also have a **Corrupt Resonance** counterpart, being _**Drowned Resonances**_, but these are incredibly difficult to obtain, naturally being extraordinarily rare due to their overlap between being a **Legendary** and **Corrupted** resonance at the same time.
 
 _(From data of 100 rerolls, the calculated chance of getting a Legendary Resonance was 3.67% (~1.223% per card))_
 
 ### Drowned Resonances
 
-These function identically to **Corrupted Resonances**, with the same chance of being obtained on a card. The only difference is that they can only be obtained on a **Legendary Resonance**. This, of course, makes natural obtainment of these extremely rare. They can be more easily obtained by using sinner's ash on a legendary resonance.
+These function identically to **Corrupted Resonances**, with the same chance of being obtained on an eligible **Resonance** card. The only difference is that they can only be obtained on a **Legendary Resonance**. This, of course, makes natural obtainment of these extremely rare. They can be more easily obtained by using Sinner's Ash on a **Legendary Resonance**, or repeatedly rerolling until the fourth card in your **Resonance** card selection, which will always be your current **Resonance**, turns from Legendary to Drowned.
 
 _(From data of 100 rerolls, the calculated chance of getting a corrupted Legendary Resonance (drowned) was 0.333% (0.111% per card))_
 
@@ -157,7 +157,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
   <td>The most important part to remember when it comes to bosses is how Progress is handled if soloing the boss or doing it in a group:
   <ul>
     <li>Defeating bosses solo give more Progress.</li>
-    <li>In a group, the MVP (most damage dealt) get Progress</li>
+    <li>In a group, the MVP (most damage dealt) gets Progress</li>
     <li>In a group, dealing 80% of the damage of the MVP grant Progress.</li>
     <li>Bosses have their own pros and cons when it comes to which you should farm, and why. Any will work, but some obviously work better than others.</li>
   </ul><p><br>
@@ -210,7 +210,7 @@ Once you face death in The Depths and your health goes down to 0%, if you have m
 -   **An air-splitting bell choir will play throughout the entirety of The Depths as you rise once again.**
 -   **You will be healed to 100%.**
 -   **Your Blood, Thirst, Sanity and Hunger will be replenished.**
--   **Finally, a hand of 3 cards will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Red cards indicate a **Corrupted Resonance**, while yellowish/gold are **Legendary**, also to note that light purple cards indicate the resonance being **Drowned**, but only a lucky few have encountered this. The variant will be left for you to discover.
+-   **Finally, a hand of 3 cards will appear before you, with each card providing their name, rarity, and a brief description of what they do.** Deep magenta cards indicate a **Corrupted Resonance**, light gold cards are **Legendary**, while light lavender cards are **Drowned**.
 
 Once you select your card, using C will activate your **Resonance**.
 
@@ -222,7 +222,13 @@ _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a ge
 
 Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example in the picture below) can be found. **Resonance Doors** are greyish doors with a white sphere in their center that require a **Resonance** to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another draw of four cards, three of which are selected randomly and the last one is a different variant (different stat allocation) of your current **Resonance**. This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear _Tarnished_ and grant a wish.
+This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another **Resonance** card draw.
+
+The draw consists of four cards, three of which are selected randomly (identically to the three you rolled when first obtaining your resonance) and the last of the four always being your current **Resonance**, albeit with a different stat allocation.
+
+-   If your current **Resonance** isn't a **Corrupted Resonance**, the fourth card has a chance of being **Corrupted**. If your current **Resonance** _is_ a **Corrupted Resonance**, the fourth card will always be a _non-corrupted_ version of your **Resonance** with an extra fifth card of your **Corrupted Resonance** alongside it.
+
+This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _Tarnished_ [Flaw](Boons_and_Flaws.md), which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear _Tarnished_ and grant a wish.
 
 -   One can visit [Yamaketzal](Yamaketzal.md) to removes the _Tarnished_ [Flaw](Boons_and_Flaws.md), without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does grant a wish, but it does not allow to reroll by talking to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 -   Otherwise, [Misérables](Misérables.md) will remove the _Tarnished_ [Flaw](Boons_and_Flaws.md) and grant the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).

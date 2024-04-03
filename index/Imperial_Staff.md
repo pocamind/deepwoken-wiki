@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 93822
+revid: 94718
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons"]
@@ -36,9 +36,9 @@ The Imperial Staff is a Legendary [Medium Weapon](Weapons.md) that scales with a
 
 The Imperial Staff possess three different criticals, all of which grant the user a heavenly crown on their head.
 
--   The regular critical is a ranged one, throwing the staff at the cursor, this'll ragdoll the opponent.
--   The aerial critical is a slam, the staff growing in size and slamming down on the floor block-breaking the opponent. Somewhat similar to a progressed critical of [Light's Final Toll](<Light's_Final_Toll.md>).
--   The running critical is a multi-hit: the staff spins in the hands dealing constant damage, however if parried the critical will end.
+-   The regular critical is a ranged one with the user throwing the staff at the cursor and will ragdoll the opponent if hit.
+-   The aerial critical is a slam, where the staff grows in size and slams back down onto the floor which block-breaks the opponent.
+-   The running critical is a multi-hit where the user spins the staff in their hands dealing constant damage, however if parried the critical will end.
 
 ## Trivia
 

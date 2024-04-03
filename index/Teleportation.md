@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 94624
+revid: 94715
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -18,72 +18,68 @@ categories: [Resonances]
 
 ― Teleportation description
 
-## Description
+### Description
 
-**Teleportation**, also known as Fast Travel, Gate, or Flying Raijin is a [Resonance](Resonance.md) or "bell" that players can obtain, and is extremely rare to roll.
+**Teleportation**, also referred to as _Fast Travel_, _Gate_, or _Flying Raijin_ is a [Resonance](Resonance.md) or "bell" that players can obtain and is exceedingly rare to roll.
 
-### _Appearance_
+### Appearance
 
-Once used, a gold ring expands on the ground around the user. Over time, particles will start to rise from the field indicating teleport.
+On usage, a gold ring expands on the ground around the user. When charged, particles will rise from the ring indicating it's charged state.
 
-Shortly after particles start appearing, all players inside **Teleportation's** radius teleport to the set waypoint, appearing similar to teleportation used at [Greathive Aratel](Greathive_Aratel.md).
+Shortly after charging, all players inside **Teleportation's** radius teleport to the set waypoint, appearing similar to teleportation used by [Greathive Aratel](Greathive_Aratel.md)'s fountains.
 
 ## Usage
 
-Pressing "C" will activate the **Teleportation** Resonance.
+Pressing C will activate the **Teleportation** Resonance.
 
-Using the resonance first places a marker. This marker is only visible to the user, is visible through walls and at any distance. It will remain here until used, including when changing servers.
+If you have no active waypoints or you activate it without hovering your cursor over a waypoint, activation will place a waypoint marker at your location. Waypoint markers can be seen from any distance and through any obstruction, only to the user, and will persist through changing servers. Should you have the **Player Markers** Resonance stat invested into, you can mouse over a player you are close to and a marker will be placed on them instead, with these player markers having a limited range to be teleported to.
 
-If you place down a marker in a specific place (Etris, etc..) that said marker will now have a name.
+Markers cannot be given a custom name, instead having a name matching the location they were placed in, such as "Etris" or "Minityrsa". You can have up to 5 or as low as 1 waypoint marker per Luminant depending on your Resonance's point allocation, and placing a marker that breaks this limit will destroy the oldest active marker in that Luminant in place of the new one.
 
-Using the resonance while aiming at a marker starts the teleportation sequence, creating a ring around the user. After charging up (charge speed depends on distance (further = longer to charge) and Resonance Points), everyone inside the ring is transported to the location of the mark.
-
-You are able to place down 1-5 waypoints. If you try to place another, the oldest waypoint you placed will get removed if you do not enter the ring you will not be teleported and that said mark will be deleted.
-
-With Basic Teleportation, you can have up to 5 teleportation points, and with Drowned teleportation you can have up to 7.
+If you hover your mouse over one of your active waypoints, activation will instead initiate a teleport. Initiating a teleport will create a ring around the user and begin charging. Charging time is based on the distance from you to the waypoint and how much the **Charge Speed** Resonance stat was invested into by your Resonance points. Once fully charged, everyone inside the radius of the ring is teleported to the waypoint. The waypoint is destroyed when a teleport is initiated on it, but can easily be replaced once travelled to.
 
 ### Drowned Teleportation
 
-If Teleportation is drowned, you'll receive preset waypoints depending on the Luminant you're in. Preset waypoints will be in brackets with them being colored according to the bell. Travelling to preset waypoints will cause the VFX to match the color of your bell.
+If Teleportation is Drowned, you'll receive preset waypoints depending on the Luminant you're in, with the names of these waypoints having square brackets around them. The waypoint markers for these waypoints and the teleport VFX for travelling to these waypoints matches the color of your bell.
 
-Normal Waypoints will be colored yellow as usual. Presets don't replace the amount of the normal waypoints, and both of them can coexist. Therefore you can have the presets and # other waypoints. If you're next to a preset, holding C will allow you to go to a point you made.
+Normal Waypoints will be colored yellow as usual. Preset waypoints will not cut into your own custom waypoint capacity, allowing you to have # number of custom waypoints coexisting with the preset waypoints of your Luminant. If you're next to a preset, holding C will allow you to go to a point you made.
 
-#### Etrean Luminant
+In the Etrean Lumiannt, you are given permanent preset waypoints at the following locations:
 
--   [Lower Erisia](Lower_Erisia.md)
--   [Temple Approach](Temple_Approach.md)
--   [Minityrsa](Minityrsa.md)
+-   [Lower Erisia](Lower_Erisia.md), at the main entrance
+-   [Temple Approach](Temple_Approach.md), at [Isle of Vigils](Isle_of_Vigils.md)
+-   [Minityrsa](Minityrsa.md), a small distance from the shore
 -   [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md)
 
-#### Eastern Luminant
+In the Eastern Luminant, you are given permanent preset waypoints at the following locations:
 
--   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Summer Isle](Summer_Isle.md)
--   Greathive Approach
--   [Fort Merit](Fort_Merit.md)
--   [Boatman Watch](<Boatman's_Watch.md>)
--   [The Monkey Paw](<The_Monkey's_Paw.md>)
+-   [Songseeker Wilds](Songseeker_Wilds.md), near [Yamaketzal](Yamaketzal.md)
+-   [Summer Isle](Summer_Isle.md), near the [Mystic](Mystic.md)
+-   [Greathive Approach](Greathive_Aratel.md#entrance)
+-   [Fort Merit](Fort_Merit.md), near the [Blacksmith](Blacksmith.md)
+-   [Boatman's Watch](<Boatman's_Watch.md>), at the front shore
+-   [The Monkey's Paw](<The_Monkey's_Paw.md>), next to the bonfire
 
-### _**Resonance Point Usage**_
+### Resonance Points
 
-When obtained, Teleportation will spend its points on the following stats:
+When obtained, Teleportation will invest it's Resonance points on the following stats:
 
--   **Max amount of markers:** The more points are spent on this stat; the more markers can be placed at once.
--   **Mark on players:** If this stat is used, marks can be placed on players. The mark follows them around and persist through servers.
--   **Travel Speed:** The more points are spent on this stat, the faster the players are taken from the starting point to the marker.
--   **Charge Speed:** The more points are spent on this stat, the faster the teleportation starts.
+-   **Player Markers:** If this stat is invested into, markers can be placed on players. The marker follows them around and persists through servers.
+-   **Max Markers:** The more points that are invested in this stat, the higher your maximum waypoint marker capacity is.
+-   **Travel Speed:** The more points that are invested in this stat, the faster the players are taken from the original location to the waypoint.
+-   **Charge Speed:** The more points that are invested in this stat, the faster the teleport charges.
 
-If Teleportation is drowned, it will have more Resonance Points which means it has improved stats compared to normal Teleportation, Drowned does not guarantee mark, it solely depends on your variant that you receive upon reroll.
+If Teleportation is Drowned, in addition to the extra Resonance points to spend, the maximum amount of points that can be invested into the Max Markers stat is increased to 7.
 
 ## Trivia
 
--   You can Teleport entities if placed correctly. This includes the Deep Widow.
+-   You can teleport entities if your teleport ring is placed correctly. This includes large entities such as the [Deep Widow](Deep_Widow.md) or other [monsters](Monsters.md) such as [Deep Owls](Deep_Owl.md) or [Stone Knights](Stone_Knight.md).
+-   In some circumstances, when attempting to teleport, you're met with the message 'something ancient is interfering with your resonance.' This occurs in instanced dungeons and certain areas of the map, such as Duke Erisia's Manor.
+    -   You are still able to use Teleportation as a sort of "compass" to make waypoints and guide you on where to go on repeat runs, such as certain hard to reach medal chests in New Kyrsa, or an optimal Galewax route in the Eternal Gale.
+        
+-   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be insta-killed if they were not in the Duke quest.
+    -   Prior to the Verse 2 update splitting Luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.
+-   There used to be a Resonance point stat called "**Ring Size + Capacity**", which increased the entity capacity of the teleport sequence and the size of the teleport ring.
 -   This resonance is occasionally referred to as Flying Raijin or Flying Thunder God, as it is similar to the powers of a character named Minato in the anime-manga series "Naruto."
     -   Although the mark-placement mechanic is similar to the powers of Minato, the actual visuals represent the "Accompany On" ability in HxH, or, as a stretch, Kizaru's flight ability in One Piece.
--   In some circumstances, when attempting to teleport, you're met with the message 'something ancient is interfering with your resonance.' This occurs in dungeons like the Duke's and Layer 2.
-    -   You are still able to use Teleportation as a sort of "compass" to make waypoints and guide you on where to go on repeat runs, such as certain hard to reach medal chests in New Krysa, or an optimal Galewax route in The Outskirts.
-        
--   An old practice among users of this bell was to place a waypoint to Lord Regent's manor and then bait people into teleporting there, causing them to be instakilled if they were not in the Duke quest.
-    -   Prior to the Verse 2 update splitting Luminants and creating the Duke dungeon, it was possible to do things like teleport the Duke to Etris.
--   There used to be a point called "**Ring Size + Capacity:** The more points are spent on this stat, the larger the ring gets and the more people can travel at once."
 -   The [sound effect](https://www.youtube.com/watch?v=LZ90GUmyBxI) that plays when you travel is the [Unlimited Void](https://jujutsu-kaisen.fandom.com/wiki/Unlimited_Void) sound effect from [Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen)
