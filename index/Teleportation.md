@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 94715
+revid: 94743
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]

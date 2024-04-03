@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 94584
+revid: 94721
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons]
@@ -52,6 +52,8 @@ The user propels in a whirlwind of air, gravitating towards their cursor. Applie
 The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
 
 ## Trivia
+
+-   Having the [Galebreathe](Galebreathe.md) talent **Aftercut**, provides no added affects
 
 -   This weapon deals 30.6 damage with 100 MED and 100 WND
     -   32.16 damage with the 5% After Cut effect and 33.68 with the 10% After Cut effect.

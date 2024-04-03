@@ -1,9 +1,9 @@
 ---
 title: Celtorian Guard
-revid: 94536
+revid: 94736
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Enemies, NPCs, Guards, The Depths]
 ---
 
 # Celtorian Guard

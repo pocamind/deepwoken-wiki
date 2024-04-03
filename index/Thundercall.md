@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 93982
+revid: 94741
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -170,7 +170,7 @@ Thunder Kick
 Storm Blades  
 (★★☆)
 
- | Conjure weapons of thunder with your ether. | 45 Ether | Conjure an array of lightning blades that deal AoE damage.
+ | Conjure weapons of thunder with your ether. | 45 Ether | Conjure an ring of lightning blades that deal AoE damage.
 
 -   Deals light damage.
 -   12 Second Cooldown.

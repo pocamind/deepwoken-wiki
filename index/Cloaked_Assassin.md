@@ -1,6 +1,6 @@
 ---
 title: Cloaked Assassin
-revid: 94419
+revid: 94742
 source: https://deepwoken.fandom.com/wiki/Cloaked_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -14,7 +14,9 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Cloaked Assassins can spawn when you move too close to a boat that resembles [Merchant Ship](Travelling_Merchant.md). 6 of them instantly spawn when the player steps foot on the boat. They can also be found in groups of 3 during factions ambushes, spawning in place of the factions NPCs or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
+The Cloaked Assassins are enemies NPCs. They are wearing sleeveless assassin's cloaks and assassin's hoods. They are of different races.
+
+Cloaked Assassins are spotted in various [Sea events](Random_Encounters.md#sea-events), either captured an island or ambush in a [Merchant Ship](Travelling_Merchant.md). They can also be found in groups of 3 during factions ambushes, spawning in place of the factions NPCs or [Bounty Hunters](<Bounty_Hunter_(NPC).md>).
 
 ## Moveset
 
@@ -22,29 +24,65 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 
 | Name | Description | Parryable? | Blockable? | Danger |
 | --- | --- | --- | --- | --- |
-| Assault | Attacks with their weapon and finishes the combo with a kick. | ◯ | ◯ | (★☆☆) |
-| Critical | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★★☆) |
-| Ice Daggers | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
-| Shadow Assault | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
-| Strong Left | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
-| Ice Eruption | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze. | ✗ | ✗ | (★★★) |
-| Lightning Cloak | The user's body is enveloped in a lightning-like cloak, improving agility, swing speed, and granting lightning dashes.
-  
+| 
+Assault
 
- | \- | \- | (★★★) |
-| Revenge | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★★☆) |
-| Chain Pull | Summons a chain out of their hand that quickly pulls you towards them.
+ | Attacks with their weapon and finishes the combo with a kick. | ◯ | ◯ | (★☆☆) |
+| 
 
-  
+Critical
 
- | ◯ | ◯ | (★★☆) |
-| Clutching Shadow | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down. | ◯ | ◯ | (★☆☆) |
-| Lightning Stream | Grapples onto an enemy and pulls them in.
+ | User unleashes a quick flurry of slashes. | ◯ | ◯ | (★★☆) |
+| 
 
-  
+Strong Left
 
- | ◯ | ◯ | (★☆☆) |
-| Dash | A dash that sends the user a considerable distance forward. Deals no damage. | \- | \- | (☆☆☆) |
+ | A powerful, flinging punch that shatters the air. | ◯ | ✗ | (★★☆) |
+| 
+
+Revenge
+
+ | A quick dash signified by a red-line effect, which teleports the user some distance forward upon activation. | ◯ | ◯ | (★★☆) |
+| 
+
+Dash
+
+ | A dash that sends the user a considerable distance forward. Deals no damage. | N/A | N/A | (☆☆☆) |
+| 
+
+Ice Daggers
+
+ | Forms three daggers of ice before throwing them towards the nearest person. | ◯ | ◯ | (★★☆) |
+| 
+
+Ice Eruption
+
+ | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze. | ✗ | ✗ | (★★★) |
+| 
+
+Lightning Stream
+
+ | Grapples onto an enemy and pulls them in. | ◯ | ◯ | (★☆☆) |
+| 
+
+Lightning Cloak
+
+ | The user's body is enveloped in a lightning-like cloak, improving agility, swing speed, and granting lightning dashes. | N/A | N/A | (★★★) |
+| 
+
+Clutching Shadow
+
+ | Targets one enemy within a radius around the caster (signified by a red glow around the targeted foe) and lifts them up into the air before slamming them down. | ◯ | ◯ | (★☆☆) |
+| 
+
+Shadow Assault
+
+ | The user pulls back weapon and rushes forward in a shadowy attack | ◯ | ◯ | (★★☆) |
+| 
+
+Chain Pull
+
+ | Summons a chain out of their hand that quickly pulls you towards them. | ◯ | ◯ | (★★☆) |
 
 ### Boons
 
@@ -66,7 +104,7 @@ Their arsenal consists of either a [Whaling Knife](Whaling_Knife.md), [Krulian K
 -   Swift Rebound - Move faster after successfully dodging an attack.
 -   Evasive Expert - Your speed boost granted from dodging is increased.
 -   Risky Moves - When you successfully dodge, you'll automatically dodge the next attack.
--   _**Ghost - Dodging a move will briefly make you invisible until you attack.**_
+-   _**Ghost**_ - Dodging a move will briefly make you invisible until you attack.
 -   Strong Stern - The duration you are dazed from wall bangs is cut in half
 -   In a Hurry - You grip faster with a movement speed boost.
 -   Chronostasis - Landing an M1 or Critical Strike puts target [Resonance](Resonance.md) on cooldown for a short duration.
@@ -81,10 +119,10 @@ A Cloaked Assassin executes it's opponent after knocking them:
 
 ## Tips
 
--   S-holding and constantly rolling and blocking is heavily recommended, as they WILL spam Mantras.
+-   S-holding and constantly rolling and blocking is heavily recommended, as they **WILL** spam Mantras.
 
 ## Trivia
 
 -   Cloaked Assassins wear an [Assassin's Cloak](<Assassin's_Cloak.md>). However, their cloak is missing its sleeves.
 -   For some strange reason Cloaked Assassin's don't have **[Audacity](Talents.md#tyrant)** but [Bounty hunters](<Bounty_Hunter_(NPC).md>) do.
--   Health is likely around 1,500.
+-   Healthpool is likely around 1,500.
