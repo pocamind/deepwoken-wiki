@@ -1,6 +1,6 @@
 ---
 title: Frigid Prism
-revid: 93964
+revid: 94773
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, Items, Mantras]
@@ -22,7 +22,7 @@ categories: [World, Items, Mantras]
 
 Frigid Prism is an [Attunement](Attunements.md) item with the primarily used to unlock the [Frostdraw](Frostdraw.md) attunement. Secondary uses include being a crafting ingredient and consumable.
 
-To unlock Frostdraw, you must give five Frigid Prisms to Nell, the Frostdraw [trainer](Attunement_Trainers.md).
+To unlock Frostdraw, you must give two Frigid Prisms to Nell, the Frostdraw [trainer](Attunement_Trainers.md).
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 94687
+revid: 94770
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -14,7 +14,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 
 Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
 
--   Any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
+-   Any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.) (COWABUMMER!!)
 -   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
 -   Using an [Enchant Stone](Enchant_Stone.md). (Found in L2, Galeswax and from Maestro's Lootpool.)
@@ -68,7 +68,7 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Blazing<div></div></font></center></td>
-  <td><div><p>After landing 4 hits, proc Blazing. Every hit for 5 seconds including the hit that procs Blazing will apply burning (6 damage normally, 8 damage with Azure Flames). This can be used to trigger Flamecharm talents.<br>
+  <td><div><p>After landing 4 hits, every hit for 5 seconds including the final hit will apply burning (6 damage normally, 8 damage with Azure Flames). This can be used to trigger Flamecharm talents.<br>
   Lava Serpent will create an explosion instead of creating a fire.<br>
   Twisted Puppets will summon a puppet instead of creating a fire.</p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames. It will also turn the flames into black with Twisted Puppets.</div></td>

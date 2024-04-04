@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94748
+revid: 94774
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -473,13 +473,13 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
   <td>65 LHT</td>
-  <td>14</td>
+  <td>14.3</td>
   <td>N/A</td>
   <td>LHT: 15</td>
   <td>1</td>
   <td>12</td>
   <td>1x</td>
-  <td>34.5</td>
+  <td>35.2</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
