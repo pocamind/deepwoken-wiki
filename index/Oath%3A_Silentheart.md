@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 94134
+revid: 94781
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -64,7 +64,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   **Lodestar - Passive**
     -   Landing criticals, flourishes, and uppercuts now silences your enemy for 3 seconds, disabling their ability to cast mantras.
         -   This silencing effect is represented by a red halo on the affected target (not to be confused with your own dread stacks).
--   **Ankle Cutter - Agresive**
+-   **Ankle Cutter - Aggresive**
     -   M1ing while sliding will now perform a moderately large circular slash. Anyone hit will take damage, a speed debuff, and become unable to jump.
         -   Damage and speed of the attack scales on your weapon.
         -   Can be used while sliding down slopes at no cost to your speed.
@@ -72,7 +72,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
 -   **True Vantage - Passive**
     -   Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
         -   This turns your Vents Red which is purely cosmetic.
--   **Mani Katti - Passive**
+-   **Mani Katti - Aggressive**
     -   While you have stacks of Dread (From Dread Fighter), your uppercuts are replaced with a large A0E attack, which teleports to the nearest player, dealing high damage and multiple attacks quickly, while making you invisible.
         -   Is activated by using Ctrl + M2.
         -   While it requires a stack of Dread to be used, it does not COST a stack of Dread.
