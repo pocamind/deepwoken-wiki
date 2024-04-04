@@ -1,11 +1,9 @@
 ---
 title: Megalodaunt
-revid: 94680
+revid: 94784
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Pages with broken file links, Monsters, Ambush Enemies]
-notices:
-  - This page may contain incorrect information. Please wait for an updated version to release.
+categories: [Pages with broken file links, Monsters, Ambush Enemies]
 ---
 
 # Megalodaunt
@@ -25,6 +23,10 @@ Template:Creature Infobox V3
 ## **Description**
 
 The Megalodaunt is a giant humanoid shark [monster](Monsters.md) commonly found in _[Erisia](Erisia.md)_, in burning boats at _[The Aratel Sea](The_Aratel_Sea.md)_, and _[The Depths](The_Depths.md)_.
+
+“ While not appearing to be reasonably intelligent creatures, they have a strong sense of social hierarchy, and their place in their 'society,' if it could be called that. ”
+
+― Archivist Journal: 'Megalodaunt'
 
 Megalodaunts are particularly known for being social creatures, evident by how a Megalodaunt can become an Alpha within a pack, though they are more often observed to be alone rather than the contrary. They are bipedal creatures with pale skin and a set of corals growing on their back, which are observed to only be used for offensive purposes. Documented as Carnivores, they have traits that matches this nature, featuring two sets of sharp teeth in their mouth, as well as durable hides and impressive looking claws.
 
@@ -110,6 +112,10 @@ Template:Creature Infobox V3
 
 The Alpha Megalodaunt is a unique type of Megalodaunt naturally found in the Depths and the [Starswept Valley](The_Starswept_Valley.md). In addition, they may also be found, curiously, inside the Crypt of the Unbroken located at [Minityrsa](Minityrsa.md), found hanging around in one of the libraries.
 
+“ Subordinate megalodaunts tend to pay close attention to the alpha of their territory, for reasons we cannot understand. Subject A has expressed the impressive ability to bring a creature as lazy as Subject C to his feet, a feat insurmountable to us, meager scholars. ”
+
+― Archivist Journal: 'Megalodaunt'
+
 As their name might suggest, they are the Alphas within a Megalodaunt Pack, and are considered as the dominant creature inside it's respective pack. However, Alpha Megalodaunts are never observed to be within a pack, and like other Megalodaunts, are usually found either idling alone, or fighting other things alone.
 
 They are much stronger than their regular counterparts with their skin appearing as dark blue rather than pale. Whether or not this is the result of mutations remains unknown, though it is notable that they are capable of using Tacet, a murmur used to suppress one's own song to temporarily become unperceivable by other entities. In this case, it is used for hunting.
@@ -188,7 +194,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-Crimson Megalodaunts area the product of an unknown phenomena, which will cause the genetic makeup of creatures in the world to experience certain mutations, granting them unique traits that is atypical to their biology. The Crimson Megalodaunt is one such example, with the mutation causing them to be in-tune with Flamecharm.
+The result of a rare case where a Megalodaunt gets exposed to the Vents of Korilfied of the Third Layer, resulting in this unique species able to utilize [Flamecharm.](Flamecharm.md)
 
 Red Megalodaunts only features a different skin tone when compared to it's original counterpart, with it being dyed a color of Crimson Red. In addition, it is observed that Red Megalodaunts may utilize Flamecharm by invoking the Song through it's scream, which causes flaming swords to rain down from the sky. These are the only notable differences that are associated with this unique mutation, and aside from being outcasts of Megalodaunt packs, behave no more different than a regular Megalodaunt.
 

@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 94776
+revid: 94785
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Guns]
@@ -12,7 +12,7 @@ categories: [Weapons, Guns]
 |---|---|
 | type | Flintlock |
 | requirements | 65 LHT |
-| damage | 14.3 |
+| damage | 14-15 |
 | scaling | 15 |
 | range | 12 |
 | swing speed | 1x |
@@ -22,7 +22,7 @@ categories: [Weapons, Guns]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Summer Isle for 200 , Sold on Merchant Ships for 73, The Depths (Chests), Chime of Conflict (Chests), Fishing, Bounties |
+| obtainment | Sold at Summer Isle for 200 , The Depths (Chests), Chime of Conflict (Chests), Fishing, Bounties |
 | description | A recent invention of the Summer Company's gunsmiths, a firearm with a high rate of fire. |
 
 ## Description
