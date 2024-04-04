@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 94035
+revid: 94757
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2]
@@ -32,7 +32,7 @@ The Astral Stone is unique in that it can only be obtained as a drop from [Astra
 
 ## Trivia
 
--   You can't use enchant stones when below Power 10.
+-   ~You can't use enchant stones when below Power 10.~ Enchant Stones no longer have a Power requirement.
 -   You can't use enchant stones to enchant legendary weapons.
 -   You can use enchant stones on already enchanted weapons, it'll just switch the enchant.
 -   Enchant Stones are undroppable, but sell for 200 notes! Cha-ching!

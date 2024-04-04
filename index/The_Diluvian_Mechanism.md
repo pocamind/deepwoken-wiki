@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 93764
+revid: 94746
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -116,8 +116,8 @@ The Diluvian Mechanism is a place to be wary of if you're not properly prepared,
 Based on the power of the user(s), the starting wave will differ;
 
 -   Power 1-11; Wave 1
--   Power 12-19(?); Wave 6
--   Power 20; Wave 11
+-   Power 12-16; Wave 6
+-   Power 17+; Wave 11
 
 | Wave | Enemies | Tips |
 | --- | --- | --- |

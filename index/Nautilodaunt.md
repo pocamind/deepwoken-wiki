@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 94051
+revid: 94749
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -23,6 +23,10 @@ Template:Creature Infobox V3
 The Nautilodaunt is a bipedal monster found in the [Depths](The_Depths.md). It exclusively spawns within the marketplace in the City of the Drowned (except for [Hell Mode](Hell_Mode.md)), rummaging through some wares. It can also appear in a rare event where 3 large boulders drop from the roof of the depths. When killed, it will drop either an Odd Tentacle or in much rarer cases, a [Pathfinder Elite](Pathfinder_Elite.md).
 
 While a Nautilodaunt is rummaging in the marketplace, it creates easily distinguished noises, making them especially easy to detect and avoid. However, if they are no longer rummaging through the marketplace, said noise will not be created, it will simply stand in silence until another player approaches and is spotted.
+
+“ ...They do not take a liking to human flesh, tending instead to experiment upon the fallen, inserting parasites into their victims. ”
+
+― Odd Tentacle description
 
 There are no existing records of research done on Nautilodaunts, and their origins and life cycle are largely unknown. However, it is observed that they are highly intelligent creatures, evident by their sheer combat prowess and their exceptional ability to utilize the motor functions their anatomy would allow to the fullest extent.
 

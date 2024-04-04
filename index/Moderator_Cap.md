@@ -1,6 +1,6 @@
 ---
 title: Moderator Cap
-revid: 81974
+revid: 94752
 source: https://deepwoken.fandom.com/wiki/Moderator_Cap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Helmets, Developer Spec]
@@ -24,7 +24,7 @@ categories: [Equipment, Helmets, Developer Spec]
 
 ## Description
 
-Moderator Cap is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It's inspired by one of humanity's all-time favorite hats; The Propeller Cap. Equipping it grants you +5 Health & +1 Uncommon Pip
+The Moderator Cap is an unobtainable [Equipment](Equipment.md) item under the "Head" category. It's inspired by one of humanity's all-time favorite hats; The Propeller Cap. Equipping it grants you +5 Health & +1 Uncommon Pip
 
 ## Trivia
 

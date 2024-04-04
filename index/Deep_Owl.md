@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 92512
+revid: 94758
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,9 +20,13 @@ The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [mo
 
 Deep Owls will only spawn in the _Etrean Luminant_ while the moon is out, this restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
 
-All Owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking to the Nestmind NPC with the Visionshaper quest gives us a decent hint on just what these strange creatures are.
+“ We owls find man to be capable of... Suitably sophisticated thought. Enough to indulge our palate. ”
 
-Deep Owls come from an alternate dimension/unknown layer of sorts and get into our world through the minds of Visionshapers with the contract they make with The Nestmind. With the power of Visionshapers that allows illusions to become reality, they are sentient creatures that feast on the minds of those they slaughter. They particually feast only on the humans of Deepwoken and not its monsters/creatures due to creatures with great intelligence/imaginatory capabilities being far more palettable.
+― The Nestmind
+
+All Owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking to it gives us unique insight on what these otherworldly predators are.
+
+Deep Owl's hail down on Lumen from an inconceivable dimension where they aren't usually able to communicate with the outside world. This is altered by the Oath made between Visionshapers and The Nestmind. Deep Owls manifest themselves in our world with the ability of a Visionshaper's mind having the ability to turn illusions into reality.
 
 It is said by The Nestmind that Visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who are trying to become an owl by unknown meanings.
 
