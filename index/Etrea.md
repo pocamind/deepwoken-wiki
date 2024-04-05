@@ -1,6 +1,6 @@
 ---
 title: Etrea
-revid: 93158
+revid: 94809
 source: https://deepwoken.fandom.com/wiki/Etrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions]
@@ -37,7 +37,7 @@ Enemy status with an allied faction
 
 Enemy status with Etrea
 
--   Guards will instantly attack you, NPC's in Etrea or Isle of Vigils will refuse to help you, ex: Blacksmiths.
+-   Guards will instantly attack you, NPC's in Etrea or Isle of Vigils will refuse to help you, except: Blacksmiths.
 
 Etrea is among the factions to have a Bounty Board.
 

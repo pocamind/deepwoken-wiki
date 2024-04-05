@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94774
+revid: 94800
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -14,7 +14,7 @@ _Tools constructed with the intent to harm others, polished to be efficient kill
 
   
   
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a [Weapon Manual](Training_Gear.md) in order to allocate your investment points to your [Weapon Stat](Attributes.md). Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via [unbounding your weapon stat](Attributes_Unbound.md) (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 5% per point for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
+Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon (parrying multi-hit moves grants a fair bit of EXP). Once you have enough EXP, you may use a [Weapon Manual](Training_Gear.md) in order to allocate your investment points to your [Weapon Stat](Attributes.md). Your Weapon Stat increases weapon damage through the weapon's **scaling** system. Initially, the max Weapon stat you can get is 75, but you may increase it to 100 via [unbounding your weapon stat](Attributes_Unbound.md) (by completing [this quest](https://deepwoken.fandom.com/wiki/Temple_of_the_Blade#A_Lost_Sibling_Quest) or defeating a boss with 75 weapon stat). A weapon's scaling can be increased using the proficiency trait, this will raise the scaling by 7.5%, and will grant 3% penetration per point for **EVERY** weapon, including weapons that do not scale primarily off of Medium, Light or Heavy.
 
 When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favorable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll, for example).
 
@@ -2151,7 +2151,7 @@ Weapons that are exclusive for special people.
 
 This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers).
 
--   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.05)\]} + BaseDamage
+-   0.00075 x {BaseDamage x Attribute Scaling x Attribute Level x \[1 + (Proficiency x 0.075)\]} + BaseDamage
 
 _[Damage calculator (Single Attribute Scaling weapons)](https://www.desmos.com/calculator/boe1cx95jl)_
 

@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 94756
+revid: 94804
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items]
@@ -128,7 +128,7 @@ File:Alloyed elixir.png
 
  | 
 
-See [Ironsing](Ironsing.md)
+[Iron, Gold, Erisore, Ithrine, Astruline, Umbrite](Ores.md)
 
  | 
 

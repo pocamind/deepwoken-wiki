@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 94566
+revid: 94802
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -35,7 +35,10 @@ Wiping below power 6 is known to keep the Mute Regalia if the wiped character ha
     -   [Prime Golems](Rock_Golem.md#golem-prime)
     -   [Rogue Constructs](Hive_Construct.md#rogue-construct)
     -   [Enforcers](Enforcer.md)
-    -   Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt)
+
+-   Ambush [Mechalodaunts](Megalodaunt.md#mechalodaunt)
+
+-   Does not work in any dungeon
 
 -   Mute does work against some humanoids.
     -   [Ministry Necromancers](Ministry_Necromancer.md)
