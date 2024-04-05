@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 94784
+revid: 94829
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Ambush Enemies]
@@ -30,7 +30,7 @@ The Megalodaunt is a giant humanoid shark [monster](Monsters.md) commonly found 
 
 Megalodaunts are particularly known for being social creatures, evident by how a Megalodaunt can become an Alpha within a pack, though they are more often observed to be alone rather than the contrary. They are bipedal creatures with pale skin and a set of corals growing on their back, which are observed to only be used for offensive purposes. Documented as Carnivores, they have traits that matches this nature, featuring two sets of sharp teeth in their mouth, as well as durable hides and impressive looking claws.
 
-There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a sharko which will reward you with 2 talents, Engage at level 3 and Critical Attack at level 5. This quest can be completed/recompleted if you already have the talents to receive 1-2 hands of cards.
+There is a quest in Upper Erisia located at the entrance to the Garden Reservoir where you will be tasked with killing a Megalodaunt, which will reward you with two Talents, Engage at Power 3 and Critical Attack at Power 5. This quest can be completed/recompleted if you already have the Talents to receive 1-2 hands of cards.
 
 Seen mostly around the island of [Erisia](Erisia.md), the Megalodaunt is one of the first monsters, along with [Mudskippers](Mudskipper.md), that most new players will encounter. Players that are ill-equipped or lack insight on this monster are mostly likely going to succumb to it within seconds.
 
@@ -283,7 +283,7 @@ Template:Creature Infobox V3
 
 ## **Description**
 
-The Mechalodaunt is one of the four Megalodaunt variants. It is a weapon produced by [The Ignition Union](The_Ignition_Union.md) and is found in [Miner's Landing](<Miner's_Landing.md>), and its Voidzone [Saramaed Summit](Saramaed_Summit.md). They are unfinished and were activated prematurely by the [Summer Company](The_Summer_Company.md), resulting them in attacking both friend and foe. The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the sheer damage output they can have easily ending high level players in a few attacks if you are unable to dodge, often resulting in death until you learn the attack patterns.
+The Mechalodaunt is one of the four Megalodaunt variants. It is a weapon produced by [The Ignition Union](The_Ignition_Union.md) by enhancing Megalodaunts with iron shells, machinery and a powerful Gatling gun. They are found in [Miner's Landing](<Miner's_Landing.md>), and its Voidzone [Saramaed Summit](Saramaed_Summit.md). They are unfinished and were activated prematurely by the [Summer Company](The_Summer_Company.md), thus defaulting to their natural behavior, resulting in them attacking both friend and foe. The moves do a lot of damage, but are easy to parry and roll. The recommended level for these is 15-20 due to the sheer damage output they can have, easily ending high level players in a few attacks.
 
 Mechalodaunts in the Saramaed Summit often spawn in groups of two, only spawning a chest after both have been defeated. Its recommended that you are careful when exploring the area as aggroing both Mechalodaunts can make them significantly more difficult to kill off. They are relatively easy to cheese in Miner's Landing by going past doorways, which are too short for them to pass through, and setting up campfires. This can also be done in Saramaed Summit, however due to the fact that voidzones cause all campfires to last significantly less and all healing is reduced, this strategy is much less effective.
 
@@ -323,7 +323,7 @@ Blazing Kick
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
 -   Missing the dodge means you'll waste a roll putting out the flames.
--   Simply do not roll cancel and always roll to the side so that if you miss the roll, the Sharko will still miss the kick.
+-   Simply do not roll cancel and always roll to the side so that if you miss the roll, the Mechalodaunt will still miss the kick.
 -   This ability is only used by itself and will not be used in the Slash + Kick combo.
 
  | ✗ | ✗ | ◯ | (★★★) |
@@ -374,10 +374,6 @@ Roar
 
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Megalodaunts.
 
-## **Gallery**
-
-File:Sharkos having a good time.png
-
   
 
 ## **Trivia**
@@ -398,7 +394,3 @@ File:Sharkos having a good time.png
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
 -   Megalodaunts are friendly towards [Deep Owls](Deep_Owl.md) and [Threshers](Thresher.md). They are hostile to most other humanoids and monsters, including [Golems](Hive_Construct.md) and [Stone Knights](Stone_Knight.md).
 -   Megalodaunts supposedly live in packs, which is why they have an "Alpha" (being the Alpha Megalodaunt) and an "outcast" being the Crimson Megalodaunt. However, Megalodaunts in game are seen alone, and in the [Viper's Jaw,](<The_Viper's_Jaw.md>) only 3 Megalodaunts are spotted living together, without an Alpha existing among them. This also explains why normal Megalodaunts are hostile towards their Crimson counterparts, but not their Alpha counterparts. According to the [First Light](First_Light.md) weapon description, Crimson Megalodaunts are Megalodaunts that have been exposed to the vents of Layer 3 and as a result their mutation was altered by the influence of Korilfiend, which is why they are unique. A disciple of Pleektsy by the name of Venn Kaelhand once met an unfortunate fate being devoured by one of these specimens while studying them.
--   Megalodaunts [https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO](https://medal.tv/games/roblox/clips/1JfQbjWneHrHwE/d1337PY6dKKO)
--   Mechalodaunts ~have access to the arcwader oath~ can bug out RARELY when killed and spawn a normal megalodaunt
-    
-    > (Crimson sharkos may or may not spawn from chests)

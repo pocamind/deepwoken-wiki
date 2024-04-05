@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 93478
+revid: 94830
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -322,7 +322,7 @@ Pillars of Erisia
 
 _"Gaining inspiration from the Duke of Erisia, call forth a malicious gale from your stomp."_
 
- | 70 Ether | Raise your left leg and stomp the ground, conjuring up a huge volley of wind.
+ | 70 Ether | Raise your right leg and stomp the ground, conjuring up a huge volley of wind.
 
 -   Requires having beaten [Duke Erisia](Duke_Ishamon_Erisia.md).
 -   Requires 20 Strength
