@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Hood"
-revid: 93022
+revid: 94825
 source: https://deepwoken.fandom.com/wiki/Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hoods, Head]
@@ -20,7 +20,7 @@ categories: [Equipment, Hoods, Head]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island (Pale), Primadon (Pale), Aelita (Crimson, Gold & Mist), Cloaked Assassin (Crimson, Gold) |
+| obtainment | Chests from:, Aratel Island (Pale), Primadon (Pale), Aelita (Crimson, Gold & Mist), Cloaked Assassin (Crimson, Gold, Mist) |
 | description | - ... |
 
 ## Description
