@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 94683
+revid: 94815
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -39,7 +39,7 @@ The alternative method is limited to players with a [Resonance](Resonance.md), o
 
 ### **Method 1:** City Bells
 
-There are 4 bells located in the District of Commerce (sloped gate). Once 2 bells are rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within. The metal gate located in the District of Commerce will then open for 10 minutes.
+There are 2 bells located in the District of Commerce (sloped gate). Once 2 bells are rung, a bell choir will be heard across Scyphozia, possibly signaling the salvation of the souls trapped within. The metal gate located in the District of Commerce will then open for 10 minutes.
 
 ### **Method 2:** Sub-Elevator / Toll
 

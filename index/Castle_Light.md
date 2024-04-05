@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 94595
+revid: 94824
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Layer 1]
@@ -21,11 +21,11 @@ File:Castle light.png
   
 **Castle Light** is a location belonging to [The Divers](The_Divers.md). It is a sub-location in the [Celtor Wastes](Celtor_Wastes.md).
 
-Optionally is a starting location for those using the [Deepbound](Origins.md) origin.
+It is a starting location for those using the [Deepbound](Origins.md) origin.
 
 ## Overview
 
-Castle Light is a safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw, or is using the [Deepbound Origin](Origins.md), However, you can still enter if you died in [Trial of One](Trial_of_One.md) as [Lone Warrior](Origins.md#lone-warrior). It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md). It is also the only place the First Layer of the depths in which you can regenerate sanity / not go insane naturally.
+Castle Light is a safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw, or is using the [Deepbound Origin](Origins.md). However, you can still enter if you died in [Trial of One](Trial_of_One.md) with the [Lone Warrior](Origins.md#lone-warrior) origin. It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md). It is also the only place the First Layer of the depths in which you can regenerate sanity / not go insane naturally.
 
 ## Contents
 
@@ -42,7 +42,7 @@ Main Entrance
 -   [Mantra table](Mantra_Lectern.md)
 -   [Crafting station](Crafting_Station.md)
 
-### The library
+### The Library
 
 -   Contains a [cauldron](Cauldron.md)
 -   The players can find the Antiquarian, [Mystic](Mystic.md), Banker and [Dr. Carrion](Monster_Mantras.md) here.
@@ -50,7 +50,7 @@ Main Entrance
 
 An image showcasing the library.
 
-### The armory
+### The Armory
 
 -   Players can find the Blacksmith here
 -   Contains a locker that functions as a campfire without the healing
@@ -69,7 +69,7 @@ The Armory.
 ### Items
 
 -   Weapon Manual
--   Encyclopaedia
+-   Encyclopedia
 -   How to Make Friends
 -   Self-Conducting Loop
 -   Pure Heart
@@ -91,13 +91,13 @@ The Armory.
 
 ## Notes
 
--   While considered a "safe zone" to some extents, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
--   Occasionally three black diver npcs can spawn.
--   Has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
+-   While considered a "safe zone" to some extent, [monsters](Monsters.md) can enter the barrier and also spawn in the castle. Journeymen Diver NPC's may kill some monsters, but stronger monsters will quickly kill the divers.
+-   Occasionally, three black diver npcs can spawn.
+-   Castle Light has the only blacksmith in the depths, making it very useful if you need to repair your armor after farming.
 -   You DO NOT have to wash your face in the Lightkeeper temple to enter the Castle Light. The only requirement to pass the barrier is to enter The Depths while maintaining your **soul.**
-    -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless Deepbound.
+    -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless you are Deepbound.
     -   Castle Light can be entered if the player went through a whirlpool or used Call of the Deep.
--   Castle Light can be considered the safest area in The Depths to take a break in, featuring a depthbound exclusive stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
+-   Castle Light can be considered the safest area in The Depths to take a break in, featuring a Deepbound exclusive stove, multiple vendors and sanity regeneration for those using [Deepbound](Origins.md).
 -   Castle Light is a common spot for ganks, it is advised to be wary of large groups of players.
 -   It is advised to not attack the guards as they have a large amount of health and can quickly become a problem even for experienced players.
 -   Used to have normal divers, then got replaced by Black divers, then got replaced with Journeyman Divers.
