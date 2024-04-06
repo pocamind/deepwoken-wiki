@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 90010
+revid: 94896
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress with reason, InProgressPages, Swords]
@@ -33,10 +33,10 @@ notices:
 | type | Medium Sword |
 | requirements | 75 MED |
 | damage | 20 |
-| scaling | 7 |
+| scaling | 7.5 |
 | range | 8 |
 | swing speed | 0.75x |
-| penetration | 10% |
+| penetration | 20% |
 | selling price | ??? |
 | weight | 5 |
 | bankable | Yes |
@@ -59,7 +59,6 @@ With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Vigil Longswords ar
 ## Notes
 
 -   The Vigil Longsword is canonically a cost-effective, mass-produced blade created by [Etrea](Etrea.md).
--   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) without the nerfed swing speed, for full effect try to obtain one with 2-3 stars of penetration.
--   On the Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
+-   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg and speed in exchange for less pen and the basic sword crit. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Its model was changed to match the length of its stats.
 -   The blade is unused by [Etrean Guardsmen](Etrean_Guardsmen.md), instead only being used by [Vigil Swordsmen](Vigil_Swordsman.md) and Vigil Captains, making the description of the blade untrue.

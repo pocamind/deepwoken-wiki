@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94872
+revid: 94946
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -33,12 +33,12 @@ All weapons within the game have chances of being found with (or without) differ
 
 -   13 Daggers (15 if alloyed)
 -   8 Fists
--   4 Guns
+-   5 Guns (6 if alloyed)
 -   6 Rapiers
 
 #### Medium Weapon
 
--   20 Swords (25 if alloyed)
+-   21 Swords (26 if alloyed)
 -   12 Spears (14 if alloyed)
 -   2 Clubs
 -   3 Rifles
@@ -56,10 +56,10 @@ All weapons within the game have chances of being found with (or without) differ
 
 #### In Total
 
--   110 Total Weapons (Non-Alloyed, Non-Exclusive)
--   115 Total Weapons (Non-Alloyed, Exclusive)
--   127 Total Weapons (Alloyed, Non-Exclusive)
--   132 Total Weapons (Alloyed, Exclusive)
+-   111 Total Weapons (Non-Alloyed, Non-Exclusive)
+-   116 Total Weapons (Non-Alloyed, Exclusive)
+-   128 Total Weapons (Alloyed, Non-Exclusive)
+-   133 Total Weapons (Alloyed, Exclusive)
 
 ## Stances
 
@@ -132,7 +132,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>14.2</td>
+  <td>14.6</td>
 </tr>
 <tr>
   <td><a href="Gilded_Knife.md">Gilded Knife</a></td>
@@ -144,7 +144,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.96x</td>
   <td>0.05s</td>
-  <td>23.1</td>
+  <td>24.3</td>
 </tr>
 <tr>
   <td><a href="Silver_Dagger.md">Silver Dagger</a></td>
@@ -156,7 +156,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>19.2</td>
+  <td>19.8</td>
 </tr>
 <tr>
   <td><a href="Canor_Fang.md">Canor Fang</a></td>
@@ -168,7 +168,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>21.7</td>
+  <td>23</td>
 </tr>
 <tr>
   <td><a href="Whaling_Knife.md">Whaling Knife</a></td>
@@ -180,7 +180,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>22.3</td>
+  <td>23.2</td>
 </tr>
 <tr>
   <td><a href="Champion's_Dagger.md">Champion's Dagger</a></td>
@@ -192,7 +192,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6</td>
   <td>0.96x</td>
   <td>0.05s</td>
-  <td>25.8</td>
+  <td>27.1</td>
 </tr>
 <tr>
   <td><a href="Central_Dirk.md">Central Dirk</a></td>
@@ -204,7 +204,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td>0.96x</td>
   <td>0.05s</td>
-  <td>25.2</td>
+  <td>26.4</td>
 </tr>
 <tr>
   <td><a href="Tanto.md">Tanto</a></td>
@@ -216,7 +216,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td>0.85x</td>
   <td>N/A</td>
-  <td>27.6</td>
+  <td>29</td>
 </tr>
 <tr>
   <td><a href="Nemit's_Sickle.md">Nemit's Sickle</a></td>
@@ -228,7 +228,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>24.9</td>
+  <td>26.6</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Flareblood_Kamas"><font>Flareblood Kamas</font></a> (<b>Bleed</b>)</td>
@@ -240,19 +240,19 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>33.4(<b>Bleed</b>)</td>
+  <td>35.3(<b>Bleed</b>)</td>
 </tr>
 <tr>
   <td><a href="Krulian_Knife.md">Krulian Knife</a></td>
   <td>75 LHT</td>
   <td>12.5</td>
   <td>20%</td>
-  <td>LHT: 10</td>
+  <td>LHT: 10.5</td>
   <td>4</td>
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>24.7</td>
+  <td>26.8</td>
 </tr>
 <tr>
   <td><a href="Kyrsedge.md">Kyrsedge</a></td>
@@ -264,7 +264,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>24.4</td>
+  <td>25.7</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Whaling_Knife#Alloyed"><font>Alloyed Whaling Knife</font></a></td>
@@ -276,7 +276,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.05s</td>
-  <td>26.7</td>
+  <td>28</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Tanto#Alloyed"><font>Alloyed Tanto</font></a></td>
@@ -288,7 +288,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>7</td>
   <td><font>0.86x</font></td>
   <td>0s</td>
-  <td>28.5</td>
+  <td>29.9</td>
 </tr>
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Cerulean_Thread"><font>Cerulean Thread</font></a></td>
@@ -300,7 +300,7 @@ Daggers are small weapons featuring a handle and a small blade. They have incred
   <td>6.5</td>
   <td>0.98x</td>
   <td>0.04s</td>
-  <td>28.2</td>
+  <td>29.7</td>
 </tr>
 </tbody>
 </table>
@@ -442,6 +442,7 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td><b>Requirements</b></td>
   <td><b>Damage</b></td>
   <td><b>Penetration</b></td>
+  <td><b>Chip Damage</b></td>
   <td><b>Scaling</b></td>
   <td><b>Weight</b></td>
   <td><b>Range</b></td>
@@ -453,44 +454,72 @@ Guns are a ranged weapon designed to shoot projectiles. They can be used in two 
   <td>0 LHT</td>
   <td>10</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>LHT: 13</td>
   <td>1</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>22.7</td>
+  <td>24.1</td>
 </tr>
 <tr>
   <td><a href="Flintlock.md">Flintlock</a></td>
   <td>20 LHT</td>
   <td>11</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>LHT: 12</td>
   <td>1</td>
   <td>10</td>
   <td>0.8x</td>
-  <td>23.9</td>
+  <td>25.4</td>
+</tr>
+<tr>
+  <td><a href="Dawnshot.md">Dawnshot</a></td>
+  <td>40 LHT</td>
+  <td>14</td>
+  <td>N/A</td>
+  <td>N/A</td>
+  <td>LHT: 12</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>0.8x</td>
+  <td>32.3</td>
 </tr>
 <tr>
   <td><a href="Repeater.md">Revolver</a></td>
   <td>65 LHT</td>
-  <td>14.3</td>
+  <td>14</td>
+  <td>N/A</td>
   <td>N/A</td>
   <td>LHT: 15</td>
   <td>1</td>
   <td>12</td>
   <td>1x</td>
-  <td>35.2</td>
+  <td>36.8</td>
 </tr>
 <tr>
   <td><a href="Dragoon.md">Dragoon</a></td>
   <td>65 LHT</td>
   <td>16</td>
   <td>N/A</td>
+  <td>N/A</td>
   <td>LHT: 12</td>
   <td>1</td>
   <td>11</td>
   <td>0.8x</td>
-  <td>34.7</td>
+  <td>36.9</td>
+</tr>
+<tr>
+  <td><font>Alloyed Dawnshot</font></td>
+  <td><font>75 LHT</font></td>
+  <td><font>16</font></td>
+  <td><font>5%</font></td>
+  <td><font>10%</font></td>
+  <td>LHT: 12</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td><font>0.78x</font></td>
+  <td>36.9</td>
 </tr>
 </tbody>
 </table>
@@ -764,12 +793,24 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td>60 MED</td>
   <td>18</td>
   <td>25%</td>
-  <td>N/A</td>
+  <td>10%</td>
   <td>MED: 7.5</td>
-  <td>7</td>
+  <td>8</td>
   <td>8</td>
   <td>0.71x</td>
   <td>40.5(<b>Bleed</b>)</td>
+</tr>
+<tr>
+  <td><a href="https://deepwoken.fandom.com/wiki/Wyrmtooth"><font>Wyrmtooth</font></a></td>
+  <td>60 MED, 40 HVY</td>
+  <td>20</td>
+  <td>20%</td>
+  <td>N/A</td>
+  <td>MED: 6.2, HVY: 4.2</td>
+  <td>6</td>
+  <td>10</td>
+  <td>0.7x</td>
+  <td>42.6</td>
 </tr>
 <tr>
   <td><a href="Forgotten_Gladius.md">Forgotten Gladius</a></td>
@@ -835,9 +876,9 @@ Swords are weapons with a long metal blade and a hilt with a handguard used for 
   <td><a href="https://deepwoken.fandom.com/wiki/Vigil_Longsword#Alloyed"><font>Alloyed Vigil Longsword</font></a></td>
   <td><font>75 MED</font></td>
   <td>20</td>
-  <td><font>10%</font></td>
+  <td><font>20%</font></td>
   <td>N/A</td>
-  <td><font>MED: 7</font></td>
+  <td><font>MED: 7.5</font></td>
   <td>5</td>
   <td>8</td>
   <td>0.75x</td>
@@ -1399,15 +1440,15 @@ Greataxes are weapons with a long pole, with sharp edges protruding out at the e
 <tr>
   <td><a href="https://deepwoken.fandom.com/wiki/Pale_Briar"><font>Pale Briar</font></a></td>
   <td>85 HVY, LVL 10</td>
-  <td>23.5</td>
+  <td>23</td>
   <td>25%</td>
   <td>10%</td>
-  <td>HVY: 7</td>
+  <td>HVY: 7.5</td>
   <td>7</td>
   <td>10</td>
   <td>0.61x</td>
   <td>0s</td>
-  <td>39.5</td>
+  <td>41.8</td>
 </tr>
 </tbody>
 </table>

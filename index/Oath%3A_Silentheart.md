@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 94781
+revid: 94953
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Oaths]
@@ -58,7 +58,7 @@ This can be done in any order; however, the recommended order is [Nell](Nell,_Ma
         -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
         -   Comes with the Oath.
 -   **Dread Fighter - Passive**
-    -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 15%, and mantra resistance up to 25%, however, upon being hit by a Mantra, you lose one stack of Dread.
+    -   Parrying, landing criticals, and flourishes now gives you stacks of Dread. Each stack of Dread increases your damage multiplier up to 10%, and mantra resistance up to 25%, however, upon being hit by a Mantra, you lose one stack of Dread.
         -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
         -   Stacks up to 5 times and each stacks grant 5% mantra resistance and 3% damage buffs.
 -   **Lodestar - Passive**

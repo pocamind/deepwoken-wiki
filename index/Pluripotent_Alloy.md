@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 93687
+revid: 94914
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -45,31 +45,32 @@ To use a Pluripotent Alloy, you must be at least [power](Power.md) 10 and equip 
 
 ### Light Weapons
 
+-   [Dawnshot](Dawnshot.md)
 -   [Tanto](Tanto.md)
 -   [Whaling Knife](Whaling_Knife.md)
 
 ### Medium Weapons
 
--   [Messer](Messer.md)
 -   [Falchion](Falchion.md)
--   [Shotel](Shotel.md)
--   [Vigil Longsword](Vigil_Longsword.md)
 -   [Gremorian Longspear](Gremorian_Longspear.md)
--   [Trident Spear](Trident_Spear.md)
 -   [Katana](Katana.md)
+-   [Messer](Messer.md)
+-   [Shotel](Shotel.md)
+-   [Trident Spear](Trident_Spear.md)
+-   [Vigil Longsword](Vigil_Longsword.md)
 
 ### Heavy Weapons
 
--   [Steel Maul](Steel_Maul.md)
--   [Halberd](Halberd.md)
--   [Canorian Axe](Canorian_Axe.md)
--   [Zweihander](Zweihander.md)
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Crescent Cleaver](Crescent_Cleaver.md)
--   [Markor's Inheritor](<Markor's_Inheritor.md>)
 -   [Adretian Axe](Adretian_Axe.md)
+-   [Canorian Axe](Canorian_Axe.md)
+-   [Crescent Cleaver](Crescent_Cleaver.md)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [Halberd](Halberd.md)
+-   [Markor's Inheritor](<Markor's_Inheritor.md>)
+-   [Steel Maul](Steel_Maul.md)
+-   [Zweihander](Zweihander.md)
 
-## Notes
+## Trivia
 
 -   Alloyed weapons will retain the enchant and the quality (stars + buffs) of the original weapon.
 -   The alloy itself cannot be dropped or lost on death, but the weapons can.

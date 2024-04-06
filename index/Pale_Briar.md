@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 94856
+revid: 94898
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes]
@@ -13,7 +13,7 @@ categories: [Weapons, Greataxes]
 | type | Heavy Greataxe |
 | requirements | 85 HVY, Power 10 |
 | damage | 23.5 |
-| scaling | 7 |
+| scaling | 7.5 |
 | range | 10 |
 | swing speed | 0.61x |
 | penetration | 25% |

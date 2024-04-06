@@ -1,9 +1,9 @@
 ---
 title: Bullet Casings
-revid: 89576
+revid: 94904
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Guns]
+categories: [Mechanics, Items]
 ---
 
 # Bullet Casings

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 94661
+revid: 94934
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations]
@@ -55,32 +55,32 @@ Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution
 
 Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. Also note that it WILL use its scream as the trial is indoors. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge, nonetheless. 400 HP. (36 sword hits)
 
-**Weakened Thresher:**
+**Thresher:**
 
   
 **"Now... will you falter here?"**
 
-If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 500 HP. (35 sword hits)
+If you fail to dodge the digging attack or get launched by the tail swipe, make sure to get defensive for a moment as the thresher will always get a free hit in if you do not start blocking or parrying again. When parrying the bite attacks, wait until you see that you have parried all three successfully before attacking because if you parry and press M1 before the third attack in anticipation for the parry, the parry will not land, and you will get damaged. It is recommended to do two attacks, wait and observe the attack that is about to commence, then parry and attack accordingly. There is a small blind spot in front of the thresher where medium and heavy weapons can reach it without the thresher being able to hit until the dig attack. 1200 HP.
 
 **2 Greater Angels:**
 
   
 **"You're halfway there. Keep going, lone warrior."**
 
-Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 200 HP each. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. (7 sword hits per Angel) Also keep in mind that one of the Greater Angels will always spawn with an Enchanted weapon, which can make this part more daunting if they use something like Deffered or Blazing.
+Apply regular humanoid fighting tactics, parry trade and go for guard breaks. 300 HP each. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. Also keep in mind that one of the Greater Angels will always spawn with an Enchanted weapon, which can make this part more daunting if they use something like Deffered or Blazing.
 
-**Weakened Enforcer:**
+**Enforcer:**
 
 **"The last test was easy. How about this next test?"**
 
-Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. 500 HP. The Enforcer you get can be any variant: Axe, Sword or Hammer. (16 sword hits, consistent with all variants)
+Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken. \_\_\_\_ HP. The Enforcer you get can be any variant: Axe, Sword or Hammer. (16 sword hits, consistent with all variants)
 
 **Weakened Desert Knight:**
 
   
 **"Few have made it this far... Are you what we have been searching for?"**
 
-Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 400 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto. (45 - 50 hits with sword)
+Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame. 700 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto. (45 - 50 hits with sword)
 
 **2nd Parry Check:**
 

@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 94620
+revid: 94919
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World, NPCs, Mechanics]
@@ -26,6 +26,7 @@ An NPC located inside [Erisor's Church](<Erisor's_Church.md>).
 -   [Fur Pauldrons](Fur_Pauldrons.md)
 -   [Gilded Knife](Gilded_Knife.md)
 -   [Iron Pauldrons](Iron_Pauldrons.md)
+-   Falchion
 
 ## Kujae
 

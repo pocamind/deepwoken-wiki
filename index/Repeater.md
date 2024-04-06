@@ -1,14 +1,14 @@
 ---
 title: Repeater
-revid: 94785
+revid: 94911
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Guns]
+categories: [Weapons, Flintlocks]
 ---
 
 # Repeater
 
-| Revolver | |
+| Repeater | |
 |---|---|
 | type | Flintlock |
 | requirements | 65 LHT |
@@ -36,3 +36,4 @@ The [Revolver](Repeater.md) has a [Bullet](Bullet_Casings.md) capacity of 6, Mea
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
 -   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main-hand is not enchanted, it will not have any effect.
 -   Like all other pistols, Using this with 1 hand grants 2 sets of "M1" attacks and 1 Critical attack only available when reloaded with Z/Y by default
+-   Due to revolver having a faster swingspeed, you get faster no bullets m1s than the other guns and bullet m1s.

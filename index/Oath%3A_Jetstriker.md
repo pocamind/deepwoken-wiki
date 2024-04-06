@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 94810
+revid: 94948
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -63,10 +63,10 @@ _For a more in-depth walkthrough, consider watching [this video](https://www.you
     -   Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
         -   If you roll or air dash at maximum momentum, become briefly invisible and gain full intangibility during it.
 
--   **False Strike - Mantra**
+-   **False Strike - Combat Mantra**
     -   Trick your opponent and quickly go behind them.
 
--   **Jet Kick - Mantra**
+-   **Jet Kick - Mobility Mantra**
     -   Rush forward with a jet kick. Requires a target if you're in combat.
 
 ## Effects

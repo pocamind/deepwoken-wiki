@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 94664
+revid: 94912
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -20,7 +20,7 @@ categories: [Equipment, Torso, Scarves]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Etrea VS Eylis Sea Event (~10%) |
+| obtainment | Etrea VS Eylis Sea Event |
 | description | The scarf of an elite Knife of Eylis. Signifies the bearer's mastery over the Void. |
 
 ## Description

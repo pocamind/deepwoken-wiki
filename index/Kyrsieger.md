@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 94398
+revid: 94883
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons]
@@ -16,7 +16,8 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | scaling | HVY: 7, CHA: 2 |
 | range | 9 |
 | swing speed | 0.62x |
-| penetration | 5% |
+| penetration | 15% |
+| chip damage | 10% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | weight | 9 |
 | bankable | Yes |

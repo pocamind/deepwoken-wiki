@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 93564
+revid: 94885
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -326,6 +326,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1)
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) does not reward **Echoes**.
     -   This technically makes him the only true "optional" boss in the game, as he is not required for W Rank.
+-   Chain of perfection was made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted it but made multihits give you less stacks.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 94882
+revid: 94892
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -216,9 +216,7 @@ Certain cards lie in "Priority Talents" - the type of talents that game weighs v
 
 > _**"I seek out Amorus Pleeksty."**_
 
--   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain extra Strength and Speed.
-    -   Gain +20% damage while the fire is active.
-    -   Despite what the description says, there is no speed boost given.
+-   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain 5% extra damage and 10% extra speed.
     -   Unlike normal burn, Flame Within's burn is not cleared by rolling. Flame Within burn will last up to 30 seconds or until Flame Within is reused.
     -   Generally dangerous to use without Immolation's self damage reduction.
     -   7 seconds cooldown when the flames are cleared.
@@ -1359,10 +1357,10 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
     -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
 
--   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. (+5 Sanity)
-    -   Grant 15% extra damage when below 70% insanity.
+-   _Lose your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
+    -   Grant 15% extra damage when below 70% Insanity.
     -   Deepbound's Sanity gain from killing mobs in the Depths is reduced.
-    -   Prerequisite: 30 Strength, 30 Fortitude
+    -   Prerequisite: 30 Fortitude, 30 Strength
 
 -   _Piercing Will_ \[Rare Talent, Willpower\] - When your sanity is at stake gain +15% PEN on your attacks.
     -   The bonus PEN is applied starting from Tier 1 Insanity (33% sanity)
@@ -1765,7 +1763,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
 
 > _**"I am a self-starter."**_
 
--   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. (+4 Elemental Intensity)
+-   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier. (+4 Elemental Intensity)
     -   Prerequisite: 35 Thundercall, Static Withdraw
 
 -   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your Jumpstart physical damage is increased up to +20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.

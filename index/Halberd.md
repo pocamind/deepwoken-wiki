@@ -1,9 +1,9 @@
 ---
 title: Halberd
-revid: 92404
+revid: 94928
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Greataxes]
+categories: [Weapons, Greataxes]
 ---
 
 # Halberd
@@ -46,10 +46,6 @@ categories: [Weapons, Pages with broken file links, Greataxes]
 **Base:**
 
 **Alloyed:**
-
-File:Enchanted halbeard (chilled).png
-
-Enchanted halberd (Chilled)
 
 ## Description
 

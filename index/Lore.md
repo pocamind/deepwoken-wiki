@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 93978
+revid: 94952
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, World, Deepwoken]
@@ -29,7 +29,7 @@ This Page is for LORE only. If you want to see which Factions can be reputable o
 
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
-"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [The Duke](Duke_Ishamon_Erisia.md) and returning back to him before he promptly kills you.
+"_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [The Duke](Duke_Ishamon_Erisia.md) and returns back to him before he promptly kills you.
 
 _The Lord Regent, sitting atop his throne of coral._
 
