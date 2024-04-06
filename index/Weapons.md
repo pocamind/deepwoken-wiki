@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94800
+revid: 94872
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1601,7 +1601,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td>57.1(<b>Bleed</b>)</td>
 </tr>
 <tr>
-  <td><a href="https://deepwoken.fandom.com/wiki/Railblade"><font>Railblade</font></a></td>
+  <td><a href="Railblade.md">Railblade</a></td>
   <td>80 HVY, LVL 10</td>
   <td>22</td>
   <td>25%</td>
@@ -2187,7 +2187,7 @@ D P S \= W e a p o n D a m a g e × S w i n g s p e e d × 2 {\\displaystyle DPS
     -   Requirement: Hivelord's Hubris (100 HVY)
     -   Dual Requirement: Hivelord's Hubris (100 HVY, 60 STR)
     -   Penetration: Shattered Katana/First Light/Nemit's Sickle/Kyrsedge/Kystreza/Flareblood Kamas (30%)
-    -   Chip damage: Night Axe (60%)
+    -   Chip damage: Night Axe (80%)
     -   Scaling: Revolver, Divine Flintlock (15)
     -   Weight: Enforcer’s Hammer, Stoneheart (12)
     -   Range: Revolver, Divine Flintlock (12)

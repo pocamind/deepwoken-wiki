@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 94815
+revid: 94834
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links, Locations, Map]
@@ -79,7 +79,7 @@ _Trial Power and Power are two different things; See above as well as below tabl
 | 5-6 | Mudskipper Knight |
 | 7-9 | Lesser Angel |
 | 10-13 | [Megalodaunt](Megalodaunt.md) |
-| 14-16.66 | Chance for Corrupted [Megalodaunt](Megalodaunt.md) |
+| 14-16.66 | Corrupted [Megalodaunt](Megalodaunt.md) |
 | 16.66+ and 1 drown or [Deepbound](Origins.md) | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
 | Drowned 20+ Times, Vow of Thorns, or [Shrine of Courage](Shrine_of_Courage.md) Active | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](Thresher.md), or [Fury Nautilodaunt](Nautilodaunt.md) (All of these enemies can spawn in Corrupted) |
 

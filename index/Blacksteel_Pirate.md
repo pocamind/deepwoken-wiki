@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 94686
+revid: 94868
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ Template:EnemyInfobox1.0
 
 ## Description
 
-Blacksteel Pirates can be found in the [Etrean Sea](The_Etrean_Sea.md). They spawn in groups of 5 in the [Water Tower event](Random_Encounters.md). They can be encounter in Islands in group of fives or four depending on the island.
+Blacksteel Pirates can be found in [The Etrean Sea](The_Etrean_Sea.md). They spawn in groups of 5 in the [Water Tower event](Random_Encounters.md) and can be encountered on islands during Sea Events in groups of five or four depending on the island.
 
 They wear a [Darksteel Plate](Darksteel_Plate.md) and a dyed black [Knight's Helm](<Silver_Knight's_Helm.md>).
 

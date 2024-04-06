@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 92956
+revid: 94880
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons]
@@ -40,7 +40,7 @@ Gran Sudaruska comes with two passive abilities:
 
 ## Critical
 
-The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it, with added physical damage to mobs with elemental resistance like squibbos.
+The critical causes the user to spin the axe in the air, raining down ice shards and uppercutting anyone hit by it, with added physical damage to mobs with elemental resistance.
 
 ## Trivia
 
