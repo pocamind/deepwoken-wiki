@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 95027
+revid: 95061
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -15,6 +15,8 @@ A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 ## Description
 
 **Guns** are ranged weapons that are designed to shoot projectiles if the user has bullets in their inventory, they are able to add ranged capabilities as well as giving a +10% PEN bonus. Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), apart from the [Silversix](Silversix.md), which is an advanced starting weapon purchased with [echoes](Echoes.md) when creating a new character. Rifles are found only as drops from enemies. There are several different types of **guns** in game.
+
+For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to as "1H" for the rest of this article.
 
 Guns have their own talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related talents like [Outlaw](Talents.md) for pistols.
 
@@ -68,7 +70,7 @@ _**Stats:**_
 
 \- When alloyed, deals **2** extra damage, **0.02x** slower swing speed, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
 
-**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md))**
+**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md)).** Cannot be 1H wielded.
 
 ## Rifle Moveset (work in progress)
 
@@ -101,5 +103,5 @@ _**Stats:**_
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
     -   Need to test to see if they still get the 10% pen bonus.
-    -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In read life, this is impractical, as the rifle's springlock and other parts can easily be damaged.
+    -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In read life, this is impractical, as the rifle's springlock and other parts can be easily damaged upon impact.
     -   Both pistols and rifles in Deepwoken don't have recoil.

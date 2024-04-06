@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 93527
+revid: 95068
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Guilds, Locations]
@@ -16,7 +16,7 @@ Template:Areainfobox Guild Bases are a type of outpost that can be created by a 
 
 Entering the guild base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for Notes.
 
--   Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot.
+-   Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot. WARNING, hiring the treasurer will increase the prices of all the rooms, without the treasurer the 2nd room is 2100 notes, with them it is 4100 notes.
 
 Currently, there are **8** NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 

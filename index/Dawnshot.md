@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 94920
+revid: 95072
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress without reason, InProgressPages, Guns]
@@ -23,6 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
+| obtainment | First Layer, Minityrsa, Songseeker Wilds |
 
 | Dawnshot | |
 |---|---|

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 94830
+revid: 95034
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mantras, Attunement]
@@ -32,7 +32,7 @@ Like all other elements, users can see their Mantras become stronger with traini
 -   Finally, at Galebreathe 50, players receive the _Master Galebreather_ Talent. This finally allows Galebreathe users to unlock the last category, 3-star Mantras. This talent also grants +5 HP.
 
   
-The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained at the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using five [Gale Stones](Gale_Stone.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
+The [Attunement](Attunements.md) can be unlocked by using a [Skyblood potion](Attunement_Potions.md) obtained at the [Isle of Vigils](Isle_of_Vigils.md), just outside the [Temple of the Blade](Temple_of_the_Blade.md), using two [Gale Stones](Gale_Stone.md), and can upgrade spells for 100 Notes each. Each upgrade purchased will make the next upgrade for the same mantra 100 notes more expensive.
 
 -   To upgrade a Galebreathe Mantra from level 1 to level 2 costs.
 -   To upgrade a Galebreathe Mantra from level 2 to level 3 costs.

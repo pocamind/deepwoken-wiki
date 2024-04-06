@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 95023
+revid: 95046
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -240,7 +240,7 @@ _They do add new sound effects to threshers!_
 
 #### Traveling Merchant
 
-A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, and presumably more.
+A light-blue [Merchant Schooner](Travelling_Merchant.md) can spawn in the seas, selling random items in it's bottom deck. This can include books, cooked food, weapons, armor, Tools and very rarely Dye Packets.
 
 #### False Merchant Ship
 

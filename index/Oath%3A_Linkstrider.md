@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 94753
+revid: 95077
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -76,7 +76,7 @@ The only way to obtain each ability is to grip players with an Oath. However, th
     -   If linked to an enemy (signified by red cord), steal HP from the target in ticks. You can move while this is active, but not block, attack, nor cast. The amount of HP gained from the Leech is a proportion of the target's total HP.
         -   For example, Duke grants more HP than a Mindless Servant, since he has a significantly higher Health Pool.
         -   Parriable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
-        -   Blockable. While blocking may stop the damage, it will not stop the caster's healing.
+        -   Blockable. While blocking may stop the damage, it will not stop the caster's healing. Counts as damage towards weak block, making the target unable to block.
         -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
 
 ## Effects

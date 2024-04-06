@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 94885
+revid: 95048
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -26,7 +26,7 @@ The maximum amount of **Echoes** that a character can get (excluding rebargainin
 
 **Ranks** are granted to the character upon wiping, based on how much base echoes they have obtained (before multipliers)
 
-Ranks by themself do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list. The emerald name overrides Silver & Gold names from [Chime of Conflict](Chime_of_Conflict.md).
+Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in the case of W, an emerald name on the player list. The emerald name overrides Silver & Gold names from [Chime of Conflict](Chime_of_Conflict.md).
 
 S Rank is achievable by doing all echoes tasks (listed below).
 
@@ -63,7 +63,7 @@ Echoes are awarded depending on the number of Triumphs the character accomplishe
 -   Bargaining with [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) (such as rerolling your Resonance), awarding 2 Echoes. ([Idol of Yun'Shul](Relics.md) counts for this.)
 -   Unbounding an [Attribute](Attributes.md), awarding 5 Echoes.
 -   Obtaining an [Oath](Oaths.md), awarding 5 Echoes.
--   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Heroblade or Railblade, awarding 5 Echoes.
+-   Soul-bounding an [enchanted](Enchantments.md) item, or a legendary item like a Hero's Blade of Frost or Crypt Blade, awarding 5 Echoes.
 -   Using an [Enchant Stone](Enchant_Stone.md), awarding 5 Echoes.
 -   Obtaining an enchant from [Laplace](Laplace.md), awarding 5 Echoes.
 -   Using [Pluripotent Alloy](Pluripotent_Alloy.md), awarding 5 Echoes.
@@ -85,7 +85,7 @@ Video guide found [here](https://youtu.be/jrbJYWu5jUw)
 
 There are 12 upgrades to purchase, and each can be purchased a maximum of 2 to 5 times, depending on the upgrade. Purchasing the maximum level of all echo upgrades costs 1700 echoes.
 
-[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 60 echoes per item even if they're Soulbounded. This is not renewable.
+[Enchants](Enchantments.md) and [legendary weaponry](Weapons.md) can be passed down using the [Hippocampal Pool](Hippocampal_Pool.md) for 60 echoes per item even if they're Soulbound. This is not renewable.
 
 **Upgrades:**
 
@@ -298,7 +298,7 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 **(Power 10)** Thresher Scales - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of a Ganymede near the entrance of the [Widow's Hollow.](<Widow's_Hollow.md>)**_
 
--   You regenerate your armor at campfires.
+-   You regenerate your armour at campfires.
     -   Can be done at Power 20 for an extra deck of cards.
 
 **(Power 10)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters at Power 10. **Obtained by washing your face at least once at [Lightkeeper Temple.](Lightkeeper_Temple.md)**

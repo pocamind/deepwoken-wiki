@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 94946
+revid: 95050
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Items]
@@ -1554,7 +1554,7 @@ Greatswords are bigger than normal swords, possessing a large grip for the wield
   <td><a href="https://deepwoken.fandom.com/wiki/Kyrsieger"><font>Kyrsieger</font></a></td>
   <td>50 HVY, 15 CHA</td>
   <td>24</td>
-  <td>5%</td>
+  <td>15%</td>
   <td>10%</td>
   <td>HVY: 7, CHA: 2</td>
   <td>9</td>

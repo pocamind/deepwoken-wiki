@@ -1,6 +1,6 @@
 ---
 title: Rules
-revid: 93120
+revid: 95065
 source: https://deepwoken.fandom.com/wiki/Rules
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Browse, Deepwoken Wiki, Rules, Community]
@@ -35,7 +35,7 @@ A "[namespace](https://community.fandom.com/wiki/Help:Namespace)" is a division 
 1
 
  | 3 Days Namespace Block |
-| **Templates Misuse** | Using improperly templates across the Wiki. | 
+| **Templates Misuse** | Using templates improperly across the Wiki. | 
 
 2
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 94818
+revid: 95056
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Bosses]
@@ -138,11 +138,16 @@ Maestro Evengarde Rest is a rather straightforward fight compared to most other 
 -   [Crypt Blade](Crypt_Blade.md)
 -   [Imperial Staff](Imperial_Staff.md)
 -   [Curved Blade of Winds](Curved_Blade_of_Winds.md)
+-   [Wyrmtooth](Wyrmtooth.md)
 -   [Iron Blunderbuss](Iron_Blunderbuss.md)
 -   [Rosen's Peacemaker](<Rosen's_Peacemaker.md>)
 -   [Shattered Katana](Shattered_Katana.md)
 -   [Forgotten Gladius](Forgotten_Gladius.md)
 -   [Pale Morning](Pale_Morning.md)
+-   [Alloyed Katana](https://deepwoken.fandom.com/wiki/Katana?so=search#Alloyed)
+-   [Alloyed Dawnshot](https://deepwoken.fandom.com/wiki/Dawnshot?so=search#Alloyed)
+-   [Darksteel Greatsword](Darksteel_Greatsword.md)
+-   [The Path's Defender](<The_Path's_Defender.md>)
 
  | 
 

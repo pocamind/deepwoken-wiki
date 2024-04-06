@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 94942
+revid: 95062
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Weapons]
@@ -26,9 +26,9 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Dread Serpent |
+| obtainment | Maestro Evengarde Rest, Etris: Siege, The Diluvian Mechanism, Dread Serpent |
 | description | An exceptionally long and unwieldy blade of Etrean make. Useless in the hands of a novice, but lethal in the hands of one who can adapt to its unnatural centre of gravity. |
 
 ## Critical
 
-The critical is a powerful forward thrust. While sliding, it is instead a circular slash.
+The critical is a powerful forward thrust. While sliding, it is instead a circular slash. Preforming an M1 after using the sliding critical will cause the user to perform the standard critical immediately afterwards.

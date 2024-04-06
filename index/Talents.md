@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 94892
+revid: 95059
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -635,7 +635,7 @@ These Talents are designed to improve and/or reward your ability to roll out of 
     -   You can toggle spell shout visibility by typing '/e shout' into chat. This setting is per-slot. If you have spell shout visibility disabled, you won't see anyone's spell shouts
     -   **IMPORTANT:** Make sure to not use offensive names or slurs for your mantras. This can result in moderation action taken against you.
         -   Offensive includes mentions to Race, Gender, Sexual Preference and Religion.
-    -   Prerequisite: Obtaining the Talent from [Valkior](Valikor.md)
+    -   Prerequisite: Obtaining the Talent from [Valikor](Valikor.md)
 
 -   The Sound from Below \[Character Exclusive\] - You can hear it pounding in your head. The sound that comes from beneath the waves. Will you respond?
     -   Prerequisite: Power 2.
@@ -2121,7 +2121,7 @@ These Talents are meant to reap the reward of your latest hunt or trick your ene
 
 > _**"I electrocute my foes from afar."**_
 
--   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every perfect casted thundercall mantra builds a stack of jolt cast. At 3 stacks, your next lightning mantra will instantly cast.
+-   Jolt Cast \[Common Talent, Thundercall Exclusive\] - Every Perfect Casted Thundercall Mantra builds a stack of Jolt Cast. At 3 stacks, your next Lightning Mantra will take less time to cast. (+7 Carry Load, +2 Elemental Intensity)
     -   Requirement: 30 Thundercall, 30 Intelligence
 
 -   Rain of Static \[Common Talent, Thundercall Exclusive\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load, +2 Elemental Intensity)
