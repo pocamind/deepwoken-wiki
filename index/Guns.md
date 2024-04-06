@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 93340
+revid: 95027
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Weapons]
 
 File:A vesperian using guns.png
 
-A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
+A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 
 ## Description
 
@@ -18,7 +18,7 @@ A picture of a [Vesperian](Vesperian.md) using a [Flintlock](Flintlock.md).
 
 Guns have their own talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related talents like [Outlaw](Talents.md) for pistols.
 
-All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even if you dont have any. You won't be slowed down during the crit
+All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even if you dont have any. You won't be slowed down during the crit.
 
 ## Pistol Moveset
 
@@ -40,7 +40,7 @@ The amount of bullets you can load into a gun depends on the type you are using.
 
 Pistols have their own talent trees - [Outlaw](Talents.md#outlaw)
 
-The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance.)
+The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and it's alloyed variant, and the [Divine Flintlock](Crazy_Slots.md). (Only obtainable from the Crazy Slots resonance.)
 
 If you use a side gun without a main gun, your side gun damage is reduced by 20%.
 
@@ -56,23 +56,27 @@ Flintlock user using the Summer Gun technique
 
 _**Stats:**_
 
-**[Silversix](Silversix.md): 10,** damage, **10** range, 13 LHT scaling, **0.8x** attack speed, 75 echoes (1).(0 LHT req)
+**[Silversix](Silversix.md): 10,** damage, **10** range, 13 LHT scaling, **0.8x** attack speed, 75 echoes. (0 LHT req)
 
-**[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, **100** notes (1).(20 LHT req)
+**[Flintlock](Flintlock.md):** **11** damage, **8** range, 12 LHT scaling, **0.8x** attack speed, **100** notes. (20 LHT req)
 
-**[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes (1).(65 LHT req)
+**[Revolver](Repeater.md):** **13** damage, **12** range, 15 LHT scaling, **1.0x** attack speed, **200** notes. (65 LHT req)
 
-**[Dragoon](Dragoon.md):** **16** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes (1). (65 LHT req)
+**[Dragoon](Dragoon.md):** **16** damage, **12** range, 12 LHT scaling, **0.8x** attack speed, **500** notes. (65 LHT req)
 
-**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed (Requires the bell: [Crazy Slots](Crazy_Slots.md))
+**[Dawnshot](Dawnshot.md)**: **14** damage, **10.5** range, 12 LHT scaling, **0.8x** attack speed. Dropped by enemies. (40 LHT req)
 
-## Rifle Moveset (wip)
+\- When alloyed, deals **2** extra damage, **0.02x** slower swing speed, and requirement of 75 LHT. The Dawnshot is the only alloyable gun.
+
+**[(Crazy Slots) Divine Flintlock](Crazy_Slots.md):** **15** damage, **12** range, 15 LHT scaling, **1.3x** attack speed **(Requires the bell: [Crazy Slots](Crazy_Slots.md))**
+
+## Rifle Moveset (work in progress)
 
 Your rifle has a 5 hit combo. Your critical attack will fire a bullet, even if you don't have any. Rifles are limited to the 2 handed stance.
 
 ### Talents
 
-There are currently no talents excusive for rifles.
+There are currently no talents exclusive towards the rifle.
 
 The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), and the [Stormseye](Stormseye.md).
 
@@ -89,12 +93,13 @@ _**Stats:**_
 ## Trivia:
 
 -   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 Iron for 20 bullets.
-    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md) and
+    -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your guild base.
 -   Despite the [Rifle Spear's](Rifle_Spear.md) name, it is not considered a gun.
 -   The [Stormseye](Stormseye.md) is the only legendary gun in game. It is obtained by killing bosses.
--   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique skill.
--   The [Iron Blunderbuss](Iron_Blunderbuss.md) is the only gun that requires bullets
+-   The [Divine Flintlock](Crazy_Slots.md) is the only pistol to have a unique critical.
 -   One handed guns are the only type of guns where having bullets isn't a direct upgrade.
     -   Loading in bullets to one handed guns exchange posture dmg for 10% chip, 10% pen, and 15% increased damage.
 -   As of 3/8/2024 (m/d/y), rifles and dual pistols no longer shoot a bullet on their m1s.
     -   Need to test to see if they still get the 10% pen bonus.
+    -   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents. In read life, this is impractical, as the rifle's springlock and other parts can easily be damaged.
+    -   Both pistols and rifles in Deepwoken don't have recoil.

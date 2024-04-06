@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 94633
+revid: 95023
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, World, Mechanics]
@@ -47,9 +47,9 @@ A Bandit Camp in Erisia
 
 #### Bandit Camp
 
-A campfire, circled by three NPCs, consisting of two regular [bandits](Bandit.md) and one [Bandit Leader](Bandit_Leader.md). Loot from the chests after killing every bandit is mediocre. Occurs at Erisia.
+A campfire, circled by three NPCs, consisting of two regular [bandits](Bandit.md) and one [Bandit Leader](Bandit_Leader.md). Loot from the chests after killing every bandit is mediocre (as expected, for bandits are farmed by low levels). Occurs at Erisia.
 
-Bandits without a campfire
+Wandering bandits
 
 #### Bandit Ambush
 
@@ -57,7 +57,7 @@ While in Erisia, there is a chance that three bandits will fall from the sky and
 
 #### Thieves
 
-A group of three [thieves](Thief.md), recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug any downed non bandit or thief for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at Erisia.
+A group of three [thieves](Thief.md), recognizable by their black armor and the lack of campfire. They will always wield a dagger. In the event where the player is knocked in their presence, the bandits will mug any downed non bandit or thief for their 56 and saying "Score!" before disappearing into a puff of shadow, leaving the player alive. If the player were to complete this event, the players will be rewarded XP and a chest. Occurs at Erisia. They are the only non-faction hostile NPCs to spare the player intentionally.
 
 #### Knives of Eylis
 

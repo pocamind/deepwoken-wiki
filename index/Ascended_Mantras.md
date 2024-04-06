@@ -1,6 +1,6 @@
 ---
 title: Ascended Mantras
-revid: 73146
+revid: 95013
 source: https://deepwoken.fandom.com/wiki/Ascended_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]

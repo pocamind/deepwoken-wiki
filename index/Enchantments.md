@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 94787
+revid: 94958
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -15,7 +15,7 @@ categories: [Pages with broken file links, Mechanics, Weapons]
 Enchantments have a set chances to be applied to a weapon during the following scenarios. Note that some methods of obtainment are more effective/have higher probability for obtaining them.
 
 -   Any gear you find in chests or dropped by enemies have a small chance to be enchanted. (Except rings, neck and face slot gear, which cannot be enchanted.)
--   Talking to [Laplace](Laplace.md) and trading 3 enchants for a new random one on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
+-   Talking to [Laplace](Laplace.md) and trading 3 enchanted weapons for a new random enchant on your equipped [weapon](Weapons.md). Note that all Enchants added within the Layer 2 update and forwards are **not** rollable, such as Stormbreaker.
 -   Talking to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) allows you to turn 5 [Kyrsan Medallions](Kyrsan_Medallions.md) into a random equipment enchant. (You can roll the same enchant twice in a row)
 -   Using an [Enchant Stone](Enchant_Stone.md). (Found in L2, Galeswax and from Maestro's Lootpool.)
 -   Using the [Deepshore Fossil](Deepshore_Fossil.md) to get a desired Enchantment Stone.
@@ -31,9 +31,9 @@ Enchanted items cannot be dropped on death.
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 60 [Echoes](Echoes.md) per item.
 -   Enchanted items appear as light purple in your inventory.
--   Legendary weapons **cannot** be enchanted. Any enchanted legendary weapons that exist will have their enchant removed upon loading.
--   You can have four enchants equipped at the same time but one of them will not work.
--   You can get a fourth enchant on your scarf, face and ring slots back in Verse 1 when they were still obtainable. It is not unobtainable and having four enchants equipped will make one of the enchants not work
+-   Legendary weapons **cannot** be enchanted. As a failsafe, any enchanted legendary weapons that exist will have their enchant removed upon loading.
+-   You can have four enchants equipped at the same time, but one of them will not work.
+    -   This is because it's usually impossible. In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot, but has since changed.
 
 ## Variants
 
@@ -42,7 +42,7 @@ There are two variants that enchantments come in:
 -   **Blessing -** They have an effect with little to no downsides.
 -   **Curse -** They have an effect along with a downside with the severity depending on the upside.
 
-For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2lBYQ)
+_For a showcase of all enchants in action, view [this video.](https://youtu.be/Ydl4gd2lBYQ)_
 
 ## List of Enchantments
 
@@ -236,8 +236,9 @@ For a showcase of all enchants in action, click [here](https://youtu.be/Ydl4gd2l
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
   <font>Wild<div></div></font></center></td>
-  <td><div><p>On hit, deal 75% of the weapon damage in an AOE. Does not hit the victim or allies.<br>
-  M1s to allies deals 50% damage.</p></div></td>
+  <td><div><p>On proc, deal 75% of the weapon damage in an AoE. Does not hit the victim or allies.<br>
+  M1s to allies deals 50% damage.<br>
+  <i>Note: This only means the damage is distributed in an area. Does not cause the weapon to deal more damage than usual.</i></p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
 </tbody>
@@ -606,8 +607,6 @@ Confirmed to temporarily steal the enchant of the enemy on hit, allowing the use
 Static flaming purple.
 
  |
-
-  
 
 ## Changelogs
 

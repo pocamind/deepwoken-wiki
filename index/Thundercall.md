@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 94888
+revid: 95019
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -161,7 +161,6 @@ Thunder Kick
 -   Deals moderate damage.
 -   Guard Breaks at Level 5
 -   8 Second Cooldown.
--   Can set grass on fire, which procs agitating spark. (unsure if perfect cast is required)
 -   Can grant an additional effect with the "Volt Kick" Talent, which allows user to follow up the initial kick with a second less potent kick that teleports them to the target.
     -   Unlike the **Stormcaller Slash** Talent, this one requires the user to actually land the mantra, meaning the talent will not activate if being parried, blocked or dodged.
 

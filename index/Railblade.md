@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 94889
+revid: 95022
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -36,12 +36,12 @@ The Railblade is incompatible with Greatsword-specific Talents. Because of this,
 
 The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn. The flames created by the Railblade's critical become blue if the user has Azure Flames, and brown-black if the user has Wraith Path: Twisted Puppets.
 
-Both variants have a cooldown of nine seconds.
+Both variants have a cooldown of 9 seconds.
 
 ## Trivia
 
 -   The Railblade was originally a Legendary Weapon, but was demoted during the 4/5/2024 update.
--   It is one of five known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Shattered Katana](Shattered_Katana.md) And [Imperial Staff](Imperial_Staff.md).
+-   It is one of six known weapons to have multiple critical attacks, the others being [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Light's Final Toll](<Light's_Final_Toll.md>), [Shattered Katana](Shattered_Katana.md), [Imperial Staff](Imperial_Staff.md), and the [Wyrmtooth](Wyrmtooth.md).
 -   The description suggests that equipping the weapon reduces the rate at which parasites accumulate on the player.
     -   This remains unconfirmed and as of now is only for lore.
 -   This weapon was modelled by contributor oNoodlez.
