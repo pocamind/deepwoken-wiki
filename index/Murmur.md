@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 93847
+revid: 95102
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics]
@@ -37,7 +37,7 @@ Template:ImageCaption Infobox_"An application of the Song that enables one to ch
 
 By default, it drains a large amount of [ether](Ether.md) when used; however, at Power 19 the ether cost is low enough for your ether regen to overpower it, but it will still be slow. At Power 20, activation of the Murmur will be free and your ether regen won't be affected.
 
-This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour) and has been likened to Conqueror's Haki from the anime One Piece.
+This Murmur is expanded upon in the [lore](Lore.md#whispers-of-ardour) and has been likened to Busoshoku Haki from the anime One Piece.
 
 ### Ardour Scream
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 95035
+revid: 95103
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -308,7 +308,6 @@ _Strike the ground, turning it to ash._
  | _Lash out with flames._ | User gathers flames in their hand and spins it like a whip grabbing enemies around them, before slamming them into the ground.
 
 -   ” Oh, doughnuts! So delicious, doughnuts!”
-
 -   Grabs any enemies In range of it.
 -   Inflicts burn.
 -   Deals moderate-high damage.

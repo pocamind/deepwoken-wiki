@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 95022
+revid: 95100
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons]
@@ -36,7 +36,7 @@ The Railblade is incompatible with Greatsword-specific Talents. Because of this,
 
 The Railblade is unique because of its two different critical attacks, along with both criticals inflicting Burn. The grounded critical is a dash forward ending with a fiery spin, while the airborne critical is a downward slash also inflicting Burn. The flames created by the Railblade's critical become blue if the user has Azure Flames, and brown-black if the user has Wraith Path: Twisted Puppets.
 
-Both variants have a cooldown of 9 seconds.
+**Both variants have a cooldown of 9 seconds.**
 
 ## Trivia
 

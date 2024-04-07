@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 95098
+revid: 95101
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress without reason, InProgressPages, Guns]
@@ -48,4 +48,4 @@ notices:
 
 ## Trivia
 
--   The Dawnshot was the fastest weapon to ever receive compatibility with [Pluripotent Alloy](Pluripotent_Alloy.md), receiving it at the same time as it was released.
+-   The Dawnshot is the fastest weapon to receive compatibility with [Pluripotent Alloy](Pluripotent_Alloy.md), receiving it at the same time as it was released.
