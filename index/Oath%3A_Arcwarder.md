@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 94951
+revid: 95134
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,7 +32,7 @@ categories: [Oaths]
     -   Choose option 2 when you talk to him.
         -   Option 1 causes [Epsi](Epsi.md) to perish due to the parasites, he will always be outside of [Firfire Caverns](Firfire_Caverns.md) when you repeat [Floor 1](Second_Layer.md), so you may choose the right option until the questline is completed.
     -   Dying while the quest is active will not require the player to talk to him again.
--   Talk to Alpha again.
+-   Talk to Alpha again. (WARNING: You HAVE to return to Alpha for this quest, or else Delta will not give you Arcwarder.)
 -   20 Fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
 -   Return to surface and talk to Delta at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the oath, you must kill any [Layer 2](Second_Layer.md) boss.
 

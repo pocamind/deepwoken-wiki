@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 83787
+revid: 95133
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Authority Enemies]
@@ -25,8 +25,8 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md) along with the [Fla
 | Assault | Firmly thrusts spear at opponent and finishing the combo by kicking them. | ◯ | ◯ | (★☆☆) |
 | Critical | Pulls the trigger on the spear that fires a bullet at opponent. | ◯ | ✗ | (★★☆) |
 | Fire Blade | User slams down with their blade coated in flames. | ◯ | ✗ | (★★☆) |
-| Relentless Flame | Bear down on your foes with repeated fiery slashes. | ? | ? | (★★☆) |
-| Flame Grab | A fiery chokehold | ? | ? |  |
+| Relentless Flame | Bear down on your foes with repeated fiery slashes. | ◯ | ? | (★★☆) |
+| Flame Grab | A fiery chokehold | ◯ | ? | (★☆☆) |
 
 ### Boons
 
