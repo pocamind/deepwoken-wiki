@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 94772
+revid: 95130
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -188,7 +188,7 @@ Recognizable by their grey body, white eyes and astral enchant sword, the Star K
 
 -   **The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.**
 
- | ✗ | ◯\* | ◯ | (★★☆) |
+ | ✗ | ✗ | ◯ | (★★☆) |
 | 
 
 **Astral Rain**

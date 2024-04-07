@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 94746
+revid: 95132
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Layer 1]
@@ -22,7 +22,7 @@ You enter within the Diluvian Mechanism by conversing with the [Diluvian Mechani
 
 ### Mechanics
 
-Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, can also get knowledge(needs testing), every 5 waves you get a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
+Ending at 50 waves, every wave you face will grant you EXP. At the end of every 5 waves, you'll be granted rewards, bell EXP, a replenished health, blood, hunger, and thirst bar, can also get knowledge every 5 waves starting from 25-30 you get 1 knowledge, 35-45 you get 2 knowledge and on wave 50 you'll get 10 knowledge, every 5 waves you get a break until you pull the gear shift. To start and end a round, and leave midway, you would have to speak with the [Diluvian Mechanism](<Diluvian_Mechanism_(NPC).md>).
 
 Taking too long in a wave will automatically add the Timebomb modifier to the current wave. It is currently unknown how exactly this functions, but it appears that the more players you have, the faster timebombs will begin to appear.
 

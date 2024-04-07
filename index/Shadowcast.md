@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 95074
+revid: 95129
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -106,6 +106,7 @@ Shadow Eruption
  | Form a shockwave of darkness. | 50 Ether | The user makes a swipe with their right hand before releasing a large sphere of shadow. It hits twice and covers the opponent in shadow both times. It is blockable.
 
 -   Unaffected by Glass & Magnifying Stones.
+-   Although, Stratus Stones and Cloud Stones do increase the size of the eruption.
 
  |
 | 
