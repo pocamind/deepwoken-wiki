@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 95072
+revid: 95098
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, In progress without reason, InProgressPages, Guns]
@@ -23,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Minityrsa, Songseeker Wilds |
+| obtainment | First Layer, Minityrsa, Songseeker Wilds, Chaser, Scholar of the Burning Blood |
 
 | Dawnshot | |
 |---|---|
@@ -33,7 +33,7 @@ notices:
 | scaling | 12 |
 | range | 10.5 |
 | swing speed | 0.78x |
-| penetration | 10% |
+| penetration | 5% |
 | chip damage | 10% |
 | weight | 1 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 95059
+revid: 95092
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1465,6 +1465,7 @@ _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like 
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
+    -   Chain of Perfection isn't applied to every slot after unlock. You have to wipe to get it on another slot.
     -   Requirement: Power 2
 -   _Lootskipper_ \[Rare Talent\] - Mobs have a much higher chance to drop their rarest loot when slain. (+4 Carry Load)
     -   Increases the odds of the item with the lowest rate appearing.

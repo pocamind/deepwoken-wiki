@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 95067
+revid: 95091
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -12,16 +12,13 @@ categories: [Monsters, Bosses]
 
 ― Lumen’s Folklore: Volume ‘North’
 
-  
-_Commonly referred to by the community and developers as Kaido._
-
-Template:Creature Infobox V3
+_Commonly referred to by the community and developers as Kaido._Template:Creature Infobox V3
 
 ## Description
 
 A once normal steward seeking knowledge but now twisted into a mind of corruption, thus spawning a monstrous race of dragons, the **Dread Serpent** is a ginormous [Boss](Bosses.md) that appears in the [Voidsea](Voidsea.md) by chance or through usage of [Ardour Manifestation](Ardour_Manifestation.md). It appears as a long, gray sea serpent with dark spinal fins and four orange eyes. Utilizes the power of [Frostdraw](Frostdraw.md) to stop boats dead in their tracks.
 
-Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's gift.
+Though there are many seen today, the first Dread Serpent was born when a man, only known as The Mad Steward, ate the heart of an Elder Edenkite, instantly flooding his mind with every tragedy that ever occurred, filling him with dread and transforming him into the first Dread Serpent. The man in question possessed [Murmur: Ardour](Murmur.md), which is why killing one of the Dread Serpents results in obtaining it. Where the rest came from or why they all provide Ardour on death is unknown. A Dread Serpent is also responsible for the sinking of the Petra's Dawn, the first boat to cross the Voidsea without the help of a Lightkeeper's gift. The background information concerning the Dread Serpent is derived mainly from the lore book titled _[Lumen's Folklore: Volume 'North'.](Books.md)_
 
 ## Attacks
 
@@ -52,10 +49,10 @@ Each hit will ragdoll you and therefore getting hit by first swipe will guarante
 
 ## Trivia
 
--   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Mumur.
+-   Gives you a [Murmur](Murmur.md) when it is defeated. You must hit him once to obtain the Murmur, and it is not confirmed whether you need to do a certain amount of damage. If you are fighting it in a group, get a few hits in to be safe. It will not be granted if you already have a Murmur, although the orb still spawns and it still says it granted you the Murmur.
 -   The mantra 'Dread Breath' is a reference to the 'Dragon Breath' incantation from Elden Ring.
 -   Spawns in large patches of floating bubbles in the Voidsea.
--   It closely resembles serpent-style dragons from [Chinese folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
+-   It closely resembles serpent-style dragons from [Chinese Folklore](https://en.wikipedia.org/wiki/Chinese_dragon).
 -   Anyone can get the Murmur as long as you did enough damage, it doesn't matter how many people hit him, everyone will get the Murmur.
 -   You will only get hit if you are close to him, so keep your distance while behind him and be prepared to roll when he does a flip.
 -   Since the Dread Serpent is so rare, having multiple people will boost the spawn rate, making the process of finding him much easier.

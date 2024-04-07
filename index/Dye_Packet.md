@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 94813
+revid: 95080
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Pages with broken file links]
@@ -27,6 +27,7 @@ Silentheart veins dyed pink.
 -   Any visual [Oath](Oaths.md) change (Silentheart veins, Dawnwalker symbol, Arcwarder armor, etc.)
 -   Race Features (Markings, Horn Colors, etc..)
 -   [Vesperian](Vesperian.md) mask and face ink (You can pick the same 2 colors for a faceless effect).
+-   [Outfit](Outfits.md)
 
 ## Trivia
 

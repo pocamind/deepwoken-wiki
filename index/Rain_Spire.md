@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 90700
+revid: 95084
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -17,7 +17,7 @@ categories: [Relics]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Second Layer, Chaser, Scion of Ethiron, The Diluvian Mechanism, (~1%), Pure Astruline/Umbrite Turn-ins, Chime of Conflict, Fishing, Primadon, First Layer |
+| obtainment | Second Layer, Chaser, Scion of Ethiron, The Diluvian Mechanism, (~1%), Pure Astruline Turn-ins, Chime of Conflict, Fishing, Primadon, First Layer |
 | description | "Summon a temporary storm at your location." |
 
 ## Description

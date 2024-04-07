@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 90457
+revid: 95089
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -38,7 +38,7 @@ _"Observing. This conflict down below. There is a shadow war being waged. Yes, o
 
 1.  **\[End Dialogue\]**
 
--   He also says this after getting your Agilty Unbounded
+-   He also says this after getting your Agility Unbounded
 
 If you talk to him with 75 agility, he will say:
 
